@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531110830id_/https%3A//www.chalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalk.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607060157id_/https%3A//www.chalk.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Chalk.com
 
-At Chalk.com Education Inc., dba Chalk.com ("Chalk.com"), your right to privacy is very important to us. We provide you with the ability to create, share, edit, access, manage and print lesson plans, and track curriculum standards. In order to provide you with this service effectively, we collect certain specific information from you, and we also automatically collect information and data relating to the usage of our services by all our users, including you. Because we are committed to protecting your privacy rights and the information you provide to us, we have developed this privacy policy. It explains how we will protect your information and describes how we will use and share it. 
+At Chalk Education Inc., dba Chalk.com ("Chalk.com"), your right to privacy is very important to us. We provide you with the ability to create, share, edit, access, manage and print lesson plans, and track curriculum standards. In order to provide you with this service effectively, we collect certain specific information from you, and we also automatically collect information and data relating to the usage of our services by all our users, including you. Because we are committed to protecting your privacy rights and the information you provide to us, we have developed this privacy policy. It explains how we will protect your information and describes how we will use and share it. 
 
 This policy is concerned with the protection of your personal information only. Personal information includes any data that can be used to identify you as an individual, including your name, income, personal opinion, interests, home contact information, identification numbers, user IDs, passwords, ethnic origin, and age. Under Canadian law, in a business context, personal information does not include the name, job title, business address, or business telephone number of any employee in an organization. 
 
@@ -18,7 +18,7 @@ This privacy policy may change from time to time to reflect Chalk.com’s intern
 
 NOTE: Chalk.com’s software and services are not intended for children under the age of 13. We do not knowingly collect or maintain any personal information or non-personally-identifiable information from anyone under the age of 13 nor is any part of our website, software or service directed to children under the age of 13. We will close any accounts used exclusively by such children and will remove and/or delete any personal information we believe was submitted by or about any child under the age of 13. 
 
-## Collecting information
+### Collecting information
 
 In order to use the services provided by Chalk.com, you will be required to provide specific information about yourself, such as your name, address, telephone number and financial or credit card information. We will always inform you when we need information that personally identifies you, and we will keep this information in strict confidence. Additionally, you may, on occasion, voluntarily provide Chalk.com with information that can be classified as personal information – all such personal information will be stored and maintained in accordance with this privacy policy. 
 
@@ -45,7 +45,7 @@ Occasionally, Chalk.com will obtain information about you from third parties, su
 **Third party collection of your information**  
 Where other users post links to third party websites, please be aware that such third parties are not within Chalk.com’s control or responsibility, and your use or access to those sites may result in third parties collecting information from you. Third party products or services provided through third party websites or applications are not owned or controlled by Chalk.com, and are governed by the third party’s terms and conditions and/or privacy policy. You are encouraged to read the terms and other policies published by such third parties on their websites or otherwise. 
 
-## Sharing your personal information
+### Sharing your personal information
 
 Subject to any exceptions stated above in the collection of information section, should Chalk.com collect any of your personal information, we will follow these practices regarding the distribution of that information. 
 
@@ -80,7 +80,7 @@ Additionally, the nature of the services provided requires the routine use of yo
 
 
 
-## Maintaining your personal information
+### Maintaining your personal information
 
 Chalk.com has established the following practices regarding the maintenance of your personal information. 
 
@@ -100,7 +100,7 @@ If you do choose to opt out of communications respecting products and services p
 **You can request that your personal information be destroyed at any time**  
 A situation may arise where you desire to have all of your personal information that is contained in Chalk.com’s records deleted or destroyed. If this is what you wish, please contact our Privacy Officer, who will take care of removing your personal information from all of Chalk.com’s records. However, there may be situations where we are obligated to retain one archival copy of your information to allow us to comply with laws or respond to legal processes. We will inform you of all such situations, and will only use your retained personal information to the limited extent necessary to comply with such laws or respond to legal processes. 
 
-## Contacting our Privacy Officer
+### Contacting our Privacy Officer
 
 Chalk.com welcomes your comments about this privacy policy, and we would be happy to provide any additional information you require. Please contact our Privacy Officer at [support@chalk.com](mailto:support@chalk.com)
 
