@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 98online.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219200309id_/http%3A//www.98online.com/2016/06/07/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 98online.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607142401id_/http%3A//www.98online.com/2016/06/07/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 98 Rock Baltimore
 
