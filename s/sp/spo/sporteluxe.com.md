@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sporteluxe.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205232145id_/http%3A//www.sporteluxe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporteluxe.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607050851id_/http%3A//sporteluxe.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY - Sporteluxe Global
 
@@ -10,9 +10,31 @@ _Sporteluxe_ is committed to providing you with the best possible customer servi
 
 There are many aspects of the site which can be viewed without providing personal information, however, for access to future _Sporteluxe_ customer support features you are required to submit personally identifiable information. This may include but not limited to a unique username and password, or provide sensitive information in the recovery of your lost password.
 
+### Competitions and Special Offers
+
+Sporteluxe collects personal information from you when you participate in competitions and special offers. If this information is also being collected by a third party other than Sporteluxe, we will notify you at the same time. If you do not want any of your personal information shared, you should not participate in the competitions or special offers we conduct.
+
 ### Sharing of your personal information
 
 We may occasionally hire other companies to provide services on our behalf, including but not limited to handling customer support enquiries, processing transactions or customer freight shipping. Those companies will be permitted to obtain only the personal information they need to deliver the service. _Sporteluxe_ takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
+
+### Third Parties
+
+Some of the services and advertisements on Sporteluxe.com and within our mobile apps, are delivered or served by third-party companies, which may collect information about your use of the Sporteluxe site.
+
+These companies may place or recognise cookies, Web beacons or other technology to track certain non-personal information about our website users. For example, in the course of serving certain advertisements, an advertiser may place or recognise a unique cookie on your browser in order to collect certain information about your use of the Sporteluxe site. In many cases, this information could be used to show you ads on other websites based on your interests.
+
+We do not have access to, nor control over, these third parties’ use of cookies or other tracking technologies or how they may be used.
+
+We use google Doubleclick to serve advertising on our websites and in our apps. Google serves advertisements onto the Sporteluxe site, which use the Google Doubleclick cookie, and in some cases, a unique device identifier, to show you ads based on your visit to Sporteluxe.com and other sites on the Internet. You may opt out of the use of the Google Doubleclick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences).
+
+You have choices about the collection of information by third parties on the Sporteluxe website:
+
+1) If you would like more about your option not to accept advertiser cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+
+2) If you would like to opt-out of having interest-based ad targeting, [click here](http://www.aboutads.info/choices/).
+
+Your access to our Sporteluxe websites should not be affected if you do not accept cookies served by third parties.
 
 ### Use of your personal information
 
