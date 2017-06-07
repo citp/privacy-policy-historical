@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleekplay.com privacy policy that was archived on 2015-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150611211222id_/http%3A//www.gleekplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleekplay.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607130425id_/http%3A//www.gleekplay.com/privacy) for the most accurate reproduction.*
 
 # Gleekplay | Privacy Policy
 
