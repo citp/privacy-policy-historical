@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naptimeismytime.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103184605id_/http%3A//naptimeismytime.com/media/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naptimeismytime.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607030832id_/http%3A//naptimeismytime.com/media/disclosure) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policy | Nap Time is My Time
 
