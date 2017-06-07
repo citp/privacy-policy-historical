@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reneweconomy.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124142214id_/http%3A//reneweconomy.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneweconomy.com.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607140854id_/http%3A//reneweconomy.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Renew Economy
+# Privacy Policy : RenewEconomy
 
 This privacy policy applies to all personal information collected by us through the website, or through other interactions with you. In this privacy policy, the terms “we”, “us” and “ours” refers to Reneweconomy Pty Ltd and the Reneweconomy Trust. The term “Website” means the website located at [www.reneweconomy.com.au](http://www.reneweconomy.com.au/).
 
@@ -45,8 +45,3 @@ By using the website, you consent to the collection and use of this information 
 ## Changes to this policy
 
 If there is any change to our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-RenewEconomy Free Daily Newsletter
-
-  
-
