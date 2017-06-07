@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203062905id_/http%3A//www.comicrelief.com/privacy-policy%3Ftabs-0-row1_col1-0%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607142111id_/http%3A//www.comicrelief.com/privacy-policy%3Ftabs-0-row1_col1-0%3D) for the most accurate reproduction.*
 
 # Privacy Policy | Comic Relief
 
@@ -47,7 +47,7 @@ We use your information in a number of ways, such as:
 
 If you have provided us with your personal details to participate in our Red Nose Day or Sport Relief campaigns (for example, to set up a Giving Page, or to order from our shop), and you tell us you wish to participate in another campaign (for example, by entering an event for Sport Relief; setting up a fundraising page for Red Nose Day; or a Giving page, for either), we will use the personal details you provided to us on that previous occasion to save you having to give them to us again.
 
-We will not contact you for marketing purposes unless you have given your express consent. If you have consented to receive marketing, you may opt out at any time. Please see the ‘Unsubscribe’ section below for more information.
+We will not contact you for marketing purposes unless you have given your consent. If you have consented to receive marketing, you may opt out at any time. Please see the ‘Unsubscribe’ section below for more information.
 
 If you have consented to receive marketing, we may occasionally contact you to ask if you would be prepared to help us with our market research, although participation is purely voluntary.
 
