@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unconventionalguides.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224220038id_/http%3A//unconventionalguides.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unconventionalguides.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607052103id_/http%3A//unconventionalguides.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Unconventional Guides
 
