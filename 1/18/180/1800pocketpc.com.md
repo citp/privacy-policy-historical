@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800pocketpc.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216053948id_/http%3A//www.1800pocketpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800pocketpc.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607080333id_/http%3A//www.pocketandpc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,6 +82,3 @@ To accommodate changes in the Website, changing technology, and legal developmen
 If you have any comments, questions, or concerns about this Privacy Policy, the Website, or your personal information, please [contact us](http://www.1800pocketpc.com/contact-us/).
 
 Last updated: August 22, 2014
-
-  
- 
