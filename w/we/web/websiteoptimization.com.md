@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websiteoptimization.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123094212id_/http%3A//www.websiteoptimization.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteoptimization.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607230838id_/http%3A//www.websiteoptimization.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Web Site Optimization, LLC
 
