@@ -1,31 +1,57 @@
-> *The following text is extracted and transformed from the funpicplanet.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106125619id_/http%3A//www.funpicplanet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funpicplanet.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607070310id_/http%3A//funpicplanet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | funpicplanet.com
+# Privacy - Fun Pic Planet
 
-funpicplanet respects the privacy concerns of the users of its Internet Sites ("Sites"), and has created this privacy statement to explain what information we gather from your visit to our Sites, and how such information may be used. 
+**Privacy**
 
-**Use of Information**  
-As a general policy, no personally identifiable information, such as your name or address, is automatically collected from your visit to funpicplanet. However, certain non-personal information is recorded by the standard operation of funpicplanet's Internet servers. Information such as the type of browser being used, its operating system, and your IP address is gathered in order to enhance your online experience. For example, it may be used to tailor content and advertising to your interests.   
-In special cases, funpicplanet may disclose user information when there is reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference (either intentionally or unintentionally) with, funpicplanet's rights or property, other funpicplanet web site users, or anyone else that could be harmed by such activities. 
+This privacy policy sets out how Fun Pic Planet uses and protects any information that you give Fun Pic Planet when you use Fun Pic Planet. Fun Pic Planet is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Fun Pic Planet, then you can be assured that it will only be used in accordance with this privacy statement. Fun Pic Planet may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
-**Security for all personally**  
-identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, funpicplanet cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
+**What we collect  
+**We may collect the following information:
 
-**Use of Cookies**  
-Cookies are pieces of information that   
-a website transfers to an individual's computer hard drive for record keeping purposes. Cookies are used to track visits to our Sites and to personalize the Sites for new and current subscribers. Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. (Note: you will need to consult the help area of your browser application for instructions.) If you choose to disable your cookies setting or refuse to accept a cookie, some parts of funpicplanet's web sites may not function properly. 
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-**Use of IP Addresses**  
-An IP address is a number that's automatically assigned to your   
-computer by your Internet provider whenever you surf the Web. When you request pages from funpicplanet Sites, our servers log your IP address. funpicplanet collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our Site. We may use your IP addresses in cooperation with your Internet provider to identify you if we deem it necessary to enforce compliance with our Terms of Use or to protect our service, Sites, customers, or others. 
 
-**Links to Other Sites**  
-funpicplanet is not responsible for the content or practices of third party websites that may be linked to our Sites. Our Sites may link to websites operated by other companies; we are not responsible for the privacy practices of such websites. Visitors to these web sites should refer to each web site's respective privacy policies and practices. 
 
-**Third Party Cookies**  
-In the course of serving advertisements to our sites, our third-party advertisers may place or recognize a unique "cookie" on your browser.  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the Network Advertising Initiative or Self-Regulatory Program for Online Behavioral Advertising.   
-Google, as a third party vendor, uses cookies to serve ads on   
-our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.   
-BlueKai, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the BlueKai cookie by visiting the BlueKai Preference Manager.   
-Exelate, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Exelate cookie by visiting the Exelate Preference Manager. Brilig, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Brilig cookie by visiting the Brilig Preference Manager. 
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+
+
+
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+**Third-party online advertising**
+
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
+
+Please remember that Fun Pic Planet does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy.
+
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
+
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
