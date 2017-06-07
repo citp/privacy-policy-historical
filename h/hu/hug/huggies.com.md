@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607110816id_/https%3A//www.huggies.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607044452id_/https%3A//www.huggies.com/en-ca/privacy-policy) for the most accurate reproduction.*
 
 # Huggies® Privacy Policy
 
@@ -95,3 +95,6 @@ Neenah, WI 54957-2020
 
 **  
 ** We reserve the right to modify or amend this policy at any time by posting the revised privacy policy on our website. Material changes will only affect the information we collect after the effective date of the change to our privacy policy unless we clearly express otherwise.
+
+  
+
