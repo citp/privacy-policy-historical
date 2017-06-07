@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019033917id_/http%3A//climber.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climber.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608014717id_/http%3A//www.climber.com/privacy) for the most accurate reproduction.*
 
 # Climber.com - Connect to Recruiters, Career Social Networking, Career and Job Search
 
