@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vyoms.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225033605id_/http%3A//www.vyoms.com/about-us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vyoms.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607140730id_/http%3A//www.vyoms.com/about-us/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
