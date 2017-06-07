@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025002839id_/https%3A//www.mindtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtools.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607065730id_/https%3A//www.mindtools.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms and Conditions
+# Privacy Policy
 
 * * *
 
