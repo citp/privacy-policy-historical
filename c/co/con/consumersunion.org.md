@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208060801id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607094804id_/http%3A//consumersunion.org/about/advocacy-privacy-policy) for the most accurate reproduction.*
 
 # Advocacy Privacy Policy | Consumers Union
 
