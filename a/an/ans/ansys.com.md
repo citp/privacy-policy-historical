@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130174553id_/http%3A//www.ansys.com/Footer/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansys.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607185832id_/http%3A//www.ansys.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ANSYS
 
@@ -32,7 +32,7 @@ Top 
 
 The Site is owned and operated by ANSYS, Inc. ANSYS, Inc. is incorporated in Delaware, USA. We refer to ANSYS, Inc., together with its group companies, as “we”, “us” or “our” in this Privacy Policy.
 
-You can find details of all of our group companies by visiting [Contacts and Locations](https://web.archive.org/About-ANSYS/contacts-and-locations).
+You can find details of all of our group companies by visiting [Contacts and Locations](https://web.archive.org/en-IN/About-ANSYS/contacts-and-locations).
 
 Top
 
@@ -145,7 +145,7 @@ Top
 
 ## What are cookies, web beacons and clear GIFs and why do we use them?
 
-A "cookie" is a small file placed on your hard drive by some of our web pages. We or third parties under contract with us may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site. Our Site has a dedicated section on cookies which you can read here.
+A "cookie" is a small file placed on your hard drive by some of our web pages. We or third parties under contract with us may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site. 
 
 Even if you are only browsing the Site certain information (including computer and connection information, browser type and version, operating system and platform details and the time of accessing the Site) is automatically collected about you. This information will be collected every time you access the Site and it will be used for the purposes outlined in this Privacy Policy.
 
