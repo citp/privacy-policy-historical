@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prodigygame.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231020100id_/https%3A//prodigygame.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prodigygame.com privacy policy that was archived on 2017-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170607141551id_/https%3A//prodigygame.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html style="background-color: #f5f5f5;"><head>
 	<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
@@ -9,7 +9,7 @@
 <meta name="google-site-verification" content="ZGpq8HPfeC-lJfJ0tiG60N3N-WjlBr8vHKPzbTu7-p4">
 
 <meta name="description" content="Prodigy is a free math game for Grades 1 - 8 that kids absolutely love! Learn over 300 critical math skills in our self-paced math game."><meta property="title" content="Prodigy Math Game"><title>Prodigy Math Game</title>
-<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580384400000/499281.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
+<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580474700000/499281.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
     var fbds = document.createElement('script');
@@ -66,18 +66,17 @@ e.parentNode.insertBefore(n, e);
 		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
 
-	<link rel="stylesheet" type="text/css" href="/Includes/Styles/web.min.css?v=1483149661">
+	<link rel="stylesheet" type="text/css" href="/Includes/Styles/web.min.css?v=1496844921">
 	<!--[if IE 7]>
-		<link rel="stylesheet" type="text/css" href="/Includes/Styles/ie7.css">	
+		<link rel="stylesheet" type="text/css" href="/Includes/Styles/ie7.css">
 	<![endif]-->
 	<!--[if IE 8]>
-		<link rel="stylesheet" type="text/css" href="/Includes/Styles/ie8.css">	
+		<link rel="stylesheet" type="text/css" href="/Includes/Styles/ie8.css">
 	<![endif]-->
 
 	<script src="/assets/scripts/libraries/lodash.min.js"></script>
 	<script src="/Includes/Scripts/Libraries/jquery.min.js"></script>
-	<script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/E-v1.js" async=""></script>
-	
+
 
 	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -87,7 +86,7 @@ e.parentNode.insertBefore(n, e);
 		var prodigyWeb = {};
 
 		var session_user_id = false;var openRegisterOnLoad = false;
-		ga('create', 'UA-40390561-1', 'auto', {'allowLinker': true});
+		ga('create', 'UA-40390561-4', 'auto', {'allowLinker': true});
 	ga('require', 'linker');
 	ga('linker:autoLink', ['prodigygame.myshopify.com'] );
 	ga('send', 'pageview');
@@ -194,6 +193,81 @@ e.parentNode.insertBefore(n, e);
 	</div>
 </script>
 
+<script id="account-type-account-settings-section-template" type="text/x-handlebars-template">
+    <div class="card__wrapper">
+        <header class="card__header">
+            {{title}}
+        </header>
+
+        <main class="card__main account-type-settings__card-main">
+            <p class="account-type-settings__blurb">
+                {{#ifCond userType '===' 'parent'}}
+                    If you are a teacher or parent who homeschools, we have an alternative
+                    experience that might interest you! This experience adds tools and
+                    reports to support large classrooms of students.
+                {{/ifCond}}
+                {{#ifCond userType '===' 'teacher'}}
+                    If you are a parent, we have an alternative experience that
+                    might interest you! This experience is optimized to provide
+                    parents with reports and tools designed for managing individual kids.
+                {{/ifCond}}
+                <a href="https://prodigygame.zendesk.com/hc/en-us/articles/115001555666" class="js-learn-more" target="_blank">
+                    Learn More.
+                </a>
+            </p>
+
+            <div class="account-type-settings-options">
+                <div class="account-type-settings-options__option">
+                    <img src="/assets/images/svg/spot-illustrations/report-with-stars.svg" class="account-type-settings-options__option-image">
+                    <h5 class="account-type-settings-options__option-title"> Teacher Account </h5>
+                    <p class="account-type-settings-options__option-description">Best suited for parents who homeschool or are teachers.</p>
+                </div>
+                <div class="account-type-settings-options__or-sep">
+                    <div class="account-type-settings-options__or-sep-content">
+                        OR
+                    </div>
+                </div>
+                <div class="account-type-settings-options__option">
+                    <img src="/assets/images/svg/spot-illustrations/report-card.svg" class="account-type-settings-options__option-image">
+                    <h5 class="account-type-settings-options__option-title"> Parent Account </h5>
+                    <p class="account-type-settings-options__option-description">Best suited for parents to view their kid's progress!</p>
+                </div>
+            </div>
+        </main>
+
+        <footer class="card__footer">
+			<button type="button" class="btn btn--primary js-migrate">
+                {{#ifCond userType '===' 'parent'}}
+                    Become a Teacher
+                {{/ifCond}}
+                {{#ifCond userType '===' 'teacher'}}
+                    Become a Parent
+                {{/ifCond}}
+            </button>
+        </footer>
+    </div>
+</script>
+
+<script id="activate-child-template" type="text/x-handlebars-template">
+    <div class="activate-child__content">
+    	<p class="activate-child__text">
+            Have your kids visit:
+        </p>
+        <p class="activate-child__link">
+            <a href="/play" target="_blank">www.prodigygame.com/play</a>
+        </p>
+        <p class="activate-child__text">
+            Then, enter their login information:
+        </p>
+    </div>
+
+    <p>Username:</p>
+    <div class="activate-child__label">{{username}}</div>
+
+    <p>Password:</p>
+    <div class="activate-child__label">{{password}}</div>
+</script>
+
 <script id="activity-report-skill-detail-template" type="text/x-handlebars-template">
 	<div class="nested-list__item-row nested-list__item-row--responsive nested-list__item-row--skill-detail">
 
@@ -228,7 +302,6 @@ e.parentNode.insertBefore(n, e);
 				</ul>
 			</div>
 		</div>
-
 	</div>
 </script>
 
@@ -254,16 +327,29 @@ e.parentNode.insertBefore(n, e);
 </script>
 
 <script id="activity-report-skill-template" type="text/x-handlebars-template">
-	<div class="nested-list__item-row nested-list__item-row--expandable js-toggle-skill-detail">
-		<div class="activity-report__summary-breakdown">
-			<div class="activity-report__num-struggling {{strugglingStudentsOpacityClass}}">{{numStruggling}}</div>
-			<div class="activity-report__num-average {{averageStudentsOpacityClass}}">{{numAverage}}</div>
-			<div class="activity-report__num-good {{goodStudentsOpacityClass}}">{{numGood}}</div>
-		</div>
-		<div class="nested-list__item-column nested-list__item-column--toggle activity-report__title"><i class="fa fa-caret-right"></i></div>
-		<div class="nested-list__item-column activity-report__title">{{name}}</div>
-	</div>
-	<div class="js-togglable-area js-skill-detail" style="display:none;"></div>
+    {{#if isParentApp}}
+        <div class="nested-list__item-row">
+            <div class="{{activityReportSummaryClass}}">
+                {{activityReportSummaryPercentCorrect}}% <span class="activity-report__num-label">Answers Correct</span>
+            </div>
+            <div class="activity-report__title-wrapper">
+                <div class="activity-report__title">{{name}}</div>
+            </div>
+            <button class="js-show-sample-question activity-report__sample-question-btn hide-mobile"> Sample Question </button>
+        </div>
+    {{else}}
+	   <div class="nested-list__item-row nested-list__item-row--expandable js-toggle-skill-detail">
+    		<div class="activity-report__summary-breakdown">
+    			<div class="activity-report__num-struggling {{strugglingStudentsOpacityClass}}">{{numStruggling}}</div>
+    			<div class="activity-report__num-average {{averageStudentsOpacityClass}}">{{numAverage}}</div>
+    			<div class="activity-report__num-good {{goodStudentsOpacityClass}}">{{numGood}}</div>
+    		</div>
+
+            <div class="nested-list__item-column nested-list__item-column--toggle activity-report__title"><i class="fa fa-caret-right"></i></div>
+            <div class="nested-list__item-column activity-report__title">{{name}}</div>
+	   </div>
+	   <div class="js-togglable-area js-skill-detail" style="display:none;"></div>
+    {{/if}}
 </script>
 
 <script id="activity-report-template" type="text/x-handlebars-template">
@@ -272,7 +358,7 @@ e.parentNode.insertBefore(n, e);
 			{{title}}
 		</div>
 
-		<div class="date-range__container">
+		<div class="js-date-range__container activity-report__date-range-container">
 		</select>
 	</header>
 
@@ -286,7 +372,7 @@ e.parentNode.insertBefore(n, e);
 				<h5 class="text-center text-light">There weren't any questions answered this week!</h5>
 			</div>
 		{{/unless}}
-		
+
 	</main>
 </script>
 
@@ -428,6 +514,314 @@ e.parentNode.insertBefore(n, e);
 	{{/if}}
 	<label class="warning-text small text-normal text-lh-md">Errors on rows: <b>{{rowsWithErrors}}</b></label>
 </script>
+<script id="add-students-card-header-template" type="text/x-handlebars-template">
+	<header class="add-students-card__header">
+		<span class="add-students-card__title">Add Students</span>
+		<i class="js-dialog-close fa fa-times text-white add-students-card__close-icon"></i>
+	</header>
+</script>
+
+<script id="add-students-card-account-status-body-template" type="text/x-handlebars-template">
+	<main class="add-students-card__main">
+		<h4 class="add-students-card__subtitle">Do your students have Prodigy accounts?</h4>
+		<div class="js-option-0 add-students-card__option">
+			<i class="fa fa-link add-students-card__option-icon"></i>
+			<div class="add-students-card__option-right">
+				<div class="add-students-card__option-text">Yes, they already have accounts</div>
+				<div class="add-students-card__option-subtext">
+					If your students already play Prodigy, they can log in and connect to your classroom.
+				</div>
+			</div>
+		</div>
+		<div class="js-option-1 add-students-card__option">
+			<i class="fa fa-user-plus add-students-card__option-icon"></i>
+			<div class="add-students-card__option-right">
+				<div class="add-students-card__option-text">No, they need new accounts</div>
+				<div class="add-students-card__option-subtext">
+					If your students don't have accounts, they can make new ones or you can do it for them.
+				</div>
+			</div>
+		</div>
+	</main>
+</script>
+
+<script id="add-students-card-class-code-existing-accounts-template" type="text/x-handlebars-template">
+	<main class="add-students-card__main">
+		<h4 class="add-students-card__subtitle add-students-card__subtitle--less-bottom-margin">
+			Your class code is:
+			<span class="add-students-card__class-code">{{classCode}}</span>
+		</h4>
+		<div class="add-students-card__text">
+			Have your students sign in to their Prodigy account, select update on the start screen, and enter your class code.
+		</div>
+		<img src="/assets/images/svg/classcode-existing.svg" class="add-students-card__img">
+	</main>
+</script>
+
+<script id="add-students-card-print-instructions-template" type="text/x-handlebars-template">
+	<main class="add-students-card__main">
+		<h4 class="add-students-card__subtitle add-students-card__subtitle--less-bottom-margin">Printable instructions for students</h4>
+		<div class="add-students-card__text">
+			{{msg}}
+		</div>
+		<img src="/assets/images/students/thumbnail-code.png" class="add-students-card__img">
+		<button class="js-dialog-get-instructions add-students-card__download-pdf-btn">Download PDF</button>
+	</main>
+</script>
+
+<script id="add-students-card-invite-options-template" type="text/x-handlebars-template">
+	<main class="add-students-card__main">
+		<h4 class="add-students-card__subtitle">Who will create the new accounts?</h4>
+		<div class="js-option-0 add-students-card__option">
+			<i class="fa fa-magic add-students-card__option-icon"></i>
+			<div class="add-students-card__option-right">
+				<div class="add-students-card__option-text">My students will create their own accounts</div>
+				<div class="add-students-card__option-subtext">
+					Better suited for older students.
+				</div>
+			</div>
+		</div>
+		<div class="js-option-1 add-students-card__option">
+			<i class="fa fa-users add-students-card__option-icon"></i>
+			<div class="add-students-card__option-right">
+				<div class="add-students-card__option-text">I'll create accounts for my students</div>
+				<div class="add-students-card__option-subtext">Better suited for younger students.</div>
+			</div>
+		</div>
+	</main>
+</script>
+
+<script id="add-students-card-class-code-new-accounts-template" type="text/x-handlebars-template">
+	<main class="add-students-card__main">
+		<h4 class="add-students-card__subtitle add-students-card__subtitle--less-bottom-margin">
+			Your class code is:
+			<span class="add-students-card__class-code">{{classCode}}</span>
+		</h4>
+		<div class="add-students-card__text">
+			Have your students visit <strong>prodigygame.com/play</strong>, select new student, and enter your class code.
+		</div>
+		<img src="/assets/images/svg/classcode-new.svg" class="add-students-card__img">
+	</main>
+</script>
+
+<script id="add-students-card-create-accounts-template" type="text/x-handlebars-template">
+	<main class="add-students-card__main">
+		<h4 class="add-students-card__subtitle">Type in your students’ names</h4>
+		<div class="add-students-card__input-btn-group-container">
+			<div class="input-btn-group input-btn-group--hint">
+				<input class="js-add-student-input input-btn-group__input input-btn-group__input" placeholder="e.g. Stuart L" type="text">
+				<div class="input-btn-group__hint">
+					<div class="input-btn-group__hint-inner">Press enter to add</div>
+				</div>
+				<button class="js-add-student-btn input-btn-group__btn btn btn--blue">Add</button>
+			</div>
+			<ul class="js-student-errors add-students-card__errors add-students-card__errors--empty"></ul>
+			<div class="add-students-card__hint">Enter a first name and last initial.</div>
+		</div>
+		<ol class="js-students-list add-students-card__students"></ol>
+	</main>
+</script>
+
+<script id="add-students-card-account-info-template" type="text/x-handlebars-template">
+	<main class="add-students-card__main">
+		<h4 class="add-students-card__subtitle add-students-card__subtitle--less-bottom-margin">Download setup instructions</h4>
+		<div class="add-students-card__text">
+			We generated usernames and passwords for each student. Personalized instructions for each student are included in the PDF below.
+		</div>
+		<img src="/assets/images/students/thumbnail-manual.png" class="add-students-card__img">
+		<button class="js-dialog-download add-students-card__download-pdf-btn add-students-card__download-pdf-btn--active">Download PDF</button>
+	</main>
+</script>
+
+<script id="add-students-card-cancel-continue-footer-template" type="text/x-handlebars-template">
+	<div class="add-students-card__footer">
+		<button class="js-dialog-close add-students-card__footer-secondary-btn">Cancel</button>
+		<button class="js-dialog-continue add-students-card__footer-primary-btn add-students-card__footer-primary-btn--disabled">Continue</button>
+	</div>
+</script>
+
+<script id="add-students-card-back-continue-footer-template" type="text/x-handlebars-template">
+	<div class="add-students-card__footer">
+		<button class="js-dialog-back add-students-card__footer-secondary-btn">Back</button>
+		<button class="js-dialog-continue add-students-card__footer-primary-btn {{#if disableContinue}}add-students-card__footer-primary-btn--disabled{{/if}}">Continue</button>
+	</div>
+</script>
+
+<script id="add-students-card-back-finished-footer-template" type="text/x-handlebars-template">
+	<div class="add-students-card__footer">
+		<button class="js-dialog-back add-students-card__footer-secondary-btn">Back</button>
+		<button class="js-dialog-finish add-students-card__footer-primary-btn">Finished</button>
+	</div>
+</script>
+
+<script id="add-students-card-back-create-footer-template" type="text/x-handlebars-template">
+	<div class="add-students-card__footer">
+		<button class="js-dialog-back add-students-card__footer-secondary-btn">Back</button>
+		<button class="js-dialog-create add-students-card__footer-primary-btn {{#if disableContinue}}add-students-card__footer-primary-btn--disabled{{/if}}">Create Accounts</button>
+	</div>
+</script>
+
+<script id="add-students-card-finished-footer-template" type="text/x-handlebars-template">
+	<div class="add-students-card__footer">
+		<button class="js-dialog-finished add-students-card__footer-primary-btn {{#if disableFinished}}add-students-card__footer-primary-btn--disabled{{/if}}">Finished</button>
+	</div>
+</script>
+
+<script id="add-students-card-errors-template" type="text/x-handlebars-template">
+	{{#each errors}}
+		<li class="warning-text small text-normal text-lh-md">{{this}}</li>
+	{{/each}}
+</script>
+
+<script id="add-students-card-student-template" type="text/x-handlebars-template">
+	<div>{{fullname}}</div>
+	<i class="js-remove-student fa fa-times add-students-card__remove-student-icon"></i>
+</script>
+
+<script id="add-students-card-confirm-template" type="text/x-handlebars-template">
+	<header class="add-students-card__discard-header">
+		<h4 class="add-students-card__discard-title">Delete progress?</h4>
+	</header>
+	<div class="add-students-card__discard-body">
+		{{msg}}
+	</div>
+	<footer class="add-students-card__discard-footer">
+		<button class="js-dialog-cancel add-students-card__footer-secondary-btn">No, keep</button>
+		<button class="js-dialog-confirm add-students-card__footer-danger-btn">Delete</button>
+	</footer>
+</script>
+
+<script id="add-students-card-close-confirm-template" type="text/x-handlebars-template">
+	<header class="add-students-card__discard-header">
+		<h4 class="add-students-card__discard-title">Discard instructions?</h4>
+	</header>
+	<div class="add-students-card__discard-body">Are you sure you do not want to download student instructions?</div>
+	<footer class="add-students-card__discard-footer">
+		<button class="js-dialog-cancel add-students-card__footer-secondary-btn">No, keep</button>
+		<button class="js-dialog-confirm add-students-card__footer-danger-btn">Discard</button>
+	</footer>
+</script>
+<script id="admin-report-controls-template" type="text/x-handlebars-template">
+    <div id="admin-report-controls-container" class="report__controls admin-report-controls__container">
+        <span class="admin-report-controls-date-range__container js-date-range__container"></span>
+        <span class="admin-report-controls-dropdown__container">
+            <select class="report-controls__select js-date-range-type">
+                <option value="month" {{#if isMonthly}}selected{{/if}}>View By Month</option>
+                <option value="week" {{#if isWeekly}}selected{{/if}}>View By Week</option>
+            </select>
+        </span>
+        <span class="admin-report-controls-dropdown__container">
+            <select class="report-controls__select js-order-by">
+                <option value="activity" {{#if orderByActivity}}selected{{/if}}>Sort By Activity</option>
+                <option value="alphabetic" {{#if orderAlphabetically}}selected{{/if}}>Sort Alphabetically</option>
+            </select>
+        </span>
+        
+    </div>
+</script>
+
+<script id="admin-report-graph-template" type="text/x-handlebars-template">
+    <div id="admin-report-graph-container" class="admin-report-graph__container"></div>
+</script>
+
+<script id="admin-report-table-school-row-template" type="text/x-handlebars-template">
+    <div class="nested-list__item-row js-toggle-teacher-activity-list nested-list__item-row--expandable">
+        <div class="nested-list__item-column nested-list__item-column--toggle">
+            <i class="fa fa-caret-right"></i>
+        </div>
+
+        <div class="nested-list__item-column nested-list__item-column--day">{{school}}</div>
+        <div class="nested-list__item-column nested-list__item-column--total"><strong>{{questionsAnswered}}</strong></div>
+        <div class="nested-list__item-column nested-list__item-column--at-school">{{questionsAtSchool}}</div>
+        <div class="nested-list__item-column nested-list__item-column--at-home">{{questionsAtHome}}</div>
+    </div>
+    <div class="js-togglable-area js-teacher-list" style="display:none;"></div>
+</script>
+
+<script id="admin-report-table-teacher-row-template" type="text/x-handlebars-template">
+    <div class="nested-list__item-row">
+        <div class="nested-list__item-column nested-list__item-column--toggle"></div>
+        <div class="nested-list__item-column nested-list__item-column--name">{{name}}</div>
+        <div class="nested-list__item-column nested-list__item-column--total"><strong>{{questionsAnswered}}</strong></div>
+        <div class="nested-list__item-column nested-list__item-column--at-school">{{questionsAtSchool}}</div>
+        <div class="nested-list__item-column nested-list__item-column--at-home">{{questionsAtHome}}</div>
+    </div>
+</script>
+
+<script id="admin-report-table-template" type="text/x-handlebars-template">
+    <div class="report admin-report-table__container">
+        <div class="nested-list__row-header">
+            <div class="nested-list__item-column nested-list__item-column--spacer-5"></div>
+            <div class="nested-list__item-column nested-list__item-column--spacer-25"></div>
+            <div class="nested-list__item-column nested-list__item-column--header nested-list__item-column--header-total">TOTAL</div>
+            <div class="nested-list__item-column nested-list__item-column--header">AT SCHOOL</div>
+            <div class="nested-list__item-column nested-list__item-column--header">AT HOME</div>
+        </div>
+    </div>
+</script>
+
+<script id="admin-report-template" type="text/x-handlebars-template">
+    <div class="js-loading-icon css-spinner spinner-block"><img class="spinner" src="/assets/images/svg/tail-spin.svg" alt="Content is loading."></div>
+    <main class="report__container card__main js-report-container">
+        <div class="js-loader-container module-overlay--light gone"></div>
+        <div class="report__content js-report-content"></div>
+    </main>
+
+</script>
+
+<script id="admin-report-error-template" type="text/x-handlebars-template">
+    <div class="card__wrapper">
+        <main class="card__main row-md text-center">
+            <img class="text-center" src="/assets/images/ed/@1x/ed-fail@1x.png" />
+            <h4 class="text-center text-light">Something went wrong.</h5>
+            <h6 class="text-center text-light">Sorry, we can't get that information right now. Please try again later.</h6>
+
+            <button class="js-reload-student-report btn btn--blue"><i class="fa fa-repeat" aria-hidden="true"></i>&nbsp;&nbsp;Reload The Page</button>
+        </main>
+    </div>
+</script>
+
+<script id="align-prodigy-card-header-template" type="text/x-handlebars-template">
+    <div class="align-prodigy-header">
+        {{#if groupOne}}
+            Align Prodigy
+        {{/if}}
+        {{#if groupThree}}
+            Create Assignment
+        {{/if}}
+        <i class="js-dialog-close dialog__close-icon fa fa-times"></i>
+    </div>
+</script>
+
+<script id="align-prodigy-card-body-template" type="text/x-handlebars-template">
+    <div class="align-prodigy-card__main">
+        {{#if groupOne}}
+            <h4 class="align-prodigy-card__subtitle">How would you like to align your class?</h4>
+        {{/if}}
+        {{#if groupThree}}
+            <h4 class="align-prodigy-card__subtitle">What should your assignment cover??</h4>
+        {{/if}}
+
+        {{#each alignOptions}}
+            {{#if visible}}
+                <div class="js-align-option align-prodigy-card__option {{#if selected}}align-prodigy-card__option--active{{/if}}" data-id="{{id}}">
+                    <i class="fa {{icon}} align-prodigy-card__option-icon"></i>
+                    <div>
+                        <div class="align-prodigy-card__option-text">{{text}}</div>
+                        <div class="align-prodigy-card__option-subtext">{{subtext}}</div>
+                    </div>
+                </div>
+            {{/if}}
+        {{/each}}
+    </div>
+</script>
+
+<script id="align-prodigy-card-footer-template" type="text/x-handlebars-template">
+    <div>
+        <button class="js-align-prodigy-continue align-prodigy-card__footer-btn btn btn--blue}" {{#unless canContinue}}disabled{{/unless}}>Continue</button>
+    </div>
+</script>
+
 <script id="assign-membership-header-template" type="text/x-handlebars-template">
 	Assign Membership
 </script>
@@ -472,73 +866,89 @@ e.parentNode.insertBefore(n, e);
 
 <script id="assignment-form-template" type="text/x-handlebars-template">
 
-	<div class="assignment-form__field context">
-		<label>Skills</label>	
-		<div class="js-select-skills select-btn select-btn--blue">
-			<input readonly="" type="text" placeholder="Select skills..." 
-				{{#if skills}}
-					value="{{skills.name}}" title="{{skills.name}}"
-				{{else}}
-					title="Select the skills in this assignment."
-				{{/if}}
-			>
-			{{#if skills}}
-				<button>Edit</button>
-			{{else}}
-				<button>Select</button>
-			{{/if}}
-		</div>
-	</div>
+  <div class="assignment-form__field context">
+    <label>{{#if multipleSkillsEnabled}}Select Skills{{else}}Skills{{/if}}</label>
+    <div class="js-select-skills select-btn select-btn--blue">
+      {{#if multipleSkillsEnabled}}
+        <input readonly="" type="text"
+        placeholder="Select assignment details..."
+        {{#if name}}
+          value="{{name}}" title="{{name}}"
+        {{else}}
+          title="Select the skills in this assignment."
+        {{/if}}
+      >
+      {{else}}
+        <input readonly="" type="text"
+            placeholder="Select skills..."
+            {{#if skills}}
+            value="{{skills.name}}" title="{{skills.name}}"
+            {{else}}
+            title="Select the skills in this assignment."
+            {{/if}}
+        >
+      {{/if}}
 
-	<div class="assignment-form__field context">
-		<label>Students and Options</label>	
-		<div class="js-select-options select-btn select-btn--blue">
-			<input readonly="" type="text" placeholder="Select students..."
-				{{#if studentIDs}}
-					value="{{studentIDs.length}} {{pluralize studentIDs.length 'student'}} assigned" 
-					title="{{studentIDs.length}} {{pluralize studentIDs.length 'student'}} assigned"
-				{{else}}
-					 title="Select which students receive this assignment and options."
-				{{/if}}
-			>
-			{{#if studentIDs}}
-				<button>Edit</button>
-			{{else}}
-				<button>Select</button>
-			{{/if}}
-		</div>
-	</div>
+      {{#if skills}}
+        <button>Edit</button>
+      {{else}}
+        <button>Select</button>
+      {{/if}}
+    </div>
+  </div>
 
-	<div class="assignment-form__field context">
-		<label>Date range</label>		
-		<div class="js-date-range select-btn select-btn--blue">
-			<input readonly="" type="text" placeholder="Select a date range..." 
-			{{#if readableDateRange}}
-				title="Assignment is active {{readableDateRange}}." value="{{readableDateRange}}"
-			{{else}}
-				title="Select when the assignment takes place."
-			{{/if}}
-			>
-			{{#if endDate}}
-				<button>Edit</button>
-			{{else}}
-				<button>Select</button>
-			{{/if}}
-		</div>
-	</div>
+  {{#unless multipleSkillsEnabled}}
+    <div class="assignment-form__field context">
+        <label>Students and Options</label>
+        <div class="js-select-options select-btn select-btn--blue">
+        <input readonly="" type="text" placeholder="Select students..."
+            {{#if studentIDs}}
+            value="{{studentIDs.length}} {{pluralize studentIDs.length 'student'}} assigned"
+            title="{{studentIDs.length}} {{pluralize studentIDs.length 'student'}} assigned"
+            {{else}}
+            title="Select which students receive this assignment and options."
+            {{/if}}
+        >
+        {{#if studentIDs}}
+            <button>Edit</button>
+        {{else}}
+            <button>Select</button>
+        {{/if}}
+        </div>
+    </div>
+  {{/unless}}
 
-	<div class="assignment-form__btn-container">		
-		<button class="js-cancel-item-form assignment-form__btn btn btn--red">Cancel</button>
-	</div>
-	
-	<div class="assignment-form__btn-container">
-		{{#if isBeingEdited}}
-			<button class="js-save-assignment-edits assignment-form__btn btn btn--primary">Save</button>
-		{{else}}
-			<button class="js-create-assignment assignment-form__btn btn btn--primary context">Create</button>
-		{{/if}}
-	<div>
+  <div class="assignment-form__field context">
+    <label>Date range</label>
+    <div class="js-date-range select-btn select-btn--blue">
+      <input readonly="" type="text" placeholder="Select a date range..."
+      {{#if readableDateRange}}
+        title="Assignment is active {{readableDateRange}}." value="{{readableDateRange}}"
+      {{else}}
+        title="Select when the assignment takes place."
+      {{/if}}
+      >
+      {{#if endDate}}
+        <button>Edit</button>
+      {{else}}
+        <button>Select</button>
+      {{/if}}
+    </div>
+  </div>
+
+  <div class="assignment-form__btn-container">
+    <button class="js-cancel-item-form assignment-form__btn btn btn--red">Cancel</button>
+  </div>
+
+  <div class="assignment-form__btn-container">
+    {{#if isBeingEdited}}
+      <button class="js-save-assignment-edits assignment-form__btn btn btn--primary">Save</button>
+    {{else}}
+      <button class="js-create-assignment assignment-form__btn btn btn--primary context">Create</button>
+    {{/if}}
+  <div>
 </script>
+
 <script id="assignment-options-template" type="text/x-handlebars-template">
 	<label class="js-assignment-name-label assignment-options__label">Assignment Name</label>
 	<input class="js-assignment-name-input text-mb-md" type="text" name="name" value="{{name}}">
@@ -557,7 +967,7 @@ e.parentNode.insertBefore(n, e);
 			<label for="assignment-options-student-toggle" class="js-toggle-student-selection-label sw-checkbox-label assignment-options__student-checkbox"><i class="fa fa-check"></i></label>
 			<label for="assignment-options-student-toggle" class="assignment-options__label text-m-none">Students</label>
 		</header>
-		<main class="assignment-options__students-main">				
+		<main class="assignment-options__students-main">
 			{{#each students}}
 				<label class="assignment-options__label assignment-options__student-label">
 					<input id="assignment-options-student-{{userID}}" class="js-student-checkbox sw-checkbox" type="checkbox" value="{{userID}}">
@@ -566,21 +976,38 @@ e.parentNode.insertBefore(n, e);
 				</label>
 			{{/each}}
 		</main>
-	</div>	
-	{{else}}	
+	</div>
+	{{else}}
 		<div class="warning-text row-md">There are no students in this class! Visit the <a href="#students">students page</a> to find out how to add&nbsp;them.</div>
 	{{/if}}
 </script>
 <script id="calendar-template" type="text/x-handlebars-template">
+    <div class="alignment-notification js-alignment-notification gone">
+        <div class="alignment-notification__content-container">
+            <span class="alignment-notification__content--ed-phrase">Hey There!&nbsp;</span>
+            <span class="alignment-notification__content">Make an assignment to differentiate in-game math content and align Prodigy with what you’re teaching in class.</span>
+        </div>
+    </div>
 
-	<div class="js-calendar-nav calendar__navigation">
-		<div class="js-calendar-date-range date-range date-range--today">
-			<span class="date-range__dates date-range__dates--auto-width">{{firstDateMonthShort}} {{firstDateDay}} - {{lastDateMonthShort}} {{lastDateDay}}</span>
-			<button class="js-previous-week date-range__btn" aria-label="Previous week"><i class="fa fa-caret-left" aria-hidden="true"></i></button>
-			<button class="js-back-to-today date-range__btn">Today</button>
-			<button class="js-next-week date-range__btn" aria-label="Next week"><i class="fa fa-caret-right" aria-hidden="true"></i></button>
-		</div>
-	</div>
+    <div class="js-calendar-nav calendar__navigation">
+        {{#if inPlannerTest}}
+            <div class="calendar__btn-container">
+                {{#if groupOne}}
+                    <button class="calendar__btn btn btn--primary js-align-prodigy context overflow-v">Align Prodigy</button>
+                {{/if}}
+                {{#if groupThree}}
+                    <button class="calendar__btn btn btn--primary js-align-prodigy context overflow-v">Create Assignment</button>
+                {{/if}}
+                <button class="calendar__btn btn btn--white js-learn-more context overflow-v gone">Learn More</button>
+            </div>
+        {{/if}}
+        <div class="js-calendar-date-range date-range date-range--today">
+            <span class="date-range__dates date-range__dates--auto-width">{{firstDateMonthShort}} {{firstDateDay}} - {{lastDateMonthShort}} {{lastDateDay}}</span>
+            <button class="js-previous-week date-range__btn {{#if inPlannerTest}}calendar__btn{{/if}}" aria-label="Previous week"><i class="fa fa-caret-left" aria-hidden="true"></i></button>
+            <button class="js-back-to-today date-range__btn {{#if inPlannerTest}}calendar__btn{{/if}}">Today</button>
+            <button class="js-next-week date-range__btn {{#if inPlannerTest}}calendar__btn{{/if}}" aria-label="Next week"><i class="fa fa-caret-right" aria-hidden="true"></i></button>
+        </div>
+    </div>
 
 	<div class="js-calendar-wrapper calendar__table-wrapper">
 		<table class="js-calendar-inner calendar__table">
@@ -595,7 +1022,7 @@ e.parentNode.insertBefore(n, e);
 					<th class="calendar__day-heading">SAT</th>
 				</tr>
 			</thead>
-			<tbody class="js-calendar-body">	
+			<tbody class="js-calendar-body">
 			</tbody>
 		</table>
 	</div>
@@ -609,6 +1036,7 @@ e.parentNode.insertBefore(n, e);
 	</div>
 	<div class="calendar__day-events"></div>
 </script>
+
 <script id="calendar-item-template" type="text/x-handlebars-template">
 	<div class="calendar__day-item calendar__day-item--{{type}} calendar__day-item--{{segmentLength}} {{extraClasses}}" style="top: {{topPosition}};" sw-item-id="{{id}}" sw-item-type="{{type}}" sw-item-index="{{index}}">
 		<div class="calendar__day-item-inner">
@@ -649,9 +1077,17 @@ e.parentNode.insertBefore(n, e);
 	<div class="class-preview__inner">
 		<i class="js-edit-class-btn class-preview__edit-icon fa fa-cog"></i>
 		<h1 class="class-preview__name ellipsis">{{name}}</h1>
-		<p class="class-preview__students">{{studentsText}}</p>
-		<p class="class-preview__classcode">Class Code: {{classCode}}</p>
-		<button class="js-class-preview-manage btn btn--block btn--blue text-m-none">View class</button>
+        {{#unless parentApp}}
+            <p class="class-preview__students">{{studentsText}}</p>
+            <p class="class-preview__classcode">Class Code: {{classCode}}</p>
+            <button class="js-class-preview-manage btn btn--block btn--blue text-m-none">View class</button>
+        {{else}}
+            <p class="class-preview__grade">
+                {{grade}}
+                {{#if override}}<span class="class-preview__grade-override">Override</span>{{/if}}
+            </p>
+            <button class="js-class-preview-manage btn btn--block btn--blue text-m-none">View Progress</button>
+        {{/unless}}
 	</div>
 </script>
 <script id="class-select-template" type="text/x-handlebars-template">
@@ -679,13 +1115,13 @@ e.parentNode.insertBefore(n, e);
 		{{/each}}
 	</ul>
 </script>
-<script id="connect-parents-template" type="text/x-handlebars-template">	
+<script id="connect-parents-template" type="text/x-handlebars-template">
 	<div class="text-center">
 		<p>You've connected <span class="js-total-connected-students">{{totalConnectedStudents}}</span> out of {{totalStudents}} parents</p>
 		<div class="js-progress-bar-wrapper"></div>
 		<div class="row-md">
-			<a class="js-parent-letters btn-ghost btn-ghost--grey text-bold text-m-none" href="/actions/printParentLetters.php"><i class="fa fa-download" aria-hidden="true"></i> Get parent letters</a>	
-		</div>			
+			<a class="js-parent-letters btn-ghost btn-ghost--grey text-bold text-m-none" href="/actions/printParentLetters.php"><i class="fa fa-download" aria-hidden="true"></i> Get parent letters</a>
+		</div>
 	</div>
 	<ul class="connect-parents__student-list">
 		{{#each students}}
@@ -694,7 +1130,7 @@ e.parentNode.insertBefore(n, e);
 	</ul>
 </script>
 
-<script id="connect-parents-student-template" type="text/x-handlebars-template">	
+<script id="connect-parents-student-template" type="text/x-handlebars-template">
 	<div class="connect-parents__student-name ellipsis" title="{{this.name}}">{{this.name}}</div>
 	<div class="connect-parents__parent-email-container">
 		{{#if this.parentEmail}}
@@ -708,10 +1144,10 @@ e.parentNode.insertBefore(n, e);
 		{{else}}
 			<div class="input-btn-group">
 				<input sw-user-id="{{this.userID}}" class="js-invite-parent-input input-btn-group__input" placeholder="Enter parent email" type="text">
-				<button class="js-invite-parent input-btn-group__btn btn btn--blue">Invite</button>
+				<button class="js-invite-parent input-btn-group__btn input-btn-group__btn--35-percent-width btn btn--blue">Invite</button>
 			</div>
 		{{/if}}
-	</div>						
+	</div>
 </script>
 <script id="create-class-template" type="text/x-handlebars-template">
 
@@ -730,11 +1166,11 @@ e.parentNode.insertBefore(n, e);
 				</tr>
 				<tr class="form-table__input-row">
 					<td class="form-table__label-cell">
-						<label id="class-grade-label" class="form-table__label" for="class-grade-select">Grade</label>
+						<label id="class-grade-label" class="form-table__label" for="class-grade-select">{{locationLexicon "Grade"}}</label>
 					</td>
 					<td class="form-table__input-cell">
 						<select id="class-grade-select" class="form-table__select clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label">
-							<option value="" selected disabled hidden>Select a grade</option>
+							<option value="" selected disabled hidden>Select a {{locationLexicon "grade"}}</option>
 							{{#each curricula}}
 								<option value="{{curriculumID}}">{{name}}</option>
 							{{/each}}
@@ -755,9 +1191,9 @@ e.parentNode.insertBefore(n, e);
 		<label id="class-name-label" for="class-name">Class name</label>
 		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' autocomplete="off" sw-input sw-type="text" sw-label="#class-name-label" autocomplete="off">
 
-		<label id="class-grade-label" for="class-grade-select">Grade</label>
+		<label id="class-grade-label" for="class-grade-select">{{locationLexicon "Grade"}}</label>
 		<select id="class-grade-select" name="grade" sw-select sw-input sw-type="text" sw-label="#class-grade-label">
-			<option value="" selected disabled hidden>Select a grade</option>
+			<option value="" selected disabled hidden>Select a {{locationLexicon "grade"}}</option>
 			{{#each curricula}}
 				<option value="{{curriculumID}}">{{name}}</option>
 			{{/each}}
@@ -765,6 +1201,56 @@ e.parentNode.insertBefore(n, e);
 
 		<button class="btn btn--blue btn--block">Create classroom</button>
 	<form>
+</script>
+
+<script id="create-kid-template" type="text/x-handlebars-template">
+    <div class="toggle-btn-group row-sm row-collapse-t">
+        <button sw-method="existing-account" class="toggle-btn toggle-btn--blue toggle-btn--selected">Existing account</button>
+        <button sw-method="new-account" class="toggle-btn toggle-btn--blue">New account</button>
+    </div>
+
+    <div>
+        <form class="js-form-method js-existing-account-form" autocomplete="off">
+            <div>
+                <label for="username">Username</label>
+                <input id="username" name="username" type="text" autocomplete="off" sw-input sw-type="text" sw-label="[for='username']" autocomplete="off">
+
+                <label for="password">Password</label>
+                <input id="password" name="password" type="password" autocomplete="new-password" sw-input sw-type="password" sw-label="[for='password']">
+            </div>
+            <div class="row-sm row-collapse-b">
+                <button class="btn btn--blue btn--block text-m-none">Add my {{lexicon "student"}}</button>
+            </div>
+        </form>
+        <form class="js-form-method js-new-account-form gone" autocomplete="off">
+            <div>
+                <label for="first_name">First Name</label>
+                <input id="first_name" name="firstName" type="text" autocomplete="off" sw-input sw-type="text" sw-label="[for='first_name']" autocomplete="off">
+
+                <label for="last_name">Last Name</label>
+                <input id="last_name" name="lastName" type="text" autocomplete="off" sw-input sw-type="text" sw-label="[for='last_name']" autocomplete="off">
+
+                <label id="kid-grade-label" for="kid-grade-select">{{locationLexicon "Grade"}}</label>
+                <select id="kid-grade-select" name="grade" sw-input sw-type="text" sw-label="#kid-grade-label">
+                    <option value="" selected disabled hidden>Select your {{lexicon "student's"}} {{locationLexicon "grade"}}</option>
+                    {{#each curricula}}
+                        <option value="{{grade}}">{{name}}</option>
+                    {{/each}}
+                </select>
+            </div>
+            <div class="row-sm row-collapse-b">
+                <button class="btn btn--blue btn--block text-m-none">Add my {{lexicon "student"}}</button>
+            </div>
+        </form>
+    </div>
+</script>
+
+
+
+<script id="create-kid-login-info-template" type="text/x-handlebars-template">
+    <p>Have {{firstName}} visit <b>prodigygame.com/play</b> and login with the credentials below to begin learning and playing with Prodigy!</p>
+    <p class="text-mb-none">Username: <b>{{username}}</b></p>
+    <p>Password: <b>{{password}}</b></p>
 </script>
 
 <script id="curriculum-report-expectation-template" type="text/x-handlebars-template">
@@ -889,15 +1375,17 @@ e.parentNode.insertBefore(n, e);
 </script>
 
 <script id="curriculum-select-template" type="text/x-handlebars-template">
-	{{#if showLabel}}<label id="curriculum-select-label" for="curriculum-select">Curriculum</label>{{/if}}
-	<select id="curriculum-select" name="curriculum-select" class="icon-select js-curriculum-select" sw-select sw-input sw-type="text" sw-label="#curriculum-select-label" sw-error="Please select a curriculum.">
-		<option value="0" disabled selected hidden>Select a curriculum</option>
-		<option value="1" sw-select-option-url="/assets/images/svg/flag-prodigy.svg">Prodigy Math Curriculum (Default)</option>
-		<option value="1" sw-select-option-url="/assets/images/svg/flag-canada.svg">Ontario Math Curriculum</option>
-		<option value="2" sw-select-option-url="/assets/images/svg/flag-america.svg">Common Core State Standards</option>
-		<option value="3" sw-select-option-url="/assets/images/svg/flag-america.svg">MAFS (Florida)</option>
-		<option value="4" sw-select-option-url="/assets/images/svg/flag-america.svg">TEKS (Texas)</option>
-	</select>
+    {{#if showLabel}}<label id="curriculum-select-label" for="curriculum-select">Curriculum</label>{{/if}}
+    <select id="curriculum-select" name="curriculum-select" class="icon-select js-curriculum-select" sw-select sw-input sw-type="text" sw-label="#curriculum-select-label" sw-error="Please select a curriculum.">
+        <option value="0" disabled selected hidden>Select a curriculum</option>
+        <option value="1" sw-select-option-url="/assets/images/svg/flags/flag-prodigy.svg">Prodigy Math Curriculum (Default)</option>
+        <option value="1" sw-select-option-url="/assets/images/svg/flags/flag-canada.svg">Ontario Math Curriculum</option>
+        <option value="2" sw-select-option-url="/assets/images/svg/flags/flag-united-states.svg">Common Core State Standards</option>
+        <option value="3" sw-select-option-url="/assets/images/svg/flags/flag-united-states.svg">MAFS (Florida)</option>
+        <option value="4" sw-select-option-url="/assets/images/svg/flags/flag-united-states.svg">TEKS (Texas)</option>
+        <option value="6" sw-select-option-url="/assets/images/svg/flags/flag-united-kingdom.svg">National Curriculum (England)</option>
+        <option value="5" sw-select-option-url="/assets/images/svg/flags/flag-australia.svg">ACM (Australia)</option>
+    </select>
 </script>
 
 
@@ -905,9 +1393,11 @@ e.parentNode.insertBefore(n, e);
     {{#if showLabel}}<label id="curriculum-select-label" for="curriculum-select">Location</label>{{/if}}
     <select id="curriculum-select" name="curriculum-select" class="icon-select js-curriculum-select" sw-select sw-input sw-type="text" sw-label="#curriculum-select-label" sw-error="Please select a location.">
         <option value="0" disabled selected hidden>Select a location</option>
-        <option value="2" sw-select-option-url="/assets/images/svg/flag-america.svg">United States</option>
-        <option value="1" sw-select-option-url="/assets/images/svg/flag-canada.svg">Canada</option>
-        <option value="1" sw-select-option-url="/assets/images/svg/flag-prodigy.svg">Other</option>
+        <option value="2" sw-select-option-url="/assets/images/svg/flags/flag-united-states.svg">United States</option>
+        <option value="1" sw-select-option-url="/assets/images/svg/flags/flag-canada.svg">Canada</option>
+        <option value="6" sw-select-option-url="/assets/images/svg/flags/flag-united-kingdom.svg">United Kingdom</option>
+        <option value="5" sw-select-option-url="/assets/images/svg/flags/flag-australia.svg">Australia</option>
+        <option value="1" sw-select-option-url="/assets/images/svg/flags/flag-prodigy.svg">Other</option>
     </select>
 </script>
 
@@ -929,7 +1419,7 @@ e.parentNode.insertBefore(n, e);
 	<span class="js-date-range date-range__dates"> <i class="fa fa-calendar-o"></i> {{dateRangeText}}</span>
 
 	<span class="date-range__btn-group">
-		<button class="js-previous-range date-range__btn" aria-label="Previous week">
+		<button class="js-previous-range date-range__btn {{#if previousRangeDisabled}}btn--disabled{{/if}}" aria-label="Previous week">
 			<i class="fa fa-caret-left" aria-hidden="true"></i>
 		</button>
 
@@ -1015,6 +1505,33 @@ e.parentNode.insertBefore(n, e);
 		<div class="dialog__main">{{{main}}}</div>
 	</div>
 </script>
+
+<script id="card-dialog-template" type="text/x-handlebars-template">
+	<div class="dialog__wrapper">
+        <div class="card__wrapper">
+            {{#if title}}
+                <header class="card__header text-center">
+                    {{title}}
+                </header>
+            {{/if}}
+            <main class="card__main dialog__main">
+                {{{main}}}
+            </main>
+            {{#if buttons}}
+                <footer class="dialog__footer--card card__footer">
+                    {{#each buttons}}
+        				{{#if href}}
+        					<a class="js-dialog-button-{{@index}} {{className}}" href="{{href}}" {{#if target}}target={{target}}{{/if}}>{{text}}</a>
+        				{{else}}
+        					<button class="js-dialog-button-{{@index}} {{className}}">{{text}}</button>
+        				{{/if}}
+        			{{/each}}
+                </footer>
+            {{/if}}
+        </div>
+	</div>
+</script>
+
 <!-- These templates are deprecated, but may still be in use by older parts of the web app. -->
 <script id="simple-dialog-template" type="text/x-handlebars-template">
 	<div class="dialog__wrapper">
@@ -1115,18 +1632,35 @@ e.parentNode.insertBefore(n, e);
 		<div class="dialog__main">{{{main}}}</div>
 	</div>
 </script>
+<script id="dialog-wizard-footer-template" type="text/x-handlebars-template">
+    <div class="dialog-wizard__progress">Step {{currentStep}} of {{totalSteps}}</div>
+
+    <div class="dialog-wizard__buttons-container">
+        {{#unless isFirstStep}}
+            <button class="js-dialog-wizard-prev dialog-wizard__footer-btn btn-ghost btn-ghost--grey">Back</button>
+        {{/unless}}
+        <button class="js-dialog-wizard-next dialog-wizard__footer-btn btn btn--blue">Next</button>
+    </div>
+</script>
+
+<script id="dialog-wizard-header-template" type="text/x-handlebars-template">
+    {{title}}
+
+    <i class="js-dialog-close dialog__close-icon fa fa-times"></i>
+</script>
+
 <script id="edit-class-template" type="text/x-handlebars-template">
 	<form>
 		<label id="class-name-label" for="class-name">Change class name</label>
 		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' autocomplete="off" sw-input sw-type="text" sw-label="#class-name-label" sw-error="Class name should be at least 1 characters long." value="{{name}}">
 
-		<label id="class-grade-label" for="class-grade-select">Change grade</label>
-		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-error="Select a grade for your class.">
-			<option value="" selected disabled hidden>Select a grade</option>
+		<label id="class-grade-label" for="class-grade-select">Change {{locationLexicon "grade"}}</label>
+		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-error="Select a {{locationLexicon 'grade'}} for your class.">
+			<option value="" selected disabled hidden>Select a {{locationLexicon "grade"}}</option>
 			{{#each curricula}}
 				<option value="{{curriculumID}}">{{name}}</option>
 			{{/each}}
-		</select>	
+		</select>
 
 		{{#unless inDialog}}
 			<button class="btn btn--block btn--blue">Save changes</button>
@@ -1141,25 +1675,60 @@ e.parentNode.insertBefore(n, e);
 		<label id="class-name-label" for="class-name">Class name</label>
 		<input id="class-name" name="name" type="text" placeholder='e.g. "Homeroom"' autocomplete="off" sw-input sw-type="text" sw-label="#class-name-label" sw-error="Class name should be at least 1 characters long." value="{{name}}">
 
-		<label id="class-grade-label" for="class-grade-select">Grade</label>
-		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-error="Select a grade for your class.">
-			<option value="" selected disabled hidden>Select a grade</option>
+		<label id="class-grade-label" for="class-grade-select">{{locationLexicon "Grade"}}</label>
+		<select id="class-grade-select" class="clickable" name="grade" sw-input sw-type="text" sw-label="#class-grade-label" sw-error="Select a {{locationLexicon 'grade'}} for your class.">
+			<option value="" selected disabled hidden>Select a {{locationLexicon "grade"}}</option>
 			{{#each curricula}}
 				<option value="{{curriculumID}}">{{name}}</option>
 			{{/each}}
 		</select>
 	<form>
 </script>
+
+<script id="edit-kid-template" type="text/x-handlebars-template">
+	<form>
+
+        <div class="form-group--horizontal">
+            <label>Username</label>
+            <span>{{student.username}}</span>
+        </div>
+        <div class="form-group--horizontal">
+            <label>Password</label>
+            <span>{{student.password}}</span>
+        </div>
+
+		<label id="student-name-label" for="student-name">Name</label>
+		<input id="student-name" name="name" type="text" sw-input sw-type="name" sw-label="#student-name-label" sw-error="Name should be at least 2 characters long." value="{{name}}">
+
+		<label id="student-new-password-label" for="student-new-password">New password</label>
+		<input id="student-new-password" name="password" type="text" sw-input sw-type="password" sw-label="#student-new-password-label" sw-error="Password should be at least 4 characters long." sw-optional="true">
+
+        <label id="student-grade-override-label" for="student-grade-override">{{locationLexicon "Grade"}} override</label>
+        <select id="student-grade-override" name="student-grade-override">
+            <option value="">No Override</option>
+            {{#each curricula}}
+                <option {{#if selected}}selected{{/if}} value="{{curriculumID}}">{{locationLexicon "Grade"}} {{grade}}</option>
+            {{/each}}
+        </select>
+
+		{{#unless inDialog}}
+			<button class="btn btn--block btn--blue">Save changes</button>
+		{{/unless}}
+	<form>
+
+	<a class="js-remove-student-btn text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Remove account</a>
+</script>
+
 <script id="edit-student-template" type="text/x-handlebars-template">
 	<form>
 		<label id="student-name-label" for="student-name">{{student.singularCapPossesive}} name</label>
 		<input id="student-name" name="student-name" type="text" sw-input sw-type="name" sw-label="#student-name-label" sw-error="Name should be at least 2 characters long." value="{{fullname}}">
 
-		<label id="student-override-label" for="student-override">Grade override</label>
+		<label id="student-override-label" for="student-override">{{locationLexicon "Grade"}} override</label>
 		<select id="student-override" name="student-override">
 			<option value="">No Override</option>
 			{{#each curricula}}
-				<option value="{{curriculumID}}">Grade {{grade}}</option>
+				<option value="{{curriculumID}}">{{locationLexicon "Grade"}} {{grade}}</option>
 			{{/each}}
 		</select>
 
@@ -1173,6 +1742,7 @@ e.parentNode.insertBefore(n, e);
 
 	<a class="js-remove-student text-mb-none text-warning clickable"><i class="fa fa-trash"></i> Remove {{student.singular}} from class</a>
 </script>
+
 <script id="existing-user-modal-tooltip-template" type="text/x-handlebars-template">
 	<div class="tooltip__content">			
 		{{content}}
@@ -1184,6 +1754,44 @@ e.parentNode.insertBefore(n, e);
 		{{/if}}
 	</div>
 </script>
+<script id="filter-list-template" type="text/x-handlebars-template">
+    {{#if selectedOptionText}}
+        <div class="filter-list__search">
+            <input
+                type="text"
+                class="filter-list__search-input"
+                readonly="true"
+                value="{{selectedOptionText}}"
+            />
+            <i class="js-deselect-option filter-list__icon fa fa-times-circle clickable"></i>
+        </div>
+    {{else}}
+        <div class="filter-list__search">
+            <input
+                type="text"
+                class="js-filter-text filter-list__search-input"
+                placeholder="{{placeholder}}",
+                value="{{filterText}}"
+            />
+            <i class="filter-list__icon fa fa-search"></i>
+        </div>
+
+        <div class="js-filter-list-options"></div>
+    {{/if}}
+</script>
+
+<script id="filter-list-options-template" type="text/x-handlebars-template">
+    {{#if filteredOptions}}
+        <ul class="js-filtered-options filter-list__options">
+            {{#each filteredOptions}}
+                <li data-index={{index}} class="js-select-option filter-list__option">
+                    {{text}}
+                </li>
+            {{/each}}
+        </ul>
+    {{/if}}
+</script>
+
 <script id="game-base-template" type="text/x-handlebars-template">
 	<div id="game-maintenance-container"></div>
 	<div id="game-loading-container"></div>
@@ -1286,12 +1894,103 @@ e.parentNode.insertBefore(n, e);
 
 
 
+<script id="getting-started-chat-desktop-template" type="text/x-handlebars-template">
+	<div class="getting-started-chat-wrapper">
+		<header class="getting-started-chat__header">
+			<img src="/assets/images/icons/darien-face.png" class="getting-started-chat__profile-pic"></img>
+			<div class="getting-started-chat__profile-info">
+				<div><span class="getting-started-chat__profile-name">Darien</span> from Prodigy</div>
+				<div>Active 1h ago</div>
+			</div>
+			<i class="js-close-chat fa fa-times getting-started-chat__close-icon"></i>
+		</header>
+		<div class="js-chat-body getting-started-chat__body">
+			<div class="getting-started-chat__message--big">Hi there! 👋</div>
+			<div class="getting-started-chat__message">Let’s get you started with a quick video:</div>
+			<div class="getting-started-chat__video">
+				<div class="getting-started-chat__video-text">
+					GETTING STARTED
+				</div>
+				<div class="js-chat-video getting-started-chat__video-overlay">
+					<div class="getting-started-chat__play-icon-wrapper">
+						<i class="fa fa-play getting-started-chat__play-icon"></i>
+					</div>
+				</div>
+			</div>
+			<div class="getting-started-chat__message">
+				To understand Prodigy’s benefits and seamlessly deliver them to your students, check out our <a class="js-blog-link getting-started-chat__link" target="_blank" href="https://www.prodigygame.com/blog/how-to-introduce-your-class-to-prodigy/">guide for introducing Prodigy to your classroom.</a>
+			</div>
+			<div class="getting-started-chat__message">
+				Thanks for choosing Prodigy!<br>
+				— Darien Morris | Head of Support
+			</div>
+			<div class="getting-started-chat__message">
+				P.S. Any questions? <a class="js-support-link getting-started-chat__link" target="_blank" href="https://prodigygame.zendesk.com/hc/en-us">Contact support</a> and we’d be glad to help!
+			</div>
+		</div>
+	</div>
+</script>
+<script id="getting-started-chat-mobile-template" type="text/x-handlebars-template">
+	<div class="js-chat-video getting-started-chat-wrapper">
+		<header class="getting-started-chat__header">
+			<img src="/assets/images/icons/darien-face.png" class="getting-started-chat__profile-pic"></img>
+			<div class="getting-started-chat__profile-info">
+				Click here to watch a quick video about getting started!
+			</div>
+			<i class="js-close-chat fa fa-times getting-started-chat__close-icon"></i>
+		</header>
+	</div>
+</script>
+<script id="grade-mastery-widget-template" type="text/x-handlebars-template">
+    <div class="dash-widget__content-wrapper">
+        {{#each gradeMasteryData}}
+            <div class="grade-mastery-widget__item">
+                <div class="grade-mastery-widget__grade {{#if isCurrentGrade}}grade-mastery-widget__grade--current-grade{{/if}}">{{locationLexicon "Grade"}} {{grade}}</div>
+                <div
+                    class="js-grade-mastery-tooltip js-grade-mastery-item-{{grade}} grade-mastery-widget__progress"
+                    data-mastered="{{skillsMastered}}"
+                    data-total="{{totalSkills}}"
+                >
+                </div>
+            </div>
+        {{/each}}
+    </div>
+</script>
+
+<script id="grade-mastery-widget-tooltip-template" type="text/x-handlebars-template">
+    <div>
+        {{mastered}} / {{total}} Skills Mastered
+    </div>
+</script>
+
 <script id="intro-plan-template" type="text/x-handlebars-template">
 	<div class="js-topic-select-wrapper"></div>
 	<div class="row-md row-collapse-b">
 		<button class="js-save-intro-plan-btn btn btn--blue btn--block btn--disabled text-m-none">Align your class</button>
 	</div>	
 </script>
+<script id="location-filter-list-template" type="text/x-handlebars-template">
+    {{#if availableLocations}}
+        {{#if hasError}}
+
+            <label class="location-filter-list__error-text">Location</label>
+            <div class="js-filter-list"></div>
+
+            {{#if errorNotice}}
+                <p class="location-filter-list__notice location-filter-list__error-text">
+                    {{errorNotice}}
+                </p>
+            {{/if}}
+
+        {{else}}
+
+            <label>Location</label>
+            <div class="js-filter-list"></div>
+
+        {{/if}}
+    {{/if}}
+</script>
+
 <script id="location-select-base-template" type="text/x-handlebars-template">
 	<div id="location-select-search-container">
 		<div class="search-container">
@@ -1603,7 +2302,7 @@ e.parentNode.insertBefore(n, e);
 									<span class="memberships__item-status memberships__item-status--recurring">recurring</span>
 									{{/if}}
 								{{else}}
-								<span class="memberships__item-status memberships__item-status--free">free</span>
+								<span class="memberships__item-status memberships__item-status--non-recurring">non-recurring</span>
 								{{/if}}
 							{{/if}}
 						</div>
@@ -1651,12 +2350,81 @@ e.parentNode.insertBefore(n, e);
 				<img src="/assets/images/svg/happy-star.svg" alt="A cute little happy star!" />
 				<h3>Looks like you don’t have any memberships</h3>
 				<p>Being a Prodigy Member keeps students engaged, which means more math practice!</p>
-				<p><a href="/membership/" target="_blank">See why thousands of students are upgrading every day.</a></p>
-				<p><a href="/membership/" target="_blank" class="btn btn--blue">Purchase a Membership</a></p>
+				<p><a href="/Membership/" target="_blank">See why thousands of students are upgrading every day.</a></p>
+				<p><a href="/Membership/" target="_blank" class="btn btn--blue">Purchase a Membership</a></p>
 			</div>
 			{{/if}}
 		</main>
 	</div>
+</script>
+
+<script id="migration-dialog-template" type="text/x-handlebars-template">
+    <header class="card__header card__header--large card__header--blue">
+        A new experience for parents!
+    </header>
+
+    <main class="card__main migration-dialog__card-main">
+        <p class="migration-dialog__blurb">
+            We have a new and improved experience for you! Previously our tools were
+            built to support large classrooms of students, but we are now providing
+            parents with reports and tools designed for managing individual kids.
+        </p>
+
+        <p class="migration-dialog__learn-more-blurb">
+            Select the experience that best suits you!
+            <a href="https://prodigygame.zendesk.com/hc/en-us/articles/115001555666" class="js-learn-more" target="_blank">
+                Learn More.
+            </a>
+        </p>
+
+        <div class="migration-options">
+            <div class="js-select-teacher migration-options__option {{#ifCond selectedUserType '===' 'teacher'}} migration-options__option--selected {{/ifCond}}">
+                <img src="/assets/images/svg/spot-illustrations/report-with-stars.svg" class="migration-options__option-image">
+                <h5 class="migration-options__option-title"> Teacher Account </h5>
+                <p class="migration-options__option-description">Best suited for parents who homeschool or are teachers.</p>
+            </div>
+            <div class="migration-options__or-sep">
+                <div class="migration-options__or-sep-content">
+                    OR
+                </div>
+            </div>
+            <div class="js-select-parent migration-options__option {{#ifCond selectedUserType '===' 'parent'}} migration-options__option--selected {{/ifCond}}">
+                <img src="/assets/images/svg/spot-illustrations/report-card.svg" class="migration-options__option-image">
+                <h5 class="migration-options__option-title"> Parent Account </h5>
+                <p class="migration-options__option-description">Best suited for parents to view their kid's progress!</p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="card__footer clearfix">
+        <button type="button" class="js-confirm card__footer-btn btn btn--mariner pull-right" {{#unless selectedUserType}} disabled {{/unless}}>
+            Update my account
+        </button>
+    </footer>
+</script>
+
+<script id="migration-success-dialog-template" type="text/x-handlebars-template">
+    <header class="card__header card__header--large card__header--blue">
+        Success!
+    </header>
+
+    <main class="card__main migration-dialog-success__card-main">
+        <p class="migration-dialog-success__blurb">
+            You have successfully updated your experience to a <strong>{{capitalize userType}} Account!</strong>
+            If you realize that a teacher account is more suitable for you, simply visit
+            the accounts page to change.
+        </p>
+
+        <div class="migration-dialog-success__image-wrapper">
+            <img src="/assets/images/svg/spot-illustrations/check-mark.svg" class="migration-dialog-success__image">
+        </div>
+    </main>
+
+    <footer class="card__footer clearfix">
+        <button type="button" class="js-okay btn btn--mariner pull-right">
+            Okay
+        </button>
+    </footer>
 </script>
 
 <script id="modal-sequence-template" type="text/x-handlebars-template"></script>
@@ -1694,40 +2462,152 @@ e.parentNode.insertBefore(n, e);
 		<a class="js-open-create-class-dialog clickable">Create new class</a>
 	{{/unless}}
 </script>
+<script id="assignment-name-and-students-template" type="text/x-handlebars-template">
+    <div class="js-assignment-error assignment-name-students__error-message">
+        You must provide a valid name for this assignment.
+    </div>
+
+    <div class="assignment-name-students__content-label">Assignment name</div>
+    <input type="text" class="js-assignment-name assignment-name-students__assignment-name" value="{{assignmentName}}">
+
+    <div class="js-student-error assignment-name-students__error-message">
+        You must select at least one student to receive this assignment.
+    </div>
+
+    <div class="js-assignment-students assignment-name-students__students-container">
+        <div class="assignment-name-students__students-header">
+            <input type="checkbox" class="js-all-students-checkbox" {{#if allStudentsSelected}}checked{{/if}}>
+            <div class="assignment-name-students__check-box-label assignment-name-students__header-label">My Students</div>
+        </div>
+        <div class="assignment-name-students__students">
+            {{#each students}}
+            <div class="js-student-container assignment-name-students__student-container" data-student-id="{{id}}">
+                <input type="checkbox" class="js-student-checkbox" {{#if selected}}checked{{/if}}>
+                <div class="js-student-checkbox-label assignment-name-students__student-label">{{fullName}}</div>
+            </div>
+            {{/each}}
+        </div>
+    </div>
+</script>
+
+<script id="assignment-question-quantity-selection-template" type="text/x-handlebars-template">
+    <div class="js-error-message assignment-question-quantity__error-message" {{#unless tooManyQuestions}}style="display: none;"{{/unless}}>You’ve selected too many skills. The maximum number of questions is 50.
+    Please reduce questions or remove skills.</div>
+    <div class="assignment-question-quantity-selection__title">Selected skills</div>
+    <div class="js-assignment-questions-container assignment-question-quantity-selection__questions-container">
+        <!--All items are inserted here-->
+    </div>
+    <div class="assignment-question-quantity-selection__footer">
+        <span>Total Number of Questions: </span>
+        <span class="js-total-skills-count">{{questionCount}}</span>
+    </div>
+</script>
+
+<script id="assignment-skill-quantity-template" type="text/x-handlebars-template">
+    {{#if selected}}
+        <div class="assignment-skill-quantity__container">
+            <a class="js-remove-skill assignment-skill-quantity__remove">Remove</a>
+            <i class="js-remove-skill assignment-skill-quantity__remove--icon fa fa-trash"></i>
+            <span class="assignment-skill-quantity__skill-name">{{name}}</span>
+            <select class="js-skill-quantity-select assignment-skill-quantity__quantity-select">
+                <!--Render selection options here-->
+            </select>
+        </div>
+    {{/if}}
+</script>
+
+<script id="assignment-skill-selection-template" type="text/x-handlebars-template">
+    <div class="assignment-skill-selection__curriculum-section">
+        <div class="assignment-skill-selection__curriculum-option">
+            <div class="assignment-skill-selection__content-label">Location</div>
+            <select class="js-multiple-skill-assignment__location">
+            {{#if curricula}}
+                {{#each curricula}}
+                    <option value={{locationId}} {{#ifCond locationId '===' ../locationId}}selected{{/ifCond}}>{{name}}</option>
+                {{/each}}
+            {{else}}
+                <option selected>Loading...</option>
+            {{/if}}
+        </select>
+        </div>
+        <div class="assignment-skill-selection__curriculum-option">
+            <div class="assignment-skill-selection__content-label">{{locationLexicon "Grade" locationId}}</div>
+            <select class="js-multiple-skill-assignment__grade">
+            <option selected>Loading...</option>
+        </select>
+        </div>
+    </div>
+    <div class="js-skills-error assignment-skill-selection__error-message">
+        Please select skills for your assignment, when you have completed your skill selection use the next button to proceed.
+    </div>
+    <div class="assignment-skill-selection__content-label">Skills selection</div>
+    <div class="assignment-skill-selection--topics">
+        Loading topics...
+    </div>
+</script>
+
+<script id="assignment-topic-template" type="text/x-handlebars-template">
+    <div class="js-topic-header assignment-skill-selection__topic-header clickable {{#if model.skillsVisible}}assignment-skill-selection__topic-header--active{{/if}}">
+        <input type="checkbox" class="js-topic-checkbox assignment-skill-selection__checkbox"  {{#if model.allSkillsSelected}}checked{{/if}}/>
+        <div class="js-topic-name assignment-skill-selection__topic-name" title="{{model.topic}}">{{model.topic}}</div>
+        <i class="js-topic-expander-icon assignment-skill-selection__topic-expansion-indicator fa fa-caret-{{#if model.skillsVisible}}up{{else}}down{{/if}} clickable"></i>
+    </div>
+    {{#if model.skillsVisible}}
+        <div class="js-topic-skills assignment-skill-selection__skills">
+            {{#each skills}}
+                <div class="js-skill-container assignment-skill-selection__skill-container" data-skill-id="{{skillId}}">
+                    <input type="checkbox" class="js-skill-checkbox assignment-skill-selection__checkbox" {{#if selected}}checked{{/if}}/>
+                    <div class="js-skill-name assignment-skill-selection__skill-name clickable" title="{{name}}">{{name}}</div>
+                    <!--Sample question icon is appended here-->
+                </div>
+            {{/each}}
+        </div>
+    {{/if}}
+</script>
+
 <script id="nested-list-template" type="text/x-handlebars-template"></script>
 <script id="nested-list__item-template" type="text/x-handlebars-template"></script>
+<script id="news-template" type="text/x-handlebars-template">
+    {{#unless collection.length}}
+        <li class="notifications__no-notifications">You're all caught up!</li>
+    {{/unless}}
+    {{#each collection}}
+    <li class="notifications__item {{#if link}}notifications__item--clickable js-notification-learn-more{{/if}}"
+        data-id="{{id}}">
+        <div class="notifications__item-header">
+            <i class="fa fa-times js-dismiss-news-item notifications__close-item"></i>
+        </div>
+
+        <div class="notifications__item-content">
+            <div class="notifications__item-icon">
+                <i class="fa fa-{{ iconClass }}"></i>
+            </div>
+            <div class="notifications__item-main-content">
+                <div class="notifications__item-title">{{ title }}</div>
+                <div class="notifications__item-details">{{ details }}</div>
+                {{#if link}}
+                    <div class="notifications__item-learn-more"><a href="#">{{ linkText }}</a></div>
+                {{/if}}
+            </div>
+        </div>
+    </li>
+    {{/each}}
+</script>
+
 <script id="notifications-template" type="text/x-handlebars-template">
 	<i class="js-toggle-notifications notifications__icon fa fa-bell"></i>
 
 	{{#if numNewNotifications}}
-		<span class="js-toggle-notifications notifications__counter {{counterClass}}">{{notificationIconText}}</span>
+		<span class="js-toggle-notifications notifications__counter {{counterClass}}">{{numNewNotifications}}</span>
 	{{/if}}
 
 	{{#if isOpen}}
-		<div class="js-notifications-list notifications__container">
-			<div class="notifications__heading">
-				{{#if notifications}}Notifications{{else}}You have no notifications!{{/if}}
-			</div>
-			<ul class="notifications__items">
-				{{#each notifications}}
-					<li class="js-notification-item" data-index="{{@index}}">
-						<a class="{{readStatusClass}} {{eventClass}}" {{#if url}}href="{{url}}"{{/if}} target="{{target}}">
-							<i class="{{iconColorClass}} fa {{iconTypeClass}}"></i>
-
-							<div class="notifications__item-details">
-								<div class="notifications__item-description">
-									<strong>{{subjects}}</strong> {{{description}}} <strong>{{object}}</strong>
-								</div>
-								<div class="notifications__item-date"><i class="icon-inline--left fa fa-clock-o"></i> {{time}}</div>
-							</div>
-
-						</a>
-					</li>
-				{{/each}}
+		<div class="notifications__container">
+			<div class="notifications__heading">Notifications</div>
+			<ul class="js-notifications-list">
 			</ul>
 		</div>
 	{{/if}}
-
 </script>
 
 <script id="page-navigation-template" type="text/x-handlebars-template">
@@ -1741,9 +2621,9 @@ e.parentNode.insertBefore(n, e);
 </script>
 <script id="planner-calendar-form-template" type="text/x-handlebars-template">
 	<div class="plan-form">
-		
-		<div class="js-plan-topic-input-group plan-form__field context">	
-			<label>Topic</label>		
+
+		<div class="js-plan-topic-input-group plan-form__field context">
+			<label>Topic</label>
 			<div class="select-btn select-btn--blue context">
 				<input readonly class="js-planner-calendar-topic-input js-select-topic" type="text" placeholder="Select a topic..." {{#if topic}}value="{{topic.topicName}}" title="{{topic.topicName}}"{{/if}}>
 				<button class="js-select-topic">Select</button>
@@ -1756,9 +2636,9 @@ e.parentNode.insertBefore(n, e);
 				<input readonly disabled class="js-planner-calendar-topic-input plan-form__icon-input cursor-default" type="text" value="{{startDateReadable}}">
 				{{#if startDate}}
 					<i class="js-edit-start-date plan-form__edit-input-icon fa fa-times-circle"></i>
-				{{/if}}			
+				{{/if}}
 			</div>
-			
+
 		</div>
 
 		<div class="js-plan-end-date-input-group plan-form__field context">
@@ -1769,18 +2649,18 @@ e.parentNode.insertBefore(n, e);
 					<i class="js-edit-end-date plan-form__edit-input-icon fa fa-times-circle"></i>
 				{{/if}}
 			</div>
-			
+
 		</div>
 
 		{{#if isBeingEdited}}
-			<button class="plan-form__btn btn btn--red js-cancel-plan-btn">Cancel edit</button>				
+			<button class="plan-form__btn btn btn--red js-cancel-plan-btn">Cancel edit</button>
 		{{else}}
 			<button class="plan-form__btn btn btn--red js-cancel-plan-btn">Cancel</button>
-			
+
 		{{/if}}
 
 		{{#if isBeingEdited}}
-			<button class="plan-form__btn btn btn--primary js-create-plan-btn" {{#unless endDate}}disabled="true"{{/unless}}>Save edit</button>				
+			<button class="plan-form__btn btn btn--primary js-create-plan-btn" {{#unless endDate}}disabled="true"{{/unless}}>Save edit</button>
 		{{else}}
 			<button class="plan-form__btn btn btn--primary js-create-plan-btn" disabled="true">Create</button>
 		{{/if}}
@@ -1813,23 +2693,29 @@ e.parentNode.insertBefore(n, e);
 </script>
 
 <script id="planner-item-creation-buttons-template" type="text/x-handlebars-template">
-	<button id="planner-create-plan-btn" class="planner-calendar__item-btn btn btn--mariner btn--spacing-sm js-create-item context overflow-v" data-type="plan">Create plan</button>
-	<button id="planner-create-assignment-btn" class="planner-calendar__item-btn btn btn--wisteria js-create-item context overflow-v" data-type="assignment">Create assignment</button>
+    {{#unless inPlannerTest}}
+        <button id="planner-create-plan-btn" class="planner-calendar__item-btn btn btn--mariner btn--spacing-sm js-create-item context overflow-v" data-type="plan">Create plan</button>
+        <button id="planner-create-assignment-btn" class="planner-calendar__item-btn btn btn--wisteria js-create-item context overflow-v btn--spacing-sm" data-type="assignment">Create assignment</button>
+        {{#if isTeacher}}
+        <button id="planner-create-test-prep-btn" class="planner-calendar__item-btn btn btn--seafoam js-create-item js-create-test-prep context overflow-v" data-type="test-prep">Assign standardized test prep</button>
+        {{/if}}
+    {{/unless}}
 </script>
 
 <script id="planner-calendar-view-toggle-template" type="text/x-handlebars-template">
 	<div class="planner-calendar__view-toggle">
 		<input id="planner-view-calendar-radio" class="hidden-accessible" name="planner-view-radio" type="radio" value="calendar">
-		<label class="planner-calendar__view-toggle-label planner-calendar__view-toggle-label--first clickable" for="planner-view-calendar-radio">
+		<label class="planner-calendar__view-toggle-label planner-calendar__view-toggle-label--first {{#if inPlannerTest}}planner-calendar__view-toggle-label--tall{{/if}} clickable" for="planner-view-calendar-radio">
 			<i class="fa fa-calendar" aria-hidden="true"></i> Calendar
 		</label>
 
 		<input id="planner-view-list-radio" class="hidden-accessible" name="planner-view-radio" type="radio" value="list">
-		<label class="planner-calendar__view-toggle-label planner-calendar__view-toggle-label--last clickable" for="planner-view-list-radio">
+		<label class="planner-calendar__view-toggle-label planner-calendar__view-toggle-label--last {{#if inPlannerTest}}planner-calendar__view-toggle-label--tall{{/if}} clickable" for="planner-view-list-radio">
 			<i class="fa fa-list-ul" aria-hidden="true"></i> List
 		</label>
 	</div>
 </script>
+
 <script id="planner-item-list-template" type="text/x-handlebars-template">
 
 	{{#if items.length}}
@@ -1875,14 +2761,28 @@ e.parentNode.insertBefore(n, e);
 	{{else}}
 		{{#if lastLoadedTime}}
 			<div class="planner-item-list__empty">
-				<img src="/assets/images/svg/happy-create.svg" alt="">
-				<div class="planner-item-list__empty-heading">Create a plan or assignment</div>
-				<p class="planner-item-list__empty-text">Plans and assignments are great tools for aligning Prodigy with what you're teaching in class.</p>
-				<button class="btn btn--mariner btn--spacing-sm js-create-item" data-type="plan">Create plan</button>
-				<button class="btn btn--wisteria js-create-item" data-type="assignment">Create assignment</button>	
+                {{#if plannerGroupOne}}
+                    <img src="/assets/images/svg/happy-create.svg" alt="">
+                    <div class="planner-item-list__empty-heading">Looks like you don’t have a plan, assignment, or test prep</div>
+                    <p class="planner-item-list__empty-text">Fortunately, it’s super easy to align your class in minutes.</p>
+                    <button class="btn btn--primary btn--spacing-sm js-align-prodigy">Align Prodigy</button>
+                {{else}}
+                    {{#if plannerGroupThree}}
+                        <img src="/assets/images/svg/happy-create.svg" alt="">
+                        <div class="planner-item-list__empty-heading">Looks like you don’t have any assignments</div>
+                        <p class="planner-item-list__empty-text">Fortunately, it’s super easy to align your class in minutes.</p>
+                        <button class="btn btn--primary btn--spacing-sm js-align-prodigy">Create Assignment</button>
+                    {{else}}
+                        <img src="/assets/images/svg/happy-create.svg" alt="">
+                        <div class="planner-item-list__empty-heading">Create a plan or assignment</div>
+                        <p class="planner-item-list__empty-text">Plans and assignments are great tools for aligning Prodigy with what you're teaching in class.</p>
+                        <button class="btn btn--mariner btn--spacing-sm js-create-item" data-type="plan">Create plan</button>
+                        <button class="btn btn--wisteria js-create-item" data-type="assignment">Create assignment</button>
+                    {{/if}}
+                {{/if}}
 			</div>
 		{{else}}
-			<div class="row-md">				
+			<div class="row-md">
 				<div class="js-loading-icon css-spinner spinner-block"><img class="spinner" src="/assets/images/svg/tail-spin.svg" alt="Content is loading."></div>
 			</div>
 		{{/if}}
@@ -1895,6 +2795,7 @@ e.parentNode.insertBefore(n, e);
 		<li class="js-planne-item-list-delete planner-item-list__more-option-item clickable" aria-role="button">Delete</li>
 	</ul>
 </script>
+
 <script id="primary-navigation-template" type="text/x-handlebars-template">
 	<div class="primary-nav__inner">
 		<div class="primary-nav__col primary-nav__col--collapsed-menu">
@@ -1903,11 +2804,11 @@ e.parentNode.insertBefore(n, e);
 
 		{{#if breadcrumb}}
 			<div class="primary-nav__col primary-nav__col--breadcrumb">
-				<a class="primary-nav__breadcrumb" href="#classes"><i class="primary-nav__breadcrumb-arrow-icon fa fa-arrow-left" aria-hidden="true"></i> Classrooms</a>
+				<a class="primary-nav__breadcrumb" href="#{{breadcrumbConfig.href}}"><i class="primary-nav__breadcrumb-arrow-icon fa fa-arrow-left" aria-hidden="true"></i> {{breadcrumbConfig.text}}</a>
 			</div>
 		{{else}}
-			<div class="primary-nav__col primary-nav__col--logo">
-				<a href="/dashboard/#classes"><img class="primary-nav__logo" src="/assets/images/svg/logo/logo-white.svg" alt="Prodigy"></a>
+			<div class="primary-nav__col primary-nav__col--logo {{#if classSelect}}primary-nav__col--logo-sib-class-select{{/if}}">
+				<a {{#unless disableLogoNavigation}}href="/dashboard/#{{breadcrumbConfig.href}}"{{/unless}}><img class="primary-nav__logo" src="/assets/images/svg/logo/logo-white.svg" alt="Prodigy"></a>
 			</div>
 		{{/if}}
 
@@ -1917,12 +2818,12 @@ e.parentNode.insertBefore(n, e);
 			<ul class="primary-nav__menu">
 				{{#if account}}
 					<li class="primary-nav__menu-item primary-nav__menu-item--account">
-						<div class="js-account-menu-container primary-nav__account"></div>						
-					</li>							
+						<div class="js-account-menu-container primary-nav__account"></div>
+					</li>
 				{{/if}}
 
 				{{#if notifications}}
-					<li class="primary-nav__menu-item primary-nav__menu-item--notifcations"><div class="js-notifications-container"></div></li>	
+					<li class="primary-nav__menu-item primary-nav__menu-item--notifcations"><div class="js-notifications-container"></div></li>
 				{{/if}}
 
 				{{#if help}}
@@ -1934,6 +2835,7 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	</div>
 </script>
+
 <script id="progress-bar-default-template" type="text/x-handlebars-template">
 	{{#each segments}}
 		<div
@@ -2314,7 +3216,7 @@ e.parentNode.insertBefore(n, e);
 		<div class='row-container js-container'></div>
 	</section>
 </script>
-<script id="register-form-template" type="text/x-handlebars-template">	
+<script id="register-form-template" type="text/x-handlebars-template">
 	<input type="hidden" name="method" value="register">
 
 	<div class="row-xs row-collapse-t radio-ghost-group radio-ghost-group--3">
@@ -2358,13 +3260,6 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	</div>
 </script>
-
-
-
-
-
-
-
 
 <script id="register-form-dialog-template" type="text/x-handlebars-template">
 	<input type="hidden" name="method" value="register">
@@ -2416,12 +3311,10 @@ e.parentNode.insertBefore(n, e);
 						<input id="register-password" class="form-table__input" name="password" type="password" sw-input sw-type="password" sw-label="#register-password-label" sw-error="Password needs to be at least 4 characters long.">
 					</td>
 				</tr>
-			</table>	
+			</table>
 		</div>
 
-		
-
-		<div class="row-xs text-center"> 
+		<div class="row-xs text-center">
 			<label id="marketing-consent-label" class="label--small " for="marketing-consent"><input id="marketing-consent" name="marketingConsent" value="true" type="checkbox"> Receive emails about Prodigy news and promotions</label>
 			<label class="label--small"><input checked="checked" disabled="true" type="checkbox"> By registering, you agree to the <a class="text-static" href="/terms-conditions/" target="_blank">Terms of Service</a> and <a class="text-static" href="/privacy-policy/" target="_blank">Privacy Policy</a></label>
 		</div>
@@ -2437,23 +3330,9 @@ e.parentNode.insertBefore(n, e);
 	</div>
 
 	<div class="register-form__existing-account-container text-center">
-		<p class="text-m-none">Already have an account? <a id="dialog-sign-in-link" class="js-login-link text-bold" href="#">Sign&nbsp;In</a></p>		
+		<p class="text-m-none">Already have an account? <a id="dialog-sign-in-link" class="js-login-link text-bold" href="#">Sign&nbsp;In</a></p>
 	</div>
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- Does NOT include a submit button because the dialog is expected to supply it. -->
 <script id="OLD-register-form-dialog-template" type="text/x-handlebars-template">
@@ -2609,44 +3488,59 @@ e.parentNode.insertBefore(n, e);
 	</ul>				
 </script>
 <script id="skill-group-collection-template" type="text/x-handlebars-template">
-	<div class="skill-group-collection__input-container">
-		<div class="skill-group-collection__select-group">
-			<label>Curriculum</label>
-			<select class="js-skill-group-curriculum-select skill-group-collection__select">
-				<option selected>Loading...</option>
-			</select>			
-		</div>
-		<div class="skill-group-collection__select-group skill-group-collection__select-group--2">			
-			<label>Grade</label>
-			<select class="js-skill-group-grade-select skill-group-collection__select">
-				<option selected>Loading...</option>
-			</select>	
-		</div>
-	</div>	
+    <div class="skill-group-collection__input-container">
+        <div class="skill-group-collection__select-group">
+            <label>Curriculum</label>
+            <select class="js-skill-group-curriculum-select skill-group-collection__select">
+                {{#if curricula}}
+                    {{#each curricula}}
+                        <option value={{locationId}} {{#ifCond locationId '===' ../locationId}}selected{{/ifCond}}>{{name}}</option>
+                    {{/each}}
+                {{else}}
+                    <option selected>Loading...</option>
+                {{/if}}
+            </select>
+        </div>
+        <div class="skill-group-collection__select-group skill-group-collection__select-group--2 js-skill-group-collection-grade-select">
+        </div>
+    </div>
 
-	<hr>
+    <hr>
 
-	<div class="js-skill-group-loading-container"></div>
+    <div class="js-skill-group-loading-container"></div>
 
-	<form class="js-skill-groups-container skill-group-collection__container">
-		<div class="js-skill-groups-col-1 skill-group-collection__col"></div>
-		<div class="js-skill-groups-col-2 skill-group-collection__col"></div>
-		<div class="js-skill-groups-col-3 skill-group-collection__col"></div>
-	</form>
+    <form class="js-skill-groups-container skill-group-collection__container">
+        <div class="js-skill-groups-col-1 skill-group-collection__col"></div>
+        <div class="js-skill-groups-col-2 skill-group-collection__col"></div>
+        <div class="js-skill-groups-col-3 skill-group-collection__col"></div>
+    </form>
+</script>
+
+<script id="skill-group-collection-grade-select-template" type="text/x-handlebars-template">
+    <label>{{locationLexicon "Grade" locationId}}</label>
+    <select class="js-skill-group-grade-select skill-group-collection__select">
+        <option selected>Loading...</option>
+    </select>
 </script>
 
 <script id="skill-group-collection-error-template" type="text/x-handlebars-template">
-	<div class="text-center">
-		There was a problem loading our skills. You can try to load them again or attempt to refresh the page.
-	</div>
-	
-	<div class="row-md">
-		<button class="js-reload-skills btn btn--md btn--center">Try Again</button>
-	</div>
+    <div class="text-center">
+        There was a problem loading our skills. You can try to load them again or attempt to refresh the page.
+    </div>
+
+    <div class="row-md">
+        <button class="js-reload-skills btn btn--md btn--center">Try Again</button>
+    </div>
 </script>
+
 
 <script id="skill-sample-controller-template" type="text/x-handlebars-template">
 	<i class="js-skill-sample-controller-icon skill-sample-controller__icon fa fa-external-link"></i>	
+</script>
+<script id="sticky-footer-template" type="text/x-handlebars-template">
+	<div class="sticky-footer__inner-wrapper">
+		<div class="js-footer-content sticky-footer__body"></div>
+	</div>
 </script>
 <script id="student-preview-template" type="text/x-handlebars-template">
 	<div class="student-preview__inner">
@@ -2702,14 +3596,16 @@ e.parentNode.insertBefore(n, e);
 <script id="student-usage-report-controls-template" type="text/x-handlebars-template">
     <div id="student-usage-report-controls-container" class="student-usage-report-controls__container">
         <span class="student-usage-report-controls-dropdown__container">
-            {{#if students.length}}
-                <select class="js-student-select">
-                    <option value="" {{#unless isFiltered}}selected{{/unless}}>All Students</option>
-                    {{#each students}}
-                        <option value={{this.id}} data-test={{../filteredStudentID}} {{#if (eq this.id ../filteredStudentID)}}selected{{/if}}>{{this.name}}</option>
-                    {{/each}}
-                </select>
-            {{/if}}
+            {{#isTeacherApp}}
+                {{#if students.length}}
+                    <select class="js-student-select">
+                        <option value="" {{#unless isFiltered}}selected{{/unless}}>All Students</option>
+                        {{#each students}}
+                            <option value={{this.id}} data-test={{../filteredStudentID}} {{#if (eq this.id ../filteredStudentID)}}selected{{/if}}>{{this.name}}</option>
+                        {{/each}}
+                    </select>
+                {{/if}}
+            {{/isTeacherApp}}
         </span>
 
         <span class="student-usage-report-controls-date-range__container js-date-range__container"></span>
@@ -2787,12 +3683,163 @@ e.parentNode.insertBefore(n, e);
 	<option class="subnavigation__dropdown-item" data-key="{{key}}" value="{{key}}">{{label}}</option>
 </script>
 
+<script id="test-prep-form-template" type="text/x-handlebars-template">
+
+  <div class="plan-form">
+
+    <div class="js-test-prep-test-input-group plan-form__field context">
+      <label>Standardized Test</label>
+      <div class="select-btn select-btn--blue context">
+        <input readonly class="js-select-topic" type="text" placeholder="Select your test&hellip;" {{#if selectedTest}}value="{{selectedTest.name}} Grade {{selectedTest.grade}}" title="{{selectedTest.name}} Grade {{selectedTest.grade}}"{{/if}}>
+        <button class="js-select-topic">Select</button>
+      </div>
+    </div>
+
+    <div class="js-test-prep-start-date-input-group plan-form__field context">
+      <label>Start Date</label>
+      <div class="context select-btn select-btn--only-input">
+        <input readonly disabled class="plan-form__icon-input cursor-default" type="text" value="{{formatReadableDate startDate}}">
+        {{#if startDate}}
+          <i class="js-edit-start-date plan-form__edit-input-icon fa fa-times-circle"></i>
+        {{/if}}
+      </div>
+    </div>
+
+    <div class="js-test-prep-end-date-input-group plan-form__field context">
+      <label>End Date</label>
+      <div class="context select-btn select-btn--only-input">
+        <input readonly disabled class="plan-form__icon-input cursor-default" type="text" value="{{formatReadableDate endDate}}">
+        {{#if endDate}}
+          <i class="js-edit-end-date plan-form__edit-input-icon fa fa-times-circle"></i>
+        {{/if}}
+      </div>
+    </div>
+
+    {{#if isBeingEdited}}
+      <button class="plan-form__btn btn btn--red js-cancel-test-prep-btn">Cancel edit</button>
+    {{else}}
+      <button class="plan-form__btn btn btn--red js-cancel-test-prep-btn">Cancel</button>
+    {{/if}}
+
+    {{#if isBeingEdited}}
+      <button class="plan-form__btn btn btn--primary js-create-test-prep-btn" {{#unless endDate}}disabled="true"{{/unless}}>Save edit</button>
+    {{else}}
+      <button class="plan-form__btn btn btn--primary js-create-test-prep-btn" {{#unless canCreate}}disabled="true"{{/unless}}>Create</button>
+    {{/if}}
+  </div>
+</script>
+
+<script id="test-prep-creation-card-header-template" type="text/x-handlebars-template">
+    Create {{testName}} Prep
+</script>
+
+<script id="test-prep-creation-card-footer-template" type="text/x-handlebars-template">
+    <button class="js-edit-test test-prep-card__footer-btn btn-ghost btn-ghost--blue">Adjust date range</button>
+    <button class="js-confirm-test test-prep-card__footer-btn btn btn--blue">Got it</button>
+</script>
+
+<script id="test-prep-creation-card-main-template" type="text/x-handlebars-template">
+    <div class="col-row">
+        <div class="col col--5of12 cell-md">
+            <img class="center row-sm" src="/assets/images/svg/ed/ed-teacher.svg" width="220px" alt="Ed, dressed as a teacher.">
+        </div>
+
+        <div class="col col--7of12 cell-md">
+            <p class="text-height-md">
+                {{testName}} prep takes about
+                <span class="text-bold">{{estimatedTotalMinutes}} minutes</span>
+                to complete.
+                To finish the test prep in the date range you selected, your students should play for
+            </p>
+            <p class="text-feature text-bold"><i class="fa fa-clock-o"/>
+                ~{{estimatedDailyMinutes}} minutes/day
+            </p>
+        </div>
+    </div>
+</script>
+
+<script id="test-prep-select-card-header-template" type="text/x-handlebars-template">
+    Standardized Tests
+    <i class="js-dialog-close dialog__close-icon fa fa-times"></i>
+</script>
+
+<script id="test-prep-select-card-footer-template" type="text/x-handlebars-template">
+    <button class="js-dialog-close test-prep-card__footer-btn btn-ghost btn-ghost--blue">Cancel</button>
+    <button class="js-confirm-test test-prep-card__footer-btn btn btn--primary"{{#unless canProceed}} disabled="true"{{/unless}}>Next</button>
+</script>
+
+<script id="test-prep-select-card-main-template" type="text/x-handlebars-template">
+    {{#if hasStudents}}
+        {{#if hasFinishedInitialLoad}}
+            <div class="js-location-filter-list"></div>
+
+            {{#if availableTestNames}}
+                <label>Test</label>
+                <select class="js-select-test test-prep-select-card__select">
+                    {{#each availableTestNames}}
+                        <option value="{{this}}" {{#ifCond this '==' ../selectedTestName}} selected{{/ifCond}}>{{this}}</option>
+                    {{/each}}
+                </select>
+            {{/if}}
+
+            {{#if availableGrades}}
+            <div class="test-prep-select-card__grade">
+                <label>Grade</label>
+                <select class="js-select-grade test-prep-select-card__select">
+                    {{#each availableGrades}}
+                        <option value="{{this}}" {{#ifCond this '==' ../selectedGrade}} selected{{/ifCond}}>Grade {{this}}</option>
+                    {{/each}}
+                </select>
+            </div>
+            {{/if}}
+        {{/if}}
+
+        {{#if isLoading}}
+            <div class="js-loader"></div>
+        {{/if}}
+
+    {{else}}
+        <div class="warning-text row-md">There are no students in this class! Visit the <a href="#students">students page</a> to find out how to add&nbsp;them.</div>
+    {{/if}}
+</script>
+
 <script id="toast-template" type="text/x-handlebars-template">
 	<div class="toast__inner">
 		<div class="toast__content cell">{{{content}}}</div> 
 		<div class="cell"><i class="js-toast-close toast__close-btn fa fa-times"></i></div>
 	</div>
 </script>
+<script id="topic-overview-widget-template" type="text/x-handlebars-template">
+    {{#each topicsDates}}
+        {{#unless isToday}}
+            <div class="topic-overview-widget__topic-date">
+                <i class="fa fa-calendar-o" aria-hidden="true"></i> <span class="hide-mobile">Last worked on:</span> {{formatDate date 'dddd, MMMM Do, YYYY'}}
+            </div>
+        {{/unless}}
+        {{#each topics}}
+            <div class="topic-overview-widget__topic">
+                <div class="topic-overview-widget__topic-average topic-overview-widget__topic-average--{{averageColor}}">
+                    {{average}}%
+                </div>
+                <div>
+                    <p class="topic-overview-widget__topic-name">{{name}}</p>
+                    <p class="topic-overview-widget__topic-details">Answered <b>{{totalAnswersCount}} Questions</b> at <b>Grade {{grade}} level</b></p>
+                </div>
+            </div>
+        {{/each}}
+    {{/each}}
+</script>
+
+<script id="topic-overview-widget-empty-template" type="text/x-handlebars-template">
+    <div class="topic-overview-widget__empty">
+        <img class="topic-overview-widget__empty-img" src="/assets/images/svg/spot-illustrations/activity-reports.svg">
+        <p class="topic-overview-widget__empty-text">It looks like <b>{{studentName}}</b> hasn't played this week.</p>
+        {{#unless studentHasPlayed}}
+            <button class="js-get-student-started topic-overview-widget__empty-btn">Help them get started!</button>
+        {{/unless}}
+    </div>
+</script>
+
 <script id="topic-select-template" type="text/x-handlebars-template">
 	<div class="topic-select__inner {{#if selectedTopic}}topic-select--selected{{/if}}">
 
@@ -2800,7 +3847,7 @@ e.parentNode.insertBefore(n, e);
 			<p class="topic-select__text">Selected topic:</p>
 		{{else}}
 			<p class="topic-select__text">
-				Selected grade:
+				Selected {{locationLexicon "grade"}}:
 				<select class="js-select-grade plain-select plain-select--inline clickable">
 					{{#each curricula}}
 						<option value="{{curriculumID}}">{{name}}</option>
@@ -2882,252 +3929,36 @@ e.parentNode.insertBefore(n, e);
 	</div>
 </script>
 
-<!-- new teacher tutorial -->
-
-<script id="tutorial-step-welcome-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step tutorial-step--welcome">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!">
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">Welcome to Prodigy!</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">You're about to see just how excited your students can get about math! We can't wait for you to get started.</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">First, select your curriculum below.</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<form class="welcome-form__curriculum-select-form js-curriculum-select-form"></form>
-			</div>
-
-			<div class="tutorial-step__row">
-				<button class="js-welcome-step-submit btn btn--blue btn--block">Let’s get started!</button>
-			</div>
-		</div>
-	</div>
-</script>
-
-<script id="tutorial-step-create-class-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step tutorial-step--create-class">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/classroom.svg" class="tutorial-step__image tutorial-step__image--classroom" alt="An empty classroom.">
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">Let’s create your first class</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">Organizing your students into classes makes viewing reports and aligning Prodigy simple! </p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="js-edit-class-container tutorial-step__create-class-container"></div>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="tutorial-step__actions">
-					<button class="js-actions-submit-edit-class btn btn--mariner btn--block">Create classroom</button>
-				</div>
-			</div>
-		</div>
-	</div>
-</script>
-
-<script id="tutorial-step-create-plan-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step tutorial-step--create-plan">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/ed/ed-calendar-point.svg" class="tutorial-step__image tutorial-step__image--ed-calendar-point" alt="Ed references a calendar.">
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">What topic should your students start on?</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">As they answer questions, Prodigy will adapt and progress them through the curriculum at their own pace!</p>
-
-			</div>
-
-			<div class="tutorial-step__row">
-				<form class="js-create-plan-form tutorial-step__create-plan-form">
-					<div class="create-plan-form__topic-select-wrapper">
-						<div class="js-create-plan-form-topic-select"></div>
-					</div>
-
-					<button class="js-create-plan-step-submit btn btn--blue btn--block" type="button">Align Prodigy</button>
-					<a class="js-tutorial-next-step tutorial-step__skip">Skip this step</a>
-				</form>
-			</div>
-		</div>
-	</div>
-</script>
-
-<script id="tutorial-step-location-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step tutorial-step--location">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/school.svg" class="tutorial-step__image tutorial-step__image--school" alt="An empty classroom.">
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">Connect to your school</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">Join the other teachers in your school and receive prioritized help from our support staff!</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="tutorial-step__location-select-wrapper">
-					<label class="tutorial-step__location-select-label">Your school</label>
-					<div class="location-select js-location-select"></div>
-				</div>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="tutorial-step__actions">
-					<button class="btn btn--blue btn--block js-location-select-submit" type="text">Set your school</button>
-					<!-- <a class="js-tutorial-next-step tutorial-step__skip">Skip this step</a> -->
-				</div>
-			</div>
-		</div>
-	</div>
-</script>
-
-<!-- multiple classes migration tutorial -->
-
-<script id="tutorial-step-multiple-classes-migration-welcome-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--welcome">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!"/>
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">Welcome back to Prodigy!</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">We've made some changes while you were away. You are now able to group students into <strong>multiple classes</strong>, so you can keep your reports and tools organized!</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="tutorial-step__actions">
-					<button class="js-tutorial-next-step btn btn--blue btn--block">Take a quick look!</button>
-				</div>
-			</div>
-		</div>
-	</div>
-</script>
-
-<script id="tutorial-step-multiple-classes-migration-review-class-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--review-class">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!"/>
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">Are these still your students?</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">If they are, we can add them to your first class. If not, we can remove them from your list and start with a new class.</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="multiple-classes-tutorial-step__students-list-wrapper">
-					<ul class="multiple-classes-tutorial-step__students-list js-students-list"></ul>
-				</div>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="tutorial-step__actions">
-					<button class="js-actions-continue btn btn--white btn--block">Continue with these students</button>
-					<button class="js-actions-new-class btn btn--mariner btn--block">Start with a new class</button>
-				</div>
-			</div>
-		</div>
-	</div>
-</script>
-
-<script id="tutorial-step-multiple-classes-migration-update-class-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--update-class">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/classroom.svg" class="tutorial-step__image tutorial-step__image--classroom" alt="An empty classroom.">
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">Finalize your class!</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">Give your class a grade and a unique name to distinguish it from your other classes!</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="js-edit-class-container tutorial-step__edit-class-container"></div>
-			</div>
-
-			<div class="tutorial-step__row">
-				<div class="tutorial-step__actions">
-					<button class="js-actions-submit-edit-class btn btn--mariner btn--block">Create classroom</button>
-				</div>
-			</div>
-		</div>
-	</div>
-</script>
-
-<!-- new parent tutorial -->
-
-<script id="new-parent-welcome-tutorial-step-template" type="text/x-handlebars-template">
-	<div class="app-section">
-		<div class="tutorial-step tutorial-step--welcome">
-			<div class="tutorial-step__row">
-				<img src="/assets/images/svg/ed/ed-parent.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!">
-			</div>
-
-			<div class="tutorial-step__row">
-				<h1 class="tutorial-step__header">Parents, Welcome to Prodigy!</h1>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">Prodigy isn't your typical math game. It's been designed to maximize <strong>engagement</strong>, <strong>learning</strong>, and <strong>confidence</strong> with math!</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<p class="tutorial-step__lead">First, select your location below.</p>
-			</div>
-
-			<div class="tutorial-step__row">
-				<form class="welcome-form__curriculum-select-form js-curriculum-select-form"></form>
-			</div>
-
-			<div class="tutorial-step__row">
-				<button class="js-welcome-step-submit btn btn--blue btn--block">Let’s get started!</button>
-			</div>
-		</div>
-	</div>
-</script>
-
 <script id="account-settings-template" type="text/x-handlebars-template">
 	<div id="account-settings__subnavigation"></div>
 	<div id="account-settings__section"></div>
 </script>
 
+<script id="activity-report-footer-template" type="text/x-handlebars-template">
+  <img class="report-footer-contents__image" src="/assets/images/svg/ed-plan-loop.svg" alt="Ed, Prodigy's furry green monster.">
+  <div class="report-footer-contents__right">
+      <div class="report-footer-contents__text">Get more valuable data by aligning your class to work on the same skills.</div>
+      <div class="report-footer-contents__buttons">
+          <button class="js-close-footer btn btn--white report-footer-contents__btn">Not now</button>
+          <a href="#planner?startCreation=assignment" class="js-open-planner btn btn--blue report-footer-contents__btn">Create new assignment</a>
+      </div>
+  </div>
+</script>
+
+<script id="activity-report-header-template" type="text/x-handlebars-template">
+  <img class="report-header-contents__image" src="/assets/images/svg/ed-plan-loop.svg" alt="Ed, Prodigy's furry green monster.">
+  <div class="report-header-contents__right">
+      <div class="report-header-contents__text"><span class="text-bold">Quick Tip:</span> Get more valuable data by aligning your class to work on the same skills.</div>
+      <div class="report-header-contents__buttons">
+          <button class="js-close-header btn btn--white report-header-contents__btn">Not now</button>
+          <a href="#planner?startCreation=assignment" class="js-open-planner btn btn--blue report-header-contents__btn">Create new assignment</a>
+      </div>
+  </div>
+</script>
+
 <script id="app-page-base-template" type="text/x-handlebars-template">
 	<div class="app-page__wrapper {{#if hasPageNav}}app-page__wrapper--left-pad{{/if}}">
+		<div class="js-app-page-breadcrumbs"></div>
 		<div class="app-page__main"></div>
 	</div>
 </script>
@@ -3140,14 +3971,28 @@ e.parentNode.insertBefore(n, e);
 		<button class="js-page-reload-btn btn btn--primary btn--md">Try Again</button>
 	</div>
 </script>
+<script id="breadcrumb-template" type="text/x-handlebars-template">
+	<div class="breadcrumbs">
+	{{#each breadcrumbs}}
+		<a href={{href}} class="breadcrumbs__breadcrumb js-breadcrumb">{{text}}</a>
+	{{/each}}
+	<span class="breadcrumbs__breadcrumb">{{currentBreadcrumb.text}}</span>
+	</div>
+</script>
 <script id="classes-empty-template" type="text/x-handlebars-template">
 	<div class="row-display row-collapse-b text-center">
-		<img width="275px" src="/assets/images/svg/classroom.svg">
-		<h1 class="h5 text-bold">Your classes will appear here!</h1>
-		<p class="small text-m-none">Create your first class to get started with Prodigy.</p>
-		<p class="small">Want more information? <a href="https://prodigygame.zendesk.com/hc/en-us" target="_blank">Read our help page</a>.</p>
-
-		<button class="js-create-class btn btn--blue btn--max-sm">Create class</button>
+        {{#if parentApp}}
+            <img width="275px" src="/assets/images/svg/ed/ed-parent.svg">
+            <h1 class="h5 text-bold">Your {{lang.students}} will appear here!</h1>
+            <p class="classes-page__empty-state-copy small">Create an account for your {{lang.student}} or connect with their existing account to see their progress in Prodigy.</p>
+            <button class="js-create-class btn btn--blue btn--max-sm">Add your {{lang.student}}</button>
+        {{else}}
+    		<img width="275px" src="/assets/images/svg/classroom.svg">
+    		<h1 class="h5 text-bold">Your classes will appear here!</h1>
+    		<p class="small text-m-none">Create your first class to get started with Prodigy.</p>
+    		<p class="small">Want more information? <a href="https://prodigygame.zendesk.com/hc/en-us" target="_blank">Read our help page</a>.</p>
+    		<button class="js-create-class btn btn--blue btn--max-sm">Create class</button>
+        {{/if}}
 	</div>
 </script>
 
@@ -3170,7 +4015,7 @@ e.parentNode.insertBefore(n, e);
 		<h1 class="app-section text-center text-bold">Your class is ready to play Prodigy!</h1>
 		<h4 class="app-section text-center text-light">Just follow these three simple steps and get started in minutes!</h4>
 	{{/if}}
-	
+
 	<div class="{{#if isParent}}row-display-xs row-collapse-t{{/if}} dash-block-group dash-block-group--3">
 		<div class="dashboard-tutorial-step dash-block">
 			<div class="dashboard-tutorial-step__inner dash-block__inner">
@@ -3234,19 +4079,47 @@ e.parentNode.insertBefore(n, e);
 			<a class="btn-ghost btn-ghost--primary btn-ghost--md tutorial__btn-pair" href="/dashboard/#students"><i class="fa fa-user-plus icon-inline--left"></i> Add students manually</a>
 		</div>
 	{{/unless}}
+</script>
 
-	<h2 class="app-section row-lg row-collapse-t text-center text-bold">Still have a question? We&#39;re here to help.</h2>
-	<div class="clearfix">
-		<div class="js-qa-container-1 dash-question-column"></div>
-		<div class="js-qa-container-2 dash-question-column"></div>
+
+<script id="empty-class-dashboard-template" type="text/x-handlebars-template">
+	<div class="add-students-block">
+		<img src="/assets/images/svg/classdata.svg" class="add-students-block__image">
+		<h4 class="add-students-block__header">Your students' data will appear here.</h4>
+		<div class="add-students-block__subheader">At a glance, you can see how your students are performing, what they are working on, and how much they are playing.</div>
+		<a href="#" class="js-add-students-button btn btn--primary add-students-block__button">Add students</a>
+	</div>
+</script>
+
+<script id="empty-class-dashboard-alt-template" type="text/x-handlebars-template">
+	<div class="add-students-block">
+		<img src="/assets/images/svg/add-students.svg" class="add-students-block__image">
+		<h4 class="add-students-block__header">There’s no data without students!</h4>
+		<div class="add-students-block__subheader">
+			Once you add your students and give them Prodigy play time, you’ll see how they’re performing and progressing.
+		</div>
+		<a href="#" class="js-add-students-button btn btn--primary add-students-block__button">Add students</a>
 	</div>
 </script>
 
 <script id="influencer-page-template" type="text/x-handlebars-template">
+
+</script>
+
+<script id="influencer-page-contest-template" type="text/x-handlebars-template">
+    <div class="card card-influencer">
+        <div class="card-influencer__contest clearfix">
+            <img class="card-influencer__contest-img" src="/assets/images/svg/small-ipad-smile.svg" />
+            <div class="card-influencer__text">
+                <p class="h4 card-influencer__contest-title">Win an iPad for your classroom!</p>
+                <p class="h4 card-influencer__contest-subtitle">Every referral you make between Feb 14 and Mar 01, 2017 gives you another chance to win. <a href="/assets/resources/ipad-giveaway-contest-rules-feb-2017.pdf" target="_blank" class="text-white"><u>View full contest details.</u></a></p>
+            </div>
+        </div>
+    </div>
 </script>
 <script id="memberships-page-template" type="text/x-handlebars-template">
 	<div class="memberships-page__header clearfix">
-		<a href="/membership/" target="_blank" class="memberships-page__header-btn btn btn--white btn--md btn--block">
+		<a href="/Membership/" target="_blank" class="memberships-page__header-btn btn btn--white btn--md btn--block">
 			<i class="fa fa-plus" aria-hidden="true"></i>
 			&nbsp; Add new Membership
 		</a>
@@ -3255,6 +4128,71 @@ e.parentNode.insertBefore(n, e);
 </script>
 
 <script id="not-logged-in-page-template" type="text/x-handlebars-template">
+</script>
+
+<script id="placement-report-page-template" type="text/x-handlebars-template">
+	<div class="report placement-report card__wrapper">
+		<header class="report__header card__header placement-report__header">
+			<div class="report__title placement-report__title">
+				Placement Report
+			</div>
+			{{#if hasStudents}}
+				<button class="js-help-btn placement-report__help-btn">Need help?</button>
+			{{/if}}
+		</header>
+
+		<main class="report__container card__main">
+			<div class="js-report report__content"></div>
+		</main>
+	</div>
+</script>
+
+<script id="placement-report-template" type="text/x-handlebars-template">
+	<div id="grade-comparison-chart" class="js-report-chart">Not loaded yet...</div>
+</script>
+
+<script id="placement-report-empty-template" type="text/x-handlebars-template">
+	<div class="placement-report__empty">
+		<img class="placement-report__icon" src="/assets/images/svg/reports/placement-test.svg">
+		<h4 class="placement-report__title">There are no students to report on</h4>
+		<div class="placement-report__explanation">
+			Once students have been added to your classroom, you can use this report to see what {{locationLexicon "grade"}} they are working in.
+		</div>
+
+		<a href="#students" class="js-add-students placement-report__add-students-btn">Add students</a>
+	</div>
+</script>
+
+<script id="placement-report-footer-template" type="text/x-handlebars-template">
+	<img class="report-footer-contents__image" src="/assets/images/svg/ed-plan-loop.svg" alt="Ed, Prodigy's furry green monster.">
+		<div class="report-footer-contents__right">
+			<div class="report-footer-contents__text">
+				Let us know which topic you’re currently teaching in class so we can give your students relevant questions.
+			</div>
+			<div class="report-footer-contents__buttons">
+				<button class="js-close-footer btn btn--white report-footer-contents__btn">Not now</button>
+				<a class="js-open-planner btn btn--blue report-footer-contents__btn" href="#planner?startCreation=plan">Align Prodigy</a>
+			</div>
+		</div>
+</script>
+
+<script id="placement-report-dialog-template" type="text/x-handlebars-template">
+	<div class="card-wrapper">
+		<div class="card__header placement-report-dialog__header">
+			Placement Test FAQ
+			<i class="js-dialog-close dialog__close-icon fa fa-times"></i>
+		</div>
+		<div class="card__main">
+			<div class="placement-report-dialog__question">It's been a while and my student hasn't completed the test. Why?</div>
+			<div class="placement-report-dialog__answer">There are a few things that might prevent a student from completing the placement test. If you have created a plan or assignment, the placement test will be paused until they end. If you use the {{locationLexicon "grade"}} override feature, they will not be put into the placement test until the override is disabled.</div>
+			<div class="placement-report-dialog__question">How long does the placement test last?</div>
+			<div class="placement-report-dialog__answer">It depends on the student and their understanding of the material presented. Students who struggle on the material complete the placement test earlier than students who perform well.</div>
+		</div>
+		<div class="card__footer placement-report-dialog__footer">
+			<a class="placement-report-dialog__secondary-btn" target="_blank" href="https://prodigygame.zendesk.com/hc/en-us/articles/207930126-Why-have-my-students-not-completed-the-placement-test-">More FAQ</a>
+			<button class="js-dialog-close placement-report-dialog__primary-btn">Got it</button>
+		</div>
+	</div>
 </script>
 
 <script id="planner-dialog-template" type="text/x-handlebars-template">
@@ -3293,15 +4231,16 @@ e.parentNode.insertBefore(n, e);
 	</div>
 </script>
 <script id="reports-page-template" type="text/x-handlebars-template">
-	
+
 	{{#if isAdmin}}
 		<div>
 			<div class="report-preview">
-				<div class="card__wrapper">					
+				<div class="card__wrapper">
 					<main class="card__main">
 						<h3 class="report-preview__title">Admin Report</h3>
 						<p class="report-preview__description text-light">An overview of your school or district's usage.</p>
-						<a href="/reporting/board" target="_blank" class="report-preview__button btn btn--mariner btn--center btn--md">View Report</a>
+						<img src="/assets/images/svg/reports/weekly-activity.svg" class="report-preview__image">
+						<a href="/dashboard/#reports/admin-report" class="report-preview__button btn btn--mariner btn--center btn--md">View Report</a>
 					</main>
 				</div>
 			</div>
@@ -3313,17 +4252,81 @@ e.parentNode.insertBefore(n, e);
 	<div class="reports-preview__container">
 		{{#each reports}}
 			<div class="report-preview">
-				<div class="card__wrapper">					
+				<div class="card__wrapper">
 					<main class="card__main">
 						<h3 class="report-preview__title">{{name}}</h3>
 						<p class="report-preview__description text-light">{{description}}</p>
+						<img src="{{imgSrc}}" class="report-preview__image">
 						<a href="{{url}}" {{#if target}}target="{{target}}"{{/if}} class="report-preview__button btn btn--mariner btn--center btn--md">View Report</a>
 					</main>
 				</div>
 			</div>
 		{{/each}}
+		{{#if showPlacementReport}}
+			<div class="report-preview">
+				<div class="card__wrapper">
+					<main class="card__main">
+						<h3 class="report-preview__title">Placement Results</h3>
+						<p class="report-preview__description text-light">Which {{locationLexicon "grade"}} your students have been placed in, based on our placement test.</p>
+						<img src="/assets/images/svg/reports/placement-test.svg" class="report-preview__image">
+						<a href="/dashboard/#reports/placement-report" class="report-preview__button btn btn--mariner btn--center btn--md">View Report</a>
+					</main>
+				</div>
+			</div>
+		{{/if}}
 	</div>
 </script>
+
+<script id="reports-page-parent-dialog-template" type="text/x-handlebars-template">
+    <div>
+        As <b>{{studentName}}</b> plays Prodigy, you receive insight into which math skills they are mastering or struggling with. The more they play, the more they learn, and the better equipped you are to step in and&nbsp;help.
+    </div>
+    <button class="js-dialog-close reports-page__parent-dialog-btn">Okay</button>
+</script>
+
+<script id="student-profile-template" type="text/x-handlebars-template">
+    <div class="js-student-page-header student-profile-page__header">
+    </div>
+    <div class="js-student-page-content"></div>
+</script>
+
+<script id="student-profile-header-template" type="text/x-handlebars-template">
+    <div class="student-profile-page__header-details">
+        <div class="student-profile-page__header-details-item">
+            <div class="student-profile-page__student-name-label">Profile</div>
+            <div class="student-profile-page__student-name-value">{{student.firstName}}</div>
+        </div>
+        <div class="student-profile-page__header-details-item">
+            <div class="student-profile-page__label">
+                Last signed in<span class="student-profile-page__label-ext">:&nbsp;</span>
+            </div>
+            {{#if student.lastVisited}}
+                <div class="student-profile-page__value"> {{formatDate student.lastVisited 'ddd MMM Do, YYYY'}} </div>
+            {{else}}
+                <div class="student-profile-page__value"> Has not signed in </div>
+            {{/if}}
+        </div>
+        <div class="student-profile-page__header-details-item">
+            <div class="student-profile-page__label">
+                Working at<span class="student-profile-page__label-ext">:&nbsp;</span>
+            </div>
+            <div class="student-profile-page__value">
+                {{locationLexicon "Grade"}}
+                {{#if student.gradeOverride}}
+                    {{student.gradeOverride}} <span class="student-profile-page__header-grade-override">Override</span>
+                {{else}}
+                    {{student.grade}}
+                {{/if}}
+            </div>
+        </div>
+    </div>
+
+    <div class="student-profile-page__header-buttons">
+        <button class="js-edit-account-btn btn btn--white btn--sm">Account Details</button>
+        <button class="js-view-reports-btn btn btn--blue btn--sm">View Reports</button>
+    </div>
+</script>
+
 <script id="students-page-template" type="text/x-handlebars-template">
 	<div class="students-page__header">
 		<div class="students-page__header-details">
@@ -3354,14 +4357,14 @@ e.parentNode.insertBefore(n, e);
                     <button class="js-add-students btn btn--blue text-bold">Add Children</button>
                     <button class="js-remove-students btn btn--alabaster text-bold">Remove Children</button>
                     <button class="js-move-students btn btn--alabaster text-bold">Move Children</button>
-                    <button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>                               
+                    <button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>
                 </div>
                 <div class="js-student-container students-page__students-wrapper clearfix"></div>
             {{else}}
                 <div class="students-page__students-wrapper students-page__students-wrapper--empty text-center">
                     <p class="text-bold">You haven't added your children yet!</p>
                     <button class="js-add-students btn btn--blue btn--max-sm">Add Children</button>
-                </div>      
+                </div>
             {{/if}}
         </div>
     {{else}}
@@ -3371,14 +4374,14 @@ e.parentNode.insertBefore(n, e);
     				<button class="js-add-students btn btn--blue text-bold">Add Students</button>
     				<button class="js-remove-students btn btn--alabaster text-bold">Remove Students</button>
     				<button class="js-move-students btn btn--alabaster text-bold">Move Students</button>
-    				<button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>								
+    				<button class="js-selection-btn btn btn--alabaster text-bold">Select All</button>
     			</div>
     			<div class="js-student-container students-page__students-wrapper clearfix"></div>
     		{{else}}
     			<div class="students-page__students-wrapper students-page__students-wrapper--empty text-center">
     				<p class="text-bold">You don't have any students in your class yet!</p>
-    				<button class="js-add-students btn btn--blue btn--max-sm">Add Students</button>
-    			</div>		
+    				<button class="js-add-students btn btn--blue btn--max-sm">Add students</button>
+    			</div>
     		{{/if}}
     	</div>
     {{/if}}
@@ -3394,7 +4397,7 @@ e.parentNode.insertBefore(n, e);
 		<div class="sw-select sw-select--inline options-bar__select" sw-select-id="id-1" tabindex="-1">
 			<select id="topic-report-curriculum" class="options-select" sw-select>
 				{{#each curricula}}
-					<option value="{{curriculumID}}" {{#if selected}}selected="selected"{{/if}}>Grade {{grade}}</option>
+					<option value="{{curriculumID}}" {{#if selected}}selected="selected"{{/if}}>{{locationLexicon "Grade"}} {{grade}}</option>
 				{{/each}}
 			</select>
 		</div>
@@ -3410,7 +4413,7 @@ e.parentNode.insertBefore(n, e);
 					<div class="js-skill-report-expand-topic skill-report__category-title text-bold" data-topic-number="{{topicNumber}}" title="{{topicName}}">
 						<div class="skill-report__icon-container">
 							<i class="fa fa-caret-right skill-report__icon"></i>
-						</div> 
+						</div>
 						{{topicName}}
 					</div>
 
@@ -3427,74 +4430,106 @@ e.parentNode.insertBefore(n, e);
 							<i id="topic-danger-{{topicNumber}}" class="js-topic-danger fa fa-warning text-danger context"></i>
 						{{/if}}
 					</div>
-					<ul class="skill-report__legend js-skills-legend-{{topicNumber}}" style="display:none">
-						<li class="skill-report__legend-item">Struggling <span class="skill-report__legend-color--red"></span></li>
-						<li class="skill-report__legend-item">Not Started <span class="skill-report__legend-color--light"></span></li>
-						<li class="skill-report__legend-item">In Progress <span class="skill-report__legend-color--dark"></span></li>
-						<li class="skill-report__legend-item">Mastered <span class="skill-report__legend-color--green"></span></li>
-					</ul>
+                    {{#unless ../isParentApp}}
+    					<ul class="skill-report__legend js-skills-legend-{{topicNumber}}" style="display:none">
+    						<li class="skill-report__legend-item">Struggling <span class="skill-report__legend-color--red"></span></li>
+    						<li class="skill-report__legend-item">Not Started <span class="skill-report__legend-color--light"></span></li>
+    						<li class="skill-report__legend-item">In Progress <span class="skill-report__legend-color--dark"></span></li>
+    						<li class="skill-report__legend-item">Mastered <span class="skill-report__legend-color--green"></span></li>
+    					</ul>
+                    {{/unless}}
 				</div>
 
 				<div class="js-skills-container-{{topicNumber}}" style="display:none">
 					{{#each skills}}
 					<div class="skill-report__skill-container">
-						<div class="skill-report__skill-info">
-							<div class="skill-report__title js-skill-report-expand-skill" title="{{skillName}}" data-topic-number="{{topicNumber}}" data-skill-id="{{skillID}}">
-								<div class="skill-report__icon-container"><i class="fa fa-caret-right skill-report__icon"></i></div>
-								{{skillName}}
-							</div>
-							<div class="skill-report__sample-question-container js-skill-details-{{topicNumber}}-{{skillID}}" style="display:none;">
-								<p class="text-center text-light"><i>Sample Question</i></p>
-								<div id="sample-question-image-{{skillID}}" class="js-sample-question skill-report__sample-question-image"></div>
-							</div>
-						</div>
-						<div class="skill-report__skill-data">
-							<div class="pie-bar">
-								{{#if percentStruggling}}
-									<span class="pie-bar__segment--red" style="width:{{percentStruggling}}%"></span>
-								{{/if}}
-								{{#if percentNotStarted}}
-									<span class="pie-bar__segment--light" style="width:{{percentNotStarted}}%"></span>
-								{{/if}}
-								{{#if percentInProgress}}
-									<span class="pie-bar__segment--dark" style="width:{{percentInProgress}}%"></span>
-								{{/if}}
-								{{#if percentMastered}}
-								<span class="pie-bar__segment--green" style="width:{{percentMastered}}%"></span>
-								{{/if}}
-							</div>
-							<div class="skill-report__list-containers js-skill-details-{{topicNumber}}-{{skillID}}" style="display:none">
-								
-								<div class="skill-report__list-group">
-									<ul class="skill-report__list-container">
-										<li class="skill-report__list-heading--red">Struggling</li>
-										{{#each studentsStruggling}}
-											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
-										{{/each}}
-									</ul>
-									<ul class="skill-report__list-container">
-										<li class="skill-report__list-heading--light">Not Started</li>
-										{{#each studentsNotStarted}}
-											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
-										{{/each}}
-									</ul>
-								</div>
-								<div class="skill-report__list-group">
-									<ul class="skill-report__list-container">
-										<li class="skill-report__list-heading--dark">In Progress</li>
-										{{#each studentsInProgress}}
-											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
-										{{/each}}
-									</ul>
-									<ul class="skill-report__list-container">
-										<li class="skill-report__list-heading--green">Mastered</li>
-										{{#each studentsMastered}}
-											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
-										{{/each}}
-									</ul>
-								</div>
-							</div>
-						</div>
+                        {{#if ../../isParentApp}}
+                            <div class="skill-report__skill-info skill-report__skill-info--wide">
+                                <div class="skill-report__title--no-pointer" title="{{skillName}}" data-topic-number="{{topicNumber}}" data-skill-id="{{skillID}}">
+                                    {{skillName}}
+                                </div>
+                            </div>
+                            <div class="skill-report__skill-status">
+                                {{#if percentStruggling}}
+                                    <div class="skill-report__list-heading--red">Struggling</div>
+                                {{/if}}
+                                {{#if percentNotStarted}}
+                                    <div class="skill-report__list-heading--light">Not Started</div>
+                                {{/if}}
+                                {{#if percentInProgress}}
+                                    <div class="skill-report__list-heading--dark">In Progress</div>
+                                {{/if}}
+                                {{#if percentMastered}}
+                                    <div class="skill-report__list-heading--green">Mastered</div>
+                                {{/if}}
+                            </div>
+                            <div class="skill-report__skill-info--wide hide-mobile">
+                                <div class="skill-report__title--no-pointer" title="{{skillName}}" data-topic-number="{{topicNumber}}" data-skill-id="{{skillID}}">
+                                    {{skillName}}
+                                </div>
+                            </div>
+                            <div class="skill-report__sample-question-btn-container hide-mobile">
+                                <button class="js-show-sample-question js-show-sample-question-{{skillID}} skill-report__sample-question-btn" data-skill-id="{{skillID}}"> Sample Question </button>
+                            </div>
+                        {{else}}
+    						<div class="skill-report__skill-info">
+    							<div class="skill-report__title js-skill-report-expand-skill" title="{{skillName}}" data-topic-number="{{topicNumber}}" data-skill-id="{{skillID}}">
+    								<div class="skill-report__icon-container"><i class="fa fa-caret-right skill-report__icon"></i></div>
+    								{{skillName}}
+    							</div>
+    							<div class="skill-report__sample-question-container js-skill-details-{{topicNumber}}-{{skillID}}" style="display:none;">
+    								<p class="text-center text-light"><i>Sample Question</i></p>
+    								<div id="sample-question-image-{{skillID}}" class="js-sample-question skill-report__sample-question-image"></div>
+    							</div>
+    						</div>
+    						<div class="skill-report__skill-data">
+    							<div class="pie-bar">
+    								{{#if percentStruggling}}
+    									<span class="pie-bar__segment--red" style="width:{{percentStruggling}}%"></span>
+    								{{/if}}
+    								{{#if percentNotStarted}}
+    									<span class="pie-bar__segment--light" style="width:{{percentNotStarted}}%"></span>
+    								{{/if}}
+    								{{#if percentInProgress}}
+    									<span class="pie-bar__segment--dark" style="width:{{percentInProgress}}%"></span>
+    								{{/if}}
+    								{{#if percentMastered}}
+    								<span class="pie-bar__segment--green" style="width:{{percentMastered}}%"></span>
+    								{{/if}}
+    							</div>
+    							<div class="skill-report__list-containers js-skill-details-{{topicNumber}}-{{skillID}}" style="display:none">
+
+    								<div class="skill-report__list-group">
+    									<ul class="skill-report__list-container">
+    										<li class="skill-report__list-heading--red">Struggling</li>
+    										{{#each studentsStruggling}}
+    											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+    										{{/each}}
+    									</ul>
+    									<ul class="skill-report__list-container">
+    										<li class="skill-report__list-heading--light">Not Started</li>
+    										{{#each studentsNotStarted}}
+    											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+    										{{/each}}
+    									</ul>
+    								</div>
+    								<div class="skill-report__list-group">
+    									<ul class="skill-report__list-container">
+    										<li class="skill-report__list-heading--dark">In Progress</li>
+    										{{#each studentsInProgress}}
+    											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+    										{{/each}}
+    									</ul>
+    									<ul class="skill-report__list-container">
+    										<li class="skill-report__list-heading--green">Mastered</li>
+    										{{#each studentsMastered}}
+    											<li class="js-student-name skill-report__list-item context" data-user-id="{{studentID}}" data-skill-id="{{skillID}}">{{name}}</li>
+    										{{/each}}
+    									</ul>
+    								</div>
+    							</div>
+    						</div>
+                        {{/if}}
 					</div>
 					{{/each}}
 				</div>
@@ -3502,6 +4537,18 @@ e.parentNode.insertBefore(n, e);
 		</div>
 	</section>
 </script>
+
+<script id="topic-report-footer-template" type="text/x-handlebars-template">
+    <img class="report-footer-contents__image" src="/assets/images/svg/ed-plan-loop.svg" alt="Ed, Prodigy's furry green monster.">
+    <div class="report-footer-contents__right">
+        <div class="report-footer-contents__text">Creating another plan is the best way to keep Prodigy aligned to what you’re teaching.</div>
+        <div class="report-footer-contents__buttons">
+            <button class="js-close-footer btn btn--white report-footer-contents__btn">Not now</button>
+            <a href="#planner?startCreation=plan" class="js-open-planner btn btn--blue report-footer-contents__btn">Create new plan</a>
+        </div>
+    </div>
+</script>
+
 <script id="app-footer-region-template" type="text/x-handlebars-template"></script>
 <script id="app-header-region-template" type="text/x-handlebars-template"></script>
 <script id="app-modal-region-template" type="text/x-handlebars-template"></script>
@@ -3649,26 +4696,28 @@ e.parentNode.insertBefore(n, e);
 
 <script id="dash-widget-base-template" type="text/x-handlebars-template">
 
-	{{#if title.length}}
-		<h2 class="dash-widget__title h5">{{{title}}}</h2>
-	{{/if}}
-	<div class="js-master-controls dash-widget__master-controls gone"></div>
+<div class="dash-widget__container">
+	<div class="dash-widget__header"> 
+		{{#if title.length}}
+			<h2 class="dash-widget__title h5">{{{title}}}</h2>
+		{{/if}}
+		<div class="js-master-controls dash-widget__master-controls gone"></div>
+	</div>
 	<div class="dash-widget__block">
 		<div class="js-top-controls dash-widget__controls gone"></div>
 		<div class="dash-widget__content"></div>
 		<div class="js-bottom-controls dash-widget__controls--bot gone"></div>
 		<div class="dash-widget__modals gone"></div>
 	</div>
+</div>
 </script>
 
 <script id="dash-widget-error-template" type="text/x-handlebars-template">
-	<div class="dash-widget__error">
-		<p class="text-bold">{{title}}</p>
-		<div class="dash-widget__error-img">
-			<img src="{{imgSrc}}">
-		</div>
-		<button class="js-reload-btn btn btn--primary btn--md">Try Again</button>
-	</div>
+	<div class="dash-widget__content-wrapper">
+        <img class="dash-widget__img" src="{{imgSrc}}" alt="{{imgAlt}}">
+        <p class="dash-widget__text">Oh no, something went wrong and we were unable to load this report</p>
+        <a class="js-reload-btn btn-ghost dash-widget__btn">Try Again</a>
+    </div>
 </script>
 
 <script id="dash-widget-hint-template" type="text/x-handlebars-template">
@@ -3696,14 +4745,14 @@ e.parentNode.insertBefore(n, e);
 </script>
 
 <script id="dash-widget-list-control-template" type="text/x-handlebars-template">
-	<span>
+	<div class="dash-widget__page-control">
 		<span class="dash-widget__control-text">{{currentItem}} of {{lastItem}}</span> <i class="js-dash-previous dash-widget__control fa fa-chevron-left"></i>&nbsp;&nbsp;<i class="js-dash-next dash-widget__control fa fa-chevron-right"></i>
-	</span>
+	</div>
 </script>
 
 <script id="dash-widget-filter-options-template" type="text/x-handlebars-template">
 	<span>
-		{{title}} for 
+		{{title}} 
 		<span class='options-modal-wrapper'>
 			<ul class="js-filter-options options-modal" data-value="{{value}}">
 				{{#each selectOptions}}
@@ -3726,39 +4775,99 @@ e.parentNode.insertBefore(n, e);
 			</select>
 			<i class="assignment-widget__name-select-arrow fa fa-sort-desc"></i>
 		</div>
-		
-
 		<div class="assignment-widget__average-grade">
 			{{#if assignment.questions.answered}}
-				{{assignment.averageGrade}}%
+				{{assignment.averageGrade}}% Grade Average
 			{{/if}}
-			<small>Grade Average</small>
 
 			{{#unless assignment.questions.answered}}
-				?
+				No Questions Answered
 			{{/unless}}
 		</div>		
+
+		<div class="assignment-widget__progress-date">Ends {{assignment.endDate}}</div>
 	</div>
 
 	<div class="assignment-widget__progress-wrapper">
-		<div class="clearfix">
-			<span class="assignment-widget__progress-complete">{{assignment.questions.answeredPercentage}}% Complete</span>
-			<span class="assignment-widget__progress-date">Ends {{assignment.endDate}}</span>
-		</div>
 		<div class="assignment-widget__progress-bar">
 			<div class="assignment-widget__progress-bar__completed-segment" style="width: {{assignment.questions.answeredPercentage}}%;"></div>
 			<div class="assignment-widget__progress-bar__incompleted-segment" style="width: {{assignment.questions.unansweredPercentage}}%;"></div>
 		</div>
+		<div class="assignment-widget__progress-complete">{{assignment.questions.answeredPercentage}}% Complete</div>
+
 	</div>
 </script>
 
 <script id="assignment-widget-no-assignments-template" type="text/x-handlebars-template">
-	<div class="assignment-widget__create-wrapper">
-		<img class="assignment-widget__create-img" src="/assets/images/ed/@1x/ed-pointingclosed-grey@1x.png" alt="Ed pointing up and smiling.">
-		<p class="assignment-widget__create-content">Looks like you don&#39;t have any assignments!</p>
-		<a class="btn btn--primary btn--md" href="/dashboard/#planner">Create an Assignment</a>
+	<div class="dash-widget__content-wrapper">
+		<img class="dash-widget__img" src="/assets/images/svg/spot-illustrations/assessment.svg" alt="Picture of a graded assessment">
+        <p class="dash-widget__text">Assess your students' progress on a skill while they play Prodigy</p>
+		<a class="btn dash-widget__btn" href="#planner">Create an assignment</a>
 	</div>
 </script>
+<script id="getting-started-widget-content-template" type="text/x-handlebars-template">
+    <div class="getting-started-widget__container">
+        <div class="getting-started-progress__container">
+            <div class="getting-started-progress__header getting-started-progress__left-column">
+                Getting Started
+            </div>
+            <div class="getting-started-progress__steps getting-started-progress__left-column">
+                {{#each steps}}
+                    <div class="getting-started-progress__step {{#if complete}}getting-started-progress__step--completed{{/if}} {{#if active}}getting-started-progress__step--active{{/if}}">
+                        <i class="getting-started-progress__checkbox-icon fa fa-check"></i>
+                        <div class="getting-started-progress__step-label">{{text}}</div>
+                    </div>
+                {{/each}}
+            </div>
+            <div class="getting-started-progress__completeness getting-started-progress__left-column">
+                <div class="getting-started-progress__labels">
+                    <span>PROFILE COMPLETENESS</span>
+                    <span>{{completedSteps}} / {{totalSteps}}</span>
+                </div>
+                <div class="getting-started-progress__possible-progress">
+                    <div class="getting-started-progress__actual-progress" style="width: {{percentage}}%"></div>
+                </div>
+            </div>
+            <div class="js-action-container getting-started-action">
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="getting-started-widget-filter-options-template" type="text/x-handlebars-template">
+    <span>
+        {{title}}
+        <span class='options-modal-wrapper'>
+            <ul class="js-filter-options options-modal" data-value="{{value}}">
+                {{#each selectOptions}}
+                    <div class="getting-started-progress__step {{#if complete}}getting-started-progress__step--completed{{/if}}">
+                        <i class="getting-started-progress__checkbox-icon fa fa-check"></i>
+                        <div class="getting-started-progress__step-label">{{text}}</div>
+                    </div>
+                {{/each}}
+            </ul>
+        </span>
+        <span class='js-filter-btn app-page__link'><u style="white-space: nowrap;">{{text}}</u>&nbsp;<i class='fa fa-caret-down'></i></span>
+    </span>
+</script>
+
+<script id="getting-started-widget-call-to-action-template" type="text/x-handlebars-template">
+    <div class="getting-started-action__container">
+        <img src="{{image}}" class="dash-widget__img">
+        <div class="getting-started-action__header">{{header}}</div>
+        <div class="getting-started-action__content">{{content}}</div>
+        <a href="{{buttonLink}}" class="btn dash-widget__btn {{buttonClass}}">{{buttonText}}</a>
+    </div>
+</script>
+
+<script id="getting-started-widget-complete-template" type="text/x-handlebars-template">
+    <div class="getting-started-complete__container">
+        <div class="getting-started-action__header">We hope you have a blast!</div>
+        <div class="getting-started-action__content">Congrats! You're all set up, and ready to explore Prodigy! We'll be in touch. But until then, we hope you and your students have fun.</div>
+        <a href="#" class="btn dash-widget__btn js-dismiss-getting-started-widget">Okay, thanks</a>
+    </div>
+</script>
+
 <script id="grade-comparison-widget-empty-template" type="text/x-handlebars-template">
 	{{#unless this.length}}
 		<div class="dash-widget__error">
@@ -3768,35 +4877,28 @@ e.parentNode.insertBefore(n, e);
 </script>
 <script id="influencer-widget-content-template" type="text/x-handlebars-template">
 	{{#if totalStudents}}
-		<div class="text-center">
-			<img alt="Ed holding a flag, standing in front of a gold and red chest." src="/assets/images/icons/@1x/points@1x.png">
-		</div>
+		{{#if unclaimedMemberships}}
+			<div class="dash-widget__content-wrapper">
+				<img class="dash-widget__img" src="/assets/images/svg/spot-illustrations/treasure-open.svg" alt="Image of an open treasure">
+		        <p class="dash-widget__text">Woohoo! You've earned a <span class="text-seafoam">free membership</span> for one of your students!</p>
+				<a class="btn dash-widget__btn" href="#influencer">Claim your membership</a>
+			</div>
+		{{/if}}
 
-		<div class="influencer-widget__progress-bar influencer-widget__block">
-			<div class="influencer-widget__progress-bar-segment" style="width:{{#if unclaimedMemberships}}100%{{/if}}{{#unless unclaimedMemberships}}{{percentage}}%{{/unless}};"></div>
-		</div>
-
-		<div class="text-center">
-			{{#if unclaimedMemberships}}
-				<p>Woohoo! You've earned a free membership to give to one of your students!</p>
-				<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Claim your membership!</a>
-			{{/if}}
-
-			{{#unless unclaimedMemberships}}
-				<p>You've helped {{totalStudents}} {{pluralize totalStudents "student"}} love math with Prodigy! <strong>Only {{untilNextMembership}} more to go!</strong></p>
-				<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Share Prodigy</a>
-			{{/unless}}
-			
-		</div>
+		{{#unless unclaimedMemberships}}
+			<div class="dash-widget__content-wrapper">
+				<img class="dash-widget__img" src="/assets/images/svg/spot-illustrations/treasure-closed.svg" alt="Image of a closed treasure">
+		        <p class="dash-widget__text">You've helped {{totalStudents}} {{pluralize totalStudents "student"}} love math with Prodigy! <span class="text-seafoam">Only {{untilNextMembership}} more to go!</span></p>
+				<a class="btn dash-widget__btn" href="#influencer">Share prodigy</a>
+			</div>
+		{{/unless}}
 	{{/if}}
 
 	{{#unless totalStudents}}
-		<div class="text-center">
-			<img class='influencer-widget__image' alt="A locked chest with gold seams and red wood." src="/assets/images/graphics/illustration-sharing.png">
-
-			<p class="influencer-widget__block text--medium">Earn a <strong class='text-primary text-bold'>free membership</strong> for every teacher you help onboard to Prodigy!</p>
-
-			<a href="/dashboard/#/influencer" class="btn btn--md btn--primary">Share Prodigy Now</a>
+		<div class="dash-widget__content-wrapper">
+			<img class="dash-widget__img" src="/assets/images/svg/spot-illustrations/treasure-closed.svg" alt="Image of a closed treasure">
+	        <p class="dash-widget__text">Earn a <span class="text-seafoam">free membership</span> for each teacher you help onboard to Prodigy!</p>
+			<a class="btn dash-widget__btn" href="#influencer">Share Prodigy</a>
 		</div>
 	{{/unless}}
 </script>
@@ -3841,36 +4943,51 @@ e.parentNode.insertBefore(n, e);
 	<p class="text-center">{{main}}</p>
 </script>
 <script id="planner-widget-empty-template" type="text/x-handlebars-template">
-	<div class="text-center">
+	<div class="dash-widget__content-wrapper">
+		<img class="dash-widget__img" src="{{imgSrc}}" alt="{{imgAlt}}">
         {{#if isParent}}
-            <h1 class="text-mt-none text-bold h3 text-size-4">Align Prodigy for your children!</h1>
+            <p class="dash-widget__text">Align Prodigy for your kids in just a few clicks!</p>
         {{else}} 
-            <h1 class="text-mt-none text-bold h3 text-size-4">Align Prodigy to your classroom!</h1>
+            <p class="dash-widget__text">Align Prodigy to your classroom in just a few clicks!</p>
         {{/if}}
-		<img class="img-max-w-md center row-md" src="{{imgSrc}}" alt="{{imgAlt}}">
-		<a class="btn btn--primary btn--max-sm text-bold" href="#planner">{{{buttonText}}}</a>
+		<a class="btn dash-widget__btn" href="#planner">{{{buttonText}}}</a>
 	</div>
 </script>
 
 <script id="planner-widget-active-template" type="text/x-handlebars-template">
-	<div class="text-center">
-		<div class="text-mt-none text-bold h3 text-size-5 text-light">Your current plan:</div>
-		<div class="text-mt-none text-bold h3 text-size-4">{{nearestPlan.topic_name}}</div>
-		<div class="context img-max-w-xs center row-xs row-collapse-b">
-			<img src="{{imgSrc}}" alt="{{imgAlt}}">
-			<span class="planner-widget__days-remaining text-bold">{{daysRemaining}}</span>
-		</div>
-		<p class="text-bold">day{{#if moreThanOneDay}}s{{/if}} remaining</p>
-		<a class="btn btn--primary btn--max-sm text-bold" href="#planner">{{{buttonText}}}</a>
-	</div>
+    <div class="dash-widget__content-wrapper">
+        <img class="dash-widget__img" src="{{imgSrc}}" alt="{{imgAlt}}">
+        <p class="dash-widget__text">Your plan on <span class="text-seafoam">{{nearestPlan.topic_name}}</span> will end in&nbsp;{{daysRemaining}}&nbsp;day{{#if moreThanOneDay}}s{{/if}}.</p>
+        <!-- <a class="btn dash-widget__btn" href="#planner">{{{buttonText}}}</a> -->
+    </div>
 </script>
 
 <script id="planner-widget-upcoming-template" type="text/x-handlebars-template">
-	<div class="text-center">
-		<h1 class="text-mt-none text-bold h3 text-size-5">Your plan on <span class="text-accent">{{nearestPlan.topic_name}}</span> will start in {{daysUntil}}&nbsp;day{{#if moreThanOneDay}}s{{/if}}.</h1>
-		<img class="img-max-w-md center row-md" src="{{imgSrc}}" alt="{{imgAlt}}">		
-		<a class="btn btn--primary btn--max-sm text-bold" href="#planner">{{{buttonText}}}</a>
-	</div>
+    <div class="dash-widget__content-wrapper">
+        <img class="dash-widget__img" src="{{imgSrc}}" alt="{{imgAlt}}">
+        <p class="dash-widget__text">Your plan on <span class="text-seafoam">{{nearestPlan.topic_name}}</span> will begin in&nbsp;{{daysUntil}}&nbsp;day{{#if moreThanOneDay}}s{{/if}}.</p>
+        <!-- <a class="btn dash-widget__btn" href="#planner">{{{buttonText}}}</a> -->
+    </div>
+</script>
+<script id="questions-widget-content-template" type="text/x-handlebars-template">
+    {{#if hasQuestionData}}
+        <div id='questions-chart'></div>
+    {{/if}}
+
+    {{#unless hasQuestionData}}
+        {{#if parentApp}}
+            <div class="dash-widget__content-wrapper">
+                <img class="dash-widget__img" src="/assets/images/svg/spot-illustrations/time-played-report.svg" alt="Picture of a report">
+                <p class="dash-widget__text">This is where you'll see how much {{{studentName}}} has played Prodigy at school and at home!</p>
+            </div>
+        {{else}}
+            <div class="dash-widget__content-wrapper">
+                <img class="dash-widget__img" src="/assets/images/svg/spot-illustrations/time-played-report.svg" alt="Picture of a report">
+                <p class="dash-widget__text">This is where you'll see how much your students have played Prodigy at school and at home!</p>
+                <a class="btn dash-widget__btn" href="{{instructionsUrl}}" target="_blank">Get login instructions</a>
+            </div>
+        {{/if}}
+    {{/unless}}
 </script>
 <script id="struggling-widget-content-template" type="text/x-handlebars-template">
 
@@ -3879,7 +4996,7 @@ e.parentNode.insertBefore(n, e);
 			<thead>
 				<tr>
 					<th class="struggling-widget__table__heading">Skill</th>
-					<th class="struggling-widget__table__grade">Average Grade of Struggling Students</th>
+					<th class="struggling-widget__table__grade">Avg Grade of Struggling Students</th>
 					<th class="struggling-widget__table__num-students">#&nbsp;Students</th>
 					
 				</tr>
@@ -3907,8 +5024,9 @@ e.parentNode.insertBefore(n, e);
 	{{/if}}
 
 	{{#unless this.length}}
-		<div class="dash-widget__error">
-			<p class="text-bold">You have no struggling skills!</p>	
+		<div class="dash-widget__content-wrapper">
+			<img class="dash-widget__img" src="/assets/images/svg/spot-illustrations/activity-reports.svg" alt="Picture of a report">
+	        <p class="dash-widget__text">Your students aren't struggling on any skills.</p>
 		</div>
 	{{/unless}}
 
@@ -3935,8 +5053,269 @@ e.parentNode.insertBefore(n, e);
 	</table>
 
 </script>
+<!-- multiple classes migration tutorial -->
 
-	
+<script id="tutorial-step-multiple-classes-migration-welcome-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--welcome">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!"/>
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">Welcome back to Prodigy!</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">We've made some changes while you were away. You are now able to group students into <strong>multiple classes</strong>, so you can keep your reports and tools organized!</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="tutorial-step__actions">
+                    <button class="js-tutorial-next-step btn btn--blue btn--block">Take a quick look!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="tutorial-step-multiple-classes-migration-review-class-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--review-class">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!"/>
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">Are these still your students?</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">If they are, we can add them to your first class. If not, we can remove them from your list and start with a new class.</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="multiple-classes-tutorial-step__students-list-wrapper">
+                    <ul class="multiple-classes-tutorial-step__students-list js-students-list"></ul>
+                </div>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="tutorial-step__actions">
+                    <button class="js-actions-continue btn btn--white btn--block">Continue with these students</button>
+                    <button class="js-actions-new-class btn btn--mariner btn--block">Start with a new class</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="tutorial-step-multiple-classes-migration-update-class-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step multiple-classes-tutorial-step multiple-classes-tutorial-step--update-class">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/classroom.svg" class="tutorial-step__image tutorial-step__image--classroom" alt="An empty classroom.">
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">Finalize your class!</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">Give your class a grade and a unique name to distinguish it from your other classes!</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="js-edit-class-container tutorial-step__edit-class-container"></div>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="tutorial-step__actions">
+                    <button class="js-actions-submit-edit-class btn btn--mariner btn--block">Create classroom</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script id="tutorial-step-align-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step tutorial-step--align">
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">What should your class work on first?</h1>
+            </div>
+            <div class="tutorial-step__row">
+                <div class="js-skip-plan radio-btn-card radio-btn-card--white">
+                    <i class="fa fa-pie-chart radio-btn-card__icon"></i>
+                    <div class="radio-btn-card__right">
+                        <div class="radio-btn-card__text">A placement test</div>
+                        <div class="radio-btn-card__subtext">
+                            We'll test students to determine which grade they should start in.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="js-make-plan radio-btn-card radio-btn-card--white">
+                    <i class="fa fa-calendar-o radio-btn-card__icon"></i>
+                    <div class="radio-btn-card__right">
+                        <div class="radio-btn-card__text">A topic of my choosing</div>
+                        <div class="radio-btn-card__subtext">
+                            You can choose a topic and grade level for your students to start in.
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="js-tutorial-continue btn btn--block btn--asleep" type="text">Continue</button>
+        </div>
+    </div>
+</script>
+<script id="tutorial-step-create-class-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step tutorial-step--create-class">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/classroom.svg" class="tutorial-step__image tutorial-step__image--classroom" alt="An empty classroom.">
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">Let’s create your first class</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">Organizing your students into classes makes viewing reports and aligning Prodigy simple! </p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="js-edit-class-container tutorial-step__create-class-container"></div>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="tutorial-step__actions">
+                    <button class="js-actions-submit-edit-class btn btn--mariner btn--block">Create classroom</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script id="tutorial-step-create-plan-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step tutorial-step--create-plan">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/ed/ed-calendar-point.svg" class="tutorial-step__image tutorial-step__image--ed-calendar-point" alt="Ed references a calendar.">
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">What topic should your students start on?</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">As they answer questions, Prodigy will adapt and progress them through the curriculum at their own pace!</p>
+
+            </div>
+
+            <div class="tutorial-step__row">
+                <form class="js-create-plan-form tutorial-step__create-plan-form">
+                    <div class="create-plan-form__topic-select-wrapper">
+                        <div class="js-create-plan-form-topic-select"></div>
+                    </div>
+
+                    <button class="js-create-plan-step-submit btn btn--blue btn--block" type="button">Align Prodigy</button>
+                    <a class="js-tutorial-skip-step tutorial-step__skip">Skip this step</a>
+                </form>
+            </div>
+        </div>
+    </div>
+</script>
+<script id="tutorial-step-location-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step tutorial-step--location">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/school.svg" class="tutorial-step__image tutorial-step__image--school" alt="An empty classroom.">
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">Connect to your school</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">Join the other teachers in your school and receive prioritized help from our support staff!</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="tutorial-step__location-select-wrapper">
+                    <label class="tutorial-step__location-select-label">Your school</label>
+                    <div class="location-select js-location-select"></div>
+                </div>
+            </div>
+
+            <div class="tutorial-step__row">
+                <div class="tutorial-step__actions">
+                    <button class="btn btn--blue btn--block js-location-select-submit" type="text">Set your school</button>
+                    <!-- <a class="js-tutorial-next-step tutorial-step__skip">Skip this step</a> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script id="tutorial-step-welcome-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step tutorial-step--welcome">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/ed/ed-stars.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!">
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">Welcome to Prodigy!</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">You're about to see just how excited your students can get about math! We can't wait for you to get started.</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">First, select your curriculum below.</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <form class="welcome-form__curriculum-select-form js-curriculum-select-form"></form>
+            </div>
+
+            <div class="tutorial-step__row">
+                <button class="js-welcome-step-submit btn btn--blue btn--block">Let’s get started!</button>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script id="new-parent-welcome-tutorial-step-template" type="text/x-handlebars-template">
+    <div class="app-section">
+        <div class="tutorial-step tutorial-step--welcome">
+            <div class="tutorial-step__row">
+                <img src="/assets/images/svg/ed/ed-parent.svg" class="tutorial-step__image tutorial-step__image--ed-stars" alt="Ed is so happy you're here!">
+            </div>
+
+            <div class="tutorial-step__row">
+                <h1 class="tutorial-step__header">Welcome to Prodigy!</h1>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">Prodigy isn't your typical math game. It's been designed to maximize <strong>engagement</strong>, <strong>learning</strong>, and <strong>confidence</strong> with math!</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <p class="tutorial-step__lead">First, select your location below.</p>
+            </div>
+
+            <div class="tutorial-step__row">
+                <form class="welcome-form__curriculum-select-form js-curriculum-select-form"></form>
+            </div>
+
+            <div class="tutorial-step__row">
+                <button class="js-welcome-step-submit btn btn--blue btn--block">Let’s get started!</button>
+            </div>
+        </div>
+    </div>
+</script>
+
+
 
 	<!-- start Mixpanel -->
 		<script type="text/javascript">(function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
@@ -3950,7 +5329,7 @@ e.parentNode.insertBefore(n, e);
 
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body>
+<body style="background: none;">
 	<!-- <div id='service-announcement' class=''>
 		<h4 class="alert alert-warning alert-top">Prodigy is currently undergoing maintenance, and will be available at 8AM Eastern Time.</h4>
 	</div> -->
@@ -4220,7 +5599,7 @@ e.parentNode.insertBefore(n, e);
 		<p><strong>Service providers</strong> - Prodigy uses various vendors, partners, and service providers to help us deliver our services to our users.  For example, we use a mail service called <a href="https://www.sparkpost.com/">Sparkpost</a> to deliver emails to our users on our behalf, as it would take a lot of resources for us to develop our own email delivery platform.  As a result, some of your information, including Personally Identifiable Information, may be shared with our service providers in order for them to perform their tasks.  Wherever possible, we ensure that we only share the minimal amount of information for the respective service provider to perform their service.  We carefully vet all of our service providers and ensure that they protect and secure your information in a way that is consistent with this Privacy Policy.  Please see a <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217076826">complete list of third-party service providers here</a>.</p>
 
 
-		<p><strong>Analytics services</strong> - Prodigy uses third-party analytics services to better understand how our users are interacting with our product, and to improve our product over time.  For example, we use a video tracking software called <a href="https://wistia.com/">Wistia</a> to track which one of our tutorial videos is being clicked on most frequently and how our users are interacting with these videos.  In this process, some of your personal information, Performance Data, and interactions with our product may be collected by or shared with these analytics services in order for them to perform their service.  We carefully vet all of our analytics services and ensure that they protect and secure your information in a way that is consistent with this Privacy Policy.  Please see a <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217076826">complete list of third-party analytics services here</a>.</p>
+		<p><strong>Analytics services</strong> - Prodigy uses third-party analytics services to better understand how our users are interacting with our product, and to improve our product over time.  For example, we use a video tracking software called <a href="https://vidyard.com/">Vidyard</a> to track which one of our tutorial videos is being clicked on most frequently and how our users are interacting with these videos.  In this process, some of your personal information, Performance Data, and interactions with our product may be collected by or shared with these analytics services in order for them to perform their service.  We carefully vet all of our analytics services and ensure that they protect and secure your information in a way that is consistent with this Privacy Policy.  Please see a <a href="https://prodigygame.zendesk.com/hc/en-us/articles/217076826">complete list of third-party analytics services here</a>.</p>
 
 
 		<p><strong>Non-personally identifiable information</strong> - Prodigy may share aggregated, non-personally identifiable information with the public for marketing or other purposes.  For example, we may share data on the percentage of students on Prodigy who use the game both at home and in school in our marketing materials to parents.  None of this information will contain any Personally Identifiable Information about individual users.</p>
@@ -4347,7 +5726,7 @@ e.parentNode.insertBefore(n, e);
 				</nav>	
 
 				<div class="app-page__footer__section--left">
-					<span>© 2016 Prodigy</span>
+					<span>© 2017 Prodigy</span>
 				</div>	
 			</div>
 		</div>
@@ -4406,7 +5785,7 @@ e.parentNode.insertBefore(n, e);
 	
 </div>
 <div id="notices">
-</div><script src="/Includes/Scripts/web.min.js?v=1483149661"></script>
+</div><script src="/Includes/Scripts/web.min.js?v=1496844921"></script>
 
 
 
