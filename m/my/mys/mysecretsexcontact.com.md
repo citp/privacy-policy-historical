@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysecretsexcontact.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123090625id_/http%3A//www.mysecretsexcontact.com/privacy%3Fprid%3D25710%26p%3D362232) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysecretsexcontact.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607085829id_/http%3A//www.mysecretsexcontact.com/privacy%3Fprid%3D25710%26p%3D362232) for the most accurate reproduction.*
 
 # Secret Flirts and Sexcontacts
 
