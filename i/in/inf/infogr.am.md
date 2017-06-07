@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226225939id_/https%3A//infogr.am/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infogr.am privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607054246id_/https%3A//infogr.am/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | infogr.am
+# Privacy Policy | Infogr.am
 
 ## Effective as of January 15, 2015 
 
