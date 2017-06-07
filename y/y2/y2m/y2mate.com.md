@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the y2mate.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211084723id_/http%3A//y2mate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y2mate.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607103951id_/http%3A//www.y2mate.com/privacy-policy) for the most accurate reproduction.*
 
-# The best free android video downloader
+# Y2mate.com policy - The best Youtube converter online
 
 **PRIVACY POLICY**
 
