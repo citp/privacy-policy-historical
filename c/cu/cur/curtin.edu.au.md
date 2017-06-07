@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222194350id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curtin.edu.au privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607122520id_/http%3A//rim.curtin.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Privacy
 
@@ -62,6 +62,10 @@ The University uses digital cookies to remember your preferences and collect onl
 
 If you are not a University staff member or student, and are receiving communications from the University, we will ensure that you can easily opt out of these communications at any time. This functionality is provided as a matter of course on all of our social network sites - refer to the privacy statements of each site. If you wish to opt-out of an electronic direct mail from the University, an 'unsubscribe' function is provided or you may email the relevant administrator direct requesting your details be removed.
 
+## Data breach reporting
+
+The University will comply in circumstances where it is required to do so under the _Higher Education Support Act 2003_ (Cth) and also under s26WB and s26WE of the _Privacy Amendment (Notifiable Data Breaches) Act 2017_ (Cth). All other data breaches will be assessed for voluntary reporting.
+
 ## Complaints
 
 Staff, students and other people the University deals with may make a complaint about a breach of privacy through the Integrity and Standards Unit (ISU) Complaints Portal, please see the ISU Complaints Portal webpage for more details.Staff and students may make a complaint about a breach of privacy through the Integrity and Standards Unit (ISU) portal, please see the _[ISU Complaints Portal](http://complaints.curtin.edu.au/management/report.cfm)_ web page for more details.
@@ -76,5 +80,5 @@ Tel: +61 8 9266 1036
 
 Email: privacy@curtin.edu.au
 
-_Privacy statement last updated 28 September 2016._  
+_Privacy Statement last updated 6 April 2017._  
 
