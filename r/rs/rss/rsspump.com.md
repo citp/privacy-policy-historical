@@ -1,0 +1,49 @@
+> *The following text is extracted and transformed from the rsspump.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607105539id_/http%3A//applify.me/cookies_and_privacy_policy.txt) for the most accurate reproduction.*
+
+# 
+
+
+    Privacy Statement
+    
+    We have adopted the following policy with regard to the collection, use, and dissemination of personal information of Users of its Service (herafter "User" or "you"). We refer to our online applications and our website together as the "Service."
+    We are providing this policy below so that you may understand the terms and conditions associated with the provision of any personal information provided to us. Please note that this policy has been developed with the recognition that internet technologies continue to develop and evolve rapidly, and that such changes may require us to alter our Privacy Policy. Any such alterations will not affect our general commitment to the protection of a User's privacy. We will post any changes to our Privacy Policy on this page. Your continued use of this website constitutes acceptance of such terms and policies.
+    
+    
+    General Statement
+    
+    You may visit our website without identifying yourself or revealing any personal information. However, certain transactions that you choose to engage on this site will require your submission of personal information, including but not limited to online applications, requests for further information. As a general rule we will not sell, swap, rent, or otherwise disclose to any third party any such personal information for commercial purposes. We may disclose the information to our employees, consultants, agents, and third party partners for the purpose of fulfilling our program requirements, communicating with Users, for promotional purposes, and to provide requested data regarding our programs and/or participants as required by law.
+    
+    We partner with third parties to provide specific services. When the User agrees to these services, we will share names, or other contact information that is necessary for the third party to provide these services. These partner third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+    
+    
+    Cookies
+    
+    Cookies are unique bits of computer data that many major web sites will transfer to your computer the first time that you visit. Cookies are stored on your hard drive and may be later accessed by the website to track prior usage. Our cookies enable us to provide you with more personal service.  Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. If you continue without changing your settings, we'll assume that you are happy to receive all cookies from this website.
+    
+    
+    External Links
+    
+    We may offer links to third party sites from our site that are not controlled by us and are not covered by this privacy policy. We are not responsible for the privacy practices, security or content of such websites.
+    
+    
+    Security Precautions
+    
+    This site has security measures in place to protect the loss, misuse and alteration of the information under our control. However, due to the nature of internet communications, no data transmission over the internet can be guaranteed to be completely secure. While we remain committed to protecting the privacy of our Users information, we cannot warrant the security of any information you transmit to us, and you do so at your own risk. Once we receive your transmission we make our best effort to ensure its security on our systems.
+    
+    We believe in the importance of safeguarding information that it collects from Users around the world, and has these privacy principles to reflect its commitment to privacy and data protection. All our employees, partners, and other individuals are encouraged to practice these principles. We put our commitment to privacy protection into action through organizational policies, guidelines and internal procedures that are designed to protect the data of Users.
+    
+    In our efforts to ensure that we are protecting the privacy of any and all information obtained through our website, we will periodically review our policies to confirm adherence to established practices.
+    
+    
+    Business Transition
+    
+    In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via a notice on our website for 30 days from any change in ownership or control.
+    
+    
+    Questions or Feedback
+    
+    If you have any questions about this Privacy Policy or to provide us with feedback to help us improve our policies, please contact us by email.
+    
+    
+    Last update to this document:  April, 2016
+    
