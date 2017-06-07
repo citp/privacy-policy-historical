@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karup.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064809id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karup.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607192705id_/http%3A//www.eentinc.com/privacyk.htm) for the most accurate reproduction.*
 
 # EENT, Inc. Privacy Policy
 
