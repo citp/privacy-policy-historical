@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121003704id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607123608id_/http%3A//www.nexteraenergy.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # NextEra Energy, Inc. | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We would like to take this opportunity to thank you for visiting the NextEra Energy, Inc. (“NextEra Energy”) family of websites (the “NextEra Energy Sites”).
 
-The family of NextEra Energy Sites includes: nexteraenergy.com, fpl.com, nexteraenergyresources.com, earthera.com, fplfibernet.com, fplcareers.com, and other sites where this Privacy Policy is found. NextEra Energy and its direct and indirect wholly-owned subsidiaries and its affiliates are collectively hereafter referred to herein as “NextEra Energy,” “we,” “us” or “our.”
+The family of NextEra Energy Sites includes: nexteraenergy.com, fpl.com, nexteraenergyresources.com, earthera.com, fplcareers.com, and other sites where this Privacy Policy is found. NextEra Energy and its direct and indirect wholly-owned subsidiaries and its affiliates are collectively hereafter referred to herein as “NextEra Energy,” “we,” “us” or “our.”
 
 By using any of the NextEra Energy Sites, you represent that you agree with our Privacy Policy and our _[Terms of Use](http://www.nexteraenergy.com/legal_notice.shtml)_. If you do not agree with any one of or both of the aforementioned, please do not use any of the NextEra Energy Sites.
 
