@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606202841id_/http%3A//www.markknopfler.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markknopfler.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607033542id_/http%3A//www.markknopfler.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy : MarkKnopfler.com
 
