@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119212538id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableorganizer.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607091553id_/http%3A//www.cableorganizer.com/answers/privacy-policy.html) for the most accurate reproduction.*
 
 # Cable Organizer .com - Privacy Policy
 
@@ -18,8 +18,8 @@ When you provide CableOrganizer.com with your phone number, we promise that you 
 **Payment Information**  
 We use the latest 256-bit encryption technology to protect your sensitive personal and financial information. Thanks to a combination of Digital ID and Secure Sockets Layer (SSL) protocol, our customers can rest assured that no unauthorized entity will gain access to bank account information or credit card numbers.
 
-**Newsletter Opt-In**  
-We offer periodical e-newsletters and promotional e-mails, but in order to avoid spamming our customers, we only send mailings to individuals who have joined our opt-in list. If you have opted-in in the past but no longer wish to receive these e-mails, simply send a message to [newsletter@cableorganizer.com](mailto:newsletter@cableorganizer.com), and we’ll remove you from the list.
+**Newsletter Terms**  
+We offer periodical e-newsletters and promotional e-mails, to those who have subscribed to our newsletter and to those who have made a purchase through our website. If you have been opted-in in the past but no longer wish to receive these e-mails, simply send a message to newsletter@cableorganizer.com, and we'll remove you from the list. Please note that by opting into our newsletter via subscription or purchase, you agree to receive promotional and newsletter emails from our sister company CrowdControlStore.com. You may also opt out of these emails at any time using the method described above.
 
 **Referring Domains**  
 When people visit CableOrganizer.com via links from other websites, we keep track of which domains referred them to us in order to spend our advertising dollars more wisely, and thereby lower our costs to you. However, we don’t obtain any specific personal information like names or e-mail addresses. In order to improve our website, we track which CableOrganizer.com pages consumers visit, and also keep other voluntarily-given information, such as survey responses and site registrations, on record.
