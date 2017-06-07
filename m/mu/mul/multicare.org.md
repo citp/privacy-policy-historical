@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203212745id_/https%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multicare.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607165945id_/https%3A//www.multicare.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MultiCare Health System
 
@@ -6,7 +6,7 @@
 
 MultiCare respects the privacy of visitors to this web site and is committed to making the best effort we can to safeguard your information. This statement outlines how we collect, use and protect the personal information you provide to us, and serves to assist you in making informed decisions when using our site and services. Please read this entire statement to understand how your information will be treated.
 
-This statement only applies to the use of information about users of our web site. For information about MultiCare's general privacy policies, please see our Notice of Privacy Practices. Due to the nature of electronic communications, please understand that whenever you voluntarily disclose personal information online (i.e. via email), we cannot and do not provide any assurances that your information will not become known or accessible to third parties. If you provide any confidential information about you or your health to us via electronic communication, it is at your own risk. Please be careful and responsible whenever you are online.
+This statement only applies to the use of information about users of our web site. For information about MultiCare's general privacy policies, please see our [Notice of Privacy Practices](/patient-privacy/). Due to the nature of electronic communications, please understand that whenever you voluntarily disclose personal information online (i.e. via email), we cannot and do not provide any assurances that your information will not become known or accessible to third parties. If you provide any confidential information about you or your health to us via electronic communication, it is at your own risk. Please be careful and responsible whenever you are online.
 
 ### Server Log Information
 
