@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historybuff.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205121616id_/http%3A//historybuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historybuff.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607122226id_/http%3A//historybuff.com/privacy) for the most accurate reproduction.*
 
 # HistoryBuff | The Future of History
 
