@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metmuseum.org privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126111719id_/http%3A//metmuseum.org/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metmuseum.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607192752id_/http%3A//metmuseum.org/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Metropolitan Museum of Art
 
@@ -18,7 +18,7 @@ The Museum occasionally asks for feedback and publishes surveys on the Websites 
 
 The Museum will ask you to provide personal information that is necessary to process and service your donation or Membership online, which may include your name, billing and shipping addresses, telephone number, email address, and credit card number. Your credit card information will be temporarily stored on a secure server and used only for processing your online transaction. We will retain the information you provided for our records, and to facilitate customer service. 
 
-We may share the names and postal addresses we receive from Members and donors with other organizations for marketing purposes. If you do not want to have your information used in this way, you may send an e-mail message containing your name and postal address to [membership@metmuseum.org](https://web.archive.org/web/20161126111719id_/http%3A//metmuseum.org/information/membership@metmuseum.org.). 
+We may share the names and postal addresses we receive from Members and donors with other organizations for marketing purposes. If you do not want to have your information used in this way, you may send an e-mail message containing your name and postal address to [membership@metmuseum.org](https://web.archive.org/web/20170607192752id_/http%3A//metmuseum.org/information/membership@metmuseum.org.). 
 
 We may also share such information with third-party vendors who help us analyze and understand our donor and membership base.
 
@@ -39,7 +39,7 @@ By unchecking the box labeled "On occasion, I would like to receive information 
 
 **By Mail:**  
 The Metropolitan Museum of Art  
-Concerts & Lectures Department  
+Event Box Office  
 1000 Fifth Avenue  
 New York, New York 10028-0198  
 United States of America
