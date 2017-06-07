@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salenearn.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052809id_/http%3A//www.salenearn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salenearn.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607075741id_/http%3A//www.salenearn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SaleNearn
+# Privacy Policy - SaleNEarn
 
 Our privacy policy describes how we collect, use and share personal information to help the SaleNearn and to keep it safe. This privacy policy may be updated by us at anytime without any prior notice .In this privacy statement personal information includes details or information of an individual including the personal details like contact and other personal information.
 
