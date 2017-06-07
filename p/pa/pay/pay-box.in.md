@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pay-box.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044404id_/http%3A//pay-box.in/beta/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay-box.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608013752id_/http%3A//www.pay-box.in/home/privacy) for the most accurate reproduction.*
 
-# Welcome To Paybox
+# Online free recharge,Free recharge offer,Free recharge tricks,Free recharge offers,Online free recharge,Free online recharge,Free recharge online,Free recharge,Free recharge offers,Free talktime - paybox.
 
 PayBox is committed to protect the privacy of the users who access its platform (the Platform). This privacy policy statement (the Privacy Policy) generally explains the types of information PayBox gathers and what PayBox does with it. By using or visiting the Platform, you agree to (i) the terms and policies described in this Privacy Policy; and (ii) to the collection of information described in this Privacy Policy. 
 
