@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084645id_/http%3A//www.simplestar.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607091247id_/http%3A//simplestar.com/company/privacy) for the most accurate reproduction.*
 
 # SimpleStar | Cleaning your PC has never been so simple!
 
@@ -27,7 +27,7 @@ Your rights
 
 **_ABOUT US AND THIS POLICY_**
 
-All references to "we", "us" or "our" refer to (1) VAPC (Lux) S.à .r.l. and/or one or more of its corporate affiliates. 
+All references to "we", "us" or "our" refer to (1) Corel Corporation and/or one or more of its corporate affiliates. 
 
 This policy gives you the details of who we are and the details of our privacy policies, including: what data we collect about you when you use SimpleStar Property; what organization is collecting the information; how the information will be used or disclosed; what choices are available to you regarding collection and use of the data; what security measures are in place to protect your personal information; and how you can correct any inaccuracies in the information.
 
