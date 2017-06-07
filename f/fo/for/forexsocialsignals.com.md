@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexsocialsignals.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120124531id_/http%3A//forexsocialsignals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexsocialsignals.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607193018id_/http%3A//forexsocialsignals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ITM Financial
 
@@ -24,4 +24,4 @@ Notification of Changes
 If at some point in the future, there is a change to our privacy policy that will affect your personal information, we will notify you by email of the relevant changes. 
 
 Contacting the Website   
-If you have any questions about this Privacy Statement, the practises of this site or your dealings with this website, please email our Customer Care Department at info@theinternettimemachine.com 
+If you have any questions about this Privacy Statement, the practises of this site or your dealings with this website, please email our Customer Care Department at support@forexsocialsignals.com 
