@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3drobotics.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029104231id_/https%3A//3dr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3drobotics.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607063013id_/https%3A//3dr.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | 3DR - Drone & UAV Technology
+# Privacy Policy | 3DR Site Scan - Commercial Drone Platform
 
   1. [Support](https://web.archive.org/support/categories/)
   2. [Legal](https://web.archive.org/support/sections/201260726/legal)
@@ -23,16 +23,16 @@ In this Statement, we, 3D Robotics, Inc. (“3DR”) describe our practices rega
 **Disclosures, sharing.** We do not disclose your individual account or usage data to third parties, except as follows:
 
   * With your consent.
-  * We use affiliated and unaffiliated service providers that process data on our behalf, under our instructions and subject to adequate confidentiality agreements.
+  * We use affiliated and unaffiliated service providers that process data on our behalf, under our instructions and subject to adequate confidentiality agreements.
   * We share aggregated usage statistics that cannot be used to identify you individually.
-  * We will disclose data as required by law or to protect you, other users, us or third parties from harm, including fraud, data security breaches or where someone’s physical safety seems at risk.
-  * In a reorganization or transfer of our company or assets your data may be transferred, subject to the acquirer accepting the commitments made in this Statement and compliance with applicable law.
+  * We will disclose data as required by law or to protect you, other users, us or third parties from harm, including fraud, data security breaches or where someone’s physical safety seems at risk.
+  * In a reorganization or transfer of our company or assets your data may be transferred, subject to the acquirer accepting the commitments made in this Statement and compliance with applicable law.
 
 
 
-**Third party data collection.** At our discretion, we may include or offer third party products or services on our Site. These third party sites have separate and independent privacy policies. We have no responsibility for the content and activities of these linked sites.  
- **Security.** We take reasonable steps to protect messages and data loss, misuse, and unauthorized  
-access. But, no Internet transmission is ever completely secure or error-free. In particular, uploads and downloads to or from our Site are not encrypted.
+**Third party data collection.** At our discretion, we may include or offer third party products or services on our Site. These third party sites have separate and independent privacy policies. We have no responsibility for the content and activities of these linked sites.  
+**Security.** We take reasonable steps to protect messages and data loss, misuse, and unauthorized  
+access. But, no Internet transmission is ever completely secure or error-free. In particular, uploads and downloads to or from our Site are not encrypted.
 
 **Questions, Requests, Rights.** If you have any questions or requests, please [contact us here](https://3dr.com/contact/). Under the laws in your country, you may have a right to access information that we have about you, to correct such information and to request the deletion of your personal data in accordance with applicable law. You may also be entitled to object to certain data processing activities or to revoke consent previously granted, to the extent permitted by local law.
 
@@ -40,59 +40,51 @@ access. But, no Internet transmission is ever completely secure or error-free. I
 
 **Information you give us**
 
-  * When you register through the 3DR mobile apps, you provide us information about yourself, such as your name, e-mail address, and product information such as serial number and unique identifiers related to your Solo system. You may also provide additional information such as address and telephone number.
-  * By use of the 3DR mobiles apps, you provide information regarding your vehicle including the flight data, e.g. location, date and time only when you are logged in.
-  * By default when you use the 3DR mobile apps, you share anonymous analytics data so that we can improve the software experience. This may include details about your usage of the system. You may opt out of anonymous analytics at anytime.
-  * When you file a support ticket through the 3DR Solo app, you send your flight logs, Solo settings, and logs collected from your vehicle for us to examine. These logs may be used to improve the Solo experience.
-  * If you make purchases in the 3DR Store you will be asked to provide name, address, and credit card or other payment information. Upon registration you share preferences regarding receipt of promotional and other emails from 3DR or its partners.
-  * On Droneshare, you can add vehicles and choose to share vehicle and mission information. If you choose to share mission information, flight metrics such as date, location, time, altitude speed, air speed and software version of the vehicle will be viewable to other members.
-  * We may also collect information about your browser, operating system, the address of the external or internal page that referred you, and your IP address.
+  * When you register through the 3DR mobile apps, you provide us information about yourself, such as your name, e-mail address, and product information such as serial number and unique identifiers related to your Solo system. You may also provide additional information such as address and telephone number.
+  * By use of the 3DR mobiles apps, you provide information regarding your vehicle including the flight data, e.g. location, date and time only when you are logged in.
+  * By default when you use the 3DR mobile apps, you share anonymous analytics data so that we can improve the software experience. This may include details about your usage of the system. You may opt out of anonymous analytics at anytime.
+  * When you file a support ticket through the 3DR Solo app, you send your flight logs, Solo settings, and logs collected from your vehicle for us to examine. These logs may be used to improve the Solo experience.
+  * If you make purchases in the 3DR Store you will be asked to provide name, address, and credit card or other payment information. Upon registration you share preferences regarding receipt of promotional and other emails from 3DR or its partners.
+  * On Droneshare, you can add vehicles and choose to share vehicle and mission information. If you choose to share mission information, flight metrics such as date, location, time, altitude speed, air speed and software version of the vehicle will be viewable to other members.
+  * We may also collect information about your browser, operating system, the address of the external or internal page that referred you, and your IP address.
 
 
 
 **Log data**
 
-  * Flight logs will be automatically sent to Droneshare if you are logged in through Tower. If you are logged in with the 3DR Solo app, flight logs are sent to us whenever you file a support ticket.
-  * By default when you use the 3DR mobile apps, you share anonymous analytics data so that we can improve the software experience. This may include details about your usage of the system. You may opt out of anonymous analytics at anytime.
-  * Logs are recorded on the vehicle, controller, and 3DR mobile apps even if you are logged out of your account.
+  * Flight logs will be automatically sent to Droneshare if you are logged in through Tower. If you are logged in with the 3DR Solo app, flight logs are sent to us whenever you file a support ticket.
+  * By default when you use the 3DR mobile apps, you share anonymous analytics data so that we can improve the software experience. This may include details about your usage of the system. You may opt out of anonymous analytics at anytime.
+  * Logs are recorded on the vehicle, controller, and 3DR mobile apps even if you are logged out of your account.
 
 
 
 **How We Use Information We Collect**
 
   * To provide information about flight conditions in your location.
-  * Your name will be displayed within your Droneshare profile for other members to see and detailed information about your vehicles and missions may be shared with other members based on the sharing preferences you have selected when adding a vehicle.
-  * With your permission, we may share data with regulatory agencies to comply with mandatory or voluntary registration requirements. We will only do this with your permission.
-  * We use aggregated and anonymous data to improve products and services, create new products and services. We reserve the right to use data and to share data with third parties.
+  * Your name will be displayed within your Droneshare profile for other members to see and detailed information about your vehicles and missions may be shared with other members based on the sharing preferences you have selected when adding a vehicle.
+  * With your permission, we may share data with regulatory agencies to comply with mandatory or voluntary registration requirements. We will only do this with your permission.
+  * We use aggregated and anonymous data to improve products and services, create new products and services. We reserve the right to use data and to share data with third parties.
 
 
 
 **3DR Mobile App Services Provided to You by Third Parties**
 
-We collaborate with third parties to provide services such as no-fly-zone information, and may allow third parties to use our developer platform to offer services and functionality in conjunction with our Services. In order to provide no-fly-zone information, we need to send your location and unique vehicle identifier to a third party service. We may send your location to a third party service in order to receive data that improves the performance of your vehicle (for example: time to acquire GPS lock).
+We collaborate with third parties to provide services such as no-fly-zone information, and may allow third parties to use our developer platform to offer services and functionality in conjunction with our Services. In order to provide no-fly-zone information, we need to send your location and unique vehicle identifier to a third party service. We may send your location to a third party service in order to receive data that improves the performance of your vehicle (for example: time to acquire GPS lock).
 
 **To Help us Monitor and Improve the Services we Offer**
 
-We make efforts to make sure the platform keeps working. This includes using your information, where necessary, to stop spam and other activities that violate the terms of service.
+We make efforts to make sure the platform keeps working. This includes using your information, where necessary, to stop spam and other activities that violate the terms of service.
 
-We may employ third party companies and individuals to facilitate our Services (e.g. maintenance, analysis, audit, marketing and development). These third parties have limited access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
+We may employ third party companies and individuals to facilitate our Services (e.g. maintenance, analysis, audit, marketing and development). These third parties have limited access to your information only to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
 
 **For Legal Reasons**
 
-We may disclose your information (including your personally identifiable information, vehicle and flight information) if required to do so by law, regulation or subpoena. We may also disclose your information to our legal counsel, governmental authorities or law enforcement if we believe that it is reasonably necessary to do so in order to comply with a law or regulation; to protect the safety of any person; to address fraud, security or technical issues; or to protect 3DR’s rights or property.
+We may disclose your information (including your personally identifiable information, vehicle and flight information) if required to do so by law, regulation or subpoena. We may also disclose your information to our legal counsel, governmental authorities or law enforcement if we believe that it is reasonably necessary to do so in order to comply with a law or regulation; to protect the safety of any person; to address fraud, security or technical issues; or to protect 3DR’s rights or property.
 
 **Do Not Track Signals**
 
-The Droneshare website does not currently respond to a Do Not Track (“DNT”) or similar signal as it awaits the results of efforts by the policy and legal community to determine the meaning of DNT and the proper way to respond.
-
-##  Live Chat 
-
-Available hours: 8am - 5pm PST 
+The Droneshare website does not currently respond to a Do Not Track (“DNT”) or similar signal as it awaits the results of efforts by the policy and legal community to determine the meaning of DNT and the proper way to respond.
 
 ##  Email 
 
 Email our team for support 
-
-##  Hardware Services 
-
-Find an Authorized Service Center 
