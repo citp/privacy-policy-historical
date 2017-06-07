@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daygameblueprint.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106085612id_/http%3A//daygameblueprint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daygameblueprint.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608004501id_/http%3A//daygameblueprint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Daygame Blueprint
 
