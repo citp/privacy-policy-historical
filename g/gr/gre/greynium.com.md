@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greynium.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127195908id_/http%3A//www.greynium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greynium.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607125114id_/http%3A//www.greynium.com/privacy-policy) for the most accurate reproduction.*
 
 # Greynium-Privacy Policy
 
