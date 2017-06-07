@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ray-ban.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621190023id_/http%3A//www.ray-ban.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ray-ban.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607082139id_/http%3A//www.ray-ban.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Ray-Ban.com Privacy Policy | Ray-Ban US Online Store
 
@@ -6,13 +6,13 @@ This website is managed by a subsidiary of Luxottica Group S.p.A. ("Luxottica"),
 
 ## HOW WE COLLECT THE INFORMATION
 
-There are many ways that we obtain information from you, including but not limited to: (1) via signup on any of our website(s); (2) from an online, email, retail, fax or telephone purchase; (3) from navigational information about where visitors go on our website; (4) when you enter a Ray-Ban sweepstakes/giveaway; (5) anytime you submit a business reply, product, or warranty card; (6) upon contacting customer care to request Ray-Ban communications; and (7) upon signing up at an event.
+There are many ways that we obtain information from you, including but not limited to: (1) via signup on any of our website(s); (2) from an online, email, retail, fax or telephone purchase; (3) from navigational information about where visitors go on our website; (4) from your use of Ray-Ban’s virtual program; (5) when you enter a Ray-Ban sweepstakes/giveaway; (6) anytime you submit a business reply, product, or warranty card; (7) upon contacting customer care to request Ray-Ban communications; and (8) upon signing up at an event.
 
 ## THE INFORMATION WE COLLECT
 
 When you register online to receive our product information, you will need to provide us with your name, address and e-mail address. When you make a purchase through Ray-Ban's website, you also will need to give us your telephone number and credit card number so we can process your payment and contact you in the event of any problems with delivery. If you contact our customer care department, you may need to provide us with additional information so that we can respond to your questions or concerns as completely and thoroughly as possible.
 
-In order to provide users and subscribers with the most efficient and enhanced service and to better understand your preferences, we may request your gender, year of birth, sports of interest, shopping preference and product interest. Whether or not you provide this information is entirely up to you.
+In order to provide users and subscribers with the most efficient and enhanced service and to better understand your preferences, we may request your gender, year of birth, sports of interest, shopping preference and product interest. Whether or not you provide this information is entirely up to you. Ray-Ban’s virtual program is completely voluntary. If you use Ray-Ban’s virtual program, we will collect and maintain a copy of the image or images.
 
 We also may collect additional non-personally identifiable information (for example, browser version, IP address) which will provide information regarding the general use of our website. The navigational information allows us to see which areas of our website are most visited and helps us improve the quality of your online experience by recognizing and delivering more of the most desired features and services.
 
@@ -26,7 +26,7 @@ We will primarily use your personal information to provide products and services
 
 2\. To send you information/materials via e-mail or mail about products, offers and news we think could interest you. This information may relate to products, offers and news of Ray-Ban products or any of our other products and services.
 
-3\. To analyze visits to the website and learn about the interests of our visitors in the aggregate so we can improve our products and services and deliver the best user experience.
+3\. To analyze visits to the website and learn about the interests of our visitors as well as visitor’s physical features in the aggregate so we can improve our products and services and deliver the best user experience.
 
 The information obtained during an online purchase is utilized to improve your web experience by enabling you to obtain a faster checkout for purchases and/or opt-in to receive e-mails, which provide you with the latest and greatest information regarding Ray-Ban products and our other products and services.
 
@@ -40,7 +40,9 @@ A cookie is a small removable data file that is stored by your web browser on yo
 
 2\. Recognize you when you return to our website
 
-3\. Analyze visitor behavior
+3\. Assist you in efficiently accessing any pictures taken with the virtual program
+
+4\. Analyze visitor behavior
 
 You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser settings. Please note, however, that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our website.
 
