@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chilisathome.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210190947id_/http%3A//www.chilisathome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilisathome.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607165819id_/http%3A//www.chilisathome.com/privacy-policy) for the most accurate reproduction.*
 
 # Chilis At Home | Privacy Policy
 
@@ -30,6 +30,7 @@ Here are the circumstances for which we might ask for personal information from 
     4. participate in a survey, a consumer research panel, or similar type of activity;
     5. ask to receive an online newsletter or other information or material from us; or
     6. otherwise participate in features of our website that ask for personal information.
+    7. participate in a rating, satisfaction or other surveys or requests for optional demographic-type information, including online product reviews for publication.
 
 
 
