@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the japanauctioncenter.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120103748id_/http%3A//www.jauce.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japanauctioncenter.com privacy policy that was archived on 2017-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170607085308id_/http%3A//www.jauce.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--?xml version="1.0" encoding="iso-8859-1"?--><head>
 <!-- link rel="stylesheet" href="style.css" type="text/css" / -->
@@ -9,6 +9,9 @@
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <link href="css/common.css" rel="stylesheet" type="text/css">
 <link href="css/add.css" rel="stylesheet" type="text/css">
+
+<link href="css/header.css?20170508" rel="stylesheet" type="text/css">
+
 <title>Yahoo Japan Auctions. eBay Japan</title>
 <meta name="description" content="Bid on Yahoo Japan Auctions in real-time. We ship anywhere in the world! eBay Japan.">
 <meta name="keywords" content="eBay Japan, Japan eBay, Japan auction, Yahoo Japan Auction, Japan shopping">
@@ -88,7 +91,7 @@ $(function() {
 //Depending on whether your page supports SSI (.shtml) or PHP (.php), UNCOMMENT the line below your page supports and COMMENT the one it does not:
 //Default is that SSI method is uncommented, and PHP is commented:
 
-var currenttime = 'Sunday November 20, 2016 19:37:48'; //PHP method of getting server date
+var currenttime = 'Wednesday June 07, 2017 17:53:08'; //PHP method of getting server date
 
 ///////////Stop editting here/////////////////////////////////
 
@@ -145,8 +148,6 @@ function MM_swapImage() { //v3.0
     	<ul>
     	<li class="lang1 on"><a href="/privacy.php">English</a></li>
       	<li class="lang2"><a href="/zh-CN/privacy.php">中文</a></li>
-      	<li class="lang3"><a href="/fr/privacy.php">Français</a></li>
-      	<li class="lang4"><a href="/ru/privacy.php">Русский</a></li>
       	<!-- li class="lang5"><a href="#">Español</a></li -->
     	</ul>
     	<h2 class="hide">Enjoy Japanese auctions Anywhere in the world!</h2>
@@ -211,20 +212,74 @@ $(function() {
 //]]>
 </script>
     <!-- //151203 autocomplote -->
-    
+
+<script type="text/javascript">
+//<![CDATA[
+function selectCategory(key, value) {
+	$('#search_category_name').text(value);
+	$('#search_category').val(key);
+}
+//]]>
+</script>
+
+
     <div id="headerBox">
-    	<div class="inheaderBox">
+      <div class="trigger" id="tab01"></div>
+      <div class="trigger" id="tab02"></div>
+      <ul class="tabBtn">
+        <li class="active"><a href="/">Yahoo! Japan Auctions</a></li>
+        <li>
+          <div class="new">βeta</div>
+          <a href="/amz/">Amazon Japan</a></li>
+      </ul>
+      <div class="tabContents">
+        <div class="content yahooAuctions">
+
+
+    	<div class="inheaderBox clearfix">
     	
-        <form name="searchform" id="searchform" method="post" action="./directory_list.php">
-      		<input name="find" id="find" value="Search auction here" onfocus="javascript:this.value='';" onblur="if(this.value == '') this.value ='Search auction here';" class="ui-autocomplete-input" autocomplete="off">
-      		<input type="submit" value="" name="searchBtn" id="searchBtn">
+        <form name="searchform" id="searchform" method="post" action="./directory_list.php" class="clearfix">
+              <input name="find" id="find" value="Enter a keyword or Auction ID" onfocus="javascript:this.value='';" onblur="if(this.value == '') this.value ='Enter a keyword or Auction ID';" class="ui-autocomplete-input" autocomplete="off">
+              <div class="categories">
+                <div class="filterCategory "><span class="caret" id="search_category_name">All categories</span>
+                  <ul class="drop">
+                    <li><a href="javascript: selectCategory('All', 'All categories');">All categories</a></li>
+                    <!-- li><a href="javascript: selectCategory('0', 'In this category');">In this category</a></li -->
+								<li><a href="javascript: selectCategory('23336', 'Computer');">Computer</a></li>
+								<li><a href="javascript: selectCategory('23632', ' AV &amp; Camera');"> AV &amp; Camera</a></li>
+								<li><a href="javascript: selectCategory('22152', 'Music');">Music</a></li>
+								<li><a href="javascript: selectCategory('21600', 'Book and magazine');">Book and magazine</a></li>
+								<li><a href="javascript: selectCategory('21964', 'Movie, video');">Movie, video</a></li>
+								<li><a href="javascript: selectCategory('25464', 'Toy and game');">Toy and game</a></li>
+								<li><a href="javascript: selectCategory('24242', 'Hobby and culture');">Hobby and culture</a></li>
+								<li><a href="javascript: selectCategory('20000', 'Antique and collection');">Antique and collection</a></li>
+								<li><a href="javascript: selectCategory('24698', 'Sport and leisure');">Sport and leisure</a></li>
+								<li><a href="javascript: selectCategory('26318', 'Automotive');">Automotive</a></li>
+								<li><a href="javascript: selectCategory('23000', 'Fashion');">Fashion</a></li>
+								<li><a href="javascript: selectCategory('23140', 'Accessory and clock');">Accessory and clock</a></li>
+								<li><a href="javascript: selectCategory('42177', 'Beauty and health care');">Beauty and health care</a></li>
+								<li><a href="javascript: selectCategory('23976', 'Food and beverage');">Food and beverage</a></li>
+								<li><a href="javascript: selectCategory('24198', 'House, interior');">House, interior</a></li>
+								<li><a href="javascript: selectCategory('2084055844', 'Pet and creature');">Pet and creature</a></li>
+								<li><a href="javascript: selectCategory('22896', 'Office &amp; Store supplies');">Office &amp; Store supplies</a></li>
+								<li><a href="javascript: selectCategory('26086', 'Flower, gardening');">Flower, gardening</a></li>
+								<li><a href="javascript: selectCategory('2084043920', 'Tickets');">Tickets</a></li>
+								<li><a href="javascript: selectCategory('24202', 'Baby supplies');">Baby supplies</a></li>
+								<li><a href="javascript: selectCategory('2084032594', 'Talent goods');">Talent goods</a></li>
+								<li><a href="javascript: selectCategory('20060', 'Comic, animation goods');">Comic, animation goods</a></li>
+								<li><a href="javascript: selectCategory('2084060731', 'Real estate');">Real estate</a></li>
+								<li><a href="javascript: selectCategory('26084', 'In addition');">In addition</a></li>
+			                    <!-- li><a href="javascript: selectCategory('aid', 'Auction ID');" class="id">Auction ID</a></li -->
+                    <!-- li><a href="javascript: selectCategory('sid', 'Seller ID');" class="id">Seller ID</a></li -->
+                  </ul>
+                </div>
+              </div>
+              <!-- / .categories -->
+              <input type="hidden" value="" name="category" id="search_category">
+              <input type="submit" value="" name="searchBtn" id="searchBtn">
       	</form>
-      	
-        <div id="feeEst">
-      		<div class="delivery"><a href="#" onclick="window.open('price_check.php', '_blank', 'width=1000,height=400,resizable=no'); return false;">Delivery fee estimator</a></div>
-        	<div class="service"><a href="#" onclick="window.open('fee_check.php', '_blank', 'width=1000,height=400,resizable=no'); return false;">Service fee estimator</a></div>
-        </div>
-      </div>
+      	<div class="advanced"><a href="/advanced.php">Advanced search</a></div>
+      </div><!-- / .inheaderBox -->
       <div id="categoryList" class="clearfix">
       	<ul>
       							<li><a href="http://www.jauce.com/category/23336" class="botlinks2">Computer</a></li>
@@ -263,6 +318,12 @@ $(function() {
         	</div>
         </div>
       </div><!-- /#categoryList -->
+
+
+        </div>
+        <!-- / .content -->
+      </div>
+      <!-- / .tabContents -->
     </div><!-- /#headerBox -->
       				<div id="userBox" class="outLogin">
 		    		<div class="welcomeMsg">Welcome <span>Guest!	</span></div>
@@ -272,13 +333,15 @@ $(function() {
         				<li class="register"><a class="hide" href="https://www.jauce.com/auctions/index.php">Register</a></li>
       				</ul>
         			<ul class="social">
-						<li class="twitter" title="sign in with tiwtter"><a href="https://api.twitter.com/oauth/authenticate?oauth_token=0F-i8QAAAAAASp8dAAABWIFQOn8"><img style="" src="login_/imges/twitter.gif"></a></li>
+						<li class="twitter" title="sign in with tiwtter"><a href="https://api.twitter.com/oauth/authenticate?oauth_token=jjStegAAAAAASp8dAAABXIHB60M"><img style="" src="login_/imges/twitter.gif"></a></li>
         				<li class="faceboook" title="sign in with facebook"><a href="http://www.facebook.com/dialog/oauth?client_id=406316239478311&amp;redirect_uri=http%3A%2F%2Fwww.jauce.com%2Flogin_%2Ffacebook%2Fcallback.php&amp;scope=email%2Cuser_location"><img style="" src="login_/imges/facebook.gif"></a></li>
         				<li class="paypal" title="sign in with paypal"><a href="https://www.paypal.com/webapps/auth/protocol/openidconnect/v1/authorize?scope=openid profile email address phone https://uri.paypal.com/services/paypalattributes https://uri.paypal.com/services/expresscheckout&amp;response_type=code&amp;redirect_uri=http%3A%2F%2Fwww.jauce.com%2Flogin_%2Fpaypal%2Fcallback.php&amp;client_id=AXlmARCop6nOMsWu1On8OJbfja9tfD_oQYgV28-0VBTwrqlgqpn8w6kFD_kR"><img style="" src="login_/imges/paypal.gif"></a></li>
       				</ul>
     			</div>
         	  </div><!-- /#header -->
 
+
+<!-- ru, fr delete -->
 
 <table align="center" cellpadding="0" cellspacing="0" width="960">
 <tbody>
@@ -312,7 +375,11 @@ $(function() {
       	      	<!-- li><a href="http://mirudake.jp/">Mirudake.jp</a></li -->
       	 <li><a href="/eBay_Japan.php">eBay Japan</a></li>
       	 <li><a href="/notices.php">News</a></li>
+      	 <li><a href="/index.php?notice=fr">Enchère Japon</a></li>
+      	 <li><a href="/index.php?notice=ru">аукционах Японии</a></li>
       	<li><a href="/sitemap.xml">Sitemap.XML</a></li>
+        <li><a href="#" onclick="window.open('price_check.php', '_blank', 'width=1000,height=400,resizable=no'); return false;">Delivery fee estimator</a></li>
+        <li><a href="#" onclick="window.open('fee_check.php', '_blank', 'width=1000,height=400,resizable=no'); return false;">Service fee estimator</a></li>
       </ul>
       <p class="web"><a href="./">www.jauce.com</a></p>
       <p class="copy">Copyright © 2006 Nichido Ltd. Japan</p>
