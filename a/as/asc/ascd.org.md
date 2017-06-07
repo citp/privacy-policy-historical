@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the ascd.org privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221114705id_/http%3A//ascd.org/about-ascd/ASCD-Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascd.org privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607134506id_/http%3A//www.ascd.org/about-ascd/ASCD-Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# ASCD Privacy Policy
+# ASCD
 
-  | 
+Our Privacy Policy explains how the Association for Supervision and Curriculum Development ("ASCD," "we," or "us") collect, use, share, and protect information in relation to our online services and websites (collectively, the "Service"), and your choices about the collection and use of your information. Our Policy applies to all visitors, members, users, and others who access and use the Service ("Users").
 
 **Notice:** We have revised the privacy policy as of November 10, 2015. We updated our policy to furnish you with more information on how we collect, use, share and protect information provided by our users in connection with emerging technologies like mobile and analytics. In our section on "Cookies," we add details on how we and advertisers use cookies and similar technologies to provide ASCD services to you and to provide information that may be of interest to you. We also explain the choices that you have with these technologies. Apart from the above changes, we have made some corrections and minor language changes to the Privacy Policy.
-
-|    
----|---|---  
-  
-Our Privacy Policy explains how the Association for Supervision and Curriculum Development (“ASCD,” “we,” or “us”) collect, use, share, and protect information in relation to our online services and websites (collectively, the "Service"), and your choices about the collection and use of your information. Our Policy applies to all visitors, members, users, and others who access and use the Service ("Users").
 
 ### Questions or Comments
 
@@ -20,7 +15,7 @@ Attention: ASCD Legal
 1703 N. Beauregard Street  
 Alexandria, VA 22311 USA
 
-### Overview
+## Overview
 
 When you create an account with us, contact us, join ASCD as a member, access or use our Service, make a purchase, or register for conferences, institutes, and webinars, you provide us with information about yourself. This Privacy Policy describes how we collect and use such information.
 
@@ -29,8 +24,6 @@ Please note that, to the extent that you disclose or you authorize ASCD to discl
 The Service may contain links to other entities' websites that are not controlled or operated by ASCD. This Privacy Policy does not apply to such third-party websites, and ASCD is not responsible for the content of such third-party websites or the privacy practices of such third parties. Therefore, we encourage you to request and review the privacy policies of any third parties upon disclosing your information such parties or visiting such third-party websites.
 
 California residents have certain rights under state law related to the sharing of personal information with third parties for direct marketing purposes. ASCD offers a cost-free means to opt-out of disclosure of personally identifiable information for direct marketing purposes as described in the section titled "Choice and Opt-Out Preferences" below.
-
-_This Privacy Policy has been updated as of July 1, 2015._
 
 ### Collection of Your Personal Information
 
@@ -94,7 +87,7 @@ Personally identifiable information collected on the Service may be stored and p
 
 #### 2\. Will ASCD share my personal information with others?
 
-We may disclose your personally identifiable information to third parties including, without limitation, service providers or vendors whose products and/or services requested by you in order to fulfill a transaction, or who have sponsored an event attended by you. You acknowledge and agree that, by requesting such third-party products and/or services, you hereby authorize ASCD to disclose your personally identifiable information to such parties.
+We may disclose your personally identifiable information to third parties including, without limitation, our third party service providers or vendors whose products and/or services are required in order for ASCD to fulfill a transaction, or who have sponsored an event attended by you. You acknowledge and agree that, by requesting such third-party products and/or services, you hereby authorize ASCD to disclose your personally identifiable information to such parties.
 
 Your username or user ID will be displayed when you use certain areas of the Service including, without limitation, in connection with discussion groups, bulletin boards, or forums in which you participate. Other users may be able to view your username or user ID and the contents of any posts by you (collectively, your "User Posts"). Therefore, if you include any personally identifiable information in any of your User Posts, any other person or entity that accesses the Service may be able to identify you and your activities on the Service. In addition, we may disclose your personally identifiable information, including as part of working group lists, mailing lists, and other directories, to leaders and/or other members of groups that you have elected to join or leaders and/or other participants in projects or initiatives in which you have elected to participate. You assume full responsibility for any consequences you incur when you make User Posts on a public area of the Service.
 
