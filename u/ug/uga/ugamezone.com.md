@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugamezone.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222516id_/http%3A//www.ugamezone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugamezone.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607080823id_/http%3A//www.ugamezone.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - UGameZone.com
 
