@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundayworld.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123161709id_/http%3A//www.sundayworld.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundayworld.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607141218id_/http%3A//www.sundayworld.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement / Sunday World
 
