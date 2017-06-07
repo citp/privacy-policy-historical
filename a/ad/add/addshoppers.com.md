@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addshoppers.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126211749id_/http%3A//www.addshoppers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addshoppers.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607193644id_/http%3A//www.addshoppers.com/privacy) for the most accurate reproduction.*
 
 # AddShoppers - Privacy
 
@@ -201,4 +201,17 @@ AddShoppers does not knowingly collect Personally Identifiable Information from 
 
 California law requires that AddShoppers provide you with a summary of your privacy rights under the California Online Privacy Protection Act ("California Privacy Act") and the California Business and Professions Code.
 
-As required by the California Privacy Act, this Privacy Policy identifies the categories of personally identifia
+As required by the California Privacy Act, this Privacy Policy identifies the categories of personally identifiable information that AddShoppers collects through its Services about individual users who use or visit the Services and the categories of third party persons or entities with whom such personally identifiable information may be shared.
+
+California Civil Code Section 1798.83 permits users of the Services who are residents of California to request certain information regarding the disclosure of personal information by AddShoppers to third parties for direct marketing purposes and a description of the categories of personal information shared. To make such a request, please send an e-mail to AddShoppers at help@addshoppers.com and include the phrase "California Privacy Request" in the subject line.  The body of the California Privacy Request should include the domain name of the website you are inquiring about as well as your personal contact information ( _e.g._ , your name, address and email address).  AddShoppers support staff will respond to your request within thirty (30) days of its receipt of such a request.
+
+ **Changes to this Privacy Policy**.  We may change this Privacy Policy from time to time, and will post prior notice of any such changes on the Site. Our use of information collected prior to a material change in this Privacy Policy shall continue to be governed by the Privacy Policy that is in effect at the time the information was collected, unless you opt in to allow the information to be governed by the new policy. Please refer back to this Privacy Policy on a regular basis.
+
+ **How to Contact Us**
+
+If you wish to contact us about this Privacy Policy, you can reach us by email at help@addshoppers.com
+
+AddShoppers, Inc.  
+222 South Church Street  
+Suite 100  
+Charlotte, NC 28202
