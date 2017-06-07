@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905233618id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automd.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607020012id_/http%3A//www.automd.com/default/privacy-policy) for the most accurate reproduction.*
 
 # AutoMD - Privacy Policy
 
-### AUTOMD.COM
-
 ### Effective Date: September 3, 2015
 
-**This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on October 3, 2015 for pre-existing users. To read the previous policy, please click here:  
-[https://www.automd.com/default/privacy_policy?token=a98e01c1f392](https://web.archive.org/default/privacy_policy?token=a98e01c1f392)**
+**This Privacy Policy is effective immediately for users registering accounts after that date and will become effective on October 3, 2015 for pre-existing users. To read the previous policy, please[click here](https://web.archive.org/default/privacy_policy?token=a98e01c1f392).**
 
 This privacy policy (“Privacy Policy”) applies to the web sites, e-mails and mobile applications (the “Properties” or “Web Properties”) owned and operated by AutoMD, Inc. (“AutoMD” “we” or “us”), including the web site located at www.AutoMD.com. The Policy is designed to tell you how we collect and use personal information (as defined below) so you can make an informed decision about using our Properties. Please read this statement before using our Properties or submitting any personal information to us. **We reserve the right to change the provisions of this Privacy Policy at any time.   We will notify you of these changes by e-mail or by posting a revised Privacy Policy on the Properties and indicating on the Privacy Policy the date it was last updated. Your use of the Properties following the posting of such changes or revised statement shall constitute your consent to any such changes.** We encourage you to review our Privacy Policy whenever you visit our Properties to determine if any changes have been made and to make sure that you understand how any personal information you provide will be used.
 
