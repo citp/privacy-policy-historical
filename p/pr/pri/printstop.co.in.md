@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printstop.co.in privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318091222id_/http%3A//www.printstop.co.in/cms/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printstop.co.in privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607042445id_/http%3A//www.printstop.co.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,21 +6,18 @@ PrintStop India Pvt Ltd values its customers and respects their privacy. We coll
 
 PrintStop India Pvt Ltd recognizes that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties. However, we do share your information with third parties under certain circumstances as detailed below.
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, please contact PrintStop India Pvt Ltd customer service via email at store@printstop.co.in or write to us at:
+This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If you have any questions about our privacy policy, please contact PrintStop India Pvt Ltd customer service via email at store@printstop.co.in
 
-PrintStop India Pvt Ltd  
-Attn: Customer Service (www.printstop.co.in)  
-15 A/1 Sindhi Colony, Opp SIES College, Sion (W),  
-Mumbai 400 022, Maharashtra, INDIA.
+If our information practices change in the future, we will let you know by posting the policy changes on our Web site or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.  
+ 
 
-If our information practices change in the future, we will let you know by posting the policy changes on our Web site or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
-
-##  WHAT WE COLLECT
+## WHAT WE COLLECT
 
   
-We collect information (such as your name, email address, mailing address, phone and credit card numbers) that you provide when you place an order, save your information with us or participate in a contest, promotion or survey. We also maintain a record of your product interests and your purchases online and in our stores. All the information we collect is given to thrid parties ONLY if they are involved in completing your order.
+We collect information (such as your name, email address, mailing address, phone and credit card numbers) that you provide when you place an order, save your information with us or participate in a contest, promotion or survey. We also maintain a record of your product interests and your purchases online and in our stores. All the information we collect is given to thrid parties ONLY if they are involved in completing your order.  
+ 
 
-##  HOW WE USE YOUR INFORMATION
+## HOW WE USE YOUR INFORMATION
 
   
 When you make an online purchase from PrintStop India Pvt Ltd, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, contests, and promotions.
@@ -38,7 +35,7 @@ To serve you better, we may combine information you give us online and in our st
   
  
 
-##  THIRD PARTY TRANSACTIONS
+## THIRD PARTY TRANSACTIONS
 
   
 We contract with third parties to assist us in maintaining and managing our customer information to fulfill promotions and to communicate with our customers. We do not authorize any of those third parties to make any other use of your information.
@@ -49,30 +46,37 @@ If prior to participating in a contest or promotion, you opted not to receive in
 
 We also may share aggregate, non-personally identifiable information about you (such as age, gender, and types of products purchased) with our business partners to fulfill our contractual obligations. Except as described above, we do not share, rent or sell any information we collect online to any unaffiliated third party.
 
-##  ACCESSING YOUR INFORMATION
+  
+ 
+
+## ACCESSING YOUR INFORMATION
 
   
 To access your information online, simply click the ACCOUNT link to sign in, and then choose the appropriate section to review, edit, or delete your personal information. Please note that any requests to change the frequency that we send email updates to you may take up eight weeks.
 
 If at any time you would like us to remove you from our email or postal mailing lists or if you do not want us to use your information to enhance your shopping experience, feel free to contact PrintStop India Pvt Ltd customer service via email at store@printstop.co.in. 
 
-Please be sure to include your email address and full name.
+Please be sure to include your email address and full name.  
+ 
 
-##  REMOVING YOURSELF FROM MAILOUTS
+## REMOVING YOURSELF FROM MAILOUTS
 
   
 We want to communicate with you only if you want to hear from us. If you prefer not to receive information from us, either through email, postal mail or by phone, please let us know by sending us an email at store@printstop.co.in
 
 Please note that such requests may take up to six to eight weeks to become effective. In addition, if you ask us to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Please also note that when you make a purchase, we will send you an email to confirm your order and may also need to contact you via phone, postal mail or email if we have other questions regarding your order.
 
-##  CHILDREN'S PRIVACY
+## CHILDREN'S PRIVACY
 
   
 We at PrintStop India Pvt Ltd are concerned about the safety of children when they use the Internet. Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent.
 
 If we become aware that a subscriber is under the age of 13 and has signed up without prior verifiable parental consent, we will remove his or her personally identifiable information from our files.
 
-##  COOKIES
+  
+ 
+
+## COOKIES
 
   
 A cookie is a small data file that Web sites often store on your computer's hard drive when you visit their sites. A cookie may contain information (such as a unique user ID), that is used to track the pages of the sites you've visited. We use cookies but do not store personally identifiable information in your cookie.
