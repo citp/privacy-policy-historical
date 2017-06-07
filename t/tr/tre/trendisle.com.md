@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendisle.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916044100id_/http%3A//www.trendisle.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendisle.com privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607103002id_/https%3A//www.trendisle.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trendisle.com
 
