@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226055118id_/http%3A//ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donotcall.gov privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608143611id_/http%3A//ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
@@ -73,7 +73,7 @@ When you contact us to help you with a problem, we may collect personal informat
 The FTC’s Privacy Act rules – including our procedures, timelines, and instructions for submitting Privacy Act requests, and a list of FTC systems of records that are exempt from the Act’s requirements –  are published at [16 C.F.R. 4.13](http://www.ecfr.gov/cgi-bin/text-idx?SID=04a711d6460cb5811b7b9acc0e359ead&mc=true&node=se16.1.4_113&rgn=div8).
 
   * List of [FTC Privacy Act Systems of Records](https://www.ftc.gov/about-ftc/foia/foia-reading-rooms/privacy-act-systems)
-  * For more information about making a Privacy Act request, visit our [FOIA request page](https://www.ftc.gov/about-ftc/foia/foia-request) or use our [online request form](https://foia.ftc.gov/ftc/foia.htm).
+  * For more information about making a Privacy Act request, visit our [FOIA request page](https://www.ftc.gov/about-ftc/foia/foia-request) or use our [online request form](https://www.ftc.gov/foia/request-form).
 
 
 
@@ -111,4 +111,4 @@ Visit our [Contact Us](https://www.ftc.gov/contact) page to find email, phone, a
 
 
 
-_Revised October 2016_
+ _Revised October 2016_
