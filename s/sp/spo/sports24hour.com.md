@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sports24hour.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100523id_/http%3A//sports24hour.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sports24hour.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608140434id_/http%3A//sports24hour.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Sports24hour A Dedicate Website for Sports Lovers
+# Privacy Policy » Sports24hour Latest Sports News, Breaking News, Live stream, Online Headlines
 
 Privacy Policy for www.sports24hour.com/
 
