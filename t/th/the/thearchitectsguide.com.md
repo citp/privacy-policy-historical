@@ -1,53 +1,77 @@
-> *The following text is extracted and transformed from the thearchitectsguide.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604050314id_/http%3A//www.thearchitectsguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearchitectsguide.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608153053id_/https%3A//www.thearchitectsguide.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:brandon@thearchitectsguide.com).
+EFFECTIVE DATE: SEPTEMBER 19, 2016
 
-At www.thearchitectsguide.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.thearchitectsguide.com and how we use it.
+1\. INTRODUCTION  
+1.1. PURPOSE OF POLICY.  
+Brandon Hubbard dba The Architect's Guide (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its visitors and users of this website (the “Site”). We created this Privacy Policy (“Policy”) to give you confidence as you visit and use the Site, and to demonstrate a commitment to fair information practices and the protection of privacy.
 
- **Log Files**  
-Like many other Web sites, www.thearchitectsguide.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+2\. INFORMATION COLLECTION PRACTICES  
+2.1. WHAT PERSONALLY IDENTIFIABLE INFORMATION DO WE COLLECT?  
+(a) Categories of Personally Identifiable Information. We collect personally identifiable information from you only if you sign up for a newsletter or contact us including:
 
- **Cookies and Web Beacons**  
-www.thearchitectsguide.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
+  * Your name,
 
- **DoubleClick DART Cookie**  
-→ Google, as a third party vendor, uses cookies to serve ads on www.thearchitectsguide.com.  
-→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.thearchitectsguide.com and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+  * Your email address, and
 
- **Our Advertising Partners**  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....... 
-
-  * Google
-  * Commission Junction
-  * Amazon
+  * Message details you send with inquiries.
 
 
 
- _While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:  [Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
-You may consult this listing to find the privacy policy for each of the advertising partners of www.thearchitectsguide.com._
 
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.thearchitectsguide.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+(b) Modification or Removal Process. Please contact us if you wish to modify your information.
 
-www.thearchitectsguide.com has no access to or control over these cookies that are used by third-party advertisers.
+(c) Privacy Policy Modifications and Updates. We may update and modify this Privacy Policy. If we modify or update the policy, we will post a notice on the Site for 30 days prior to the change going into effect.
 
- **Third Party Privacy Policies**
+(d) Effective Date: The effective date of this new privacy policy shall be September 19, 2016.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.thearchitectsguide.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links).
+(e) Do Not Track Signals. We do not currently honor “do not track” signals issued by browsers or other third party sources.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
+(f) Third Party Tracking: As a matter of transparency, we’ve decided to disclose to you whether third parties can acquire and track your personally identifiable information through our website. Google and other sites listed below can track you through this Site as we use their services for social media and infrastructure purposes. Google participates in the NIA opt out program. You can visit [this link](http://www.networkadvertising.org/choices/#completed) to no longer be tracked by Google and Google properties such as Google Plus. You can also visit the following sites to read their privacy policies and how they track individuals across the web:
 
- **Children's Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.thearchitectsguide.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.thearchitectsguide.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
+  * [Facebook](https://www.facebook.com/about/privacy/)
 
- **Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
+  * [LinkedIn](https://www.linkedin.com/legal/pop/pop-privacy-policy)
 
- **Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
+  * [Twitter](https://twitter.com/privacy)
 
- **Update**  
-This Privacy Policy was last updated on: Saturday, October 17th, 2015.  
- _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+  * [YouTube](https://www.youtube.com/static?template=privacy_guidelines)
+
+
+
+
+You can use programs such as [Privacy Badger](https://www.eff.org/privacybadger) to further control the collection of information regarding you online.
+
+(g) California Eraser Law. We comply with the California eraser law. To the extent you are a minor and wish to have any content you’ve posted to the Site removed, please contact us using the Contact link in the footer of the Site to make the request. Please note the removal of this content from the Site does not mean it will be removed from the web as search engines, archive websites and other platforms may have copied the content in question.
+
+2.2. WHAT ADDITIONAL INFORMATION DOES COMPANY COLLECT?  
+(a) AUTOMATIC COLLECTION. Our servers automatically recognize visitors’ domain names and IP addresses (the number assigned to computers on the Internet). No personal information about you is revealed in this process. The Site may also gather anonymous aggregate “traffic data” that does not personally identify you, but that may be helpful for marketing purposes or for improving the services we offer.
+
+(b) COOKIES. We may use “cookies” to store a small piece of data on your computer during your visit to collect information. The cookies are used to gain information on how you use the web, which we try to incorporate into the Site to improve your experience.
+
+3\. USE AND SHARING OF INFORMATION  
+3.1. WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?  
+(a) PERSONAL INFORMATION. We will not share your personal information with any third parties without your consent, except as necessary to provide you with the services offered by us or to comply with the law. Examples of such services include, but are not limited to, third parties providing email facilitation and hosting. However, please note that if you leave the Site and purchase a product or service we promote, the company you purchase from will notify us of the purchase as well as certain identifying information for you. We do not share this information with others.
+
+(b) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our Site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis. Your personal information will not be detailed in this aggregate data.
+
+(c) USE OF COOKIES. We use information obtained from cookies to analyze your use of the Site and to make appropriate adjustments.
+
+(d) DISCLOSURE OF PERSONAL INFORMATION. We may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on Company, (2) protect and defend the rights or property of Company or the users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
+
+(e) SALE OF INFORMATION. In order to accommodate changes in our business, we may sell or buy portions of our Company or other companies or assets, including the information collected through this Site and from orders of our product including your customer information. If Company or substantially all of its assets are acquired by a third party, your personally identifiable information will be one of the assets transferred to the acquirer.
+
+(f) DMCA CLAIM DISCLOSURES. We comply with the Digital Millennium Copyright Act of 1998, better known as the “DMCA”.  Should we receive a claim of copyright infringement, we will comply with the safe harbor requirements of the DMCA. Part of that compliance may require the disclosure of your identity if you are either the allegedly infringing party or the party filing the copyright infringement complaint.
+
+4\. SECURITY  
+The Site has reasonable security measures in place such as Secure Sockets Layer protocols to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+
+5\. SITE AREAS BEYOND COMPANY’S CONTROL  
+5.1. THIRD PARTY WEBSITES  
+The Site contains links to and interfaces with third party websites and online platforms. These websites and online platforms have established their own terms of use and privacy policies. You are encouraged to read those documents as we have no control over their provisions and said documents may differ greatly from our terms and privacy policy.
+
+6\. CONTACT INFORMATION AND POLICY UPDATES  
+6.1. CONTACTING US  
+If you have any questions about this Policy, our practices related to this Site, please use the contact form for the Site. You can locate it by clicking the “Contact” link in the header of the Site.
