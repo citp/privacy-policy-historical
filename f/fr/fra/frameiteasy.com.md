@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the frameiteasy.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203231917id_/http%3A//www.frameiteasy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frameiteasy.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608170838id_/http%3A//www.frameiteasy.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Frame It Easy
 
 Privacy Policy
 
-FrameItEasy.com, respects the privacy of our customers. Any and all information collected through our system is treated with the utmost care.
+FrameItEasy.com, respects the privacy of our customers.  
+Any and all information collected through our system is treated with the utmost care.
 
 * * *
 
