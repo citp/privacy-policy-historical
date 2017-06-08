@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121051606id_/http%3A//www6.discountschoolsupply.com/Help/HelpFAQTopic.aspx%3Fhelp_faq_id%3D172) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountschoolsupply.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608224837id_/http%3A//www.discountschoolsupply.com/Help/HelpFAQTopic.aspx%3Fhelp_faq_id%3D172) for the most accurate reproduction.*
 
-# Discount School Supply® – Save on Early Education School Supplies for Teachers and Families
+# School Supplies, Classrooms & Teaching Store | Discount School Supply®
 
 This Privacy Policy discloses the self-regulated privacy practices of Excelligence Learning Corporation (Excelligence®), sole owner of DiscountSchoolSupply.com. By posting this policy, we want you to understand what information we gather about you, how we use it, and the safeguards we have in place to protect it. 
 
