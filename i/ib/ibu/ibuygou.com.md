@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibuygou.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530203326id_/https%3A//www.ibuygou.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibuygou.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608154905id_/https%3A//www.ibuygou.com/help/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy iBuyGou
+# Privacy Policy iBuygou
 
 iBuygou values the privacy of our customers/visitors, and will therefore only use the information you give us to process your order and provide you with details of our special offers.We do not sell our mailing lists to other companies, or divulge any of your personal details to other companies or individuals. Payment processing takes place on a secure server provided by PayPal.
 
