@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inxile-entertainment.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114203139id_/http%3A//inxile-entertainment.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inxile-entertainment.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608165023id_/http%3A//inxile-entertainment.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Help > Privacy Policy - inXile entertainment
 
