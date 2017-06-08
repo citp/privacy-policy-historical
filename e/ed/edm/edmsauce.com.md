@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edmsauce.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410082925id_/http%3A//www.edmsauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmsauce.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608195232id_/http%3A//www.edmsauce.com/privacy-policy) for the most accurate reproduction.*
 
 # EDM Sauce Privacy Policy and Disclaimers
 
-This Privacy Policy governs the manner in which EDM Sauce collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.edmsauce.com](http://www.edmsauce.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by EDM Sauce.
+This Privacy Policy governs the manner in which EDM Sauce collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.edmsauce.com](https://www.edmsauce.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by EDM Sauce.
 
 **Personal identification information**
 
@@ -14,7 +14,9 @@ We may collect non-personal identification information about Users whenever they
 
 **Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **How we use collected information**
 
@@ -37,9 +39,7 @@ We may use the email address to send User information and updates pertaining to 
 
 **How we protect your information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, [disclosure](https://www.edmsauce.com/disclosure-news "Disclosure") or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 **Sharing your personal information**
 
@@ -47,7 +47,7 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **Third party websites**
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
 **Advertising**
 
@@ -55,7 +55,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
 **Changes to this privacy policy**
 
@@ -69,18 +69,17 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
   * Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
   * EDM Sauce uses Remarketing with Google Analytics to advertise online.
   * Third-party vendors, including Google, may show your ads on sites across the Internet.
-  * EDM Sauce and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to your website.
+  * EDM Sauce and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website.
   * EDM Sauce and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
-  * EDM Sauce uses data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
+  * EDM Sauce uses data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
 
 
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[EDM Sauce](http://www.edmsauce.com/)  
-[http://www.edmsauce.com](http://www.edmsauce.com/)  
-EDM Sauce  
+[EDM Sauce](https://www.edmsauce.com/)  
+[https://www.edmsauce.com](https://www.edmsauce.com/)  
 info@edmsauce.com
 
-This document was last updated on November 22nd, 2013
+This document was last updated on Sep 13, 2016
