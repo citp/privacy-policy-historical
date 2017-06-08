@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guzzle.co.za privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230130407id_/http%3A//www.guzzle.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guzzle.co.za privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608185828id_/http%3A//www.guzzle.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — www.guzzle.co.za
 
