@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025214id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgsystems.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608142001id_/http%3A//www.csgi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / CSG International
 
@@ -80,13 +80,15 @@ We may share personal data in the following situations:
 
 ## How Do We Share Information Across Borders
 
-If we transmit personal data across national boundaries, we attempt to do so in compliance with any national laws that govern the cross-border transfer of information. For example, we have taken several steps to facilitate the transfer of personal data that we receive about people located in the European Union. These include enacting Binding Corporate Rules, entering the E.U.-U.S. Privacy Shield Framework, and using standard contractual clauses.
+If we transmit personal data across national boundaries, we attempt to do so in compliance with any national laws that govern the cross-border transfer of information. For example, we have taken several steps to facilitate the transfer of personal data that we receive about residents of the European Union and Switzerland. These include enacting Binding Corporate Rules, self-certifying under the EU-U.S. Privacy Shield Framework, the Swiss – U.S. Privacy Shield Framework, and using standard contractual clauses.
 
-The E.U.-U.S. Privacy Shield is a legal framework between the European Union and the United States under which personal data can be transferred to an organization in the United States, like CSG, that has certified its compliance with the principles of the framework and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. More information about the Privacy Shield principles can be found on the US Department of Commerce website.
+CSG complies with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. CSG has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.
+
+The EU-U.S. Privacy Shield Framework is a legal framework between the European Union and the United States under which personal data can be transferred to an organization in the United States, like CSG, that has certified its compliance with the principles of the framework and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission.
+
+The EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework are legal frameworks between the European Union and Switzerland, respectively, and the United States under which personal data can be transferred to an organization in the United States, like CSG, that has certified its compliance with the principles of the framework and is subject to the investigatory and enforcement powers of the United States Federal Trade Commission. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
 Standard contractual clauses refer to clauses that the European Union Commission has determined provide an adequate level of protection for data that is transferred outside of the European Economic Area. CSG may use pre-approved standard contractual clauses if it transfers personal data to a service provider that is outside of the EEA, and is located in a country that the European Union does not recognize as having adequate legal structures for protecting personal data.
-
-We have taken steps to facilitate the transfer of personal data that we receive from countries outside of the European Union as well. For example, we adhere to the principles of the U.S.-Swiss Safe Harbor Framework for data that we receive from Switzerland. Information about that framework can be found on the U.S. Department of Commerce website as well.
 
 ## How Do We Protect Information
 
@@ -125,9 +127,11 @@ If we are required to communicate with you concerning your personal data we may 
 
 ## How To Raise Complaints
 
-We encourage anyone with a complaint to bring it to the attention of our Chief Compliance Officer whose contact information can be found in the “How to Communicate With Us” section. If you are dissatisfied with the response that you receive, the Chief Compliance Officer will notify you of particular forums for which CSG has agreed to adjudicate the type of complaint that you raised. For example, if your complaint relates to the transfer of information outside of the European Union you may have a right to submit your complaint to the data protection authority in your member state, an alternative dispute resolution (ADR) services provider, the United States Department of Commerce, and, in some cases, to binding arbitration before a panel convened by the Department of Commerce.
+We encourage anyone with a complaint about our collection or use of your personal information (including if and as applicable, an EU or Swiss individual with an inquiry or complaint relative to our Privacy Shield policy or implementation of the corresponding Privacy Shield Principles) to bring it to the attention of our Chief Compliance Officer, whose contact information can be found in the “How to Communicate With Us” section.
 
-CSG has agreed to cooperate with JAMS for EU-U.S. Privacy Shield privacy complaint resolution services. Should you be unsatisfied with the resolution of your privacy complaint, you may contact JAMS at <https://www.jamsadr.com/eu-us-privacy-shield> for further information and assistance.
+If you are dissatisfied with the response that you receive, the Chief Compliance Officer will notify you of particular forums for which CSG has agreed to adjudicate the type of complaint that you raised. For example, if your complaint relates to the transfer of information outside of the EU you may have a right to submit your complaint to the data protection authority in your member state, an alternative dispute resolution (ADR) services provider, the United States Department of Commerce, and, in some cases, to binding arbitration before a panel convened by the Department of Commerce. CSG has specifically committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+In addition to its commitment to JAMS, CSG further commits to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner’s authority (as applicable) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland, respectively, in the context of the employment relationship.
 
 ## Changes to Our Privacy Policies
 
@@ -135,4 +139,4 @@ From time to time we may update this privacy policy to reflect changes in our st
 
 Effective Date: November 14, 2016
 
-Last Modified: November 14, 2016
+Last Modified: May 3, 2017
