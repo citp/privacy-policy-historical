@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118153653id_/http%3A//iliketoquote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iliketoquote.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608144845id_/http%3A//www.iliketoquote.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
