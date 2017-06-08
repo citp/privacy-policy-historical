@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222060143id_/http%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningfarm.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608064931id_/http%3A//www.learningfarm.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -43,5 +43,5 @@ Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[http://www.learningfarm.com](http://www.learningfarm.com/)   
+[https://www.learningfarm.com](https://www.learningfarm.com/)   
 [support@learningfarm.com](mailto:support@learningfarm.com)
