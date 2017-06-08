@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227195118id_/http%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608045024id_/http%3A//www.jigsaw-online.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Jigsaw Online: Privacy Policy | Jigsaw
 
@@ -16,19 +16,19 @@ If you buy from us, we will require information such as your first name and surn
 Some cookies collect information about browsing and purchasing behaviour by people who access this website via the same computer or device. This includes information about what pages you viewed, what products you added to your basket or purchased and generally how you navigated the site. Please note that we do not use cookies to collect or record information on users’ name, address or other contact details.
 
 What are cookies used for?
-    In the main cookies are used for the effective operation of the website but additionally we use cookies to track the effectiveness of our website and to gauge the success of our marketing campaigns. For further information take a look at this useful [Google Video](http://www.youtube.com/watch?v=TBR-xtJVq7E) on You Tube which helpfully explains how websites use cookies.
+    In the main cookies are used for the effective operation of the website but additionally we use cookies to track the effectiveness of our website and to gauge the success of our marketing campaigns. For further information take a look at this useful [Google Video](https://www.youtube.com/watch?v=TBR-xtJVq7E) on You Tube which helpfully explains how websites use cookies.
 How do I disable Cookies?
     
 
 If you want to disable cookies you will need to do this by changing your website browser settings which are normally found under the tools or privacy tabs in your browser menu. Please note that disabling cookies may reduce the performance of our website on your computer. **By continuing to use the site with your current browser settings, you consent to allow this site to use cookies.** All modern browsers allow you to change your cookie settings. These settings will typically be found in the 'options' or 'preferences' menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the 'Help' option in your browser for more details.
 
-[Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+[Cookie settings in Internet Explorer](https://support.microsoft.com/kb/196955)
 
-[Cookie settings in Firefox](http://support.mozilla.org/en-US/kb/Cookies)
+[Cookie settings in Firefox](https://support.mozilla.org/en-US/kb/Cookies)
 
-[Cookie settings in Chrome](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+[Cookie settings in Chrome](https://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
-[Cookie settings in Safari](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)
+[Cookie settings in Safari](https://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html)
 
 You can also take a look at the information provided by the Interactive Advertising Bureau at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
