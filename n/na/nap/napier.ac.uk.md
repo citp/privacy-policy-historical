@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214143521id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608084922id_/http%3A//www.napier.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -81,7 +81,7 @@ By using our Website you consent to the collection and use of your information a
 
 ##  Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing a response. If any information we hold about you is incorrect please let us know by email to [governance@napier.ac.uk](mailto:governance@napier.ac.uk) and we will correct it. 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing a response. If any information we hold about you is incorrect please let us know by email to [](mailto:governance@napier.ac.uk)[dataprotection@napier.ac.uk ](mailto:dataprotection@napier.ac.uk)and we will correct it. 
 
 ##  Security
 
@@ -91,7 +91,7 @@ Edinburgh Napier University is concerned about the security of your personal inf
 
 ##  Your control over your personal information
 
-At any time you can withdraw permission for the use of your personal information. This can be done either by ticking the OPT-OUT or UNSUBSCRIBE link contained in all Edinburgh Napier University web communications, or alternatively, by sending an email requesting this to [governance@napier.ac.uk](mailto:governance@napier.ac.uk). 
+At any time you can withdraw permission for the use of your personal information. This can be done either by ticking the OPT-OUT or UNSUBSCRIBE link contained in all Edinburgh Napier University web communications, or alternatively, by sending an email requesting this to [](mailto:governance@napier.ac.uk)[dataprotection@napier.ac.uk. ](mailto:dataprotection@napier.ac.uk)
 
 Our Website may, from time to time, contain links to and from other websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. 
 
@@ -105,15 +105,19 @@ We maintain a database of our alumni and proactively keep them engaged about our
 
 ## Events registration on externally hosted services
 
-Please note that by registering for an event via a service such as [Eventbrite](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_GB) you will be supplying your personal data to the company/website and as such you are accepting and consenting to the practices in their Privacy Policy. 
+Please note that by registering for an event via a service such as [Eventbrite](https://www.eventbrite.co.uk/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_GB) (which will host your data out with the EEA) or [Bookitbee](https://www.bookitbee.com/en/privacy-policy/) (which will host your data in the EEA) you will be supplying your personal data to the company/website and as such you are accepting and consenting to the practices in their Privacy Policies.
 
-Edinburgh Napier University is not affiliated with this company/website in any way and is using its services solely for the purposes of facilitating event ticketing and registration and does not accept any responsibility or liability for personal data which you have chosen to provide to such third party sites
+Edinburgh Napier University is not affiliated with these companies/websites in any way and is using their services solely for the purposes of facilitating event ticketing and registration and does not accept any responsibility or liability for personal data which you have chosen to provide to such third party sites.
+
+## Further information
+
+For further information, please see the University's [Data Protection Policy Statement](http://staff.napier.ac.uk/services/secretary/governance/DataProtection/Pages/default.aspx)
 
 ##  How to contact us
 
 In writing to: 
 
-The Governance Officer (Data Protection & Legal)
+Governance Services
 
 Edinburgh Napier University
 
@@ -121,7 +125,7 @@ Sighthill Campus
 
 EH11 4BN 
 
-Email: [governance@napier.ac.uk](mailto:governance@napier.ac.uk)
+Email: [dataprotection@napier.ac.uk ](mailto:dataprotection@napier.ac.uk)
 
 Last updated: May 2012
 
