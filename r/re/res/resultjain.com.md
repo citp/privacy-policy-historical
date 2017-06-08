@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the resultjain.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804235102id_/http%3A//www.resultjain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultjain.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608063057id_/http%3A//www.resultsvilla.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The privacy of our subscribers to Resultjain.com is very significant to us. We consider that privacy of your personal information is important. We never frontward your personal details to anyone.
+The privacy of our subscribers to Resultsvilla.in is very significant to us. We consider that privacy of your personal information is important. We never frontward your personal details to anyone.
 
-We use different technologies like ** ** **cookies (small files stored by your browser)/web beacons/unique device identifiers**  to secretly identify your computer or device so we can deliver a superior experience.  
+We use different technologies like **  cookies (small files stored by your browser)/web beacons/unique device identifiers** to secretly identify your computer or device so we can deliver a superior experience.  
 We also may bring together personally exclusive information that you provide to us, such as  **your name,/address/ Contact number /’email address.**  With your permission, we may also access other personal information on your tool, such as your phone book/ calendar /messages/in order to provide services to you.
 
 Our systems are not designed to correlate personal information with your activities  
@@ -13,7 +13,7 @@ We do not intentionally contact or collect personal details from children under 
 **Collect but do not share your location history.**  
 To customize our service for you, we may collect & store your accurate geographic location as part of your user profile.
 
-**We don’t share your private data with other companies.** ** ** We generally do not share personally special information (such as name, address, email or phone) with other companies.  
+**We don’t share your private data with other companies.  **We generally do not share personally special information (such as name, address, email or phone) with other companies.  
 **Ad companies collect anonymous data. You can opt out.**  
 Ad companies may use &collect secret data about your interests to customize content & advertising here and in other sites and applications.
 
