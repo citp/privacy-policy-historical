@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketersbraintrust.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229092634id_/http%3A//marketersbraintrust.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketersbraintrust.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608090400id_/http%3A//marketersbraintrust.com/privacy-policy) for the most accurate reproduction.*
 
-# SEO Brain, LLC. (The SEO Brain Trust) Privacy Policy - Marketers Braintrust - Proven Methods to Grow Traffic, Sales, and Profit
+# Marketer's Braintrust (SEO Brain, LLC.) Privacy Policy - Marketer's Braintrust - Proven Methods to Grow Traffic, Sales and Profit
 
 ### What information do we collect?
 
@@ -49,7 +49,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our membership system may make any changes to their information at anytime by logging into the member area and editing their information on the profile page.
 
-### Childrens Online Privacy Protection Act Compliance
+### Children’s Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
@@ -61,10 +61,6 @@ We have taken the necessary steps to ensure that we are compliant with the CAN-S
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-### Terms and Conditions
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://seobraintrust.com/terms.php>.
-
 ### Your Consent
 
 By using our site, you consent to our privacy policy.
@@ -73,37 +69,20 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **September 29, 2009**
+This policy was last modified on **January 15, 2017**
 
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-SEO BrainTrust
-
-4189 N Arnold Mill Rd
-
-Woodstock, Georgia 30188
-
+Marketer’s Braintrust  
+5348 VEGAS DR.  
+LAS VEGAS, NEVADA 89108  
 US
 
-[support@seobraintrust.com](mailto:support@seobraintrust.com)
+[support@marketersbraintrust.com](mailto:support@marketersbraintrust.com)
 
-877-474-3633
-
-### Privacy Policy Customer Pledge
-
-We have made a dedicated effort to bring the foregoing privacy policy into compliance with the the following important laws and initiatives:
-
-Federal Trade Commission Fair
-
-California Online Privacy Protection Act
-
-Children’s Online Privacy Protection Act
-
-Privacy Alliance
-
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/).
+877-545-4657
 
 ### Governing law
 
@@ -111,8 +90,7 @@ The SEO Brain Trust is organized and registered in Nevada as SEO Brain LLC and t
 
 Respectfully,
 
-Leslie Rohde and Dan Thies
+Leslie Rohde and Dan Thies  
+cofounders, The Marketer’s BrainTrust
 
-The SEO BrainTrust
-
-[http://seobraintrust.com](http://seobraintrust.com/)
+[http://marketersbraintrust.com](http://marketersbraintrust.com/)
