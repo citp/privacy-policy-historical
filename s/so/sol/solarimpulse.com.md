@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarimpulse.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108115423id_/http%3A//info.solarimpulse.com/pdf/Privacy_Policy_2013.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarimpulse.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608173715id_/http%3A//info.solarimpulse.com/pdf/Privacy_Policy_2013.pdf) for the most accurate reproduction.*
 
 # 1
 
