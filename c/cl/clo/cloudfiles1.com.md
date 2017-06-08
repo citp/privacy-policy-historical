@@ -1,121 +1,72 @@
-> *The following text is extracted and transformed from the cloudfiles1.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121131737id_/http%3A//cloudfiles1.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudfiles1.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608024301id_/http%3A//cloudfiles1.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Cloud Files
+# Privacy Policy – Dedicated Server
 
-We respect the confidentiality of information relating to our readers, as well as the laws governing the privacy of medical information that apply in the country and state where this website is located.
+This Privacy Policy governs the manner in which CloudFiles1 collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://CloudFiles1.com website (“Site”).
 
-We also respect clarity of speech and have made an effort to clearly and simply explain to you how and why we and other third-parties use information collected about you when you visit this website.
+### Personal identification information
 
-In short: information identifying individual Kozmetika Samantha visitors and account holders will not be disclosed by Kozmetika Samantha staff to anyone unless specifically authorized by that individual. 
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site.Users may be asked for, as appropriate, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Your email address and personal details are never passed on, or sold, to third-parties. These details are used only to supply Kozmetika Samantha services requested by you and for our own statistical analysis. 
+### Non-personal identification information
 
-For example, our email-a-friend service uses your name and email address, as well as the email address and name of the person you wish to forward an Kozmetika Samantha news article to. We do not store this information, nor do we associate it with your Kozmetika Samantha account, should you have one.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-Please read the rest of the document to familiarize yourself with where and how we collect and use your data, as well as how our advertisers and other service providers deal with your personal data.
+### Web browser cookies
 
-Please be aware that by continuing to use Kozmetika Samantha, you consent to our usage of the methods described here.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-## Our use of cookies
+### How we use collected information
 
-In order for us to count the number of people visiting Kozmetika Samantha, a unique “cookie” may be placed in your web browser. The cookie settings that we use are automatically set to “allow all cookies” in order to give you the best visitor experience.
+CloudFiles1 may collect and use Users personal information for the following purposes:
 
-Here is a list of the cookies that we place, how long they are active for and why we use them: 
-
-**Kozmetika Samantha account “remember me”  
-**If you check the “Remember me” box on any of our log-in forms, we will set a cookie to remember your email and password information for 14 days. This means that even if you close your web browser and come back at another time within 14 days, we’ll automatically enter these details for you. After 14 days have passed, you’ll have to check the box again in order to save your details for another 14 days.
-
-**Mobile website override**  
-We understand that not everyone wants to see a stripped-down version of our Kozmetika Samantha when browsing a mobile device. So, if you click on the yellow “View desktop website” button at the bottom of every page when viewing Kozmetika Samantha on a mobile device, we’ll send you to the “full” version of Kozmetika Samantha and set a cookie to remember your choice. Should you quit your mobile device’s web browser, you’ll be presented with the mobile version of Kozmetika Samantha next time you visit us. 
-
-Aside from these two cookies, we also track visitor IP addresses for the purposes of attaining demographic data and to aid us in reporting and stopping inappropriate use of the website.
-
-Please see the sections below for further specific information on how our advertisers and other third-party partners collect and use information about you and your visit to Kozmetika Samantha.
-
-* * *
-
-## Third-party cookies
-
-In the course of serving advertisements on Kozmetika Samantha, our third-party advertising partners may place or recognize a unique “cookie” on your browser. 
-
-Google, as a third-party vendor, uses cookies to serve adverts on Kozmetika Samantha. Google uses the “DART” cookie to enable it to serve adverts to you based on your visit to Kozmetika Samantha _and_ other sites on the Internet. 
-
-You may opt out using the DART cookie by visiting the [Google advertising and content network privacy policy](http://www.google.com/privacy_ads.html "External Link - Opens in new window : Google advertising and content network privacy policy").
-
-* * *
-
-## Third-party advertising
-
-We use Google and other third-party advertising companies to serve ads when you visit Kozmetika Samantha. These companies may use information ( _not_ including your name, address, email address or telephone number), about your visits to Kozmetika Samantha and other websites. In addition, they may collect information about how you interact with content on these sites. 
-
-They do this in order to provide advertisements on Kozmetika Samantha and other websites about goods and services that may be of interest to you.
-
-If you would like more information about this practice, or if you would like to know your choices about not having this information used by Google, please [see the privacy policy at Google](http://www.google.co.uk/intl/en/privacy.html "External Link - Opens in new window : Google Privacy Policy").
-
-To learn more about behavioral advertising practices by third-party advertisers or to opt out of this type of advertising, you can visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "External Link - Opens in new window : www.networkadvertising.org") and <https://www.google.com/settings/ads>
-
-You may also read our own [advertising policy here](https://web.archive.org/ad-policy "Read our advertising policy here").
-
-* * *
-
-## Google Analytics
-
-We use Google Analytics to gather anonymous data about our readers and how they use Kozmetika Samantha. The information collected cannot be used by us to identify an individual reader. 
-
-We use this information to aid our understanding of how our readers interact with Kozmetika Samantha, as well as to help us to understand trends for things such as:
-
-  * Our most popular articles each day, month, year.
-  * How readers come to Kozmetika Samantha (other news websites, email newsletters and search engines, etc.)
-  * What kind of devices visitors use to read Kozmetika Samantha.
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
+  * _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
 
-As you can understand, this information is very useful and helps us to decide when we roll out new services and importantly, how we make sure that Kozmetika Samantha is readable on the widest possible range of computers, tablets, mobile phones and other devices. 
+### How we protect your information
 
-(At the time of writing, our reports showed that we had nearly 5,000 _different_ types of devices accessing Kozmetika Samantha per month.)
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Regardless of how useful this information it in allowing us to provide a better service to you, our reader, you may opt out of providing this information to Google Analytics [here](https://tools.google.com/dlpage/gaoptout?hl=None "External Link - Opens in new window").
+### Sharing your personal information
 
-* * *
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-## Quantcast Measurement
+### Electronic newsletters
 
-We use Quantcast Corporation’s “Quantcast Measurement” service to measure website traffic and demographic data. Kozmetika Samantha is a “Quantified” website, which means that when you visit Kozmetika Samantha, Quantcast’s servers automatically record and collect “log data” sent by your browser.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-This “log data” includes your computer’s IP address and the referring HTTP location (how you arrived on the page you are reading).
+### Third party websites
 
-Quantcast also may place or read cookies when you visit Kozmetika Samantha, although your name, address, email address or telephone number are not tracked.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licencors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own [terms and conditions](http://cloudfiles1.com/terms-conditions/).
 
-Quantcast’s reporting is publicly viewable and you may see the results of Quantcast’s measurements of Kozmetika Samantha traffic at any time. 
+### Advertising
 
-* * *
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-## Twitter conversion tracking
+### Google Adsense
 
-We use Twitter’s conversion tracking service to track interactions that Twitter users take after viewing or engaging with our ads on Twitter. 
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-This service allows us to analyze, compare and optimize our Twitter-based advertising campaigns when they are active.
+### Changes to this privacy policy
 
-You may read more about  
-Twitter’s policies for this service.
+CloudFiles1 has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-* * *
+### Your acceptance of these terms
 
-In addition, Kozmetika Samantha account holders may also have the following additional information associated with their post:
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This policy was generated using PrivacyPolicies.Com
 
-  * Registered country (not public)
-  * Profession (not public)
+### Contacting us
 
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [**contact us**](http://cloudfiles1.com/contact-us/).
 
-
-As noted in our Terms of Use<, all reader submitted opinions (once moderated), are publicly accessible and may be indexed and presented by search engines and other internet content discovery services outside of Kozmetika Samantha. 
-
-Once submitted, comments are not directly editable, however, readers wishing to have previously submitted comments edited, or removed from the Opinions Service may do so by sending a message to Kozmetika Samantha through our contact form.
-
-Please note that Kozmetika Samantha has no control over how content from the Opinions Service appears on search engines and other internet content discovery services. Upon request, Kozmetika Samantha is able to remove previously posted content from the Opinions Service. Kozmetika Samantha does not have the ability to remove any previously indexed content from search engines and internet content discovery services. Readers wishing to remove content external to Kozmetika Samantha should contact the appropriate service provider.
-
-Readers wishing to alert Kozmetika Samantha of potentially objectionable content on the Opinions Service may click on the “Alert a moderator” link, which can be found at the foot of each individual comment.
-
-Regarding advertising material which appears on the Opinions Service, please refer to the “Third Party Advertising” section above.
-
-* * *
+This document was last updated on September 20, 2015
