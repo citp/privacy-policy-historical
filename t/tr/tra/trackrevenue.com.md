@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the trackrevenue.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022193325id_/http%3A//www.trackrevenue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackrevenue.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608020143id_/http%3A//www.trackrevenue.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy – Track Revenue
+# Privacy Policy | Track Revenue
 
 At Track Revenue, we take privacy very seriously. We’ve updated our privacy policy to ensure that we communicate to You, in the clearest way possible, how we treat personal information. We encourage You to read this Policy carefully. It will help You make informed decisions about sharing Your personal information with us.
 
 The defined terms in this Policy have the same meaning as in our TERMS OF USE located above, which You should read together with this Policy. By accessing our Website and using our Service, You consent to the terms of this Policy and agree to be bound by it and our Terms of Use.
 
-##### Track Revenue collects Your personal information
+##### TRACK REVENUE COLLECTS YOUR PERSONAL INFORMATION
 
 Track Revenue is a provider of powerful media buying software that’s simple, smart, and secure and gives marketers and advertisers real-time visibility and control of a business’ advertising campaigns.
 
@@ -24,7 +24,7 @@ Track Revenue may collect personal information directly from You when You:
 
 You can always choose not to provide Your personal information to Track Revenue, but it may mean that we are unable to provide You with the Service.
 
-##### Track Revenue may receive personal information from You about others
+##### TRACK REVENUE MAY RECEIVE PERSONAL INFORMATION FROM YOU ABOUT OTHERS
 
 Through Your use of the Service, Track Revenue may also collect information from You about someone else. If You provide Track Revenue with personal information about someone else, You must ensure that You are authorized to disclose that information to Track Revenue and that, without Track Revenue taking any further steps required by applicable data protection or privacy laws, Track Revenue may collect, use and disclose such information for the purposes described in this Policy.
 
@@ -32,7 +32,7 @@ This means that You must take reasonable steps to ensure the individual concerne
 
 Where requested to do so by Track Revenue, You must also assist Track Revenue with any requests by the individual to access or update the personal information You have collected from them and entered into the Service.
 
-##### Track Revenue collects, holds, and uses Your personal information for limited purposes
+##### TRACK REVENUE COLLECTS, HOLDS, AND USES YOUR PERSONAL INFORMATION FOR LIMITED PURPOSES
 
 Track Revenue collects Your personal information so that we can provide You with the Service and any related services You may request. In doing so, Track Revenue may use the personal information we have collected from You for purposes related to the Services including to:
 
@@ -50,7 +50,7 @@ By using the Service, You consent to Your personal information being collected, 
 
 It is Your responsibility to keep Your password to the Service safe. You should notify us as soon as possible if You become aware of any misuse of Your password, and immediately change your password within the Service.
 
-##### Track Revenue can aggregate Your non-personally identifiable data
+##### TRACK REVENUE CAN AGGREGATE YOUR NON-PERSONALLY IDENTIFIABLE DATA
 
 By using the Service, You agree that Track Revenue can access, aggregate and use non-personally identifiable data Track Revenue has collected from You. This data will in no way identify You or any other individual.
 
@@ -71,7 +71,7 @@ By providing Your personal information to Track Revenue, You consent to Track Re
 
 If You do not want Your personal information to be transferred to a server, You should not provide Track Revenue with Your personal information or use the Service.
 
-##### Track Revenue takes steps to protect your personal information
+##### TRACK REVENUE TAKES STEPS TO PROTECT YOUR PERSONAL INFORMATION
 
 Track Revenue is committed to protecting the security of Your personal information and we take all reasonable precautions to protect it from unauthorized access, modification or disclosure. Your personal information is stored on secure servers that have SSL Certificates issued by leading certificate authorities, and all Data transferred between You and the Service is encrypted.
 
@@ -79,7 +79,7 @@ However, the Internet is not in itself a secure environment and we cannot give a
 
 We will advise You at the first reasonable opportunity upon discovering or being advised of a security breach where Your personal information is lost, stolen, accessed, used, disclosed, copied, modified, or disposed of by any unauthorized persons or in any unauthorized manner.
 
-##### Track Revenue only discloses Your Personal Information in limited circumstances
+##### TRACK REVENUE ONLY DISCLOSES YOUR PERSONAL INFORMATION IN LIMITED CIRCUMSTANCES
 
 Track Revenue will only disclose the personal information You have provided to us to entities outside the Track Revenue group of companies if it is necessary and appropriate to facilitate the purpose for which Your personal information was collected pursuant to this Policy, including the provision of the Service.
 
@@ -87,11 +87,11 @@ Track Revenue will not otherwise disclose Your personal information to a third p
 
 The third parties who host our servers do not control, and are not permitted to access or use Your personal information except for the limited purpose of storing the information.
 
-##### Track Revenue does not store Your credit card details
+##### TRACK REVENUE DOES NOT STORE YOUR CREDIT CARD DETAILS
 
 If You choose to pay for the Service by credit card, Your credit card details are not stored by the Service and cannot be accessed by Track Revenue staff. Your credit card details are encrypted and securely stored by Stripe, Inc., a payment processing services solution, to enable Track Revenue to automatically bill your credit card on a recurring basis.
 
-##### You may request access to Your personal information
+##### YOU MAY REQUEST ACCESS TO YOUR PERSONAL INFORMATION
 
 It is Your responsibility to ensure that the personal information You provide to us is accurate, complete and up-to-date. You may request access to the information we hold about You, or request that we update or correct any personal information we hold about You, by setting out Your request in writing and sending it to us at support@trackrevenue.com.
 
@@ -99,7 +99,7 @@ Track Revenue will process Your request as soon as reasonably practicable, provi
 
 We’ll only keep Your personal information for as long as we require it for the purposes of providing You with the Service. However, we may also be required to keep some of Your personal information for specified periods of time, for example under certain laws relating to corporations, money laundering, and financial reporting legislation.
 
-##### Track Revenue uses cookies
+##### TRACK REVENUE USES COOKIES
 
 In providing the Service, Track Revenue utilizes “cookies”. A cookie is a small text file that is stored on Your computer for record-keeping purposes. A cookie does not identify You personally or contain any other information about You but it does identify Your computer.
 
@@ -107,15 +107,15 @@ We and some of our affiliates and third-party service providers may use a combin
 
 You can set your browser to notify You when You receive a cookie so that You will have an opportunity to either accept or reject it in each instance. However, You should note that refusing cookies may have a negative impact on the functionality and usability of the Website.
 
-##### You can opt-out of any email communications
+##### YOU CAN OPT-OUT OF ANY EMAIL COMMUNICATIONS
 
 Track Revenue sends billing information, product information, Service updates and Service notifications to You via email. Our emails will contain clear and obvious instructions describing how You can choose to be removed from any mailing list not essential to the Service. Track Revenue will remove You at Your request.
 
-##### You are responsible for transfer of Your data to third-party applications
+##### YOU ARE RESPONSIBLE FOR TRANSFER OF YOUR DATA TO THIRD-PARTY APPLICATIONS
 
 The Service may allow You, the Subscriber, or another Invited User within the relevant subscription to the Service to transfer Data, including Your personal information, electronically to and from third-party applications. Track Revenue has no control over, and takes no responsibility for, the privacy practices or content of these applications. You are responsible for checking the privacy policy of any such applications so that You can be informed of how they will handle personal information.
 
-##### Track Revenue has a privacy complaints process
+##### TRACK REVENUE HAS A PRIVACY COMPLAINTS PROCESS
 
 If You wish to complain about how we have handled Your personal information, please provide our Privacy Officer with full details of Your complaint and any supporting documentation:
 
@@ -130,7 +130,7 @@ Our Privacy Officer will endeavour to:
 
 
 
-##### This policy may be updated from time to time
+##### THIS POLICY MAY BE UPDATED FROM TIME TO TIME
 
 Track Revenue reserves the right to change this Policy at any time, and any amended Policy is effective upon posting to this Website. Track Revenue will make every effort to communicate any significant changes to You via email or notification via the Service. Your continued use of the Service will be deemed acceptance of any amended Policy.
 
