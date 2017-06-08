@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazarus-ide.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229165318id_/http%3A//wiki.lazarus.freepascal.org/Lazarus_wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazarus-ide.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608033600id_/http%3A//wiki.lazarus.freepascal.org/Lazarus_wiki%3APrivacy_policy) for the most accurate reproduction.*
 
-# Lazarus wiki:Privacy policy - Lazarus wiki
+# Free Pascal wiki:Privacy policy - Lazarus wiki
 
 Although the Lazarus and the Free Pascal team will do their best to safeguard any personal data we collect, we cannot guarantee your privacy. 
 
