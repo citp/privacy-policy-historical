@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201014357id_/http%3A//www.gosh.org/privacy-and-data-protection-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608141749id_/http%3A//www.gosh.org/privacy-and-data-protection-statement) for the most accurate reproduction.*
 
 # Privacy and Data Protection Statement | Great Ormond Street Hospital Children's Charity
 
