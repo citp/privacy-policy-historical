@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesaidgotravel.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220201657id_/http%3A//wesaidgotravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesaidgotravel.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608153140id_/http%3A//www.wesaidgotravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Said Go Travel
 
