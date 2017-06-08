@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072136id_/http%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenreflections.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608161338id_/http%3A//www.sevenreflections.com/privacy) for the most accurate reproduction.*
 
-# Seven Reflections Privacy
+# Seven Reflections Privacy Policy
 
 ### Privacy Notice
 
@@ -35,7 +35,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
 
 
-We have an [Opt Out](http://www.sevenreflections.com/optout/) option if you'd like to permanently remove your account. We don't share your information with third parties. 
+We have an [Opt Out](https://www.sevenreflections.com/account/?action=optout) option if you'd like to permanently remove your account. We don't share your information with third parties. 
 
 ### Ad Tracking
 
@@ -51,8 +51,8 @@ Information we collect may be stored or processed on computers located in any co
 
 If you have any questions or concerns about our privacy policies, please contact us: 
 
-[Contact Us](http://www.sevenreflections.com/contacts/)
+[Contact Us](https://www.sevenreflections.com/contacts/)
 
 To operate the service, we also may make identifiable and anonymous information available to third parties in these limited circumstances: (1) with your express consent, (2) when we have a good faith belief it is required by law, (3) when we have a good faith belief it is necessary to protect our rights or property, or (4) to any successor or purchaser in a merger, acquisition, liquidation, dissolution or sale of assets. Your consent will not be required for disclosure in these cases, but we will attempt to notify you, to the extent permitted by law to do so. 
 
-This privacy policy was last updated on February 10, 2014. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
+This privacy policy was last updated on June 3, 2017. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email, push notification or text. 
