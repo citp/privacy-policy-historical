@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outlook-apps.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509162006id_/http%3A//www.outlook-apps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outlook-apps.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609003348id_/http%3A//www.outlook-apps.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
