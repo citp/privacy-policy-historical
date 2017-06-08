@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129222824id_/https%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctiva.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608194710id_/https%3A//www.auctiva.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Auctiva Privacy
 
@@ -12,7 +12,7 @@ Auctiva collects personally identifiable information when you register on our si
 
 ### Storage of information collected
 
-All personal information collected, including credit card information, is stored via a secure server. The servers are updated and certified daily by QualysGuard from Qualys. QualysGuard tests each system daily to make sure they meet the requirements set forth by the FBI/SANS Internet Security Test. 
+All personal information collected, including credit card information, is stored via a secure server. The servers are updated and certified daily to make sure they meet the requirements set forth by the FBI/SANS Internet Security Test. 
 
 ### How we use the information collected
 
@@ -34,7 +34,7 @@ By submitting personal information to us or using our site, you agree that we ma
 
 ### Removal from our Database
 
-To request removal from the database, simply [file a support request](https://web.archive.org/web/20161129222824id_/https%3A//www.auctiva.com/help/requesthelp.aspx) and we will be happy to remove your information immediately. Every email sent to you from Auctiva will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
+To request removal from the database, simply [file a support request](https://web.archive.org/web/20170608194710id_/https%3A//www.auctiva.com/help/requesthelp.aspx) and we will be happy to remove your information immediately. Every email sent to you from Auctiva will also include a link to remove your email address from the mail server. If you request that we modify or remove all of your personal information, we will promptly do so, to the extent possible. Once your personal information has been removed you will not be able to use our services unless you re-register. 
 
 ### Children
 
