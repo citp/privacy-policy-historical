@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the clotilde.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905062927id_/https%3A//www.anniescatalog.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clotilde.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608122455id_/https%3A//www.anniescatalog.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+_Annie's_
 
 [Annie's](http://annies-publishing.com/) and [subsidiaries](http://www.annies-publishing.com/pages/privacy_companies.html) operate 
 
