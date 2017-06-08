@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momalwaysfindsout.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202192222id_/http%3A//www.momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momalwaysfindsout.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608181408id_/http%3A//www.momalwaysfindsout.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mom Always Finds Out
 
