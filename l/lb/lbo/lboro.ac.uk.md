@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119163219id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lboro.ac.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608135927id_/http%3A//www.lboro.ac.uk/privacy.html) for the most accurate reproduction.*
 
 # Loughborough University
 
@@ -7,6 +7,8 @@ At Loughborough University we believe strongly in protecting our users' privacy.
 This Privacy Policy sets out the privacy practices for the services offered on any Loughborough University owned and/or operated websites ("the Website").
 
 This Privacy Policy may be updated from time to time. You should check this page from time to time to ensure that you are happy with any changes.
+
+View the [privacy policy](https://www.lboro.ac.uk/alumni/privacy/) for the Alumni Association.
 
 ## Your Personal Information
 
@@ -26,7 +28,7 @@ Loughborough University is committed to the security of our users' personal info
 
 ## Cookies
 
-See our [Cookies page](http://www.lboro.ac.uk/cookies.html) for more information about our cookie use and how you can restrict or block cookies.
+See our [Cookies page](https://www.lboro.ac.uk/cookies.html) for more information about our cookie use and how you can restrict or block cookies.
 
 ## Capturing of Personal Information outside the European Economic Area
 
@@ -40,4 +42,4 @@ You may request details of personal information which we hold about you under th
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-© 2015 Loughborough University. All rights reserved.
+© 2017 Loughborough University. All rights reserved.
