@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215074053id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deakin.edu.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608054551id_/https%3A//www.deakin.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy | Deakin
 
 If you're neither a staff member nor student of Deakin, but have contacted or visited us, the way we handle your personal information or requests for personal information is outlined below.
 
-Deakin affiliates can access relevant information via our [student](http://www.deakin.edu.au/students) or [staff ](http://www.deakin.edu.au/staff)webpages.
+Deakin affiliates can access relevant information via our [student](http://www.deakin.edu.au/students/enrolment-fees-and-money/enrolments/student-information-privacy) or [staff ](http://www.deakin.edu.au/staff)webpages.
 
 ## Use and disclosure of personal information
 
@@ -204,7 +204,7 @@ If you'd like to unsubscribe from Deakin publications or mailing lists, please c
 
 Individuals have a right to access their personal information held by the university. The right of access and restrictions on that right are set out in Information Privacy Principle 6 and Health information Privacy Principle 6.
 
-Requests for access to, and correction of personal information are managed under the Freedom of Information Act 1982 (Vic). [Review further information on how to make an application for access under the _Freedom of Information Act 1982_.](http://www.deakin.edu.au/about-deakin/structure/administrative-divisions/university-solicitors-office/freedom-of-information "Freedom of information")
+Requests for access to, and correction of personal information are managed under the Freedom of Information Act 1982 (Vic). [Review further information on how to make an application for access under the _Freedom of Information Act 1982_.](http://www.deakin.edu.au/about-deakin/faculties-and-divisions/administrative-divisions/university-solicitors-office/freedom-of-information "Freedom of information")
 
 ## Complaints
 
