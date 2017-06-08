@@ -1,90 +1,136 @@
-> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2007-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071211060612id_/http%3A//www.onthebox.com/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthebox.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608184201id_/http%3A//www.onthebox.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | OnTheBox.com
+# Privacy policy | OnTheBox
 
-Media Corporation plc (“OnTheBox”) is committed to protecting its users’ privacy. This Privacy Policy (the “Privacy Policy”), as set forth below, covers OnTheBox.com (“OnTheBox.com” or the “website”) and applies solely to information collected on OnTheBox.com. Please read this Privacy Policy to understand how we will treat personally and non-personally identifiable information we collect on OnTheBox.com. This Privacy Policy may change from time to time, so please check back periodically.
+### Site mobile navigation
 
-## What personally identifiable information is collected from me?
+Skip to content __Menu
 
-We recognise the importance of protecting the privacy of personally identifiable information collected about visitors to the Site. Except with respect to certain designated elements of the Site that require registration, you can use OnTheBox.com without divulging any personally identifiable information, including your email address. The Site does not collect personally identifiable information about you unless you expressly provide such information to us on a voluntary basis. For example, you may provide your personally identifiable information to subscribe to a magazine, to complete contest entry forms, to complete your registration on the Site or the various services offered on the Site, including community postings such as the OnTheBox.com Community, chats and bulletin boards. Except as described below, in those instances in which you “opt-in” to receive offers directly from our third party partners, such personally identifiable information will never be shared with third parties outside of OnTheBox and its affiliated companies or third party vendors acting on their behalf.
+What's on TV tonight - TV guide - TV listings - Entertainment news online
 
-At any time after providing us with your personally identifiable information, you have the ability to ask that your personally identifiable information be edited or removed from our database by contacting us at the e-mail or physical address provided below under the heading “Contact Information.” We may, from time to time, give you the opportunity to receive special offers, such as newsletters, email reminders or special discounts, directly from companies with which we partner. In order to take advantage of these opportunities, you must affirmatively authorise us to share your personally identifiable information with these third party partners; we will never share such information unless you specifically “opt-in” to receive such an offer from one of our partners. Similarly, as part of certain sweepstakes entries we may also give you the opportunity to sign up to receive special offers from our advertising partners. Again, during the entry process, your information will be shared with our partners only if you take specific action to indicate that you would like us to do so.
-
-You may choose to provide us with the certain personally identifiable information when using the Site or the various services offered on the Site, including:
-
-  * Your name
-  * Your birth date
-  * Your home contact information (physical address and/or phone number)
-  * Online contact information (email address)
-  * Your login information
+  * [Home](http://www.onthebox.com/)
+  * [Privacy Policy](http://www.onthebox.com/privacy-policy/)
 
 
 
-In addition, at times, we may ask you to provide non-personally identifiable information about yourself that may be linked with your personally identifiable information you provide. Provision of this information is optional. Such information includes:
+OnTheBox.com is part of the Olderiswiser Media Limited business assets.
 
-  * TV service provider
-  * Gender
-  * Preferences (what you like or dislike)
-  * Survey answers (votes and ratings of TV shows)
+Olderiswiser Media Limited is committed to protecting you and your family’s personal information when you are using Olderiswiser Media Limited services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through Olderiswiser Media Limited websites.
 
+In order to provide you with the full range of Olderiswiser Media Limited services, we are sometimes required to collect information about you.
 
+This privacy policy explains the following:
 
-## What non-personally identifiable information is collected automatically?
-
-We automatically collect certain non-personally identifiable information from you to optimize our web pages for your computer such as:
-
-  * clickstream information (internet protocol (“IP”) address, internet service provider, platform type, date/time stamp) http protocol information (last URL requested and browser type)Your birth date
-  * interaction information (browser interaction such as when the mouse moves over an image)
-  * computer information (computer and browser information)
-  * search terms (search text)
+  * what information Olderiswiser Media Limited may collect about you;
+  * how Olderiswiser Media Limited will use information we collect about you;
+  * when Olderiswiser Media Limited may use your details to contact you;
+  * whether Olderiswiser Media Limited will disclose your details to anyone else;
+  * your choices regarding the personal information you have provided to us;
+  * the use of cookies on Olderiswiser Media Limited website and how you can reject these cookies.
 
 
 
-We will use personally identifiable information that you submit to the Site for the purposes for which you submitted it, including marketing directly to magazine subscribers. At the time you provide personally identifiable information, you have the option of instructing us not to send you our special email offers, and of affirmatively consenting to receiving email offers about our partners. At any time, you can change these choices by visiting the My Profile page on OnTheBox.com or contacting us at the email or physical address listed in “Contact Information” below. We retain personally identifiable information indefinitely unless you request that we remove your personally identifiable information from our database by contacting us at the addresses listed in “Contact Information” below. Magazine subscribers may receive marketing information via telephone or physical address, whether they registered for a magazine on our Site, or through other means. Magazine subscribers can request to not be contacted by contacting us at the addresses listed below.
+As set out above, Olderiswiser Media Limited is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the “data protection laws”).
 
-We may disclose personally identifiable information when required by law or when we have a good faith belief that such action is necessary to comply with a current judicial proceeding, court order, government investigation or legal process.
+The websites contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-We may use non-personally identifiable information collected on the Site to enhance the Site and our product offerings, to maintain and secure the Site, and to understand the interests of Site visitors. Generally, we use non-personally identifiable information to analyze trends, administer the website, and gather information for aggregate use (IP addresses are not linked to personally identifiable information).
+ **2\. What information will Olderiswiser Media Limited collect about me?**
 
-We may also use the statistical compilation and aggregation of non-personally identifiable information and may provide such information to third parties for marketing, advertising or research purposes.
+When you sign up to participate in or receive a service from any OnTheBox.com website, such as newsletters, live chats, message board commenting, or register with the single universal online registration system used across different parts of OnTheBox.com, we may ask for personal information about you. This can consist of information such as your name, e-mail address, postal address, telephone or mobile number or date of birth. Different web pages may ask for different personal information.
 
-We may also disclose your personally identifiable information to any third party as we, in our sole discretion, believe necessary or appropriate, in connection with a merger or consolidation with such third party or the sale of some or all of our assets, provided that such third party agrees to comply with the then-current version of this Privacy Policy.
+By entering your details in the fields requested, you enable Olderiswiser Media Limited and its partners to provide you with the services you select.
 
-How is my information kept secure? We maintain commercially reasonable safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our Sites, and we periodically review and update security measures in light of current technologies.
+Olderiswiser Media Limited also uses cookies (see section 12 below for details) and collects Internet Protocol (IP) addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
 
-## What are cookies and how are they used by the Sites?
+ **3\. How will Olderiswiser Media Limited use the information they collect about me?**
 
-Cookies are files that a web site places on an individual’s hard-drive for record-keeping purposes. Cookies, which are an industry standard used by most web sites, can facilitate a user’s ongoing access to and use of a site. They aid the function of the Site by matching users with stored information in our database to provide personalized features such as localized TV listings. For example, when you come back to visit the Site, certain preferences–such as your Post code for the TV listings–will be called up, saving you time and making access faster.
+Olderiswiser Media Limited will use your personal information for a number of purposes including the following:
 
-Our cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. We will not share or sell non-aggregated information contained within cookies with any third party. The cookie itself does not contain any personally identifiable information.
+  * for “service administration purposes”, which means that Olderiswiser Media Limited may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);
+  * to contact you about a submission you have made to the websites, including any content you provide.
+  * to personalise the way OnTheBox.com content is presented to you (e.g. if we notice that the first thing you look at when you visit the website is ‘Reviews’, then we may present this information or a link to similar relevant content on your homepage);
+  * IP addresses are used to identify the location of users, the number of visits from different countries and also to block disruptive use; and
+  * to analyse and improve the services offered on OnTheBox.com. e.g. to provide you with the most user-friendly navigation experience.
 
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature, but you should note that cookies may be necessary to provide you with such special features as customised content delivery. Cookies can be removed from your computer by following Internet browser “help” file directions.
 
-## What do I need to know about third party sites, co-branded sites, and OnTheBox’s online business partners?
 
-We have established relationships that allow visitors to the Site to go directly to sites operated by third parties. Some of these sites may be co-branded with our logos; however, they are not operated or maintained by OnTheBox. We are not responsible for the content or practices of web sites operated by third parties that are linked to the Site. These links are meant for the user’s convenience only. Links to third party sites do not constitute our sponsorship, endorsement or approval of the content, policies or practices of such third party sites. Once you have left the Site via such a link, you should check the applicable privacy policy of the third party site.
+Where Olderiswiser Media Limited needs to use your personal information we will obtain your consent first -via confirmation email. Otherwise, by providing us with the information either verbally, written or using our website, you consent to the collection, use and processing of this information by Olderiswiser Media Limited. We will use every reasonable effort to safeguard your personal information. You also have the option to withhold your information by written notification to us.   
 
-We may use third parties to manage sweepstakes, games, contests, chats or other features, and these parties may have access to personally identifiable information submitted by visitors who participate in those activities. To the extent third parties assist us in administering sweepstakes, games, contests, chats or other features, they are acting as our agents, and have agreed to adhere to this Privacy Policy and will not use the data for any purposes other than delivering the services required for these special features.
+ **4\. When will Olderiswiser Media Limited contact me?**
 
-## Does OnTheBox use Third Party Ad Servers?
+Olderiswiser Media Limited may contact you:
 
-We use third party advertising companies and advertising networks to deliver advertisements on the Site. These companies may use cookies, web beacons, clear .gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements’ effectiveness. The use of these technologies by these companies is subject to their own privacy policies and is not covered by this Privacy Policy. If you would like more information about this practice please visit www.networkadvertising.org.
+  * in relation to the functioning of any service you have signed up for in order to ensure that Olderiswiser Media Limited can deliver the services to you;
+  * where you have opted to receive further correspondence;
+  * in relation to any contribution you have made to OnTheBox.com, e.g. in the site’s commenting and community;
+  * to invite you to participate in surveys about Olderiswiser Media Limited services (participation is always voluntary); and
+  * for marketing purposes where you have specifically agreed to this (see paragraph 5 below)
 
-## Does OnTheBox collect personally identifiable information from children?
 
-We ask that all parents spend time with their children and monitor what sites their children are visiting. We do not knowingly collect personally identifiable information from children under the age of 13. We also suggest that no children under 18 submit personally identifiable information to any game, membership, contest or promotion that we might host without first obtaining a parent’s consent. Our Site is not intended for use by and is not directed to children.
 
-## Changes to this Privacy Policy
+Local pages will give you detailed information about how Olderiswiser Media Limited will contact you in relation to specific services.
 
-We will occasionally update this Privacy Policy. When we do, we will also revise the “last updated” date at the bottom of the Privacy Policy. For material changes to this Privacy Policy, we will notify you by placing a prominent notice on the Site. We will not materially alter the use of your personally identifiable information without contacting you directly and seeking your affirmative consent.
+ **5\. Will I be contacted for marketing information?**
 
-## Contact Information
+You have the option to decline to receive marketing information from us by unsubscribing from marketing materials via the clearly labelled links at the bottom of the email or by “opting out” with written notification to us.
 
-You can review and update your personally identifiable information (such as phone, e-mail or postal address) by contacting us at [feedback@OnTheBox.com](mailto:feedback@OnTheBox.com) or at the physical address listed below. You may also request that we remove your personally identifiable information from our database. Magazine subscribers may visit Magazine Customer Support to update their account and subscription information.
+ **6\. Will Olderiswiser Media Limited share my personal information with third parties?**
 
-If you have any questions or comments about this Privacy Policy, please contact us at:
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7 below. Generally, we will only use your information within Olderiswiser Media Limited. However, sometimes Olderiswiser Media Limited uses third parties to process your information. Olderiswiser Media Limited will require these third parties to comply strictly with its instructions.
 
-OnTheBox Customer Service  
-77 Queen Victoria St  
-London, EC4V 4AY  
-E-mail: [sam@OnTheBox.com](mailto:sam@OnTheBox.com)
+ **7\. Offensive or inappropriate content on OnTheBox.com website**
+
+If you post or send offensive, inappropriate or objectionable content anywhere on or to OnTheBox.com, or otherwise engage in any disruptive behaviour on OnTheBox.com, Olderiswiser Media Limited may use your personal information to stop such behaviour.
+
+Where Olderiswiser Media Limited reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), Olderiswiser Media Limited may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
+
+ **8\. What if I am a user aged 16 or under?**
+
+If you are aged 16 or under, please get your parent/guardian’s permission beforehand whenever you provide personal information to Olderiswiser Media Limited’s website. Users without this consent are not allowed to provide us with personal information.
+
+ **9\. How long will Olderiswiser Media Limited keep my personal information?**
+
+We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Olderiswiser Media Limited. In the case that you wish to cancel your registration as a OnTheBox.com member, once an account is deleted a red flag goes on the database and, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
+
+Where you contribute to OnTheBox.com, Olderiswiser Media Limited will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. However other areas (e.g. commenting) are likely to have a longer, or even permanent, duration.
+
+ **10\. Can I find out what personal information Olderiswiser Media Limited holds about me?**
+
+Under the Data Protection Act you have the right to request a copy of the personal information Olderiswiser Media Limited holds about you and to have any inaccuracies corrected. We will use reasonable efforts to supply, correct or delete personal information about you on our files. You are required to provide 2 pieces of photographic identification and an administration charge may be incurred for the process.
+
+Please address requests to the Data Protection Officer, OnTheBox.com, Olderiswiser Media Limited, Suite 313b, 25 Nutford Place, London W1H 5YQ.
+
+ **11\. Changes to Olderiswiser Media Limited’s Privacy Policy**
+
+This Privacy Policy may be updated from time to time so you may wish to check it each time you submit personal information to any OnTheBox.com website. The date of the most recent revisions will appear on this page.
+
+ **12\. Cookies Policy – Information Olderiswiser Media Limited collects from you**
+
+ **a. What is a cookie?**
+
+A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a “device”) browser from a website’s computer and is stored on your device’s hard drive. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows.
+
+Cookies record information about your online preferences and allow us to tailor the websites to your interests. Users have the opportunity to set their devices to accept all cookies, to notify them when a cookie is issued, or not to receive cookies at any time. The last of these means that certain personalised services cannot then be provided to that user and accordingly you may not be able to take full advantage of all of OnTheBox.com features. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.
+
+During the course of any visit to OnTheBox.com, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
+
+ **b. How does Olderiswiser Media Limited use cookies?**
+
+Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
+
+Olderiswiser Media Limited also use a number of independent measurement and research companies. They gather information regarding the visitors to Olderiswiser Media Limited sites on our behalf using cookies, log file data and code, which is embedded on our website. Olderiswiser Media Limited uses this type of information to help improve the services it provides to its users. Olderiswiser Media Limited requires that third parties to comply strictly with its instruction (see paragraph 6 above). Certain other areas of OnTheBox.com may use cookies for a specific reason – for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+
+ **13\. Contacting Olderiswiser Media Limited about this Privacy Policy**
+
+If you have any questions or comments about this Privacy Policy please contact;
+
+OnTheBox.com  
+Olderiswiser Media Limited  
+Suite 313b,  
+25 Nutford Place,  
+London W1H 5YQ  
+Tel: (020) 7034 1900
+
+ _Privacy Policy/OnTheBox.com (October 2016)_
+
+We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it.Ok[Read more](http://www.onthebox.com/privacy-policy/)
