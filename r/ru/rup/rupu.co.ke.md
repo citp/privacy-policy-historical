@@ -1,31 +1,61 @@
-> *The following text is extracted and transformed from the rupu.co.ke privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912180422id_/https%3A//www.rupu.co.ke/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rupu.co.ke privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608142931id_/http%3A//www.plive.co.ke/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Protection of User Information | Rupu
+# Privacy Policy – Plive.co.ke
 
-**1\. Types of information we collect:** You agree that we may electronically collect, store and/or use the following of your information:  
-1.1. name and surname, birth date ("Personal Details");  
-1.2. e-mail address, physical address, mobile number, and credit card billing address ("Contact Details");  
-1.3. the credit card number, cardholder name and expiration date you submit to us in respect of your credit card(s) ("Card Details");  
-1.4. internet usage information, including your Internet Protocol address ("IP Address"), browsing habits, click patterns, unique user ID, version of software installed, system type, screen resolutions, colour capabilities, plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the Website, and the dates and times that you visit the Website, paths taken, and time spent on sites and pages within the Website and Platform ("Usage Details"); and  
-1.5. additional information you may provide on a voluntary basis, such as demographic information or information related to your favourite social networking site (eg. the site name, address and description), or information relating to your participation in competitions, promotions, surveys, and/or additional services ("Optional Details").
+### Privacy Policy
 
-**2\. How we collect information:** Rupu collects the aforesaid information from you in the following manner:  
-2.1. User-provided Information: You provide certain of the aforesaid information directly to us as follows:  
-? Your Personal Details and Contact Details are provided by you during your registration for a User Account and/or thereafter by your having actively updated or supplemented your details.  
-? your Card Details will provided by you each time you purchase a Coupon on the Website.  
-? Optional Details may be submitted by you to us if you decide to upload or download certain content (or products) from the Website, enter competitions, take advantage of promotions, respond to surveys, register and subscribe for certain additional services, or otherwise use the optional features and functionality of the Website.  
-2.2. "Cookies" Information: When you access the Website, we may send one or more cookies (small text files containing a string of alphanumeric characters) to your computer to collect certain Usage Details. Rupu may use both session cookies (which disappears after you close your browser) and persistent cookies (which remain after you close your browser which can be removed manually) and may be used by your browser on subsequent visits to the Website. Please note that the use of cookies is standard on the internet and many major websites use them. Please review your web browser "Help" file to learn more about modifying your cookie settings. Note: Some of our business partners (e.g. advertisers) use cookies on our Website. We have no access to or control over these cookies. This clause covers the use of cookies by Rupu only and does not cover the use of cookies by any advertisers.  
-2.3. Other tracking technology: When you access the Website or open one of our HTML emails, certain Usage Details may be automatically collected and recorded by us from your system by using different types of tracking technology.  
-2.4. Web Beacons: Our Website may contain electronic image requests (called a "single-pixel gif" or "web beacon" request) that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page (including an ad banner) can act as a web beacon. Web beacons are typically 1-by-1 pixel files (so small that you would likely not realize that they are there), but their presence can usually be seen within a browser by clicking on "View" and then on "Source." We may also include web beacons in HTML-formatted newsletters that we send to opt-in subscribers in order to count how many newsletters have been read. Rupu web beacons do not collect, gather, monitor or share any personally identifiable information about you, they are just the technique we use to compile anonymous information about the Website and Service usage.
+Plive.co.ke knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-**3\. The purposes for which we collects the information:** Rupu uses the information that you provide (or that we collect) to operate, maintain, enhance, and provide all of the features and Services, to allow us to track user-generated content and Users to the extent necessary to comply with all applicable laws. Rupu uses all of the information collected to understand the usage trends and preferences of our Users, to improve the way the Website or Services work and look, and to create new features and functionality. More specifically:  
-3.1. We use your Card Details only in order to process your purchase of a Coupon. It is important to note that we do not store your Card Details at all, which is why you must re-enter such details every time you make a purchase on the Website.  
-3.2. We use your Personal Details to greet you when you access your User Account, to manage and administer your use of the Services and fulfill our contractual obligations. More specifically, you acknowledge and agree that your full names and contact number if relevant may be disclosed to Merchants from whom you have purchased Coupons in order to enable you to redeem the relevant Products and to facilitate communication between you in relation to your redemption of the Coupons.  
-3.3. We use your Contact Details to verify your identity and to inform you of facts relating to your use of the Services (eg. notifications regarding major updates or content you have posted or downloaded from the Website, customer service notifications, and to address copyright infringement or defamation issues) as well as to inform you, subject to obtaining your prior consent, of competitions, promotions and special offers form us and/or our partners and/or affiliates. We use your email address to be able to deliver Coupons to you. We may also provide your email address and physical address details to Merchants from whom you have purchased Coupons, to the extent necessary in order to enable you to redeem the relevant Products (eg: where Products are to be delivered to you) and/or to facilitate communication between you in relation to your redemption of the Coupons.  
-3.4. We may use your Usage Details to:  
-? remember your information so that you will not have to re-enter it during your visit or the next time you access the Website;  
-? monitor aggregate Website usage metrics such as total number of visitors and pages accessed; and  
-? track your entries, submissions, and status in any promotions or other activities in connection with your usage of the Website.  
-3.5. We may use any Optional Details provided by you for such purposes as indicated to you at the time you agree to provide such Optional Details.
+This Privacy Policy covers Plive.co.keës treatment of personal information that Plive.co.ke gathers when you are on the Plive.co.ke website and when you use Plive.co.ke services. This policy does not apply to the practices of third parties that Plive.co.ke does not own or control, or to individuals that Plive.co.ke does not employ or manage.
 
-**4\. Opt-Out Policy:** To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication, email [hodi@rupu.co.ke](maito:hodi@rupu.co.ke)  from the subscribed email address or go to [www.rupu.co.ke](http://www.rupu.co.ke/)  and use the contact us form to request removal. We will endeavor to remove you from our subscription list within 2 working days after your request.
+### Information Collected by Plive.co.ke
+
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Plive.co.ke users:
+
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+
+2\. Automatic Information:
+
+o We receive and store certain types of information whenever you interact with us. Plive.co.ke and its authorized agents automatically receive and record certain ìtraffic dataî on their server logs from your browser including your IP address, Plive.co.ke cookie information, and the page you requested. Plive.co.ke uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+
+Plive.co.ke may collect and, on any page, display the total counts that page has been viewed.
+
+Many companies offer programs that help you to visit websites anonymously. While Plive.co.ke will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+
+### E-mail Communications
+
+Plive.co.ke is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the ìSharing Your Informationî section below. Plive.co.ke may send out e-mails with Plive.co.ke -related news, products, offers, surveys or promotions.
+
+### Cookies
+
+Cookies are alphanumeric identifiers that we transfer to your computerís hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Plive.co.ke cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+
+The ìhelpî portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Plive.co.keës coolest features.
+
+Plive.co.ke is advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-Aís privacy policy and opt-out page.
+
+### Sharing Your Information
+
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+
+Plive.co.ke Personnel: Plive.co.ke personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Plive.co.ke business.
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Plive.co.ke, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+
+Protection of Plive.co.ke and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Plive.co.ke, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+Syndication: Plive.co.ke allows for the RSS syndication of all of its public content within the Plive.co.ke website.
+
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+
+### Children Under 18 Years of Age
+
+You must be 13 years and older to register to use the Plive.co.ke website. As a result, Plive.co.ke does not specifically collect information about children. If we learn that Plive.co.ke has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parentsí permission before using Plive.co.ke or sending information about themselves or anyone else over the Internet.
+
+### Changes to this Privacy Policy
+
+Plive.co.ke may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Plive.co.ke website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+### Conditions of Use
+
+If you decide to visit Plive.co.ke website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Republic of Kenyaís Laws.
