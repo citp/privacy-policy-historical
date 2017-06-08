@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalregister.gov privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124123739id_/https%3A//www.federalregister.gov/reader-aids/government-policy-and-ofr-procedures/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalregister.gov privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608135657id_/https%3A//www.federalregister.gov/reader-aids/government-policy-and-ofr-procedures/privacy) for the most accurate reproduction.*
 
 # Federal Register :: Reader Aids :: Government Policy and OFR Procedures
 
