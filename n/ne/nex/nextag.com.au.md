@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextag.com.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123130454id_/http%3A//www.nextag.com.au/buyer/help/prPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextag.com.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608171421id_/http%3A//nextag.com.au/info/privacyPolicy) for the most accurate reproduction.*
 
 # Nextag - Privacy Policy
 
@@ -32,13 +32,11 @@ We collect certain information on the Websites through your experience and activ
 
 > **Cookies:** A cookie is a piece of data tied to information about the user and stored on the user's computer. We use both session cookies, which terminate when a user closes his browser, and persistent cookies, which remain on the user's computer until manually deleted. Cookies are used to help make your use of our Websites more enjoyable. Nextag creates these cookie files on your hard drive through your browser and uses them to save information on your Nextag username and Website preferences so you can avoid re-entry of this information each time you visit our Websites, and to display certain usage information that may be helpful for you, such as your recent searches and recently viewed items. Cookies also help us to deliver content and advertisements specific to your interests. For example, we may use cookies to collect anonymous information about your use of our sites and services (including your browsing history, the terms you searched, the products you viewed, etc.) and your interaction with our advertisements that are served on the Websites or other sites. We also may allow our advertising partners to use cookies to collect this kind of anonymous information. This information is not associated with your personally identifiable information. We or our advertising partners may use this anonymous use and browsing information to customize your experience on the Websites, to improve the Websites and our services such as by analysing what content or services are helpful or interesting to users, or to provide you with advertisements that are tailored to your interests, both on our sites and on third-party sites. We also may provide your anonymous use and browsing information to third parties to allow them to provide you with advertisements that are tailored to your interests. You may decline our cookies by activating the setting on your browser which allows you to refuse the setting of cookies, although this may prevent you from accessing certain features on our Websites. Unless you have adjusted your browser setting to refuse cookies, our system will issue cookies when you access our site. Further information about how to manage cookies is available from the website [www.allaboutcookies.org](http://www.allaboutcookies.org/), produced by the Interactive Advertising Bureau, an industry body that develops standards and guidelines to support online business processes. If you would like help on clearing your cookies, consult your browser's Help directory, or visit: [http://www.aboutcookies.org/page-2 ](http://www.aboutcookies.org/page-2).
 > 
-> We may collect information about your interaction with our advertisements. To opt-out of these advertising cookies, please [click here](https://web.archive.org/serv/au/buyer/help/AdTargetingOptOut.jsp). 
+> We may collect information about your interaction with our advertisements. To opt-out of these advertising cookies, please [click here](https://web.archive.org/info/privacyPolicy). 
 > 
-> We may allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of these partner advertising cookies, please [click here](https://web.archive.org/serv/au/buyer/help/AdTargetingOptOut.jsp)
+> We may allow advertising partners to record that you have visited the Websites to allow us to provide you with relevant advertising on the partners' sites. To opt-out of these partner advertising cookies, please [click here](https://web.archive.org/info/privacyPolicy)
 > 
->  
-> 
-> **Log Files:** Like most standard website servers we use log files. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyse trends, administer the Web site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. Should you register with a Website, we may use your IP address at times to help identify you as you browse and to gather broad technical and demographic information on who uses our Websites. We do not tie log files to personally identifiable information.
+>  **Log Files:** Like most standard website servers we use log files. These include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyse trends, administer the Web site, track users' movement in the aggregate, and gather broad demographic information for aggregate use. Should you register with a Website, we may use your IP address at times to help identify you as you browse and to gather broad technical and demographic information on who uses our Websites. We do not tie log files to personally identifiable information.
 > 
 >  **Clear Gifs (Web Beacons/Web Bugs):** We and/or our third party advertisers employ a software technology called clear gifs (also known as Web Beacons or Web Bugs). They help us better manage content on our site by informing us what content and which campaigns are effective. Clear gifs are similar in function to cookies and are used to track the online movements of Web users. In addition, Nextag and its advertisers may use clear gifs in HTML-based emails. This allows us to evaluate the effectiveness of our communications and our marketing campaigns by showing how many emails recipients have opened. We also utilize clear gifs to enable Nextag or third parties to provide you with advertisements, both on our sites and on third-party sites, that are tailored to your interests. We do not tie web-beacons to personally identifiable information.
 
@@ -83,7 +81,7 @@ In addition to the uses described above, we may use your personal information fo
 
 For registered users on some of the Websites, you can review personal identifiable information by logging in your username, email address and password and then clicking on the "My Account" link located at the top right of each page. After accessing the My Account page, click the appropriate link under the Account Management section to make changes as necessary. 
 
-In order to change any other information held by us, please [contact us](https://web.archive.org/serv/au/about/contact_us.jsp). Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law.
+In order to change any other information held by us, please [contact us](https://web.archive.org/info/contactUs). Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law.
 
 You should also note that if we have provided your information to third parties, you will have to make a separate request to them directly if you want to have your information removed from, or corrected in, their databases.
 
@@ -99,23 +97,7 @@ Some of the advertisements that appear on the Websites are delivered to you by t
 
 We understand you may not want to receive promotional email from us or from our partners and advertisers. For that reason, if you are about to submit information to us which will be used by us to contact you by email regarding our products or services, or which will be used by our partners or advertisers to contact you regarding their products or services, we will ask you to agree to being contacted by email by us or by the third parties to whom we pass the information. If you do not want to agree to this you do not have to submit the information, though that will limit the features which you can use on the Websites.
 
-To opt out of receiving Nextag promotional mailings after you have registered, [click here](https://web.archive.org/serv/au/emailcampaign/optout.jsp) or click the appropriate unsubscribe link contained within the email that you receive. Please note that opting out may prevent you from receiving email from Nextag regarding updates and improvements to the Websites or offers and promotions that may interest you.
-
-In some cases we request that you submit personal information in order to forward this information to our partners that have products or services in which you may be interested. In the event we share this information with our partners (e.g. car dealers), we no longer have control over the use of such information and your rights regarding such use will be governed by the policies of our partners. You will then have to contact them directly with any opt-out request.
-
- **
-* Access to Personal Information
-**
-
-Under the Privacy Act 1988 (Cth), individuals have the right to ask to see information about themselves that is held by Nextag. Your right of access can be exercised in accordance with the Privacy Act 1988 (Cth). Any access request may be subject to a fee of AUD$20 to meet our costs in providing you with details of information we hold about you. 
-
-**
-* Where we store your Personal Data
-**
-
-The data that we collect from you will be transferred to, and stored on our secure servers in the United States. The data protection laws in the United States are different and in some respects less stringent than those applicable in Australia.
-
-Your data may also be processed by staff operating outside of Australia who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+To opt out of receiving Nextag promotional mailings after you have registered,[click here](https://web.archive.org/info/privacyPolicy) or click the appropriate unsubscribe link contained within the email that you receive. Please note that opting out may prevent you from receiving email from Nextag regautside of Australia who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our Websites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -130,8 +112,8 @@ Nextag wants your Internet surfing experience to be safe. Help protect yourself.
 If you have any questions about this Website Privacy Policy, the practices of the Websites, or your use of the Websites, please contact us at:
 
 Privacy Officer  
-Nextag, Inc.  
-2955 Campus Dr., 3rd Floor  
-San Mateo, CA 94403  
-USA  
+Nextag Inc.  
+800 Bridge Parkway  
+Suite 200  
+Redwood City, CA 94065  
 
