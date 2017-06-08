@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119011116id_/http%3A//www.dtelepathy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dtelepathy.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608051646id_/http%3A//www.dtelepathy.com/privacy-policy) for the most accurate reproduction.*
 
 # User Experience Design - Product Design | Digital Telepathy
 
