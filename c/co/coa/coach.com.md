@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229222231id_/http%3A//www.coach.com/world-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coach.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608042501id_/http%3A//www.coach.com/world-privacy.html) for the most accurate reproduction.*
 
 # COACH: PRIVACY AND COOKIE NOTICE
 
-Coach, Inc. and its affiliated companies (collectively, the "Company") collect certain information when you visit the websites we own in order to improve your experience and allow us to better communicate with you regarding our products and services.
+Coach, Inc. and its affiliated companies (collectively, the "Company") collect certain information when you visit the websites we own in order to improve your experience and allow us to better communicate with you regarding our products and services. 
 
 Visit our Global Privacy Page at <http://www.coach.com/globalprivacy.html> for a listing of country-specific privacy policies. If your country is not listed there, this privacy policy applies to the personal information we gather when you visit us and provide information to us through our Company websites (the “Sites”). This privacy policy also applies to the personal information you provide when you visit one of our retail locations operated by the Company or one of its subsidiaries, affiliates or distributors (“Retail Stores”) located in a country not listed on our Global Privacy Page – in such cases, we will also respect the local privacy and data protection laws in those countries. This privacy policy also applies to the information we may gather through social media or Company mobile apps. 
 
-This policy covers how we use that collected information, and the safeguards we have in place to protect the information. This privacy policy applies to information received by the Company in connection with the Sites, and also covers personal information gathered at our Retail Stores that is transferred to or received by the Company in the United States by us or from our subsidiaries and affiliates in the EEA in any format including electronic, paper or verbal. By using and submitting information to our Sites or providing information at our Retail Stores, you are agreeing that we may collect, use and disclose the information we collect in accordance with the purposes and uses identified in this policy. For other terms and conditions that apply to your use of the Sites, please review our Terms of Use [here.](http://uk.coach.com/terms-of-use-uk.html)
+This policy covers how we use that collected information, and the safeguards we have in place to protect the information. This privacy policy applies to information received by the Company in connection with the Sites, and also covers personal information gathered at our Retail Stores that is transferred to or received by the Company in the United States by us or from our subsidiaries and affiliates in the EEA in any format including electronic, paper or verbal. By using and submitting information to our Sites or providing information at our Retail Stores, you are agreeing that we may collect, use and disclose the information we collect in accordance with the purposes and uses identified in this policy. For other terms and conditions that apply to your use of the Sites, please review our [Terms of Use](http://uk.coach.com/terms-of-use-uk.html).
 
 ## SAFE HARBOR AND PERSONAL INFORMATION TRANSFERS
 
@@ -20,13 +20,15 @@ _Personal Information_
 
 For purposes of this privacy policy, "personal information" means any information which identifies, or could be used to identify any individual, including name, address, telephone number, email address, billing and account information, credit or debit card information, and other information incidental to providing goods or services. While not personal information by itself, the Company also collects and retains certain browsing information described in more detail below, as well as information about purchases you make at Retail Stores, and, in the event that purchases are enabled on the Sites, regarding purchases on the Sites. For purposes of this policy, "personal information" shall not include anonymized information, aggregated information, or publically available information unless the same has been combined with non-public personal information.
 
-We collect personal information from you on our Sites only when you voluntarily provide us with this information, such as when placing an order through the Sites or registering your Coach product on the Sites; establishing an account or adding information to your account such as by setting up a wish list, gift reminders, or address book entries; entering a contest or sweepstakes; taking a survey; contacting us with a comment or question; requesting a catalog; signing up to receive emails or text messages about our latest products and services; requesting to receive investor alerts; or applying for a job online. Similarly, we collect information from you in our Retail Stores only when you voluntarily provide us with the information, such as purchasing our products, providing information about your Coach preferences, taking a survey or signing up to receive marketing information or applying for a job at a Retail Store.
+We collect personal information from you on our Sites only when you voluntarily provide us with this information, such as when placing an order through the Sites or registering your Coach product on the Sites; establishing an account or adding information to your account such as by setting up a wish list, gift reminders, or address book entries; entering a contest or sweepstakes; taking a survey; contacting us with a comment or question; requesting a catalog; signing up to receive emails or text messages about our latest products and services; requesting to receive investor alerts; or applying for a job online.
+
+Similarly, we collect information from you in our Retail Stores only when you voluntarily provide us with the information, such as purchasing our products, providing information about your Coach preferences, taking a survey or signing up to receive marketing information or applying for a job at a Retail Store. Your personal information in the form of images or video may also be captured in our retail stores that use CCTV. Such information is used for the purposes of theft prevention and public safety. You may contact us at the customer care email address provided below for more information on our personal information processing practices related to CCTV use in our stores.
 
 _Browsing Information; Cookies_
 
 When you visit the Sites, our web servers may automatically recognize certain non-personally identifiable information about you, such as your domain name, access provider, IP address, and browser language. The Sites also use a browser feature known as a cookie, which assigns a unique identification to your computer. The information collected from cookies allows us to provide better customer care to you and improve features of our Sites in a variety of ways, including by determining whether you have visited the Sites in the past and which pages of our Sites you have visited. Further, we use third party advertising companies to serve advertisements on other sites you may visit. To accomplish this, these companies may employ anonymous cookies and action tags to measure advertising effectiveness, track purchases on the Sites as a result of advertisements on a third party site, and understand your visits to our Sites and other web sites. If you do not wish to receive cookies from the Sites, you can set your browser to warn you before accepting a cookie and refuse the cookie when alerted by the browser. Cookies can also be refused by adjusting your browser settings accordingly. Please note that certain pages of the Sites may not function properly if cookies are turned off. Please consult your web browser's Help documentation for more information about how to turn cookies on and off your browser.
 
-We also may use a technology known as clear gifs to help us confirm your receipt of and response to our emails. If you wish to prevent further use of clear gifs in this manner, you can unsubscribe from our mailing list by clicking on the unsubscribe link at the bottom of any Coach email that you receive, emailing us at [privacy@coach.com](mailto:privacy@coach.com) with your request to be removed from our email list, or changing your preferences in your Account.
+We also may use a technology known as clear gifs to help us confirm your receipt of and response to our emails. If you wish to prevent further use of clear gifs in this manner, you can unsubscribe from our mailing list by clicking on the unsubscribe link at the bottom of any Coach email that you receive, emailing us at [privacy@coach.com](mailto:privacy@coach.com) with your request to be removed from our email list, or changing your preferences in your Account. 
 
 The Company also has chosen a company, Omniture, to assist us in understanding your use of the Sites. Omniture may place cookies on your computer to receive information about your browsing and, if applicable, buying activity on the Sites, and help us to provide you with a more personalized shopping experience. If you would like to opt out of these particular services, please [click here.](https://www.adobe.com/privacy.html)
 
@@ -71,7 +73,7 @@ We use certain security measures to protect the personal information you submit 
 
 The Company shall take reasonable steps to ensure that the personal information we process is accurate, complete, current, and relevant to the intended and authorized use. You may obtain upon request a summary of the personal information on record with us. You also may request that we correct any such personal information about you, remove such information from our marketing databases, or dispose of any or all personal information about you.
 
-To make any request described above, or if you have any questions about this privacy policy, send an email to [privacy@coach.com](mailto:privacy@coach.com) or contact:
+To make any request described above, or if you have any questions about this privacy policy, send an email to [privacy@coach.com](mailto:privacy@coach.com) or contact: 
 
 Coach Customer Care  
 One Coach Way  
@@ -87,27 +89,9 @@ You have the right to unsubscribe from receiving marketing emails from Coach, as
 
 Following any of these requests, some of your personal information may be retained for a period of time; for example, to process a pending transaction you have made through the Site, to honor your opt-out from email, to follow-up on a request, resolve a dispute, or for similar reasons. Some personal information also may continue to be stored on "back up" files for financial, legal or technical reasons.
 
-## COMPLIANCE AND ENFORCEMENT
-
-The Company will regularly review how it is meeting the requirements set forth herein. Any concerns regarding the use or disclosure of personal information should be directed to the Company's Legal Department at the US address given above. The Company will investigate and attempt to resolve any complaints or disputes regarding use and disclosure of personal information in accordance with this privacy policy and, where applicable, the Safe Harbor Principles. 
-
-For any complaints or disputes about our privacy practices in respect of the Safe Harbor Principles that cannot be resolved between the Company and the complainant, the Company agrees to the Direct Marketing Association Safe Harbor Program dispute resolution process (the "DMASHP"). Individuals who submit a privacy concern or complaint to the Company and believe that their concern or complaint has not been satisfactorily addressed through our internal process may contact the DMASHP on the Internet, by mail, email or fax as specified below. Inquiries to the DMASHP should identify the Company as the company to which a concern or complaint has been submitted and include a description of the privacy concern and the name and contact details of the individual submitting the inquiry.
-
-DMASHP European Consumer Contact Information: 
-  * email: [safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)
-  * mail: Safe Harbor Line  
-Direct Marketing Association  
-1615 L Street, NW - Suite 1100  
-Washington, DC 20036
-  * web: [www.dmaresponsibility.org/safeharbor/consumers.shtml](https://web.archive.org/web/20161229222231id_/http%3A//www.coach.com/www.dmaresponsibility.org/safeharbor/consumers.shtml)
-  * fax: 202-955-0085
-
 ## UPDATING THIS POLICY; NOTICES  
 THE COMPANY RESERVES THE RIGHT, AT OUR DISCRETION, TO CHANGE, MODIFY, ADD, OR REMOVE PORTIONS OF THIS PRIVACY POLICY AT ANY TIME. YOU SHOULD CHECK THIS PAGE PERIODICALLY FOR CHANGES. YOUR CONTINUED USE OF THIS SITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL BE CONSIDERED YOUR CONSENT TO THOSE CHANGES. IN THE UNLIKELY EVENT THAT WE BELIEVE THAT THE SECURITY OF YOUR PERSONAL INFORMATION IN OUR POSSESSION OR CONTROL MAY HAVE BEEN COMPROMISED, WE MAY SEEK TO NOTIFY YOU OF THAT DEVELOPMENT. IF A NOTIFICATION IS APPROPRIATE, TO THE EXTENT WE HAVE YOUR EMAIL ADDRESS, WE MAY NOTIFY YOU BY EMAIL.
 
 ## EFFECTIVE DATE
 
-This policy is effective July 6, 2016.
-
-
-
+This policy is effective February 28, 2017.
