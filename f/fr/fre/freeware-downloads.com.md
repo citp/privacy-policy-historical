@@ -1,50 +1,70 @@
-> *The following text is extracted and transformed from the freeware-downloads.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119203651id_/http%3A//www.downloadcollection.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeware-downloads.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608183345id_/http%3A//www.downloadcollection.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Information of Download Collection.Com
 
 ### New Software
 
+[**HelpNDoc 5.2.0.265**](https://web.archive.org/helpndoc.htm)  
+Published: 08 June, 2017 10:42   
+Full-featured help authoring tool, easy and powerful,... 
+
+[**Zombie Apocalypse Racing 1.89**](https://web.archive.org/zombie_apocalypse_racing.htm)  
+Published: 08 June, 2017 10:33   
+3d zombie racing game. The global biological disaster... 
+
+[**SSuite Ex-Lex Office Pro 2.34.2**](https://web.archive.org/ssuite_ex-lex_office_pro.htm)  
+Published: 08 June, 2017 10:32   
+This free professional office suite contains all the... 
+
+[**FolderMill 4.1**](https://web.archive.org/foldermill.htm)  
+Published: 08 June, 2017 10:17   
+FolderMill monitors a folder and automatically prints or... 
+
+[**MEDEIL Free Edition 1.0**](https://web.archive.org/medeil_free_edition.htm)  
+Published: 08 June, 2017 10:15   
+Medeil - PMS(Pharmacy Management System) is a software... 
+
+[**DearMob iPhone Music Manager 1.0**](https://web.archive.org/dearmob_iphone_music_manager.htm)  
+Published: 08 June, 2017 10:13   
+DearMob iPhone Music Manager surpasses iTunes in music... 
+
+[**DearMob iPhone Photo Manager 1.0**](https://web.archive.org/dearmob_iphone_photo_manager.htm)  
+Published: 08 June, 2017 09:58   
+DearMob iPhone Photo Manager, way better than iTunes in... 
+
 ### New Reviews
 
 ### Popular Software
 
-[**FreeCommander 2009.02b**](https://web.archive.org/freecommander.htm)  (3990)  
+[**FreeCommander 2009.02b**](https://web.archive.org/freecommander.htm)  (5585)  
 Released: 08 November, 2011   
 FreeCommander is an advanced file manager program. It can... 
 
-[**AbiWord 2.8.6**](https://web.archive.org/abiword.htm)  (1300)  
+[**AbiWord 2.8.6**](https://web.archive.org/abiword.htm)  (1629)  
 Released: 05 December, 2011   
 AbiWord is a free word processor for all major operating... 
 
-[**TestDisk and PhotoRec 6.14**](https://web.archive.org/testdisk_and_photorec.htm)  (2334)  
+[**TestDisk and PhotoRec 6.14**](https://web.archive.org/testdisk_and_photorec.htm)  (2672)  
 Released: 24 October, 2012   
 TestDisk is a powerful free data recovery software! 
 
-[**Apache OpenOffice.org 4.0.1**](https://web.archive.org/apache_openoffice_org.htm)  (1277)  
-Released: 24 May, 2013   
-If you are not happy with paying for commercial office... 
-
-[**Norton AntiVirus 2013 20.3.0.36**](https://web.archive.org/norton_antivirus_2013.htm)  (9756)  
-Released: 15 August, 2013   
-Introducing the new Norton AntiVirus. Norton Antivirus... 
-
-[**NetBeans IDE 7.4**](https://web.archive.org/netbeans_ide.htm)  (787)  
+[**NetBeans IDE 7.4**](https://web.archive.org/netbeans_ide.htm)  (919)  
 Released: 02 December, 2013   
 Free and open source IDE for programmers in almost all... 
 
-[**Safari for Windows 5.1.7**](https://web.archive.org/safari_for_windows.htm)  (3258)  
+[**Safari for Windows 5.1.7**](https://web.archive.org/safari_for_windows.htm)  (3707)  
 Released: 04 December, 2013   
 Experience the fastest web browsing in your windows PC... 
 
-[**GeekUninstaller 1.1.1.21**](https://web.archive.org/geekuninstaller.htm)  (1117)  
+[**GeekUninstaller 1.1.1.21**](https://web.archive.org/geekuninstaller.htm)  (1288)  
 Released: 08 December, 2013   
 GeekUninstaller is a free small sized uninstaller program... 
 
-[**SeaMonkey 2.23**](https://web.archive.org/seamonkey.htm)  (1231)  
+[**SeaMonkey 2.23**](https://web.archive.org/seamonkey.htm)  (1442)  
 Released: 07 January, 2014   
 Advanced Internet user, web developer and corporate... 
 
-[**Ahnenblatt 2.74**](https://web.archive.org/ahnenblatt.htm)  (39)  
+[**Ahnenblatt 2.74**](https://web.archive.org/ahnenblatt.htm)  (54)  
 Released: 15 November, 2012   
 Ahnenblatt is a free and easy-to-use genealogy software... 
 
