@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628022531id_/http%3A//www.feng-gui.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feng-gui.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608141128id_/https%3A//feng-gui.com/privacy) for the most accurate reproduction.*
 
-# Feng-GUI - Privacy Policy | Attention Analysis for Websites and Advertisements
+# Feng-GUI - Privacy Policy | Effective Visuals
+
+## Feng-GUI Privacy Policy
 
 _Last modified: August 1, 2010_
 
@@ -82,4 +84,5 @@ When we receive formal written complaints at this address, it is Feng-GUI's poli
 ### Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent and we expect that most changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).   
-If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time by emailing info feng-gui.com
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us at any time by emailing info feng-gui.com  
+
