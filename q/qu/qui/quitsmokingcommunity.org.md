@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the quitsmokingcommunity.org privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224135401id_/https%3A//quitsmokingcommunity.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quitsmokingcommunity.org privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608070121id_/https%3A//quitsmokingcommunity.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Quit Smoking Community
+# Privacy Policy
 
 Your privacy is critically important to us. At Quit Smoking Community, we have a few fundamental principles on privacy:
 
-  * We don’t ask you for personal information unless we truly need it. (Your gender and income level don't matter in your quest to quit smoking!)
+  * We don’t ask you for personal information unless we truly need it. (Your gender and income level don’t matter in your quest to quit smoking!)
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for communicating smoking cessation information with you.
+  * We don’t store personal information on our servers unless required for communicating smoking cessation information with you.
 
 
 
@@ -20,7 +20,7 @@ Quit Smoking Community also collects potentially personally-identifying informat
 
 ## Gathering of Personally-Identifying Information
 
-Certain visitors to Quit Smoking Community’s website choose to interact with Quit Smoking Community in ways that require Quit Smoking Community to gather personally-identifying information. The amount and type of information that Quit Smoking Community gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to provide a username and email address. In each case, Quit Smoking Community collects such information only as far as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Quit Smoking Community. Quit Smoking Community does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities such as commenting or participating in surveys and giveaways.
+Certain visitors to Quit Smoking Community’s website choose to interact with Quit Smoking Community in ways that require Quit Smoking Community to gather personally-identifying information. The amount and type of information that Quit Smoking Community gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account to provide a username and email address. In each case, Quit Smoking Community collects such information only as far as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Quit Smoking Community. Quit Smoking Community does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities such as commenting or participating in surveys and giveaways.
 
 ## Aggregated Statistics
 
