@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianbuttmagic.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108184914id_/http%3A//indianbuttmagic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianbuttmagic.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608052415id_/http%3A//www.loungesupport.com/docks/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ If this policy is not agreeable to you, please do not use this site.
 
 Personal Information:
 
-We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother’s maiden name).
+We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. 
 
 Non-Personal Information
 
@@ -18,7 +18,7 @@ When visitors access our Web site, certain non-personal information may be colle
 
 **IN WHAT WAY DO WE USE YOUR PERSONAL AND NON-PERSONAL INFORMATION?**
 
-Our goal in collecting personal information is to provide visitors with the most personalized Web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about our visitors, we are able to deliver more relevant content and advertisements, and provide better services. We may use information collected from visitors to our Web site for any of the following purposes: (1) to send visitors information and promotional materials about our company, (2) to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our Web site), (3) to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors), (4) to contact visitors to our Web site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, and credit or charge card information (among other things), as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Web site, (8) to conduct internal reviews of our site (e.g., to determine the number of visitors to the site), (9) to help us better understand visitors' use of our site, and (10) to protect the security or integrity of our site. Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors.
+Our goal is to provide visitors with the most personalized Web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about our visitors, we are able to deliver more relevant content and advertisements, and provide better services. We may use information from visitors to our Web site for any of the following purposes: (1) to send visitors information and promotional materials about our company, (2) to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our Web site), (3) to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors), (4) to contact visitors to our Web site when necessary, (6) to help diagnose problems with our server, (7) to administer our Web site, (8) to conduct internal reviews of our site (e.g., to determine the number of visitors to the site), (9) to help us better understand visitors' use of our site, and (10) to protect the security or integrity of our site. Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors.
 
 **DO WE DISCLOSE YOUR INFORMATION?**
 
@@ -26,8 +26,6 @@ We may transfer or disclose information collected from visitors to our Web site 
 We may also share, rent, sell, or transfer any personal information (including financial information) provided by our visitors to third parties. During the registration process, and at certain times during any member user session, we may present additional offers from third party service providers. Our third party service providers have their own terms and conditions and privacy policies. We suggest that visitors access these third party sites and review their terms and conditions and privacy policies before "subscribing" to any third party offer. If a visitor subscribes to a third party offer during our registration process, we will transfer the financial data they provided to us as part of the registration process to that third party company, which will then process the transaction using that financial data. We may also share non-personal information we collect from visitors to our site, such as their browsing behaviors, with third parties. For example, we may tell a third party advertiser that a certain number of people have visited a certain area on our Web site.
 
 **WHAT SECURITY MEASURES DO WE TAKE TO PROTECT YOUR DATA?**
-
-To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our Web site. We use SSL (Secure Socket Layer) technology to protect any credit card information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient.
 
 **WE PROTECT CHILDREN'S PRIVACY**
 
@@ -47,7 +45,7 @@ There may be times when we need to change the terms of this Privacy Policy. To e
 
 **HOW TO CANCEL YOUR SUBSCRIPTION**
 
-You can cancel your subscription online [here ](http://support.members-lounge.com/index.php?section=29)
+You can cancel your subscription online [here ](http://www.loungesupport.com/)
 
 **HOW CAN YOU ACCESS THE INFORMATION WE HAVE COLLECTED FROM YOU?**
 
@@ -55,4 +53,4 @@ Visitors who wish to access or change the information they provided to our Web s
 
 **HOW CAN YOU CONTACT THE WEB SITE OPERATOR?**
 
-Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service. [You can contact customer support here ](http://support.members-lounge.com/mailpro.php?config.txt;currentPage=1)
+Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this Web site, should visit the Customer Service. [You can contact customer support here ](http://www.loungesupport.com/)
