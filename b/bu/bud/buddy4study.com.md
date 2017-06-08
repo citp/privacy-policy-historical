@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the buddy4study.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204044955id_/http%3A//buddy4study.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddy4study.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608170150id_/http%3A//www.buddy4study.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Buddy4Study
 
-**_Buddy4Study privacy policy for all registered users:_**
+**Buddy4Study privacy policy for all registered users:**
 
-At Buddy4Study, we recognize that privacy is important. Buddy4Study does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission.
+At Buddy4Study, we recognize that privacy is important. Buddy4Study does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested when we have your permission.
 
-Collection of Information and it's use:
+A Collection of Information and it's use:
 
 In order to provide our services, we may collect the following types of information:
 
@@ -22,7 +22,7 @@ When you use Buddy4Study 's services, our servers may automatically record infor
 
 **Our communications**
 
-When you send email or other communication to Buddy4Study, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+When you send an email or other communication to Buddy4Study, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
 **Affiliated & Partner Sites**
 
@@ -30,7 +30,7 @@ We may have affiliated websites who may provide similar or other kinds of servic
 
 **Other Website Links**
 
-Buddy4Study may present links in a format that enables us to keep track of whether these links have been followed. Buddy4Study only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include: Providing our products and services to users; Auditing, research and analysis in order to maintain, protect and improve our services; Developing new services. Buddy4Study processes personal information on our servers in India and in other countries. In some cases, we process personal information on a server outside your own country.
+Buddy4Study may present links in a format that enables us to keep track of whether these links have been followed. Buddy4Study only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include: Providing our products and services to users; Auditing, research, and analysis in order to maintain, protect and improve our services; Developing new services. Buddy4Study processes personal information on our servers in India and in other countries. In some cases, we process personal information on a server outside your own country.
 
 **Choices for personal information**
 
@@ -46,25 +46,25 @@ Buddy4Study only shares personal information with other companies or individuals
 
 **Information security**
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to Buddy4Study employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to Buddy4Study employees, contractors, and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 **Data integrity**
 
-Buddy4Study processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+Buddy4Study processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
 
 **Accessing and updating personal information**
 
-When you need to change or update your personal information please mail us at [info@buddy4study.com](mailto:info@buddy4study.com) and we will make good faith efforts to change/correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We may ask individual users to identify themselves and then proceed to take action as required. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service of charge.
+When you need to change or update your personal information please mail us at [info@buddy4study.com](mailto:info@buddy4study.com) and we will make good faith efforts to change/correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We may ask individual users to identify themselves and then proceed to take action as required. We may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case, where we provide information access and correction, we perform this service of charge.
 
 **Enforcement**
 
-Buddy4Study regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Buddy4Study 's treatment of personal information by mailing us at [info@Buddy4Study.com](mailto:info@Buddy4Study.com) or by writing to us at Privacy Matters, Buddy4Study, 1st floor, A-75, Sector-58, Noida UP (India) 201301. When we receive formal written complaints at this address, it is Buddy4Study’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Buddy4Study and an individual.
+Buddy4Study regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Buddy4Study 's treatment of personal information by emailing us at [info@Buddy4Study.com](mailto:info@Buddy4Study.com) or by writing to us at Privacy Matters, Buddy4Study, 1st floor, A-75, Sector-58, Noida UP (India) 201301. When we receive formal written complaints at this address, it is Buddy4Study’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Buddy4Study and an individual.
 
 **Changes to this policy**
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes).
 
-Buddy4Study is a subsidiary in the Smiling Star Advisory Pvt Ltd. It is an independent organization whose mission is to provide IT services and fill the gaps in education industry with the use of technology.
+Buddy4Study is a subsidiary of the Smiling Star Advisory Pvt Ltd. It is an independent organization whose mission is to provide IT services and fill the gaps in education industry with the use of technology.
 
 If you have questions or concerns regarding this statement, you should first contact Buddy4Study team on the "contact us" page. If your inquiry is not satisfactorily addressed, you may then contact Smiling Star Advisory Pvt Ltd. or email to [info@buddy4study.com](mailto:info@buddy4study.com).
 
