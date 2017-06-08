@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemoviescinema.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210180256id_/http%3A//onlinemoviescinema.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoviescinema.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608131225id_/http%3A//onlinemoviescinema.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | onlinemoviescinema.com
 
