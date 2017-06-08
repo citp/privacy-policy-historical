@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whoabella.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603055533id_/http%3A//whoabella.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoabella.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608160154id_/http%3A//whoabella.com/privacy) for the most accurate reproduction.*
 
 # WHOABella Privacy Policy | WhoaBella!
 
 **_WHOABella Privacy Policy_**
 
-_Version 2.4 Dated OCTOBER 24, 2013_
+_Version 2.4 Dated OCTOBER 24, 2016_
 
 _BY ACCESSING THIS WEBSITE OR ANY OTHER SITE OPERATED BY  WHOABella.com, LLC., INCLUDING ALL OF ITS DIVISIONS, SUBSIDIARIES AND RELATED COMPANIES (COLLECTIVELY, THE “WHOABella.com SITES”), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A “VISITOR” (WHICH MEANS THAT YOU SIMPLY BROWSE THE WHOABella.com SITES) OR YOU ARE A “MEMBER” (WHICH MEANS THAT YOU HAVE REGISTERED WITH ANY OF THE WHOABella.com SITES). THE TERM “USER” REFERS TO A VISITOR OR A MEMBER. “YOU” REFERS TO YOU AS A VISITOR OR A MEMBER._
 
