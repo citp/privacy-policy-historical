@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030125112id_/http%3A//www.eedistribution.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eedistribution.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608131522id_/https%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/bodyvibe1026.asp)  
+|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://news.entertainmentearth.com/entertainment-earth-experience/)  
 ---|---|---  
   
 |    |  |     
 ---|---|---  
+  | [](http://www.entertainmentearth.com/hitlist.asp?spotlight=4689) |    
   |  |     
   |  |     
   |  |     
@@ -31,7 +32,7 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
-[](http://www.entertainmentearth.com/hitlist.asp?spotlight=5461)
+[](https://www.nasafcu.com/startrek/?utm_ovrsource=entearth&utm_ovrmedium=728x90banner&utm_ovrcampaign=creditcard)
 
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
