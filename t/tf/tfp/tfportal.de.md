@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930171843id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608113434id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
 
 # Imprint « Article « Team Fortress 2 - TF2 - TFC - TFPortal
 
