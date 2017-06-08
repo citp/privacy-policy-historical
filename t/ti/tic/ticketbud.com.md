@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603124143id_/http%3A//ticketbud.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbud.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608090045id_/http%3A//ticketbud.com/privacy-policy) for the most accurate reproduction.*
 
 # Ticketbud · Privacy Policy
 
 Ticketbud is owned and operated by Ideabud, Inc. (hereinafter, "Ideabud" or "we," "our," or "us"). This Privacy Policy describes Ideabud’s privacy commitment to you as a user of Ideabud. We recognize the potential sensitivity of the information that you may place on Ideabud. This Privacy Policy describes how Ideabud collects personal information about you when you visit our website and how Ideabud uses that information.
+
+## Personal Data on Ticketbud
+
+Ticketbud will never sell your name, email, or another other data collected (Personal Data) to third parties. 
+
+**Attendees** Whenever you purchase a ticket, register, or donate to an event, the Organizer of that event will be able to view your Personal Data. Organizers may choose to publicly display your name on their event page for website visitors to see. This information is indexed by search engines. Whenever you purchase a ticket, register, or donate to an event on Ticketbud, you agree that we are not responsible for the actions of an Organizer with your Personal Data. You should review the User Content of the Organizer to determine if your Personal Data will be used in a way you agree with before taking any actions. 
+
+**Legal Requirements** Ticketbud may disclose your Personal Data if we are required to by law.
 
 ## Online Registration
 
@@ -64,5 +72,5 @@ Send an email to support@ticketbud.com stating your request.
 If you have questions or concerns about this Privacy Policy or our privacy practices, please contact us by writing to us as follows:
 
 Ideabud LLC.   
-1920 S Interstate 35  
-Austin, TX 78704
+3300 N Interstate Hwy 35  
+Austin, TX 78705
