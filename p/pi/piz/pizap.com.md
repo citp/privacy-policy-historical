@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208040239id_/http%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizap.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608231401id_/https%3A//www.pizap.com/privacypolicy) for the most accurate reproduction.*
 
 # piZap - free online photo editor - fun photo effects editor
 
 ## Introduction
 
-Our Privacy Policy will inform you about how we collect and use information that you provide when using our services and that we receive when you visit our website (piZap.com, the “website”) or our Facebook App (pizap.com, http://apps.facebook.com/pizap_editor, the “Facebook app” ). We may update this policy from time to time and we recommend that you check back regularly for changes.
+Our Privacy Policy will inform you about how we collect and use information that you provide when using our services and that we receive when you visit our website (piZap.com, the “website”) or our Facebook App (pizap.com, https://apps.facebook.com/pizap_editor, the “Facebook app” ). We may update this policy from time to time and we recommend that you check back regularly for changes.
 
 ## What information we collect, Personally Identifiable Information
 
