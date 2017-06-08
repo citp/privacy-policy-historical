@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howto-connect.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129003101id_/http%3A//www.howto-connect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howto-connect.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608191738id_/http%3A//www.howto-connect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Howtoconnect - How-to, Tips on Windows 10 | 8, Android, IOS, Banking
 
