@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015904id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caradvice.com.au privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609000020id_/http%3A//www.caradvice.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ We use cookies to store and track information about your usage of our services. 
 
 Our use of cookies also allows registered users to be presented with a personalised version of the website, carry out transactions and have access to information about your account.
 
-Most browsers will allow you to turn off cookies. If you want to know how to do this please look at the menu on your browser, or look at the instructions on [www.allaboutcookies.org](https://web.archive.org/web/20161119015904id_/http://www.caradvice.com.au/privacy-policy/www.allaboutcookies.org). Please note however that turning off cookies will restrict your use of our website.
+Most browsers will allow you to turn off cookies. If you want to know how to do this please look at the menu on your browser, or look at the instructions on [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note however that turning off cookies will restrict your use of our website.
 
 ### Amending, deleting and how you can obtain access to your personal information
 
