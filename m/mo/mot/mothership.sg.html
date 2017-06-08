@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the mothership.sg privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119015108id_/http%3A//mothership.sg/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mothership.sg privacy policy that was archived on 2017-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608173458id_/http%3A//mothership.sg/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta charset="UTF-8">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="viewport" content="width=device-width, user-scalable=no">
@@ -17,7 +17,7 @@
 ================================================== -->
 <link rel="stylesheet" href="http://cdn.mothership.sg/wp-content/themes/mothership2/css/normalize.min.css">
 <link rel="stylesheet" href="http://mothership.sg/wp-content/themes/mothership2/css/fonts.css?v=1">
-<link rel="stylesheet" href="http://mothership.sg/wp-content/themes/mothership2/css/main.css?v=68">
+<link rel="stylesheet" href="http://mothership.sg/wp-content/themes/mothership2/css/main.css?v=69">
 <link rel="stylesheet" href="http://cdn.mothership.sg/wp-content/themes/mothership2/css/flexslider.css">
 <link rel="stylesheet" href="http://cdn.mothership.sg/wp-content/themes/mothership2/css/ticker-style.css">
 <link rel="stylesheet" href="http://mothership.sg/wp-content/themes/mothership2/css/responsive.css?v=25">
@@ -26,16 +26,16 @@
 
 
 
-<script src="http://cdn.mothership.sg/wp-content/themes/mothership2/js/vendor/html5shiv.js"></script>
+<script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.3"></script><script async="" src="//cdn.taboola.com/libtrc/mothershipsg/loader.js" id="tb_loader_script"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://cdn.mothership.sg/wp-content/themes/mothership2/js/vendor/html5shiv.js"></script>
 
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Mothership.SG » Feed" href="http://mothership.sg/feed/">
 <link rel="alternate" type="application/rss+xml" title="Mothership.SG » Comments Feed" href="http://mothership.sg/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="Mothership.SG » Privacy Policy Comments Feed" href="http://mothership.sg/privacy-policy/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mothership.sg\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://mothership.sg/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/mothership.sg\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://mothership.sg/wp-includes/js/wp-emoji-release.min.js?ver=4.7.5" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -50,13 +50,9 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="easy_author_image-css" href="http://mothership.sg/wp-content/plugins/easy-author-image/css/easy-author-image.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="wpemfb-lightbox-css" href="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/lightbox2/css/lightbox.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="us-plugin-styles-css" href="http://mothership.sg/wp-content/plugins/ultimate-social-deux/public/assets/css/style.css?ver=6.0.0.b" type="text/css" media="all">
-<style id="us-plugin-styles-inline-css" type="text/css">
-.us_sticky .us_wrapper{background-color:#ffffff;}.us_floating .us_wrapper .us_button{width:45px;-webkit-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-o-transition:width 1000ms ease-in-out,background-color 400ms ease-out;transition:width 1000ms ease-in-out,background-color 400ms ease-out;}.us_floating .us_wrapper .us_button:hover{width:90px;-webkit-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-moz-transition:width 1000ms ease-in-out,background-color 400ms ease-out;-o-transition:width 1000ms ease-in-out,background-color 400ms ease-out;transition:width 1000ms ease-in-out,background-color 400ms ease-out;}.us_facebook{background-color:#3b5998;}.us_facebook:hover{background-color:#5d6c99;}.us_twitter{background-color:#00ABF0;}.us_twitter:hover{background-color:#2fb9ef;}.us_google{background-color:#D95232;}.us_google:hover{background-color:#d8573a;}.us_delicious{background-color:#66B2FD;}.us_delicious:hover{background-color:#008000;}.us_stumble{background-color:#E94B24;}.us_stumble:hover{background-color:#008000;}.us_linkedin{background-color:#1C86BC;}.us_linkedin:hover{background-color:#008000;}.us_pinterest{background-color:#AE181F;}.us_pinterest:hover{background-color:#008000;}.us_buffer{background-color:#000000;}.us_buffer:hover{background-color:#008000;}.us_reddit{background-color:#3894f7;}.us_reddit:hover{background-color:#59a5f7;}.us_vkontakte{background-color:#537599;}.us_vkontakte:hover{background-color:#008000;}.us_mail{background-color:#666666;}.us_mail:hover{background-color:#008000;}.us_love{background-color:#FF0000;}.us_love:hover{background-color:#008000;}.us_pocket{background-color:#ee4056;}.us_pocket:hover{background-color:#008000;}.us_tumblr{background-color:#529ecc;}.us_tumblr:hover{background-color:#008000;}.us_print{background-color:#60d0d4;}.us_print:hover{background-color:#008000;}.us_flipboard{background-color:#c10000;}.us_flipboard:hover{background-color:#008000;}.us_comments{background-color:#b69823;}.us_comments:hover{background-color:#008000;}.us_feedly{background-color:#414141;}.us_feedly:hover{background-color:#008000;}.us_youtube:hover{background-color:#008000;}.us_youtube{background-color:#cc181e;}.us_vimeo{background-color:#1bb6ec;}.us_vimeo:hover{background-color:#008000;}.us_behance{background-color:#1769ff;}.us_behance:hover{background-color:#008000;}.us_ok{background-color:#f2720c;}.us_ok:hover{background-color:#008000;}.us_weibo{background-color:#e64141;}.us_weibo:hover{background-color:#008000;}.us_managewp{background-color:#098ae0;}.us_managewp:hover{background-color:#008000;}.us_xing{background-color:#026466;}.us_xing:hover{background-color:#008000;}.us_whatsapp{background-color:#34af23;}.us_whatsapp:hover{background-color:#008000;}.us_meneame{background-color:#ff6400;}.us_meneame:hover{background-color:#008000;}.us_digg{background-color:#000000;}.us_digg:hover{background-color:#008000;}.us_dribbble{background-color:#f72b7f;}.us_dribbble:hover{background-color:#008000;}.us_envato{background-color:#82b540;}.us_envato:hover{background-color:#008000;}.us_github{background-color:#201e1f;}.us_github:hover{background-color:#008000;}.us_soundcloud{background-color:#ff6f00;}.us_soundcloud:hover{background-color:#008000;}.us_instagram{background-color:#48769c;}.us_instagram:hover{background-color:#008000;}.us_feedpress{background-color:#ffafaf;}.us_feedpress:hover{background-color:#008000;}.us_mailchimp{background-color:#6dc5dc;}.us_mailchimp:hover{background-color:#008000;}.us_flickr{background-color:#0062dd;}.us_flickr:hover{background-color:#008000;}.us_members{background-color:#0ab071;}.us_members:hover{background-color:#008000;}.us_more{background-color:#53B27C;}.us_more:hover{background-color:#008000;}.us_posts{background-color:#924e2a;}.us_posts:hover{background-color:#008000;}.us_facebook a{color:#3b5998;}.us_facebook a:hover{color:#5d6c99;}.us_twitter a{color:#00ABF0;}.us_twitter a:hover{color:#2fb9ef;}.us_google a{color:#D95232;}.us_google a:hover{color:#d8573a;}.us_delicious a{color:#66B2FD;}.us_delicious a:hover{color:#008000;}.us_stumble a{color:#E94B24;}.us_stumble a:hover{color:#008000;}.us_linkedin a{color:#1C86BC;}.us_linkedin a:hover{color:#008000;}.us_pinterest a{color:#AE181F;}.us_pinterest a:hover{color:#008000;}.us_buffer a{color:#000000;}.us_buffer a:hover{color:#008000;}.us_reddit a{color:#3894f7;}.us_reddit a:hover{color:#59a5f7;}.us_vkontakte a{color:#537599;}.us_vkontakte a:hover{color:#008000;}.us_mail a{color:#666666;}.us_mail a:hover{color:#008000;}.us_love a,.us_love{color:#FF0000;}.us_love a:hover,.us_love:hover{color:#008000;}.us_pocket a{color:#ee4056;}.us_pocket a:hover{color:#008000;}.us_tumblr a{color:#529ecc;}.us_tumblr a:hover{color:#008000;}.us_print a{color:#60d0d4;}.us_print a:hover{color:#008000;}.us_flipboard a{color:#c10000;}.us_flipboard a:hover{color:#008000;}.us_comments a,.us_comments{color:#b69823;}.us_comments a:hover,.us_comments:hover{color:#008000;}.us_feedly a{color:#414141;}.us_feedly a:hover{color:#008000;}.us_youtube a{color:#cc181e;}.us_youtube a:hover{color:#008000;}.us_vimeo a{color:#1bb6ec;}.us_vimeo a:hover{color:#008000;}.us_behance a{color:#1769ff;}.us_behance a:hover{color:#008000;}.us_ok a{color:#f2720c;}.us_ok a:hover{color:#008000;}.us_weibo a{color:#e64141;}.us_weibo a:hover{color:#008000;}.us_managewp a{color:#098ae0;}.us_managewp a:hover{color:#008000;}.us_xing a{color:#026466;}.us_xing a:hover{color:#008000;}.us_whatsapp a{color:#34af23;}.us_whatsapp a:hover{color:#008000;}.us_meneame a{color:#ff6400;}.us_meneame a:hover{color:#008000;}.us_digg a{color:#000000;}.us_digg a:hover{color:#008000;}.us_dribbble a{ color:#f72b7f;}.us_dribbble a:hover{ color:#008000;}.us_envato a{color:#82b540;}.us_envato a:hover{color:#008000;}.us_github a{color:#201e1f;}.us_github a:hover{color:#008000;}.us_soundcloud a{color:#ff6f00;}.us_soundcloud a:hover{color:#008000;}.us_instagram a{color:#48769c;}.us_instagram a:hover{color:#008000;}.us_feedpress{color:#ffafaf;}.us_feedpress:hover{color:#008000;}.us_mailchimp{color:#6dc5dc;}.us_mailchimp:hover{color:#008000;}.us_flickr a{color:#0062dd;}.us_flickr a:hover{color:#008000;}.us_members{color:#0ab071;}.us_members:hover{color:#008000;}.us_more a{color:#53B27C;}.us_more a:hover{color:#008000;}.us_posts{color:#924e2a;}.us_posts:hover{color:#008000;}
-</style>
-<link rel="stylesheet" id="mothership-style-css" href="http://mothership.sg/wp-content/themes/mothership2/style.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="easy_author_image-css" href="http://mothership.sg/wp-content/plugins/easy-author-image/css/easy-author-image.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="wpemfb-lightbox-css" href="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/lightbox2/css/lightbox.css?ver=4.7.5" type="text/css" media="all">
+<link rel="stylesheet" id="mothership-style-css" href="http://mothership.sg/wp-content/themes/mothership2/style.css?ver=4.7.5" type="text/css" media="all">
 <link rel="stylesheet" id="wordpress-popular-posts-css" href="http://mothership.sg/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.3" type="text/css" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -65,24 +61,18 @@ var appp_ajax_login = {"processing":"Logging in....","required":"Fields are requ
 </script>
 <script type="text/javascript" src="http://mothership.sg/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://mothership.sg/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/lightbox2/js/lightbox.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/js/wpembedfb.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/lightbox2/js/lightbox.min.js?ver=4.7.5"></script>
+<script type="text/javascript" src="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/js/wpembedfb.min.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WEF = {"local":"en_US","version":"v2.7","fb_id":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/js/fb.min.js?ver=4.6.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var us_script = {"ajaxurl":"http:\/\/mothership.sg\/wp-admin\/admin-ajax.php","tweet_via":"","sharrre_url":"http:\/\/mothership.sg\/wp-admin\/admin-ajax.php","success":"Great work! Your message was sent.","trying":"Trying to send email...","total_shares_text":"Shares","facebook_height":"500","facebook_width":"900","twitter_height":"500","twitter_width":"900","googleplus_height":"500","googleplus_width":"900","delicious_height":"550","delicious_width":"550","stumble_height":"550","stumble_width":"550","linkedin_height":"550","linkedin_width":"550","pinterest_height":"320","pinterest_width":"720","buffer_height":"500","buffer_width":"900","reddit_height":"500","reddit_width":"900","vkontakte_height":"500","vkontakte_width":"900","printfriendly_height":"500","printfriendly_width":"1045","pocket_height":"500","pocket_width":"900","tumblr_height":"500","tumblr_width":"900","flipboard_height":"500","flipboard_width":"900","weibo_height":"500","weibo_width":"900","xing_height":"500","xing_width":"900","ok_height":"500","ok_width":"900","managewp_height":"500","managewp_width":"900","meneame_height":"500","meneame_width":"900","digg_height":"500","digg_width":"900","home_url":"http:\/\/mothership.sg","B":"B","M":"M","k":"k","nonce":"263b66321d","already_loved_message":"You have already loved this item.","error_message":"Sorry, there was a problem processing your request.","logged_in":"false","bitly":"false"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://mothership.sg/wp-content/plugins/ultimate-social-deux/public/assets/js/us.script.js?ver=6.0.0.b"></script>
+<script type="text/javascript" src="http://mothership.sg/wp-content/plugins/wp-embed-facebook/lib/js/fb.min.js?ver=4.7.5"></script>
 <link rel="https://api.w.org/" href="http://mothership.sg/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://mothership.sg/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mothership.sg/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6.1">
+<meta name="generator" content="WordPress 4.7.5">
 <link rel="canonical" href="http://mothership.sg/privacy-policy/">
 <link rel="shortlink" href="http://mothership.sg/?p=57638">
 <link rel="alternate" type="application/json+oembed" href="http://mothership.sg/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fmothership.sg%2Fprivacy-policy%2F">
@@ -116,7 +106,7 @@ var us_script = {"ajaxurl":"http:\/\/mothership.sg\/wp-admin\/admin-ajax.php","t
 						  ? new XMLHttpRequest()
 						  : new ActiveXObject( "Microsoft.XMLHTTP" ),
 						url = 'http://mothership.sg/wp-admin/admin-ajax.php',
-						params = 'action=update_views_ajax&token=9868f21831&wpp_id=57638';
+						params = 'action=update_views_ajax&token=0ee7e4212a&wpp_id=57638';
 						// Set request method and target URL
 						xhr.open( "POST", url, true );
 						// Set request header
@@ -169,19 +159,38 @@ googletag.enableServices();
 <meta property="fb:pages" content="592308557475467">
 
 <!-- Start AdAsia-->
-	<script src="http://adnetwork.adasiaholdings.com/config.js?nwid=2060" type="text/javascript"></script>
-	<script type="text/javascript">
-        sas.setup({ domain: 'http://adnetwork.adasiaholdings.com', async: true, renderMode: 0});
-        //  renderMode define when ads must be rendered :
-        //  	- DEFAULT		(0) : as soon as ad is ready
-        //  	- READY			(1) : render ads when document is ready
-        //  - ON_DEMAND		(2) : user must call sas.callAds()
-    </script>
+<script>
+var unruly = window.unruly || {};
+unruly.native = unruly.native || {};
+unruly.native.siteId = 1080958
+</script>
+<script src="//video.unrulymedia.com/native/native-loader.js"></script>
+
 <!-- End AdAsia-->
+
+<!--start taboola-->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/mothershipsg/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+<!--end taboola-->
 
 </head>
 
-<body class="page page-id-57638 page-template-default group-blog">
+<body class="page-template-default page page-id-57638 group-blog">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -260,7 +269,15 @@ googletag.enableServices();
                 
                                 <div class="fr leaderboard">
                 
-                	<iframe width="728" height="90" src="http://www.mothership.sg/ads/728x90_gic/index.html" frameborder="0"></iframe>
+                						
+                
+                	<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                    <!-- Leaderboard -->
+                    <ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-8151337340296717" data-ad-slot="8357269786"></ins>
+                    <script>
+                    (adsbygoogle = window.adsbygoogle || []).push({});
+                    </script>
+                    
 				</div>
 				                
                 
@@ -284,7 +301,8 @@ googletag.enableServices();
 <li id="menu-item-27911" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27911"><a href="http://mothership.sg/category/community/">Community</a></li>
 <li id="menu-item-27913" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27913"><a href="http://mothership.sg/category/lifestyle/">Lifestyle</a></li>
 <li id="menu-item-102881" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102881"><a href="http://mothership.sg/category/almost-famous/">Almost Famous</a></li>
-<li id="menu-item-57583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57583"><a href="http://mothership.sg/canornot">Can or Not Polls</a></li>
+<li id="menu-item-142770" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142770"><a href="http://mothership.sg/category/mps-in-the-house/">MPs in the House</a></li>
+<li id="menu-item-57583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57583"><a href="http://mothership.sg/canornot">Polls</a></li>
 <li id="menu-item-27918" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27918"><a href="http://mothership.sg/about-us/">About</a></li>
 </ul>			</nav>
 			<!-- END MENU -->
@@ -317,7 +335,8 @@ googletag.enableServices();
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27911"><a href="http://mothership.sg/category/community/">Community</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-27913"><a href="http://mothership.sg/category/lifestyle/">Lifestyle</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-102881"><a href="http://mothership.sg/category/almost-famous/">Almost Famous</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57583"><a href="http://mothership.sg/canornot">Can or Not Polls</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-142770"><a href="http://mothership.sg/category/mps-in-the-house/">MPs in the House</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57583"><a href="http://mothership.sg/canornot">Polls</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27918"><a href="http://mothership.sg/about-us/">About</a></li>
 </ul>	</div>
 
@@ -366,7 +385,7 @@ googletag.enableServices();
 	
 	
 <div class="google_ads_sidebar google_ads_sidebar_1">
-<a href="https://bit.ly/2fRh9rQ" target="_blank"><img src="http://mothership.sg/wp-content/uploads/2016/11/lAHPAWNFeONpDbjM-s0BLA_300_250.gif"></a>
+<a href="http://bewareinvestmentscams.sg/?utm_source=DNS&amp;utm_medium=Banners&amp;utm_campaign=Education" target="_blank"><img src="http://mothership.sg/wp-content/uploads/2017/05/300x250.gif"></a>
 
 
 </div>
@@ -392,17 +411,17 @@ googletag.enableServices();
 <!-- cached -->
 
 <ul class="wpp-list">
-<li><figure class="pl-img"><a href="http://mothership.sg/2016/11/spore-army-boy-tells-story-about-getting-diarrhea-on-bus-and-shitting-into-a-ziplock-bag-wins-the-internet/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/ifu-7z-32ncat8y3am64m8i71gp34.jpg"></a></figure>
-					<div class="pl-desc"><h4><a href="http://mothership.sg/2016/11/spore-army-boy-tells-story-about-getting-diarrhea-on-bus-and-shitting-into-a-ziplock-bag-wins-the-internet/" class="my-custom-title-class" title="S'pore army boy's story about getting diarrhoea on bus &amp; shitting into ziplock bag wins Internet">S'pore army boy's story about getting diarrhoea on bus &amp; shitting into ziplock bag wins Internet</a></h4>
-					<p class="pl-date">November 14, 2016</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2016/11/supermoon-will-be-out-tonight-nov-14-2016-visible-in-spore-from-6-46pm-to-9-52pm/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/supermoon-2015-32n9b7ct0nfewxrpwsf18g.jpg"></a></figure>
-					<div class="pl-desc"><h4><a href="http://mothership.sg/2016/11/supermoon-will-be-out-tonight-nov-14-2016-visible-in-spore-from-6-46pm-to-9-52pm/" class="my-custom-title-class" title="Supermoon will be out tonight, Nov. 14, 2016, visible in S'pore from 6.46pm to 9.52pm">Supermoon will be out tonight, Nov. 14, 2016, visible in S'pore from 6.46pm to 9.52pm</a></h4>
-					<p class="pl-date">November 14, 2016</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2016/11/malay-boy-tapao-ing-food-from-non-halal-store-for-elderly-chinese-man-is-why-you-dont-judge-people/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/Screen-Shot-2016-11-13-at-2.41.44-pm-e1479019794712-32n5c548dxxtcgz317cuf4.png"></a></figure>
-					<div class="pl-desc"><h4><a href="http://mothership.sg/2016/11/malay-boy-tapao-ing-food-from-non-halal-store-for-elderly-chinese-man-is-why-you-dont-judge-people/" class="my-custom-title-class" title="Malay boy tapao-ing food from non-halal store for elderly Chinese man is why you don't judge people">Malay boy tapao-ing food from non-halal store for elderly Chinese man is why you don't judge people</a></h4>
-					<p class="pl-date">November 13, 2016</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2016/11/trump-team-outsourced-making-presentation-slides-to-sporean-teen-via-freelancer-site-fiverr/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/donald-trump-slides-singaporean-teen-32o1xzqe48gac6w3d0oqgw.jpg"></a></figure>
-					<div class="pl-desc"><h4><a href="http://mothership.sg/2016/11/trump-team-outsourced-making-presentation-slides-to-sporean-teen-via-freelancer-site-fiverr/" class="my-custom-title-class" title="Trump team outsourced making presentation slides to S'porean teen via freelancer site Fiverr">Trump team outsourced making presentation slides to S'porean teen via freelancer site Fiverr</a></h4>
-					<p class="pl-date">November 17, 2016</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2016/11/man-who-sold-ex-girlfriends-chair-also-placed-himself-on-sale-on-carousell-because-baller/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/carousell-1-32nosy3yfi7756r0n0aqdc.jpg"></a></figure>
-					<div class="pl-desc"><h4><a href="http://mothership.sg/2016/11/man-who-sold-ex-girlfriends-chair-also-placed-himself-on-sale-on-carousell-because-baller/" class="my-custom-title-class" title="Man who sold ex-girlfriend's chair also placed himself on sale on Carousell because baller">Man who sold ex-girlfriend's chair also placed himself on sale on Carousell because baller</a></h4>
-					<p class="pl-date">November 15, 2016</p></div></li>
+<li><figure class="pl-img"><a href="http://mothership.sg/2017/06/pink-dot-ad-in-cineleisure-sparks-calls-to-report-matter-to-police/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/pinkdot-2017-cineleisure-33yp3tjctg2ezjnheffbpc.jpg"></a></figure>
+					<div class="pl-desc"><h4><a href="http://mothership.sg/2017/06/pink-dot-ad-in-cineleisure-sparks-calls-to-report-matter-to-police/" class="my-custom-title-class" title="Pink Dot ad in Cineleisure sparks calls to report matter to police">Pink Dot ad in Cineleisure sparks calls to report matter to police</a></h4>
+					<p class="pl-date">June 5, 2017</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2017/06/acs-boy-gets-phone-confiscated-by-school-parents-sue-principal-to-get-it-back/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/barker-33yvlkwbn8bewnezeascg0.jpg"></a></figure>
+					<div class="pl-desc"><h4><a href="http://mothership.sg/2017/06/acs-boy-gets-phone-confiscated-by-school-parents-sue-principal-to-get-it-back/" class="my-custom-title-class" title="ACS boy gets phone confiscated by school, parents sue principal to get it back">ACS boy gets phone confiscated by school, parents sue principal to get it back</a></h4>
+					<p class="pl-date">June 6, 2017</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2017/06/parent-of-acs-barker-road-student-sues-for-immediate-return-of-phone-fails-miserably/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/acsphone-e1496772217984-33yygo77v9shxjzn9mlji8.png"></a></figure>
+					<div class="pl-desc"><h4><a href="http://mothership.sg/2017/06/parent-of-acs-barker-road-student-sues-for-immediate-return-of-phone-fails-miserably/" class="my-custom-title-class" title="Parent of ACS (Barker Road) student sues for immediate return of phone, fails miserably">Parent of ACS (Barker Road) student sues for immediate return of phone, fails miserably</a></h4>
+					<p class="pl-date">June 7, 2017</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2017/06/minister-k-shanmugam-furious-over-sick-post-about-deceased-police-officer/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/shanpic-33y6enb6m9mviwfo7p6k1s.png"></a></figure>
+					<div class="pl-desc"><h4><a href="http://mothership.sg/2017/06/minister-k-shanmugam-furious-over-sick-post-about-deceased-police-officer/" class="my-custom-title-class" title="Minister K Shanmugam furious over &quot;sick post&quot; about deceased police officer">Minister K Shanmugam furious over "sick post" about deceased police officer</a></h4>
+					<p class="pl-date">June 3, 2017</p></div></li><li><figure class="pl-img"><a href="http://mothership.sg/2017/06/china-zoo-throws-live-donkey-into-tiger-enclosure-for-them-to-tear-apart/"><img src="http://mothership.sg/wp-content/uploads/bfi_thumb/Screen-Shot-2017-06-06-at-1.00.29-pm-33ytwrgj6yn4nbpoqy8we8.png"></a></figure>
+					<div class="pl-desc"><h4><a href="http://mothership.sg/2017/06/china-zoo-throws-live-donkey-into-tiger-enclosure-for-them-to-tear-apart/" class="my-custom-title-class" title="China zoo throws live donkey into tiger enclosure for them to tear apart">China zoo throws live donkey into tiger enclosure for them to tear apart</a></h4>
+					<p class="pl-date">June 6, 2017</p></div></li>
 </ul>
 
 <!-- End WordPress Popular Posts Plugin v3.3.3 -->
@@ -518,7 +537,7 @@ googletag.enableServices();
 	<div class="wrap">
 
 		<div class="fl copyright">
-			<p>Copyright © 2016 Mothership.SG. All rights reserved.</p>
+			<p>Copyright © 2017 Mothership.SG. All rights reserved.</p>
 			<ul>
 				<li><a href="http://mothership.sg/about-us">Advertise with us</a> / </li>
 				<li><a href="http://mothership.sg/about-us">Contact Us</a></li> / 
@@ -600,14 +619,14 @@ jQuery(document).ready(function(){
 <script src="http://cdn.mothership.sg/wp-content/themes/mothership2/js/trackers.js?v=4"></script>
 <script type="text/javascript" src="http://mothership.sg/wp-content/themes/mothership2/js/navigation.js?ver=20120206"></script>
 <script type="text/javascript" src="http://mothership.sg/wp-content/themes/mothership2/js/skip-link-focus-fix.js?ver=20130115"></script>
-<script type="text/javascript" src="http://mothership.sg/wp-includes/js/comment-reply.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://mothership.sg/wp-includes/js/comment-reply.min.js?ver=4.7.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPaAjax = {"ajaxurl":"http:\/\/mothership.sg\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://mothership.sg/wp-content/themes/mothership2/js/load-more.js?v=20151123113100"></script>
-<script type="text/javascript" src="http://mothership.sg/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://mothership.sg/wp-includes/js/wp-embed.min.js?ver=4.7.5"></script>
 
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript">
@@ -618,8 +637,19 @@ _atrk_opts = { atrk_acct:"pkswk1agMW00iP", domain:"mothership.sg",dynamic: true}
 <!-- End Alexa Certify Javascript -->  
 
 <!--Outbrain-->
-<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
 <!--End Outbrain-->
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"04eae6e977","applicationID":"25970739","transactionName":"ZQRQN0tTD0JTAURYClxOcwBNWw5fHRJRVgA=","queueTime":0,"applicationTime":977,"atts":"SUNTQQNJHEw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
-</body></html>
+<!--start taboola-->
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+</script>
+<!--end taboola-->
+
+
+
+
+<!-- Dynamic page generated in 0.278 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2017-06-09 01:07:58 -->
+
+<!-- super cache --></body></html>
