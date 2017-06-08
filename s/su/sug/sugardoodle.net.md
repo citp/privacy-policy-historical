@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207031110id_/http%3A//www.sugardoodle.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardoodle.net privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608193020id_/http%3A//www.sugardoodle.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6540) for the most accurate reproduction.*
 
 # Privacy Policy - T's & C's
 
@@ -11,19 +11,19 @@ Sugardoodle.net - Privacy Policy - Terms & Conditions
 
 At  Sugardoodle.net, we recognize that privacy of your personal information is important.  Here is information on what types of personal information we receive and collect when you use and visit Sugardoodle.net, and how we safeguard your information.  We never sell your personal information to third parties.
 
-###### **Personal Information**
+######  **Personal Information**
 
 The only personal information we collect is what you voluntarily create an account on Sugardoodle.
 
-###### **Privacy**
+######  **Privacy**
 
 Users who become a fan of Sugardoodle on facebook or create an account on Sugardoodle.net will occassionaly receive emails from Sugardoodle.  Facebook fans will also receive status updates and posts.
 
-###### **Log Files**
+######  **Log Files**
 
 As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Comcast), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-###### **Cookies**
+######  **Cookies**
 
 We do use cookies to store information, such as your personal preferences when you visit our site.  This could include the ability to login to some of our features, such as bookmarks, commenting and content submission.
 
