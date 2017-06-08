@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focuscamera.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227120836id_/http%3A//www.focuscamera.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focuscamera.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608160109id_/http%3A//www.focuscamera.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Focus Camera
 
