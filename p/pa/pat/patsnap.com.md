@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126224133id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608205143id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Patsnap
+# Privacy Policy and Terms of Use | PatSnap
+
+##### PatSnap Privacy Policy
 
 ## Introduction
 
@@ -24,7 +26,7 @@ Certain Services require PatSnap to gather Personally-Identifying Data (“the *
 
 ## 3\. Sharing your personal data for legal and business purposes
 
-Important note: For the provision of Services, we may be required to share your information with other parties, including but not limited to, financial institutions, and PatSnap affiliates. We will always only share the limited personal information to that which is strictly required in each unique Interaction. You agree and consent that Personally Identifying Data may be shared with the above stated parties as set out in this Clause 3. 
+Important note: For the provision of Services, we may be required to share your information with other parties, including but not limited to, financial institutions, and PatSnap affiliates. We will always only share the limited personal information to that which is strictly required in each unique Interaction. You agree and consent that Personally Identifying Data may be shared with the above stated parties as set out in this Clause 3.
 
 ## 4\. Anonymous Statistics
 
