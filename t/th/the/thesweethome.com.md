@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesweethome.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610014328id_/http%3A//thesweethome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesweethome.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608191832id_/http%3A//thesweethome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Sweethome
 
