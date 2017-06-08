@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the factset.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220030141id_/http%3A//www.factset.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factset.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608231339id_/https%3A//www.factset.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — FactSet Research Systems
 
-**Last Revised** **  June 13, 2016**
+**Last Revised** **  March 24, 2017**
 
 ### Introduction
 
@@ -70,7 +70,7 @@ As you navigate through and interact with our Website, we may use automatic data
 
 ### Use of Cookies and Other Electronic Tools
 
-FactSet and the parties with whom we work (e.g., service providers, business partners, advertisers and advertising servers) may place, view, and/or use cookies, Web server logs, Web beacons, or other electronic tools to collect statistical and other usage information about your use of this Web site and other websites. This usage information may include information about the IP address of your computer, browser type, language, operating system, your mobile device, geo-location data, internet service provide, the state or country from which you accessed this Web site, the Web pages visited, the date and the time of a visit, the websites you visited immediately before and after visiting this Web site, the number of links you click within this Web site, the functions you use on this Web site, the databases you view and the searches you request on this Web site, the data you save on or download from this Website and the number of times you view an advertisement.
+FactSet and the parties with whom we work (e.g., service providers, business partners, advertisers and advertising servers) may place, view, and/or use cookies, Web server logs, Web beacons, or other electronic tools to collect statistical and other usage information about your use of this Website and all other websites which relate to, provide, or market FactSet products and services. Your consent and acceptance of cookies shall suffice as notice and consent to collection and such usage. This usage information may include information about the IP address of your computer, browser type, language, operating system, your mobile device, geo-location data, internet service provider, the state or country from which you accessed this Web site, the Web pages visited, the date and the time of a visit, the websites you visited immediately before and after visiting this Web site, the number of links you click within this Web site, the functions you use on this Web site, the databases you view and the searches you request on this Web site, the data you save on or download from this Website and the number of times you view an advertisement.
 
 The technologies we use for this automatic data collection may include:
 
