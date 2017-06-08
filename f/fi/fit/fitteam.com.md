@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fitteam.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119214855id_/http%3A//fitteam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitteam.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608165003id_/http%3A//fitteam.com/privacy-policy) for the most accurate reproduction.*
 
-# FITTEAM GLOBAL PRIVACY POLICY
+# FITTEAM Global Privacy Policy
 
    
- **Our Commitment to Privacy**
+**Our Commitment to Privacy**
 
 Our Privacy Policy has been developed as an extension of our commitment to combine quality products and services with integrity in dealing with users. The Policy is designed   
 to assist you in the understanding of how we collect, use and protect the personal  information provided to us.
@@ -100,6 +100,6 @@ We take special care to protect the privacy needs of children and encourage pare
 
 **Changes to This Statement**
 
-Any updates or changes to the terms of this Privacy Statement will be posted on our Site at http://www.fitteam.com.php56-1.ord1-1.websitetestlink.com and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
+Any updates or changes to the terms of this Privacy Statement will be posted on our Site at http://fitteam.wpengine.com.php56-1.ord1-1.websitetestlink.com and the date of the newest version posted below. Please check back frequently, especially before you submit any Personally Identifiable Information at our Site, to see if this Privacy Statement has changed. By using our Site, you acknowledge acceptance of this Privacy Statement in effect at the time of use.
 
 YOUR USE OF OUR SITE MEANS THAT YOU ACCEPT THE PRACTICES SET FORTH IN THIS POLICY. YOUR CONTINUED USE INDICATES YOUR AGREEMENT TO THE CHANGES.
