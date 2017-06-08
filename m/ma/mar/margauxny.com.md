@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the margauxny.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224032404id_/http%3A//shop.margauxny.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the margauxny.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608153411id_/http%3A//shop.margauxny.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Margaux
 
-Welcome to Margaux New York’s website (hereinafter the “Site”). This Privacy Policy informs you of our practices regarding collection, use and disclosure of information you may provide or Margaux New York, LLC (hereinafter “Margaux”) may collect via the Site. Please be sure to read this entire Privacy Policy before using or submitting information to the Site. We respect your privacy, and we are committed to protecting your personal information.
+Welcome to Margaux’s website (hereinafter the “Site”). This Privacy Policy informs you of our practices regarding collection, use and disclosure of information you may provide or Margaux New York, LLC (hereinafter “Margaux”) may collect via the Site. Please be sure to read this entire Privacy Policy before using or submitting information to the Site. We respect your privacy, and we are committed to protecting your personal information.
 
 By accessing and using the Site, you agree with the terms of the Privacy Policy. Whenever you submit information via this Site, you consent to the collection, use and disclosure of that information in accordance with this Privacy Policy. Margaux reserves the right to modify the Privacy Policy, at its discretion and without notice to you. Please review the Privacy Policy from time to time to stay up to date with any changes.
 
