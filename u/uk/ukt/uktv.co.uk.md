@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120091144id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uktv.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608201355id_/http%3A//network.uktv.co.uk/article/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UKTV
 
@@ -50,11 +50,13 @@ If you register for a service (such as UKTV Play) on our UKTV Digital Services; 
 
 (iv) date of birth;
 
-(v) gender;
+(v) postcode;
 
-(vi) email address; and
+(vi) gender;
 
-(vii) any queries, comments or material that you submit via our UKTV Digital Services,
+(vii) email address; and
+
+(viii) any queries, comments or material that you submit via our UKTV Digital Services.
 
 If you register for a service using your Facebook account, we will receive certain personal data from Facebook such as your name and email address. We may receive other details depending on your Facebook privacy settings.
 
@@ -76,7 +78,7 @@ If you use our video on-demand services such as UKTV Play, we may also collect i
 
 
 
-Please see our [Cookies Notice](http://network.uktv.co.uk/article/cookie-notice/) for further information on how we and third parties use cookies to collect and process information about your use of our UKTV Digital Services.
+We use cookies to collect some of this information. Please see our [Cookies Notice](http://network.uktv.co.uk/article/cookie-notice/) for further information on how we and third parties use cookies to collect and process information about your use of our UKTV Digital Services.
 
 ### How We Use Your Personal Information
 
@@ -92,9 +94,9 @@ We will use your personal information:
 
 (v) to provide additional functionality to you, such as maintaining a list of your previously watched programmes, or suggesting programmes which might be of interest to you;
 
-(vi) to provide you with information about the digital products and services offered by UKTV including by post, email, SMS, telephone, social media, or online or via applications, where you have indicated that you wish to receive such marketing. In addition to the details which you have provided (such as your gender or date of birth), we may use other information about your use of our UKTV Digital Services (such as programmes watched, preferred channels, time of viewing) to identify products and services which are more likely to be of interest to you;
+(vi) to provide you with information about the digital products and services offered by UKTV including by post, email, SMS, telephone, social media, or online or via applications, where you have indicated that you wish to receive such marketing. In addition to or in combination with the details which you have provided (such as your gender, postcode or date of birth), we may use other information about your use of our UKTV Digital Services (such as programmes watched, preferred channels, time of viewing) to identify products and services which are more likely to be of interest to you;
 
-(vii) To help us personalise the services and communications you receive (including selling online advertising space to third parties). Personalisation may be based on various factors such as your age or gender, your device details or your inferred interests (which may come from the programmes you watch, preferred channels or time of viewing). We will use this information to place you into an "interest group" and we may then inform advertisers of the interest group into which you fall (but do not share any other personal information which directly identifies you), to enable our advertising partners to display more tailored advertising to you. However, by interacting with or viewing an advert, you should be aware that the third party may make the assumption that you meet the targeting criteria used to display the advert. Tailored advertising means that, in turn, that we are able to maximise the revenue that we generate from advertising to help us to cover the costs of the free services which we provide to you. Please see the [Cookies Notice](http://network.uktv.co.uk/article/cookie-notice/) for further information on the cookies we use for targeted advertising (including how to opt out); 
+(vii) To help us personalise the services and communications you receive (including selling online advertising space to third parties). Personalisation may be based on various factors such as your age, postcode or gender, your device details or your inferred interests (which may come from the programmes you watch, preferred channels or time of viewing or other information which we learn about you from other sources). We (or third parties acting on our behalf) will use this information to place you into an "interest group" and to inform advertisers of the interest group into which you fall (but do not share any other personal information which directly identifies you), to enable our advertising partners to display more tailored advertising to you. However, by interacting with or viewing an advert, you should be aware that the third party may make the assumption that you meet the targeting criteria used to display the advert. Tailored advertising means that, in turn, that we are able to maximise the revenue that we generate from advertising to help us to cover the costs of the free services which we provide to you. Please see the [Cookies Notice](http://network.uktv.co.uk/article/cookie-notice/) for further information on the cookies we use for targeted advertising (including how to opt out); 
 
 (viii) to meet our legal, regulatory and compliance requirements; and
 
@@ -104,7 +106,7 @@ We may also your personal information for other purposes with your consent or as
 
 ### Marketing Communications
 
-As mentioned above, we and/or selected third parties may contact you with information about offers, products and services that might be of interest to you. At the time that you provide your information to us, you will be given the opportunity to indicate whether or not you are happy for us to use your personal information in order to tell you about our offers, products or services. If you wish to stop receiving direct marketing communications at any time or you would like us to stop using your personal data for profiling and targeted advertising purposes, you can send us an email at [viewers@uktv.co.uk](https://web.archive.org/web/20161120091144id_/http://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk). Please note that if you opt out of profiling and targeted advertising, this does not mean that you will receive less advertising when you use our UKTV Digital Services. This just means that the advertising you see may not be as relevant to you.
+As mentioned above, we and/or selected third parties may contact you with information about offers, products and services that might be of interest to you. At the time that you provide your information to us, you will be given the opportunity to indicate whether or not you are happy for us to use your personal information in order to tell you about our offers, products or services. If you wish to stop receiving direct marketing communications at any time or you would like us to stop using your personal data for profiling and targeted advertising purposes, you can send us an email at [viewers@uktv.co.uk](https://web.archive.org/web/20170608201355id_/https://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk). Please note that if you opt out of profiling and targeted advertising, this does not mean that you will receive less advertising when you use our UKTV Digital Services. This just means that the advertising you see may not be as relevant to you.
 
 Where you have provided us with consent, you agree that we may contact you directly by the available method of communication nominated by you - post, email, telephone, SMS, or by any other specified method of communication.
 
@@ -162,7 +164,7 @@ We encourage you also to contact us at viewers@uktv.co.uk to let us know if any 
 
 ### Objecting to data processing
 
-In certain circumstances, you also have the right to object to processing of your personal information and to ask us to block, erase and restrict your personal information. If you would like us to stop using your personal information (including for marketing, profiling or targeted advertising purposes), you can email us at [viewers@uktv.co.uk](https://web.archive.org/web/20161120091144id_/http://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk).
+In certain circumstances, you also have the right to object to processing of your personal information and to ask us to block, erase and restrict your personal information. If you would like us to stop using your personal information (including for marketing, profiling or targeted advertising purposes), you can email us at [viewers@uktv.co.uk](https://web.archive.org/web/20170608201355id_/https://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk).
 
 Please note that there are exceptions to these rights, if, for example, we are under a legal obligation to continue to process your personal data.
 
@@ -178,7 +180,7 @@ If our privacy policy changes in any way, we will place an updated version on th
 
 You may contact us as follows:
 
-  * Email: [viewers@uktv.co.uk](https://web.archive.org/web/20161120091144id_/http://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk)
+  * Email: [viewers@uktv.co.uk](https://web.archive.org/web/20170608201355id_/https://network.uktv.co.uk/article/privacy-policy/viewers@uktv.co.uk)
   * Post: UKTV, PO BOX 6996, Cardiff, CF15 5DS
   * Phone: 020 3192 0504
 
@@ -188,4 +190,4 @@ Company Information
 
 UKTV Media Limited (registered with number 04266373) 
 
-Last updated: September 2016
+Last updated: November 2016
