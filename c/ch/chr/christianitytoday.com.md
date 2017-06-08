@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512171600id_/http%3A//www.christianitytoday.org/help/permissionsandprivacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608172742id_/http%3A//www.christianitytoday.org/help/permissionsandprivacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Christianity Today
 
 Thank you for visiting a website of Christianity Today (CT). Protecting your privacy is very important to us. To assure you of your privacy, we provide this notice to help you understand our commitment to security, what kinds of information we may gather about you when you visit our websites, how we may use that information, and how you can correct the information.
 
-####  Information We Collect
+#### Information We Collect
 
 **Automatically Collected Anonymous Information**  
 When you visit a CT website, certain anonymous information about your visit is automatically logged as it is at most websites, which may include information about your IP address, domain name, browser type, mobile device type, access time, and referring website address. This information is not personally identifiable and is only used in aggregate (not in any way that personally identifies you).
@@ -18,7 +18,7 @@ At some CT websites, you may submit information about other people. For example,
 
 You can visit and browse our websites without revealing any PII, but you may not be able to access certain content, features or services if you choose not to disclose PII.
 
-####  How We Use This Information
+#### How We Use This Information
 
 Aggregated information may be used in many ways. For example, we may combine information about the usage patterns of our visitors to learn which pages are visited most or what features are most attractive. Aggregated information may occasionally be shared with our advertisers and business partners, but it cannot be used to contact you individually.
 
@@ -36,7 +36,7 @@ If you wish to opt out of the use of your PII for marketing purposes, please let
 
 > Print or Site Subscribers, Online Store Customers and Other Information Sources: [Contact Customer Care](https://web.archive.org/myaccount/?page=contact).
 
-####  Cookies & Web Beacons
+#### Cookies & Web Beacons
 
 Cookies are a technology that helps us serve you better. Our cookies collect no personally identifiable information. We use cookies to help us know when and how many people visit our websites; to store your personal preferences for paid online subscription services you may subscribe to, in order to provide you with the best experience possible; and to record session information, such as items that you add to your shopping cart.
 
@@ -48,7 +48,7 @@ CT, our third party service providers or advertisers may use web beacons (clear 
 
 You have the choice to set your browser to accept all cookies, notify you when a cookie is set, delete cookies periodically, or reject all cookies. You may also [opt-out of Google Analytics’ cookies here](https://tools.google.com/dlpage/gaoptout/). Generally, deleting or rejecting cookies also disables web beacons. Please be aware that rejecting all cookies may prevent you from enjoying the full features offered through CT's and other websites. Check the "Help" section of your browser for more information.
 
-####  Collection of Information by Third Parties, Sponsors and Ad Servers
+#### Collection of Information by Third Parties, Sponsors and Ad Servers
 
 Advertisers and websites that have links on our websites may collect information directly from you if you click an advertisement or link to visit another website. This Privacy Policy applies only to information you provide to us and not to any information you may provide to a third party. Please consult the privacy policy of any other website you visit to know what information they may collect and how they may use it.
 
@@ -62,31 +62,31 @@ CT sometimes partners with third parties that operate websites and services you 
 
 > CT provides readers the convenience of signing onto our websites using third-party social login credentials for accounts such as Facebook, Twitter, Linked-In or Google. This allows you to link your existing social profile to your CT account. Once connected, you will be able to post content directly on our websites or share content to social networks from our websites. Our websites may also access certain information from your third-party social profile such as your name, profile picture, gender, and email address.
 
-####  Ad Choices
+#### Ad Choices
 
 Some of the advertisements you see on CT websites are delivered by third parties who may also collect information through cookies and web beacons about your online activities on CT websites or across the Internet, in an effort to understand your interests and deliver advertisements that are relevant to you. Often our ads are based on the content of pages you are viewing, but third parties may also provide ads tailored to your interests.
 
 Third parties that may collect information on our websites in order to serve advertising tailored to your interest may include but is not limited to [Atlas](http://atlassolutions.com/privacy-policy), [DoubleClick](http://www.google.com/policies/privacy/ads/), [EyeWonder](http://www.eyewonder.com/privacy.html), [MediaMind](http://www.mediamind.com/privacy-policy), and [Pointroll](http://www.pointroll.com/privacy.php). Find more information about their privacy policies and whether they offer a way to choose not to have your information used for advertising purposes by clicking on the hyperlinked company names. If these companies are members of the Network Advertising Initiative (NAI), you may also find opt-out information at the [NAI consumer opt out page](http://www.networkadvertising.org/optout_nonppii.asp). You may also learn more about the Digital Advertising Alliance (DAA) and how to make choices about interest-based ads from participating third parties by visiting the [DAA consumer opt out page](http://www.aboutads.info/choices/).
 
-####  Use by Minors
+#### Use by Minors
 
 CT's websites are general audience websites, and we do not knowingly collect personally identifiable information from children under the age of 13. Any information collected online by CT from children under 18 is used only for the purpose of delivering the requested product or service. Please instruct your children to ask you for permission before providing any information about themselves to CT, and visit the [Federal Trade Commission website](http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm) for more information about safe online surfing.
 
-####  Your California Privacy Rights
+#### Your California Privacy Rights
 
 Beginning on January 1, 2005, California Civil Code Section 1798.83 requires CT (1) to enable its customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes or (2) to offer the opportunity for customers to opt out of having their personal information disclosed to third parties for the third parties' direct marketing purposes. We have always offered the second option, as described above in the "How We Use This Information" section. If you prefer not to receive such direct marketing offers, please feel free to make your request known as explained above.
 
 Beginning on January 1, 2014, an amendment to Section 22575 of California's Business and Professions Code requires CT to disclose to its customers who are California residents how it responds to Web browser do not track ("DNT") signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer's online activities over time and across third-party Web sites or online services. CT's websites do not currently respond to any DNT signals. However, customers may make choices about interest-based ads from participating third parties by visiting the [DAA consumer opt out page](http://www.aboutads.info/choices/) as described in the Ad Choices section above.
 
-####  International Transfer
+#### International Transfer
 
 This website is governed by and operated in accordance with the laws of the United States of America (USA). CT makes no representation that this website is governed by or operated in accordance with the laws of other nations. By using this website and submitting any personal information, visitors from outside of the USA acknowledge that this website is subject to USA law, consent to the transfer of personal data to the USA, and waive any claims that may arise under their own national laws. If you do not want your personal information transferred to the USA, do not provide it on this website.
 
-####  Our Commitment to Security
+#### Our Commitment to Security
 
 CT has appropriate physical, electronic, and procedural safeguards in place at its physical location to help protect against the loss, misuse, or alteration of any information you may provide via our websites, including address information and credit card numbers. We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our websites. When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and notify visitors through a pop-up screen on our website. Please note that no security system is impenetrable. As effective as these measures are, we cannot guarantee the security of our database nor that the information you supply will not be intercepted while being transmitted over the Internet.
 
-####  How to Update Your Information
+#### How to Update Your Information
 
 You may access and update the personal information you have provided to us by choosing an option below:
 
@@ -98,7 +98,7 @@ You may access and update the personal information you have provided to us by ch
 
 If you do not want to receive email from us in the future, please contact us via [this page](https://web.archive.org/myaccount/?page=contact).
 
-####  Updates to Privacy Policy
+#### Updates to Privacy Policy
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. We will post any such policy changes on our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check our website periodically.
 
