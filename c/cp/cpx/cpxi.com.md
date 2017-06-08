@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cpxi.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204042803id_/http%3A//www.cpxi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpxi.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608082158id_/http%3A//www.digitalremedy.com/privacy-policy) for the most accurate reproduction.*
 
-# CPXi – Privacy Policy
+# Privacy Policy | Digital Remedy
 
 ## Privacy and Data Use Policy for CPX Interactive
 
@@ -30,7 +30,7 @@ We collect the information described above by using log files, Web beacons and c
 
   * “Log files” track actions occurring on Web sites and collect data including your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed.
   * “Web beacons” are electronic files used to track your navigation of a Web site or collection of sites, the completion of transactions, submittal of applications and browsing behavior.
-  * “Cookies” are files (e.g. HTTP cookies) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are mostly used to record what pages and ads you have already viewed. Cookies are used to facilitate Web site navigation (for example, so your bank knows that you logged in), make sure that you are forwarded to the appropriate Web site when you click on an ad, and generally improve your Web browsing experience. Cookies are also used to control the delivery of a series of advertisements to a Web browser, and to limit the number of times a Web browser receives any one advertisement. We also use cookies to estimate the total reach of an advertising campaign, as well as frequency of display. You can learn more about cookies on the Internet Advertising Bureau’s Web site [www.allaboutcookies.org/cookies/what-information-in-cookie.html](http://www.allaboutcookies.org/cookies/what-information-in-cookie.html).
+  * “Cookies” are files (e.g. HTTP cookies) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are mostly used to record what pages and ads you have already viewed. Cookies are used to facilitate Web site navigation (for example, so your bank knows that you logged in), make sure that you are forwarded to the appropriate Web site when you click on an ad, and generally improve your Web browsing experience. Cookies are also used to control the delivery of a series of advertisements to a Web browser, and to limit the number of times a Web browser receives any one advertisement. We also use cookies to estimate the total reach of an advertising campaign, as well as frequency of display. You can learn more about cookies on the Internet Advertising Bureau’s Web site [www.allaboutcookies.org/cookies/what-information-in-cookie.html](http://www.allaboutcookies.org/cookies/what-information-in-cookie.html).
 
 
 
@@ -55,51 +55,3 @@ In the event that CPX Interactive is acquired by or merged with a third party en
 #### Information Collected by Third Party Sites
 
 Please be aware that the Sites of our advertiser clients as well as the Sites on which we place advertisements or any Site linked to from one of our Web sites also may collect information from you. Such information may include non-personally identifiable information through the use of cookies and other technology and any personally identifiable information you may choose to give in registering and transacting with such Web site. Although we choose our business partners and clients carefully, CPX Interactive is not responsible for the privacy practices of Web sites operated by such third parties. You should check the applicable privacy policies of such Web sites you visit to determine how they handle any information they collect from you.
-
-#### Data Retention
-
-Your Internet browser stores OBA-related data as cookies. If you have cookies disabled, if you delete your cookies, or if other software deletes the cookies used for that data storage, such data is lost because it is not retained separately by CPX Interactive. The cookies that store data related to CPX Interactive’s OBA will in any case expire one year after the last time such information is stored, barring any technical malfunction.
-
-CPX Interactive retains information regarding ad delivery (see, “Ad Delivery & Reporting” above) for up to six (6) months. However, CPX Interactive may retain aggregate statistics, reports and summaries regarding ad delivery for a longer period.  
-  
-CPX Interactive may delete any or all of OBA or information regarding ad delivery that relates to you at any time and in CPX Interactive’s sole discretion, notwithstanding its normal data retention policies. Further, CPX Interactive reserves the right to retain and use any information described in this Policy as reasonably necessary to comply with laws or regulations, notwithstanding any limitations described in this Policy to the contrary. If CPX Interactive changes its retention data policies by updating this Policy, its new policies will apply to all data then retained by CPX Interactive.
-
-## Your Choices
-
-#### OBA Opt-Out and Your Choices
-
-Advertisers may collect data about your online browsing activity and use it to show you targeted ads (a process known as “behavioral advertising”).
-
-You can prevent these companies from showing you targeted ads by submitting opt-outs. Opting-out will only prevent targeted ads so you may continue to see generic (non-targeted ads) from these companies after you opt-out.
-
-To opt out you can can visit the the Digital Advertising Alliance’s opt-out page to opt-out by clicking [here](http://www.aboutads.info/choices/).
-
-You may opt in to behaviorally targeted ads anytime by deleting your browser’s cookies.
-
-#### Opting Out of Interest-Based Mobile Ads
-
-If you choose to opt out of interest-based ads on your mobile device, you’ll still see ads but they may not be related to factors such as your interests, previous visits to other websites, or demographic details. To do so, please follow directions for your device below:
-
-iOS – <https://support.apple.com/en-us/HT202074>  
-Android – <https://support.google.com/ads/answer/2662922?hl=en>
-
-#### European Union Privacy
-
-The European Union (“EU”) maintains strict privacy laws. These rules differ significantly from the laws of the United States of America (“US”). To reconcile these differences, the US and the EU have created a safe harbor (“Safe Harbor”) that defines mutually acceptable privacy operations. For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor). By providing information to us, you acknowledge that we operate in the US and you agree to (i) permit us to transmit and use your user information anywhere necessary, including across international boundaries, to better improve the services and transactions provided by CPX Interactive; and (ii) that such use by us shall be subject to the terms and conditions stated in this Policy and our Terms of Use.
-
-#### Security
-
-CPX Interactive employs standard measures to ensure the security of all information. We routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume these risks when communicating with us.
-
-#### Changes
-
-CPX Interactive may find it appropriate or necessary, or may be legally obligated, to update this Policy from time to time. When we do, we will post those changes on this page and update the effective date (found at the bottom) so that you have a way to always become aware of the information we collect, how we use it, and under what circumstances we disclose it. For changes to this Policy that may be materially less restrictive on our use or disclosure of information you have already provided to us, we will attempt to obtain your consent (if we have the necessary contact information) before implementing such revisions with respect to such information, or notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. For all other changes, it is your responsibility to review this Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often.
-
-#### Contact Us
-
-If you have questions about this Policy, the practices of or your dealings with us relating to this Policy, please email us at [contact@cpxinteractive.com](mailto:contact@cpxinteractive.com) or you can send correspondence to us at the following address:
-
-CPX INTERACTIVE  
-1441 BROADWAY  
-18TH FLOOR  
-NEW YORK, NY 10018
