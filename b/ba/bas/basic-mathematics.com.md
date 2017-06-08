@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226132736id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basic-mathematics.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608231250id_/http%3A//www.basic-mathematics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # www.basic-mathematics.com's Privacy Policy
 
@@ -60,6 +60,9 @@ Updates and Effective Date basic-mathematics.com reserves the right to make chan
 If you do not agree to basic-mathematics.com Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacy policy. 
+
+  
+
 
 New math lessons
 
