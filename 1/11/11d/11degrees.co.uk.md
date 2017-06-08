@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 11degrees.co.uk privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230151835id_/http%3A//www.11degrees.co.uk/privacy-policy-i4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11degrees.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608223656id_/http%3A//www.11degrees.co.uk/privacy-policy-i4) for the most accurate reproduction.*
 
-# Privacy Policy
+# 11 Degrees Clothing | Privacy Policy
 
 By submitting your information through your use of this website, you consent to the use of that information by 11 Degrees as set out below.
 
