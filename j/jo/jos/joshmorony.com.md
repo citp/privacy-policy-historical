@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084106id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshmorony.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608023613id_/http%3A//www.joshmorony.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | joshmorony - Build Mobile Apps with HTML5
 
@@ -63,3 +63,5 @@ Adelaide, South Australia 5049
 Australia
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+
+### What to watch next...
