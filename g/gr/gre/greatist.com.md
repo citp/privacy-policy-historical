@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233539id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatist.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608174042id_/http%3A//greatist.com/greatist-privacy-policy) for the most accurate reproduction.*
 
 # Greatist Privacy Policy | Greatist
 
@@ -29,7 +29,7 @@ We may use your personal information to:
 
 We may use your non-personally identifiable information to analyze the usage of our site, improve the design and content of our site, deliver relevant marketing messages and advertisements, personalize your Internet experience, and offer you products and services. In some cases, we may use your IP address to identify you in order to enforce any legal terms that govern our site or to protect our site, services, systems, information, employees, business partners, service providers, users, customers or others from injury or harm.
 
-#### 3\. With whom do we share that information? 
+#### 3\. With whom do we share that information?
 
 We may share your personal information with third parties including in the following instances:
 
@@ -44,7 +44,7 @@ We may share your personal information with third parties including in the follo
 
 We may also share non-personally identifiable information to third parties on an aggregate basis for purposes of analyzing usages and trends, improving or enhancing our site, improving existing products and services, and developing new ones.
 
-### 4\. Do we collect information from children? 
+### 4\. Do we collect information from children?
 
 Greatist is not intended for and does not knowingly collect information from children under the age of 13. If you believe that your child has registered on our site or that we have collected information from your child, please contact us immediately so that we can remove that information from our database.
 
