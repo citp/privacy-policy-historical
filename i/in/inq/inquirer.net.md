@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528170244id_/http%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609002706id_/https%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | INQUIRER.net
+# Privacy Policy - INQUIRER.net Services | INQUIRER.net Services
+
+#### Privacy Policy
 
 This privacy statement discloses the privacy practices for www.inquirer.net  
 It is Inquirer.net’s continuing goal to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information and user privacy practices.
@@ -40,10 +42,4 @@ Links This website contains links to other sites. Please be aware that Inquirer.
 
 Notification of changes If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-**Disclaimer:** The comments uploaded on this site do not necessarily represent or reflect the views of management and owner of INQUIRER.net. We reserve the right to exclude comments that we deem to be inconsistent with our editorial standards.
-
-To subscribe to the Philippine Daily Inquirer newspaper in the Philippines, call +63 2 896-6000 for Metro Manila and Metro Cebu or email your subscription request here.
-
-Factual errors? Contact the Philippine Daily Inquirer's day desk. Believe this article violates journalistic ethics? Contact the Inquirer's Reader's Advocate. Or write The Readers' Advocate:
-
-c/o Philippine Daily Inquirer Chino Roces Avenue corner Yague and Mascardo Streets, Makati City,Metro Manila, Philippines Or fax nos. +63 2 8974793 to 94
+Don’t miss out on the latest news and information. Follow us: [](https://www.facebook.com/inquirerdotnet) [](https://twitter.com/inquirerdotnet)
