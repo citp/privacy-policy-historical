@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallpapersrocks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122558id_/http%3A//hdwallpapersrocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersrocks.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608093910id_/http%3A//hdwallpapersrocks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers Rocks
 
