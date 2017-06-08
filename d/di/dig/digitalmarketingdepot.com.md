@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalmarketingdepot.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130141029id_/http%3A//digitalmarketingdepot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalmarketingdepot.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608122241id_/http%3A//digitalmarketingdepot.com/privacy) for the most accurate reproduction.*
 
 # Search Marketing Now: Privacy Policy
 
