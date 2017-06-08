@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225823id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608131522id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Action Figures, Toys, Bobble Heads, and Collectibles at Entertainment Earth
 
-Limited Time Offer! Use EARLYBIRD at Checkout to Save $20 and Get Free Shipping on Your In-Stock Order of $100 or More.  
-  
-|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://www.entertainmentearth.com/hitlist.asp?collect=Games&instockcheck=on)  
+|  [ ](http://www.entertainmentearth.com/) |  |  [ ](http://news.entertainmentearth.com/entertainment-earth-experience/)  
 ---|---|---  
   
 |    |  |     
 ---|---|---  
+  | [](http://www.entertainmentearth.com/hitlist.asp?spotlight=4689) |    
   |  |     
   |  |     
   |  |     
@@ -19,12 +18,6 @@ Order by Phone:
 
 Monday - Friday:  
 7:00am - 6:00pm   
-Pacific Time
-
-Also open Saturdays:  
-Nov. 19 and 26  
-Dec. 3, 10, and 17  
-10:00am - 2:00pm  
 Pacific Time
 
 Client Services:  
@@ -39,7 +32,7 @@ Product specifications, prices, ship dates and availability are subject to chang
 |     
    
   
-[](http://www.entertainmentearth.com/hitlist.asp?collect=Games&instockcheck=on)
+[](https://www.nasafcu.com/startrek/?utm_ovrsource=entearth&utm_ovrmedium=728x90banner&utm_ovrcampaign=creditcard)
 
 **PRIVACY POLICY** Entertainment Earth, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. We have made a commitment to meet the strict requirements regarding how we treat your information. The following discloses our information gathering and dissemination practices for www.entertainmentearth.com.  
 
