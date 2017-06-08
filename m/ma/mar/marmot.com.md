@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marmot.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603063229id_/https%3A//marmot.com/content/about-us/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marmot.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608183304id_/http%3A//marmot.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Marmot
+# Privacy Policy
 
 **Effective Date: 1 May, 2014**
 
