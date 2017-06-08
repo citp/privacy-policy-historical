@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotefancy.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213144155id_/https%3A//quotefancy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotefancy.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608230417id_/https%3A//quotefancy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Quotefancy.com
 
