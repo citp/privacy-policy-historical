@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206041644id_/http%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anguilla-beaches.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608153214id_/http%3A//www.anguilla-beaches.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+   
+
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Anguilla-Beaches.Com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
