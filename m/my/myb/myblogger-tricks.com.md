@@ -1,31 +1,38 @@
-> *The following text is extracted and transformed from the myblogger-tricks.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112085858id_/http%3A//www.myblogger-tricks.com/2012/11/privacy-policy_2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogger-tricks.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608065627id_/http%3A//www.myblogger-tricks.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | My Blogger Tricks
+# None
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@myblogger-tricks.com](mailto:admin@myblogger-tricks.com).   
-At www.myblogger-tricks.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.myblogger-tricks.com and how it is used. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at tricks.blogger@gmail.com.
+
+At My Blogger Tricks, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
 
 ###  Log Files
 
-Like many other Web sites, www.myblogger-tricks.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Like many other Web sites, Blogger Platform makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-###  Cookies and Web Beacons
+###  DoubleClick  Cookie
 
-www.myblogger-tricks.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Google, as a third party vendor, uses cookies to serve ads on My Blogger Tricks.  
+Google's use of the DART cookie enables it to serve ads to users based on their visit to My Blogger Tricks and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL:
 
-###  DoubleClick DART Cookie
+[Google's Partners Policy](https://www.google.com/policies/privacy/partners/)
 
-.:: Google, as a third party vendor, uses cookies to serve ads on www.myblogger-tricks.com.   
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.myblogger-tricks.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....   
-Google AdSense  
-Yahoo   
-Publicity Clerk  
-Buy sell Ads 
+[Ads Privacy By Google](http://www.google.com/privacy_ads.html)
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.myblogger-tricks.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.   
-www.myblogger-tricks.com has no access to or control over these cookies that are used by third-party advertisers.
+[Publicity Clerk](http://publicityclerks.com/terms)
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.myblogger-tricks.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.   
+###  Google Advertising Cookie
+
+Users may opt out of personalized advertising by visiting Ads Settings.
+
+Google uses cookies to help serve the ads it displays on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website, a cookie may be dropped on that end user's browser.
+
+Third-party ad servers or ad networks use technology to the advertisements and links that appear on  My Blogger Tricks send directly to your browsers. They automatically receive your IP address when this occurs.( vendor's use of cookies for personalized advertising by visiting www.aboutads.info.)
+
+Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+ My Blogger Tricks has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.  My Blogger Tricks privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
