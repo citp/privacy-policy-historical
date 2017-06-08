@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourdailydish.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222023355id_/http%3A//www.yourdailydish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourdailydish.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608134701id_/http%3A//yourdailydish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,7 +86,7 @@ If You have any questions about this Privacy Policy, the practices of this Site,
 
 YourDailyDish
 
-c/o Secco Squared, LLC
+c/o Spine Media, LLC
 
 Attn: Privacy Compliance
 
