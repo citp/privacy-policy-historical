@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103092155id_/https%3A//idotz.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idotz.net privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608031354id_/https%3A//idotz.net/privacy.cfm) for the most accurate reproduction.*
 
-# iDotz.Net - Domain Name Registrar: Cool Domains @ Great Prices
+# iDotz.Net - Domain Name Registrar: Search.. Name.. Succeed!
 
   **iDotz.Net™ Privacy Policy  
    **(effective July 1, 2002) 
