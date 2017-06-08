@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womanista.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119070126id_/http%3A//womanista.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womanista.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608142221id_/http%3A//womanista.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy
 
