@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the maximiles.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202094348id_/http%3A//www.maximiles.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximiles.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608184646id_/http%3A//www.maximiles.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
-Maximiles are committed to our members' privacy and the following notes outline our information practices. If you feel we are not abiding by our policy or if you have any questions please contact [contact.uk@bilendi.com](mailto:contact.uk@bilendi.com).
+Maximiles are committed to our members' privacy and the following notes outline our information practices. If you feel we are not abiding by our policy or if you have any questions please contact [customerservice@maximiles.co.uk](mailto:customerservice@maximiles.co.uk).
 
 ## Personal Information
 
@@ -24,13 +24,13 @@ Maximiles are committed to our members' privacy and the following notes outline 
 
 **3.** By taking up the “Maximail” service you agree to receive email communications from us containing advertising from our selected third party clients.
 
-**4.** If at any time you no longer wish to receive our newsletters or no longer adhere to the Maximail or Panels services or any other Maximiles service, or be contacted by us at all, please use the links provided at the bottom of each of the newsletters and promotional e-mails you receive, or edit your profile in the "My Account" section of our website.
+**4.** If at any time you no longer wish to receive our newsletters or no longer adhere to the Maximail or Panels services or any other Maximiles service, or be contacted by us at all, please use the links provided at the bottom of each of the newsletters and promotional e-mails you receive, or edit your settings in the "My Account" section of our website.
 
-**5.** From time to time we may pass your postal, email address or telephone number on to selected third parties so that they can send you offers that may be of interest to you. You may opt-out of receiving all third party communications at any time by ticking the boxes provided on your Account section.
+**5.** From time to time we may pass your details on to third parties for the purposes of duplication screening or for account management purposes. Your data will be used within the rules and restrictions of the Data Protection Act, anonymised where possible, subject to non-disclosure and processing agreements.
 
 **6.** The collection of data by Maximiles through registration on third party sites may lead to your data also being held by that third party site. For more information about the processing of your personal data by all our partners, we recommend you to consult their privacy policy available on their website. We are in no way responsible for their management of your personal data.
 
-**7.** You may at any time remove yourself from the Maximiles rewards programme in which case no additional communication will be sent from Maximiles to that particular account and after 30 days any Maximiles points in that account will be forfeited. Please email: [contact.uk@bilendi.com](mailto:contact.uk@bilendi.com).
+**7.** You may at any time remove yourself from the Maximiles rewards programme in which case no additional communication will be sent from Maximiles to that particular account and after 30 days any Maximiles points in that account will be forfeited. Please email: [customerservice@maximiles.co.uk](mailto:customerservice@maximiles.co.uk).
 
 **8.** In order to credit your Maximiles account with Maximiles points gained from earning with our partners or clients, it may be necessary for our partners to transfer your data back to Maximiles so we can credit your account to accurately reflect your Maximiles points total. There may be times when the transfer of data will take place with a partner outside of the EEA. This is for contractual purposes only and again for us to be able to credit your account appropriately.
 
@@ -44,7 +44,7 @@ Maximiles are committed to our members' privacy and the following notes outline 
 
 ## Tracking and Cookies
 
-**1.** Cookie Tracking: We may store information about you using cookies (files which are stored by us on your computer's internet browser or other access devices), which we can access when you visit our site in the future. We do this to facilitate a number of different functions of the Maximiles programme, for example to remember your login details and to award Maximiles into your account. We retain the information contained in cookies for the duration strictly necessary for their purpose. If you want to delete any cookies that are already on your computer at any time, you can do so through your browser. Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). Please note that by deleting our cookies or disabling future cookies you will not be able to access the full functionality of the Maximiles programme and will be unable to earn and redeem points.
+**1.** Cookie Tracking: We may store information about you using cookies (files which are stored by us on your computer's internet browser or other access devices), which we can access when you visit our site in the future. We do this to facilitate a number of different functions of the Maximiles programme, for example to remember your login details and to award Maximiles into your account. We retain the information contained in cookies for the duration strictly necessary for their purpose. If you want to delete any cookies that are already on your computer at any time, you can do so through your browser. Information on deleting or controlling cookies is available at [www.AboutCookies.org](https://www.aboutcookies.org/). Please note that by deleting our cookies or disabling future cookies you will not be able to access the full functionality of the Maximiles programme and will be unable to earn and redeem points.
 
 **2.** We and / or our partners, use cookies in the following ways to administer the programme:
 
@@ -68,7 +68,7 @@ Finally we install a cookie on the computer of people visiting the site who are 
 
 **3.** Maximiles also uses technology provided by Google using the Google Analytics cookie to compile usage statistics about the site so that we can improve it and adapt it to suit your needs. You can prevent the use of the Google Analytics cookie by downloading and installing a browser plugin available at the following address <https://tools.google.com/dlpage/gaoptout>
 
-For more information on the processing of your data by Google, you can see the Google Privacy Policy at the following address: <http://www.google.com/analytics/learn/privacy.html>
+For more information on the processing of your data by Google, you can see the Google Privacy Policy at the following address: <https://www.google.com/analytics/learn/privacy.html>
 
 In general, you can decide to accept or delete cookies by configuring your web browser.
 
@@ -84,7 +84,7 @@ Please note that if you decide to uninstall cookies via your browser, your brows
 
 ## Passwords
 
-**1.** Access to your account is password protected and we never release details of this to third parties. These details will only be released to the account holder. If you have forgotten your password, please visit the "Forgotten log-in" section of the Maximiles web site to request your password and Username.
+**1.** Access to your account is password protected and we never release details of this to third parties. These details will only be released to the account holder. If you have forgotten your password, please visit the "Forgotten log-in" section of the Maximiles web site to request your password and Username be reset.
 
 **2.** Maximiles cannot be held responsible for any activity in your account that has resulted from a member not keeping their account details secure.
 
@@ -102,7 +102,7 @@ Sati, The Tanneries,
 55 Bermondsey Street,  
 London  
 SE1 3XN
-  * **Email address:** [contact.uk@bilendi.com](mailto:contact.uk@bilendi.com)
+  * **Email address:** [customerservice@maximiles.co.uk](mailto:customerservice@maximiles.co.uk)
   * **Phone number:** 020 7819 2820
   * **Trade registration number:** 3762049
   * **VAT Registration Number:** GB 743 898 285
