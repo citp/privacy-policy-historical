@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124193132id_/http%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrato.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022210id_/http%3A//lawrato.com/cmses/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LawRato – Advocates Directory Online | LawRato.com
 
 **_If you do not agree to terms of our Privacy Policy we kindly request you to not use this site, or associate mobile apps._**
+
+The privacy policy of the Company is being issued in compliance to the Information Technology Act and Applicable Rules.
 
 LawRato.com takes your privacy seriously. We have made our policy as clear as possible so that you can rest assured that you are in good hands.
 
