@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106120808id_/http%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608170416id_/http%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,8 +36,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-**::** Find available Tokyo hotels on [Booking.com](https://www.booking.com/city/jp/tokyo.en-gb.html?aid=965264;label=TTblueboxgeneric) now
-
 ### Where Are These Places Located?
 
 See these places on the Truly Tokyo Google map: 
@@ -53,3 +51,6 @@ See these places on the Truly Tokyo Google map:
 ### Tokyo District Map
 
 Click a Tokyo District for detailed info on attractions, places to eat and accommodation 
+
+  
+
