@@ -1,151 +1,127 @@
-> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207184419id_/http%3A//www.jimmychoo.com/en/customer-services/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmychoo.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608061418id_/http%3A//www.jimmychoo.com/en/customer-services/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## PRIVACY POLICY
 
-J. Choo Limited (hereinafter referred to as (“JIMMY CHOO”) is registered in England and Wales under Company Number 03185783 whose registered office is at 10 Howick Place, London SW1P 1GW. JIMMY CHOO and its subsidiaries form part of the JAB Luxury GmbH group of companies (collectively the “Group Companies"). JAB Luxury GmbH whose registered office is in Caslano (Switzerland), Via Industria 1 (hereinafter referred to as “JAB Luxury”) is the controlling company of Group Companies which include Bally, Belstaff, Jimmy Choo, and Zagliani and LLX GBS. 
+**SCOPE AND CONSENT**
 
-JIMMY CHOO, as owner of several domain names containing JIMMY CHOO trademarks, including but not limited to the ones at the address www.JimmyChoo.com (including all sub-domains), www.JimmyChoo.jp and www.JimmyChoo.cn (hereinafter referred to collectively as the “Site”), uses the Site not only to inform you about its products and business but also to collect and process personal data when you visit the Site and make use of its services and functionalities. 
+This privacy policy ("Privacy Policy") is applicable to www.jimmychoo.com (the "Website") and describes the ways in which information about users of the Website is collected, used, and disclosed when users visit the Website and interact with the services and features offered through the Website (including the online store). 
 
-This Privacy Policy applies each time you visit the Site whether browsing or using its services and functionalities; therefore by visiting and using the Site you accept and consent to the processing of your data as described in this Privacy Policy. 
+The operator of the Website is J. Choo Limited ("Jimmy Choo", "our", "we", or "us"), which is located at 10 Howick Place, London, SW1P 1GW United Kingdom (Company Registered Number: 03185783). 
 
-JIMMY CHOO respects your privacy and understands the importance of protecting your personally identifiable information. This privacy statement identifies and describes the types of personally identifiable information we may collect from you when you visit the Site, how we use this information, when we share this information with third parties, and how we protect this information. 
+As indicated in the General Terms and Conditions of Sale, Jimmy Choo manages the Website's online store, which involves managing activities such as processing orders, delivering products, and processing returns as well as other activities necessary to facilitate the sale of products via the Website. To perform these activities, Jimmy Choo may process users' information (including name, address, and credit card information). 
 
-**DATA CONTROLLER**
+By using the Website, each user consents to our collection, use, disclosure, retention, storage, and transfer of his/her information as described in this Privacy Policy, the Terms and Conditions of Use and Terms and Conditions of Sale (http://www.jimmychoo.com/en/customer-services/terms-and-conditions-of-sale.html). This information may be integrated with further personal information collected also in our stores. 
 
-The Data Controller is JIMMY CHOO. 
+This Privacy Policy applies solely to the Website and does not apply to other websites that users may be able to access via links on the Website and/or activities offered by third parties. Please ensure you review any relevant policies on third party websites before proceeding. Jimmy Choo assumes no responsibility for any misuse of the terms of third party websites. 
 
-DATA COLLECTION 
+The data controller of the Website is J. Choo Limited, with its registered office at 10 Howick Place, London, SW1P 1GW United Kingdom (Company Registered Number: 03185783) (“Jimmy Choo”, “our”, “we” or “us”). Jimmy Choo is part of a group of portfolio companies (the “Group”) whose holding company is JAB Luxury GmbH, a Swiss company whose registered office is at Via Industria 1, 6987 - Caslano (Switzerland) (“JAB”). 
 
-JIMMY CHOO collects personal data directly from you when you (i) visit the Site (ii) interact with the Site functionalities or (iii) request services provided by the Site (i.e make a purchase). JIMMY CHOO may combine the information directly provided by you online with the information received by you offline for the purposes defined below. 
+Your data may be also communicated to JAB which will process it as independent data controller. 
 
-NATURE AND TYPE OF DATA, COLLECTED AND PROCESSED 
+**COLLECTION OF DATA**
 
-SURFING DATA 
+A user can browse the Website without telling us who he/she is or revealing any personal information about himself/herself. If a user chooses to provide us with personal information (e.g., in connection with the use of the services and features offered through the Website), however, then he/she is no longer anonymous to us. 
 
-Our processing programs required to run the Site, logs certain data automatically and inevitably (whenever Internet protocols are used) which may, in combination with other information, enable you to be identified. Examples of surfing data that JIMMY CHOO may collect include the date and the time of each visit to the Site, the originating IP address, the pages viewed, sections or images of the Site requested. 
+We collect the following types of information (collectively "Data") in order to provide users with the use of and access to the Website and/or the services and features offered through the Website as well as to help us personalise and improve users' experiences on the Website: 
 
-Such Information will be used with the sole aim of obtaining statistical information regarding the use of the Site and to verify that it is operating correctly. 
+1\. Information we collect automatically: the computer systems and processing programs used to operate the Website automatically log certain data during their normal operation. This data includes, but is not limited to, device ID or unique identifier, device type, computer and connection information, statistics on page views, traffic to and from the Website, referring URL, Internet Protocol ("IP") address, standard web log information, and anonymous information collected through our use cookies and web beacons (collectively, "Surfing Data"). Some Surfing Data may allow us to identify users if the Surfing Data is associated with other data owned by third parties. Jimmy Choo collects Surfing Data in anonymous form exclusively for statistical purposes and for purposes of monitoring and enhancing the functioning of the Website and its content. 
 
-JIMMY CHOO will not collect surfing data in order to associate it with other information about you or to identify you. 
+2\. Information provided voluntarily by users: users may provide personal information to us voluntarily, such as when contacting us (e.g., via email), interacting with the Website's features, making requests for services offered through the Website, completing forms to access protected sections of the Website, and purchasing products through the online store. The personal information voluntarily provided by users may include, but is not limited to, name, gender, email address, phone number, address, financial information (such as credit card and/or bank account numbers), as well as shipping, billing, and other information that users provide to purchase products through the Website and any other personal information that we may ask users to provide to use our services. 
 
-If expressly requested, such Information may be used by the Public Authority to determine responsibility in the case of crimes against the Site and/or realised through the Site, in compliance with the relevant procedures of the appropriate Authorities. Except for such cases, JIMMY CHOO will retain surfing data temporarily in accordance to the applicable legislation. 
+**COOKIES AND AUTOMATIC DATA COLLECTION TOOLS**
 
-**PERSONALLY IDENTIFIABLE INFORMATION**
+The Website uses certain tools, such as cookies, to automatically collect Data. A cookie is a small text file that is used to store information on a user's Internet browser or a user's computer's hard drive when the user visits a website, such as the Website. A cookie does not contain information that identifies a person, but it allows for the linking of a user's computer to the information provided by the user on the Website (such as, for example, linking a user's IP address and other information about the user's experience on the Website to his/her preferences expressed while choosing services and purchasing products offered through the Website). Cookies are disseminated by servers and no one may gain access to information contained therein. The information stored in cookies is gathered directly and automatically by the Website and is processed in an aggregate and anonymous manner. 
 
-Personally Identifiable Information is provided voluntarily by you when interacting with the Site functionalities, for example when you subscribe to the Site or to the JIMMY CHOO newsletter, purchase products, take part in initiatives through the Site or request information or send communications to JIMMY CHOO. 
-
-Personally Identifiable Information collected and processed by JIMMY CHOO may include but is not limited to: name, gender, place and date of birth, nationality, and identification codes and contact details such as: email address, telephone numbers, billing and delivery addresses. Additionally, we may request additional information as a result of authentication or identity verification checks. 
-
-Processing of your data will be limited to common and non-sensitive data provided by you. 
-
-**PURPOSES OF DATA COLLECTION AND PROCESSING METHODS**
-
-JIMMY CHOO will process your personal data (Personally Identifiable Information) for the following purposes: 
-
-1\. managing subscriptions to the Site, newsletters or mailing lists; 
-
-2\. managing the purchase of the products through the Site (which includes all activities related to the sale and after sale activities including but not limited to fraud prevention, delivery of the products, managing return items and customer support); 
-
-3\. managing participation of promotions or in other initiatives and events organised through the Site; 
-
-4\. tailoring information to fit your personal preferences; 
-
-5\. reply and manage your request for information, your questions or communication. 
-
-Furthermore, with your voluntary and optional consent, JIMMY CHOO may process information for promotional, marketing and profiling purposes or for marketing research or for sending you, through email, sms or mms, any promotional material and information on JIMMY CHOO products or for initiatives such as events, exhibitions, fairs or discounts organised by JIMMY CHOO or those where JIMMY CHOO participates, including the relevant invitations. 
-
-You will always have the opportunity to opt out or request that you no longer receive promotional and commercial material or information. With each communication type, it will be explained how to opt out of receiving future promotional materials or information. 
-
-JIMMY CHOO will only keep your personal data for the time necessary to fulfil the specific purposes for which they were collected. 
-
-**PERSONAL DATA SUBMISSION**
-
-Submission of your personal data is necessary to comply with the applicable legislation and to perform the services and functionalities offered by the Site. Your denial to the provision of personal data required will make it impossible for JIMMY CHOO to provide you with the requested services, products or information. 
-
-The submission of personal data for marketing, promotional and profiling purposes is optional: denial thereof will have no consequences on the provision of any requested services, products or information being understood that you cannot further participate in initiatives organised by JIMMY CHOO or that where JIMMY CHOO participates. 
-
-**STORAGE OF PERSONAL DATA**
-
-Your personal data will be processed via an electronic system owned and managed by Jimmy Choo and stored in the server located at 10 Howick Place, London SW1P 1GW; some additional data many be stored by business partners of Jimmy Choo. 
-
-**PERSONAL DATA SHARING, COMMUNICATION AND DISCLOSURE**
-
-Your personal data will be accessible within the JIMMY CHOO organisation on a need to know basis. Your personal data may be communicated to institutions, authorities, banks, financial institutions to comply with applicable contracts, laws and regulations. 
-
-Your personal data may also be communicated to professionals, consultants, associates, companies belonging to the Group Companies, business partners and others to which JIMMY CHOO and Group Companies may employ in relation to business performance reporting, professional and technical services and processing purposes herein specified, or to JIMMY CHOO subsidiaries, wholesale clients, agents or finders. 
-
-These third parties, duly appointed as Data Processors, will be provided only with the information necessary to perform their respective functions and within the purposes herein specified. The updated list of Data Processors is at your disposal from JIMMY CHOO free of charge and upon your request. 
-
-In addition your personal data may be communicated to third parties in case of mergers, acquisitions, transfer of assets or other extraordinary operations. 
-
-Some of data recipients mentioned above may be located outside the EU or in third world countries which does not guarantee an adequate level of data protection. In this event your personal data will be transferred by JIMMY CHOO with adoption of adequate and appropriate precautions as required by requisite laws. 
-
-JIMMY CHOO may communicate your personal data to JAB Luxury which will process the information as an independent Data Controller. For any further information related to JAB Luxury Privacy Policy please refer directly to this company. 
-
-Furthermore, your personal data may also be communicated in response to a judicial process or upon requests by competent courts of authorities or to protect and defend the rights and property of JIMMY CHOO and the Site. 
-
-**COOKIES**
-
-The Site uses cookies, small files sent to your computer or other access device, which we access when you visit the Site in future. 
+The use of cookies and other automatic data collection tools is necessary for the proper functioning of the Website and its services. In the event a user disables cookies, Jimmy Choo cannot ensure that all web pages of the Website will be displayed and/or that certain services will be supplied. 
 
 JIMMY CHOO uses the following types of cookies: 
 
-1.STRICTLY NECESSARY COOKIES 
+1\. STRICTLY NECESSARY COOKIES: These cookies are essential in order to enable you to browse the Website. Without these cookies, services offered by the Website (such as use of the shopping bag or access to your order history) cannot be provided. 
 
-These cookies are essential in order to enable you to browse the Site. Without these cookies, services offered by the Site (such as use of the shopping bag or access to your order history) cannot be provided. 
+2\. ANALYTICAL COOKIES: These cookies are used to measure and analyse how the visitors use the Website (for example site traffic, total sales through the Website, the pages visitors go to most often and pages from which the visitors get error messages) in order to continuously improve the Website and the shopping experiences offered through the Website. All information collected by these cookies is in an anonymous form (even if passed onto third parties) and are not used to identify you. 
 
-2.ANALYTICAL COOKIES 
+3\. FUNCTIONALITY COOKIES: These cookies are not necessary for the functioning of the Website but allow the Website to remember the choices and/or the preferences (such as your username, language or the region you are located) in order to offer you some advanced, simplified and personalised features. 
 
-These cookies are used to measure and analyse how the visitors use the Site (for example site traffic, total sales through the Site, the pages visitors go to most often and pages from which the visitors get error messages) in order to continuously improve the Site and the shopping experiences through the Site. All information collected by these cookies are aggregate and in an anonymous form (even if pass onto third parties) and are not enable to identify you. 
+4\. TARGETING AND ADVERTISING COOKIES: Targeting and advertising cookies may be used to deliver personalised advertisements that are more relevant to you and your interests. These cookies may collect quite detailed information about your browsing habits through the Website, such as products you have clicked on or put in your shopping bag. These cookies allow us to personalise any direct marketing communication (i.e. email) or to limit the number of times you see an advertisement or to help us to measure the effectiveness of our advertising campaigns. They also may enable us (or third-party advertising services we work with) to track the actions of users online over time and across different websites or platforms to measure statistics of our marketing efforts, and to deliver electronic advertisements that may be more relevant to individual consumers and that will improve the overall consumer experience. We do not currently respond to web browser "do not track" signals or other mechanisms that provide a method to opt out of the collection of information across the networks of websites and online services in which we participate. If we do so in the future, we will describe how we do so in this Privacy Policy. For more information about do not track, visit www.allaboutdnt.org. 
 
-3.FUNCTIONALITY COOKIES 
+5\. THIRD PARTY COOKIES AND SOCIAL MEDIA ACCESS: Please note that if you share content from the Website through third party websites (i.e. social networking websites) you may be sent cookies from these websites, and your activity on our Website becomes subject to the privacy policies of those other websites/services. Jimmy Choo does not control the setting of such cookies and encourage you to refer to the relevant third parties website for more information about their cookies and how to manage them, as well as their privacy policies and how they handle information to which they gain access as a result of your decision to log into our Website using your social media profile information. You can, at any time, disable cookies or delete cookies already on your device by selecting the appropriate setting on your internet browser. Information on deleting or controlling cookies is available at www.AboutCookies.org. Please note that by deleting the Website cookies or disabling future cookies you may impede some functionalities of the Website or your possibility to interact with the Website. 
 
-These cookies are not necessary for the functioning of the Site but allow the Site to remember the choices and/or the preferences (such as your username, language or the region you are located) in order to offer you some advanced, simplified and personalized features. 
+**DATA SUBMISSION**
 
-4.TARGETING AND ADVERTISING COOKIES 
+Users may be required to provide certain Data to us to create an account on the Website and to access the services and features offered through the Website, including the online store and the relevant e-commerce services. Failure to provide Data to us may prevent a user from accessing and using the services and features offered through the Website. 
 
-Targeting and advertising cookies may be used to deliver personalised advertisements that are more relevant to you and your interests. These cookies may collect quite detailed information about your browsing habits through the Site, such as products you have clicked on or put in your shopping bag. These cookies allow us the personalise any direct marketing communication (i.e. email) or to limit the number of time you see and advertisement or to help us to measure the effectiveness of our advertising campaigns. 
+The provision of Data to us for marketing purposes is always voluntary and optional. In the event a user elects to not provide Data to us for marketing purposes, that choice will have no effect on the user's ability to use the services and features offered through the Website. 
 
-5.THIRD PARTY COOKIES 
+**USE OF DATA**
 
-Please note that if you share content from the Site through third parties websites (i.e. social networking websites) you may be sent cookies from these websites. JIMMY CHOO does not control the setting of such cookies and encourage you to refer to the relevant third parties website for more information about their cookies and how to manage them. 
+Jimmy Choo may use Data for the following purposes: 
 
-You can, at any time, disable cookies or delete cookies already on your device by selecting the appropriate setting on your internet browser. Information on deleting or controlling cookies are available at www.AboutCookies.org. 
+1\. To manage and improve the Website and the services we provide through the Website by better tailoring our content to our users’ needs and preferences; 
 
-Please note that by deleting the Site cookies or disabling future cookies you may impede some functionalities of the Site or your possibility to interact with the Site. 
+2\. To manage the security of the Website and Data collected via the Website; 
 
-**SECURITY OF PERSONAL DATA**
+3\. To provide the e-commerce services offered through the Website; 
 
-JIMMY CHOO is committed to safeguarding the security of your personal data and to prevent it from being altered, corrupted, destroyed or accessed by unauthorised third parties. 
+4\. To provide other services requested by users, as described when we collect the Data; 
 
-JIMMY CHOO complies with security provisions set forth by the applicable laws and regulations. JIMMY CHOO has implemented and regularly updates their security provisions, in particular with regards to the information systems, a variety of technical organisational and physical security measures and procedures to help to protect your personal data. 
+5\. To prevent, detect, and investigate fraud, security breaches, violations of law, and other misuse of the Website, and to enforce our General Terms and Conditions of Sale and General Terms and Conditions of Use; 
 
-Moreover information systems and software programs are configured to minimise the use of personal and identification data which are only used if and when necessary for the specific purposes. 
+6\. For market research and statistical processing; and 
 
-Please note that whilst JIMMY CHOO maintains appropriate safeguards, it does not control each and every risk related to the use of Internet and therefore warns you of the potential risks involved in the functioning and use of Internet. 
+7\. To contact users for other purposes authorised by law. 
+
+Furthermore, with a user's freely given consent, Jimmy Choo may also use Data to create individual or group profiles (user profiling) and for marketing purposes, notably to send to users - via newsletters, emails, or text messages - information and updates on Jimmy Choo products or initiatives, offers, exclusive sales, promotional campaigns, and events and shows organised by Jimmy Choo or in which Jimmy Choo takes part, including invitations to those events and shows. To opt-out of receiving marketing messages from us, please see the User’s Choice section below. 
+
+We do not share users' Data to third parties for their marketing purposes without users' explicit consent. We may combine users' Data with information we collect from other sources and use it to improve and personalise our advertising and marketing to users. 
+
+**STORING AND PROTECTING DATA**
+
+Data collected will processed via an electronic system owned and managed by LLX Global Business Services Ltd (“GBS”), with its registered office at Via Industria 1, 6987 Caslano – Switzerland, a service company belonging to the Group. Data collected will be stored in the server located at GBS. 
+
+We protect users' Data by using technical and administrative security measures to reduce the risk of loss, misuse, and unauthorised access, disclosure, and alteration. Some of the safeguards we use are firewalls and data encryption, physical access controls to our data centres, and information access controls. Please understand, however, that no system is perfect or can guarantee that unauthorised access or theft might not occur. 
+
+We take steps to ensure that the Data we collect is accurate and up to date, and we provide users with the opportunity to update their information as specified in this Privacy Policy. To provide us with updated information, please contact us at [customerservices@jimmychoo.com](mailto:customerservices@jimmychoo.com). 
+
+**DATA COMMUNICATION AND DISCLOSURE**
+
+Data will be accessible by Jimmy Choo personnel, including employees and external contractors. 
+
+We may also share users' Data with: 
+
+1\. any other company within the Group located in countries inside and/or outside of the United Kingdom. All security and privacy measures have been put in place at the Group level in order to ensure an adequate level of data protection irrespective of the geographic location of each Group company that is the recipient of user Data. Members of the Group may use user Data to send marketing communications only if a user has consented to such use, and each Group company will use Data in compliance with its individual privacy policies and applicable law; 
+
+2\. professionals, independent consultants, credit bureaus, banks, financial institutions, and other third parties that Jimmy Choo may rely on for the performance of technical and organisational services, including service providers under contract that help with our business operations (such as, but not limited to, Website operations, payment services, shipments, fraud investigations, bill collection, and affiliate and rewards programs); 
+
+3\. other third parties with which users explicitly ask that we share their Data (or where users have otherwise explicitly been notified of and have consented to the sharing of their Data with a particular third party when using a specific service); 
+
+4\. law enforcement or regulatory agencies, or authorised third parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity through the Website that may expose us and/or the user to legal liability; and 
+
+5\. other business entities, should we plan to merge with or be acquired by that business entity. Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to users' Data. 
+
+The aforementioned third parties that may receive users' Data will process that Data for the same purposes as specified above and in accordance with applicable law. Jimmy Choo will retain a list of the third parties with which Data is shared, which will be available upon request. 
+
+If users' Data will be used or disclosed for any purpose other than the purposes described in this Privacy Policy, they shall receive prior notification of such use or disclosure. Data will be transferred to Group companies, both located inside and outside of the United Kingdom or EEA only with a user's freely given consent. 
 
 **THIRD PARTY WEBSITES**
 
-The Site might, from time to time, contain links to third parties websites (LLXGBS, JAB Luxury and the Group Companies’ websites included) which may have their own privacy policies. Jimmy CHOO will be not responsible for these websites, the activities and practices that take place on these websites or the relevant associated privacy policies. 
+The website might, from time to time, contain links to third parties websites (GBS, JAB) and the other company websites belonging to the Group, which may have their own Privacy Policies. Jimmy Choo will not be responsible for these websites, the activities and practices that take place on these websites or the relevant associated privacy policies. This Privacy Policy is provided solely for the Website and the activities carried out by Jimmy Choo and do not extend to other websites. 
 
-This Privacy Policy is provided solely for the Site and the activities carried out by JIMMY CHOO and do not extend to other websites.This privacy statement does not describe the information collection and disclosure practices of such third parties. We encourage you to review the privacy policies and statements of such third parties. 
+**USERS' CHOICES**
 
-**YOUR RIGHTS**
+Users are entitled to obtain, at any time, a copy of their personal information and to have any inaccuracies corrected. Where appropriate, users may have their personal information deleted, corrected, amended, or completed. To do so, please write to us at J. Choo Limited, 10 Howick Place, London, SW1P 1GW United Kingdom or send an email to [customerservices@jimmychoo.com](mailto:customerservices@jimmychoo.com). 
 
-At any time, you may amend your personal data (not that attached to any orders) by logging into the Site and accessing the “My Account” section of the Site. You may exercise the rights including, but not limited to, the right to obtain a copy of processed Personal Information, the updates, modifications, integration and, in certain cases, their cancellation or blocks. For any such requests please revert to JIMMY CHOO. If you experience any difficulties amending your personal data, please contact us by emailing customercare@jimmychooonline.com or phoning +44 (0) 800 044 3221. 
+Users may revoke, at any time, consent to the delivery of commercial and promotional material via email by clicking the "unsubscribe" link in every commercial communication sent by Jimmy Choo and/or other companies of the Jimmy Choo Group. 
 
-**DOES JIMMY CHOO COLLECT INFORMATION FROM CHILDREN UNDER THE AGE OF 13?**
+**CHILDREN'S INFORMATION**
 
-The JIMMY CHOO website is intended for general audiences and is not targeted to or intended for use by children. We do not intentionally collect personally identifiable information from children under the age of thirteen. If we become aware that a child under the age of thirteen has submitted personally identifiable information through the JIMMY CHOO website without prior verifiable parental consent, we will remove such information from our files. 
+The Website is not directed to, nor do we knowingly collect information from, children under the age of 13. If you become aware that your child or any child under your care has provided us with information without your consent, please contact us at J. Choo Limited, 10 Howick Place, London, SW1P 1GW United Kingdom or send an email to [customerservices@jimmychoo.com](mailto:customerservices@jimmychoo.com). 
 
-**Equality Act 2010**
+**UPDATES**
 
-The Site was created and is maintained with accessibility in mind. We aim to reach conformance level [a/aa/aaa] from the Web Content Accessibility Guidelines (WCAG). Visit the accessibility section for full details. 
+We will notify you of changes to this Privacy Policy by posting the amended terms on the Website. In the case of any changes that affect user rights, we will provide at least thirty (30) days’ notice before the effective date of the changes. If you have provided us with your email address, we will also notify you of material changes to this Privacy Policy that would affect your rights by sending an email at least thirty (30) days before the effective date of the changes to the email address you most recently provided to us. We encourage you to keep the email address you provide to us current, and to promptly notify us of any changes to your email address, so that you may receive any notices we send to you regarding material changes to this Privacy Policy. If you do not agree to the new terms, you should stop using the Website, and if you are a registered user, you may cancel your account with us within the thirty (30) day period by contacting us at [customerservices@jimmychoo.com](mailto:customerservices@jimmychoo.com). Your account will be closed and you will not be bound by the new terms. Otherwise, continued use of the Website after the effective date of changes constitutes acceptance of the new terms. 
 
-**DISCLAIMER**
+Please contact our customer care team [customerservices@jimmychoo.com](mailto:customerservices@jimmychoo.com). if you have any questions about our Privacy Policy. 
 
-We reserve the right to modify, alter, or otherwise update this statement at any time, and we encourage you to check back periodically so that you are always aware of the most current policies and practices that JIMMY CHOO has in place to protect your personally identifiable information. Please contact our customer care team CUSTOMERCARE@JIMMYCHOOONLINE.COM if you have any questions about our privacy statement. 
-
-This privacy statement was last updated on 30 September 2014. 
+This Privacy Policy was updated on February 6th 2017. 
