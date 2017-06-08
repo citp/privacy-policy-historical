@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120083128id_/http%3A//kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathmandu.com.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608114016id_/http%3A//www.kathmandu.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Kathmandu
 
 [Our privacy commitment](https://web.archive.org/privacy-policy#commitment)
 
@@ -32,23 +32,25 @@
 
 [How you can notify us of a privacy concern or contact our Privacy Contact Officer](https://web.archive.org/privacy-policy#privacycontactofficer)
 
+##  Our privacy commitment
+
 Kathmandu is committed to protecting the privacy of your personal information. We manage your personal information in an open and transparent way.
 
 Kathmandu will only use your personal information when it is necessary for us to deliver you a service or perform other necessary business functions and activities.
 
 Kathmandu will not use or disclose your personal information for purposes unrelated to the services we provide, unless we first obtain your consent.
 
-Where we can, we will allow you to deal with us anonymously or by using a pseudonym. However, in some circumstances, this may not be possible, and Kathmandu may need to collect personal information from you to provide you with a delivery or other service.  In some cases, if you do not provide the required personal information we will not be able to provide you with a service.
+Where we can, we will allow you to deal with us anonymously or by using a pseudonym. However, in some circumstances, this may not be possible, and Kathmandu may need to collect personal information from you to provide you with a delivery or other service. In some cases, if you do not provide the required personal information we will not be able to provide you with a service.
+
+##  Our privacy obligations
 
 This privacy policy sets out how we comply with our obligations under the:
 
   * Privacy Act 1988 (Cth) (Australia);
   * Privacy Act 1993 (NZ) (New Zealand); and
-  * Data Protection Act 1998 (United Kingdom).
+  * Data Protection Act 1998 (United Kingdom). Kathmandu is bound by the requirements of these privacy laws, which regulate how we may collect, use, disclose and store personal information/data. These laws also specify how individuals may access and correct personal information/data held about them.
 
 
-
-Kathmandu is bound by the requirements of these privacy laws, which regulate how we may collect, use, disclose and store personal information/data. These laws also specify how individuals may access and correct personal information/data held about them.
 
 “Personal Information” means information or an opinion about an identified individual (or an individual who is reasonably identifiable), whether true or not, or recorded in a material form or not.
 
@@ -58,11 +60,13 @@ For example, these types of information/data could include your name, contact de
 
 In this policy ‘we’, ‘us’, ‘our’ and ‘Kathmandu’ refers to (and this policy applies to) Kathmandu Holdings Ltd and all of its subsidiary companies including Milford Group Holdings Ltd, Kathmandu Ltd, Kathmandu Pty Ltd, Kathmandu (U.K.) Ltd.
 
-If you have any questions regarding Kathmandu’s Privacy Policy, please call Customer Service in Australia on 1800 333 484, New Zealand on 0800 001 234, United Kingdom on 0800 066 5018, or email us at [privacy@kathmandu.co.nz](mailto:privacy@kathmandu.co.nz). If you would like Kathmandu to send you a copy of this policy, please contact us and we will do so.
+If you have any questions regarding Kathmandu’s Privacy Policy, please call Customer Service in Australia on 1800 333 484, New Zealand on 0800 001 234, United Kingdom on 0800 066 5018, or email us at [ privacy@kathmandu.co.nz](mailto:privacy@kathmandu.co.nz). If you would like Kathmandu to send you a copy of this policy, please contact us and we will do so.
 
 By visiting our websites and/or providing your personal information to us, you consent to the terms and conditions in this Privacy Policy, unless you tell us to the contrary by contacting our [Privacy Contact Officer](mailto:privacy@kathmandu.co.nz).
 
-This privacy policy is effective from March 2014.  From time to time, our privacy policies and procedures will be reviewed and, if appropriate, updated.  If any changes are made to this policy, these will be posted on our websites.
+This privacy policy is effective from March 2014. From time to time, our privacy policies and procedures will be reviewed and, if appropriate, updated. If any changes are made to this policy, these will be posted on our websites.
+
+##  How and why does Kathmandu collect and hold your personal information?
 
 Kathmandu will only collect personal information about you by lawful and fair means, and not in an unreasonably intrusive manner.
 
@@ -79,14 +83,15 @@ It is Kathmandu’s usual practice to collect personal information [about you (a
 
 
 
-  
-We may collect personal information about you from a third party or a publicly available source, but only if you have consented to such collection, or would reasonably expect us to collect your personal information in this way. 
+We may collect personal information about you from a third party or a publicly available source, but only if you have consented to such collection, or would reasonably expect us to collect your personal information in this way.
 
 Kathmandu only collects personal information for purposes that are directly related to our business activities, and only when it is necessary for or directly related to such purposes. We also collect personal information related to employment services, human resource management, and other corporate service functions.
 
 If we receive information about you from a third party and it is not information we need in respect of our business activities, we will destroy or de-identify that information (provided it is lawful to do so).
 
-No one under the age of 13 years is allowed to provide any personal information.  Minors under the age of 18 years are prohibited from making purchases, including subscriptions, on our websites.
+No one under the age of 13 years is allowed to provide any personal information. Minors under the age of 18 years are prohibited from making purchases, including subscriptions, on our websites.
+
+##  What kind of personal information does Kathmandu collect and hold?
 
 Any personal information that you provide via our websites or directly (for example, when you apply to become a member of the Summit Club) is collected and managed by Kathmandu.
 
@@ -113,12 +118,13 @@ The types of personal information Kathmandu may collect includes (but is not lim
 
 
 
-  
 The nature of the information collected will depend on the purpose for which it is being collected.
 
 If you provide us with information about any third party, you must obtain that person’s permission to give us the information and inform them that you have given the information to us.
 
- We use your personal information for a variety of reasons including to:
+##  How does Kathmandu use your personal information?
+
+We use your personal information for a variety of reasons including to:
 
   * provide services and products to you;
   * answer your inquiries and deliver customer service to you;
@@ -131,10 +137,11 @@ If you provide us with information about any third party, you must obtain that p
   * manage and resolve any legal or commercial complaints and issues;
   * carry out internal functions including training; and
   * conduct marketing research and analysis.
+  * Whilst you may opt not to provide us with your personal information, you should be aware that without this personal information, we may not be able to provide you with some of the services and/or products you are seeking.
 
 
 
-Whilst you may opt not to provide us with your personal information, you should be aware that without this personal information, we may not be able to provide you with some of the services and/or products you are seeking.
+## In what circumstances will Kathmandu disclose your personal information?
 
 In the course of conducting our business and providing our products and services to you, we may disclose your personal information.
 
@@ -146,8 +153,9 @@ We only disclose personal information for the purposes for which it was given to
 
 
 
-  
 If we engage third party agents or contractors, we will take all reasonable steps to ensure that they do not breach privacy requirements in relation to the information, before we share your personal information with them.
+
+##  Who do we disclose your personal information to?
 
 We may disclose your personal information to:
 
@@ -161,8 +169,9 @@ We may disclose your personal information to:
 
 
 
-  
 In all circumstances where your personal information is disclosed, we will take all steps reasonable to ensure that these third parties undertake to protect your privacy.
+
+##  Direct marketing
 
 We are committed to compliance with all laws and requirements relating to the use of your personal information. We will only use or disclose your personal information for direct marketing purposes if you have provided your information for that purpose (and you would expect us to use the information for that purpose), or if you have provided consent for your information to be used in this way.
 
@@ -177,12 +186,13 @@ Where we use or disclose your personal information for the purpose of direct mar
 
 
 
-  
 You can opt out of receiving targeted advertising derived from your viewing habits by selecting from your browser’s privacy or security settings to reject, delete or block (as the case may be) the cookies or web beacons used by us in order to conduct such targeted marketing.
 
 Kathmandu will only ever contact you if you have consented to this, and you can ask to be removed from our marketing lists, at any time by contacting us directly.
 
 If you do not wish to be contacted by Kathmandu, please write to our Privacy Contact Officer, Kathmandu, PO Box 1234, Christchurch 8140, New Zealand.
+
+##  Does Kathmandu disclose your personal information to overseas recipients?
 
 In some circumstances, Kathmandu may disclose your personal information to overseas recipients. If this occurs, we take steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the relevant privacy laws in relation to that information.
 
@@ -192,7 +202,11 @@ Sometimes we use third party platforms and services to process sales, provide we
 
 Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on Kathmandu’s behalf).
 
+##  Use of Government Identifiers
+
 Kathmandu will not use Government Identifiers, such as Medicare numbers, or a driver's licence number as its own identifier of individuals.
+
+##  Data quality and Security
 
 We will take all reasonable steps to ensure that your personal information is stored securely and is protected from misuse and loss and from unauthorised access, modification or disclosure.
 
@@ -208,9 +222,13 @@ All systems and applications are, where possible, one version behind the latest 
 
 Kathmandu data resides across several tier three Data Centres that are PCI and ISO compliant and protected by an outsourced firewall and filtering system that is penetrated tested annually. In order to stay up to speed with changes in technology, the infrastructure team are certified and their professional development is an ongoing commitment.
 
+##  Website usage
+
 Our websites are professionally hosted and operate in a secure environment. You should however be aware that there is always an inherent risk in transmitting your personal information via the Internet.
 
 We use Comodo and Cybersource to process online orders. Customers can see their cards being debited in real time, all in an SSL secure environment.
+
+Please do not enter any credit card details when contacting us via email, through our Live Chat function or through our website “Contact Us” form. These functions do not form part of online transactions which use Comodo and Cybersource and therefore your credit card details will not be encrypted in these situations.
 
 We take website and credit card security extremely seriously, and always endeavour to provide a secure safe platform on which to conduct online transactions, all our websites use Comodo SSL. By using this, you guarantee the highest possible encryption levels for online transactions. Each certificate is signed with NIST recommended 2048 bit signatures and provides up to 256 bit encryption of customer data. This encryption scrambles details such as credit card number, billing details and delivery address so that generally, other computers are unable to decipher the information, ensuring privacy and security.
 
@@ -226,11 +244,15 @@ If you are a registered customer or Summit Club member on our website, we will r
 
 Any personal information that you submit to us using our website or in an email will only be used in accordance with this privacy policy.
 
+##  Links to third party sites
+
 Whilst links to third party websites are provided on our website, we are not responsible for the content or practices of these third party websites.
 
 These links are provided for your convenience and do not represent Kathmandu's endorsement of any linked third party website. We recommend that you check the privacy policies of these third parties prior to providing them with your personal information.
 
 No links may be made to this website without our prior written consent. Applications for consent must be made to our Privacy Contact Officer, Kathmandu, PO Box 1234, Christchurch 8140, New Zealand.
+
+##  How you can access or correct your personal information
 
 You can request access to the personal information we hold about you at any time, and we will
 
@@ -240,15 +262,17 @@ If we are unable to give you access to the information you have requested, we wi
 
 You will not be charged for accessing your information, although we might have to charge the reasonable cost of processing your request, including photocopying, administration and postage. We will advise you of any fee payable before we process your request.
 
-If you believe that your personal information is not accurate, complete or up to date, please contact Customer Service in Australia on 1800 333 484, New Zealand on 0800 001 234, United Kingdom on 0800 066 5018, via email to [privacy@kathmandu.co.nz](mailto:privacy@kathmandu.co.nz) or address your request to the Privacy Contact Officer, Kathmandu, PO Box 1234, Christchurch 8140, New Zealand.
+If you believe that your personal information is not accurate, complete or up to date, please contact Customer Service in Australia on 1800 333 484, New Zealand on 0800 001 234, United Kingdom on 0800 066 5018, via email to [privacy@kathmandu.co.nz](mailto:privacy@kathmandu.co.nz) or address your request to the Privacy Contact Officer, Kathmandu, PO Box 1234, Christchurch 8140, New Zealand.
 
 You are also able to update your personal information online by entering your Summit Club login details when visiting our website:
 
-  * Australia: <https://www.kathmandu.com.au/customer/account/create>
-  * New Zealand: <https://www.kathmandu.co.nz/customer/account/create>
-  * United Kingdom: <https://www.kathmandu.co.uk/customer/account/create>
+  * Australia: [https://www.kathmandu.com.au/customer/account/create](https://web.archive.org/customer/account/create)
+  * New Zealand: [https://www.kathmandu.co.nz/customer/account/create](https://web.archive.org/customer/account/create)
+  * United Kingdom: [https://www.kathmandu.co.uk/customer/account/create](https://web.archive.org/customer/account/create)
 
 
+
+##  How you can notify us of a privacy concern or contact our Privacy Contact Officer
 
 If you:
 
@@ -257,22 +281,15 @@ If you:
 
 
 
-**  
-please write to** :
+**please write to:**
 
-Privacy Contact Officer  
-Kathmandu  
-PO Box 1234  
-Christchurch 8140, New Zealand.
+Privacy Contact Officer Kathmandu PO Box 1234 Christchurch 8140, New Zealand.
 
-**Email:**  [privacy@kathmandu.co.nz  
-](mailto:privacy@kathmandu.co.nz)If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact: 
+Email: [privacy@kathmandu.co.nz](mailto:privacy@kathmandu.co.nz)  
+If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact:
 
-**Australia  
-** Office of the Australian Information Commissioner on 1300 363 992 or visit their website at [www.oaic.gov.au](http://www.oaic.gov.au/)
+Australia Office of the Australian Information Commissioner on 1300 363 992 or visit their website at [www.oaic.gov.au](http://www.oaic.gov.au/)
 
-**New Zealand  
-** Privacy Commissioner (New Zealand) on 0800 803 909 or visit their website at [www.privacy.org.nz](http://www.privacy.org.nz/)
+New Zealand Privacy Commissioner (New Zealand) on 0800 803 909 or visit their website at [www.privacy.org.nz](http://www.privacy.org.nz/)
 
-**United Kingdom  
-** Information Commissioner’s Office on 0303 123 1113 or visit their website at [www.ico.org.uk](http://www.ico.org.uk/)
+United Kingdom Information Commissioner’s Office on 0303 123 1113 or visit their website at [ www.ico.org.uk](http://ico.org.uk/)
