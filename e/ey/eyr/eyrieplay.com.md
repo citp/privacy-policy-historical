@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyrieplay.com privacy policy that was archived on 2015-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150601030501id_/http%3A//www.eyrieplay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyrieplay.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608025803id_/http%3A//www.eyrieplay.com/privacy) for the most accurate reproduction.*
 
 # eyrieplay.com - Privacy Policy
 
