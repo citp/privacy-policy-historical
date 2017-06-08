@@ -1,27 +1,114 @@
-> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613054550id_/http%3A//www.cleaneatingmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleaneatingmag.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608063444id_/http%3A//www.activeinterestmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Clean Eating
+# Privacy Policy – Active Interest Media
 
-This site complies with the following Privacy Policy. By using this site, you indicate your acceptance of _Clean Eating_ ‘s Online Privacy Policy.
+**What information do we collect?**  
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or magazine, respond to a survey or fill out a form.
 
-This site collects no personally identifying information about individuals except when specifically and knowingly provided by such individuals. We do record information such as time of day, browser type, browser language, and IP address when you interact with the site. _Clean Eating_ uses this information to help diagnose problems with our server and to administer our web site. We also use this information to verify the number of discrete times you visit this web site each day.
+Any data we request that is not required will be specified as voluntary or optional.
 
-The Information We Collect At some Active Interest Media sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, location, phone number or credit card information. You may, however, use our sites without registering, although some content and/or sections may become inaccessible. When using AIM mobile applications registration and/or login may be required to access the materials.
 
-There are cases where Active Interest Media may ask you for personally-identifiable information such as your name, mailing address, and email address. Examples include, but are not limited to, online shopping transactions, signing up for an email newsletter, registering on our Sites, or participating in sweepstakes. Active Interest Media will not collect any personally-identifiable information about you unless you provide it to us voluntarily. Active Interest Media may store and process that information to better understand your needs and how we can improve our products and services; use that information to contact you for informational and promotional purposes; use and disclose that information to third parties to the extent necessary to provide you with products or services you have ordered.
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them.
 
-In addition, we may place a “cookie” in the browser files of a user’s computer. The cookie itself does not contain any personally identifying information although it will enable us to relate a user’s use of our sites to information that the user has specifically and knowingly provided to us.
+**What do we use your information for?**  
+Any of the information we collect from you may be used in one of the following ways:
 
-A user’s personally identifying information may be used for marketing and promotional purposes and we may share the information with others if the user has not advised us of his or her preference not to be included in such an exchange. Individuals always have the ability to stop their information being used for such purposes.
+**; To personalize your experience**  
+(your information helps us to better respond to your individual needs)
 
-_Clean Eating_ may send e-mail to people with whom we have a business relationship.
+**; To improve our website**  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-To ensure the security of your data, including address information and credit card numbers, _Clean Eating_ always uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures that protect against the loss, misuse or alteration of information that we have collected from you.
+**; To improve customer service**  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-While we will seek to require third parties with whom we have agreements to follow appropriate privacy policies, we do not bear any responsibility for any actions or policies of third parties. Our web site contains links, including e-commerce opportunities with affiliates, partners and associates, to other sites that are not maintained by us. If you visit these sites, please look for their privacy policy.
+**; To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (<http://www.google.com/privacy_ads.html>).
+**; To send periodic messages via email and postal mail**  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. We may also send promotional messages to an email or postal mail address that our cookies associate with you when you browse our sites.
 
-Children should ask their parents for permission before sending any information about themselves to us or anyone else over the Internet.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-[Posting comments on CleanEatingMag.com is subject to additional policies.](https://web.archive.org/general_customer_service/cs_privacy/cs_privacy_blogs/)
+**; To administer a contest, promotion, survey or other site feature**
+
+Notwithstanding any other provision, we may engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content through web, mobile or other media channels. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please visit <http://www.aboutads.info/choices> or <http://www.networkadvertising/choices>.
+
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or enter, submit, or access your personal information.
+
+These security measures may include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology via HTTPS urls to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**  
+Yes (cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers’ systems to recognize your browser and capture and remember certain information. We use cookies for our own purposes on the sites and our partners may also use cookies on our sites to fulfill purposes that we specify that we believe are consistent with this privacy policy.
+
+**Do we disclose any information to outside parties?**  
+We do not sell, rent, loan, or give your email address or other personal information to anybody without your express permission. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may provide third-party vendors with encrypted (i.e. hashed) data that is not identifiable via personal information such as email, phone, address, etc. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+From time to time, our sponsors wish to contact our subscribers and customers who have indicated an interest in their products, services or events. Before we disclose your personally identifiable data to a third party for their own business purposes (such as a survey or a sweepstake), we will first obtain your consent, for example via email, click-through, an online opportunity to opt-out or otherwise. If you register for or access products, services or events offered by these vendors, you choose to share your name and contact details directly with those vendors so that they may contact you. For example, if you register for a vendor-branded (or co-branded with us) resource, we will collect your registration information on behalf of that vendor for its own use. When you register for an in-person or online event, we will provide your registration information to the sponsor(s) of such event. If you want to know how a vendor or advertiser will use data about you, we urge you to check that vendor’s or advertiser’s privacy policy.
+
+**How Can You Opt Out of Use and Disclosure of Your Information?**  
+Active Interest Media will only use your personal information for the purposes described in this Privacy Policy or as subsequently authorized by you. You can avoid having your personal information disclosed to sponsors in the following ways: a) do not provide us with personal information; b) do not access or request content; c) turn on cookie and/or ad blocking via your browser; or d) email us at privacy@aimmedia.com to request that we opt-out your email address from Active Interest Media emails. Active Interest Media has a number of brands and products and we allow you to opt-out selectively. If you wish to remove your email address only from a specific brand, please use the opt-out mechanism provided in emails you receive from such brand, make use of a provided “private account” option option to prevent search and follow capabilities, or contact the brand directly.
+
+To opt-out of postal mail promotions from Active Interest Media, please mail an opt-out request to us at:
+
+**Active Interest Media | Attn: Circulation Department  
+**5720 Flatiron Pkwy  
+Boulder, CO 80301
+
+You can direct your opt-out request to specific brands or to ‘all brands.’
+
+You may receive email marketing messages from us about our own or other companies’ offerings. To opt-out of a partner marketing email program, you may follow the instructions at the bottom of any email we send you as part of the program.
+
+We may work with data providers to target advertising to you personally, through online and offline methods including email, display media and direct mail. This advertising may be directed to you because you visited or logged in to our website. When we generate this advertising, data we collect from you through online cookies and other technologies may be combined with other de-identified data (such as a hashed, non-readable email or postal address) in order to tailor ads to you based on your preferences and other information about you. To learn more about targeted advertising, these providers, or how you may opt out, please visit the DAA’s consumer choice page at http://www.aboutads.info/choices/.
+
+**Premium Accounts**
+
+  * Information may be collected in order to process your payments (e.g., for subscriptions);
+  * We may offer the ability to sign up for a premium account that allows you to visit the Site without, or with limited, advertisements (a “ **Premium Account** ”). If you use a Premium Account, we will not use personal information about you for advertising purposes.
+  * If you choose to use an account, you are responsible for keeping your login credentials for access to certain parts of the site (e.g., user names and passwords) confidential. Do not give your credentials to anyone else.
+  * Notice that we may share personal information with service providers, subcontractors, partners, vendors, consultants, and others that help us with any of the purposes noted above or otherwise in this Policy
+
+
+
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at any time by logging into their control panel and going to the ‘Edit Profile’ page.
+
+**Childrens Online Privacy Protection Act Compliance**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**  
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+**Your Consent  
+**By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on September 23, 2016.
+
+**Contacting Us**  
+If there are any questions regarding this privacy policy you may contact us using the information below.  
+Active Interest Media | Attn: Circulation Department  
+5720 Flatiron Pkwy  
+Boulder, CO 80301  
+admin@aimmedia.com / 310.356.4100
+
+**Privacy Policy Customer Pledge**  
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements
