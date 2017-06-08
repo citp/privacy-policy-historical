@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205112239id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelers.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608090049id_/http%3A//www.steelers.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Pittsburgh Steelers | Privacy Policy
 
-**LAST UPDATED: August 24, 2015**
+**LAST UPDATED: April 13, 2017**
 
 ###### Pittsburgh Steelers Privacy Policy
 
@@ -87,7 +87,7 @@ We partner with a third party to either display advertising on our Websites or t
 If you use our Application, we will collect geolocation information to send out special promotions and offers and to verify location for content visibility. You may opt out of location based services at any time by editing the setting at the device level or by emailing us at [feedback@fans.steelers.com](mailto:feedback@fans.steelers.com). We will only share this information with our agents for the sole purpose of providing you service requested.
 
   
-If you conduct a financial transaction with our Website, such as a purchase from our Online Merchandise Store, or signup for Team Pass, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
+If you conduct a financial transaction with our Website, such as a purchase from our online merchandise store, or signup for Team Pass, we will ask you to complete an order form that will request certain information from you, including contact information, demographic information and financial information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. For your protection, such information is collected and stored through encrypted means.
 
   
 If you provide us with personal information on paper registration forms that information is included in our data base and its use also is subject to this Privacy Policy.
@@ -121,7 +121,7 @@ As applicable, the information you provide to us may be used to:
 At times, we may share your personal information with others for various purposes. Steelers will only share personal information with third parties in ways that we described in this Privacy Policy. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:
 
   
-We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, handling ticket sales, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
+We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sale of certain itmes from the online merchandise store, handling ticket sales, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
 
 For use of the "Free Steelers Email," your information will be disclosed to Load.com. and all privacy policies within that page apply to all pages for that function. Same is also true when purchasing a print from "PrintRoom.com," all activities on these pages are subject to the privacy policy of each individual site. Please be aware that some of these websites may display the Steelers logos or have the look and feel of www.steelers.com.
 
