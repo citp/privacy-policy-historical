@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the treat.com privacy policy that was archived on 2014-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141224075127id_/http%3A//www.shutterflyinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treat.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608105446id_/https%3A//shutterflyinc.com/privacy.html) for the most accurate reproduction.*
 
-# Shutterfly, Inc. - Privacy Policy
+# Privacy Policy - Shutterfly, Inc.
 
-Last Updated: February 19, 2014
+Last Updated: September 30, 2016
 
 Shutterfly, Inc. and our family of brands take your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -13,15 +13,14 @@ Our Online Privacy and Security is organized as follows:
   3. Authorized Third Parties
   4. Use of Information
   5. Information Sharing With Third Parties
-  6. Opting Out Of Information Sharing
-  7. Children's Information
-  8. Access to Your Account Information and Preferences
-  9. Confidentiality and Security
-  10. Third Party Sites
-  11. Your California Privacy Rights
-  12. Class Action Waiver
-  13. Questions and Suggestions
-  14. Updates to Privacy Policy
+  6. Children's Information
+  7. Access to Your Account Information and Preferences
+  8. Confidentiality and Security
+  9. Third Party Sites
+  10. Your California Privacy Rights
+  11. Class Action Waiver
+  12. Questions and Suggestions
+  13. Updates to Privacy Policy
 
 
 
@@ -37,7 +36,7 @@ We or our third party service providers may also collect information relating to
 
 If you order products or pay for services, we will need your shipping address, billing name and address, as well as your credit card number and expiration date.
 
-If you tag yourself, friends, or family in pictures, we may use facial recognition technology to help you tag and organize your pictures.
+If you tag yourself, friends, family, or others in pictures, we may use facial recognition technology to help you tag and organize your pictures. These tags are based on the information you have provided to us and your recognition of individuals in certain photos. Using this information, we may suggest tags for your other photos. By using this tagging feature, you consent to receiving these suggestions. You, and not Shutterfly, are responsible for any tags you create.
 
 ## 2\. Cookies and Similar Technologies
 
@@ -65,15 +64,15 @@ Another example of how we use third party information you provide to us is Shutt
 
 If you use one of our referral programs to refer any of our family of brands to your friends and family, we will use their email addresses to send your invitation.
 
-If you send Treat Digital Cards to friends and family, we will use their email addresses to send your cards.
-
-Please be assured that we do not use the email addresses that you enter through email invitations, Shutterfly Share Sites, our referrals programs, Treat Digital Cards, or the address books of any of our Sites and Apps to send any type of direct marketing to your friends and family. (Of course, if a friend or family member signs up with any of our family of brands or we receive their email address from another unrelated source, we may communicate with them in accordance with this Privacy Policy.)
+Please be assured that we do not use the email addresses that you enter through email invitations, Shutterfly Share Sites, our referrals programs, or the address books of any of our Sites and Apps to send any type of direct marketing to your friends and family. (Of course, if a friend or family member signs up with any of our family of brands or we receive their email address from another unrelated source, we may communicate with them in accordance with this Privacy Policy.)
 
 Your accounts may also contain a calendar where you can store birthdays, anniversaries, and other key dates and details about friends and family. You can use this information to help keep in touch with friends and family on important dates. We may send you email reminders of the personalized dates you have entered in this calendar. Reminder information is highly confidential and will not be shared with any third parties.
 
 When you add personal messages to your products, an order-processing representative may view your message. However, third parties are not allowed to view or use this information.
 
 We use anonymous information, such as that pertaining to web or mobile pages you have viewed, in order to analyze trends, track user's movements, provide a better user experience and gather broad demographic information for aggregate use. We do not use this data in a manner that would identify you personally. See "Authorized Third Parties."
+
+As we continue to develop our business, we may undergo a business transition such as acquiring another company, merging with an existing company, or selling all or a portion of our assets. In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that we or substantially all of our assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this privacy policy.
 
 ## 5\. Information Sharing With Third Parties
 
@@ -83,48 +82,36 @@ Every now and then, we will invite customers to take part in surveys, promotions
 
 If you log in through Facebook Connect, information you provide to us may be shared with Facebook.
 
-## 6\. Opting Out Of Information Sharing
+**California's "Do Not Track" Notice:** "Do Not Track" ("DNT") is a preference you can set in your web browser to let the sites you visit know that you do not want them collecting information about you. Our sites do not currently respond to "Do Not Track" settings. For further details regarding DNT, visit [donottrack.us](http://donottrack.us/).
 
-We understand and respect that not all customers may want to allow us to share their information with other select companies. If you do not want us to share your information, please contact us through the Contact Us page of any of our brands, and we will remove your name from lists we share with other companies as soon as reasonably practicable. When contacting us, please clearly state your request, including your name, mailing address, email address and phone number.
-
-However, under the following circumstances, we may still be required to share your personal information:
-
-  * If we respond to subpoenas, court orders or legal process, or if we need to establish or exercise our legal rights or defend against legal claims.
-  * If we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Use or as otherwise required by law. 
-  * If we believe it is necessary to restrict or inhibit any user from using any of our Sites and Apps, including, without limitation, by means of "hacking" or defacing any portion thereof.
-
-
-
-_California's "Do Not Track" Notice_. "Do Not Track" ("DNT") is a preference you can set in your web browser to let the sites you visit know that you do not want them collecting information about you. Our sites do not currently respond to "Do Not Track" settings. For further details regarding DNT, visit [donottrack.us](http://donottrack.us/).
-
-## 7\. Children's Information
+## 6\. Children's Information
 
 Our Sites and Apps are not intended for children, and we will not knowingly collect personally identifiable information from children. If we become aware that a subscriber is under the age of 13, we will remove their personally identifiable information from our files.
 
-## 8\. Access to Your Account Information and Preferences
+## 7\. Access to Your Account Information and Preferences
 
 You have the right and ability to edit your member account information on our Sites and Apps at any time. You can opt in or out of receiving future communications from us about special offers and new product information, you can unsubscribe by following instructions contained in the messages you receive, or you can change your marketing preferences by contacting us through the Contact Us page of any of our brands. We do reserve the right to send you certain communications relating to the services we provide, such as service announcements and administrative messages. We do not offer you the opportunity to opt-out of receiving those communications.
 
-## 9\. Confidentiality and Security
+## 8\. Confidentiality and Security
 
 We use a secure server (SSL) to encrypt your personal financial information. We use other physical, electronic and procedural safeguards to protect the security and confidentiality of the information we have collected, and to prevent unauthorized access to or disclosure of your information.
 
-## 10\. Third Party Sites
+## 9\. Third Party Sites
 
 Our Sites and Apps may contain links to other sites for news and other information. Our Privacy Policy only applies to our Sites and Apps, and we are not responsible for the privacy practices or the content of other sites which are linked to or integrated with our Sites and Apps. You should check the privacy policies of those sites before providing your personal information to them. See our Terms of Use for additional information.
 
-## 11\. Your California Privacy Rights
+## 10\. Your California Privacy Rights
 
 California Civil Code Section 1798.83, also known as S.B. 27, allows individual customers who have provided their personal information to us to request information about our disclosure of certain categories of personal information to third parties for their direct marketing purposes. Such requests must be submitted to us in one of the following ways: send a letter to Legal, Shutterfly, 2800 Bridge Parkway Redwood City, CA 94065 or through the various ways of contact described in the Contact Us page of any of our brands. Within thirty days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third party direct marketing purposes during the immediately preceding year, along with the names and addresses of those third parties. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted in ways other than those specified above.
 
-## 12\. Class Action Waiver
+## 11\. Class Action Waiver
 
 ANY DISPUTE RESOLUTION PROCEEDINGS, WHETHER IN ARBITRATION OR COURT, WILL BE CONDUCTED ONLY ON AN INDIVIDUAL BASIS AND NOT IN A CLASS OR REPRESENTATIVE ACTION OR AS A NAMED OR UNNAMED MEMBER IN A CLASS, CONSOLIDATED, REPRESENTATIVE OR PRIVATE ATTORNEY GENERAL LEGAL ACTION. YOUR ACCESS AND CONTINUED USE OF ANY OF OUR SITES AND APPS SIGNIFIES YOUR EXPLICIT CONSENT TO THIS WAIVER.
 
-## 13\. Questions and Suggestions
+## 12\. Questions and Suggestions
 
-If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20141224075127id_/http%3A//www.shutterflyinc.com/contact.html) page of any of our brands.
+If you have questions about this Privacy Policy, you can contact us through the [Contact Us](https://web.archive.org/web/20170608105446id_/https%3A//shutterflyinc.com/contact.html) page of any of our brands.
 
-## 14\. Updates to Privacy Policy
+## 13\. Updates to Privacy Policy
 
 We may modify this Privacy Policy from time to time by posting updates on this page. Please check back periodically to view any updates.
