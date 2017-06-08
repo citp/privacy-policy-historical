@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the oneskyapp.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316193338id_/http%3A//www.oneskyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneskyapp.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608194120id_/http%3A//www.oneskyapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OneSky
 
 Last Updated: May 2, 2014
 
-Your privacy is important to us. Please review the privacy policy below for OneSky’s commitment to safeguarding your privacy online.
+Your privacy is important to us. Please review the privacy policy below for OneSky's commitment to safeguarding your privacy online.
 
 ## What Information OneSky Collects
 
-OneSky may collect two types of information from users: “personally identifiable information” (such as name and email address) and “aggregate information” (such as frequency of visits to Site, IP address, Site pages most frequently accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user. Aggregate information is non- personally identifiable/anonymous information about users of the Site. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
+OneSky may collect two types of information from users: "personally identifiable information" (such as name and email address) and "aggregate information" (such as frequency of visits to Site, IP address, Site pages most frequently accessed, browser type). Personally identifiable information is any piece of information which can potentially be used to uniquely identify, contact, or locate a user. Aggregate information is non- personally identifiable/anonymous information about users of the Site. Aggregate information is used in a collective manner and no single person can be identified by that compiled information.
 
 Information is collected from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. Any data OneSky request that is not required will be specified as voluntary or optional.
 
@@ -36,7 +36,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
 ## Cookies
 
-When you interact with the OneSky Website we strive to make that experience easy and meaningful. When you come to our site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer’s hard drive and are used to tell us whether customers and visitors have visited the Site previously.
+When you interact with the OneSky Website we strive to make that experience easy and meaningful. When you come to our site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers and visitors have visited the Site previously.
 
 Third Party Cookies: OneSky may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our site to help us administer our site and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual site visitors to any personally identifiable information. All data collected by such third parties on behalf of OneSky is used only to provide us with information on site usage and is not shared with any other third parties.
 
@@ -48,7 +48,7 @@ The OneSky Site may contain links to other web sites. OneSky is not responsible 
 
 ## Changes to this Privacy Policy
 
-OneSky reserve the right to modify this privacy policy at any time to reflect changes in our service and customer feedback. When changes are posted to this Policy, the “last updated” date at the top will be revised. If there are material changes to this statement or in how OneSky will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how OneSky is protecting your information.
+OneSky reserve the right to modify this privacy policy at any time to reflect changes in our service and customer feedback. When changes are posted to this Policy, the "last updated" date at the top will be revised. If there are material changes to this statement or in how OneSky will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how OneSky is protecting your information.
 
 ## Notice
 
@@ -60,7 +60,4 @@ If OneSky elects, in its reasonable discretion, to transfer ownership or control
 
 ## Contact Us
 
-OneSky welcomes your comments regarding privacy policy. Should you have any questions concerning privacy policy, please contact us by email to  
-[  
-support@oneskyapp.com  
-](mailto:support@oneskyapp.com)
+OneSky welcomes your comments regarding privacy policy. Should you have any questions concerning privacy policy, please contact us by email to [ support@oneskyapp.com ](mailto:support@oneskyapp.com)
