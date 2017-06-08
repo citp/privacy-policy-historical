@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylormorrison.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123172822id_/http%3A//www.taylormorrison.com/Privacy-Policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormorrison.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608091155id_/http%3A//www.taylormorrison.com/Privacy-Policies) for the most accurate reproduction.*
 
 # Privacy Policy for Taylor Morrison
 
@@ -26,7 +26,7 @@ This Web Site utilizes browser cookies to advertise to our Web Site's prospects 
 
 
 
-Taylor Morrison does not sell, rent, share or otherwise disclose mailing lists or other personal information obtained through the Web Site to or with any non-affiliated companies. However, your contact information may be available or provided to third-party service providers and contractors (such as the Web Site developer) that are contractually obligated to protect your information as disclosed in this Privacy Policy. In order to maintain accurate records concerning communications that Taylor Morrison may have received from or sent to you, Taylor Morrison may also indefinitely store any information that you provide to Taylor Morrison through the Web Site.
+Taylor Morrison does not sell, rent, share or otherwise disclose mailing lists or other personal information obtained through the Web Site to or with any non-affiliated companies. However, your contact information may be available or provided to third-party vendors, service providers and contractors (such as the Web Site developer) that are contractually obligated to protect your information as disclosed in this Privacy Policy or agents as required to perform specific purposes on our behalf. In order to maintain accurate records concerning communications that Taylor Morrison may have received from or sent to you, Taylor Morrison may also indefinitely store any information that you provide to Taylor Morrison through the Web Site.
 
 **Requests for Services** : You may request information regarding specific Taylor Morrison' communities, homes, financial services and other related products and services through the Web Site by submitting the requested contact information. You may not, however, purchase a home or any service directly through the Web Site. Any home warranty service request submitted through the Web Site is merely a request for a Taylor Morrison representative to contact you regarding such services.
 
