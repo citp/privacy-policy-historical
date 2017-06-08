@@ -1,132 +1,126 @@
-> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2014-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140827012442id_/http%3A//cuelinks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuelinks.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608022318id_/http%3A//www.cuelinks.com/privacy) for the most accurate reproduction.*
 
-# Cuelinks - A 2-minute Content Monetization Solution for your website.
+# Cuelinks - Privacy Policy
 
-## Cuelinks Privacy Policy
+Last Updated August 23rd, 2014
 
-Last Updated 17th October 2013
+Privacy Policy 
 
-#### Commitment
+**Cuelinks Privacy Policy**
 
-Cuelinks intends to protect the privacy of its visitors (whether or not registered with Cuelinks) on its website being www.cuelinks.com (“our Website”) and the privacy of the data provided by them to Cuelinks from time to time. The privacy of our website users, whether you are our registered user or merely a visitor to our Website, is important to us and we are strongly committed to your right to privacy and to keeping your personal and other information secure. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
+**Commitment**
 
-We collect information data from:
+Cuelinks intends to protect the privacy of its visitors (whether or not registered with Cuelinks) on its website being www.cuelinks.com (“our Website”) and the privacy of the data provided by them to Cuelinks from time to time. The privacy of our website users, whether you are our registered user or merely a visitor to our Website, is important to us and we are strongly committed to your right to privacy and to keeping your personal and other information secure. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information. 
 
-1\. Visitors of Cuelinks
+We collect information data from:   
+1\. Visitors of Cuelinks   
+2\. Registered Publishers of Cuelinks; and   
+3\. Users who click on links shared by Publishers 
 
-2\. Registered Publishers of Cuelinks; and
+Our practices in relation to protecting the privacy of the data we collect from such persons, is as set out below: 
 
-3\. Users who click on links shared by Publishers
+**Visitors**
 
-#### Our practices in relation to protecting the privacy of the data we collect from such persons, is as set out below:
+The term “Visitor” for the purpose of this ‘Privacy Policy’ document shall mean any person accessing, visiting or re-visiting the Cuelinks Website. 
 
-#### Visitors
+Cuelinks collects certain information from its Visitors on their visit to our Website such as information about their operating system, browser type, the URL of the previous web site visited, internet service provider, Visitor’s IP Address, etc. (“Non-personal Information”). This information cannot be easily used to personally identify any Visitor. We use Non-personal Information for the purposes including but not limited to, troubleshoot connection problems, administer the Website, analyze trends, gather demographic information, to ascertain how our Visitors use our Website, including information relating to the frequency of visits to our Website, average length of visits, pages viewed during a visit, ensuring compliance with the applicable law, co-operating with law enforcement activities, etc. This information is used to improve the site content and performance. You also agree that Cuelinks may gather usage statistics and usage data from your use of our Website to improve our products/services, Website content, etc. The statistics and data collected may or may not be aggregated. These statistics do not contain information about you that can distinctly identify you. 
 
-The term “Visitor” for the purpose of this ‘Privacy Policy’ document shall mean any person accessing, visiting or re-visiting the Cuelinks Website.
-
-Cuelinks collects certain information from its Visitors on their visit to our Website such as information about their operating system, browser type, the URL of the previous web site visited, internet service provider, Visitor’s IP Address, etc. (“Non-personal Information”). This information cannot be easily used to personally identify any Visitor. We use Non-personal Information for the purposes including but not limited to, troubleshoot connection problems, administer the Website, analyze trends, gather demographic information, to ascertain how our Visitors use our Website, including information relating to the frequency of visits to our Website, average length of visits, pages viewed during a visit, ensuring compliance with the applicable law, co-operating with law enforcement activities, etc. This information is used to improve the site content and performance. You also agree that Cuelinks may gather usage statistics and usage data from your use of our Website to improve our products/services, Website content, etc. The statistics and data collected may or may not be aggregated. These statistics do not contain information about you that can distinctly identify you.
-
-#### How we use cookies on our Website 
+**How we use cookies on our Website**
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our Website. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies via your browser’s ‘clear cookie’ function. 
 
-Unless you have adjusted your browser setting so that it will refuse cookies, we will drop cookies as soon as you visit our Website.
+Unless you have adjusted your browser setting so that it will refuse cookies, we will drop cookies as soon as you visit our Website. 
 
 Persistent cookies enable us to track and target your interests to enhance your experience on our Website. For example, we use this data to understand how you interact with our Website so we can make improvements to the information and design of our website. By agreeing to the terms of this Privacy Policy, you consent to the cookies referred to hereinabove, being dropped onto your machine. 
 
 Cuelinks understands and supports your right to block any unwanted Internet activity, especially that of unscrupulous websites. However, blocking Cuelinks cookies may disable certain features on our Website and may make it impossible for you to use certain services available on our Website. 
 
-#### PUBLISHERS 
+This website uses “Google Analytics” to help analyse how user uses this website. Google Analytics uses “cookies”, which are small text files placed on your computer to collect standard internet log information and visitor behaviour information in an anonymous form. The anonymous information generated by the cookies about your use of this website (including your IP address) is transmitted to Google. Your IP address is collected purely for the purpose of determining geographic location of visits and does not link or seek to link IP address with the identity of the computer user. 
+
+The information so collected is then processed to compile statistical reports on website activity. The reports are used to evaluate aggregate visitor usage to optimise the content of the website and to serve our Users better. Google analytics does not compile any personally identifiable data and all the activity on our website falls within the bound of Google Analytics Terms of Service. 
+
+**PUBLISHERS**
 
 “Publishers” are blog owners, owners of deal websites, coupon websites or forums or any such website and registered with Cuelinks. Publishers on having obtained registration shall be provided a login and password protected section on our Website that will assist the Publisher with reporting on its activity, commissions and payouts, account and service management, and a directory of Merchants associated with Cuelinks. 
 
-On having shared such Merchant links on their websites, such links are monetized by Cuelinks on a ‘visitor’ making an actual purchase through the Publishers’ website (“User”).
+On having shared such Merchant links on their websites, such links are monetized by Cuelinks on a ‘visitor’ making an actual purchase through the Publishers’ website (“User”). 
 
 Cuelinks’ services are available to Publishers only on having themselves registered with Cuelinks. The prospective Publisher is required to make an application to Cuelinks and furnish the information set out below (“Personal Information”). 
 
-  1. Full Name
-  2. Email Address
-  3. Postal Address
-  4. Telephone Number
-  5. Bank Account Detail
-  6. Website Information
-  7. [please fill up if any other personal information is collected]
+Domain / website name  
+Full Name  
+Email Address  
+Telephone Number  
+Country  
+Bank Account Detail  
+Website Information  
+Cuelinks will evaluate all the applications and in its sole discretion will inform the applicant via email, if his registration application has been approved.
 
+You understand and acknowledge that we require Personal Information in order to provide you with the services that you request and to communicate with you on a regular basis. 
 
+**We use Personal Information for the purpose of:**
 
-Cuelinks will evaluate all the applications and in its sole discretion will inform the applicant via email, if his registration application has been approved. 
-
-You understand and acknowledge that we require Personal Information in order to provide you with the services that you request and to communicate with you on a regular basis.
-
-#### We use Personal Information for the purpose of: 
-
-  1. Ascertaining suitability of the Publishers’ website for processing registration application with Cuelinks;
-  2. To contact Publishers to help them with registration, use and optimisation of our service;
-  3. To communicate and update Publishers from time to time on matters concerning our services;
-  4. To provide Publishers with order and billing history information;
-  5. To pay Publishers the commissions they earn through our service;
-  6. To improve the service we provide to Publishers based on how Publishers use our service and the tools which we provide to them.
-
-
-
+Ascertaining suitability of the Publishers’ website for processing registration application with Cuelinks;  
+To contact Publishers to help them with registration, use and optimisation of our service;  
+To communicate and update Publishers from time to time on matters concerning our services;  
+To provide Publishers with order and billing history information;  
+To pay Publishers the commissions they earn through our service;  
+To improve the service we provide to Publishers based on how Publishers use our service and the tools which we provide to them.  
 Once the application is approved by Cuelinks, Cuelinks will provide the Publisher with a unique Java script code (“Code”) to be added to the Publishers’ website in order to enable installation of the Cuelinks Software on your Publication.
 
-#### This Code will: 
+**This Code will:**
 
-  1. Connect the Publisher automatically to all the Merchants in Cuelinks’ network without the Publisher having to individually apply for each such Merchant; 
-  2. Help Cuelinks manage the Publishers’ account and provide detailed insights into the most clicked Merchant link;
-  3. Convert all normal links of Merchants (in Cuelinks’ network) shared by the Publisher on its website into affiliate links;
-  4. Collect and store information about links clicked on by the Users and converted into actual purchases, so that Cuelinks can classify and monetise links of Merchants in the Cuelinks’ network;
-  5. Collect and store information about publicly accessible content (i.e. body text) on Publisher Sites (or any publicly accessible webpage viewed using Publisher Toolbars), so we can find and convert product/Merchant references into shopping links.
-
-
-
+Connect the Publisher automatically to all the Merchants in Cuelinks’ network without the Publisher having to individually apply for each such Merchant;  
+Help Cuelinks manage the Publishers’ account and provide detailed insights into the most clicked Merchant link;  
+Convert all normal links of Merchants (in Cuelinks’ network) shared by the Publisher on its website into affiliate links;  
+Collect and store information about links clicked on by the Users and converted into actual purchases, so that Cuelinks can classify and monetise links of Merchants in the Cuelinks’ network;  
+Collect and store information about publicly accessible content (i.e. body text) on Publisher Sites (or any publicly accessible webpage viewed using Publisher Toolbars), so we can find and convert product/Merchant references into shopping links.  
 The Code will also drop a CueLinks cookie when a User clicks an outbound link, so we can record anonymous information about the pages, links and Merchants visited by Users across our Publisher network. This will be used to optimise the service we provide, to deliver reporting and analytics to Publishers, so that the links we create/monetise are the products and Merchants that Users prefer.
 
-Cuelinks is committed to protecting the privacy and the confidentiality of your Personal Information. Whenever Cuelinks obtains Personal Information from you, our Website uses commercially reasonable efforts and general industry standards to protect it from any unauthorized access or disclosure. Access to your Personal Information is limited to Cuelinks’ personnel and such authorized third parties who may host your data on our behalf or may assist us in providing the products and services requested by you. Cuelinks uses its best endeavours to maintain physical, electronic and procedural safeguards that aim to protect your information against loss, misuse, damage, modification, and unauthorized access or disclosure. However, Cuelinks assumes no liability whatsoever for any disclosure of Personal Information due to unauthorized third party access or other acts of third parties, or any other acts or omissions beyond reasonable control of Cuelinks.
+Cuelinks is committed to protecting the privacy and the confidentiality of your Personal Information. Whenever Cuelinks obtains Personal Information from you, our Website uses commercially reasonable efforts and general industry standards to protect it from any unauthorized access or disclosure. Access to your Personal Information is limited to Cuelinks’ personnel and such authorized third parties who may host your data on our behalf or may assist us in providing the products and services requested by you. Cuelinks uses its best endeavours to maintain physical, electronic and procedural safeguards that aim to protect your information against loss, misuse, damage, modification, and unauthorized access or disclosure. However, Cuelinks assumes no liability whatsoever for any disclosure of Personal Information due to unauthorized third party access or other acts of third parties, or any other acts or omissions beyond reasonable control of Cuelinks. 
 
-####  What we share with third parties 
+**What we share with third parties**
 
 You expressly acknowledge and permit Cuelinks to share your Personal Information with certain authorised key partners, third party service providers, network supporters and advertisers in order to optimise our service and effectively manage and administer your relationship with us. 
 
 Cuelinks does not trade, sell or otherwise deal in your Personal Information in any manner, except as specified herein, or unless express consent is sought from you, in that regard. 
 
-Cuelinks makes every reasonable effort to preserve the privacy and confidentiality of your information shared with us. However, we reserve the right to disclose Personal Information without any further reference to you and without any liabilities to you when required or permitted by law and we have a good-faith belief that (i) such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on us or (ii) to conform to the legal requirements,compliance/reporting to administrative and judicial authorities, as may be required (iii) protect and defend the rights or property of the website owners of Cuelinks, or the users of Cuelinks, (iv) person(s) or company(ies) who provide certain support services to us, and (v) person(s) or company(ies) who share certain responsibilities/obligations of Cuelinks.
+Cuelinks makes every reasonable effort to preserve the privacy and confidentiality of your information shared with us. However, we reserve the right to disclose Personal Information without any further reference to you and without any liabilities to you when required or permitted by law and we have a good-faith belief that (i) such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on us or (ii) to conform to the legal requirements, compliance/reporting to administrative and judicial authorities, as may be required (iii) protect and defend the rights or property of the website owners of Cuelinks, or the users of Cuelinks, (iv) person(s) or company(ies) who provide certain support services to us, and (v) person(s) or company(ies) who share certain responsibilities/obligations of Cuelinks. 
 
-####  Privacy Policy of the Publishers 
+**Privacy Policy of the Publishers**
 
-It is important that the Publisher’s website also provides for a ‘privacy policy’ which will specify to the Users that the Publishers are engaged in affiliate marketing through a third-party service being Cuelinks, however stating that Cuelinks does not intentionally obtain or store any personally identifiable information about Users at any time. However, if the User uses the Publisher toolbar, such information may be inadvertently captured by Cuelinks, if such information is displayed on the website that the User visits and such website has insufficient security safeguards. However, although this information may be processed by us, we do not use the same for any purpose, nor do we pass it on to third parties, and it is automatically discarded after page load.
+It is important that the Publisher’s website also provides for a ‘privacy policy’ which will specify to the Users that the Publishers are engaged in affiliate marketing through a third-party service being Cuelinks, however stating that Cuelinks does not intentionally obtain or store any personally identifiable information about Users at any time. However, if the User uses the Publisher toolbar, such information may be inadvertently captured by Cuelinks, if such information is displayed on the website that the User visits and such website has insufficient security safeguards. However, although this information may be processed by us, we do not use the same for any purpose, nor do we pass it on to third parties, and it is automatically discarded after page load. 
 
 Publishers must also provide the Users with full details about Cuelinks’ cookies which are dropped onto the Users’ machines via Publisher websites and toolbars when Users click on the affiliate links. 
 
 Such information must be provided by the Publisher prior to Users downloading Cuelinks’ cookies or their machines automatically accepting such cookies. Publishers are advised to provide a link for the Users of this “Privacy Policy” document for them to acquaint themselves regarding the non-personal information of Users that may be collected by Cuelinks. 
 
-#### Users
+**Users**
 
 Cuelinks does not trace or attempt to trace any personally identifiable information of its Users. As mentioned in the Publisher section above, if the User uses the Publisher toolbar, certain information may be inadvertently captured by Cuelinks, if such information is displayed on the website that the User visits and such website has insufficient security safeguards. However, Cuelinks does not such information procured for any purpose whatsoever, nor is it passed on to the third parties, but is automatically discarded after page load. 
 
-Cuelinks however stores the Users’ IP addresses, only to determine the User’s vicinity/country. We need this information to ensure that the links we create are of the Merchants located in the User’s country. We do not use this information to identify any individuals.
+Cuelinks however stores the Users’ IP addresses, only to determine the User’s vicinity/country. We need this information to ensure that the links we create are of the Merchants located in the User’s country. We do not use this information to identify any individuals. 
 
-We also store information about the device that Users use to access the internet, such as the browser type, browser version, and device used to access sites within our Publisher network.This helps us diagnose and fix browser compatibility issues more swiftly, and optimise our service to suit the preferred browsing environments.
+We also store information about the device that Users use to access the internet, such as the browser type, browser version, and device used to access sites within our Publisher network. This helps us diagnose and fix browser compatibility issues more swiftly, and optimise our service to suit the preferred browsing environments. 
 
-As part of the information available in standard web serving logs, Cuelinks also stores information about the referrer, i.e. the website page from which the User linked to the Publisher Site. However, Cuelinks in this regard does not make any attempt to try and identify any User.
+As part of the information available in standard web serving logs, Cuelinks also stores information about the referrer, i.e. the website page from which the User linked to the Publisher Site. However, Cuelinks in this regard does not make any attempt to try and identify any User. 
 
 The Users as a part of the service provided by Cuelinks, may click on the Merchant links provided on the Publisher’s website by virtue of which they will be directed to the Merchant’s website. The User may also make a purchase on the Merchant website by following instructions thereon and may enter its purchase order details such as delivery/postal address, name, land-mark, bank account details, etc. at the time of purchasing a product/service or booking its preference on such Merchant website. The Merchant websites provide separate privacy polices than that of Cuelinks. For the avoidance of doubt, it is clarified that Cuelinks’ Privacy Policy applies exclusively to Cuelinks and to the information collected by Cuelinks. The Users expressly acknowledge and confirm that Cuelinks is not responsible for the privacy policies of its Merchant websites that they link to, nor do we have control over the use or security of information provided by the User on such websites or collected by such websites. 
 
-We therefore encourage you to very carefully review the privacy policy of any third-party website or our Merchant website, before using it. Personal Information (if any) provided by you on such web domains shall be dealt with them in the manner provided by the privacy policy of such third party web domains. It is hereby expressly stated that Cuelinks has no control whatsoever over information of the Users posted on such websites. This Privacy Policy only deals with your information shared and collected by Cuelinks and we shall in no manner be liable/bound for protection of Personal Information (if any), which may be shared by you on such third party web domains. We encourage you to ask questions and to be very cautious before you disclose your Personal Information to others.
+We therefore encourage you to very carefully review the privacy policy of any third-party website or our Merchant website, before using it. Personal Information (if any) provided by you on such web domains shall be dealt with them in the manner provided by the privacy policy of such third party web domains. It is hereby expressly stated that Cuelinks has no control whatsoever over information of the Users posted on such websites. This Privacy Policy only deals with your information shared and collected by Cuelinks and we shall in no manner be liable/bound for protection of Personal Information (if any), which may be shared by you on such third party web domains. We encourage you to ask questions and to be very cautious before you disclose your Personal Information to others. 
 
-We use cookies to collect the information we need to optimise the product/Merchant links we monetise/create, and improve the service we provide to Publishers and to Users. However, Cuelinks does not drop any third-party cookie within its own JavaScript, so Users can be certain that their data and privacy is being protected in the manner provided herein.
+We use cookies to collect the information we need to optimise the product/Merchant links we monetise/create, and improve the service we provide to Publishers and to Users. However, Cuelinks does not drop any third-party cookie within its own JavaScript, so Users can be certain that their data and privacy is being protected in the manner provided herein. 
 
-In order for referral fees and commissions to be paid by Merchants to Publishers, Cuelinks works with affiliate networks and other ad networks that manage the direct Merchant relationships. Users who receive Cuelinks’ cookies are assigned an ‘anonymous/unique identifier number’. When a User clicks on a link created by our products, Cuelinks attaches the User’s anonymous identifier number, so it passes to the appropriate affiliate network for the purpose of tracking whether that User makes a purchase on the Merchant website they visit. Such information is used only for the purposes of optimizing the service provided to the User. The affiliate and ad networks that work with Cuelinks also use their own cookies in order to track if a sale has occurred, as most of these parties will only pay Cuelinks when a referral through the Publisher has been successful, i.e. a sale was completed. We do not have control over or access to these cookies and they are dropped by the affiliate and ad networks via the Publisher websites and Publisher toolbars.
+In order for referral fees and commissions to be paid by Merchants to Publishers, Cuelinks works with affiliate networks and other ad networks that manage the direct Merchant relationships. Users who receive Cuelinks’ cookies are assigned an ‘anonymous/unique identifier number’. When a User clicks on a link created by our products, Cuelinks attaches the User’s anonymous identifier number, so it passes to the appropriate affiliate network for the purpose of tracking whether that User makes a purchase on the Merchant website they visit. Such information is used only for the purposes of optimizing the service provided to the User. The affiliate and ad networks that work with Cuelinks also use their own cookies in order to track if a sale has occurred, as most of these parties will only pay Cuelinks when a referral through the Publisher has been successful, i.e. a sale was completed. We do not have control over or access to these cookies and they are dropped by the affiliate and ad networks via the Publisher websites and Publisher toolbars. 
 
-####  PROTECTION OF INFORMATION BY CUELINKS 
+**PROTECTION OF INFORMATION BY CUELINKS**
 
-Cuelinks has implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of personal or non-personal information provided by or procured by Cuelinks from its Visitors, Publishers and Users from unauthorised access or improper use. We also have security measures in place to protect our customer database and access to this database is restricted internally and to those authorised by Cuelinks.
+Cuelinks has implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of personal or non-personal information provided by or procured by Cuelinks from its Visitors, Publishers and Users from unauthorised access or improper use. We also have security measures in place to protect our customer database and access to this database is restricted internally and to those authorised by Cuelinks. 
 
-This Privacy Policy provides a general statement of the ways in which Cuelinks aims to protect the information collected from its Visitors, Publishers and Users. You may, however, in connection with specific products or services, be provided with privacy policies or statements that substitute or supplement this policy. The terms and conditions of this policy may be changed from time to time, without your consent (express or implied) to reflect changes in our practices concerning the collection and use of your Personal Information. The revised policy will be effective immediately upon posting to our web site unless otherwise mentioned. This version of the policy is effective from 17th October, 2013. You shall be bound by the revised Privacy Policy and it is your sole responsibility to check the same from time to time. You acknowledge that no knowledge of the revised Privacy Policy shall be a defence in any proceedings with regard to the Privacy Policy.
+This Privacy Policy provides a general statement of the ways in which Cuelinks aims to protect the information collected from its Visitors, Publishers and Users. You may, however, in connection with specific products or services, be provided with privacy policies or statements that substitute or supplement this policy. The terms and conditions of this policy may be changed from time to time, without your consent (express or implied) to reflect changes in our practices concerning the collection and use of your Personal Information. The revised policy will be effective immediately upon posting to our web site unless otherwise mentioned. This version of the policy is effective from 17th October, 2013. You shall be bound by the revised Privacy Policy and it is your sole responsibility to check the same from time to time. You acknowledge that no knowledge of the revised Privacy Policy shall not be a defence in any proceedings with regard to the Privacy Policy. 
 
-Cuelinks implements standard measures to protect your information against unauthorized access to and unlawful interception of Personal Information. However, you understand and acknowledge that no internet site can fully eliminate security risks associated with protecting such information. Although access to such information is restricted to authorised employees or agents of Cuelinks, we cannot guarantee the security of any information transmitted on the internet and you agree to do so at your own risk. We however run backups to prevent loss of information, and our Internet servers are housed in secure facilities.
+Cuelinks implements standard measures to protect your information against unauthorized access to and unlawful interception of Personal Information. However, you understand and acknowledge that no internet site can fully eliminate security risks associated with protecting such information. Although access to such information is restricted to authorised employees or agents of Cuelinks, we cannot guarantee the security of any information transmitted on the internet and you agree to do so at your own risk. We however run backups to prevent loss of information, and our Internet servers are housed in secure facilities. 
 
-#### Consent
+**Consent**
 
-By accessing our Website and using it on a continued basis, you expressly consent and confirm to Cuelinks collecting, maintaining, using, processing and disclosing your Personal and Non-personal Information in accordance with this Privacy Policy.If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at (Email Address).
+By accessing our Website and using it on a continued basis, you expressly consent and confirm to Cuelinks collecting, maintaining, using, processing and disclosing your Personal and Non-personal Information in accordance with this Privacy Policy. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at (Email Address). 
