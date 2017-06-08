@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuesdaymorning.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222013703id_/http%3A//www.tuesdaymorning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuesdaymorning.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608073200id_/http%3A//www.tuesdaymorning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tuesday Morning
 
@@ -8,16 +8,14 @@ _Last Updated: September 28, 2015_
 
 #### INTRODUCTION
 
-Thank you for using TuesdayMorning.com. We are committed to honoring the confidentiality, integrity, and security of the personal information our Users share through the Services provided on the TuesdayMorning.com website. This _Tuesday Morning Privacy Policy_ (this “Policy”) describes how we treat your information when you use TuesdayMorning.com and its Services. Please take a moment to read the following to learn more about our information practices and how we safeguard your information. We take our Users’ interests seriously. If you have questions or concerns regarding our privacy policy or practices, please contact us at [custserv@TuesdayMorning.com](mailto:%20custserv@tuesdaymorning.com) (please put “Privacy Policy” in the subject line of your email). 
+Thank you for using TuesdayMorning.com. We are committed to honoring the confidentiality, integrity, and security of the personal information our Users share through the Services provided on the TuesdayMorning.com website. This _Tuesday Morning Privacy Policy_ (this “Policy”) describes how we treat your information when you use TuesdayMorning.com and its Services. Please take a moment to read the following to learn more about our information practices and how we safeguard your information. We take our Users’ interests seriously. If you have questions or concerns regarding our privacy policy or practices, please contact us at [custserv@TuesdayMorning.com](mailto:%20custserv@tuesdaymorning.com "Click to email custserv@tuesdaymorning.com") (please put “Privacy Policy” in the subject line of your email). 
 
 As used in this Policy: 
 
   * the term “personal information” means information that specifically identifies an individual (such as a first and last name, telephone number, mobile number, e-mail address, or mailing address or credit card information), or information about that individual that is directly linked to personally identifiable information. Personal information does not include “aggregate” information, which is data we collect about the use of our website or about a group or category of services or Users, from which individual identities or other personal information has been removed. This Policy in no way restricts or limits our collection and use of aggregate information. 
   * the terms “you,” “your,” “yours” and “User” refer to you, the User of this website, regardless of whether you have a registered account with Tuesday Morning. 
   * the terms “Tuesday Morning,” “TuesdayMorning.com,” “we,” “us,” and “our” refer to Tuesday Morning, Inc., a Texas corporation headquartered at 6250 LBJ Freeway, Dallas, Texas 75240. 
-
-the term “Service(s)” means the services Tuesday Morning offers through TuesdayMorning.com and related websites, mobile applications, and other platforms that enable Users to access and use content made available by Tuesday Morning about its stores, its business and operations, the goods and services it offers for sale, promotional materials, employment opportunities, various interactive features that may be made available to Users from time to time, and other important information and functionality, some or all of which may be made available to the general public or only to registered Users of Tuesday Morning’s website(s). 
-
+  * The term “Service(s)” means the services Tuesday Morning offers through TuesdayMorning.com and related websites, mobile applications, and other platforms that enable Users to access and use content made available by Tuesday Morning about its stores, its business and operations, the goods and services it offers for sale, promotional materials, employment opportunities, various interactive features that may be made available to Users from time to time, and other important information and functionality, some or all of which may be made available to the general public or only to registered Users of Tuesday Morning’s website(s). 
 
 
 
@@ -87,7 +85,7 @@ _**California Privacy Rights.**_ California Civil Code Section 1798.83 permits U
 
 _**Changes to this Privacy Policy.**_ Tuesday Morning may update its privacy policy from time to time. When we change the policy in a material way, such as if there are significant changes in the way we treat your personal information, a prominent notice will be posted on our website along with the updated privacy policy and also communicated to Users via email, message notification on the website or other similar method. Please check this URL frequently to see the latest version of this policy. Unless stated otherwise, our current Policy applies to all information that Tuesday Morning has about you and your account. Using the Tuesday Morning Services after a notice of changes is published on our site shall constitute consent to the changed terms or practices. 
 
-Should you have any questions or concerns regarding this Policy, please email us at [custserv@TuesdayMorning.com](mailto:%20custserv@tuesdaymorning.com) (please put “Privacy Policy” in the subject line of your email) or contact us at the following address: 
+Should you have any questions or concerns regarding this Policy, please email us at [custserv@TuesdayMorning.com](mailto:%20custserv@tuesdaymorning.com "Click to email custserv@tuesdaymorning.com") (please put “Privacy Policy” in the subject line of your email) or contact us at the following address: 
 
 Tuesday Morning, Inc.  
 Attn: Privacy Policy Issues  
