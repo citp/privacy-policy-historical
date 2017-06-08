@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the activly.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213125937id_/http%3A//activly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activly.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608065048id_/http%3A//activly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Activly
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@activly.com.
 
 At Activly.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Activly.com and how we use it.
+
+Mail us
+
+Polo web LLC  
+720 market st suite b  
+Kirkland wa 98033
 
 ### Log Files
 
@@ -64,8 +70,3 @@ Should we update, amend or make any changes to our privacy policy, those changes
 * * *
 
 ADVERTISEMENT:
-
-  
-
-
-* * *
