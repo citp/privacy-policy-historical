@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024949id_/http%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getcomics.info privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608155345id_/http%3A//getcomics.info/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GetComics –
 
@@ -6,15 +6,15 @@
 
 At GetComics, the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by GetComics and how it is used.
 
-**Log Files**
+ **Log Files**
 
 Like many other Web sites, GetComics makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Cookies and Web Beacons**
+ **Cookies and Web Beacons**
 
 GetComics does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**DoubleClick DART Cookie**
+ **DoubleClick DART Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on GetComics.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to GetComics and other sites on the Internet.
@@ -56,5 +56,3 @@ In no event will we be liable for any loss or damage including without limitatio
 Through this website you are able to link to other websites which are not under the control of GetComics. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
 
 Every effort is made to keep the website up and running smoothly. However, GetComics takes no responsibility for, and will not be liable for, the website being temporarily unavailable due to technical issues beyond our control.
-
-The Comic Guy is an admin for GetComics.Info website. 
