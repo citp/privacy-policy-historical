@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125033805id_/http%3A//www.hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.co.uk privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608173814id_/http%3A//www.hays.co.uk/PrivacyPolicy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Hays
 
@@ -159,6 +159,21 @@ Hotjar will use this information for the purpose of evaluating your use of the w
 To opt out please go to the following link:
 
 <https://www.hotjar.com/opt-out>
+
+**10\. Adroll**
+
+This website uses services provided by AdRoll. AdRoll provides services including Prospecting, Retargeting, Cross Device, SendRoll and Online Behavioral Advertising by using cookies. The information generated will be transmitted to and stored in Amazon’s cloud (A3) in their data centers in the US and other countries. Data may be collected for targeted advertising and data collected may be used to target advertising on other sites or applications based on your online activity.
+
+The types of data collected include:
+
+  * Pages visited
+  * Date and time of visit
+  * Location using IP address
+  * Hashed Email Addresses 
+
+
+
+You can opt out of receiving targeted advertising from Adroll by visiting [http://youronlinechoices.eu ](http://youronlinechoices.eu/) 
 
 ### Links to other websites
 
