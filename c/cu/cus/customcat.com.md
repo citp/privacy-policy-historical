@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customcat.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121164313id_/http%3A//www.customcat.com%3Ft%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customcat.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608023958id_/http%3A//customcat.com%3Ft%3Dh.privacy) for the most accurate reproduction.*
 
-# Home - CustomCat.com
+# Privacy Policy - CustomCat.com
 
 **Our postal address is:  
 1300 Rosa Parks Blvd  
