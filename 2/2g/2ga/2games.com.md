@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2games.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203084412id_/https%3A//www.2games.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2games.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608230148id_/https%3A//www.2games.com/pages/privacy) for the most accurate reproduction.*
 
 # 2Games.com - free online games
 
@@ -20,4 +20,4 @@ This website is for fun - we hope that you have a great time playing our games. 
 
 If you are on Facebook, then [check out our app called 2Games Laboratory](http://apps.facebook.com/twogames/). And don't forget to become a fan. 
 
-Copyright © 2015 2Games.com
+Copyright © 2017 2Games.com
