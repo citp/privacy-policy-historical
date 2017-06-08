@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the favfashion.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608092030id_/http%3A//favfashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favfashion.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608162620id_/http%3A//fashion.plus/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FavFashion
+# Privacy Policy | Fashion +
 
 Privacy Policy
 
 PLEASE READ THIS CAREFULLY  
-favfashion.com (the Site) provides articles, a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
+fashion.plus (the Site) provides articles, a photo and video hosting/blogging service to you (the “Service(s)”), subject to the following Privacy Policy, which may be updated from time to time without notice to you. Your use of the Service constitutes acceptance of this Privacy Policy and creates a binding legal agreement, so read them carefully. This Privacy Policy applies only to information that you provide to us through the Site, and when you access, download, purchase or use any information, services, products or content appearing on the Site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You should consult this Privacy Policy regularly for any changes. Any reference to us, our, we or similar words shall refer to this Site and its affiliates thereto.
 
 THE PERSONAL INFORMATION WE COLLECT
 
