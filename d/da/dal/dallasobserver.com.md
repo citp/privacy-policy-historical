@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121015049id_/http%3A//www.dallasobserver.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608071905id_/http%3A//www.dallasobserver.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Dallas News and Events | Dallas Observer
 
