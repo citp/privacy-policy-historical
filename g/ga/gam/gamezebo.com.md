@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamezebo.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217145554id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezebo.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608223546id_/http%3A//www.gamezebo.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Gamezebo
 
-Here at Gamezebo, we take your privacy very seriously. Please find below more information in regards to what information we collect from you and how we use and safeguard that information.
+Here at Gamezebo, we take your privacy very seriously. Please find below more information in regards to what information we collect from you and how we use and safeguard that information. 
 
 ## Website Visitors
 
