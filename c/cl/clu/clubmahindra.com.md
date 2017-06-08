@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubmahindra.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219185319id_/http%3A//www.clubmahindra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubmahindra.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608063314id_/http%3A//www.clubmahindra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privay Policy | Club Mahindra
 
@@ -32,6 +32,10 @@ MHRIL provides personal information to resort operators in order to facilitate a
   * When you provide your personal information to us, MHRIL will give you the choice as to whether or not you wish to receive further information about special offers, promotions, and changes to our products and services. If you indicate that you do not wish to receive these, we will not contact you further for these purposes. Please allow 28 days for your request to be processed.
 
 
+
+**Disclaimer for using data across Mahindra Group Companies**
+
+I/We hereby agree and authorize Mahindra Holidays & Resorts India Limited and all of its divisions, affiliates, subsidiaries, related parties and other group companies (collectively the “Mahindra Entities”) to access my/our basic data / contact details provided herewith, i.e. name, address, telephone number, e-mail address, birth date and / or anniversary date. I/ We hereby consent to, agree and acknowledge that any of the Mahindra Entities may call/ email/ SMS me/us on any of the basic contact details shared by me/us, in order to keep me/us informed regarding product details, or send me/us any marketing and other product or service related communication and other offers of any of the Mahindra Entities. I/We provide the details herein at my/our sole discretion and confirm that no Mahindra Entity shall be held responsible or liable for any claim arising out of accessing or using my/our basic data / contact details shared by me/us. I/We consent to being assigned a unique identity within the Mahindra Group, to be shared amongst all Mahindra Entities, for the purpose outlined in this paragraph. I/We also agree that if at any point of time, I/We wish to stop receiving such communications from Mahindra Entities, I /We will call at Mahindra Holidays & Resorts India Limited’s designated call center number and register my/our preference or write to **[memberrelations@mahindraholidays.com](mailto:memberrelations@mahindraholidays.com)** with “ **OPT OUT CCD** ” as Subject.
 
 ## 3\. Service providers
 
