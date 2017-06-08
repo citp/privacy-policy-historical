@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907050547id_/http%3A//www.mazda.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608154221id_/https%3A//www.mazda.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### Privacy Policy
+# Privacy Policy | Mazda Australia
 
 **1\. Introduction**
 
@@ -163,7 +161,7 @@ The Mazda website (and other materials we provide to you) may contain links to t
 
 You may seek access to personal information which Mazda holds about you by contacting us as described in section 13 of this policy.  We will provide access to that information in accordance with the Act, subject to certain exemptions which may apply.  We may require that the person requesting access provide suitable identification and where permitted by law we may charge an administration fee for granting access to information.
 
-If you become aware that any personal information we hold about you is incorrect or if you wish to update your information, please contact Mazda as described in section 13 of this policy or click [here](https://www.mazda.com.au/owners/update-your-details) to visit a page on our website where you can update your information.
+If you become aware that any personal information we hold about you is incorrect or if you wish to update your information, please contact Mazda as described in section 13 of this policy or click [here](https://web.archive.org/get-in-touch/) to visit a page on our website where you can update your information.
 
 If you wish to access, correct or update personal information held by a Mazda dealer, please contact that Mazda dealer directly.
 
