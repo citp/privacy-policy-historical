@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the liliputing.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821151103id_/http%3A//liliputing.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liliputing.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608054050id_/http%3A//liliputing.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Liliputing
 
-We value your privacy. We may ask for your name and email address for verification purposes when you leave comments on Liliputing, but this data will not be shared with any advertisers or third parties (with the exception of [Disqus](http://www.disqus.com/), the company that runs the blog commenting system for Liliputing.
+We value your privacy. We may ask for your name and email address for verification purposes and notifications of follow-up messages when you leave comments on Liliputing, but this data will not be shared with any third parties.
 
-Liliputing uses third-party advertising companies including [Netshelter/inPowered](http://www.netshelter.com/) and [Google Adsense](https://www.google.com/adsense/) to serve ads to visitors. These companies may use information about your visits to this web site and others in order to provide advertisements about goods and services that may interest you.
+Liliputing uses third-party advertising companies including [Netshelter](http://www.netshelter.com/) and [Google Adsense](https://www.google.com/adsense/) to serve ads to visitors. These companies may use information about your visits to this web site and others in order to provide advertisements about goods and services that may interest you.
 
 These companies may employ cookies and clear GIFs to measure advertising effectiveness. This information generally doesn’t identify you by personal attributes such as name, email address, or other personal information unless you supply it in response to an ad or email message.
 
