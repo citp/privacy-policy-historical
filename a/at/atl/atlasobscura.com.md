@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210124723id_/http%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasobscura.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608234530id_/http%3A//www.atlasobscura.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Atlas Obscura
+# Privacy Policy - Atlas Obscura
 
 #### Privacy Notice
 
-_Last updated 4/13/2015_
+_Last updated 3/15/2017_
 
 The web site accessible through [www.atlasobscura.com](http://www.atlasobscura.com/) (the "Website") is owned, operated and distributed by Atlas Obscura Inc., a Delaware Corporation ("Atlas Obscura"). BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE ATLAS OBSCURA [TERMS OF USE](https://web.archive.org/terms) (THE "TERMS OF USE"). IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE ATLAS OBSCURA WEBSITE. This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are also contributors of content, information, and other materials or services on the Website. Please note that any User Submission (as defined in the Terms of Use) becomes published content and is not considered personally identifiable information subject to this Privacy Policy.  
 Atlas Obscura may, at its sole discretion, modify this Privacy Policy at any time. By accessing the Website at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of June 6, 2009.
@@ -63,8 +63,8 @@ The Website is hosted in the United States and is intended for and directed to u
 
 **California Privacy Rights**
 
-California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please detail your request with this form or write us at:
+California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please detail your request with [this form](http://www.atlasobscura.com/contact_form) or write us at:
 
 Atlas Obscura Privacy Rights  
-61 Greenpoint Ave #302  
+61 Greenpoint Ave #622  
 Brooklyn, NY 11222
