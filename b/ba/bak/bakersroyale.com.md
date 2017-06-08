@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203081034id_/http%3A//www.bakersroyale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersroyale.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608070447id_/http%3A//www.bakersroyale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bakers Royale
 
