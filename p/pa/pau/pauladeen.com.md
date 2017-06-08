@@ -1,76 +1,77 @@
-> *The following text is extracted and transformed from the pauladeen.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529204209id_/http%3A//www.pauladeen.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pauladeen.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608164407id_/http%3A//www.pauladeen.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Paula Deen's Recipes, Home Cooking and Cooking Tips
+# Privacy Policy
 
-## Effective as of November 10th, 2009
+## PAULA DEEN NETWORK PRIVACY POLICY
 
-The websites located at pauladeen.com as well as all services related to this website (collectively this 'Site'), is owned and operated by Paula Deen Enterprises, LLC ('Paula Deen Enterprises,' 'we', 'us' or 'our'). We are committed to protecting your privacy. Your use of this Site is subject to this Privacy Policy. Please read this Privacy Policy carefully to understand how we treat information collected on this Site. This Privacy Policy may change from time to time, so please check this page periodically. 
+**Updated On: 10/11/2016**
 
-## Information We Collect
+1\. General: Paula Deen Ventures, Inc., its affiliates, and the Paula Deen Network (collectively “PDN”) produce the PDN Website, (“Website”). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website. 
 
-Although this Site is available without registration, in order to take advantage of some of our Site’s features, you will be asked to provide certain personal information. This personal information will be collected at various pages on the Site, such as the shopping cart page and pages that allow you to register for various services including:
+**Collection and Use of Personal Information  **
 
-  * purchase of products
-  * surveys, contests or promotional events
-  * email newsletters
-  * sharing recipes
-  * asking questions
+Personal information is data that can be used to identify or contact a single person. 
 
+You may be asked to provide your personal information anytime you are in contact with PDN or a PDN affiliated company. PDN and its affiliates may share this personal information with each other and use it consistently with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, content, and advertising. You are not required to provide the personal information that we have requested, but, if you chose not to do so, in many cases we will not be able to provide you with our products or services or respond to inquiries you may have.
 
+Here are some examples of the types of personal information PDN may collect and how we may use it.
 
-Personal information collected on these pages may include your first and last name, email address, phone number, address and other similar information. Providing this information is optional, but failure to do so in some cases will limit the services available to you. If you wish to purchase products from the Site, you will also be asked to provide your shipping address, telephone number and credit card information. In addition, you may choose to provide us with personal information if you contact us by email. 
+**What Personal Information We Collect**  
 
-Our web servers automatically collect Site usage information about visitors to our Site, such as IP addresses, browser types, operating systems, domain names, access times and referring website addresses. Site usage information informs us about how our visitors use and navigate the Site. In addition, certain pages of the Site may use cookies to track and store your information for the purposes described in this policy. Cookies are small files that are placed on your hard disk to allow us to recognize you if you return to the Site using the same computer and browser. We do not store any of your personal information in cookies. A cookie cannot read any other data off your hard drive, pass on a virus or read cookie files created by other websites. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. While you may decide not to accept cookies, by doing so, you may not be able to experience the full functionality of our Site. 
+When you create a PDN ID, register your subscription, purchase a product, download a software update, contact us or participate in an online survey, we may collect a variety of information, including your name, mailing address, phone number, email address, contact preferences, birthday, and credit card information.
 
-## How We Use Your Information
+When you share your content with family and friends using PDN products, send gift certificates and products, or invite others to join you on PDN forums, PDN may collect the information you provide about those people such as name, mailing address, email address, and phone number.
 
-  
+**How we use your personal information**
 
+The personal information we collect allows us to keep you posted on PDN’s latest product announcements, software updates, and upcoming events. 
 
-We may combine the personally identifiable information you provide to us with other information about you that is available, including information from third parties. We do not rent, sell, or trade any personally identifiable information but may use your information to, among other things:
+We also use personal information to help us create, develop, operate, deliver, and improve our products, services, content and advertising, and for loss prevention and anti-fraud purposes.
 
-  * deliver newsletters or catalogs
-  * fulfill customer orders
-  * service your account and customer support requests
-  * notify you of special offers or promotions
-  * respond to your inquiries
-  * compile anonymous, aggregated information that is useful to develop new features, improve the content and navigation of this Site, analyze trends and statistics, and ensure our Site remains relevant to your needs
-  * enforce our Terms of Use and otherwise prevent illegal or improper activity related to this Site
-  * notify you of changes to this Privacy Policy or to other policies or terms that may affect you and your use of this Site
-  * create user profiles
+From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with PDN, you may not opt out of receiving these communications.
 
+We may also use personal information for internal purposes such as auditing, data analysis, and research to improve PDN’s products, services, and customer communications.
 
+If you enter into a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
-For the purposes described above, we may share your information with third party service providers, such as website operators, providers of complimentary services, marketing companies and, where appropriate, law enforcement authorities. Whenever we share your information with third parties, those third parties are obligated (except where otherwise required by law enforcement authorities) to treat your personally identifiable information as set forth in this Privacy Policy. 
+For the purposes described above, we may share your information with third party service providers, such as website operators, providers of complimentary services, marketing companies, and were appropriate, law enforcement authorities. Whenever we share your information with third parties, those third parties are obligated (except where otherwise required by law enforcement authorities) to treat your personally identifiable information as set forth in this Privacy Policy.
 
-We may also disclose your information in connection with any merger or consolidation with, or sale of all or substantially all of our assets to a third party, provided that such third party agrees to comply with our Privacy Policy. In the event we sell our assets, including our databases, your personal information will be transferred to the purchaser. 
+We may also disclose your information in connection with any merger or consolidation with, or sale of all or substantially all of our assets to a third party, provided that such third party agrees to comply with our Privacy Policy. In the event we sell our assets, including our databases, your personal information will be transferred to the purchaser.
 
-## Security
+**Collection and Use of Non-Personal Information**
 
-We maintain commercially reasonable safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our Site, and we periodically review and update security measures in light of current technologies. Your password is a component of our security system. As such, it is your responsibility to protect it. Do not share your password with any third parties. If your password has been compromised for any reason, please notify us immediately. 
+We also collect data in a form that does not, on its own, permit direct association with any specific individual. We may collect, use, transfer, and disclose non-personal information for any purpose. The following are some examples of non-personal information that we collect and how we may use it:
 
-## Your Ability to Choose
+We may collect information such as occupation, language, zip code, area code, unique device identifier, location, and the time zone where the PDN service is used so that we can better understand customer behavior and improve our products, services, and advertising.
 
-We communicate with you to provide you information that you have requested. We will also send you valuable information and offers from us and our third party service providers. You may always choose to not receive our marketing emails by following the instructions at the bottom of each email you receive from us. You may also change your preferences regarding the types of emails you receive from us by emailing us at info@pauladeen.com. 
+We may collect information regarding customer activities on our website, stores and from our other products and services. This information is aggregated and used to help us provide more useful information to our customers and to understand which parts of our website, products, and services are of most interest. Aggregated data is considered non-personal information for the purposes of this Privacy Policy.
 
-## Links to Other Sites
+If we do combine non-personal information with personal information the combined information will be treated as personal information for as long as it remains combined.
 
-This Site contains links to third party websites that are provided for your convenience. We do not endorse nor are we responsible for the privacy practices or the content or services of such websites. Please review the privacy policies and terms of use that govern those websites when you visit them. 
+2\. Information Automatically Collected; Cookies; Web Beacons: We may use cookies, pixel tags, web beacons, or similar technologies, alone or in combination with personally identifiable information you choose to provide us, to make our Website work better, to understand Website usage and trends, to deliver a more personalized experience and to improve our content and offerings. Examples of the information we collect and analyze using such methods may include, without limitation, the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; login name and password; operating system type, version and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, on, and from our Website, including date and time; cookie information; and products you viewed or searched for. We may also use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page. We treat information collected by cookies and other technologies as non-personal information. However, to the extent that Internet Protocol (IP) addresses or similar identifiers are considered personal information by local law, we also treat these identifiers as personal information. Similarly, to the extent that non-personal information is combined with personal information, we treat the combined information as personal information for the purposes of this Privacy Policy.
 
-## Review and Correction
+We may also use cookies to enable you to use a “shopping cart” if you want to purchase goods or services while on our Website, to store your preferences associated with video streaming or other content offered from our Website and to offer you products, programs, or services based on purchase and Website usage behavior that you and/or other customers have exhibited. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the Adobe website. If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain services on our Website.
 
-We try to keep information about you accurate and current. If, however, you find errors or inaccuracies in your information, or if your contact information changes, please let us know by sending us an e-mail at info@pauladeen.com, and we will update your information upon request. 
+We may allow other companies that are presenting advertisements or providing services, including but not limited to social media connectivity, on our pages to set and access cookies on your computer and/or web beacons or similar technologies on certain of our pages and/or certain emails sent by us.
 
-## Children
+Many advertisements are managed and placed on our Website by third parties. These companies are called “Network Advertisers.” Network Advertisers who place advertisements on our Website may place cookies or web beacons on our Website and use cookies and web beacons to collect non-personally identifiable information about your visits to our Website and other websites in order to provide advertisements about goods and services of interest to you. We do not install spyware or adware in connection with our Website or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. “Spyware” or “adware” is any software which has been downloaded to and/or installed on an Internet user’s computer, without the user’s actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred. As time passes, either or both of the Providers may be sold along with their assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer.
 
-The Site is directed towards adults. We do not knowingly collect information from children under the age of 13. Children under the age of 13 should not use this Site or submit information to us. 
+We may be required to share your personal information and non-personal information pursuant to judicial or governmental subpoenas, warrants, or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose, and/or share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website’s Terms of Use or as otherwise required by law.
 
-## Changes to this Privacy Policy
+3\. PDN Security Practices: Your Website account preferences are password protected for your privacy and security. We maintain commercially reasonable safeguards to ensure the security, integrity and privacy of personally identifiable information submitted to our Site, and we periodically review and update security measures in light of current technologies. Your password is a component of our security system. As such, it is your responsibility to protect it. Do not share your password with any third parties. If your password has been compromised for any reason, please notify us immediately.
 
-We will occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the end of this Privacy Policy. For material changes to this Privacy Policy, we will notify you by placing a prominent notice on our Site. We will not materially alter the use of your personally identifiable information without contacting you directly and seeking your affirmative consent. 
+4\. Links: Our Website contains links to other websites produced by the PDN and to websites and/or products operated by unrelated third parties. In addition, if you click on an advertisement on our Website, you may be directed to a web page within our Website or to a third party website or product. Please note that we are not responsible for the privacy practices of third party websites or products. We encourage you to be aware of this when your leave our Website and to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to this Website, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
 
-## Contact Information
+5\. Children: We do not knowingly collect any personal information from a child under the age of thirteen (13). The statements in this Privacy Policy about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some services on our Website require the submission of a credit card number along with personal information in connection with a purchase, and some other services on our Website require the submission of personal information to the Website. None of these services are available to children under the age of thirteen. If a child who the website providers know to be under the age of thirteen attempts to utilize a service on this Website which is not available to children, he/she will receive a message stating that they are not eligible for the service. If PDN becomes aware that PDN inadvertently received personal information from a child under the age of thirteen on this Website, PDN will delete such information from our records.
 
-If you have any questions or comments regarding these Terms, please send us an e-mail at info@pauladeen.com, or write to us at info@pauladeen.com, 2391 Downing Avenue, Savannah, Georgia 31404, Attention: Webmaster 
+6\. Contact Us or Opt Out: Privacy Administrator: If you have questions or concerns about this Privacy Policy, your personal information, including if you believe that PDN may have incorrect information for you, or if you would like to opt out of PDN commercial email updates, you can contact us at the information below. If you would like to opt out, simply write “Opt Out” in the subject line and body of the message and include your name and email address. Address: 2391 Downing Ave Thunderbolt, GA 31404 Email: privacy@pauladeen.com
 
-Last Updated November 10, 2009 
+7\. Ads Displayed on PaulaDeen.com: This Site may include third-party advertising. These third parties’ websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Site, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data).
+
+For more information about these specialized cookies and other technologies, and how to “opt out” of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://www.networkadvertising.org/choices/>.
+
+8\. Changes: PDN may update its Privacy Policy from time to time. When PDN changes the policy in a material way, a notice will be posted on our website along with the updated Privacy Policy.
+
+9\. California Do Not Track Disclosure: PDN does not track its customers over time and across third party websites to provide targeted advertising and therefore does not respond to Do Not Track (DNT) signals. However, some third party sites do keep track of your browsing activities when they serve you content, which enables them to tailor what they present to you. If you are visiting such sites, you may be able to set the DNT signal on your browser so that third parties (particularly advertisers) know you do not want to be tracked. You are solely responsible for monitoring your privacy in this regard through your own device and software. PDN encourages you to contact the support service of your web browser or other software or browser provider so that you may learn how to setup a do not track option.
+
+Third parties that have content embedded on PDN’s websites, such as a social features, may set cookies on a user’s browser and/or obtain information about the fact that a web browser visited a specific PDN website from a certain IP address. Third parties cannot collect any other personally identifiable information from PDN’s websites unless you provide it to them directly.
