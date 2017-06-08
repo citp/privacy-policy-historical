@@ -1,14 +1,16 @@
-<!--The following is the downloaded HTML source of the filmannex.com privacy policy that was archived on 2016-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129052647id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the filmannex.com privacy policy that was archived on 2017-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608033721id_/http%3A//www.filmannex.com/pages/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
 	<!--[if IE]><![endif]-->
 	<title>About Film Annex</title>
 	<base href="http://www.filmannex.com/">
-	<meta name="description" content="">			<link rel="stylesheet" href="http://static.filmannex.com/styles/style5.css">
+	<meta name="description" content="">		    <link rel="stylesheet" href="http://static.filmannex.com/styles/style5.css">
 	<link rel="stylesheet" href="http://static.filmannex.com/styles/webtvs.css">
 	
+        <link href="http://static.filmannex.com/styles/videojs/video-js.min.css" rel="stylesheet">
+
 	<script async="" src="//cdn.taboola.com/libtrc/bitlanders-network/loader.js"></script><script async="" src="//www.google-analytics.com/ga.js"></script><script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 
 	
@@ -84,7 +86,8 @@ html,body{height:100%}
 	padding-bottom:inherit;
 	padding-top:inherit;
 }
-
+.videoDiv #player {width: 100%; height: auto;}
+.videoDiv #player_wrap {float: none;}
 .videoDiv #playerDiv iframe,
 .videoDiv #playerDiv object,
 .videoDiv #playerDiv embed {
@@ -113,24 +116,27 @@ video {
 }
 
 </style>
-	<div id="player" class="pl_medium ">
+	<div id="player" class=" ">
 
 		
 		
 		<div id="player_wrap">
 			<div id="playerDiv">
-							</div>
+                			</div>
 		</div>
 			</div>
 
-		
-			
-			<script type="text/javascript">
+	
+	<script type="text/javascript">
 
 		
 		function fa_create_player(_) {
 
 			var so = new SWFObject('http://static.filmannex.com/flash/daPlayer.swf','mpl',_.tw ,_.th , '8');
+
+			if (so.installedVer.major == 0) {
+				console.log("no flash installed");
+							}
 
 			so.addParam("allowfullscreen","true");
 			so.addParam("allowScriptAccess", "always");
@@ -150,7 +156,7 @@ video {
 						
 			so.addVariable("ADS_geo","US");
 			so.addVariable("ADS_geo_region","VA");
-			so.addVariable("ADS_client_ip", "52.4.48.181");
+			so.addVariable("ADS_client_ip", "54.173.35.129");
 			so.addVariable("ADS_fallback","2");
 
 						so.addVariable("ad_chain", _.ac);
@@ -161,7 +167,7 @@ video {
 		}
 									fa_create_player({tw:630, th:382, vw:630, vh:357, as:"true", file:"http://static.filmannex.com/xml/webtv_7_fv.xml", qb: false, cb: true, ac:"CLEAN"});
 						</script>
-				
+		
 	<article class="box">
 		<h2>Privacy policy</h2>
 
@@ -263,27 +269,16 @@ video {
 </section>
 <aside id="rel">
 
-		
-		<div class="box adv">
-			<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&amp;cwrun=200&amp;cwadformat=300X250&amp;cwpid=560323&amp;cwwidth=300&amp;cwheight=250&amp;cwpnet=1&amp;cwtagid=478736"></script>		</div>
-			<br>
-		<div class="box adv">
-			<script src="https://www.googletagservices.com/tag/js/gpt.js">
-  googletag.pubads().definePassback('/99660178/filmannex_ron_300x250', [300, 250]).display();
-</script>
-		</div>
 	
 </aside>						<div id="adTop" style="top:-175px">
 				
-									<iframe src="http://www.filmannex.com/pages/getRandomWebTVBanner/728/27" frameborder="no" framespacing="0" scrolling="no" width="728" height="90"></iframe>				
+				
 			</div>
 		</div>
 	</div>
 
 	<footer id="foot">
 
-					<div class="ads">
-				<iframe src="http://www.filmannex.com/pages/getRandomWebTVBanner/728/27" frameborder="no" framespacing="0" scrolling="no" width="728" height="90"></iframe>			</div>
 		
 	    <div class="wrp">
 	        <nav>
@@ -299,7 +294,7 @@ video {
 	    
 	</footer>
 
-	
+	<script src="//c.fqtag.com/tag/implement-r.js?org=dq22xSrBHW9goiSC0lzi&amp;s=5938c671be1ad&amp;p=7_US_BAD&amp;a=_&amp;cmp=_&amp;fmt=video&amp;rt=display&amp;sl=1"></script>
 		<div class="bitmiles"></div>
 	<script src="http://static.bitlanders.com/js/bitmiles.js"></script>
 
