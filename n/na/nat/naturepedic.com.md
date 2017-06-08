@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturepedic.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126034311id_/http%3A//www.naturepedic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturepedic.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608020221id_/http%3A//www.naturepedic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,6 +36,8 @@ The Company may collect domain information to enable us to analyze how our visit
 Some pages on this site may use “cookies”—small files that the site places on your hard drive for identification purposes. A cookie file can contain information such as a user ID to track the pages visited, but the only personal information a cookie can contain is information you supply yourself. These files are used for site registration and customization the next time you visit us.
 
 Some parts of the site may also use cookies to track user traffic patterns. The Company does this in order to determine the usefulness of our Web site information to our users and to see how effective our navigational structure is in helping users reach that information. Please note that cookies cannot read data off of your hard drive. Your Web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. If you prefer not to receive cookies while browsing our Web site, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, By not accepting cookies, some pages may not fully function and you may not be able to access certain information on this site.
+
+We may use third-party advertising companies to collect data and/or serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://networkadvertising.org/. 
 
 **Information Sharing and Disclosure**
 
