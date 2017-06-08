@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swipevault.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807174351id_/http%3A//swipevault.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swipevault.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608211322id_/http%3A//swipevault.com/privacy.php) for the most accurate reproduction.*
 
 # Swipe Vault Privacy Policy
 
