@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919080200id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mikeyounglaw.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608102427id_/http%3A//mikeyounglaw.com/internet-lawyer-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Dallas Business Lawyer
+# Privacy Policy - Dallas Business Lawyer • Internet Lawyer Mike Young for Business
 
 This website privacy policy is Copyright © 2007-2016 Law Office of Michael E. Young PLLC. All rights reserved.
 
