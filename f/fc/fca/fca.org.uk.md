@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121210555id_/https%3A//www.fca.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609003751id_/https%3A//www.fca.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy | FCA
 
@@ -31,6 +31,17 @@ Used to throttle request rate.​​
   
 For further details on Google Analytics cookies, including those not used by fca.org.uk, visit [cookies set by Google Analytics](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html).
 
+### Siteimprove analytics
+
+Cookie name | What is it  
+---|---  
+nmstat | Used to distinguish users.  
+​Expires: 1000 days.  
+siteimproveses | 
+
+Used to identify order of pages a visitor looks at during a visit.​​  
+Expires: maximum time allowed by browser.  
+  
 ### Search cookies
 
 Used by the search engine (Funnelback) to allow you to save results to a shortlist for later viewing.
@@ -44,7 +55,7 @@ Expires: maximum time allowed by browser.
   
 ### Content management cookies
 
-Our site use Drupal  cookies to display and remember content based on selections you have already made.
+Our site uses Drupal cookies to display and remember content based on selections you have already made.
 
 #### Drupal
 
