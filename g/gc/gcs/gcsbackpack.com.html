@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gcsbackpack.com privacy policy that was archived on 2016-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107030030id_/http%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gcsbackpack.com privacy policy that was archived on 2017-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170608072125id_/http%3A//www.greenville.k12.sc.us/Departments/main.asp%3Ftitleid%3Detsprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -33,11 +33,26 @@ Visit http://www.dynamicdrive.com/ for this script and 100s more.
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
 <script>if (!window.jQuery) { document.write('<script src="/js/jquery-1.7.2.min"><\/script>'); }
 </script><script src="/js/jquery-1.7.2.min"></script>
-<link href="/css/lightbox2.css" rel="stylesheet"> 
+<link href="/css/lightbox2.css" rel="stylesheet">
+<script type="text/javascript">
+$(document).ready(function(){
+    $("select").change(function(){
+        $(this).find("option:selected").each(function(){
+            var optionValue = $(this).attr("value");
+            if(optionValue){
+                $(".box").not("." + optionValue).hide();
+                $("." + optionValue).show();
+            } else{
+                $(".box").hide();
+            }
+        });
+    }).change();
+});
+</script> 
 <meta name="keywords" content="Privacy Policy">
 <title>Privacy Policy</title>
 <meta name="viewport" content="width=device-width">
-<link href="/css/main160827.css" rel="stylesheet" type="text/css">
+<link href="/css/main161130.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/css/font-awesome-4.6.3/css/font-awesome.min.css">
 <!--[if lt IE 9]>
     <link rel="stylesheet" type="text/css" href="/css/ltie9.css">
@@ -120,7 +135,7 @@ breadcrumbs();
 <li class="title"><h5>Services</h5></li>
 <li><a href="/Parents/main.asp?titleid=counseling">Counseling Services</a></li>
 <li><a href="https://public.greenville.k12.sc.us/" target="_blank">Find My School</a></li>
-<li><a href="/Parents/main.asp?titleid=forms">Forms</a></li>
+<li><span class="fa fa-download" aria-hidden="true"></span> <a href="/Parents/main.asp?titleid=forms">Forms</a></li>
 <li><a href="/Parents/main.asp?titleid=health">Health Services</a></li>
 <li><a href="/Parents/main.asp?titleid=counselhb">Homebound</a></li>
 <li><a href="/Parents/main.asp?titleid=counselhs">Home School</a></li>
@@ -132,23 +147,28 @@ breadcrumbs();
 </div>
 <div class="col2">
 <ul>
+<li><span class="fa fa-sun-o" aria-hidden="true"></span> <a href="/Parents/main.asp?titleid=eclipse">Eclipse Information and Events</a></li>
+</ul>
+<ul>
 <li class="title"><h5>Academics</h5></li>
 <li><a href="/Parents/main.asp?titleid=academics">Academics/Curriculum</a></li>
-<li><a href="/Parents/main.asp?titleid=graduation">Graduation</a></li>
+<li><span class="fa fa-graduation-cap" aria-hidden="true"></span> <a href="/Parents/main.asp?titleid=graduation">Graduation</a></li>
+<li><a href="/Parents/main.asp?titleid=gradschedule">Graduation Schedules</a></li>
 <li><a href="/Parents/main.asp?titleid=magnet">Magnet Academies</a></li>
 <li><a href="/Parents/main.asp?titleid=enrollment">Register for School</a></li>
 <li><a href="/Parents/main.asp?titleid=collegeschol">Scholarships/Financial Aid</a></li>
 <li><a href="/Schools/">Schools</a></li>
 <li><a href="/Schools/main.asp?titleid=choice">School Choice</a></li>
+<li><a href="/News/main.asp?titleid=1702choice">School Choice - Lottery Results</a></li>
 <li><a href="/Parents/main.asp?titleid=hours">School Hours/Schedules</a></li>
 <li><a href="/Parents/main.asp?titleid=catalogs">School Master Catalogs</a></li>
 <li><a href="/Parents/main.asp?titleid=summer">Summer Programs</a></li>
-<li><a href="/Parents/main.asp?titleid=sped">Special Education</a></li>
 </ul>
 </div>
 <div class="col2">
 <ul>
 <li class="title"><h5>Resources</h5></li>
+<li><a href="/Parents/main.asp?titleid=sped">Special Education</a></li>
 <li><a href="/Parents/main.asp?titleid=faq">FAQs</a></li>
 <li><a href="https://greenvilleathletics.planeths.com/" target="_blank">Athletics</a></li>
 <li><a href="/Parents/main.asp?titleid=calendar">Calendars</a></li>
@@ -200,11 +220,12 @@ breadcrumbs();
 <li><a href="/Employees/main.asp?titleid=subs">Substitutes</a></li>
 </ul>
 <ul>
+<li class="title">
 <h5>Teachers</h5>
-
+</li>
 <li><a href="/Employees/main.asp?titleid=teachers">Teacher Resources</a></li>
 <li><a href="/Employees/main.asp?titleid=teacherforum">Teacher Forum</a></li>
-<li><a href="/Employees/main.asp?titleid=googleapps">Google Sites Tutorials</a></li>
+<li><a href="/Employees/main.asp?titleid=googlesites">Google Sites Tutorials</a></li>
 </ul>
 </div>
 <div class="col2">
@@ -221,9 +242,10 @@ breadcrumbs();
 <h5>Professional Development</h5>
 </li>
 <li><a href="/Employees/main.asp?titleid=pdhome">Professional Development</a></li>
-<li><a href="/Employees/main.asp?titleid=pdcalendar">Professional Development Calendar</a></li>
 <li><a href="/it/" target="_blank">Instructional Technology</a></li>
 <li><a href="http://gcssi.com" target="_blank">Summer Institute</a></li>
+<li>&nbsp;</li>
+<li><a href="https://infoweb.greenville.k12.sc.us" target="_blank">Infoweb (only available within network)</a></li>
 </ul>
 </div>
 </div>
@@ -238,8 +260,7 @@ breadcrumbs();
        <li class="title"><a href="/Departments/main.asp?titleid=academics">Academics</a></li>
        <li class="title"><a href="/Departments/main.asp?titleid=adminmain">Administration</a></li>
        <li class="title"><a target="_blank" href="https://greenvilleathletics.planeths.com/">Athletics</a></li>
-       <li class="title"><a href="/Departments/main.asp?titleid=commain">Communications</a></li>
-      <li class="title"><a href="/Departments/main.asp?titleid=adm_hanna">Community Collaboration and Institutional Advancement</a></li>
+       <li class="title"><a href="/Departments/main.asp?titleid=commain">Strategic Communications and Engagement</a></li>
      </ul>
     </div>
 	<div class="col2">
@@ -277,6 +298,7 @@ breadcrumbs();
             <li><a href="/Employment/main.asp?titleid=hr_posted">Posted Positions</a></li>
             <li><a href="/Employment/main.asp?titleid=hrstaff">HR Staff</a></li>
             <li><a href="/Employment/main.asp?titleid=hrforms">HR Forms</a></li>
+             <li><a href="/Departments/main.asp?titleid=hr_recruit">Recruitment Information</a></li>
 	  </ul>
 	</div>
         <div class="col2">
@@ -310,12 +332,12 @@ breadcrumbs();
 </div><!--end mobilelogo div-->
 <div id="topad" role="banner">
 
-<img src="/Parents/images/front/p3.jpg" alt="Questions? Contact Infoline">
+<img src="/Parents/images/front/channel.jpg" alt="The Schools Channel Now Available on AT&amp;T U-verse">
 
 </div>
 <div id="deepcontent" role="main">
-	<div class="mainright" role="navigation">
-<div class="pagelinks">
+	<div style="clear:none;" class="mainright" role="navigation">
+<div style="clear:none;" class="pagelinks">
 <ul>
 <li><a href="main.asp?titleid=etshome">ETS Home</a></li>
 <li><a href="main.asp?titleid=etsstaff">ETS Staff</a></li>
@@ -384,12 +406,12 @@ breadcrumbs();
 <a class="toggleopacity" href="http://www.instagram.com/gcschools" target="_blank" onclick="return warning(this)"><img src="/images/instagram2.png" alt="Visit our Instagram"></a> 
 <a class="toggleopacity" href="https://www.facebook.com/gcschools" target="_blank" onclick="return warning(this)"><img src="/images/facebook.png" alt="Like Us on Facebook"></a> 
 <a class="toggleopacity" href="https://www.twitter.com/gcschools" target="_blank" onclick="return warning(this)"><img src="/images/twitter.png" alt="Follow Us on Twitter"></a> 
-<a class="toggleopacity" href="https://www.youtube.com/user/GCSVideoProduction" target="_blank" onclick="return warning(this)"><img src="/images/youtube.png" alt="Visit Our YouTube Channel"></a> 
+<a class="toggleopacity" href="https://www.youtube.com/user/GCSVideoProduction/videos" target="_blank" onclick="return warning(this)"><img src="/images/youtube.png" alt="Visit Our YouTube Channel"></a> 
 </div>
    <div style="clear:both;"></div>
 	<div id="footer" role="contentinfo">
  	<span role="navigation"><a href="/">Home</a> | <a href="/Departments/main.asp?titleid=deptshome">Departments</a> | <a href="/News/">News</a> | <a href="/Schools/">Schools</a> | <a href="/Parents/main.asp?titleid=parentshome">Parents</a> | <a href="/Employees/main.asp?titleid=employeehome">Employees</a></span>
-<p><strong>Copyright © 2016</strong><br> <a href="/">Greenville County Schools</a><br> <a href="/Parents/main.asp?titleid=contact">Contact Us</a> | <a href="/rss.asp" target="_blank">RSS</a> | <a href="mailto:webmaster@greenville.k12.sc.us">Technology Department</a> | <a href="/Parents/main.asp?titleid=accommodation">Request Accommodation</a><br> <a href="/Departments/main.asp?titleid=etscopyright">Copyright Policy</a> | <a href="/Departments/main.asp?titleid=etsprivacy">Privacy Policy</a> | <a href="/Departments/main.asp?titleid=etsaup">Acceptable Use</a><br><strong>To Report Suspected Fraud Call 864-355-2789</strong></p>
+<p><strong>Copyright © 2016-17</strong><br> <a href="/">Greenville County Schools</a><br> <a href="/Parents/main.asp?titleid=contact">Contact Us</a> | <a href="/rss.asp" target="_blank">RSS</a> | <a href="mailto:webmaster@greenville.k12.sc.us">Technology Department</a> | <a href="/Parents/main.asp?titleid=accommodation">Request Accommodation</a><br> <a href="/Departments/main.asp?titleid=etscopyright">Copyright Policy</a> | <a href="/Departments/main.asp?titleid=etsprivacy">Privacy Policy</a> | <a href="/Departments/main.asp?titleid=etsaup">Acceptable Use</a><br><strong>To Report Suspected Fraud Call 864-355-2789</strong></p>
     </div><!--end footer div-->
 </div><!--end rightcol div-->
 <div id="leftcol">
@@ -406,9 +428,8 @@ breadcrumbs();
 <li><a href="/Departments/main.asp?titleid=deptshome">All Departments</a></li>
 <li><a href="/Departments/main.asp?titleid=academics">Academics</a></li>
 <li><a href="/Departments/main.asp?titleid=adminmain">Administration</a></li>
-<li><a href="https://www.greenvillecountyathletics.com/" target="_blank">Athletics</a></li>
-<li><a href="/Departments/main.asp?titleid=commain">Communications</a></li>
-<li><a href="/Departments/main.asp?titleid=adm_hanna">Community Collaboration and<br>&nbsp;&nbsp;&nbsp;Institutional Advancement</a></li>
+<li><a href="https://greenvilleathletics.planeths.com/index.php?keyword=school%20home&amp;schoolID=2086" target="_blank">Athletics</a></li>
+<li><a href="/Departments/main.asp?titleid=commain">Strategic Communications &amp;<br>&nbsp;&nbsp;&nbsp; Engagement</a></li>
 <li><a href="/Departments/main.asp?titleid=etshome">Ed Technology Services (ETS)</a></li>
 <li><a href="/Departments/main.asp?titleid=em">Energy Management</a></li>
 <li><a href="/Departments/main.asp?titleid=finance">Finance</a></li>
@@ -447,6 +468,7 @@ breadcrumbs();
 <li><a href="/Schools/elem.asp">Elementary Schools</a></li>
 <li><a href="/Schools/middle.asp">Middle Schools</a></li>
 <li><a href="/Schools/high.asp">High Schools</a></li>
+<li><a href="/Schools/special.asp">Career Centers</a></li>
 <li><a href="/Schools/main.asp?titleid=ib">International Baccalaureate</a></li>
 <li><a href="/Schools/main.asp?titleid=newtech">New Tech Schools</a></li>
 <li><a href="/Schools/main.asp?titleid=nontrad">Non-traditional</a></li>
@@ -510,7 +532,7 @@ breadcrumbs();
 <a class="toggleopacity" href="http://www.instagram.com/gcschools" target="_blank" onclick="return warning(this)"><img src="/images/instagram2.png" alt="Visit our Instagram"></a> 
 <a class="toggleopacity" href="https://www.facebook.com/gcschools" target="_blank" onclick="return warning(this)"><img src="/images/facebook.png" alt="Like Us on Facebook"></a> 
 <a class="toggleopacity" href="https://www.twitter.com/gcschools" target="_blank" onclick="return warning(this)"><img src="/images/twitter.png" alt="Follow Us on Twitter"></a> 
-<a class="toggleopacity" href="https://www.youtube.com/user/GCSVideoProduction" target="_blank" onclick="return warning(this)"><img src="/images/youtube.png" alt="Visit Our YouTube Channel"></a> 
+<a class="toggleopacity" href="https://www.youtube.com/user/GCSVideoProduction/videos" target="_blank" onclick="return warning(this)"><img src="/images/youtube.png" alt="Visit Our YouTube Channel"></a> 
 <a class="toggleopacity" target="_blank" href="https://greenville.eschoolsolutions.com/logOnInitAction.do"><img src="/images/sub.png" alt="SmartFindExpress Substitute Management System"></a>
 </div>
 </div><!--end leftcol-->
