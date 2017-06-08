@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222204846id_/http%3A//mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrrebates.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608224447id_/http%3A//www.mrrebates.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Mr. Rebates
 
@@ -6,7 +6,7 @@
 
 Only a user's email address and postal address is collected when users provide registration to Mr. Rebates.
 
-Mr. Rebates has an "opt-in" email newsletter that contains coupons and specials from the Mr. Rebates merchant base that may be of interest to you. All Mr. Rebates email newsletters can be opted out of by simply clicking on a link within each email to remove your email address from the list.
+By registering with Mr. Rebates, you will be automatically subscribed to the Mr. Rebates' email newsletter that contains coupons and specials from the Mr. Rebates merchant base that may be of interest to you. All Mr. Rebates email newsletters can be opted out of by simply clicking on a link within each email to remove your email address from the list.
 
 Email addresses and postal address information are not shared or sold to third-party marketers or third-party agencies.
 
