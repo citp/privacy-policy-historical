@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624025932id_/http%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608174553id_/https%3A//maximizesocialbusiness.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Last updated on: April 19, 2015 By 
+# Privacy Policy -
 
 ### **PRIVACY POLICY STATEMENT**
 
@@ -78,4 +76,6 @@ If you have any questions about this privacy policy or Windmills Marketing’s t
 
 
 
-FIRST PUBLISHED ON July 16, 2010
+Did you find apk for android? You can find new [Free Android Games](https://dlandroid24.com/) and apps.
+
+PUBLISHED ON July 16, 2010, LAST REVISED ON April 19, 2015
