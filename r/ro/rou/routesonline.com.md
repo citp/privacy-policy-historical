@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045151id_/http%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routesonline.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608124957id_/http%3A//www.routesonline.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: Routesonline
 
-### 1 For the purpose of the Data Protection Act 1998 (the Act), the data controller is The Route Development Group Limited of113-115 Portland Street, Manchester, M1 6DW, United Kingdom. 
-
-2 Our nominated representative for the purpose of the Act is Rosalind Callander.
+### 1 For the purpose of the Data Protection Act 1998 (the Act), the data controller is UBM EMEA, 240 Blackfriars Road, London SE1 8NW. 
 
 3 Information we may collect from you
 
