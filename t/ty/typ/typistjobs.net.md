@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123223923id_/http%3A//www.cash4offers.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typistjobs.net privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608052735id_/http%3A//www.cash4offers.com/pages/privacy) for the most accurate reproduction.*
 
 # Cash4Offers® - Make Money Online for Reading Paid Email, Taking Surveys and More!
 
