@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyrecruitment.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121024723id_/http%3A//www.dailyrecruitment.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyrecruitment.in privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608123150id_/http%3A//www.dailyrecruitment.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
