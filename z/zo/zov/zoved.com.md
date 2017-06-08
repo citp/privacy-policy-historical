@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoved.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110062439id_/http%3A//zoved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoved.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608172230id_/http%3A//zoved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Zoved.com
 
