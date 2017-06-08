@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206233225id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgorilla.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608053331id_/http%3A//www.airgorilla.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # AirGorilla Privacy Policy
 
@@ -63,15 +63,6 @@ As a customer of AirGorilla we may be sending you an introductory email newslett
 
 On various pages of this site, we display third-party ads from Google, Yahoo, and other sources. If you click on one of these ads, you instantly enter their proprietary servers where you are subject to the third party's own privacy policy. They frequently monitor user behavior in order to figure out what topics of ads you might appreciate to see in the future on further web sites you visit. Therefore they will retain data on your behavior and, by extension, your interests.
 
-### Section 9: Addendum - Travel Ad Network Advertising Cookies
+### Section 9: Compliance to Policy
 
-This site has contracted with Travel Ad Network (publisher@traveladnetwork.com) and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Network's privacy policy at the first of two links below. Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness. You may opt out of accepting cookies at any time by clicking these links:
-
-To opt out of travelad.net, go to   
-http://www.traveladnetwork.com/content/view/56/79/  
-To opt out of Atlas (Microsoft Advertising), go to   
-http://www.atlassolutions.com/optout.aspx
-
-### Section 10: Compliance to Policy
-
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 619 435-2147 or[](http://www.airgorilla.com/agemail.html)for email. 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at [](http://www.airgorilla.com/agemail.html)for email. 
