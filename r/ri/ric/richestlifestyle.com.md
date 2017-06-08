@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the richestlifestyle.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120193636id_/http%3A//www.richestlifestyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richestlifestyle.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608132057id_/http%3A//richestlifestyle.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Celebrity Net Worth and Lifestyle | Entertainment and Sports Rich List
+# Privacy Policy | Celebrity Net Worth and Lifestyle | Entertainment and Sports Rich List
 
 Our Privacy Policy was last updated and posted on 19 January 2015. It governs the privacy terms of our Website, located at http://www.richestlifestyle.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
