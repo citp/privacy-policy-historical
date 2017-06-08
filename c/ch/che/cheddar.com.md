@@ -1,100 +1,113 @@
-> *The following text is extracted and transformed from the cheddar.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheddar.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608103544id_/http%3A//www.cheddar.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Cheddar
 
-**Go Daddy Respects Your Privacy**
+## Overview
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This is the Privacy Policy of VHX Corporation (“ **VHX** ,” “ **we** ”, or “ **us** ”). VHX provides an online video service (the “ **VHX Service** ” or “ **our service** ”) that allows video content owners and licensors (each a “ **Producer** ”) to offer their video programs (each a “ **Program** ”) for sale to consumers via Producer websites and applications (each a “ **Producer Site** ” or “ **Producer App** ,” respectively) that VHX powers.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Consumers** : In order to purchase a Program (including through a subscription), a consumer (“ **you** ”) must create an account with (i) VHX; and (ii) the Producer offering the Program. By creating an account an account with a Producer, you agree to provide your information (as described more fully in **Section 2** ) to the Producer as well as VHX. By using the VHX Service, you consent to the collection, use, and disclosure of your information as set forth in this Privacy Policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+## Account Security
 
-**Information Collection and Use**
+You are solely responsible for (i) maintaining the security of your account(s) and (ii) all activity that occurs under your account(s). You must notify us immediately if you suspect any unauthorized access to or use of your account(s). If you forget your account login information, you may request that we send it to the email address associated with your account(s).
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+## Information that We Collect
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+VHX, and vendors acting on VHX’s behalf, may collect information from and about you as follows:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Account-related Information** : To create an account, you must provide certain information, including your email address and a password. We may allow you to submit additional information including an avatar. You may provide other information about yourself in connection with surveys, contests, special offers, customer support inquiries, and other communications with us.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**Program Usage Information** : We collect information about your use of the VHX Service, including your accessing, viewing, and downloading of Programs.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Payment Information** : If you purchase a Program or a subscription to a Program channel (each such transaction, a “ **Purchase** ”), you must provide valid payment card information. This information is collected directly by our payment vendors and is not received or stored by VHX or any Producer.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Information Collected Automatically** : We collect information about your use of our websites and applications. This may include your activities, your IP address, your browser type, your Internet service provider (ISP), referring/exit pages, your operating system or device type, date/time stamps, and related metadata.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Producer Information** : If you create a Producer account, (i) you may need to provide certain tax and financial information in order to receive payments and/or make payments; and (ii) you agree that your Program Sites and Program Apps will be publicly available and that the Programs you sell will be available for purchase by consumers.
 
-**Security**
+## Third Party Data Collection
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Third Party Platforms** : When you use an application that runs on a third party platform (e.g., iOS, Roku, etc.), the provider of that third party platform may collect information about you and your use of our application.
 
-**Updating Your Information**
+**Analytics and Advertising** : We may use third party analytics services to collect data about usage of our services. We may allow third party advertising companies (including advertising agencies, networks, and delivery vendors) to collect data regarding advertisements that they may place on our websites. Third party analytics providers and advertising companies may use cookies to track your activities. Some advertising companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers a single location to opt out of ad targeting from member companies.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## How We Use Your Information
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+VHX may use the information that we collect about you to:
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+  * Fulfill your orders and deliver Programs and other services to you;
+  * Provide customer support to you;
+  * Analyze how our services are being used;
+  * Communicate with you;
+  * Verify your eligibility to make purchases and participate in offers;
+  * Collect any debts, prevent fraud, and otherwise protect the integrity of our systems;
+  * Enforce our legal rights;
+  * Perform any functions described at the time of collection; and
+  * Otherwise operate our business.
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+## Disclosures to Third Parties
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+VHX may disclose information about you as follows:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Authorized Service Providers** : We may disclose your information to service providers involved in operating our business. This includes payment providers, email service providers, content delivery networks, cloud storage providers, analytics companies, and professionals such as accountants and lawyers.
 
-**Compliance with Laws and Law Enforcement**
+**Legal Situations** : We may disclose your information when we believe in good faith that (i) disclosure is required by a search warrant, subpoena (whether criminal or civil), civil investigative demand, court order, or a request for cooperation from a law enforcement or other government agency; (ii) disclosure is appropriate and necessary to report a suspected crime (including any case of suspected child exploitation) or prevent physical harm to an individual or property; (iii) disclosure is appropriate and necessary to enforce our rights; and (iv) disclosure is required by law. Nothing in this Privacy Policy shall be deemed to create any third party right, and we reserve the right to object to any third party requests for information in appropriate circumstances.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Affiliates and Corporate Transactions** : We may disclose your information to our parent companies in connection with operating our business. In the event VHX or its parent companies are involved in a business transition that involves the sale, merger, or divestment of VHX or its parent companies, we may disclose any information about you to the acquiring entities. The transferred information will remain subject to the provisions of this Privacy Policy, as updated.
 
-**Third Party Service Providers**
+**To the Public** : We may publicly disclose aggregated user statistics and other information. If you create a Producer account and sell a Program, VHX may publicly disclose the fact that you are a content seller that uses the VHX Service.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Emails
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+When you create an account, you may receive certain emails:
 
-**Supplementation of Information**
+**Transaction emails** : When you first register with VHX, we may send you a welcome email that provides information about the VHX Service and your account. If you make a Purchase, we may send you an email confirming your Purchase. We may also, from time to time, send you other emails concerning your account status. You may not opt-out of receiving transactional emails.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Newsletters** : We may send you newsletters and other emails about new or upcoming VHX products, services, or offers. If you decide you no longer wish to receive these emails, you may opt-out as instructed in each email or in your [account settings](https://web.archive.org/account).
 
-**Contests/Surveys**
+  * Producers may, via the VHX Service, send emails concerning the availability of new Programs in a subscription that you have purchased. If you decide you no longer wish to receive these emails, you may opt-out as instructed in each email or in your [account settings](https://web.archive.org/account).
+  * Some Producers may email you directly (i.e., through non-VHX systems). VHX does not control these emails and opting out of VHX-sent emails will not cause an opt-out with respect to these emails. To opt out of emails sent directly by Producers, please follow the opt-out instructions set forth in the Producers’ emails.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+## Security Measures
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We use security measures to protect the loss, misuse, and unauthorized alteration of the information under our control. Please be advised, however, that we cannot guarantee that our security measures will prevent disruptions or unauthorized access from occurring.
 
-**What Happens to my Personal Information if I Opt Out?**
+## Your Privacy Choices
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+You may choose not to provide us with certain information. If you fail to provide us with certain information, you might not be able to use certain services that we offer.
 
-**Transfer of Data Abroad**
+You may change your account information or close your account(s) at any time by logging into your account and selecting [account settings](https://web.archive.org/account). If you close an account, you may lose access to Programs that you have purchased. We may preserve your account information (i) for a period of time in case of accidental deletion or in case you change your mind; and (ii) where we believe in good faith that preservation is required by law or necessary to enforce our rights.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+## Using our Services from Outside of the United States
 
-**Changes in Our Practices**
+This Privacy Policy is intended to cover collection of information on or via our service from residents of the United States. If you are using our services from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data privacy and protection laws of the United States might not be as comprehensive as those in your country. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+## Children's Privacy
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+**Consumers** : In order to create a consumer account with VHX or any Producer, an individual must be at least 13 years of age. Children older than 13 but younger than 18 must have the consent of the child’s parent or guardian to use the VHX Service.
 
-**Contacting Our Site**
+**Producers** : In order to create a Producer account, an individual must be at least 18 years old or the age of majority in their jurisdiction, whichever is greater.
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+## Third Party Services
 
-* * *
+We or a Producer may provide links to third party websites and applications. We have no control over such services and therefore refer you to their privacy policies for information on their respective privacy practices.
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+## Updates
+
+We may update this Privacy Policy from time to time by posting an updated Privacy Policy on the VHX website. Your continued use of our services constitutes your agreement to the updated Privacy Policy on a prospective basis.
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Cheddar, Inc  
+1 State Street, 25th Floor  
+New York, New York 10004  
+Attn: Legal Dept. – Privacy Officer
+
+[support@cheddar.com](mailto:support@cheddar.com)
