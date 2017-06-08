@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013210644id_/http%3A//ahm.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608203249id_/https%3A//ahm.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ahm Health Insurance
+# Privacy Policy - ahm health insurance
 
 #### Who are we?
 
@@ -131,7 +131,7 @@ You can choose how we communicate with you and manage your consents to receiving
 
 Medibank: Access the Manage My Preferences page within the Medibank Online Member Services facility, call us on [132 331](tel:132331) or [134 190](tel:134190) or visit one of our stores.
 
-ahm: Access the Settings page within the ahm Online Member Services facility, call us on[134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am – 6:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
+ahm: Access the Settings page within the ahm Online Member Services facility, call us on [134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am – 6:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
 
 #### How is your information managed when you receive health-related services from us?
 
@@ -164,7 +164,7 @@ You may withdraw your consent to the sharing of your sensitive information betwe
 
 Medibank: Access the Manage My Preferences page within the Medibank Online Member Services facility, call us on [132 331](tel:132331) or [134 190](tel:134190) or visit one of our stores.
 
-ahm: Access the Settings page within the ahm Online Member Services facility, call us on[134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am – 8:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
+ahm: Access the Settings page within the ahm Online Member Services facility, call us on [134 246](tel:134246) or [(+61) 2 4221 8888](tel:+61242218888) Monday to Friday: 8:00am – 8:00pm or email us at [info@ahm.com.au](mailto:info@ahm.com.au)
 
 For further information about how your personal information is handled for these health-related services, please refer to Medibank Health Solutions Privacy Policy on the website at [www.medibankhealth.com.au](https://www.medibankhealth.com.au/)
 
@@ -200,7 +200,7 @@ If we have not responded to you within a reasonable time or if your complaint is
 
 Medibank: Privacy Officer, Medibank Private Limited, 16/700 Collins Street, Docklands, VIC 3008 or e-mail [privacy@medibank.com.au](mailto:privacy@medibank.com.au)
 
-Australian Health Management Group: Privacy Officer, Australian Health Management Group Pty Ltd, Locked Bag 1006, Matraville NSW 2036 or e-mail [privacy@ahm.com.au](mailto:privacy@ahm.com.au)
+Australian Health Management Group: Privacy Officer, ahm health insurance, Locked Bag 4, Wetherill Park NSW 2164 or e-mail [privacy@ahm.com.au](mailto:privacy@ahm.com.au)
 
 #### Further information
 
@@ -208,13 +208,13 @@ Further information about the application of the Privacy Act can be found at the
 
 #### Changes to our Privacy Policy
 
-This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](https://www.medibank.com.au/)or [www.ahm.com.au](http://www.ahm.com.au/)
+This privacy policy was last reviewed in March 2014. As this privacy policy is updated from time to time, to obtain a copy of the latest version at any time, you should visit our website at [www.medibank.com.au](https://www.medibank.com.au/) or [www.ahm.com.au](http://www.ahm.com.au/)
 
 #### Countries to which personal information may be disclosed
 
 Listed below are the countries to which we may disclose personal information in the course of our functions and activities. This list does not include countries where you may have specifically instructed us to send your information or expressly consented to us sending your information.
 
-Please see the Do we disclose your personal information overseas?section for information on the steps we take to ensure the adequate protection and appropriate management of this information.
+Please see the Do we disclose your personal information overseas? section for information on the steps we take to ensure the adequate protection and appropriate management of this information.
 
   * India
   * New Zealand
