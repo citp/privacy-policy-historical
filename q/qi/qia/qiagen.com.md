@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qiagen.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202163659id_/https%3A//www.qiagen.com/trademarks-and-disclaimers/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qiagen.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608161809id_/https%3A//www.qiagen.com/us/trademarks-and-disclaimers/privacy-policy) for the most accurate reproduction.*
 
 # QIAGEN - Privacy Policy
 
@@ -26,9 +26,9 @@ QIAGEN does not rent or sell personal information about you to any other company
 
 **Cookies**
 
-We set and access QIAGEN cookies on your computer. These cookies save information about your country (so that you don't have to choose it every time you come to our site) and language (if applicable) and allow us to see which pages you viewed on our site. We may also use this information to display relevant offers and advertising on our website and on third-party websites. We may outsource this service to companies such as for example Google. We do not store any personal information about you in our cookies. You may choose not to allow third- party cookies on your computer by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). If you do not know what cookies are, or how to control or delete them, then we recommend you visit [www.aboutcookies.org ](http://www.aboutcookies.org/)for detailed guidance.
+We set and access QIAGEN cookies on your computer. These cookies save information about your country (so that you don't have to choose it every time you come to our site) and language (if applicable) and allow us to see which pages you viewed on our site. We may also use this information to display relevant offers and advertising on our website and on third-party websites. We may outsource this service to companies such as for example Google. We do not store any personal information about you in our cookies. 
 
-The list below describes the cookies we use on this site and what we use them for. Currently we operate an "implied consent" policy which means that we assume you are happy with this usage. If you are not happy, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+The list below describes the cookies we use on this site and what we use them for. 
 
 **First-Party Cookies**
 
@@ -38,21 +38,37 @@ These are cookies that are set by this website directly.
 
 **Third-Party Cookies**
 
-These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site that allow visitors to share content onto social networks. Cookies are currently set by LinkedIn, Twitter, Facebook and Google+. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website.
+These are cookies set on your machine by external websites whose services are used on this site. Cookies of this type are the sharing buttons across the site that allow visitors to share content onto social networks. Cookies are currently set by LinkedIn, Twitter, Facebook and Google+. In order to implement these buttons, and connect them to the relevant social networks and external sites, there are scripts from domains outside of our website. You should be aware that these sites are likely to be collecting information about what you are doing all around the internet, including on this website. You can deactivate set cookies here: [Twitter](https://support.twitter.com/articles/20170405) [Facebook](https://www.facebook.com/settings/?tab=ads).
 
 You should check the respective policies of each of these sites to see how exactly they use your information and to find out how to opt out, or delete, such information. 
 
-**Changing Information and Unregistering**
+**Implied Consent Policy  
+**  
+Currently we operate an "implied consent" policy which means that we assume you agree to this usage. If you do not agree, then you should either not use this site, or you should delete the cookies having visited the site, or you should browse the site using your browser’s anonymous usage setting (called “Incognito” in Chrome, "InPrivate" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
 
+**Managing Cookies** You may choose not to allow third- party cookies on your computer by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Please see the list below for a summary on how to manage your cookie settings.
+
+**Chrome** : Cookie settings in Chrome are managed under Cookies within the Privacy section. You can delete specific cookies or clear all cookies and choose to allow or block cookies. Go to [Clear, enable and manage cookies in Chrome](https://support.google.com/chrome/answer/95647?hl=en) for more information on these settings.
+
+**Internet Explorer** : Cookie settings in Internet Explorer are managed by going to the Internet Options on the Tools menu, and then clicking the Privacy tab. The Privacy settings slider has six settings: Block All Cookies, High, Medium High, Medium (default level), Low, and Accept All Cookies. Visit [How to Manage Cookies](https://support.microsoft.com/en-us/kb/196955) for more information on these settings.
+
+**Firefox** : Cookie settings in Firefox are managed in the Options window's Privacy panel. You can change your Firefox settings to allow you to approve or deny cookie storage requests, delete stored cookies automatically when you close Firefox, etc. See [Settings for privacy, browsing history and do-not-track](https://support.mozilla.org/en-US/kb/settings-privacy-browsing-history-do-not-track) for more information on these settings.
+
+If you would like more information about cookies, or how to control or delete them, then we recommend you visit [www.aboutcookies.org ](http://www.aboutcookies.org/)for detailed guidance.  
+  
+**Changing Information and Unregistering  
+**  
 By filling in our subscription form (e.g. on the web), you agree that we may use your personal data for marketing and market research.
 
 If you have registered online with us you can edit your account information at any time by visiting our "My Account" page. You can also delete your account at any time by using the link you received in the e-mail you were sent after registering. As a security measure we may keep your data in our archived records for a short period of time after you unregistered. 
 
-You may [update your personal](https://web.archive.org/user%20account/_edit%20contact%20data/) data or [withdraw permission to use your personal data](https://web.archive.org/trademarks-and-disclaimers/privacy-policy/withdraw-permission-personal-data/) at any time. 
+You may [update your personal](https://web.archive.org/us/user%20account/_edit%20contact%20data/) data or [withdraw permission to use your personal data](https://web.archive.org/us/trademarks-and-disclaimers/privacy-policy/withdraw-permission-personal-data/) at any time. 
 
 **Email/mail**
 
-In every e-mail/mail (e.g., newsletter, promotional offers, etc.) you will receive, we will give you the opportunity to unsubscribe in order to stop receiving subsequent emails/mails. Any email/mail for direct marketing and for market research will be subject to our [Direct Marketing and Market Research Policy](https://web.archive.org/trademarks-and-disclaimers/direct-marketing-and-market-research-policy/).
+In every e-mail/mail (e.g., newsletter, promotional offers, etc.) you will receive, we will give you the opportunity to unsubscribe in order to stop receiving subsequent emails/mails. Any email/mail for direct marketing and for market research will be subject to our [Direct Marketing and Market Research Policy](https://web.archive.org/us/trademarks-and-disclaimers/direct-marketing-and-market-research-policy/).
 
 **Changes to this Privacy Policy**
 
