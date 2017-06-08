@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the music44.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217094132id_/http%3A//www.music44.com/X/product/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music44.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608220330id_/http%3A//www.music44.com/X/product/PRIVACY) for the most accurate reproduction.*
 
 # Your Privacy at Music44.com : Product Code PRIVACY
 
