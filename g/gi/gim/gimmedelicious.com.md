@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gimmedelicious.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223225358id_/http%3A//gimmedelicious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gimmedelicious.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608170656id_/http%3A//gimmedelicious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gimme Delicious
 
@@ -21,6 +21,3 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 #### Information Collected by Google AdSense
 
 Google, as a third party vendor, uses cookies to serve ads on this website. The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Google’s use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google Privacy Policy").
-
-  
-
