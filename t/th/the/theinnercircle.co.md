@@ -1,100 +1,179 @@
-> *The following text is extracted and transformed from the theinnercircle.co privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326074242id_/https%3A//www.theinnercircle.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinnercircle.co privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608185718id_/https%3A//www.theinnercircle.co/privacy) for the most accurate reproduction.*
 
 # Online dating for young professionals in the big cities
 
-This document sets out the privacy policy of The Inner Circle, the private member club and website ([www.theinnercircle.co](http://www.theinnercircle.co/)) and application, and explains how we use your personal information (meaning any information about you which identifies and is about you, such as your name, address and email). Your privacy is important to us. This policy explains how we collect and use your data, and how you can exercise your rights in relation to this information.
+**Welcome to The Inner Circle**
 
-### What information do we collect about you?
+Your privacy is important to us. We comply with the Dutch Data Protection Act ( _Wet Bescherming Persoonsgegevens_ ), the Dutch Telecommunications Act ( _Telecommunicatiewet_ ) and the European Data Protection Directive 95/46/EC. In this Privacy Policy you can read which Personal Data we process and how we store, protect and use your Personal Data. Furthermore you can read for which purposes we will use your Personal Data and how you can exercise your privacy rights.
 
-We collect information from you when you register for The Inner Circle, when you fill in forms on our site, when you chat, sign up for events and when you use the site. This includes:
+**Personal Data**
 
-### Your The Inner Circle  profile:
+In this Privacy Statement, your “Personal Data” means information or pieces of information that could allow you to be identified.
 
-Your first name will be publicized on The Inner Circle site and this will be the identity by which you are known on the site. Members of The Inner Circle will be able to view information about you (your description of yourself and what you're looking for, basic information about your age, approximate location, height, etc). Although The Inner Circle is an invitation only website you should be careful about the information which you disclose on your profile. Members are able to search other members by first name and other information such as age.
+**Applicability**
 
-### Your email address:
+This privacy policy applies to all your use of the exclusive online dating platform The Inner Circle (available as a mobile app and also accessible via [www.theinnercircle.co](http://www.theinnercircle.co/) and [www.m.theinnercircle.co](http://www.m.theinnercircle.co/)), and all the services that we offer you via this “ **App** ” and this “ **Website** ”.
 
-We will use your email address for contacting you. We will never give your email address to another member of The Inner Circle.
+**Your consent**
 
-### Your password:
+  
+The Inner Circle will not process, collect, use or disclose your Personal Data without your consent. Therefore, we ask you to agree to this Privacy Policy (and our terms & conditions) before you register via our App and Website. Without registering you cannot use the services we offer via our App and Website. 
 
-We strongly encourage you to choose a secure password that is hard to guess. You should never reveal your The Inner Circle password to anyone. If you think your password has been compromised, please change it immediately via the ‘My Account’ page.
+**Are you younger than eighteen years old?**  
+ 
 
-### Your location:
+If you are younger than eighteen years old, you cannot make use of our App and Website.
 
-We ask for your location and area so we can help you find other members of The Inner Circle whom are nearby. We won't show your postcode or detailed location information to other users of The Inner Circle up to 50 metres.
+**Which Personal Data do we process?**
 
-### Your date of birth:
+Before you can use our App and Website, we will ask you to register. In this respect, you will have to provide us with your username and email address, which data we will process. 
 
-We will use your date of birth to calculate the age we show on your profile. We will show on your profile when it is your birthday to all members.
+After registering, you can create your personal Inner Circle account (“Your Account”). In this respect, you are invited to provide us with your first name, pictures of you, a description of yourself, your wishes regarding a partner and basic information about yourself (such as your age, height, place of residence). We will process these data. 
 
-### Your photos:
+You can also choose to create Your Account through Facebook Connect or LinkedIn Connect. By using Facebook Connect or LinkedIn Connect, you allow these platforms to share with us the (personal) data you have shared with said platforms – such as Your Account name, pictures, wall posts and friend information. We will process these data.
 
-On the Inner Circle every member must have a profile picture, this will be displayed to other members who view your profile page or see you on a search results page. Profile pictures may be included in email communications from The Inner Circle with members if The Inner Circle considers you to be a good match. Photo's (taken on events) can also be used for promotional purposes and on external sites. 
+After creating Your Account, you will be put on our waiting list for approval. Only after you are approved as a member of The Inner Circle, Your Account will be visible for other members. While still on our waiting list, we save the Personal Data you have provided us with. If you want to be removed from our waiting list and want us to erase your Personal Data – please send us an email via support@theinnercircle.co . Please note that in case of overdue payments, we will however need to retain your email address for communication purposes.
 
-All photos uploaded will be checked by a member of the The Inner Circle team.
+Furthermore, we will process your IP address, login information, customer service history, time zone settings, browser language and – if you have given us explicit permission – your geolocation. 
 
-### Your (chat) messages:
+In conclusion, please be informed that we take photographs during events which we organize which may include pictures of you. We will process these photographs.
 
-Your safety is important to us, so we screen some messages sent between The Inner Circle members for inappropriate content and as stated in our terms of use we reserve the right to delete inappropriate content. We do store your messages for a certain amount of time.
+**_How do we use your Personal Data?_**
 
-### Your customer service history:
+_We do not sell your Personal Data to third parties_
 
-If you contact us, we may keep a record of that correspondence.
+We will only share your Personal Data with other members, and only to the extent necessary to assess whether another member might be interesting for you –  which will be clarified below.
 
-### Your technical details:
+We will only disclose your Personal Data to third parties if we are legally obliged to do so by a statutory authority with the appropriate jurisdiction.
 
-If you visit our website (on desktop or mobile) or our app we store your IP address, your login information, your browser type and version, time zone settings, your geo-location, your operating system and platform.
+_Data on Your Account:_
 
-### How will we use this information?
+Only if you are approved as a member of The Inner Circle, Your Account will be visible for other members via the App and Website. Your first name will be the identity by which you are known on our dating platform. The description of yourself, your wishes concerning a partner and basic information about yourself (such as age, height, profession) will be accessible via Your Account. Members of The Inner Circle can perform targeted searches on the basis of first name, height, age and other information that members share via their accounts. 
 
-We may use your information when developing improvements to the site. Personally identifiable information may be used for troubleshooting any issues you might have. 
+If you have created Your Account using Facebook Connect or LinkedIn Connect, the data you have shared with these platforms (see above) will also be linked to Your Account. If other members have also used Facebook Connect or LinkedIn Connect, you may see which mutual connections you and other members have. 
 
-We will use your information to provide you with information regarding other products and services linked to The Inner Circle. If you do not want us to use your data in this way, please amend your preferences via the ‘My account’ page at any time.
+We advise you to be careful with sharing information via Your Account with other members. 
 
-### Emails from The Inner Circle
+_Your login information_
 
-We will send you emails to tell you about your membership status and to notify you of new messages and other site activity. We will also send you emails with suggestions of people you might like and events that are organized in your city. From time to time, we will send you marketing emails about The Inner Circle. You can change your email preferences via the ‘My account’ page at any time.
+We will process and store your login information to verify your identity to access Your Account.
 
-### Sharing your information with other third parties
+_Your email address:_
 
-We may in some cases use third parties to assist us in operating the site and to conduct some processing of your information on our behalf but this is always subject to strict contractual control.
+We do not share your email address with third parties, and we will in particular never share your email address with other members of The Inner Circle. 
 
-We may disclose your personal information to third parties if we are legally obliged to do so by a statutory authority with the appropriate jurisdiction, or in order to enforce or apply our terms of use; or to protect the rights, property or safety of The Inner Circle, our customers, The Inner Circle  members, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection.
+We use your email address to:
 
-### Using your image on other websites / for promotional use
+\- keep you informed of your membership status;
 
-Please be aware that we have photographers on our events and your picture can be taken and used for promotional and advertising purposes (on other websites and / or in advertising campaigns). 
+\- notify you of new messages and other activity regarding Your Account;
 
-### Invite friend
+\- point out accounts of other members that might be interesting for you;
 
-If you use the ‘Invite friend' feature to invite someone to The Inner Circle , we will send an email message to the address you submitted to us. We won't share this email address with anyone else. We will tell the recipient that you have asked us to send this message. By choosing to use the ‘Invite friend’ feature you are confirming that your friend is happy to receive the email. You must not use our ‘Invite friend’ feature to send spam.
+\- keep you informed on events which we organize;
 
-### Cookies
+\- contact you with regard to (overdue) payments and other troubleshooting.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users browsing patterns, and does not identify any individual.
+_Your geolocation and residence:_
 
-For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalized service. They enable us: to estimate our audience size and usage pattern; to store information about your preferences for the site, and so allow us to customize our site according to your individual interests. This includes remembering your login details, and your preferences for displaying your 'Edit profile' page; to speed up your searches; to recognize you when you return to our site.
+We will share your current residence to make it insightful to our members whom live or work nearby. We will never share your zip code with other members of The Inner Circle.
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+You can also choose to share your geolocation, which will enable you to see which other members of The Inner Circle are nearby at a particular moment. Your geolocation will be shared with other users that have shared their geolocation. Please note that we never share accurate geolocations with The Inner Circle members – the accuracy is limited to 50 meters.
 
-### Data security
+_Your date of birth:_
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will take all reasonable measures to ensure the security of your data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+We will use your date of birth to calculate your age, which will be shown on Your Account. We will also use your date of birth to show on Your Account when it is your birthday. 
 
-### Who are we?
+_Photographs, pictures you upload_
 
-Our company is registered as : 
+When creating Your Account, it is necessary to upload pictures of yourself and to select an account picture. The pictures that you upload will be displayed to other members. Account pictures may also be included in email messages from The Inner Circle to other members, if The Inner Circle considers you to be a good match with that member. 
+
+Your Account (including picture) might be displayed on the shielded homepage of The Inner Circle. Your Account may also be tagged in pictures that appear in shielded areas on the Website, App, Facebook, Instagram or any other media. Shielded means that the displayed content will only be visible for other members of The Inner Circle. From time to time, we send promotional emails to members featuring selected accounts.
+
+Photographs taken at events organized by us may be used for promotional purposes. In this respect, we will of course consider your privacy. By way of example, we only use such photographs for marketing purposes in other countries than where the event took place. 
+
+_Browser language and IP address_
+
+We use the data about your browser language in order to address you in a language you speak. Your IP address and time zone settings helps us to determine which events that we organize might be interesting for you.
+
+_Your (chat) messages:_
+
+Your (chat) messages are strictly confidential. We only process your (chat) messages in order to give you access to your chat-history.
+
+Please note that we do use filter software that notifies us of (chat) messages with inappropriate content (e.g. offensive or aggressive language, or unlawful use of our platform for advertisements or link-building. Also see the enumeration under the heading “Restrictions on information and content” in our terms and conditions <https://www.theinnercircle.co/tos> . After such notification we reserve the right to erase the inappropriate content.
+
+_Your customer service history:_
+
+If you contact us, we keep a record of your correspondence with our customer service, such in order to optimize our service level towards you.
+
+_Non-Personal Data_
+
+We may also process non-Personal Data whenever you interact with our Website or App. This data may include your browser type and version, the type of your computer and technical information about your means to connect to our Websites (such as your operating system and platform, and the utilized internet service providers). 
+
+_Push notifications  from The Inner Circle_
+
+If you have given us explicit permission, we will send you push notifications via our App to inform you about your membership status and to notify you of new messages and other activity regarding Your Account. We may also send you push notifications with suggestions of people you might like and events that are organized in or nearby your place of residence.
+
+**Third-party service providers**
+
+We may need to share Personal Data with third-party service providers to assist us in operating the Website and/or to conduct some processing of your information on our behalf. 
+
+For payments made via our Websites, we e.g. use third-party services such as Adyen and Paypal. These third parties are contractually obliged not to use said data for any other purpose than to effectuate the payment.
+
+**Generic aggregated (non-personal) data**
+
+We may share generic aggregated data with our business partners, trusted affiliates and advertisers. With generic aggregated data we mean fully and irreversibly anonymized data. 
+
+**Invite friend**
+
+If you use the ‘Invite friend'-feature to invite someone to The Inner Circle, we will send an email message to the email address you submitted to us. We won't share this email address with anyone else. We will tell the recipient that you have asked us to send this message. By choosing to use the ‘Invite friend’-feature you confirm that your friend is happy to receive the email. You also hereby agree to indemnify and hold The Inner Circle harmless from all claims arising out of your messages to any person through The Inner Circle. You must and will not use our ‘Invite friend’-feature to send spam.
+
+**Cookies**
+
+We may use cookies to enhance your experience when you use our Website: they help us to improve our Website and to deliver a better and more personalized service. This includes remembering your login details, speeding up your searches, and recognizing you when you return to our Website. 
+
+A cookie is a small text file, containing a string of characters that can be placed on your device when you visit a website. This text file uniquely identifies your browser or device. When you visit our Website again, the cookie allows our Website to recognize your browser or device. You can change your cookie settings in your browser, if you don’t want cookies to be sent to your device. Please note that some features or services of our Website may not function properly without cookies. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our Website.
+
+We use the following types of cookies on our Website:
+
+_Technical cookies_ : these are cookies that are essential for the operation of our Website, they enable you to move around our Website and use our features.
+
+_Analytical/statistical cookies:_  we use these cookies to track visitor statistics. We use these statistics to continuously improve our Website and mailings, and thus offer you relevant content. These cookies also allow us to recognize and count the number of visitors and to see how visitors navigate when they are using our Website. This helps us to improve user navigation and ensure users to find what they need more easily.
+
+_Tracking cookies:_  these cookies monitor clicking behaviour and surfing habits. By means of these cookies we can see whether and when you view Your Account, and whether you click through to our Website. 
+
+**How do we protect your Personal Data?**
+
+We work hard to protect your Personal Data from unauthorized or unlawful access, alteration,  disclosure, use or destruction. We encrypt our services using SSL, the data are only accessible through a secret password and digital signatures, and our employees only have access to your data on a need-to-know basis. Unfortunately, the transmission of information via the internet is not completely secure. Although we will take all reasonable measures, we cannot guarantee the security of your data transmitted to our Website; any transmission is at your own risk. 
+
+**Changes to this Privacy Policy** ****
+
+We are constantly looking for new ways to improve this Website. We may update this Privacy Policy from time to time. When we change this Privacy Policy in a significant way, we will post a notification on our Website along with the updated Privacy Policy and ask you to agree to this Privacy Policy before you can continue your use of our Website. We will also notify you via our App, and request you to accept the updated Privacy Policy before you can continue your use of our App.
+
+**Your rights**
+
+  
+You have the right to :
+
+  * request us not to contact you anymore in the future;  
+  * request a copy of the personal information which we have processed about you; 
+  * request us to correct, update or delete your personal information in our records;
+  * report any misuse of your Personal Data.
+
+
+
+If you have any questions, comments or concerns about how we handle your Personal Data, please contact us at support@theinnercircle.co 
+
+Please note that you can also view, edit or delete your Personal Data by logging in to your personal account. When you delete your account, your personal data will be deleted. We only keep your email-address in order to be able to contact you with regard to payment matters. For internal use, we will keep generic, non-personal data regarding your activity as a member (number of people invited, number of logins, term of your subscription, payment method).
+
+**Who are we?**
+
+The Inner Circle, the accompanying Website and App are exploited by:
 
 Circle Imperium B.V.  
-Kleine Gartmantplantsoen 10  
-1017 RR Amsterdam  
-The Netherlands
-
-### Contact Us
-
-Please contact us if you have any questions about our privacy policy on admin <at> theinnercircle.co
-
-### Changes to this policy
-
-We are constantly looking for new ways to improve this website. We may amend this privacy policy from time to time. All such changes will take effect once they have been posted on the site and you will be deemed to have accepted any such changes by your use of the site.
+Herengracht 420  
+1017 BZ Amsterdam  
+The Netherlands  
+Chamber of Commerce (KvK): 60993448  
+VAT (BTW): NL 854155004B01  
+[www.theinnercircle.co](http://www.theinnercircle.co/) 
