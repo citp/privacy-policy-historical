@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastgames.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127110420id_/http%3A//www.fastgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastgames.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608061529id_/http%3A//www.fastgames.com/privacy) for the most accurate reproduction.*
 
 # None
 
