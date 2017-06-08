@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121182734id_/http%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608082714id_/http%3A//drugabuse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DrugAbuse.com
 
@@ -70,11 +70,9 @@ If you have questions or concerns about this Privacy Policy, you can contact us 
 
 ##  About the DrugAbuse.com Toll-Free Helpline and Directory 
 
-Each year, the [DrugAbuse.com](http://drugabuse.com/) hotline connects thousands of people with substance abuse treatment programs throughout the U.S. toll-free. Thanks to our hotline sponsors, who answer calls 24/7, 365 days per year, you can discuss treatment options with well-established, carefully-selected providers across the country, each specializing in drug and alcohol rehabilitation. 
+Each year, the [DrugAbuse.com](https://web.archive.org/) hotline connects thousands of people with substance abuse treatment programs throughout the U.S. toll-free. Calls are answered by American Addiction Centers (AAC) who have treatment support specialists available 24/7, 365 days a year. 
 
-Calls are connected with treatment organizations throughout the US depending on your zip code, IP address, the search terms you used to reach this site, and other criteria. Note that the provider you are connected with may not be in your city or even state, however it is often preferable to leave the “comforts” of your home area to treat an addiction. Your call will be answered by a treatment center advertiser who is paying to sponsor our hotline. 
-
-[DrugAbuse.com](http://drugabuse.com/) receives no compensation based on which treatment provider you ultimately choose and there is never any obligation to use the provider you’re connected with. Both our treatment directory and our hotline are offered at no cost to you, and are paid instead by participating treatment center advertisers, so we urge you to call now if you are ready for help. 
+Both our treatment directory and our hotline are offered at no cost to you. 
 
 ##  Where Else Can I Find Help? 
 
