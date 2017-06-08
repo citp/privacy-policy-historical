@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nwitimes.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217102201id_/http%3A//www.nwitimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwitimes.com privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608134234id_/http%3A//www.nwitimes.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | nwitimes.com
 
 Welcome to the web sites and mobile applications of the NWI Times. We (which includes our parent company, Lee Enterprises, Incorporated) believe in your right to know what information is collected during your visit to our web sites, mobile sites, mobile applications, and other applications (collectively, "Services"), and to any services that display this notice and how that information is used and safeguarded.
 
