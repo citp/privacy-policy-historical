@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localplacement.net privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511215439id_/http%3A//internetmarketing.localedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localplacement.net privacy policy that was archived on 2017-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170608094214id_/http%3A//internetmarketing.localedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -60,7 +60,7 @@ When you contribute to a public area or feature of our Web Site, such as a chat 
 
 ### (ii) Third Party Offers
 
-We reserve the right to make our customer lists available to companies or other entities not affiliated with the Publisher that have goods, services and offers that we believe might be of interest to you. We may compile these lists from customer orders placed both offline and online. We may, from time to time, provide your Personal Information to these entities so that they may send you these offers. Customers have the option of having their names and identifying information removed from those lists (subject to certain exceptions and limitations in applicable laws) by contacting us at Optout@LocalEdge.com .
+We reserve the right to make our customer lists available to companies or other entities not affiliated with the Publisher that have goods, services and offers that we believe might be of interest to you. We may compile these lists from customer orders placed both offline and online. We may, from time to time, provide your Personal Information to these entities so that they may send you these offers. Customers have the option of having their names and identifying information removed from those lists (subject to certain exceptions and limitations in applicable laws) by contacting us at Optout@nullLocalEdge.com .
 
 ### (iii) Co-sponsored Contests, Sweepstakes and Offerings
 
@@ -97,7 +97,7 @@ These companies may use information (generally, not including your name, address
 
 #### E. Right to Opt-Out
 
-You have the right to “opt-out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities affiliated or unaffiliated with LocalEdge.com for their marketing purposes. You may also make this request by visiting your profile settings page or by sending an e-mail to Optout@LocalEdge.com . You may also opt-out of the Publisher’s promotional e-mails by clicking on an opt-out link within the e-mail you receive, or opt-out of the Publisher’s SMS messages by texting STOP to 37332 or 43848.
+You have the right to “opt-out” of certain of our uses of your Personal Information. For example, at the time you are requested to provide Personal Information on this Web Site, you may have the opportunity to elect to, or not to: (1) receive correspondence from us, or (2) have your Personal Information shared with other entities affiliated or unaffiliated with LocalEdge.com for their marketing purposes. You may also make this request by visiting your profile settings page or by sending an e-mail to Optout@nullLocalEdge.com . You may also opt-out of the Publisher’s promotional e-mails by clicking on an opt-out link within the e-mail you receive, or opt-out of the Publisher’s SMS messages by texting STOP to 37332 or 43848.
 
 Please understand that if you opt-out of receiving correspondence from us, we may still contact you in connection with your relationship, activities, transactions and communications with us. Also, a request to have us stop sharing your Personal Information with other entities for marketing purposes will apply as of the date that is ten (10) business days after our receipt of your request, and we will not be responsible for any communications that you may receive from entities that received your Personal Information prior to such request. In these cases, please contact that entity directly.
 
@@ -117,7 +117,7 @@ In the unlikely event that we believe that the security of your Personal Informa
 
 With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information may be collected by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as “phishing.”
 
-If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at Info@LocalEdge.com.
+If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and report such request to us at Info@nullLocalEdge.com.
 
 The Web Site is not intended for use by children under the age of 13 or for children between the ages of 13 and 17, except in accordance with the Terms of Use. No one under age 13 is authorized to provide any Personal Information or use our public discussion areas, forums and chat rooms. The Publisher does not knowingly collect Personal Information from children under the age of 13.
 
