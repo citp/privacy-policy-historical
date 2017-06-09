@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119153627id_/http%3A//www.markit.com/General/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallst.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609234716id_/http%3A//www.markit.com/General/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Markit.com | Privacy & Cookie Policy
 
@@ -20,7 +20,7 @@ Markit primarily uses the personal information it collects to provide you with: 
 
 If you do not wish to provide such personal information to us, you are not obligated to, but as a result you may not be able to use our website or services. Some of the personal information we request from you is optional. This means that you can elect not to provide it to us and you still will be able to use our website or services. In most cases, we identify required personal information to you by displaying an asterisk (*) next to the field where we request the required personal information.
 
-Markit may also provide you with information about our products and services. You may instruct Markit at any time not to use your personal information for this purpose by sending an email to [informationcompliance@markit.com](mailto:informationcompliance@markit.com).
+Markit may also provide you with information about our products and services. You may instruct Markit at any time not to use your personal information for this purpose by sending an email to [privacy@ihsmarkit.com](mailto:privacy@ihsmarkit.com).
 
 A “tell-a-friend” or other similar sharing tool provided on our website and/or in our e-mails allows you to send information about our products and offerings to another person. When you use these tools, we may ask you for the name and information of the other person. That information will be covered by this privacy policy. We will use it only to send the communication to your friend and for no other purpose.
 
@@ -50,7 +50,7 @@ Markit will collect such information through the use of various technologies, in
 
 The “help” menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
 
-Click for the [list of cookies](https://web.archive.org/web/20161119153627id_/http%3A//www.markit.com/General/Cookies) on Markit websites.
+Click for the [list of cookies](https://web.archive.org/web/20170609234716id_/http%3A//www.markit.com/General/Cookies) on Markit websites.
 
 By using Markit’s website, you agree to our installation of these tracking technologies on your computer or device.
 
@@ -84,7 +84,7 @@ Markit may provide links to third-party websites. Since Markit does not control 
 
 * * *
 
-Markit may provide you with access to Markit services through links and/or dedicated frames (collectively, “Other Markit Services”). For example, you may have access to a Toolbar provided by our Markit Hub service that allows you, amongst other things, to navigate data and content on both Markit and third party websites.
+Markit may provide you with access to Markit services through links and/or dedicated frames (collectively, “Other Markit Services”). For example, you may have access to a Toolbar provided by our Hub service that allows you, amongst other things, to navigate data and content on both Markit and third party websites.
 
 Your use of Other Markit Services shall be governed by any applicable terms of use and privacy policies. We recommend you review those before providing any personal information.
 
