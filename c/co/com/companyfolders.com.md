@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016105235id_/http%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companyfolders.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609190821id_/http%3A//www.companyfolders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CompanyFolders.com
 
@@ -72,10 +72,6 @@ Individual customers who reside in California and have provided their Personal I
 
 This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
 
-## International Customers and Users
-
-Company Folders, Inc. complies with the US-EU Safe Harbor Framework and US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Company Folders, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, [view our certification page](https://safeharbor.export.gov/companyinfo.aspx?id=32685).
-
 ## Children Using the Site
 
 We do not direct the site to, nor do we knowingly collect personal information from children under thirteen.
@@ -114,20 +110,6 @@ Keego Harbor, Michigan 48320
 
 If a complaint or dispute cannot be resolved through our internal process, Company Folders, Inc. has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, The Better Business Bureau (BBB). If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed by Company Folders, Inc. you may [click here](http://www.bbb.org/detroit/get-consumer-help/) to go directly to BBB website to file your complaint.
 
-**Privacy Complaints by European Union & Swiss Customers**  
-Company Folders, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information in accordance with US-EU and US-Swiss Safe Harbor Principles. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Company Folders, Inc. by mail or email.
-
-**Email:**   
-privacy@companyfolders.com
-
-**Mail:**   
-Regarding: Privacy Policy   
-Company Folders, Inc.   
-3297 Orchard Lake Rd, Suite 203   
-Keego Harbor, Michigan 48320
-
-If a complaint or dispute cannot be resolved through our internal process, Company Folders, Inc. has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism, the Better Business Bureau EU Safe Harbor, operated by the Council of Better Business Bureaus, as a third party resolution provider. If you do not receive timely acknowledgment of your complaint or concern, or it is it not satisfactorily addressed by Company Folders, Inc., you may click this link <http://www.bbb.org/us/safe-harbor-complaints> to file a complaint.
-
 ## Privacy Policy Changes:
 
 Company Folders, Inc. may revise this Privacy Policy from time to time by posting a revised Privacy Policy on our Website. We reserve the right to modify this Privacy Policy at any time, so please review it frequently.
@@ -138,4 +120,4 @@ Company Folders, Inc. may revise this Privacy Policy from time to time by postin
 
 ## Last Updated:
 
-December 1, 2014
+February 16, 2017
