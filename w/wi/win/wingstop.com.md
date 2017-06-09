@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211124306id_/http%3A//www.wingstop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingstop.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609074850id_/http%3A//www.wingstop.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Wingstop
 
@@ -10,7 +10,7 @@ Wingstop Restaurants, Inc. (“Wingstop,” “we,” “us” or “our”) val
 
 We collect information from you when you visit our Site and use our Application and our Services, including the following:
 
-**Information We Collect Directly From You.**  We collect information from you when you interact with our Site and use our Services, such as when you place an order with us, join our Email Club, enter a contest, give us feedback (for example, through a survey), request information from us, or otherwise communicate with us. The type of information that we request from you varies based on the particular Service, but may include, for example, your name, mailing address, email address, credit or debit card information (if placing an order), gender, birth date, mobile phone number, and other information that you voluntarily provide to us. For certain Services (such as to place an order with us), you will have the option to create an account with us, and we will collect your name, zip code, and email address. We also will ask that you create a username and select a password. And, if you choose to set up an account with us, we also may collect information about your Wingstop restaurant preferences.
+**Information We Collect Directly From You.**  We collect information from you when you interact with our Site and use our Services, such as when you place an order with us, join our Email Club, enter a contest, give us feedback (for example, through a survey), request information from us, or otherwise communicate with us. The type of information that we request from you varies based on the particular Service, but may include, for example, your name, mailing address, email address, credit or debit card information (if placing an order), gender, birth date, mobile phone number, and other information that you voluntarily provide to us. For certain Services (such as to place an order with us), you will have the option to create an account with us, and we will collect your name, zip code, email address and phone number. We also will ask that you create a username and select a password. And, if you choose to set up an account with us, we also may collect information about your Wingstop restaurant preferences.
 
 When you download our Application, we may collect your name, mailing address, and email address, and current location. We will request your permission prior to determining your current location, which we use for the purpose of identifying a restaurant nearest to you.
 
@@ -105,6 +105,8 @@ If you would like to access or modify your Facebook profile information, or adju
 We may send periodic promotional or informational emails to you. You may opt-out of such communications by following the opt-out instructions contained in the e-mail. Please note that it may take up to 10 days for us to process opt-out requests. If you opt-out of receiving emails about recommendations or other information we think may interest you, we may still send you e-mails about your account or any Services you have requested or received from us.
 
 As noted above, to adjust the types of information about you that we receive from Facebook, you must change your Facebook account settings directly through Facebook.
+
+If you participate in SMS ordering, you will receive messages pertaining to your order using automated technology. You can unsubscribe at any time from all services by sending STOP to WINGS (94647).
 
 **Children Under 13**
 
