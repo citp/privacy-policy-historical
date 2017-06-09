@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xqno.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119115958id_/http%3A//xqno.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xqno.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609180248id_/http%3A//xqno.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # XQno url shortener
 
