@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsin.edu privacy policy that was archived on 2015-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150609025146id_/https%3A//www.wisconsin.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsin.edu privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609041714id_/https%3A//www.wisconsin.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Wisconsin System
 
@@ -20,4 +20,4 @@ This site contains links to other sites outside of UWSA. UWSA is not responsible
 
 ## Questions
 
-If you have any questions about this privacy statement, the practices of this site, or your use of this website, please contact Webmaster.
+If you have any questions about this privacy statement, the practices of this site, or your use of this website, please contact [Webmaster](mailto:webteam@uwsa.edu).
