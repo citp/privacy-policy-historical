@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritagesports.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602074444id_/http%3A//heritagesports.eu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritagesports.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609050444id_/http%3A//heritagesports.eu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Heritage Sports
 
