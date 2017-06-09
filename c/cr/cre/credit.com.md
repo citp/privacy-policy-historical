@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204155941id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credit.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609183457id_/https%3A//www.credit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Credit.com
 
@@ -238,3 +238,7 @@ Credit.com reserves the right to terminate your participation in the panel at an
 As a member of the panel, you will receive e-mails and other material from our third party provider(s) and you may be asked additional information about yourself. The personally identifying information you provide Credit.com and third party provider(s) will be treated as set forth in this Privacy Policy. Under no circumstances will Credit.com share with its third party provider(s) information about your Credit.com services unless you provide specific, written authorization to do so.
 
 You also acknowledge and understand that information you provide as part of the panel will be kept on the platform provided by Credit.com's third party provider(s). This type of information may include answers you have given as part of the panel registration process and substantive answers you have given in surveys. 
+
+Should you no longer wish to receive our email, you may click on the unsubscribe link located in the footer of each email received or at [email-preferences](http://email.credit.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DYQpglLjHJlYQGscKufFvNzbETvUKslf3bU87lUXPzds0zbu2fVXMtX%3DYQpglLjHJlYQGtl5zgWtqW72rREC0FfzfMUgzanrBo9zfgYAmf&_ei_=EsNiAQEg-Xvo7hVrMb1170s).
+
+Credit.com is a wholly-owned subsidiary of Progrexion.
