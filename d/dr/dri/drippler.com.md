@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drippler.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128061533id_/http%3A//drippler.com/about/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drippler.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610003115id_/http%3A//drippler.com/about/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Drippler
 
@@ -137,7 +137,7 @@ Furthermore, this Privacy Policy does not apply to any Information that you choo
 
 From time to time, we may allow third-party advertisers (“Advertisers”) to sponsor advertising content or links (“Ads”) that can be directly accessed from within the Services.   In order to provide Ads that we think would be of most interest to our Users, we may share certain Information (not including your name, address, email address or telephone number) to Advertisers. However, before such Information is shared with the Advertisers, all Personal Information involved will be aggregated into anonymous statistics.  For example, we might provide an analysis of data that says “1000 Users in California who accessed the App in the month of June using a Samsung Galaxy S7 shared a Drip on Facebook about free off-line map applications for Android.”  That said, keep in mind that if you click through links to leave the App and go to the Advertisers’ sites, those sites may gather information about you.  This Privacy Policy does not cover the practices of any Advertiser or any other third-party.
 
-If you would like more information about this practice and to know your choices about not having this information used by these third-parties, check out the [NAI (Network Advertising Initiative) website](http://www.networkadvertising.org/managing/opt_out.asp).
+If you would like more information about this practice and to know your choices about not having this information used by these third-parties, check out the [NAI (Network Advertising Initiative) website](http://www.networkadvertising.org/managing/opt_out.asp). For information about Facebook Native Ads click [here](https://m.facebook.com/ads/ad_choices)
 
 7. Security
 
