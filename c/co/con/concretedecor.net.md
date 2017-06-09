@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206183303id_/http%3A//www.concretedecor.net/about/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concretedecor.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609195244id_/http%3A//www.concretedecor.net/about/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - Concrete Decor Magazine
+# Privacy Notice | Concrete Decor
 
 **Introduction**  
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
