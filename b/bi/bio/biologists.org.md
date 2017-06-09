@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227020242id_/http%3A//www.biologists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biologists.org privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609182718id_/http%3A//www.biologists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Company of Biologists
 
