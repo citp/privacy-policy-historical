@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the rexall.ca privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208002133id_/http%3A//www.rexall.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexall.ca privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609024514id_/http%3A//www.rexall.ca/privacy-policy) for the most accurate reproduction.*
 
 # Rexall.ca | Privacy
 
-## KATZ GROUP CANADA LTD PRIVACY STATEMENT
+## REXALL PHARMACY GROUP LTD PRIVACY STATEMENT
 
-**LAST UPDATE:** March 25, 2015 
+**LAST UPDATE:** August 12, 2016 
 
-Katz Group Canada Ltd. (“ **Katz** ”) and its banner pharmacies, including Pharma Plus, Rexall™ and Rexall™ Pharma Plus respect the privacy rights of our customers and employees and are committed to protecting the personal information that we collect from you. We have adopted this Privacy Statement to guide how we collect, use and disclose the information you provide to us. Specifically, this Privacy Statement has been developed so that you can learn more about the policies and practices that we have developed to safeguard personal information, and to better understand our relationships with the third parties who may have access to this information. 
+Rexall Pharmacy Group Ltd. (“ **Rexall** ”) and its banner pharmacies, including Pharma Plus, Rexall™ and Rexall™ Pharma Plus respect the privacy rights of our customers and employees and are committed to protecting the personal information that we collect from you. We have adopted this Privacy Statement to guide how we collect, use and disclose the information you provide to us. Specifically, this Privacy Statement has been developed so that you can learn more about the policies and practices that we have developed to safeguard personal information, and to better understand our relationships with the third parties who may have access to this information. 
 
-This Privacy Statement applies to the collection, use and disclosure of personal information in the course of all commercial dealings with Katz, including pharmacy and retail services and applies to the use of any website or mobile application maintained by Katz, affiliates of which are operators of retail pharmacies in Canada. Websites include the Rexall.ca website,the MediTrust.ca website and Rexall Pharma Plus MyRexall Account Website (the **“Sites** ”), and the Rexall Pharma Plus Mobile Application, and the Rexall Pharma Plus MyRexall Account Software Application for Mobile Devices (the “ **Applications** ”), and any other websites and applications that may be developed in the future. 
+This Privacy Statement applies to the collection, use and disclosure of personal information in the course of all commercial dealings with Rexall, including pharmacy and retail services and applies to the use of any website or mobile application maintained by Rexall, affiliates of which are operators of retail pharmacies in Canada. Websites include the Rexall.ca website,the MediTrust.ca website and Rexall Pharma Plus MyRexall Account Website (the **“Sites** ”), and the Rexall Pharma Plus Mobile Application, and the Rexall Pharma Plus MyRexall Account Software Application for Mobile Devices (the “ **Applications** ”), and any other websites and applications that may be developed in the future. 
 
-For the purpose of this Privacy Statement, unless stated otherwise, all references to “Katz” or “we” include Katz Group Canada Ltd., as well as its affiliates and subsidiaries that are operators of retail pharmacies in Canada (and that provide pharmacy services to the MediTrust home delivery program) and ProPharm Limited (which provides technology services and support). 
+For the purpose of this Privacy Statement, unless stated otherwise, all references to “Rexall” or “we” include Rexall Pharmacy Group Ltd.., as well as its affiliates and subsidiaries that are operators of retail pharmacies in Canada (and that provide pharmacy services to the MediTrust home delivery program). 
 
 **_Personal Information_**
 
@@ -20,7 +20,7 @@ Personal information is information about an identifiable individual, for exampl
 
 You agree that we may collect, use and disclose your personal information in accordance with this Privacy Statement. 
 
-Katz Group Canada will collect, use and disclose personal information without your consent only in limited circumstances as permitted by law. There have always been, and may continue to be, instances where we may collect, use and disclose your personal information without your consent. These instances are permitted under privacy legislation in order to ensure that the consent requirement is not a hindrance to your health and safety. For example: 
+Rexall will collect, use and disclose personal information without your consent only in limited circumstances as permitted by law. There have always been, and may continue to be, instances where we may collect, use and disclose your personal information without your consent. These instances are permitted under privacy legislation in order to ensure that the consent requirement is not a hindrance to your health and safety. For example: 
 
 \- personal information may be collected without consent where the collection is clearly in the interest of the individual and consent cannot be obtained in a timely way; 
 
@@ -34,7 +34,7 @@ If you choose to later withdraw your consent to allow us to collect your persona
 
 **_Information We Collect_**
 
-Katz collects personal information for various purposes, including to: 
+Rexall collects personal information for various purposes, including to: 
 
   * provide healthcare related services;
   * process payments;
@@ -46,7 +46,7 @@ Katz collects personal information for various purposes, including to:
 
 
 
-Katz will inform you, when requested, as to why we must collect any of your personal information before the information is collected. ****
+Rexall will inform you, when requested, as to why we must collect any of your personal information before the information is collected. ****
 
 **(i) Information We Collect In Pharmacies**
 
@@ -73,13 +73,13 @@ You have the right to access, update, and correct your personal information in o
 
 To find out what information your pharmacist has about you, contact them in person or in writing. In most instances, they will respond to your request within 30 days. If you have any concerns about the access provided to you, or if you wish to amend the information, you are encouraged to discuss it with your pharmacist, who will be pleased to assist you. 
 
-Through the Sites and the Applications, you will be able to access your personal information that has been collected and generated by your pharmacist. In order for you to access your personal information through the Sites or the Applications, it must be shared between your pharmacist and Katz. 
+Through the Sites and the Applications, you will be able to access your personal information that has been collected and generated by your pharmacist. In order for you to access your personal information through the Sites or the Applications, it must be shared between your pharmacist and Rexall. 
 
-By using the Sites or the Applications, your personal information will be disclosed by your pharmacist to Katz, and Katz will collect, use and disclose of your personal information in order to maintain and provide you with access to your personal information through the Sites and/or Applications. 
+By using the Sites or the Applications, your personal information will be disclosed by your pharmacist to Rexall, and Rexall will collect, use and disclose of your personal information in order to maintain and provide you with access to your personal information through the Sites and/or Applications. 
 
 **_How We Use and When We Disclose Your Information_**
 
-Katz uses personal information for a number of purposes, including as described below: 
+Rexall uses personal information for a number of purposes, including as described below: 
 
 **Treatment:** We may use your personal information to provide you with pharmacy or health-related services. We may use your information to co-ordinate care with other pharmacies and health care providers as we have always done in the past. Examples include filling your prescription or speaking to your doctor regarding your prescription for clarification purposes. In order to provide you with quality health care and in compliance with existing federal and provincial legislation, we keep a record of the medications dispensed to you at our pharmacy. We also include in our records any relevant health information that we require to ensure that you are not given, or advised to take, a medication that is not appropriate for you. 
 
@@ -95,13 +95,13 @@ Katz uses personal information for a number of purposes, including as described 
 
 **Law Enforcement:** **** In certain limited circumstances, we may be called upon to release your personal information in response to a court order, subpoena, search warrant, law, or regulation. We plan to cooperate in responding to such requests, taking appropriate measures to ensure that the requester understands the sensitive nature of the personal information that they may receive. We also reserve the right to cooperate with law enforcement authorities in investigating and prosecuting users who violate our Terms of Use, or other rules or engage in behavior that is illegal or harmful to other users of the Sites/Application. ****
 
-**Product Reports:** If you contact us regarding your experience in using one of our products, we may use the information you provide in submitting reports to Health Canada, and as otherwise required of us by law. We also may use the information to contact your pharmacist or prescribing physician to follow up regarding an unexpected event involving use of a product purchased at a Katz pharmacy. 
+**Product Reports:** If you contact us regarding your experience in using one of our products, we may use the information you provide in submitting reports to Health Canada, and as otherwise required of us by law. We also may use the information to contact your pharmacist or prescribing physician to follow up regarding an unexpected event involving use of a product purchased at a Rexall, Pharma Plus or Rexall Pharma Plus pharmacy. 
 
-**Online Pharmacy Services:** Katz offers a number of online pharmacy services. We have outlined some of these services in greater detail, to describe how your personal information is collected, used and disclosed in these contexts: ****
+**Online Pharmacy Services:** Rexall offers a number of online pharmacy services. We have outlined some of these services in greater detail, to describe how your personal information is collected, used and disclosed in these contexts: ****
 
 **(i) Online Prescription Refill**
 
-The Online Prescription Refill service allows you to request a refill of a prescription from the same Rexall or Rexall Pharma Plus pharmacy from which it was originally dispensed and where refills remain (or where, in some provinces, a pharmacist is permitted to authorize refills) and may be refilled by law. The use of the Online Refill tool requires the collection, use, disclosure and transmission of personal information across computer systems and networks. In light of the inherent nature of the Internet, we cannot guarantee that this information: (i) will be transmitted securely; (ii) will be error- or defect-free; or (iii) will not be improperly accessed or used by third parties. You are submitting this information over the Internet to us at your own risk. 
+The Online Prescription Refill service allows you to request a refill of a prescription from the same Rexall, Pharma Plus or Rexall Pharma Plus pharmacy from which it was originally dispensed and where refills remain (or where, in some provinces, a pharmacist is permitted to authorize refills) and may be refilled by law. The use of the Online Refill tool requires the collection, use, disclosure and transmission of personal information across computer systems and networks. In light of the inherent nature of the Internet, we cannot guarantee that this information: (i) will be transmitted securely; (ii) will be error- or defect-free; or (iii) will not be improperly accessed or used by third parties. You are submitting this information over the Internet to us at your own risk. 
 
 Your request for a prescription refill will be transmitted to the pharmacy location you have indicated. Once the pharmacy has received the request, it will be handled in the same manner as all refill requests, at all times being subject to the dispensing pharmacist's professional judgment and ethical responsibilities. 
 
@@ -119,7 +119,7 @@ In the course of such discussions, your personal information may be disclosed to
 
 **(ii) Online Prescription Transfer Requests**
 
-The Online Prescription Transfer service allows you to transfer your prescriptions from another pharmacy to a Rexall or Rexall Pharma Plus pharmacy, or between Rexall/Rexall Pharma Plus pharmacies. The use of this service requires the collection, use, disclosure and transmission of personal information across computer systems and networks. In light of the inherent nature of the Internet, we cannot guarantee that this information: (i) will be transmitted securely; (ii) will be error- or defect-free; or (iii) will not be improperly accessed or used by third parties. You are submitting this information over the Internet to us at your own risk. 
+The Online Prescription Transfer service allows you to transfer your prescriptions from another pharmacy to a Rexall, Pharma Plus or Rexall Pharma Plus pharmacy, or between Rexall/Pharma Plus/Rexall Pharma Plus pharmacies. The use of this service requires the collection, use, disclosure and transmission of personal information across computer systems and networks. In light of the inherent nature of the Internet, we cannot guarantee that this information: (i) will be transmitted securely; (ii) will be error- or defect-free; or (iii) will not be improperly accessed or used by third parties. You are submitting this information over the Internet to us at your own risk. 
 
 Your request for a prescription transfer will be transmitted to the pharmacy location you have indicated in your request. Once the pharmacy has received your prescription, it will be handled in the same manner as all prescriptions, at all times being subject to the dispensing pharmacist's professional judgment and ethical responsibilities. By using this service, our representatives (including a pharmacist or a pharmacy technician or assistant) will have access to your personal information. 
 
@@ -137,11 +137,11 @@ In the course of such discussions, your personal information may be disclosed to
 
 Through the Sites and Applications, you can access the BP Tracker Program, which will allow you to record, track and access your blood pressure measurements and other personal information (for example your glucose and cholesterol levels and your weight/BMI).To access the BP Tracker Program, you will need to register your Blood Pressure Check Card (“Card”) on the Sites and Applications by entering the Unique Access Code (“UAC”) found on the Card, along with other personal information. 
 
-You can also record your blood pressure measurements at certain Katz pharmacies with your Card, using the PharmaSmart Blood Pressure Kiosks (“Kiosks”). The Kiosks are owned and operated by Pharma-Smart International Inc. (“PharmaSmart”). 
+You can also record your blood pressure measurements at certain Rexall, Pharma Plus, Rexall Pharma Plus pharmacies with your Card, using the PharmaSmart Blood Pressure Kiosks (“Kiosks”). The Kiosks are owned and operated by Pharma-Smart International Inc. (“PharmaSmart”). 
 
-The blood pressure data and results obtained from the Kiosks are processed and maintained in a database managed by PharmaSmart. Further, any information, including personal information, that you record in the BP Tracker Program through the Sites and Applications is also processed and maintained by PharmaSmart, in order to provide you with these services on behalf of Katz. More information regarding Katz’s relationship to third parties service providers, such as PharmaSmart, is contained below. 
+The blood pressure data and results obtained from the Kiosks are processed and maintained in a database managed by PharmaSmart. Further, any information, including personal information, that you record in the BP Tracker Program through the Sites and Applications is also processed and maintained by PharmaSmart, in order to provide you with these services on behalf of Rexall. More information regarding Rexall’s relationship to third parties service providers, such as PharmaSmart, is contained below. 
 
-The personal information obtained through your use of the Kiosks or through the BP Tracker Program portion of the Sites and Applications will be accessible by all pharmacists practicing at the pharmacy where the Card has been registered, and will be shared with Katz, PharmaSmart, and other third party service providers that manage the Sites and Applications and perform services in relation to the BP Tracker Program on behalf of Katz. 
+The personal information obtained through your use of the Kiosks or through the BP Tracker Program portion of the Sites and Applications will be accessible by all pharmacists practicing at the pharmacy where the Card has been registered, and will be shared with Rexall, PharmaSmart, and other third party service providers that manage the Sites and Applications and perform services in relation to the BP Tracker Program on behalf of Rexall. 
 
 Once enrolled, your personal information relating to the BP Tracker Program will be accessible to a pharmacist any time he/she accesses your patient profile. Should your blood pressure readings fall outside the target range, the pharmacist will be alerted to this fact when he/she views your patient profile at the time you receive prescription services. Based on this information, your pharmacist may provide you with certain patient services and information, including providing a consultation and information on hypertension/hypotension, as applicable. 
 
@@ -159,7 +159,7 @@ _IP Address._ In addition to using the IP address of your computer to maintain c
 
 _Cookies._ We use the data we obtain through the use of cookies to customize your Sites and Applications experience by anticipating the information and services that may be of interest to you. We also analyze the information collected with cookie technology to help us improve the functioning of the Sites and Applications by monitoring traffic in popular areas and to modify the services and information we provide to meet customer demand. We will link the clickstream data available to us through the use of cookies to the personal information that you may choose to provide elsewhere on the Sites and the Applications. We use the information we collect through the use of cookies for our business purposes, including operation of the Sites and the Applications, as well as research and product analyses to help us better market our products. Your browser software can be set to reject all cookies, but if you reject our cookies certain of the functions and conveniences of the Sites or the Applications may not work properly. Cookies and similar technologies are how we ensure that we can promptly retrieve and deliver the information to you when you use the Sites and the Applications. 
 
-_Geo-location._ We may use geo-location information collected with GPS or similar technology via the Sites or the Applications in order to display a list or map with nearby Katz pharmacy locations and contact information and the applicable services available to you. We will not share your current location with any third party. 
+_Geo-location._ We may use geo-location information collected with GPS or similar technology via the Sites or the Applications in order to display a list or map with nearby Rexall, Pharma Plus, Rexall Pharma Plus pharmacy locations and contact information and the applicable services available to you. We will not share your current location with any third party. 
 
 **_Our Relationship to Third Parties_**
 
@@ -169,7 +169,7 @@ We will not transfer your personal information outside of Canada.
 
 In addition, we may disclose your personal information in connection with the sale, assignment, reorganization or other transfer or change of corporate control of our business, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Statement. 
 
-Your personal information may be de-identified and in some cases aggregated with de-identified information from other Katz customers. This de-identified information will be used to assess various factors, including trends in patient health, and adherence and compliance rates, which are useful to understand and improve upon health care services and delivery. This de-identified data may be provided to third parties for these purposes. You cannot be personally identified from the de-identified data. Katz will never disclose personal information to third parties except as set forth herein. 
+Your personal information may be de-identified and in some cases aggregated with de-identified information from other Rexall customers. This de-identified information will be used to assess various factors, including trends in patient health, and adherence and compliance rates, which are useful to understand and improve upon health care services and delivery. This de-identified data may be provided to third parties for these purposes. You cannot be personally identified from the de-identified data. Rexall will never disclose personal information to third parties except as set forth herein. 
 
 **_Our Security Measures_**
 
@@ -185,7 +185,7 @@ The Sites and Applications are intended for users who are over 18 years of age. 
 
 If you choose to use certain features of the Sites or the Applications, you are required to establish a personal profile and register a personal account. To do so, you will need to input certain personal information into the Sites or the Applications which will be cross-checked and verified against your records maintained by your pharmacist. This registration information is used to provide and otherwise administer the Sites and Applications, and the services offered to users. 
 
-There may be links from our Sites or the Applications to other websites; note that this Privacy Statement applies only to our Sites and Applications and not to websites of other companies or organizations to which our Sites or Applications may be linked. You must check on any linked sites for the privacy policy that applies to that site and/or make any necessary inquiries in respect of that privacy policy with the operator of the linked site. These links to third party websites are provided as a convenience and are for informational purposes only. Katz does not endorse, and is not responsible for, these linked websites. ****
+There may be links from our Sites or the Applications to other websites; note that this Privacy Statement applies only to our Sites and Applications and not to websites of other companies or organizations to which our Sites or Applications may be linked. You must check on any linked websites for the privacy policy that applies to that website and/or make any necessary inquiries in respect of that privacy policy with the operator of the linked website. These links to third party websites are provided as a convenience and are for informational purposes only. Rexall does not endorse, and is not responsible for, these linked websites. ****
 
 **_Retention of Personal Information_**
 
@@ -195,13 +195,13 @@ In order to provide you with quality health care and in compliance with existing
 
 If we alter our Privacy Statement, any changes will be posted on this webpage so that you are always informed of the personal information that we collect about you, how we use it and the circumstances under which we may disclose it. Please check back from time to time to ensure you are aware of our current policies. 
 
-BY SUBMITTING PERSONAL INFORMATION TO KATZ, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. BY USING THE SITES OR THE APPLICATIONS, YOU ALSO ACCEPT THE [TERMS OF USE](http://www.rexall.ca/legal) POSTED ON THE SITE. 
+BY SUBMITTING PERSONAL INFORMATION TO REXALL, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. BY USING THE SITES OR THE APPLICATIONS, YOU ALSO ACCEPT THE [TERMS OF USE](http://www.rexall.ca/legal) POSTED ON THE SITES. 
 
-If you have any questions about the Privacy Statement or the handling of your personal information, please contact Katz Group Canada Ltd. at Toll-free: 1-877-378-4100 or [send](http://www.rexall.ca/contact-us) an email to [privacyofficer@rexall.ca](mailto:privacyofficer@rexall.ca) to contact us. You can also contact us by mail at: 
+If you have any questions about the Privacy Statement or the handling of your personal information, please contact Rexall Pharmacy Group Ltd.. at Toll-free: 1-877-378-4100 or [send](http://www.rexall.ca/contact-us) an email to [privacyofficer@rexall.ca](mailto:privacyofficer@rexall.ca) to contact us. You can also contact us by mail at: 
 
 **Privacy Officer**  
 Mona Sabharwal  
-Katz Group Canada Ltd.  
+Rexall Pharmacy Group Ltd..  
 5965 Coopers Ave.  
 Mississauga, Ontario  
 L4Z 1R9 
