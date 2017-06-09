@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtwiki.blogspot.in privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227061326id_/http%3A//mtwiki.blogspot.in/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtwiki.blogspot.in privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609035033id_/http%3A//mtwiki.blogspot.in/p/blog-page.html) for the most accurate reproduction.*
 
-# Privacy Policy - MT Wiki: Upcoming Movie, Hindi TV Shows, Serials TRP, Bollywood Box Office
+# Privacy Policy | MT Wiki: Upcoming Movie, Hindi TV Shows, Serials TRP, Bollywood Box Office
 
 Mtwiki.blogspot.in, along with our subsidiaries respects the privacy of the users. This policy briefly provides how your information is collected by our site and then used. We advise you to please read the entire policy carefully. When you are using the serviced of our website, it means that you have made an agreement with us for the collection of your data as well a use of the data by our website, however in ways mentioned in the policy page. 
 
