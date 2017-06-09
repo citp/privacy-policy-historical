@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepositivemom.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120025820id_/http%3A//thepositivemom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepositivemom.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609132949id_/http%3A//thepositivemom.com/privacy) for the most accurate reproduction.*
 
 # The Positive MOM Privacy Policy ★ Elayna Fernandez ~ The Positive MOM ♥
 
@@ -34,9 +34,9 @@ By visiting or using [ThePositiveMOM.com](http://thepositivemom.com/ "The Posit
 
 If you require further information or have questions with regard to the [ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ")[.](http://www.designed2impress.com/) privacy policy, you may send your inquiry to Elayna Fernandez:
 
-**By E-mail:** | elayna@positivemom.org  
+**By E-mail:** | elayna@thepositivemom.com  
 ---|---  
-**By mail:** | P.O. Box 630052, Irving TX 75063  
+**By mail:** | P.O. Box 162223, Fort Worth, TX 76131  
   
 [ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ") reserves the right to amend this Privacy Promise at any time, for any reason and, without notice. Any amendments will be effective when posted on the appropriate websites. This policy is effective as of January 1, 2009 and supersedes any and all privacy practices posted prior to that date.
 
@@ -46,8 +46,14 @@ Thank you for visiting and using [ThePositiveMOM.com](http://thepositivemom.com
 
 **Special Note About Reviews/Giveaways**
 
-[ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ") is the writer and distributor of  posts, reviews, giveaways, deals and any other material presented {unless otherwise indicated}.  100% of the opinions and writings are [ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ")‘s and can not be duplicated without prior permission.  Images and links were used with permission from the website/ promoters discussed.
+[ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ") is the writer and distributor of posts, reviews, giveaways, deals and any other material presented {unless otherwise indicated}. 100% of the opinions and writings are [ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ")‘s and can not be duplicated without prior permission. Images and links were used with permission from the website/ promoters discussed.
 
-[ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ") is not responsible for the delivery of the winners prizes.  All complaints  and dissatisfactions with the website or products within are to be discussed with the sponsoring company.
+[ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ") is not responsible for the delivery of the winners prizes.  All complaints and dissatisfactions with the website or products within are to be discussed with the sponsoring company.
 
 Giveaway winners are chosen by a random generator and failure to follow the rules of entry disqualifies that entry. By entering this giveaway, you understand and agree that [ThePositiveMOM.com](http://thepositivemom.com/ "The Positive MOM - Elayna Fernandez - mommy blogger ") is is no way responsible for the production, delivery, or quality of the received product.
+
+[](http://www.thepositivemom.com/)   
+© Elayna Fernández ~ The Positive MOM 
+
+  
+
