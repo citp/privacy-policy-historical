@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fxcharts.com.au privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808073855id_/http%3A//www.fxchartsdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcharts.com.au privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609022110id_/http%3A//fxcharts.net/privacy) for the most accurate reproduction.*
 
-# Privacy - FX Charts Daily
+# Privacy - FXCharts
 
 **Privacy Policy**
 
