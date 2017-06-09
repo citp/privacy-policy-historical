@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sportsinjuryclinic.net privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121114652id_/http%3A//sportsinjuryclinic.net/about-us/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinjuryclinic.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610004517id_/http%3A//www.sportsinjuryclinic.net/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**VIRTUAL SPORTS INJURY CLINIC LIMITED PRIVACY POLICY**
-
 Virtual Sports Injury Clinic Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://www.sportsinjuryclinic.net/about-us/disclaimer/terms-of-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](http://www.sportsinjuryclinic.net/about-us/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.  Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Virtual Sports Injury Clinic Limited of Unit 23 Penfold Drive, Gateway 11 Business Park, Wymondham, Norfolk, NR19 0WZ.
 
@@ -66,7 +64,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Virtual Sports Injury Clinic Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our[ terms of use](http://www.sportsinjuryclinic.net/about-us/disclaimer/terms-of-use) and other agreements; or to protect the rights, property, or safety of Virtual Sports Injury Clinic Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our[ terms of use](http://www.sportsinjuryclinic.net/about-us/terms-conditions) and other agreements; or to protect the rights, property, or safety of Virtual Sports Injury Clinic Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
