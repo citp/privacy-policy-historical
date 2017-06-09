@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128191128id_/http%3A//www.elecrow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elecrow.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609042158id_/http%3A//www.elecrow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
