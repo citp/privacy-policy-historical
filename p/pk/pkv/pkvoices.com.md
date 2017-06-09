@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkvoices.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120191340id_/http%3A//www.pkvoices.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkvoices.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609211955id_/http%3A//www.pkvoices.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Pakistan News, World, Sports, Technology, Urdu Columns - PkVoices.Com
 
