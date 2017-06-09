@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the psdlist.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222544id_/http%3A//whoisprivacyprotect.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdlist.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609134450id_/http%3A//www.psdlist.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal
+# Privacy Policy - Free Download PSD Files Template and Photoshop Graphics Showcase
 
-* * *
+By using this site and downloading the files, you acknowledged have read and agreed to both our disclaimer and privacy policy. We reserve the right to amend these terms from time to time.
 
-**Cookies.** Third parties may be placing or reading "cookies" on your web browser. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your web browser to enable its systems to recognize your browser. These cookies are persistent, identifying cookies that remember your information and link your activities to you. While you can take steps to warn off, block or disable these cookies, if you do, this website may not function and appear as it is designed. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. These cookies collect information such as the following:
+**Disclaimer**  
+This disclaimer is a legal agreement between you and PSDList.com. By downloading any material from our site or using them you agree that you have read and understood that the file copyrights belongs to their respective owners. In cases, where there are no visible copyright notices, you need to assume that the file is copyrighted. Any use of the file downloads is at your sole responsibility. We do not take any responsibility and we are not liable for any damage caused through use of these products, be it indirect, special, incidental or consequential damages (including but not limited to damages for loss of business, loss of profits, interruption or the like). To the best of our knowledge, all file available on this site are free for redistribution. Should you encounter a file that is not, please email us so that it can be immediately removed.
 
-  * the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
-  * the date and time you access the website and pages you visit;
-  * your computer's IP address and information about its operating system, platform and the web browser type and version you use;
-  * demographic and other non-personally identifiable profile information about you; and
-  * information to combat fraud or misuse
+**Privacy Policy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
+On some pages, you may enter your email adress (to contact us). We use the email you provide for mailing service. We never use or share the email adress provided to us online in ways unrelated to the ones described above. Such addresses are not used for any other purpose and are not shared with outside parties.
 
+Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to us will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to contact as at info[at]psdlist.com.
 
-**Collection of Information by Third Parties.** This website may include third-party advertising, links to other websites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. The operator of this website may share non-personally identifiable (e.g., demographic) information to facilitate delivery of relevant advertisements. These third-party websites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use technology to deliver (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize or optimize advertising content. We do not have access to or control over cookies or other technologies that they may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies. Some, but not all, third party advertising companies provide a mechanism to opt-out of their technology. For more information and an identification of advertisers that provide an opt-out mechanism, please click the following: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+PSDList.com have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of: <http://www.google.com/privacy.html>
+
+If you feel that this site is not following its stated information policy, you may contact us at info[at]psdlist.com.
