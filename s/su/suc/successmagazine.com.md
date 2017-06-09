@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successmagazine.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130144616id_/http%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successmagazine.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609191937id_/http%3A//www.success.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SUCCESS
 
@@ -20,7 +20,7 @@ You also understand that when you post information to our Site, it may be indexa
 
 ## How the Information is Used.
 
-By using this website, you agree that SUCCESS may use the information you give it to provide services to you or provide information, notices and reminders that SUCCESS thinks you may find interesting or useful, or that you specifically requested. We may from time-to-time provide your name and email address to authors (or their representatives) of products you purchase via our site. SUCCESS may also use the information for other actions you take or other services you request on our Site.
+By using this website, you agree that SUCCESS may use the information you give it to provide services to you or provide information, notices and reminders that SUCCESS thinks you may find interesting or useful, or that you specifically requested. We may from time-to-time provide your name and email address to marketing partners. SUCCESS may also use the information for other actions you take or other services you request on our Site.
 
 Your responses to and results from the questionnaires and/or surveys that you may complete are owned by us, and we and others may use them in a variety a ways to enhance our delivery of information and services to you. We may also share results with third parties, including market research firms, but in so doing, we will not include your personal information. Instead, results will be aggregated (for example, by age range, geographic region, etc.).
 
