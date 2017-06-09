@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearpointstrategy.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404213022id_/https%3A//www.clearpointstrategy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpointstrategy.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609055120id_/http%3A//www.clearpointstrategy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ClearPoint Strategy
 
@@ -122,4 +122,4 @@ ClearPoint Strategy reserves the right to change this Privacy Statement. ClearPo
 
 ### 13\. Contacting us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to ClearPoint Strategy Privacy by [clicking here](https://www.clearpointstrategy.com/contact-us) or by mailing ClearPoint StrategyPrivacy, 75 Arlington Street, 5th Floor, Boston, MA 02116 
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to ClearPoint Strategy Privacy by [clicking here](https://offer.clearpointstrategy.com/contact) or by mailing ClearPoint StrategyPrivacy, 75 Arlington Street, 5th Floor, Boston, MA 02116
