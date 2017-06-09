@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theboltonnews.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122061051id_/http%3A//www.theboltonnews.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theboltonnews.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609140020id_/http%3A//www.theboltonnews.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
