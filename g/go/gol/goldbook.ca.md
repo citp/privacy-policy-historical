@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goldbook.ca privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116200944id_/http%3A//www.metroland.com/page/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbook.ca privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609200218id_/http%3A//www.metroland.com/page/Privacy%2520Policy) for the most accurate reproduction.*
 
-# Metroland Media | Privacy Policy
+# Metroland - Privacy Policy
 
-[Voir en français](http://metroland.com/politique-de-confidentialite)
+[Voir en français](https://web.archive.org/politique-de-confidentialite)
 
-#### Privacy Code
+### Privacy Code
 
 **Our commitment to privacy:** Metroland Media Group Ltd. and its subsidiaries ("Metroland") know that protecting the privacy and confidentiality of your personal information is important to you. This Privacy Policy governs the collection, use and disclosure of your personal information in any form, whether written or electronic, by Metroland. The collection, use and disclosure of your personal information is governed by the Personal Information Protection and Electronic Documents Act (the “Act”), and any applicable provincial legislation. This Privacy Policy explains what personal information may be collected from you and how it is used. It also explains how you can ask questions, make suggestions, and express concerns about our privacy practices.
 
@@ -64,7 +64,7 @@ We may combine personal information we have collected about you or received from
 
 **User Generated Content**
 
-All information, data, text, graphics, images, messages, reviews, opinions, suggestions or other materials created by users on any Site, including but not limited to its comment forums and chat boards, is public information and may be used and disclosed by Metroland in accordance with Metroland’s [Terms and Conditions.](http://metroland.com/terms-of-use)
+All information, data, text, graphics, images, messages, reviews, opinions, suggestions or other materials created by users on any Site, including but not limited to its comment forums and chat boards, is public information and may be used and disclosed by Metroland in accordance with Metroland’s [Terms and Conditions.](https://web.archive.org/terms-of-use)
 
 **Who does Metroland disclose personal information to, and why?** Metroland may disclose your personal information under the following circumstances:
 
