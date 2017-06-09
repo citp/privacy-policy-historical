@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xilfy.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125122826id_/http%3A//xilfy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilfy.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609103639id_/https%3A//xilfy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Xilfy.com
 
@@ -30,4 +30,4 @@ My Company, Inc. (change this) may update this Privacy Policy from time to time.
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us](http://xilfy.com/contact-us).
+If you have any questions about this Privacy Policy, please [contact us](https://xilfy.com/contact-us).
