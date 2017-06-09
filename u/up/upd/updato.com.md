@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000233id_/http%3A//updato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updato.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609170454id_/http%3A//updato.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Samsung Update
 
 ## Privacy Policy
+
+See [how Google uses data when you use their partners’ sites or apps](https://www.google.com/policies/privacy/partners/).
 
 Updato (“Updato”) operates Updato.com and may operate other websites. It is Updato’s policy to respect your privacy regarding any information we may collect while operating our websites.
 
