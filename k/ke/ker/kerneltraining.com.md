@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kerneltraining.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120030208id_/http%3A//www.kerneltraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerneltraining.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609091651id_/http%3A//www.kerneltraining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - E-learning Portal with Instructor led Online Training Courses
 
-This Privacy Policy governs the manner in which KernelTraining PVT LTD. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.kerneltraining.com](http://www.kerneltraining.com/) website (“Site”).
+This Privacy Policy governs the manner in which KernelTraining PVT LTD. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.kerneltraining.com](https://www.kerneltraining.com/) website (“Site”).
 
 #### Personal identification information:
 
