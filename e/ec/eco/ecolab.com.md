@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227061329id_/http%3A//www.ecolab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecolab.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609143406id_/http%3A//www.ecolab.com/privacy-policy) for the most accurate reproduction.*
 
-# Ecolab Privacy Policy | Ecolab
-
-## ECOLAB INC. PRIVACY POLICY STATEMENT
+# Ecolab Privacy Policy
 
 ## A. Ecolab Commitment to Data Privacy Protection
 
@@ -102,19 +100,18 @@ Upon request, Ecolab will grant individuals reasonable access to Personal Data t
 
 ## N. EU – U.S. Privacy Shield 
 
-Ecolab complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Ecolab has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>. 
+Ecolab complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Ecolab has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. 
 
 ## O. U.S. – Switzerland Safe Harbor Framework
 
 Ecolab complies with the U.S-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the Switzerland to the United States. Ecolab has certified to the Department of Commerce that it adheres to the Safe Harbor Principles. If there is any conflict between the terms in this privacy policy and the Safe Harbor Principles, the Safe Harbor Principles shall govern. 
 
-To learn more about the Safe Harbor Framework, and to view our certification, please visit <http://www.export.gov/safeharbor/>
+To learn more about the Safe Harbor Framework, and to view our certification, please visit <http://www.export.gov/safe-harbor>
 
 ## P. Privacy Shield Dispute Resolution and Arbitration 
 
-The Federal Trade Commission has jurisdiction regarding investigation and enforcement of Ecolab’s compliance with the Privacy Shield.
-
-In compliance with the Privacy Shield and Safe Harbor Principles, Ecolab commits to resolve complaints about our collection or use of your personal information. Data Subjects in the EU or EEA with inquiries or complaints regarding Ecolab’s privacy policy and compliance with Privacy Shield should first contact Ecolab’s general data privacy contact at: 
+The Federal Trade Commission has jurisdiction regarding investigation and enforcement of Ecolab’s compliance with the Privacy Shield.   
+In compliance with the Privacy Shield and Safe Harbor Principles, Ecolab commits to resolve complaints about our collection or use of your personal information. Employees in the EU or EEA with inquiries or complaints regarding Ecolab’s privacy policy and compliance with Privacy Shield should first contact your human resources manager or Ecolab’s general data privacy contact at: 
 
 **PHONE:** 844-880-8355 | **EMAIL:** [dataprivacy@ecolab.com](mailto:dataprivacy@ecolab.com)
 
