@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515053229id_/https%3A//www.apliiq.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apliiq.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609045246id_/https%3A//www.apliiq.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Apliiq
 
@@ -101,7 +101,7 @@ Personal information at Apliiq is kept confidential and is disclosed only with t
 
 Parents can review any information Apliiq has received from a child and the parent can have that information deleted and the parent can forbid the collection of additional information from their child. If you want to review any information obtained from your child or if you want to have any information obtained from your child deleted from the Apliiq records or to forbid any use of such information, you may send a request to Apliiq Customer Support by emailing cs@apliiq.com. Alternatively, you may contact the Apliiq Child Privacy Representative by phone, email, or letter at:
 
-Apliiq Inc. Attn: Privacy 440 Seaton St. #207 Los Angeles, CA 90013 cs@apliiq.com 213 253 2727 
+Apliiq Inc. Attn: Privacy 1382 E. Washington Blvd, los angeles, ca 90021 cs@apliiq.com 213-263-4226 
 
 ### 
 
