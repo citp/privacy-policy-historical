@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080946id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esyndicat.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610011900id_/http%3A//www.esyndicat.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: eSyndiCat Directory Software, Directory Script, Business Directory Software, Link Bid Script
 
@@ -26,4 +26,4 @@ Alternatively you can report piracy using our [contact form](http://www.esyndica
 
 ## Testimonials
 
-Great support and fast!
+If i can force others to try it I realy Would do it 
