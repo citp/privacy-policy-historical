@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotelchocolat.co.uk privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027053318id_/http%3A//www.hotelchocolat.com/uk/help/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelchocolat.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609151703id_/http%3A//www.hotelchocolat.com/uk/help/security-and-privacy.html) for the most accurate reproduction.*
 
 # Security and Privacy Policy Information - Hotel Chocolat
 
-Hotel Chocolat is committed to ensuring that your privacy is protected and that we fully comply at all times with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003.
+Hotel Chocolat is committed to ensuring that your privacy is protected and that we fully comply at all times with the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003 and all other applicable legislation.
 
 **1\. The information we collect and how we use it**
 
@@ -10,13 +10,13 @@ When you order or enquire about our products we need to know your name, address,
 
 We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual. From time to time we may provide your information to our customer service agencies for research and analysis purposes so that we can monitor and improve the products and services we provide. We or our agents and sub-contractors may contact you by mail, email or telephone to ask you for your feedback and comments on our products and services.
 
-We and our group companies may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you. If you would rather not receive this information, please click [here](http://www.hotelchocolat.com/uk/my-account/manage-your-communication-preferences). You can also unsubscribe from our contact list at any time by replying to a marketing email with the word "unsubscribe" in the subject line, by emailing [help@hotelchocolat.com](mailto:help@hotelchocolat.com) or by calling us on (+44) 3444 93 23 23.
+We and our group companies may also wish to provide you with information about special features of our website or any other service or products we think may be of interest to you but we will not do so without your expressed consent. If you would rather not receive this information, please manage your communications in your account. You can also unsubscribe from our contact list at any time by replying to a marketing email with the word "unsubscribe" in the subject line, by emailing us or by calling us on (+44) 3444 93 23 23.
 
-We may also want to provide you with related information from third parties we think may be of interest to you. If you would rather not receive this information, please login to your account and change your preferences by clicking [here](http://www.hotelchocolat.com/uk/my-account/update-your-details). We may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If you do not wish us to disclose your information in this way, please login to your account and change your preferences by clicking [here](http://www.hotelchocolat.com/uk/my-account/update-your-details).
+We may also want to provide you with related information from third parties we think may be of interest to you but we will not do so without your expressed consent. If you would rather not receive this information, please login to your account and change your preferences. We may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. If you do not wish us to disclose your information in this way, please login to your account and change your preferences in your account.
 
 **2\. Our use of cookies and other information gathering technologies**
 
-A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our services to you. The information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our services to you. The information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 Some of these cookies are essential for you to use hotelchocolat.com.
 
@@ -24,11 +24,11 @@ To order products on our website you will need to have cookies enabled. If you d
 
 Three types of cookies may be used during your visit to hotelchocolat.com.
 
-  * Hotel Chocolat session cookies that are deleted after each visit
-  * Hotel Chocolat persistent cookies are not deleted after each visit
-  * Third party cookies that are used by our partners, for example, to help us measure the visitors 
+· Hotel Chocolat session cookies that are deleted after each visit
 
+· Hotel Chocolat persistent cookies are not deleted after each visit
 
+· Third party cookies that are used by our partners, for example, to help us measure the visitors
 
 **3\. How we protect your information**
 
@@ -40,7 +40,7 @@ If this business is sold or integrated with another business your details may be
 
 **5\. Updating your details**
 
-If any of the information that you have provided to us changes, for example if you change your email address or name, please login to your account by clicking [here](http://www.hotelchocolat.com/uk/my-account/update-your-details). If you wish to cancel your registration, please send an email by clicking [here](mailto:help@hotelchocolat.com), or by sending a letter to Hotel Chocolat Ltd, Mint House, Royston, Hertfordshire, SG8 5HL, England.
+If any of the information that you have provided to us changes, for example if you change your email address or name, please login to your account. If you wish to cancel your registration, please send an email to us, or by sending a letter to Hotel Chocolat Ltd, Mint House, Royston, Hertfordshire, SG8 5HL, England.
 
 **6\. Your consent**
 
@@ -48,4 +48,12 @@ By submitting your information you consent to the use of that information as set
 
 **7\. How to contact Hotel Chocolat**
 
-We welcome your views about our website and our Security and Privacy Privacy Policy. If you would like to contact us with any queries or comments please send an email by clicking [here](mailto:help@hotelchocolat.com).
+We welcome your views about our website and our Privacy Policy. If you would like to contact us with any queries or comments please contact us.
+
+**8\. Changes to this Policy**
+
+We reserve the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the website and you are deemed to have accepted the terms of the Policy on your first use of the website following the alterations.
+
+**9\. Marketing Permissions**
+
+Hotel Chocolat will send you from time to time catalogues, special offers and promotions by post, email, text message and telephone but we will not do so without your express consent. If you do not wish to receive any further email, text or telephone calls from us please login to your account and change your preferences in your account. If you do not wish to receive any further posted mailings from us, please email: [customerservice@hotelchocolat.com](mailto:customerservice@hotelchocolat.com). Please ensure you include your full name and address as well as account number if applicable. If you have opted in to receiving offers in the post from companies who we think may interest you, but have now changed your mind, please login to your account and change your preferences in your account. Please ensure you include your full name and address as well as account number, if applicable. As catalogues are printed in advance, so it may take up to 8 weeks for the process to be complete, for emails it may take up to 4 weeks.
