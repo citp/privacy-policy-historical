@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kulula-air.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328220022id_/http%3A//www.kulula.com/general/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kulula-air.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610003456id_/http%3A//www.kulula.com/general/legal/privacy-policy) for the most accurate reproduction.*
 
-# legal - kulula.com privacy policy - kulula.com
+# Legal - kulula.com privacy policy - kulula.com
 
-## introduction
+## Introduction
 
 Thank you for visiting the web site of kulula.com. This Privacy Policy is subject to the terms and conditions of the kulula.com web site, and all definitions contained in such terms and conditions shall apply equally to this Privacy Policy.
 
@@ -10,7 +10,7 @@ The privacy of individuals visiting our web site is of importance to us. By cont
 
 Amendments to this Privacy Policy may be made from time to time and any such amendments will be made available on this web site.
 
-## information collected
+## Information collected
 
 We collect and store the following personal information of users of this web site:
 
@@ -19,7 +19,7 @@ We collect and store the following personal information of users of this web sit
 
 
 
-## use of information
+## Use of information
 
 The personal information collected on this web site may be used to provide and improve services to you and to operate and improve browsing and interaction via this web site. In addition, we may use this information to provide marketing information to you.
 
@@ -34,12 +34,12 @@ You agree that your personal information may be shared with (amongst others) the
 
 
 
-## security
+## Security
 
 All reasonable steps will be taken to ensure the integrity, security and confidentiality of your personal information. However, while we exercise great care in providing secure transmission of your personal information, we cannot guarantee the security of any information transmitted via the internet to or from this web site and you accordingly agree that you transmit such information at your own risk.
 
 You must ensure that your username and passwords or personal identification numbers are not revealed to any other persons. Should you divulge such information, we accept no liability for any resulting losses.
 
-## links
+## Links
 
 Please note that if you are directed to or make use of any external links on this Web Site to another web site, such web sites are not subject to this Privacy Policy.
