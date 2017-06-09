@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v4orkut.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611212107id_/http%3A//www.v4orkut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v4orkut.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609161955id_/http%3A//www.v4orkut.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - V4orkut.Com
 
