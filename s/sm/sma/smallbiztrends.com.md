@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053115id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609031851id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
 
 # Small Business Trends | Privacy Policy
 
