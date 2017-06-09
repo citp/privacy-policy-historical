@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201034942id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianbrides.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609082112id_/http%3A//www.russianbrides.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - RussianBrides.com
 
@@ -142,5 +142,3 @@ RussianBrides.com reserves the right to change, modify or amend this policy at a
 ### Effective Date
 
 This privacy statement was last revised on March 20, 2015.
-
-### Registered addresses:
