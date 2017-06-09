@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810110134id_/http%3A//tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombraiders.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609070753id_/http%3A//tombraiders.net/stella/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Tombraiders.net | Stella's Site
 
@@ -16,7 +16,7 @@ When you subscribe to my blog feed or send me a message by email or through my
 
 The only exception to this rule is in the case of contests, when I may have to share the winners' information with the company providing or shipping the prizes. The individual contest rules explain which information will be shared.
 
-If you have subscribed to blog updates and would like to unsubscribe, please do so through the feed provider (e.g., FeedBurner, Google Friend Connect, etc.) or send me a request by email and you will be removed from the list immediately.
+If you have subscribed to blog updates and would like to unsubscribe, please do so through the feed provider (e.g., Bloglovin', Google Friend Connect, etc.) or send me a request by email and you will be removed from the list immediately.
 
 ##### LOG FILES & STATISTICS
 
