@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetlevel.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123111302id_/http%3A//theboombox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetlevel.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609233253id_/http%3A//theboombox.com/privacy) for the most accurate reproduction.*
 
 # Rap, R&B and Hip Hop Music News and Videos
 
