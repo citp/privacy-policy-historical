@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soda.media privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193601id_/http%3A//soda.media/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soda.media privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609212103id_/http%3A//soda.media/pp.html) for the most accurate reproduction.*
 
 # Soda Media | Real-time bidding platform
 
