@@ -1,24 +1,26 @@
-> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230506id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609051009id_/http%3A//www.rent.com/company/privacy-full) for the most accurate reproduction.*
 
 # Privacy Policy - Rent.com®
 
-May 14, 2015
+## Legal Notice
+
+June 8, 2017
 
 ### What's New with the Rent.com Privacy Policy?
 
-RentPath, LLC, the parent company of Rent.com, has revised the Rent.com Privacy Policy to include how we may collect, use and disclose certain information provided by users. 
+RentPath, LLC has revised the Rent.com Privacy Policy effective June 8, 2017 (the “Effective Date”) to add provisions relating to our Use and Disclosure of certain information you provide to us. The revised terms are found in Sections 3 and 4. 
 
-PLEASE NOTE THAT THESE MODIFICATIONS ARE EFFECTIVE IMMEDIATELY FOR USERS OF THE WEBSITE OR APPLICATION ON OR AFTER MAY 14, 2015. 
+PLEASE NOTE THAT THESE MODIFICATIONS ARE EFFECTIVE IMMEDIATELY FOR NEW USERS OF THE WEBSITE OR APPLICATION ON OR AFTER THE EFFECTIVE DATE, AND ON JUNE 18, 2017 FOR ANY USERS OF THE WEBSITE PRIOR TO THE EFFECTIVE DATE.
 
-WE URGE YOU TO CAREFULLY REVIEW THE FULL PRIVACY POLICY. BY USING THE WEBSITE OR APPLICATION, YOU CONSENT TO ALL OF SUCH TERMS AS MODIFIED.
+WE URGE YOU TO CAREFULLY REVIEW THE ENTIRE PRIVACY POLICY. BY USING OR CONTINUING TO USE THE WEBSITE OR APPLICATION, YOU CONSENT TO ALL PRIVACY POLICY MODIFICATIONS. 
 
-[ **Click here to learn more about how we handle do-not-track signals and user tracking**](https://web.archive.org/company/privacy-do-not-track/)
+[**Click here to learn more about how we handle do-not-track signals and user tracking**](https://web.archive.org/company/privacy-do-not-track/)
 
 Rent.com is a technology platform owned and operated by Viva Group LLC, a subsidiary of RentPath, LLC ("RentPath"). The rental advertisements and related services accessed on Rent.com or through its tools, applications or services ("Rent.com") are procured and provided by RentPath and its subsidiaries and affiliates.
 
   1. ### Scope.
 
-This Privacy Policy describes how we handle your personal information on the Rent.com website (the "Website"), the Rent.com mobile applications (collectively, the "App"), and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Use when you submit a property contact form on Rent.com, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where RentPath has facilities.
+This Privacy Policy describes how we handle your personal information on the Rent.com website (the "Website"), the Rent.com mobile applications (collectively, the "App"), and on other related sites, tools, applications, or services. By accepting the Privacy Policy and the Terms of Service when you submit a property contact form on Rent.com, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy, including its transfer to and storage on our servers in the United States or elsewhere in the world where RentPath has facilities.
   2. ### Collection.
 
 When you submit a property contact form on the Website we will collect your name and email address. In addition, we may obtain additional information from you if you register an account on Rent.com or choose to create a "Renter Card" or otherwise submit similar information to us on the Website or the App. While you can use many functions of Rent.com without being a registered user, certain activities may require registration. Once you give us your email address or any other personal information, you are not anonymous to us. In most cases, the information we hold about you is collected through Rent.com, but we may also collect information from private-label, co-branded and affiliate websites and/or from third parties with whom we have entered into an arrangement for such collection, or from their respective tools, applications or services ("Other Sites"). Accordingly, our privacy policy may apply to you even if you are not a registered user of our Website. Depending on the services used, we may collect and store the following personal information:
@@ -43,6 +45,7 @@ Our primary purpose in collecting personal information is to provide you with a 
     * customize your experience and otherwise measure and improve Rent.com's services.
     * send you relevant residential real estate related listings via email, phone, text messaging or push notification on your phone (provided you have not opted out of such communications).
     * deliver targeted marketing, service updates, and promotional offers based on your communication preferences. (If we use your personal information to market to you, you will be able to opt-out of such uses; see below under Section 5. Communications and Communications Tools; Email Preferences and Section 6. Cookies.)
+    * connect you with third parties that provide products or services related to moving or relocating.
     * make payments to third parties through the Website or the App, should you choose to do so.
     * request your review of a property.
     * compare information for accuracy and verify it with third parties.
@@ -54,9 +57,9 @@ Our primary purpose in collecting personal information is to provide you with a 
     * prepare aggregated data, including for general marketing and analytical purposes.
   4. ### Disclosure.
 
-We reserve the right to use and disclose in any manner, any non-personal, non-identifiable information including in the form of aggregated data that we collect by use of cookies and traffic data, or that you share with us through the guest card or Renter Card. However, we will not sell or rent your personal information to any third parties. We may share some or all of your personal information with:
-    * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Use or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
-    * Other third parties whose services you agree to use (e.g., online rent payment services), with regard to whom you have expressed interest or initiated communication through Property Contact Forms (See Section 5 Communications and Communications Tools), and with whom you have authorized us to share your personal information. (The information we disclose in this way will be subject to those third parties' privacy policies.)
+We reserve the right to use and disclose in any manner, any non-personal, non-identifiable information including in the form of aggregated data that we collect by use of cookies and traffic data, or that you share with us through the guest card or Renter Card. We may provide some or all of your personal information, including email addresses, to:
+    * Law enforcement offices, third-party rights owners or others in the good faith belief that such disclosure is reasonably necessary to enforce our Terms of Service or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+    * Other third parties who offer products or services that may be relevant to you, whose services you agree to use (e.g., online rent payment services), with regard to whom you have expressed interest or initiated communication through Property Contact Forms (See Section 5 Communications and Communications Tools), or with whom you have authorized us to share your personal information. (The information we disclose in this way will be subject to those third parties' privacy policies.)
     * Service providers under contract who help with our business operations (such as fraud investigations, bill collection, invoicing, telecommunication and call monitoring services, rewards programs, co-branded credit cards, etc.).
     * Another business entity should we plan to merge with, or sell substantially all our assets to that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.)
 
@@ -90,7 +93,7 @@ Rent.com has links to other websites that may collect personal information about
 
   8. ### Accessing, Reviewing and Changing Your Personal Information.
 
-You can see, review and change most of your personal information by logging into Rent.com and editing your account profile. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and for purposes otherwise permitted by law.
+You can see, review and change most of your personal information by logging into Rent.com and editing your account profile. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service, and for purposes otherwise permitted by law.
   9. ### Account Protection.
 
 Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your Rent.com password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify Rent.com and change your password.
@@ -108,13 +111,16 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 We may amend this Privacy Policy at any time by posting the amended terms on Rent.com. We'll provide you with notice of the changes on the Website. Amended terms take effect upon acceptance for new users and 10 days after they are posted on Rent.com for all other users.
   14. ### Questions:
 
-Questions regarding this policy should be directed to the following address:Attn: General Counsel  
+Questions regarding this policy should be directed to the following address:  
 RentPath, LLC  
-950 East Paces Ferry Road NE  
-Suite 2600  
+Attn: General Counsel
+
+950 East Paces Ferry Road, NE Suite 2600  
 Atlanta, GA 30326
 
 or via email to [privacy@rentpath.com](mailto:privacy@rentpath.com)
+
+Last updated June 8, 2017 
 
 
 
