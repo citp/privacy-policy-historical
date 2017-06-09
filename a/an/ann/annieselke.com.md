@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118215150id_/http%3A//annieselke.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annieselke.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609090630id_/http%3A//annieselke.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Annie Selke
 
-Updated Privacy Policy June 2016
+Updated Privacy Policy February 2017
 
 ## OUR COMMITMENT TO PRIVACY
 
@@ -52,7 +52,11 @@ We work with third-party companies that use tracking technologies (including coo
 
 #### WHAT ABOUT LINKS TO OTHER WEBSITES?
 
-For your convenience and information, our websites may contain links to other sites which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to, providing any personal information to any other website..
+For your convenience and information, our websites may contain links to other sites which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to, providing any personal information to any other website.
+
+#### CATALOG MAILING LIST
+
+If you no longer wish to receive catalogs from Annie Selke, please [click here](mailto:info@annieselke.com) or contact us at 877-586-4771. In order to remove you from our list, you must provide your name and mailing address as shown on your catalog. We will remove your name from our mailing list as soon as possible. Please keep in mind that you may receive another catalog before we are able to remove you from our mailing list. On occasion, we may share information from our catalog mailing list with our business partners. If you do not want your name and address shared with other organizations, contact us at 877-586-4771. 
 
 #### HOW DO I CONTACT YOU?
 
@@ -66,7 +70,7 @@ Pittsfield, MA  01201
 
 877 586 4771
 
-info@pineconehill.com 
+[Email us](mailto:info@annieselke.com)
 
 The Outlet at Pine Cone Hill
 
