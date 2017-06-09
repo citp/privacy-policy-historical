@@ -1,77 +1,77 @@
-<!--The following is the downloaded HTML source of the smartlivingcompany.com privacy policy that was archived on 2016-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224135032id_/http%3A//www.smartlivingcompany.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartlivingcompany.com privacy policy that was archived on 2017-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609020959id_/http%3A//www.smartlivingcompany.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/4035.js?438995" async="" type="text/javascript"></script><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MQVG3R"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8PU1NTGwAAUVhSAwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0023/4035.js?438995" async="" type="text/javascript"></script><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MQVG3R"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8PU1NTGwAAUVhSAwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
 <title>Privacy Policy</title>
 <meta name="description" content="Members save up to 60% off on all products! Shop our home décor, furniture, lanterns, fountains, hammocks, birdhouses, and more. Learn to start your own home business.">
 <meta name="keywords" content="smart living company, home goods, furniture, giftware, lighting, work from home, home business, drop shipping, slc">
 <meta name="robots" content="INDEX,FOLLOW">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<link rel="icon" href="http://www.smartlivingcompany.com/media/favicon/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="http://www.smartlivingcompany.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.smartlivingcompany.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.smartlivingcompany.com/media/favicon/default/favicon.ico" type="image/x-icon">
 
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
-    var BLANK_URL = 'http://www.smartlivingcompany.com/js/blank.html';
-    var BLANK_IMG = 'http://www.smartlivingcompany.com/js/spacer.gif';
-    var BLANK_IMG = 'http://www.smartlivingcompany.com/js/spacer.gif';
+    var BLANK_URL = 'https://www.smartlivingcompany.com/js/blank.html';
+    var BLANK_IMG = 'https://www.smartlivingcompany.com/js/spacer.gif';
+    var BLANK_IMG = 'https://www.smartlivingcompany.com/js/spacer.gif';
 //]]>
 </script>
 <![endif]-->
 <script type="text/javascript">
     var BASE_URL='http://www.smartlivingcompany.com/';
     var SECURE_BASE_URL='https://www.smartlivingcompany.com/';
-    var CURRENT_URL = 'http://www.smartlivingcompany.com/privacy-policy';
+    var CURRENT_URL = 'https://www.smartlivingcompany.com/privacy-policy';
 </script>
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/styles.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/base/default/css/widgets.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/slick.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/slick-theme.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/base/default/css/amscroll.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/base/default/css/amshopby.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/base/default/css/addressvalidation.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/jquery.mCustomScrollbar.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/jquery-ui.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/ico_font.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/custom_b.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/responsive_b.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/custom_r.css?v=1.0.3" media="all">
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/print.css?v=1.0.3" media="print">
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/jquery.min.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/jquery-ui.min.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/bootstrap.min.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/prototype/prototype.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/lib/ccard.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/prototype/validation.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/scriptaculous/builder.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/scriptaculous/effects.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/scriptaculous/dragdrop.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/scriptaculous/controls.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/scriptaculous/slider.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/varien/js.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/varien/form.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/varien/menu.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/mage/translate.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/mage/cookies.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/slc/multiple.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/amasty/amscroll/amscroll.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/elastic-search.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/jquery-migrate-1.2.1.min.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/slick.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/qs/addressvalidation/helper.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/qs/addressvalidation/validate.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/jquery.mCustomScrollbar.concat.min.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/custom_b.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/custom_r.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/js/responsiveArea.js?v=1.0.3"></script>
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/styles.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/base/default/css/widgets.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/slick.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/slick-theme.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/base/default/css/amscroll.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/base/default/css/amshopby.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/base/default/css/addressvalidation.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/jquery.mCustomScrollbar.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/jquery-ui.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/ico_font.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/custom_b.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/responsive_b.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/custom_r.css?v=1.0.3" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/print.css?v=1.0.3" media="print">
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/jquery.min.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/jquery-ui.min.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/bootstrap.min.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/prototype/prototype.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/lib/ccard.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/prototype/validation.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/scriptaculous/builder.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/scriptaculous/effects.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/scriptaculous/dragdrop.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/scriptaculous/controls.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/scriptaculous/slider.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/varien/js.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/varien/form.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/varien/menu.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/mage/translate.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/mage/cookies.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/slc/multiple.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/amasty/amscroll/amscroll.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/elastic-search.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/jquery-migrate-1.2.1.min.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/slick.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/qs/addressvalidation/helper.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/qs/addressvalidation/validate.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/jquery.mCustomScrollbar.concat.min.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/custom_b.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/custom_r.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/js/responsiveArea.js?v=1.0.3"></script>
 <!--[if lt IE 8]>
-<link rel="stylesheet" type="text/css" href="http://www.smartlivingcompany.com/skin/frontend/slc/slc/css/styles-ie.css?v=1.0.3" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.smartlivingcompany.com/skin/frontend/slc/slc/css/styles-ie.css?v=1.0.3" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/js/lib/ds-sleight.js?v=1.0.3"></script>
-<script type="text/javascript" src="http://www.smartlivingcompany.com/skin/frontend/base/default/js/ie6.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/js/lib/ds-sleight.js?v=1.0.3"></script>
+<script type="text/javascript" src="https://www.smartlivingcompany.com/skin/frontend/base/default/js/ie6.js?v=1.0.3"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -134,7 +134,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 <div class="top_header_wrap">
     <div class="top_header">
-        <div class="join_today"><a href="http://www.smartlivingcompany.com/shopper/">Join Today and Save up to 40%!</a></div>
+        <div class="join_today"><a href="https://www.smartlivingcompany.com/shopper/">Join Today and Save up to 40%!</a></div>
 
         <div class="right_section">
 
@@ -147,9 +147,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 </div>    <div class="header">
-                <h1 class="logo"><strong>SmartLivingCompany.com</strong><a href="http://www.smartlivingcompany.com/" title="SmartLivingCompany.com" class="logo"><img src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/images/logo.png" alt="SmartLivingCompany.com"></a></h1>
+                <h1 class="logo"><strong>SmartLivingCompany.com</strong><a href="http://www.smartlivingcompany.com/" title="SmartLivingCompany.com" class="logo"><img src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/images/logo.png" alt="SmartLivingCompany.com"></a></h1>
                 
-<form id="search_mini_form" action="http://www.smartlivingcompany.com/catalogsearch/result/" method="get">
+<form id="search_mini_form" action="https://www.smartlivingcompany.com/catalogsearch/result/" method="get">
     <div class="form-search">
         <input id="search" type="text" name="q" value="" class="input-text" autocomplete="off" maxlength="128">
         <div class="mini-form-search-wrapper">
@@ -178,7 +178,7 @@ jQuery(document).ready(function($) {
         row: 'li',
         rowText: 'span',
         activeClass: 'active',
-        searchUrl: "http://www.smartlivingcompany.com/front_elastic/search/fetch/",
+        searchUrl: "https://www.smartlivingcompany.com/front_elastic/search/fetch/",
         form: '#search_mini_form'
     });
 
@@ -312,7 +312,7 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-1-1-1 first">
 <a href="http://www.smartlivingcompany.com/furniture/furniture-top/cabinets">
-<span>Cabinets (26)</span>
+<span>Cabinets (24)</span>
 </a>
 </li><li class="level2 nav-1-1-2">
 <a href="http://www.smartlivingcompany.com/furniture/furniture-top/desks">
@@ -324,15 +324,15 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-1-1-4">
 <a href="http://www.smartlivingcompany.com/furniture/furniture-top/shelves">
-<span>Shelves (26)</span>
+<span>Shelves (25)</span>
 </a>
 </li><li class="level2 nav-1-1-5">
 <a href="http://www.smartlivingcompany.com/furniture/furniture-top/stools">
-<span>Stools (37)</span>
+<span>Stools (36)</span>
 </a>
 </li><li class="level2 nav-1-1-6 last">
 <a href="http://www.smartlivingcompany.com/furniture/furniture-top/tables">
-<span>Tables (63)</span>
+<span>Tables (60)</span>
 </a>
 </li>
 </ul>
@@ -347,19 +347,19 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-1-2-8">
 <a href="http://www.smartlivingcompany.com/furniture/patio/garden-stools">
-<span>Garden Stools (16)</span>
+<span>Garden Stools (13)</span>
 </a>
 </li><li class="level2 nav-1-2-9">
 <a href="http://www.smartlivingcompany.com/furniture/patio/hammocks">
-<span>Hammocks (12)</span>
+<span>Hammocks (13)</span>
 </a>
 </li><li class="level2 nav-1-2-10">
 <a href="http://www.smartlivingcompany.com/furniture/patio/patio-chairs">
-<span>Patio Chairs (7)</span>
+<span>Patio Chairs (5)</span>
 </a>
 </li><li class="level2 nav-1-2-11 last">
 <a href="http://www.smartlivingcompany.com/furniture/patio/patio-sets">
-<span>Patio Sets (10)</span>
+<span>Patio Sets (9)</span>
 </a>
 </li>
 </ul>
@@ -381,15 +381,15 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-2-1-2">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/baskets">
-<span>Baskets (6)</span>
+<span>Baskets (11)</span>
 </a>
 </li><li class="level2 nav-2-1-3">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/decorative-pillows">
-<span>Decorative Pillows (31)</span>
+<span>Decorative Pillows (20)</span>
 </a>
 </li><li class="level2 nav-2-1-4">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/decorative-trays">
-<span>Decorative Trays &amp; Dishes (36)</span>
+<span>Decorative Trays &amp; Dishes (33)</span>
 </a>
 </li><li class="level2 nav-2-1-5">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/door-stoppers">
@@ -397,7 +397,7 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-2-1-6">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/screens-room-dividers">
-<span>Fireplace (16)</span>
+<span>Fireplace (19)</span>
 </a>
 </li><li class="level2 nav-2-1-7">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/fountains-indoor">
@@ -405,11 +405,11 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-2-1-8">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/photo-frames">
-<span>Photo Frames (36)</span>
+<span>Photo Frames (33)</span>
 </a>
 </li><li class="level2 nav-2-1-9 last">
 <a href="http://www.smartlivingcompany.com/decor/decor-top/vases">
-<span>Vases (59)</span>
+<span>Vases (50)</span>
 </a>
 </li>
 </ul>
@@ -420,23 +420,23 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-2-2-10 first">
 <a href="http://www.smartlivingcompany.com/decor/wall-decor/display-shelves-racks">
-<span>Display Shelves &amp; Racks (20)</span>
+<span>Display Shelves &amp; Racks (30)</span>
 </a>
 </li><li class="level2 nav-2-2-11">
 <a href="http://www.smartlivingcompany.com/decor/wall-decor/mirrors">
-<span>Mirrors (24)</span>
+<span>Mirrors (32)</span>
 </a>
 </li><li class="level2 nav-2-2-12">
 <a href="http://www.smartlivingcompany.com/decor/wall-decor/wall-art">
-<span>Wall Art (22)</span>
+<span>Wall Art (25)</span>
 </a>
 </li><li class="level2 nav-2-2-13">
 <a href="http://www.smartlivingcompany.com/decor/wall-decor/wall-decor">
-<span>Wall Decor (69)</span>
+<span>Wall Decor (73)</span>
 </a>
 </li><li class="level2 nav-2-2-14 last">
 <a href="http://www.smartlivingcompany.com/decor/wall-decor/wall-hooks">
-<span>Wall Hooks (29)</span>
+<span>Wall Hooks (28)</span>
 </a>
 </li>
 </ul>
@@ -447,30 +447,34 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-2-3-15 first">
 <a href="http://www.smartlivingcompany.com/decor/decorative-accents/bookcases">
-<span>Bookends (5)</span>
+<span>Bookends (6)</span>
 </a>
 </li><li class="level2 nav-2-3-16">
 <a href="http://www.smartlivingcompany.com/decor/decorative-accents/figurines">
-<span>Figurines &amp; Statues (74)</span>
+<span>Figurines &amp; Statues (85)</span>
 </a>
 </li><li class="level2 nav-2-3-17">
 <a href="http://www.smartlivingcompany.com/decor/decorative-accents/jewelry-holders">
-<span>Jewelry Holders (10)</span>
+<span>Jewelry Holders (12)</span>
 </a>
 </li><li class="level2 nav-2-3-18">
-<a href="http://www.smartlivingcompany.com/decor/decorative-accents/more-decor">
-<span>More Decor (35)</span>
+<a href="http://www.smartlivingcompany.com/decor/decorative-accents/myth-legend">
+<span>Myth &amp; Legend (85)</span>
 </a>
-</li><li class="level2 nav-2-3-19 last parent">
+</li><li class="level2 nav-2-3-19">
+<a href="http://www.smartlivingcompany.com/decor/decorative-accents/more-decor">
+<span>More Decor (47)</span>
+</a>
+</li><li class="level2 nav-2-3-20 last parent">
 <a href="http://www.smartlivingcompany.com/decor/decorative-accents/seasonal">
-<span>Seasonal (67)</span>
+<span>Seasonal (69)</span>
 </a>
 <ul class="level2">
-<li class="level3 nav-2-3-19-1 first">
+<li class="level3 nav-2-3-20-1 first">
 <a href="http://www.smartlivingcompany.com/decor/decorative-accents/seasonal/halloween">
 <span>Halloween </span>
 </a>
-</li><li class="level3 nav-2-3-19-2 last">
+</li><li class="level3 nav-2-3-20-2 last">
 <a href="http://www.smartlivingcompany.com/decor/decorative-accents/seasonal/christmas">
 <span>Christmas </span>
 </a>
@@ -492,23 +496,23 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-3-1-1 first">
 <a href="http://www.smartlivingcompany.com/lighting-candles/lighting-indoor/lamps">
-<span>Lamps (64)</span>
+<span>Lamps (84)</span>
 </a>
 </li><li class="level2 nav-3-1-2">
 <a href="http://www.smartlivingcompany.com/lighting-candles/lighting-indoor/wall-sconces">
-<span>Wall Sconces (48)</span>
+<span>Wall Sconces (57)</span>
 </a>
 </li><li class="level2 nav-3-1-3">
 <a href="http://www.smartlivingcompany.com/lighting-candles/lighting-indoor/oil-warmers">
-<span>Oil Warmers (40)</span>
+<span>Oil Warmers (37)</span>
 </a>
 </li><li class="level2 nav-3-1-4">
 <a href="http://www.smartlivingcompany.com/lighting-candles/lighting-indoor/candles">
-<span>Candles (64)</span>
+<span>Candles (48)</span>
 </a>
 </li><li class="level2 nav-3-1-5 last">
 <a href="http://www.smartlivingcompany.com/lighting-candles/lighting-indoor/candleholders">
-<span>Candleholders (221)</span>
+<span>Candleholders (210)</span>
 </a>
 </li>
 </ul>
@@ -519,11 +523,11 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-3-2-6 first">
 <a href="http://www.smartlivingcompany.com/lighting-candles/outdoor-lighting/lanterns">
-<span>Lanterns (252)</span>
+<span>Lanterns (261)</span>
 </a>
 </li><li class="level2 nav-3-2-7 last">
 <a href="http://www.smartlivingcompany.com/lighting-candles/outdoor-lighting/solar-lighting">
-<span>Solar Lighting (14)</span>
+<span>Solar Lighting (17)</span>
 </a>
 </li>
 </ul>
@@ -541,7 +545,7 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-4-1-1 first">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/barware">
-<span>Barware (8)</span>
+<span>Barware (3)</span>
 </a>
 </li><li class="level2 nav-4-1-2">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/cookware">
@@ -549,27 +553,27 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-4-1-3">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/countertop">
-<span>Countertop (20)</span>
+<span>Countertop (19)</span>
 </a>
 </li><li class="level2 nav-4-1-4">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/cups-mugs-glasses">
-<span>Drinkware (51)</span>
+<span>Drinkware (65)</span>
 </a>
 </li><li class="level2 nav-4-1-5">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/floor-mats">
-<span>Floor Mats (14)</span>
+<span>Floor Mats (11)</span>
 </a>
 </li><li class="level2 nav-4-1-6">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/novelty-kitchen">
-<span>Novelty Kitchen (15)</span>
+<span>Novelty Kitchen (20)</span>
 </a>
 </li><li class="level2 nav-4-1-7">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/tabletop">
-<span>Tabletop (25)</span>
+<span>Tabletop (23)</span>
 </a>
 </li><li class="level2 nav-4-1-8 last">
 <a href="http://www.smartlivingcompany.com/kitchen/tools/wine-accessories">
-<span>Wine Accessories (34)</span>
+<span>Wine Accessories (32)</span>
 </a>
 </li>
 </ul>
@@ -580,11 +584,11 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-4-2-9 first">
 <a href="http://www.smartlivingcompany.com/kitchen/kitchen-prep/aprons">
-<span>Aprons (24)</span>
+<span>Aprons (30)</span>
 </a>
 </li><li class="level2 nav-4-2-10 last">
 <a href="http://www.smartlivingcompany.com/kitchen/kitchen-prep/cutting-boards">
-<span>Cutting Boards (5)</span>
+<span>Cutting Boards (2)</span>
 </a>
 </li>
 </ul>
@@ -599,15 +603,15 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-4-3-12">
 <a href="http://www.smartlivingcompany.com/kitchen/storage/pot-racks">
-<span>Pot Racks (8)</span>
+<span>Pot Racks (6)</span>
 </a>
 </li><li class="level2 nav-4-3-13">
 <a href="http://www.smartlivingcompany.com/kitchen/storage/storage-containers">
-<span>Storage Containers (9)</span>
+<span>Storage Containers (12)</span>
 </a>
 </li><li class="level2 nav-4-3-14">
 <a href="http://www.smartlivingcompany.com/kitchen/storage/trays">
-<span>Trays (8)</span>
+<span>Trays (7)</span>
 </a>
 </li><li class="level2 nav-4-3-15 last">
 <a href="http://www.smartlivingcompany.com/kitchen/storage/wine-racks">
@@ -637,11 +641,11 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-5-1-3">
 <a href="http://www.smartlivingcompany.com/bedbath/bed-top/rugs">
-<span>Rugs (3)</span>
+<span>Rugs (1)</span>
 </a>
 </li><li class="level2 nav-5-1-4 last">
 <a href="http://www.smartlivingcompany.com/bedbath/bed-top/throw-pillows">
-<span>Pillows (34)</span>
+<span>Pillows (22)</span>
 </a>
 </li>
 </ul>
@@ -652,7 +656,7 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-5-2-5 first">
 <a href="http://www.smartlivingcompany.com/bedbath/bath-top/bathdecor">
-<span>Bath Decor (27)</span>
+<span>Bath Decor (26)</span>
 </a>
 </li><li class="level2 nav-5-2-6">
 <a href="http://www.smartlivingcompany.com/bedbath/bath-top/bath-fixtures">
@@ -660,7 +664,7 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-5-2-7 last">
 <a href="http://www.smartlivingcompany.com/bedbath/bath-top/spasets">
-<span>Spa &amp; Lotion Sets (28)</span>
+<span>Spa &amp; Lotion Sets (30)</span>
 </a>
 </li>
 </ul>
@@ -678,7 +682,7 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-6-1-1 first">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/birdhouses">
-<span>Birdhouses (54)</span>
+<span>Birdhouses (56)</span>
 </a>
 </li><li class="level2 nav-6-1-2">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/bird-bath">
@@ -686,19 +690,19 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-6-1-3">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/bird-feeders">
-<span>Bird Feeders (11)</span>
+<span>Bird Feeders (10)</span>
 </a>
 </li><li class="level2 nav-6-1-4">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/doormats">
-<span>Doormats (22)</span>
+<span>Doormats (21)</span>
 </a>
 </li><li class="level2 nav-6-1-5">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/fountains-outdoor">
-<span>Fountains (Outdoor) (40)</span>
+<span>Fountains (Outdoor) (38)</span>
 </a>
 </li><li class="level2 nav-6-1-6">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/garden-decor">
-<span>Garden Décor (67)</span>
+<span>Garden Décor (83)</span>
 </a>
 </li><li class="level2 nav-6-1-7">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/gnomes">
@@ -710,23 +714,23 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-6-1-9">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/organize-storage">
-<span>Organize &amp; Storage (2)</span>
+<span>Organize &amp; Storage (1)</span>
 </a>
 </li><li class="level2 nav-6-1-10">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/outdoor-solar">
-<span>Outdoor Solar (37)</span>
+<span>Outdoor Solar (44)</span>
 </a>
 </li><li class="level2 nav-6-1-11">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/planters">
-<span>Planters (46)</span>
+<span>Planters (44)</span>
 </a>
 </li><li class="level2 nav-6-1-12">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/plant-stands">
-<span>Plant Stands (27)</span>
+<span>Plant Stands (30)</span>
 </a>
 </li><li class="level2 nav-6-1-13">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/windchimes">
-<span>Wind Chimes (27)</span>
+<span>Wind Chimes (25)</span>
 </a>
 </li><li class="level2 nav-6-1-14 last">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-lawn-garden/windmills">
@@ -745,19 +749,19 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-6-2-16">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-furniture/garden-stools">
-<span>Garden Stools (13)</span>
+<span>Garden Stools (10)</span>
 </a>
 </li><li class="level2 nav-6-2-17">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-furniture/hammocks">
-<span>Hammocks (12)</span>
+<span>Hammocks (13)</span>
 </a>
 </li><li class="level2 nav-6-2-18">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-furniture/patio-chairs">
-<span>Patio Chairs (7)</span>
+<span>Patio Chairs (5)</span>
 </a>
 </li><li class="level2 nav-6-2-19">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-furniture/patio-sets">
-<span>Patio Sets (10)</span>
+<span>Patio Sets (9)</span>
 </a>
 </li><li class="level2 nav-6-2-20 last">
 <a href="http://www.smartlivingcompany.com/outdoor/patio-furniture/patio-tables">
@@ -772,11 +776,11 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-6-3-21 first">
 <a href="http://www.smartlivingcompany.com/outdoor/activities-top/picnic-bbq">
-<span>Picnic &amp; BBQ (18)</span>
+<span>Picnic &amp; BBQ (23)</span>
 </a>
 </li><li class="level2 nav-6-3-22 last">
 <a href="http://www.smartlivingcompany.com/outdoor/activities-top/sports-camping">
-<span>Sports &amp; Camping (27)</span>
+<span>Sports &amp; Camping (28)</span>
 </a>
 </li>
 </ul>
@@ -794,11 +798,11 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-7-1-1 first">
 <a href="http://www.smartlivingcompany.com/fashion/accessories/handbags">
-<span>Handbags (15)</span>
+<span>Handbags (14)</span>
 </a>
 </li><li class="level2 nav-7-1-2">
 <a href="http://www.smartlivingcompany.com/fashion/accessories/jewelry">
-<span>Jewelry (37)</span>
+<span>Jewelry (63)</span>
 </a>
 </li><li class="level2 nav-7-1-3">
 <a href="http://www.smartlivingcompany.com/fashion/accessories/scarves">
@@ -810,7 +814,7 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-7-1-5 last">
 <a href="http://www.smartlivingcompany.com/fashion/accessories/watches">
-<span>Watches (4)</span>
+<span>Watches (1)</span>
 </a>
 </li>
 </ul>
@@ -822,107 +826,115 @@ jQuery(document).ready(function($) {
 </a>
 <ul class="level0 chield chield3">
 <li class="level1 nav-8-1 first parent">
-<a href="http://www.smartlivingcompany.com/gifts/gifts-top">
-<span>Gifts </span>
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more">
+<span>Featured </span>
 </a>
 <ul class="level1">
 <li class="level2 nav-8-1-1 first">
-<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-her">
-<span>For Her (95)</span>
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/new">
+<span>NEW (84)</span>
 </a>
 </li><li class="level2 nav-8-1-2">
-<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-him">
-<span>For Him (46)</span>
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/betty-boop">
+<span>Betty Boop (6)</span>
 </a>
 </li><li class="level2 nav-8-1-3">
-<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-kids">
-<span>For Kids (82)</span>
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/coca-cola">
+<span>Coca-Cola (14)</span>
 </a>
 </li><li class="level2 nav-8-1-4">
-<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-the-family">
-<span>For the Family (19)</span>
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/dc-comics">
+<span>DC Comics (23)</span>
 </a>
-</li><li class="level2 nav-8-1-5 last">
-<a href="http://www.smartlivingcompany.com/gifts/gifts-top/accessories">
-<span>Accessories (44)</span>
+</li><li class="level2 nav-8-1-5">
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/disney">
+<span>Disney (48)</span>
+</a>
+</li><li class="level2 nav-8-1-6">
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/funko-pop">
+<span>Funko Pop! (41)</span>
+</a>
+</li><li class="level2 nav-8-1-7">
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/marvel">
+<span>Marvel (33)</span>
+</a>
+</li><li class="level2 nav-8-1-8 last">
+<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/star-wars">
+<span>Star Wars (10)</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-8-2 parent">
-<a href="http://www.smartlivingcompany.com/gifts/toys">
-<span>Toys &amp; More </span>
+<a href="http://www.smartlivingcompany.com/gifts/gifts-top">
+<span>Gifts </span>
 </a>
 <ul class="level1">
-<li class="level2 nav-8-2-6 first">
-<a href="http://www.smartlivingcompany.com/gifts/toys/aprons">
-<span>Aprons (22)</span>
-</a>
-</li><li class="level2 nav-8-2-7">
-<a href="http://www.smartlivingcompany.com/gifts/toys/backpacks-carry-on">
-<span>Backpacks &amp; Lunch Boxes (34)</span>
-</a>
-</li><li class="level2 nav-8-2-8">
-<a href="http://www.smartlivingcompany.com/gifts/toys/barbie">
-<span>Barbie (8)</span>
-</a>
-</li><li class="level2 nav-8-2-9">
-<a href="http://www.smartlivingcompany.com/gifts/toys/bobble-heads">
-<span>Bobble Heads &amp; Toy Figures (39)</span>
+<li class="level2 nav-8-2-9 first">
+<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-her">
+<span>For Her (135)</span>
 </a>
 </li><li class="level2 nav-8-2-10">
-<a href="http://www.smartlivingcompany.com/gifts/toys/games-toys">
-<span>Chess Sets (7)</span>
+<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-him">
+<span>For Him (58)</span>
 </a>
 </li><li class="level2 nav-8-2-11">
-<a href="http://www.smartlivingcompany.com/gifts/toys/decorative-decals">
-<span>Decorative Decals (7)</span>
+<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-kids">
+<span>For Kids (70)</span>
 </a>
 </li><li class="level2 nav-8-2-12">
-<a href="http://www.smartlivingcompany.com/gifts/toys/home-more">
-<span>Home &amp; More (56)</span>
+<a href="http://www.smartlivingcompany.com/gifts/gifts-top/gifts-for-the-family">
+<span>For the Family (22)</span>
 </a>
-</li><li class="level2 nav-8-2-13">
-<a href="http://www.smartlivingcompany.com/gifts/toys/movie-collectibles">
-<span>Movie Merchandise (67)</span>
-</a>
-</li><li class="level2 nav-8-2-14">
-<a href="http://www.smartlivingcompany.com/gifts/toys/playsets">
-<span>Playsets (7)</span>
-</a>
-</li><li class="level2 nav-8-2-15 last">
-<a href="http://www.smartlivingcompany.com/gifts/toys/tv-merchandise">
-<span>TV Show Merchandise (17)</span>
+</li><li class="level2 nav-8-2-13 last">
+<a href="http://www.smartlivingcompany.com/gifts/gifts-top/accessories">
+<span>Accessories (42)</span>
 </a>
 </li>
 </ul>
 </li><li class="level1 nav-8-3 last parent">
-<a href="http://www.smartlivingcompany.com/gifts/new-toys-more">
-<span>Featured Brands </span>
+<a href="http://www.smartlivingcompany.com/gifts/toys">
+<span>Toys &amp; More </span>
 </a>
 <ul class="level1">
-<li class="level2 nav-8-3-16 first">
-<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/dc-comics">
-<span>DC Comics (35)</span>
+<li class="level2 nav-8-3-14 first">
+<a href="http://www.smartlivingcompany.com/gifts/toys/aprons">
+<span>Aprons (30)</span>
+</a>
+</li><li class="level2 nav-8-3-15">
+<a href="http://www.smartlivingcompany.com/gifts/toys/backpacks-carry-on">
+<span>Backpacks &amp; Lunch Boxes (32)</span>
+</a>
+</li><li class="level2 nav-8-3-16">
+<a href="http://www.smartlivingcompany.com/gifts/toys/barbie">
+<span>Barbie (6)</span>
 </a>
 </li><li class="level2 nav-8-3-17">
-<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/disney">
-<span>Disney (57)</span>
+<a href="http://www.smartlivingcompany.com/gifts/toys/bobble-heads">
+<span>Bobble Heads &amp; Toy Figures (49)</span>
 </a>
 </li><li class="level2 nav-8-3-18">
-<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/funko-pop">
-<span>Funko Pop! (30)</span>
+<a href="http://www.smartlivingcompany.com/gifts/toys/games-toys">
+<span>Chess Sets (7)</span>
 </a>
 </li><li class="level2 nav-8-3-19">
-<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/marvel">
-<span>Marvel (32)</span>
+<a href="http://www.smartlivingcompany.com/gifts/toys/home-more">
+<span>Home &amp; More (64)</span>
 </a>
 </li><li class="level2 nav-8-3-20">
-<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/star-trek">
-<span>Star Trek (2)</span>
+<a href="http://www.smartlivingcompany.com/gifts/toys/movie-collectibles">
+<span>Movie Merchandise (60)</span>
 </a>
-</li><li class="level2 nav-8-3-21 last">
-<a href="http://www.smartlivingcompany.com/gifts/new-toys-more/star-wars">
-<span>Star Wars (9)</span>
+</li><li class="level2 nav-8-3-21">
+<a href="http://www.smartlivingcompany.com/gifts/toys/playsets">
+<span>Playsets (7)</span>
+</a>
+</li><li class="level2 nav-8-3-22">
+<a href="http://www.smartlivingcompany.com/gifts/toys/pool-fun">
+<span>Pool Fun (16)</span>
+</a>
+</li><li class="level2 nav-8-3-23 last">
+<a href="http://www.smartlivingcompany.com/gifts/toys/tv-merchandise">
+<span>TV Show Merchandise (22)</span>
 </a>
 </li>
 </ul>
@@ -939,24 +951,28 @@ jQuery(document).ready(function($) {
 </a>
 <ul class="level1">
 <li class="level2 nav-9-1-1 first">
-<a href="http://www.smartlivingcompany.com/sale/all-sales/enchanted">
-<span>Enchanted (44)</span>
+<a href="http://www.smartlivingcompany.com/sale/all-sales/clearance">
+<span>Clearance (326)</span>
 </a>
 </li><li class="level2 nav-9-1-2">
-<a href="http://www.smartlivingcompany.com/sale/all-sales/fall-2015-catalog-sale">
-<span>Fall 2015 Catalog Sale (10)</span>
+<a href="http://www.smartlivingcompany.com/sale/all-sales/pampering-gifts-for-mom">
+<span>Pampering Gifts for MOM (24)</span>
 </a>
 </li><li class="level2 nav-9-1-3">
-<a href="http://www.smartlivingcompany.com/sale/all-sales/clearance">
-<span>Clearance (168)</span>
+<a href="http://www.smartlivingcompany.com/sale/all-sales/happy-mother-s-day">
+<span>Happy Mother's Day (88)</span>
 </a>
 </li><li class="level2 nav-9-1-4">
-<a href="http://www.smartlivingcompany.com/sale/all-sales/december-specials">
-<span>December Specials (191)</span>
+<a href="http://www.smartlivingcompany.com/sale/all-sales/candle-lighting-sale">
+<span>Candle Lighting Sale (100)</span>
 </a>
-</li><li class="level2 nav-9-1-5 last">
-<a href="http://www.smartlivingcompany.com/sale/all-sales/spa-set-special">
-<span>Spa Set Special (23)</span>
+</li><li class="level2 nav-9-1-5">
+<a href="http://www.smartlivingcompany.com/sale/all-sales/fountain-sale">
+<span>Fountain Sale (24)</span>
+</a>
+</li><li class="level2 nav-9-1-6 last">
+<a href="http://www.smartlivingcompany.com/sale/all-sales/furniture-sale">
+<span>Furniture Sale (22)</span>
 </a>
 </li>
 </ul>
@@ -965,25 +981,25 @@ jQuery(document).ready(function($) {
 <span>Featured Products </span>
 </a>
 <ul class="level1">
-<li class="level2 nav-9-2-6 first">
+<li class="level2 nav-9-2-7 first">
 <a href="http://www.smartlivingcompany.com/sale/featured-products/new">
-<span>New Products (374)</span>
-</a>
-</li><li class="level2 nav-9-2-7">
-<a href="http://www.smartlivingcompany.com/sale/featured-products/new-catalogs">
-<span>New Catalogs!! (4)</span>
+<span>New Products (204)</span>
 </a>
 </li><li class="level2 nav-9-2-8">
 <a href="http://www.smartlivingcompany.com/sale/featured-products/new-home-essentials">
-<span>New Home Essentials (7)</span>
+<span>Home Essentials (58)</span>
 </a>
 </li><li class="level2 nav-9-2-9">
 <a href="http://www.smartlivingcompany.com/sale/featured-products/best-sellers">
-<span>Best Sellers (99)</span>
+<span>Best Sellers (100)</span>
 </a>
-</li><li class="level2 nav-9-2-10 last">
-<a href="http://www.smartlivingcompany.com/sale/featured-products/world-marketplace">
-<span>World Marketplace (48)</span>
+</li><li class="level2 nav-9-2-10">
+<a href="http://www.smartlivingcompany.com/sale/featured-products/great-accents-for-easter">
+<span>Great Accents for Easter! (25)</span>
+</a>
+</li><li class="level2 nav-9-2-11 last">
+<a href="http://www.smartlivingcompany.com/sale/featured-products/4th-celebration">
+<span>4th Celebration (35)</span>
 </a>
 </li>
 </ul>
@@ -1001,27 +1017,27 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-10-1-1 first">
 <a href="http://www.smartlivingcompany.com/more/by-room/living-room">
-<span>Living Room (51)</span>
+<span>Living Room (47)</span>
 </a>
 </li><li class="level2 nav-10-1-2">
 <a href="http://www.smartlivingcompany.com/more/by-room/kitchen">
-<span>Kitchen (21)</span>
+<span>Kitchen (18)</span>
 </a>
 </li><li class="level2 nav-10-1-3">
 <a href="http://www.smartlivingcompany.com/more/by-room/home-office">
-<span>Home Office (10)</span>
+<span>Home Office (9)</span>
 </a>
 </li><li class="level2 nav-10-1-4">
 <a href="http://www.smartlivingcompany.com/more/by-room/bedroom">
-<span>Bedroom (20)</span>
+<span>Bedroom (19)</span>
 </a>
 </li><li class="level2 nav-10-1-5">
 <a href="http://www.smartlivingcompany.com/more/by-room/bathroom">
-<span>Bathroom (28)</span>
+<span>Bathroom (24)</span>
 </a>
 </li><li class="level2 nav-10-1-6 last">
 <a href="http://www.smartlivingcompany.com/more/by-room/backyard">
-<span>Backyard (28)</span>
+<span>Backyard (26)</span>
 </a>
 </li>
 </ul>
@@ -1032,27 +1048,27 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-10-2-7 first">
 <a href="http://www.smartlivingcompany.com/more/home-top/home-fragrance">
-<span>Home Fragrance (92)</span>
+<span>Home Fragrance (79)</span>
 </a>
 </li><li class="level2 nav-10-2-8">
 <a href="http://www.smartlivingcompany.com/more/home-top/home-essentials">
-<span>Home Essentials (39)</span>
+<span>Home Essentials (28)</span>
 </a>
 </li><li class="level2 nav-10-2-9">
 <a href="http://www.smartlivingcompany.com/more/home-top/home-office">
-<span>Home Office (17)</span>
+<span>Home Office (19)</span>
 </a>
 </li><li class="level2 nav-10-2-10">
 <a href="http://www.smartlivingcompany.com/more/home-top/organize-storage">
-<span>Organize &amp; Storage (22)</span>
+<span>Organize &amp; Storage (24)</span>
 </a>
 </li><li class="level2 nav-10-2-11">
 <a href="http://www.smartlivingcompany.com/more/home-top/pets">
-<span>Pets (7)</span>
+<span>Pets (11)</span>
 </a>
 </li><li class="level2 nav-10-2-12 last">
 <a href="http://www.smartlivingcompany.com/more/home-top/travel-essentials">
-<span>Travel Essentials (13)</span>
+<span>Travel Essentials (9)</span>
 </a>
 </li>
 </ul>
@@ -1063,51 +1079,51 @@ jQuery(document).ready(function($) {
 <ul class="level1">
 <li class="level2 nav-10-3-13 first">
 <a href="http://www.smartlivingcompany.com/more/collections/americana">
-<span>Americana (56)</span>
+<span>Americana (62)</span>
 </a>
 </li><li class="level2 nav-10-3-14">
 <a href="http://www.smartlivingcompany.com/more/collections/african-decor">
-<span>African Decor (27)</span>
+<span>African Decor (31)</span>
 </a>
 </li><li class="level2 nav-10-3-15">
 <a href="http://www.smartlivingcompany.com/more/collections/beautiful-beasts">
-<span>All Things Animal (89)</span>
+<span>All Things Animal (88)</span>
 </a>
 </li><li class="level2 nav-10-3-16">
 <a href="http://www.smartlivingcompany.com/more/collections/breezy-couture">
-<span>Breezy Couture (26)</span>
+<span>Breezy Couture (24)</span>
 </a>
 </li><li class="level2 nav-10-3-17">
 <a href="http://www.smartlivingcompany.com/more/collections/catalogs">
-<span>Catalogs (8)</span>
+<span>Catalogs (4)</span>
 </a>
 </li><li class="level2 nav-10-3-18">
 <a href="http://www.smartlivingcompany.com/more/collections/coastal-living">
-<span>Coastal Living (84)</span>
+<span>Coastal Living (90)</span>
 </a>
 </li><li class="level2 nav-10-3-19">
 <a href="http://www.smartlivingcompany.com/more/collections/celebrity-memorabilia">
-<span>Celebrity Memorabilia (6)</span>
+<span>Celebrity Memorabilia (7)</span>
 </a>
 </li><li class="level2 nav-10-3-20">
 <a href="http://www.smartlivingcompany.com/more/collections/far-east-treasures">
-<span>Far East Treasures	 (91)</span>
+<span>Far East Treasures	 (90)</span>
 </a>
 </li><li class="level2 nav-10-3-21">
 <a href="http://www.smartlivingcompany.com/more/collections/inspiration-religious">
-<span>Inspiration &amp; Religious (36)</span>
+<span>Inspiration &amp; Religious (45)</span>
 </a>
 </li><li class="level2 nav-10-3-22">
 <a href="http://www.smartlivingcompany.com/more/collections/myth-legend">
-<span>Myth &amp; Legend (91)</span>
+<span>Myth &amp; Legend (102)</span>
 </a>
 </li><li class="level2 nav-10-3-23">
 <a href="http://www.smartlivingcompany.com/more/collections/shabby-elegance">
-<span>Shabby Elegance (26)</span>
+<span>Shabby Elegance (32)</span>
 </a>
 </li><li class="level2 nav-10-3-24">
 <a href="http://www.smartlivingcompany.com/more/collections/spirit-of-the-west">
-<span>Spirit of the West (46)</span>
+<span>Spirit of the West (54)</span>
 </a>
 </li><li class="level2 nav-10-3-25">
 <a href="http://www.smartlivingcompany.com/more/collections/victorian">
@@ -1115,15 +1131,15 @@ jQuery(document).ready(function($) {
 </a>
 </li><li class="level2 nav-10-3-26">
 <a href="http://www.smartlivingcompany.com/more/collections/vineyard-inspirations">
-<span>Vineyard Inspirations (21)</span>
+<span>Vineyard Inspirations (17)</span>
 </a>
 </li><li class="level2 nav-10-3-27">
 <a href="http://www.smartlivingcompany.com/more/collections/christmas">
-<span>Christmas (115)</span>
+<span>Christmas (102)</span>
 </a>
 </li><li class="level2 nav-10-3-28 last">
 <a href="http://www.smartlivingcompany.com/more/collections/wedding">
-<span>Wedding (33)</span>
+<span>Wedding (51)</span>
 </a>
 </li>
 </ul>
@@ -1356,8 +1372,8 @@ jQuery(document).ready(function($) {
 
     <div class="footer-bottom-wrap">
     	<div class="certi_logo">
-    		<a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=new.smartlivingcompany.com&amp;lang=en" target="_blank"><img src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/images/custom/norton.png" alt="Norton Secured" class="img1"></a>
-    		<a target="_blank"><img src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/images/custom/bbb.png" alt="Accredited Business" class="img2"></a>
+    		<a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=new.smartlivingcompany.com&amp;lang=en" target="_blank"><img src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/images/custom/norton.png" alt="Norton Secured" class="img1"></a>
+    		<a target="_blank"><img src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/images/custom/bbb.png" alt="Accredited Business" class="img2"></a>
     		    	</div>  
 		<span><a href="https://www.symantec.com/ssl-certificates/compare-ssl-prices.jsp" target="_blank">About SSL CERTIFICATES</a></span>
 	</div>
@@ -1368,7 +1384,7 @@ jQuery(document).ready(function($) {
 <div id="quickview_overlay" class="popup_overlay quickview_overlay"></div>
 <div id="product-quickview" class="popup_div_abs">
     <a href="#" class="close">X</a>
-    <div id="product-quickview-loader"><img src="http://www.smartlivingcompany.com/skin/frontend/slc/slc/images/opc-ajax-loader.gif"> Loading...</div>
+    <div id="product-quickview-loader"><img src="https://www.smartlivingcompany.com/skin/frontend/slc/slc/images/opc-ajax-loader.gif"> Loading...</div>
     <div id="product-quickview-body"></div>
 </div>
 <script type="text/javascript">
@@ -1379,6 +1395,7 @@ jQuery(document).ready(function($) {
 
         // TO RESOLVE CROSS ORIGIN  ISSUE
                 
+                	var url = url.replace("http://", "https://");
         	
 
         $('product-quickview-loader').show();
@@ -1490,13 +1507,13 @@ jQuery(document).ready(function (){
 		+ ((document.location.protocol == "https:") ? "https:" : "http:")
 		+ "//p.bm23.com/bta.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://p.bm23.com/bta.js" type="text/javascript"></script>
-<script>var FEED_BASE_URL="http://www.smartlivingcompany.com/";</script><script src="http://www.smartlivingcompany.com/js/mirasvit/code/feedexport/performance.js" type="text/javascript"></script>    </div>
+<script>var FEED_BASE_URL="http://www.smartlivingcompany.com/";</script><script src="https://www.smartlivingcompany.com/js/mirasvit/code/feedexport/performance.js" type="text/javascript"></script>    </div>
 </div>
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0023/4035.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"89c850b0d6","applicationID":"3059041","transactionName":"NgRSZxRVXhIDUUFfDg9OcVASXV8PTVFYRU4RAFdWSUJZBBU=","queueTime":0,"applicationTime":376,"atts":"GkNREVxPTRw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"89c850b0d6","applicationID":"3059041","transactionName":"NgRSZxRVXhIDUUFfDg9OcVASXV8PTVFYRU4RAFdWSUJZBBU=","queueTime":0,"applicationTime":351,"atts":"GkNREVxPTRw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
