@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maersksealand.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121085223id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maersksealand.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609063233id_/http%3A//terms.maerskline.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Maerskline Terms
 
@@ -61,3 +61,7 @@ We reserve the right in our sole discretion to amend and/or delete this privacy 
 ##  5.  Contact details 
 
 If you have any questions or comments or wish to exercise your rights under applicable legislation, please contact our privacy team by emailing to [dataprivacy@maersk.com](mailto:dataprivacy@maersk.com).
+
+##  6\.  Law and jurisdiction 
+
+These terms shall be subject to Danish law and any dispute, claim, matter of construction or interpretation arising out of or relating to the website, including these terms, shall be subject to the exclusive jurisdiction of the Danish courts.
