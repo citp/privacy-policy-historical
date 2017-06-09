@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airsplat.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206101013id_/http%3A//www.airsplat.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airsplat.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609214751id_/http%3A//www.airsplat.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-If you have questions or concerns regarding this policy, you should contact comments@airsplat.com or call (626) 539-3900.
+If you have questions or concerns regarding this policy, you should contact comments@airsplat.com or call (888) 221-3081.
 
   
 We respect our customer’s right to privacy. No Information given to us on this web site will be sold. All personal information, such as your name, postal/email address, payment information (i.e. credit card information etc), is private and confidential. Accordingly, the personal information which you provide is stored in a secure location. In addition, all online orders (credit card info, etc) are additionally protected by being encrypted.
@@ -55,7 +55,7 @@ You may not unsubscribe (opt-out) from any of the communications from the site a
 
 **How You Can Access or Correct Your Information**
 
-You can access all your personally identifiable information that we collect and maintain. Simply go to the Account Info section of the site to access and edit your account information. If you wish to delete your information or have a problem accessing your account please contact info@airsplat.com, or call (626) 539-3900. Leave your name and number so we can call you back to verify your identity and correct or delete your personally identifiable information.  
+You can access all your personally identifiable information that we collect and maintain. Simply go to the Account Info section of the site to access and edit your account information. If you wish to delete your information or have a problem accessing your account please contact info@airsplat.com, or call (888) 221-3081. Leave your name and number so we can call you back to verify your identity and correct or delete your personally identifiable information.  
 For our customers security we do NOT allow online orders that were placed to be changed by adding or deleting items from it after an order has been placed and processed (of course before you place your order you can modify or change the contents of your shopping cart). In order to add or delete items you will need to cancel the order within 24 hours after being placed on line and create a new order. After that your order will be processed.   
 See our Online Billing Policy. If you don't know your order number and want to cancel it, you must provide us with your name and a phone number we can reach you. You may call us at the above phone number or email us. We will then call you and ask some personal information about the order to verify and correct it. At that point we will delete your order and you may then enter a new one if you wish.  
 In order to protect your privacy and security, we will also take reasonable steps to ascertain your identity before granting access and making corrections.
@@ -64,4 +64,4 @@ In order to protect your privacy and security, we will also take reasonable step
 
 If we decide to change our privacy policy, we will post those changes to this privacy policy, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-You may contact us regarding any privacy related issues at: (626) 539-3900
+You may contact us regarding any privacy related issues at: (888) 221-3081
