@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charleskeith.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126140725id_/http%3A//www.charleskeith.com/sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charleskeith.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609053605id_/http%3A//www.charleskeith.com/sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,7 +118,7 @@ third part service providers, consultants, delivery companies and data mining co
 
 (e)
 
-credit and charge card companies, banks, Paypal and other entities processing payment instructions given by you through this Site;
+credit and charge card companies, banks, Paypal, iPay88 and other entities processing payment instructions given by you through this Site;
 
 (f)
 
@@ -302,7 +302,7 @@ third part service providers, consultants, delivery companies and data mining co
 
 (e)
 
-credit and charge card companies, banks, Paypal and other entities processing payment instructions given by you through this Site;
+credit and charge card companies, banks, Paypal, iPay88 and other entities processing payment instructions given by you through this Site;
 
 (f)
 
