@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialmediahat.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410010533id_/http%3A//www.thesocialmediahat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialmediahat.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609103300id_/http%3A//www.thesocialmediahat.com/privacy) for the most accurate reproduction.*
 
 # The Social Media Hat Privacy Policy - The Social Media Hat
 
