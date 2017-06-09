@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124132446id_/http%3A//www.mediaocean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaocean.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609222557id_/http%3A//www.mediaocean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mediaocean
 
@@ -48,7 +48,7 @@ You have the right to opt-out of any use of your Personal Information for market
 
 Most of the services which Mediaocean provides in North America and Europe run on our mainframe and servers located in one of our secure data centers in the USA. Where Personal Information is collected, stored or used by our client companies using these hosted systems, please note that we act only as a Data Processor. Our sole function is to provide technical support to run the systems for the benefit of our clients. The client company is the Data Controller and is responsible for data protection obligations pertaining to its notification, collection, accuracy, and timely disposal. The client company is also responsible for arrangements to enable you to access your own Personal Information, subject to confirmation of identification, and for authorizing disclosure to Third Parties. Mediaocean’s responsibilities for this data are limited to making provisions for the security, availability and integrity of data on our systems and to processing Personal Information solely in accordance with the instructions of our clients. Mediaocean staff responsible for this processing may be located at Mediaocean group companies in North America, Europe and India, and the data is backed up to Mediaocean’s back-up data centers which are located in the USA and in the UK.
 
-## Childen under the Age of 13
+## Children under the Age of 13
 
 Our website is not intended for children under 13 years of age. No one under age 13 may provide any Personal Information to or on the website. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not use or provide any information on this website or on or through any of its features. If we learn we have collected or received Personal Information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at [Infosec&Compliance@mediaocean.com](mailto:Infosec&Compliance@mediaocean.com).
 
