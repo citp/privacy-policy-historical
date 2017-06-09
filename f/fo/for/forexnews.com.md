@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexnews.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528212216id_/http%3A//www.forexnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexnews.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609131204id_/http%3A//www.forexnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ForexNews.com
 
