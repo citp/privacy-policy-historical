@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111113739id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenleap.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609095824id_/http%3A//www.screenleap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Screenleap
 
