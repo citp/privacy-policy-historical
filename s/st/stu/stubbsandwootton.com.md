@@ -1,65 +1,105 @@
-> *The following text is extracted and transformed from the stubbsandwootton.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206160102id_/https%3A//www.stubbsandwootton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stubbsandwootton.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609154404id_/https%3A//stubbsandwootton.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Security**
+PRIVACY STATEMENT
 
-Stubbs & Wootton protects your online order and registration information by using Secure Sockets Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than Stubbs & Wootton. The secure mode begins when you initiate your order. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. You can double-check by looking at the URL line of your browser when accessing a secure service. The first characters of the site address will change from "http" to "https". Some versions of the browsers and some firewalls don’t permit communication through secure servers. In that case, you’ll be unable to connect to the server so you won’t have to worry about mistakenly placing an order through an unsecured connection.
+SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-**Privacy** ** **
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address.
 
-We respect your privacy and, therefore, Stubbs & Wootton does not sell or rent the personal information you provide to us to any third party. We will not share your personal information with any unaffiliated third party without your consent. 
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
-Stubbs & Wootton may, from time to time, contract with unaffiliated third parties that assist us in providing our products and services to you; assist in maintaining and managing customer information to provide customer and internet services; to take and fulfill orders; to conduct Stubbs & Wootton promotions and surveys; or to more effectively communicate with our customers. These companies are contractually-restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site. Stubbs & Wootton does not authorize any unaffiliated third party to make any other use of your information. 
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates.
 
-We will add you to our mailing list when you supply us with your address. If you do not wish to receive our catalog, please contact us via email, phone, fax or mail. Include your name and address as it was supplied to us, and indicate "Do Not Mail". 
+SECTION 2 - CONSENT
 
-Sometimes we make our mailing list available to carefully screened companies whose products and services might interest you. If you do not wish to receive such mailings, please contact us via email, phone, fax or mail. Include your name and address as it was supplied to us, and indicate "Do Not Share". Additionally we may disclose your personal information as a result of the sale of the stock of all or substantially all of the assets of Stubbs & Wootton, whether by merger, acquisition, or similar or related transactions or in the event of a liquidation of the assets of the company.
+How do you get my consent?
 
-If you have chosen not to receive email or postal mailings from Stubbs & Wootton prior to your participation in a contest, sweepstakes, promotion or survey, you may still receive information from Stubbs & Wootton in connection with such activity if you register for or participate in it. You may also choose not to participate in contests, sweepstakes, promotions or surveys if you do not wish to receive information about Stubbs & Wootton or share your information with Stubbs & Wootton and the other companies sponsoring such activities at any time by contacting us by either email, phone or post mail.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-If you reach StubbsandWootton.com from a link on another website or search engine, information about your visit to StubbsandWootton.com may be collected by the provider of the referring website. You are encouraged to review the Privacy & Security Statement of these other websites (or search engines). You can avoid this by entering StubbsandWootton.com directly into the address field of your browser.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-**Information Collected** ** **
+How do I withdraw my consent?
 
-Stubbs & Wootton values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, contests, and promotions. Stubbs & Wootton recognizes that it must maintain and use customer information responsibly. 
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at hello@stubbsandwootton.com or mailing us at: Stubbs & Wootton Corp 251 Royal Palm Way Palm Beach Florida United States 33480
 
-We collect information (such as your name, email address, mailing address, and phone and credit card numbers) that you provide when you place an order, join our mailing list, register with us or participate in a contest, promotion or survey. We also maintain a record of your product interests and your purchases online and in our stores. 
+SECTION 3 - DISCLOSURE
 
-To serve you better, the information you supply to us is added to our customer database. We will add you to our mailing list. From time to time, you may receive periodic mailings or emails from us about new products and services, discounts, special promotions or upcoming events. If you do not want to receive such emails or mailings from us, please contact us via email, phone, fax or mail (our numbers and addresses are listed below). You may unsubscribe from our email list directly on the website. Telephone numbers are only used to contact you regarding an order placed with Stubbs & Wootton. They are not used for any promotional purpose(s). 
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-We may combine information you give us online and in our stores as well as information about your product interests and purchases. In addition, we may combine information you provide with demographic information that is publicly available. We use this combined information to enhance and personalize your shopping experience with us, and to communicate with you by email or postal mail about our products, services, contests and promotions that may be of interest to you.
+SECTION 4 - SHOPIFY
 
-**Updating or Changing Information** ** **
+Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
 
-If at any time you want to update or change your information, simply sign on to StubbsandWootton.com as usual, and click on MY ACCOUNT on the top navigation bar. Once logged in, you will see OPTIONS where you will be able to change any personal information. 
+Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
-If at any time you would like us to update your personal information or remove you from our email or postal mailing lists, feel free to contact us. Please be sure to include your email address, full name and password.
+Payment:
 
-**Your California Privacy Rights** ** **
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-Beginning January 1, 2005, under California law, if you are a resident of California, you may make a written request to Stubbs & Wootton about how we have shared your personal customer information with select third parties for their direct marketing purposes. In response to your written request, Stubbs & Wootton will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and address. Please submit a written request to the following address: Customer Service, 502 Palm Street Unit 7 West Palm Beach, 33401. Please allow thirty (30) days for a response.
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-**Cookies** ** **
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-We use "cookies" to enhance your experience with our site. Cookies are text files we place in your computer's browser to store your preferences. We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. You can refuse cookies by turning them off in your browser. But to take full advantage of the www.StubbsandWootton.com experience, we recommend that you leave them turned on. However, if you would still like to place an order, simply call us at 1 (877) 478-8227 to place your order by phone.
+For more insight, you may also want to read Shopify’s Terms of Service [here](http://www.shopify.com/legal/terms) or Privacy Statement [here](http://www.shopify.com/legal/privacy).
 
-**Children's Privacy** ** **
+SECTION 5 - THIRD-PARTY SERVICES
 
-Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifiable information from anyone under the age of 13 without prior verifiable parental consent. If we become aware that a subscriber is under the age of 13 and has registered without prior verifiable parental consent, we will remove his or her personally identifiable registration information from our files. Please note: we may nevertheless maintain a record of that person's name and address in a "do not register" file to avoid subsequent registration by a child under the age of 13.
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
 
-**Changes to this Statement** ** **
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
 
-Stubbs & Wootton may update this Privacy & Security Statement from time to time. When we make changes, we will post them here. You may wish to check this section from time to time, because by visiting our website you agree to accept any such changes to these policies. Except as otherwise mentioned herein, the Privacy & Security Statement only addresses the use and disclosure of information we collect from you on our website.
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
 
-**Contact Us**
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
 
-By Email: [customerservice@stubbsandwootton.com](mailto:customerservice@stubbsandwootton.com)  
-By Phone: 1 (877) 478-8227
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
 
-By Mail:  
-Customer Service   
-502 Palm Street Unit 7  
-West Palm Beach, 33401
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
 
-Effective as of December 1st, 2010
+Links
+
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+SECTION 6 - SECURITY
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+SECTION 7 - COOKIES
+
+Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
+
+_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+
+_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
+
+_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+
+cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
+
+_secure_session_id, unique token, sessional
+
+storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
+
+SECTION 8 - AGE OF CONSENT
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+SECTION 9 - CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at hello@stubbsandwootton.com or by mail at 
+
+Stubbs & Wootton Corp
+
+[Re: Privacy Compliance Officer]
+
+[251 Royal Palm Way Palm Beach Florida United States 33480]
