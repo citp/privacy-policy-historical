@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elephone.hk privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226030048id_/http%3A//www.elephone.hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elephone.hk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609202831id_/http%3A//www.elephone.hk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Keep Expecting and Be Surprised-Elephone Official
 
