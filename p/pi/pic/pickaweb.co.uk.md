@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908135840id_/https%3A//www.pickaweb.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609073513id_/https%3A//www.pickaweb.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Pickaweb Privacy policy | Pickaweb
-
-### Your privacy, our priority
+# Pickaweb Privacy policy - Pickaweb
 
   * To contact Pickaweb regarding privacy you can e-mail us at [info@pickaweb.co.uk](mailto:info@pickaweb.co.uk)
 
