@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponing101.com privacy policy that was archived on 2015-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150803171723id_/http%3A//www.couponing101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponing101.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609115010id_/http%3A//www.couponing101.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Couponing 101
 
@@ -6,15 +6,15 @@
 
 Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of Couponing 101.
 
- **Credit card details**
+**Credit card details**
 
 Couponing 101 will never ask for Credit Card details and request that you do not enter it on any of the forms on Couponing 101.
 
- **External Sites.**
+**External Sites.**
 
 Couponing 101 is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
 
- **Cookies**
+**Cookies**
 
 A “cookie” is a small data text file that is placed in your browser and allows Couponing 101 to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Couponing 101 does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
