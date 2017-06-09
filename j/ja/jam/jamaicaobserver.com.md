@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicaobserver.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230740id_/http%3A//www.jamaicaobserver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicaobserver.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609052229id_/http%3A//www.jamaicaobserver.com/privacy) for the most accurate reproduction.*
 
 # Jamaica Observer :: Terms and Conditions
 
@@ -10,7 +10,7 @@ PRIVACY POLICY
 
 Preservation of our users’ privacy is of paramount importance to us.  We NEVER share/publish an individual’s details with any third party, without prior consent. For this reason we invite you to read our privacy policy.
 
-This privacy policy applies only to Jamaica Observer Limited’s website ([www.jamaicaobserver.com](http://www.jamaicaobserver.com/)) (“the website”) and is subject to change at anytime by Jamaica Observer Limited.  It does not apply to third parties or companies who provide advertising on our website or any company Jamaica Observer Limited does not own, operate or control. If you do not agree with these terms you should not use the website.  
+This privacy policy applies only to Jamaica Observer Limited’s website ([www.jamaicaobserver.com](https://web.archive.org/)) (“the website”) and is subject to change at anytime by Jamaica Observer Limited.  It does not apply to third parties or companies who provide advertising on our website or any company Jamaica Observer Limited does not own, operate or control. If you do not agree with these terms you should not use the website.  
 
 
 1\. **REASONS FOR COLLECTING USER INFORMATION**
