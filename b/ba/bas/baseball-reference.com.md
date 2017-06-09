@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the baseball-reference.com privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720104417id_/http%3A//www.sports-reference.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseball-reference.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609143003id_/https%3A//www.sports-reference.com/privacy.html) for the most accurate reproduction.*
 
-# Sports-Reference.com Privacy Policy
+# Sports Reference Privacy Policy | Sports-Reference.com
+
+## SPORTS REFERENCE LLC - Privacy Statement
 
 A combination of sites providing top-notch statistics and resources for sports fans everywhere. 
 
@@ -15,8 +17,6 @@ SRL may place Internet "cookies" on visitors' hard drives. Internet cookies save
 SRL also may use Web bugs to gather, store, and track certain information related to your visit to and activity on the Site. A Web bug is a file object, which can be a graphic image such as a transparent one pixel-by-one pixel graphics file, which is placed on a Web page or in an e-mail message to monitor user activity. A Web bug can gather, for example, the IP address of your computer, the time the Web page was viewed, and the type of browser used. 
 
 When a visitor performs a search within the Site, SRL may record information identifying the visitor or linking the visitor to the search performed. SRL may also record limited information for every search request and use that information to solve technical problems with the services available directly or indirectly in connection with the Site, and to calculate overall usage statistics. 
-
-##  2\. Payment Information
 
 We use third-party payment service providers such as Amazon.com™ ([Privacy Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=468496)), Stripe.com™ ([Privacy Policy](https://stripe.com/us/privacy)), and PayPal™ ([Privacy Policy](https://www.paypal.com/us/webapps/mpp/ua/privacy-full)) to handle any monetary transactions. SRL does not store any of your private payment information provided by you directly to these service providers. 
 
@@ -33,7 +33,7 @@ Comments posted to any of our Web pages are public. All other notices sent to SR
          sf@sports-reference.com
     
 
-With respect to chat rooms, SRL does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRL or Content (see [Terms and Conditions](https://web.archive.org/web/20160720104417id_/http%3A//www.sports-reference.com/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRL assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
+With respect to chat rooms, SRL does not, and is not obligated to, monitor or review any areas on the Site, or the content therein, where users transmit or post communications or communicate with each other regarding SRL or Content (see [Terms and Conditions](https://web.archive.org/web/20170609143003id_/https%3A//www.sports-reference.com/termsofuse.shtml)) on the Site, including but not limited to, communications in chat rooms, bulletin boards or other user forums. As such, SRL assumes no liability for the accuracy of such information, no duty to update or correct such information, and no liability for such communications arising under the laws of copyright, libel, privacy, obscenity, or otherwise. 
 
 ## 4\. Use of Personal Data Collected
 
@@ -41,9 +41,9 @@ Personal data collected by SRL may be used by SRL for many reasons, for example,
 
 With respect to visitor e-mail addresses, we allow users to post their e-mail address on comments or in sponsorships, in the event that they wish to allow others to reach them easily. Visitor e-mail addresses from comments are not used by SRL to generate mailing lists. 
 
-SRL also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20160720104417id_/http%3A//www.sports-reference.com/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
+SRL also may use Site visitor data to contact the Site visitors regarding account status and changes to the [Terms and Conditions](https://web.archive.org/web/20170609143003id_/https%3A//www.sports-reference.com/termsofuse.shtml), any subscriber agreement, this Privacy Statement, and any other policies or agreements relevant to Site visitors. 
 
-## 5\. Disclosure of Personal Data to Third Parties
+## 5.Disclosure of Personal Data to Third Parties
 
 Subject to the limitations of Paragraph 4, aggregate data on visitors' home servers may be provided to third parties such as marketing firms. 
 
@@ -53,15 +53,11 @@ While SRL will undertake efforts to see that any third party to which SRL shares
 
 This Site may contain links to other World Wide Web sites or advertisements for or placed by third parties. SRL is not responsible for the privacy practices of such Web sites, advertisers, or third parties, or for the content of such sites or advertisements. It is possible that these links or advertisements, themselves, may be used by third parties or others to collect personal or other information about Site visitors. It is solely the visitor's obligation to review and understand the privacy practices and policies of these other Web sites and of these advertisers and third parties. 
 
-## 6\. Security Measures
-
 SRL has implemented numerous security features to prevent the unauthorized release of or access to personal information. For example, SRL: undertakes all efforts to maintain a secure server; does not store any user credit card information; and requires employees and service providers who work for or with SRL to sign confidentiality and security contracts restricting their use of any data related to user information. Please be advised, however, that the confidentiality of any communication or material transmitted to or from SRL via this Site or e-mail cannot be guaranteed. Accordingly, SRL is not responsible for the security of information transmitted via the Internet. Instead of communicating with SRL via e-mail or the Internet, visitors can contact SRL by mail, phone, or facsimile, as provided in Paragraph 3 of this Privacy Statement. 
-
-## 7\. Opt-Out Right
 
 Except as necessary for SRL to provide the services, information, or products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to SRL through an account registration, customer order, or electronic news or information subscription, prospectively retained by SRL, used by SRL for secondary purposes, or disclosed by SRL to third parties by contacting SRL via postal mail, e-mail, or facsimile at the addresses set out above. (This does not apply to collection of the type of Web browser of the visitor to the Site or to information provided or collected that does not meet the above description.) By way of illustration, you have the option to remove your name from any of our mailing lists at any time. 
 
-## 8\. Access to and Ability to Correct Personal Data
+## 8.Access to and Ability to Correct Personal Data
 
 Upon a visitor's request via postal mail, e-mail, or facsimile, SRL will provide to the visitor a summary of any personally identifiable information retained by SRL regarding the visitor, which information has been voluntarily provided to SRL through an account registration, customer order, or electronic news or information subscription. A visitor may modify, correct, change or update their personally identifiable information by contacting SRL via postal mail, e-mail, facsimile, or telephone as provided in Paragraph 3 of this Privacy Statement. 
 
@@ -69,8 +65,8 @@ Upon a visitor's request via postal mail, e-mail, or facsimile, SRL will provide
 
 SRL may change this Privacy Statement at any time. Notice of any new or revised Privacy Statement, as well as the location of the new or revised statement, will be posted on the Site for at least 60 days after the change. It is the obligation of users visiting the Site to learn of changes to the Privacy Statement since their last visit. Any change to this Privacy Statement shall be effective as to all visitors once instituted, including as to any visitor who previously visited the Site before the change was made. 
 
-## Effective Date: October 1, 2004
+Effective Date: October 1, 2004
 
-## Updated: April 25, 2008
+Updated: April 25, 2008
 
-## Last Updated: January 27, 2015
+Last Updated: January 27, 2015
