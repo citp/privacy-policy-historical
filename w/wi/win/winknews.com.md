@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winknews.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121062138id_/http%3A//www.winknews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winknews.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609170706id_/http%3A//www.winknews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WINK NEWS
 
@@ -133,6 +133,10 @@ We may update this Privacy Policy to reflect changes in our practices and servic
 **Third-Party Sites**
 
 When you select a link to a third-party web site from one of the WINK Web Sites (for example, if you link to Pay Pal in order to pay for a product or service offered by a WINK Web Site), you will be leaving the WINK Site. Any information that you disclose on the third-party site will be governed by that site’s privacy policy.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Questions**
 
