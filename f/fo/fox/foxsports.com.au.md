@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012030030id_/http%3A//www.foxsports.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609111607id_/http%3A//www.foxsports.com.au/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy | Fox Sports
+# Privacy | FOX SPORTS
 
 **Last updated: 09 October 2015**
 
