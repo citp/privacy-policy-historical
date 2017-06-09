@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopcowboys.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320120523id_/http%3A//shop.dallascowboys.com/customer-service-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopcowboys.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609082553id_/http%3A//shop.dallascowboys.com/customer-service-privacy) for the most accurate reproduction.*
 
 # Dallas Cowboys Pro Shop
 
