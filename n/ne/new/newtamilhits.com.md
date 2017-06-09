@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the newtamilhits.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230115656id_/http%3A//www.starmusiq.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtamilhits.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610013914id_/http%3A//www.5starmusiq.com/Privacy.asp) for the most accurate reproduction.*
 
 # :: Privacy Policy :: NewTamilHits.com ::
 
 ##### Last Updated: December 12, 2014
 
-At NewTamilHits, we take the privacy of our users very seriously. This policy spells out the information we collect and how we put it to use. Please feel free to contact us at [support@NewTamilHits.com](mailto:admin@NewTamilHits.com?Subject=Privacy%20Policy) if you have any questions about this Policy.
+At NewTamilHits, we take the privacy of our users very seriously. This policy spells out the information we collect and how we put it to use. Please feel free to contact us at [support@NewTamilHits.com](mailto:5starmusiq.com@gmail.com?Subject=Privacy%20Policy) if you have any questions about this Policy.
 
 ## Terms Of Service
 
-Refer to our [Terms of Service](http://www.newtamilhits.com/terms.asp) for explanation of all legal terms and provisions, limitations of liability, exclusions of warranties, etc.
+Refer to our [Terms of Service](http://www.5starmusiq.com/terms.asp) for explanation of all legal terms and provisions, limitations of liability, exclusions of warranties, etc.
 
 ## Information Collection & Use
 
@@ -22,7 +22,7 @@ NewTamilHits may automatically collect and analyze information regarding the use
 
 If a user elects to use NewTamilHits's invite service for reaching a person via the NewTamilHits site, we will generate an automatic email that is sent to them. We will automatically send this person an email inviting them to visit the site if they are not a user or if they are a user we will send that an email to ask them to visit the site or respond to the invite. If the individual does not respond we do not send any reminder emails. We do not store this information for public use. The emails are for the sole purpose of notifying individuals about upcoming sports events.
 
-If a user's personally identifiable information changes (such as zip code or email), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. If not easily available online, this can be done by emailing our customer support at [support@NewTamilHits.com](mailto:admin@NewTamilHits.com?Subject=Privacy%20Policy).
+If a user's personally identifiable information changes (such as zip code or email), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. If not easily available online, this can be done by emailing our customer support at [support@NewTamilHits.com](mailto:5starmusiq.com@gmail.com?Subject=Privacy%20Policy).
 
 ## Cookies & Beacons
 
