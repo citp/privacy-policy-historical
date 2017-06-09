@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesocialms.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307074403id_/http%3A//blog.thesocialms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesocialms.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609032422id_/http%3A//blog.thesocialms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Social Ms
 
