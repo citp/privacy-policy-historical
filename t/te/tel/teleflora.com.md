@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121222507id_/http%3A//www.teleflora.com/info/securityprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleflora.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609181726id_/http%3A//www.teleflora.com/info/securityprivacy) for the most accurate reproduction.*
 
 # Security & Privacy Policy | Teleflora
 
