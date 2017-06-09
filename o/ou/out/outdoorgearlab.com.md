@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outdoorgearlab.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005401id_/http%3A//www.outdoorgearlab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorgearlab.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609073824id_/http%3A//www.outdoorgearlab.com/privacy) for the most accurate reproduction.*
 
 # OutdoorGearLab Privacy Policy
 
 _Last updated: January 21, 2013_
 
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes OutdoorGearLab's policies and procedures on the collection, use and disclosure of your information when you use the OutdoorGearLab Service, via the OutdoorGearLab website, your mobile phone, or through one of OutdoorGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/terms).
+We recognize that your privacy is very important and take it seriously. This Privacy Policy describes OutdoorGearLab's policies and procedures on the collection, use and disclosure of your information when you use the OutdoorGearLab Service, via the OutdoorGearLab website, your mobile phone, or through one of OutdoorGearLab's applications. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](http://www.outdoorgearlab.com/terms).
 
 ### Information Collection and Use
 
