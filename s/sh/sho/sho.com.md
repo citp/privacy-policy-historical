@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220144113id_/http%3A//www.sho.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sho.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609084022id_/http%3A//www.sho.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy | SHOWTIME
 
 ## Privacy Policy
 
-Effective Date July 7, 2015
+Effective Date May 4, 2017
 
 Note: Our Privacy Policy has been updated. Please review the updated Privacy Policy carefully before using any Showtime Networks Service. By using any Showtime Networks Service, you consent to the terms of the updated privacy policy.
 
@@ -86,7 +86,7 @@ When you select a link from one of our Services to a third party service, any in
 
 #### 3\. Use of Information
 
-We only use payment and identity verification information, such as credit card numbers, as necessary for completing a particular transaction or fulfilling a service (e.g., paid subscriptions or awarding prizes to contest winners) or as otherwise required by law.
+We only use payment information, such as credit card numbers, as necessary for completing a particular transaction or fulfilling a service (e.g., paid subscriptions or awarding prizes to contest winners) or as otherwise required by law.
 
 We generally use other information we collect about you to:
 
@@ -124,7 +124,7 @@ Provider is committed to maintaining your trust and we want you to understand wh
 
 You can choose to enjoy content and features on certain of our Services without providing us directly with any information about you; however, as described above, some information may be collected automatically or be requested so that you can take advantage of certain features and services offered on the Services.
 
-You have various options for expressing your preferences regarding our newsletters and other promotional communications. For example, with respect to SHO.com, you may remove yourself from a mailing list by logging in to your account and changing your email preferences. You also can opt out of receiving promotional email or text communications from a particular Service by following the instructions contained in any such communication. Please note that even if you opt not to receive promotional communications, we may still send you communications relating to your use of the Services, such as administrative messages, service announcements, or terms and conditions of your account.
+You have various options for expressing your preferences regarding our newsletters and other promotional communications. For example, with respect to SHO.com, you may opt out of receiving promotional email or text communications from a particular Service by following the instructions contained in any such communication. Please note that even if you opt not to receive promotional communications, we may still send you communications relating to your use of the Services, such as administrative messages, service announcements, or terms and conditions of your account.
 
 While each browser is different, browsers generally provide you options to accept all cookies, reject all cookies, notify you when a cookie is set, or delete cookies periodically. 
 
@@ -174,9 +174,9 @@ If you have any questions, comments or concerns regarding this Privacy Policy an
 
 [Sports](https://web.archive.org/sports)
 
-### Documentaries 
+### Documentaries
 
-[Documentaries ](https://web.archive.org/documentaries)
+[Documentaries](https://web.archive.org/documentaries)
 
 ### Comedy
 
