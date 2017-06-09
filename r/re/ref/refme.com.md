@@ -1,100 +1,89 @@
-> *The following text is extracted and transformed from the refme.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715192143id_/https%3A//www.refme.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refme.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609050354id_/http%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
 
-# RefME | Privacy and Cookies Policy
+# Privacy policy
 
-**1\. INTRODUCTION**
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder - CiteThisForMe.com and the CiteThisForMe mobile applications)
 
-**Purpose**. The purpose of this Privacy Policy is to describe how RefME Ltd. (“RefME”) collects, uses and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including [www.refme.com](https://www.refme.com/) (collectively referred to herein as the “Site”). Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new) or as described at the end of this Policy. 
+### Routine Information Collection
 
-Our Privacy Policy explains: 
+Information You Provide to Us: When you register to use the Services, communicate with our customer service team, send us an email, or post on our blog, you’re giving us information that we collect. That information may include your IP address, name, physical address, email address, phone number, credit card information, and other details like gender, occupation, and other demographic information. By giving us this information, you consent to your information being collected, used, disclosed, and stored by us, only as described in our Privacy Policy.
 
-  * Information That We Collect
-  * How We Use and Share Your Information
-  * Access to Your Information and Choices
-  * Security of Your Information
-  * Consent to Processing of Personal Data in United States
-  * Changes to Our Privacy Policy
-  * Questions and How to Contact Us
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
 
+### Use and Disclosure of Your Personal Information
 
+Your information collected through the Service may be stored and processed in the United States or any other country in which Imagine Easy Solutions, LLC, or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Company or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
-**Scope; Third Party Sites.** This Privacy Policy applies only to information we collect at and through the Site. Our Site also contains links to third party sites that are not owned or controlled by RefME. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information. 
+We may use and disclose your Personal Information only as follows:
 
-**Terms of Use.** Please note that your use of our Site is also subject to our [Terms of Use](https://www.refme.com/terms-of-use/).
+To promote use of our Services. For example, if you leave your Personal Information when you visit our Website and don’t sign up for any of the Services, we may send you an email asking whether you want to sign up. And if you use any of our Services, and we think you might benefit from using another Service we offer, we may send you an email telling you about it.
 
-**2\. INFORMATION THAT WE COLLECT**
+To bill and collect money owed to us. This includes sending you emails, invoices, receipts, notices of delinquency, and alerting you if we need a different credit card number. We use third parties for secure credit card transaction processing, and we send billing information to those third parties to process your orders and credit card payments. To learn more about the steps we take to safeguard that data, see Section 7 below.
 
-**Information You Provide to Us**
+To send you System Alert Messages. For example, we may let you know about temporary or permanent changes to our Services, like planned outages, new features, version updates, releases, abuse warnings, and changes to our Privacy Policy.
 
-We collect information you provide to us, for example when you create or modify your account, register to use our Site, purchase products or services from us, request information from us, contact customer support, or otherwise communicate with us. This information may include: 
+To enforce compliance with our Terms of Use and applicable law. This may include developing tools and algorithms that help us prevent violations.
 
-  * Name 
-  * Email address 
-  * Billing address (solely for payment purposes through our third party payment processor) 
-  * Credit card number (solely for payment purposes through our third party payment processor) 
-  * User generated content that you submit to us in connection with using our Site or our products and services 
+To provide customer support.
 
+To protect the rights and safety of our Members and third parties, as well as our own.
 
+To meet legal requirements like complying with court orders and valid subpoenas.
 
-**Information We Collect Through Your Use of our Site**
+To provide information to representatives and advisors, like attorneys and accountants, to help us comply with legal, accounting, or security requirements.
 
-**Google Analytics**
+To prosecute and defend a court, arbitration, or similar proceeding.
 
-We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of the Site. Google Analytics uses “cookies”, which are text files placed on your computer, to help the Site analyze how users use the site. You can find out more about how Google uses data when you visit our Site by visiting “How Google uses data when you use our partners’ sites or apps”, (located at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/)). We may also use Google Analytics Advertising Features to provide you with interest-based advertising based on your online activity. For more information regarding Google Analytics please visit Google’s website, and pages that describe Google Analytics, such as [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). To learn more about interest-based advertisements and your opt-out rights and options, visit the [Digital Advertising Alliance](http://www.aboutads.info/) and the [Network Advertising Initiative](http://www.networkadvertising.org/) websites ([www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/)). Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.
+To support and improve the Services we offer. This includes adding features that compare Members' Email Campaigns, or using data to suggest other publishers your subscribers may be interested in.
 
-**Information Collected Through Cookies and Similar Technologies**
+To communicate with you about your account for informational, not promotional, reasons.
 
-We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our Site through your computer or mobile device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the Site again, the cookie allows the Site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Site features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing user preferences, and tracking user trends.
+To transfer your information in the case of a sale, merger, consolidation, or acquisition. In that event, any acquirer will be subject to our obligations under this Privacy Policy.
 
-**No Information from Children Under Age 13**
+To send you informational and promotional content that you may choose (or "opt in") to receive. You can stop receiving our promotional emails by following the unsubscribe instructions included in every email.
 
-If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we have collected personal information from a child under the age of 13, please [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new).
+### Cookies and Web Beacons
 
-**3\. HOW WE USE AND SHARE YOUR INFORMATION**
+Where necessary, this site uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-**To Provide Products, Services, and Information.** We collect information from you in order to provide products and services that you purchase using the Site, and to provide information that you request from us. We use your personal information to contact you about your orders, process credit card and debit card transactions, and ship products to you. We may send you promotional materials or advertisements about our products and services, as well as new features and offerings. 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies.
 
-**Sharing with Third Parties.** We may provide information to third party service providers that help us operate and manage our Site, process orders, and fulfill and deliver products and services that you purchase from us and that we provide at no charge. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service. 
+### Controlling Your Privacy
 
-**Your Consent.** In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of RefME when we have your consent to do so. 
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
-**Legal Proceedings.** We will share personal information with third party companies, organizations or individuals outside of RefME if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+Cite This For Me accounts require a username and password to log in. You must keep your username and password secure, and never disclose it to a third party. Because the information in your Distribution Lists is so sensitive, account passwords are encrypted, which means we can’t see your passwords. We can’t resend forgotten passwords either. We’ll only reset them.
 
-  * Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request. 
-  * Enforce applicable Terms of Use, including investigation of potential violations. 
-  * Detect, prevent, or otherwise address fraud, security or technical issues. 
-  * Protect against harm to the rights, property or safety of RefME, our users, customers or the public as required or permitted by law. 
+### Notice of Breach of Security
 
+Nobody’s safe from hackers. If a security breach causes an unauthorized intrusion into our system that materially affects you or people on your Distribution Lists, then Cite This For Me will notify you as soon as possible and later report the action we took in response.
 
+### Special Note About Google Advertising
 
-**Transfer in the Event of Sale or Change of Control.** If the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may transfer or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. 
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
 
-**Aggregated De-identified Information.** We may also use information from you that we have de-identified by removing your name and any other information that could be used to personally identify you, and which we aggregate and combine with other de-identified information (“De-identified Information”). We may use and share De-identified Information for research and development purposes, product and service development and improvement, marketing and promotional purposes, and other lawful purposes in connection with RefME’s business operations. RefME shall be the exclusive owner of all De-identified Information.
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-**4\. ACCESS TO YOUR INFORMATION AND CHOICES**
+### Google Analytics
 
-You can access and update certain information we have relating to your online account by logging into your account and going to the “edit account” section. If you have questions about personal information we have about you or need to update your information please feel free to [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new). You can opt-out of receiving marketing and promotional e-mails from RefME by using the opt-out or unsubscribe feature contained in the e-mails. 
+We use a tool called “Google Analytics” to collect information about use of this site. Google Analytics collects information such as how often users visit this site, what pages they visit when they do so, and what other sites they used prior to coming to this site. We use the information we get from Google Analytics only to improve this site. Google Analytics collects only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the Google Analytics Terms of Use and the Google Privacy Policy. You can prevent Google Analytics from recognizing you on return visits to this site by disabling cookies on your browser. 
 
-You can close your online account by logging into your account and going to the “edit account” section. If you close your account, we will no longer use your online account information or share it with third parties. We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud. 
+### Advertisements
 
-**5\. SECURITY OF YOUR INFORMATION**
+When you are on this web site, you may see advertisements and those advertisements may be targeted to your interests. We work with third party network advertisers, ad agencies, analytics service providers, and other vendors to serve ads on this site and to serve our ads across the internet.. These third parties also provide us with information regarding how visitors use our website and the effectiveness of our advertisements. These third parties may collect information about you when you view or interact with one of their advertisements and may collect information about your online activities over time and across different websites.
 
-We use industry standard physical, technical and administrative security measures and safeguards to protect the confidentiality and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. There is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means. 
+These third parties may set and access tracking technologies on your device, including cookies, and may otherwise collect or have access to information about you. Cookies and other tracking technologies, including those set by third-party network advertisers, may be used for many purposes, such as to target advertisements, prevent you from seeing the same advertisements too many times, and conduct research regarding the usefulness of certain advertisements to you. We may share information regarding our users and the use of our website with third-party advertising companies, analytics providers and other vendors for similar purposes. We do not share your name or contact information, but we may share certain information that has been de-identified so that it is no longer personally identifiable (such as through a hash function). 
 
-**6\. CONSENT TO PROCESSING OF PERSONAL DATA IN UNITED STATES**
+While we may use a variety of service providers to perform advertising services, some of these companies are members of the Network Advertising Initiative ("NAI”) or the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising. You may want to visit http://www.networkadvertising.org/managing/opt_out.asp, which provides information regarding targeted advertising and the “opt-out” procedures of NAI members. You may also want to visit or http://www.aboutads.info/choices/, which provides information regarding targeted advertising and offers an “opt-out” by participating companies in the DAA Self-Regulatory Program. Please note that these companies may still collect information when you are online and opting out through these mechanisms does not opt you out of being served advertising. You will continue to be served generic ads while online.
 
-Our servers where your personal information is stored are located in Ireland. However, if you are a resident of the European Economic Area (EEA) please note that in order to provide our Site, products and services to you, we may send and store your personal information (also commonly referred to as personal data) outside of the EEA, including to the United States. Accordingly, your personal information may be transferred outside of the country where you reside or are located, including to countries that may not or do not provide the same level of protection for your personal information. We are committed to protecting the privacy and confidentiality of personal information when it is transferred. Where such transfers occur, we take appropriate steps to provide the same level of protection for the processing carried out in any such countries as within the EEA to the extent feasible under applicable law. By using and accessing our Site, users who reside or are located in countries outside of the United States agree and consent to the transfer to and processing of personal information on servers located outside of the country where they reside, and that the protection of such information may be different than required under the laws of their residence or location.
+### Advertising
 
-**7\. CHANGES TO OUR PRIVACY POLICY**
+Cite This For Me TM serves advertising, and our ad partners may use non-personally identifiable information (not including your name, address, email address, or telephone number) about your visit in order to provide advertisements on our sites about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click here [http://www.networkadvertising.org/choices/]. To opt out of interest based ads served by Google, you can visit the Google advertising opt-out page [http://google.com/settings/ads]
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+When advertisers request, Cite This For Me TM will provide aggregate information on the general makeup of the site's viewers. Such aggregate information includes the number of pageviews in a session, time spent on page, continental locations (if applicable), most hit URLs, and browser types.
 
-**8\. QUESTIONS AND HOW TO CONTACT US**
+Although Cite This For Me TM has a strict privacy policy, all interactions with the Internet pose some inherent dangers. Please be aware of these and conduct all your transactions with caution. Please be careful and responsible when you are surfing online.
 
-If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please [Contact Us](https://refme.zendesk.com/hc/en-gb/requests/new), email us at [support@refme.com](mailto:support@refme.com), or contact us by postal mail at the following address:
+### Contact Information
 
-RefME Ltd  
-Unit 1, New North House  
-Canonbury Business Centre, 202-208 New North Road  
-London, N1 7BJ  
-United Kingdom
+Concerns or questions about this privacy policy can be directed to [support@imagineeasy.com](mailto:support@imagineeasy.com) for further clarification.
