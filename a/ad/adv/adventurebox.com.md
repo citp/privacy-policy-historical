@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adventurebox.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917114148id_/http%3A//blog.adventurebox.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventurebox.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609092750id_/http%3A//blog.adventurebox.com/policy) for the most accurate reproduction.*
 
-# Policy | Adventure Box
+# Policy - Adventure Box
 
 ### Policy
 
