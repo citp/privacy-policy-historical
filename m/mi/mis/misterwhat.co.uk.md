@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121093102id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterwhat.co.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609204159id_/http%3A//www.misterwhat.co.uk/content/terms) for the most accurate reproduction.*
 
 # Terms of use | MisterWhat
 
