@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressreleaserocket.net privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227191226id_/http%3A//www.pressreleaserocket.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressreleaserocket.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609090610id_/http%3A//www.pressreleaserocket.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Press Release Rocket
 
