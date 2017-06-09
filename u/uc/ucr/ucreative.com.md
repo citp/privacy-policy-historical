@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucreative.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033113id_/http%3A//www.ucreative.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucreative.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609054623id_/http%3A//www.ucreative.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | UCreative.com
+# Privacy Policy – UCreative.com
 
 UCreative is owned and operated by Digital Room, Inc. UCreative understands the importance of protecting the privacy of its users. By using the UCreative website (“Site”), you agree to the collection and use of your information in accordance with this Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the Site.
 
