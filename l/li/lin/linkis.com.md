@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkis.com privacy policy that was archived on 2015-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151221182610id_/http%3A//linkis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkis.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609025214id_/http%3A//linkis.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Linkis.com
+# Privacy policy - Linkis.com
 
 ### Privacy Policy
 
