@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052015id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yepme.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609200832id_/http%3A//www.yepme.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | YepMe.com
+# 
 
 We value the trust you place in yepme.com. Please read this Privacy Policy, which tells you what information we collect from users of the Yepme.com, how we use that information, and with whom we may share it. Unless defined in this Privacy Policy Conduct, terms capitalized but not defined herein are defined in the Terms & Conditions. In this Privacy Policy Yepme.com is referred to as **"we"** **"us"** or **"our"** and you the end user are referred to as **"you"** , **"your"** or **“user”**.
 
