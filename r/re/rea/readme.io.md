@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208080016id_/http%3A//readme.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readme.io privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609225910id_/http%3A//readme.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · ReadMe
+# Privacy Policy · ReadMe · ReadMe
 
 * * *
 
