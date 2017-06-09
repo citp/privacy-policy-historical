@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706160049id_/http%3A//www.webincomejournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webincomejournal.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609214126id_/http%3A//www.webincomejournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
