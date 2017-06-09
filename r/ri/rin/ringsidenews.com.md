@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120144048id_/http%3A//www.ringsidenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609050905id_/http%3A//www.ringsidenews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RingsideNews.com
+# Privacy Policy - Wrestling News & WWE News, Rumors & Spoilers
 
 RingSideNews knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
