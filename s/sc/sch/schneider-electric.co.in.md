@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.co.in privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209090752id_/http%3A//www.schneider-electric.co.in/sites/india/en/general/legal-information/data-privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.in privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609223206id_/http%3A//www.schneider-electric.co.in/sites/india/en/general/legal-information/data-privacy.page) for the most accurate reproduction.*
 
 # Data Privacy Statement-Schneider Electric
 
