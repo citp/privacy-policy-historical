@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226041358id_/http%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmeds.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609193216id_/http%3A//www.netmeds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Netmeds.com
 
@@ -35,7 +35,7 @@
   * As a New Customer, when you register/create an account, place your order, or upload your medical prescription at Netmeds.com;
   * As an Existing Customer, when you update your existing profile on Netmeds.com;
   * When you sign up for enewsletters at Netmeds.com;
-  * When you use [Refer & Earn](https://web.archive.org/web/20161226041358id_/http%3A//www.netmeds.com/refer-earn.aspx) programme, Ask Our Pharmacist service, Contact Us or submit your Testimonials at Netmeds.com.
+  * When you use [Refer & Earn](https://web.archive.org/web/20170609193216id_/http%3A//www.netmeds.com/refer-earn.aspx) programme, Ask Our Pharmacist service, Contact Us or submit your Testimonials at Netmeds.com.
 
 
 
@@ -79,8 +79,8 @@ We understand the confidential nature of the prescription you provide us to proc
 
 We may revise this Privacy Policy from time to time by updating this page, and so we urge you to review it periodically to ensure that you agree with any such changes that we make. We will make best efforts to inform you of any important amendments by e-mail, message on the Website or notification in Your Account. However, it is your responsibility to check the Policy regularly to ensure that you agree with it and your continued use of the Website will be deemed to be your acceptance of any changes that we make.
 
-Last updated Date: 11/10/2016 
+Last updated Date: 26/05/2017 
 
 **11\. Contact Information**
 
-If you have questions about this Privacy Policy, please contact our customer service at [cs@netmeds.com](mailto:cs@netmeds.com) or call our toll-free no. 1800-103-0304.
+If you have questions about this Privacy Policy, please contact our customer service at [cs@netmeds.com](mailto:cs@netmeds.com) or call 72007-12345.
