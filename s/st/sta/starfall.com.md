@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215164601id_/http%3A//more.starfall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starfall.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609111944id_/http%3A//more.starfall.com/privacy.php) for the most accurate reproduction.*
 
 # Starfall Education Privacy Policy
 
