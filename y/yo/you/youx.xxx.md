@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youx.xxx privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201202651id_/http%3A//www.youx.xxx/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youx.xxx privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609090630id_/http%3A//www.youx.xxx/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YOUX.XXX
 
