@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the celebritymeasurement.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108175757id_/https%3A//www.celebritymeasurement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritymeasurement.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609153002id_/http%3A//www.celebritymeasurement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Advertisement : 
+
+  
+\----------------------------------------- 
 
 At  www.celebritymeasurement.com , the privacy of our visitors is of extreme importance to us . This privacy policy document outlines the types of personal information is received and collected and how it is used.
 
