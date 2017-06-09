@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allexam.co.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132614id_/http%3A//www.allexam.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allexam.co.in privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609103400id_/http%3A//www.allexam.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Allexam
 
@@ -36,4 +36,4 @@ You do not have to accept cookies and you may block or disable all cookies from 
 
 Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup.
 
-You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. You may also opt-out of receiving cookies from third party advertising networks by using the [NAI Opt-out Tool](http://www.networkadvertising.org/managing/opt_out.asp).
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. You may also opt-out of receiving cookies from third party advertising networks by using the NAI Opt-out Tool.
