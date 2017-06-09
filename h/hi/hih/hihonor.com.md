@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hihonor.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818215147id_/http%3A//www.hihonor.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hihonor.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609025503id_/http%3A//www.hihonor.com/global/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy
+# Privacy Policy-Honor official Site(Global)
 
 Through this policy we, Huawei Technologies, would like to inform you about the way Honor collects and processes your personal data on this website (support@hihonor.com).
 
