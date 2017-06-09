@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deckstats.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125019id_/http%3A//koelling.co.uk/disclaimer_en.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deckstats.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609051420id_/http%3A//koelling.co.uk/disclaimer_en.php) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
