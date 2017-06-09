@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicwish.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233542id_/http%3A//www.chicwish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicwish.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609034813id_/http%3A//www.chicwish.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Retro, Indie and Unique Fashion
 
