@@ -1,0 +1,999 @@
+<!--The following is the downloaded HTML source of the proteinatlas.org privacy policy that was archived on 2017-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609054757id_/http%3A//www.proteinatlas.org/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+				<title>The Human Protein Atlas</title>
+		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+				<link rel="icon" type="image/png" href="/images_static/favicon_anim.gif">
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script language="javascript" type="text/javascript" src="/utils/jquery.min.js?v=v16.1.2"></script><script language="javascript" type="text/javascript" src="/utils/tooltipsy.min.js?v=v16.1.2"></script><script language="javascript" type="text/javascript" src="/utils/core/lib/cookie/js.cookie.min.js?v=v16.1.2"></script><script language="javascript" type="text/javascript" src="/common.js?v=v16.1.2"></script><link rel="stylesheet" type="text/css" href="/common.css?v=v16.1.2">		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-47932142-1', 'auto');
+			ga('set', 'forceSSL', true);
+		</script>
+		<script language="javascript" type="text/javascript" src="/search.js?v=v16.1.2"></script><link rel="stylesheet" type="text/css" href="/search.css?v=v16.1.2"><script language="javascript" type="text/javascript" src="/image.js?v=v16.1.2"></script><script language="javascript" type="text/javascript" src="/utils/d3.min.js?v=v16.1.2"></script><link rel="stylesheet" type="text/css" href="/learn.css?v=v16.1.2"><link rel="stylesheet" type="text/css" href="/image.css?v=v16.1.2"><link rel="stylesheet" type="text/css" href="/dictionary.css?v=v16.1.2"><script language="javascript" type="text/javascript" src="/header_menu.js?v=v16.1.2"></script><link rel="stylesheet" type="text/css" href="/header_menu.css?v=v16.1.2">	</head>
+	<body>
+		<div id="cookie_statement">
+		We use cookies to enhance the usability of our website. If you continue, we'll assume that you are happy to receive all cookies. <a href="/about/privacy">More information</a>. <a class="cookie_statement" href="#cookie_statement">Don't show this again.</a>
+	</div>
+	<div class="page_header">
+	<div style="width: 1000px; margin: auto; overflow: visible; white-space: nowrap;">
+		<div style="display: inline-block; position: relative; left: 10px; vertical-align: middle; padding-top: 0px;"><a href="/"><img src="/images_static/logo_text_small.gif"><img src="/images_static/logo_hex_anim_small.gif"></a></div>
+		<div style="display: inline-block; position: relative; left: 100px; vertical-align: middle; padding-top: 4px; height: 43px; overflow: visible;"><table id="searchTable" style="background-color: transparent;">
+	<tbody><tr>
+		<td>
+			<form id="searchForm" onsubmit="queryClean();return setAction();" action="/search_result.php" method="get">
+				<table>
+					<tbody><tr>
+						<td class="top">
+							<textarea name="query" id="searchQuery" class="searchQuery" tabindex="1" style="height:26px;" onkeydown="querySubmit(event);">protein_class:Predicted membrane proteins
+AND NOT protein_class:Predicted secreted proteins</textarea>						</td>
+						<td class="top"><button type="submit" id="search" tabindex="2">Search</button></td>
+						<!-- td class="top"><button id="searchClear" onclick="querySet(''); return false;" tabindex="3">Clear</button></td -->
+						<td class="top" style="padding-top:2px;"><a href="#fields" id="searchFieldsLink" onclick="fieldsShow(); ga_event('toggle_link', 'click', 'search_fields_show'); return false;" tabindex="4">Fields »</a></td>
+					</tr>
+				</tbody></table>
+			</form>
+						<form id="fieldsForm" autocomplete="off" disableautocomplete="true">
+				<table id="searchFields" style="display:none;">
+					<tbody><tr>
+						<td id="searchAnd_all">
+							<span class="small">
+								&nbsp;<br>
+								<span><input type="text" class="dropdown" readonly="" id="searchAnd" tabindex="5" value="" name="" onclick="dropToggle('searchAnd');" onblur="dropHide('searchAnd');" onkeydown="dropNavigate(event, 'searchAnd');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="searchAnd_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat1___AND_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchAnd');">AND</label>
+						<label id="cat1___NOT_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchAnd');">NOT</label>
+			</span></div>							</span>
+						</td>
+						<td>
+							<span>
+								Field<br>
+																<span><input type="text" class="dropdown" readonly="" id="searchFiled" tabindex="6" value="All" name="all" onclick="dropToggle('searchFiled');" onblur="dropHide('searchFiled');" onkeydown="dropNavigate(event, 'searchFiled');" onchange="fieldShowInputs(lastItem.id);" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="searchFiled_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat2___all_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">All</label>
+			<label id="-1" class="disabled">– GENE INFO –</label>			<label id="cat2___gene_name_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Gene name</label>
+						<label id="cat2___protein_class_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Protein class</label>
+						<label id="cat2___chromosome_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Chromosome</label>
+						<label id="cat2___external_id_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">External id</label>
+			<label id="-2" class="disabled">– DATA AVAILABILITY –</label>			<label id="cat2___has_protein_data_in_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Has protein data</label>
+			<label id="-3" class="disabled">– DATA RELIABILITY –</label>			<label id="cat2___ih_tissue_reliability_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Reliability score tissue (IHC)</label>
+						<label id="cat2___mb_tissue_reliability_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Reliability score mouse brain</label>
+						<label id="cat2___if_reliability_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Reliability score cells (ICC/IF)</label>
+			<label id="-4" class="disabled">– ANTIBODY VALIDATION –</label>			<label id="cat2___pa_validation_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Protein array</label>
+						<label id="cat2___antibody_validation_wb_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Western blot</label>
+						<label id="cat2___ih_ab_validation_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Immunohistochemistry</label>
+						<label id="cat2___if_ab_validation_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Immunocytochemistry</label>
+			<label id="-5" class="disabled">– PRIMARY DATA –</label>			<label id="cat2___subcell_location_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Subcellular localization</label>
+						<label id="cat2___normal_expression_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Tissue expression (IHC)</label>
+						<label id="cat2___tissue_specificity_rna_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">RNA tissue category</label>
+						<label id="cat2___celline_specificity_rna_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">RNA cell category</label>
+						<label id="cat2___tissue_detectable_rna_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Tissue detectable (RNA)</label>
+						<label id="cat2___rna_celline_detectable_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Cell line detectable (RNA)</label>
+			<label id="-6" class="disabled">– PROTEIN EVIDENCE –</label>			<label id="cat2___evidence_summary_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Evidence summary</label>
+						<label id="cat2___uniprot_evidence_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">UniProt evidence</label>
+						<label id="cat2___hpa_evidence_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">HPA evidence</label>
+						<label id="cat2___ms_evidence_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">MS evidence</label>
+			<label id="-7" class="disabled">– ANTIBODIES –</label>			<label id="cat2___with_antibodies_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">With antibodies</label>
+			<label id="-8" class="disabled">– EXTRA –</label>			<label id="cat2___sort_by_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'searchFiled');">Sort by</label>
+			</span></div>							</span>
+						</td>
+													<td id="inputs_all">
+								<table>
+									<tbody><tr>
+																					<td id="freetext_all">
+											<span class="">Term<br><input type="text" id="freetext" tabindex="7" value="" name="">											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_gene_name" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="gene_all">
+											<span class="">Gene name<br><span><img id="gene_progress" src="/images_static/progress_inactive.gif" style="position:absolute; top:2px; right:5px;"><input type="text" id="gene" tabindex="7" value="" name="" onfocus="dropShow('gene');" onblur="dropHide('gene');" onkeydown="dropNavigate(event, 'gene');" onkeyup="autoComplete(event, 'gene_name', 'gene');"></span><br><div><span id="gene_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"></span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_protein_class" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="main_class_all">
+											<span class="">Class<br><span><input type="text" class="dropdown" readonly="" id="main_class" tabindex="7" value="" name="" onclick="dropToggle('main_class');" onblur="dropHide('main_class');" onkeydown="dropNavigate(event, 'main_class');" onchange="autoDrop('protein_class', lastItem.id, 'sub_class');" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="main_class_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat4___Blood_group_antigen_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Blood group antigen proteins</label>
+						<label id="cat4___Cancer-related_genes_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Cancer-related genes</label>
+						<label id="cat4___Candidate_cardiovascular_disease_genes_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Candidate cardiovascular disease genes</label>
+						<label id="cat4___CD_markers_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">CD markers</label>
+						<label id="cat4___Citric_acid_cycle_related_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Citric acid cycle related proteins</label>
+						<label id="cat4___Disease_related_genes_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Disease related genes</label>
+						<label id="cat4___Enzymes_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Enzymes</label>
+						<label id="cat4___FDA_approved_drug_targets_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">FDA approved drug targets</label>
+						<label id="cat4___G-protein_coupled_receptors_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">G-protein coupled receptors</label>
+						<label id="cat4___Mapped_to_UniProt_SWISS-PROT_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Mapped to UniProt SWISS-PROT</label>
+						<label id="cat4___Nuclear_receptors_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Nuclear receptors</label>
+						<label id="cat4___Plasma_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Plasma proteins</label>
+						<label id="cat4___Potential_drug_targets_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Potential drug targets</label>
+						<label id="cat4___Predicted_intracellular_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Predicted intracellular proteins</label>
+						<label id="cat4___Predicted_membrane_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Predicted membrane proteins</label>
+						<label id="cat4___Predicted_secreted_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Predicted secreted proteins</label>
+						<label id="cat4___Protein_evidence_(Ezkurdia_et_al_2014)_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Protein evidence (Ezkurdia et al 2014)</label>
+						<label id="cat4___Protein_evidence_(Kim_et_al_2014)_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Protein evidence (Kim et al 2014)</label>
+						<label id="cat4___RAS_pathway_related_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">RAS pathway related proteins</label>
+						<label id="cat4___Ribosomal_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Ribosomal proteins</label>
+						<label id="cat4___RNA_polymerase_related_proteins_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">RNA polymerase related proteins</label>
+						<label id="cat4___Transcription_factors_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Transcription factors</label>
+						<label id="cat4___Transporters_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Transporters</label>
+						<label id="cat4___Voltage-gated_ion_channels_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'main_class');">Voltage-gated ion channels</label>
+			</span></div>											</span>
+											</td>
+																						<td id="sub_class_all" style="display:none;">
+											<span class="">Subclass<br><span><input type="text" class="dropdown" readonly="" id="sub_class" tabindex="8" value="Any" name="any" onclick="dropToggle('sub_class');" onblur="dropHide('sub_class');" onkeydown="dropNavigate(event, 'sub_class');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="sub_class_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"></span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_chromosome" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="chr_all">
+											<span class="">Chromosome<br><span><input type="text" class="dropdown" readonly="" id="chr" tabindex="7" value="" name="" onclick="dropToggle('chr');" onblur="dropHide('chr');" onkeydown="dropNavigate(event, 'chr');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="chr_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat6___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">1</label>
+						<label id="cat6___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">2</label>
+						<label id="cat6___3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">3</label>
+						<label id="cat6___4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">4</label>
+						<label id="cat6___5_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">5</label>
+						<label id="cat6___6_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">6</label>
+						<label id="cat6___7_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">7</label>
+						<label id="cat6___8_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">8</label>
+						<label id="cat6___9_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">9</label>
+						<label id="cat6___10_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">10</label>
+						<label id="cat6___11_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">11</label>
+						<label id="cat6___12_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">12</label>
+						<label id="cat6___13_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">13</label>
+						<label id="cat6___14_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">14</label>
+						<label id="cat6___15_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">15</label>
+						<label id="cat6___16_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">16</label>
+						<label id="cat6___17_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">17</label>
+						<label id="cat6___18_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">18</label>
+						<label id="cat6___19_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">19</label>
+						<label id="cat6___20_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">20</label>
+						<label id="cat6___21_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">21</label>
+						<label id="cat6___22_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">22</label>
+						<label id="cat6___MT_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">MT</label>
+						<label id="cat6___Unmapped_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">Unmapped</label>
+						<label id="cat6___X_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">X</label>
+						<label id="cat6___Y_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'chr');">Y</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_external_id" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="external_all">
+											<span class="">External id<br><span><img id="external_progress" src="/images_static/progress_inactive.gif" style="position:absolute; top:2px; right:5px;"><input type="text" id="external" tabindex="7" value="" name="" onfocus="dropShow('external');" onblur="dropHide('external');" onkeydown="dropNavigate(event, 'external');" onkeyup="autoComplete(event, 'external_id', 'external');"></span><br><div><span id="external_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"></span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_has_protein_data_in" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="has_subatlas_all">
+											<span class="">In atlas<br><span><input type="text" class="dropdown" readonly="" id="has_subatlas" tabindex="7" value="" name="" onclick="dropToggle('has_subatlas');" onblur="dropHide('has_subatlas');" onkeydown="dropNavigate(event, 'has_subatlas');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="has_subatlas_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat8___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'has_subatlas');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat8___1" name="Tissue">Tissue</label>
+						<label id="cat8___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'has_subatlas');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat8___2" name="Cancer">Cancer</label>
+						<label id="cat8___4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'has_subatlas');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat8___4" name="Cell">Cell</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_ih_tissue_reliability" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="search_reliability_ih_all">
+											<span class="">Reliability<br><span><input type="text" class="dropdown" readonly="" id="search_reliability_ih" tabindex="7" value="" name="" onclick="dropToggle('search_reliability_ih');" onblur="dropHide('search_reliability_ih');" onkeydown="dropNavigate(event, 'search_reliability_ih');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="search_reliability_ih_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat9___Supported_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_ih');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat9___Supported" name="Supported">Supported</label>
+						<label id="cat9___Approved_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_ih');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat9___Approved" name="Approved">Approved</label>
+						<label id="cat9___Uncertain_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_ih');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat9___Uncertain" name="Uncertain">Uncertain</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_mb_tissue_reliability" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="search_reliability_mb_all">
+											<span class="">Reliability<br><span><input type="text" class="dropdown" readonly="" id="search_reliability_mb" tabindex="7" value="" name="" onclick="dropToggle('search_reliability_mb');" onblur="dropHide('search_reliability_mb');" onkeydown="dropNavigate(event, 'search_reliability_mb');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="search_reliability_mb_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat10___Supported_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_mb');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat10___Supported" name="Supported">Supported</label>
+						<label id="cat10___Approved_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_mb');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat10___Approved" name="Approved">Approved</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_if_reliability" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="search_reliability_if_all">
+											<span class="">Reliability<br><span><input type="text" class="dropdown" readonly="" id="search_reliability_if" tabindex="7" value="" name="" onclick="dropToggle('search_reliability_if');" onblur="dropHide('search_reliability_if');" onkeydown="dropNavigate(event, 'search_reliability_if');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="search_reliability_if_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat11___Validated_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_if');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat11___Validated" name="Validated">Validated</label>
+						<label id="cat11___Supported_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_if');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat11___Supported" name="Supported">Supported</label>
+						<label id="cat11___Approved_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_if');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat11___Approved" name="Approved">Approved</label>
+						<label id="cat11___Uncertain_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'search_reliability_if');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat11___Uncertain" name="Uncertain">Uncertain</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_pa_validation" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="validation_pa_all">
+											<span class="">Validation<br><span><input type="text" class="dropdown" readonly="" id="validation_pa" tabindex="7" value="" name="" onclick="dropToggle('validation_pa');" onblur="dropHide('validation_pa');" onkeydown="dropNavigate(event, 'validation_pa');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="validation_pa_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat12___Supported_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'validation_pa');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat12___Supported" name="Supported">Supported</label>
+						<label id="cat12___Approved_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'validation_pa');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat12___Approved" name="Approved">Approved</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_antibody_validation_wb" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="ab_validation_wb_all">
+											<span class="">Method<br><span><input type="text" class="dropdown" readonly="" id="ab_validation_wb" tabindex="7" value="" name="" onclick="dropToggle('ab_validation_wb');" onblur="dropHide('ab_validation_wb');" onkeydown="dropNavigate(event, 'ab_validation_wb');" onchange="autoDrop('antibody_validation_wb', lastItem.id, 'wb_antibody_validation');" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="ab_validation_wb_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat13___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'ab_validation_wb');">Formal</label>
+						<label id="cat13___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'ab_validation_wb');">Standard</label>
+			</span></div>											</span>
+											</td>
+																						<td id="wb_antibody_validation_all">
+											<span class="">Validation<br><span><input type="text" class="dropdown" readonly="" id="wb_antibody_validation" tabindex="8" value="" name="" onclick="dropToggle('wb_antibody_validation');" onblur="dropHide('wb_antibody_validation');" onkeydown="dropNavigate(event, 'wb_antibody_validation');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="wb_antibody_validation_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"></span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_ih_ab_validation" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="ih_ab_method_all">
+											<span class="">Method<br><span><input type="text" class="dropdown" readonly="" id="ih_ab_method" tabindex="7" value="" name="" onclick="dropToggle('ih_ab_method');" onblur="dropHide('ih_ab_method');" onkeydown="dropNavigate(event, 'ih_ab_method');" onchange="autoDrop('ih_ab_validation', lastItem.id, 'validation');" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="ih_ab_method_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat15___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'ih_ab_method');">Formal</label>
+						<label id="cat15___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'ih_ab_method');">Standard</label>
+			</span></div>											</span>
+											</td>
+																						<td id="validation_all">
+											<span class="">Validation<br><span><input type="text" class="dropdown" readonly="" id="validation" tabindex="8" value="" name="" onclick="dropToggle('validation');" onblur="dropHide('validation');" onkeydown="dropNavigate(event, 'validation');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="validation_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"></span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_if_ab_validation" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="validation_if_ab_method_all">
+											<span class="">Method<br><span><input type="text" class="dropdown" readonly="" id="validation_if_ab_method" tabindex="7" value="" name="" onclick="dropToggle('validation_if_ab_method');" onblur="dropHide('validation_if_ab_method');" onkeydown="dropNavigate(event, 'validation_if_ab_method');" onchange="autoDrop('if_ab_validation', lastItem.id, 'validation_if_ab');" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="validation_if_ab_method_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat17___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'validation_if_ab_method');">Formal</label>
+						<label id="cat17___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'validation_if_ab_method');">Standard</label>
+			</span></div>											</span>
+											</td>
+																						<td id="validation_if_ab_all">
+											<span class="">Validation<br><span><input type="text" class="dropdown" readonly="" id="validation_if_ab" tabindex="8" value="" name="" onclick="dropToggle('validation_if_ab');" onblur="dropHide('validation_if_ab');" onkeydown="dropNavigate(event, 'validation_if_ab');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="validation_if_ab_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"></span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_subcell_location" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="location_all">
+											<span class="">Location<br><span><input type="text" class="dropdown" readonly="" id="location" tabindex="7" value="" name="" onclick="dropToggle('location');" onblur="dropHide('location');" onkeydown="dropNavigate(event, 'location');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="location_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat19___Actin_filaments_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Actin_filaments" name="Actin filaments">Actin filaments</label>
+						<label id="cat19___Aggresome_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Aggresome" name="Aggresome">Aggresome</label>
+						<label id="cat19___Cell_Junctions_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Cell_Junctions" name="Cell Junctions">Cell Junctions</label>
+						<label id="cat19___Centrosome_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Centrosome" name="Centrosome">Centrosome</label>
+						<label id="cat19___Cytokinetic_bridge_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Cytokinetic_bridge" name="Cytokinetic bridge">Cytokinetic bridge</label>
+						<label id="cat19___Cytoplasmic_bodies_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Cytoplasmic_bodies" name="Cytoplasmic bodies">Cytoplasmic bodies</label>
+						<label id="cat19___Cytosol_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Cytosol" name="Cytosol">Cytosol</label>
+						<label id="cat19___Endoplasmic_reticulum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Endoplasmic_reticulum" name="Endoplasmic reticulum">Endoplasmic reticulum</label>
+						<label id="cat19___Endosomes_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Endosomes" name="Endosomes">Endosomes</label>
+						<label id="cat19___Focal_adhesion_sites_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Focal_adhesion_sites" name="Focal adhesion sites">Focal adhesion sites</label>
+						<label id="cat19___Golgi_apparatus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Golgi_apparatus" name="Golgi apparatus">Golgi apparatus</label>
+						<label id="cat19___Intermediate_filaments_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Intermediate_filaments" name="Intermediate filaments">Intermediate filaments</label>
+						<label id="cat19___Lipid_droplets_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Lipid_droplets" name="Lipid droplets">Lipid droplets</label>
+						<label id="cat19___Lysosomes_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Lysosomes" name="Lysosomes">Lysosomes</label>
+						<label id="cat19___Microtubule_ends_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Microtubule_ends" name="Microtubule ends">Microtubule ends</label>
+						<label id="cat19___Microtubule_organizing_center_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Microtubule_organizing_center" name="Microtubule organizing center">Microtubule organizing center</label>
+						<label id="cat19___Microtubules_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Microtubules" name="Microtubules">Microtubules</label>
+						<label id="cat19___Midbody_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Midbody" name="Midbody">Midbody</label>
+						<label id="cat19___Midbody_ring_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Midbody_ring" name="Midbody ring">Midbody ring</label>
+						<label id="cat19___Mitochondria_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Mitochondria" name="Mitochondria">Mitochondria</label>
+						<label id="cat19___Mitotic_spindle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Mitotic_spindle" name="Mitotic spindle">Mitotic spindle</label>
+						<label id="cat19___Nuclear_bodies_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Nuclear_bodies" name="Nuclear bodies">Nuclear bodies</label>
+						<label id="cat19___Nuclear_membrane_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Nuclear_membrane" name="Nuclear membrane">Nuclear membrane</label>
+						<label id="cat19___Nuclear_speckles_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Nuclear_speckles" name="Nuclear speckles">Nuclear speckles</label>
+						<label id="cat19___Nucleoli_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Nucleoli" name="Nucleoli">Nucleoli</label>
+						<label id="cat19___Nucleoli_fibrillar_center_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Nucleoli_fibrillar_center" name="Nucleoli fibrillar center">Nucleoli fibrillar center</label>
+						<label id="cat19___Nucleoplasm_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Nucleoplasm" name="Nucleoplasm">Nucleoplasm</label>
+						<label id="cat19___Nucleus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Nucleus" name="Nucleus">Nucleus</label>
+						<label id="cat19___Peroxisomes_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Peroxisomes" name="Peroxisomes">Peroxisomes</label>
+						<label id="cat19___Plasma_membrane_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Plasma_membrane" name="Plasma membrane">Plasma membrane</label>
+						<label id="cat19___Rods_&amp;_Rings_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Rods_&amp;_Rings" name="Rods &amp; Rings">Rods &amp; Rings</label>
+						<label id="cat19___Vesicles_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat19___Vesicles" name="Vesicles">Vesicles</label>
+			</span></div>											</span>
+											</td>
+																						<td id="reliability_if_location_all">
+											<span class="">Searches<br><span><input type="text" class="dropdown" readonly="" id="reliability_if_location" tabindex="8" value="" name="" onclick="dropToggle('reliability_if_location');" onblur="dropHide('reliability_if_location');" onkeydown="dropNavigate(event, 'reliability_if_location');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="reliability_if_location_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"><label id="-1" class="disabled">– RELIABILITY –</label>			<label id="cat20___Validated_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Validated" name="Validated">Validated</label>
+						<label id="cat20___Supported_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Supported" name="Supported">Supported</label>
+						<label id="cat20___Approved_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Approved" name="Approved">Approved</label>
+						<label id="cat20___Uncertain_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Uncertain" name="Uncertain">Uncertain</label>
+			<label id="-2" class="disabled">– SUBCELLULAR VARIATION –</label>			<label id="cat20___Intensity_variation_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Intensity_variation" name="Intensity variation">Intensity variation</label>
+						<label id="cat20___Spatial_variation_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Spatial_variation" name="Spatial variation">Spatial variation</label>
+						<label id="cat20___Cell_cycle_intensity_correlation_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Cell_cycle_intensity_correlation" name="Cell cycle intensity correlation">Cell cycle intensity correlation</label>
+						<label id="cat20___Cell_cycle_spatial_correlation_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Cell_cycle_spatial_correlation" name="Cell cycle spatial correlation">Cell cycle spatial correlation</label>
+						<label id="cat20___Cell_cycle_biologically_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Cell_cycle_biologically" name="Cell cycle biologically">Cell cycle biologically</label>
+						<label id="cat20___Custom_data_cell_cycle_dependant_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Custom_data_cell_cycle_dependant" name="Custom data cell cycle dependant">Custom data cell cycle dependant</label>
+			<label id="-3" class="disabled">– MULTILOCALIZATION –</label>			<label id="cat20___Multilocalizing_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Multilocalizing" name="Multilocalizing">Multilocalizing</label>
+						<label id="cat20___Localizing_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Localizing_1" name="Localizing 1">Localizing 1</label>
+						<label id="cat20___Localizing_2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Localizing_2" name="Localizing 2">Localizing 2</label>
+						<label id="cat20___Localizing_3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Localizing_3" name="Localizing 3">Localizing 3</label>
+						<label id="cat20___Localizing_4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Localizing_4" name="Localizing 4">Localizing 4</label>
+						<label id="cat20___Localizing_5_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'reliability_if_location');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat20___Localizing_5" name="Localizing 5">Localizing 5</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_normal_expression" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="normal_tissue_all">
+											<span class="">Tissue<br><span><input type="text" class="dropdown" readonly="" id="normal_tissue" tabindex="7" value="" name="" onclick="dropToggle('normal_tissue');" onblur="dropHide('normal_tissue');" onkeydown="dropNavigate(event, 'normal_tissue');" onchange="autoDrop('normal_expression', lastItem.id, 'normal_cell');" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="normal_tissue_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat21____label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');"></label>
+						<label id="cat21___any_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Any</label>
+						<label id="cat21___adrenal_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Adrenal gland</label>
+						<label id="cat21___appendix_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Appendix</label>
+						<label id="cat21___bone_marrow_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Bone marrow</label>
+						<label id="cat21___breast_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Breast</label>
+						<label id="cat21___bronchus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Bronchus</label>
+						<label id="cat21___caudate_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Caudate</label>
+						<label id="cat21___cerebellum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Cerebellum</label>
+						<label id="cat21___cerebral_cortex_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Cerebral cortex</label>
+						<label id="cat21___cervix,_uterine_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Cervix, uterine</label>
+						<label id="cat21___colon_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Colon</label>
+						<label id="cat21___duodenum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Duodenum</label>
+						<label id="cat21___endometrium_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Endometrium 1</label>
+						<label id="cat21___endometrium_2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Endometrium 2</label>
+						<label id="cat21___epididymis_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Epididymis</label>
+						<label id="cat21___esophagus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Esophagus</label>
+						<label id="cat21___eye_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Eye</label>
+						<label id="cat21___fallopian_tube_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Fallopian tube</label>
+						<label id="cat21___gallbladder_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Gallbladder</label>
+						<label id="cat21___hair_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Hair</label>
+						<label id="cat21___heart_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Heart muscle</label>
+						<label id="cat21___hippocampus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Hippocampus</label>
+						<label id="cat21___hypothalamus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Hypothalamus</label>
+						<label id="cat21___kidney_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Kidney</label>
+						<label id="cat21___lactating_breast_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Lactating breast</label>
+						<label id="cat21___liver_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Liver</label>
+						<label id="cat21___lung_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Lung</label>
+						<label id="cat21___lymph_node_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Lymph node</label>
+						<label id="cat21___nasopharynx_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Nasopharynx</label>
+						<label id="cat21___oral_mucosa_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Oral mucosa</label>
+						<label id="cat21___ovary_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Ovary</label>
+						<label id="cat21___pancreas_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Pancreas</label>
+						<label id="cat21___parathyroid_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Parathyroid gland</label>
+						<label id="cat21___pituitary_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Pituitary gland</label>
+						<label id="cat21___placenta_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Placenta</label>
+						<label id="cat21___prostate_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Prostate</label>
+						<label id="cat21___rectum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Rectum</label>
+						<label id="cat21___retina_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Retina</label>
+						<label id="cat21___salivary_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Salivary gland</label>
+						<label id="cat21___seminal_vesicle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Seminal vesicle</label>
+						<label id="cat21___skeletal_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Skeletal muscle</label>
+						<label id="cat21___skin_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Skin</label>
+						<label id="cat21___skin_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Skin 1</label>
+						<label id="cat21___skin_2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Skin 2</label>
+						<label id="cat21___small_intestine_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Small intestine</label>
+						<label id="cat21___smooth_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Smooth muscle</label>
+						<label id="cat21___soft_tissue_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Soft tissue 1</label>
+						<label id="cat21___soft_tissue_2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Soft tissue 2</label>
+						<label id="cat21___spleen_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Spleen</label>
+						<label id="cat21___stomach_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Stomach 1</label>
+						<label id="cat21___stomach_2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Stomach 2</label>
+						<label id="cat21___testis_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Testis</label>
+						<label id="cat21___thyroid_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Thyroid gland</label>
+						<label id="cat21___tonsil_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Tonsil</label>
+						<label id="cat21___urinary_bladder_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Urinary bladder</label>
+						<label id="cat21___vagina_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'normal_tissue');">Vagina</label>
+			</span></div>											</span>
+											</td>
+																						<td id="normal_cell_all" style="display:none;">
+											<span class="">Cell type<br><span><input type="text" class="dropdown" readonly="" id="normal_cell" tabindex="8" value="Any" name="any" onclick="dropToggle('normal_cell');" onblur="dropHide('normal_cell');" onkeydown="dropNavigate(event, 'normal_cell');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="normal_cell_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;"></span></div>											</span>
+											</td>
+																						<td id="expression_normal_all">
+											<span class="">Expression<br><span><input type="text" class="dropdown" readonly="" id="expression_normal" tabindex="9" value="" name="" onclick="dropToggle('expression_normal');" onblur="dropHide('expression_normal');" onkeydown="dropNavigate(event, 'expression_normal');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="expression_normal_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat23___Not_detected_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'expression_normal');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat23___Not_detected" name="Not detected">Not detected</label>
+						<label id="cat23___Low_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'expression_normal');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat23___Low" name="Low">Low</label>
+						<label id="cat23___Medium_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'expression_normal');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat23___Medium" name="Medium">Medium</label>
+						<label id="cat23___High_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'expression_normal');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat23___High" name="High">High</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_tissue_specificity_rna" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="tissue_all">
+											<span class="">Tissue<br><span><input type="text" class="dropdown" readonly="" id="tissue" tabindex="7" value="Any" name="" onclick="dropToggle('tissue');" onblur="dropHide('tissue');" onkeydown="dropNavigate(event, 'tissue');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="tissue_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat24___any_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Any</label>
+						<label id="cat24___adipose_tissue_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Adipose tissue</label>
+						<label id="cat24___adrenal_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Adrenal gland</label>
+						<label id="cat24___appendix_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Appendix</label>
+						<label id="cat24___bone_marrow_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Bone marrow</label>
+						<label id="cat24___breast_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Breast</label>
+						<label id="cat24___cerebral_cortex_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Cerebral cortex</label>
+						<label id="cat24___cervix,_uterine_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Cervix, uterine</label>
+						<label id="cat24___colon_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Colon</label>
+						<label id="cat24___duodenum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Duodenum</label>
+						<label id="cat24___endometrium_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Endometrium</label>
+						<label id="cat24___epididymis_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Epididymis</label>
+						<label id="cat24___esophagus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Esophagus</label>
+						<label id="cat24___fallopian_tube_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Fallopian tube</label>
+						<label id="cat24___gallbladder_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Gallbladder</label>
+						<label id="cat24___heart_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Heart muscle</label>
+						<label id="cat24___kidney_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Kidney</label>
+						<label id="cat24___liver_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Liver</label>
+						<label id="cat24___lung_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Lung</label>
+						<label id="cat24___lymph_node_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Lymph node</label>
+						<label id="cat24___ovary_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Ovary</label>
+						<label id="cat24___pancreas_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Pancreas</label>
+						<label id="cat24___parathyroid_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Parathyroid gland</label>
+						<label id="cat24___placenta_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Placenta</label>
+						<label id="cat24___prostate_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Prostate</label>
+						<label id="cat24___rectum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Rectum</label>
+						<label id="cat24___salivary_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Salivary gland</label>
+						<label id="cat24___seminal_vesicle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Seminal vesicle</label>
+						<label id="cat24___skeletal_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Skeletal muscle</label>
+						<label id="cat24___skin_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Skin</label>
+						<label id="cat24___small_intestine_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Small intestine</label>
+						<label id="cat24___smooth_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Smooth muscle</label>
+						<label id="cat24___spleen_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Spleen</label>
+						<label id="cat24___stomach_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Stomach</label>
+						<label id="cat24___testis_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Testis</label>
+						<label id="cat24___thyroid_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Thyroid gland</label>
+						<label id="cat24___tonsil_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Tonsil</label>
+						<label id="cat24___urinary_bladder_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue');">Urinary bladder</label>
+			</span></div>											</span>
+											</td>
+																						<td id="specificity_all">
+											<span class="">Specificity<br><span><input type="text" class="dropdown" readonly="" id="specificity" tabindex="8" value="" name="1" onclick="dropToggle('specificity');" onblur="dropHide('specificity');" onkeydown="dropNavigate(event, 'specificity');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="specificity_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat25___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity');">Tissue enriched</label>
+						<label id="cat25___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity');">Group enriched</label>
+						<label id="cat25___3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity');">Tissue enhanced</label>
+						<label id="cat25___99_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity');">Elevated</label>
+						<label id="cat25___5_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity');">Expressed in all</label>
+						<label id="cat25___98_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity');">Mixed</label>
+						<label id="cat25___6_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity');">Not detected</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_celline_specificity_rna" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="celline_all">
+											<span class="">Cell line<br><span><input type="text" class="dropdown" readonly="" id="celline" tabindex="7" value="Any" name="" onclick="dropToggle('celline');" onblur="dropHide('celline');" onkeydown="dropNavigate(event, 'celline');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="celline_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat26___any_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">Any</label>
+						<label id="cat26___HEL_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HEL</label>
+						<label id="cat26___HL-60_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HL-60</label>
+						<label id="cat26___HMC-1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HMC-1</label>
+						<label id="cat26___K-562_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">K-562</label>
+						<label id="cat26___NB-4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">NB-4</label>
+						<label id="cat26___THP-1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">THP-1</label>
+						<label id="cat26___U-937_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-937</label>
+						<label id="cat26___Daudi_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">Daudi</label>
+						<label id="cat26___HDLM-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HDLM-2</label>
+						<label id="cat26___Karpas-707_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">Karpas-707</label>
+						<label id="cat26___MOLT-4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">MOLT-4</label>
+						<label id="cat26___REH_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">REH</label>
+						<label id="cat26___RPMI-8226_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">RPMI-8226</label>
+						<label id="cat26___U-266/70_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-266/70</label>
+						<label id="cat26___U-266/84_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-266/84</label>
+						<label id="cat26___U-698_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-698</label>
+						<label id="cat26___AF22_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">AF22</label>
+						<label id="cat26___SH-SY5Y_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">SH-SY5Y</label>
+						<label id="cat26___U-138_MG_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-138 MG</label>
+						<label id="cat26___U-251_MG_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-251 MG</label>
+						<label id="cat26___U-87_MG_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-87 MG</label>
+						<label id="cat26___A549_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">A549</label>
+						<label id="cat26___SCLC-21H_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">SCLC-21H</label>
+						<label id="cat26___CACO-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">CACO-2</label>
+						<label id="cat26___CAPAN-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">CAPAN-2</label>
+						<label id="cat26___Hep_G2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">Hep G2</label>
+						<label id="cat26___AN3-CA_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">AN3-CA</label>
+						<label id="cat26___EFO-21_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">EFO-21</label>
+						<label id="cat26___HeLa_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HeLa</label>
+						<label id="cat26___MCF7_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">MCF7</label>
+						<label id="cat26___SiHa_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">SiHa</label>
+						<label id="cat26___SK-BR-3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">SK-BR-3</label>
+						<label id="cat26___T-47d_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">T-47d</label>
+						<label id="cat26___HEK_293_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HEK 293</label>
+						<label id="cat26___NTERA-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">NTERA-2</label>
+						<label id="cat26___PC-3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">PC-3</label>
+						<label id="cat26___RPTEC_TERT1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">RPTEC TERT1</label>
+						<label id="cat26___RT4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">RT4</label>
+						<label id="cat26___A-431_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">A-431</label>
+						<label id="cat26___HaCaT_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HaCaT</label>
+						<label id="cat26___SK-MEL-30_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">SK-MEL-30</label>
+						<label id="cat26___WM-115_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">WM-115</label>
+						<label id="cat26___ASC_TERT1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">ASC TERT1</label>
+						<label id="cat26___LHCN-M2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">LHCN-M2</label>
+						<label id="cat26___RH-30_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">RH-30</label>
+						<label id="cat26___U-2_OS_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-2 OS</label>
+						<label id="cat26___U-2197_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">U-2197</label>
+						<label id="cat26___BEWO_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">BEWO</label>
+						<label id="cat26___hTCEpi_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">hTCEpi</label>
+						<label id="cat26___BJ_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">BJ</label>
+						<label id="cat26___BJ_hTERT+_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">BJ hTERT+</label>
+						<label id="cat26___BJ_hTERT+_SV40_Large_T+_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">BJ hTERT+ SV40 Large T+</label>
+						<label id="cat26___BJ_hTERT+_SV40_Large_T+_RasG12V_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">BJ hTERT+ SV40 Large T+ RasG12V</label>
+						<label id="cat26___HBF_TERT88_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HBF TERT88</label>
+						<label id="cat26___HUVEC_TERT2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">HUVEC TERT2</label>
+						<label id="cat26___TIME_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline');">TIME</label>
+			</span></div>											</span>
+											</td>
+																						<td id="celline_specificity_all">
+											<span class="">Specificity<br><span><input type="text" class="dropdown" readonly="" id="celline_specificity" tabindex="8" value="" name="1" onclick="dropToggle('celline_specificity');" onblur="dropHide('celline_specificity');" onkeydown="dropNavigate(event, 'celline_specificity');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="celline_specificity_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat27___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_specificity');">Cell line enriched</label>
+						<label id="cat27___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_specificity');">Group enriched</label>
+						<label id="cat27___3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_specificity');">Cell line enhanced</label>
+						<label id="cat27___99_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_specificity');">Elevated</label>
+						<label id="cat27___5_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_specificity');">Expressed in all</label>
+						<label id="cat27___98_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_specificity');">Mixed</label>
+						<label id="cat27___6_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_specificity');">Not detected</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_tissue_detectable_rna" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="tissue_detectable_all">
+											<span class="">Tissue<br><span><input type="text" class="dropdown" readonly="" id="tissue_detectable" tabindex="7" value="" name="" onclick="dropToggle('tissue_detectable');" onblur="dropHide('tissue_detectable');" onkeydown="dropNavigate(event, 'tissue_detectable');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="tissue_detectable_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat28___any_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Any</label>
+						<label id="cat28___adipose_tissue_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Adipose tissue</label>
+						<label id="cat28___adrenal_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Adrenal gland</label>
+						<label id="cat28___appendix_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Appendix</label>
+						<label id="cat28___bone_marrow_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Bone marrow</label>
+						<label id="cat28___breast_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Breast</label>
+						<label id="cat28___cerebral_cortex_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Cerebral cortex</label>
+						<label id="cat28___cervix,_uterine_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Cervix, uterine</label>
+						<label id="cat28___colon_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Colon</label>
+						<label id="cat28___duodenum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Duodenum</label>
+						<label id="cat28___endometrium_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Endometrium</label>
+						<label id="cat28___epididymis_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Epididymis</label>
+						<label id="cat28___esophagus_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Esophagus</label>
+						<label id="cat28___fallopian_tube_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Fallopian tube</label>
+						<label id="cat28___gallbladder_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Gallbladder</label>
+						<label id="cat28___heart_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Heart muscle</label>
+						<label id="cat28___kidney_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Kidney</label>
+						<label id="cat28___liver_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Liver</label>
+						<label id="cat28___lung_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Lung</label>
+						<label id="cat28___lymph_node_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Lymph node</label>
+						<label id="cat28___ovary_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Ovary</label>
+						<label id="cat28___pancreas_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Pancreas</label>
+						<label id="cat28___parathyroid_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Parathyroid gland</label>
+						<label id="cat28___placenta_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Placenta</label>
+						<label id="cat28___prostate_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Prostate</label>
+						<label id="cat28___rectum_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Rectum</label>
+						<label id="cat28___salivary_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Salivary gland</label>
+						<label id="cat28___seminal_vesicle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Seminal vesicle</label>
+						<label id="cat28___skeletal_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Skeletal muscle</label>
+						<label id="cat28___skin_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Skin</label>
+						<label id="cat28___small_intestine_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Small intestine</label>
+						<label id="cat28___smooth_muscle_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Smooth muscle</label>
+						<label id="cat28___spleen_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Spleen</label>
+						<label id="cat28___stomach_1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Stomach</label>
+						<label id="cat28___testis_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Testis</label>
+						<label id="cat28___thyroid_gland_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Thyroid gland</label>
+						<label id="cat28___tonsil_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Tonsil</label>
+						<label id="cat28___urinary_bladder_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'tissue_detectable');">Urinary bladder</label>
+			</span></div>											</span>
+											</td>
+																						<td id="detectable_all">
+											<span class="">Detectable<br><span><input type="text" class="dropdown" readonly="" id="detectable" tabindex="8" value="" name="1" onclick="dropToggle('detectable');" onblur="dropHide('detectable');" onkeydown="dropNavigate(event, 'detectable');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="detectable_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat29___0_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'detectable');">Yes</label>
+						<label id="cat29___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'detectable');">No</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_rna_celline_detectable" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="celline_detectable_all">
+											<span class="">Cell line<br><span><input type="text" class="dropdown" readonly="" id="celline_detectable" tabindex="7" value="" name="" onclick="dropToggle('celline_detectable');" onblur="dropHide('celline_detectable');" onkeydown="dropNavigate(event, 'celline_detectable');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="celline_detectable_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat30____any__label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">Any</label>
+						<label id="cat30___A-431_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">A-431</label>
+						<label id="cat30___A549_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">A549</label>
+						<label id="cat30___AF22_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">AF22</label>
+						<label id="cat30___AN3-CA_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">AN3-CA</label>
+						<label id="cat30___ASC_TERT1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">ASC TERT1</label>
+						<label id="cat30___BEWO_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">BEWO</label>
+						<label id="cat30___BJ_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">BJ</label>
+						<label id="cat30___BJ_hTERT+_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">BJ hTERT+</label>
+						<label id="cat30___BJ_hTERT+_SV40_Large_T+_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">BJ hTERT+ SV40 Large T+</label>
+						<label id="cat30___BJ_hTERT+_SV40_Large_T+_RasG12V_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">BJ hTERT+ SV40 Large T+ RasG12V</label>
+						<label id="cat30___CACO-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">CACO-2</label>
+						<label id="cat30___CAPAN-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">CAPAN-2</label>
+						<label id="cat30___Daudi_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">Daudi</label>
+						<label id="cat30___EFO-21_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">EFO-21</label>
+						<label id="cat30___HaCaT_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HaCaT</label>
+						<label id="cat30___HBF_TERT88_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HBF TERT88</label>
+						<label id="cat30___HDLM-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HDLM-2</label>
+						<label id="cat30___HEK_293_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HEK 293</label>
+						<label id="cat30___HEL_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HEL</label>
+						<label id="cat30___HeLa_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HeLa</label>
+						<label id="cat30___Hep_G2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">Hep G2</label>
+						<label id="cat30___HL-60_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HL-60</label>
+						<label id="cat30___HMC-1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HMC-1</label>
+						<label id="cat30___hTCEpi_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">hTCEpi</label>
+						<label id="cat30___HUVEC_TERT2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">HUVEC TERT2</label>
+						<label id="cat30___K-562_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">K-562</label>
+						<label id="cat30___Karpas-707_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">Karpas-707</label>
+						<label id="cat30___LHCN-M2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">LHCN-M2</label>
+						<label id="cat30___MCF7_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">MCF7</label>
+						<label id="cat30___MOLT-4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">MOLT-4</label>
+						<label id="cat30___NB-4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">NB-4</label>
+						<label id="cat30___NTERA-2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">NTERA-2</label>
+						<label id="cat30___PC-3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">PC-3</label>
+						<label id="cat30___REH_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">REH</label>
+						<label id="cat30___RH-30_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">RH-30</label>
+						<label id="cat30___RPMI-8226_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">RPMI-8226</label>
+						<label id="cat30___RPTEC_TERT1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">RPTEC TERT1</label>
+						<label id="cat30___RT4_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">RT4</label>
+						<label id="cat30___SCLC-21H_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">SCLC-21H</label>
+						<label id="cat30___SH-SY5Y_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">SH-SY5Y</label>
+						<label id="cat30___SiHa_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">SiHa</label>
+						<label id="cat30___SK-BR-3_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">SK-BR-3</label>
+						<label id="cat30___SK-MEL-30_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">SK-MEL-30</label>
+						<label id="cat30___T-47d_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">T-47d</label>
+						<label id="cat30___THP-1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">THP-1</label>
+						<label id="cat30___TIME_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">TIME</label>
+						<label id="cat30___U-138_MG_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-138 MG</label>
+						<label id="cat30___U-2_OS_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-2 OS</label>
+						<label id="cat30___U-2197_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-2197</label>
+						<label id="cat30___U-251_MG_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-251 MG</label>
+						<label id="cat30___U-266/70_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-266/70</label>
+						<label id="cat30___U-266/84_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-266/84</label>
+						<label id="cat30___U-698_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-698</label>
+						<label id="cat30___U-87_MG_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-87 MG</label>
+						<label id="cat30___U-937_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">U-937</label>
+						<label id="cat30___WM-115_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'celline_detectable');">WM-115</label>
+			</span></div>											</span>
+											</td>
+																						<td id="detectable_celline_all">
+											<span class="">Detectable<br><span><input type="text" class="dropdown" readonly="" id="detectable_celline" tabindex="8" value="" name="1" onclick="dropToggle('detectable_celline');" onblur="dropHide('detectable_celline');" onkeydown="dropNavigate(event, 'detectable_celline');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="detectable_celline_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat31___0_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'detectable_celline');">Yes</label>
+						<label id="cat31___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'detectable_celline');">No</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_evidence_summary" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="evidence_protein_all">
+											<span class="">Category<br><span><input type="text" class="dropdown" readonly="" id="evidence_protein" tabindex="7" value="" name="" onclick="dropToggle('evidence_protein');" onblur="dropHide('evidence_protein');" onkeydown="dropNavigate(event, 'evidence_protein');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="evidence_protein_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat32___Evidence_at_protein_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_protein');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat32___Evidence_at_protein_level" name="Evidence at protein level">Evidence at protein level</label>
+						<label id="cat32___Evidence_at_transcript_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_protein');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat32___Evidence_at_transcript_level" name="Evidence at transcript level">Evidence at transcript level</label>
+						<label id="cat32___No_evidence_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_protein');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat32___No_evidence" name="No evidence">No evidence</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_uniprot_evidence" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="evidence_uniprot_all">
+											<span class="">Score<br><span><input type="text" class="dropdown" readonly="" id="evidence_uniprot" tabindex="7" value="" name="" onclick="dropToggle('evidence_uniprot');" onblur="dropHide('evidence_uniprot');" onkeydown="dropNavigate(event, 'evidence_uniprot');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="evidence_uniprot_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat33___Evidence_at_protein_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_uniprot');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat33___Evidence_at_protein_level" name="Evidence at protein level">Evidence at protein level</label>
+						<label id="cat33___Evidence_at_transcript_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_uniprot');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat33___Evidence_at_transcript_level" name="Evidence at transcript level">Evidence at transcript level</label>
+						<label id="cat33___No_evidence_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_uniprot');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat33___No_evidence" name="No evidence">No evidence</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_hpa_evidence" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="evidence_antibody_all">
+											<span class="">Score<br><span><input type="text" class="dropdown" readonly="" id="evidence_antibody" tabindex="7" value="" name="" onclick="dropToggle('evidence_antibody');" onblur="dropHide('evidence_antibody');" onkeydown="dropNavigate(event, 'evidence_antibody');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="evidence_antibody_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat34___Evidence_at_protein_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_antibody');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat34___Evidence_at_protein_level" name="Evidence at protein level">Evidence at protein level</label>
+						<label id="cat34___Evidence_at_transcript_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_antibody');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat34___Evidence_at_transcript_level" name="Evidence at transcript level">Evidence at transcript level</label>
+						<label id="cat34___No_evidence_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'evidence_antibody');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat34___No_evidence" name="No evidence">No evidence</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_ms_evidence" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="specificity_ms_all">
+											<span class="">Score<br><span><input type="text" class="dropdown" readonly="" id="specificity_ms" tabindex="7" value="" name="" onclick="dropToggle('specificity_ms');" onblur="dropHide('specificity_ms');" onkeydown="dropNavigate(event, 'specificity_ms');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="specificity_ms_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat35___Evidence_at_protein_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity_ms');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat35___Evidence_at_protein_level" name="Evidence at protein level">Evidence at protein level</label>
+						<label id="cat35___Evidence_at_transcript_level_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity_ms');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat35___Evidence_at_transcript_level" name="Evidence at transcript level">Evidence at transcript level</label>
+						<label id="cat35___No_evidence_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'specificity_ms');"><span class="checkSpan">&nbsp;</span><input type="checkbox" id="cat35___No_evidence" name="No evidence">No evidence</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_with_antibodies" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="antibodies_with_all">
+											<span class="">Antibodies<br><span><input type="text" class="dropdown" readonly="" id="antibodies_with" tabindex="7" value="Yes" name="1" onclick="dropToggle('antibodies_with');" onblur="dropHide('antibodies_with');" onkeydown="dropNavigate(event, 'antibodies_with');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="antibodies_with_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat36___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'antibodies_with');">Yes</label>
+						<label id="cat36___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'antibodies_with');">No</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+														<td id="inputs_sort_by" style="display:none;">
+								<table>
+									<tbody><tr>
+																					<td id="sort_all">
+											<span class="">Column<br><span><input type="text" class="dropdown" readonly="" id="sort" tabindex="7" value="gene" name="gene_name ASC " onclick="dropToggle('sort');" onblur="dropHide('sort');" onkeydown="dropNavigate(event, 'sort');" onchange="" style="padding-right:13px; background-image:url('/images_static/dropdown.gif'); background-repeat:no-repeat; background-position:173px 1px;"></span><br><div><span id="sort_options" onmouseover="overOptions=true;" onmouseout="overOptions=false;" class="dropdown" style="display:none;">			<label id="cat37___0_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'sort');">gene</label>
+						<label id="cat37___1_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'sort');">position</label>
+						<label id="cat37___2_label" onmouseover="dropOver(this);" onmouseout="dropOut(this);" onclick="dropClick(event, this, 'sort');">tissue specific score</label>
+			</span></div>											</span>
+											</td>
+																				</tr>
+								</tbody></table>
+							</td>
+													<td>
+							<span>
+								&nbsp;<br>
+								<button id="fieldsAdd" onclick="queryBuild(); return false;" tabindex="8">Add</button>
+							</span>
+						</td>
+						<td>
+							<span>
+								&nbsp;<br>
+								<button id="fieldsCancel" onclick="fieldsHide(); return false;" tabindex="9">Cancel</button>
+							</span>
+						</td>
+					</tr>
+				</tbody></table>
+			</form>
+		</td>
+	</tr>
+</tbody></table></div>
+		<div class="about about_help header_row">
+	<div class="dropdown">
+		<a href="/about">ABOUT</a>
+	</div>
+	<div class="navdiv">
+		<a href="/about/help">HELP</a>
+	</div>
+	<div class="navdiv" style="margin-right:0;">
+		<a href="/blog">BLOG</a>
+	</div>
+	<div id="breadcrumb"></div>
+</div>  </div>
+  <div class="dropdown-content">
+	<div class="nav-menu">
+		<ul class="nav" style="height: 235px;">
+			<li class="nav-cat">THE HUMAN PROTEOME</li>
+			<li class="nav-link">	<span>
+		<a href="/humanproteome">		THE HUMAN TISSUES		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/humancell">		THE HUMAN CELL		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/humanproteome/proteinclasses">		PROTEIN CLASSES		</a>	</span>
+	</li>				
+			<li class="nav-link">	<span>
+		<a href="/humanproteome/proteinevidence">		PROTEIN EVIDENCE		</a>	</span>
+	</li>
+		</ul>
+		<ul class="nav-col">
+			<ul class="nav" style="height: 107px; margin-bottom: 21px;">
+					<li class="nav-cat">NEWS</li>
+					<li class="nav-link">	<span>
+		<a href="/blog">		BLOG		</a>	</span>
+	</li>
+					<li class="nav-link">	<span>
+		<a href="/learn/events">		EVENTS		</a>	</span>
+	</li>
+					<li class="nav-link">	<span>
+		<a href="/about/press+room">		PRESS ROOM		</a>	</span>
+	</li>
+			</ul>							
+			<ul class="nav" style="height: 107px;">			
+					<li class="nav-cat">LEARN</li>
+				<li class="nav-link">	<span>
+		<a href="/learn/dictionary">		DICTIONARY		</a>	</span>
+	</li>
+				<li class="nav-link">	<span>
+		<a href="/learn/method">		METHODS		</a>	</span>
+	</li>
+				<li class="nav-link">	<span>
+		<a href="/learn/cellines">		CELL LINES		</a>	</span>
+	</li>
+			</ul>
+		</ul>
+		
+		<ul class="nav" style="height: 235px;">
+			<li class="nav-cat" style="">THE PROJECT</li>
+			<li class="nav-link">	<span>
+		<a href="/about">		INTRODUCTION		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/organization">		ORGANIZATION		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/publications">		PUBLICATIONS		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/publicationdata">		PUBLICATION DATA		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/submission">		ANTIBODY SUBMISSION		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/antibodies">		ANTIBODY AVAILABILITY		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/links">		LINKS		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/contact">		CONTACT		</a>	</span>
+	</li>					
+		</ul>
+		<ul class="nav" style="height: 235px;">
+			<li class="nav-cat">TECHNICAL DATA</li>
+			<li class="nav-link">	<span>
+		<a href="/about/antibody+validation">		ANTIBODY VALIDATION		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/assays+annotation">		ASSAYS &amp; ANNOTATION		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/disclaimer">		DISCLAIMER		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/download">		DOWNLOADABLE DATA		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/help">		HELP &amp; FAQ		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/licence">		LICENCE &amp; CITATION		</a>	</span>
+	</li>
+			<li class="nav-link">	<span class="active">
+		<a href="/about/privacy">		PRIVACY STATEMENT		</a>	</span>
+	</li>
+			<li class="nav-link">	<span>
+		<a href="/about/releases">		RELEASE HISTORY		</a>	</span>
+	</li>
+		</ul>
+	</div>
+</div>
+</div>
+		<style>
+			html {
+				height: 100%;
+			}
+		
+			body {
+				background-image: url('/images_static/bg_shade_top_about.gif');
+				background-repeat: repeat-x;
+				background-position: 0px 50px;
+				min-height: 100%;
+			}
+			
+			div.page_header {
+				box-shadow: 0 3px 15px 0px rgba(0,0,0,0.2);
+			}
+		</style>
+		
+	<table class="main_table">
+<tbody><tr><td width="*" style="padding-top: 10px;">
+<table class="margin_right legend_left about_page" style="width: 800px;">
+	<tbody><tr>
+		<td class="legend_left">
+						<table class="dark">
+				<tbody><tr>
+					<th class="head" id="top">						
+						<div class="corner" style="z-index: 100;"><img class="top right" src="/images_static/hexagon_dark.gif"></div>						<div class="corner" style="z-index: 100;"><img class="top left" src="/images_static/top_left_dark.gif"></div>						<p>PRIVACY STATEMENT</p>
+					</th>
+				</tr>
+			</tbody></table>
+			<table class="light">
+				<tbody><tr>
+					<td style="padding: 2px 10px 2px 10px;"><p>The Human Protein Atlas gathers information about users solely to improve the usability and usefulness of the site, and not for any commercial purposes. No use is made of users' contact information except when directly requested by them, e.g. to sign up for a mailing list or activate a user account. Other information collected during the course of your usage of the site, such as pages visited, may be collected in server log files and used for statistical analysis of traffic patterns.</p>
+
+<h3>Use of Cookies</h3>
+<p>
+	There are two types of cookie that are set by the Human Protein Atlas. These are as below:
+	<br><b>Functionality Cookies</b>
+	We use cookies to improve the functionality and to personalize the apparence of the Human Protein Atlas.
+	<br><b>Tracking Cookies</b>
+	We use Google Analytics to track the users on our website. This is purely to see the user behaviour and then use that information to improve our website. This information is not shared with any third part for advertisement purposes. More <a href="https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage#analyticsjs">information about Google Analytics cookies can be found here</a>.
+</p></td>
+				</tr>
+				<tr>
+					<th style="border-bottom: 0;">
+						<div class="corner" style="z-index: 100;"><img class="bottom left" src="/images_static/bottom_left_lighter.gif"></div>						<div class="corner" style="z-index: 100;"><img class="bottom right" src="/images_static/bottom_right_lighter.gif"></div>					</th>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</td>
+
+</tr>
+</tbody></table>
+
+<div class="page_footer">
+	<div class="footer_content">
+		<div class="footer_left inline">
+
+			<div class="column" style="padding-left: 0px;">
+				<p>
+					<b>Contact</b>
+				</p>
+				<ul>
+					<li><span><a href="/blog">BLOG</a></span></li>
+					<li><span><a href="/about/press+room">PRESS ROOM</a></span></li>
+				</ul>
+				<div style="padding-left: 7px; padding-top: 1px;">
+					<a target="_blank" href="https://www.facebook.com/HumanProteinAtlas/"><img class="social_link" src="/images_static/facebook_32.png"></a>
+					<a target="_blank" href="https://twitter.com/HumanProteome/"><img class="social_link" src="/images_static/twitter_32.png"></a>
+					<a target="_blank" href="https://www.instagram.com/humanproteinatlas/"><img class="social_link" src="/images_static/instagram_32.png"></a>
+					<a target="_blank" href="/blog/rss.php"><img class="social_link" src="/images_static/rss-feed_32.png"></a>
+				</div>
+				<ul>
+					<li><span><a href="mailto:contact@proteinatlas.org">contact@proteinatlas.org</a></span></li>
+				</ul>
+			</div>
+
+			<div class="column" style="padding-left: 20px;">
+				<p>
+					<b>The Project</b>
+				</p>			
+				<ul>
+					<li><span><a href="/about">INTRODUCTION</a></span></li>
+					<li><span><a href="/about/organization">ORGANIZATION</a></span></li>
+					<li><span><a href="/about/publications">PUBLICATIONS</a></span></li>
+					<li><span><a href="/about/download">DOWNLOADABLE DATA</a></span></li>
+				</ul>
+			</div>
+			
+			<div class="column" style="padding-left: 20px;">
+			<!--Send questions, comments or suggestions to<br><b>contact@proteinatlas.org</b>-->
+				<p>
+					<b>The Human Protein Atlas</b>
+				</p>
+				<ul>
+					<li><span><a href="/about/antibodies">ANTIBODY AVAILABILITY</a></span></li>
+					<li><span><a href="/about/licence">LICENCE &amp; CITATION</a></span></li>
+					<li><span><a href="/about/help">HELP &amp; FAQ</a></span></li>
+				</ul>
+			</div>
+			
+			</div>
+			<div class="footer_right">
+						<span class="inline" style="position:relative; bottom:15px; font-size: 9px; text-align: left; padding-right: 10px;">The Human Protein Atlas project is funded<br>by the Knut &amp; Alice Wallenberg foundation.</span>
+						<a style="padding-bottom:10px;" class="inline" href="http://www.wallenberg.com/kaw/en/" target="_blank"><img src="/images_static/kawlogo.gif"></a>
+						<br>
+						<a style="padding-right:10px;" class="inline" href="http://www.scilifelab.se/" target="_blank"><img src="/images_static/scilifelablogo.gif"></a>
+						<a style="padding-right:10px;" class="inline" href="http://www.uu.se/en/" target="_blank"><img src="/images_static/uulogo.gif"></a>
+						<a style="padding: 0px 20px 0 10px;" class="inline" href="http://www.kth.se/en/" target="_blank"><img src="/images_static/kthlogo.gif"></a>
+			
+				
+			</div>
+		</div>
+	</div>
+
+<script>
+	var url;
+	ga('set', 'dimension1', 'about');ga('set', 'dimension2', 'about_privacy');	ga('send', 'pageview', url);
+	// Track outbound links
+	$(function () {
+		$('a[href^="http"]').click(function() {
+			ga_event('outbound_link', 'click', $(this).attr('href'));
+		});
+	});
+</script>
+</body></html>
