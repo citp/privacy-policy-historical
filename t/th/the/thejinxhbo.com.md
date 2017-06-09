@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejinxhbo.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222094156id_/http%3A//www.hbo.com/html/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejinxhbo.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609092027id_/http%3A//www.hbo.com/html/privacy-policy) for the most accurate reproduction.*
 
 # HBO.com: Corporate Information: Privacy Policy
 
