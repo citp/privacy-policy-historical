@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130095158id_/http%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleeptrain.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609184659id_/https%3A//www.sleeptrain.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Sleep Train
-
-## Archive
-
-  * [May 6, 2015](http://www.sleeptrain.com/legal-privacy-policy-may-2015.html)
-  * [November 20, 2014](http://www.sleeptrain.com/legal-privacy-policy-nov-2014.html)
-  * [December 2, 2013](http://www.sleeptrain.com/legal-privacy-policy-02Dec2013.html)
-  * [January 22, 2013](http://www.sleeptrain.com/legal-privacy-policy-22Jan13.html)
-  * [October 26, 2012](http://www.sleeptrain.com/legal-privacy-policy-26Oct2012.html)
-  * [July 11, 2012](http://www.sleeptrain.com/legal-privacy-policy-11Jul2012.html)
-  * [June 15, 2012](http://www.sleeptrain.com/legal-privacy-policy-15Jun2012.html)
-  * [September 15, 2010](http://www.sleeptrain.com/legal-privacy-policy-15Sep2010.html)
-  * [October 12, 2010](http://www.sleeptrain.com/legal-privacy-policy-12Oct2010.html)
-  * [November 10, 2010](http://www.sleeptrain.com/legal-privacy-policy-10Nov2010.html)
-
-
+# Privacy Policy
 
 [Your California Privacy Rights](http://www.sleeptrain.com/legal-california-privacy-rights.html)
 
@@ -110,7 +95,7 @@ We encourage parents to take an active interest in their children’s use of the
 
 We have put into place reasonable security measures in an effort to protect personal information while it is under our control. All personal information relating to our customers is stored in a secure environment separate from our Site.
 
-**[Click here to view our complete Security Policy](https://web.archive.org/security-policy.html).**
+**[Click here to view our complete Security Policy](http://www.sleeptrain.com/security-policy.html).**
 
 **Choice**
 
