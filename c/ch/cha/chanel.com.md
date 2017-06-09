@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chanel.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223210721id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chanel.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609085946id_/https%3A//services.chanel.com/en_WW/policies/privacy) for the most accurate reproduction.*
 
 # CHANEL POLICIES
 
@@ -31,9 +31,9 @@ Chanel protects the privacy of the users of its Sites by complying with the appl
 
 **Identifiable personal information**
 
-Chanel is likely to collect directly your identifiable personal information, namely via the “contact” section or when you subscribe to Chanel News (RSS feed). 
+Chanel is likely to collect directly your identifiable personal information,namely via, the data collection form, “contact” section or when you subscribe to Chanel News (RSS feed). 
 
-“Identifiable personal information” refers to information related to you as an individual, communicated by you by using the application form, or that Chanel collects within the framework of your use of the Sites and which, whatever their nature, constitutes direct or indirect identifiable personal information. Identifiable personal information includes personal information (such as your first and last name, contact information, and photographs, as provided by you) as well as electronic identification data available on or from your computer (such as cookies or IP addresses). Your electronic identification data makes it possible to identify and geolocalize your Internet connection terminal and the pages you visited while using the Sites. As such, electronic identification data generally cannot be used to identify you personally. 
+“Identifiable personal information” refers to information related to you as an individual, communicated by you by using the application form, or that Chanel collects within the framework of your use of the Sites and which, whatever their nature constitutes direct or indirect identifiable personal information. Identifiable personal information includes personal information (such as your first and last name, contact information such as email, and photographs, as provided by you) as well as electronic identification data available on or from your computer (such as cookies or IP addresses). Your electronic identification data makes it possible to identify and geolocalize your Internet connection terminal and the pages you visited while using the Sites. As such, electronic identification data generally cannot be used to identify you personally. 
 
 In order to fight against counterfeiting and infringement, Chanel has set up automated processes to collect information on companies or individuals who commit or are likely to commit acts that violate its rights. This information will be accessible to any company legally authorized to use the Chanel trademarks, in France or abroad, that has been a victim of such violations, for the purpose of taking action or any necessary measures to protect their rights. 
 
@@ -60,6 +60,7 @@ For Mozilla Firefox: Select the "Tools" menu, then "Options". Click the "Privacy
 For Microsoft Internet Explorer 6.0 and later: Select the "Tools" menu, then "Internet Options". Click the "Confidentiality" tab and use the cursor to select the level desired.   
 For Opera 6.0 and later: From the "File" menu, select "Preferences", then click on "Privacy" and select your preferred options.   
 For Safari: From the Safari menu,select "Preferences", then click on "Security" and select your preferred options.   
+For Google Chrome : select the Chrome menu, then select “Settings” and click on “show advanced settings”. In the Privacy section chose “Content settings” ; then In the “Cookies” section you can select your options.   
 "Flash"© Cookies from "Adobe Flash Player"™   
 "Adobe Flash Player"™ is a computer application that can be used to quickly develop dynamic content using the "Flash" computer language. Flash (and similar applications) memorizes the settings, preferences, and use of such content by means of a technology similar to cookies. However, "Adobe Flash Player"™ manages relevant information and your preferences via a different interface than the one supplied by your browsing software.   
 Considering that your terminal may view content developed with Flash, we invite you to access your Flash cookie management resources directly from the website http://www.adobe.com/fr/. 
@@ -70,13 +71,13 @@ A RSS (Really Simple Syndication) feed is automatically generated as a particula
 
 You can unsubscribe from a RSS feed at any time by deleting it from your browser and/or your email program. RSS feeds do not enable Chanel to obtain any information concerning you. For technical reasons, Chanel is aware only of the number of subscribers to its RSS feeds. 
 
-**facebook ™**
+Social networks 
 
-Chanel publishes a page that presents and provides information on Chanel on the social network facebook™. 
+Chanel publishes pages on social networks such as Facebook™, Twitter™, Instagram™ that present and provides information on Chanel on such social networks. 
 
-You can follow Chanel's facebook™ page. Personal information that you have designated as public and that is accessible from your profile can be accessed by Chanel. Chanel does not create or use any databases unaffiliated with facebook™ that are compiled from any personal information you publish on facebook™. 
+You can follow Chanel's pages on those social networks. Personal information that you have designated as public and that is accessible from your profile can be accessed by Chanel. Chanel does not create or use any databases unaffiliated with those social networks that would be compiled from any personal information you publish there. 
 
-If you wish to block Chanel from accessing the personal information that you have published on your profile (and which is publicly visible), we remind you that facebook™ allows you to restrict access to your information. We recommend that you check the identifiable personal information policy of facebook™ on a regular basis. 
+If you wish to block Chanel from accessing the personal information that you have published on your profile (and which is publicly visible), we remind you that social networks allow you to restrict access to your information. We recommend that you check their identifiable personal information policy on a regular basis. 
 
 **2.2 Data Use**
 
@@ -93,6 +94,8 @@ The information you provide on the Sites enables Chanel to:
 Mandatory information required by Chanel to carry out the above tasks is marked with an asterisk on the different pages of the Sites. All other information is optional. It helps us to know you better and to improve our communication and the services we offer you. 
 
 **2.3 Data Storage**
+
+Your email collected during the campaign CHANEL’s GABRIELLE bag will not be kept by CHANEL. CHANEL will erase your email address collected on this basis at latest at the end of 2017. 
 
 Chanel may store your identifiable personal information for a period of up to ten years following the last date of contact. Cookies used to analyze traffic on the Sites are stored for six months.
 
@@ -136,7 +139,7 @@ To process your request, please send us the following information required for i
 
 6.2 Unsubscribing
 
-The "[chanel-news.chanel.com](http://www.chanel-news.com/)" portion of the Site offers users a free Newsletter service, which you are free to subscribe to.
+CHANEL’s newsletters as well as the "[chanel-news.chanel.com](http://www.chanel-news.com/)" portion of the Site offers users a free Newsletter service, which you are free to subscribe to.
 
 Users of the Sites who no longer wish to receive it can unsubscribe as follows:
 
@@ -163,7 +166,7 @@ With regard to any changes which may be made to the identifiable personal inform
 
 For any questions or comments relating to the identifiable personal information Policy or the manner in which Chanel collects and uses your identifiable personal information, please contact our Customer Service Department by filling out the "Contact Us" form.
 
-Last update: July 2013
+Last update: February 2017
 
 Copyright © Chanel.
 
