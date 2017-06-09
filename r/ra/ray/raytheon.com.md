@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the raytheon.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126115821id_/http%3A//www.raytheon.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raytheon.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609223637id_/http%3A//www.raytheon.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Raytheon: Legal - Privacy Policy
 
-**EFFECTIVE DATE: SEPTEMBER 29, 2016.**
+**EFFECTIVE DATE: DECEMBER 01, 2016.**
 
-This Privacy Policy applies to any visitor or user (hereinafter referred to as "You") of the website located at [www.raytheon.com](http://www.raytheon.com/), [www.raytheon.com.au](http://www.raytheon.com.au/), [www.raytheon.co.uk](http://www.raytheon.co.uk/), raytheoncyber.com, investor.raytheon.com, Raytheon.mediaroom.com, [jobs.raytheon.com](https://jobs.raytheon.com/), [www.mathalive.com](http://www.mathalive.com/), [www.mathalive-me.com](http://www.mathalive-me.com/), and any other websites (singularly and collectively, "the Site") that Raytheon Company or its subsidiaries and affiliates (singularly and collectively, "Raytheon") own and control, except those that maintain a separate Privacy Policy (such as [www.raytheoncyber.com](http://www.raytheoncyber.com/legal/index.html). Some websites may have a supplementary Privacy Policy, such as [jobs.raytheon.com](https://jobs.raytheon.com/), which you should review as well. 
+This Privacy Policy applies to any visitor or user (hereinafter referred to as "You") of the website located at [www.raytheon.com](http://www.raytheon.com/), [www.raytheon.com.au](http://www.raytheon.com.au/), [www.raytheon.co.uk](http://www.raytheon.co.uk/), raytheoncyber.com, investor.raytheon.com, Raytheon.mediaroom.com, [jobs.raytheon.com](https://jobs.raytheon.com/), [www.mathalive.com](http://www.mathalive.com/), [www.mathalive-me.com](http://www.mathalive-me.com/), and any other websites (singularly and collectively, "the Site") that Raytheon Company or its subsidiaries and affiliates (singularly and collectively, "Raytheon") own and control, except those that maintain a separate Privacy Policy (such as [www.raytheoncyber.com](http://www.raytheoncyber.com/legal/index.html). Some websites may have a supplementary Privacy Policy, such as the [Privacy Policy](https://tbcdn.talentbrew.com/company/4679/v1_0/img/Raytheon_Careers_Privacy_Policy.pdf) for [jobs.raytheon.com](https://jobs.raytheon.com/), which you should review as well. 
 
 Raytheon is sensitive to the issue of confidentiality in online dealings and is committed to transparency regarding its protection of individual privacy. This Privacy Policy is intended to inform users about the general approach Raytheon uses in collecting, using and disseminating user information via the Site. 
 
 Additionally, as the Site includes [www.mathalive.com](http://www.mathalive.com/) and [www.mathalive-me.com](http://www.mathalive-me.com/), which may be of interest to children under the age of 13 years old (the "Children's Sites"). We are committed to complying fully with the Children's Online Privacy Protection Act of 1998 ("COPPA"). Parents of children who are under the age of 13 should ensure that they understand our approach to personal information, as described in this policy, before entering any personal information on or through the Children's Sites. 
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **1\. What Personal Information May Be Collected?**
 
@@ -24,7 +24,7 @@ Additionally, as the Site includes [www.mathalive.com](http://www.mathalive.com/
 
 1.5 Apart from the Children's Sites, Raytheon may use the Site as an entry into other networked web pages and websites operated by Raytheon and its subsidiaries (together, the "Transaction Sites"). Please note that an individual Transaction Site may adopt privacy terms particular to the purpose of such Transaction Site or the transaction(s) taking place on such Transaction Site. As Transaction Sites are generally affiliated with commercial transactions that you or your business may have with Raytheon, particularly those which are password-protected or are subject to subscriptions, the privacy terms governing such sites may be supplemented or superseded by separate agreements.
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **2\. Other Types of Information That May Be Collected**
 
@@ -58,7 +58,7 @@ Registration may be allowed or required on the Site. Together, the provisions of
 
 Our information collection practices operate as described in this Privacy Policy independent of any "do-not-track" choice you make.
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **3\. Use of Information**
 
@@ -66,7 +66,7 @@ Our information collection practices operate as described in this Privacy Policy
 
 Raytheon and its subsidiaries and affiliates may use and disclose your personal information only as set forth herein, except where the terms of a separate privacy policy apply. 
 
-Generally, your personal information will not be shared with third parties not affiliated with Raytheon. From time to time we may transfer, disclose or share your personal information with third parties that Raytheon engaged specifically to handle and deliver certain online activities, including, but not limited to, conducting contests and sweepstakes. Such parties will receive your personal information needed to perform these functions, but we typically do not allow them to use it for other purposes.
+Generally, your personal information will not be shared with third parties not affiliated with Raytheon. From time to time we may transfer, disclose or share your personal information with third parties that Raytheon has engaged specifically to handle and deliver certain online activities, including, but not limited to, conducting contests and sweepstakes. Such parties will receive your personal information needed to perform these functions, but we typically do not allow them to use it for other purposes. We also may publicly disclose and use the personal information you provide Raytheon in response to a contest, sweepstake, or other project consistent with our [Terms and Conditions](http://www.raytheon.com/legal/). 
 
 Anonymous data collected using cookies, tracers, and web beacons may be analyzed in the aggregate to determine collective user characteristics, to understand user traffic patterns, sales information and user behavior on the Site. Such information also may be shared in the aggregate with third parties for advertising purposes, to enhance our Site, to enhance our products and services, and to analyze how and where best to use our resources.
 
@@ -76,13 +76,13 @@ Although Raytheon is under no obligation to monitor the Site, we may monitor, st
 
 Raytheon may transfer personal information in connection with the sale or acquisition of one or more of our businesses or subsidiaries to a different company that agrees to offer equivalent safeguards for the use and disclosure of such information.
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **4\. Security of Personal Information**
 
 4.1 While Raytheon makes extensive effort to prevent unauthorized access to personal information, the security of information transmitted via the internet cannot be guaranteed. Any information disclosed online can potentially be collected and used by others aside from the intended recipient. Thus, Raytheon cannot warrant that your personal information will not be disclosed to or accessed by unauthorized parties.
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **5\. Your Privacy Choices/Updates to Your Information**
 
@@ -90,7 +90,7 @@ Raytheon may transfer personal information in connection with the sale or acquis
 
 5.2 If you do not want Raytheon to use your personal information to contact you for marketing or solicitation purposes, please click the opt-out link on the email you received or contact us via email at [PrivacyPolicy@raytheon.com](mailto:PrivacyPolicy@Raytheon.com?subject=Raytheon.com%20Opt-Out). Please indicate if you would prefer that we use a different email address or communication method. Restricting our contact methods may make it more difficult for us to keep you informed about new products, services and websites that can benefit you. These choices do not apply to transactional or relationship emails or the display of online advertising. You can revoke your choice at any time by contacting us using one of the methods provided. 
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **6\. Children's Privacy**
 
@@ -122,13 +122,13 @@ C. Collecting a child's contact information and the contact information of his/h
 
 D. Using cookies to collect non-personally-identifiable information on our child-directed Sites for analytics and internal operations purposes. 
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **7\. Your California Privacy Rights**
 
 7.1 California's "Shine the Light" law permits California residents to annually request and obtain information free of charge about what personal information is disclosed to third parties for direct marketing purposes in the preceding calendar year. Raytheon does not distribute your personal information to outside parties for their direct marketing, or any other purpose, except as provided for in this Privacy Policy, without your consent. See also Section 3, Use of Information.
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **8\. External Links**
 
@@ -140,7 +140,7 @@ D. Using cookies to collect non-personally-identifiable information on our child
 
 8.4 We specifically recommend that children check with their parents before connecting to any new websites.
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **9\. EU-U.S. Privacy Shield Framework**
 
@@ -174,13 +174,13 @@ If you have an unresolved concern about EU Personal Data that we have not addres
 
 Please contact us using the contact information under "Dispute Resolution/Contact Information" below if you have any questions related to the Privacy Shield, wish to exercise your rights of access, or wish to seek other assistance as described above. 
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **10\. Changes to This Privacy Policy**
 
 10.1 Changes to this Privacy Policy, will post on this page, with a new effective date at the top. If we make material changes to our privacy policy that could affect the personal information you previously submitted to us, we will provide you notice and an appropriate opportunity to consent.
 
-[](https://web.archive.org/web/20161126115821id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
+[](https://web.archive.org/web/20170609223637id_/http://www.raytheon.com/legal/privacy_policy/index.html#top)
 
 **11\. Dispute Resolution/Contact Information**
 
