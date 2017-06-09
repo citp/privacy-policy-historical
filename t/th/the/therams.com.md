@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therams.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120010438id_/http%3A//www.therams.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therams.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609221131id_/http%3A//www.therams.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Los Angeles Rams | Privacy Policy
 
@@ -294,7 +294,9 @@ A special note for parents concerning privacy
   
    
   
-The Website is a general audience Website. We do not currently collect any personal information from children under the age of thirteen on the Website. If in the future, we collect personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. 6501 et seq.) including, without limitation, obtaining necessary parental consent.  
+The Website is a general audience Website. However, we do collect information about children under 13 from parents so they may sign their child up for our Kids club.  The information we collect is your child’s name, date of birth and the address provided by a parent, guardian or purchaser of the Rams Kids Club membership. We use this information to allow you to sign your child up for the kids club and for you to receive Rams merchandise as a part of the Kids Club membership, for your child.    If you no longer wish to allow your child to be part of the Kids club or wish to delete all information collected about your child, please contact us at [privacy@URL.com](mailto:privacy@URL.com).
+
+We will not share your child’s personal information with any third party for any reason.  If you feel we have collected personal information from your child directly, please contact us at the email address listed above to request immediate deletion of that information.  We do not set any tracking technologies within the Kids section of the site that may be behavioral in nature.  
   
    
   
