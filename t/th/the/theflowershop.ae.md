@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317182925id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theflowershop.ae privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609172040id_/http%3A//www.theflowershop.ae/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy,
 
@@ -59,7 +59,7 @@ We give you the opportunity to opt-out of receiving certain information or to re
 
 2\. If you do not want to receive Promotional Information (see Use of Personal Information by Flowershop.ae) or information about related services, you can: (a) call our customer service representatives at (UAE): (04) 259 1120 (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); or (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. 
 
-3\. If you do not want to receive promotional emails, you can: (a) call our customer service representatives at Toll-Free (UAE): (04) 259 1120; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. or (d) click on unsubscribe from our promotional emails.
+3\. If you do not want to receive promotional emails or sms, you can: (a) call our customer service representatives at Toll-Free (UAE): (04) 259 1120; (b) email us at [customerservice@theflowershop.ae](mailto:customerservice@theflowershop.ae); (c) write us at: Emirates Towers, Level 41, Sheikh Zayed Road, P.O Box 31303, Dubai, United Arab Emirates. or (d) click on unsubscribe from our promotional emails or sms. 
 
 ## H. Online Specifics
 
