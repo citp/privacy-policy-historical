@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125125829id_/http%3A//www.surfnetkids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609062018id_/http%3A//www.surfnetkids.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Surfnetkids
 
@@ -8,7 +8,7 @@ For more information see <http://www.isipp.com/iadb.php>. The Surfnetkids newsle
 
 Surfnetkids.com may rent its postal mailing list (but never email addresses) to organizations that wish to offer products and services to its subscribers.
 
-In compliance with COPPA (Children’s Online Privacy Protection Act of 1998), newsletter subscribers under thirteen years old are asked to supply a parent’s email address. Parents are notified via email of their child’s subscription and parents may [cancel their child’s subscription](http://www.replytobarbara.com/) at any time.
+In compliance with COPPA (Children’s Online Privacy Protection Act of 1998), newsletter subscribers under thirteen years old are asked to supply a parent’s email address. Parents are notified via email of their child’s subscription and parents may [cancel their child’s subscription](https://www.replytobarbara.com/) at any time.
 
 Demographic information is used only in aggregate to provide advertisers with more information about the "Surfing the Net" audience. Any email addresses posted on the site (in user submitted posts on the bulletin board) are optional and are posted ONLY with the user’s permission.
 
@@ -16,7 +16,7 @@ IP addresses and cookies are used to accurately serve banner ads, to assure that
 
 "Surfing the Net" is not responsible for the content of sites outside of its network.
 
-Google, a third party vendor, uses cookies to serve ads on our sites. Google’s use of the DART cookie enables it to serve ads to our users based on their visits to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Google, a third party vendor, uses cookies to serve ads on our sites. Google’s use of the DART cookie enables it to serve ads to our users based on their visits to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html).
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
@@ -24,4 +24,4 @@ Surfnetkids.com, Inc.
 991C Lomas Santa Fe Drive #415  
 Solana Beach, CA 92075  
 (858)793-8300  
-Write to us at [ReplyToBarbara.com](http://www.replytobarbara.com/)
+Write to us at [ReplyToBarbara.com](https://www.replytobarbara.com/)
