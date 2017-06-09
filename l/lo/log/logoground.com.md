@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119171845id_/http%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609140756id_/http%3A//logoground.com/privacy.php) for the most accurate reproduction.*
 
 # LogoGround Privacy Policy
 
@@ -6,11 +6,11 @@ Privacy Policy
 
 LogoGround.com does not collect personally identifiable information from you during your visit unless you offer such information when contacting LogoGround, creating an account or making a purchase.
 
-When you sign up as a designer or when you make a purchase, you provide details such as your name, surname, email address etc. This information is saved in our database. Some of this information is optional. We do not share your personal or contact information with anyone, unless required to do so by law.
+When you sign up as a designer or when you make a purchase, you provide details such as your name, surname, email address etc. This information is saved in our database. Some of this information is optional. We do not share your personal or contact information with anyone, unless with your permission or when required to do so by law.
 
 LogoGround will use your contact information only for communicating with you regarding your LogoGround account, your logos or your purchases. 
 
-When you place an order only your username is shown to designers. Additional contact information is shared at your discretion.
+When you purchase a logo, your name, surname and email address will be made available to the designer.
 
 Logos that you purchased from LogoGround as well as your company name may be shown in our client list and portfolio of past work, in any medium, unless you request exclusion by completing the exclusion form.
 
