@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201012540id_/http%3A//ndp.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609203319id_/http%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
 
 # New Democratic Party of Canada « Canada's NDP
 
 **Our Commitment to Respecting and Protecting Your Privacy**
 
-Canada’s NDP is committed to respecting and protecting your privacy, including your personal information. Our policy is in strict compliance with Canadian privacy principles, as well as our obligations under the _Canada Elections Act_ . We are committed to ensuring the confidentiality and security of your personal information.
+Canada’s NDP is committed to respecting and protecting your privacy, including your personal information. Our policy is in strict compliance with Canadian privacy principles, as well as our obligations under the _Canada Elections Act_. We are committed to ensuring the confidentiality and security of your personal information.
 
 This page summarizes our privacy policy and information practices for NDP.ca. It is intended to provide information to help you make informed decisions when choosing to communicate with us via this site.
 
@@ -22,7 +22,7 @@ We use your personal information to communicate with you about the NDP, to provi
 
 As we are a federal party, we may share your information internally within our national organization, including with NDP riding associations.
 
-We use your financial information to process your donations. We are also required by the _Canada Elections Act_ to provide Elections Canada with information related to the donations you make to us.
+We use your financial information to process your donations. We are also required by the _Canada Elections Act_  to provide Elections Canada with information related to the donations you make to us.
 
 **Protecting Your Personal Information**
 
@@ -44,16 +44,16 @@ Other sites to which we provide links may be governed by different policies. The
 
 **Updating your Personal Information**
 
-We aim to keep your information accurate and up-to-date. To update or correct the personal information you provide to us, please contact us at [ info@ndp.ca ](mailto:info@ndp.ca) .
+We aim to keep your information accurate and up-to-date. To update or correct the personal information you provide to us, please contact us at [info@ndp.ca](mailto:info@ndp.ca).
 
 **Contacting Us**
 
-Questions or concerns about our privacy policy or the information we collect may be directed to [ CanadasNDP-LeNPDduCanada@ndp.ca ](mailto:CanadasNDP-LeNPDduCanada@ndp.ca) .
+Questions or concerns about our privacy policy or the information we collect may be directed to [CanadasNDP-LeNPDduCanada@ndp.ca](mailto:CanadasNDP-LeNPDduCanada@ndp.ca).
 
-You can also contact us by phone at 613-236-3613 or by postal mail at the address below:
+You can also contact us by phone at 613-236-3613 or by postal mail at the address below:   
 
-New Democratic Party of Canada  
-Suite 300 - 279 Laurier Avenue West  
-Ottawa, Ontario K1P 5J9
+New Democratic Party of Canada     
+Suite 300 - 279 Laurier Avenue West     
+Ottawa, Ontario  K1P 5J9
 
-If you no longer wish to be contacted by us or wish to be placed on our internal Do-Not-Call list, please let us know by emailing [ support@ndp.ca ](mailto:support@ndp.ca) . You may also unsubscribe from our communications by using the unsubscribe mechanisms contained in all of our electronic messages.
+If you no longer wish to be contacted by us or wish to be placed on our internal Do-Not-Call list, please let us know by emailing [dnc@ndp.ca](mailto:dnc@ndp.ca). You may also unsubscribe from our communications by using the unsubscribe mechanisms contained in all of our electronic messages.
