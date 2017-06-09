@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsmart.biz privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912042436id_/http%3A//abcsmart.biz/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsmart.biz privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609065730id_/https%3A//abcsmart.biz/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Business Company ABCSMART Inc. - International investment Project
 
