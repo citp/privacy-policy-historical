@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tettra.co privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530045441id_/http%3A//tettra.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tettra.co privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609230155id_/https%3A//tettra.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Tettra
+# Privacy Policy | Tettra
 
 At Tettra, we are all about transparency. In order to keep our commitment to transparency, you’ll find our Privacy Policy in full below. We ask you to read it thoroughly and contact us if you have any questions. But… let’s be honest… This type of stuff is usually pretty boring, so it’s a safe bet that you won’t read it thoroughly, so here are the highlights and important bits:
 
@@ -10,7 +10,7 @@ At Tettra, we are all about transparency. In order to keep our commitment to tra
     2. Your Slack company name, team URL and team id
     3. Various usage data in Google Analytics, Mixpanel and Intercom which we use to provide support, improve the product and just generally make better decisions so our startup doesn’t fail.
   3. We will never use the access tokens you authorize to Tettra via the Slack API to read your content.
-  4. You can revoke Tettra’s access to your Slack account at any time by going to [yourteam.slack.com/apps/manage](http://yourteam.slack.com/apps/manage), choosing the “Tettra” app from your list of integrations and then pressing the Remove App button.
+  4. You can revoke Tettra’s access to your Slack account at any time by going to[yourteam.slack.com/apps/manage](http://yourteam.slack.com/apps/manage), choosing the “Tettra” app from your list of integrations and then pressing the Remove App button.
   5. Just like all things in life, this privacy policy may change from time to time. We’ll notify you in advance and provide you with alternative options if something doesn’t jive quite right with you.
 
 
@@ -74,7 +74,7 @@ Tettra doesn’t store your Slack passwords or access tokens authorized to us vi
 
 Tettra operates its app on the [Heroku](http://www.heroku.com/) platform (see <https://www.heroku.com/policy/privacy>)
 
-Tettra enrcypts data through an SSL certificate provided by [RapidSSL](http://www.rapidssl.com/) (see [https://www.rapidssl.com/privacy/index.html)](https://www.rapidssl.com/privacy/index.html))
+Tettra enrcypts data through an SSL certificate provided by [RapidSSL](http://www.rapidssl.com/) (see[https://www.rapidssl.com/privacy/index.html)](https://www.rapidssl.com/privacy/index.html))
 
 Our team uses [Intercom](http://www.intercom.io/) to provide support for our apps and [Mixpanel](http://mixpanel.com/) to track usage statistics. We store your full name and email, along with your Slack user id, team id, and team name in both services.
 
