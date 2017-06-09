@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230343id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalhub.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609061701id_/http%3A//www.universalhub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for Universal Hub, Boston Online and Boston Blogs | Universal Hub
 
