@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qnetindia.net privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005041016id_/http%3A//www.qnetindia.net/en/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnetindia.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609053322id_/http%3A//qnetindia.net/en/footer/privacy_policy) for the most accurate reproduction.*
 
 # QNET Direct Selling Company | Privacy Policy
 
