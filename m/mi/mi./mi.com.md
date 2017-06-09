@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mi.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127094406id_/http%3A//www.mi.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mi.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609063634id_/http%3A//www.mi.com/en/about/privacy) for the most accurate reproduction.*
 
 # Mi Global Home
 
