@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225195141id_/http%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citethisforme.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609050354id_/http%3A//www.citethisforme.com/extras/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
-We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder - CiteThisForMe.com)
+We take your privacy seriously. This policy describes what personal information we collect and how we use it. (This privacy policy is applicable to websites falling under the primary holder - CiteThisForMe.com and the CiteThisForMe mobile applications)
 
 ### Routine Information Collection
 
