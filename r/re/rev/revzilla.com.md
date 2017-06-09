@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120041713id_/https%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revzilla.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610011444id_/https%3A//www.revzilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RevZilla
 
@@ -46,4 +46,4 @@ With respect to security; we have appropriate security measures in place in our 
 
 If we change or update this Privacy Policy, we will post changes and updates on the site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us using the information above.
 
-The bottom line: Feel secure in shopping for [motorcycle jackets,](http://www.revzilla.com/) helmets and gear on RevZilla.com.
+The bottom line: Feel secure in shopping for [motorcycle jackets,](https://web.archive.org/) helmets and gear on RevZilla.com.
