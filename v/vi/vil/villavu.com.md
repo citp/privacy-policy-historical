@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villavu.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527062946id_/http%3A//villavu.com/forum/content.php%3Fr%3D5-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villavu.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609172516id_/http%3A//villavu.com/forum/content.php%3Fr%3D5-Privacy) for the most accurate reproduction.*
 
 # SRL | Forums - Privacy Policy
 
