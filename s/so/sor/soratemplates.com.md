@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soratemplates.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128062034id_/http%3A//www.soratemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soratemplates.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610012409id_/http%3A//www.soratemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Blogger Template | High Quality Free Blogger Templates
 
