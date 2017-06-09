@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119000712id_/https%3A//linkis.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the notlurking.com privacy policy that was archived on 2017-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609025214id_/http%3A//linkis.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <link rel="apple-touch-icon" href="/images/favicon/apple-touch-icon_57x57.png" sizes="57x57">
@@ -30,7 +30,7 @@
 <meta name="title" content="Privacy policy - Linkis.com">
 <meta name="keywords" content="Privacy, Linkis.com">
 <meta name="description" content="Privacy policy for service users - Linkis.com"><link href="/favicon.ico" rel="icon" type="image/png">
-<link href="/css/settings.css?v=59bf" media="all" rel="stylesheet" type="text/css">
+<link href="/css/settings.css?v=6fe9" media="all" rel="stylesheet" type="text/css">
 <script type="text/javascript" async="" src="//widget.uservoice.com/KUBNH3g4sCUtmVUMMrmmA.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script>
     var LNG = {};
     LNG['index.button.Save']    = 'Save';
@@ -56,7 +56,18 @@
     LNG['settings.notice.show_aw_popup_off'] = "Visitors tracking is <b>off</b>";
     LNG['settings.notice.vitweet_on'] = "Text to image converter is <b>on</b>";
     LNG['settings.notice.vitweet_off'] = "Text to image converter is <b>off</b>";
+    LNG['settings.notice.digest_on'] = "Digest is <b>on</b>";
+    LNG['settings.notice.digest_off'] = "Digest is <b>off</b>";
     LNG['settings.account.email.empty'] = "Email can not be empty.";
+    LNG['please_enter_captcha'] = "Please enter captcha";
+    LNG['field_can_not_be_blank'] = "Field can not be blank";
+    LNG['invalid_link_format'] = "Invalid link format";
+    LNG['username_doesnt_exist'] = "This username doesn’t exist on Twitter";
+    LNG['username_not_following_list'] = "This username is not in your following list";
+    LNG['settings.index.linkis_automatio'] = "Linkis Automation: video illustration and explanation";
+    LNG['show.theme.clicks_cta_button'] = "clicks on CTA button";
+    LNG['mylinks.stats.shares'] = "Shares";
+    LNG['twAccountProtected'] = "Your Twitter account is protected. We can not provide this functionality untill you make it public.";
 
     var customAuthRedirect = null;
 
@@ -108,7 +119,7 @@ function restoreUserAvatar(img, uid)
 function lnEvent(action, label, category, params)
 {
     
-    if($.isArray(action)) {
+    if(action && action.push) {
         var hash   = lnEventGenerateHash((action[0][0] || '') + (action[0][1] || '') + (action[0][2] || ''));
             action = JSON.stringify(action);
     } else {
@@ -123,7 +134,13 @@ function lnEvent(action, label, category, params)
     }else{
         var theme = window.LinkData ? LinkData.curTheme : 0;
     }
-    var version = window.LinkData ? LinkData.themeVersion : '';
+
+    if(typeof(params) != 'undefined' && typeof(params.version) != 'undefined'){
+        var version = params.version;
+    }else{
+        var version = window.LinkData ? LinkData.themeVersion : '';
+    }
+
     var is_author = window.LinkData ? LinkData.is_author : 0;
 
     params = params || {};
@@ -201,7 +218,11 @@ window.NL_APP_DATA = {
     cookie_domain: '.linkis.com',
 	sessCookieName: 'LNSESS',
     popupsHtml: {},
-    fbAppId: 318962828183539};
+    fbAppId: 318962828183539,
+    isMobile: 0,
+    dhSyncEnabled: 1,
+    dhSyncHost: 'ln.is',
+    dhSyncCookies: ["LNSESS","t6_show_auth_popup","dg-fill-email-remind-later"]};
 
 window.onerror = function(msg, url, line, col, error_obj)
 {
@@ -209,6 +230,7 @@ window.onerror = function(msg, url, line, col, error_obj)
 
     var path  = ['', 'index', 'js-error'].join('/');
     var page  = 'index/privacy';
+    var theme = window.LinkData ? LinkData.curTheme : 0;
 
     (new Image()).src = path +
         '?m=' + encodeURIComponent(msg) +
@@ -217,6 +239,7 @@ window.onerror = function(msg, url, line, col, error_obj)
         '&c=' + encodeURIComponent(col) +
         '&o=' + encodeURIComponent(error_obj) +
         '&p=' + encodeURIComponent(page) +
+        '&t=' + encodeURIComponent(theme) +
         '&r=' + Math.random();
 }
 
@@ -252,10 +275,23 @@ window.onerror = function(msg, url, line, col, error_obj)
 <!-- /Yandex.Metrika counter -->
 
 </head>
-<body data-controller="index" data-action="privacy" data-fb-app-id="318962828183539" class="settings">
+<body data-controller="index" data-action="privacy" data-fb-app-id="318962828183539" class="settings lang-en">
+
 
 
 <div class="common">
+    <div class="confirmationBar confirmationBar_suspention js-suspention">
+    <div class="confirmationBar-inner">
+        <a href="http://blog.linkis.com/2017/06/02/we-need-you-to-help-to-get-linkis-back-to-work/" target="_blank"><img src="/images/suspention-block-cat@2x.png" alt="Help us" class="confirmationBar-pic"></a>
+        <div class="inner-content">
+            <h2>Linkis got suspended and requires your&nbsp;help</h2>
+            <p>Dear friends. Since 12 of May 2017 Linkis is being suspended due to some misunderstanding. Now we need your help to get it back online. We believe that with your help we can restore its usual flow.</p>
+            <a href="http://blog.linkis.com/2017/06/02/we-need-you-to-help-to-get-linkis-back-to-work/" target="_blank" class="button button_blue">How to help Linkis</a>
+        </div>
+    </div>
+</div>
+    
+    
 
 
 <div class="header js-header">
@@ -294,47 +330,51 @@ window.onerror = function(msg, url, line, col, error_obj)
 <div class="static-holder">
 	<h3>Privacy Policy</h3>
 
-<p>Linkis provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this Website.</p>
-<p>By using our Website you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. Processing means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.</p>
+                <p>Linkis provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this Website.</p>
+                <p>By using our Website you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. Processing means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information.</p>
 
-<h3>Information Collection and Use</h3>
-<p>Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Website, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.</p>
+                <h3>Information Collection and Use</h3>
+                <p>Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Website, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.</p>
 
-<h3>Information Collected Upon Registration</h3>
-<p>If you want to access certain restricted sections of the Website and use all tools provided by Linkis, you will be required to become a registered user. It is possible only authorizing via Twitter account. While registering your account, we automatically fetch your username, bio and profile photo from Twitter to your Linkis account. This information can be updated or deleted by you anytime. Personally identifiable information that we collect may include your IP address, full user name, city, time zone, and other information that you decide to provide us with. </p>
+                <h3>Information Collected Upon Registration</h3>
+                <p>If you want to access certain restricted sections of the Website and use all tools provided by Linkis, you will be required to become a registered user. It is possible only authorizing via Twitter account. While registering your account, we automatically fetch your username, bio and profile photo from Twitter to your Linkis account. This information can be updated or deleted by you anytime. Personally identifiable information that we collect may include your IP address, full user name, city, time zone, and other information that you decide to provide us with. </p>
 
-<h3>Use of Contact Information</h3>
-<p>We don’t share your contact and personal information with third parties. We may use it to provide you with information about our products and services, including but not limited to our Service.</p>
+                <h3>Use of Contact Information</h3>
+                <p>We don’t share your contact and personal information with third parties. We may use it to provide you with information about our products and services, including but not limited to our Service.</p>
 
-<h3>Log Data</h3>
-<p>When you visit the Website, our servers automatically record information that your browser sends whenever you visit a Website (Log Data ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.</p>
+                <h3>Log Data</h3>
+                <p>When you visit the Website, our servers automatically record information that your browser sends whenever you visit a Website (Log Data ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit, the search terms you use. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Website and of our Service, and for the Website's technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Use.</p>
 
-<h3>Cookies</h3>
-<p>Like many websites, we also use cookie technology to collect additional Website usage data and to improve the Website and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Linkis may use both session cookies and persistent cookies to better understand how you interact with the Website and our Service, to monitor aggregate usage by our users and web traffic routing on the Website, and to improve the Website and our services. A session cookie enables certain features of the Website and our service and is deleted from your computer when you disconnect from or leave the Website. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.</p>
+                <h3>Cookies</h3>
+                <p>Like many websites, we also use cookie technology to collect additional Website usage data and to improve the Website and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Linkis may use both session cookies and persistent cookies to better understand how you interact with the Website and our Service, to monitor aggregate usage by our users and web traffic routing on the Website, and to improve the Website and our services. A session cookie enables certain features of the Website and our service and is deleted from your computer when you disconnect from or leave the Website. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Website. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.</p>
 
-<h3>Information Sharing and Disclosure</h3>
+                <h3>Information Sharing and Disclosure</h3>
 
-<h4>Service Providers</h4>
-<p>We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.</p>
+                <h4>Service Providers</h4>
+                <p>We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.</p>
 
-<h4>Compliance with Laws and Law Enforcement</h4>
-<p>Linkis cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Linkis or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.</p>
+                <h4>Compliance with Laws and Law Enforcement</h4>
+                <p>Linkis cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Linkis or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.</p>
 
-<h3>Security</h3>
-<p>Linkis is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Website in the most expedient time possible and without unreasonable delay, consistent with (a) the legitimate needs of law enforcement or (b) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
+                <h3>Security</h3>
+                <p>Linkis is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Website in the most expedient time possible and without unreasonable delay, consistent with (a) the legitimate needs of law enforcement or (b) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</p>
 
-<h3>Links to Other Websites</h3>
-<p>Our Website contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other Websites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
+                <h3>Links to Other Websites</h3>
+                <p>Our Website contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other Websites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</p>
 
-<h3>Our Policy Towards Children</h3>
-<p>The Website is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.</p>
+                <h3>Our Policy Towards Children</h3>
+                <p>The Website is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.</p>
 
-<h3>Changes to this Policy</h3>
-<p>This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website.</p>
+                <h3>Changes to this Policy</h3>
+                <p>This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Website.</p>
+
+                </div>
 
 </div>
 
-</div>
+
+<!-- Popups Template -->
+<div class="js-popups-container popup-container modal-popup js-modal-popup-container"></div>
 
 <div class="footer" id="footer">
     <div class="footer-wrapper">
@@ -354,12 +394,12 @@ window.onerror = function(msg, url, line, col, error_obj)
             <a href="https://plus.google.com/+Linkis_com" class="social-icon icon-googleplus js-footer-google-plus" target="_blank" rel="publisher"></a>
         </div>
 
-        <div class="footer-copyright">© Copyright 2016 by Linkis.com. All rights reserved.</div>
+        <div class="footer-copyright">© Copyright 2017 by Linkis.com. All rights reserved.</div>
     </div>
 </div>
 
 
-    <script src="/js/steal/steal.production.js?prod/userpages/production.js&amp;v=59bf"></script>
+    <script src="/js/steal/steal.production.js?prod/userpages/production.js&amp;v=6fe9"></script>
 
 
     <!-- UserVoice JavaScript SDK (only needed once on a page) -->
