@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iluvcinema.in privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606195815id_/http%3A//www.iluvcinema.in/telugu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iluvcinema.in privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609202811id_/http%3A//www.iluvcinema.in/telugu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
