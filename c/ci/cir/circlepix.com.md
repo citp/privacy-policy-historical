@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circlepix.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611125920id_/http%3A//www.circlepix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circlepix.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609121853id_/https%3A//circlepix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Circlepix
 
