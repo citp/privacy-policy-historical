@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirisara.lk privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208233337id_/http%3A//www.sirisara.lk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirisara.lk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609042856id_/http%3A//www.sirisara.lk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer | Sirisara.lk | Sinhala Teledrama | Sinhala Films And TV Shows
 
