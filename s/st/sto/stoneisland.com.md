@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoneisland.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201021741id_/http%3A//www.stoneisland.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoneisland.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609181829id_/http%3A//www.stoneisland.com/us/Help/LegalArea/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -43,13 +43,13 @@ and
 represented by their respective legal representatives pro tempore.
 
 In particular, SPORTSWEAR COMPANY S.p.A. is the owner of www.stoneisland.com and of the 'Stone Island' trademark, and is the independent controller of the data processed for corporate purposes that directly refers to the brand or to the company. YNAP Corp. manages the website and is the independent owner of the processing connected to the e-commerce services offered through this website's Online Store.  
-Any privacy issue related to processing by SPORTSWEAR COMPANY S.p.A. may be sent to the following e-mail address: [mailto: spwprivacy@spwco.it](mailto:%20spwprivacy@spwco.it) or via fax to +39 059 810337. Requests which instead refer to processing connected to the Online Store must be sent to YNAP Corp. by contacting Customer Care and selecting “Privacy” as the topic.
+Any privacy issue related to processing by SPORTSWEAR COMPANY S.p.A. may be sent to the following email address: [spwprivacy@spwco.it](mailto:%20spwprivacy@spwco.it) or via fax to +39 059 810337. Requests which instead refer to processing connected to the Online Store must be sent to YNAP Corp. by contacting Customer Care and selecting “Privacy” as the topic.
 
 ## 3\. Place of Data Processing
 
 The processing related to this website's services takes place at the respective operational headquarters of SPORTSWEAR COMPANY S.p.A. and YNAP Corp., and is ensured by personnel that has been duly assigned to perform personal data processing. 
 
-No data deriving from the web service is communicated or disseminated. The personal data provided by users who send requests to be sent informational material (bulletins, CD-ROMs, catalogs, lists, answers to questions, various documents, etc.) to SPORTSWEAR COMPANY S.p.A. are used solely to perform the service requested. The personal data that is voluntarily provided by the user for the services related to the e-commerce purposes of the www.stoneisland.com Online Store (first and last name, e-mail address, delivery address, etc.,) are processed by YNAP Corp. with the aim of following up on the services requested by the user.
+No data deriving from the web service is communicated or disseminated. The personal data provided by users who send requests to be sent informational material (bulletins, CD-ROMs, catalogs, lists, answers to questions, various documents, etc.) to SPORTSWEAR COMPANY S.p.A. are used solely to perform the service requested. The personal data that is voluntarily provided by the user for the services related to the e-commerce purposes of the www.stoneisland.com Online Store (first and last name, email address, delivery address, etc.,) are processed by YNAP Corp. with the aim of following up on the services requested by the user.
 
 ## 4\. Types of Data Processed
 
@@ -91,7 +91,7 @@ The data shall be processed in order to properly perform accounting, tax, commer
 
 ### Marketing purposes
 
-The data may be used, upon proper and explicit consent, including to send promotional communications/materials via mail, e-mail, telephone, fax, sms, mms and similar means; if you have already expressed consent, it is nevertheless your right to oppose, at any time and at no expense, the processing of data for this purpose. Furthermore, always upon consent, profiling activities will be performed on the user's purchasing habits.
+The data may be used, upon proper and explicit consent, including to send promotional communications/materials via mail, email, telephone, fax, sms, mms and similar means; if you have already expressed consent, it is nevertheless your right to oppose, at any time and at no expense, the processing of data for this purpose. Furthermore, always upon consent, profiling activities will be performed on the user's purchasing habits.
 
 ### E-commerce purposes
 
@@ -128,7 +128,7 @@ The Code guarantees that personal data be processed in accordance with fundament
 ## 11\. Rights of Interested Parties
 
 The parties to whom the personal data refers have the right, at any time, to obtain confirmation of whether or not said data exists, and to determine its content and origin, to verify its accuracy, or request an addition, updating or correction thereof (Art. 7 of the Privacy Code.) Pursuant to said article, you are entitled to request the deletion, transformation to an anonymous form or blocking of data that has been processed in violation of the law, as well as, in any case, to oppose its processing for legitimate reasons.  
-Requests regarding the processing performed by SPORTSWEAR COMPANY S.p.A. are sent to the company itself, by sending a fax to 059 810337 or an e-mail to the following address [mailto: spwprivacy@spwco.it](mailto:%20spwprivacy@spwco.it). All requests that fall within the context of pre and post-sales management, and which regard the processing connected to e-commerce purposes are sent to YNAP Corp., by contacting Customer Care and selecting “Privacy” as the topic.  
+Requests regarding the processing performed by SPORTSWEAR COMPANY S.p.A. are sent to the company itself, by sending a fax to 059 810337 or an email to the following address [spwprivacy@spwco.it](mailto:%20spwprivacy@spwco.it). All requests that fall within the context of pre and post-sales management, and which regard the processing connected to e-commerce purposes are sent to YNAP Corp., by contacting Customer Care and selecting “Privacy” as the topic.  
 This constitutes the Privacy Policy of SPORTSWEAR COMPANY S.p.A. and YNAP Corp. in reference to the data processed on www.stoneisland.com, which may be subject to updating.
 
 ## 12\. Modifications and Updating of the Privacy Policy of www.stoneisland.com
