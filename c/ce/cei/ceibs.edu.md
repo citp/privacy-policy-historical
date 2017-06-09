@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceibs.edu privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017162932id_/http%3A//www.ceibs.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceibs.edu privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609020038id_/http%3A//www.ceibs.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CEIBS
 
