@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207162721id_/http%3A//www.daytrotter.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609045705id_/http%3A//www.daytrotter.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Daytrotter: Privacy Policy
 
@@ -16,7 +16,7 @@ We have implemented Google Analytics' Demographics and Interests cookies, which 
 
 In Daytrotter we use your information to support the personalized services Daytrotter offers - for example, enabling you to create playlists, or remembering what songs are in your player queue. We also use your email address to keep you informed of new additions to Daytrotter.
 
-When you make an online purchase from Daytrotter, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, you will be automatically signed up to receive email updates about our products, services, promotions and additions to our websites.
+When you make an online purchase from Daytrotter, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you via phone, postal mail or email if we have other questions regarding your order. In addition, we use your email address to communicate with you about news and other information from any of our family of sites, which includes [Wolfgang's](https://www.wolfgangs.com/), [Concert Vault](http://www.concertvault.com/) and [Paste Magazine](https://www.pastemagazine.com/) in addition to [Daytrotter](http://www.daytrotter.com/).
 
 You can be removed from our email list by following the directions on any email that we send to you or by clicking on the "MY ACCOUNT" link in the top right corner of any page on our website. Please note that it may take up to two weeks to remove your from our list.
 
