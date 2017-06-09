@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyonce.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605080610id_/http%3A//www.beyonce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyonce.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609075228id_/http%3A//www.beyonce.com/privacy-policy) for the most accurate reproduction.*
 
 # Beyoncé
 
@@ -73,7 +73,7 @@ This online Privacy Policy applies only to information collected through our Web
 
 ### Terms and Conditions
 
-Please also visit our [Terms and Conditions](http://local.beyonce.com/terms-conditions/ "Terms & Conditions") establishing the use, disclaimers, and limitations of liability governing the use of our Website.
+Please also visit our [Terms and Conditions](http://www.beyonce.com/terms-conditions/ "Terms & Conditions") establishing the use, disclaimers, and limitations of liability governing the use of our Website.
 
 ### Your California Privacy Rights
 
