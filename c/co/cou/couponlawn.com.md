@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponlawn.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222002436id_/http%3A//couponlawn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponlawn.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610012207id_/http%3A//couponlawn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Coupon Lawn
 
@@ -34,11 +34,11 @@ By keeping your personal information in our databases, we will be able to provid
 
  **Special notice to the users who live outside of Canada**
 
-The headquarters of Bundeld Inc. is located in Canada. Therefore, your personal information will be accessed and transferred to Canada or to the affiliates, business partners, service providers or merchants who live all around the world. Your information will also be accessed upon request by government law enforcement officials or national security authorities of Canada. However, we have taken necessary steps to protect your privacy and keep the personal information safe according to our privacy policy.
+The headquarters of CouponLawn.com is located in Canada. Therefore, your personal information will be accessed and transferred to Canada or to the affiliates, business partners, service providers or merchants who live all around the world. Your information will also be accessed upon request by government law enforcement officials or national security authorities of Canada. However, we have taken necessary steps to protect your privacy and keep the personal information safe according to our privacy policy.
 
  **Privacy practices related to third parties**
 
-This privacy policy only addressed the disclosure and you of information by Bundeld Inc. through your interaction with the services. All the other websites which you can access through our website will have their own privacy policies. In addition, our business partners and affiliates also have their own privacy policy. Therefore, you are recommended to go through the respective pages as well, in order to stay away from hassle.
+This privacy policy only addressed the disclosure and you of information by CouponLawn.com through your interaction with the services. All the other websites which you can access through our website will have their own privacy policies. In addition, our business partners and affiliates also have their own privacy policy. Therefore, you are recommended to go through the respective pages as well, in order to stay away from hassle.
 
  **Information related to communities.**
 
@@ -48,6 +48,6 @@ We might update our privacy policy from time to time in order to keep the client
 
  **Policy regarding children below 18 years of age.**
 
-Children who have not yet completed 18 years of age are strictly prohibited to use the services of Bundeld. All our services are specifically designed for the use of adults. By using our services, you indicate that you are at least 18 years old. If we recognize any account that violate out terms and conditions, we will take measures to delete that account without any prior notice.
+Children who have not yet completed 18 years of age are strictly prohibited to use the services of CouponLawn.com. All our services are specifically designed for the use of adults. By using our services, you indicate that you are at least 18 years old. If we recognize any account that violate out terms and conditions, we will take measures to delete that account without any prior notice.
 
 [ ](http://www.dmca.com/Protection/Status.aspx?ID=1c17c75e-e6df-4fa5-aa6f-a52a1f47be93 "DMCA.com Protection Status")
