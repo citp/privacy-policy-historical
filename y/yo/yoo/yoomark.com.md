@@ -1,46 +1,24 @@
-> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209141528id_/http%3A//yoomark.com/page.php%3Fpage%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoomark.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609212735id_/http%3A//www.yoomark.com/static/privacypolicy) for the most accurate reproduction.*
 
-# | Privacy policy
+# Privacy Policy | Yoomark
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:yoomarkers@gmail.com).
+What information do we collect?  
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.   
+What do we use your information for?  
+Any of the information we collect from you may be used in one of the following ways: 
 
-At www.yoomark.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.yoomark.com and how we use it.
-
-**Log Files**  
-Like many other Web sites, www.yoomark.com makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services's analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
-
-**Cookies and Web Beacons**  
-www.yoomark.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.
-
-**DoubleClick DART Cookie**  
-→ Google, as a third party vendor, uses cookies to serve ads on www.yoomark.com.  
-→ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.yoomark.com and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
-
-**Our Advertising Partners**  
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......
-
-_While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here:[Privacy Policies](http://www.privacypolicyonline.com/privacy-policies).  
-You may consult this listing to find the privacy policy for each of the advertising partners of www.yoomark.com._
-
-These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on www.yoomark.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
-
-www.yoomark.com has no access to or control over these cookies that are used by third-party advertisers.
-
-**Third Party Privacy Policies**  
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.yoomark.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: [Privacy Policy Links](http://www.privacypolicyonline.com/privacy-policy-links "Privacy Policy Links").
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. [What Are Cookies?](http://www.privacypolicyonline.com/what-are-cookies)
-
-**Children's Information**  
-We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. www.yoomark.com does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that www.yoomark.com has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.
-
-**Online Privacy Policy Only**  
-This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
-
-**Consent**  
-By using our website, you hereby consent to our privacy policy and agree to its terms.
-
-**Update**  
-This Privacy Policy was last updated on: Sunday, September 8th, 2013. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
-_Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+To personalize your experience  
+(your information helps us to better respond to your individual needs)   
+To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. To send periodic emails The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Note: If at any time you would like to unsubscribe from receiving future emails, simply click on the unsubscribe options at the bottom of every email..   
+How do we protect your information?  
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.  
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.   
+Do we use cookies?  
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.   
+Do we disclose any information to outside parties?  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.   
+Third party links  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.   
+California Online Privacy Protection Act Compliance  
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
