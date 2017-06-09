@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvusoft.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013612id_/http%3A//www.solvusoft.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvusoft.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609181404id_/http%3A//www.solvusoft.com/en/privacy) for the most accurate reproduction.*
 
 # Solvusoft Privacy Policy | Solvusoft.com
 
