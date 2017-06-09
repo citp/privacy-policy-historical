@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lipsmedia.net privacy policy that was archived on 2015-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150704001925id_/http%3A//www.lipsmedia.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipsmedia.net privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609105216id_/http%3A//www.lipsmedia.net/privacy) for the most accurate reproduction.*
 
-# lipsmedia
+# lipsmedia.net - Privacy Policy
 
 ## Privacy Policy
 
