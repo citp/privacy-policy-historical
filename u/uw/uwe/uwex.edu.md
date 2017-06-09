@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwex.edu privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203060347id_/http%3A//www.uwex.edu/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwex.edu privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609060559id_/http%3A//www.uwex.edu/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - UW-Extension
 
@@ -6,7 +6,7 @@
 
 #### I. Introduction
 
-This statement discloses the privacy practices for UW-Extension's website www.uwex.edu. Protecting the privacy of website visitors is important to UW-Extension. We want to ensure that users understand what information we collect and how it is used. 
+This statement discloses the privacy practices for UW-Extension's website uwex.edu. Protecting the privacy of website visitors is important to UW-Extension. We want to ensure that users understand what information we collect and how it is used. 
 
 #### II. Voluntarily Information
 
@@ -16,20 +16,20 @@ UW-Extension will not share your personal information with third parties except 
 
 #### III. Network and Web Server Logs
 
-When you visit www.uwex.edu, UW-Extension's Web servers automatically collect and store limited information about your computer's connection to the Internet. 
+When you visit uwex.edu, UW-Extension's Web servers automatically collect and store limited information about your computer's connection to the Internet. 
 
 The information collected allows us to make our site more useful to visitors. We do record some or all of the following information: 
 
   * The Internet Protocol address (IP address) of the machine you used to access our Web site. Your IP address is a number that lets computers attached to the Internet know where to send you data. Your IP address does not identify you personally. 
-  * The date and time you visited www.uwex.edu
-  * The pages visited on www.uwex.edu
+  * The date and time you visited uwex.edu
+  * The pages visited on uwex.edu
   * The Web browser, type of computer and operating system used to access our site
   * A list of files downloaded or viewed
   * The amount of time spent viewing files
 
 
 
-These data DO NOT contain any personally identifiable information. Data are used to analyze website traffic and make improvements to www.uwex.edu.
+These data DO NOT contain any personally identifiable information. Data are used to analyze website traffic and make improvements to uwex.edu.
 
 UW-Extension Web servers have security measures in place to protect the loss, misuse and alteration of the information under our control.
 
@@ -45,8 +45,8 @@ The UW-Extension complies with the Federal Trade Commission 1998 Children's Onli
 
 #### VI. Acceptance of the uwex.edu Privacy Policy
 
-By using this website, you agree to the terms and conditions of the UW-Extension Privacy Policy. Please check this page periodically for changes to our policy. Your continued use of www.uwex.edu following any changes indicates acceptance of those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/contact/).
+By using this website, you agree to the terms and conditions of the UW-Extension Privacy Policy. Please check this page periodically for changes to our policy. Your continued use of uwex.edu following any changes indicates acceptance of those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/contact/).
 
-We assume responsibility only for www.uwex.edu. Be aware that sites we link to are not under UW-Extension's control. Privacy protections of those linked sites may differ. 
+We assume responsibility only for uwex.edu. Be aware that sites we link to are not under UW-Extension's control. Privacy protections of those linked sites may differ. 
 
 Effective Date: July 12, 2010
