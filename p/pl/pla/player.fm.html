@@ -1,9 +1,132 @@
-<!--The following is the downloaded HTML source of the player.fm privacy policy that was archived on 2016-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130193023id_/http%3A//player.fm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the player.fm privacy policy that was archived on 2017-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170609122035id_/http%3A//player.fm/privacy) for the most accurate reproduction.-->
 
-<html><head></head><body><div class="page-title">
-Privacy
+<!DOCTYPE html><html class="is-loading-page not-showing-player top-bar-is-not-searching ua-headlesschrome ua-headlesschrome-69 ua-headlesschrome-69-0 ua-headlesschrome-69-0-3494 ua-headlesschrome-69-0-3494-0 ua-safari ua-safari-537 ua-safari-537-36 ua-desktop ua-desktop-linux ua-webkit ua-webkit-537 ua-webkit-537-36 js no-touch" data-environment="production" data-page-load-count="0" data-page-load-state="loaded" data-theme-color="#D81422" lang="en"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# playerfm: http://ogp.me/ns/fb/playerfm#">
+<meta content="#242830" name="theme-color">
+<script type="text/javascript" async="" src="https://widget.intercom.io/widget/bqm10q34"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script>
+  window.playerfm = {
+    env: "production",
+    googleClientID: "889688296761.apps.googleusercontent.com",
+    online: true,
+    readonly: false,
+    clientIDs: { facebook: '292059804171098' },
+    assetHost: 'https://player.fm',
+    siteLocale: { language: 'en' }
+  };
+  window.api = {
+    minimalUserURL: "/me/private.json?membership_detail=full",
+    fullUserURL: "/me/private.json?channel_detail=full&fixed_channels=play-later,bookmarks,plays,likes&favorite_detail=full&subscription_detail=raw&channel_inclusion_detail=raw&membership_detail=full&series_setting_detail=full"
+  };
+  (function(){"function"!=typeof Object.assign&&(Object.assign=function(e){var t,o,r;for(t=1;t<arguments.length;){if(r=arguments[t],null!==r)for(o in r)Object.prototype.hasOwnProperty.call(r,o)&&(e[o]=r[o]);t++}return e})}).call(this),function(e,t){var o=t(e,e.document);e.lazySizes=o,"object"==typeof module&&module.exports&&(module.exports=o)}(window,function(e,t){"use strict";if(t.getElementsByClassName){var o,r=t.documentElement,n=e.Date,s=e.HTMLPictureElement,i="addEventListener",a="getAttribute",l=e[i],c=e.setTimeout,u=e.requestAnimationFrame||c,d=e.requestIdleCallback,f=/^picture$/i,p=["load","error","lazyincluded","_lazyloaded"],h={},b=Array.prototype.forEach,m=function(e,t){return h[t]||(h[t]=new RegExp("(\\s|^)"+t+"(\\s|$)")),h[t].test(e[a]("class")||"")&&h[t]},v=function(e,t){m(e,t)||e.setAttribute("class",(e[a]("class")||"").trim()+" "+t)},y=function(e,t){var o;(o=m(e,t))&&e.setAttribute("class",(e[a]("class")||"").replace(o," "))},g=function(e,t,o){var r=o?i:"removeEventListener";o&&g(e,t),p.forEach(function(o){e[r](o,t)})},w=function(e,o,r,n,s){var i=t.createEvent("CustomEvent");return i.initCustomEvent(o,!n,!s,r||{}),e.dispatchEvent(i),i},C=function(t,r){var n;!s&&(n=e.picturefill||o.pf)?n({reevaluate:!0,elements:[t]}):r&&r.src&&(t.src=r.src)},_=function(e,t){return(getComputedStyle(e,null)||{})[t]},x=function(e,t,r){for(r=r||e.offsetWidth;r<o.minSize&&t&&!e._lazysizesWidth;)r=t.offsetWidth,t=t.parentNode;return r},z=function(){var e,o,r=[],n=function(){var t;for(e=!0,o=!1;r.length;)t=r.shift(),t[0].apply(t[1],t[2]);e=!1},s=function(s){e?s.apply(this,arguments):(r.push([s,this,arguments]),o||(o=!0,(t.hidden?c:u)(n)))};return s._lsFlush=n,s}(),E=function(e,t){return t?function(){z(e)}:function(){var t=this,o=arguments;z(function(){e.apply(t,o)})}},k=function(e){var t,o=0,r=125,s=666,i=s,a=function(){t=!1,o=n.now(),e()},l=d?function(){d(a,{timeout:i}),i!==s&&(i=s)}:E(function(){c(a)},!0);return function(e){var s;(e=e===!0)&&(i=44),t||(t=!0,s=r-(n.now()-o),s<0&&(s=0),e||s<9&&d?l():c(l,s))}},R=function(e){var t,o,r=99,s=function(){t=null,e()},i=function(){var e=n.now()-o;e<r?c(i,r-e):(d||s)(s)};return function(){o=n.now(),t||(t=c(i,r))}},j=function(){var s,u,d,p,h,x,j,A,q,U,N,O,L,M,P,W=/^img$/i,B=/^iframe$/i,I="onscroll"in e&&!/glebot/.test(navigator.userAgent),$=0,F=0,D=0,T=-1,J=function(e){D--,e&&e.target&&g(e.target,J),(!e||D<0||!e.target)&&(D=0)},H=function(e,o){var n,s=e,i="hidden"==_(t.body,"visibility")||"hidden"!=_(e,"visibility");for(q-=o,O+=o,U-=o,N+=o;i&&(s=s.offsetParent)&&s!=t.body&&s!=r;)i=(_(s,"opacity")||1)>0,i&&"visible"!=_(s,"overflow")&&(n=s.getBoundingClientRect(),i=N>n.left&&U<n.right&&O>n.top-1&&q<n.bottom+1);return i},Y=function(){var e,n,i,l,c,f,p,b,m;if((h=o.loadMode)&&D<8&&(e=s.length)){n=0,T++,null==M&&("expand"in o||(o.expand=r.clientHeight>500&&r.clientWidth>500?500:370),L=o.expand,M=L*o.expFactor),F<M&&D<1&&T>2&&h>2&&!t.hidden?(F=M,T=0):F=h>1&&T>1&&D<6?L:$;for(;n<e;n++)if(s[n]&&!s[n]._lazyRace)if(I)if((b=s[n][a]("data-expand"))&&(f=1*b)||(f=F),m!==f&&(j=innerWidth+f*P,A=innerHeight+f,p=f*-1,m=f),i=s[n].getBoundingClientRect(),(O=i.bottom)>=p&&(q=i.top)<=A&&(N=i.right)>=p*P&&(U=i.left)<=j&&(O||N||U||q)&&(d&&D<3&&!b&&(h<3||T<4)||H(s[n],f))){if(te(s[n]),c=!0,D>9)break}else!c&&d&&!l&&D<4&&T<4&&h>2&&(u[0]||o.preloadAfterLoad)&&(u[0]||!b&&(O||N||U||q||"auto"!=s[n][a](o.sizesAttr)))&&(l=u[0]||s[n]);else te(s[n]);l&&!c&&te(l)}},G=k(Y),V=function(e){v(e.target,o.loadedClass),y(e.target,o.loadingClass),g(e.target,K)},X=E(V),K=function(e){X({target:e.target})},Q=function(e,t){try{e.contentWindow.location.replace(t)}catch(o){e.src=t}},Z=function(e){var t,r,n=e[a](o.srcsetAttr);(t=o.customMedia[e[a]("data-media")||e[a]("media")])&&e.setAttribute("media",t),n&&e.setAttribute("srcset",n),t&&(r=e.parentNode,r.insertBefore(e.cloneNode(),e),r.removeChild(e))},ee=E(function(e,t,r,n,s){var i,l,u,d,h,m;(h=w(e,"lazybeforeunveil",t)).defaultPrevented||(n&&(r?v(e,o.autosizesClass):e.setAttribute("sizes",n)),l=e[a](o.srcsetAttr),i=e[a](o.srcAttr),s&&(u=e.parentNode,d=u&&f.test(u.nodeName||"")),m=t.firesLoad||"src"in e&&(l||i||d),h={target:e},m&&(g(e,J,!0),clearTimeout(p),p=c(J,2500),v(e,o.loadingClass),g(e,K,!0)),d&&b.call(u.getElementsByTagName("source"),Z),l?e.setAttribute("srcset",l):i&&!d&&(B.test(e.nodeName)?Q(e,i):e.src=i),(l||d)&&C(e,{src:i})),z(function(){e._lazyRace&&delete e._lazyRace,y(e,o.lazyClass),m&&!e.complete||(m?J(h):D--,V(h))})}),te=function(e){var t,r=W.test(e.nodeName),n=r&&(e[a](o.sizesAttr)||e[a]("sizes")),s="auto"==n;(!s&&d||!r||!e.src&&!e.srcset||e.complete||m(e,o.errorClass))&&(t=w(e,"lazyunveilread").detail,s&&S.updateElem(e,!0,e.offsetWidth),e._lazyRace=!0,D++,ee(e,t,s,n,r))},oe=function(){if(!d){if(n.now()-x<999)return void c(oe,999);var e=R(function(){o.loadMode=3,G()});d=!0,o.loadMode=3,G(),l("scroll",function(){3==o.loadMode&&(o.loadMode=2),e()},!0)}};return{_:function(){x=n.now(),s=t.getElementsByClassName(o.lazyClass),u=t.getElementsByClassName(o.lazyClass+" "+o.preloadClass),P=o.hFac,l("scroll",G,!0),l("resize",G,!0),e.MutationObserver?new MutationObserver(G).observe(r,{childList:!0,subtree:!0,attributes:!0}):(r[i]("DOMNodeInserted",G,!0),r[i]("DOMAttrModified",G,!0),setInterval(G,999)),l("hashchange",G,!0),["focus","mouseover","click","load","transitionend","animationend","webkitAnimationEnd"].forEach(function(e){t[i](e,G,!0)}),/d$|^c/.test(t.readyState)?oe():(l("load",oe),t[i]("DOMContentLoaded",G),c(oe,2e4)),s.length?Y():G()},checkElems:G,unveil:te}}(),S=function(){var e,r=E(function(e,t,o,r){var n,s,i;if(e._lazysizesWidth=r,r+="px",e.setAttribute("sizes",r),f.test(t.nodeName||""))for(n=t.getElementsByTagName("source"),s=0,i=n.length;s<i;s++)n[s].setAttribute("sizes",r);o.detail.dataAttr||C(e,o.detail)}),n=function(e,t,o){var n,s=e.parentNode;s&&(o=x(e,s,o),n=w(e,"lazybeforesizes",{width:o,dataAttr:!!t}),n.defaultPrevented||(o=n.detail.width,o&&o!==e._lazysizesWidth&&r(e,s,n,o)))},s=function(){var t,o=e.length;if(o)for(t=0;t<o;t++)n(e[t])},i=R(s);return{_:function(){e=t.getElementsByClassName(o.autosizesClass),l("resize",i)},checkElems:i,updateElem:n}}(),A=function(){A.i||(A.i=!0,S._(),j._())};return function(){var t,r={lazyClass:"lazyload",loadedClass:"lazyloaded",loadingClass:"lazyloading",preloadClass:"lazypreload",errorClass:"lazyerror",autosizesClass:"lazyautosizes",srcAttr:"data-src",srcsetAttr:"data-srcset",sizesAttr:"data-sizes",minSize:40,customMedia:{},init:!0,expFactor:1.5,hFac:.8,loadMode:2};o=e.lazySizesConfig||e.lazysizesConfig||{};for(t in r)t in o||(o[t]=r[t]);e.lazySizesConfig=o,c(function(){o.init&&A()})}(),{cfg:o,autoSizer:S,loader:j,init:A,uP:C,aC:v,rC:y,hC:m,fire:w,gW:x,rAF:z}}}),function(){var e=function(e,t){return function(){return e.apply(t,arguments)}};window.log=function(){if("undefined"!=typeof console&&null!==console)return console.log.apply(console,arguments)},window.BootLoader=function(){function t(){this.fetch=e(this.fetch,this),this.runSequenceIfReady=e(this.runSequenceIfReady,this),this.updateResourceState=e(this.updateResourceState,this),this.run=e(this.run,this),this.sequence=e(this.sequence,this),this.resource=e(this.resource,this),this.resource("dom",!1),document.addEventListener("DOMContentLoaded",function(){return bootLoader.updateResourceState("dom",!0)})}return t.prototype.sequences={},t.prototype.resources={},t.prototype.resource=function(e,t){return t===!1||null!=t&&"undefined"!==t||error("URL for "+e+" is not defined - try deleting tmp/cache/assets if assets changed recently?"),this.resources[e]={id:e,url:t}},t.prototype.sequence=function(e,t,o){return this.sequences[e]={id:e,required:t,handler:o}},t.prototype.run=function(){var e,t,o,r;t=this.resources,r=[];for(e in t)o=t[e],log("id",e,"resource",o),null==o&&warn("resource "+e+" is empty, maybe you need to delete JS assets"),o.url?r.push(this.fetch(o,null,function(e){return function(t){return e.updateResourceState(t.resource.id,t.responseText)}}(this))):r.push(void 0);return r},t.prototype.updateResourceState=function(e,t){var o,r,n,s,i;this.resources[e]||(this.resources[e]={id:e}),n=this.resources[e],this.resources[e].state=t,r=this.sequences,s=[];for(o in r)i=r[o],s.push(this.runSequenceIfReady(i));return s},t.prototype.runSequenceIfReady=function(e){var t,o,r,n,s;if(e.ran)return!1;for(t=0,n=e.required,o=0,r=n.length;o<r;o++)s=n[o],null==(this.resources[s]||{}).state&&null==(this.sequences[s]||{}).ran||t++;return t===e.required.length?(e.ran=!0,e.handler()):void 0},t.prototype.fetch=function(e,t,o,r){var n;return null==r&&(r=0),r>=3?void error("Giving up on fetch of "+e):(n=new XMLHttpRequest,n.resource=e,n.open("GET",e.url,!0),t&&n.setxhruestHeader("If-None-Match",t),n.onreadystatechange=function(s){return function(){var i;if(4===n.readyState)return 200===n.status||304===n.status?o(n):(i=1e3*Math.pow(2,r),warn("trying "+e.url+" again in "+i+"ms"),U.delay(i,function(){return s.fetch(e,t,o,r+1)}))}}(this),n.send(null),n)},t}(),window.bootLoader=new BootLoader}.call(this),window.project_assets={"app.js":"https://player.fm/assets/app-622e42de82d69aeb99634e089a4cebc4ce359a5c74c0b58f336f6c1b85dedaab.js","minimal-user.js":"https://player.fm/assets/minimal-user-770939b6088e7367f806070df50bf7034072bba7f37e25ad3f24194e88c04b2a.js","roles/admin.js":"https://player.fm/assets/roles/admin-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.js","roles/manager.js":"https://player.fm/assets/roles/manager-618410f97029ae73749cb7a444baffeca76e771140afb23942aff58856dcf162.js","roles/trusted.js":"https://player.fm/assets/roles/trusted-5b1b8e5ed9d488b9ae5f5b4f8bf2829f8eaac92fd627450baba32286ed49221a.js","roles/admin.css":"https://player.fm/assets/roles/admin-d46fca5a4dac6ddcbcf1000b68d7636f8a9b709c2d57b1f0a9a4a0e2e4b83a70.css","roles/manager.css":"https://player.fm/assets/roles/manager-fdbf78ca57fd3762d7accb0c8bb068f1c628fc0644dfb31c6f162bfa5ac3304a.css","roles/trusted.css":"https://player.fm/assets/roles/trusted-28cda46fccdf55f617297a6a86b3390b562697a3192e5e5bf106ee4764b92619.css"},window.asset_path=function(e){return window.project_assets[e]},function(){var e,t,o;if("development"===playerfm.env){t=window.project_assets;for(e in t)o=t[e],window.project_assets[e]=o.replace(/\-[^-]+\./,".")}}.call(this),function(){}.call(this),function(){window.U={present:function(e){return!U.blank(e)},assetURL:function(e){return""+asset_path(e)},delay:function(e,t){return setTimeout(t,e)},el:function(e){return document.querySelector(e)},removeEl:function(e){var t;if(t=document.querySelector(e))return t.remove()},addStyle:function(e,t,o){var r,n;return null==o&&(o={}),n="util-style-"+e,r=U.el("#"+n),r||(r=document.createElement("style"),r.setAttribute("id",n),o["transient"]&&r.setAttribute("class","transient"),document.head.appendChild(r)),r.textContent=t},removeStyle:function(e){return U.removeEl("#util-style-"+e)},viewportWidth:function(){return Math.max(document.documentElement.clientWidth,window.innerWidth||0)},cleanImage:function(e){var t,o,r,n,s,i;for(n=e.parentNode,s=n.childNodes,i=[],t=0,o=s.length;t<o;t++)r=s[t],r&&r!==e?i.push(n.removeChild(r)):i.push(void 0);return i},log:function(e,t){if(window.logging="true"===U.getParameterByName("logging")||"development"===playerfm.env,"undefined"!=typeof console&&null!==console&&console&&window.logging)return console[e].apply(console,t)},getParameterByName:function(e){var t,o;return e=e.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]"),t=new RegExp("[\\?&]"+e+"=([^&#]*)"),o=t.exec(location.search),null==o?"":decodeURIComponent(o[1].replace(/\+/g," "))}},["log","debug","info","warn","trace","error"].forEach(function(e){return window[e]=function(){return U.log(e,Array.prototype.slice.call(arguments,0))}})}.call(this),function(){window.boot=bootLoader,boot.resource("footerBoot",!1),boot.resource("minimalUserJSON",api.minimalUserURL),boot.resource("minimalUserScript",U.assetURL("minimal-user.js")),boot.resource("fullUserJSON",api.fullUserURL),boot.resource("appScript",U.assetURL("app.js")),boot.sequence("minimalUser",["footerBoot","minimalUserJSON","minimalUserScript"],function(){var e;return window.eval(boot.resources.minimalUserScript.state),e=boot.resources.minimalUserJSON.state,window.currentUser=new User(JSON.parse(e)),memberRedirecter.onUserReceived(),userDOMUpdater.update()}),boot.sequence("app",["minimalUser","minimalUserScript","fullUserJSON","appScript","dom"],function(){var e;return window.eval(boot.resources.appScript.state),radio("currentUser").durable().subscribe(function(){return userDOMUpdater.update()}),e=boot.resources.fullUserJSON.state,userSyncer.sync({userJSON:e}),ajaxy.onScriptsLoaded()}),boot.run()}.call(this);var cssua=function(e,t,o){"use strict";var r=" ua-",n=/\s*([\-\w ]+)[\s\/\:]([\d_]+\b(?:[\-\._\/]\w+)*)/,s=/([\w\-\.]+[\s\/][v]?[\d_]+\b(?:[\-\._\/]\w+)*)/g,i=/\b(?:(blackberry\w*|bb10)|(rim tablet os))(?:\/(\d+\.\d+(?:\.\w+)*))?/,a=/\bsilk-accelerated=true\b/,l=/\bfluidapp\b/,c=/(\bwindows\b|\bmacintosh\b|\blinux\b|\bunix\b)/,u=/(\bandroid\b|\bipad\b|\bipod\b|\bwindows phone\b|\bwpdesktop\b|\bxblwp7\b|\bzunewp7\b|\bwindows ce\b|\bblackberry\w*|\bbb10\b|\brim tablet os\b|\bmeego|\bwebos\b|\bpalm|\bsymbian|\bj2me\b|\bdocomo\b|\bpda\b|\bchtml\b|\bmidp\b|\bcldc\b|\w*?mobile\w*?|\w*?phone\w*?)/,d=/(\bxbox\b|\bplaystation\b|\bnintendo\s+\w+)/,f={parse:function(e,t){var o={};if(t&&(o.standalone=t),e=(""+e).toLowerCase(),!e)return o;for(var r,f,p=e.split(/[()]/),h=0,b=p.length;h<b;h++)if(h%2){var m=p[h].split(";");for(r=0,f=m.length;r<f;r++)if(n.exec(m[r])){var v=RegExp.$1.split(" ").join("_"),y=RegExp.$2;(!o[v]||parseFloat(o[v])<parseFloat(y))&&(o[v]=y)}}else{var g=p[h].match(s);if(g)for(r=0,f=g.length;r<f;r++){var w=g[r].split(/[\/\s]+/);w.length&&"mozilla"!==w[0]&&(o[w[0].split(" ").join("_")]=w.slice(1).join("-"))}}if(u.exec(e))o.mobile=RegExp.$1,i.exec(e)&&(delete o[o.mobile],o.blackberry=o.version||RegExp.$3||RegExp.$2||RegExp.$1,RegExp.$1?o.mobile="blackberry":"0.0.1"===o.version&&(o.blackberry="7.1.0.0"));else if(c.exec(e))o.desktop=RegExp.$1;else if(d.exec(e)){o.game=RegExp.$1;var C=o.game.split(" ").join("_");o.version&&!o[C]&&(o[C]=o.version)}return o.intel_mac_os_x?(o.mac_os_x=o.intel_mac_os_x.split("_").join("."),delete o.intel_mac_os_x):o.cpu_iphone_os?(o.ios=o.cpu_iphone_os.split("_").join("."),delete o.cpu_iphone_os):o.cpu_os?(o.ios=o.cpu_os.split("_").join("."),delete o.cpu_os):"iphone"!==o.mobile||o.ios||(o.ios="1"),o.opera&&o.version?(o.opera=o.version,delete o.blackberry):a.exec(e)?o.silk_accelerated=!0:l.exec(e)&&(o.fluidapp=o.version),o.applewebkit?(o.webkit=o.applewebkit,delete o.applewebkit,o.opr&&(o.opera=o.opr,delete o.opr,delete o.chrome),o.safari&&(o.chrome||o.crios||o.opera||o.silk||o.fluidapp||o.phantomjs||o.mobile&&!o.ios?delete o.safari:o.version&&!o.rim_tablet_os?o.safari=o.version:o.safari={419:"2.0.4",417:"2.0.3",416:"2.0.2",412:"2.0",312:"1.3",125:"1.2",85:"1.0"}[parseInt(o.safari,10)]||o.safari)):o.msie||o.trident?(o.opera||(o.ie=o.msie||o.rv),delete o.msie,o.windows_phone_os?(o.windows_phone=o.windows_phone_os,delete o.windows_phone_os):"wpdesktop"!==o.mobile&&"xblwp7"!==o.mobile&&"zunewp7"!==o.mobile||(o.mobile="windows desktop",o.windows_phone=+o.ie<9?"7.0":+o.ie<10?"7.5":"8.0",delete o.windows_nt)):(o.gecko||o.firefox)&&(o.gecko=o.rv),o.rv&&delete o.rv,o.version&&delete o.version,o},format:function(e){function t(e,t){e=e.split(".").join("-");var o=r+e;if("string"==typeof t){t=t.split(" ").join("_").split(".").join("-");for(var n=t.indexOf("-");n>0;)o+=r+e+"-"+t.substring(0,n),n=t.indexOf("-",n+1);o+=r+e+"-"+t}return o}var o="";for(var n in e)n&&e.hasOwnProperty(n)&&(o+=t(n,e[n]));return o},encode:function(e){var t="";for(var o in e)o&&e.hasOwnProperty(o)&&(t&&(t+="&"),t+=encodeURIComponent(o)+"="+encodeURIComponent(e[o]));return t}};f.userAgent=f.ua=f.parse(t,o);var p=f.format(f.ua)+" js";return e.className?e.className=e.className.replace(/\bno-js\b/g,"")+p:e.className=p.substr(1),f}(document.documentElement,navigator.userAgent,navigator.standalone);!function(e){"use strict";function t(){this.nodes=[],this.eqsLength=0,this.widths=[],this.points=[],this.callback=void 0}function o(e,t,o){e.addEventListener?e.addEventListener(t,o,!1):e.attachEvent("on"+t,function(){return o.call(e,window.event)})}function r(e){return window.getComputedStyle(e,":before").getPropertyValue("content").slice(1,-1)}var n=function(e,t){return[].slice.call(e).concat([].slice.call(t))};t.prototype.query=function(t,o){var n,s=Object.getPrototypeOf(e);o&&"function"==typeof o&&(s.callback=o),t&&"number"!=typeof t?n=t.length:(t=s.nodes,n=s.nodesLength);var i,a=[],l=[];for(i=0;n>i;i++){var c=t[i].getBoundingClientRect(),u=c.width;void 0===u&&(u=c.right-c.left),a.push(u);try{l.push(s.sortObj(t[i].getAttribute("data-eq-pts")))}catch(e){try{l.push(s.sortObj(r(t[i])))}catch(e){l.push([{key:"",value:0}])}}}s.widths=a,s.points=l,t&&"number"!=typeof t?s.nodeWrites(t,a,l):o&&"function"!=typeof o?s.nodeWrites():window.requestAnimationFrame(s.nodeWrites)},t.prototype.nodeWrites=function(t){var o,r,n,s,i,a,l,c=Object.getPrototypeOf(e),u=c.widths,d=c.points;for(t&&"number"!=typeof t?s=t.length:(t=c.nodes,s=c.nodesLength),o=0;s>o;o++){var f=u[o],p=t[o],h=d[o],b=[],m=h.length;if(f<h[0].value)l=null;else if(f>=h[m-1].value){for(n=0;m>n;n++)b.push(h[n].key);l=b.join(" ")}else for(r=0;m>r;r++){var v=h[r],y=h[r+1];if(b.push(v.key),0===r&&f<v.value){l=null;break}if(void 0!==y&&void 0===y.value){b.push(y.key),l=b.join(" ");break}if(f>=v.value&&f<y.value){l=b.join(" ");break}}null===l?p.removeAttribute("data-eq-state"):p.setAttribute("data-eq-state",l),a=new CustomEvent("eqResize",{detail:l,bubbles:!0}),p.dispatchEvent(a)}c.callback&&(i=c.callback,c.callback=void 0,i(t))},t.prototype.refreshNodes=function(){var t=Object.getPrototypeOf(e),o=[];t.nodes=document.querySelectorAll("[data-eq-pts]"),o=r(document.querySelector("html")).split(", "),o.forEach(function(e){""!==e&&(t.nodes=n(t.nodes,document.querySelectorAll(e)))}),t.nodesLength=t.nodes.length},t.prototype.sortObj=function(e){for(var t=[],o=e.split(","),r=0;r<o.length;r++){var n=o[r].split(":");t.push({key:n[0].replace(/^\s+|\s+$/g,""),value:parseFloat(n[1])})}return t.sort(function(e,t){return e.value-t.value})},t.prototype.definePts=function(e,t){return t=t?t:{},t=JSON.stringify(t),t=t.substring(1,t.length-1),t=t.replace(/:/g,": "),t=t.replace(/,/g,", "),t=t.replace(/"/g,""),e.setAttribute("data-eq-pts",t),t},t.prototype.all=function(t){var o=Object.getPrototypeOf(e),r=!!t;o.refreshNodes(),r?o.query(void 0,t):window.requestAnimationFrame(o.query)},e=e||new t,o(window,"DOMContentLoaded",function(){e.all(!1)}),o(window,"load",function(){e.all(!0)}),o(window,"resize",function(){e.all(!0)}),"undefined"!=typeof module&&module.exports?module.exports=e:"function"==typeof define&&define.amd?define("eqjs",function(){return e}):window.eqjs=e}(window.eqjs),function(){var e;e=function(){function e(){}return e.prototype.tooLightForWhiteText=function(e){return this.perceivedBrightness(e)>200},e.prototype.shadeColor=function(e,t){var o,r,n,s,i,a;return a=t<0?0:255,s=t<0?t*-1:t,i=this.rgbArray(e),n=i[0],r=i[1],o=i[2],"#"+(16777216+65536*(Math.round((a-n)*s)+n)+256*(Math.round((a-r)*s)+r)+(Math.round((a-o)*s)+o)).toString(16).slice(1)},e.prototype.perceivedBrightness=function(e){var t,o,r,n;return n=this.rgbArray(e),r=n[0],o=n[1],t=n[2],(299*r+587*o+114*t)/1e3},e.prototype.rgbArray=function(e){var t,o;return t=parseInt(e.slice(1),16),o=[t>>16,t>>8&255,255&t]},e}(),window.colorUtil=new e}.call(this),function(){var e=[].indexOf||function(e){for(var t=0,o=this.length;t<o;t++)if(t in this&&this[t]===e)return t;return-1};e.call(Element.prototype,"remove")<0&&(Element.prototype.remove=function(){if(this.parentNode)return this.parentNode.removeChild(this)})}.call(this),function(){var e,t=function(e,t){return function(){return e.apply(t,arguments)}};window.PRIMARY_RED="#D81422",e=colorUtil,window.Theme=function(){function o(o){this.themeColor=o,this.apply=t(this.apply,this),this.css=t(this.css,this),this.calculateColors=t(this.calculateColors,this),document.documentElement.classList.contains("part-bleed")||(this.themeColor||(this.themeColor=PRIMARY_RED),e.tooLightForWhiteText(this.themeColor)&&(this.themeColor=e.shadeColor(this.themeColor,-.15)),this.calculateColors())}return o.prototype.calculateColors=function(){return this.hoverColor=e.shadeColor(this.themeColor,-.3),this.textColor=e.shadeColor(this.themeColor,.993),this.cardHoverColor=e.shadeColor(this.themeColor,.9),this.quickNavColor=e.shadeColor(this.themeColor,-.2),this.quickAllColor=e.shadeColor(this.themeColor,.3)},o.prototype.css=function(){return".top, nav.top .search-control .popover a.selected, .text-list-popover-control + .popover.bottom a:hover { background-color: "+this.themeColor+"; color: "+this.textColor+"; }\n.top[data-popover-is-open='false'] .quick-nav-row { background-color: "+this.quickNavColor+"; color: "+this.textColor+"; }\ncurrent-page-marker:after { background-color: "+this.textColor+"; }\n.search-input input.query { border-color: "+this.textColor+"; }\n.records-list.pseudolinks-list .micro:hover { background-color: "+this.cardHoverColor+" !important; }\n.top { box-shadow: 0 0.2em 0.2em rgba(35, 22, 22, 0.5); }"},o.prototype.apply=function(){return U.el('meta[name="theme-color"]').setAttribute("content",this.themeColor||PRIMARY_RED),"transparent"===this.themeColor?U.removeStyle("page-theme"):U.addStyle("page-theme",this.css())},o}()}.call(this),function(){var e,t=function(e,t){return function(){return e.apply(t,arguments)}};e=function(){function e(){this.setup=t(this.setup,this)}return e.prototype.setup=function(){var e;return e=null!=cssua.ua.mobile?"":"no-",document.documentElement.classList.add(e+"touch")},e}(),(new e).setup()}.call(this);
+</script>
+<link rel="stylesheet" media="screen" href="https://player.fm/assets/app-2fbb95d17fa3eb05634af5053d03a374f5bf33f838ae3bf9c3cb4c0f723a0f99.css">
+<meta charset="utf-8">
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="Player FM" name="author">
+<meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+<meta content="292059804171098" property="fb:app_id">
+<link href="/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="apple-touch-icon-precomposed" href="https://player.fm/assets/logos/v3/apple-touch-icon-precomposed-2ae4a784af9f17bec82ee8ec801c0b3efd8c9c6dca50b0f5228170d7d31be3bf.png">
+<link rel="apple-touch-icon-precomposed" size="72x72" href="https://player.fm/assets/logos/v3/icon72x72-464199da83d1300ad3fa0e84b10fdeb3a54d46bfe7377672402ba8f73f65f3a5.png">
+<link rel="apple-touch-icon-precomposed" size="76x76" href="https://player.fm/assets/logos/v3/icon76x76-d38cb4ee1a0642edc9ae76ced20189e70e1e376c58c58785bd621713a0605e33.png">
+<link rel="apple-touch-icon-precomposed" size="114x114" href="https://player.fm/assets/logos/v3/icon114x114-dc4ae0d327f50008736607b4b8c05a1cf3d5b5dde6d94ddb161e65ffde3edaa4.png">
+<link rel="apple-touch-icon-precomposed" size="120x120" href="https://player.fm/assets/logos/v3/icon120x120-62c08f345d0ac93714eef780bc647e7b5eb7c1f648eb141f59162fb8404ff44d.png">
+<link rel="apple-touch-icon-precomposed" size="144x144" href="https://player.fm/assets/logos/v3/icon144x144-ec0f3737afbade2917f3cc97aff99eb0130332b17fcdb04691ff9104173d501e.png">
+<link rel="apple-touch-icon-precomposed" size="152x152" href="https://player.fm/assets/logos/v3/icon152x152-c6a2cee14a2c6007d15c3a5a9908bd22495bb12f8fd962127cd2bd48ac8c9965.png">
+<link rel="apple-touch-icon-precomposed" size="180x180" href="https://player.fm/assets/logos/v3/icon180x180-3d4fb22c2f5d09c8f1725379e5385dcef82ebfc0267441eb465849a50c396e5a.png">
+<title>Privacy</title>
+<meta content="Player FM is a cloud podcast player helping you find great shows" name="description">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="iodJyIrftloh8F4Hi0BmTmvTF+oeNNwrrWoCWzUdmKMqbsk26ZwgZXQYKo+70dB3gAuO8r2KrweKKzGkQuIJyg==">
+
+</head>
+<body>
+<nav class="top" data-data-menu-is-open="false" data-popover-is-open="false">
+<div class="page-load-progress"></div>
+<div class="container">
+<div class="top-main-row row">
+<div class="col-md-12 mobile-padded">
+<div class="top-main">
+<section class="top-side top-left">
+<a data-remote="true" data-type="html" href="/">
+<img src="https://player.fm/assets/logos/playerfm-logo-32x32-7997850a076ef11aafac4844abf97f3a975c86a76810d6a4643889273be4341e.png" alt="Playerfm logo 32x32">
+<i class="icon-player-fm-logo-text when-fat inlined"></i>
+</a>
+<span class="plan-name"></span>
+</section>
+
+<section class="top-mid"><div class="top-mid-controls when-member"><div class="inlined"><a class="discovery-control expandable control btn btn-danger" data-remote="true" data-type="html" href="/discovery" id="discovery-link"><span class="expando">▾</span>
+<span class="text-label when-fat">
+Discover
+<div class="expansion-pointer"></div>
+</span>
+<span class="when-thin icon-label">
+<i class="fa fa-star"></i>
+<div class="expansion-pointer"></div>
+</span></a><a class="subscriptions-control expandable control btn btn-danger" data-remote="true" data-type="html" href="/subs" id="subscriptions-link"><span class="expando">▾</span>
+<span class="text-label when-fat">
+Subscriptions
+<div class="expansion-pointer"></div>
+</span>
+<span class="when-thin icon-label">
+<i class="fa fa-home"></i>
+<div class="expansion-pointer"></div>
+</span></a><a class="playlists-control expandable inlined-block control btn btn-danger" data-remote="true" data-type="html" href="/play-later" id="playlists-link"><span class="expando">▾</span>
+<span class="text-label when-fat">
+Playlists
+<div class="expansion-pointer"></div>
+</span>
+<span class="when-thin icon-label">
+<i class="fa fa-thumb-tack"></i>
+<div class="expansion-pointer"></div>
+</span></a></div><div class="top-expansion-wrapper"></div></div><div class="top-mid-controls when-guest"><div class="inlined"><a class="discovery-control expandable control btn btn-danger" data-remote="true" data-type="html" href="/featured/topics" id="discovery-link"><span class="expando">▾</span>
+<span class="text-label">
+Discover
+<div class="expansion-pointer"></div>
+</span>
+</a><span class="btn btn-danger text-label launch-signup control launches-connect" data-handled="true">
+<span>Signup</span>
+</span>
+<span class="btn btn-danger text-label launch-login control launches-connect" data-handled="true">
+<span>Login</span>
+</span></div><div class="top-expansion-wrapper"></div></div></section>
+
+<section class="top-side top-right">
+<a class="search-control icon-label text-list-popover-control control btn btn-danger" href="#" title="Search">
+<i class="fa fa-search"></i>
+<div class="search-input">
+<input class="query">
+<span class="cancel">×</span>
 </div>
+</a>
+<div class="menu-launcher control btn btn-danger icon-label inline-blocked">
+<i class="fa fa-bars"></i>
+<div class="menu">
+<div class="tail">&nbsp;</div>
+<a class="user-settings when-member" data-type="html" data-remote="true" href="/users/edit_current"><i class="fa fa-gear"></i> Settings</a>
+<a class="user-profile when-member" data-type="html" data-remote="true" href="/profile"><i class="fa fa-user"></i> Profile</a>
+<a target="_blank" href="/faq"><i class="fa fa-info"></i> Help/FAQ</a>
+<a data-type="html" data-remote="true" href="/legal"><i class="fa fa-handshake-o"></i> Terms of use</a>
+<a data-type="html" data-remote="true" href="/contact"><i class="fa fa-comments"></i> Contact</a>
+<a class="when-member logout-link" data-type="html" data-remote="true" rel="nofollow" data-method="delete" href="/users/sign_out"><i class="fa fa-power-off"></i> Logout</a>
+</div>
+</div>
+</section>
+
+</div>
+</div>
+</div>
+<div class="search-popover-fixed-template template">
+<a class="full-search-option selected" data-remote="true" href="#">Search&nbsp;<span class="query">a title or topic</span></a>
+</div>
+
+</div>
+</nav>
+
+<div class="base-overlay"></div>
+<div class="main">
 <div class="page privacy page privacy" data-page="privacy"><div class="small-page-heading small-page-heading page-heading"><div class="container"><div class="row row"><a href="/privacy" data-remote="true" data-type="html" class="h1">Privacy Policy</a></div></div></div>
 <div class="page-body container page-body container"><div class="row"><h4>General</h4>
 
@@ -136,4 +259,362 @@ BN3 6HA
 </pre>
 
 </div></div></div>
+</div>
+<div class="sidebar"></div>
+<div class="miniplayer-wrapper">
+<div class="miniplayer episode">
+<div class="progress-wrapper">
+<div class="progress"></div>
+</div>
+<a class="thumb" data-remote="true" href="#">
+<img src="">
+</a>
+<span class="play-controls">
+<div class="playpause">
+<div class="left-divider"></div>
+<button class="control pause jp-pause"><i class="fa fa-pause"></i></button>
+<button class="control play jp-play"><i class="fa fa-play"></i></button>
+</div>
+<div class="main-controls">
+<div class="left-divider"></div>
+<span class="control-pair skipping-pair">
+<button class="control fast-backward jp-fast-backward"><i class="fa fa-fast-backward"></i></button>
+<button class="control fast-forward jp-fast-forward"><i class="fa fa-fast-forward"></i></button>
+</span>
+<span class="control-pair jumping-pair">
+<button class="control backward "><i class="fa fa-backward"></i></button>
+<button class="control forward "><i class="fa fa-forward"></i></button>
+</span>
+<span class="overflow">
+<span class="control"><i class="fa fa-ellipsis-h"></i></span>
+<div class="miniplayer-overflow">
+<div class="tail"></div>
+<section class="settings">
+<div class="tabs">
+<div class="global-tab tab active" data-tab="global">
+<div class="title">Speed</div>
+</div>
+<div class="series-tab tab" data-tab="series">
+<div class="title"><i class="fa fa-check-circle"></i> Series preference</div>
+</div>
+</div>
+<div class="panes">
+<div class="active global-pane incrementable pane speed">
+<div class="dec"><i class="fa fa-minus"></i></div>
+<div class="inc"><i class="fa fa-plus"></i></div>
+<div class="current">
+<i class="fa fa-tachometer"></i>
+<span class="val">1</span><span>x</span></div>
+</div>
+
+<div class="incrementable pane series-pane speed">
+<div class="dec"><i class="fa fa-minus"></i></div>
+<div class="inc"><i class="fa fa-plus"></i></div>
+<div class="current">
+<i class="fa fa-tachometer"></i>
+<span class="val">1</span><span>x</span></div>
+</div>
+
+</div>
+</section>
+<section class="volume">
+<div class="tabs">
+<div class="volume tab active">
+<div class="title">Volume</div>
+</div>
+</div>
+<div class="volume incrementable pane active">
+<div class="dec"><i class="fa fa-minus"></i></div>
+<div class="inc"><i class="fa fa-plus"></i></div>
+<div class="current">
+<i class="fa fa-volume-up volume-on"></i>
+<i class="fa fa-volume-off volume-off"></i>
+<span class="val">100%</span>
+</div>
+</div>
+</section>
+<section class="actions">
+<span class="add-bookmark action" title="Add to bookmark"><i class="fa fa-bookmark-o"></i></span>
+<span class="add-to-playlist action" title="Add to playlist"><i class="fa fa-list"></i></span>
+<span class="mark-played action" title="Add to playlist">
+<i class="fa fa-check"></i>
+<i class="fa fa-forward"></i>
+</span>
+</section>
+</div>
+
+</span>
+</div>
+<span class="time-wrapper">
+<div class="left-divider"></div>
+<span class="time">
+<span class="time-elapsed"></span>
+<span class="time-divider">/</span>
+<span class="time-remaining"></span>
+</span>
+</span>
+</span>
+<span class="link info" href="/docs/seek_problem"><i class="fa fa-info-sign"></i></span>
+
+<div class="title">
+<a class="current-series-link" data-remote="true" href="#"></a>
+<br>
+<a class="current-episode-link" data-remote="true" href="#"></a>
+</div>
+</div>
+</div>
+
+<div class="popup-menu-wrapper">
+<div class="popup-menu"></div>
+</div>
+
+<script type="x-template" id="subscriptionTemplate">
+  <div class='btns'></div>
+  <div class='channel-chooser'></div>
+</script>
+
+<script type="x-template" id="guestSubscriptionTemplate">
+  <div class='when-before-action subscribe btn btn-default iconized'>
+    <span class='btn-label'><i class="fa fa-plus"></i><span class='action'><span class='when-small action'>Sub</span><span class='when-medium-or-big action'>Subscribe</span></span></span>
+  </div>
+  <div class='launches-connect when-hovered subscribe btn btn-default iconized' title='Signup or log in to build your own customized channel'>
+    <span class='btn-label'><i class="fa fa-key"></i><span class='action'>Sign Up</span></span>
+  </div>
+</script>
+
+<script type="x-template" id="subscribedButtonsTemplate">
+  <div class='when-after-action btn btn-info'><i class="fa fa-check"></i><span class='action'>Now subscribed</span></div>
+  <div class='when-before-action btn btn-subscribed'><i class="fa fa-check"></i><span class='when-small action'>Sub</span><span class='when-medium-or-big action'>Subscribed</span></div>
+  <div class='when-hovered unsubscribe btn btn-subscription-hovered iconized' title='Remove <%= seriesTitle %> from <%= currentUser.primeChannel.title %>'>
+    <% if (currentUser.subscriptionChannels.length > 1) { %>
+        <div class='choose-channel'><i class="fa fa-chevron-down"></i></div>
+    <% } %>
+        <span class='btn-label'><i class="fa fa-times"></i><span class='action'>Remove</span></span>
+  </div>
+</script>
+
+<script type="x-template" id="unsubscribedButtonsTemplate">
+  <div class='when-after-action btn btn-default'>Now unsubscribed</div>
+  <div class='when-before-action subscribe btn btn-default iconized'>
+    <% if (currentUser.subscriptionChannels.length > 1) { %>
+        <div class='choose-channel'><i class="fa fa-chevron-down"></i></div>
+    <% } %>
+    <span class='btn-label'><i class="fa fa-plus"></i><i class="fa fa-exclamation-sign"></i><span class='when-small action'>Sub</span><span class='when-medium-or-big action'>Subscribe</span></span>
+  </div>
+  <div class='when-hovered subscribe btn iconized btn-subscription-hovered' title='Add <%= seriesTitle %> to <%= currentUser.primeChannel.title %>'>
+    <% if (currentUser.subscriptionChannels.length > 1) { %>
+        <div class='choose-channel'><i class="fa fa-chevron-down"></i></div>
+    <% } %>
+  <span class='btn-label'><i class="fa fa-plus"></i><i class="fa fa-exclamation-sign"></i><span class='action'><span class='when-small action'>Sub</span><span class='when-medium-or-big action'>Subscribe</span></span></span>
+  </div>
+</script>
+
+<script type="x-template" id="channelChooserTemplate">
+  <div class='channels'>
+    <% _(channels).each(function(channel) { %>
+      <div class='channel-option' data-id='<%= channel.id %>'><%= channel.title %></div>
+    <% }); %>
+  </div>
+</script>
+
+<script type="x-template" id="unfavoritedTemplate">
+  <span class='when-before-action'><i class="fa fa-star-o"></i><span class='prompt'>Favorite</span></span>
+  <span class='when-hovered when-left-aligned'><i class="fa fa-star-o"></i><span class='prompt'>Favorite</span></span>
+  <span class='when-hovered when-right-aligned'><span class='prompt'>Favorite</span> <i class='fa fa-star-o pseudobutton'></i></span>
+</script>
+
+<script type="x-template" id="favoritedTemplate">
+  <span class='when-before-action'><i class="fa fa-star"></i><span class='prompt'>Favorited</span></span>
+  <span class='when-hovered when-left-aligned'><i class='fa fa-star pseudobutton'></i><span class='prompt'>Favorited</span></span>
+  <span class='when-hovered when-right-aligned'><span class='prompt'>Favorite</span><i class='fa fa-star pseudobutton'></i></span>
+</script>
+
+<script type="x-template" id="guestStarredTemplate">
+  <span class='when-before-action'><i class="fa fa-star-o"></i><span class='prompt'>Favorite</span></span>
+  <span class='when-hovered when-left-aligned'><i class='fa fa-star-o pseudobutton'></i><span class='prompt' data->Signup to favorite</span></span>
+  <span class='when-hovered when-right-aligned'><span class='prompt'>Signup to favorite</span><i class='fa fa-star-o pseudobutton'></i></span>
+</script>
+
+<script type="x-template" id="channelListTemplate">
+  <% if (typeof(title)!='undefined') { %>
+    <h3><%= title %></h3>
+  <% } %>
+  <% if (channels.length) { %>
+    <div class='channelList inlined'>
+      <% _(channels).each(function(channel) { %>
+        <div class='channel mini article with-link data-id='<%= channel.id %>'>
+          <a href='/<%= channel.owner.name %>/<%= channel.slug %>' data-remote='true' data-type='html' class='link channel-title'><%= channel.title.replace(' ','&nbsp;') %></a>
+        </div>
+      <% }); %>
+    </div>
+  <% } else if (typeof(emptyMessage)!='undefined') { %>
+    <%= "<p>" + emptyMessage + "</p>" %>
+  <% } %>
+</script>
+
+<script type="x-template" id="pretend404Template">
+  <div class='container'><div class='row'><div class='col-md-12'><p>&nbsp;</p><div class='card'>
+    <h2>Page Not Found</h2>
+    <p>
+      Sorry, an error occurred on our end. We've logged the error and we'll look into it.
+    </p>
+    <p>
+      <a class='blatant history-back' href="<%= currentURL %>" data-type='html' data-remote='true'>Back to previous page</a>
+    </p>
+    <p>
+      <a class='blatant' href="/" data-type='html' data-remote='true'>Player FM Home</a>
+    </p>
+  </div></div></div></div>
+</script>
+
+<script class="template" id="miniloginRootTemplate" type="x-template">
+<div class='minilogin-root'>
+<div class='signup-prompt when-minilogin-is-for-new'>
+<%= typeof(signupPrompt)!='undefined' ? signupPrompt : '' %>
+</div>
+<div class='login-prompt when-minilogin-is-for-existing'>
+<%= typeof(loginPrompt)!='undefined' ? loginPrompt : '' %>
+</div>
+<div class='google connect btn btn-block btn-social btn-google'>
+<span class='connect-icon'>
+<img class="fa" src="https://player.fm/assets/social-icons/login/google-login-2016-babbdf3b633a028be99e61c9334dc1e79e652322cecfce64838f5f07c6e57a56.svg" alt="Google login 2016" />
+</span>
+<span class='label'>Connect with Google</span>
+</div>
+<div class='twitter connect btn btn-block btn-social btn-twitter'>
+<span class='connect-icon fa fa-twitter'></span>
+<span class='label'>Connect with Twitter</span>
+</div>
+<div class='classic connect btn btn-block btn-social btn-envelope-o'>
+<span class='connect-icon fa fa-envelope-o'></span>
+<span class='label'>Connect with password</span>
+</div>
+</div>
+</script>
+<script class="template" id="socialConnectingTemplate" type="x-template">
+<h3>Connecting to <%= socialNetwork %> &hellip;</h3>
+<div class='social-connecting'>
+<p>
+Please open the popup window. You might need to first allow your browser to pop up windows from this site.
+</p>
+<br>
+</div>
+</script>
+<script class="template" id="classicLoginTemplate" type="x-template">
+<div class='header-title'>Sign up via email and password</div>
+<form data-new-action="/users" data-existing-action="/users/sign_in" novalidate="novalidate" class="simple_form user" enctype="multipart/form-data" action="/users" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MvI3/dSvQVpiloUPTRviJe5hOZsqbpuIh4pxRVmwD7IBzMGM5BxlOy+VlTG49NyObo97OBsiY3k68w/5o+Wwqw==" /><div class='error general-errors'></div>
+<section>
+<div class="form-group email required user_login"><label class="control-label email required login-label email" for="user_login"><abbr title="required">*</abbr> Email</label><input class="form-control string email required" tabindex="2" type="email" name="user[login]" id="user_login" /></div>
+<div class="form-group password required user_password"><label class="control-label password required" for="user_password"><abbr title="required">*</abbr> Password</label><input value="" class="form-control password required" tabindex="2" type="password" name="user[password]" id="user_password" /></div>
+</section>
+<div class='submission'>
+<button name="button" type="submit" tabindex="4" class="btn btn-danger"><i class="fa fa-play"></i> Let's Play!
+</button></div>
+<div class='aux-links'>
+<a target="_blank" class="pseudolink blatant when-existing-user" href="/users/password/new">Forgot password?</a>
+<div class='when-minilogin-is-for-new'>
+<span class='pseudolink underlined switch-newness' data-requested-newness='false'>Switch to login</span>
+</div>
+<div class='when-minilogin-is-for-existing'>
+<span class='pseudolink underlined switch-newness' data-requested-newness='true'>Switch to signup</span>
+if you're new to Player FM
+</div>
+</div>
+</form></script>
+<script class="template" id="loggingInTemplate" type="x-template">
+<h3>Logging in to Player FM &hellip;</h3>
+<p>&nbsp;</p>
+</script>
+<script class="template" id="socialLoginErrorTemplate" type="x-template">
+<h3>Login Problem</h3>
+<p>Sorry about this. There was an unexpected error logging in. Please try later.</p>
+</script>
+<script class="template" id="closeButtonFooterTemplate" type="x-template">
+<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+</script>
+<div class="preload">
+<img src="https://player.fm/assets/social-icons/login/google-login-02d279ec6bbf27adc3bfdba5fc0942b9b721aa8a024f556c1a649123df98ecf4.gif" alt="Google login">
+<img src="https://player.fm/assets/social-icons/login/twitter-login-26b2465120583c823c81c8a87f93748b902d8809a93a4b7602e84b5cc42b8d55.gif" alt="Twitter login">
+<img src="https://player.fm/assets/social-icons/login/classic-login-210ec635cc1a706c1592e1ca62e88ec339ef274bea3e38ca1ca68ebbd87c4abc.gif" alt="Classic login">
+</div>
+
+<script type="x-template" id="super-channeller-modal-body">
+<div class='sub-channel' id='<%= subChannel.id %>'>
+  <% _(superChannels).chain().sortBy(function(c) { return } ).each(function(superchan) { %>
+    <% inclusion = superchan.findInclusion(subChannel.id) %>
+    <div class='super-channel <%= inclusion ? 'included' : '' %>' id='<%= superchan.id %>'>
+
+      <h4>
+        <% checkedStr = inclusion ? 'checked=checked' : '' %>
+        <input type='checkbox' class='inclusion' <%= checkedStr %> />
+        <label class='title'><%= superchan.title %></label>
+      </h4>
+
+      <div class='properties'>
+        <span class='property'>
+          <label>Public:</label>
+          <input type='checkbox' class='publicSubChannel' <%= inclusion && inclusion.publicSubChannel ? 'checked' : ''%>/>
+        </span>
+        <span class='property'>
+          <label>Content source:</label>
+          <input type='checkbox' class='contentSource' <%= inclusion && inclusion.contentSource ? 'checked' : ''%> />
+        </span>
+      </div>
+
+    </div>
+
+  <% }); %>
+</div>
+</script>
+
+<script id="searchSuggestionsTemplate" type="x-template">
+<% if (series.length) { %>
+  <h5>Series</h5>
+  <% _(series).each(function(series) { %>
+    <a class='series' data-remote='true' href="/series/<%= series.id %>?readable_path=true">
+      <!-- <img src='<%= api.seriesImageURL(series.imageBaseURL, 32)  %>' /> -->
+      <span class='title'><%= series.title %></span>
+    </a>
+  <% }) %>
+<% } %>
+
+<% if (episodes.length) { %>
+  <h5>Episodes</h5>
+  <% _(episodes).each(function(episode) { %>
+    <a class='episode' data-remote='true' href="/episodes/<%= episode.id %>?readable_path=true">
+      <!-- <img src='<%= api.seriesImageURL(episode.imageBaseURL, 32)  %>' /> -->
+      <span class='title'><%= episode.title %></span>
+    </a>
+  <% }) %>
+<% } %>
+
+<% if (series.length + episodes.length == 0) { %>
+  <div class='no-results'><i class='fa fa-ban'></i>Sorry, no results</div>
+<% } %>
+</script>
+
+
+<script>
+  (function(){var e,t=function(e,t){return function(){return e.apply(t,arguments)}};e=function(){function e(){this.onUserReceived=t(this.onUserReceived,this),this.setMemberContentShown(null!=localStorage.currentUser)}return e.prototype.setMemberContentShown=function(e){var t,n;if(null==e&&(e=!0),(n=U.el(".redirecting-to-member"))&&(n.style.display=e?"flex":"none"),t=U.el(".page.for-guest"))return t.style.display=e?"none":"block"},e.prototype.onUserReceived=function(){var e;if(e=document.querySelector(".redirecting-to-member.page"))return User.currentlyMember()?(this.setMemberContentShown(!0),window.redirecting||(document.location.href=e.getAttribute("data-member-url").replace(":username",currentUser.name)),window.redirecting=!0):this.setMemberContentShown(!1)},e}(),window.memberRedirecter=new e}).call(this),window.boot.updateResourceState("footerBoot",!0);
+</script>
+
+
+<script>window.___gcfg = { parsetags: 'explicit' };</script>
+<script src="https://apis.google.com/js/client:platform.js?onload=prepareSharing" async="" defer=""></script>
+<script>
+  (function(f,b){if(!b.__SV){var a,e,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" "); for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=f.createElement("script");a.type="text/javascript";a.async=!0;a.src="//cdn.mxpnl.com/libs/mixpanel-2.2.min.js";e=f.getElementsByTagName("script")[0];e.parentNode.insertBefore(a,e)}})(document,window.mixpanel||[]); mixpanel.init("edbc4e8da95e1b6a25cfe85407e2f969");
+  
+  var frame = document.createElement('iframe');
+  frame.style.display = 'none';
+  frame.src = 'https://www.subtome.com/register-no-ui.html?name=Player%20FM&url=http%3A%2F%2Fplayer.fm%2Fseries%3Furl%3D%7Bfeed%7D%26referrer%3D%7Burl%7D%26related_feeds%3D%7Bfeeds%7D';
+  document.body.appendChild(frame);
+</script><iframe src="https://www.subtome.com/register-no-ui.html?name=Player%20FM&amp;url=http%3A%2F%2Fplayer.fm%2Fseries%3Furl%3D%7Bfeed%7D%26referrer%3D%7Burl%7D%26related_feeds%3D%7Bfeeds%7D" style="display: none;"></iframe>
+
+
+<script class="flashes" type="x-flashes">
+{}
+</script>
+<script id="IntercomSettingsScriptTag">window.intercomSettings = {"created_at":1325376000,"user_id":0,"user_hash":"099c2893df54eb8be580c9b39779d5fd8030ce289eb6dd925ed3701feef2ffc8","app_id":"bqm10q34"};(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/bqm10q34';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}};})()</script>
+
+
 </body></html>
