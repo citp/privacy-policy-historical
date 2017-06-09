@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224084617id_/http%3A//www.cutmirchi.com/welcome/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutmirchi.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609074050id_/http%3A//www.cutmirchi.com/welcome/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Cutmirchi.com
 
----  
-  
-  
-_**What information do we collect? :**_  
-
+**What information do we collect? :**
 
   * Cut Mirchi currently not asking any signup to user to submit their links. Now it is open to all users. Every Link will be reviewed before approval. 
   
@@ -14,8 +10,9 @@ _**What information do we collect? :**_
   * We record IP address, Cookie information for providing better services. 
   
 
-_**What do we use your information for? :**_  
 
+
+**What do we use your information for? :**
 
   * Any of the information we collect from you may be used in one of the following ways 
   
@@ -26,8 +23,9 @@ _**What do we use your information for? :**_
   * * To improve our website(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
   
 
-_**Do we disclose any information to outside parties?:**_  
 
+
+**Do we disclose any information to outside parties?:**
 
   * We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. 
 
@@ -35,8 +33,9 @@ We may also release your information when we believe release is appropriate to c
 
   
 
-_**Cookies & 3rd Party Advertisements : **_  
 
+
+**Cookies & 3rd Party Advertisements : **
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
@@ -44,8 +43,9 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
   
 
-_**Third party links**_  
 
+
+**Third party links**
 
   * Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.   
 
