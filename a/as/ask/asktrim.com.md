@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121003627id_/http%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asktrim.com privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609045412id_/http%3A//www.asktrim.com/privacy) for the most accurate reproduction.*
 
-# Trim: Find And Cancel Your Subscriptions
+# Trim: An Assistant That Saves You Money
 
 Last updated: 10/18/2016
 
