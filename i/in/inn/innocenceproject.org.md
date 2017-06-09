@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120182042id_/http%3A//www.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609134800id_/http%3A//www.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Innocence Project Innocence Project
+# Privacy Policy - Innocence Project
 
 **Innocence Project Privacy Policy**
 
