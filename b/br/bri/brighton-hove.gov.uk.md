@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205013341id_/http%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brighton-hove.gov.uk privacy policy that was archived on 2017-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170609213304id_/http%3A//www.brighton-hove.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | Brighton & Hove City Council
 
@@ -8,15 +8,15 @@ We know this information is important to our residents and we take our responsib
 
 This page tells you how Brighton & Hove City Council uses your personal information.
 
-For full details of our policies and guidelines, and to make a request for information, please check [our Data Protection page](https://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998).
+For full details of our policies and guidelines, and to make a request for information, please check [our Data Protection page](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998).
 
 ## Cookies on our website
 
-We use [cookies](https://www.brighton-hove.gov.uk/content/about-website/cookies-our-website) to gather information about how our website is used to help us maintain and develop our services. For example we monitor what pages and links are most popular.
+We use [cookies](http://www.brighton-hove.gov.uk/content/about-website/cookies-our-website) to gather information about how our website is used to help us maintain and develop our services. For example we monitor what pages and links are most popular.
 
 ## Requesting your data
 
-If you wish to request your own personal data via a Subject Access Request (SAR) please visit [our data protection page](https://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998). Further information on the Data Protection Act may be found on the [Information Commissioner's Office (ICO) Website. ](http://www.ico.org.uk/ " This link will open in a new browser window - opens in a new browser window")
+If you wish to request your own personal data via a Subject Access Request (SAR) please visit [our data protection page](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/data-protection-act-1998). Further information on the Data Protection Act may be found on the [Information Commissioner's Office (ICO) Website. ](http://www.ico.org.uk/ " This link will open in a new browser window - opens in a new browser window")
 
 ## Your personal data
 
@@ -70,8 +70,8 @@ The Electoral Register for Brighton & Hove is a separate legal entity from the c
 
 ## Related information
 
-  * [Statement of ownership](https://www.brighton-hove.gov.uk/content/about-website/statement-ownership)
-  * [Freedom of information](https://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/freedom-information)
-  * [External links disclaimer](https://www.brighton-hove.gov.uk/content/about-website/external-links-disclaimer)
+  * [Statement of ownership](http://www.brighton-hove.gov.uk/content/about-website/statement-ownership)
+  * [Freedom of information](http://www.brighton-hove.gov.uk/content/council-and-democracy/about-your-council/freedom-information)
+  * [External links disclaimer](http://www.brighton-hove.gov.uk/content/about-website/external-links-disclaimer)
 
 
