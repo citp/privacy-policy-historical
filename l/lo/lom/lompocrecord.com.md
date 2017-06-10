@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205115015id_/http%3A//lompocrecord.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lompocrecord.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610023707id_/http%3A//lompocrecord.com/privacy) for the most accurate reproduction.*
 
 # Privacy | lompocrecord.com
 
@@ -99,7 +99,7 @@ We may disclose personal information if we or one of our affiliated companies is
 
  **Your California Privacy Rights**
 
-California Civil Code Section 1798.83 allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either or Lompoc Record, 3200 Skyway Drive, Santa Maria, CA 93455, Attn: Marketing Department, and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty days of receipt.
+California Civil Code Section 1798.83 allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. To make such a request, please contact us at either or Lompoc Record, 322 N. H Street, Suite F, Lompoc , CA 93436, Attn: Marketing Department, and include your name and the address to which you would like us to respond. We will attempt to provide you with the requested information within thirty days of receipt.
 
  **A Final Note:**
 
