@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedramacool.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231411id_/http%3A//www.thedramacool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedramacool.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611003028id_/http%3A//www.thedramacool.com/privacy) for the most accurate reproduction.*
 
 # Privacy - The DramaCool
 
