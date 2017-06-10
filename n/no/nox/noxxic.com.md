@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noxxic.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015938id_/http%3A//www.noxxic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noxxic.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610161903id_/http%3A//www.noxxic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Noxxic
 
