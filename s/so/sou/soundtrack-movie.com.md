@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundtrack-movie.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130105938id_/http%3A//soundtrack-movie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundtrack-movie.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610075734id_/http%3A//soundtrack-movie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
