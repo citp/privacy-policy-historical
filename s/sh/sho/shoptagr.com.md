@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptagr.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122050400id_/http%3A//www.shoptagr.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptagr.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610104045id_/https%3A//www.shoptagr.com/legal/privacy) for the most accurate reproduction.*
 
 # Shoptagr | Privacy
 
