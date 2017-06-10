@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012071009id_/http%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time4learning.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610184200id_/https%3A//www.time4learning.com/curriculum/privacy.html) for the most accurate reproduction.*
 
 # Time4Learning Privacy Policy | Time4Learning
 
 ## Updated: July, 2016
 
-At Time4Learning, we consider children’s safety to be all-important. Our website, [www.Time4Learning.com](http://www.time4learning.com/), is designed to comply with state and federal regulations enacted to protect the privacy of children and ensure the security and confidentiality of student data, including, but not limited to, the [Children’s Online Privacy Protection Act (“COPPA”)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). The following Privacy Policy describes our policies and procedures relating to the use of our site, our commitment to privacy, and the access and use of data.
+At Time4Learning, we consider children’s safety to be all-important. Our website, [www.Time4Learning.com](https://www.time4learning.com/), is designed to comply with state and federal regulations enacted to protect the privacy of children and ensure the security and confidentiality of student data, including, but not limited to, the [Children’s Online Privacy Protection Act (“COPPA”)](https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule). The following Privacy Policy describes our policies and procedures relating to the use of our site, our commitment to privacy, and the access and use of data.
 
 ### Introduction
 
