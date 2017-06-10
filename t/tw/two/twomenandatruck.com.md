@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024225336id_/https%3A//twomenandatruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610123228id_/https%3A//twomenandatruck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TWO MEN AND A TRUCK
 
