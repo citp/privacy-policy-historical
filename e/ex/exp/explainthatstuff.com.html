@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the explainthatstuff.com privacy policy that was archived on 2016-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219162914id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the explainthatstuff.com privacy policy that was archived on 2017-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170610061058id_/http%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
   <link rel="stylesheet" title="default stylesheet" media="screen" type="text/css" href="http://cdn4.explainthatstuff.com/ets2.css">
@@ -18,7 +18,18 @@ explainthatstuff.com on July 29, 2015), released under GNU General Public Licens
     window.cookieconsent_options = {"message":"We use cookies to make this site work smoothly. Our partners use them for advertising and social media. By using our site, you agree to this.","dismiss":"OK!","learnMore":"More info","link":"http://www.explainthatstuff.com/privacy.html","theme":"light-bottom"};
 </script>
 
-<script type="text/javascript" src="http://cdn4.explainthatstuff.com/cookieconsent3.latest.min.js"></script>
+<script type="text/javascript">
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "http://cdn4.explainthatstuff.com/cookieconsent3.latest.min.js";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
 <!-- End Cookie Consent plugin -->
 </head>
 
@@ -268,7 +279,7 @@ using our <a href="cform.php">email</a> form.</p>
 </div>
 
 <div class="cc"><p><span class="highlight">Please do NOT copy our articles onto blogs and other websites</span></p>
-<p>Text copyright © Chris Woodford 2006, 2015. All rights reserved. <a href="copyright-and-legal-notices.html">Full copyright notice and terms of use</a>.</p>
+<p>Text copyright © Chris Woodford 2006, 2016. All rights reserved. <a href="copyright-and-legal-notices.html">Full copyright notice and terms of use</a>.</p>
 
 </div>
 
@@ -279,7 +290,7 @@ using our <a href="cform.php">email</a> form.</p>
 <li class="inline2"><a rel="publisher" href="https://plus.google.com/115402323314399894520" target="_blank" title="Follow us on Google+"><img class="sprite shr9" alt="Google+" src="http://cdn4.explainthatstuff.com/dot.gif"></a></li>
 <li class="inline2"><a href="rss.xml" target="_blank" title="Subscribe to our RSS feed"><img class="sprite shr10" alt="RSS" src="http://cdn4.explainthatstuff.com/dot.gif"></a></li>
 <li class="inline2"><a href="http://www.flickr.com/photos/explainthatstuff" target="_blank" title="Find our photos on Flickr"><img class="sprite shr11" alt="Flickr" src="http://cdn4.explainthatstuff.com/dot.gif"></a></li>
-<li class="inline2"><a href="http://www.pinterest.com/explainthatstuf/" title="Follow us on Pinterest" target="_blank"><img class="sprite shr12" alt="Follow us on Pinterest" src="http://cdn4.explainthatstuff.com/dot.gif"></a></li>
+<!-- old ptr social  -->
 </ul>
 </div>
 
@@ -333,4 +344,4 @@ using our <a href="cform.php">email</a> form.</p>
 
 
 
-</body></html>
+<script src="http://cdn4.explainthatstuff.com/cookieconsent3.latest.min.js"></script></body></html>
