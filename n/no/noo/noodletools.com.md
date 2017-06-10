@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134048id_/http%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noodletools.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610131032id_/http%3A//www.noodletools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NoodleTools
 
