@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshfromflorida.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220140002id_/http%3A//www.freshfromflorida.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshfromflorida.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610031111id_/http%3A//www.freshfromflorida.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - Florida Department of Agriculture & Consumer Services
 
@@ -10,4 +10,4 @@ In addition, information is only gathered regarding the volume and timing of acc
 
 If you choose to share personal information, such as by subscribing to an e-newsletter, sending a message, or filling out an electronic form with personal information, the information will be used by the department for only the reasons you authorize. Some of this information may be saved for a designated period of time in order to comply with the state of Florida's archiving policies. Information will not be disclosed to third parties or other government agencies, unless required by state or federal law.
 
-If you have other questions about our privacy policies, or have suggestions on how these policies can be improved, please feel free to [contact our webmaster](https://web.archive.org/Archives/Folders-Content-Web-Pages/Contact-Webmaster), or contact us by telephone at (850) 245-5600.
+If you have other questions about our privacy policies, or have suggestions on how these policies can be improved, please feel free to  [contact us](https://web.archive.org/Contact-Us/).
