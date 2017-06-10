@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123230018id_/http%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazilianbikinishop.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610031143id_/http%3A//www.brazilianbikinishop.com/en/viewpage/terms-and-conditions-41.html) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -9,7 +9,7 @@ We are registered in Antibes, France under company number RCS 509778270 and with
 
 **Customer Service** :  
 You can contact us by email at info@brazilianbikinishop.com,   
-by telephone on (786) 224-0188 - Monday to Friday from 2 PM to 23h PM (Paris Time zone)
+by telephone on +1 786 329 5591 - Monday to Friday from 2 PM to 23h PM (Paris Time zone)
 
 ### **2\. YOUR PERSONAL INFORMATION**
 
@@ -177,4 +177,4 @@ At any stage you also have the right to ask us to stop using your personal data 
 ### **Our contact details**
 
 We welcome your feedback and questions. If you wish to contact us, please send an email to  
-info@brazilianbikinishop.com or or call us on (786) 224-0188
+info@brazilianbikinishop.com or or call us on +1 786 329 5591
