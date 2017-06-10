@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabetesjournals.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125175416id_/http%3A//www.diabetesjournals.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesjournals.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610043635id_/http%3A//www.diabetesjournals.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Diabetes Association
 
@@ -63,8 +63,9 @@ The journal websites of the American Diabetes Association are not intended for c
 Parents and legal guardians are encouraged to contact the American Diabetes Association at any time regarding privacy questions or concern. We will take steps to ensure that any person contacting us for a child's information is that child's parent or guardian.
 
 American Diabetes Association  
-1701 N, Beauregard Street  
-Alexandria, VA 22311  
+2451 Crystal Drive  
+Suite 900  
+Arlington, VA 22202  
 ATTN: Customer Service Center  
 Phone: (703) 549-1500  
 Email: [privacy@diabetes.org](mailto:privacy@diabetes.org)
@@ -82,8 +83,9 @@ Here are the options for changing and modifying information previously provided.
 Email [privacy@diabetes.org](mailto:privacy@diabetes.org) or send a letter to:
 
 American Diabetes Association  
-1701 N. Beauregard Street   
-Alexandria, VA 22311   
+2451 Crystal Drive  
+Suite 900  
+Arlington, VA 22202   
 ATTN: Customer Service Center
 
 #### 9\. Tell Us What You Think
@@ -91,8 +93,9 @@ ATTN: Customer Service Center
 The American Diabetes Association welcomes your questions and comments about this privacy statement, about the practices of the Association, and about your dealings with this Web site. Please send email to [privacy@diabetes.org](mailto:privacy@diabetes.org), or write to:
 
 American Diabetes Association  
-1701 N. Beauregard Street  
-Alexandria, VA 22311  
+2451 Crystal Drive  
+Suite 900  
+Arlington, VA 22202   
 ATTN: Digital Marketing
 
 **Last Reviewed:** September 18, 2015  
