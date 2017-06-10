@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pse.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225072152id_/http%3A//pse.com/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pse.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610095035id_/http%3A//pse.com/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Puget Sound Energy Privacy Policy
 
