@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202062329id_/http%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakingbeauty.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610193907id_/http%3A//www.bakingbeauty.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Baking Beauty
 
