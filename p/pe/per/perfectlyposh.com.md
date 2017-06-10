@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectlyposh.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011121222id_/https%3A//www.perfectlyposh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectlyposh.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610073514id_/https%3A//www.perfectlyposh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perfectly Posh
 
@@ -141,7 +141,6 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 [https://perfectlyposh.com](https://perfectlyposh.com/)  
-PO Box 26816  
 Salt Lake City, Utah 84126  
 United States  
 [support@perfectlyposh.com](mailto:support@perfectlyposh.com)  
