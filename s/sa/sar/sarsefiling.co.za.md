@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarsefiling.co.za privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041323id_/http%3A//www.sarsefiling.co.za/PrivacyPolicyPage.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarsefiling.co.za privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610123049id_/http%3A//www.sarsefiling.co.za/PrivacyPolicyPage.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
@@ -35,6 +35,6 @@
 
 
 
-Please see the complete [Terms and Conditions by clicking here.](https://web.archive.org/web/20161119041323id_/http%3A//www.sarsefiling.co.za/TermsCondtions.aspx)
+Please see the complete [Terms and Conditions by clicking here.](https://web.archive.org/web/20170610123049id_/http%3A//www.sarsefiling.co.za/TermsCondtions.aspx)
 
 All information, content and data on SARS websites and associated facilities, including but not limited to software, hyperlinks and databases, is the property of or licensed to SARS and is protected under applicable South African laws. Unauthorised usage of content and/or information is strictly prohibited. No person, business or web site may reproduce this site, contents, information or any portion thereof. 
