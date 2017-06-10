@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thickassglass.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221154624id_/https%3A//www.thickassglass.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thickassglass.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610083059id_/https%3A//www.thickassglass.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Thick Ass Glass
 
