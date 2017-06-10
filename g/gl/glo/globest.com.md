@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2016-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160727020638id_/http%3A//www.alm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610230820id_/http%3A//www.alm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - ALM
 
@@ -28,7 +28,7 @@ ALM Media, LLC (“ALM”) continues to embrace a larger digital presence in ord
 
 **PRIVACY POLICY OVERVIEW**
 
-This website is owned and operated by ALM Media, LLC (“ALM”), a Delaware limited liability company with offices at 120 Broadway, 5th Floor, New York, NY 10271. References to “ALM,” may be construed as references to ALM and its parents, subsidiaries, or divisions, including but not limited to, ALM Media Properties, LLC, ALM International, Ltd. and ALM Media Canada, Inc. This Policy applies to information collected on this website and any ALM website accessed via a user’s computer, mobile, e-reader, tablet or other device (“Device”) used to access the online services, and applications and sites affiliated with ALM products, that link to this Policy (collectively, the “Online Services”). This Policy is incorporated into and subject to the terms of use of this website (“Terms of Use”). Each time that you access or use the Online Services, you signify that you have read, understand and agree to be bound by the Terms of Use and this Policy. If you do not agree to the Terms of Use and this Policy, you must discontinue using our Online Services. 
+This website is owned and operated by ALM Media, LLC (“ALM”), a Delaware limited liability company with offices at 120 Broadway, 5th Floor, New York, NY 10271. References to “ALM,” may be construed as references to ALM and its parents, subsidiaries, or divisions, including but not limited to, ALM Media Properties, LLC, ALM International, Ltd. and ALM Media Canada, Inc. This Policy applies to information collected on this website and any ALM website accessed via a user’s computer, mobile, e-reader, tablet or other device (“Device”) used to access the online services, and applications and sites affiliated with ALM products, that link to this Policy (collectively, the “Online Services”). This Policy is incorporated into and subject to the terms of use of this website (“Terms of Use”). Each time that you access or use the Online Services, you signify that you have read, understand and agree to be bound by the Terms of Use and this Policy. If you do not agree to the Terms of Use and this Policy, you must discontinue using our Online Services.
 
 **Changes to this Privacy Statement**
 
@@ -85,7 +85,7 @@ ALM uses your personal and non-personal information that it collects from you an
 
 ALM may, on occasion, choose to share the personal information collected about users with select third parties for certain purposes, such as the following.
 
-  * **_Third Party Promotions_** _._ ALM may share your personal information with select third parties so that they may provide you with product or service offerings or promotions via email or direct mail which ALM feels may be of interest to you. Many of ALM’s subscribers find these email and direct mail promotions valuable, whether they are shopping for merchandise, taking advantage of special offers, or purchasing unique services. You may opt-out of having your personal information shared for this purpose, as described in greater detail below. 
+  * **_Third Party Promotions_** _._ ALM may share your personal information with select third parties so that they may provide you with product or service offerings or promotions via email or direct mail which ALM feels may be of interest to you. Many of ALM’s subscribers find these email and direct mail promotions valuable, whether they are shopping for merchandise, taking advantage of special offers, or purchasing unique services. You may opt-out of having your personal information shared for this purpose, as described in greater detail below.
   * **Partner Products& Services Offered on the Online Services**. If you provide personal information to third parties, such as partners, sponsors or advertisers whose services are promoted or advertised on the Online Services, you may be providing your information to both ALM and the third party. Your personal information will be subject to this Policy as well as the privacy policy and practices of such third party. ALM cannot make guarantees or warranties as to the nature of a third party’s use of your personal information.
   * **_Third Party Event Sponsors_** _._ When you register for an ALM event (including any webinars and recognition dinners) ALM may share the information you provide, such as your name, company name, postal address and email address, with third parties who are sponsoring the applicable event. You may opt-out of having such information shared for this purpose, as described in greater below.
   * **_Mobile Carriers._** If you access the Online Services through a Device or app, we may also share your information with mobile carriers, operating systems and platforms.
@@ -120,7 +120,9 @@ The laws of the State of New York shall govern any dispute, including those disp
 
 **OPTING-OUT, CORRECTIONS AND CANCELLATIONS**
 
-  * **_Email_** : Any recipient of email notices may opt out of receiving them at any time. To opt out of receiving emails, follow the unsubscribe instructions located near the bottom of each service update, newsletter or promotional email, or email your request to [customercare@alm.com](mailto:customercare@alm.com?subject=Privacy%20-%20Database%20Removal).
+    * **_Email_** : Any recipient of email notices may opt out of receiving them at any time. To opt out of receiving emails, follow the unsubscribe instructions located near the bottom of each service update, newsletter or promotional email, or email your request to [customercare@alm.com](mailto:customercare@alm.com?subject=Privacy%20-%20Database%20Removal).
+
+
 
 If you are a print subscriber and do not wish to receive email bills, renewal notices and other communications regarding your print subscriptions by email, you can email your request to [customercare@alm.com](mailto:customercare@alm.com?subject=Privacy%20-%20Database%20Removal). Please note that even if you opt out of receiving subscriber communications by email, we may continue to send you subscriber communications by direct mail.
 
@@ -137,9 +139,11 @@ If you are a print subscriber and do not wish to receive email bills, renewal no
 
 **OTHER IMPORTANT DISCLOSURES**
 
-  * **_Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)._** Under the California “Shine The Light” law, California residents may opt-out of ALM’s disclosure of personal information to third parties for their direct marketing purposes. Any California resident may choose to opt-out of the sharing of such personal information with third parties for marketing purposes at any time by directing such request to [ALMLegal@ALM.com](mailto:almlegal@alm.com?subject=Privacy%20-%20Policy).
+    * **_Your California Privacy Rights: A Notice to California Users (California Civil Code Section 1798.83)._** Under the California “Shine The Light” law, California residents may opt-out of ALM’s disclosure of personal information to third parties for their direct marketing purposes. Any California resident may choose to opt-out of the sharing of such personal information with third parties for marketing purposes at any time by directing such request to [ALMLegal@ALM.com](mailto:almlegal@alm.com?subject=Privacy%20-%20Policy).
 
-If you would like to mail your request, please direct it to: 
+
+
+If you would like to mail your request, please direct it to:
 
 ALM Media, LLC  
 Attn: Legal Department  
@@ -149,7 +153,9 @@ Email: [ALMLegal@ALM.com](mailto:almlegal@alm.com?subject=Privacy%20-%20Policy)
 
 For the avoidance of doubt, it is important to understand that this opt-out shall not prohibit any disclosures made for non-marketing purposes.
 
-  * **_Corrections/Cancellations and Questions_**. Upon your request, ALM will provide you with its record of the personal information you gave ALM at registration. For security reasons, this information will only be sent to the email address on file for the subscriber ID associated with it. With respect to corporate or law firm accounts, aggregated or individual user history may be shared with the account holder, upon request. If you have any questions about this Policy or would like ALM to correct any of your personal information, you can email your corrections to [customercare@alm.com](mailto:customercare@alm.com?subject=Personal%20Information%20Update). We will endeavor to comply with your requests as soon as reasonably possible, but changes requested of us may not be effective immediately. We are not responsible unless required by law, to inform third parties with whom we have already shared your information of any changes requested pursuant to this section. We are not responsible for removing information or causing information to be removed from the databases or records of such entities.
+    * **_Corrections/Cancellations and Questions_**. Upon your request, ALM will provide you with its record of the personal information you gave ALM at registration. For security reasons, this information will only be sent to the email address on file for the subscriber ID associated with it. With respect to corporate or law firm accounts, aggregated or individual user history may be shared with the account holder, upon request. If you have any questions about this Policy or would like ALM to correct any of your personal information, you can email your corrections to [customercare@alm.com](mailto:customercare@alm.com?subject=Personal%20Information%20Update). We will endeavor to comply with your requests as soon as reasonably possible, but changes requested of us may not be effective immediately. We are not responsible unless required by law, to inform third parties with whom we have already shared your information of any changes requested pursuant to this section. We are not responsible for removing information or causing information to be removed from the databases or records of such entities.
+
+
 
 If you would like to mail your inquiry, please direct it to:
 
@@ -160,7 +166,4 @@ New York, NY 10271
 Phone: 877-256-2472  
 Email: [customercare@alm.com](mailto:customercare@alm.com?subject=Privacy)
 
-You may also contact customer service by going to <http://www.alm.com/contact>. 
-
-
-
+You may also contact customer service by going to <http://www.alm.com/contact>.
