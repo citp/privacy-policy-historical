@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207144531id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironmountain.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610075152id_/http%3A//www.ironmountain.com/Utility/Legal/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Iron Mountain
 
@@ -10,26 +10,25 @@ Iron Mountain understands your concerns about the privacy of data you may submit
 
 ## Compliance with European Privacy Principles
 
-**EU-U.S. Privacy Shield**  
-Iron Mountain Incorporated and its United States subsidiaries - including former Recall entities - which include, but are not limited to: Iron Mountain Global, LLC., Iron Mountain Information Management, LLC, Iron Mountain Intellectual Property Management, Inc., Iron Mountain Fulfillment Services, Inc., Iron Mountain Secure Shredding, Inc., Iron Mountain Information Management Services, Inc., Fontis International, Inc. and Crozier Fine Arts comply with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, discourse, retention and destruction of personal information transferred from the European Economic Area (EEA) to the United States. Iron Mountain has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. To learn more about the Privacy Shield program, and to view our certification, please visit www.privacyshield.gov.
+**EU-U.S. and Swiss-U.S. Privacy Shields**  
+Iron Mountain Incorporated and its United States subsidiaries - including former Recall entities - which include, but are not limited to: Iron Mountain Global, LLC., Iron Mountain Information Management, LLC, Iron Mountain Intellectual Property Management, Inc., Iron Mountain Fulfillment Services, Inc., Iron Mountain Secure Shredding, Inc., Iron Mountain Information Management Services, Inc., Fontis International, Inc. and Crozier Fine Arts comply with the EU-U.S. Privacy Shield Framework and the Swiss – U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. Iron Mountain Incorporated has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/.](https://www.privacyshield.gov/)
 
 **Scope**  
-All personal data that Iron Mountain receives either as a data controller or data processor from the EEA (or accesses from the US in the EEA) will be processed pursuant to the applicable Privacy Shield Principles. However, Iron Mountain often processes customer information as data processor, without knowing the content or origin of such data. 
+All personal data that Iron Mountain receives either as a data controller or data processor from the EEA and Switzerland (or accesses from the US in the EEA or Switzerland) will be processed pursuant to the applicable Privacy Shield Principles. However, Iron Mountain often processes customer information as data processor, without knowing the content or origin of such data. 
 
 For the types of personal data and the purposes for which such data is transferred and processed, as well as the third parties with which such data may be shared, please review Iron Mountain’s Privacy Shield certification statement (https://www.privacyshield.gov/list).
 
 **Access, Recourse (Dispute Resolution), Enforcement and Liability**  
-In compliance with the Privacy Shield Principles, Iron Mountain commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact Iron Mountain at: 
-
+In compliance with the Privacy Shield Principles, Iron Mountain commits to resolve complaints about our collection or use of your personal information. European individuals with inquiries or complaints regarding our Private Shield policy should first contact Iron Mountain at:   
 Privacy & Compliance Group  
 One Federal Street  
 Boston, MA 02110, USA  
 +1 617 (617) 535-4766  
 [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com)
 
-Iron Mountain has further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the American Arbitration Association [(http://info.adr.org/safeharbor/)](http://info.adr.org/safeharbor/) for more information or to file a complaint. The services of the American Arbitration Association are provided at no cost to you.
+Iron Mountain has further committed to refer unresolved Privacy Shield complaints to the American Arbitration Association, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit the American Arbitration Association [(http://go.adr.org/privacyshield.html)](http://go.adr.org/privacyshield.html) for more information or to file a complaint. The services of the American Arbitration Association are provided at no cost to you.
 
-With regard to _**human resources data**_ transferred from the EEA in the context of the employment relationship, Iron Mountain commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities. 
+With regard to _**human resources data**_ transferred from the EEA in the context of the employment relationship, Iron Mountain commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities. With regard to such data transferred from Switzerland, Iron Mountain commits to cooperate with the Swiss Federal Data Protection and Information Commissioner’s office and comply with the advice given by such office. 
 
 Finally, under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -39,9 +38,6 @@ If a third party service provider providing services on Iron Mountain’s behalf
 
 **Required Disclosure**  
 Iron Mountain may disclose personal data in special cases to conform to legal requirements or to respond to lawful requests by public authorities, including meeting national security or law enforcement requirements or to protect and defend our rights or property.
-
-**U.S.-Swiss Safe Harbor Framework**  
-Iron Mountain also complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, discourse, retention and destruction of personal information from Switzerland. Iron Mountain has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Iron Mountain's certification, please visit [http://www.export.gov/safeharbor/.](http://www.export.gov/safeharbor/)
 
 **The information we collect.**  
 Iron Mountain collects two types of information about users of this Web site; **"Personal Information"** (including, but not limited to, your name, address, telephone number and e-mail address) and non-personally identifiable and anonymous **"Aggregate Information"** (such as information about how many users log onto our Web site). Unless you provide it to us voluntarily or the information is collected via cookies in the manner described in this notice, Iron Mountain does not collect Personal Information in connection with your use of this Web site.
@@ -134,4 +130,4 @@ Iron Mountain commits to the following:
 
 If you have any questions about our privacy notice, please contact our Chief Compliance Officer at 1-800-935-6966, ext. 8477 (if calling from within the USA) or 617 535 8477 (if calling from outside the USA) or via e-mail at [global.privacy@ironmountain.com](mailto:global.privacy@ironmountain.com) or by writing to the Director of Privacy, Iron Mountain, 1 Federal Street, Boston, MA 02110, USA.
 
-This notice was last updated December 5, 2016.
+This notice was last updated May 12, 2017.
