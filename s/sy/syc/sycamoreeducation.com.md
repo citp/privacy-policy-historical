@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sycamoreeducation.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122171507id_/http%3A//sycamoreeducation.com/wp-content/uploads/2015/01/SLS_Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sycamoreeducation.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610103405id_/http%3A//sycamoreeducation.com/wp-content/uploads/2015/01/SLS_Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # SLS
 
