@@ -1,103 +1,106 @@
-> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626121904id_/http%3A//www.ifaw.org/united-states/our-work/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610200650id_/http%3A//www.ifaw.org/united-kingdom/our-work/privacy-policy) for the most accurate reproduction.*
 
-# Website privacy statement | IFAW - International Fund for Animal Welfare
+# Privacy policy | IFAW - International Fund for Animal Welfare
 
-The International Fund for Animal Welfare (IFAW) has created this website privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.ifaw.org](http://www.ifaw.org/)
+We (the International Fund for Animal Welfare (IFAW1)) have created this Policy in order to demonstrate our commitment to preserving your privacy and safeguarding any personal details you provide to us, whether on this website or by another means. This Policy explains how we collect and use your information.
 
-This site contains links to other sites. IFAW is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**By using our website or providing us with your personal information you are agreeing to this Policy. We may update this Policy from time to time without notice to you, so please check it regularly.**
 
-**General Information Collection and Use**  
-IFAW is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We collect information from our users at several different points on our website.
+**1\. When will I need to provide my details?**
 
-**Log Files**  
-We use IP addresses to help analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+We may collect personal information (for example your name, address, date of birth, e-mail address and telephone number) from you when you:
 
-**Cookies**  
-Our site uses "cookies". A "cookie" is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our Sweepstakes, Contests or monthly Drawings that take place. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+(a) Make a donation to us,
 
-**Various Registrations**  
-In order to receive certain updates or use certain features of this website, a user may have to first complete a registration form. During registration a user is required to give their contact information (such as name and email address). This information is used to contact the user about the services on our site for which they have expressed interest. If asked for, it is optional for a user to provide demographic information (such as income level and gender), and unique identifiers (such as social security number), but encouraged so we can provide a more personalized experience on our site.
+(b) Complete an online registration or other online form;
 
-IFAW processes its donations through a third party service operated by Ingenico Payment Services. This relationship is 100% confidential and secure. After a completed donation is accepted by WorldPay's server and authorized, the credit card information is destroyed and a finalized report is sent through to IFAW. No information other than to diagnose problems with the transaction server is retained by WorldPay. WorldPay does not resell, retransmit, or retain any information about transactions or personal contact information for donors it processes on behalf of IFAW.
+(c) Subscribe to our newsletters, updates or Action Alerts;
 
-**Newsletter**  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
+(d) Participate in our advocacy campaigns;
 
-**Orders**  
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. This information is not shared or resold in any circumstance except under requirement by law or judgement.
+(e) Request information about IFAW, including our programmes and campaigns;
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+(f) Respond to our mailings, contests or prize-draws;
 
-Financial information that is collected is used to bill the user for products and services. This credit card information is destroyed after a final authorization is received by IFAW's transaction processing company.
+(g) Contact us or become involved with us in another way.
 
-Our online surveys ask visitors for contact information (like their email or mailing address). We use contact data from our surveys to send the user information about IFAW and its activities. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Other data collected by online surveys is used to educate IFAW about the interests and concerns of its supporters and general site visitors concerning IFAW's mission. This information is not shared with other organizations. IFAW operates email discussion, and contact lists to reach its members who request such information. Such services are run both by IFAW and contracted vendors. These email addresses whether housed on IFAW servers or those of our third-party contractor are never shared with any other organization and users may opt out of participating or receiving email information from IFAW at any time. Instructions are contained within each email sent as well as on our site help page.
+As part of these interactions, we may also collect additional information such as your IFAW supporter number, bank or credit card details, gift aid eligibility and information about your interests.
 
-**Sharing**  
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+We may also collect information (such as your telephone number and date of birth) from the public domain, either directly or from third parties.
 
-We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+Except where permitted by law, we will never collect sensitive personal data about you without your consent.
 
-We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services.
+**2\. Why do you need my details and how do you use them?**
 
-These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+There are different reasons why we might need your personal details – the main ones are to process your donation, to send you information that you have requested from us, to inform us about the interests and concerns of our supporters and general site visitors concerning IFAW's mission, to keep records of our contact with you, and so that we can better meet your needs.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This includes a firewall and 24 monitoring of site activities by our hosting service provider as well as 128-bit SSL encryption (where allowable by law) on all transaction oriented operations between you and IFAW via our transaction service provider.
+We may also use your personal details for planning, analysis, and other operational purposes such as supporter profiling. Where we hold your date of birth, we may use this information to inform our legacy programme.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers ' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage.
+We may also use your details to get in contact with you by post, telephone or e-mail, to keep you up to date on the work of IFAW and the ways in which you can help us in our efforts to raise vital funds.
 
-**Collection and Storage of Information for Children Under 13**  
-IFAW is committed to complying fully with the Children's Online Privacy Protection Act of 1998 (“COPPA”). We may collect and store personal information about kids under 13 if it is submitted to our Site with the parent's verifiable consent, in adherence with COPPA. To determine who is younger than 13 years old and whether parental consent is required, we may ask users to submit their date of birth.
+We also use IP addresses to help us analyse trends, administer the site, track users’ movement, and gather broad demographic information for aggregate use.
 
-Those users that indicate they are under 13 years of age must submit a parent’s e-mail address, and we will contact the parent for consent. If given permission from a parent, we may collect and store the following types of personal information about a child under 13: name, email address, mailing address, parent's or guardian's name, and parent's or guardian's email address. We do not gather personal information about a child through the use of passive collection mechanisms such as cookies. For more information on how we use cookies and other information collection tools, please see our section on cookies (provided below).
+When dealing with your personal information we will at all times comply with the Data Protection Act 1998 (“the Act”), and any other applicable legislation.
 
-The information that a child provides us may be used to: (a) allow the child to participate in activities on our site (e.g., contests); and, (b) allow us to send the child promotional materials, including information about contests, features and enhancements, special offers, and other events of interest. We may also use the information for our internal marketing and demographic studies, so that we can constantly improve the products and services we provide our visitors and to better meet their needs.
+**3\. Do you pass my details to any other organisations or individuals?**
 
-Please note that we will not condition a child's participation in an activity, such as contests, on the child's disclosure of more personal information than is reasonably necessary to participate in the activity.
+We will not sell your personal information, and we will not pass your personal information to any third parties except in the circumstances set out in this Policy.
 
-A parent who has already given us permission to collect and use his or her child's personal information can, at any time, do the following: review, correct, or have deleted the child's personal information; and/or, discontinue further collection and use of the child's personal information. To do so, please contact us at the address below and be sure to include your child's name and email address, and your name and email address.
+If you have agreed, we may share your name and address with other charities and not-for-profit organisations so that they can contact you by post for marketing purposes. This enables you to be kept informed of other interesting charitable work that you may wish to support and helps IFAW to spread its message. You can withdraw your consent for us to share your details in this way at any time by following the instructions contained in section 9 of this Policy.
 
-We urge kids to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know.
+We may allow our staff, consultants, or other providers acting on our behalf to access and use your personal information for the purposes for which you have provided it to us. If we do this, we will not give those individuals/organisations any rights to use your personal information (or to contact you) except in accordance with our instructions.
 
-IFAW currently does not disclose to third parties personally identifiable information that kids provide, except from time to time, we may transfer, disclose or share such information with third parties who may be engaged by us specifically to handle and deliver certain online activities (e.g. conducting contests and sweepstakes). Such third parties have access to personal information needed to perform their functions, but may not use it for other purposes. We may also disclose personally identifiable information to third parties in order to comply with law or requests by law enforcement agencies, to enforce our Terms and Conditions or to protect the rights, property or safety of the Site, users of the Site, and others, or as part of a sale or other disposition of our assets (including our customer records).
+We may share or disclose your personal information if we are required to do so by any law or court order.
 
-**Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support at [info@ifaw.org](mailto:info@ifaw.org "Click to open your email program.")
+**4\. How is my donation processed?**
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+Online donations are securely processed by our PCI (Payment Card Industry) compliant payment service providers. Your payment details are collected in an encrypted form (SSL Protocol). Any offline donations that you make by cheque, monthly debit or credit card are securely processed either by IFAW or our PCI compliant trusted service providers. Any credit card details provided to IFAW over the phone are retained only for as long as it takes to securely process your payment, at which point all but the last 4 digits of your card number are redacted from our records.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+**5\. Free Will Service**
 
-You can send email to [info@ifaw.org](mailto:info@ifaw.org "Click to open your email program.")
+When you sign up to receive a Free Wills Information Pack, including on the “Your caring for animals lives on” page of our website, your name and address will be passed to the National Free Wills Network so that they can send you the requested information.
 
-You can send mail to the following postal address:  
+There is no obligation to leave a gift in your Will to IFAW as part of the Free Will Service. Your Will remains confidential and we will not receive a copy, but the National Free Wills Network will let us know if you have left a gift to us so that we can inform our legacy team and send you a thank you letter.
+
+Please contact Leanne Beaton by calling 0207 587 6736 or sending an email to [lbeaton@ifaw.org](mailto:lbeaton@ifaw.org) if you would like any further information on the Service or on how your details will be used.
+
+**6\. How do you keep my information secure?**
+
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This includes a firewall and 24-hour monitoring of site activities by our hosting service provider as well as 256-bit SSL encryption (where permitted by law) on all transaction oriented operations between you and IFAW via our transaction service provider.
+
+While we use SSL encryption to protect personal information online, we also do everything in our power to protect user-information off-line.
+
+We make no representations about any other websites, and when you access any other website through a link on our website (including social media sites) you understand that it is independent from us and that we have no control over that website or the way your personal information is collected through those websites. Those websites may have their own privacy policies and we encourage you to look at those policies or contact the website operators directly to understand how your personal information is used.
+
+**7\. Where is my information stored?**
+
+The data that we collect from you will be transferred to, and stored at, our US headquarters2. The data may also be processed by staff of other IFAW entities operating outside the European Economic Area (“EEA”)3 or by one of our suppliers/vendors. By submitting your personal data, you agree to this transfer, storing or processing.
+
+**8\. How do you use cookies on the website?**
+
+Our website uses cookies. A "cookie" is a piece of data stored on the user's hard drive containing information about the user. These cookies allow us to distinguish you from other users of our website, which helps us to provide you with a good experience when you browse our website and also allows us to improve our site. The cookies we use are "analytical" cookies. They allow us to recognise and count the number of visitors and to see how visitors move around the site when they are using it. This helps us to improve the way our website works, for example by ensuring that users are finding what they are looking for easily. We also use click through and open mail tracking when our website is accessed via links in an email we have sent. This enables us to uniquely identify the device or user accessing our website. Read more about the individual cookies we use and how to recognise them by clicking [here](https://web.archive.org/united-kingdom/node/105572).
+
+**9\. What if I don’t want you to use my details anymore?**
+
+If you have provided us with your details, but decide at a later date that you no longer want to receive information from us, or if you wish to update us that your contact details have changed, simply let us know by:
+
+  * Sending an email to [info-uk@ifaw.org](mailto:info-uk@ifaw.org)  
+ 
+  * Writing to the following postal address:
+
+Supporter Relations  
 IFAW  
-290 Summer Street  
-Yarmouth Port, MA 02675
+87-90 Albert Embankment  
+London SE1 7UD
 
-You can call the following telephone number: +1 (508) 744 2000 (ask for supporter relations)
+  * Calling the following telephone number: 0207 587 6700 (and asking for Supporter Relations)
 
-**Correct/Update**  
-This site gives users the following options for changing and modifying information previously provided.
 
-Email [info@ifaw.org](mailto:info@ifaw.org "Click to open your email program.")
 
-Send mail to the following postal address:  
-IFAW  
-290 Summer Street  
-Yarmouth Port, MA 02675
+Instructions for unsubscribing from e-mails will also be included in each e-mail communication we send.
 
-Call the following telephone number: +1 (508) 744 2000 (ask for supporter services).
+1 IFAW operates through three entities in the UK: the International Fund for Animal Welfare (IFAW) (Registered Charity No. 1024806, Company No. 2701278); International Fund for Animal Welfare IFAW In Action (Company No. 1556892); and IFAW Commerce Limited (Company No. 7572366).
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+2 International Fund for Animal Welfare, Inc., 290 Summer St., Yarmouth Port, Massachusetts 02739, USA.
 
-**Supporter Services**  
-International Fund for Animal Welfare  
-290 Summer Street  
-Yarmouth Port, MA 02675  
-[info@ifaw.org](mailto:info@ifaw.org "Click to open your email program.")
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+3 These other affiliated IFAW entities are located in Australia, Canada and South Africa.
