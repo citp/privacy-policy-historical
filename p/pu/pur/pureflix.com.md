@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureflix.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084117id_/http%3A//www.pureflix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureflix.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610130033id_/http%3A//pureflix.com/privacy) for the most accurate reproduction.*
 
 # Pure Flix - PureFlix Privacy and Netiquette Policies
 
@@ -94,7 +94,7 @@ eSalt Media Technologies, LLC, through PureFlix.com and its Pure Flix service, i
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of your personal information and/or our use of cookies and other technologies, please contact us via email at [support@support.pureflix.com](mailto:support@support.pureflix.com), or at the following:
 
     eSalt Media Technologies, LLC  
-    18940 N. Pima Road, Suite 110   
+    18940 N. Pima Road, Suite 110  
     Scottsdale, AZ 85255, U.S.  
     Attention: General Counsel.
 
