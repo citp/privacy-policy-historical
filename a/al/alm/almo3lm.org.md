@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almo3lm.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130020402id_/http%3A//www.almo3lm.org/Privacy-Policy-en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almo3lm.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610082139id_/http%3A//almo3lm.org/Privacy-Policy-en.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
