@@ -1,69 +1,100 @@
-> *The following text is extracted and transformed from the socialhawkers.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326070141id_/http%3A//www.socialhawkers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialhawkers.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610022425id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy - SocialHawkers
+# Legal Agreement
 
-  This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information that we collect about you when you use our website http://www.socialhawkers.com/ (the "Site") and the other services we provide on or through the Site (together with the Site, the "Service").
+**GoDaddy Respects Your Privacy**
 
-    1\. INFORMATION YOU GIVE US.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-  a. The Types of Information SocialHawkers Collects. We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password. We may also request other information, such as but not limited to, your actual first and last name, gender, and zip code.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  b. Information in Public Areas of the Site. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for information you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  2\. AUTOMATIC INFORMATION COLLECTION.
+**Information Collection and Use**
 
-  a. Cookies. Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as the following:
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  i. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;  
-ii. the date and time you access the Site and pages you visit;  
-iii. your computer's IP address and information about its operating system, platform and the Web browser type and version you use;  
-iv. demographic and other non-personally identifiable profile information about you; and  
-v. information to combat fraud or misuse.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-    b. Collection of Information by Third Parties. Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third party cookies on your browser. Also, we use web beacons provided by third party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  The information collected by third party cookies is subject to the privacy policy of the third party, not SocialHawkers's privacy policy.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  c. Promotions, Sweepstakes, and Contests. From time to time, we may host a promotion, sweepstake, or contest on the Service. You May be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collection or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to our collection of personal information by a third party.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  3\. SocialHawkers'S USE AND RETENTION OF YOUR INFORMATION.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  Retention of Information. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  4\. SocialHawkers'S SHARING OF INFORMATION. SocialHawkers shares information with third parties, but only as described in this Section 4.
+**Security**
 
-  a. Advertisers and Others. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  b. Service Third Parties. We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer services, sending SocialHawkers email to you, removing repetitive information from customer lists, and analyzing data. These third parties have access to personal information needed to perform their functions.
+**Updating Your Information**
 
-  c. Business Transfer. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, merger, restructurings, changes or control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII is subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  d. Compliance and Safety. We may release user information when we believe release is appropriate to:
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-  i. comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;  
-ii. make disclosures under programs intended to prevent potential crimes or investigate persons;  
-iii. enforce or apply agreements, including the Terms; or  
-iv. protect the rights, property, or safety of SocialHawkers, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  5\. INFORMATION SECURITY
+      iii.      You may call us at: (480) 505-8800
 
-  a. Your Obligations. You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them - we generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.
+       iv.      You may fax us at: (480) 505-8844
 
-  b. Our Security Measures. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. HOWEVER, WE DO NOT GUARANTEE SECURITY. Neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. If applicable law imposes any non-disclaimable duty (if any), you agree that intentional misconduct will be the standards used to measure our compliance with that duty.
+**Sending Emails**
 
-  6\. LINKS. The Service contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Service.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  7\. CHOICE. We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications. However, we provide you with the opportunity to elect not to receive other types of communications, such as friend requests or the SocialHawkers of the day emails. If you want to stop receiving these communications, you may opt by going to the Profile tab on the Site and editing your email preferences.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  8\. ACCESS AND RECORD KEEPING. Information relating to our programs is not necessarily maintained in a retrievable form. However, you may make changes, corrections or updates to some PII provided through the Service which we use for communications with you, by going to the " Profile" tab on the Site. We may keep a record of all information that is changed. We  
-may determine what may be changed. For example, if we are required to keep track of certain kinds of transactions, you may be prevented from changing relevant information.
+**Compliance with Laws and Law Enforcement**
 
-  9\. CONDITIONS OF USE, NOTICES, AND REVISIONS.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-  a. Privacy Concerns. Your use of the Service and any dispute over privacy is subject to the Terms of service. If you have any concern about privacy at SocialHawkers, please send us a thorough description to support@SocialHawkers.com, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 10 below.
+**Third Party Service Providers**
 
-  b. Notice Required by Law. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with SocialHawkers at all times.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-  c. Identity Theft. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-  10\. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY. For customer service matters (including questions relating to this Policy), you may email us at support@socialhawkers.com.
+**Supplementation of Information**
+
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+
+**Contests/Surveys**
+
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
