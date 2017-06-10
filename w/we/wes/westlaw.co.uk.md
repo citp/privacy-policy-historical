@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115083631id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610124722id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Policies
 
@@ -55,7 +55,7 @@ Our products and/or websites may contain links to sites maintained by others, or
 
 
 Marketing Information Data Management  
-Friars House, 160 Blackfriars Road, London SE1 8EZ 
+5 Canada Square, Canary Wharf, London E14 5AQ
 
 Or by email at:  
 [Sweetandmaxwell.marketingdata@thomson.com](mailto:Sweetandmaxwell.marketingdata@thomson.com)
