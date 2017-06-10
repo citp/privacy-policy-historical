@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealissime.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229062242id_/https%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealissime.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610131554id_/https%3A//www.livingsocial.com/privacy_policy) for the most accurate reproduction.*
 
 # LivingSocial
 
