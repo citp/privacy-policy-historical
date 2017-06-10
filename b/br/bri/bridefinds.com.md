@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bridefinds.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601012633id_/http%3A//www.shefinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridefinds.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610025156id_/http%3A//www.shefinds.com/privacy-policy) for the most accurate reproduction.*
 
-# SHEfinds Privacy Policy | Shefinds.com Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 This policy was last updated April 2015.
 
