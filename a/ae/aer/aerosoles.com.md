@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015741id_/http%3A//www.aerosoles.com/store/jump/static/SecurityPrivacy/8600010) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerosoles.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610102912id_/http%3A//www.aerosoles.com/store/jump/static/SecurityPrivacy/8600010) for the most accurate reproduction.*
 
 # Privacy Policy | Aerosoles
 
@@ -38,7 +38,7 @@ Occasionally we make our postal mailing list available to carefully screened com
 
 Our Use of Cookies and Pixel Tags
 
-Aerosoles and our trusted service providers use cookies and pixel tags on our website and in our marketing emails to: help us recognize you when you arrive at our website; keep track of your order and preferences as you shop; analyze the performance of our advertising, promotions, marketing emails, the features of our website; or to deliver content in a format that your browser supports. We may also use cookies and pixel tags to personalize your shopping experience, speed your checkout process and improve the content of our website and emails. 
+Aerosoles and our trusted service providers use cookies and pixel tags on our website and in our marketing emails to: help us recognize you when you arrive at our website; keep track of your order and preferences as you shop; analyze the performance of our advertising, promotions, marketing emails, the features of our website; or to deliver content in a format that your browser supports. We may also use cookies and pixel tags to personalize your shopping experience, speed your checkout process and improve the content of our website and emails. In addition, we may use technologies, such as our own cookies, to provide you with personalized online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, [click here](http://dtmc.aerosoles.com/adinfo/choice/prod/?type=fpc&cid=61672&cname=Aerosoles&cmagic=dede3d&clogo=61672.png&loc=us&lang=en-us)
 
 Cookies are small, removable data files stored by your web browser on your computer’s hard drive. Accepting cookies through your web browser is your personal choice. However, since cookies are used to remember the items you add to your shopping bag, if you choose to not accept cookies you will not be able to complete an order on our website. 
 
@@ -50,7 +50,7 @@ Service Providers: We provide information to trusted service providers that we c
 
 Third-Party Offers: Occasionally we make our postal mailing list available to carefully screened companies whose products or services may be of interest to you. If you prefer not to receive such mailings, just [contact us](https://web.archive.org/store/jump/static/Contact-Us/8600020). We do NOT share email addresses or telephone numbers for any third-party offers. 
 
-Online Behavioral Advertising: We may share anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes. Such cookies do not contain personally identifiable information. If you would like to opt out of online behavioral advertising, you may do so here: <http://www.aboutads.info/choices>. 
+Online Behavioral Advertising: We may share anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes. Such cookies do not contain personally identifiable information. If you would like to opt out of online behavioral advertising from our third party service providers, you may do so here: <http://www.aboutads.info/choices>. 
 
 Aggregate Information: We share the aggregate, statistical information about our site and customers with other outside companies that we contract with to help us manage or measure the performance of our site, our advertising, promotions, and identify which pages, products, offers, website features and services our customers and visitors prefer. This aggregated information does not include individual names or any personally identifiable data. 
 
