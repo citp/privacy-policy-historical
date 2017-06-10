@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bigfatpurse.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126023615id_/http%3A//www.bigfatpurse.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfatpurse.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610045037id_/https%3A//www.drwealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Dr Wealth
 
-This Privacy Policy governs the manner in which Big Fat Purse collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.bigfatpurse.com website (“Site”).
+This Privacy Policy governs the manner in which DrWealth collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.drwealth.com website (“Site”).
 
-This privacy policy applies to the Site and all products and services offered by Big Fat Purse.
+This privacy policy applies to the Site and all products and services offered by DrWealth.
 
 **Personal identification informa** **tion**
 
@@ -26,7 +26,7 @@ Users may opt out of the use of the DoubleClick cookie for interest-based advert
 
 **How we use collected information**
 
-Big Fat Purse may collect and use Users personal information for the following purposes:
+DrWealth may collect and use Users personal information for the following purposes:
 
   * To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
@@ -53,15 +53,15 @@ Users may find advertising or other content on our Site that link to the sites a
 
 #### Remarketing and Retargeting
 
-This website uses the Google AdWords Remarketing Service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to Big Fat Purse’s website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+This website uses the Google AdWords Remarketing Service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to DrWealth’s website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
 
-You can set preferences for how Google advertises to you using the [Google Ad Preferences page](https://www.google.com/settings/ads/onweb/), and if you want to you can  
-[opt out of interest-based advertising entirely by cookie settings](https://www.google.com/settings/ads/onweb/) or  
-[permanently using a browser plugin](https://www.google.com/ads/preferences/html/intl/en/plugin/).
+You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can  
+[opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or  
+[permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/).
 
 **Changes to this privacy policy**
 
-Big Fat Purse has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+DrWealth has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**
 
@@ -69,4 +69,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 **Contacting us**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please[contact us here](http://www.bigfatpurse.com/contact/)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us here](https://www.drwealth.com/contact/)
