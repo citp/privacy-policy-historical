@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovoo.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216125728id_/http%3A//static.lovoo.net/legal/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovoo.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610143213id_/http%3A//static.lovoo.net/legal/en) for the most accurate reproduction.*
 
 # Privacy
 
