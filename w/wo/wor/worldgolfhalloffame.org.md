@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldgolfhalloffame.org privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922045326id_/http%3A//www.worldgolfhalloffame.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgolfhalloffame.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610082010id_/http%3A//www.worldgolfhalloffame.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
