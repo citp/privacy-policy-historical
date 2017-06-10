@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209234016id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610115713id_/http%3A//www.ultimatesoftware.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ultimate Software Human Resource Systems
 
 ## Purpose
 
-This document establishes The Ultimate Software Group, Inc. (“Ultimate Software”) Privacy Policy. This document is in accordance to ISO/IEC 27001:2013 and establishes Control A18.1.4 – Privacy and Protection of Personally Identifiable Information and ISO/IEC 27018:2014 and establishes applicable controls in Annex A – Public cloud PII processor extended control set for PII protection.
+This document establishes The Ultimate Software Group, Inc. (“Ultimate Software”) Privacy Policy. This document is in accordance to ISO/IEC 27001:2013 and establishes Control A18.1.4 – Privacy and Protection of Personally Identifiable Information and ISO/IEC 27018:2014 and establishes applicable controls in Annex A – Public cloud PII processor extended control set for PII protection. 
 
 ## Scope
 
-This Privacy Policy applies to all Personally Identifiable Information (PII) received by Ultimate Software from its customers, employees, website visitors and job applicants (including its Subsidiaries) (each which may be individually referred to herein as “you” or “your”) in any format including electronic, paper, or verbal. For purposes of this Policy, “PII” means any information collected by Ultimate Software that identifies or could be used by Ultimate Software to identify an individual. As a subset of the larger group listed herein above, Ultimate Software processes information of employees of its customers under the direction of its customers and has no direct relationship with such customers’ employees whose personal data it may process on the customer’s behalf.
-
-## Privacy Policy
+This Privacy Policy applies to all Personally Identifiable Information (PII) received by Ultimate Software from its customers, employees, website visitors and job applicants (including its Subsidiaries) (each which may be individually referred to herein as “you” or “your”) in any format including electronic, paper, or verbal. For purposes of this Policy, “PII” means any information collected by Ultimate Software that identifies or could be used by Ultimate Software to identify an individual. As a subset of the larger group listed herein above, Ultimate Software processes information of employees of its customers under the direction of its customers and has no direct relationship with such customers’ employees whose personal data it may process on the customer’s behalf. 
 
 Ultimate Software respects the privacy of our customers, employees, website visitors, and job applicants. We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of Personally Identifiable Information (PII) you provide to us. This Privacy Policy sets forth the privacy principles Ultimate Software follows with respect to your Personal Information. 
 
@@ -22,21 +20,17 @@ Ultimate Software’s privacy practices, described in this Privacy Policy, compl
 
 ## Privacy Shield
 
-Ultimate Software participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Ultimate Software is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List.](https://www.privacyshield.gov/list "Privacy Shield Framework")
+Ultimate Software participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Ultimate Software is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, respectively, in reliance on the applicable Privacy Shield Framework, to that Framework’s Principles. To learn more about the Privacy Shield Frameworks, visit the U.S. Department of Commerce’s [Privacy Shield List.](https://www.privacyshield.gov/list "Privacy Shield Framework")
 
-Ultimate Software is responsible for the processing of personal data, defined as any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction, it receives, under the Privacy Shield Framework, and, on occasion, subsequently transfers to a third party acting as an agent on its behalf. Ultimate Software complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
+Ultimate Software is responsible for the processing of personal data, defined as any operation or set of operations which is performed upon personal data, whether or not by automatic means, such as collection, recording, organization, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, blocking, erasure or destruction, it receives, under the applicable Privacy Shield Framework, and, on occasion, subsequently transfers to a third party acting as an agent on its behalf. Ultimate Software complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. 
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Ultimate Software is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ultimate Software may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Ultimate Software is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Ultimate Software may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 Under certain conditions, more fully described on the Privacy Shield [website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted. 
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=e4bef1e7-a7e9-4364-8b42-d16f7ed5f082 "TRUSTe Privacy")
-
-## Safe Harbor
-
-Ultimate Software complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. Ultimate Software has certified that it adheres to the Safe Harbor privacy principles of notice, choice, onward transfer, access, security, data integrity, and enforcement. More information about the U.S. Department of Commerce’s Safe Harbor program and Ultimate Software’s certification can be found at <http://www.export.gov/safeharbor/>.
 
 ## Notice
 
@@ -76,8 +70,6 @@ Other than as stated in this Privacy Policy, we will endeavor not to release you
 **_Sharing of Your Personal Information_**  
 Ultimate Software may contract with third-party providers to perform certain functions on our behalf or to enhance our existing product and service offerings. Examples include providing marketing assistance, product, and service support. These third parties may have access to your PII only to the extent necessary to provide these services, however, they are bound by confidentiality agreements before any information is provided to them, and they are restricted from using the information for other purposes. 
 
-If you do not wish your information shared with third-party providers for the purposes of providing services you may opt-out by contacting us at [privacy@ultimatesoftware.com](mailto:privacy@ultimatesoftware.com). 
-
 ## Links to Non-Ultimate Software websites and Third Parties
 
 Ultimate Software’s websites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave Ultimate Software’s website and be re-directed to a third-party site. Ultimate Software does not control those sites or the privacy practices of those third-party sites, which may differ from Ultimate Software’s privacy practices. We do not endorse or make any representations about third-party websites, and the personal data you choose to provide to third-party websites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any website or company before submitting your PII to them.
@@ -86,9 +78,9 @@ Ultimate Software’s websites may contain links to third-party sites for your c
 
 As to its own employees and its own job applicants, Ultimate Software will take reasonable steps to provide that your PII is accurate, complete, and current, to its intended use. We provide individuals with reasonable access to the PII that they provide to us, as well as the ability to review and correct such information. For access requests please contact us at [privacy@ultimatesoftware.com](mailto:privacy@ultimatesoftware.com). We will respond to your request within a reasonable timeframe.
 
-The Privacy Shield framework provides EU citizens with a right to access their PII. Ultimate Software has no direct business relationship with the individuals whose personal data it processes (individuals of our customers). If you are an individual of one our customers or an EU citizen seeking access to your personal information please direct your query to Ultimate Software’s customer with whom you do have a business relationship.
+Both the EU – U.S. Privacy Shield framework and the Swiss –U.S. Privacy Shield Framework provide EU citizens and Swiss citizens, respectively, with a right to access their PII. Ultimate Software has no direct business relationship with the individuals whose personal data it processes (individuals of our customers). If you are an individual of one our customers, or an EU or Swiss citizen seeking access to your personal information please direct your query to Ultimate Software’s customer with whom you do have a business relationship.
 
-To protect your privacy and security, we also take reasonable steps to verify your identity, before granting access to your PII. In addition, we may limit or deny access to PII where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by the Privacy Shield and Swiss Safe Harbor Framework.
+To protect your privacy and security, we also take reasonable steps to verify your identity, before granting access to your PII. In addition, we may limit or deny access to PII where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by Privacy Shield.
 
 For access requests please contact us at [privacy@ultimatesoftware.com](mailto:privacy@ultimatesoftware.com). We will respond to your request within a reasonable timeframe.
 
@@ -112,11 +104,11 @@ Where Ultimate Software has knowledge that one of Ultimate Software’s employee
 
 ## Dispute Resolution
 
-Ultimate Software will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of PII in accordance with the principles contained in this Policy. Ultimate Software agrees to cooperate with data protection authorities located in the European Union and Switzerland or authorized representatives for disputes specific to Human Resource information received from the European Union and Switzerland. All other disputes that cannot be resolved between Ultimate Software and the complainant will be handled in accordance with applicable dispute resolution procedures through our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. We strongly encourage you to raise any complaints you may have with regard to this Privacy Policy and/or our activation of this Policy to us prior to proceeding to the arbitration procedure described in this Policy. 
+Ultimate Software will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of PII in accordance with the principles contained in this Policy. Ultimate Software agrees to cooperate with Data Protection Authorities located in the European Union and the Federal Data Protection and Information Commissioner located in Switzerland, or authorized representatives for disputes specific to Human Resource information received from the European Union and Switzerland. All other disputes that cannot be resolved between Ultimate Software and the complainant will be handled in accordance with applicable dispute resolution procedures through our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. We strongly encourage you to raise any complaints you may have with regard to this Privacy Policy and/or our activation of this Policy to us prior to proceeding to the arbitration procedure described in this Policy. 
 
 ## Changes to This Privacy Policy
 
-The practices described in this Policy are the current PII protection policies approved on September 1, 2016. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the requirements Privacy Shield and of the Swiss Safe Harbor Principles. If we make any material changes we will notify you or our customer by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+The practices described in this Policy are the current PII protection policies approved on May 9,2017. Ultimate Software reserves the right to modify or amend this Policy at any time consistent with the Privacy Shield principles. If we make any material changes we will notify you or our customer by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
 ## Contact Information
 
