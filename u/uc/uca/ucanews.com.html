@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucanews.com privacy policy that was archived on 2016-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219235704id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucanews.com privacy policy that was archived on 2017-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611001037id_/http%3A//www.ucanews.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <title>UCA News Privacy Policy</title>
@@ -119,12 +119,26 @@ return false;
       
 <div class="clear"></div>
 
+<style>
+.sedc_fg{ width:auto; height:auto; float:left;}
+.sdffs{ float:right; border:none!important; background:#FFFFFF; padding-top:4px;}
+</style>
+
+
 <div class="search">
-<form name="searchfrm" id="searchfrm">
-<img alt="search" src="http://www.ucanews.com/images/search_icon.jpg">
-<input type="text" name="searchtxt" id="searchtxt" class="s_text" placeholder="Search" style="text-transform:lowercase;">
-</form>
+<form action="http://www.ucanews.com/home/googlesearch" id="cse-search-box" style="margin:0px; padding:0px;">
+<input type="text" name="q" class="sdffs" value="" placeholder="Search news and articles">
+<div class="sedc_fg"><input type="image" src="http://www.ucanews.com/images/search_icon.jpg" name="sa"></div>
+                            <input type="hidden" name="cx" value="partner-pub-001599941463365685814:sfheipyjbn0">
+                           <!-- <input type="hidden" name="cx" value="partner-pub-1521240216993846:pzqk3l-iy7r" />-->
+        					<input type="hidden" name="cof" value="FORID:10">
+        					<input type="hidden" name="ie" value="ISO-8859-1">
+      						</form>	
+
 </div>
+
+
+
 </div>
 <div class="clear"></div>
 </div>
@@ -133,7 +147,11 @@ return false;
 <!--desk top menu min width 1070 max width 3000--------------------------------------------------------- -->
  <style type="text/css">
 .fixed { position:fixed; z-index:1000; top:0;}
+.fixeds { position:fixed; z-index:1000; top:0;}
 </style>
+
+<!--new_menu -->
+ <!--new_menu end -->
  
 <script type="text/javascript">
   var num = 50; //number of pixels before modifying styles
@@ -146,7 +164,11 @@ $(window).bind('scroll', function () {
     }
 });
   </script>
-  <div class="new_menu_wrapper">
+
+
+
+  
+<div class="new_menu_wrapper">
 
     <div class="left_area_menu">
     <div class="fixed_menu">
@@ -190,13 +212,13 @@ $(window).bind('scroll', function () {
     </div>
   </div>
   <!--desk top menu min width 1070 max width 3000 END--------------------------------------------------------- -->
-  
-  
+ 
   
   <!--tablet menu min width 640 max width 1069 Start---------------------------------------------------------- -->
-  <div class="menu_section">
+<div class="menu_section">
   <div id="nav" class="menu_width_s">
   <div class="menu">
+  <div class="dd_adtw">
   <nav id="ddmenu">
   <div class="menu-icon"></div>
   <ul>
@@ -236,11 +258,11 @@ $(window).bind('scroll', function () {
   <li><a href="http://religiouspersecution.asia/" target="_blank">PERSECUTION</a></li>
   </ul>
   </nav>
-  
+  </div>
   </div>
   <div class="menu_right">
   <ul>
-    <li><a href="http://www.ucanews.com/account/login">LOGIN</a></li>
+    <li><a href="http://www.ucanews.com/account/login">LOG IN</a></li>
   <li class="line_common">|</li>
   <li class="leftline"><a href="http://www.ucanews.com/account/subscribe">SUBSCRIBE</a></li>
   <li class="line_common">|</li>
@@ -255,7 +277,7 @@ $(window).bind('scroll', function () {
 
   
   <!-- mobile menu min width 320 Max width 640 START-------------------------------------------------------------- -->
-  <div class="menu_mob" style="background:#011435;">
+  <div class="menu_mob" style="background:#004b8d;">
     
     <!--search subscribe login mobile only-->
     <div class="ser_sub">
@@ -346,8 +368,34 @@ $('.accordion .item .heading').click(function() {
   <div class="clear"></div>
  </div>
  
+ <div class="bannerwrap">
+                      </div>
+      
  
-        <!------------------headersection end------------------>
+    <link href="http://www.ucanews.com/css/jquery-ui-1.8.custom.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript">  
+   function RotateImages13(Start)
+  {
+      var a = new Array("http://www.ucanews.com/images/Ad_banner.png","http://www.ucanews.com/images/Bannerv4-02.png");
+	var date
+      var b = new Array("https://apiservices.krxd.net/click_tracker/track?kxconfid=KYRRPcfl&kxadvertiserid=BAY&kxbrand=CRX&kxcampaignid=201611_LAUNCH_LCI_UCAN&kxadid=trial&kxcreativeid=300x250&kxsiteid=ucan&kxsitename=ucan&kxplacementid=01_website_trial&clk=http://interfacetheology.com/in-season-and-out-homilies-for-year-a.html?utm_source=UCAN&utm_medium=display&utm_campaign=201611_LAUNCH_LCI_UCAN_01_website&utm_content=trial_300x250&utm_term=",
+                        "#")
+      var c = new Array("In Season and Out, Homilies for Year A",
+                        "title2")
+      var a1 = document.getElementById('Rotating1');
+      var b1 = document.getElementById('rotatelink');
+	  
+      if(Start>=a.length)
+         { Start=0;}
+     a1.src = a[Start];
+     b1.href = b[Start];
+     a1.title=c[Start];
+     
+      window.setTimeout("RotateImages13(" + (Start+1) + ")",10000);//10 seconds
+  }  
+  RotateImages13(0);  
+  </script>        <!------------------headersection end------------------>
         
         <!------------------content section start------------------>
         <div class="content_section">
@@ -445,24 +493,25 @@ $('.accordion .item .heading').click(function() {
                    	  <img src="http://www.ucanews.com/images/ucan.jpg"></h1>
                         <ul>
                                                  	<li>
-                                <h3><a href="http://www.ucanews.com/news/vicious-scorched-earth-campaign-targets-rohingya/77935" title="'Vicious scorched-earth campaign' targets Rohingya">'Vicious scorched-earth campaign' targets Rohingya</a></h3>
-                                <p>Myanmar security forces are conducting a campaign of violence in Rakhine State, says Amnesty International</p>
+                                <h3><a href="http://www.ucanews.com/news/retreat-seeks-to-ease-pain-of-philippine-drug-war-orphans/79466" title="Retreat seeks to ease pain of Philippine drug war orphans">Retreat seeks to ease pain of Philippine drug war orphans</a></h3>
+                                <p>Most participants at three-day gathering 'exhibited signs of trauma and distress' </p>
                             </li>
                                                     	<li>
-                                <h3><a href="http://www.ucanews.com/news/official-identity-means-indian-citys-rag-pickers-are-safer/77934" title="Official identity means Indian city's rag pickers are safer ">Official identity means Indian city's rag pickers are safer </a></h3>
-                                <p>For 15 years the Jan Vikas Society has sought official recognition to help ensure rag pickers have both rights and dignity </p>
+                                <h3><a href="http://www.ucanews.com/news/safeguard-workers-in-qatar-activists-tell-bangladeshi-govt/79468" title="Safeguard workers in Qatar, activists tell Bangladeshi govt">Safeguard workers in Qatar, activists tell Bangladeshi govt</a></h3>
+                                <p>It would be wise for Bangladesh to take the 'middle ground' in Saudi-Qatar row, says Caritas official</p>
                             </li>
                                                     	<li>
-                                <h3><a href="http://www.ucanews.com/news/rising-out-of-poverty-through-education-in-nepal/77925" title="Rising out of poverty through education in Nepal">Rising out of poverty through education in Nepal</a></h3>
-                                <p></p>
+                                <h3><a href="http://www.ucanews.com/news/martyrdom-not-remote-possibility-for-mindanao-catholics/79467" title="Martyrdom 'not remote possibility' for Mindanao Catholics">Martyrdom 'not remote possibility' for Mindanao Catholics</a></h3>
+                                <p>Fate of kidnapped priest in Marawi seige still uncertain</p>
                             </li>
                                                     	<li>
-                                <h3><a href="http://www.ucanews.com/news/tagle-celebrates-christmas-mass-with-prisoners/77928" title="Tagle celebrates Christmas Mass with prisoners">Tagle celebrates Christmas Mass with prisoners</a></h3>
-                                <p>Cardinal says illegal drugs destroy life, warns against Philippine president's narcotics war</p>
+                                <h3><a href="http://www.ucanews.com/news/outcry-as-vietnam-rescinds-catholic-activists-nationality/79460" title="Outcry as Vietnam rescinds Catholic activist's nationality">Outcry as Vietnam rescinds Catholic activist's nationality</a></h3>
+                                <p>Move seen as latest attempt by Vietnamese Communist Party to intimidate and silence dissidents
+</p>
                             </li>
                                                     	<li>
-                                <h3><a href="http://www.ucanews.com/news/philippine-church-official-hails-pope-francis-for-reforms/77926" title="Philippine church official hails Pope Francis for reforms">Philippine church official hails Pope Francis for reforms</a></h3>
-                                <p>Style of leadership 'should set an example to local politicians'</p>
+                                <h3><a href="http://www.ucanews.com/news/indonesian-extremists-target-online-critics/79464" title="Indonesian extremists target online critics">Indonesian extremists target online critics</a></h3>
+                                <p>Religious leaders, activists voice alarm over threats and assaults against critical posts on social media</p>
                             </li>
                                                     </ul>
                     </div>
@@ -502,28 +551,28 @@ $('.accordion .item .heading').click(function() {
 
         	
             <div class="new_cl_01">
-            <div class="new_cl_02"><a href="https://international.la-croix.com/news/vatican-women-found-a-new-organization/4389?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank"><img src="https://international.la-croix.com/uploads/news/2016/12/1482153388.jpg" width="100%"></a></div>
+            <div class="new_cl_02"><a href="https://international.la-croix.com/news/the-ancient-port-of-hamburg-an-industrial-venice/5333?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank"><img src="https://international.la-croix.com/uploads/news/2017/06/1497080470.jpg" width="100%"></a></div>
             <div class="new_cl_03">
             <div class="new_cl_05"><a href="https://international.la-croix.com?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">La Croix International</a></div>
-            <div class="new_cl_04"><a href="https://international.la-croix.com/news/vatican-women-found-a-new-organization/4389?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">Vatican women found a new organization</a></div>
+            <div class="new_cl_04"><a href="https://international.la-croix.com/news/the-ancient-port-of-hamburg-an-industrial-venice/5333?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">The ancient port of Hamburg, an industrial Venice</a></div>
             
             </div>
             </div>
 		        	
             <div class="new_cl_01">
-            <div class="new_cl_02"><a href="https://international.la-croix.com/news/factions-in-the-trump-team/4388?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank"><img src="https://international.la-croix.com/uploads/news/2016/12/1482152082.jpg" width="100%"></a></div>
+            <div class="new_cl_02"><a href="https://international.la-croix.com/news/the-elephant-in-the-room/5336?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank"><img src="https://international.la-croix.com/uploads/news/2017/06/1497084420.JPG" width="100%"></a></div>
             <div class="new_cl_03">
             <div class="new_cl_05"><a href="https://international.la-croix.com?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">La Croix International</a></div>
-            <div class="new_cl_04"><a href="https://international.la-croix.com/news/factions-in-the-trump-team/4388?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">Factions in the Trump team</a></div>
+            <div class="new_cl_04"><a href="https://international.la-croix.com/news/the-elephant-in-the-room/5336?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">The elephant in the room</a></div>
             
             </div>
             </div>
 		        	
             <div class="new_cl_01">
-            <div class="new_cl_02"><a href="https://international.la-croix.com/news/frances-autonomy-in-the-emerging-world-order/4387?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank"><img src="https://international.la-croix.com/uploads/news/2016/12/1482149784.jpg" width="100%"></a></div>
+            <div class="new_cl_02"><a href="https://international.la-croix.com/news/non-violence-as-a-political-style/5332?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank"><img src="https://international.la-croix.com/uploads/news/2017/06/1497080296.jpg" width="100%"></a></div>
             <div class="new_cl_03">
             <div class="new_cl_05"><a href="https://international.la-croix.com?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">La Croix International</a></div>
-            <div class="new_cl_04"><a href="https://international.la-croix.com/news/frances-autonomy-in-the-emerging-world-order/4387?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">France's autonomy in the emerging world order</a></div>
+            <div class="new_cl_04"><a href="https://international.la-croix.com/news/non-violence-as-a-political-style/5332?utm_source=UCAN&amp;utm_campaign=From-our-partners&amp;utm_medium=Referral" target="_blank">Non-violence as a political style </a></div>
             
             </div>
             </div>
