@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emediate.biz privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126101246id_/https%3A//www.cxense.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emediate.biz privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610180103id_/https%3A//www.cxense.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # OUR PRIVACY POLICY | cxense
 
@@ -61,19 +61,3 @@ Cxense regularly reviews its compliance in view of this Directive. If formal wri
 ### Changes to this Privacy Policy
 
 Please note that this Privacy Policy may change from time to time. Cxense will post any Privacy Policy changes on this page and, if the changes are significant, a more prominent notice will be provided.
-
-### Cxense Display
-
-To opt out from Cxense Display you need to do this individually for the different ad server domains used. Please follow the links below.
-
-  * [stage.emediate.eu](http://stage.emediate.eu/optout.html)
-  * [ad1.emediate.dk](http://ad1.emediate.dk/optout.html)
-  * [e2.emediate.se](http://e2.emediate.se/optout.html)
-  * [eas3.emediate.se](http://eas3.emediate.se/optout.html)
-  * [eas4.emediate.eu](http://eas4.emediate.eu/optout.html)
-  * [eas5.emediate.eu](http://eas5.emediate.eu/optout.html)
-  * [eas6.emediate.eu](http://eas6.emediate.eu/optout.html)
-  * [eas8.emediate.eu](http://eas8.emediate.eu/optout.html)
-  * [eas21.emediate.eu](http://eas21.emediate.eu/optout.html)
-
-
