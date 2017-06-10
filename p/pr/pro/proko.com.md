@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proko.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235520id_/http%3A//www.proko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proko.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610200425id_/http%3A//www.proko.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Proko
 
@@ -149,9 +149,9 @@ As you browse proko.com and other websites, online ad networks we work with may 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Proko LLC  
-5974 Corte Playa Cartagena  
-San Diego, CA 92124  
-USA  
+8963 Complex Dr Ste B  
+San Diego, Ca 92123-1416  
+United States  
 support@proko.com
 
 Last Edited on 2014-11-04
