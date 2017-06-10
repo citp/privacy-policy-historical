@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123125710id_/http%3A//www.scuba.com/resources/security_and_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scuba.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611014429id_/http%3A//www.scuba.com/resources/security_and_privacy.aspx) for the most accurate reproduction.*
 
 # scuba.com Security and Privacy
 
