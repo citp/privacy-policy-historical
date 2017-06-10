@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onerpm.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418152338id_/https%3A//onerpm.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onerpm.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610183802id_/https%3A//onerpm.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Music Distribution | Sell Music on iTunes | ONErpm
 
