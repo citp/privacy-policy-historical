@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sona-systems.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323174039id_/http%3A//www.sona-systems.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sona-systems.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610071132id_/http%3A//www.sona-systems.com/privacy.aspx) for the most accurate reproduction.*
 
 # Sona Systems : Privacy
 
@@ -7,15 +7,13 @@
 
 * * *
 
-**Effective Date: March 9, 2016**
+**Effective Date: May 24, 2017**
 
-This is Sona Systems, Ltd’s. (Company) privacy policy (Policy). If you are a customer, it is part of your contract with the Company. For customers in the United States; Canada (unless set out on your invoice); and South America, Company transmits data to servers located in the United States. For data subject to the European Union’s Data Protection Directive, Company has certified that it complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce. For data subject to Switzerland’s Federal Act on Data Protection, Company has certified it complies with the U.S.-Swiss Safe Harbor Framework as set for by the U.S. Department of Commerce. To learn more about the Safe Harbor programs, and to view Company’s certification, please visit <http://www.export.gov/safeharbor/>. Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Company’s certification, please visit <http://www.export.gov/safeharbor/>. The EU Safe Harbor program is due to be superseded by the [EU Privacy Shield](http://www.privacytrust.com/privacyshield/) later this year. Until such time any data collected will be in compliance with Safe Harbor. This Policy covers sites administered by Company on behalf of customers and all information held by Company and processed using systems associated with these sites.
+This is Sona Systems, Ltd’s. (Company, we, us, our) privacy policy (Policy). If you are a customer, it is part of your contract with the Company. For customers in the United States; Canada (unless set out on your invoice); and South America, Company transmits data to servers located in the United States. For customers in Europe, Company may transmit the Customer Record to servers located in the United States but will not transmit Subject Information to servers located in the United States. Company complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Company has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access and Recourse, Enforcement and Liability. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit: <http://www.privacyshield.gov/>. 
 
-This Policy and Company’s privacy practices have been reviewed by eTrust, and have been awarded eTrust’s “PrivacyTrust Seal.” In addition, Company’s privacy practices and this Policy comply with eTrust’s program requirements including transparency, accountability and choice regarding the collection and use of personal information. eTrust's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+In compliance with Privacy Shield Principles, Company commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Company at [support@sona-systems.com](mailto:%20support@sona-systems.com) or by mail at Sona Systems, Trummi 5, 12616 Tallinn, ESTONIA. If you have a question regarding our privacy policy please contact us. Company commits to cooperate with the panel established by the EU data protection authorities (DPAs) and comply with the advice given by the panel with regard to data transferred from the EU to the US. The Federal Trade Commission has jurisdiction over Company’s compliance with the Privacy Shield. Under certain conditions, you may have the right to invoke binding arbitration for complaints regarding Privacy Shield not resolved by any of the other Privacy Shield mechanisms. More information can be found at: <https://www.privacyshield.gov/article?id=ANNEX-Iintroduction>. 
 
-If you have questions about this Policy, or complaints about the way information is handled under it, please contact Company first at [[support@sona-systems.com](mailto:%20support@sona-systems.com)] or by mail at Sona Systems, Trummi 5, 12616 Tallinn, ESTONIA. If you have a question regarding our privacy policy please contact us. If, however, you are unhappy with our response to your concerns, you can raise an issue with eTrust, who are an independent third party dispute resolution service. They will work with us to ensure that your query is resolved. You can contact eTrust here: <http://www.etrust.org/about/privacy_contact.php>. If your invoice states that your data is transmitted to servers not in the United States, you should contact your data protection authority and not eTrust.
-
-The most recent version of this Policy will always be available at this address. Any changes to this policy,other than necessary to remedy typographical errors, will be announced by email to the primary address you have on file with us.
+The most recent version of this Policy will always be available at this address. Any changes to this policy, other than necessary to remedy typographical errors, will be announced by email to the primary address you have on file with us.
 
   
 
@@ -46,23 +44,27 @@ The most recent version of this Policy will always be available at this address.
 • Contact the customer about issues of general interest to Company’s customers;   
 • In response to an inquiry about the status of Company’s services and to provide troubleshooting about those services. 
 
-**The Customer Record may be shared with third parties in the following circumstances:**
-
-• To collect payment; and   
-• To comply with a law or regulation requiring disclosure. 
+The Customer Record may be shared with third parties only in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 The Customer Record will only be sold by Company in conjunction with the sale, or other acquisition, of its business. It is not otherwise sold or rented to third parties.
 
 The Company does not market to individuals under thirteen years of age, and does not knowingly collect information directly from these individuals.
 
-Customers may opt out of providing information for their Customer Record by declining to be Customers. Providing information for a Customer Record is required to become a Customer.
+Customers may opt out of providing information for their Customer Record by declining to be Customers. Providing information for a Customer Record is required to become a Customer. Customers may inform the Company by email of any changes to the Customer Record.
+
+Should Company practices with respect to processing or use of a Customer Record change, or should Company desire to disclose the Customer Record to any third party not acting as an agent of Company, Company will provide you with notice (either by means of an amendment to this Privacy Policy or otherwise) and provide an opportunity for you to opt out.
+
+The Privacy Shield Principles describe Company’s obligations with respect to personal information that it transfers to third parties as described in this Privacy Policy. Company remains responsible and liable as provided in the Principles if the third party processes the personal information in a manner that is not consistent with the Privacy Shield Principles, unless Company proves that it is not responsible for the event giving rise to the damage.
+
+  
+
 
 ## How Company uses information processed by it while providing services to customers
 
   
 
 
-**Company’s services process the following personally identifiable information provided to Company by its customers (the “Subject Information”). Company does not collect this information independently:**
+**Company’s services process the following personally identifiable information provided to Company by its customers (the “Subject Information”). Company does not collect this Subject Information independently and does not export Subject Information originating from the EU to the US:**
 
 • Full name and email address of each user, and user’s language preference for the system interface.  
 • Other information chosen by the customer in Company’s interface, which may include, but is not limited to: university identification number, telephone number, course enrollment information, study sign-up information, research data collected in online surveys, data collected as part of prescreening for eligibility in research studies.
@@ -77,7 +79,7 @@ Customers may opt out of providing information for their Customer Record by decl
 
 • To backup the Subject Information;  
 • As authorized by Company’s customer; and  
-• To comply with a law or regulation requiring disclosure.
+• In response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Subject Information will only be sold by Company in conjunction with the sale, or other acquisition, of its business.
 
@@ -94,4 +96,4 @@ Subject Information will only be sold by Company in conjunction with the sale, o
 
 **Deletion and Preservation of Information.** Information covered by this Policy may be deleted upon a customer’s request. The Company may keep information covered by this Policy for a period of six months from the date of Customer’s termination of their relationship with Company, or as required by law.
 
-**Changing and Correcting Information** If a customer wishes to access and/or update the information Company has collected, the customer may either log in to our website or client systems and view and change its information.
+**Changing and Correcting Information.** If a customer wishes to access and/or update the information Company has collected, the customer may either log in to our website or client systems and view and change its information.
