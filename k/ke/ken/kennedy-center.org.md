@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231053754id_/http%3A//www.kennedy-center.org/pages/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610023339id_/http%3A//www.kennedy-center.org/pages/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ## Scope
 
-Beginning Dec. 1, 2014, the Kennedy Center's privacy policy will be changing in order to provide you with better and more personalized service.[You can read the old policy here](https://web.archive.org/content/pdfs/2014Kennedy-Center-Privacy-Statement.pdf). Our Contact Preferences menu has also changed, so[please log in to your account](https://web.archive.org/account/login/)to review and make any updates.
+Beginning Dec. 1, 2014, the Kennedy Center's privacy policy will be changing in order to provide you with better and more personalized service. [You can read the old policy here](https://web.archive.org/content/pdfs/2014Kennedy-Center-Privacy-Statement.pdf). Our Contact Preferences menu has also changed, so [please log in to your account](https://web.archive.org/account/login/) to review and make any updates.
 
 This policy covers how the Kennedy Center treats the personal information that it collects from its patrons in any manner, including via phone, by mail, at the Kennedy Center and through the following Kennedy Center websites:
 
-  * [http://www.kennedy-center.org](http://www.kennedy-center.org/)
-  * [http://www.suzannefarrell.org](http://www.kennedy-center.org/sfb)
-  * [http://www.nationalsymphony.org](http://www.kennedy-center.org/nso/)
-  * [http://www.dc-opera.org](http://www.kennedy-center.org/wno/)
-  * [http://artsedge.kennedy-center.org](http://artsedge.kennedy-center.org/)
-  * [http://vsarts.org](http://www.vsarts.org/)
+  * [http://www.kennedy-center.org](https://web.archive.org/)
+  * [http://www.suzannefarrell.org](https://web.archive.org/sfb)
+  * [http://www.nationalsymphony.org](https://web.archive.org/nso/)
+  * [http://www.dc-opera.org](https://web.archive.org/wno/)
+  * [http://artsedge.kennedy-center.org](https://artsedge.kennedy-center.org/)
+  * [http://vsarts.org](https://www.vsarts.org/)
 
 
 
