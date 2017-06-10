@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spaceflightinsider.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120210022id_/http%3A//www.spaceflightinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaceflightinsider.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610133619id_/http%3A//www.spaceflightinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SpaceFlight Insider
 
