@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012017id_/http%3A//site.adform.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610153024id_/https%3A//site.adform.com/privacy-policy/en) for the most accurate reproduction.*
 
 # Adform | Privacy Policy & Opt-Out
 
@@ -31,7 +31,7 @@ You can "Opt-out" from having cookies stored on your PC when ads are shown from 
 
 ## **General Practice**
 
-Adform does not collect personally identifiable data such as your name, email, address or phone number from your visit to its servers and domains, including but not limited to www.adform.com, test.adform.com, test.adform.dk and track.adform.net, unless you voluntarily supply this through e.g. the „Contact Us“ form or any other publicly available contact channel. If doing so, you agree that your contact details are correct and rightfully yours. They will be used solely by Adform to respond to your query. With online privacy as its primary concern, Adform continues to support initiatives for self-regulation and laws throughout its markets, such as the regulations of the World Wide Web (W3) group, [Privacy Preferences Projects (P3P)](http://www.w3.org/P3P/), „Internet Advertising Bureau (IAB) Good Practice Principles for Online Behavioural Advertising „OBA“ (including Mobile) or the European Union e-Privacy Directive.
+Adform does not collect personally identifiable data such as your name, email, address or phone number from your visit to its servers and domains, including but not limited to www.adform.com, test.adform.com, test.adform.dk and track.adform.net, unless you voluntarily supply this through e.g. the "Contact Us" form or any other publicly available contact channel. If doing so, you agree that your contact details are correct and rightfully yours. They will be used solely by Adform to respond to your query. With online privacy as its primary concern, Adform continues to support initiatives for self-regulation and laws throughout its markets, such as the regulations of the World Wide Web (W3) group, [Privacy Preferences Projects (P3P)](http://www.w3.org/P3P/), „Internet Advertising Bureau (IAB) Good Practice Principles for Online Behavioural Advertising „OBA“ (including Mobile) or the European Union e-Privacy Directive.
 
 **Advertising, Content Serving and Web Analytics Technology**
 
