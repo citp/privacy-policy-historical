@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneycone.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110051325id_/http%3A//www.moneycone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycone.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610153004id_/http%3A//www.moneycone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Cone
 
