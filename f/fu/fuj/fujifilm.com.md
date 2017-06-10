@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231755id_/http%3A//www.fujifilm.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilm.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610072530id_/http%3A//fujifilm.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fujifilm Global
 
@@ -42,7 +42,7 @@ The personal information provided by customers shall be managed in an appropriat
 
 E-mail:
     
-      * [webmaster@fujifilm.co.jp](mailto:webmasterEfujifilm.co.jp)
+      * [webmaster@fujifilm.com](mailto:webmaster@fujifilm.com)
 
 
 
@@ -97,10 +97,9 @@ For inquiries regarding The Privacy Policy, please contact the Webmaster.
 E-mail:
     
 
-  * [webmaster@fujifilm.co.jp](mailto:webmaster@fujifilm.co.jp)
+  * [webmaster@fujifilm.com](mailto:webmaster@fujifilm.com)
 
 
 
 Last update: December 1, 2014  
-Internet Office  
 FUJIFILM Corporation
