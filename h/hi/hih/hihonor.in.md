@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hihonor.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180623id_/http%3A//www.hihonor.com/in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hihonor.in privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611003801id_/http%3A//www.hihonor.com/in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy-Honor official Site(India)
 
@@ -211,7 +211,16 @@ Huawei reserves its right to update or amend this Policy from time to time. Huaw
 
 #### **10.How to contact Huawei**
 
-If you have any questions, comments, or suggestions, please contact us by email at [consumer_privacy@huawei.com](mailto:consumer_privacy@huawei.com) or submit them to one of our global field offices. For a complete list of our office locations, please visit our website at:
+If you have any questions, comments, or suggestions, please contact us at -
+
+Huawei Telecommunications (India) Co., Pvt., Ltd.  
+7th floor, Tower-A, Spaze I Tech Park, Sohna Road,   
+Sector-49, Gurgaon-122001, India.  
+Tel: +91-124-4774700  
+Fax: +91-124-4774863  
+Email ID- [consumer_privacy@huawei.com](mailto:consumer_privacy@huawei.com)
+
+For a complete list of our office locations, please visit our website at:
 
 <http://www.huawei.com/en/contact-us>
 
