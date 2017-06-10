@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readspeaker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004020id_/http%3A//www.readspeaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readspeaker.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610163827id_/http%3A//www.readspeaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Text to Speech | Privacy Policy | ReadSpeaker
 
