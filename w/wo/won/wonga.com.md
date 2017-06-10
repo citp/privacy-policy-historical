@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405030020id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonga.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610155332id_/https%3A//www.wonga.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Wonga
+# Data protection & Privacy policy | Wonga
 
 Any reference to "we" or "us" in this Privacy Policy shall mean WDFC UK Limited. This privacy policy applies to [www.wonga.com](https://web.archive.org/) which is owned and operated by WDFC UK Limited.
 
@@ -14,7 +14,7 @@ For the purpose of the Data Protection Act 1998, the data controller is WDFC UK 
 
 ##  1\. Security
 
-We recognise how important it is to protect and manage the information you share with us. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we only authorise access to those employees who require it to fulfil their job responsibilities. When you share data with us through the website, that information is protected by secure socket layer (SSL) encryption>
+We recognise how important it is to protect and manage the information you share with us. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we only authorise access to those employees who require it to fulfil their job responsibilities. When you share data with us through the website, that information is protected by secure socket layer (SSL) encryption.
 
 Our security systems meet or exceed industry standards and we are constantly monitoring internet developments to ensure our systems evolve as required.
 
@@ -22,8 +22,8 @@ Our security systems meet or exceed industry standards and we are constantly mon
 
 We collect information about you in a number of ways:
 
-  * Information you provide to us through our websites and applications;
-  * Information you provide through communications with us; and
+  * information you provide to us through our websites and applications;
+  * information you provide through communications with us; and
   * from outside sources such as banks, credit bureaux and customer service providers to help us with customer verification and credit-related decisions.
 
 
@@ -42,10 +42,10 @@ We will hold and use the following details about you:
 
   * your name, address, phone numbers, email address, date of birth, employment and banking and financial details;
   * demographic and lifestyle information;
-  * information we receive when making a decision about you, your loan or application (including information collected from the CRAs);
+  * information we receive when making a decision about you, your loan or application (including information collected from the Credit Reference Agencies);
   * details of the loans you have and have had with us and all transactions;
   * details of when you contact us and when we contact you;
-  * If you change your bank and your old bank informs us of your new bank account details, we will hold the new bank account details, and use them to operate your account;
+  * if you change your bank and your old bank informs us of your new bank account details, we will hold the new bank account details, and use them to operate your account.
 
 
 
@@ -84,8 +84,8 @@ We may share information about you:
   * with any payment system we may use;
   * certain authorities in order to detect and prevent terrorism (including to authorities outside the UK);
   * with any person to whom we sell or transfer (or enter into negotiations to sell or transfer) our business or any of our rights or obligations under any agreement we may have with you. If the transfer or sale goes ahead, the transferee or purchaser may use your personal information in the same way as us;
-  * with regulatory and governmental authorities ombudsmen, or other authorities, including tax authorities, including those overseas, where we are requested by them to do so;
-  * with Credit Reference Agencies and Fraud Prevention Agencies or any similar organisation which provides a centralised application matching service that collects information from and about mortgage and/or credit applications, for the purpose of preventing and detecting fraud. We may also provide information to third parties to help them to make decisions about whether to lend to you, allow you extended payment terms or otherwise do business with you;
+  * with regulatory and governmental authorities ombudsmen, or other authorities, including tax authorities, including those overseas, where we are requested by them to do so; and
+  * with Credit Reference Agencies and Fraud Prevention Agencies or any similar organisation which provides a centralised application matching service that collects information from and about mortgage and/or credit applications, for the purpose of preventing and detecting fraud. We may also provide information to third parties to help them to make decisions about whether to lend to you, allow you extended payment terms or otherwise do business with you.
 
 
 
@@ -94,10 +94,10 @@ We may share information about you:
 We will use your information to:
 
   * search Credit Reference Agencies’ and Fraud Prevention Agencies’ records (including information from overseas);
-  * make, or assist in making, credit decisions about you, assess lending (and insurance risks and to check the details that you have let us and others have;
+  * make, or assist in making, credit decisions about you, assess lending and insurance risks, and to check the details that you have let us and others have;
   * operate and manage your account and manage any application, agreement or correspondence you may have with us;
   * carry out, monitor and analyse our business;
-  * contact you by email, SMS, letter, telephone or in any other way about our products and services, unless you tell us that you prefer not to receive marketing;
+  * contact you by email, SMS, letter or telephone about our products and services, unless you tell us that you prefer not to receive marketing;
   * to identify, prevent, detect or tackle fraud, money laundering, terrorism and other crimes;
   * to form a view of you as an individual and to identify, develop or improve products, that may be of interest to you;
   * carry out market research, business and statistical analysis;
@@ -110,14 +110,14 @@ We will use your information to:
 
 
 
-Your data may also be used for other purposes for which you give your permission or where we are permitted to do so by law or it is in the public interest to disclose the information or is otherwise permitted under the terms of the Data Protection Act 1998.
+Your data may also be used for other purposes for which you give your permission, or where we are permitted to do so by law, or it is in the public interest to disclose the information or is otherwise permitted under the terms of the Data Protection Act 1998.
 
 ##  4\. Credit Reference Agencies (CRAs) and Fraud Prevention Agencies (FPAs)
 
 When you apply to us for a loan, we will check the following records about you (and others where applicable):
 
   1. our own;
-  2. those at CRAs;
+  2. those at CRAs; and
   3. those at FPAs.
 
 
@@ -144,29 +144,29 @@ Information provided by you on our applications will be sent to CRAs and will be
 
 When you borrow from us, we will give details of your loan and how you manage it to the CRAs. If you borrow and do not repay in full and on time, the CRAs will record the outstanding debt and, in some cases, the length of time that the debt remains outstanding; other organisations may see these updates and this may affect your ability to obtain credit in the future.
 
-If you fall behind with your payments and a full payment or satisfactory proposal is not received within 28 days of a formal demand being issued, then a default notice may be recorded with the CRAs. Any records shared with CRAs will remain on file for 6 years after your account is closed, whether any outstanding sums have been settled by you or as following a default.
+If you fall behind with your payments and a full payment or satisfactory proposal is not received within 28 days of a formal demand being issued, then a default notice may be recorded with the CRAs. Any records shared with CRAs will remain on file for 6 years after your account is closed, whether any outstanding sums have been settled by you or following a default.
 
-This information may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe. Records remain on file for 6 years after they are closed, whether any outstanding sums have been settled by you or following a default.
+This information may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe.
 
 If you give us false or inaccurate information and we have reasonable grounds to suspect fraud or we identify fraud we may record this and may also pass this information to FPAs and other organisations involved in crime and fraud prevention including law enforcement agencies who may then access this information.
 
 We and other organisations may access and use the information recorded by fraud prevention agencies from other countries.
 
-The Credit Reference Agencies that we use are Callcredit Limited (registration number 03961870) with registered office at One Park Lane, Leeds, West Yorkshire, LS3 1EP; and Experian Limited (registration number 00653331) with registered office at Landmark House, Experian Way, NG2 Business Park, Nottingham, NG80 1ZZ; and Equifax Limited (registration number 2425920) with registered office at Capital House, 25 Chapel Street, London, NW1 5DS.
+The CRAs that we use are Callcredit Limited (registration number 03961870) with registered office at One Park Lane, Leeds, West Yorkshire, LS3 1EP; Experian Limited (registration number 00653331) with registered office at Landmark House, Experian Way, NG2 Business Park, Nottingham, NG80 1ZZ; and Equifax Limited (registration number 2425920) with registered office at Capital House, 25 Chapel Street, London, NW1 5DS.
 
-The Fraud Prevention Agency that we use is CIFAS, with registered office at 6th Floor Lynton House, 7-12 Tavistock Square, London, WC1H 9LT. You can contact CIFAS at [www.cifas.org.uk/contact_us_form](http://www.cifas.org.uk/contact_us_form).
+The FPA that we use is CIFAS, with registered office at 6th Floor Lynton House, 7-12 Tavistock Square, London, WC1H 9LT. You can contact CIFAS at [www.cifas.org.uk/contact_us_form](http://www.cifas.org.uk/contact_us_form).
 
 If you have any further questions about our use of CRAs or FPAs please email us at [customercare@wonga.com](mailto:customercare@wonga.com).
 
 ##  5\. Transfer of Information
 
-We may transfer your personal information abroad to other countries outside the UK. If we do so, we will ensure the information is held securely to standards as least as good as those in the UK and only used for the purposes set out in this Privacy Policy.
+We may transfer your personal information abroad to other countries outside the EEA. If we do so, we will ensure the information is held securely to standards at least as good as those in the UK and only used for the purposes set out in this Privacy Policy.
 
 ##  6\. Access to your information
 
 Under the Data Protection Act 1998, you have a right to access certain personal records we hold about you. This is called a Data Subject Access Request, which you can make by writing to customercare@wonga.com. A £10 fee is payable.
 
-We want to make sure that your information is accurate and up to date. You may ask us to correct or remove any information that you think is inaccurate or you can do this yourself by logging into “my account”.
+We want to make sure that your information is accurate and up to date. You may ask us to correct or remove any information that you think is inaccurate or you can do this yourself by logging into "My Account".
 
 You have a right to request CRAs to provide you with information that they hold about you. You must contact them directly to do this. A fee may be payable.
 
@@ -176,10 +176,10 @@ Our site may contain links to third party websites. If you follow a link to any 
 
 ##  8\. Social Media Features
 
-Our Web site includes Social Media Features such as the Facebook Like button. These Features may collected your IP address, which pages you are visiting on our site and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+Our website includes Social Media Features such as the Facebook Like button. These Features may collect your IP address, which pages you are visiting on our site and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted on our site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
 ##  10\. Personal Data provided as part of a redress programme
 
 The personal data that you provide as part of any redress programmes will only be used for the purposes of communicating relevant updates and will not be used for marketing purposes. We will not pass the data to any third parties unless required to do so by law, regulation or a regulatory body. We will retain such data for a period of 6 years.
 
-Last updated: December 2015
+Last updated: February 2017
