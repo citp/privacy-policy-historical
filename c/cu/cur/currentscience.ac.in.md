@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122922id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentscience.ac.in privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610095200id_/http%3A//www.currentscience.ac.in/php/policy.php) for the most accurate reproduction.*
 
 # Current Science - Privacy Policy
 
 Guest Editorial
 
-Food for all in the anthropocene era  
-M. S. Swaminathan and P. C. Kesavan 
+Science in the post-truth era  
+Alain Krief, Henning Hopf, Goverdhan Mehta and Stephen A. Matlin
 
-At the International Geological Congress held in August 2016 in Cape Town, the assembled scientists came to the conclusion that a new geological epoch...
+In 2004, Keyes declared that we live in a post-truth era – a stage of social evolution that is ‘beyond honesty’, in which ‘deception has become commonplace at all levels...
 
-[...read more](https://web.archive.org/web/20161121122922id_/http%3A//www.currentscience.ac.in/php/Volumes/111/09/1435.pdf)
+[...read more](https://web.archive.org/web/20170610095200id_/http%3A//www.currentscience.ac.in/php/Volumes/112/11/2173.pdf)
 
 Privacy Policy
 
