@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetribecourse.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119080030id_/http%3A//www.stu.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetribecourse.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610070220id_/http%3A//www.stu.me/privacy) for the most accurate reproduction.*
 
 # Privacy - Stu.me
 
