@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newair.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201165517id_/http%3A//www.newair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newair.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610022838id_/http%3A//www.newair.com/privacy) for the most accurate reproduction.*
 
 # NewAir | Privacy Policy
 
