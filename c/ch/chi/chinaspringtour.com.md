@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120054419id_/http%3A//help.ch.com/en/Static/privacy_regulation.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaspringtour.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610121608id_/https%3A//en.ch.com//flights/privacy-regulation) for the most accurate reproduction.*
 
 # Spring Privacy Policy —Springairlines
 
@@ -36,7 +36,7 @@ Personal information obtained from customers will be used for the following purp
 (9)Providing various information on services, products, events and campaigns of Spring's parent companies, subsidiaries and partner companies.  
 (10)Responses to enquiries and requests.
 
-**4\. Managing personal information**  
+**4\. Managing personal information**   
 Spring Airlines commits itself to appropriately manage and protect customers' personal information, according to the strictest standards and to take the utmost care to prevent leaks, loss, or alterations.  
 The user creates his/ her own ID and password to log-in to the website. The user is responsible for all actions taken under this user ID, including any actions of others who have been authorized to use your user ID (possibly by you yourself).  
 The ID user can at any time unsubscribe emails and choose not to receive products and services offers any longer. 
