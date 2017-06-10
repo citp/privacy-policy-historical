@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the louandgrey.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208053348id_/http%3A//www.louandgrey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the louandgrey.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610034901id_/https%3A//www.louandgrey.com/privacy) for the most accurate reproduction.*
 
 # Lou & Grey | Customer Service Privacy & Security
 
@@ -181,7 +181,7 @@ If you are visiting our Sites from a location outside of the United States, you 
 
 ### What happens to my personal information when I place an order from outside the United States? __
 
-ANN offers customers the ability to ship orders internationally. In these cases, ANN partners with Borderfree, ("Borderfree"), a U.S.-based service provider that we have contracted with to facilitate the sale and fulfillment of international online purchases. Borderfree will process your information in accordance with its privacy policy. To learn more about Borderfree's privacy policy, please visit [www.Borderfree.com/privacy](https://web.archive.org/web/20161208053348id_/http%3A//www.louandgrey.com/www.Borderfree.com/privacy).
+ANN offers customers the ability to ship orders internationally. In these cases, ANN partners with Borderfree, ("Borderfree"), a U.S.-based service provider that we have contracted with to facilitate the sale and fulfillment of international online purchases. Borderfree will process your information in accordance with its privacy policy. To learn more about Borderfree's privacy policy, please visit [www.Borderfree.com/privacy](https://web.archive.org/web/20170610034901id_/https%3A//www.louandgrey.com/www.Borderfree.com/privacy).
 
 When we identify that your order is one that will be shipped internationally, we work with Borderfree to complete your order. On the checkout page, you will be required to submit credit card and contact information to Borderfree to complete your order. Borderfree will be solely responsible for processing your financial transaction and we will not have access to your credit card information. Upon completion of your order, Borderfree will notify us of the approval of your order, and we will then ship approved orders to Borderfree. Simultaneously, Borderfree will purchase the product from us, which allows them to take title to the product(s), bill your credit card, collect and remit any duties and taxes to the appropriate taxing authority and arrange for the product to be delivered to you. In this process, Borderfree makes the sale to you as the merchant of record. When ordering a product, you will be presented with Borderfree's terms and conditions and privacy policy to which you must agree in order to complete your transaction.
 
@@ -197,7 +197,7 @@ ANN is concerned about the privacy of young children and our Sites do not knowin
 
 ### What are my California privacy rights? __
 
-Residents of the State of California may request a list of all third parties to which ANN has disclosed personal information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want a list, you should send a request to [clientservices@anninc.com](https://web.archive.org/web/20161208053348id_/http%3A//www.louandgrey.com/clientservices@anninc.com) or contact us at:
+Residents of the State of California may request a list of all third parties to which ANN has disclosed personal information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and want a list, you should send a request to [clientservices@anninc.com](https://web.archive.org/web/20170610034901id_/https%3A//www.louandgrey.com/clientservices@anninc.com) or contact us at:
 
 ANN CLIENT SERVICES
 
