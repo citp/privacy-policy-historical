@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118174614id_/http%3A//www.gre.ac.uk/collaborations/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610110758id_/https%3A//www.gre.ac.uk/privacy) for the most accurate reproduction.*
 
-# Privacy and cookies | Collaborations and International Partnerships
+# Privacy and cookies | University of Greenwich
 
 Cookies are temporary files websites use to help them improve your browsing experience. 
 
