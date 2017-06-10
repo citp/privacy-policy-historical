@@ -1,97 +1,100 @@
-> *The following text is extracted and transformed from the virbots.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virbots.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610022425id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Verbots® - Open Source Natural Language Chatterbots
+# Legal Agreement
 
-[Home](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/index.php)   
-[About Us](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/aboutus.php)   
-[Products Overview](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/products.php)   
-[Verbot Standard Edition](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/verbotse.php)   
-[Characters](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/characters.php)   
-[Downloads](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/downloads.php)   
-[Community](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/forums/index.php)   
-[SDK](http://verbots.sourceforge.net/)
+**GoDaddy Respects Your Privacy**
 
-**Extras**   
-[Link to us](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/link_to_us.php)
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-|  Conversive, Inc. Privacy Policy
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-Conversive, Inc. is the world's leading developer of automated customer service solutions. For more information about Conversive, please go to [www.Conversive.com](http://www.conversive.com/). This privacy policy applies to the U.S. operations of all of Conversive�s brands and services.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-Overall privacy statement
+**Information Collection and Use**
 
-We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by us directly.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-1\. What information does Conversive collect?
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for an e-mail newsletter or when you register to use certain services such as the Verbot�. Several of the services that we offer on our sites, such as message boards, may require registration as a condition of use. Once you register with one of our Conversive sites you are no longer anonymous to us. We may also receive information about you from other sources and add it to the information you provided to us.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-2\. What is Conversive' practice regarding cookies?
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-Your Internet browser has a feature called "cookies" which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites, such as forums, may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information. You may elect not to allow cookies to be collected by adjusting your settings on your browser.
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-We use technologies, including electronic images known as Web bugs--sometimes called transparent GIFs, clear GIFs, or beacons--that allow us to track general user traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you unless you have specifically given us personally identifiable information.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-We use cookies and tracking technologies in a variety of ways, including:
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  * Keeping count of return visits to our site or our advertisers' or partners' sites
-  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage
-  * Determining which features our overall user population likes best
-  * Saving your password so you don't have to re-enter it each time you visit our sites
-  * Display the most appropriate advertising based on your interests
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
+**Updating Your Information**
 
-We may allow other companies that are presenting advertisements on our sites to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-3\. How does Conversive use the information?
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We use the information we gather for four general purposes:
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-  * To customize the advertising and content you see
-  * To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you.
-  * To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in paid services, polls, contests, message boards, and auctions
-  * To send you information you agreed to receive about topics we think will be of interest to you
+      iii.      You may call us at: (480) 505-8800
 
-4\. How does Conversive share the information
+       iv.      You may fax us at: (480) 505-8844
 
-Personally identifiable information We will make your personally identifiable information available to other companies or people when:
+**Sending Emails**
 
-We have your consent to share the information
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested, such as opt-in e-mail announcements 
-  * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, Conversive' [Terms of Use](https://web.archive.org/web/20140209180638id_/http%3A//www.verbots.com/terms_of_use.php) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
+**Compliance with Laws and Law Enforcement**
 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-Aggregate information We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+**Third Party Service Providers**
 
-Business transfers We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-5\. What are my options?
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering. We also give users the following options:
+**Supplementation of Information**
 
-  * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us;
-  * Opting not to provide certain personal information when registering for a site, provided, however that you may not be able to utilize certain of our products or services without providing us with certain information.
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-6\. How can I update my personally identifiable information?
+**Contests/Surveys**
 
-You can correct or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using the e-mail address at the bottom of this page. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-7\. How will I know if the privacy policy is changed?
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice by email of the change.
+**Tell-A-Friend**
 
-8\. Privacy of children
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-Our network of sites is not directed at children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+**What Happens to my Personal Information if I Opt Out?**
 
-Questions, comments
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail below or to our corporate offices at 3806 Cross Creek Road, Unit F, Malibu, CA 90265, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information
+**Transfer of Data Abroad**
 
-[Click here](mailto:info@conversive.com) to contact us regarding a privacy issue.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-| 
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
