@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avatarcontrols.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025070203id_/http%3A//avatarcontrols.com/index.php%3Fac%3Darticle%26at%3Dlist%26tid%3D70) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avatarcontrols.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610075908id_/http%3A//avatarcontrols.com/index.php%3Fac%3Darticle%26at%3Dlist%26tid%3D70) for the most accurate reproduction.*
 
-# Privacy Policy-Privacy Policy-Avatar Controls | Smart Home Security and Automation Solution Provider | Smart WiFi Plug | Smart Socket | Smarthome Kit | Smart Camera | Smart Door Bell | OEM/ODM
+# Privacy Policy-Privacy Policy-Avatar Controls | Smart Home Security and Automation Solution Provider | Home Video Surveillance | Avatar VapeNut | SmartSafe | Smarthome Kit | Smart Camera | Home Automation | OEM/ODM
 
 **Overview**
 
