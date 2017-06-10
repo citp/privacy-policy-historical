@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101webdesigns.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210042842id_/http%3A//101webdesigns.com/privacy-policy-use-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101webdesigns.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610071106id_/http%3A//101webdesigns.com/privacy-policy-use-cookies) for the most accurate reproduction.*
 
 # Privacy Policy And Use of Cookies -
 
