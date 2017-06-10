@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baldingbeards.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624184943id_/https%3A//www.baldingbeards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baldingbeards.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610051419id_/https%3A//www.baldingbeards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ⋆ BaldingBeards
 
@@ -150,10 +150,15 @@ The owner (Domen Hrovatin) of this website is a participant in the Amazon Servic
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-https://www.baldingbeards.com/  
-Ulica Zvonimira Milosa 27  
-Izola, Slovenia 6310  
-Slovenia  
+Email:
+
 contact@baldingbeards.com
 
-Last Edited on 2015-07-23
+Address:
+
+INOVEUS D.O.O.  
+Ulica Zvonimira Milosa 27  
+Izola, Slovenia 6310  
+Slovenia
+
+Last Edited on 2017-03-20
