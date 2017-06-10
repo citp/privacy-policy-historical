@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newvegasnexus.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228225419id_/http%3A//www.nexusmods.com/newvegas/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newvegasnexus.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610132225id_/http%3A//www.nexusmods.com/newvegas/about/privacy) for the most accurate reproduction.*
 
 # Fallout New Vegas - mods and community
 
