@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111223436id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatadvisor.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610092719id_/https%3A//www.seatadvisor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# SeatAdvisor Privacy Policy - SeatAdvisor
 
 SeatAdvisor, Inc. respects your privacy and is committed to protecting it at all times. This Internet Privacy Statement explains how we collect, use, and safeguard information on this website. Please click here for more information about SeatAdvisor, Inc. All information collected online by SeatAdvisor, Inc. will be governed by the SeatAdvisor, Inc. Internet Privacy Statement.
 
@@ -24,7 +24,7 @@ We will maintain information about ticket purchase activity, online account acti
 
 **To parents of children under 13**
 
-We do not knowingly solicit data online from or market online to children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe that personal information may have been collected about such child, please see How We Use The Information We Collect and Your Opt-Out Choices. 
+We do not knowingly solicit data online from or market online to children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe that personal information may have been collected about such child, please see How We Use The Information We Collect and Your Opt-Out Choices.
 
 **How we use the information we collect**
 
