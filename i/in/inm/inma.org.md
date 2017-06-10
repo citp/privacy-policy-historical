@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inma.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130155452id_/http%3A//inma.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inma.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610083151id_/http%3A//www.inma.org/privacy.cfm) for the most accurate reproduction.*
 
 # None
 
