@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytradingforexlive.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128200653id_/http%3A//www.daytradingforexlive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytradingforexlive.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610030213id_/http%3A//www.daytradingforexlive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Contact Day Trading Forex Live
 Please contact Day Trading Forex Live in regards to any questions about the privacy policy.
 
 Day Trading Forex Live  
-512 Green St.  
-South Haven, MI 49090  
+11656 S. Shaver Rd. Apt 2  
+Schoolcraft, MI 49087  
 Phone 1 (269) 929-6414  
-daytradingforexlive@gmail.com
+Support@DayTradingForexLive.com
