@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2015-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151225022801id_/http%3A//help.tinydeal.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610131733id_/https%3A//help.tinydeal.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - TinyDeal
 
 #### TinyDeal Privacy Policy - Safe, Secure Online Shopping
 
-TinyDeal Co. Limited values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of TinyDeal.
+Tinydeal.com values the privacy of our visitors/customers greatly and takes every known precaution to guard the information we collected from unauthorized use. The following is a detailed explanation for the privacy policy of TinyDeal.
 
 #### WHAT INFORMATION DO WE COLLECT?
 
@@ -28,7 +28,7 @@ You always have the option to view your account to make sure the information we 
 
 #### CAN I OPT OUT OF HAVING CERTAIN INFORMATION COLLECTED?
 
-have the option of disabling your computer’s ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from you. You also have the option of removing yourself from any email distribution list that you may have signed up for.
+have the option of disabling your computer's ability to accept or transmit cookies. This will prevent us from gathering certain non-personally identifiable information from you. You also have the option of removing yourself from any email distribution list that you may have signed up for.
 
 #### NOTICE OF CHANGES TO THIS PRIVACY POLICY
 
@@ -40,12 +40,12 @@ TinyDeal Newsletter will be send out regularly, with the latest updates on new a
 
 **QUESTIONS OR CONCERNS**
 
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](http://help.tinydeal.com/contact-us)" link in the side menu. Or through the following ways: 
+Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "[Contact Us](https://help.tinydeal.com/contact-us)" link in the side menu. Or through the following ways: 
 
 Tel: (+86) 755-2919 4488     
 
 Email: [sales@tinydeal.com](mailto:sales@tinydeal.com)
 
-Contact Address:
+Hong Kong Contact Address:
 
 P.O. Box No.1225, Tsuen Wan Post Office, Hong Kong 
