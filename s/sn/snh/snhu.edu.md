@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233543id_/http%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snhu.edu privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610193100id_/http%3A//www.snhu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SNHU
 
@@ -34,7 +34,7 @@ Aggregate information is automatically provided by your computer and can be tied
 
 ## How do we use the personal information that you provide to us?
 
-Broadly speaking, your personal information is used to contact you regarding educational opportunities and products offered by our school. We may store your information for the purpose of communicating with you about the programs and services offered by our school and send you updates if and when they become available. We also use personal information for purposes of administering our business activities, providing customer service, and making other products and services available to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to the web site, new services and special offers we think you will find valuable.
+Broadly speaking, your personal information is used to contact you regarding educational opportunities and products offered by our school. We may store your information for the purpose of communicating with you about the programs and services offered by our school and send you updates if and when they become available. We also use personal information for purposes of administering our business activities, providing customer service, and making other products and services available to our customers and prospective customers. If we receive your consent, we may also contact you using automated technology including through text messages (SMS) to your mobile phone. Occasionally, we may also use the information we collect to notify you about important changes to the web site, new services and special offers we think you will find valuable.
 
 ## Sharing information with third parties
 
