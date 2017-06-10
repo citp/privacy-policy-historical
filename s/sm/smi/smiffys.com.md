@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smiffys.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516183721id_/http%3A//trade.smiffys.com/Info/t-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smiffys.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610032508id_/http%3A//trade.smiffys.com/Info/t-privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
