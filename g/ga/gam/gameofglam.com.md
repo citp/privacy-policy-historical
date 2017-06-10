@@ -1,33 +1,26 @@
-> *The following text is extracted and transformed from the gameofglam.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820084433id_/http%3A//gameofglam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameofglam.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610140525id_/http%3A//gameofglam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - GameOfGlam
+# Privacy Policy - Game Of Glam
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@gameofglam.com
+This privacy policy sets out how Gameofglam uses and protects any information that you give us when you use this website. Gameofglam is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Gameofglam may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from January 1, 2015.
 
-At gameofglam.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by gameofglam.com and how it is used.
+What we collect We may ask to collect the following information:
 
-Log Files
+e-mail address (for use to send you the daily Gameofglam newsletter, which you can unsubscribe from at any time  
+Additionally, we collect non-personally identifiable information for aggregation such as, among other things, visitor browser type and screen resolution.
 
-Like many other Web sites, gameofglam.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Security We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Cookies and Web Beacons
+How we use cookies A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-gameofglam.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+Additionally, Gameofglam utilizes cookies to show our advertisements to you on various websites on the Internet.
 
-DoubleClick Cookie
+You may opt out of Google’s use of cookies by visiting Google’s Ads Settings.
 
-Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+Third Party Vendors
 
-Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-
-Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting aboutads.info.)
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on theme-sphere.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-theme-sphere.com has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices theme-sphere.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.  
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Gameofglam and/or other sites on the Internet.  
+You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting Ads Settings. (or by visiting aboutads.info.)  
+Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.  
+Links to other websites Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
