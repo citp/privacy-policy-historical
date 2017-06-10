@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the ralphlaurenhome.com privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919193142id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlaurenhome.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610144550id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
 
 # RalphLauren.com Customer Assistance
 
-  * [ Shipping ](http://www.ralphlauren.com/helpdesk/index.jsp?display=ship&subdisplay=shipMethods)
-  * [ Returning ](http://www.ralphlauren.com/helpdesk/index.jsp?display=returns&subdisplay=returns)
-  * [ Shopping and Payment ](http://www.ralphlauren.com/helpdesk/index.jsp?display=payment&subdisplay=checkout)
-  * [ Gift Services ](http://www.ralphlauren.com/helpdesk/index.jsp?display=gift&subdisplay=ogc)
-  * [ Account Information ](http://www.ralphlauren.com/helpdesk/index.jsp?display=account&subdisplay=registryWhy)
-  * [ About Our Products ](http://www.ralphlauren.com/helpdesk/index.jsp?display=shopping&subdisplay=product)
-  * [ Privacy Notice ](http://www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions)
-  * [ Canadian Privacy Policy ](http://www.ralphlauren.com/helpdesk/index.jsp?display=tft&subdisplay=policies)
-  * [ Operating Guidelines ](http://www.ralphlauren.com/helpdesk/index.jsp?display=terms&subdisplay=other)
-  * [ Terms of Use ](http://www.ralphlauren.com/helpdesk/index.jsp?display=corp&subdisplay=terms)
-  * [ Frequently Asked Questions (FAQs) ](http://www.ralphlauren.com/helpdesk/index.jsp?display=faq&subdisplay=buyer)
+  * [Shipping](https://web.archive.org/helpdesk/index.jsp?display=ship&subdisplay=shipMethods)
+  * [**Returns**](https://web.archive.org/helpdesk/index.jsp?display=returns&subdisplay=returns)
+  * [Canceling or Changing An Order](https://web.archive.org/helpdesk/index.jsp?display=returns&subdisplay=canceling)
+  * [Shopping and Payment](https://web.archive.org/helpdesk/index.jsp?display=payment&subdisplay=checkout)
+  * [Gift Services](https://web.archive.org/helpdesk/index.jsp?display=gift&subdisplay=ogc)
+  * [Account Information](https://web.archive.org/helpdesk/index.jsp?display=account&subdisplay=registryWhy)
+  * [About Our Products](https://web.archive.org/helpdesk/index.jsp?display=shopping&subdisplay=product)
+  * [Privacy Notice](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions)
+  * [Canadian Privacy Policy](https://web.archive.org/helpdesk/index.jsp?display=tft&subdisplay=policies)
+  * [Operating Guidelines](https://web.archive.org/helpdesk/index.jsp?display=terms&subdisplay=other)
+  * [Terms of Use](https://web.archive.org/helpdesk/index.jsp?display=corp&subdisplay=terms)
+  * [Polo Factory Store Text Messaging Terms & Conditions](https://web.archive.org/helpdesk/index.jsp?display=terms&subdisplay=messages)
+  * [Frequently Asked Questions (FAQs)](https://web.archive.org/helpdesk/index.jsp?display=faq&subdisplay=buyer)
   * [Contact Us](https://www.ralphlauren.com/helpdesk/index.jsp?display=store&subdisplay=contact)
   * [Site Map](https://web.archive.org/helpdesk/sitemap.jsp)
 
@@ -20,14 +22,14 @@
 ---|---  
    Choose a link to select a section.  
 _**Ralph Lauren Corporation**_  
-   WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE  
-   Last modified: February 5, 2015  
+   WEBSITE, STORE AND RESTAURANT PRIVACY NOTICE   
+   Last modified: September 20, 2016  
   
-Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website. 
+Ralph Lauren Corporation and its affiliates (collectively, " Ralph Lauren") respect your concerns about privacy.This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Ralph Lauren stores, Ralph Lauren Factory Outlet Stores (collectively, the "Stores"), and (iii) through the other channels described below. Ralph Lauren is responsible for this website.
 
-The Privacy Notice describes the types of personal information we collect on this site, in our Stores, and in other ways discussed below, how we may use that information and with whom we may share it. The notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) tell us to refrain from communicating with you about our products or services, and (iv) answer any questions you may have about our privacy practices. 
+The Privacy Notice describes the types of personal information we collect on this site, in our Stores, and in other ways discussed below, how we may use that information and with whom we may share it. The notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) tell us to refrain from communicating with you about our products or services, and (iv) answer any questions you may have about our privacy practices.
 
-Click on one of the links below to jump to the listed section: 
+Click on one of the links below to jump to the listed section:
 
   * Information We Collect and How We Use It
     * Our Website
@@ -40,17 +42,18 @@ Click on one of the links below to jump to the listed section:
       * Email to a Friend
       * Contact Us
       * Other Site Features
-      * Information We Collect by Automated Means
+      * Information Collected by Automated Means 
+      * Interest-Based Advertising
     * Our Stores
       * Shopping
       * Customer Registry
       * Customer Satisfaction Surveys
       * Ralph Lauren Credit Card
     * Other Ways We Collect Personal Information
+      * In-Store Wi-Fi Data Collection
       * QR Codes
       * Customer Assistance
       * Ralph Lauren Restaurants and Bars
-      * Other Ways We Obtain and Use Information
       * Department Stores
   * Information We Share
   * Links to Other Sites
@@ -66,9 +69,9 @@ Click on one of the links below to jump to the listed section:
 
 Information We Collect and How We Use It 
 
-Individuals may choose to provide personal information (such as name, contact details and payment information) through this website, in our Stores and through the other channels described below. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. 
+Individuals may choose to provide personal information (such as name, contact details and payment information) through this website, in our Stores and through the other channels described below. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information.
 
-Our Website 
+Our Website
 
 _Shopping_
 
@@ -96,7 +99,7 @@ You may be able to sign up on this site to receive electronic newsletters and pr
 
 _Mobile Marketing_
 
-You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number online or by texting us. If you sign up for mobile communications, we will send you information about our products, services and promotions by text message. In the U.S., you may opt out of receiving text message communications on your mobile device by sending a text message with the word "STOP" to short code 89448. Outside the U.S., you may opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges. 
+You may be able to sign up to receive communications about our products and services through your mobile device by submitting your mobile telephone number online or by texting us. If you sign up for mobile communications, we may send you autodialed marketing text messages about our products, services and promotions. It is your responsibility to notify Ralph Lauren in the event that you disconnect your mobile number or change carriers. In the U.S., you may opt out of receiving text message communications on your mobile device by sending a text message with the word **"STOP"** to short code 89448. You will receive one additional text message, confirming that your request has been received. Outside the U.S., you may opt out of receiving these communications by contacting us as specified in the "How to Contact Us" section below. Ralph Lauren does not charge you to unsubscribe. Depending on the terms of your mobile phone contract, you may incur charges for receiving and sending text messages on your mobile device. Ralph Lauren is not responsible for these charges. Message and data rates may apply. Text **HELP** to 89448 for help. Up to ten autodialed marketing messages may be sent per month to the phone number you provide at opt-in. Consent is not a condition of purchase. 
 
 _Blogs_
 
@@ -114,25 +117,27 @@ _Other Site Features_
 
 We offer visitors to this website various features for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we can provide you with these features and send you communications about our products, services and promotions. 
 
-_Information We Collect by Automated Means_
+_Information Collected by Automated Means_
 
-We obtain certain information by automated means when you visit our website, such as the IP address of the device you use to connect to the Internet and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer. We collect this information through various means, such as "cookies" and "web beacons." Both we and others (such as our service providers) may collect personal information about our visitors’ online activities over time and across third-party websites.
-
-_Cookies_
+We obtain certain information by automated means when you visit our website, such as through cookies, web beacons, and web server logs. The information we collect in this manner includes the IP address of the device you use to connect to the Internet, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our site, dates and times of website visits and the pages accessed. By collecting this information, we learn how to best tailor our website to our visitors and understand what products and services you might prefer. Both we and others (such as our service providers) may collect personal information about our visitors’ online activities over time and across third-party websites.
 
 Like many companies, we use "cookies" on this website. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site. We use cookies, for example, to preserve the contents of your virtual shopping bag between visits. We also use cookies to measure activity on the site and determine which areas and features of the site are the most popular. 
 
 Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie and how to disable existing cookies. Without cookies, however, you may not be able to take full advantage of all our site features. For example, if you turn off cookies or refuse them, you will not be able to make purchases on the site. 
 
-Using cookies, we utilize Google AdWords remarketing service to show you our ads on other websites based on your prior visits to our website. You can opt out of this feature by clicking [here](http://www.google.com/ads/preferences).
-
-We may use eBay Enterprise Targeted Display Advertising Services on this website. You can learn more about how this service functions by [clicking here](http://ebayenterprise.com/privacy/services_privacy.php), and you may opt out of eBay Enterprise targeted display services by [clicking here.](http://ebayenterprise.com/privacy/services_privacy.php%23optout) You also may opt out of eBay Enterprise targeted display services through the [Network Advertising Initiative website.](http://www.networkadvertising.org/managing/opt_out.asp)
-
-_Web Beacons_
-
 Certain pages on this website contain "web beacons" (also known as Internet tags, pixel tags and clear GIFs). Web beacons are used for internal purposes, such as to obtain the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, and the type of browser used to view the page. We also retain service providers who use web beacons to assess the effectiveness of our email communications and learn what pages our visitors viewed. 
 
-We may use third party web analytics services, such as those of Adobe Analytics and Google Analytics, to measure the effectiveness of our advertising and determine how visitors use this website. These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://tools.google.com/dlpage/gaoptout). 
+We use information collected through these automated means for purposes such as (i) customizing our users' visits to our website, (ii) delivering content tailored to our users' interests and the manner in which our users browse our sites, and (iii) managing our sites and other aspects of our business. To the extent required by applicable law, we will obtain your consent before collecting information using cookies or similar automated means.
+
+We also may use third party web analytics services, such as those of Adobe Analytics and Google Analytics, to measure the effectiveness of our advertising and determine how visitors use this website. These service providers’ tools, including cookies and web beacons, allow us to collect information such as the state and zip code from which our visitors come and the IP addresses of our visitors' computers. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://tools.google.com/dlpage/gaoptout). 
+
+_Interest-Based Advertising_
+
+We may collect information about your online activities on our website to provide you with advertising about products and services tailored to your individual interests. We also may obtain information for this purpose from third-party websites on which our ads are served. This section of our Privacy Notice provides details and explains how to exercise your choices.
+
+You may see certain ads on other websites because we work with advertising partners (including advertising networks) to engage in remarketing and retargeting activities. Our advertising partners allow us to target our messaging to users through demographic, interest-based and contextual means. These partners track your online activities over time and across websites by collecting information through automated means, including through the use of third-party cookies, web server logs, and web beacons. They use this information to show you advertisements that may be tailored to your individual interests. The information our advertising partners may collect includes data about your visits to websites that participate in the relevant advertising networks, such as the pages or advertisements you view and the actions you take on the websites. This data collection takes place both on our website and on third-party websites that participate in the ad networks. This process also helps us track the effectiveness of our marketing efforts. For example, we utilize Netmining's targeted advertising services to show you our ads on other websites based on your prior visits to our site and other online activity. You can opt out of this feature by clicking [here](http://www.ignitionone.com/cookie-opt-out/).
+
+You also may opt out of ad network interest-based advertising generally through the Network Advertising Initiative website or by visiting http://www.aboutads.info/choices/.
 
 Our Stores 
 
@@ -168,17 +173,13 @@ _Customer Assistance_
 
 You may call our customer service line for information about our products or personal shopping advice. If you do so, we may ask you for information such as your name, email address, postal address, telephone number and, if you choose to make a purchase, your payment card information. We use this information to respond to your request and process your transaction. 
 
-_Customer Assistance_
-
-You may call our customer service line for information about our products or personal shopping advice. If you do so, we may ask you for information such as your name, email address, postal address, telephone number and, if you choose to make a purchase, your payment card information. We use this information to respond to your request and process your transaction. 
-
 _Ralph Lauren Restaurants and Bars_
 
 When you make a reservation at a Ralph Lauren restaurant or bar, including RL Restaurant and The Polo Bar, we ask you to provide your name, telephone number and email address. In connection with your reservation, you may choose to provide additional personal information such as food allergies and information about others. We use this information to communicate with you, to process your reservation and to enhance your experience at our restaurants and bars. 
 
 When you visit a Ralph Lauren restaurant or bar, we may ask you to complete a form so that we can communicate with you about our products, services, promotions and special events. If you choose to do so, you may provide information such as your name, telephone number, postal address and email address. We use this information to process your request. 
 
-If you communicate with us through the "Contact Us" link on the RL Restaurant’s website, we ask you for personal information such as your name, telephone number, email address, zip code and other information you may choose to provide. We use this information to communicate with you about your questions and comments. In addition, if you order a gift certificate for the RL Restaurant, we ask for your name, telephone number, shipping address and payment card information. We use this information to process your order. 
+If you communicate with us through the "Contact Us" link on the RL Restaurant’s website, we ask you for personal information such as your name, telephone number, email address, zip code and other information you may choose to provide. We use this information to communicate with you about your questions and comments. In addition, if you order a gift certificate for the RL Restaurant, we ask for your name, telephone number, shipping address and payment card information. We use this information to process your order.
 
 Reservations at our restaurants and bars may be made through third-party reservation platforms. We are not responsible for the content of any third-party platforms that are not affiliated with us, any use of these platforms, or the privacy practices of the operators of these platforms.
 
@@ -214,9 +215,11 @@ We strive to protect the confidentiality and security of Social Security numbers
 
 Transfer of Personal Information to Other Countries 
 
-We may transfer the personal information we collect about you to countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice. 
+We may transfer the personal information we collect about you to recipients in countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to recipients in other countries, we will protect that information as described in this Privacy Notice and will comply with applicable legal requirements providing adequate protection for the transfer of personal information to recipients in countries other than the one in which you provided the information. 
 
-Ralph Lauren Corporation is certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area ("EEA") or Switzerland to the United States. [Click here](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions#europe) to view our Safe Harbor Privacy Policy. 
+If you are located in the European Economic Area ("EEA"), with respect to transfers of personal information to the U.S., Ralph Lauren and its affiliate Club Monaco US, LLC are certified under the EU-U.S. Privacy Shield framework developed by the U.S. Department of Commerce and the European Commission regarding the transfer of personal information from the EEA to the U.S. Click here to view our EU-U.S. Privacy Shield Privacy Policy. 
+
+If you are located in Switzerland, Ralph Lauren Corporation and its affiliate Club Monaco US, LLC are certified under the Swiss Safe Harbor privacy framework developed by the U.S. Department of Commerce and Switzerland regarding the transfer of personal information from Switzerland to the United States. [Click here](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions#europe) to view our Swiss Safe Harbor Privacy Policy. 
 
    
 
@@ -230,11 +233,11 @@ Your Choices
 
 We offer you certain choices about how we communicate with you and what information we collect from you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds and free of charge to the processing of your personal information, and we will apply your preferences going forward. 
 
-You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, [clicking here](http://app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail. To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://tools.google.com/dlpage/gaoptout). Our website is not designed to respond to "do not track" signals received from browsers. 
+You can choose not to receive marketing communications from us by clicking on the unsubscribe link in our marketing emails, [clicking here](http://app.ralphlauren.com/unsub/unsub.cfm), or contacting us as specified in the "How to Contact Us" section below. Please include your name, email address and postal address if you send us your request by email or postal mail. Our website is not designed to respond to "do not track" signals received from browsers. 
 
 If you are a California resident, you may ask us to refrain from sharing your information with certain of our affiliates and other third parties for their marketing purposes. 
 
-To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](http://www.adobe.com/privacy/analytics.html). To opt out of eBay Enterprise targeted display services, please [click here.](http://ebayenterprise.com/privacy/opt-out.php)
+To opt out of aggregation and analysis of data collected by Adobe Analytics and Google Analytics, please click [here](http://www.adobe.com/privacy/analytics.html) and [here](https://tools.google.com/dlpage/gaoptout). To opt out of Netmining's targeted advertising services, [click here](http://www.ignitionone.com/cookie-opt-out/). To learn how to opt out of ad network interest-based advertising generally, [click here](http://www.networkadvertising.org/managing/opt_out.asp) or visit http://www.aboutads.info/choices/.
 
 To opt out of Wi-Fi data collection in our stores after you have opted in, either turn off your device's Wi-Fi function or click [here](https://privacy.retailnext.net/). 
 
@@ -278,91 +281,219 @@ Email: eu.privacy@ralphlauren.com
 
 Back to Top  
   
-    Safe Harbor Privacy Policy  
+    EU-U.S. Privacy Shield Privacy Policy  
 ---  
-   Last modified: March 6, 2015  
+   Effective date: September 20, 2016  
   
-We at Ralph Lauren Corporation and its US affiliate, Club Monaco US, LLC, (collectively "Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from the EEA and Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline. 
+Ralph Lauren Corporation, along with its affiliate Club Monaco US, LLC (collectively, “Ralph Lauren”), respect your concerns about privacy. Ralph Lauren participates in the EU-U.S. Privacy Shield framework (“Privacy Shield”) issued by the U.S. Department of Commerce. Ralph Lauren commits to comply with the Privacy Shield Principles with respect to Consumer Personal Data the company receives from the EU in reliance on the Privacy Shield. This Policy describes how Ralph Lauren implements the Privacy Shield Principles for Consumer Personal Data.
 
-For purposes of this Policy: 
+For purposes of this Policy:
 
-"Contractor" means any former, current or prospective (i) individual worker who is an independent contractor or consultant of Ralph Lauren or any of its affiliates in the EEA or Switzerland or (ii) employee of a vendor who is provided access to the network, telephone or IT systems, or badging systems of Ralph Lauren or any of its affiliates in the EEA or Switzerland. 
+“Controller” means a person or organization which, alone or jointly with others, determines the purposes and means of the processing of Personal Data.
 
-"Customer" means any individual who is a potential or actual consumer of Ralph Lauren, or any of its affiliates in the EEA or Switzerland or Partners, and who is located in the EEA or Switzerland. 
+“Consumer” means any natural person who is located in the EU, but excludes any individual acting in his or her capacity as a Worker.
 
-"EEA" means the European Economic Area. 
+“EU” means the European Union and Iceland, Liechtenstein and Norway.
 
 “Partner” means any licensing or franchising partner or other third party operating a store under any of the Ralph Lauren brands.
 
-"Personal Information" means information that (i) is transferred to the United States from the EEA or Switzerland, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable individual, and (iv) can be linked to that individual. 
+“Personal Data” means any information, including Sensitive Data, that is (i) about an identified or identifiable individual, (ii) received by Ralph Lauren in the U.S. from the EU, and (iii) recorded in any form.
 
-"Sensitive Information" means Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offence committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings. 
+“Privacy Shield Principles” means the Principles and Supplemental Principles of the Privacy Shield. 
 
-"Sites" means www.ralphlauren.com, www.clubmonaco.com and the websites and mobile applications listed here. 
+“Processor” means any natural or legal person, public authority, agency or other body that processes Personal Data on behalf of a Controller.
 
-"Store" means a store operated under any of the Ralph Lauren brands by Ralph Lauren or any of its affiliates or Partners, which store is located in the EEA or Switzerland. 
+“Sensitive Data” means Personal Data specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offense committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings.
 
-"Worker" means any current, former or prospective employee or intern of Ralph Lauren or any of its affiliates, in the EEA or Switzerland, or of any Contractor, located in the EEA or Switzerland. 
+“Sites” means www.ralphlauren.com, www.clubmonaco.com, www.ralphlauren.de, www.ralphlauren.fr and www.ralphlauren.co.uk here. 
 
-**Safe Harbor Privacy Principles**
+“Store” means a store operated under any of the Ralph Lauren brands by Ralph Lauren or any of its affiliates or Partners, which store is located in the EU.
 
-Ralph Lauren's practices regarding the collection, storage, transfer, use and other processing of Personal Information comply with the Safe Harbor principles of notice, choice, onward transfer, access, security, data integrity, and enforcement and oversight. 
+“Worker” means any current, former or prospective employee, temporary worker, intern, contractor or other non-permanent employee of Ralph Lauren or any of its affiliates, who is located in the EU.
+
+Ralph Lauren’s Privacy Shield certification, along with additional information about the Privacy Shield, can be found at [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome). For more information about Consumer Personal Data processing with respect to information obtained through Ralph Lauren’s Sites and Stores, please visit the company’s privacy notices on the Sites. 
+
+**Types of Personal Data Ralph Lauren Collects**
+
+Ralph Lauren collects Personal Data directly from Consumers through the Sites and in Stores. Ralph Lauren obtains, uses, discloses and otherwise processes Personal Data about its Consumers to (i) process transactions they request, including e-commerce and mobile transactions, (ii) improve its Stores, Sites, quality of service, and Consumers’ shopping experience, (iii) send communications about its products, services, campaigns and promotions, (iv) prevent and detect fraud and abuse, (v) process information or claims in connection with incidents at Stores, (vi) enable service providers to perform certain activities on the company’s behalf, and (vii) comply with legal obligations, policies and procedures and for internal administrative and analytics purposes.
+
+  * Name;
+  * age;
+  * date of birth
+  * gender;
+  * demographic information;
+  * billing and shipping address;
+  * driver’s license or ID number;
+  * passport number;
+  * telephone number;
+  * email address;
+  * payment card information; 
+  * checking account information;
+  * shopping preferences and purchase history;
+  * information obtained by automated means when Consumers visit the Sites, such as through cookies, web beacons, and web server logs (including the IP address of the device the Consumer uses to connect to the Internet, domain name, unique device identifier, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on the Sites, dates and times of Site visits and the pages accessed); and
+  * any other information Consumers provide or generate on the Sites and in Stores.
+
+
+
+Ralph Lauren also may obtain and use Consumer Personal Data in other ways for which the company provides specific notice at the time of collection.
+
+In addition, Ralph Lauren obtains Personal Data, such as contact information and financial account information, of representatives of vendors and other business partners. Ralph Lauren uses this information to manage its relationships with its vendors and business partners, process payments, expenses and reimbursements, and carry out the company’s obligations under its contracts with the relevant organizations.
+
+Ralph Lauren’s privacy practices regarding the processing of Consumer Personal Data comply with the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement and Liability.
 
 **Notice**
 
-We notify our Customers and Workers located in the EEA and Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information. 
+Ralph Lauren provides information in this Policy and the privacy notices on the Sites about its Consumer Personal Data practices, including the types of Personal Data Ralph Lauren collects, the types of third parties to which Ralph Lauren discloses the Personal Data and the purposes for doing so, the rights and choices Consumers have for limiting the use and disclosure of their Personal Data, and how to contact Ralph Lauren about its practices concerning Personal Data.
 
-Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20150919193142id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
-
-**Purpose of Collection and Use of Personal Information**
-
-Ralph Lauren and its affiliates in the EEA or Switzerland collect Personal Information through their Sites and in their Stores. In addition, Workers submit Personal Information to Ralph Lauren and its affiliates in the EEA or Switzerland in connection with the employment relationship or services performed for Ralph Lauren. 
-
-We obtain, use, disclose and otherwise process Personal Information about our Customers to (i) process transactions they request, including e-commerce and mobile transactions, (ii) improve our Stores, Sites, quality of service, and Customers' shopping experience, (iii) send communications about our products, services, campaigns and promotions, (iv) prevent and detect fraud and abuse, (v) process information or claims in connection with incidents at our Stores, (vi) enable our service providers to perform certain activities on our behalf, and (vii) comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes. 
-
-We obtain, use, disclose and otherwise process Personal Information about our current, former and prospective Workers to (i) carry out and support our human resources functions and activities, (ii) carry out our obligations under employments contracts and employment and benefits laws, (iii) administer employee participation in benefits, compensation, human resources and training plans and programs, (iv) manage employee purchases from Ralph Lauren locations, (v) manage employee performance, (vi) implement compliance and discipline procedures, and investigate and report on employee compliance and discipline, (vii) comply with our legal obligations, carry out investigations (including in connection with our whistleblowing hotline) and for internal administrative and analytics purposes, and (viii) manage and conduct Ralph Lauren's business activities. Ralph Lauren obtains, uses, discloses and otherwise processes Personal Information about its Contractors to (i) carry out and support Ralph Lauren's procurement functions and activities, (ii) carry out Ralph Lauren's contractual and legal obligations, (iii) manage Contractors' performance, (iv) implement compliance procedures, and investigate and report on Contractor compliance, (v) comply with Ralph Lauren's legal obligations, carry out investigations and perform internal administrative and analytics activities, and (vi) manage and conduct Ralph Lauren's business activities. 
-
-We obtain, use, disclose and otherwise process Personal Information about Workers' emergency contacts and other individuals (such as dependents and beneficiaries) to the extent our Workers provide the information to us. We process this information to comply with our legal obligations and for internal administrative purposes. To the extent necessary or appropriate for compliance with relevant legal or contractual obligations, we process Sensitive Information about our Workers, including for purposes of managing attendance and Worker records, and organizing elections of employees' union representatives, and to protect the health and safety of our Workers. 
+Relevant information also may be found in notices pertaining to specific data processing activities.
 
 **Choice**
 
-Customers located in the EEA and Switzerland may direct us not to disclose their Personal Information to third parties (other than our service providers). We do not use Personal Information for purposes incompatible with the purposes for which we originally collected the information without notifying the relevant individuals of such uses and offering an opportunity to opt out. 
+Ralph Lauren generally offers Consumers the opportunity to choose whether their Personal Data may be (i) disclosed to third-party Controllers or (ii) used for a purpose that is materially different from the purposes for which the information was originally collected or subsequently authorized by the relevant Consumer. To the extent required by the Privacy Shield Principles, Ralph Lauren obtains opt-in consent for certain uses and disclosures of Sensitive Data. Consumers may contact Ralph Lauren as indicated below regarding the company’s use or disclosure of their Personal Data. Unless Ralph Lauren offers Consumers an appropriate choice, the company uses Personal Data only for purposes that are materially the same as those indicated in this Policy.
 
-We may disclose Personal Information without offering individuals an opportunity to opt out (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer Personal Information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use Personal Information you have provided to us in a manner that is consistent with our Privacy Notice. 
+Ralph Lauren shares Consumer Personal Data with its affiliates and subsidiaries. Ralph Lauren may disclose Consumer Personal Data without offering an opportunity to opt out, and may be required to disclose the Personal Data, (i) to third-party Processors the company has retained to perform services on its behalf and pursuant to its instructions, (ii) if it is required to do so by law or legal process, or (iii) in response to lawful requests from public authorities, including to meet national security, public interest or law enforcement requirements. Ralph Lauren also reserves the right to transfer Personal Data in the event of an audit or if the company sells or transfers all or a portion of its business or assets (including in the event of a merger, acquisition, joint venture, reorganization, dissolution or liquidation).
 
-**Onward Transfer of Personal Information**
+**Accountability for Onward Transfer of Personal Data**
 
-We may share Personal Information with service providers we have retained to perform services on our behalf. We require service providers to whom we disclose Personal Information and who are not subject to laws based on the European Union Data Protection Directive or the Swiss Federal Data Protection Act (DPA), to contractually agree to provide at least the same level of protection for Personal Information as is required by the relevant Safe Harbor principles. 
+This Policy and the privacy notices on the Sites describe Ralph Lauren’s sharing of Consumer Personal Data.
 
-**Access to Personal Information**
+Except as permitted or required by applicable law, Ralph Lauren provides Consumers with an opportunity to opt out of sharing their Personal Data with third-party Controllers. Ralph Lauren requires third-party Controllers to whom it discloses Consumer Personal Data to contractually agree to (i) only process the Personal Data for limited and specified purposes consistent with the consent provided by the relevant Consumer, (ii) provide the same level of protection for Personal Data as is required by the Privacy Shield Principles, and (iii) notify Ralph Lauren and cease processing Personal Data (or take other reasonable and appropriate remedial steps) if the third-party Controller determines that it cannot meet its obligation to provide the same level of protection for Personal Data as is required by the Privacy Shield Principles.
 
-Ralph Lauren provides Customers and Workers with reasonable access to the Personal Information maintained about them. We also provide a reasonable opportunity, as required by applicable law, to correct, amend or delete that information where it is inaccurate. We may limit or deny access to Personal Information where providing such access is unreasonably burdensome or expensive under the circumstances or as otherwise permitted by the Safe Harbor principles. To obtain access to Personal Information, Customers may contact Ralph Lauren as specified in the "How to Contact Us" section of this Policy. Workers should submit requests for access to their Personal Information to the local Human Resources representative. 
+With respect to transfers of Consumer Personal Data to third-party Processors, Ralph Lauren (i) enters into a contract with each relevant Processor, (ii) transfers Personal Data to each such Processor only for limited and specified purposes, (iii) ascertains that the Processor is obligated to provide the Personal Data with at least the same level of privacy protection as is required by the Privacy Shield Principles, (iv) takes reasonable and appropriate steps to ensure that the Processor effectively processes the Personal Data in a manner consistent with Ralph Lauren’s obligations under the Privacy Shield Principles, (v) requires the Processor to notify Ralph Lauren if the Processor determines that it can no longer meet its obligation to provide the same level of protection as is required by the Privacy Shield Principles, (vi) upon notice, including under (v) above, takes reasonable and appropriate steps to stop and remediate unauthorized processing of the Personal Data by the Processor, and (vii) provides a summary or representative copy of the relevant privacy provisions of the Processor contract to the Department of Commerce, upon request. Ralph Lauren remains liable under the Privacy Shield Principles if the company’s third-party Processor onward transfer recipients process relevant Personal Data in a manner inconsistent with the Privacy Shield Principles, unless Ralph Lauren proves that it is not responsible for the event giving rise to the damage.
 
 **Security**
 
-Ralph Lauren maintains reasonable administrative, technical and physical safeguards to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. 
+Ralph Lauren takes reasonable and appropriate measures to protect Consumer Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in the processing and the nature of the Personal Data.
+
+**Data Integrity and Purpose Limitation**
+
+Ralph Lauren limits the Consumer Personal Data it processes to that which is relevant for the purposes of the particular processing. Ralph Lauren does not process Consumer Personal Data in ways that are incompatible with the purposes for which the information was collected or subsequently authorized by the relevant Consumer. In addition, to the extent necessary for these purposes, Ralph Lauren takes reasonable steps to ensure that the Personal Data the company processes is (i) reliable for its intended use, and (ii) accurate, complete and current. In this regard, Ralph Lauren relies on its Consumers to update and correct the relevant Personal Data to the extent necessary for the purposes for which the information was collected or subsequently authorized. Consumers may contact Ralph Lauren as indicated below to request that Ralph Lauren update or correct relevant Personal Data.
+
+Subject to applicable law, Ralph Lauren retains Consumer Personal Data in a form that identifies or renders identifiable the relevant Consumer only for as long as it serves a purpose that is compatible with the purposes for which the Personal Data was collected or subsequently authorized by the Consumer.
+
+**Access**
+
+Consumers generally have the right to access their Personal Data. Accordingly, where appropriate, Ralph Lauren provides Consumers with reasonable access to the Personal Data Ralph Lauren maintains about them. Ralph Lauren also provides a reasonable opportunity for those Consumers to correct, amend or delete the information where it is inaccurate or has been processed in violation of the Privacy Shield Principles, as appropriate. Ralph Lauren may limit or deny access to Personal Data where the burden or expense of providing access would be disproportionate to the risks to the Consumer’s privacy in the case in question, or where the rights of persons other than the Consumer would be violated. Consumers may request access to their Personal Data by contacting Ralph Lauren as indicated below.
+
+**Recourse, Enforcement and Liability**
+
+Ralph Lauren has mechanisms in place designed to help assure compliance with the Privacy Shield Principles. Ralph Lauren conducts an annual self-assessment of its Consumer Personal Data practices to verify that the attestations and assertions Ralph Lauren makes about its Privacy Shield privacy practices are true and that Ralph Lauren’s privacy practices have been implemented as represented and in accordance with the Privacy Shield Principles.
+
+Consumers may file a complaint concerning Ralph Lauren’s processing of their Personal Data. Ralph Lauren will take steps to remedy issues arising out of its alleged failure to comply with the Privacy Shield Principles. Consumers may contact Ralph Lauren as specified below about complaints regarding Ralph Lauren’s Consumer Personal Data practices.
+
+If a Consumer’s complaint cannot be resolved through Ralph Lauren’s internal processes, Ralph Lauren will cooperate with JAMS pursuant to the JAMS Privacy Shield Program, which is described on the JAMS website at <https://www.jamsadr.com/eu-us-privacy-shield>. JAMS mediation may be commenced as provided for in the JAMS rules. Following the dispute resolution process, the mediator or the Consumer may refer the matter to the U.S. Federal Trade Commission, which has Privacy Shield investigatory and enforcement powers over Ralph Lauren. Under certain circumstances, Consumers also may be able to invoke binding arbitration to address complaints about Ralph Lauren’s compliance with the Privacy Shield Principles.
+
+**How to Contact Ralph Lauren**
+
+To contact Ralph Lauren with questions or concerns about this Policy or Ralph Lauren’s Consumer Personal Data practices:
+
+Write to:
+
+Ralph Lauren Corporation  
+Attention: Chief Privacy Officer  
+625 Madison Avenue  
+5th Floor  
+New York, New York 10022
+
+or
+
+Ralph Lauren Europe Sàrl  
+Attention: General Counsel EMEA  
+24, Route de la Galaise,  
+1228 Plan-Les-Ouates  
+Switzerland 
+
+E-mail: [eu.privacy@ralphlauren.com](mailto:eu.privacy@ralphlauren.com). 
+
+Back to Top  
+  
+  
+    SWISS SAFE HARBOR PRIVACY POLICY  
+   Last modified: September 20, 2016  
+  
+We at Ralph Lauren Corporation and its US affiliate, Club Monaco US, LLC, (collectively "Ralph Lauren") respect your concerns about privacy and value the relationship we have with you. Ralph Lauren has certified that it abides by the Safe Harbor privacy principles, as set forth by the United States Department of Commerce, regarding the collection, storage, transfer, use and other processing of Personal Information (as defined below) transferred to the United States from Switzerland. This Policy outlines our general policy and practices for implementing the Safe Harbor privacy principles for Personal Information that we collect online and offline.
+
+While the Safe Harbor framework is no longer considered a valid data transfer mechanism in the EEA, Ralph Lauren Corporation continues to comply with the relevant principles of the Swiss Safe Harbor with respect to Personal Information that initially is provided in Switzerland.
+
+For purposes of this Policy: 
+
+"Contractor" means any former, current or prospective (i) individual worker who is an independent contractor or consultant of Ralph Lauren or any of its affiliates in Switzerland or (ii) employee of a vendor who is provided access to the network, telephone or IT systems, or badging systems of Ralph Lauren or any of its affiliates in Switzerland.
+
+"Customer" means any individual who is a potential or actual consumer of Ralph Lauren, or any of its affiliates in Switzerland or Partners, and who is located in Switzerland.
+
+"EEA" means the European Economic Area.
+
+“Partner” means any licensing or franchising partner or other third party operating a store under any of the Ralph Lauren brands.
+
+"Personal Information" means information that (i) is transferred to the United States from Switzerland, (ii) is recorded in any form, (iii) is about, or relates to, an identified or identifiable individual, and (iv) can be linked to that individual.
+
+"Sensitive Information" means Personal Information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, sex life, the commission or alleged commission of any offense, any proceedings for any offence committed or alleged to have been committed by the individual or the disposal of such proceedings, or the sentence of any court in such proceedings.
+
+"Sites" means www.ralphlauren.com, www.clubmonaco.com and the websites and mobile applications listed here.
+
+"Store" means a store operated under any of the Ralph Lauren brands by Ralph Lauren or any of its affiliates or Partners, which store is located in Switzerland.
+
+"Worker" means any current, former or prospective employee or intern of Ralph Lauren or any of its affiliates, in Switzerland, or of any Contractor, located in Switzerland.
+
+**Safe Harbor Privacy Principles**
+
+Ralph Lauren's practices regarding the collection, storage, transfer, use and other processing of Personal Information comply with the Safe Harbor principles of notice, choice, onward transfer, access, security, data integrity, and enforcement and oversight.
+
+**Notice**
+
+We notify our Customers and Workers located in Switzerland about the purposes for which we collect and use Personal Information, the types of third parties to which we disclose the information (for example, service providers that process Personal Information on our behalf), certain privacy rights of our Customers and Workers (such as the right to access Personal Information and the choice for limiting the use and disclosure of the information), and how to contact us about our practices concerning Personal Information.
+
+Job applicants who submit Personal Information through our careers site may view our [ Careers Privacy Policy](http://global.ralphlauren.com/en-us/about/pages/careers.aspx?ab=footer_careers)for details about our Personal Information privacy practices. Current Workers can find additional information in the Employee Data Protection Policy available on Polo Express or from local Human Resources representatives. Customers may view our Privacy Notice by clicking [here](https://web.archive.org/web/20170610144550id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp?display=safety&subdisplay=restrictions#policies). 
+
+**Purpose of Collection and Use of Personal Information**
+
+Ralph Lauren and its affiliates in Switzerland collect Personal Information through their Sites and in their Stores. In addition, Workers submit Personal Information to Ralph Lauren and its affiliates in Switzerland in connection with the employment relationship or services performed for Ralph Lauren.
+
+We obtain, use, disclose and otherwise process Personal Information about our Customers to (i) process transactions they request, including e-commerce and mobile transactions, (ii) improve our Stores, Sites, quality of service, and Customers' shopping experience, (iii) send communications about our products, services, campaigns and promotions, (iv) prevent and detect fraud and abuse, (v) process information or claims in connection with incidents at our Stores, (vi) enable our service providers to perform certain activities on our behalf, and (vii) comply with our legal obligations, policies and procedures and for internal administrative and analytics purposes.
+
+We obtain, use, disclose and otherwise process Personal Information about our current, former and prospective Workers to (i) carry out and support our human resources functions and activities, (ii) carry out our obligations under employments contracts and employment and benefits laws, (iii) administer employee participation in benefits, compensation, human resources and training plans and programs, (iv) manage employee purchases from Ralph Lauren locations, (v) manage employee performance, (vi) implement compliance and discipline procedures, and investigate and report on employee compliance and discipline, (vii) comply with our legal obligations, carry out investigations (including in connection with our whistleblowing hotline) and for internal administrative and analytics purposes, and (viii) manage and conduct Ralph Lauren's business activities. Ralph Lauren obtains, uses, discloses and otherwise processes Personal Information about its Contractors to (i) carry out and support Ralph Lauren's procurement functions and activities, (ii) carry out Ralph Lauren's contractual and legal obligations, (iii) manage Contractors' performance, (iv) implement compliance procedures, and investigate and report on Contractor compliance, (v) comply with Ralph Lauren's legal obligations, carry out investigations and perform internal administrative and analytics activities, and (vi) manage and conduct Ralph Lauren's business activities.
+
+We obtain, use, disclose and otherwise process Personal Information about Workers' emergency contacts and other individuals (such as dependents and beneficiaries) to the extent our Workers provide the information to us. We process this information to comply with our legal obligations and for internal administrative purposes. To the extent necessary or appropriate for compliance with relevant legal or contractual obligations, we process Sensitive Information about our Workers, including for purposes of managing attendance and Worker records, and organizing elections of employees' union representatives, and to protect the health and safety of our Workers.
+
+**Choice**
+
+Customers located in Switzerland may direct us not to disclose their Personal Information to third parties (other than our service providers). We do not use Personal Information for purposes incompatible with the purposes for which we originally collected the information without notifying the relevant individuals of such uses and offering an opportunity to opt out.
+
+We may disclose Personal Information without offering individuals an opportunity to opt out (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We also reserve the right to transfer Personal Information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use Personal Information you have provided to us in a manner that is consistent with our Privacy Notice.
+
+**Onward Transfer of Personal Information**
+
+We may share Personal Information with service providers we have retained to perform services on our behalf. We require service providers to whom we disclose Personal Information and who are not subject to laws based on the Swiss Federal Data Protection Act (DPA), to contractually agree to provide at least the same level of protection for Personal Information as is required by the relevant Safe Harbor principles.
+
+**Access to Personal Information**
+
+Ralph Lauren provides Customers and Workers with reasonable access to the Personal Information maintained about them. We also provide a reasonable opportunity, as required by applicable law, to correct, amend or delete that information where it is inaccurate. We may limit or deny access to Personal Information where providing such access is unreasonably burdensome or expensive under the circumstances or as otherwise permitted by the Safe Harbor principles. To obtain access to Personal Information, Customers may contact Ralph Lauren as specified in the "How to Contact Us" section of this Policy. Workers should submit requests for access to their Personal Information to the local Human Resources representative.
+
+**Security**
+
+Ralph Lauren maintains reasonable administrative, technical and physical safeguards to protect Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
 **Data Integrity**
 
-Ralph Lauren takes reasonable steps to ensure that Personal Information the company collects is relevant for the purposes for which it is to be used and that the information is reliable for its intended use and is accurate, complete and current. We depend on our Customers and Workers to update and correct their Personal Information, or ask us to do so, whenever necessary or appropriate. 
+Ralph Lauren takes reasonable steps to ensure that Personal Information the company collects is relevant for the purposes for which it is to be used and that the information is reliable for its intended use and is accurate, complete and current. We depend on our Customers and Workers to update and correct their Personal Information, or ask us to do so, whenever necessary or appropriate.
 
 **Enforcement and Oversight**
 
-Ralph Lauren has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that representations we make about our Personal Information privacy practices are true and that related privacy policies have been implemented as represented. 
+Ralph Lauren has established procedures for periodically verifying implementation of and compliance with the Safe Harbor principles. We conduct an annual self-assessment of our practices with respect to Personal Information to verify that representations we make about our Personal Information privacy practices are true and that related privacy policies have been implemented as represented.
 
-Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at <http://www.jamsadr.com/safeharbor/>; (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant data protection authorities in the EU or Switzerland. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices 
+Customers and Workers may file a complaint with Ralph Lauren in connection with the processing of their Personal Information under the Safe Harbor principles. We will also cooperate with the following dispute resolution bodies to address individuals' complaints regarding privacy issues: (i) for Customer complaints, we cooperate with JAMS in accordance with the JAMS Safe Harbor Program, which is described on the JAMS website at <http://www.jamsadr.com/safeharbor/>; (ii) for complaints concerning our handling of Worker Personal Information, we cooperate with the relevant data protection authorities in Switzerland. We will take steps to remedy any issues arising out of a failure to comply with the Safe Harbor principles. Please contact us as specified below to address any complaints regarding our Personal Information practices
 
 **How to Contact Us**
 
-Please address any questions or concerns regarding our Safe Harbor Privacy Policy or our practices concerning Personal Information by: 
+Please address any questions or concerns regarding our Swiss Safe Harbor Privacy Policy or our practices concerning Personal Information by:
 
 Writing to: Ralph Lauren Corporation  
 Attention: Chief Privacy Officer  
 625 Madison Avenue  
 11th Floor  
-New York, New York 10022 
+New York, New York 10022
 
-or 
+or
 
 Ralph Lauren Europe Sàrl  
 Attention: General Counsel EMEA  
@@ -372,16 +503,16 @@ Switzerland
 
 To learn more about the Safe Harbor Program, and to view Ralph Lauren's certification, please visit <http://www.export.gov/safeharbor/>. 
 
-Back to Top   
+Back to Top  
   
   
     Mobile Application Privacy Notice  
   
-This Mobile Application Privacy Notice applies to each of the Ralph Lauren mobile applications ("Apps"). We are not responsible for the content, use or privacy practices of any third-party sites linked from or otherwise accessible from the Apps which are not operated by Ralph Lauren. 
+This Mobile Application Privacy Notice applies to each of the Ralph Lauren mobile applications ("Apps"). We are not responsible for the content, use or privacy practices of any third-party sites linked from or otherwise accessible from the Apps which are not operated by Ralph Lauren.
 
 **Personal Information You Provide and How We Use It**
 
-Through our Apps, you can find the location of the nearest Ralph Lauren store by entering your zip code or by allowing the Apps to use your current location to locate the nearest store. You also may access Ralph Lauren's website from the Apps. When you visit our website, we may collect certain personal information about you as described above in the Privacy Notice applicable to our website. 
+Through our Apps, you can find the location of the nearest Ralph Lauren store by entering your zip code or by allowing the Apps to use your current location to locate the nearest store. You also may access Ralph Lauren's website from the Apps. When you visit our website, we may collect certain personal information about you as described above in the Privacy Notice applicable to our website.
 
 We may share personal information we collect through the Apps with service providers that perform services on our behalf and our affiliates. We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity. We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. 
 
@@ -393,15 +524,15 @@ We provide you with reasonable access to personal information we have retained a
 
 **Security**
 
-We maintain administrative, technical and physical safeguards to help protect the personal information you provide through the Apps. 
+We maintain administrative, technical and physical safeguards to help protect the personal information you provide through the Apps.
 
 **Changes to the Mobile App Privacy Notice**
 
-We may update this Mobile App Privacy Notice periodically and without prior notice. We will post a notice on the Ralph Lauren.com website and on the Mobile App Privacy Notice appearing on the App itself to notify you of any significant changes and indicate at the bottom of this page when the Notice was most recently updated. 
+We may update this Mobile App Privacy Notice periodically and without prior notice. We will post a notice on the Ralph Lauren.com website and on the Mobile App Privacy Notice appearing on the App itself to notify you of any significant changes and indicate at the bottom of this page when the Notice was most recently updated.
 
 **Contact Us**
 
-If you have any questions or comments about this Mobile App Privacy Notice, please contact us by writing to: 
+If you have any questions or comments about this Mobile App Privacy Notice, please contact us by writing to:
 
 Ralph Lauren Corporation  
 Attention: Chief Privacy Officer  
