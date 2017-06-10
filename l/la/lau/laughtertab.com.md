@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108033549id_/http%3A//laughtertab.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughtertab.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610154941id_/http%3A//laughtertab.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy PolicyLaughter Tab
 
