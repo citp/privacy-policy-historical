@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043916id_/http%3A//www.e-junkie.com/ej/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-junkie.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610054031id_/http%3A//www.e-junkie.com/ej/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | E-junkie
 
 ### INFORMATION E-junkie.com GATHERS AND TRACKS
 
@@ -19,7 +19,7 @@
 We offer the following services, which require some type of voluntary submission of personal information by users:
 
   1. E-mail notifications  
-We will send out notifications about payments and other activity related to your account. You might also receive periodic notifications about the changes in features for as long as you a registered member of E-junkie.com. You may cancel your subscription anytime from **[Seller Admin](http://www.e-junkie.com/ej/admin.php) > Cancel Subscription**.  
+We will send out notifications about payments and other activity related to your account. You might also receive periodic notifications about the changes in features for as long as you a registered member of E-junkie.com. You may cancel your subscription anytime from **[Seller Admin](https://www.e-junkie.com/ej/admin.php) > Cancel Subscription**.  
  
   2. Electronic newsletters (Dispatches)  
 We will offer a electronic newsletter to users. E-junkie.com gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.  
@@ -91,3 +91,5 @@ Optional registration for site promotions, newsletters, member access areas and 
 This site has stringent security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 By using our site you consent to the collection and use of information as specified in this policy. Should we decide to alter our Privacy Policy, this page will be updated to reflect those changes in order to keep our visitors in the know.
+
+Was this article helpful?
