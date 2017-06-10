@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the optimizerx.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116092640id_/http%3A//www.optimizerx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimizerx.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610120612id_/http%3A//www.optimizerx.com/privacy-policy) for the most accurate reproduction.*
 
-# Prescription Coupons, Savings and Support Offers - OPTIMIZERx - Privacy Statement
+# Privacy Policy | OptimizeRx
+
+**Privacy Statement**
 
 **Internet Privacy Policy**
 
-OPTIMIZERx and its participating sponsors recognize the importance of protecting the privacy of information we may collect from our online visitors. To this end, we are committed to using our best efforts to respect the privacy of our online visitors. It is our intent to balance our legitimate business interests in collecting and using information received from and about you with your reasonable expectations of privacy. The following is the way we handle information learned about you from your visit to our Web site. 
+OPTIMIZERx® and its participating sponsors recognize the importance of protecting the privacy of information we may collect from our online visitors. To this end, we are committed to using our best efforts to respect the privacy of our online visitors. It is our intent to balance our legitimate business interests in collecting and using information received from and about you with your reasonable expectations of privacy. The following is the way we handle information learned about you from your visit to our Web site.
 
 **Collective Data**
 
-OPTIMIZERx deposits certain bits of information called cookies in a visitor’s computer. Cookies are sent back only to the Web site that deposited them when a visitor returns to that site. Cookies can tell us how and when pages in a Web site are visited and by how many people. This technology does not collect personal identifiable information; the information collected is in an aggregate, non identifiable form. With the information we can learn through this technology, we hope to improve our site. 
+OPTIMIZERx deposits certain bits of information called cookies in a visitor’s computer. Cookies are sent back only to the Web site that deposited them when a visitor returns to that site. Cookies can tell us how and when pages in a Web site are visited and by how many people. This technology does not collect personal identifiable information; the information collected is in an aggregate, non identifiable form. With the information we can learn through this technology, we hope to improve our site.
 
 **Personally Identifiable Information (PII)**
 
