@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the everyjoe.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119081518id_/http%3A//www.everyjoe.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the everyjoe.com privacy policy that was archived on 2017-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170610030326id_/http%3A//www.everyjoe.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head>
 	<meta charset="UTF-8">
@@ -26,10 +26,10 @@
     <!-- <meta property="fb:admins" content="100000997673474"/> -->
     <meta property="fb:app_id" content="228138130592017">
     <meta property="og:url" content="http://www.everyjoe.com/privacy/">
-<script src="//cdn.linksmart.com/linksmart.js" async=""></script><script async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=24024"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NSLS7W"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
+<script src="//cdn.linksmart.com/linksmart.js" async=""></script><script async="" src="https://b-ssl.grvcdn.com/moth-min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" async="" src="http://www.zergnet.com/zerg.js?id=24024"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NSLS7W"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
 <script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
 
-<meta name="description" content="Sports and Entertainment News"><meta name="DC.date.issued" content="2016-11-19T8:15:17-0:00"><meta name="robots" content="index,follow">
+<meta name="description" content="Sports and Entertainment News"><meta name="DC.date.issued" content="2017-06-10T3:03:26-0:00"><meta name="robots" content="index,follow">
 
 <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Privacy Policy for EveryJoe">
@@ -202,27 +202,23 @@ var siteGlobals = {
 	tags : []
 };
 </script>
+<!-- Header Bidding Lite Tag -->
+<script type="text/javascript" src="//pubportal.brkmd.com/tms/hblt64cd36f5c389fafb9706a66c32a4d922.js"></script>
+
+
 <!-- BEGIN GPT -->
 <script type="text/javascript">
-    var GTM_TIMEOUT = 3000; //Wait 3 seconds
-	
 	var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
     
-	setTimeout(function(){
-		if(!googletag.apiReady) { //Check if GPT API is already loaded (by GTM)
-			(function() {var gads = document.createElement("script");
-				gads.async = true;gads.type = "text/javascript";
-				var useSSL = "https:" == document.location.protocol;
-				gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-				var node = document.getElementsByTagName("script")[0];
-				node.parentNode.insertBefore(gads, node);
-			})();
-		}
-		else {
-			//GPT already loaded
-		}
-	}, GTM_TIMEOUT);
+	
+	(function() {var gads = document.createElement("script");
+		gads.async = true;gads.type = "text/javascript";
+		var useSSL = "https:" == document.location.protocol;
+		gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+		var node = document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
 	
 </script>
 
@@ -303,10 +299,12 @@ if (isNaN(parseInt(btCookie.get("_bt_pageviews"), 10))) {
     }
 
 
-    var adGlobal = {
+    var isMobile = (typeof window.orientation != 'undefined' && window.innerWidth < 728) || getQueryVariable('mobile') == '1',
+        adGlobal = {
             unit: {
-                leaderboard         : siteGlobals.category + '-top',
+                leaderboard         : siteGlobals.category + (isMobile ? '-top-mobile' : '-top'),
                 rectangle           : siteGlobals.category + '-right-atf',
+                rectangle_mobile    : siteGlobals.category + '-right-atf-mobile',
                 footer              : siteGlobals.category + '-bottom',
                 skyscraper          : siteGlobals.category + '-right-btf',
                 oop                 : siteGlobals.category + '-interstitial'
@@ -322,8 +320,8 @@ if (isNaN(parseInt(btCookie.get("_bt_pageviews"), 10))) {
                 tags        : siteGlobals.tags
             },
 
-            lbSize          : [[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250],[960,1]],
-            lbDiv           : 'div-gpt-ad-leaderboard'
+            lbSize          : isMobile ? [[320, 50],[960, 1]] : [[728, 90],[970, 66],[970,90],[970,250],[970,40],[1000,40],[1000,66],[1000,250],[960,1]],
+            lbDiv           : isMobile ? 'div-gpt-ad-leaderboard-mobile' : 'div-gpt-ad-leaderboard'
 
     };
     
@@ -341,14 +339,22 @@ if (isNaN(parseInt(btCookie.get("_bt_pageviews"), 10))) {
 
             lbSlot = googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.leaderboard, adGlobal.lbSize, adGlobal.lbDiv)
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-            googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.rectangle, [[300, 250],[300,600],[300,1050]],'div-gpt-ad-rectangle')
-                .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
-           
-            googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.footer, [728, 90],'div-gpt-ad-footer')
-                .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
             
-            googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.skyscraper, [[300,250]],'div-gpt-ad-skyscraper')
+            if(isMobile) {
+                googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.rectangle_mobile, [728, 90],'div-gpt-ad-rectangle-mobile')
+                    .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            } else {
+                googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.rectangle, [[300, 250],[300,600],[300,1050]],'div-gpt-ad-rectangle')
                 .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+
+                googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.footer, [728, 90],'div-gpt-ad-footer')
+                    .setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+            
+                googletag.defineSlot('/4678/everyjoe.dmp/'+adGlobal.unit.skyscraper, [[300,250]],'div-gpt-ad-skyscraper')
+                    .setCollapseEmptyDiv(true, true).addService(googletag.pubads());    
+            }
+
+            
             
             // Sets targeting values for all ad tags
             googletag.pubads()
@@ -359,10 +365,6 @@ if (isNaN(parseInt(btCookie.get("_bt_pageviews"), 10))) {
                 .setTargeting('pageviews',adGlobal.target.pageviews)
                 .setTargeting('tags', adGlobal.target.tags);
 
-            if(typeof pbjs_setTargeting === 'function') {
-				pbjs_setTargeting(); //Set targeting for header bidding
-			}
-			
 			googletag.enableServices();
 
             //Wait for ad slots to render
@@ -806,7 +808,7 @@ znscr.parentNode.insertBefore(zergnet, znscr);
 <li id="menu-item-320951" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-116841 current_page_item menu-item-320951"><a href="http://www.everyjoe.com/privacy/">Privacy Policy / CA Privacy Policy</a></li>
 <li id="menu-item-320953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-320953"><a href="http://www.everyjoe.com/terms/">Terms of Use</a></li>
 <li id="menu-item-342968" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-342968"><a href="/privacy/">©2014 Defy Media, LLC, All rights reserved.</a></li>
-<li id="menu-item-349583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349583"><a href="http://www.defymedia.com/about-us/contact-us/" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.defymedia.com']);">This site is part of the Defy Media Men’s Lifestyle network.</a></li>
+<li id="menu-item-349583" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-349583"><a href="http://www.defymedia.com/about-us/contact-us/" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://www.defymedia.com']);">Part of the Made Man network.</a></li>
 </ul></div></aside>	</div><!-- #third .widget-area -->
 	</div><!-- #supplementary -->
 	
@@ -906,7 +908,7 @@ jQuery(document).ready(function() {        jQuery(".adminbar-quick-backup-run a"
             jQuery.ajax({
                 type: 'post', success: function(json) { alert(json.message); },
                 dataType: 'json', data: { runquick: {id: 1, type: code, control: 0} },
-                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=36d4e9dda0'
+                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=3fb0f4b4ca'
             });
         });
     });</script>
@@ -924,8 +926,8 @@ var pollsL10n = {"ajax_url":"http:\/\/www.everyjoe.com\/wp-admin\/admin-ajax.php
 <script type="text/javascript" src="http://cdn2.everyjoe.com/wp-content/themes/ej_new/js/b5-footer.js"></script>
 <script type="text/javascript" src="http://cdn2.everyjoe.com/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.3"></script>
 
-<!-- Max memory: 12961424-->
-<!-- time: 0.376 -->
+<!-- Max memory: 12965200-->
+<!-- time: 0.441 -->
 
 <div class="share-tip-window" id="share-tip-window">
 	<div class="share-tip-dialog">
@@ -943,7 +945,7 @@ var pollsL10n = {"ajax_url":"http:\/\/www.everyjoe.com\/wp-admin\/admin-ajax.php
 			<input type="hidden" name="tip_post" id="tip_post" value="http://www.everyjoe.com/privacy/">
 			<input type="hidden" name="tip_submit" id="tip_submit" value="0">
 			<input type="submit" value="Share" onclick="el = document.getElementById('tip_submit'); el.value = 1;"> &nbsp; or &nbsp; <a href="" onclick="close_modal_window('share-tip-window'); return false;">Cancel</a>
-			<input type="hidden" name="wp_nonce" value="307d27145a"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="709eb2df51042e9d0bc56ff16f3e78ec50fa64e9ab883f2f16d4abba4cf7a51b"></form>		</div>
+			<input type="hidden" name="wp_nonce" value="d975efcba1"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="709eb2df51042e9d0bc56ff16f3e78ec50fa64e9ab883f2f16d4abba4cf7a51b"></form>		</div>
 	</div>
 </div>
 <!-- nagios check -->
@@ -1034,8 +1036,8 @@ s.parentNode.insertBefore(mb, s);
 
 Minified using memcached
 Page Caching using memcached
-Database Caching 88/98 queries in 0.056 seconds using memcached
+Database Caching 52/98 queries in 0.051 seconds using memcached
 Object Caching 1799/2008 objects using memcached
 Content Delivery Network via cdn.everyjoe.com
 
- Served from: www.everyjoe.com @ 2016-11-19 03:15:17 by W3 Total Cache --></body></html>
+ Served from: www.everyjoe.com @ 2017-06-09 23:03:26 by W3 Total Cache --></body></html>
