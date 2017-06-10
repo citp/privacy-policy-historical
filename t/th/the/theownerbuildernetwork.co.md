@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theownerbuildernetwork.co privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328183914id_/http%3A//theownerbuildernetwork.co/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theownerbuildernetwork.co privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610220610id_/https%3A//theownerbuildernetwork.co/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | The Owner-Builder Network
+# Privacy Statement
 
 Please read for information on privacy safeguards on this site. This includes information on how we collect and use the information gathered on our web sites. It also covers our use of cookies.
 
