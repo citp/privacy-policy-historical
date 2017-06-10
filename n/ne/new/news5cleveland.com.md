@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the news5cleveland.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203194444id_/http%3A//www.newsnet5.com/about-us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news5cleveland.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610204617id_/http%3A//www.news5cleveland.com/about-us/privacy_policy) for the most accurate reproduction.*
 
-# newsnet5.com Privacy Policy - newsnet5.com Cleveland
+# newsnet5.com Privacy Policy - News 5 Cleveland
 
 The E.W. Scripps Company and its subsidiaries (“us”, “we”, or “our”) provide online services, including, without limitation, websites, applications, platforms, and other electronic services (collectively, the “Services”).  This Privacy Policy describes the treatment of information provided or collected through the Services where this Privacy Policy is posted.  Please read the following to learn more about our Privacy Policy.
 
