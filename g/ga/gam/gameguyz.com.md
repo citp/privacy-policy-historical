@@ -1,81 +1,100 @@
-> *The following text is extracted and transformed from the gameguyz.com privacy policy that was archived on 2014-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141216074833id_/http%3A//www.gameguyz.com/page/privacy-policy-for-gameguyz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameguyz.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610022425id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# Privacy Policy for gameguyz
+# Legal Agreement
 
-**Privacy Policy for gameguyz**
+**GoDaddy Respects Your Privacy**
 
-Gameguyz is promise to protecting your privacy. You accept this policy and agree with it when you sign up to be an on-line visitor of our website. We have adopted a companywide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-## What information we collect and why we collect it?
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-We collect the information on a voluntary condition and in order to provide all of our users with better services.
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-We gather personal information from all registering members. This includes e-mail address, and age. We also store your personal preferences related to this Web site in your account data.
+**Information Collection and Use**
 
-We also collect data relating to all network connections, primarily your IP address. We use this information to track fraudulent user activity (including but not limited to: the use of multiple accounts, account sharing, illegal forum activity.) Your browser type and version are also detected to better enhance your user experience.
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We keep track of what polls you have voted in to prevent duplicate voting. This data is stored with your user account data.
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-Please keep in mind that if you disclose personal information through our messaging system, public forms, or chat rooms - this information could be collected and used by other parties.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We encourage you to review the privacy statements of Web sites that you choose to link to from GAMEGUYZ.COM so that you know how those web sites collect and use your personal information.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## How do we use your personal information?
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Your date of membership and last login date is used in your GAMEGUYZ.COM "User Profile" to create a better sense of community at our site. In addition we give you the option of displaying your e-mail address and age. If you wish to hide this data, you can do so in the "Your Account Settings" page.
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-NOTE: any of your personal information will never be sold or shared with other parties by GAMEGUYZ.COM. All information is strictly for internal use and all e-mails are only sent from our facilities.
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-You can change your subscription to our website by updating your account profile by selecting "Your Account Settings" and then modifying the options in "Alert Settings".
+**Security**
 
-GAMEGUYZ.COM may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on our company or the site; (b) protect and defend the rights or property of our company, including the GAMEGUYZ.COM Web site; or (c) act under exigent circumstances to protect the personal safety of users of GAMEGUYZ.COM, its web sites, or the public.
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-## How do we use the cookies?
+**Updating Your Information**
 
-When you access our website, small data files called "cookies" may be placed on your computer by us, or companies we hire to track how our website is used.
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-We send a "session cookie" to your computer when you log in to your account or otherwise use the GAMEGUYZ Services. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect.
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-We also use longer-lasting cookies for other purposes such as to display your e-mail address on our sign-in form, so that you don't have to retype the e-mail address each time you log in to your account.
+       ii.      You may send mail to GoDaddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-We encode our cookies so that only we can interpret the information stored in them. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of our website.
+      iii.      You may call us at: (480) 505-8800
 
-We and our service-providers also use cookies to customize our services, content and advertising; measure promotional effectiveness, and promote trust and safety.
+       iv.      You may fax us at: (480) 505-8844
 
-You may encounter cookies from third parties when using the GAMEGUYZ Services on certain websites that we do not control (for example, if you view a webpage created by a third party or use an application developed by a third party, there may be a cookie placed by that web page or application).
+**Sending Emails**
 
-## How do we update the information?
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request.
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical.
+**Compliance with Laws and Law Enforcement**
 
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems.
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-## Notice Concerning Children
+**Third Party Service Providers**
 
-Gameguyz is a general audience site, and does not direct any of the content specifically at children under 13 years of age. We understand and are committed to respecting the sensitive nature of children's privacy online, and as such do not knowingly collect any personal information from any user under age 13. We will promptly delete any personal information in that user's Account if we learn or have reason to suspect that a Site user is under age 13. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-## Website Areas beyond Our Control
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Gameguyz includes a section for interactive “forums” to which users with an Account may post. Please keep in mind that any information that is disclosed in the Forums becomes public information in which you relinquish any expectation of privacy. Remember that Gameguys asks that you not disclose any personal information when posting in the Forums, and you should exercise caution when deciding what information to share. We reserve the right, but shall have no obligation, to monitor your use of the Forums.
+**Supplementation of Information**
 
-Gameguyz contains links to other websites. If you choose to visit other websites, we are not responsible for the privacy practices or content of those other websites, and it is your responsibility to review the privacy policies at those websites to confirm that you understand and agree with their policies. 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-## Security
+**Contests/Surveys**
 
-Gameguyz has security measures in place to help protect against the loss, misuse, and alteration of the information that we obtain from you. We store your personal information on our servers. In addition, we restrict access to personal information to Gameguyz employees, independent contractors and agents who need to know this information in order to develop, operate and maintain the Site. However, no server, computer or communications network or system, or data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect user information, we cannot ensure or warrant the security of any information you transmit to us through the use of Gameguyz and we make no assurances about our ability to prevent any such loss or misuse to you or to any third party. You acknowledge and agree that you provide such information and engage in such transmissions at your own risk.
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-## Service Providers
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-We may share your personal information with service providers that we engage for the purpose of processing information on our and your behalf, such as to fulfill product orders, collect billing information and process payments.
+**Tell-A-Friend**
 
-To the extent applicable, we require these entities to comply with this Policy and appropriate confidentiality and security measures. Some of the pages within Gameguyz utilize masking techniques to serve content to you from our partners while preserving the look and feel of our Site. Please be aware that you are providing your personal information to these third parties, and are doing so pursuant to the third party’s privacy policy. 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-## Enforcement
+**What Happens to my Personal Information if I Opt Out?**
 
-We regularly review our compliance with our Privacy Policy. When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly.
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
-## Changes
+**Transfer of Data Abroad**
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+GoDaddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
