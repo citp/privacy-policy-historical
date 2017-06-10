@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fasttechbuzz.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220011748id_/http%3A//fasttechbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttechbuzz.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611014127id_/http%3A//fasttechbuzz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Fast Tech Buzz
 
 **FastTechBuzz.com respects your privacy.**
 
