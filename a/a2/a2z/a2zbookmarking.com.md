@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2zbookmarking.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004000id_/http%3A//www.a2zbookmarking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zbookmarking.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610110252id_/http%3A//www.a2zbookmarking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy › A2zbookmarking.com : Get traffic from dofollow social bookmarking sites | Search engine marketing website for SEO | Submit quality articles of your website to increase backlinks for best search engine ranking
 
