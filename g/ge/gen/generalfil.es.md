@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generalfil.es privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521172207id_/http%3A//www.general-community.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalfil.es privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610123829id_/http%3A//www.general-community.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - General World
 
