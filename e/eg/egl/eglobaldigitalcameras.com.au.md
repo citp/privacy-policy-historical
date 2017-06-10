@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121102349id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610110445id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eGlobal Australia
 
@@ -40,6 +40,8 @@ eGlobaL may use your personal information to:
 
         send you marketing communications.
 
+        share remarketing insights with Google Analytics tool to personalize best marketing offers for you.
+
 **Securing your data**
 
 eGlobaL will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
@@ -58,16 +60,14 @@ You should check this page occasionally to ensure you are familiar with any chan
 
 Privacy Policy Supervisor, eGlobal Digital Cameras
 
-27/F., E - Trade Plaza, 24 Lee Chung Street, Chai Wan, Hong Kong
+West Wing, 2/F, 822 Lai Chi Kok Road, Lai Chi Kok, Kowloon
 
 e-mail: [privacy@eglobaldigitalcameras.com.au](mailto:privacy@eglobaldigitalcameras.com.au)
 
-Contact Number: +442071932736 
-
 **To Unsubscribe**
 
-To close an account, please visit our [online support centre](http://www.eglobaldigitalcameras.com.au/contact-us.html) and submit a ticket. Your user account will be closed and all information removed from our server within 48 hours.
+To close an account, please visit our [online support center](http://www.eglobaldigitalcameras.com.au/contact-us.html) and submit a ticket. Your user account will be closed and all information removed from our server within 48 hours.
 
 To opt-out from our newsletter subscription, please follow the instructions found at the bottom of the newsletter.
 
-To opt-out from our advertising or promotion inforomation, you can unsubscribe [here](http://www.eglobaldigitalcameras.com.au/unsubscribe.php).
+To opt-out from our advertising or promotion information, you can unsubscribe [here](http://www.eglobaldigitalcameras.com.au/unsubscribe.php).
