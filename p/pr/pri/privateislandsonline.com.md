@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121081626id_/http%3A//www.privateislandsonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610124608id_/http%3A//www.privateislandsonline.com/page/privacy) for the most accurate reproduction.*
 
 # Private Islands Online - Privacy Policy
 
@@ -12,14 +12,14 @@ We will collect personal information by lawful and fair means and, where appropr
 
 Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
-    We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-    We will make readily available to customers information about our policies and practices relating to the management of personal information.
+We will make readily available to customers information about our policies and practices relating to the management of personal information.
 
-    Google, as a third party vendor, uses cookies to serve ads on your site.
+Google, as a third party vendor, uses cookies to serve ads on your site.
 
-    Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-    Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
