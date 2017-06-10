@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122439id_/http%3A//www.papercut.com/kb/Main/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercut.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610100231id_/http%3A//www.papercut.com/kb/Main/PrivacyPolicy) for the most accurate reproduction.*
 
 # PaperCut KB | PaperCut's Privacy Policy
 
-A lot of companies publish these long detailed “legal speak” privacy policies, often hiding the fact that they’re going to sell your email address to to 3rd parties, or send you “interesting” updates every second day! At PaperCut, we’ve decided that our privacy policy should be simple and presented in plain English. Here it is: 
+A lot of companies publish these long detailed “legal speak” privacy policies, often hiding the fact that they’re going to sell your email address to 3rd parties, or send you “interesting” updates every second day! At PaperCut, we’ve decided that our privacy policy should be simple and presented in plain English. Here it is: 
 
 _We’ll treat your personal information like we’d like others to treat ours._
 
