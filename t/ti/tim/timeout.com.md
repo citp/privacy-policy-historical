@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeout.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223065824id_/http%3A//www.timeout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeout.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610142054id_/http%3A//www.timeout.com/privacy-policy) for the most accurate reproduction.*
 
 # Time Out privacy policy • timeout.com
 
