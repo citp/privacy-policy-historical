@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitfountain.io privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127192820id_/http%3A//bitfountain.io/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitfountain.io privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610194440id_/http%3A//www.bitfountain.io/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bitfountain
 
