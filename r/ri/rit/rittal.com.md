@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rittal.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204192422id_/http%3A//www.rittal.com/us-en/content/en/company/overview/privacy_policy/privacy_policy_1.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rittal.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610230103id_/https%3A//www.rittal.com/us-en/content/en/company/overview/privacy_policy/privacy_policy_1.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Last updated: August 31, 2015
 
 1\. **INTRODUCTION**
 
-Thank you for visiting the [www.rittal.us](https://web.archive.org/web/20161204192422id_/http%3A//www.rittal.com/us-en/content/en/company/overview/privacy_policy/www.rittal.us) website ("Website"), which is operated by Rittal Corporation ("Rittal" or "we"). This Privacy Policy and Legal Terms of Use (collectively, the “Terms of Use”) govern your use of this Website and applies to Rittal Corporation's collection of information through this Website. 
+Thank you for visiting the [www.rittal.us](https://web.archive.org/web/20170610230103id_/https%3A//www.rittal.com/us-en/content/en/company/overview/privacy_policy/www.rittal.us) website ("Website"), which is operated by Rittal Corporation ("Rittal" or "we"). This Privacy Policy and Legal Terms of Use (collectively, the “Terms of Use”) govern your use of this Website and applies to Rittal Corporation's collection of information through this Website. 
 
 Our business changes constantly and our Terms of Use will change also. Rittal Corporation reserves the right to change this Terms of Use at any time by posting new Terms of Use on the Website. Please check these Terms of Use from time to time for changes. Your continued use of our Website following the posting of any amendment to these Terms of Use shall indicate your acceptance of the revised Terms of Use.
 
