@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120165931id_/http%3A//pilotonline.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610150455id_/http%3A//pilotonline.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | The Virginian-Pilot | pilotonline.com
 
