@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231404id_/http%3A//www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ox.ac.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610161924id_/http%3A//www.admin.ox.ac.uk/councilsec/compliance/dataprotection/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy, Data Protection
 
