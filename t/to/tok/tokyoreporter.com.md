@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124202325id_/http%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoreporter.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610154910id_/http%3A//www.tokyoreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tokyo Reporter
 
-This Privacy Policy governs the manner in which The Tokyo Reporter collects, uses, maintains and discloses information collected from users (each, a “User”) of the[http://www.tokyoreporter.com](http://www.tokyoreporter.com/) website (“Site”).
+This privacy policy governs the manner in which The Tokyo Reporter collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.tokyoreporter.com](http://www.tokyoreporter.com/) website (“Site”).
 
 ### Personal identification information
 
@@ -20,15 +20,15 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 The Tokyo Reporter may collect and use Users personal information for the following purposes:
 
-  * _To run and operate our Site_  
+  *  _To run and operate our Site_  
 We may need your information display content on the Site correctly.
-  * _To improve customer service_  
+  *  _To improve customer service_  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _To personalize user experience_  
+  *  _To personalize user experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _To improve our Site_  
+  *  _To improve our Site_  
 We may use feedback you provide to improve our products and services.
-  * _To send periodic emails_
+  *  _To send periodic emails_
 
 
 
@@ -58,7 +58,7 @@ The Tokyo Reporter has the discretion to update this privacy policy at any time.
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. Privacy policy created by [GeneratePrivacyPolicy.com](http://www.generateprivacypolicy.com/)
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was created by [PrivacyPolicies.com](http://privacypolicies.com/)
 
 ### Contacting us
 
