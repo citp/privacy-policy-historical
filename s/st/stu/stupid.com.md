@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stupid.com privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918171654id_/http%3A//www.stupid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stupid.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611000840id_/http%3A//www.stupid.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Stupid.com
 
