@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the outofprintclothing.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324164545id_/http%3A//www.outofprintclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outofprintclothing.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610190255id_/http%3A//www.outofprintclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Out of Print
 
-**This Privacy Policy was last modified on (May 4, 2015).**
+**This Privacy Policy was last modified on (April 18, 2017).**
 
 Welcome to the website of Out of Print. Sputnik 84, LLC (d/b/a Out of Print) ("us", "we", or "our") operates http://www.outofprintclothing.com (the "Site" or "Website"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
@@ -39,13 +39,17 @@ We may use the information we collect from you when you register, make a purchas
 
 We use SSL encryption and other methods to secure your data. The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
+**Change of Control**
+
+We may change our ownership or corporate organization while providing the Site. We may also sell certain assets associated with the Site. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring us or all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot ensure that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy. ** **
+
 **Children’s Privacy**
 
 We do not intentionally collect personally identifiable information from children under the age of thirteen (13). If you are under the age of thirteen (13) you should not register, order, purchase or provide information to or from Out of Print.
 
 **Changes to this Privacy Policy**
 
-Please note that we may revise this Privacy Policy at any time and without prior notice. When we do, we will post the change(s) on this page. In the event that we make any material change(s), we will provide appropriate notice to you. We recommend that you periodically review this Privacy Policy for any updates and/or changes. The date this page was last revised is displayed at the top of this page.
+Please note that we may revise this Privacy Policy at any time and without prior notice. When we do, we will post the change(s) on this page. In the event that we make any material change(s), we will provide appropriate notice to you. We recommend that you periodically review this Privacy Policy for any updates and/or changes. The date this page was last revised is displayed at the top of this page. By using our Site, you are accepting the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Your continued use of our Site following the posting of changes to these terms will mean you accept those changes.
 
 **Contact Us**
 
