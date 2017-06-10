@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carecredit.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804194206id_/https%3A//www.carecredit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carecredit.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610043328id_/https%3A//www.carecredit.com/privacy) for the most accurate reproduction.*
 
-# CareCredit Healthcare Finance - Privacy Policy (Payment Plans for Cosmetic Surgery, Dental, Vision, Hearing, Veterinary & More)
+# Internet Privacy Policy
 
 Effective June 2014
 
@@ -9,15 +9,6 @@ Synchrony Bank ("SYNCB") is committed to protecting any personal information tha
 This Internet Privacy Policy describes the types of information SYNCB collects from visitors to this site, what we do with this information and how visitors can update and control the use of information they provide on the site. This statement applies solely to information that visitors provide through our site. This Internet Privacy Policy does not apply to other data we collect, including data collected on other sites, such as separate sites operated by our Affiliates or business partners or other information visitors may provide to us through other means.
 
 Please read this policy carefully.
-
-  * Information Collected
-  * Use of Collected Information
-  * Links to Other Sites
-  * Security of Collected Information
-  * Access to Collected Information
-  * Changes to this Policy
-
-
 
 ## Information Collected
 
@@ -64,3 +55,5 @@ This is a United States-based site that is subject to United States law. This si
 ## Changes to this Policy
 
 We reserve the right to modify or supplement this Internet Privacy Policy at any time. If we make any material change, we will update our site to include such changes. We recommend that you review this Internet Privacy Policy regularly for changes.
+
+* * *
