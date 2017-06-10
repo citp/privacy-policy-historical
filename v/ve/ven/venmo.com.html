@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the venmo.com privacy policy that was archived on 2016-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108215406id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the venmo.com privacy policy that was archived on 2017-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170610085219id_/https%3A//venmo.com/legal/us-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 
@@ -36,8 +36,8 @@
     Privacy
   </title>
 
-    <link href="https://d163x6kevlpuov.cloudfront.net/production/stylesheets/auth-legacy.compiled.css" rel="stylesheet" type="text/css">
-    <link rel="shortcut icon" type="image/x-icon" href="https://d163x6kevlpuov.cloudfront.net/production/images/favicon.ico">
+    <link href="https://cdn1.venmo.com/production/stylesheets/auth-legacy.compiled.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" type="image/x-icon" href="https://cdn1.venmo.com/production/images/favicon.ico">
     <link rel="apple-touch-icon" href="https://d1v6x81qdeozhc.cloudfront.net/static/images/logo/apple-touch-icon-1a10ee4b947b728d54265ac8c5084f78.png">
 
 </head>
@@ -99,15 +99,15 @@
 <div class="container inner legal">
   <div class="global-margin">
     <div class="row">
-      <div class="col-md-11 page-top-bar group">
+      <div class="col-md-5 page-top-bar group center-block">
         <ul class="page-sublinks">
           <li class="active">US</li>
-          <li><a href="https://help.venmo.com/hc/en-us/articles/217042848-Open-Source-Attribution-Page-For-Venmo" target="_blank">Open Source Attribution</a></li>
+          <li><a href="https://help.venmo.com/hc/en-us/articles/217042848" target="_blank">Open Source Attribution</a></li>
         </ul>
       </div>
     </div>
     <div class="row">
-      <div class="col-md-12 page-sub-bar group">
+      <div class="col-md-8 page-sub-bar group center-block">
           <ul>
             <li>Privacy Policy</li>
             <li><a href="/legal/us-user-agreement/">User Agreement</a></li>
@@ -115,6 +115,7 @@
             <li><a href="/legal/us-policy-updates/">Policy Updates</a></li>
             <li><a href="/legal/us-consent/">Consent</a></li>
             <li><a href="/legal/us-helpful-information/">Helpful Information</a></li>
+            <li><a href="/legal/us-payment-method-rights/">Payment Method Rights</a></li>
           </ul>
       </div>
     </div>
@@ -335,12 +336,12 @@
           </div>
           <div class="section col-sm-2">
             <a href="https://itunes.apple.com/us/app/venmo/id351727428?mt=8">
-              <img class="download-links" src="https://d163x6kevlpuov.cloudfront.net/production/images/AppStore.png">
+              <img class="download-links" src="https://cdn1.venmo.com/production/images/AppStore.png">
             </a>
           </div>
           <div class="section col-sm-2">
             <a href="https://play.google.com/store/apps/details?id=com.venmo">
-              <img class="download-links" src="https://d163x6kevlpuov.cloudfront.net/production/images/PlayStore.png">
+              <img class="download-links" src="https://cdn1.venmo.com/production/images/PlayStore.png">
             </a>
           </div>
         </div>
@@ -367,7 +368,7 @@
 
     </div>
     
-  <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js&amp;status=0"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://d163x6kevlpuov.cloudfront.net/production/js/auth-legacy.min.js"></script>
+  <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://jssdkcdns.mparticle.com/js/v1/40433222e815b743853a4bb6b7a86058/mparticle.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://cdn1.venmo.com/production/js/auth-legacy.min.js"></script>
 
 
 
@@ -378,10 +379,29 @@
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-15492939-11', 'auto', 'contentPageTracker');
-  ga('create', 'UA-15492939-12', 'auto');
+  ga('create', 'UA-15492939-14', 'auto', 'contentPageTracker');
+  ga('create', 'UA-15492939-15', 'auto');
   ga('contentPageTracker.send', 'pageview');
   ga('send', 'pageview');
+</script>
+
+
+<script>
+  (function (apiKey) {
+    window.mParticle = window.mParticle || {};
+    window.mParticle.config = window.mParticle.config || {};
+    window.mParticle.config.rq = [];
+    window.mParticle.ready = function (f) {
+      window.mParticle.config.rq.push(f);
+    };
+    window.mParticle.ready(function(){window.mParticle.isIOS=/Venmo.*(iPhone|iPad|iPod)/i.test(navigator.userAgent)});
+    var mp = document.createElement('script');
+    mp.type = 'text/javascript';
+    mp.async = true;
+    mp.src = ('https:' == document.location.protocol ? 'https://jssdkcdns' : 'http://jssdkcdn') + '.mparticle.com/js/v1/' + apiKey + '/mparticle.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(mp, s);
+  })('40433222e815b743853a4bb6b7a86058');
 </script>
 
 
@@ -408,7 +428,7 @@
     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
     if (d.getElementById(id)) {return;}
     js = d.createElement('script'); js.id = id; js.async = true;
-    js.src = "//connect.facebook.net/en_US/all.js&status=0";
+    js.src = "//connect.facebook.net/en_US/all.js";
     ref.parentNode.insertBefore(js, ref);
   }(document));
 </script>
