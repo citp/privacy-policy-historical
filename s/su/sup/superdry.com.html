@@ -1,51 +1,239 @@
-<!--The following is the downloaded HTML source of the superdry.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118173835id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superdry.com privacy policy that was archived on 2017-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170610203116id_/https%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-gb" class="bg-black"><head>
 	
-<script src="//a.mobify.com/superdry-mobile/a.js"></script><script>/*<![CDATA[*/(function(a){function b(a,b){if(+a)return~a||(d.cookie=h+"=; path=/");j=d.createElement(e),k=d.getElementsByTagName(e)[0],j.src=a,b&&(j.onload=j.onerror=b),k.parentNode.insertBefore(j,k)}function c(){n.api||b(l.shift()||-1,c)}if(this.Mobify)return;var d=document,e="script",f="mobify",g="."+f+".com/",h=f+"-path",i=g+"un"+f+".js",j,k,l=[!1,1],m,n=this.Mobify={points:[+(new Date)],tagVersion:[6,1],ajs:"//a.mobify.com/superdry-mobile/a.js"},o=/((; )|#|&|^)mobify-path=([^&;]*)/g.exec(location.hash+"; "+d.cookie);o?(m=o[3])&&!+(m=o[2]&&sessionStorage[h]||m)&&(l=[!0,"//preview"+g+escape(m)]):(l=a()||l,l[0]&&l.push("//cdn"+i,"//files01"+i)),l.shift()?(d.write('<plaintext style="display:none;">'),setTimeout(c)):b(l[0])})(function(){if (/^((?!windows\sphone).)*(ip(hone|od)|android.*(mobile)(?!.*firefox))/i.test(navigator.userAgent)){return [1, "//cdn.mobify.com/sites/superdry-mobile/uat4/mobify.js"]}return [0, Mobify.ajs]})/*]]>*/</script>
+<script>(function(e, f) {
+	function h(a) {
+		if (a.mode) {
+			var b = g("mobify-mode");
+			b && a[b] || (b = a.mode(c.ua));
+			return a[b]
+		}
+		return a
+	}
 
-	  <base href="http://www.superdry.com/">
+	function m() {
+		function a(a) {
+			e.addEventListener(a, function() {
+				c[a] = +new Date
+			}, !1)
+		}
+		e.addEventListener && (a("DOMContentLoaded"), a("load"))
+	}
+
+	function n() {
+		if (!f.visibilityState || !f.hidden) {
+			var a = new Date;
+			a.setTime(a.getTime() + 3E5);
+			f.cookie = "mobify-path=; expires=" + a.toGMTString() + "; path=/";
+			e.location.reload()
+		}
+	}
+
+	function p() {
+		k({
+			src: "https://preview.mobify.com/v7/"
+		})
+	}
+
+	function g(a) {
+		if (a = f.cookie.match(new RegExp("(^|; )" + a + "((=([^;]*))|(; |$))"))) return a[4] || ""
+	}
+
+	function l(a) {
+		f.write('<plaintext style="display:none">');
+		setTimeout(function() {
+			d.capturing = !0;
+			a()
+		}, 0)
+	}
+
+	function k(a, b) {
+		var e = f.getElementsByTagName("script")[0],
+			c = f.createElement("script"),
+			d;
+		for (d in a) c[d] = a[d];
+		b && c.setAttribute("class", b);
+		e.parentNode.insertBefore(c, e)
+	}
+	var d = e.Mobify = {},
+		c = d.Tag = {};
+	d.points = [+new Date];
+	d.tagVersion = [7, 0];
+	c.ua = e.navigator.userAgent;
+	c.getOptions = h;
+	c.init = function(a) {
+		c.options = a;
+		if ("" !== g("mobify-path"))
+			if (m(), a.skipPreview || "true" != g("mobify-path") && !/mobify-path=true/.test(e.location.hash)) {
+				var b = h(a);
+				if (b) {
+					var d = function() {
+						b.post && b.post()
+					};
+					a = function() {
+						b.pre && b.pre();
+						k({
+							id: "mobify-js",
+							src: b.url,
+							onerror: n,
+							onload: d
+						}, "mobify")
+					};
+					!1 === b.capture ? a() : l(a)
+				}
+			} else l(p)
+	}
+})(window, document);
+(function() {
+	var e = "//cdn.mobify.com/sites/superdry-mobile/production/mobify.js";
+	var t = "//cdn.mobify.com/sites/superdry-tablet/production/mobify.js";
+	Mobify.Tag.init({
+		mode: function(e) {
+			if (/ipad|android(?!.*mobile)(?!.*firefox)/i.test(navigator.userAgent)) {
+				return "tablet"
+			} else if (/^((?!windows\sphone).)*(ip(hone|od)|android.*(mobile)(?!.*firefox))/i.test(e)) {
+				return "mobile"
+			}
+			return "desktop"
+		},
+		mobile: {
+			url: e
+		},
+		tablet: {
+			url: t
+		},
+		desktop: {
+			capture: !1,
+			url: "//a.mobify.com/superdry-mobile/a.js"
+		}
+	})
+})();</script>
+
+	  <base href="https://www.superdry.com/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Privacy Policy  - Superdry</title>
-  <meta name="description" content="Official Superdry Shop - Free Delivery | Jackets T Shirts Hoodies Shorts Jeans, Mens &amp; Womens Designer Clothing, Dresses, Jeans, Polo Shirts, Joggers, Osaka, Jewellery &amp;amp; Accessories">
+  <meta name="resource-type" content="document">
   <meta name="revisit-after" content="30 days">
   <meta name="rating" content="GENERAL">
   <meta name="googlebot" content="ALL">
   <meta name="author" content="Superdry">
-  <link rel="stylesheet" href="http://www.superdry.com/public/css/core_reset.css?v=1479401009" type="text/css">
-  <link rel="stylesheet" href="http://www.superdry.com/public/css/core_fonts.css?v=1479401009" type="text/css">
-  <link rel="stylesheet" href="http://www.superdry.com/public/css/core.css?v=1479401009" type="text/css">
-  <link rel="stylesheet" href="http://www.superdry.com/public/css/classes.css?v=1479401009" type="text/css">
-  <link rel="stylesheet" href="http://www.superdry.com/public/css/core_static.css?v=1479401009" type="text/css">
-  <script type="text/javascript" src="http://www.superdry.com/public/js/libraries/script.min.js?vers=1479401009"></script>
+  <meta name="description" content="Official Superdry Shop - Free Delivery | Jackets T Shirts Hoodies Shorts Jeans, Mens &amp; Womens Designer Clothing, Dresses, Jeans, Polo Shirts, Joggers, Osaka, Jewellery &amp;amp; Accessories">
+  <title>Privacy Policy  - Superdry</title>
+  <link rel="stylesheet" href="https://www.superdry.com/public/css/core_reset.css?v=1496393147" type="text/css">
+  <link rel="stylesheet" href="https://www.superdry.com/public/css/core_fonts.css?v=1496393147" type="text/css">
+  <link rel="stylesheet" href="https://www.superdry.com/public/css/core.css?v=1496393147" type="text/css">
+  <link rel="stylesheet" href="https://www.superdry.com/public/css/classes.css?v=1496393147" type="text/css">
+  <link rel="stylesheet" href="https://www.superdry.com/public/css/core_static.css?v=1496393147" type="text/css">
+  <script type="text/javascript" src="https://www.superdry.com/public/js/libraries/script.min.js?vers=1496393147"></script>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/mootools/1.2.6/mootools-yui-compressed.js"></script>
-  <script type="text/javascript" src="http://www.superdry.com/public/js/mootools-1.2.5.1-more.js?v=1479401009"></script>
-  <script type="text/javascript" src="http://www.superdry.com/public/js/template.min.js?v=1479401009"></script>
-  <script type="text/javascript" src="http://www.superdry.com/components/com_virtuemart/js/mootools/mooPrompt.min.js?vers=1479401009"></script>
+  <script type="text/javascript" src="https://www.superdry.com/public/js/mootools-1.2.5.1-more.js?v=1496393147"></script>
+  <script type="text/javascript" src="https://www.superdry.com/public/js/template.min.js?v=1496393147"></script>
+  <script type="text/javascript" src="https://www.superdry.com/components/com_virtuemart/js/mootools/mooPrompt.min.js?vers=1496393147"></script>
   <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-  <script type="text/javascript" src="http://www.superdry.com//public/js/libraries/jquery.dd.min.js?vers=1479401009"></script>
-  <script type="text/javascript" src="http://www.superdry.com/public/js-min/uncompressed/varnish.js?vers=1479401009"></script>
+  <script type="text/javascript" src="https://www.superdry.com//public/js/libraries/jquery.dd.min.js?vers=1496393147"></script>
+  <script type="text/javascript" src="https://www.superdry.com/public/js-min/uncompressed/varnish.js?vers=1496393147"></script>
   <script type="text/javascript">
+$script("https://www.superdry.com/public/js/Google360/pricechanger.js?v=1496393147", "default_prices");
+	
+	    if (typeof PriceChanger != "undefined") {
+			PriceChanger.init();
+		}
+		
+		if (/bot|google|aolbuild|baidu|bing|msn|duckduckgo|teoma|slurp|yandex/i.test(navigator.userAgent)) {
+		    $script.ready("google_datalayer", function() {
+                var site = DataLayer360.access("superdry.site_id");
+                DataLayerStorage._store(site + "_default_country", "default");
+                DataLayerStorage._store(site + "_default_currency", DataLayer360.access("superdry.default_symbol"));
+                PriceChanger.init();
+		    });
+		}
+		
+	
 
-/***********************
-** Google Tag Manager ** 
-************************/
-window.dataLayer = [{"page":{"category":"static"},"superdry":{"ip":"172.28.8.***","shopper_group":"17","currency":"USD","symbol":"USD $","language":"en_GB","language_tag":"en-GB","entry":"privacy-policy","page":null,"option":"com_content","id":"13","attraqt":"a524fc82-c195-44db-9c67-ae703d3a4754","path":"\/","media":"http:\/\/image1.superdry.com\/","static":"http:\/\/www.superdry.com\/","site_id":"3","ver":"1479401009"}}];
-$script(["http://www.superdry.com/public/js/Google360/datahelper.lib.js?v=1479401009",
-"http://www.superdry.com/public/js/Google360/datalayer360.min.js?v=1479401009"
-], "google_datalayer",
+/**************
+** DataLayer ** 
+***************/
+$script(["https://www.superdry.com/public/js/Google360/datahelper.min.js?v=1496393147"], "google_datahelper");
+$script.ready(["google_datahelper"], function() {
+window.dataLayer = [{
+    "page": {
+        "category": "static",
+        "additional": {
+            "url": "privacy-policy"
+        }
+    },
+    "superdry": {
+        "ip": "172.28.8.***",
+        "shopper_group": "17",
+        "currency": "USD",
+        "symbol": "USD $",
+        "default_symbol": "&pound;",
+        "def_country": "GBR",
+        "cust_country": "USA",
+        "language": "en_GB",
+        "language_tag": "en-GB",
+        "page": "",
+        "id": "13",
+        "attraqt": "a524fc82-c195-44db-9c67-ae703d3a4754",
+        "path": "\/",
+        "debug": "0",
+        "state": "live",
+        "media": "https:\/\/image1.superdry.com\/",
+        "static": "https:\/\/www.superdry.com\/",
+        "size_guide": "sizing-guide-mens.jpg",
+        "site_id": "3",
+        "ver": "1496393147"
+    },
+    "enabled": {
+        "AdWords_Remarketing_988441130": true,
+        "affiliate_window": true,
+        "attraqt": true,
+        "attraqt_overlay": true,
+        "connexity": true,
+        "ebay_roi": true,
+        "egain": true,
+        "facebookretargeting": true,
+        "floodlight_retargeting": true,
+        "floodlight_tracking": true,
+        "peerius": true,
+        "perfectaudience": true,
+        "pinterest": true,
+        "polyvore": true,
+        "redirects": true,
+        "sessioncam": true,
+        "twitter": true,
+        "unidays": true
+    }
+}];
+$script(["https://www.superdry.com/public/js-min/Google360/datalayer360.js?v=1496393147"], "google_datalayer",
 function() {
     DataLayer360.init();
 });
-window.universal_variable = {page:{category:"static",subcategory:"privacy policy"},user:{name:"",username:"",email:"",user_id:""},superdry:{sid:"3",sm:"live",c:"USD",f:"NPR",sym:"USD $",tag:"en-GB",lang:"en_GB",sg:"17",ip:"207.241.231.143",n:"172.28.8.146",id:"13",v:"1479401009",sv:"16.9.6",p:"",opt:"com_content",l:"http://www.superdry.com/",path:"/",st:"http://www.superdry.com/",attraqt:"a524fc82-c195-44db-9c67-ae703d3a4754",is:"http://image1.superdry.com/",gc:"USA"},enabled:{peerius:"1",locayta:"1"}}
+});
 
-	var live_site = "http://www.superdry.com/",
+$script.ready(["google_datahelper","google_datalayer"], function() {
+/***********************
+** Google Tag Manager ** 
+************************/
+window["dataLayer"] = window["dataLayer"] || [];
+window["dataLayer"].push({
+    "gtm.start": new Date().getTime(),
+    event: "gtm.js"
+});
+var l = "dataLayer";
+var dl = l != "dataLayer" ? "&l=" + l : "";
+var src = "//www.googletagmanager.com/gtm.js?id=" + "GTM-PVRHJ2" + dl;
+$script([src], "google_snippet");
+});
+window.universal_variable = {page:{category:"static",subcategory:"privacy policy"},user:{name:"",username:"",email:"",user_id:""},superdry:{sid:"3",sm:"live",c:"USD",f:"NPR",sym:"USD $",tag:"en-GB",lang:"en_GB",sg:"17",ip:"207.241.229.237",n:"172.28.8.200",id:"13",v:"1496393147",sv:"17.6.3",p:"",opt:"com_content",l:"https://www.superdry.com/",path:"/",st:"https://www.superdry.com/",attraqt:"a524fc82-c195-44db-9c67-ae703d3a4754",is:"https://image1.superdry.com/",gc:"USA"},enabled:{peerius:"1",locayta:"1"}}
+
+	var live_site = "https://www.superdry.com/",
 		theme = "superdry",
 		vps="yes",
 		Itemid = "13",
-		version = "1479401009",
-		static_site = "http://www.superdry.com/";
+		version = "1496393147",
+		static_site = "https://www.superdry.com/";
 
 
 	var device_type = "";
@@ -70,20 +258,20 @@ window.universal_variable = {page:{category:"static",subcategory:"privacy policy
 	});
 
 $script([
-		static_site + "public/js/menu.min.js?vers=1479401009",
-		static_site + "public/js/libraries/dropdown.ugly.js?vers=1479401009",
-		static_site + "public/js/libraries/scrollbar.yui.js?vers=1479401009",
-		static_site + "public/js/old_popup.js?vers=1479401009",
-		static_site + "public/js/languages/en-GB.js?vers=1479401009",
-		static_site + "public/js/general.min.js?vers=1479401009"
+		static_site + "public/js/menu.min.js?vers=1496393147",
+		static_site + "public/js/libraries/dropdown.ugly.js?vers=1496393147",
+		static_site + "public/js/libraries/scrollbar.yui.js?vers=1496393147",
+		static_site + "public/js/old_popup.js?vers=1496393147",
+		static_site + "public/js/languages/en-GB.js?vers=1496393147",
+		static_site + "public/js/general.min.js?vers=1496393147"
 	],
 	"site_bundle",
 	function() {
 		Template.init("en-GB");
 	});
 
-$script(static_site + "public/js-min/dropdown_menu.js?vers=1479401009", "dropdown_menu");
-$script(static_site + "public/js/libraries/lazyload.min.js?vers=1479401009", function() {
+$script(static_site + "public/js-min/dropdown_menu.js?vers=1496393147", "dropdown_menu");
+$script(static_site + "public/js/libraries/lazyload.min.js?vers=1496393147", function() {
 		window.addEvent("domready", function() {
 			var lazyloader = new LazyLoad({
 				"elements": "img.lazy",
@@ -92,7 +280,7 @@ $script(static_site + "public/js/libraries/lazyload.min.js?vers=1479401009", fun
 			window.fireEvent("scroll");
 		});
 	});
-$script(static_site + "public/js/mini_menu_bar.js?vers=1479401009", "floating_header");
+$script(static_site + "public/js/mini_menu_bar.js?vers=1496393147", "floating_header");
 	$script.ready("floating_header", function() {
 		window.addEvent("domready", function() {
 			var header = $$("header");
@@ -102,7 +290,7 @@ $script(static_site + "public/js/mini_menu_bar.js?vers=1479401009", "floating_he
 			}
 		});
 	});
-$script([static_site+"public/js/newsletter.js?vers=1479401009",static_site+"media/system/js/validate.min.js?vers=1479401009"], "newsletter");
+$script([static_site+"public/js/newsletter.js?vers=1496393147",static_site+"media/system/js/validate.min.js?vers=1496393147"], "newsletter");
 $script.ready("newsletter", function() {
 		window.addEvent("domready", function() {
 			var newsletterForm = new NewsletterFormHandler(
@@ -110,21 +298,21 @@ $script.ready("newsletter", function() {
 			);
 		});
 	});
-$script([static_site+"public/js/articles.js?vers=1479401009"], "static");
+$script([static_site+"public/js/articles.js?vers=1496393147"], "static");
 jQuery.noConflict();
 
 		if(device_type == "") {
 			window.addEvent("domready", function() {
 				$script([
-					"//fsm-sd.attraqt.com/autocomplete/a524fc82-c195-44db-9c67-ae703d3a4754.min.js",
-					"//fsm-sd.attraqt.com/jquery.autocomplete.min.js",
-					"categorylisting?vers=1479401009",
-					"public/js/locayta/locayta_display.min.js?vers=1479401009"
+					"https://fsm-sd.attraqt.com/autocomplete/a524fc82-c195-44db-9c67-ae703d3a4754.min.js",
+					"https://fsm-sd.attraqt.com/jquery.autocomplete.min.js",
+					live_site+"categorylisting?vers=1496393147",
+					live_site+"public/js-min/locayta/locayta_display.js?vers=1496393147"
 				], function() {
 					new Element("link", {
 						rel: "stylesheet",
 						type: "text/css",
-						href: "public/css/locayta_autosearch.css?vers=1479401009"
+						href: live_site+"public/css/locayta_autosearch.css?vers=1496393147"
 					}).inject($(document.head));
 
 					var locayta_option = {
@@ -149,7 +337,7 @@ jQuery.noConflict();
 
 <script type="text/javascript">
 		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-11536164-2']);
+		_gaq.push(['_setAccount', 'UA-77826503-1']);
 				_gaq.push(['_setDomainName','www.superdry.com']);
 				_gaq.push(['_setAllowHash', false]);
 				
@@ -174,7 +362,7 @@ jQuery.noConflict();
 		})();
 
 						</script>
-<script type="text/javascript" src="//opentag.s3.amazonaws.com/opentag-36567-94817.js" async="async" defer="defer"></script></head>
+</head>
 <body class=" content twotone  ">
 
 
@@ -185,11 +373,11 @@ jQuery.noConflict();
 
 	<div class="full-width bg-black page-margins">
 
-		<a class="logo centered txt-center" href="http://www.superdry.com/" rel="home"><img src="/public/images/core/logo.png?v=2" alt="Superdry"></a>
+		<a class="logo centered txt-center" href="https://www.superdry.com/" rel="home"><img src="/public/images/core/logo.png?v=2" alt="Superdry"></a>
 
 		<div class="table header-menu-row">
 			<div id="main-menu" class="cell main-menu font_bold font-8 align-btm">
-				<ul id="ul_idris" class="menu"><li id="menuitem1" class="item1 position-1"><a href="http://www.superdry.com/"><span>Home</span></a></li><li id="menuitem647" class="parent item647 position-2"><a href="/mens"><span>mens</span></a></li><li id="menuitem651" class="parent item651 position-3"><a href="/womens"><span>womens</span></a></li><li id="menuitem9999" class="item9999 position-4"><span class="separator"><span>new in</span></span></li><li id="menuitem11923" class="item11923 position-5"><a href="/sport"><span>Sport</span></a></li><li id="menuitem_idris" class="item_idris position-6"><a href="/idris"><span>Idris</span></a></li></ul>
+				<ul id="ul_idris" class="menu"><li id="menuitem1" class="item1 position-1"><a href="https://www.superdry.com/"><span>Home</span></a></li><li id="menuitem647" class="parent item647 position-2"><a href="/mens"><span>mens</span></a></li><li id="menuitem651" class="parent item651 position-3"><a href="/womens"><span>womens</span></a></li><li id="menuitem9999" class="item9999 position-4"><span class="separator"><span>new in</span></span></li><li id="menuitem11923" class="item11923 position-5"><a href="/sport"><span>Sport</span></a></li><li id="menuitem_idris" class="item_idris position-6"><a href="/idris"><span>Idris</span></a></li></ul>
 			</div>
 			<div class="cell font-6 txt-right align-btm">
 				<div class="hide-on-stick">
@@ -220,16 +408,18 @@ jQuery.noConflict();
 						Your account is in credit						<div id="credit_amount" class="font-8 font_med"></div>
 						<div id="credit_info" class="brand-txt txt-italic font-4">Credit is automatically deducted at the checkout.</div>
 					</div>
-					<ul id="ul11864" class="menu"><li id="menuitem4" class="parent item4 position-1"><a href="/my-account"><span>My Account</span></a></li><li id="menuitem11864" class="item11864 position-2"><a href="/my-account/wish-list"><span>Wish List</span></a></li></ul><div id="shopping-bag" class="vmCartModule inline">
-<div id="cart-summary" class="inline">
-	<a href="/shopping-bag" class="icon-cart icon-button">
-		<span id="viewcart_price">USD $0.00</span>
-		<span id="minicart-count">(<span>0</span>)</span>
-	</a>
-	<input type="hidden" id="minicartmouse" value="">
+					<ul id="ul11864" class="menu"><li id="menuitem4" class="parent item4 position-1"><a href="/my-account"><span>My Account</span></a></li><li id="menuitem11864" class="item11864 position-2"><a href="/my-account/wish-list"><span>Wish List</span></a></li></ul>
+<div id="shopping-bag" class="vmCartModule inline ">
+	<div id="cart-summary" class="inline">
+		<a href="/shopping-bag" class="icon-cart icon-button">
+			<span id="viewcart_price">USD $0.00</span>
+			<span id="minicart-count">(<span>0</span>)</span>
+		</a>
+		<input type="hidden" id="minicartmouse" value="">
+	</div>
+	<div id="minicart_dropdown" class="txt-left hidden"></div>
 </div>
-<div id="minicart_dropdown" class="txt-left hidden"></div>
-</div><div id="AutoResults" class="page-margins shadow bg-white abs hidden"></div>
+<div id="AutoResults" class="page-margins shadow bg-white abs hidden"></div>
 
 				</div>
 			</div>
@@ -241,37 +431,37 @@ jQuery.noConflict();
 <div id="main-content" class="content fixed_width bg-white">
 	<div id="holdermens" class="page-margins shadow menu-dropdown bg-white abs full-width font-6 font_std hidden">
 		
-<ul class="menu-section sp_menu_1"><li class="sp_menu_1 component shout font_bold"><a href="/mens/new-in">New In</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/whats-hot">What's hot</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/autumn-winter">Winter Shop</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/superdry-sport">Superdry Sport</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/superdry-snow">Superdry Snow</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/gift-shop">3 for 2 Gifts</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/going-out">Going Out</a></li></ul><ul class="menu-section sp_menu_2">			<li class="menu_title font_bold shout sp_menu_2">
+<ul class="menu-section sp_menu_1"><li class="sp_menu_1 component shout font_bold"><a href="/mens/new-in">New Season</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/whats-hot">Trending Now</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/holiday-shop">Holiday shop</a></li><li class="sp_menu_1 component shout font_bold"><a href="/mens/superdry-sport">Superdry Sport</a></li></ul><ul class="menu-section sp_menu_2">			<li class="menu_title font_bold shout sp_menu_2">
 						outerwear						</li>
 		<li class="sp_menu_2 component"><a href="/mens/jackets">Jackets</a></li><li class="sp_menu_2 component"><a href="/mens/windcheaters">Windcheaters</a></li><li class="sp_menu_2 component"><a href="/mens/leather-jackets">Leather Jackets</a></li><li class="sp_menu_2 component"><a href="/mens/gilets">Gilets</a></li></ul><ul class="menu-section sp_menu_3">			<li class="menu_title font_bold shout sp_menu_3">
 						tops						</li>
-		<li class="sp_menu_3 component"><a href="/mens/hoodies">Hoodies</a></li><li class="sp_menu_3 component"><a href="/mens/jumpers">Jumpers</a></li><li class="sp_menu_3 component"><a href="/mens/tops">Tops</a></li><li class="sp_menu_3 component"><a href="/mens/shirts">Shirts</a></li><li class="sp_menu_3 component"><a href="/mens/polos">Polo Shirts</a></li><li class="sp_menu_3 component"><a href="/mens/t-shirts">T Shirts</a></li></ul><ul class="menu-section sp_menu_4">			<li class="menu_title font_bold shout sp_menu_4">
+		<li class="sp_menu_3 component"><a href="/mens/t-shirts">T Shirts</a></li><li class="sp_menu_3 component"><a href="/mens/polos">Polo Shirts</a></li><li class="sp_menu_3 component"><a href="/mens/shirts">Shirts</a></li><li class="sp_menu_3 component"><a href="/mens/hoodies">Hoodies</a></li><li class="sp_menu_3 component"><a href="/mens/tops">Tops</a></li><li class="sp_menu_3 component"><a href="/mens/jumpers">Jumpers</a></li></ul><ul class="menu-section sp_menu_4">			<li class="menu_title font_bold shout sp_menu_4">
 						bottoms						</li>
-		<li class="sp_menu_4 component"><a href="/mens/jeans">Jeans</a></li><li class="sp_menu_4 component"><a href="/mens/joggers">Joggers</a></li><li class="sp_menu_4 component"><a href="/mens/trousers">Trousers</a></li><li class="sp_menu_4 component"><a href="/mens/shorts">Shorts</a></li><li class="sp_menu_4 component"><a href="/mens/swimwear">Swimwear</a></li></ul><ul class="menu-section sp_menu_5">			<li class="menu_title font_bold shout sp_menu_5">
+		<li class="sp_menu_4 component"><a href="/mens/shorts">Shorts</a></li><li class="sp_menu_4 component"><a href="/mens/swimwear">Swimwear</a></li><li class="sp_menu_4 component"><a href="/mens/jeans">Jeans</a></li><li class="sp_menu_4 component"><a href="/mens/joggers">Joggers</a></li><li class="sp_menu_4 component"><a href="/mens/trousers">Trousers</a></li></ul><ul class="menu-section sp_menu_5">			<li class="menu_title font_bold shout sp_menu_5">
 						accessories						</li>
-		<li class="sp_menu_5 component"><a href="/mens/bags">Bags</a></li><li class="sp_menu_5 component"><a href="/mens/underwear">Underwear &amp; Socks</a></li><li class="sp_menu_5 component"><a href="/mens/knitted-accessories">Winter Accessories</a></li><li class="sp_menu_5 component"><a href="/mens/sunglasses">Sunglasses</a></li><li class="sp_menu_5 component"><a href="/mens/watches">Watches</a></li><li class="sp_menu_5 component"><a href="/mens/other-accessories">Other Accessories</a></li></ul><ul class="menu-section sp_menu_6">			<li class="menu_title font_bold shout sp_menu_6">
+		<li class="sp_menu_5 component"><a href="/mens/bags">Bags</a></li><li class="sp_menu_5 component"><a href="/mens/sunglasses">Sunglasses</a></li><li class="sp_menu_5 component"><a href="/mens/hats">Hats &amp; Caps</a></li><li class="sp_menu_5 component"><a href="/mens/watches">Watches</a></li><li class="sp_menu_5 component"><a href="/mens/underwear">Underwear &amp; Socks</a></li><li class="sp_menu_5 component"><a href="/mens/other-accessories">Other Accessories</a></li></ul><ul class="menu-section sp_menu_6">			<li class="menu_title font_bold shout sp_menu_6">
 						shoes						</li>
-		<li class="sp_menu_6 component"><a href="/mens/trainers">Trainers</a></li><li class="sp_menu_6 component"><a href="/mens/boots">Boots</a></li><li class="sp_menu_6 component"><a href="/mens/shoes">Shoes</a></li><li class="sp_menu_6 component"><a href="/mens/flip-flops">Flip Flops</a></li></ul>
+		<li class="sp_menu_6 component"><a href="/mens/flip-flops">Flip Flops</a></li><li class="sp_menu_6 component"><a href="/mens/trainers">Trainers</a></li><li class="sp_menu_6 component"><a href="/mens/shoes">Shoes</a></li><li class="sp_menu_6 component"><a href="/mens/boots">Boots</a></li></ul>
 	</div>
 	<div id="holderwomens" class="page-margins shadow menu-dropdown bg-white abs full-width font-6 font_std hidden">
 		
-<ul class="menu-section sp_menu_1"><li class="sp_menu_1 component shout font_bold"><a href="/womens/new-in">New In</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/whats-hot">What's Hot</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/winter-shop">Winter Shop</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/superdry-sport">Superdry Sport</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/superdry-snow">Superdry Snow</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/gift-shop">3 for 2 Gifts</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/partywear">Partywear</a></li></ul><ul class="menu-section sp_menu_2">			<li class="menu_title font_bold shout sp_menu_2">
+<ul class="menu-section sp_menu_1"><li class="sp_menu_1 component shout font_bold"><a href="/womens/new-in">New Season</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/whats-hot">Trending Now</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/holiday-shop">Holiday Shop</a></li><li class="sp_menu_1 component shout font_bold"><a href="/womens/superdry-sport">Superdry Sport</a></li></ul><ul class="menu-section sp_menu_2">			<li class="menu_title font_bold shout sp_menu_2">
 						outerwear						</li>
 		<li class="sp_menu_2 component"><a href="/womens/jackets">Jackets &amp; Coats</a></li><li class="sp_menu_2 component"><a href="/womens/windcheaters">Windcheaters</a></li><li class="sp_menu_2 component"><a href="/womens/leather-jackets">Leather Jackets</a></li><li class="sp_menu_2 component"><a href="/womens/gilets">Gilets</a></li></ul><ul class="menu-section sp_menu_3">			<li class="menu_title font_bold shout sp_menu_3">
 						tops						</li>
-		<li class="sp_menu_3 component"><a href="/womens/hoodies">Hoodies</a></li><li class="sp_menu_3 component"><a href="/womens/knitwear">Knitwear</a></li><li class="sp_menu_3 component"><a href="/womens/dresses">Dresses</a></li><li class="sp_menu_3 component"><a href="/womens/tops">Tops</a></li><li class="sp_menu_3 component"><a href="/womens/t-shirts">T Shirts</a></li><li class="sp_menu_3 component"><a href="/womens/shirts">Shirts</a></li></ul><ul class="menu-section sp_menu_4">			<li class="menu_title font_bold shout sp_menu_4">
+		<li class="sp_menu_3 component"><a href="/womens/dresses">Dresses</a></li><li class="sp_menu_3 component"><a href="/womens/tops">Tops</a></li><li class="sp_menu_3 component"><a href="/womens/t-shirts">T Shirts</a></li><li class="sp_menu_3 component"><a href="/womens/hoodies">Hoodies</a></li><li class="sp_menu_3 component"><a href="/womens/shirts">Shirts</a></li><li class="sp_menu_3 component"><a href="/womens/knitwear">Knitwear</a></li></ul><ul class="menu-section sp_menu_4">			<li class="menu_title font_bold shout sp_menu_4">
 						bottoms						</li>
-		<li class="sp_menu_4 component"><a href="/womens/skirts">Skirts</a></li><li class="sp_menu_4 component"><a href="/womens/jeans">Jeans</a></li><li class="sp_menu_4 component"><a href="/womens/joggers">Joggers</a></li><li class="sp_menu_4 component"><a href="/womens/trousers">Trousers</a></li><li class="sp_menu_4 component"><a href="/womens/shorts">Shorts</a></li><li class="sp_menu_4 component"><a href="/womens/swimwear">Swimwear</a></li></ul><ul class="menu-section sp_menu_5">			<li class="menu_title font_bold shout sp_menu_5">
+		<li class="sp_menu_4 component"><a href="/womens/shorts">Shorts</a></li><li class="sp_menu_4 component"><a href="/womens/skirts">Skirts</a></li><li class="sp_menu_4 component"><a href="/womens/swimwear">Swimwear</a></li><li class="sp_menu_4 component"><a href="/womens/jeans">Jeans</a></li><li class="sp_menu_4 component"><a href="/womens/joggers">Joggers</a></li><li class="sp_menu_4 component"><a href="/womens/trousers">Trousers</a></li></ul><ul class="menu-section sp_menu_5">			<li class="menu_title font_bold shout sp_menu_5">
 						accessories						</li>
-		<li class="sp_menu_5 component"><a href="/womens/bags">Bags</a></li><li class="sp_menu_5 component"><a href="/womens/underwear">Underwear &amp; Socks</a></li><li class="sp_menu_5 component"><a href="/womens/knitted-accessories">Winter Accessories</a></li><li class="sp_menu_5 component"><a href="/womens/sunglasses">Sunglasses</a></li><li class="sp_menu_5 component"><a href="/womens/watches">Watches</a></li><li class="sp_menu_5 component"><a href="/womens/other-accessories">Other Accessories</a></li></ul><ul class="menu-section sp_menu_6">			<li class="menu_title font_bold shout sp_menu_6">
+		<li class="sp_menu_5 component"><a href="/womens/bags">Bags</a></li><li class="sp_menu_5 component"><a href="/womens/sunglasses">Sunglasses</a></li><li class="sp_menu_5 component"><a href="/womens/hats">Hats &amp; Caps</a></li><li class="sp_menu_5 component"><a href="/womens/underwear">Underwear &amp; Socks</a></li><li class="sp_menu_5 component"><a href="/womens/watches">Watches</a></li><li class="sp_menu_5 component"><a href="/womens/other-accessories">Other Accessories</a></li></ul><ul class="menu-section sp_menu_6">			<li class="menu_title font_bold shout sp_menu_6">
 						shoes						</li>
-		<li class="sp_menu_6 component"><a href="/womens/trainers">Trainers</a></li><li class="sp_menu_6 component"><a href="/womens/boots">Boots</a></li><li class="sp_menu_6 component"><a href="/womens/shoes">Shoes</a></li><li class="sp_menu_6 component"><a href="/womens/flip-flops">Flip Flops</a></li></ul>
+		<li class="sp_menu_6 component"><a href="/womens/trainers">Trainers</a></li><li class="sp_menu_6 component"><a href="/womens/flip-flops">Flip Flops</a></li><li class="sp_menu_6 component"><a href="/womens/shoes">Shoes</a></li><li class="sp_menu_6 component"><a href="/womens/boots">Boots</a></li></ul>
 	</div>
 	<div id="holdernewin" class="page-margins shadow menu-dropdown bg-white abs font-6 font_std hidden">
 		
 <ul class="menu-section sp_menu_1">			<li class="menu_title font_bold shout sp_menu_1">
 						collections						</li>
-		<li class="sp_menu_1 menulink"><a href="/mens/new-in">Mens New In</a></li><li class="sp_menu_1 menulink"><a href="/womens/new-in">Womens New In</a></li><li class="sp_menu_1 separator"></li><li class="sp_menu_1 menulink"><a href="/mens/whats-hot">Mens What's Hot</a></li><li class="sp_menu_1 menulink"><a href="/womens/whats-hot">Womens What's Hot</a></li></ul>
+		<li class="sp_menu_1 menulink"><a href="/mens/new-in">Mens New Season</a></li><li class="sp_menu_1 menulink"><a href="/womens/new-in">Womens New Season</a></li><li class="sp_menu_1 separator"></li><li class="sp_menu_1 menulink"><a href="/mens/whats-hot">Mens Trending Now</a></li><li class="sp_menu_1 menulink"><a href="/womens/whats-hot">Womens Trending Now</a></li></ul>
 	</div>
 
 	<script>
@@ -440,25 +630,134 @@ jQuery.noConflict();
 
 
 
-<footer class="table shout page-margins bg-black pad-v">
-
+<footer class="table shout page-margins bg-black pad-v website-footer">
 	<div class="ff_left cell align-top">
-		<form method="post" action="http://www.superdry.com/?newsletter" id="newsletter-form" class="form-validate">
+		<form method="post" action="https://www.superdry.com/?newsletter" id="newsletter-form" class="form-validate">
 			<label for="newsletter_email" class="font-5 font_bold"><span class="asset align-mid"></span><span class="text align-mid">Newsletter signup</span></label>
 			<input type="text" size="30" name="newsletter_email" id="newsletter_email" class="required validate-email newsletter_email" placeholder="EMAIL ADDRESS">
 			<input type="button" class="mens_button" id="newsletter_men_submit" value="Mens" title="Mens"><input type="button" class="womens_button" id="newsletter_women_submit" value="Womens" title="Womens">
 		</form>
 
-		<div class="country_flags font-5 spaced-v"><div class="choose_country font_bold">choose your country</div><div class="ddChild ddchild_ border shadow" id="country-select"><div><ul><li style="display:none;" data-url="http://www.superdry.be/be-fr/"><img src="http://www.superdry.com/public/images/flags/be.png"><span class="ddlabel">Belgique</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.be/be-nl/"><img src="http://www.superdry.com/public/images/flags/be.png"><span class="ddlabel">België</span><div class="clear"></div></li><li class="selected-country" data-url="http://www.superdry.com"><img src="http://www.superdry.com/public/images/flags/gb.png"><span class="ddlabel">English</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.com.au"><img src="http://www.superdry.com/public/images/flags/au.png"><span class="ddlabel">Australia</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.com/us"><img src="http://www.superdry.com/public/images/flags/us.png"><span class="ddlabel">USA</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.de"><img src="http://www.superdry.com/public/images/flags/de.png"><span class="ddlabel">Deutschland</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.dk"><img src="http://www.superdry.com/public/images/flags/dk.png"><span class="ddlabel">Danmark</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.es"><img src="http://www.superdry.com/public/images/flags/es.png"><span class="ddlabel">España</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.fi"><img src="http://www.superdry.com/public/images/flags/fi.png"><span class="ddlabel">Suomi</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.fr"><img src="http://www.superdry.com/public/images/flags/fr.png"><span class="ddlabel">France</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.it"><img src="http://www.superdry.com/public/images/flags/it.png"><span class="ddlabel">Italia</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.nl"><img src="http://www.superdry.com/public/images/flags/nl.png"><span class="ddlabel">Nederland</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdry.tw"><img src="http://www.superdry.com/public/images/flags/tw.png"><span class="ddlabel">台湾</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdrystore.ca/ca-en/"><img src="http://www.superdry.com/public/images/flags/ca.png"><span class="ddlabel">Canada (English)</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdrystore.ca/ca-fr/"><img src="http://www.superdry.com/public/images/flags/ca.png"><span class="ddlabel">Canada (Français)</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdrystore.ch/ch-de/"><img src="http://www.superdry.com/public/images/flags/ch.png"><span class="ddlabel">Schweiz</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdrystore.ch/ch-fr/"><img src="http://www.superdry.com/public/images/flags/ch.png"><span class="ddlabel">Suisse</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdrystore.cn"><img src="http://www.superdry.com/public/images/flags/cn.png"><span class="ddlabel">中国</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdrystore.no"><img src="http://www.superdry.com/public/images/flags/no.png"><span class="ddlabel">Norge</span><div class="clear"></div></li><li style="display:none;" data-url="http://www.superdrystore.se"><img src="http://www.superdry.com/public/images/flags/se.png"><span class="ddlabel">Sverige</span><div class="clear"></div></li></ul></div></div></div><div class="social-media font-5 font_bold spaced-v">
+		
+<div class="font-5 spaced-v country_flags">
+	<div class="font_bold">choose your country</div>
+	<div class="ddChild" id="country-select">
+		<div>
+			<ul>
+							<li class="" style="display:none;" data-url="https://www.superdry.be/be-fr/">
+					<img src="/public/images/flags/be.png">
+					<span class="ddlabel">Belgique</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.be/be-nl/">
+					<img src="/public/images/flags/be.png">
+					<span class="ddlabel">België</span>
+					<div class="clear"></div>
+				</li>
+							<li class="selected-country" style="" data-url="https://www.superdry.com">
+					<img src="/public/images/flags/gb.png">
+					<span class="ddlabel">English</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.com.au">
+					<img src="/public/images/flags/au.png">
+					<span class="ddlabel">Australia</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.com/us">
+					<img src="/public/images/flags/us.png">
+					<span class="ddlabel">USA</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.de">
+					<img src="/public/images/flags/de.png">
+					<span class="ddlabel">Deutschland</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.dk">
+					<img src="/public/images/flags/dk.png">
+					<span class="ddlabel">Danmark</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.es">
+					<img src="/public/images/flags/es.png">
+					<span class="ddlabel">España</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.fi">
+					<img src="/public/images/flags/fi.png">
+					<span class="ddlabel">Suomi</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.fr">
+					<img src="/public/images/flags/fr.png">
+					<span class="ddlabel">France</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.it">
+					<img src="/public/images/flags/it.png">
+					<span class="ddlabel">Italia</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.nl">
+					<img src="/public/images/flags/nl.png">
+					<span class="ddlabel">Nederland</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdry.tw">
+					<img src="/public/images/flags/tw.png">
+					<span class="ddlabel">台湾</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdrystore.ca/ca-en/">
+					<img src="/public/images/flags/ca.png">
+					<span class="ddlabel">Canada (English)</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdrystore.ca/ca-fr/">
+					<img src="/public/images/flags/ca.png">
+					<span class="ddlabel">Canada (Français)</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdrystore.ch/ch-de/">
+					<img src="/public/images/flags/ch.png">
+					<span class="ddlabel">Schweiz</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdrystore.ch/ch-fr/">
+					<img src="/public/images/flags/ch.png">
+					<span class="ddlabel">Suisse</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdrystore.cn">
+					<img src="/public/images/flags/cn.png">
+					<span class="ddlabel">中国</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdrystore.no">
+					<img src="/public/images/flags/no.png">
+					<span class="ddlabel">Norge</span>
+					<div class="clear"></div>
+				</li>
+							<li class="" style="display:none;" data-url="https://www.superdrystore.se">
+					<img src="/public/images/flags/se.png">
+					<span class="ddlabel">Sverige</span>
+					<div class="clear"></div>
+				</li>
+						</ul>
+		</div>
+	</div>
+</div>
+<div class="social-media font-5 font_bold spaced-v">
 	<div>follow us on</div>
 	<ul>
-				<li class="sm3"><a href="http://feeds.superdry.com/superdryblog/" target="_blank" id="social-rss" title="Superdry RSS feed"><span>Superdry RSS feed</span></a></li>
-						<li class="sm5"><a href="http://www.facebook.com/Superdry" target="_blank" id="social-facebook" title="Facebook"><span>Facebook</span></a></li>
-						<li class="sm4"><a href="http://twitter.com/superdry" target="_blank" id="social-twitter" title="Twitter"><span>Twitter</span></a></li>
+				<li class="sm3"><a href="https://feeds.superdry.com/superdryblog/" target="_blank" id="social-rss" title="Superdry RSS feed"><span>Superdry RSS feed</span></a></li>
+						<li class="sm5"><a href="https://www.facebook.com/Superdry" target="_blank" id="social-facebook" title="Facebook"><span>Facebook</span></a></li>
+						<li class="sm4"><a href="https://twitter.com/superdry" target="_blank" id="social-twitter" title="Twitter"><span>Twitter</span></a></li>
 						<li class="sm6"><a href="//plus.google.com/+superdry" target="_blank" id="social-google" title="Google+"><span>Google+</span></a></li>
 						<li class="sm7"><a href="//pinterest.com/superdryglobal" target="_blank" id="social-pinterest" title="Pinterest"><span>Pinterest</span></a></li>
-							<li class="sm9"><a href="https://www.instagram.com/superdryglobal/" target="_blank" id="social-instagram" title="Instagram"><span>Instagram</span></a></li>
-						<li class="sm8"><a href="http://www.superdry.com/blog/" target="_blank" id="social-blog" title="Blog"><span>Blog</span></a></li>
+							<li class="sm9"><a href="https://www.instagram.com/superdry/" target="_blank" id="social-instagram" title="Instagram"><span>Instagram</span></a></li>
+						<li class="sm8"><a href="https://www.superdry.com/blog/" target="_blank" id="social-blog" title="Blog"><span>Blog</span></a></li>
 			</ul>
 </div>
 
@@ -467,7 +766,7 @@ jQuery.noConflict();
 
 	<div class="ff_right cell align-top font-4">
 		<div class="footer-menu" style="width:auto;"><ul id="ul1000" class="menu"><li id="menuitem353" class="item353 position-1"><span class="separator"><span>information</span></span></li><li id="menuitem373" class="item373 position-2"><a href="/terms-and-conditions"><span>Terms &amp; Conditions</span></a></li><li id="menuitem383" class="active item383 position-3"><a href="/privacy-policy"><span>Privacy Policy</span></a></li><li id="menuitem14" class="parent item14 position-4"><a href="/stores"><span>Stores Directory</span></a></li><li id="menuitem1000" class="item1000 position-5"><a href="/privacy-policy#cookie-consent"><span>cookie consent</span></a></li></ul></div>
-		<div class="footer-menu"><ul id="ul11640" class="menu"><li id="menuitem293" class="item293 position-1"><span class="separator"><span>superdry the brand</span></span></li><li id="menuitem303" class="item303 position-2"><a href="/about-us"><span>about us</span></a></li><li id="menuitem313" class="item313 position-3"><a href="http://www.supergroup.co.uk" target="_blank"><span>corporate</span></a></li><li id="menuitem675" class="item675 position-4"><a href="http://careers.superdry.com" target="_blank"><span>recruitment</span></a></li><li id="menuitem10230" class="item10230 position-5"><a href="/superdryfilm"><span>superdry player</span></a></li><li id="menuitem11640" class="item11640 position-6"><a href="/premium"><span>personal shopping</span></a></li></ul></div>
+		<div class="footer-menu"><ul id="ul11640" class="menu"><li id="menuitem293" class="item293 position-1"><span class="separator"><span>superdry the brand</span></span></li><li id="menuitem303" class="item303 position-2"><a href="/about-us"><span>about us</span></a></li><li id="menuitem313" class="item313 position-3"><a href="http://www.supergroup.co.uk" target="_blank"><span>corporate</span></a></li><li id="menuitem675" class="item675 position-4"><a href="http://careers.superdry.com" target="_blank"><span>recruitment</span></a></li><li id="menuitem11640" class="item11640 position-5"><a href="/premium"><span>personal shopping</span></a></li></ul></div>
 		<div class="footer-menu"><ul id="ul11918" class="menu"><li id="menuitem173" class="item173 position-1"><span class="separator"><span>customer services</span></span></li><li id="menuitem11915" class="item11915 position-2"><a href="/help-centre"><span>Help Centre</span></a></li><li id="menuitem11916" class="item11916 position-3"><a href="/help-centre"><span>Delivery &amp; Returns</span></a></li><li id="menuitem11917" class="item11917 position-4"><a href="/help-centre"><span>FAQs</span></a></li><li id="menuitem11918" class="item11918 position-5"><a href="/help-centre#helpcentre-home-contact-form"><span>Contact Us</span></a></li></ul></div>
 		<div class="footer-menu"><ul id="ul897" class="menu"><li id="menuitem233" class="item233 position-1"><span class="separator"><span>why shop at superdry.com</span></span></li><li id="menuitem243" class="item243 position-2"><a href="/buy-from-the-brand"><span>buy from the brand</span></a></li><li id="menuitem11919" class="item11919 position-3"><a href="/help-centre"><span>Free Delivery</span></a></li><li id="menuitem11920" class="item11920 position-4"><a href="/help-centre"><span>Guaranteed Returns</span></a></li><li id="menuitem897" class="item897 position-5"><a href="/sitemap"><span>Sitemap</span></a></li></ul><ul id="ul11814" class="menu_giftcard menu"><li id="menuitem11814" class="parent item11814 position-1"><a href="/giftcards"><span>Gift Cards</span></a></li></ul><ul class="menu"></ul></div>
 
@@ -475,8 +774,8 @@ jQuery.noConflict();
 
     <p>We accept payment by:</p>
     <ul>
-        <li><a href="/faqs" class="mastercard" title="Mastercard"><span>Mastercard</span></a></li><li><a href="/faqs" class="visa" title="Visa"><span>Visa</span></a></li><li><a href="/faqs" class="amex" title="Amex"><span>Amex</span></a></li><li><a class="paypal" title="PayPal" onclick="javascript:window.open('https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><span>PayPal</span></a></li><li><a href="/faqs" class="verisign" title="Verisign"><span>Verisign</span></a></li>    </ul>
-    <span class="sdry">© Superdry 2016</span>
+        <li><a href="/help-centre" class="mastercard" title="Mastercard"><span>Mastercard</span></a></li><li><a href="/help-centre" class="visa" title="Visa"><span>Visa</span></a></li><li><a href="/help-centre" class="amex" title="Amex"><span>Amex</span></a></li><li><a class="paypal" title="PayPal" onclick="javascript:window.open('https://www.paypal.com/uk/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><span>PayPal</span></a></li><li><a href="/help-centre" class="verisign" title="Verisign"><span>Verisign</span></a></li>    </ul>
+    <span class="sdry">© Superdry 2017</span>
 </div></div>
 	</div>
 
