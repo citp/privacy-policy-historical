@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sexpornimg.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120145037id_/http%3A//sexpornimg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexpornimg.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610131538id_/http%3A//sexpornimg.com/privacy.html) for the most accurate reproduction.*
 
 # Contact
 
-[](http://www.histats.com/ "track hits") [](http://sexpornimg.com/ "SexPornImg.com")  
+[](http://sexpornimg.com/ "SexPornImg.com")  
 
 
 ### PRIVACY POLICY
