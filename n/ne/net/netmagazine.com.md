@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netmagazine.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119150913id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netmagazine.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610082415id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Future PLC
 
@@ -41,6 +41,6 @@ By providing us with your personal information, you consent to us: (a) processin
 
 
 
-**[Italian Privacy Policy](http://media.futureplc.com/wp-content/uploads/sites/194/2014/10/Privacy-Policy-Translations-Italy.pdf)**
+**[Italian Privacy Policy](http://dg876rejmw3ebkm51boa0sx2.wpengine.netdna-cdn.com/wp-content/uploads/sites/194/2014/10/Privacy-Policy-Translations-Italy.pdf)**
 
-**[German Privacy Policy](http://media.futureplc.com/wp-content/uploads/sites/194/2014/10/PrivacyPolicy_04-14_de-DE-_1_Germany.pdf)**
+**[German Privacy Policy](http://dg876rejmw3ebkm51boa0sx2.wpengine.netdna-cdn.com/wp-content/uploads/sites/194/2014/10/PrivacyPolicy_04-14_de-DE-_1_Germany.pdf)**
