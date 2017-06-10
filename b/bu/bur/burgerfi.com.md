@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the burgerfi.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140853id_/http%3A//burgerfi.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgerfi.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610195819id_/https%3A//burgerfi.com/legal) for the most accurate reproduction.*
 
-# LEGAL - BURGERFI
+# Legal - Burgerfi
+
+## Legal
 
 The website and the Franchise information on this site does not constitute an offer to sell or solicitation of an offer to buy a franchise. The offer of a franchise can only be made when appropriately registered with the state, when applicable exemption from registration has been obtained, as required by law and through delivery of our Franchise Disclosure Document. No contractual rights, either expressed or implied are created by the content of the website.
 
@@ -14,16 +16,14 @@ _We collect information from you when you register on our site, place an order, 
 
 Any of the information we collect from you may be used in one of the following ways:
 
-personalize your experience (your information helps us to better respond to your individual needs).
+  * Personalize your experience (your information helps us to better respond to your individual needs).
+  * To process transactions
+  * Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails.
 
-To process transactions
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
-
-To administer a contest, promotion, survey or other site feature.
-
-To send periodic emails.
 
 The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. How do we protect your information? We implement a variety of security measures to maintain the safety of your personal information when you place an order.
+**Note** : If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. How do we protect your information? We implement a variety of security measures to maintain the safety of your personal information when you place an order.
