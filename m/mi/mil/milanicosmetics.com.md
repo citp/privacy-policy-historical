@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211040127id_/http%3A//milanicosmetics.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanicosmetics.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610152722id_/https%3A//milanicosmetics.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Milani Cosmetics - Beauty Products - Face Makeup - Makeup Products
 
