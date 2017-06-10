@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i9advantage.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105112832id_/http%3A//i9advantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i9advantage.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610051944id_/http%3A//i9advantage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -91,8 +91,8 @@ In accordance with the Privacy Shield Framework Principles (“Principles”) an
 
 Questions or comments regarding this Policy should be submitted to the i9advantage.com Privacy Officer by mail as follows:
 
-Sathab Abbo  
-Corporate Immigration Counsel  
+Jamie Brooks  
+Product and Compliance Manager  
 21220 Kelly Road  
 Eastpointe, Michigan 48021  
 [PrivacyPolicy@i9advantage.com](mailto:PrivacyPolicy@nowHIRE.com)
