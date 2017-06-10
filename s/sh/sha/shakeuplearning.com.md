@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125091428id_/http%3A//www.shakeuplearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakeuplearning.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610174352id_/http%3A//www.shakeuplearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shake Up Learning
 
@@ -125,3 +125,7 @@ United States
 Texas  
 75071  
 kasey@shakeuplearning.com
+
+### 17 Things to Try in 2017
+
+YES! I want the FREE PDF copy of, " _17 Things Teachers Should Try in 2017_ _!_ " Get this 13-page, printable pdf to save and read throughout the year.
