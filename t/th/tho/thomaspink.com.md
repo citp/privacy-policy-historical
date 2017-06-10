@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomaspink.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822230426id_/http%3A//www.thomaspink.com/PrivacyPolicy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomaspink.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610121812id_/http%3A//www.thomaspink.com/PrivacyPolicy/content/fcp-content) for the most accurate reproduction.*
 
 # Thomas Pink Privacy Policy
 
