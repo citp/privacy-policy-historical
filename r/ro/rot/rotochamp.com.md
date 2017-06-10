@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotochamp.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230081502id_/http%3A//rotochamp.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotochamp.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610181348id_/http%3A//www.rotochamp.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # RotoChamp Privacy Policy
 
