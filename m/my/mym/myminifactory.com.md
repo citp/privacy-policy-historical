@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myminifactory.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114140840id_/https%3A//www.myminifactory.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myminifactory.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611002901id_/https%3A//www.myminifactory.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
