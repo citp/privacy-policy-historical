@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120112015id_/http%3A//www.motoring.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoring.co.uk privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610083658id_/https%3A//www.motoring.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motoring.co.uk
 
 Motoring.co.uk Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our terms of use [www.motoring.co.uk/terms-of-use](https://web.archive.org/web/20161120112015id_/http%3A//www.motoring.co.uk/terms-of-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.motoring.co.uk you are accepting and consenting to the practices described in this policy. 
+This policy (together with our terms of use [www.motoring.co.uk/terms-of-use](https://web.archive.org/web/20170610083658id_/https%3A//www.motoring.co.uk/terms-of-use) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.motoring.co.uk you are accepting and consenting to the practices described in this policy. 
 
 For the purpose of the Data Protection Act 1998 (the " **Act** "), the data controller is Motoring.co.uk Limited of 8 St John Street, Manchester, M3 4DU. 
 
@@ -27,7 +27,7 @@ information about your visit, including the full Uniform Resource Locators (URL)
 
 **Cookies**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [www.motoring.co.uk/cookie-policy](https://web.archive.org/web/20161120112015id_/http%3A//www.motoring.co.uk/cookie-policy).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie policy [www.motoring.co.uk/cookie-policy](https://web.archive.org/web/20170610083658id_/https%3A//www.motoring.co.uk/cookie-policy).
 
 **Uses made of the information**
 
@@ -83,7 +83,7 @@ In the event that we sell or buy any business or assets, in which case we may di
 
 If Motoring.co.uk Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.motoring.co.uk/terms-of-use](https://web.archive.org/web/20161120112015id_/http%3A//www.motoring.co.uk/terms-of-use) and other agreements; or to protect the rights, property, or safety of Motoring.co.uk Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [www.motoring.co.uk/terms-of-use](https://web.archive.org/web/20170610083658id_/https%3A//www.motoring.co.uk/terms-of-use) and other agreements; or to protect the rights, property, or safety of Motoring.co.uk Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **Where we store your personal data**
 
