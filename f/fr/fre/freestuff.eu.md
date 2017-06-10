@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208051745id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestuff.eu privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610054525id_/http%3A//www.freestuff.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Free Stuff
 
@@ -24,6 +24,7 @@ Retail |  \- Online retail
 Finance |  \- Pensions  
 \- Loans, credit cards and mortgages  
 \- Investments & savings  
+\- Short term loans  
   
 Insurance |  \- Home  
 \- Car  
@@ -51,7 +52,7 @@ By continuing to use this website you have consented to information being collec
 
 **Opting Out (Deregistration)**
 
-Should you wish to opt out of your data being used for these purposes, please [unsubscribe](https://web.archive.org/web/20161208051745id_/http%3A//www.freestuff.eu/unsubscribe.php).
+Should you wish to opt out of your data being used for these purposes, please [unsubscribe](https://web.archive.org/web/20170610054525id_/http%3A//www.freestuff.eu/unsubscribe.php).
 
 The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further communications from FreeStuff.eu. Every email that FreeStuff.eu sends contains a link to unsubscribe and a link to this privacy policy.
 
@@ -135,11 +136,12 @@ Astrology |  Maria
 Nicola  
   
 Charity |  Blind Children  
-Guide Dogs  
+Centre Point  
 Ethicall  
 Great Ormond Street Hospital  
+Guide Dogs  
+Kidney Research  
 NTT Fundraising  
-  
 Competition Sites |  Get Me A Ticket  
 Lucky Day  
 Lucky Day UK LP  
@@ -157,7 +159,9 @@ Mighty Deals
 MyVoucherCodes  
 Wowcher  
   
-Gambling |  188Bet  
+Gambling |  123 Casinos  
+123 Bingos  
+188Bet  
 AccuScore  
 Bet on Brazil  
 Betfair  
@@ -174,10 +178,14 @@ FreeLotto
 Gala Bingo  
 Ladbrokes  
 Leo Vegas  
+Lottery  
 Lottoland  
 Mansion  
 MintedMobi  
 NetBet  
+Online Betting  
+Online Casino  
+Online Poker  
 Paddy Power  
 PartyCasino  
 Play Million  
@@ -189,7 +197,6 @@ Sun Bingo
 The Football INDEX  
 Unibet  
 William Hill  
-  
 General | Author Solutions  
 Ascend  
 LoveHoney  
@@ -201,14 +208,19 @@ Arrangemyfuneral
 AXA SunLife  
 Consumer Helper  
 Grove Pension Ltd  
+Franklyn Hughes  
 Independent Financial Matters Registration  
 Promis Life  
 Safe and Secure  
 Smart Insurance  
-  
 Personal Injury |  Accident Advice Helpline  
 Accident Support Network  
 No Win No Fee  
+  
+Retail | Test Drives  
+Servicing  
+Insurance  
+SKY  
   
 Subscription | Aditus - Magazines  
 Aditus - Newspapers  
@@ -219,6 +231,7 @@ Prizehook
 Remote Games  
 Supercard  
 Xinion Limited  
+Amazon Prime  
   
 Survey | Charity Survey  
 GlobalTestMarket  
@@ -227,6 +240,8 @@ Inbox Pounds
 Maximiles  
 Research Now  
 Toluna  
+IPSOS  
+Yougov  
   
 Travel |  Bonotour  
 Cheapflights.co.uk  
@@ -239,7 +254,9 @@ Hassle Free Boilers
 Homebase  
 Scottish Power  
 Simplify Digital LP  
+Spark  
 Unbranded Utility  
+Uswitch  
 Utilita Energy Limited  
   
 General Marketing |  Acxiom  
@@ -364,7 +381,7 @@ Further Information
 
 If you have questions regarding this privacy policy, please contact All Groove by following this link: 
 
-[Contact Page](https://web.archive.org/web/20161208051745id_/http%3A//www.freestuff.eu/contact.php)
+[Contact Page](https://web.archive.org/web/20170610054525id_/http%3A//www.freestuff.eu/contact.php)
 
 or by post: 
 
