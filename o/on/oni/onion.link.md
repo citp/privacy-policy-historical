@@ -1,0 +1,33 @@
+> *The following text is extracted and transformed from the onion.link privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610064159id_/https%3A//onion.link/privacy.html) for the most accurate reproduction.*
+
+# OnionLink: Privacy Policy
+
+**TL/DR** : At its core, OnionLink trades privacy for convenience. Although we collect vastly less information than websites like Google, Facebook, or Twitter, we do keep logs. We make good faith effort to reduce third parties' exposure personally identifying information in these logs, but we also have advertisers who almost assuredly do not make such an effort. For real privacy, download and use the [Tor Browser Bundle](https://www.torproject.org/).
+
+* * *
+
+This Privacy Policy applies to [https://onion.link](https://onion.link/) (hereinafter, "us", "we", or "OnionLink"). We respect your privacy and are committed to protecting logged personally identifiable information we incur through your use of the site. We have adopted this privacy policy ("Privacy Policy") to explain what information is collected, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the website and does not apply to information collected by other sources (e.g., email).
+
+This Privacy Policy sets forth the general rules and policies governing our use of your data.
+
+## Website Visitors
+
+Like most websites, OnionLink collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. OnionLink's purpose in collecting non-personally identifying information is to better understand how OnionLink's visitors use its website and improve user-experience. OnionLink may publish aggregated statistics information publicly or provide it to others, e.g., by publishing a report on usage trends.
+
+OnionLink also collects potentially personally-identifying information like Internet Protocol (IP) addresses for users. Personally personally-identifying information such as IP addresses are disclosed solely limited to cases were compelled to under United Statates, Singapore, or international law.
+
+## Advertisements
+
+Ads appearing on our website are delivered by advertising partners, who often set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. OnionLink itself does not use cookies.
+
+## Security
+
+The security of your Personal Information is important to us, but remember that no method of transmission or storage is 100% secure. While we use better than typical means to protect your Personal Information, we cannot guarantee its absolute security.
+
+## Onion-sites may do clever things to compromise your privacy
+
+Our entire service is providing access to anonymous sites we do not control. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any of these sites, products or services.
+
+## Privacy Policy Changes
+
+Although we have no expectation of major changes, OnionLink will undoubtably, from time to time, undoubtably change our Privacy Policy. OnionLink encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
