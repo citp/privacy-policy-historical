@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817213407id_/https%3A//www.stream.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stream.me privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610093225id_/https%3A//www.stream.me/pages/privacy) for the most accurate reproduction.*
 
 # Stream.me
 
@@ -18,19 +18,11 @@ We may use standard Internet technology, such as web beacons and other similar t
 
 ## How We May Use the Information
 
-Other than in certain unique situations discussed below, we do not share individualized personal information with third parties which we collect about our users, such as a user’s name or a user’s email address. We may share with third parties certain aggregated personal information about groups of users, such as average or range of ages of users, zip codes of users, etc. 
+Other than in certain unique situations discussed below, we do not share individualized personal information with third parties which we collect about our users, such as a user’s name or a user’s email address. We may share with third parties certain aggregated personal information about groups of users, such as average or range of ages of users, zip codes of users, etc.
 
-In certain unique situations, we reserve the right to share your individualized personal information when we believe disclosure is appropriate, such as in the following situations:
+In certain unique situations, we reserve the right to share your individualized personal information when we believe disclosure is appropriate, such as in the following situations: *In response to a subpoena or similar investigative demand, a court order, a request for cooperation from a law enforcement or other government agency, or as otherwise required by law; *In connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; *To protect, exercise, establish or defend the rights, property or safety of our users, our company, our employees, or others; *To enforce our website Terms and Conditions or other agreements or policies; or *In connection with a substantial corporate transaction or event, such as the sale of our business or assets, a merger, a consolidation, or a dissolution.
 
-  * In response to a subpoena or similar investigative demand, a court order, a request for cooperation from a law enforcement or other government agency, or as otherwise required by law;
-  * In connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; 
-  * To protect, exercise, establish or defend the rights, property or safety of our users, our company, our employees, or others; 
-  * To enforce our website Terms and Conditions or other agreements or policies; or
-  * In connection with a substantial corporate transaction or event, such as the sale of our business or assets, a merger, a consolidation, or a dissolution.
-
-
-
-We may share aggregated or non-personal information we collect. We may share it with our affiliated companies, our business partner companies, or other third parties for different purposes, such as: (1) to tell our advertisers the number of visitors to our website and the most popular features or services; (2) to develop and deliver targeted advertising on our website or on websites of third parties; or (3) to conduct general business analysis. Also, this may be used to develop website content and services that we hope you and other users will find of interest. 
+We may share aggregated or non-personal information we collect. We may share it with our affiliated companies, our business partner companies, or other third parties for different purposes, such as: (1) to tell our advertisers the number of visitors to our website and the most popular features or services; (2) to develop and deliver targeted advertising on our website or on websites of third parties; or (3) to conduct general business analysis. Also, this may be used to develop website content and services that we hope you and other users will find of interest.
 
 ## User Submitted Content
 
@@ -38,13 +30,13 @@ We provide areas on our websites where you can stream content, upload content, m
 
 ## Third Party Websites
 
-There may be a number of places on our website or through our services where you may access third party websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we do not control. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements or visit their websites. These third party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend you consult the privacy policy of all third party websites you visit. 
+There may be a number of places on our website or through our services where you may access third party websites that do not operate under this Privacy Policy. For example, if you click on an advertisement on our website, you may be taken to a website that we do not control. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements or visit their websites. These third party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend you consult the privacy policy of all third party websites you visit.
 
 ## How We Protect Your Personal Information
 
 We take appropriate security measures (including electronic and procedural measures) to help safeguard your non-public personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive non-public personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your non-public personal information.
 
-We want you to feel confident using our website. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. 
+We want you to feel confident using our website. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.
 
 ## No Rights of Third Parties
 
@@ -52,6 +44,6 @@ This Privacy Policy does not create rights enforceable by third parties or requi
 
 ## Changes to This Privacy Policy
 
-We will occasionally update or modify this Privacy Policy to reflect changes in our practices and services. When we make updates or modifications to this Privacy Policy, we will revise the "Last Updated" date at the bottom of this Privacy Policy. We recommend you review our Privacy Policy from time to time to inform yourself of any updates or modifications. 
+We will occasionally update or modify this Privacy Policy to reflect changes in our practices and services. When we make updates or modifications to this Privacy Policy, we will revise the "Last Updated" date at the bottom of this Privacy Policy. We recommend you review our Privacy Policy from time to time to inform yourself of any updates or modifications.
 
-Last Updated: February 1, 2015
+_Last Updated: February 1, 2015_
