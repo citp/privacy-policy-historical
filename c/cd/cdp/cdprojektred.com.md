@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224221611id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdprojektred.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610233510id_/http%3A//regulations.cdprojektred.com/en/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -122,7 +122,7 @@ We may collect and process information about you in the following ways: (a) info
 
 | 
 
-We also collect information about you via cookies. You can find out more about this in our Cookie Policy here: [link](http://regulations.cdprojektred.com/en/cookie_policy/). The Cookie Policy forms part of this Privacy Policy.
+We also collect information about you via cookies. You can find out more about this in our Cookie Policy here: [link](https://regulations.cdprojektred.com/en/cookie_policy/). The Cookie Policy forms part of this Privacy Policy.
 
 | 
 
@@ -340,7 +340,7 @@ If you don't agree to those changes (regardless of whether you email us), then u
 
 | 
 
-We'd also like to remind you that our User Agreement has more information about how we operate CD PROJEKT RED services and it has a number of sections, which apply to this Privacy Policy too. You can read it at [link](http://regulations.cdprojektred.com/en/user_agreement/).
+We'd also like to remind you that our User Agreement has more information about how we operate CD PROJEKT RED services and it has a number of sections, which apply to this Privacy Policy too. You can read it at [link](https://regulations.cdprojektred.com/en/user_agreement/).
 
 | 
 
