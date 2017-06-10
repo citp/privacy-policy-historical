@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingfunnelautomation.com privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516194617id_/http%3A//marketingfunnelautomation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingfunnelautomation.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610235418id_/http%3A//marketingfunnelautomation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Marketing Funnel Automation
+# Privacy Policy
 
 MarketingFunnelAutomation.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
 
