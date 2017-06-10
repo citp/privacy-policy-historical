@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502020441id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylol.net privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610061346id_/http%3A//www.mylol.com/policies.asp) for the most accurate reproduction.*
 
 # Teen Dating - MyLOL - Teen APP
 
 Privacy Policy
 
- **This web site is owned and managed by Mylol.**
+ **This web site is owned and managed by MyLOL.**
 
 To reach us via e-mail, you can email support@mylol.com 
 
-This privacy policy sets out how Mylol.net uses and protects any information that you give Mylol when you use this website.
+This privacy policy sets out how MyLOL.com uses and protects any information that you give MyLOL when you use this website.
 
-Mylol is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+MyLOL is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-By using mylol.net, you signify your agreement to our privacy policy as stated above. Note that this policy may be revised periodically without notice. Please re-read this policy prior to submitting any personal information if you have concerns about how your information is being collected and used. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Tuesday 23 September 2008. 
+By using MyLOL.com, you signify your agreement to our privacy policy as stated above. Note that this policy may be revised periodically without notice. Please re-read this policy prior to submitting any personal information if you have concerns about how your information is being collected and used. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Tuesday 23 September 2008. 
 
 What we collect
 
@@ -67,7 +67,7 @@ Our website may contain links to other websites of interest. However, once you h
 
 Controlling your personal information
 
-Personal information collected may be transferred and shared in the event of a sale of Mylol.net You may choose to restrict the collection or use of your personal information in the following ways: 
+Personal information collected may be transferred and shared in the event of a sale of MyLOL.com You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes where such a box is available
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@mylol.com](mailto:support@mylol.com) Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page. Registrants can un-register by writing to [ support@mylol.com](mailto:support@mylol.com). Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings. 
