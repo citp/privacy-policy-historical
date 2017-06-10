@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924020722id_/http%3A//info.devpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devpost.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610235051id_/https%3A//info.devpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -105,4 +105,4 @@ Under California Civil Code Section 1798.83, California residents who have an es
 
 ## Contact Us
 
-If you have any questions about this policy or our site in general, please contact us at [support@devpost.com]() or via mail to Devpost, Inc. • 133 W. 19th Street, 4th Floor, New York, NY 10011.
+If you have any questions about this policy or our site in general, please contact us at [support@devpost.com]() or via mail to Devpost, Inc. • 222 Broadway, 19th Floor, New York, NY 10038.
