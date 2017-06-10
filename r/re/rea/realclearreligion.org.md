@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realclearreligion.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228222106id_/http%3A//www.realclearreligion.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearreligion.org privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610143559id_/http%3A//www.realclearreligion.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
