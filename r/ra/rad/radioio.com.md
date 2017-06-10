@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioio.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126201528id_/http%3A//www.bubbaarmyradio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioio.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610063516id_/http%3A//www.bubbaarmyradio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bubba Army Radio®
 
