@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225082737id_/http%3A//www.techfest.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfest.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611013612id_/http%3A//www.techfest.org/privacypolicy) for the most accurate reproduction.*
 
 # Techfest 2016-17 | IIT Bombay
 
@@ -65,13 +65,15 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
+All of the rights of Techfest 2016-17 website belong to Techfest, IIT Bombay.
+
 #### Your Consent
 
 By using our site, you consent to our online privacy policy.
 
 #### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page.
+If we decide to change our privacy policy, we will post those changes on this page. All rights reserved © Techfest 2016-17
 
 #### Contact Us :
 
