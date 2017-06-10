@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldsilverreports.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207034735id_/http%3A//www.goldsilverreports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldsilverreports.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610200923id_/http%3A//www.goldsilverreports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gold Silver Reports | Neal Bhai
+# Neal Bhai • Gold Silver Reports • MCX Tips • Share Tips
 
 This website is administered by GoldSilverreports.com. We want you to feel secure when visiting our site and are committed to maintaining your privacy when doing so. The following provides an overview of how we protect your privacy during your visit to our site.
 
