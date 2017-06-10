@@ -1,92 +1,46 @@
-> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231359id_/http%3A//teamrock.com/privacy-policy%3Fns_source%3Dglobal%26ns_mchannel%3Ddesktop%26ns_campaign%3Dfooter-tracking%26ns_linkname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicrockmagazine.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610082415id_/http%3A//www.futureplc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy - TeamRock
+# Privacy Policy | Future PLC
 
-By visiting www.teamrock.com (our site), you are accepting and consenting to the practices described in this privacy policy.
+  1. **Introduction** : This policy covers the processing of personal data by Future plc and its associated UK group companies ( **“Future”** , **“we”** or **“us”** ) whose registered address is at Quay House, The Ambury, Bath, BA1 1UA. Future is committed to protecting the privacy of your personal information whilst striving to provide the very best user experience. We want our websites to be safe and enjoyable for everyone. Under the Data Protection Act 1998 and related laws, we have a legal duty to protect the personal information we collect from you.If you have any concerns, questions or comments about this privacy policy or the website you can contact us using the contact details in paragraph 10 of this policy.
+  2. **The types of personal information we collect and how we collect it:** **Information you provide upon registration** : in order to make use of certain services provided through the website such as the forums and email newsletters, you will either need to: (a) register an account with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes; (b) log in using a social media account of your choice. When you do so, we will be provided with certain information about you from the social media site, as specified when you log in. You will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the account registration section. We will only use your information in accordance with your instructions and as set out in this privacy policy. 
+    1. **Information you provide upon ordering a product or service from us** : if you order a product or service from us, you will need to provide certain personal details so that the order can be fulfilled. In some cases, we will direct you to a third party partner site which will collect this information from you and fulfill your order. For example, if you order a subscription to one or more of our publications, you may be able to access those products through a digital newsstand such as Google Play or the Apple Newsstand. If you do, you will need to provide certain information about your subscription to the digital newsstand. The digital newsstand may need to verify that information with our print subscription fulfillment provider. The digital newsstand will only use the information that you and our print subscription fulfillment provider provide, to enable them to fulfill your order unless you agree otherwise.
+    2. **Information you provide upon entering a promotion or competition** : if you enter a promotion or competition you will either need to register an account with us or provide certain personal information which will be used in accordance with the terms of the promotion or competition.
+    3. **Information you provide when taking part in a poll or survey** : if you take part in a poll or survey you will either need to register an account with us or provide certain personal information to us which we will use in accordance with the terms of the poll or survey.
+    4. **Games** : if you register to play a game through this site, you may be asked to provide personal information.
+    5. **Demographic and other data** : this website uses cookies, web analytics and web logs to collect information about your use of our site, information about your computer such as your computer’s IP address and browser type, demographic data and, if you arrived at our site via a link from a third party site, the URL of the linking page. If you have registered an account with us, it may also collect your name and email address. The data collected through cookies, web analytics and web logs may be transferred to third parties. For more information on how this website uses cookies, see our [cookie policy](http://www.futureplc.com/cookies-policy/).
+    6. **Email communications** : we use web beacons in our emails to track the success of our marketing campaigns. If you open an email from us, we can see which of the pages of our website you visited. Our web beacons don’t store any information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened an email from us. We may keep track of the emails that we send you. We also keep a record of what communications you have selected to receive or not to receive. If you would like to opt out of receiving such emails, please click the “unsubscribe” link in the email and follow the instructions.
+    7. **Information from other sources** : we may receive information about you from other sources (eg missing information about your postal or email addresses) and add it to the personal information we hold about you.
+  3. **How we use the information that we collect:  **We own the information we collect through this website. We will use it, as applicable, to: 
+    * provide you with services or information that you have requested or products or services that you have ordered, such as magazine subscriptions;
+    * contact you regarding your registered account with us;
+    * confirm or fulfill an order you have submitted
+    * inform you if you have won a prize
+    * monitor or improve the performance of, and products and services available through, this website
+    * customise the advertising and content that you see
+    * monitor compliance with our terms and conditions of use of this website, enforce our rights and protect the safety of others including investigating and if necessary removing any content about which we receive a complaint
+    * send you promotional materials or special offers on our behalf or on behalf of our group companies and marketing partners. If you do not want to receive this marketing information you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving your email address and details of the information you no longer wish to receive
+    * for any purpose if we are required to do so by any law or other regulatory or government authority
 
-We are committed to ensuring that your privacy is protected.
+Please note that if you upload or post any information to a public part of the Website, we may use it in accordance with our [terms and conditions](http://www.futureplc.com/terms-and-conditions/) of use and it may be viewed and used by others. Future accepts no responsibility for this.
 
-We may change this privacy policy from time to time by updating this page. You should check back frequently to see any changes or updates to our privacy policy.
+By providing us with your personal information, you consent to us: (a) processing your information as set out in this privacy policy and in any other manner you expressly consent to; (b) processing your sensitive personal data, such as health data (if provided); and (c) transferring your information to countries or jurisdictions which do not provide the same level of data protection as the UK, if necessary for these purposes. If we do make such a transfer, we will, if appropriate, put a contract in place to ensure that your information is protected.
 
-**WHAT WE COLLECT AND HOW WE USE IT**
-
-We may collect and process the following data about you:
-
-**(a) Information you give us**
-
-This may include, for example, your name, your email address, your telephone numbers, and your comments which you may provide when you submit a form to us, contact us or register to access parts of our site.
-
-We do not store credit card details nor do we share customer details with any 3rd parties.
-
-**We will use this information:**
-
-  * to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
-  * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-  * to notify you about changes to our service; and
-  * to ensure that content from our site is presented in the most effective manner for you and for your computer.
-
-
-
-**(b) Information we automatically collect when you visit our site**
-
-This may include, for example, technical information such as your IP address, or your browser type and version, or information about your visit including how you came to and left our site.
-
-**We will use this information:**
-
-  * to administer our site and for internal operations;
-  * to improve our site;
-  * to allow you to participate in interactive features of our service, when you choose to do so;
-  * as part of our efforts to keep our site safe and secure;
-  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
-  * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
-
-
-
-**(c) Information we receive from other sources**
-
-We may receive information about you if you visit other sites we operate, or the other services we provide.
-
-We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
-
-**SECURITY**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we process.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.
-
-**HOW WE USE COOKIES**
-
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
-
-**LINKS TO OTHER WEBSITES**
-
-Our site may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy policy. You should exercise caution and look at the privacy policy applicable to the website in question.
-
-**YOUR RIGHTS**
-
-You have the right to ask us not to process your personal data for marketing purposes. Please note, we will not disclose your information to any third party for such purposes. If you don’t want us to use your personal data for marketing purposes, please contact us at [info@teamrock.com](mailto:info@teamrock.com).
-
-The Data Protection Act 1998 (DPA) gives you the right to access information held about you. Your right of access can be exercised in accordance with the DPA. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-**CONTACT**
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@teamrock.com](mailto:info@teamrock.com).
-
-**INFORMATION ABOUT OUR USE OF COOKIES**
-
-Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
-
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer’s hard drive.
-
-**We use the following cookies:**
-
-  * Strictly necessary cookies. These are cookies that are required for the operation of our site. They include, for example, cookies that enable you to log into secure areas of our site, use a shopping cart or make use of e-billing services.
-  * Analytical/performance cookies. They allow us to recognise and count the number of visitors and to see how visitors move around our site when they are using it. This helps us to improve the way our site works, for example, by ensuring that users are finding what they are looking for easily.
-  * Functionality cookies. These are used to recognise you when you return to our site. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
-  * Targeting cookies. These cookies record your visit to our site, the pages you have visited and the links you have followed. We will use this information to make our site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+  4. **Who we may share your personal information with  ** **Agents** : we use third parties to perform certain functions on our behalf including fulfilling orders, sending emails, organising and managing competitions, promotions, surveys or polls, removing repetitive information from customer lists, comment hosting, website analysis, data analysis, translation services and processing credit card payments. They will have access to your personal information if necessary to perform their function but they cannot use it or disclose it for any other purpose, unless you have specifically given them consent to do so. 
+    1. **Aggregate Information** : we may share aggregate, non-personally identifiable information, such as demographics and website usage statistics, with advertisers, sponsors and other organisations.
+    2. **Option to receive marketing information from associated third parties** : throughout the website you may be given the opportunity to receive marketing information which may be of interest to you from associated third parties. Only if you elect to receive such information, will we share your personal information with our associated third parties and they are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. The use of your personal information by such third parties will be subject to their own privacy policy and practices. We are not responsible for the privacy policy or practices of any such third party. If you do not want to receive marketing information from associated companies you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving your email address and details of the information you no longer wish to receive.
+    3. **Products or services offered in partnership with third parties** : certain products or services available through this website may be provided to you in partnership with a third party. That third party may require you to disclose personal information to them in order to receive such products or services. If you request a product or service offered in partnership with a third party, the identity of the third party will be disclosed to you and your personal information will be transferred to that third party. The use of your personal information by that third party is subject to its privacy policy and practices and we are not responsible for the same.
+    4. **Group Companies** : we only share your personal information with our group companies if you have elected to receive marketing information from them which may be of interest to you. They are only permitted by us to use it for the purpose of providing you with the marketing information you have requested. The use of your personal information by our group companies will be subject to their own privacy policies and practices. If you do not want to receive marketing information from our group companies you can notify us of this as part of the registration process. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving your email address and details of the information you no longer wish to receive.
+    5. **Third-Party Ad Serving and Audience and Traffic Measurement Services** : we may use a third-party network advertiser to serve the advertisements on this website or we may use an audience or traffic measurement service to analyse the traffic on this website. Network advertisers are third parties that display advertisements based on your visits to this website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products or websites you might be interested in. Audience and traffic measurement services allow us to collect anonymous traffic and behavioural information from the website by monitoring anonymous visitor activity. This website’s advertisers, sponsors and/or traffic measurement services may themselves set and access their own cookies on your computer if you choose to have your cookies enabled in your browser.
+  5. **Maintenance and storage of information** : Your information is collected and stored on servers which are owned and maintained by or on behalf of Future and its group companies. We may keep your information for a reasonable period for the purposes set out in this privacy policy.
+  6. **Links to other websites** : this website contains links to a wide variety of other websites and we display advertisements from third parties on our website. We may monetise some of these links through the use of third party affiliate programmes. Notwithstanding such affiliate programmes, we are not responsible for the content or privacy policies of these websites or for third party advertisers, even if they use the website’s logo as part of a co-branding agreement, nor for the way in which information about their users is treated. Before submitting any personal information to such websites, you should check their privacy policy.
+  7. **Security** : In accordance with our requirements under the Data Protection Act 1998, we will adopt appropriate security procedures to help prevent unauthorised access to your information. Future shall not be liable for any attempt to hack or crack or otherwise gain access to any part of this website including any of your information.
+  8. **A note for parents concerning privacy** : this website is a general audience website. On the website, we do not currently knowingly collect any personal information from children under the age of sixteen. If, in the future, we collect personally identifiable information from children on the Website, we will do so in compliance with all relevant laws and regulations including, without limitation, obtaining parental consent where necessary. The Internet offers children wonderful educational and entertainment resources. Your guidance and involvement are essential to help ensure that children have a safe and rewarding online experience. We encourage you to visit [www.google.co.uk/goodtoknow/familysafety](http://www.google.co.uk/goodtoknow/familysafety) and the [GetNetWise website](http://www.getnetwise.org/) to learn more about parental control tools.
+  9. **Policy changes** : By using this website you agree to the terms of this privacy policy and our [terms of use](http://www.futureplc.com/terms-and-conditions/). We may amend this privacy policy and the [terms of use](http://www.futureplc.com/terms-and-conditions/) from time to time. If we do so, we will post an updated version on this website. You will be bound by the new terms upon your continued use of this website.
+  10. **Questions about this website and the information we hold about you** : if you have any general questions about this website or the information we have collected about you and how we use it, you can contact the Future New Media Team at Future Publishing Limited, Quay House, The Ambury, Bath, BA1 1UA, telephone 00 44 1225 442244, email [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk). If you have any questions about your information including what we hold and how it is used, you can contact us at [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk). You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected.
 
 
 
-Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+**[Italian Privacy Policy](http://dg876rejmw3ebkm51boa0sx2.wpengine.netdna-cdn.com/wp-content/uploads/sites/194/2014/10/Privacy-Policy-Translations-Italy.pdf)**
 
-You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+**[German Privacy Policy](http://dg876rejmw3ebkm51boa0sx2.wpengine.netdna-cdn.com/wp-content/uploads/sites/194/2014/10/PrivacyPolicy_04-14_de-DE-_1_Germany.pdf)**
