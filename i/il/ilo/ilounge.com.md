@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218160436id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilounge.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610104834id_/http%3A//www.ilounge.com/index.php/ilounge/privacy_policy) for the most accurate reproduction.*
 
 # iLounge Privacy Policy
 
@@ -20,51 +20,51 @@ Last updated 07|08|14
 
 ### Recent News
 
-  * [Super Mario Run tops 2.85 million downloads on first day](http://www.ilounge.com/index.php/news/comments/super-mario-run-tops-2.85-million-downloads-on-first-day "Super Mario Run tops 2.85 million downloads on first day")
-  * [Capcom bringing Mega Man series to iOS in Japan next year](http://www.ilounge.com/index.php/news/comments/capcom-bringing-mega-man-series-to-ios-in-japan-next-year "Capcom bringing Mega Man series to iOS in Japan next year")
-  * [Apple TV gets 21 new Aerial screensavers](http://www.ilounge.com/index.php/news/comments/apple-tv-gets-21-new-aerial-screensavers "Apple TV gets 21 new Aerial screensavers")
-  * [Report: LG Display to supply foldable OLED displays to Apple](http://www.ilounge.com/index.php/news/comments/report-lg-display-to-supply-foldable-oled-displays-to-apple "Report: LG Display to supply foldable OLED displays to Apple")
-  * [AirPods coming to Apple retail stores Monday Dec. 19](http://www.ilounge.com/index.php/news/comments/airpods-coming-to-apple-retail-stores-monday-dec.-19 "AirPods coming to Apple retail stores Monday Dec. 19")
+  * [Taylor Swift returns to Spotify, ending Apple Music exclusive](http://www.ilounge.com/index.php/news/comments/taylor-swift-returns-to-spotify-ending-apple-music-exclusive "Taylor Swift returns to Spotify, ending Apple Music exclusive")
+  * [Fox Now app adds FX and National Geographic content](http://www.ilounge.com/index.php/news/comments/fox-now-app-adds-fx-and-national-geographic-content "Fox Now app adds FX and National Geographic content")
+  * [Anki announces global launch of Cozmo](http://www.ilounge.com/index.php/news/comments/anki-announces-global-launch-of-cozmo "Anki announces global launch of Cozmo")
+  * [Apple opens up HomeKit accessory prototyping](http://www.ilounge.com/index.php/news/comments/apple-opens-up-homekit-accessory-prototyping "Apple opens up HomeKit accessory prototyping")
+  * [Logitech releases Slim Combo keyboard case for 10.5” and 12.9” iPad Pro models](http://www.ilounge.com/index.php/news/comments/logitech-releases-slim-combo-keyboard-case-for-10.5-and-12.9-ipad-pro-model "Logitech releases Slim Combo keyboard case for 10.5” and 12.9” iPad Pro models")
 
 
-  * [Apple reveals service pricing for lost AirPods, battery replacements](http://www.ilounge.com/index.php/news/comments/apple-reveals-service-pricing-for-lost-airpods-battery-replacements "Apple reveals service pricing for lost AirPods, battery replacements")
-  * [Super Mario Run now available on App Store](http://www.ilounge.com/index.php/news/comments/super-mario-run-now-available-on-app-store "Super Mario Run now available on App Store")
-  * [Apple clarifies relationship between Apple Music and iTunes Match](http://www.ilounge.com/index.php/news/comments/apple-clarifies-relationship-between-apple-music-and-itunes-match "Apple clarifies relationship between Apple Music and iTunes Match")
-  * [Wireless charging startup Energous is teaming up with Apple supplier Dialog](http://www.ilounge.com/index.php/news/comments/wireless-charging-startup-energous-is-teaming-up-with-apple-supplier-dialog "Wireless charging startup Energous is teaming up with Apple supplier Dialog")
-  * [Apple releases first developer betas of iOS 10.2.1, tvOS 10.1.1](http://www.ilounge.com/index.php/news/comments/apple-releases-first-developer-betas-of-ios-10.2.1-tvos-10.1.1 "Apple releases first developer betas of iOS 10.2.1, tvOS 10.1.1")
+  * [Apple TV added to public beta program starting with tvOS 11](http://www.ilounge.com/index.php/news/comments/apple-tv-added-to-public-beta-program-starting-with-tvos-11 "Apple TV added to public beta program starting with tvOS 11")
+  * [Apple lowers price of 2TB iCloud storage to $10 a month, discontinues 1TB option](http://www.ilounge.com/index.php/news/comments/apple-lowers-price-of-2tb-icloud-storage-to-10-a-month-discontinues-1tb-opt "Apple lowers price of 2TB iCloud storage to $10 a month, discontinues 1TB option")
+  * [Apple announces ‘HomePod’ Smart Speaker](http://www.ilounge.com/index.php/news/comments/apple-announces-homepod-smart-speaker "Apple announces ‘HomePod’ Smart Speaker")
+  * [Apple unveils iOS 11, featuring major iPad UI improvements](http://www.ilounge.com/index.php/news/comments/apple-unveils-ios-11-featuring-major-ipad-ui-improvements "Apple unveils iOS 11, featuring major iPad UI improvements")
+  * [Apple shows off watchOS 4](http://www.ilounge.com/index.php/news/comments/apple-shows-off-watchos-4 "Apple shows off watchOS 4")
 
 
 
 ### Recent Reviews
 
-  * [Elgato Eve Motion](http://www.ilounge.com/index.php/reviews/entry/elgato-eve-motion "Elgato Eve Motion")
-  * [Olloclip Core Lens Set for iPhone 7/7 Plus](http://www.ilounge.com/index.php/reviews/entry/olloclip-core-lens-set-for-iphone-7-7-plus "Olloclip Core Lens Set for iPhone 7/7 Plus")
-  * [Logitech Pop Home Switch Starter Pack](http://www.ilounge.com/index.php/reviews/entry/logitech-pop-home-switch-starter-pack "Logitech Pop Home Switch Starter Pack")
-  * [Elgato Eve Light Switch](http://www.ilounge.com/index.php/reviews/entry/elgato-eve-light-switch "Elgato Eve Light Switch")
-  * [iHome iPLWBT5 Docking Clock Radio for iPhone and Apple Watch](http://www.ilounge.com/index.php/reviews/entry/ihome-iplwbt5-docking-clock-radio-for-iphone-and-apple-watch "iHome iPLWBT5 Docking Clock Radio for iPhone and Apple Watch")
+  * [V-Moda Remix Bluetooth Speaker](http://www.ilounge.com/index.php/reviews/entry/v-moda-remix-bluetooth-speaker "V-Moda Remix Bluetooth Speaker")
+  * [V-Moda Forza Metallo Wireless Headphones](http://www.ilounge.com/index.php/reviews/entry/v-moda-forza-metallo-wireless-headphones "V-Moda Forza Metallo Wireless Headphones")
+  * [AudioQuest DragonFly Black USB DAC and Headphone Amp](http://www.ilounge.com/index.php/reviews/entry/audioquest-dragonfly-black-usb-dac-and-headphone-amp "AudioQuest DragonFly Black USB DAC and Headphone Amp")
+  * [BlueLounge Quick Peek Smart Organizing Label System](http://www.ilounge.com/index.php/reviews/entry/bluelounge-quick-peek-smart-organizing-label-system "BlueLounge Quick Peek Smart Organizing Label System")
+  * [Elgato Eve Degree HomeKit Temperature & Humidity Monitor](http://www.ilounge.com/index.php/reviews/entry/elgato-eve-degree-homekit-temperature-humidity-monitor "Elgato Eve Degree HomeKit Temperature & Humidity Monitor")
 
 
-  * [Brydge 12.9 iPad Pro Keyboard](http://www.ilounge.com/index.php/reviews/entry/brydge-12.9-ipad-pro-keyboard "Brydge 12.9 iPad Pro Keyboard")
-  * [Sen.se GuardPeanut](http://www.ilounge.com/index.php/reviews/entry/sen.se-guardpeanut "Sen.se GuardPeanut")
-  * [iHome iZBT10 Zenergy Bedside Sleep Therapy Speaker](http://www.ilounge.com/index.php/reviews/entry/ihome-izbt10-zenergy-bedside-sleep-therapy-speaker "iHome iZBT10 Zenergy Bedside Sleep Therapy Speaker")
-  * [Twelve South HiRise Duet for Apple Watch and iPhone](http://www.ilounge.com/index.php/reviews/entry/twelve-south-hirise-duet-for-apple-watch-and-iphone "Twelve South HiRise Duet for Apple Watch and iPhone")
-  * [IK Multimedia iLoud Micro Monitor](http://www.ilounge.com/index.php/reviews/entry/ik-multimedia-iloud-micro-monitor "IK Multimedia iLoud Micro Monitor")
+  * [808 Audio Ear Canz Sport](http://www.ilounge.com/index.php/reviews/entry/808-audio-ear-canz-sport "808 Audio Ear Canz Sport")
+  * [Marshall Monitor Black Bluetooth Headphones](http://www.ilounge.com/index.php/reviews/entry/marshall-monitor-black-bluetooth-headphones "Marshall Monitor Black Bluetooth Headphones")
+  * [Mytek Brooklyn Digital-to-Analog Converter](http://www.ilounge.com/index.php/reviews/entry/mytek-brooklyn-digital-to-analog-converter "Mytek Brooklyn Digital-to-Analog Converter")
+  * [iWalk Watchman Backup Battery for Apple Watch, iPhone, and iPad](http://www.ilounge.com/index.php/reviews/entry/iwalk-watchman-backup-battery-for-apple-watch-iphone-and-ipad "iWalk Watchman Backup Battery for Apple Watch, iPhone, and iPad")
+  * [Periodic Audio Mg, Ti, & Be In-Ear Monitors](http://www.ilounge.com/index.php/reviews/entry/periodic-audio-mg-ti-be-in-ear-monitors "Periodic Audio Mg, Ti, & Be In-Ear Monitors")
 
 
 
 ### Recent Articles
 
+  * [Inside the betas: iOS 11 HomeKit adds timers, multi-person occupancy support](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-11-homekit-adds-timers-multi-person-occupancy-support "Inside the betas: iOS 11 HomeKit adds timers, multi-person occupancy support")
+  * [Inside the betas: tvOS 11 adds auto Dark Mode, iCloud Home Screen Sync](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-tvos-11-adds-auto-dark-mode-icloud-home-screen-sync "Inside the betas: tvOS 11 adds auto Dark Mode, iCloud Home Screen Sync")
   * [Top Five: The Best Products for Building a Smart Home with HomeKit](http://www.ilounge.com/index.php/articles/comments/top-five-the-best-products-for-creating-a-smart-home-with-homekit "Top Five: The Best Products for Building a Smart Home with HomeKit")
   * [Instant Expert: Secrets & Features of watchOS 3](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-watchos-3 "Instant Expert: Secrets & Features of watchOS 3")
   * [Instant Expert: Secrets & Features of tvOS 10](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-tvos-10 "Instant Expert: Secrets & Features of tvOS 10")
+
+
   * [Instant Expert: Secrets & Features of iOS 10](http://www.ilounge.com/index.php/articles/comments/instant-expert-secrets-features-of-ios-10 "Instant Expert: Secrets & Features of iOS 10")
   * [Inside the betas: iOS 10 Photos gets Advanced Computer Vision](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-photos-gets-advanced-computer-vision "Inside the betas: iOS 10 Photos gets Advanced Computer Vision")
-
-
   * [Inside the betas: iOS 10 Music app delivers ‘clarity and simplicity’](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-music-app-delivers-clarity-and-simplicity "Inside the betas: iOS 10 Music app delivers ‘clarity and simplicity’")
   * [Inside the betas: iOS 10 Maps gets a major redesign](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-maps-gets-a-major-redesign "Inside the betas: iOS 10 Maps gets a major redesign")
   * [Inside the betas: iOS 10 shakes up the user experience](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-ios-10-shakes-up-the-user-experience "Inside the betas: iOS 10 shakes up the user experience")
-  * [Inside the betas: watchOS 3 promises a real speed boost](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-watchos-3-promises-a-real-speed-boost "Inside the betas: watchOS 3 promises a real speed boost")
-  * [Inside the betas: A sneak peek at what’s new in tvOS 10](http://www.ilounge.com/index.php/articles/comments/inside-the-betas-a-sneak-peek-at-whats-new-in-tvos-10 "Inside the betas: A sneak peek at what’s new in tvOS 10")
 
 
