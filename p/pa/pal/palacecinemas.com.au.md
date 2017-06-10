@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124175453id_/http%3A//www.palacecinemas.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palacecinemas.com.au privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610042417id_/http%3A//www.palacecinemas.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Palace Cinemas
 
