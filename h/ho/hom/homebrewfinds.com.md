@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebrewfinds.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209000642id_/http%3A//www.homebrewfinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebrewfinds.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610065510id_/http%3A//www.homebrewfinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Homebrew Finds
 
