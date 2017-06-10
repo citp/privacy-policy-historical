@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014045514id_/https%3A//www.32red.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2017-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170610222207id_/https%3A//www.32red.com/privacy-policy) for the most accurate reproduction.*
 
 # 32Red Online Casino's Privacy Policy - 32Red Online Casino
 
@@ -34,9 +34,9 @@ Any information that is disclosed in a public area of the Site by users is publi
 
 ## Choice/Opt-out...
 
-32Red may use customer contact information provided by you to send information about 32Red Online Casino and the products, Services and/or Sites for which you subscribed or otherwise used or accessed, including news about product updates, contests, events, and other promotional materials. If you have given us your consent, we will also send communications for unrelated products or Services.
+32Red may use customer contact information provided by you to send information about 32Red Online Casino and the products, Services and/or Sites for which you subscribed or otherwise used or accessed, including news about product updates, contests, events, and other promotional materials.
 
-32Red Online Casino provides users the opportunity to opt-out of receiving communications from 32Red when you are asked to provide information to us. In addition, 32Red gives users the option of discontinuing receipt of general communications from 32Red, although users may still receive important messages (as defined below under 'Collection and Use of Information'). Instructions for discontinuing receipt of communications from 32Red will be made available with each communication from 32Red or on the related Site.
+32Red Online Casino provides users the opportunity to opt-out of receiving communications from 32Red when you are asked to provide information to us. In addition, 32Red gives users the option of discontinuing receipt of general communications from 32Red, although users may still receive important messages (as defined below under 'Collection and Use of Information'). To unsubscribe from 32Red’s marketing emails, click on the unsubscribe link in the footer of the message or contact our [Player Experience Team](https://web.archive.org/help).
 
 ## International Transfer, Storage and Security of Information...
 
@@ -78,4 +78,8 @@ Please remember that protection of your privacy begins with you. You are solely 
 
 Corrections, Updates and Removal of Information If you are concerned with the accuracy of the personal information provided by you and maintained by 32Red or would like your personal information removed from 32Red' records, you may use the tools made available on the Site to update or remove such information. 32Red reserves the right to charge a reasonable fee for supplying copies of such information. If you choose to delete your personal information, you may not be able to access some areas of the Site and/or Services to which you have subscribed. We will not provide a refund for any prepaid Service which is inaccessible to you because of the deletion of your personal information. We may, however, still retain your personal information in our files to resolve disputes, to enforce our user agreement, and to comply with any and all technical and legal requirements and constraints related to the security, integrity and operation of the Site.
 
-Last updated 18th November 2010
+Last updated 26th April 2017
+
+32Red Plc is licensed by the Government of Gibraltar (Licence No.019) and regulated by the Gibraltar Gambling Commissioner.
+
+Our services in the UK are licensed and regulated by the UK Gambling Commission (Licence No: 000-039430-R-319293-004) 32Red Plc., 741 Europort, Gibraltar
