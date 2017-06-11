@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playstationtrophies.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130100637id_/http%3A//www.playstationtrophies.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playstationtrophies.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184821id_/http%3A//www.playstationtrophies.org/privacy.php) for the most accurate reproduction.*
 
 # PlaystationTrophies.org - Privacy Policy
 
@@ -11,13 +11,21 @@ At PlaystationTrophies.org, the privacy of our visitors is of extreme importance
 **Log Files**  
 Like many other Web sites, PlaystationTrophies.org makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies and Web Beacons**  
-PlaystationTrophies.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+**Analytics**  
+We’ve implemented Google Analytics based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration and Google Analytics Demographics and Interest Reporting).
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on PlaystationTrophies.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+We and third-party vendors, including Google, will use this remarking information and data based on previous visits to our site to serve relevant messages across the web.
 
-PlaystationTrophies.org has no access to or control over these cookies that are used by third-party advertisers. 
+You can opt out of Google's use of cookies by visiting Google's [Ads Settings](http://www.google.com/settings/ads). 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. PlaystationTrophies.org's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+ **3rd party cookies**  
+We uses cookies on our websites in order to provide enhanced functionality to users, such as user accounts and saved preferences. We also use cookies to ensure that you see the most relevant ads and limit the number of times we show you the same advertisements.
+
+If you continue to use this site, we'll assume you are happy to accept these cookies. Some of the adverts carried on our websites are delivered by third party servers and in doing so they may leave cookies on your machine.
+
+You may opt-out of these cookies by following these links:  
+MediaMind opt-out: <http://ds.serving-sys.com/OBA/Europe/Opt-out.aspx>  
+FlashTalking opt-out: <http://www.flashtalking.com/cookieOptOut.html>  
+MindShare opt-out: <http://www.mindshareworld.com/privacy>
