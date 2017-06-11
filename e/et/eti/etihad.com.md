@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etihad.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217220340id_/http%3A//www.etihad.com/en-ca/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etihad.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611022344id_/http%3A//www.etihad.com/en-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Etihad Airways
 
@@ -66,7 +66,7 @@ We will hold, store and use personal information (which will be processed with/b
 
   * To fulfil any agreement we have with you, including to process your flight, send your itinerary, or contact you if there is a problem with your reservation;
   * To allow you to register on the Etihad Websites and administer and personalize any of the online services which you have asked us to provide to you;
-  * To keep you (with your permission)  informed about our products and services and those of our preferred partners where we think you will find this valuable (subject to your right to opt-out, which you can exercise by clicking [here](https://web.archive.org/en-ca/about-us/contact-us/feedback/));
+  * To keep you (with your permission)  informed about our products and services and those of our preferred partners where we think you will find this valuable (subject to your right to opt-out, which you can exercise by clicking [here](https://web.archive.org/en-us/about-us/contact-us/feedback/));
   * To allow you to take part in any contest or other promotional offers you have asked to participate in;
   * To analyse how our users access and navigate our services and use of the Etihad Websites;
   * To get feedback from customers on the quality of our services - we may invite you to participate in questionnaires or surveys;
@@ -84,7 +84,7 @@ We will hold, store and use personal information (which will be processed with/b
 We work closely with a number of trusted partners with whom we need to share personal information to help us provide our services. These include:
 
   * Our group companies around the world, including other Etihad brands such as Etihad Cargo, Etihad Holidays and Etihad Guest;
-  * [Partner airlines](https://web.archive.org/en-ca/about-us/our-partners/) where you are travelling on a booking which involves a codeshare;
+  * [Partner airlines](https://web.archive.org/en-us/about-us/our-partners/) where you are travelling on a booking which involves a codeshare;
   * Frequent flyer and other reward and partner programmes with whom you have asked us to share your details;
   * Banks and payment providers, to authorize and complete payments;
   * Service providers who work with us to help provide our services, including local agents who help manage customer needs at airports or operate our limousine service, and contractors who help us run our office operations;
@@ -97,7 +97,7 @@ We work closely with a number of trusted partners with whom we need to share per
 
 Please note that some of these data recipients may be based in territories such as the United Arab Emirates or the United States of America, whose laws do not offer, in the opinion of the European Commission or the Director of the Spanish Data Protection Agency, an adequate level of data protection.
 
-If you would like to know more about who we share your personal information with please [click here](https://web.archive.org/en-ca/about-us/contact-us/feedback/) or write to the Ethics and Compliance Office, Etihad Airways, PO Box 35566, Abu Dhabi, United Arab Emirates.
+If you would like to know more about who we share your personal information with please [click here](https://web.archive.org/en-us/about-us/contact-us/feedback/) or write to the Ethics and Compliance Office, Etihad Airways, PO Box 35566, Abu Dhabi, United Arab Emirates.
 
 ### How we protect your information
 
@@ -128,7 +128,7 @@ We invest significant resources in protecting the security and confidentiality o
 
 We are committed to keeping you informed about our products and services in line with your personal preferences. We will always ask your permission before sending marketing material, whether about our services of those or our preferred partners. 
 
-We will usually send this by email but we may choose to contact you in other ways for example by phone, post, SMS and/or other electronic means if that is more appropriate. You can ask us to stop sending you marketing material at any time by **[contacting us](https://web.archive.org/en-ca/about-us/contact-us/feedback/)** or changing your marketing preferences within your personal profile (see below).
+We will usually send this by email but we may choose to contact you in other ways for example by phone, post, SMS and/or other electronic means if that is more appropriate. You can ask us to stop sending you marketing material at any time by **[contacting us](https://web.archive.org/en-us/about-us/contact-us/feedback/)** or changing your marketing preferences within your personal profile (see below).
 
 ### Updating your personal profile and preferences
 
@@ -136,15 +136,15 @@ We will usually send this by email but we may choose to contact you in other way
 
 At any time you can update or correct your personal profile, or change your preferences for the way in which you would like us to communicate with you - including how you receive news updates from us, or details of our latest offers.
 
-If you have an online account, the easiest way to do this is by logging into your account and changing your personal details. You can also click the "unsubscribe" link that you will find on any online newsletters which you receive, or contact our customer support team by email ( **[click here](https://web.archive.org/en-ca/about-us/contact-us/feedback/)** ).
+If you have an online account, the easiest way to do this is by logging into your account and changing your personal details. You can also click the "unsubscribe" link that you will find on any online newsletters which you receive, or contact our customer support team by email ( **[click here](https://web.archive.org/en-us/about-us/contact-us/feedback/)** ).
 
 ### Accessing your personal information
 
 ### Accessing your personal information
 
-In some countries, you have the right to see or access the personal information we hold about you. We may charge a small fee for processing this request (where permitted by law). To receive a copy, please write to the Ethics and Compliance Office, Etihad Airways, PO Box 35566, Abu Dhabi, United Arab Emirates or [click here](https://web.archive.org/en-ca/about-us/contact-us/feedback/) to send your request via the web. 
+In some countries, you have the right to see or access the personal information we hold about you. We may charge a small fee for processing this request (where permitted by law). To receive a copy, please write to the Ethics and Compliance Office, Etihad Airways, PO Box 35566, Abu Dhabi, United Arab Emirates or [click here](https://web.archive.org/en-us/about-us/contact-us/feedback/) to send your request via the web. 
 
-If you are concerned that any of the information we hold about you is incorrect, out of date or may be used inappropriately, please [click here](https://web.archive.org/en-ca/about-us/contact-us/feedback/) or write to the address above to report  your concerns and we will take appropriate steps to amend our records. These arrangements are without prejudice to any statutory rights you may have in your country to require us to rectify, cease processing and / or delete certain records, or enforce privacy rights before a local data protection supervisory authority.
+If you are concerned that any of the information we hold about you is incorrect, out of date or may be used inappropriately, please [click here](https://web.archive.org/en-us/about-us/contact-us/feedback/) or write to the address above to report  your concerns and we will take appropriate steps to amend our records. These arrangements are without prejudice to any statutory rights you may have in your country to require us to rectify, cease processing and / or delete certain records, or enforce privacy rights before a local data protection supervisory authority.
 
 If you are in Spain, please note that you can exercise your rights to cancel our processing of your data, and to object to the processing of data, by any company in the Etihad Group, free of charge.
 
@@ -178,7 +178,7 @@ A cookie is an element of data that a website sends to your browser, which then 
 
 A cookie will be deployed on your device when you visit Etihad Websites unless you indicate that you do not wish this to happen or if you have turned this feature 'off' in your web browser settings.
 
-For more information about how our cookies work and information about how to manage your cookie settings please visit our **[Cookie Policy](https://web.archive.org/en-ca/legal/cookie-policy/)**.
+For more information about how our cookies work and information about how to manage your cookie settings please visit our **[Cookie Policy](https://web.archive.org/en-us/legal/cookie-policy/)**.
 
 ### Other websites
 
@@ -190,7 +190,7 @@ Etihad Websites may link you to other websites. We are not responsible for the w
 
 ### Privacy concerns
 
-Please [click here](https://web.archive.org/en-ca/about-us/contact-us/feedback/) or write to the Ethics and Compliance Office, Etihad Airways, PO Box 35566, Abu Dhabi, United Arab Emirates if you have any concerns about our compliance with applicable privacy laws or this Privacy Policy. We will endeavour to respond to your concerns as soon as possible and we may make seek further information from you in order to provide a full and complete response. In some countries, you may have rights to raise the matter with a relevant data protection authority or ombudsman.
+Please [click here](https://web.archive.org/en-us/about-us/contact-us/feedback/) or write to the Ethics and Compliance Office, Etihad Airways, PO Box 35566, Abu Dhabi, United Arab Emirates if you have any concerns about our compliance with applicable privacy laws or this Privacy Policy. We will endeavour to respond to your concerns as soon as possible and we may make seek further information from you in order to provide a full and complete response. In some countries, you may have rights to raise the matter with a relevant data protection authority or ombudsman.
 
 ### Recruitment Fraud
 
@@ -202,4 +202,4 @@ During our recruitment process you will always be asked to meet face-to-face wit
 
 No member of the Etihad Airways Group of Companies will ever ask for payment of any kind, including money transfers, from job applicants. We will never ask for advance payment from you for travel expenses or visas/work permits if your application is successful. 
 
-**If you are asked for money in order to process or take up a job opportunity with us please treat it as fraudulent and**[ **contact us**](https://web.archive.org/en-ca/about-us/contact-us/our-offices/) **immediately.**
+**If you are asked for money in order to process or take up a job opportunity with us please treat it as fraudulent and**[ **contact us**](https://web.archive.org/en-us/about-us/contact-us/our-offices/) **immediately.**
