@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2013-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130515065446id_/http%3A//uk.gaydio.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydarradio.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611020858id_/http%3A//www.gaydio.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Gaydio
+# Privacy Policy - Gaydio
 
 Gaydio Community Interest Company  ("we”) is committed to protecting and respecting your privacy. This policy (the ‘Privacy Policy’) (together with our Website Terms and Conditions of Use, a copy of which can be found elsewhere on this Website, together with any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
