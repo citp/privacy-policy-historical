@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twenga-solutions.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517065000id_/https%3A//www.twenga-solutions.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twenga-solutions.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611055509id_/https%3A//www.twenga-solutions.com/en/privacypolicy) for the most accurate reproduction.*
 
 # E-Commerce Customer Acquisition - Twenga Solutions
 
