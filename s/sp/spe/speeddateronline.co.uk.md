@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120040029id_/http%3A//www.speeddater.co.uk/sd-news/privacy%26s%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddateronline.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611122847id_/http%3A//www.speeddater.co.uk/sd-news/privacy%26s%3Ds) for the most accurate reproduction.*
 
-# Speed Dater Help: Privacy Statement
+# SpeedDater
 
 ('We') Tradax IP Licensing and NSI (Holdings) Limited are committed to protecting and respecting your privacy.  
 This policy (together with our [terms and conditions of use](https://web.archive.org/helptandc.asp?s=s) and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. By ticking the acceptance box when signing up to use our Services, and by your continued use of the Services, you agree to bound by this policy as updated from time to time.
