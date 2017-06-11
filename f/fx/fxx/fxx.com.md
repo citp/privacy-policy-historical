@@ -1,10 +1,22 @@
-> *The following text is extracted and transformed from the fxx.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222211228id_/http%3A//www.fxnetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxx.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611073055id_/http%3A//www.fxnetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FX Networks
 
-**Effective as of August 12, 2016.**
+**Effective as of May 17, 2017.**
 
-**1\. SCOPE AND APPLICATION**
+**Table of Contents:**
+
+  1. 1\. SCOPE AND APPLICATION: What and who this Policy covers. 
+  2. 2\. COLLECTION OF INFORMATION: The sources of and methods by which we, our service providers and our advertisers collect information from and about you, including information about your interaction with the FX Services.
+  3. 3\. NOTICE AND CHOICE: How we provide you with notice and choice regarding the collection and use of your information.
+  4. 4\. USE AND DISCLOSURE: How we use the information we collect from and about you, and who we might share it with and why.
+  5. 5\. SECURITY: How we protect your information from loss or misuse.
+  6. 6\. USER ACCESS AND CONTROL: How you can access and control the information we maintain about you.
+  7. 7\. DATA RETENTION: How and why we store your information. 
+  8. 8\. SENSITIVE INFORMATION: Description of information that is deemed sensitive. 
+  9. 9\. CONTACT US: How to contact FX about this Policy. 
+
+
 
 FX Networks, LLC ("FX"), which operates the FXNetworks.com website, has developed this Privacy Policy to describe how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through the entertainment-related websites (the “FX Sites”), mobile sites, applications ("apps"), widgets, and other content and services that are linked to this Privacy Policy (collectively, the "FX Services"). 
 
@@ -101,3 +113,16 @@ Remember that even after you cancel your account, copies of some information fro
 **8\. SENSITIVE INFORMATION**
 
 We ask that you not send us, and you not disclose, any sensitive personal information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the FX Services or otherwise. 
+
+**9\. CONTACT US**
+
+If you have questions about this Privacy Policy, please send an email to [FX.Privacy@fox.com](mailto:FX.Privacy@fox.com). 
+
+Additionally, you can contact us by mail at: 
+
+FX Networks – Privacy  
+Business & Legal Affairs  
+Fox Cable Network Services, LLC  
+P.O. Box 900  
+Beverly Hills, California 90213-0900  
+
