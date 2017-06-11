@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicmix.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127205628id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicmix.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611084934id_/http%3A//www.snow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Snow.com
 
@@ -6,7 +6,7 @@
 
 _Policy updated December 5, 2015_ **  
 **  
-Vail Resorts Management Company and other members of the Vail Resorts family of businesses (together, “Vail Resorts,”) know that you care how information about you is collected and used. This Online Privacy Policy (the “Privacy Policy” or “Policy”) is designed to inform you about what information we collect and how we use it. This Policy is part of the Terms of Use published on our Sites. Click here to review the [Terms of Use](http://www.snow.com/termsandconditions.aspx).
+Vail Resorts Management Company and other members of the Vail Resorts family of TEST TEST TSET businesses (together, “Vail Resorts,”) know that you care how information about you is collected and used. This Online Privacy Policy (the “Privacy Policy” or “Policy”) is designed to inform you about what information we collect and how we use it. This Policy is part of the Terms of Use published on our Sites. Click here to review the [Terms of Use](http://www.snow.com/termsandconditions.aspx).
 
 **Scope of the Policy**
 
