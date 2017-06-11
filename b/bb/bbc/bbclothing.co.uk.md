@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201070413id_/http%3A//www.bbclothing.co.uk/en-gb/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbclothing.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611042630id_/http%3A//www.bbclothing.co.uk/en-gb/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**FREE Next Day UK Delivery** \- on all orders over £100
-
- **FREE UK Returns** \- from 2,500 drop off locations
-
- **7 Days a Week** \- now delivering on Sundays
 
 ## Privacy Statement
 
