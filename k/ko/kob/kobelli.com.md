@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101639id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobelli.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611203641id_/http%3A//kobelli.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Kobelli Privacy Policy
 
