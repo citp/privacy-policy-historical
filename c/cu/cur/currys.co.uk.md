@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214183908id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611222051id_/http%3A//www.currys.co.uk/gbuk/privacy-on-currys-321-commercial.html) for the most accurate reproduction.*
 
 # Cookie Guide & Privacy Information | Currys
 
@@ -14,7 +14,7 @@ Cookies are perfectly safe to be stored on your computer and almost all web brow
 
 Please be aware that disabling cookies on your browser will reduce your ability to shop online with Currys.co.uk. We use cookies to process products in your basket and orders. Disabling your cookies will mean you cannot purchase through our website. This would also be a common experience of reduced functionality across many websites.
 
-Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at Currys fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
+Recent legislation from the European Union has meant that websites must provide clear information about their use of cookies to their customers, something we at Currys PC World fully support. We want to ensure that you, as our valued customer, are fully aware of the use of cookies on our website, and we are proud of our reputation as a transparent and honest retailer that you can trust.
 
 Currys & Cookies
 
@@ -308,11 +308,11 @@ AudienceScience help us develop a better understanding for customer behaviour on
 
 Then click the link to opt-out. This will drop a cookie that will stop the tracking of your activity by AudienceScience. If you delete this cookie, the tracking will resume.
 
-Privacy on Currys
+Privacy on Currys PC World
 
-### Is shopping online with Currys safe?
+### Is shopping online with Currys PC World safe?
 
-At Currys, we care about security and make every effort to ensure our transaction process is safe and that your personal information is secure.
+At Currys PC World, we care about security and make every effort to ensure our transaction process is safe and that your personal information is secure.
 
 We can assure you that every order you make on our website is safe. We use strict security precautions to make our website safe, including the use of a Secure Socket Layer (SSL) server. Any information you enter while you're using the secure server is encrypted before being transmitted, so it is virtually impossible for an outside party to access or intercept your information.
 
@@ -350,7 +350,7 @@ Last updated: 07.08.2012
 
 ### Who we are
 
-In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys, PC World and Knowhow, company number 504877, registered office 1 Portal Way, London, W3 6RS.
+In this Privacy Policy references to ‘we’ and ‘us’ are to DSG Retail Limited trading as Currys PC World and Knowhow, company number 504877, registered office 1 Portal Way, London, W3 6RS.
 
 * * *
 
@@ -380,7 +380,7 @@ guarantee records and to provide pre and after-sales service (we may pass your d
 
 (3) to comply with legal requirements We are a subsidiary of Dixons Carphone plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
 
-We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys, PC World, Carphone Warehouse and Knowhow, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
+We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including Currys PC World, Carphone Warehouse and Knowhow, from our affiliates, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the ‘Yes’ box when entering your personal details. You may unsubscribe at a later date, if you wish - ‘Your rights’ section below.
 
 * * *
 
