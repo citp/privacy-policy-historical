@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221203817id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankalfalah.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611063737id_/http%3A//www.bankalfalah.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bank AlfalahBank Alfalah
 
@@ -49,3 +49,5 @@ By using our web site, you hereby consent to our privacy policy and agree to its
 ## 24/7 Customer Support 
 
 For details about our Products & Services call our Phone Banking Service at 111-225-111
+
+[](https://netbanking.bankalfalah.com/ib/OrbitLogin.aspx) [](https://netbanking.bankalfalah.com/ib/OrbitLogin.aspx)
