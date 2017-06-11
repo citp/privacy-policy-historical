@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatgrapejuice.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205163103id_/http%3A//thatgrapejuice.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatgrapejuice.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611055916id_/http%3A//thatgrapejuice.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - That Grape Juice.net - Thirsty?
 
