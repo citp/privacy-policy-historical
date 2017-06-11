@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208035115id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sescoops.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611164529id_/http%3A//www.sescoops.com/site-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – SEScoops
+# Privacy Policy - SEScoops Wrestling News
 
 SEScoops.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:
 
