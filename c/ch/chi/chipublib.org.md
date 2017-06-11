@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2016-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160118121826id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chipublib.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611091342id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy | Chicago Public Library | BiblioCommons
 
@@ -11,6 +11,8 @@ BiblioCommons believes that effective privacy controls are the cornerstone of op
 ### Is this the only policy governing the use of my information on services offered by the library?
 
 No. Information you provide on the BiblioCommons Service may be transmitted to your library and its designated service partners, where it will be handled according to the policies your library has implemented in those environments. Please check the library’s website to view these documents, or speak to a librarian.
+
+Chicago Public Library may have additional policies that govern other aspects of the services we offer. Please check the library's homepage to view these documents, or speak to a librarian.
 
 ### What types of information are collected on this service?
 
@@ -38,7 +40,7 @@ If you participate in some optional services, for example youth and literacy pro
 
 We use your personal information to create an online account in your name, provide the services that you have requested, monitor and improve the service, keep your library record up to date, and customize content. We do not share your information or activity with ad networks or other entities that are not directly involved in the services you choose to use.
 
-If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your [Settings](https://web.archive.org/user/account).
+If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your [Settings](https://web.archive.org/account/personal_information).
 
 BiblioCommons may disclose your personal information and any content associated with your account if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, or (b) enforce the Terms of Use, including investigation of potential violations hereof.
 
@@ -66,7 +68,7 @@ BiblioCommons may send email or display messages on the service that provide you
 
 Parts of the BiblioCommons Service are open to children under the age of thirteen. However additional measures have been taken to protect their privacy and safety. Patrons under the age of thirteen (13) years (“minors”) will be restricted from using the BiblioCommons Service to enter free text; however provision may be made for a more permissive service for minors with parental consent. While the Terms of Use prohibits the use of the BiblioCommons Service to arrange meetings with minors, children should be advised never to arrange meetings with strangers over the Internet.
 
-User-generated content may not be appropriate for children. The BiblioCommons Service contains functionality that will enable you to collapse user-generated content that has been flagged by Users who feel the content may be offensive to some users. Enabling this functionality will help decrease the likelihood of children encountering objectionable material when using the BiblioCommons Service.
+Community-created content may not be appropriate for children. The BiblioCommons Service contains functionality that will enable you to collapse community-created content that has been flagged by Users who feel the content may be offensive to some users. Enabling this functionality will help decrease the likelihood of children encountering objectionable material when using the BiblioCommons Service.
 
 ### Where can I learn more about internet safety for users under the age of 18?
 
@@ -103,7 +105,7 @@ Note that the BiblioCommons Service does not require children under the age of 1
 
 ### Is my borrowing record tracked?
 
-No. Lists of your current loans, due dates, outstanding fines, etc. may be loaded from your library record during your sessions online, but this information is not stored on your BiblioCommons account, and it is never shared with other users. You may choose to create a record of your recently-borrowed titles if this service is supported by your library; information about recently borrowed items is never made available to the public unless you choose to enter specific titles on your shelves or in other Shared Content. If you do not choose to enable the recently-borrowed feature, no automatic record of your borrowing will be created.
+No. Lists of your current loans, due dates, outstanding fees, etc. may be loaded from your library record during your sessions online, but this information is not stored on your BiblioCommons account, and it is never shared with other users. You may choose to create a record of your recently-borrowed titles if this service is supported by your library; information about recently borrowed items is never made available to the public unless you choose to enter specific titles on your shelves or in other Shared Content. If you do not choose to enable the recently-borrowed feature, no automatic record of your borrowing will be created.
 
 ## Shared Content
 
@@ -174,5 +176,3 @@ BiblioCommons
 Toronto, ON M5V 2L1, Canada   
 tel. 1 (647) 436 6381   
 
-
-Chicago Public Library may have additional policies that govern other aspects of the services we offer. Please check the library's homepage to view these documents, or speak to a librarian.
