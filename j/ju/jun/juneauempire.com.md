@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208163105id_/http%3A//juneauempire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juneauempire.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611171950id_/http%3A//juneauempire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / About Our Ads | Juneau Empire - Alaska's Capital City Online Newspaper
 
@@ -8,8 +8,8 @@ Juneau Empire is committed to protecting consumer privacy online. We believe tha
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership, request certain features (e.g., newsletters, news updates and other products), sign up for a newspaper subscription or make a purchase. You may also provide information when you participate in sweepstakes and contests, voting and polling activities, blogs, message boards and chat rooms and other interactive areas of our site. Like most Web sites, Juneau Empire also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the site. Additionally we may not be able to customize the site's features according to your preferences.
 
-**What we do with the information we collect  
-**  
+**What we do with the information we collect**
+
 We will use your information only as permitted by law. Aggregated Information (information that does not personally identify you) may be used in many ways. As one example, we may combine information about your usage patterns with similar information obtained from other users to learn which pages are visited most or what features are most attractive. Aggregated Information may occasionally be shared with our advertisers and business partners, but cannot be used to contact you individually.
 
 We also collect information to enhance your visit and deliver more individualized content and advertising. For example, we may use Personally Identifiable Information collected on Juneau Empire to communicate with you regarding our Terms of Service and privacy policy, products and services offered by Juneau Empire and other affiliates and partners, administration of sweepstakes and contests, processing e-commerce transactions and other topics we think you might find of interest. We reserve the right to share this information with other Morris Communications, LLC, business units and affiliates, including for example our affiliated newspapers and entities in which Morris has an ownership interest (collectively, Affiliates). This policy does not apply to any Affiliate's use of such information.
@@ -45,6 +45,6 @@ For any questions or comments, you may contact us:
 
 Juneau Empire  
 3100 Channel Drive  
-Juneau, AK 99801   
+Juneau, AK 99801  
 907-586-3740  
 [webmaster@juneauempire.com](mailto:webmaster@juneauempire.com)
