@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenetresults.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119055240id_/http%3A//www.thenetresults.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenetresults.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611061612id_/http%3A//www.thenetresults.com/misc/privacy.php) for the most accurate reproduction.*
 
 # The Net Results: Privacy Policy
 
@@ -60,4 +60,4 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions ab
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
 
-© 2016 James J Jones, LLC
+© 2017 James J Jones, LLC
