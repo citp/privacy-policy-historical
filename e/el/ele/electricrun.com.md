@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electricrun.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118122510id_/http%3A//electricrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricrun.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611165158id_/http%3A//www.electricrun.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Electric Run
 
@@ -45,7 +45,7 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, The 
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except as set forth in the Privacy Policy. We share end-user data with Major League Baseball Properties, Inc. and MLB Advanced Media, L.P., for Cincinnati in 2015. We also disclose personally identifiable information to trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information except as set forth in the Privacy Policy. We share end-user data with Major League Baseball Properties, Inc. and MLB Advanced Media, L.P., for Miami in 2017. We also disclose personally identifiable information to trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **Third party links**
 
