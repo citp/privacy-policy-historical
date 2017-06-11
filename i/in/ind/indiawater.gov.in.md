@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiawater.gov.in privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129152842id_/http%3A//www.mdws.gov.in/website-policies-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiawater.gov.in privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611061808id_/http%3A//www.mdws.gov.in/website-policies-0) for the most accurate reproduction.*
 
-# Website Policies | Ministry of Drinking Water and Sanitation
+# Website Policies | Ministry of Drinking Water and Sanitation, GOI
 
 ## Privacy Policy
 
