@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressup121.com privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704192252id_/http%3A//www.dressup121.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressup121.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611193516id_/http%3A//www.dressup121.com/privacy.htm) for the most accurate reproduction.*
 
 # DressUp121.com
 
