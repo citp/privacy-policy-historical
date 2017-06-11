@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222194115id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquafresh.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611174626id_/http%3A//privacy.gsk.com/us/english) for the most accurate reproduction.*
 
 # GSK Privacy Statement
 
@@ -120,4 +120,4 @@ To contact GSK in the United Kingdom, call 0808-234-6680.
 
 To contact GSK in the United States, call 1-866-475-3844.
 
-Contact information for other GSK locations can be found at the following website:  <http://www.gsk.com/en-gb/contact-us/worldwide/>.
+Contact information for other GSK locations can be found at the following website:  [ _http://www.gsk.com/en-gb/contact-us/worldwide/_](http://www.gsk.com/en-gb/contact-us/worldwide/).
