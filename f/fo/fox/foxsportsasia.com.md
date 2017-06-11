@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043432id_/http%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsportsasia.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612014300id_/http%3A//www.foxsportsasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FOX SPORTS
 
