@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404060547id_/http%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-viruses.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611165743id_/http%3A//www.2-viruses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 2-viruses.com
 
@@ -14,15 +14,15 @@ _You should be also aware, that if you disclose personally identifiable informat
 
 2-viruses.com might display material or content from other sites, or link to sites that implement some kind of user tracking or (limited) indentifying using cookies. This includes, but not limited to:
 
-  1. Addthis.com – share buttons. 
-  2. Google DFP/Adsense for advertisement display. 
-  3. cleverbridge.com – Affiliate networks, providing tracking for Malwarebytes and some other security tools download 
-  4. onenetworkdirect.com/digitalriver.com Affiliate networks, providing tracking of PC Tools, AVG, AVAST Downloads. 
-  5. cj.com Affiliate networks, providing tracking of ESET products for US/UK customers. 
+  1. Addthis.com – share buttons.
+  2. Google DFP/Adsense for advertisement display.
+  3. cleverbridge.com – Affiliate networks, providing tracking for Malwarebytes and some other security tools download
+  4. onenetworkdirect.com/digitalriver.com Affiliate networks, providing tracking of PC Tools, AVG, AVAST Downloads.
+  5. cj.com Affiliate networks, providing tracking of ESET products for US/UK customers.
 
 
 
-This is done to identify visitor arival source or provide customized browsing experience. We are not responsible for the information they collect. If you want to avoid this, you can disable cookies or allow them one by one. Some of our offered discounts might be void if user disables cookies, as the discounts might be offered for our readers only. 
+This is done to identify visitor arival source or provide customized browsing experience. We are not responsible for the information they collect. If you want to avoid this, you can disable cookies or allow them one by one. Some of our offered discounts might be void if user disables cookies, as the discounts might be offered for our readers only.
 
 **Information use**
 
@@ -37,7 +37,3 @@ In an attempt to provide you with increased value, we may include third party li
 **Site Use**
 
 By using our site, you consent to our privacy policy.
-
-### Post navigation
-
-[← Anti Malware Tool Comparison](http://www.2-viruses.com/anti-malware-tool-comparison) [Terms of service →](http://www.2-viruses.com/terms-of-service)
