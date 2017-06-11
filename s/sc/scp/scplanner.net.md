@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scplanner.net privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602062050id_/http%3A//scplanner.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scplanner.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611022832id_/http%3A//scplanner.net/privacy) for the most accurate reproduction.*
 
 # Privacy - SCPlanner
 
