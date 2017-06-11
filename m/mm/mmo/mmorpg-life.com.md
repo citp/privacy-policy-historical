@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpg-life.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121045838id_/http%3A//www.mmorpg-life.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpg-life.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611120340id_/http%3A//www.mmorpg-life.com/privacy-policy) for the most accurate reproduction.*
 
 # MMORPG Life » Privacy PolicyMMORPG Life
 
