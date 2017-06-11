@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myearthhour.org privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205153952id_/http%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myearthhour.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611124221id_/http%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pages | WWF
 
@@ -6,7 +6,7 @@
 
 _Effective: March 30, 2015_
 
-World Wildlife Fund, Inc. (“WWF”) respects privacy, and we know that many care about how information is used and shared. This Privacy Policy applies to [www.worldwildlife.org](http://www.worldwildlife.org/) and all associated subdomains, online services, and mobile applications to which this Privacy Policy links (collectively, the “Sites”). By visiting any of the Sites, you are accepting the practices described in this Privacy Policy. If you disagree with any of the terms herein, please immediately discontinue use of the Sites.
+World Wildlife Fund, Inc. (“WWF”) respects privacy, and we know that many care about how information is used and shared. This Privacy Policy applies to the WWF website www.worldwildlife.org, to all associated subdomains, online services, and mobile applications, and to those sites listed in the paragraph below labeled “Additional Websites Subject to the Privacy Policy” (collectively, the “Sites”). By visiting any of the Sites, you are accepting the practices described in this Privacy Policy. If you disagree with any of the terms herein, please immediately discontinue use of the Sites.
 
 ### **What Information We Collect**
 
@@ -120,8 +120,26 @@ The Sites are controlled and operated by us from the United States and are not i
 
 **Additional Websites Subject to the Privacy Policy**
 
-This Privacy Policy shall apply to the following websites and all associated subdomains:  
-• www.wwfclimatecrowd.org
+This Privacy Policy shall apply to the following websites and all associated subdomains:
+
+  * www.wwfclimatecrowd.org
+
+
+  * www.seafoodsustainability.org
+
+
+  * www.envirodm.org
+
+
+  * www.wearestillin.com / www.wearestillin.org
+
+
+  * www.lowcarbonusa.org
+
+
+  * detect.trade
+
+
 
 ### **Questions/Contact Information**
 
