@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replacemyself.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123141154id_/http%3A//www.replacemyself.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replacemyself.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611181751id_/http%3A//www.replacemyself.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
