@@ -1,50 +1,181 @@
-> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208014441id_/http%3A//www.startupnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupnation.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611085039id_/https%3A//startupnation.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy » StartupNation
+# Privacy Policy - StartupNation
 
-## STARTUPNATION ® PRIVACY POLICY
+The StartupNation Privacy Policy was updated on 2016-05-07
 
-StartupNation LLC is committed to protecting your privacy. We created this Privacy Policy in order to demonstrate that commitment and to ensure the confidence of visitors to our [www.startupnation.com ](http://www.startupnation.com/)Web site (the “Site”).
+This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-All information that you voluntarily submit to us will be electronically delivered to our web servers located in the State of Michigan in the United States. BY USING THIS SITE YOU CONSENT TO THE TRANSFER OF THIS INFORMATION AND TO OUR USE OF SUCH DATA AS OUTLINED IN THIS POLICY.
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-## TYPES OF INFORMATION COLLECTED
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience.
 
-We collect two types of information:
+**When do we collect information?**
 
-  1. Traffic Data. Our Site automatically recognizes the following non-personally identifiable information when you visit the Site: (i) IP address; (ii) domain server; (iii) type of computer; and (iv) type of web browser (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you, but is helpful for marketing purposes and for improving your experience on the Site. We use this information to examine our traffic in aggregate and to ensure the security of the data and our infrastructure.
-  2. Personal Information Collected. In order for us to fully serve you and for you to fully access certain services that we offer via the Site, we require you to provide us with information that personally identifies you or your company (“Personal Information”). For example, we require accurate Personal Information to, among other things, sign up for our ENews Letter, submit a Coaching request, or send us your feedback. Personal Information may include: (i) Contact Data (such as your name, job title, occupation, phone number, company name, company address, mailing and e-mail addresses); (ii) Financial Data (such as your account or credit card number); (iii) Demographic Data (such as your zip code, age and income). If you communicate with us by e-mail, post messages to any of our chat groups, bulletin boards or forums, or otherwise complete online forms, surveys, any information provided in such communication may be collected as Personal Information. Our use of this Personal Information is set forth below. SUBMITTING PERSONAL INFORMATION IS YOUR CHOICE You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information.
+We collect information from you when you register on our site, subscribe to a newsletter, respond to a survey, fill out a form or enter information on our site.
 
+**How do we use your information?**
 
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-## USE OF PERSONAL INFORMATION COLLECTED
+**•**  To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-The Personal Information you enter on this Site is used to respond or contact you when necessary and to provide our visitors with a better Internet experience. When you register for a StartupNation Passport, or subscribe to our Newsletter, or attend certain online events, we collect certain Personal Information from you including your name, address, email address and telephone number. From time to time, we aggregate Personal Information entered into our Site in order to identify our demographic audience (collective characteristics/ behavior) and to measure overall interest in specific areas of the Site. By aggregating the Personal Information into a form whereby we can no longer personally identify you, we are allowed to analyze how and where to best use our resources without impinging on your privacy. StartupNation may share such aggregated data with third parties and sales prospects, and we may use this information for promotional purposes. Also, StartupNation occasionally makes contact information available to select outside companies whose products or services we feel may be of interest to you. Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private unless such disclosure is necessary to:
+**•**  To improve our website in order to better serve you.
 
-a. Comply with the law, a court order or legal process;  
-b. Protect our rights or property; or  
-c. Enforce our Terms of Use.
+**•**  To allow us to better service you in responding to your customer service requests.
 
-## SECURITY OF PERSONAL INFORMATION
+**•**  To administer a contest, promotion, survey or other site feature.
 
-Your Personal Information is stored on secure web servers that are not accessible by third parties. However, while we take efforts to ensure the integrity and security of our network and systems, we cannot absolutely guarantee that our security measures will prevent third-party “hackers” or other malfeasants from illegally obtaining this information.
+**•**  To ask for ratings and reviews of services or products
 
-## ENEWSLETTER SUBSCRIPTION INFORMATION
+**•**  To follow up with them after correspondence (live chat, email or phone inquiries)
 
-If you would like to unsubscribe from a particular StartupNation mailing list, simply click on the opt-out link provided in the message. If you would like to subscribe to the StartupNation newsletter list, please [become a member of StartupNation now](http://www.startupnation.com/community/signup "Sign Up").
+**How do we protect visitor information?**
 
-## OTHER LIMITS TO YOUR PRIVACY
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-The Site contains links to other Web sites. We are not responsible for the privacy practices or the content of such Web sites. We also may make chat rooms, forums, message boards, and news groups available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+We use regular Malware Scanning.
 
-## RIGHT TO CHANGE PRIVACY POLICY
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site.
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-## CHILDREN’S PRIVACY
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
-This Site is not intended for children under the age of 18. If you are under 18 you must ask a parent for permission prior to submitting any information to this Site.
+**Do we use ‘cookies’?**
 
-## CONTACT FOR PRIVACY INQUIRIES
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-If you have any questions about this Privacy Policy [please contact us online](http://www.startupnation.com/contact-us/ "Contact Us").
+**We use cookies to:**
+
+**•**  Understand and save user’s preferences for future visits.
+
+**•**  Keep track of advertisements.
+
+**•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled It won’t affect the user’s experience that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+**Third-party disclosure**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third-party links**
+
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Google**
+
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on previous visits to our site and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy.
+
+**We have implemented the following:**
+
+**•**  Remarketing with Google AdSense
+
+**•**  Google Display Network Impression Reporting
+
+**•**  Demographics and Interests Reporting
+
+**•**  DoubleClick Platform Integration
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+
+Opting out:
+
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously.
+
+Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+**•**  On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+**•**  By logging in to their account
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third-party behavioral tracking?**
+
+It’s also important to note that we allow third-party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+**•**  Within 7 business days
+
+We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**•**  Send information, respond to inquiries, and/or other requests or questions.
+
+**•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**•**  NOT use false or misleading subjects or email addresses.
+
+**•**  Identify the message as an advertisement in some reasonable way.
+
+**•**  Include the physical address of our business or site headquarters.
+
+**•**  Monitor third-party email marketing services for compliance, if one is used.
+
+**•**  Honor opt-out/unsubscribe requests quickly.
+
+**•**  Allow users to unsubscribe by using the link at the bottom of each email.
+
+**If at any time you would like to unsubscribe from receiving future emails, you can email us at**
+
+**•**  Follow the instructions at the bottom of each email.
+
+and we will promptly remove you from  **ALL**  correspondence.
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+[startupnation.com](http://startupnation.com/)  
+380 N Old Woodward Ave  
+Birmingham, MI 48009 US  
+[contact@startupnation.com](mailto:contact@startupnation.com)  
+[1-844-926-8439](tel:1-844-926-8439)
