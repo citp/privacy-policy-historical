@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206150121id_/https%3A//www.bourbonandboots.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bourbonandboots.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611181448id_/https%3A//www.bourbonandboots.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – Bourbon & Boots
+# Bourbon & Boots Southern Lifestyle Brand: Privacy
 
 We collect information from you when you register on our site or place an order.
 
@@ -80,6 +80,10 @@ This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-gu
 **Address**
 
 Bourbon & Boots  
-314 N Main St, Suite B  
+Argenta Historic District  
 North Little Rock, AR 72114  
-(877) 791-8079
+info@bourbonandboots.com
+
+Shopping Boubon & Boots:
+
+Our Southern Lifestyle Brand is your online gift store for made in the south personalized gifts, gift ideas for men, and gift ideas for women. Our southern gifts inventory of unique gifts and unusual gifts ensure a rare & unique selection of personal gifts sure to delight you and your recipient.
