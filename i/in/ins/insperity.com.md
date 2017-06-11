@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the insperity.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221160741id_/http%3A//www.insperity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insperity.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611020437id_/http%3A//www.insperity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Insperity
 
-## Notice of Insperity's Privacy Policy - Effective March 4, 2011 
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=d07dd4af-c342-4eb5-b53f-4df2d103f46c)
-
-## Introduction
+### Introduction
 
 Insperity respects your privacy. We have created this privacy policy (“Privacy Policy”) to demonstrate our firm commitment to online privacy. This “Notice of Privacy Policy” discloses the information gathering and dissemination practices for certain of Insperity’s websites, which include _Insperity.com_ and our password-protected Internet service platforms--the Employee Service CenterSM (collectively referred to as the “Insperity Web Sites”), which are available primarily to us, our clients, our employees and their families. **This Privacy Policy does not apply to all of the sites owned or operated by Insperity and you should carefully review the Privacy Policy for each site you use.** Except as noted above, this Privacy Policy applies to all information that you provide to Insperity and that Insperity maintains electronically, whether you provide the information through the Insperity Web Sites or through other means. Additionally, this Privacy Policy applies to any personal information obtained from your use (and, if applicable, your family’s use) of the Insperity Web Sites. **This Privacy Policy does not apply to any information that you may provide to third parties; for example, other sites linked to the Insperity websites. You should contact such third parties directly to determine their respective privacy policies.** As used herein, the terms “Insperity,” “we,” “our” and “its” when referring to Insperity, Inc. and its related companies are used only for convenience and are not intended to be an accurate description of ownership, operation or corporate/legal relationships.
 
 * * *
 
-## What information does Insperity collect?
+### What information does Insperity collect?
 
 If you are an employee or client of Insperity, we collect and maintain a variety of personal information about you and, if applicable, your company and employees. This information may be collected through the Employee Service Center, other Insperity websites or through paper forms submitted by you. For employees, the information we maintain includes, among other things:
 
@@ -38,7 +34,7 @@ Depending on the use that you make of the Insperity websites, we may also collec
 
 * * *
 
-## What is this information used for?
+### What is this information used for?
 
 We use your personal information in the course of your employment or client relationship with Insperity. Among other things, we use this information to provide you with the services available on the Employee Service Center. For example, we allow you to edit and update personal information online and allow you to download forms that have been pre-populated with your personal information. We also use your information for other things, which may include but is not limited to the following:
 
@@ -57,7 +53,7 @@ Insperity may use information it collects in order to reward or provide incentiv
 
 * * *
 
-## With whom is this information shared?
+### With whom is this information shared?
 
 Insperity shares personal information only as described below:
 
@@ -81,55 +77,55 @@ As Insperity continues to develop its businesses, it may sell various aspects of
 
 * * *
 
-## What access do you have to information you provide?
+### What access do you have to information you provide?
 
 You have access to much of your personal information through the Employee Service Center, where you can view and update most of the personal information we maintain.
 
 * * *
 
-## Security measures
+### Security measures
 
 Insperity makes access to your personally identifiable information subject to certain security measures, including technological controls such as "firewalls," in accordance with industry standards. When the use of the Insperity websites involve the transmission of confidential information about you or Insperity, we use Secure Socket Layer (SSL) technology to establish a secure connection between your PC and our server. SSL allows the transmission of encrypted information from your PC to our server and back again and is the industry standard for Internet platform security. No data transmission over the Internet can be guaranteed to be 100% secure, so while Insperity strives to protect your personal information, we cannot ensure or warrant the security of any information that you transmit to Insperity.
 
 * * *
 
-## Disclaimer of responsibility for privacy policy and content at linked sites
+### Disclaimer of responsibility for privacy policy and content at linked sites
 
 The Insperity websites may provide you with links to other websites. We are not responsible for those sites and cannot control the use of information that you submit once you reach those sites, nor can we control the content of what is offered on those sites or on links from those sites. You should contact such third-party websites directly to determine their privacy policies.
 
 * * *
 
-## **Use of information from third parties**
+### Use of information from third parties
 
 We may use information about you provided to us by third parties (such as credit reporting agencies or strategic alliances) in order to offer you their services and products, to improve our own services or to evaluate your eligibility for our services.
 
 * * *
 
-## **This is not a children’s website**
+### This is not a children’s website
 
 Insperity does not knowingly solicit data from children, and we do not knowingly market to children.
 
 * * *
 
-## Applicable only to U.S. residents
+### Applicable only to U.S. residents
 
 The Insperity websites are designed for and intended only for the use of clients located in the United States and employees who are U.S. citizens or are residents of the United States. If you are a client that is located outside of the United States, you are not authorized to access any of the Insperity websites.
 
 * * *
 
-## Changes in these policies and practices
+### Changes in these policies and practices
 
 Insperity reserves the right to change its privacy policies and practices periodically, without providing individual notice, by updating this Privacy Policy notice. This Privacy Policy was last updated on March 4, 2011. You agree that it is your responsibility to monitor such updates. Your continued use of any of the Insperity websites after such revisions have been made or your failure to object in writing to any notice of such change will constitute your full acceptance of such revised Privacy Policy.
 
 * * *
 
-## California Residents - Your Privacy Rights
+### California Residents - Your Privacy Rights
 
 California Civil Code Section 1798.83 permits California residents who provide personal information in obtaining products or services for personal, family or household use to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for their direct marketing purposes in the preceding calendar year.  If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to the address provided at the end of this Privacy Policy.  Please be aware that not all information sharing is covered by the Section 1798.83 requirements, and only information on covered sharing for California customers will be included in our response.
 
 * * *
 
-## More information
+### More information
 
 If you have any questions about this Privacy Policy, please write to:
 
