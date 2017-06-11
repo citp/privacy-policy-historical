@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itead.cc privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207011409id_/http%3A//www.itead.cc/privacy_and_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itead.cc privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611113039id_/http%3A//www.itead.cc/privacy_and_notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -32,4 +32,4 @@ You can correct factual errors in your personally identifiable information by se
 
 ### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call send an email to [info@iteadstudio.com](mailto:info@iteadstudio.com).
+Should you have other questions or concerns about these privacy policies, please call send an email to [**  info@iteadstudio.com**](mailto:info@iteadstudio.com).
