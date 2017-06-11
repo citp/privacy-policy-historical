@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203102010id_/http%3A//www.whig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whig.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611221438id_/http%3A//www.whig.com/privacy) for the most accurate reproduction.*
 
 # This Web Site's Privacy Policy - Herald-Whig -
 
@@ -27,6 +27,8 @@ At this time, this website and the Services do not recognize automated browser s
 (2) **Personally identifiable information:** Certain features of the Services, such as subscriptions, surveys and contests may require that you provide personally identifiable information (including, for example, zip code, age, income, and e-mail address, and when applicable, credit card information). The HERALD-WHIG has access to this information. In addition, when registering to set up an account to use certain services of the website such as e-mail and forums, or to receive certain newsletters or specifically targeted information, we do require that you provide a valid e-mail address.
 
 In addition, we may collect information about your location when you access any of our mobile applications.  If you do not enable the service to use your location information or if the app does not have that feature, we will not collect or store your location information.
+
+ **Interest Based Advertising and IP Targeting:**  We may work with data providers to serve advertising to you through display media or other methods. These providers may use personal information that we have collected or that you have provided to locate you online, such as when you visit or log in to websites or mobile applications. This information may be linked to online identifiers or IP addresses assigned to you, and to demographic or interest-based data, in order to target you with relevant advertising, including about our products or services. To learn more about or opt out of this and other interest-based advertising, please visit the industry opt-out pages operated by the DAA, at [http://www.aboutads.info](http://www.aboutads.info/) and by the NAI at [http://networkadvertising.org](http://networkadvertising.org/).
 
 We do not knowingly collect personally identifiable information from children younger than 13 years of age. Before registering for an account to use the Services of the website, we ask that all minors thirteen years old and older to have their parents read our Privacy Policy. 
 
