@@ -1,101 +1,111 @@
-> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2012-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121010065310id_/http%3A//www.wacotrib.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611224357id_/http%3A//www.wacotrib.com/site/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Wacotrib.com
+# Privacy Policy | Site | wacotrib.com
 
-Privacy Policy 
+**Privacy Policy**
 
-* * *
+Welcome to WacoTrib.com, home of the Waco Tribune-Herald Online Edition.
 
-**LAST UPDATED: July 23, 2012**
+We understand that privacy is very important to our readers. We want to make sure that you understand why we collect certain information, how we use it, and how we protect it. We want our guests to feel confident that their information is handled with great care on WacoTrib.com.
 
-We care about your privacy. We will not sell your name or e-mail address to any third party advertisers without your permission. **Please read our Privacy Policy below for further details.**
+ **How do I know my information is safe on WacoTrib.com?**
 
-CHILDREN’S PRIVACY | TYPES OF INFORMATION WE COLLECT
+In the normal course of business, WacoTrib.com and the Waco Tribune-Herald do not share reader information with anyone. We collect this information for the sole purpose of improving WacoTrib.com and providing more and better services to our readers.
 
-DISCLOSURE OF INFORMATION | SHOPPING | OPTING OUT
+The only times we will divulge a guest's personal information to a third party are:
 
-STORAGE OF INFORMATION | CHANGES TO THIS PRIVACY POLICY
+* If we believe in good faith that the law requires such disclosure.
 
-WacoTrib.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Waco Media Company, Inc., d/b/a _Waco Tribune-Herald_ (“we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our Content Director:
+* If we need to disclose the information in order to identify, contact or initiate legal action against someone violating WacoTrib.com's Terms of Service, or someone who is causing injury to or interference with WacoTrib.com's rights or property, other WacoTrib.com users, or anyone else who can be harmed by such activities.
 
-Bruce Kabat  
-_Waco Tribune-Herald_  
-P.O. Box 2588  
-Waco, TX 76702-2588  
-E-mail: bkabat@wacotrib.com
+In the event WacoTrib.com contracts with an outside research firm, we may provide your contact information to the research firm to contact you regarding participation in surveys, focus groups or other research activities that will help us improve WacoTrib.com's products and services. The research firm will be bound by its contract with WacoTrib.com to use your information strictly for WacoTrib.com research purposes, to keep your information confidential, and to adequately secure or destroy its records of your information when the research is complete.
 
-### CHILDREN’S PRIVACY
+We may also use other industry standard technologies like pixel tags and web beacons to track your use of our Website pages and promotions, or we may allow our third party service providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates and/or marketing partners for the same purposes.
 
-Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else.
+ **What information does WacoTrib.com collect?**
 
-Back to top
+The Waco Tribune-Herald obtains information from you when you purchase advertising or start a newspaper subscription. This information may include, but is not limited to, your name, address, telephone number, e-mail address and what you have purchased.
 
-### TYPES OF INFORMATION WE COLLECT
+From time to time, WacoTrib.com will conduct surveys on its site for research purposes. When you participate in a survey, the information you provide about yourself and your responses are collected by WacoTrib.com. We will always inform you how we will use this information.
 
-The information we gather falls into two categories: (1) information (for example, your name and address) that you voluntarily supply when you register or initiate transactions, and (2) information gathered on usage patterns and preferences as visitors navigate through our sites, use our services such as free e-mail, or read our e-mail newsletters. In some cases, it is an agent or affiliate of ours that collects the information on our behalf. Third party providers featured on or linked to by our site, such as vendors of products and services offered through our site, may be gathering the same kinds of information.
+If you contact WacoTrib.com, we may keep a record of your correspondence.
 
-**Registration information.** To make use of certain features on our site (such as to receive e-mail newsletters, or post a classified ad) visitors need to register and to provide certain information as part of the registration process. We may also ask for information from those who buy products or services or conduct other transactions on our site. (We may ask, for example, for your name, e-mail address, sex, age, zip code or credit card number, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) The information you supply will help us to offer you more personalized features, to tailor our site to your interests and make them more useful to you, and to process e-commerce transactions.
+WacoTrib.com also tracks and collects computer IP addresses to help with system administration and to compile information about traffic patterns on the site. Computer IP addresses identify computers and the networks or Internet service providers to which they are connected.
 
-The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don’t supply the information we need, we may be unable to provide you with services we make available to other visitors to our site. And we can’t send you e-mail alerting you to a new service we’re offering, or breaking news that may interest you if you don’t tell us what you’re interested in and give us your e-mail address. Please see the “Shopping” section below to learn more about purchasing products or services on our site.
+ **Cookies and how WacoTrib.com uses them**
 
-**Contests and Other Promotions.** From time to time, we may offer contests, sweepstakes or other promotions on our site. If you enter one of these promotions, you’ll have to provide information about yourself (such as your name, address, telephone number and e-mail address) so that we can contact you if you win. We may share this information with any wholly or majority-owned subsidiary of Waco Media Company, Inc. and any co-sponsor of the promotion (we will identify any co-sponsor in the official rules for the promotion). If you don’t want us to collect the information requested in the registration form or to provide it to any wholly or majority-owned subsidiary of Waco Media Company, Inc. or contest co-sponsors, please do not enter the contest or sweepstakes.
+A cookie is a small amount of data that is transferred from a Web server through your browser and stored on the hard drive of your computer. The cookie contains your user name and password so that when you log on, the Web server recognizes you.
 
-**E-mail Newsletters.** We may also offer you the opportunity to subscribe to e-mail newsletters on topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you may always unsubscribe later if you decide not to receive further mailings of the newsletter from us. See “Opting Out” below.
+Some advertisers on WacoTrib.com may use their own cookies. When you click on an advertisement, visit an advertiser's Web site or make a purchase from an advertiser, that company may use cookies according to their own policies. Advertisers' cookies are not covered under WacoTrib.com's policy.
 
-**Cookies.** To help make our sites more responsive to the needs of our visitors, we use a standard feature of browser software, called a “cookie,” to assign each visitor a unique, random number, a sort of user ID, that resides on your computer. The cookie doesn’t actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won’t know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can’t read unrelated data off your hard drive. Our advertisers and the third parties that provide products or services through our site may also assign their own cookies to your browser, a process that we don’t control.
+You do not have to permit the use of cookies. You can, through the options in your Web browser, choose to accept all cookies, choose to reject all cookies or choose to receive notification when a cookie is being delivered so that you can make a decision whether to accept each cookie on a case-by-case basis. If you refuse all cookies WacoTrib.com will no longer remember you when you return requiring you to log in each time you visit the site.
 
-We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. For example, we use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track the pages on our site visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our site.
+ **General statistical information**
 
-**Other Methods of Collecting Information.** Our web pages may contain electronic images (called “single-pixel GIFs” or “web beacons”) that allow us and our vendors to count users who have visited particular pages or to access certain cookies. We may use these tools and other technologies to recognize which pages users visit, and which links they click on. These features may also be included in our e-mail newsletters so that we can learn which messages have been opened and acted upon. We may also be able to verify your online purchases from us or from third party sites that have agreed to share such information with us.
+Visits to WacoTrib.com are monitored to gather statistical information, including the number of visits to the site, the pages visited, which domains visitors come from and the browsers used to visit the site. This data is accumulated at the aggregate level.
 
-**Browser Level information and IP Addresses.** Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you’re running, the resolution of your computer monitor, the Web site that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site (including our ads) to the interests of our users, and to measure traffic within our site. To improve your ad experience, we may send non-personal information to Yahoo!, an ad network partner that displays ads on this site. Such information is based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information it gathers regarding its own users to select which ads to display on this site. Please click this link: <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html> to learn more about Yahoo!’s ad practices, including how to opt out of Yahoo! using anonymous information to select which ads to show you.
+This statistical information enables us to evaluate the effectiveness of the services we provide, to monitor site performance and to make it easier for visitors to use the site.
 
-Back to top
+ **How does WacoTrib.com use the information it gathers?**
 
-### DISCLOSURE OF INFORMATION
+Information collected on WacoTrib.com, including traffic patterns and user behavior, is used primarily for the following purposes:
 
-**Why we want to know.** As with any business, it’s important for us to know our customers – their needs, their likes, what they want and expect from us. Unlike most businesses, however, we deliver a valuable product to our customers without asking for anything in return. Since we make some of this site available without charge to you, we rely heavily on advertisers to produce the income necessary to operate our site. Advertisers expect something in return for the money they spend. They want to know how many people will see their ad and how often - in other words, how effective their ad is likely to be. So it’s important that we be able to tell advertisers who our audience is.
+* Internal research. WacoTrib.com is continuously assessing how visitors use the site. This data assists us in making decisions about how to improve the site and to better serve our users. Research data are aggregated and do not include data about specific individuals. We may share aggregated research (but not individual user information) with our advertisers or business partners. Additionally, WacoTrib.com may use your information to contact you to ask for your participation in a focus group, survey, or some other type of research effort.
 
-**Advertisers.** Without your permission, we will not share the personally-identifiable information you provide when registering on our site with advertisers. We will, however, take the information you provide and aggregate it with data from all the other people that use this site and associated services. Then we will use that pool of information to inform our advertisers about our audience without identifying you personally. For example, we’ll be able to say to an advertiser: “We have 3,470 readers in this ZIP code,” which happens to be your location.
+* To customize your experience on WacoTrib.com. As WacoTrib.com improves its service, it may offer users more opportunities to customize content and other aspects of the site. Information provided by you may be used to assist in the customization process, if you elect to participate in these features.
 
-**Vendors and Service Providers.** To make our sites more valuable to our visitors, we may offer some features in conjunction with other providers (“Provider Partners”). Our e-mail newsletters, e-mail services, and online classifieds, for example, may be made available through cooperative arrangements with providers that specialize in operating such services. In some instances, our Provider Partners will have the same access to your information as we do. Their use of the information will be subject to the terms of their respective privacy policies, which you can find on their Web sites.
+* To tailor advertising efforts. Most of the information and services available to you at WacoTrib.com are free. In order to continue providing services free of charge, WacoTrib.com sells advertising. Advertisers prefer to target their communication toward audiences who are most likely to be interested in their products. The information gathered on WacoTrib.com helps us advise advertisers in general terms about certain aspects of site visitors (e.g. how visitors use the site, general demographic attributes of visitors, usage patterns on various parts of our site, etc.). This information helps both advertisers and WacoTrib.com make better decisions about where to place advertising. No specific information about individual users is ever provided to advertisers. However, visitors who choose to conduct financial transactions with advertisers on WacoTrib.com may provide specific data to those advertisers during the process of their transactions. Additionally, any information provided during the purchase of WacoTrib.com or the Waco Tribune-Herald products or services will result in the collection of certain information required to complete the transaction.
 
-**Our Affiliates.** We may share the information that we collect from you with any wholly or majority-owned subsidiary of Waco Media Company, Inc. so that we and they can provide you with products and services provided by these entities that we believe may be of interest to you.
+More specifically, here is how WacoTrib.com may use information you provide:
 
-**Statistical Information.** Much of the information we collect is in the form of aggregated statistics, such as the traffic that visits various pages within our sites, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally. We may use such aggregated information and disclose it to third parties as we see fit.
+* E-mail addresses. If you supply WacoTrib.com with your e-mail address, either by registering on the site or by communicating with us via e-mail, we may, from time to time, send you information that we believe would be of interest to you via e-mail. This information may be from WacoTrib.com, the Waco Tribune-Herald, or from one of our quality advertisers. Note: If we send you e-mail on behalf of another company, your information is never disclosed to that company. Rather, the company provides us with the information it wants to send, and we prepare and send the e-mail directly to you. Your information never leaves our systems.
 
-**Sites to Which We Link.** Of course, our site includes links to plenty of other Web sites, and provides access to products and services offered by third parties, whose privacy policies we don’t control. When you access another site or purchase products or services or conduct other transactions through our sites, use of any information you provide is governed by the privacy policy of the operator of the site you’re visiting or the provider of such products or services.
+* Postal addresses. If you supply WacoTrib.com with your postal address, we may send you periodic mailings with information on new products, coming events, surveys or other research materials, or other information we think might be of interest to you.
 
-**Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Visitor Agreement, or to protect the rights, property or safety of visitors to our sites, the public, our customers, or our company and its employees, agents, partners and affiliates. As our business grows, we may buy or sell various assets. In the unlikely event that our company, or the bulk of our assets relating to this site, is acquired by another company, information on our visitors would be among the transferred assets.
+* Telephone numbers. If you provide your telephone number, WacoTrib.com may call you regarding orders you have placed online, to tell you about new products, services, or coming events, or to offer other information that may interest you. Additionally, WacoTrib.com, the Waco Tribune-Herald or one of their agents may call you for research purposes.
 
-Back to top
+ **What information is covered by this privacy policy? What isn't?**
 
-### SHOPPING
+All information you provide directly to WacoTrib.com is covered under this privacy policy. This information may include but is not limited to your name, address, phone number, and e-mail address.
 
-When you are ready to make a purchase on our site, we will ask you to provide us with certain information, including your contact details (such as your name, address, telephone and e-mail), and your billing information (such as your credit card number and the date that your card expires). We may also ask you to provide additional information such as unique identifiers (such as your date of birth), and registration information (login name and password). You will be able to review, update, or delete the information you have provided us (except, of course any information that we do not store) at any time by accessing your account on our site.
+Information that you might post on a message board, forum, or chat room is not protected under this privacy policy. Information posted in any of these public areas is not considered confidential communication. WacoTrib.com has the right but not the obligation to monitor the content of its bulletin boards, forums and chat rooms to determine compliance with its policies and terms of use and any other operating rules established for the website. WacoTrib.com shall have the right in its sole discretion, and without prior notice, to edit, refuse to post, or remove any materials submitted to or posted to its bulletin boards, forums, or chat rooms.
 
-We will use the information you provide us to process your transaction and to contact you regarding your purchase if necessary. We will share this information with our Provider Partners to the extent necessary to facilitate your purchase (for purposes such as customer service, verification, fulfillment and billing purposes). We will not sell or rent your personal billing information to any third party. We may share non-financial information with our Provider Partners in accordance with this Privacy Policy. If you consent (for example, by checking a box or by some other means), we will make your information available to third parties so that they, we, or both may contact you directly regarding special offers, promotions, products or services that may be of interest to you.
+Please keep in mind that whenever you voluntarily disclose information on a public website - for example, on message boards or in chat areas - that information can be collected and used by others. In short, if you post information online that is accessible to the public, you may receive unsolicited messages from other parties in return. WacoTrib.com is not responsible for the disclosure of your information under these circumstances and such disclosure is not covered under this privacy policy.
 
-Back to top
+Additionally, advertisers and vendors hosted on our site, or who link to our site, may collect information about you if you visit their websites, or purchase products or services from them. Information collected by vendors or advertisers hosted on WacoTrib.com or who link to WacoTrib.com is not covered under this privacy policy.
 
-### OPTING OUT
+Finally, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
 
-If you register with us, you will have the opportunity to review, update, or delete the information you have provided us at any time (except, of course, any information that we do not store). If you remove your registration information completely, you may not be able to continue using certain services that require registration (such as e-mail). You agree that we may use your information to contact you for customer service, to inform you of important changes or additions to our site or the services offered over our site and to send you administrative notices or any communications relevant to your use of our site. If you do not wish to receive these notices, please e-mail us by clicking here.
+ **What if I don't want WacoTrib.com to contact me?**
 
-If you have subscribed to one of our e-mail newsletters, you will always have the opportunity to unsubscribe from future mailings (for example, by clicking on an unsubscribe link in an e-mail newsletter or by going back to our site).
+You may opt out of any or all contacts from WacoTrib.com at any time. All e-mails sent to you from WacoTrib.com will allow to opt out of any further e-mail from us. You may e-mail us at [sboggs@wacotrib.com](mailto:sboggs@wacotrib.com) to opt out of our email programs. You may also write or call us at the following address and phone number to notify us regarding use of your information:
 
-If you have submitted your information on a page provided in conjunction with one of our Provider Partners, the information you submit may be jointly maintained by us and the Provider Partner. If you decide to opt out on our site, you may also need to contact the Provider Partner separately to request the Provider Partner to remove your information from its database.
+When you register on WacoTrib.com, you will be given the opportunity to opt out of further communication from us.
 
-Back to top
+You may accept certain kinds of contact and decline others. For example, you may choose to accept e-mails, but not postal mail or telephone calls.
 
-### STORAGE OF INFORMATION
+If, at anytime in the future, WacoTrib.com decides to use information provided by you in a way not described here, we will contact you beforehand to explain the use of the information and give you the opportunity to decline that use.
 
-All information gathered on our site is stored within a database operated by us or by a contractor on our behalf. Sensitive information, such as your password is encrypted for storage. For e-commerce transaction, in certain instances we may transmit your billing information using encryption. Encryption scrambles your credit card number and personal information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won’t be intercepted while being transmitted to us over the Internet.
+ **Security technologies**
 
-Back to top
+WacoTrib.com uses industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer or receive certain types of sensitive data, such as financial information, we will redirect you to a secure server and will notify you through a pop-up screen on our site. We have implemented appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you.
 
-### CHANGES TO THIS PRIVACY POLICY
+ **Making corrections to your information**
 
-The Web is an evolving medium. If we need to change our Privacy Policy at some point in the future, we’ll post the changes before they take effect. By continuing to use this web site after we post any such changes, you accept this agreement, as modified.
+Upon request, you may review all information that we maintain in your record, including contact information (name, address, zip code, phone number, e-mail), or any other information we may keep in your record.
 
-Back to top
+You may also request that inaccuracies be corrected in any information that we maintain in your record.
+
+Submit your request by contacting WacoTrib.com via e-mail, postal mail, or telephone.
+
+ **Contacting WacoTrib.com**
+
+If you have any questions about our privacy policy or the privacy practices of this site, please contact us at [sboggs@wacotrib.com](mailto:sboggs@wacotrib.com).
+
+You may telephone us at (254) 757-5757. You may write to us at:
+
+WacoTrib.com
+
+P.O. Box 2588
+
+Waco, Texas 76702-2588
