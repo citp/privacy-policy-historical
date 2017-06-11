@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activejunky.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016231100id_/http%3A//activejunky.com/about_us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activejunky.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612001846id_/https%3A//www.activejunky.com/about_us/privacy-policy) for the most accurate reproduction.*
 
 # Activejunky.com | Backcountry, Cabela's, Jenson USA, Moosejaw Coupons and Cash Back
 
