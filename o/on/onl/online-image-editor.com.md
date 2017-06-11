@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-image-editor.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223070903id_/http%3A//www.online-image-editor.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-image-editor.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612002228id_/http%3A//www.online-image-editor.com/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy of the site | Free Online Image Editor
 
