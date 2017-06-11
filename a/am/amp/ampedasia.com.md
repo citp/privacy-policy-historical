@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013235950id_/http%3A//www.ampedasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampedasia.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611065333id_/http%3A//www.ampedasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amped Asia
 
@@ -17,3 +17,6 @@ Cookies are set when you login to the forums, also third-party cookies are set b
 
 
 If you have any questions, [contact us at mail[@]ampedasia.com](http://www.ampedasia.com/cdn-cgi/l/email-protection#edcd808c8481ad8c809d88898c9e848cc38e8280). Thank you.
+
+  
+
