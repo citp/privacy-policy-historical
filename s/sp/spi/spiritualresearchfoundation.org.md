@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110420id_/http%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritualresearchfoundation.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611164955id_/http%3A//www.spiritualresearchfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -54,7 +54,7 @@ We may state a more specific purpose at the point we collect your information. I
 
 **Amongst other reasons for:**
 
-  * Sending you our email alerts about SSRF and our affiliate’s events, new articles, newsletter if you have subscribed (opted-in) to them. The introduction/reminder of some new functionality or products and services with regards to the Site. SSRF requires you to opt-in to any mailing list, i.e. you have to tick which mailing list you would like to subscribe to. We do not pre-tick your subscription to any mailing list and therefore we do not ask you to opt-out if you do not want to contact you in that regard.
+  * Sending you our email alerts about SSRF and our affiliate’s events, new articles, newsletter if you have subscribed (opted-in) to them. The introduction/reminder of some new functionality or products and services with regard to the Site. SSRF requires you to opt-in to any mailing list, i.e. you have to tick which mailing list you would like to subscribe to. We do not pre-tick your subscription to any mailing list and therefore we do not ask you to opt-out if you do not want to contact you in that regard.
 
   * Responding to your questions and comments.
 
@@ -105,7 +105,7 @@ We will send personally identifiable information about you to other companies or
 
   * We have your consent to do so.
 
-  * In case of comments provided by you, with your permission, SSRF may choose to publish the comments, if we feel that it would be of value to our readers. You may also choose how your name with regards to the comments is published, i.e., have your comment displayed along with just your nickname and country or your nickname and first name along with your country.
+  * In case of comments provided by you, with your permission, SSRF may choose to publish the comments, if we feel that it would be of value to our readers. You may also choose how your name with regard to the comments is published, i.e., have your comment displayed along with just your nickname and country or your nickname and first name along with your country.
 
   * We need to respond to valid legal process. This includes a search warrant, subpoena, or court order, and any other instance when we believe we are required to provide information by law.
 
@@ -124,7 +124,7 @@ Please assist us in keeping your information current by notifying us of changes 
 
   * You may opt out of SSRF mailing lists that you have subscribed for by simply un-checking the relevant box in ‘subscription status’ section in your SSRF Member Account.
 
-  * For issues with regards to incorrect details provided for orders yet to be fulfilled by us, please contact our customer service through ‘my order correspondence’ in your SSRF Member account.
+  * For issues with regard to incorrect details provided for orders yet to be fulfilled by us, please contact our customer service through ‘my order correspondence’ in your SSRF Member account.
 
 
 
@@ -139,7 +139,7 @@ Other than in relation to Non-Confidential Information, we will endeavour at a p
 
 To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place physical, electronic and managerial procedures to protect the information we collect online.
 
-### 7.1 With regards to hardware and software
+### 7.1 With regard to hardware and software
 
   * SSRF encrypts all passwords that enable you to interact with the Site. This includes the transmission, authentication and storage of passwords. This means that none of our staff can see your passwords.
 
@@ -154,7 +154,7 @@ To prevent unauthorized access, maintain data accuracy and ensure the appropriat
 
 ^ Top
 
-### 7.2 With regards to managerial processes
+### 7.2 With regard to managerial processes
 
   * **No storage of credit card details:** We have made it a policy not to store any credit card details. We use an online payment gateway system and any of your financial information that you provide during a credit card transaction is only privy to them.
 
