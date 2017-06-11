@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the backup-utility.com privacy policy that was archived on 2016-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228183029id_/http%3A//www.backup-utility.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backup-utility.com privacy policy that was archived on 2017-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611105714id_/http%3A//www.backup-utility.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Privacy Policy</title>
@@ -12,12 +12,27 @@
         <link href="am.ico" type="image/x-icon" rel="bookmark">
         <!-- doc css begin -->
         <link type="text/css" rel="stylesheet" href="css/main_ver.1.0.css">
+		<link rel="stylesheet" href="statics/css/header-search1.css">
         <!-- doc css end -->
     </head>
-    <body><div class="new-sales-1"><a href="http://www.backup-utility.com/landing/2016-christmas-sale.html" class="new-sales-wrapper"></a></div>
+    <body>
         <!-- ======================== header ======================== -->
         <div id="header">
                 <div class="navbar aomeiclear">
+				<div id="chose-first">
+                        <div class="div-chose1" id="div-chose1">
+                            <div class="chose1">English</div>
+                            <img class="chose2" src="statics/images/header-chose.png" width="20%">
+                        </div>
+                        <div class="chose3">
+                            <div class="chose3-child">
+                                <div>Deutsch</div>
+                                <div>日本語</div>
+                                <div>Français</div>
+								<div>繁體中文</div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="logo">
                         <a href="index.html"><img src="images/public/header/aomei-backupper-logo.png" alt="AOMEI Backupper" title="The simplest free PC backup software">
                         <div class="logo-direct"></div></a>
@@ -56,10 +71,10 @@
                                             <span>Free Backup</span>
                                         </a>
                                         <div class="aomei-dropdown amw1">
-                                            <ul>
-                                                <li class="am-mt dropline">
+                                            <ul><li class="am-mt dropline">
                                                     <p><a href="free-backup-software.html">AOMEI Backupper Standard</a></p>
                                                 </li>
+												<li style="height: 50px;line-height: 0.8;"><p style="line-height: 0.8;height: 50px;"><a style="line-height: 0.8;height: 50px;padding-top: 8px;box-sizing: border-box;" href="http://www.backup-utility.com/free-backup-software-against-wannacry.html">AOMEI Backupper Free<br> for <span style="display: inline; position: relative;color:red;">WannaCry Ransomware</span></a></p></li>
                                                 <li>
                                                     <p><a href="okr-free.html">AOMEI OneKey Recovery Free</a></p>
                                                 </li>
@@ -415,6 +430,28 @@
        	
         <script type="text/javascript" src="js/aomei-bu.pub.js"></script>
         <script type="text/javascript" src="js/gg.js"></script>
+		<script type="text/javascript" src="statics/js/chose-langvage.js"></script>
+    <script>
+        $(".chose3-child div").click(function(){
+            var content = $(this).text().trim();
+            switch(content)
+            {
+                case "Deutsch":
+                    window.location.href="http://www.backup-utility.com/de/index.html";
+                    break;
+                case "日本語":
+                    window.location.href="http://www.backup-utility.com/jp/index.html";
+                    break;
+                case "Français":
+                    window.location.href="http://www.backup-utility.com/fr/index.html";
+                    break;
+					case "繁體中文":
+                        window.location.href="http://www.backup-utility.com/tw/index.html"
+                        break;
+
+            }
+        })
+    </script>
         <!-- -------------------------------- script end -------------------------------- -->
     
 </body></html>
