@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareyourwallpapers.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210151133id_/http%3A//shareyourwallpapers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareyourwallpapers.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611044542id_/http%3A//shareyourwallpapers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
