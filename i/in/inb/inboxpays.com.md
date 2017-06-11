@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122070228id_/http%3A//www.inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxpays.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611133441id_/http%3A//inboxpays.com/uc%3Fa%3Dst%26pt%3Dprivacy) for the most accurate reproduction.*
 
-# Paid Surveys Online To Earn Extra Cash With Inboxpays
+# InboxPays :: Privacy Policy
 
 What information do we collect?
 
@@ -11,23 +11,20 @@ When ordering or registering on our site, as appropriate, you may be asked to en
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-What do we use your information for? 
+What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
   * To personalize your experience (your information helps us to better respond to your individual needs)
   * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
   * To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
-  * To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from Inboxpays will come from Inboxpays, so you may easily distinguish our emails. We will never share your email with third party marketing companies. 
+  * To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. All emails you receive from Inboxpays will come from Inboxpays, so you may easily distinguish our emails. We will never share your email with third party marketing companies. Your email will only be shared with LLC, Restoration Media for job alerts, Inboxpays mailing partner.
+  * To administer a contest, promotion, cash survey or other site feature
 
 
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-  * To administer a contest, promotion, **cash survey** or other site feature
-
-
 
 How do we protect your information?
 
@@ -51,7 +48,7 @@ Third party links
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-California Online Privacy Protection Act Compliance 
+California Online Privacy Protection Act Compliance
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
@@ -71,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.inboxpays.com/uc?a=st&pt=terms.](http://www.inboxpays.com/uc?a=st&pt=terms)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.inboxpays.com/uc?a=st&pt=terms](http://www.inboxpays.com/uc?a=st&pt=terms)
 
 Your Consent
 
@@ -81,19 +78,19 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on **July 29 2013**
+This policy was last modified on July 29 2013
 
 Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[www.inboxpays.com](https://web.archive.org/)  
+[www.inboxpays.com](http://www.inboxpays.com/)  
 14781 Memorial Dr. STE 3397  
 Houston, TX 77079  
 United States  
 Use Ticketing System
 
-Privacy Policy Customer Pledge 
+Privacy Policy Customer Pledge
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
 
@@ -109,3 +106,5 @@ Respectfully,
 
 Inbox Pays  
 Inboxpays.com
+
+Free access to Paid Surveys with InboxPays
