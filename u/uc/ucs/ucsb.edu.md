@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucsb.edu privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125152229id_/http%3A//www.policy.ucsb.edu/privacy-notification) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucsb.edu privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611051428id_/http%3A//www.policy.ucsb.edu/privacy-notification) for the most accurate reproduction.*
 
 # Privacy Notification | UCSB Policies and Procedures
 
