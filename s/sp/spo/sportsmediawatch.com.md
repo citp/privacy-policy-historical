@@ -1,58 +1,43 @@
-> *The following text is extracted and transformed from the sportsmediawatch.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113212848id_/http%3A//www.sportsmediawatch.com/smw-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmediawatch.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611233259id_/http%3A//www.sportsmediawatch.com/smw-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Sports Media Watch
 
-Sports Media Watch knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
+Sports Media Watch knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
-This Privacy Policy covers SMW’s treatment of personal information that SMW gathers when you are on the SMW website and when you use SMW services. This policy does not apply to the practices of third parties that SMW does not own or control, or to individuals that SMW does not employ or manage.
+### Website Visitors
 
-Information Collected by SMW 
+Like most website operators, Sports Media Watch collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Sports Media Watch’s purpose in collecting non-personally identifying information is to better understand how Sports Media Watch’s visitors use its website. From time to time, Sports Media Watch may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our SMW users: 
+Sports Media Watch also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on WordPress.com blogs. Sports Media Watch only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog where the comment was left.
 
-1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.   
-2\. Automatic Information:   
-•  We receive and store certain types of information whenever you interact with us. SMW and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, SMW cookie information, and the page you requested. SMW uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
-• SMW may collect and, on any page, display the total counts that page has been viewed.   
-• Many companies offer programs that help you to visit websites anonymously. While SMW will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.    
-E-mail Communications 
+### Aggregated Statistics
 
-SMW is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. SMW may send out e-mails with SMW-related news, products, offers, surveys or promotions. 
+Sports Media Watch may collect statistics about the behavior of visitors to its websites. For instance, Sports Media Watch may monitor the most popular posts on the site or use spam screened by the Akismet service to help identify spam. Sports Media Watch may display this information publicly or provide it to others. However, Sports Media Watch does not disclose personally-identifying information other than as described below. 
 
-Cookies
+### Gathering of Personally-Identifying Information
 
-Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. SMW cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is. 
+Certain visitors to Sports Media Watch’s websites choose to interact with Sports Media Watch in ways that require Sports Media Watch to gather personally-identifying information. The amount and type of information that Sports Media Watch gathers depends on the nature of the interaction. Sports Media Watch collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Sports Media Watch. Sports Media Watch does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of SMW’s coolest features. 
+### Protection of Certain Personally-Identifying Information
 
-SMW’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
+Sports Media Watch discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Sports Media Watch’s behalf or to provide services available at Sports Media Watch’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Sports Media Watch’s websites, you consent to the transfer of such information to them. Sports Media Watch will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Sports Media Watch discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Sports Media Watch believes in good faith that disclosure is reasonably necessary to protect the property or rights of Sports Media Watch, third parties or the public at large.
 
-Sharing Your Information 
+### Cookies
 
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Sports Media Watch uses cookies to help Sports Media Watch identify and track visitors, their usage of Sports Media Watch website, and their website access preferences. Sports Media Watch visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Sports Media Watch’s websites, with the drawback that certain features of Sports Media Watch’s websites may not function properly without the aid of cookies.
 
-SMW Personnel: SMW personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of SMW business. 
+Some of Sports Media Watch’s business partners may use cookies on the site (for example, advertisers). However, SMW has no access to or control over these cookies.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if SMW, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
+### Ads
 
-Protection of SMW and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of SMW, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Sports Media Watch and does not cover the use of cookies by any advertisers.
 
-Syndication: SMW allows for the RSS syndication of all of its public content within the SMW website. 
+### Links
 
-With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+This website contains links to other sites. Please be aware that SMW is not responsible for the content or privacy practices of such other sites.
 
-Children Under 18 Years of Age 
+### Privacy Policy Changes
 
-You must be 13 years and older to register to use the SMW website. As a result, SMW does not specifically collect information about children. If we learn that SMW has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using SMW or sending information about themselves or anyone else over the Internet. 
+Although most changes are likely to be minor, Sports Media Watch may change its Privacy Policy from time to time, and in Sports Media Watch’s sole discretion. Sports Media Watch encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Changes to this Privacy Policy 
-
-SMW may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the SMW website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. 
-
-Conditions of Use 
-
-If you decide to visit SMW, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
-
-Effective Date of this Privacy Policy 
-
-This Privacy Policy is effective as of May 24, 2011 and last updated September 6, 2016. 
+_This  Privacy Policy is effective as of May 24, 2011 and last updated March 26, 2017._
