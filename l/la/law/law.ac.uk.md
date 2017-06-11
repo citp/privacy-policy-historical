@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the law.ac.uk privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221034411id_/http%3A//www.law.ac.uk/about/cookies-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the law.ac.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611204206id_/http%3A//www.law.ac.uk/about/cookies-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie & Privacy Policy | University of Law
 
