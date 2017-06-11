@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115150415id_/http%3A//www.austintheatre.org/wp-content/themes/ata_firefly/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austintheatre.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611053303id_/http%3A//www.austintheatre.org/wp-content/themes/ata_firefly/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Austin Theatre : Austin Theatre
+# Privacy Policy : Paramount Theatre Austin
 
 The Paramount & State Theatres – Austin, TX has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.austintheatre.org.In order to fully understand your rights we encourage you to read this Privacy  
 Policy as well as our Terms of Use. The Paramount & State Theatres – Austin, TX reserves the right at any  
