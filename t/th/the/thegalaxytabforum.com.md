@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegalaxytabforum.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121133532id_/http%3A//www.verticalscope.com/aboutus/forum-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegalaxytabforum.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611021224id_/http%3A//www.verticalscope.com/aboutus/forum-privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
@@ -39,7 +39,7 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 
 **Consent**
 
-  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](https://web.archive.org/cdn-cgi/l/email-protection#b3c3c1dac5d2d0caf3c5d6c1c7dad0d2dfc0d0dcc3d69dd0dcde).
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
 
 
 
@@ -65,7 +65,7 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 
 **Questions or Suggestions**
 
-If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](https://web.archive.org/cdn-cgi/l/email-protection#85f5f7ecf3e4e6fcc5f3e0f7f1ece6e4e9f6e6eaf5e0abe6eae8).
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
 
 **Opting Out of Third-Party Ad Servers**
 
