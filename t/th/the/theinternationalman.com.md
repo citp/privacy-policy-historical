@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinternationalman.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115154552id_/http%3A//www.theinternationalman.com/texts/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternationalman.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611104351id_/http%3A//www.theinternationalman.com/texts/privacy-statement.php) for the most accurate reproduction.*
 
-# Privacy Statement: TheInternationalMan.com
+# Comments & Suggestions to TheInternationalMan.com
 
 #### DATA PROTECTION
 
