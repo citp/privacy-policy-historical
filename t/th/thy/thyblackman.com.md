@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thyblackman.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210005304id_/http%3A//thyblackman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thyblackman.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611075834id_/http%3A//thyblackman.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ThyBlackMan.com
+# Privacy Policy : ThyBlackMan.com
 
 You are here: [Home](http://thyblackman.com/) / Privacy Policy
 
