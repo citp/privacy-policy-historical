@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228130235id_/http%3A//christianpf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611120734id_/https%3A//christianpf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### The bottom line…
 
-I hate spam as much as you do. If you subscribe to the [free newsletter](http://christianpf.com/subscribe/) or the [RSS Feed](http://christianpf.com/subscribe/) I will not spam you or sell your email address to anyone else. You can always unsubscribe by clicking the unsubscribe button at the bottom of the article.
+I hate spam as much as you do. If you subscribe to the [free newsletter](https://web.archive.org/subscribe/) or the [RSS Feed](https://web.archive.org/subscribe/) I will not spam you or sell your email address to anyone else. You can always unsubscribe by clicking the unsubscribe button at the bottom of the article.
 
 ### The full version…
 
@@ -24,7 +24,7 @@ Your privacy is very important to SeedTime. So, this is a bit more detail to hel
 
 ### Cookie/Tracking Technology
 
-SeedTime may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+SeedTime may use cookies and tracking technology which are useful for gathering information such as browser type and operating system, tracking the number of visitors to the site, and understanding how visitors use the Site. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Third parties such as our advertisers may also use cookies to collect information in the course of serving ads to you. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. Google, in particular, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
 **Information collected by third-parties.**
 
@@ -54,6 +54,6 @@ The web site contains links to other websites not owned by the owner of this web
 
 ### Privacy Contact Information
 
-### If you have any questions, concerns, or comments about our privacy policy or [terms and conditions](http://christianpf.com/terms-and-conditions/) you may [contact us](http://christianpf.com/christanpfcom-how-to-contact-me/).
+### If you have any questions, concerns, or comments about our privacy policy or [terms and conditions](https://web.archive.org/terms-and-conditions/) you may [contact us](https://web.archive.org/christanpfcom-how-to-contact-me/).
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
