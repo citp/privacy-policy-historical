@@ -1,82 +1,67 @@
-> *The following text is extracted and transformed from the sweetpeasandsaffron.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205143629id_/http%3A//sweetpeasandsaffron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetpeasandsaffron.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612004618id_/http%3A//sweetpeasandsaffron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sweet Peas and Saffron
 
-This privacy policy sets out how Sweet Peas & Saffron uses and protects any information that you give while using www.sweetpeasandsaffron.com
+Privacy Policy for sweetpeasandsaffron.com
 
-Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at denise@sweetpeasandsaffron.com .
 
-Sweet Peas & Saffron may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 26 2014.
+At sweetpeasandsaffron.com, the privacy of our visitors is of extreme importance to us. This privacy policy outlines the type of personal information that is received and collected by sweetpeasandsaffron.com and how it is used.
 
-**What we collect**
+**What information do we collect?**
 
-We may collect the following information:
+We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form.
 
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
+**Notice Regarding Online Behavioural Advertising**
 
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
 
-**What we do with the information we gather**
+**Google, as a third party vendor, uses cookies to serve ads on this site.** Google’s use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html).
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+**Google Analytics Demographics and Interest Reporting is in use on this website.** Collected data (such as age, gender and interests) is used to guide content in order to better serve visitors. It may also be cited in media kits and referenced in discussion with potential partnerships.
 
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emailsabout new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+**What do we use your information for?**
 
+Any of the information we collect from you may be used in one of the following ways:
 
-
-**Security**
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
-
-**How we use cookies**
-
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Advertising**
-
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, including [www.blogher.com](http://www.blogher.com/), [www.sovrn.com](http://www.sovrn.com/), www.googleadsense.com, [www.swoop.com](http://www.swoop.com/), [www.medianexus.com](http://www.medianexus.com/), [www.coxdigitalsolutions.com](http://www.coxdigitalsolutions.com/), [http://www.gourmetads.com](http://www.gourmetads.com/). These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
-
-**Links to other websites**
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-**Controlling your personal information**
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
+  * To personalize your experience: your information helps us to better respond to your individual needs.
+  * To improve our website: we continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To administer a contest, promotion, survey or other site feature.
+  * To send periodic emails.
+  * The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+**Do we use cookies?**
 
-**Opt Out**
+Yes. Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-For information about opting out of Gourmet Ads and ad serving partners please visit
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-<http://www.gourmetads.com/about/privacy-policy>
+**Do we disclose any information to outside parties?**
 
-[www.blogher.com](http://www.blogher.com/)
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-[www.sovrn.com](http://www.sovrn.com/)
+**Third party links**
 
-<http://www.google.com/privacy_ads.html>
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-[www.swoop.com](http://www.swoop.com/)
+**Your Consent**
 
-[www.medianexus.com](http://www.medianexus.com/)
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
 
-[www.coxdigitalsolutions.com](http://www.coxdigitalsolutions.com/)
+**Changes to our Privacy Policy**
 
-If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on 01/12/2017.
+
+**Contact Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+sweetpeasandsaffron.com
+
+denise@sweetpeasandsaffron.com
