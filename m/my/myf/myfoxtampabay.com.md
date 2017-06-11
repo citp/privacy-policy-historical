@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxtampabay.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120022416id_/http%3A//www.fox13news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxtampabay.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184831id_/http%3A//www.fox13news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FOX 13 Tampa Bay
 
