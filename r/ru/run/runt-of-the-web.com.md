@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runt-of-the-web.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028095128id_/http%3A//runt-of-the-web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runt-of-the-web.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611145645id_/http%3A//runt-of-the-web.com/privacy-policy) for the most accurate reproduction.*
 
 # Runt Of The Web's Privacy Policy
 
