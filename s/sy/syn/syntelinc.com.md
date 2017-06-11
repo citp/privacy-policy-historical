@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121191936id_/http%3A//www.syntelinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syntelinc.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611225920id_/http%3A//www.syntelinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Syntel - IT Consulting | IT Outsourcing Services | BPO/KPO | Enterprise Solutions
+# Privacy Policy | Syntel
 
-Privacy Policy _[Effective Date: 04/10/2015]_
+**Privacy Policy [Effective Date: 04/10/2015]**
 
-Syntel respects and is committed to protecting your privacy. This privacy policy applies to our publicly available website [ syntelinc.com](http://www.syntelinc.com/ "Syntel, Inc.") and the various publicly available subdomains thereof, owned and operated by Syntel, Inc. ("Syntel", "We", "Us"). This privacy policy describes how Syntel collects and uses the personal information you provide on our website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. You can view our website without divulging any personal information other than your Internet Protocol (IP) address, however certain content on our website requires registration and the transmittal of additional personal information.
+Syntel respects and is committed to protecting your privacy. This privacy policy applies to our publicly available website syntelinc.com and the various publicly available subdomains thereof, owned and operated by [Syntel, Inc.](http://www.syntelinc.com/) ("Syntel", "We", "Us"). This privacy policy describes how Syntel collects and uses the personal information you provide on our website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. You can view our website without divulging any personal information other than your Internet Protocol (IP) address, however certain content on our website requires registration and the transmittal of additional personal information.
 
-**U.S.—E.U. and U.S—Swiss Safe Harbor**
+U.S.—E.U. and U.S—Swiss Safe Harbor
 
-Syntel, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Syntel, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Syntel, Inc.’s certification, please visit [ http://www.export.gov/safeharbor](http://www.export.gov/safeharbor) .
+Syntel, Inc. complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Syntel, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Syntel, Inc.’s certification, please visit <http://www.export.gov/safeharbor>.
 
-**Information Collection and Use**
+Information Collection and Use
 
 For example, we may collect the following personal information from you:
 
@@ -47,11 +47,11 @@ We may use this information to:
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell, trade, or rent personal information to any outside person or organization.
 
-Service Providers
+**Service Providers**
 
 We may provide your personal information to companies that provide services to help us with our business activities such as offering customer service, hosting our website or processing emails. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-Legal Disclaimer
+**Legal Disclaimer**
 
 We may also disclose your personal information:
 
@@ -64,9 +64,9 @@ We may also disclose your personal information:
 
 **User Access and Choice**
 
-You may correct, update, amend, or request deletion of your information by emailing our Customer Support at [ privacy@syntelinc.com](mailto:privacy@syntelinc.com "Privacy Policy") or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days.
+You may correct, update, amend, or request deletion of your information by emailing our Customer Support at [privacy@syntelinc.com](mailto:privacy@syntelinc.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your access request within 30 days.
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [ privacy@syntelinc.com](mailto:privacy@syntelinc.com "Privacy Policy") .
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@syntelinc.com](mailto:privacy@syntelinc.com%20.).
 
 If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page.
 
@@ -84,7 +84,7 @@ A persistent cookie remains on your hard drive for an extended period of time. T
 
 **Web Beacons / Gifs**
 
-Third party tracking technologies on our website may employ a software technology called clear GIFs (a.k.a. web beacons) that help us better manage content on our website by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of website users. In contrast to cookies, which are stored on a user’s computer hard drive, clear GIFs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We are using analytics programs such as Google® Analytics and PardotTM. We do not tie the information gathered by clear GIFs to our visitors’ personally identifiable information, except for IP address. This information is used only for analytical purpose.
+Third party tracking technologies on our website may employ a software technology called clear GIFs (a.k.a. web beacons) that help us better manage content on our website by informing us what content is effective. Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of website users. In contrast to cookies, which are stored on a user’s computer hard drive, clear GIFs are embedded invisibly on web pages and are about the size of the period at the end of this sentence. We are using analytics programs such as Google® Analytics and Pardot™. We do not tie the information gathered by clear GIFs to our visitors’ personally identifiable information, except for IP address. This information is used only for analytical purpose.
 
 **Analytics / Log Files**
 
@@ -96,11 +96,11 @@ The use of tracking technologies by our service providers, technology partners o
 
 **Behavioral Targeting / Re-Targeting**
 
-We may partner with a third party ad network to display advertising on our website and to manage our advertising on other websites.  Our ad network partner uses cookies and web beacons to collect non-personally identifiable information (except potentially IP address) about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [ clicking here](http://www.networkadvertising.org/managing/opt_out.asp "Unsubscribe") . Please note, this does not opt you out of being served advertising. You will continue to receive generic ads.
+We may partner with a third party ad network to display advertising on our website and to manage our advertising on other websites.  Our ad network partner uses cookies and web beacons to collect non-personally identifiable information (except potentially IP address) about your activities on this and other websites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by [clicking here](http://optout.networkadvertising.org/#/) . Please note, this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 **Security**
 
-The security of your personal information is important to us. Syntel maintains the international Standard IS/ISO/IEC 27001 on "Information Technology – Security Techniques – Information Security Management System – Requirement" Organizations can choose to comply with this information security management system that contains managerial, technical, operational and physical security control measures that are commensurate with the information assets being protected and with the nature of our business. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
+The security of your personal information is important to us. Syntel maintains the international Standard IS/ISO/IEC 27001 on "Information Technology – Security Techniques – Information Security Management System – Requirement." Organizations can choose to comply with this information security management system that contains managerial, technical, operational and physical security control measures that are commensurate with the information assets being protected and with the nature of our business. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
 **Additional Information**
 
@@ -128,16 +128,16 @@ You can reach Syntel through postal mail, phone or fax
 
 Attn: Syntel Privacy Officer
 
-Syntel, Inc.   
-525 E. Big Beaver   
-Third Floor   
-Troy, MI 48083   
-United States   
-tel: +1-248-619-2800   
+Syntel, Inc.   
+525 E. Big Beaver   
+Third Floor   
+Troy, MI 48083   
+United States   
+tel: +1-248-619-2800   
 fax: +1-248-619-2888
 
-In case of any grievance, please email [ privacy@syntelinc.com](mailto:privacy@syntelinc.com) or contact Mr. Sandeep Godbole at [ Sandeep_Godbole@syntelinc.com](mailto:Sandeep_Godbole@syntelinc.com) . Grievances shall be redressed as expeditiously as possible.
+In case of any grievance, please email [privacy@syntelinc.com](mailto:privacy@syntelinc.com) or contact Mr. Sandeep Godbole at [Sandeep_Godbole@syntelinc.com](mailto:Sandeep_Godbole@syntelinc.com). Grievances shall be redressed as expeditiously as possible
 
-_If a privacy complaint or dispute cannot be resolved through Syntel’s internal process, Syntel has agreed to participate in the VeraSafe EU Safe Harbor Dispute Resolution Procedure for U.S.-EU and U.S.-Swiss Safe Harbor disputes. To file a complaint with the Procedure, please submit the required information to VeraSafe here:[ https://www.verasafe.com/dispute-submission](https://www.verasafe.com/dispute-submission "VeraSafe Dispute Submission") ._
+If a privacy complaint or dispute cannot be resolved through Syntel’s internal process, Syntel has agreed to participate in the VeraSafe EU Safe Harbor Dispute Resolution Procedure for U.S.-EU and U.S.-Swiss Safe Harbor disputes. To file a complaint with the Procedure, please submit the required information to VeraSafe here: <https://www.verasafe.com/dispute-submission>.
 
-_Syntel regularly reviews its compliance with this privacy policy. When we receive formal written complaints, it is Syntel’s policy to contact the complainant regarding his or her concerns. Syntel will cooperate with the appropriate regulatory authorities, including local data protection authorities, in their investigation of any complaints regarding the transfer of personal data that cannot be resolved between Syntel and an individual._
+Syntel regularly reviews its compliance with this privacy policy. When we receive formal written complaints, it is Syntel’s policy to contact the complainant regarding his or her concerns. Syntel will cooperate with the appropriate regulatory authorities, including local data protection authorities, in their investigation of any complaints regarding the transfer of personal data that cannot be resolved between Syntel and an individual.
