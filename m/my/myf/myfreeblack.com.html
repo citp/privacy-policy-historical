@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myfreeblack.com privacy policy that was archived on 2016-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221091905id_/http%3A//www.myfreeblack.com/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfreeblack.com privacy policy that was archived on 2017-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611231632id_/http%3A//www.myfreeblack.com/static/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -11,10 +11,8 @@
 <meta name="robots" content="index, follow">
 <link rel="dns-prefetch" href="http://cdn.myfreeblack.com/">
 <link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com/">
-<link rel="dns-prefetch" href="http://cdn1ht.traffichaus.com/">
 <link rel="dns-prefetch" href="http://www.myfreeblacklive.com/">
 <link rel="dns-prefetch" href="https://ads.exoclick.com/">
-<link rel="dns-prefetch" href="http://as.sexad.net/">
 <link rel="dns-prefetch" href="http://www.google-analytics.com">
 <link rel="canonical" href="http://www.myfreeblack.com/static/privacy/"><link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.myfreeblack.com/static/privacy/"><link href="http://cdn.myfreeblack.com/misc/bootstrap/css/5bootstrap.min.css" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
@@ -29,9 +27,213 @@
 <script type="text/javascript">var base_url = 'http://www.myfreeblack.com'; var cur_url = 'http://www.myfreeblack.com/static/privacy/'; var rel_url = ''; var tmb_url = 'http://cdn.myfreeblack.com/media/videos/tmb'; var age_check = 0;</script>
 <script src="http://cdn.myfreeblack.com/templates/defboot/js/scripts.js"></script>
 
-<script type="text/javascript" src="https://ads.exoclick.com/ad_track.js"></script>
-<script type="text/javascript" src="/frontend_loader.js"></script>
-<script>var th_zone = 18972, th_hours = 24;</script><script src="//cdn1ht.traffichaus.com/scripts/pop.js"></script>
+
+<!--Start Popunder-->
+<script>
+var puShown = false;
+var PopWidth = 1370;
+var PopHeight = 800;
+var PopFocus = 0;
+var _Top = null;
+
+
+function GetWindowHeight() {
+var myHeight = 0;
+if( typeof( _Top.window.innerHeight ) == 'number' ) {
+myHeight = _Top.window.innerHeight;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientHeight ) {
+myHeight = _Top.document.documentElement.clientHeight;
+} else if( _Top.document.body && _Top.document.body.clientHeight ) {
+myHeight = _Top.document.body.clientHeight;
+}
+return myHeight;
+}
+
+
+function GetWindowWidth() {
+var myWidth = 0;
+if( typeof( _Top.window.innerWidth ) == 'number' ) {
+myWidth = _Top.window.innerWidth;
+} else if( _Top.document.documentElement && _Top.document.documentElement.clientWidth ) {
+myWidth = _Top.document.documentElement.clientWidth;
+} else if( _Top.document.body && _Top.document.body.clientWidth ) {
+myWidth = _Top.document.body.clientWidth;
+}
+return myWidth;
+}
+
+
+function GetWindowTop() {
+return (_Top.window.screenTop != undefined) ? _Top.window.screenTop : _Top.window.screenY;
+}
+
+
+function GetWindowLeft() {
+return (_Top.window.screenLeft != undefined) ? _Top.window.screenLeft : _Top.window.screenX;
+}
+
+
+function doOpen(url)
+{
+var popURL = "about:blank"
+var popID = "ad_" + Math.floor(89999999*Math.random()+10000000);
+var pxLeft = 0;
+var pxTop = 0;
+pxLeft = (GetWindowLeft() + (GetWindowWidth() / 2) - (PopWidth / 2));
+pxTop = (GetWindowTop() + (GetWindowHeight() / 2) - (PopHeight / 2));
+
+
+if ( puShown == true )
+{
+return true;
+}
+
+
+var PopWin=_Top.window.open(popURL,popID,'toolbar=0,scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,top=' + pxTop + ',left=' + pxLeft + ',width=' + PopWidth + ',height=' + PopHeight);
+
+
+if (PopWin)
+{
+puShown = true;
+
+
+if (PopFocus == 0)
+{
+PopWin.blur();
+
+
+if (navigator.userAgent.toLowerCase().indexOf("applewebkit") > -1)
+{
+_Top.window.blur();
+_Top.window.focus();
+}
+}
+
+
+PopWin.Init = function(e) {
+
+
+with (e) {
+
+
+Params = e.Params;
+Main = function(){
+
+
+if (typeof window.mozPaintCount != "undefined") {
+var x = window.open("about:blank");
+x.close();
+
+
+}
+
+
+var popURL = Params.PopURL;
+
+
+try { opener.window.focus(); }
+catch (err) { }
+
+
+window.location = popURL;
+}
+
+
+Main();
+}
+};
+
+
+PopWin.Params = {
+PopURL: url
+}
+
+
+PopWin.Init(PopWin);
+}
+
+
+return PopWin;
+}
+
+
+function setCookie(name, value, time)
+{
+var expires = new Date();
+
+
+expires.setTime( expires.getTime() + time );
+
+
+document.cookie = name + '=' + value + '; path=/;' + '; expires=' + expires.toGMTString() ;
+}
+
+
+function getCookie(name) {
+var cookies = document.cookie.toString().split('; ');
+var cookie, c_name, c_value;
+
+
+for (var n=0; n<cookies.length; n++) {
+cookie  = cookies[n].split('=');
+c_name  = cookie[0];
+c_value = cookie[1];
+
+
+if ( c_name == name ) {
+return c_value;
+}
+}
+
+
+return null;
+}
+
+
+function initPu()
+{
+
+
+_Top = self;
+
+
+if (top != self)
+{
+try
+{
+if (top.document.location.toString())
+_Top = top;
+}
+catch(err) { }
+}
+
+
+if ( document.attachEvent )
+{
+document.attachEvent( 'onclick', checkTarget );
+}
+else if ( document.addEventListener )
+{
+document.addEventListener( 'click', checkTarget, false );
+}
+}
+
+
+function checkTarget(e)
+{
+if ( !getCookie('popundr') ) {
+var e = e || window.event;
+var win = doOpen('http://t8.bangbrosnetwork.com/v4b?aid=x7jeanne&prg=pps&cmp=mfb_webpop_dir_bbnv4bc11v1&ad1=feed11_mp4:2&ad2=c11:3&ad3=ir3:8&ad5=feed6_mp4:4&?ad6=11:7&ad7=7:11&ad8=1:1&?ad9=feed10_mp4:22&?ad1=c10:25');
+
+
+setCookie('popundr', 1, 24*60*60*1000);
+}
+}
+
+
+initPu();
+</script>
+<!--End Popunder-->
 <script src="http://cdn.myfreeblack.com/templates/defboot/js/ads.js"></script>
 <meta name="Language" content="English">
 <meta name="Publisher" content="my free black?>
@@ -101,17 +303,17 @@
   					<div class="collapse navbar-collapse" id="menu-main-collapse">
     					<ul id="menu-main-content" class="nav navbar-nav">
 							<li class="active"><a href="/" title="HOME">HOME</a></li>
-<li><a href="/recent" title="newest videos">NEW VIDEOS</a></li>
+<li><a href="/recent" title="newest videos">VIDEOS</a></li>
 <li><a href="/popular/" title="Popular Porn Videos">POPULAR</a></li>
 <li><a href="/photo/" title="Browse Free Porn Photo Albums!">Pics</a></li>
 <li><a href="/categories/" title="Browse Free Porn Video Categories">Categories</a></li>
-<li><a href="http://www.myfreeblacklive.com/landing/ebony/1/?AFNO=1-899" title="LIVE SEX" target="_blank" rel=" nofollow">LIVE SEX</a></li>
-<li><a href="http://www.myfreeblack.com/blogs/" title="Blogs">Blogs</a></li>
+<li><a href="http://n388hkxg.com/d/a/4156.php" title="LIVE SEX" target="_blank" rel=" nofollow">LIVE SEX</a></li>
 <li><a href="http://www.myfreeblack.com/channels/" title="CHANNEL">CHANNELS</a></li>
+<li><a href="http://n388hkxg.com/d/a/4253.php" title="MEET&amp;FUCK" target="_blank" rel=" nofollow">MEET&amp;FUCK</a></li>
 						</ul>
     					<ul class="nav navbar-nav navbar-right">
 							<li style="margin-top:15px;margin-right: 0px;">Our Network:</li>
-							<li style="margin-right: 10px;"><button type="button" class="btn btn-primary navbar-btn" onclick="window.location = 'http://www.worldstarporn.net/';" rel="nofollow"><i class="fa fa-globe"></i> WorldStarPorn</button></li>
+							<li style="margin-right: 10px;"><button type="button" class="btn btn-primary navbar-btn" onclick="window.location = 'http://www.worldstarporn.net/?utm_source=wsp&amp;utm_medium=tab&amp;utm_campaign=myfreeblack-desktop/';" rel="nofollow"><i class="fa fa-globe"></i> WorldStarPorn</button></li>
                                                  
 		                                    
 							
@@ -129,15 +331,16 @@
 	</div>
 </header>
 <div class="container">
-		
+	<div class="ads"><p>our new top uploader feature and how it works <a href="http://www.myfreeblack.com/blog/72/myfreeblack-new-top-uploaders-new-feature/">@blog</a></p></div>	
 	<ul class="menu">
   <li><a href="http://www.myfreeblack.com/amateur/" class="active"><span>Amateur Black Porn Videos</span></a></li>
-<li><a href="http://www.myfreeblack.com/premium/"><span>Free Premium Videos</span></a></li>
-  <li><a href="http://www.myfreeblack.com/community/?gender=all&amp;relation=all&amp;interested=all&amp;start=18&amp;end=99&amp;username=&amp;country=&amp;city=&amp;avatar=yes/"><span>Profiles</span></a></li>
+<li><a href="http://www.myfreeblack.com/premium/"><span>Free Premium</span></a></li>
+  <li><a href="http://www.myfreeblack.com/community/?gender=all&amp;relation=all&amp;interested=all&amp;start=18&amp;end=99&amp;username=&amp;country=&amp;city=&amp;avatar=yes"><span>Profiles</span></a></li>
   <li><a href="http://www.myfreeblack.com/playlists/"><span>Playlist</span></a></li>
-  <li><a href="http://www.myfreeblack.com/watched/"><span>Trending Videos</span></a></li>
-  <li><a href="http://www.myfreeblack.com/featured/"><span>Featured Videos</span></a></li>
-  <p><a href="https://theporndude.com/" rel=" nofollow" target="_blank"><strong>ThePornDude - PornSite</strong></a></p>
+<li><a href="http://www.myfreeblack.com/blogs/"><span>Blogs</span></a></li>
+  <li><a href="http://www.myfreeblack.com/watched/"><span>Trending</span></a></li>
+  <li><a href="http://www.myfreeblack.com/featured/"><span>Featured</span></a></li>
+  <p><a href="http://www.myfreeblack.com/link/out/?id=45&amp;url=https://theporndude.com/" target="_blank"><strong>ThePornDude - PornSite</strong></a></p>
 
 </ul>
 	<div id="content" class="row">
@@ -211,7 +414,7 @@ var ad_idzone = "1877622",
 <li><a href="http://www.myfreeblack.com/static/webmaster/" rel="nofollow" title="webmaster">Webmaster</a></li>
 <li><a href="http://www.myfreeblack.com/feedback/" rel="nofollow" title="feedback">FeedBack</a></li>
 <li><a href="http://www.myfreeblack.com/export_tgp.php" rel="nofollow" title="Videos ExportDump">Videos ExportDump</a></li>
-</ul>		<span>© 2016 MyFreeBlackcom</span>
+</ul>		<span>© 2017 MyFreeBlackcom</span>
 	</div>
 </footer>
 <script>
@@ -221,12 +424,7 @@ var ad_idzone = "1877622",
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
   ga('create', 'UA-6867657-10', 'auto');
   ga('send', 'pageview');
-</script><script id="th_advertisement" src="//cdn1ht.traffichaus.com/ads/thab.js"></script>
-<script src="/_ra_lib.js"></script>
-<script id="th_advertisement" src="http://cdn1.traffichaus.com/ads/advertisement.js"></script>
-<script src="/_p4.php"></script>
-<!--adsblock--><!--<script>if( window.canRunAds === undefined ){alert('Adblock Sucks! You might have difficulties watching videos please disable on myfreeblack.com! to remove this message.');}</script>-->
-<script type="text/javascript">ExoLoader.serve({"script_url":"/backend_loader.php"});</script>
+</script><!--adsblock--><!--<script>if( window.canRunAds === undefined ){alert('Adblock Sucks! You might have difficulties watching videos please disable on myfreeblack.com! to remove this message.');}</script>-->
 
 
 </body></html>
