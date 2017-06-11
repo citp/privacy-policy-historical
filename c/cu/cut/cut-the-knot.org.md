@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130070002id_/http%3A//cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611042907id_/http%3A//cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ Thank you for using our site.
 
 [|Front page|](http://www.cut-the-knot.org/front.shtml) [|Contents|](http://www.cut-the-knot.org/content.shtml) [|Store|](http://astore.amazon.com/ctksoftwareinc)
 
-Copyright © 1996-2016 [Alexander Bogomolny](http://www.cut-the-knot.org/index.shtml)
+Copyright © 1996-2017 [Alexander Bogomolny](http://www.cut-the-knot.org/index.shtml)
