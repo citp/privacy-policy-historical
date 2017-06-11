@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120140657id_/http%3A//www.vince.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611130957id_/http%3A//www.vince.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Vince
 
 Vince, LLC ("Vince," "we," "us" and "our") values your trust and respects your privacy. This Privacy Policy applies to the ways we collect, use and share the information you provide to us. It notifies you of the measures we take to protect the security of personal information, as well as:
 
