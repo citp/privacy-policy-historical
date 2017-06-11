@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130213108id_/http%3A//www.curriki.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriki.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611162353id_/http%3A//www.curriki.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Curriki
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 Effective: April 5, 2016
 
-[Download a PDF of the Curriki Privacy Policy](http://cdn.curriki.org/uploads/2016/04/07142837/Curriki-Privacy-Policy.pdf)
+[Download a PDF of the Curriki Privacy Policy](http://mathexchange.current.dev.curriki.org/wp-content/uploads/2016/04/Curriki-Privacy-Policy.pdf)
 
 This policy explains what information we collect from and about you, how we use and share that information, and what choices you have with that information. This policy applies to all information that we have about you, and to all of the services provided by us, including our website at [www.curriki.org](http://www.curriki.org/) (collectively, our “ ** _Services_** ”). Please take the time to familiarize yourself with our policies, and if you have any questions please contact us at [privacy@curriki.org](mailto:privacy@curriki.org). This policy is incorporated into and is subject to our [Terms of Use](http://www.curriki.org/terms-of-service/).
 
@@ -120,4 +120,4 @@ We may change this privacy policy from time to time. If we make any changes, we 
 
 We welcome your questions and comments about privacy. Please contact us at [privacy@curriki.org](mailto:privacy@curriki.org) _._
 
-Previous Privacy Policy may be viewed [here](http://cdn.curriki.org/uploads/2016/04/07164439/CurrikiPrivacyPolicyv2.1.pdf).
+Previous Privacy Policy may be viewed [here](http://mathexchange.current.dev.curriki.org/wp-content/uploads/2016/04/CurrikiPrivacyPolicyv2.1.pdf).
