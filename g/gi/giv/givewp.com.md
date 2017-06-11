@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givewp.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116002930id_/https%3A//givewp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givewp.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611212402id_/https%3A//givewp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Give
 
@@ -62,3 +62,5 @@ WordImpress, LLC 443 D Street, Suite #201 San Diego, CA 92101
 info@givewp.com
 
 This document was last updated on March 26, 2015
+
+Made with __in San Diego, CA.
