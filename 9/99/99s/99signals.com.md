@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 99signals.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206042505id_/http%3A//www.99signals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99signals.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611064632id_/http%3A//www.99signals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 99signals
 
