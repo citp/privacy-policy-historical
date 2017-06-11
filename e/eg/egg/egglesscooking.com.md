@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egglesscooking.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128035948id_/http%3A//www.egglesscooking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egglesscooking.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611211318id_/http%3A//www.egglesscooking.com/privacy-policy) for the most accurate reproduction.*
 
 # Madhuram's Eggless Cooking Privacy Policy
 
