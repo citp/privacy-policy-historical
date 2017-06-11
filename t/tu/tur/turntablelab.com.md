@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turntablelab.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817145651id_/http%3A//turntablelab.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turntablelab.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611172654id_/http%3A//turntablelab.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — TurntableLab.com
+# Privacy Policy – TurntableLab.com
 
 _TURNTABLE LAB respects each individual’s right to personal privacy. Therefore, we will only collect and use information through our web site www.turntablelab.com in the ways described in this policy._
 
