@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041231id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectamerica.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184305id_/http%3A//www.protectamerica.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Protect America
 
-[](https://privacy.truste.com/privacy-seal/Protect-America,-Inc-/validation?rid=a32fda55-5b8a-4a07-b143-f23589641269 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=a32fda55-5b8a-4a07-b143-f23589641269)
 
 **Effective:** May 17, 2005
 
@@ -12,15 +12,13 @@
 
 ### Information Collected
 
-As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
+Passive Collection
 
-Technologies such as: cookies, beacons, tags and scripts are used by PAI and our marketing partners, affiliates, or analytics or interactive monitoring service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.
 
-We use cookies to remember users’ settings and authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Tracking Technologies
 
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information.
-
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+PAI and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
 
 In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address.
 
@@ -46,17 +44,15 @@ I am genuinely interested in a GE Security System to protect my home and family.
 
 By submitting a request form on any of the Protect America, Inc web properties or online offers, I authorize Protect America, Inc. or their affiliates to contact me by telephone and/or email in respect to this offer and any new offers made available in the future.
 
-Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
-
 When other information is collected from you, such as your name and e-mail address, we let you know at the time of collection how we will use the personal information. We use the personal information you provide only to respond to your inquiry or to process your request (such as to receive information about our products and services). This information may be shared with other PAI businesses, but only if necessary to fulfill your request or for related purposes.
 
-We may share the personal information you provide with other companies or affiliates. These companies are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. PAI utilizes the services and securely shares the appropriate information with the major credit bureaus, credit card processors and shipping companies. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not share, sell, or lease personal information about you to any outside third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process, or in other legally limited circumstances (for example, to protect your account from fraud). If PAI is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+We may share the personal information you provide with other companies or affiliates. These companies are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. PAI utilizes the services and securely shares the appropriate information with the major credit bureaus, credit card processors and shipping companies. We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not share, sell, or lease personal information about you to any outside third-parties for their marketing use. In certain situations, PAI may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We will release information about you if you direct us to do so, if we are required by law to do so and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process, or in other legally limited circumstances (for example, to protect your account from fraud). If PAI is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 If you register with one of PAI's affiliates online, they may use this information to provide you with custom information about PAI's offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with their web site for further information about their privacy practices.
 
 ### Access to Personally Identifiable Information and Choice/Opt-out
 
-If you purchase a product/service or request more information on our products/services but do not wish to receive any additional marketing materials from PAI you may "opt-out" on our [unsubscribe page](http://www.protectamerica.com/unsubscribe.htm "Unsubscribe from E-mails from Protect America"). If your personally identifiable information changes you make the change by emailing our Customer Support at [support@protectamerica.com](mailto:support@protectamerica.com "Protect America | Email: Support"), by contacting us by telephone: 1.800.951.5111 or postal mail at the contact information listed below. If requested to remove data we will respond within a reasonable timeframe.
+If you purchase a product/service or request more information on our products/services but do not wish to receive any additional marketing materials from PAI you may "opt-out" on our [unsubscribe page](https://web.archive.org/unsubscribe "Unsubscribe from E-mails from Protect America"). Upon request PAI will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes you make the change by emailing our Customer Support at support@protectamerica.com, by contacting us by telephone: 1.800.951.5111 or postal mail at the contact information listed below. If your personally identifiable information changes you make the change by emailing our Customer Support at [support@protectamerica.com](mailto:support@protectamerica.com "Protect America | Email: Support"), by contacting us by telephone: 1.800.951.5111 or postal mail at the contact information listed below. If requested to remove data we will respond within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@protectamerica.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -74,9 +70,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### TRUSTe Program
 
-PAI has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, http://www.protectamerica.com.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request.>
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
 ### Contacting Us
 
