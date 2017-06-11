@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiosindia.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042659id_/http%3A//radiosindia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiosindia.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611053251id_/http%3A//radiosindia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # About us
 
@@ -11,7 +11,7 @@ If you require any more information or have any questions about our privacy poli
 At Radiosindia.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by Radiosindia.com and how we use it.
 
 Log Files  
-Like many other Web sites, Radiosindia.com makes use of log files. These files merely logs visitors to the site â€“ usually a standard procedure for hosting companies and a part of hosting servicesâ€™s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, Radiosindia.com makes use of log files. These files merely logs visitors to the site â€“ usually a standard procedure for hosting companies and a part of hosting servicesâ€™s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track userâ€™s movement around the site, and gather Demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons
 
