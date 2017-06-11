@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myrepublica.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119033747id_/http%3A//www.myrepublica.com/content/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myrepublica.com privacy policy that was archived on 2017-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611103843id_/http%3A//www.myrepublica.com/content/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-ng-app="MyRepublica"><head>
     <meta charset="utf-8">
@@ -13,15 +13,22 @@
     <meta property="fb:app_id" content="1073433196111007">
                 <title>My Republica</title>
     <!-- core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link href="/bundles/nagarikadmin/css/bootstrap.min.css" rel="stylesheet">
     <link href="/bundles/nagarikfrontend/css/font-awesome.css" rel="stylesheet">
     <link href="/bundles/nagarikfrontend/css/font-awesome.min.css" rel="stylesheet">
-    <link href="/bundles/nagarikfrontend/css/main-myrepublica.css?v=040d206dc1" rel="stylesheet">
-    <link href="/bundles/nagarikfrontend/css/responsive-myrepublica.css?v=040d206dc1" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/republicaShare.css" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/main-myrepublica.css?v=86df033442" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/responsive-myrepublica.css?v=86df033442" rel="stylesheet">
     <link href="/bundles/nagarikfrontend/css/camera.css" rel="stylesheet">
-    <link href="/bundles/nagarikfrontend/css/custom-myrepublica.css?v=040d206dc1" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/custom-myrepublica.css?v=86df033442" rel="stylesheet">
     <link href="/bundles/nagarikfrontend/css/sharrre/selection-sharer.css" rel="stylesheet">
-    <link href="/bundles/nagarikfrontend/css/custom-share/bidhee-share.css?v=040d206dc1" rel="stylesheet">
+    <link href="/bundles/nagarikfrontend/css/custom-share/bidhee-share.css?v=86df033442" rel="stylesheet">
+
+    <link href="/bundles/nagarikfrontend/css/navbarRepublica.css" rel="stylesheet">
+ 
+    <link href="/bundles/nagarikfrontend/css/marquee.css" rel="stylesheet">
+          
     <!--[if lt IE 9]>
     <script src="/bundles/nagarikfrontend/js/html5shiv.js"></script>
     <script src="/bundles/nagarikfrontend/js/respond.min.js"></script>
@@ -32,7 +39,17 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/bundles/nagarikfrontend/images/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="/bundles/nagarikfrontend/images/ico/apple-touch-icon-57-precomposed.png">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,300,400,700)" rel="stylesheet" type="text/css">
-     </head>
+
+
+     
+   
+    
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/bundles/nagarikadmin/js/bootstrap.min.js"></script>
+<script src="/bundles/nagarikfrontend/js/jquery.marquee.js"></script>
+<script src="/bundles/nagarikfrontend/js/jquery.pause.js"></script>
+
+</head>
 <!--/head-->
 
 <body id="home" class="homepage">
@@ -67,13 +84,13 @@
                                 <li><a href="http://nagariknews.com/" target="_blank">NAGARIK</a></li>
                                 <li class="active"><a href="/">REPUBLICA</a></li>
                                 <li><a href="http://shukrabar.com/" target="_blank">SHUKRABAR</a></li>
+                                <li><a href="http://nagarikpariwar.nagariknews.com/" target="_blank">PARIWAR</a></li>
+                                <li><a href="http://radio.nagariknews.com/" target="_blank">RADIO &nbsp;<span style="font-size: 6px;" class="label label-danger">On Air</span></a></li>
+                                
                             </ul>
                             <ul class="nav navbar-nav top-right">
-                                <li><a href="http://e.myrepublica.com/" target="_blank">E-Paper</a></li>
-                                <li><a href="/content/load-shedding"><i class="fa fa-lightbulb-o" style="font-size: 16px;"></i> Load
-                                        Shedding</a>
-                                </li>
-                            </ul>
+                                <li><a href="http://e.myrepublica.com/index.php" target="_blank">E-Paper</a></li>
+                                                                                                                                                                                                                                </ul>
                         </div>
 
                     </nav>
@@ -87,9 +104,23 @@
                             <ul class="list-inline">
                                 <li><a data-ng-if="!isLoggedIn" href="" class="sign" data-toggle="modal" data-target="#login-modal">
                                         <i class="fa fa-sign-in"></i> Login </a>
-                                    <a data-ng-if="isLoggedIn" href="" class="sign" data-ng-click="logout()">
-                                        <i class="fa fa-sign-in"></i> Logout </a>
-                                </li>
+                                    
+                                    <div class="dropdown">
+                                       <a data-ng-if="isLoggedIn" href="#" data-toggle="dropdown" class="dropdown-toggle">
+                                          <i class="fa fa-cogs" aria-hidden="true"></i>
+                                          <b class="caret"></b>
+                                      </a>
+                                          <ul class="dropdown-menu">
+                                                <li><a data-ng-if="isLoggedIn" data-toggle="modal" data-target="#login-modal" href="" data-ng-click="showCategory()">
+                                                    <i class="fa fa-cog" aria-hidden="true"></i>&nbsp; Change Category </a></li>
+                                                <li><a data-ng-if="isLoggedIn" href="" class="sign" data-ng-click="logout()">
+                                        <i class="fa fa-sign-in"></i> Logout </a></li>
+                                         </ul>
+                                     </div>
+
+
+ 
+                                                                    </li>
                                 <li>
                                     <a href="/content/online-subscription">
                                         <i class="fa fa-check-square-o">Subscribe</i>
@@ -97,6 +128,7 @@
                                 </li>
                             </ul>
                         </div>
+
 
                         <div class="search pull-right">
                             <form action="/search" method="get">
@@ -233,7 +265,7 @@
                                     <div class="col-sm-6" data-ng-repeat="category in categories">
                                         <div class="checkbox">
                                             <label>
-                                                <input class="preferred-categories" data-ng-checked="{{ category.isPreferred }}" type="checkbox" data-ng-model="category.selected" value="{{ category.id }}">{{category.name}}
+                                                <input class="preferred-categories" data-ng-checked="{{ category.isPreferred }}" type="checkbox" data-ng-model="category.selected" value="{{ category.id }}">{{category.name| uppercase}}
                                             </label>
                                         </div>
                                     </div>
@@ -261,14 +293,23 @@
     <div class="container">
         <h1 class="logo">
             <a href="http://www.myrepublica.com/" target="_self">
-                <img src="/bundles/nagarikfrontend/images/myrepublica-logo.png" alt="My Republica">
+                 <img src="/bundles/nagarikfrontend/images/myrepublica-logo.png" alt="My Republica">
+                               </a>
+            <a class="election" style="display:inline-block;position: relative;top:-10px;font-size: 40px;color:#1388C9;" href="http://election.nagariknews.com" target="_blank">&nbsp;|&nbsp;Election
+                <span class="label label-danger" style="font-size: 12px;">Watch</span>
             </a>
         </h1>
 
-        <p style="color:#808285;" class="date text-center">Saturday, 19 November 2016 09:22 AM</p>
+        <p style="color:#808285;" class="date text-center">Sunday, 11 June 2017 04:23 PM</p>
     </div>
     <!--container end -->
 </div>
+
+<style>
+    .nav.navbar-nav, li {
+        margin-left: -3px !important;
+    }
+</style>
     <!--  <div class="container">-->
 <nav class="navbar  navbar-static-top main-menu">
     <div class="container">
@@ -292,46 +333,66 @@
                                                                                     <li class="">
                         <a href="http://www.myrepublica.com/" target="_self">HOME</a>
                     </li>
-                                                                <li class="">
+                                                                <li class=" ">
                             <a href="/category/23">
-                                POLITICS
-                            </a>
-                        </li>
-                                            <li class="">
+                            <span style="color: #fff;">POLITICS</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
                             <a href="/category/22">
-                                ECONOMY
-                            </a>
-                        </li>
-                                            <li class="">
+                            <span style="color: #fff;">ECONOMY</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
                             <a href="/category/24">
-                                SOCIETY
-                            </a>
-                        </li>
-                                            <li class="">
+                            <span style="color: #fff;">SOCIETY</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
                             <a href="/category/26">
-                                SPORTS
-                            </a>
-                        </li>
-                                            <li class="">
+                            <span style="color: #fff;">SPORTS</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
                             <a href="/category/27">
-                                WORLD
-                            </a>
-                        </li>
-                                            <li class="">
+                            <span style="color: #fff;">WORLD</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
                             <a href="/category/81">
-                                OPINION
-                            </a>
-                        </li>
-                                            <li class="">
+                            <span style="color: #fff;">OPINION</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
                             <a href="/category/35">
-                                Lifestyle
-                            </a>
-                        </li>
-                                            <li class="">
+                            <span style="color: #fff;">Lifestyle</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
                             <a href="/category/117">
-                                The Week
-                            </a>
-                        </li>
+                            <span style="color: #fff;">The Week</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
+                            <a href="/category/136">
+                            <span style="color: #fff;">ELECTION</span>
+                        </a>
+                    </li>    
+
+                                            <li class=" ">
+                            <a href="/category/137">
+                            <span style="color: #fff;">My City</span>
+                        </a>
+                    </li>    
+
                                     </ul>
             </div>
 
@@ -359,7 +420,7 @@
         </div>
     </section><!--/#main-hightlight-news-->
 
-<!---Footer----->
+<!---Footer -->
 <footer id="footer">
     <div class="container">
 
@@ -389,7 +450,7 @@
                     </li>
                             </ul>
         </div>
-        <!-- col-sm-4 -->
+        <!--- col-sm-4 -->
 
         <div class="col-sm-6 other-product">
             <p class="product-one desktop-only">
@@ -406,7 +467,7 @@
                     <img src="/bundles/nagarikfrontend/images/footer-paschameli.png" alt="Pashchimeli">
                 </a>
             </p>
-            <!---social con --->
+            <!---social con -->
             <div class="social-icon">
                 <a href="http://facebook.com/myrepublica" target="_blank" class="icon-link round facebook"><i class="fa fa-facebook"></i></a>
                 <a class="icon-link round twitter" href="https://twitter.com/RepublicaNepal" target="_blank"><i class="fa fa-twitter"></i></a>
@@ -459,7 +520,7 @@
             </div>
 
             <div class="pull-right">
-            <span class="copy">Copyright 2016 Nepal Republic Media Pvt. Ltd.
+            <span class="copy">Copyright 2017 Nepal Republic Media Pvt. Ltd.
     | All rights reserved.</span>
             </div>
         </div>
@@ -468,10 +529,10 @@
 </div>
 
 
-<script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="/bundles/nagarikadmin/js/bootstrap.min.js"></script>
+
 <script type="text/javascript" src="/bundles/nagarikfrontend/js/sharrre/selection-sharer.js"></script>
 <script type="text/javascript" src="/bundles/nagarikfrontend/js/bidhee-share.js"></script>
+<script type="text/javascript" src="/bundles/nagarikfrontend/js/republicaShare.js"></script>
 <script src="/bundles/nagarikfrontend/js/bootbox.min.js"></script>
 <script type="text/javascript" src="/bundles/nagarikfrontend/scripts/jquery.min.js"></script>
 <script type="text/javascript" src="/bundles/nagarikfrontend/scripts/jquery.mobile.customized.min.js"></script>
@@ -488,7 +549,30 @@
 <script type="text/javascript" src="/bundles/nagarikfrontend/js/time/custom.js"></script>
 <script src="/bundles/fosjsrouting/js/router.js"></script>
 <script src="/js/routing?callback=fos.Router.setData"></script>
- 
+ <script>
+
+$(function() {
+    var x1 = $('#breakingNews').width();
+    var x2 = $('.marquee-sibling').width();
+    $('.marquee').width(x1-x2);
+   
+    var $txtOver = $('.marquee').marquee({
+    duration: 10000,
+    startVisible: true,
+    duplicated: true,
+    hover: true
+    });
+
+    $('ul.marquee-content-items li a').mouseenter(function(){
+            $txtOver.marquee('pause');
+    });
+    $('ul.marquee-content-items li a').mouseleave(function(){
+            $txtOver.marquee('resume');
+    });
+
+
+});
+</script>
 <script>
     (function ($) {
         $(window).load(function () {
