@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211093603id_/http%3A//www.geckotribe.com/info/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611210120id_/http%3A//www.geckotribe.com/info/policy.php) for the most accurate reproduction.*
 
 # Gecko Tribe, LLC Privacy & Content Policies
 
@@ -48,7 +48,7 @@ The third party analytics companies who collect information on our Sites and/or 
 
 In addition to our use of technologies as described herein, we may permit certain third party companies to help us tailor advertising that we think may be of interest to you based on your use of our sites and/or services and to otherwise collect and use data about your use of our sites and/or services. For more information about this practice, please see the “Third Party Advertising Technologies” section below.
 
-You may opt out of the DoubleClick cookie by visiting the [Google advertising opt-out page](http://www.google.com/policies/technologies/ads) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](http://tools.google.com/dlpage/gaoptout).
+[How to opt out of Google advertising](http://www.google.com/policies/technologies/ads). [How to opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout). [How to opt out of Facebook tracking](https://www.facebook.com/help/568137493302217).
 
 Google has additional information available about their [Remarketing Privacy Guidelines](http://adwords.google.com/support/aw/bin/answer.py?hl=en&answer=100746), and Restrictions.
 
