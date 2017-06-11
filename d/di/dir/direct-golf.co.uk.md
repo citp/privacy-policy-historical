@@ -1,48 +1,72 @@
-> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214202529id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612013426id_/http%3A//www.directgolf.co.uk/customerservices/otherinformation/securityandprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - Direct Golf UK
+# Security and Privacy | Direct Golf
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Privacy and Electronic Communications (EC Directive) Regulations 2003. 
+We view your customer security as paramount, below is an outline of our security policy but if you have any further queries, please contact our Customer Service team. Any personal information you provide to us and from which you can be identified is stored securely and confidentially and is processed fairly and lawfully in accordance with this privacy policy
 
-## Information About You
+We take appropriate technical and organisational measures to protect against unauthorised or unlawful processing of your personal information, including encrypting your information to applicable industry standards.
 
-We may collect information about you for 2 reasons: firstly, to process your order and secondly, so that with your consent, we may from time to time bring to your attention special offers or promotions from ourselves. 
+During your visit to our site we may gather certain personal information that is necessary to set up your account, for the purposes of billing, delivery of your goods and queries. We only keep your information for as long as is necessary to process your order, process any applicable refunds, respond to any complaints/feedback or to provide you with promotional information you have subscribed to.
 
-The type of information we will collect about you if you place an order with us includes: 
+Ordinarily we do not have access to your financial information which is securely transferred directly to our card processing agents and who process it on our instructions.
 
-  * your name
-  * address
-  * phone number
-  * e-mail address
-  * credit/debit card details (through certified payment processing companies)
+We supply your information electronically to our couriers who need your details to deliver your orders
 
+When you register your details with us, you have the option to subscribe to future promotions and special offers. You may unsubscribe from this at any time by emailing our [**customer services**](https://web.archive.org/CustomerServices/contactus/contactform)
 
+We do not transfer your information outside the European Economic Area (“EEA”) unless you are a user located outside the EEA in which case we may need to transfer your information to deliver your goods, process payment/refunds, or to send you promotional information you have subscribed to.
 
-We will never collect sensitive information about you without your explicit consent. 
+Our website can recognise past users by using cookies. Cookies personalise your visits to our website to meet your individual preferences. You can disable cookies by adjusting your internet settings. 
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by e-mailing us. If you find any inaccuracies we will delete or correct it promptly. 
+This Website contains links to other websites with their own privacy policies, we are not responsible for the privacy policies of these websites.
 
-The personal information which we hold will be held securely in accordance with our internal security policy and governing UK law. 
+When you supply your information to us you accept the risks associated with the Internet and will not hold us responsible for any loss of your information unless we have breached our duty of care to you.
 
-## E-mail Communication
+If you have any queries regarding our use of your personal information or this privacy policy, you should contact our Data Protection Compliance Officer by writing to Sportsdirect.com, Unit A, Brook Park, Meadow Lane, Shirebrook, Mansfield, Nottinghamshire, NG20 8RY.
 
-We collect e-mail addresses in one of two ways: 
+## Cookie Policy
 
-  1. Visitors choose to voluntarily add their e-mail address to our list via one of the clearly identifiable areas of the site - ie the offers signup down the right of our homepage, or through our members signup page.
-  2. By entering competitions, or requesting advice on our site via an online form.
+This policy explains what cookies are, how we use them and how you can switch them off.
 
+  
 
 
-We will not e-mail you in the future unless you have given us your consent, and you can at any time have yourself removed from our e-mail database by clicking the clearly identifiable link at the bottom of any communication we send you. 
+#### **1\. How we use Cookies**
 
-We will never pass on your e-mail address, or any other details to a 3rd party without your consent. 
+We use a combination of our own cookies and third party cookies to enhance your browsing experience and to enable our site to function efficiently. In particular, we use cookies to:
 
-Visitors to this site who; enter competitions or request advice and feedback will automatically be entered onto our special offer mailing list. Those people who place orders, are able to decline being placed on our mailing list. Instructions on how to remove your e-mail address from this list are on the bottom of each e-mail. 
+  * enable you to set up an account, place orders and make payments;
+  * remember items you place into your shopping basket;
+  * remember items you have been looking at so that you can quickly and easily go back to an item you looked at previously;
+  * enhance your shopping experience.
 
-## Cookies
+  
 
-A cookie is a simple text file which contains information about your interaction with a specific website, and cannot be read by any other site apart from the one which created it. We currently use cookies on our website to personalise your experience, store cart information and analyse visitor interaction with the website to provide a better experience for our customers. If you have cookies disabled you will not be able to use all the features on our website or place orders. **You can usually enable cookies by going to the privacy section of your browsers settings or internet options.**
 
-We also use third party cookies to track the patterns of behaviour of visitors to our site and for the integration of social media services. If you prefer not to be tracked in this way you should be able to change your browser settings to block third party cookies. 
+#### **2\. What are Cookies?**
 
-If you have any questions about your privacy on this site, you should e-mail us at [info@direct-golf.co.uk](mailto:info@direct-golf.co.uk). 
+Cookies are small files which are stored on your internet browsing device (e.g computer, tablet or phone). Cookies don't store your personal details such as your credit card details, your name or your date of birth.
+
+  
+
+
+#### **3\. What types of Cookies do we use?**
+
+Our site uses session cookies and persistent cookies. Session cookies operate from the moment you log on to the site until the moment you log off. Once you log off session cookies are deleted. Persistent cookies will not be deleted after each session.
+
+**Strictly Necessary Cookies** are essential to our site, if these are disabled, your experience on our site may be interrupted and you may not be able to use a shopping basket or make payment.
+
+**Performance Cookies** collect anonymous data about visitors. We use the data to improve your future experience and identify issues that our users may be experiencing.
+
+**Functionality Cookies** customise the look and appearance of our site. For example, a functionality cookie will remember your username and language preferences next time you visit.
+
+**Targeting or Advertising Cookies** deliver advertisements which are tailored to your web activity. A targeting cookie tracks what you click on whilst on our site, and may share details of what you click on with other organisations such as advertisers. These cookies can also help us to measure the effectiveness of an advertising campaign.
+
+Third party cookies may be used on our website by approved organisations to provide services on our website.
+
+  
+
+
+#### **4\. What happens if I turn off Cookies?**
+
+If you disable or delete cookies you may not be able to shop or access important parts of our site. Further information on cookies, including instructions on how to amend your browser settings to turn off cookies, is available widely online.
