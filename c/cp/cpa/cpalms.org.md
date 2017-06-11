@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpalms.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232315id_/http%3A//www.cpalms.org/terms/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpalms.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612005707id_/http%3A//www.cpalms.org/terms/privacy.aspx) for the most accurate reproduction.*
 
 # CPALMS Privacy Policy
 
@@ -86,6 +86,6 @@ For questions or reporting violations, please contact us at:
 Florida Center for Research in Science, Technology, Engineering and Mathematics  
 Learning Systems Institute, Florida State University  
 4600 University Center C  
-Tallahassee, FL 32306-2540  
-Phone: (850) 694-1682  
-Email: [cpalms@lsi.fsu.edu](mailto:cpalms@lsi.fsu.edu)
+Tallahassee, FL 32306-2540
+
+For phone or email contact, please contact us using the information on the following webpage: <http://www.cpalms.org/support/support_homepage.aspx>
