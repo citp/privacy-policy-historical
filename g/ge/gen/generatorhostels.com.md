@@ -1,227 +1,130 @@
-> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005030237id_/https%3A//generatorhostels.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generatorhostels.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611230425id_/https%3A//generatorhostels.com/information/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Generator Hostels
 
 This privacy policy applies only to Generator Hostels Ltd and not to the websites of other companies, individuals or organisations to whom we provide links to their websites.
 
-Company Registration
-
- **GENERATOR HEAD OFFICE**
-
- **Company name:** Generator Hostels Ltd.
-
- **Office Address:** Venture House, 27-29 Glasshouse Street, London W1B 5DF. UK
-
- **Registered Address:** MacNaughton House, Compton Place, London WC1H 9SD. UK
-
- **Telephone number:** +44 (0)207 432 7350
-
- **Fax:** +44 (0)207 388 7644
-
- **Email:** askus@generatorhostels.com
-
- **Registry:** Registered in England
-
- **Registered number:** 3192617
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** GB 945 6083 04
-
- **GENERATOR BARCELONA**
-
- **Company Name:** Generator BCN 1, S.L.
-
- **Address:** Carrer de Corsega 373, 08037 Barcelona. Spain
-
- **Telephone number:** +34 9322 00377
-
- **Email:** barcelona@generatorhostels.com
-
- **Registry:** registered in Spain
-
- **Registered number:** B65374811
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** ES B64888746
-
- **GENERATOR BERLIN MITTE**
-
- **Company name:** Generator Berlin Mitte GmbH
-
- **Address:** Oranienburger Str. 65, 10117 Berlin. Germany
-
- **Telephone number:** +49 (0)30 92103 7680
-
- **Fax:** +49 (0)30 27580 996
-
- **Email:** berlinm@generatorhostels.com
-
- **Registry:** Amtsgericht Berlin Charlottenburg
-
- **Registered number:** HRB 122701 B
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** DE 268310487
-
- **GENERATOR BERLIN PRENZLAUER BERG**
-
- **Company name:** Generator Hostel Berlin GmbH
-
- **Address:** Storkower Str. 160, 10407 Berlin. Germany
-
- **Telephone Number:** +49 (0)30 417 2400
-
- **Fax:** +49 (0)30 417 24080
-
- **Email:** berlin@generatorhostels.com
-
- **Registry:** Amtsgericht Berlin Charlottenburg
-
- **Registered address:** Amtsgericht Berlin Charlottenburg
-
- **Registered number:** HRB 83885
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** DE 813 4097 37
-
- **GENERATOR COPENHAGEN**
-
- **Company name:** Generator Hostel Copenhagen A/S
-
- **Address:** Adelgade 5-7, 1304 Copenhagen, Denmark
-
- **Telephone number:** +45 7877 5400
-
- **Email:** copenhagen@generatorhostels.com
-
- **Registry:** registered in Denmark
-
- **Registered number:** 32778097
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** DK 32778097
-
- **GENERATOR DUBLIN**
-
- **Company name:** Generator Properties Dublin Ltd
-
- **Address:** Smithfield Square, Dublin 7. Ireland
-
- **Telephone number:** +353 1 901 0222
-
- **Email:** dublin@generatorhostels.com
-
- **Registry:** Registered in Ireland
-
- **Registered address:** Registered in Ireland
-
- **Registered number:** 480252
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** IE 9734900k
-
- **GENERATOR HAMBURG**
-
- **Company name:** Generator Hostel Hamburg GmbH
-
- **Address:** Steintorplatz 3, 20099 Hamburg, Germany
-
- **Telephone number:** +49 (0)40 226 35 8460
-
- **Fax:** +49 (0)40 226 35 8451
-
- **Email:** hamburg@generatorhostels.com
-
- **Registry:** Amtsgericht Hamburg
-
- **Registered number:** HRB 110518
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** DE 267 8330 80
-
- **GENERATOR LONDON**
-
- **Company name:** Generator Hostel London Ltd.
-
- **Address:** MacNaughton House, Compton Place, London WC1H 9SD. UK
-
- **Telephone number:** +44 (0)207 388 7666
-
- **Fax:** +44 (0)207 388 7644
-
- **Email:** london@generatorhostels.com
-
- **Registry:** Registered in England
-
- **Registered number:** 2799205
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** GB 945 6083 04
-
- **GENERATOR VENICE**
-
- **Company name:** Ghostell srl
-
- **Address:** Fondamenta della croce 84-86, Isola della Giudecca, 30133 Venice, Italy
-
- **Telephone number:** +39 (0)418778288
-
- **Email:** venice@generatorhostels.com
-
- **Registry:** registered in Italy
-
- **Registered number:** VE-357882
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** IT 04013800273
-
- **GENERATOR ROME**
-
- **Company name:** Albergo Principe Amedeo srl
-
- **Address:** Via Principe Amedeo, 257, 00185 Rome. Italy
-
- **Telephone number:** +39 06 492330
-
- **Email:** info@ambrapalacehotel.com or askus@generatorhostels.com
-
- **Registry:** Camera di Commercia, Roma, Italia
-
- **Registered number:** 04955750486
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** IT 04955750486
-
- **GENERATOR PARIS**
-
- **Company name:** Generator Hostels Paris Sas
-
- **Address:** 9-11 Place du Colonel Fabien, 75010 Paris. France
-
- **Tel:** +33 (0)1 70 98 84 00
-
- **Email:** paris@generatorhostels.com
-
- **Registry:** registered in France
-
- **Registered number:** 2012 B15908
-
- **Directors:** Fredrik Korallus and Paul Harries
-
- **VAT ID:** FR 83753023084
-
- **USE OF YOUR INFORMATION**
-
+## Company Registration
+
+**GENERATOR HEAD OFFICE  
+Company name: **Generator Hostels Ltd.  
+**Office Address:  **Venture House, 27-29 Glasshouse Street, London W1B 5DF. UK  
+**Registered Address:  **MacNaughton House, Compton Place, London WC1H 9SD. UK  
+**Telephone number:  **+44 (0)207 432 7350  
+**Fax:  **+44 (0)207 388 7644  
+**Email:  **askus@generatorhostels.com  
+**Registry:  **Registered in England  
+**Registered number:  **3192617  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **GB 945 6083 04
+
+**GENERATOR BARCELONA  
+Company Name: **Generator BCN 1, S.L.  
+**Address:  **Carrer de Corsega 373, 08037 Barcelona. Spain  
+**Telephone number:  **+34 9322 00377  
+**Email:  **barcelona@generatorhostels.com  
+**Registry:  **registered in Spain  
+**Registered number:  **B65374811  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **ES B64888746
+
+**GENERATOR BERLIN MITTE  
+Company name: **Generator Berlin Mitte GmbH  
+**Address:  **Oranienburger Str. 65, 10117 Berlin. Germany  
+**Telephone number:  **+49 (0)30 92103 7680  
+**Fax:  **+49 (0)30 27580 996  
+**Email:  **berlinm@generatorhostels.com  
+**Registry:  **Amtsgericht Berlin Charlottenburg  
+**Registered number:  **HRB 122701 B  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **DE 268310487
+
+**GENERATOR BERLIN PRENZLAUER BERG  
+Company name: **Generator Hostel Berlin GmbH  
+**Address:  **Storkower Str. 160, 10407 Berlin. Germany  
+**Telephone Number:  **+49 (0)30 417 2400  
+**Fax:  **+49 (0)30 417 24080  
+**Email:  **berlin@generatorhostels.com  
+**Registry:  **Amtsgericht Berlin Charlottenburg  
+**Registered address:  **Amtsgericht Berlin Charlottenburg  
+**Registered number:  **HRB 83885  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:** DE 813 4097 37
+
+**GENERATOR COPENHAGEN  
+Company name: **Generator Hostel Copenhagen A/S  
+**Address:  **Adelgade 5-7, 1304 Copenhagen, Denmark  
+**Telephone number:  **+45 7877 5400  
+**Email:  **copenhagen@generatorhostels.com  
+**Registry:  **registered in Denmark  
+**Registered number:  **32778097  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **DK 32778097
+
+**GENERATOR DUBLIN  
+Company name: **Generator Properties Dublin Ltd  
+**Address:  **Smithfield Square, Dublin 7. Ireland  
+**Telephone number:  **+353 1 901 0222  
+**Email:  **dublin@generatorhostels.com  
+**Registry:  **Registered in Ireland  
+**Registered address:  **Registered in Ireland  
+**Registered number:  **480252  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **IE 9734900k
+
+**GENERATOR HAMBURG  
+Company name: **Generator Hostel Hamburg GmbH  
+**Address:  **Steintorplatz 3, 20099 Hamburg, Germany  
+**Telephone number:  **+49 (0)40 226 35 8460  
+**Fax:  **+49 (0)40 226 35 8451  
+**Email:  **hamburg@generatorhostels.com  
+**Registry:  **Amtsgericht Hamburg  
+**Registered number:  **HRB 110518  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **DE 267 8330 80
+
+**GENERATOR LONDON  
+Company name: **Generator Hostel London Ltd.  
+**Address:  **MacNaughton House, Compton Place, London WC1H 9SD. UK  
+**Telephone number:  **+44 (0)207 388 7666  
+**Fax:  **+44 (0)207 388 7644  
+**Email:  **london@generatorhostels.com  
+**Registry:  **Registered in England  
+**Registered number:  **2799205  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **GB 945 6083 04
+
+**GENERATOR VENICE  
+Company name: **Ghostell srl  
+**Address:  **Fondamenta della croce 84-86, Isola della Giudecca, 30133 Venice, Italy  
+**Telephone number:  **+39 (0)418778288  
+**Email:  **venice@generatorhostels.com  
+**Registry:  **registered in Italy  
+**Registered number:  **VE-357882  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **IT 04013800273
+
+**GENERATOR ROME  
+Company name: **Albergo Principe Amedeo srl  
+**Address:  **Via Principe Amedeo, 257, 00185 Rome. Italy  
+**Telephone number:  **+39 06 492330  
+**Email:  **info@ambrapalacehotel.com or askus@generatorhostels.com  
+**Registry:  **Camera di Commercia, Roma, Italia  
+**Registered number:  **04955750486  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **IT 04955750486
+
+**GENERATOR PARIS  
+Company name: **Generator Hostels Paris Sas  
+**Address:  **9-11 Place du Colonel Fabien, 75010 Paris. France  
+**Tel:  **+33 (0)1 70 98 84 00  
+**Email:  **paris@generatorhostels.com  
+**Registry:  **registered in France  
+**Registered number:  **2012 B15908  
+**Directors:  **Fredrik Korallus and Paul Harries  
+**VAT ID:  **FR 83753023084
+
+**USE OF YOUR INFORMATION**  
 We collect your information for the safety of our guests and to understand who we are accommodating at our properties for the safety of our staff. In addition, website user and guest data is collected for statistical purposes.
 
 We also collect our guests’ nationality, date of birth, gender, for statistical analysis purposes.
@@ -232,8 +135,7 @@ For reservations, we send guests confirmation emails and will therefore require 
 
 Exceptions may occur in the case of us needing to contact previous guests in relation to post or lost property.
 
- **RESERVATION DATA**
-
+**RESERVATION DATA**  
 In order for us to confirm a reservation for you, we do require some information. This will usually consist of:
 
   * Your name
@@ -250,33 +152,29 @@ In order for us to confirm a reservation for you, we do require some information
 
 Upon arrival we will require the same information from your fellow travellers, please ensure they are all aware of this to ensure a quick and efficient check-in.
 
- **CREDIT CARD DATA**
-
+**CREDIT CARD DATA**  
 In order to guarantee reservations via all channels (telephone, website or smartphone application, but not restricted to), we require a full 16 digit debit/credit card number, name on the card, card type (we accept VISA, Mastercard or Maestro), three digit security code and the expiry date.
 
 Your debit/credit card details are only used to secure your booking and Generator Hostels Ltd will only debit the account if you do not follow our cancellation procedure. Reservations that are cancelled at least 24 hours prior to arrival are not charged for, whereas no shows or failing to cancel in excess of 24 hours will incur a charge for the first night.
 
 Generator Hostels Ltd indemnifies itself against all data use on and reservations made via third party websites/agents. Please refer to their relevant privacy policy and terms and conditions.
 
- **GUEST PERSONAL DATA**
-
+**GUEST PERSONAL DATA**  
 Generator Hostels Ltd respects guest privacy and will not sell or disclose guests’ personal information to any other person, business or third party unless in the case of an emergency and/or it is seen as part of our duty of care.
 
- **KEEPING OUR DATA UP-TO-DATE**
-
+**KEEPING OUR DATA UP-TO-DATE**  
 As an accommodation and leisure provider, we have guests returning to our properties on a regular basis. It is your duty to inform us if any of your personal information which we hold about you needs to be updated. We may contact you at any time if you have booked accommodation with us and we suspect we hold false information about you.
 
- **HOW WE USE COOKIES**
-
+**HOW WE USE COOKIES**  
 When you use our websites, we aim to make your experience engaging. In order to do this, we use cookies. Cookies are small text files which are sometimes downloaded on your computer or mobile device when you first visit our website so that we can remember who you are.
 
 Usually, cookies contain two pieces of information: a site name and unique user ID. Cookies cannot be used alone to identify you, although they may be used to identify your IP address. Cookies help us and/or third party websites recognise your device the next time you visit and may remember details such as your username and preferences, analyse how the website is performing, or allow us to recommend content we believe is relevant to you.
 
 Generally, cookies used on this website may perform the following functions:
 
- **Essential:** These temporary cookies only remain in the cookies folder of your browser until you leave our website.
+**Essential:** These temporary cookies only remain in the cookies folder of your browser until you leave our website.
 
- **Performance:** These cookies are stored on your computer – they contain no personal information and are used to improve performance and assist in navigation. They remain in the cookies folder of your browser for longer than “Essential” cookies (dependent on your browser settings).
+**Performance:** These cookies are stored on your computer – they contain no personal information and are used to improve performance and assist in navigation. They remain in the cookies folder of your browser for longer than “Essential” cookies (dependent on your browser settings).
 
 We use or allow third parties to serve cookies that fall into the categories above. We use Google Analytics to help us monitor our website traffic, and cookies may also be served via generatorhostels.com or any of our subsidiary domains, online surveys, and online publications.
 
@@ -288,38 +186,31 @@ We have links to social networking websites (for example but not limited to: Fac
 
 For more information about cookies, visit www.aboutcookies.org which includes useful information on cookies and how to block cookies using different types of browser. Please note that by blocking or deleting cookies, you may not be able to take full advantage of our websites.
 
- **GOOGLE ANALYTICS & DEMOGRAPHIC DATA**
-
+**GOOGLE ANALYTICS & DEMOGRAPHIC DATA**  
 We use Google Analytics to collect information about visitor behaviour on our website. Google Analytics stores information about what pages you visit, how long you are on the site, how you got here and what you click on. This Analytics data is collected via a JavaScript tag in the pages of our site and is not tied to personally identifiable information. We therefore do not collect or store your personal information (e.g. your name or address) so this information cannot be used to identify who you are.
 
-You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
+You can find out more about Google’s position on privacy as regards its analytics service at <http://www.google.co.uk/intl/en/analytics/privacyoverview.html>
 
 The tracking cookie also allows us to access aggregates demographic and audience data from online behavioural advertising services. This information is only available to us at a group level, with no personal or identifiable information contained within it. It is used only for us to evaluate the effectiveness of the website and see how different groups of users use and respond to the site, and in no way allow us to track people individually. You may opt out of this tracking by disabling cookies within your browser.
 
- **WEBSITE SECURITY**
-
+**WEBSITE SECURITY**  
 The Internet is not a secure medium. However, we have put in place various security procedures, including firewalls that are used to block unauthorised traffic to our website.
 
- **THIRD PARTY WEBSITES**
-
+**THIRD PARTY WEBSITES**  
 Our website contains links to many other websites promoting their business and needs to our guests. Generator Hostels indemnifies itself against all data use on and reservations made via third party websites/agents. Please refer to their relevant privacy policy and terms and conditions.
 
- **PHOTOGRAPHY & FILM**
-
+**PHOTOGRAPHY & FILM**  
 No permission is needed to take photos or film at our properties. However, we do ask if photographing or filming other guests not part of your group that you seek permission from them first. Verbal consent is solicited as a goodwill gesture.
 
 On occasions we may commission crews to film or take photographs at our properties for promotional purposes. If you do not wish to be filmed or photographed, you are required to voluntarily leave the filming or photography area.
 
- **DISCLOSING YOUR INFORMATION TO THIRD PARTIES**
-
+**DISCLOSING YOUR INFORMATION TO THIRD PARTIES**  
 Other than the for the purposes referred to in this policy, we will not disclose any personal information without your permission unless we are legally obliged to do so (for example, if required to do so by court order or for the purposes of prevention of fraud).
 
- **YOUR RIGHTS**
-
+**YOUR RIGHTS**  
 By submitting your information to us, you consent to the use of that information as set out in this Privacy Policy. You may request at any time that we provide you with the personal information we hold about you. Provision of such information will be subject to proving your identity and full address with a utility bill and acceptable photo ID.
 
- **CHANGES TO OUR PRIVACY POLICY**
-
+**CHANGES TO OUR PRIVACY POLICY**  
 We may change our Privacy Policy at any time. Continued use of our websites signify that you agree to any such changes.
 
-Please be aware that the privacy policy is in English. For any support in a foreign language please contact [support@generatorhostels.com](mailto:support@generatorhostels.com?subject=Privacy%20policy%20in%20other%20language)
+Please be aware that the privacy policy is in English. For any support in a foreign language please contact [support@generatorhostels.com](mailto:support@generatorhostels.com?subject=Privacy%20policy%20in%20other%20language)
