@@ -1,57 +1,142 @@
-> *The following text is extracted and transformed from the chemistdirect.co.uk privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218110939id_/http%3A//www.chemistdirect.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistdirect.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611173337id_/https%3A//www.chemistdirect.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# Chemist Direct - Privacy Policy
+# Privacy and Cookies
 
-BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED IN THE POLICY. PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE.
+## Summary of main points
 
-Your privacy is important to us. This Privacy and Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it.
+We, Chemist Direct, are a leading online pharmacy in the UK, registered with the General Pharmaceutical Council. We respect your right to privacy and are committed to providing clear and honest information to explain how we use the information you give us.
 
-ChemistDirect.co.uk trading as ("we") run this site (the "Site") for visitors who wish to find out more about our business and for visitors who wish to purchase our products ("you") using this Site. 
+We understand that legal documents such as privacy policies can be difficult to understand. For that reason, we have provided this short overview of the policy to highlight the main points that you should know about.
 
-Your access, use of and submission of an order via the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you wish to obtain further information about us and/or the contents of this Privacy and Cookie Policy, you can contact us by email, post or telephone.
+**The key principles of our privacy policy are as follows.**
 
-What type of data do we collect about you?   
-Personal data relating to Internet users viewing the Site may be collected through the Site on each of the following occasions:  
-(i) data regarding navigation may be collected by our web servers or by cookies when you are browsing the Site;  
-(ii) data regarding your identity and email address may be collected when you send an email to us through the Site (if you choose to do so), for instance via the ‘Contact’ page or where you submit an Order Form in accordance with our Terms and Conditions;   
-(iii) data regarding your identity may be collected by the Site on registration for online ordering; and  
-(iv) data regarding your identity, medical details as contained on any prescription or other supporting information that you provide to us, whether by email, telephone, fax or post.
+  * We will use your personal information to allow us to provide the services you ask us for.
+  * We will only share your information with other companies if this is necessary to provide our service to you (for example, to deliver medication or products we will need to share your address with a postal service). We share the minimum amount of information for the relevant purpose. Those we share your information with are not allowed to use it to try to sell their own services to you.
+  * We will not sell your information to anyone for any reason.
+  * We will only send you information about our own products and services and those of group companies and selected partners if you have given us permission to. Bear in mind that if you choose not to receive this information, you may miss out on offers and deals.
+  * In some instances (for example, customers using our NHS repeat prescription service or online doctor consultation service), we will need to collect sensitive information about your health – such as existing health conditions or prescribed medication. The law and NHS regulations set out how we can record and use this sensitive information.
 
-Upon collection the personal data will be stored for as long as is reasonably necessary to provide goods and services, including after sales services to you, in accordance with our Terms and Conditions.
 
-What is a cookie?  
-A cookie is a tiny element of data that is stored on your computer's hard drive by your web browser when you access a website. The Site makes use of the following types of cookie technology:  
-• A "Session cookie", which contains a random ID number automatically allocated to your computer by the webserver for the duration of your visit. It is meant to make your use of the Site faster and easier. It will be deactivated after thirty minutes of inactivity on the Site and will be automatically removed from your computer when you close your browser.  
-• A "Script generated cookie" is automatically allocated to your computer when you register to access any restricted areas of the Site and on each subsequent visit. It only contains an identifier which will enable the Site to identify you as a registered user so that you do not have to identify yourself again while you move from one server to another during your visit. It will remain on your computer after your visit until you remove it. It will be placed again at your next visit.
 
-Third_party cookies  
-We may use third-party advertising companies or affiliates to display advertisements on our website. These third-party advertising companies or affiliates may separately place or recognise a cookie file on your browser in the course of delivering advertisements to the Site. We cannot see the information collected or stored in third party cookies. We do not provide personal data about you to these third party advertisers or affiliates or to any other third party.  
-You do not have to agree to the use of cookies. For information on how to reject cookies, see below Removing and Disabling Cookies Section. However, in order to use the payment section of the Site, we recommend that you do not block the recording of cookies on your computer.
+This summary and the full privacy policy have been reviewed by Plain English Campaign to make sure that they are clear and understandable.
 
-Removing and disabling cookies  
-If you don’t want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of all parts of the Site.
+Chemist Direct is the trading name of Direct Healthcare Ltd. We (also referred to as ‘us’), run our website at chemistdirect.co.uk and provide pharmacy services.
 
-If you want to remove previously-stored cookies, you can manually delete the cookies at any time. This will not prevent websites from placing further cookies on your computer.
+Our address is:
 
-To find out exactly how to disable/remove, please go to <http://www.allaboutcookies.org/manage-cookies/index.html>  
-Data collected by web servers and cookies are not transferred to any third parties, except to process your order request.
+Unit 1A, Junction 2 Industrial Estate,
 
-Transferring your data outside Europe  
-Currently we do not transfer your data outside Europe.
+Demuth Way, Oldbury,
 
-Subject access rights  
-At law you have the following rights  
-• a subject access right which enables you to be told whether we hold any personal data about you and to obtain a copy of that information;  
-• a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;  
-• a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes.
+West Midlands
 
-We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at the address set out on the Site with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.
+United Kingdom, B69 4LT
 
-Security  
-Except if provided to others in the circumstances set out in this Policy, the data supplied by you will be kept on the Site’s secured servers and computer systems, protected from outside intrusions.
+You can phone us on 0121 541 1800 or email us at:
 
-Changes to this privacy and cookie policy  
-We reserve the right to make changes to this Policy from time to time and reserve the right to do so. Any changes to the Policy will appear on this page, which you should check from time to time. By continuing to use the site you are deemed to accept changes to this Policy.
+[contactus@chemistdirect.co.uk.](mailto:contactus@chemistdirect.co.uk)
 
-Contacting us  
-If you have any questions about any aspect of this Policy or want to discuss how we handle your data you can contact us by email, post or telephone. 
+This privacy policy sets out:
+
+  * our commitment to respecting and protecting the privacy of people who use our website and our services; and
+  * how we collect and use your personal information.
+
+
+
+Please read this privacy policy carefully. By using our website and services you are confirming that you agree to the terms of this privacy policy. If you do not agree to this privacy policy, do not use our website or services.
+
+We may from time to time make changes to this privacy policy. We will set out any important changes at the end of the latest version of the privacy policy. If there are substantial changes, we will also explain the changes in the summary at the start of this policy. You should check this privacy policy regularly to see if there have been any changes.
+
+If you have any questions about this privacy policy, you can phone us on 0121 541 1800 or email us at: [contactus@chemistdirect.co.uk.](mailto:contactus@chemistdirect.co.uk)
+
+We are registered under the Data Protection Act, registration number Z1470948.
+
+  
+
+
+## Providing you with goods and services
+
+We collect personal information from you in a number of ways, mainly when you buy goods or services and from the way you use our website. This personal information will include your name, date of birth, address, email address and phone numbers. We will use this personal information to help us meet your order, deliver the goods and services to you and to give you the information you need to track your order.
+
+In some cases, for example if you are ordering pharmacy-only medicines from us, we will ask you for extra information to make sure that our pharmacists can check the medicine is suitable for you. This will mean collecting information about your health, including medical information.
+
+## NHS prescription service
+
+If you want to use our NHS prescription service we will need to know whether you pay for your NHS prescriptions and, if not, the reason why not. We will also collect information about your existing medical conditions and any medication your doctor has prescribed for you. We will use this information to look after your healthcare, and that may mean we have to contact you in certain circumstances that are relevant to your ongoing care (for example, sending you reminders about repeat prescriptions). We may also collect information about when you are next going to visit your doctor so we can help you manage your repeat prescriptions.
+
+## Getting to know you better 
+
+We will collect and store details of all medicines and other products we supply to you, and also medicines that you or your doctor tells us you may have from us on repeat prescription. We also collect information about our customers and prospective customers from other organisations, such as marketing agencies. We use this information to help us build a profile of our customers and prospective customers.
+
+We will use this information, as well as the other information we collect about you, to improve the quality of our website and services, as well as improving the personal information we hold about you. This helps us to build a profile of you, so we can send you marketing messages that should be relevant to you (unless you have told us that you do not to want to receive marketing from us). We will also put this information (which does not identify you) with other information so that we can use all the information we have to help us understand our customers and prospective customers better, including helping to predict which of our services may be of interest to them. We may share your personal information with our marketing service providers to help us identify prospective customers.
+
+Please note that we will only send you marketing information about our own products and services and those of our group companies and selected partners, if you have given us permission to do so (you have to tell us if you want us to send you marketing information). We will not sell your information to anyone else, for any reason.
+
+## Our service providers 
+
+Sometimes we use other organisations (service providers) to help us provide our services and improve them, including:
+
+  * delivering your orders and providing emails or texts so you can track your order;
+  * sending letters and marketing material;
+  * carrying out market research; and
+  * helping us to analyse anonymous information about customers.
+
+
+
+Where we need to share information with our service providers, we give them only the minimum amount they need to provide services to us and you. Those we share your information with are not allowed to use it to try to sell their own services to you.
+
+## When using our website 
+
+We may collect information about you as you are using our website, such as information about your browser, which areas of our website you visit and what links you click on. We may use the information we collect about you, after making it anonymous, to create statistics which we then share with others including ad networks, search engines and providers of analysis services.
+
+All the personal information we collect about you is stored by us or by our service providers on our behalf.
+
+## Cookies 
+
+Our website uses cookies to distinguish you from other users of our website. This improves your experience of browsing our website and also allows us to improve our website. For detailed information on the cookies we use and what we use them for, see our Cookie policy.
+
+## Marketing 
+
+We would like to get in touch with you, by post, email and text message, about products and services which we, our group companies and selected partners provide and think you would be interested in, and to let you know about relevant offers and news. We will only do this if you have given us permission (you must tell us if you want to receive this information). If you no longer want to receive marketing information in a particular way, or receive any marketing at all, you can change your mind at any time. You can change your preferences by logging into ‘Your Account’ or visiting chemistdirect.co.uk. You can also unsubscribe from further emails by clicking on the unsubscribe link at the end of every email we send you.
+
+## Giving information to third parties 
+
+As well as sharing your information with our group companies and giving our service providers information to help us provide our products and services to you, we may give your personal information to others (third parties) in the following circumstances.
+
+  * If we are selling or buying any business or assets, in which case we may give your personal information to the prospective seller or buyer of such business or asset.
+  * If we, or most of our assets, are taken over by a third party (as your personal information may be one of those assets).
+  * If we have to provide or share your personal information in order to:
+    * meet any legal obligation or a request from a court or the police;
+    * enforce or apply our terms of use and other agreements; or
+    * protect the rights, property, or safety of us, our customers or others.
+
+
+
+This may involve sharing information for the purposes of preventing fraud, carrying out identity and age-related checks, and reducing credit risks, and contacting prescribers when our pharmacist becomes aware of significant medical issues arising in connection with a repeat prescription.
+
+Our website may contain links to third parties’ websites. We are not responsible for the privacy practices or content of those websites.
+
+This privacy policy applies only to personal information we collect from you through our website or in our dealings with you. We recommend that you check the privacy and security policies of every website you visit.
+
+## Security 
+
+The security of your personal information is very important to us, and we take all appropriate security measures (including physical, electronic and procedural measures) to help protect it from being seen or shared by people or organisations not authorized to receive it. When sending your personal information to a third party in order to provide goods or services you have ordered through our website, we will use reasonable ways of keeping your personal information secure. Despite this commitment, we will not be liable if information transmitted over the internet is revealed, altered or misused.
+
+## Your right to see your health record 
+
+You can ask us in writing for a copy of all the personal information we hold about you. We must respond to your request within 40 days. There may be a charge to have a printed copy of the information.
+
+You will need to give enough information for our pharmacy staff to identify you (for example, your full name, address and date of birth). You will need to provide ID (for example, your passport, full driving licence or credit card or debit card) before any information is released to you.
+
+If you think any information we hold about you is incorrect, please let us know.
+
+If you have any questions, contact us by visiting chemistdirect.co.uk.
+
+## Changes to this privacy policy 
+
+This policy was last updated on 4 October 2016.
+
+Date | Change  
+---|---  
+1 August 2016 | Document changed to Plain English Document with addition of marketing the products and services of other companies in our group of companies.  
+4 October 2016 | Addition of provision to market products and services of selected partners.
