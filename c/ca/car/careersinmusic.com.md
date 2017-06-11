@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careersinmusic.com privacy policy that was archived on 2015-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150325161640id_/https%3A//www.careersinmusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersinmusic.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611132433id_/https%3A//www.careersinmusic.com/privacy-policy) for the most accurate reproduction.*
 
-# CareersInMusic.com / Generation-Z | Privacy Policy |
+# CareersInMusic.com / Generation-Z | Privacy Policy
 
 
     _Last updated October 23, 2014_
@@ -9,7 +9,7 @@ This Privacy Policy outlines important information regarding the use and disclos
 
 This Privacy Policy applies to Generation-Z collection, use, storage and disclosure of information by Generation-Z on its (a) websites, including all of its divisions, subsidiaries and related companies (collectively, the Website); (b) on various third party websites; and (c) to Generation-Z other information collection, including the purchase of customer lists from third parties. Generation-Z is not responsible for the information collection or privacy practices of third party websites or applications. By reference, this Privacy Policy is incorporated into and is subject to the Website Terms and Conditions. Your use of the Website and any personal information you provide via the Website or through other official Generation-Z contact remains subject to this Privacy Policy, as well as the Terms and Conditions and/or other stated policies.
 
-  1. **Collection of Information.**
+  1.  **Collection of Information.**
 
 
 
@@ -21,9 +21,9 @@ This Privacy Policy applies to Generation-Z collection, use, storage and disclos
 
 1.4 Cookies, Web Beacons, and Other Info Collected Using Technology. Generation-Z currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Generation-Z may use other new and evolving sources of information in the future.
 
-_(a)_ Cookies. A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows Generation-Z to identify the individual with his or her corresponding data that resides in the Generation-Z database. Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.  
-_(b)_ Web Beacons. A web beacon is programming code that can be used to display an image on a web page (by using a programming function but can also be used to transfer an individual’s unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Generation-Z to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Generation-Z might place, with the consent of a Third Party website, a web beacon on the Third Party’s website where baseball products are sold. When Joe, an individual listed in Generation-Z database, visits the baseball website, Generation-Z receives notice by means of the web beacon that Joe visited the baseball site, and Generation-Z would then update Joe’s profile with the information that Joe is interested in baseball. Generation-Z may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, Generation-Z also uses web beacons in email messages sent to individuals listed in Generation-Z database.  
-_(c)_ New Technology. The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Generation-Z’s use of new and evolving technology. As a result, Generation-Z strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
+ _(a)_ Cookies. A cookie is a small amount of data stored on the hard drive of the individual’s computer that allows Generation-Z to identify the individual with his or her corresponding data that resides in the Generation-Z database. Individuals who use the Website need to accept cookies in order to use all of the features and functionality of the Website.  
+ _(b)_ Web Beacons. A web beacon is programming code that can be used to display an image on a web page (by using a programming function but can also be used to transfer an individual’s unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Generation-Z to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Generation-Z might place, with the consent of a Third Party website, a web beacon on the Third Party’s website where baseball products are sold. When Joe, an individual listed in Generation-Z database, visits the baseball website, Generation-Z receives notice by means of the web beacon that Joe visited the baseball site, and Generation-Z would then update Joe’s profile with the information that Joe is interested in baseball. Generation-Z may thereafter present offers of baseball related products and services to Joe. In addition to using web beacons on web pages, Generation-Z also uses web beacons in email messages sent to individuals listed in Generation-Z database.  
+ _(c)_ New Technology. The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Generation-Z’s use of new and evolving technology. As a result, Generation-Z strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
 
 1.5 Outside Information. Generation-Z may receive information about individuals from Third Parties or from other sources of information outside of Generation-Z including information located in public databases (Outside Information).
 
@@ -33,7 +33,7 @@ _(c)_ New Technology. The use of technology on the Internet, including cookies a
 
 1.8 Credit Card Information. Generation-Z may in certain cases collect credit card numbers and related information, such as the expiration date of the card (Credit Card Information) when an individual completes certain surveys or places an order from Generation-Z. When the Credit Card Information is submitted to Generation-Z, such information is encrypted and is protected with SSL encryption software. Generation-Z will use the Credit Card Information for purposes of processing and completing the purchase/survey transaction (if applicable), and the Credit Card Information will be disclosed to Third Parties only as necessary to complete the purchase transaction. Log File Data: When users log-in to access their account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a Website. These server logs may include information vital to validating the user’s authorization to access the account. Information, such as a Web request, Internet Protocol (the IP) address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a user’s entry and activity on the Website.
 
-  2. **Use of Individual Information.**
+  2.  **Use of Individual Information.**
 
 
 
@@ -41,9 +41,9 @@ _(c)_ New Technology. The use of technology on the Internet, including cookies a
 
 2.2 Email. Generation-Z uses Individual Information to provide promotional offers by email to individuals. Generation-Z may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list.
 
-_2.2(a)_ Content of Email Messages. In certain commercial email messages sent by Generation-Z, an advertiser’s name will appear in the From: line but hitting the Reply button will cause a reply email to be sent to Generation-Z. The Subject: line of Generation-Z email messages may contain a line provided from the advertiser to Generation-Z.
+ _2.2(a)_ Content of Email Messages. In certain commercial email messages sent by Generation-Z, an advertiser’s name will appear in the From: line but hitting the Reply button will cause a reply email to be sent to Generation-Z. The Subject: line of Generation-Z email messages may contain a line provided from the advertiser to Generation-Z.
 
-_2.2(b)_ Solicited Email. Generation-Z only sends email to individuals who have agreed on the Website to receive email from Generation-Z or to individuals who have agreed on Third Party websites to receive email from Third Parties such as Generation-Z. Generation-Z does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Generation-Z email messages.
+ _2.2(b)_ Solicited Email. Generation-Z only sends email to individuals who have agreed on the Website to receive email from Generation-Z or to individuals who have agreed on Third Party websites to receive email from Third Parties such as Generation-Z. Generation-Z does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Generation-Z email messages.
 
 2.3 Targeted Advertising. Generation-Z uses Individual Information to target advertising to an individual. When an individual is using the Internet, Generation-Z uses Technology Information (see also Section 2.5 below) to associate an individual with that person’s Individual Information, and Generation-Z attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Generation-Z may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
 
@@ -57,7 +57,7 @@ _2.2(b)_ Solicited Email. Generation-Z only sends email to individuals who have 
 
 2.8 Storage of Individual Information. Generation-Z stores the Individual Information in a database on Generation-Z computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Generation-Z control. Notwithstanding such measures, Generation-Z cannot guarantee that its security measures will prevent Generation-Z computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
-  3. **Dissemination of Individual Information.**
+  3.  **Dissemination of Individual Information.**
 
 
 
@@ -71,7 +71,7 @@ _2.2(b)_ Solicited Email. Generation-Z only sends email to individuals who have 
 
 3.5 Access. Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting [privacy@generation-z.com](mailto:privacy@generation-z.com). Generation-Z may also grant advertising clients and email services providers access to an individual’s email address to verify the origin of the Individual Information collected.
 
-  4. **Privacy Practices of Third Parties.**
+  4.  **Privacy Practices of Third Parties.**
 
 
 
@@ -81,20 +81,20 @@ _2.2(b)_ Solicited Email. Generation-Z only sends email to individuals who have 
 
 4.3 Affiliated Companies. Generation-Z may disclose, transfer, and sell Individual Information to entities affiliated with Generation-Z in Generation-Z’s discretion. Should Generation-Z be subject to an acquisition, merger, sale or other change of control or business entity status, Generation-Z reserves the right to transfer or assign the Information collected from their Website(s).
 
-  5. **Individuals Outside of the United States.**
+  5.  **Individuals Outside of the United States.**
 
 
 
 5.1 Anyone using the Website outside of the United States acknowledges that personal information will be collected and stored by Generation-Z in the United States. By using the Website, you consent to the transfer of information to and/or storage of information outside of your country and in the United States.
 
-  6. **Unsubscribe Procedures.**
+  6.  **Unsubscribe Procedures.**
 
 
 
 6.1 If you wish to discontinue receiving email messages from Generation-Z, you have several options:
 
-_(a)_ Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to [unsubscribe@generation-z.com](mailto:unsubscribe@generation-z.com) or (2) follow the instructions in each promotional email message sent by Generation-Z.
+ _(a)_ Unsubscribe from one email list. To unsubscribe from a particular list, either (1) send an email to [unsubscribe@generation-z.com](mailto:unsubscribe@generation-z.com) or (2) follow the instructions in each promotional email message sent by Generation-Z.
 
-_(b)_ Unsubscribe from all of Generation-Z email lists. We reserve the right to add Individual Information to multiple lists maintained by Generation-Z. To globally unsubscribe from all of Generation-Z lists, send an email to [unsubscribe@generation-z.com](mailto:unsubscribe@generation-z.com).
+ _(b)_ Unsubscribe from all of Generation-Z email lists. We reserve the right to add Individual Information to multiple lists maintained by Generation-Z. To globally unsubscribe from all of Generation-Z lists, send an email to [unsubscribe@generation-z.com](mailto:unsubscribe@generation-z.com).
 
-_(c)_ Unsubscribe from a particular SMS messaging campaign. To unsubscribe from a particular SMS messaging campaign on a cell phone, send STOP, END, or QUIT to the SMS message received by the individual. In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign. 
+ _(c)_ Unsubscribe from a particular SMS messaging campaign. To unsubscribe from a particular SMS messaging campaign on a cell phone, send STOP, END, or QUIT to the SMS message received by the individual. In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.
