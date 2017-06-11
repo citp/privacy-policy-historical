@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the d4dramas.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008042501id_/http%3A//www.d4dramas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d4dramas.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611181733id_/http%3A//www.d4dramas.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - D4Dramas
+# Privacy Policy
 
 **Personally Provided Information**  
-You do not have to give us personal information to visit D4Dramas. If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
+You do not have to give us personal information to visit D4DRamas. If you choose to provide us with additional information through an e-mail message, inquiry form, comments, etc., we will only maintain the information as long as needed to respond to your question, inquiry, or to fulfill the stated purpose of the communication. Except for authorized law enforcement investigations, we do not give, share, sell or transfer any personal information to a third party.
 
 **External Links**  
-Our web site may contain links to other sites. D4Dramas is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
+Our web site may contain links to other sites. D4DRamas is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personal information.
 
-We DO NOT host any videos on this website. All videos found on our site are found freely available around the web on sites such as Daily Motion, Tune Etc. We make no guarantees or promises in our service and take no liability for our users actions. We are not affiliated nor claim to be affiliated with any of the owners of videos/streams played on our site. All content is copyright of their respective owners.
+We DO NOT host any videos on this website. All videos found on our site are found freely available around the web on sites such as Daily Motion, Youtube Etc. We make no guarantees or promises in our service and take no liability for our users actions. We are not affiliated nor claim to be affiliated with any of the owners of videos/streams played on our site. All content is copyright of their respective owners.
 
 **Website Traffic Analysis Software**  
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. We also monitor our traffic to analyze visitors’s information, such as, but not limited to, operating system, browsers, screen resolutions and similar.
