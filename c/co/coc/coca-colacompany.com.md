@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the coca-colacompany.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124083416id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-colacompany.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611164912id_/http%3A//www.coca-colacompany.com/our-company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Coca-Cola Company: The Coca-Cola Company
 
-[Print/Save](https://web.archive.org/content/dam/journey/us/en/private/fileassets/pdf/our-company/the-coca-cola-company-privacy-policy.pdf "Privacy Policy")  
+ [  
+Print/Save](https://web.archive.org/content/dam/journey/us/en/private/fileassets/pdf/our-company/TCCC-Privacy-Policy-Feb-2017.pdf "Privacy Policy")  
 
 
-**_Last Updated: October 2016  
+**_Last Updated: February 2017  
  _**
 
-The Coca-Cola Company and its affiliates (also collectively referred to as “ **we** ”, “ **our** ” and “ **us** ”)  are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through activities that link to this Privacy Policy including websites (our “ **Websites** ”) and any mobile sites, applications, widgets, and other mobile interactive features (collectively, our “ **Apps** ”), through other services that we may offer in connections with our Websites and Apps, such as rewards programs, through our official social media pages that we control (our “ **Social Media Pages** ”), as well as through HTML-formatted email messages that we send to you (collectively, including the Social Media Pages, Apps and Websites, the “ **Sites** ”).  By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
+The Coca-Cola Company and its affiliates (also collectively referred to as “ **we** ”. “ **our** ” and “ **us** ”)  are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information.  This Privacy Policy describes our practices in connection with information that we collect through activities that link to this Privacy Policy including websites (our “ **Websites** ”) and any mobile sites, applications, widgets, and other mobile interactive features (collectively, our “ **Apps** ”), through other services that we may offer in connections with our Websites and Apps, such as rewards programs, through our official social media pages that we control (our “ **Social Media Pages** ”), as well as through HTML-formatted email messages that we send to you (collectively, including the Social Media Pages, Apps and Websites, the “ **Sites** ”).  By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-## **PERSONAL INFORMATION**
+**PERSONAL INFORMATION**
 
 **Personal Information We May Collect**
 
@@ -39,7 +40,9 @@ We and our service providers may collect Personal Information in a variety of wa
   * **Through the Sites** :  We may collect Personal Information through the Sites, e.g., when you sign up for a newsletter or make a purchase.
   * **Offline** :  We may collect Personal Information from you offline, such as when you contact customer service. 
   * **Online tracking** : Because we do not track our Site users over time and across third- party websites, we do not respond to browser do-not-track signals.
-  * **From Other Sources** :  We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties.  For example, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles. 
+  * **From Other Sources** :  We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; from people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties.  For example, if you elect to connect your social media account to your Website account, certain Personal Information from your social media account will be shared with us, which may include Personal Information that is part of your profile or your friends’ profiles.   
+
+  * **Mobile usage** :  If we are able to identify you as a user of a mobile app, we may, for example, link your activity with Coca-Cola  brands  to one of Coca-Cola's mobile applications. If you have downloaded one or more of our mobile applications, you can opt in to location sharing for additional application capabilities. For example, geo-location will use your device’s latitude and longitude or your device’s location capabilities (e.g. GPS or Wi-Fi) to let you receive information and offers. Or, in-store location through the use of your phone’s Bluetooth signal, LED light chip technologies, or other technologies will permit us to find nearby products for you, get you real-time offers, and more. To learn how to opt out of sharing your location with us, go to the Choices and Access section of this privacy policy.
 
 
 
@@ -84,7 +87,7 @@ To the extent permitted by applicable law, your Personal Information may be disc
 
 
 
-## **OTHER INFORMATION**
+**OTHER INFORMATION**
 
 **Other Information We May Collect**
 
@@ -110,18 +113,18 @@ We and our third party service providers may collect Other Information in a vari
   * **Through server log files** :  Your “ **IP Address** ” is a number that is automatically assigned to the computer or device that you are using by your Internet Service Provider (ISP).  An IP Address is identified and logged automatically in our server log files whenever a user visits the Sites, along with the time of the visit and the page(s) that were visited.  Collecting IP Addresses is standard practice on the Internet and is done automatically by many websites.  We use IP Addresses for purposes such as calculating Sites usage levels, helping diagnose server problems, and administering the Sites.  Please note that we treat IP Addresses, server log files and related information as Other Information, except where we are required to do otherwise under applicable law.
   * **Using cookies** :  Cookies allow a web server to transfer data to a computer or device for recordkeeping and other purposes.  We use cookies and other technologies to, among other things, better serve you with more tailored information and facilitate your ongoing access to and use of the Sites.  If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies.  To learn more about cookies, please visit <http://www.allaboutcookies.org/>.  To learn more about our use of cookies, please see our cookies policy _<http://www.coca-colacompany.com/our-company/cookie-policy>._
   * **Using Adobe Flash technology (including Flash Local Stored Objects (“Flash LSOs”)) and other similar technologies** :  We may use Flash LSOs and other technologies to, among other things, collect and store information about your use of the Sites.  If you do not want Flash LSOs stored on your computer or device, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained using the [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"). You can also control Flash LSOs by going to the [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html") and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer or device without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time).  Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Sites or our online content. We expect our service providers and technology suppliers to honor any decision by you to restrict or limit Flash LSOs, but we cannot guarantee that they will do so.
-  * **Using pixel tags, web beacons, clear GIFs or** **other similar technologies** :  These may be used in connection with some Sites pages and HTML-formatted email messages to, among other things, track the actions of Sites users and email recipients, measure the success of our marketing campaigns and compile statistics about Sites usage and response rates. 
+  * **Using pixel tags, web beacons, clear GIFs or** **other similar technologies** :  These may be used in connection with some Sites pages and HTML-formatted email messages to, among other things, track the actions of Sites users and email recipients, measure the success of our marketing campaigns and compile statistics about Sites usage and response rates.
   * **Through your use of an App.**   When you download and use an App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number. 
   * **From you** :  Information, such as date of birth, gender, personal characteristics, hobbies and interests, consumption habits, zip code and your preferred means of communication, may be collected when you voluntarily provide it.  Unless combined with Personal Information, this information does not personally identify you or any other user of the Sites.
   * **Physical Location:**   We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals. We may use your device’s physical location to provide you with personalized location-based services and content, including advertising. We may also share your device’s physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners to enable them to provide you with more personalized content, including advertising and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device’s location, but if you choose to deny such uses and/or sharing, we and/or our marketing partners may not be able to provide you with the applicable personalized services and content.
-  * **By aggregating information** :  Aggregated Personal Information does not personally identify you or any other user of the Sites (for example, we may use Personal Information to calculate the percentage of our users who have a particular telephone area code)
+  * **By aggregating information** :  Aggregated Personal Information does not personally identify you or any other user of the Sites (for example, we may use Personal Information to calculate the percentage of our users who have a particular telephone area code).                                               
   * **From your camera** : The Sites may include functionality that permits you to use live video streams from your device camera, if you have affirmatively activated the camera for use with the Sites.  The functionality may work by identifying your facial features, such as your eyes, nose, mouth, and chin, in the video streams.  The functionality does not use facial recognition to uniquely identify a specific face. This functionality is used to provide you with an enhanced interactive experience.  We and our service providers do not collect, capture, or record the video-stream information or any information about faces in the video stream—the information stays on your device and is removed when you turn off the browser or app.  However, we and our service providers may collect other information about how you use the functionality, such as how often and how long you use it.
 
 
 
 In some instances, we may combine Other Information with Personal Information (such as combining your name with your zip code).  If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-## **THIRD PARTY SITES**
+**THIRD PARTY SITES**
 
 This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which these Sites contain a link.  The inclusion of a link on the Sites does not imply endorsement of the linked site by us or by our affiliates. 
 
@@ -131,21 +134,21 @@ Additionally, we may provide you with access to third-party functionality that p
 
 We are also not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including in connection with any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages. 
 
-## **CAREERS**
+**CAREERS**
 
-The Sites may include a link to our Careers section, which contains information on what it's like to work for us and methods for applying for jobs at our offices worldwide. Any Personal Information submitted through this portion of the Sites, or to email addresses listed on this portion of the Sites, will be governed by our Resume/CV Submission Policy [http://www.coca-colacompany.com/careers/](https://mail-2d.coca-cola.com/owa/redir.aspx?SURL=uLgUyac1ld5d5xtKALJhZPKwJMV-VJdbhwkd8OLgA8M6GYgrNWLTCGgAdAB0AHAAOgAvAC8AdwB3AHcALgBjAG8AYwBhAC0AYwBvAGwAYQBjAG8AbQBwAGEAbgB5AC4AYwBvAG0ALwBjAGEAcgBlAGUAcgBzAC8A&URL=http%3a%2f%2fwww.coca-colacompany.com%2fcareers%2f)
+The Sites may include a link to our Careers section, which contains information on what it's like to work for us and methods for applying for jobs at our offices worldwide. Any Personal Information submitted through this portion of the Sites, or to email addresses listed on this portion of the Sites, will be governed by our Resume/CV Submission Policy <http://www.coca-colacompany.com/careers/>
 
-## **THIRD PARTY ADVERTISING-RELATED VENDORS**
+**THIRD-PARTY ADVERTISING-RELATED VENDORS**
 
 Please note that our online and email advertising-related vendors may use pixel tags, web beacons, clear GIFs or other similar technologies in connection with the Sites to help manage our online and email advertising campaigns and strengthen the effectiveness of such campaigns.  For example, if a vendor has placed a unique cookie on your computer, the vendor may use pixel tags, web beacons, clear GIFs or other similar technologies to recognize the cookie during your visit to the Sites and to learn which of our online advertisements may have brought you to our Sites, and the vendor may provide us with such Other Information for our use.  Please note we may link such Other Information provided to us by our vendors to Personal Information about you that we have previously collected.  Such combined information will be treated as Personal Information hereunder as long as it is so combined.
 
-We may use third-party advertising companies to target advertisements to you on our Sites, across the web, on your mobile device and on any of your other devices, based on the Personal and Other Information we have collected from and about you, as well as information relating to your and other users’ visits to this and other websites and online services.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags) or recognize an identifier associated with your mobile device.  These companies may also use these technologies, along with Personal Information and **** Other Information they or we collect on the different devices you use, to recognize you across the devices you use, such as a mobile device and a laptop or other computer.  If you would like more information about these practices, go to [www.aboutads.info](http://www.aboutads.info/). To learn about your choices in connection with these practices on the particular device on which you are accessing this policy, please visit [http://www.networkadvertising.org/managing/opt_out.asp](https://protect-us.mimecast.com/s/LLOvB0U83Qmghd) and [http://www.aboutads.info/](https://protect-us.mimecast.com/s/GWDKBRf6nwOxHR) to opt out in desktop and mobile web browsers.  You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt out in mobile apps.  You may also click on the informational icon contained within each interest based ad.
+We may use third-party advertising companies to target advertisements to you on our Sites, across the web, on your mobile device and on any of your other devices, based on the Personal and Other Information we have collected from and about you, as well as information relating to your and other users’ visits to this and other websites and online services.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags) or recognize an identifier associated with your mobile device.  These companies may also use these technologies, along with Personal Information and **** Other Information they or we collect on the different devices you use, to recognize you across the devices you use, such as a mobile device and a laptop or other computer.  If you would like more information about these practices, go to [www.aboutads.info](http://www.aboutads.info/).  To learn about your choices in connection with these practices on the particular device on which you are accessing this policy, please visit [http://www.networkadvertising.org/managing/opt_out.asp](https://protect-us.mimecast.com/s/LLOvB0U83Qmghd) and [http://www.aboutads.info/](https://protect-us.mimecast.com/s/GWDKBRf6nwOxHR) to opt out in desktop and mobile web browsers.  You may download the AppChoices app at [www.aboutads.info/appchoices](http://www.aboutads.info/appchoices) to opt out in mobile apps.  You may also click on the informational icon contained within each interest based ad.
 
-## **SECURITY**
+**SECURITY**
 
 We use reasonable organizational, technical and administrative measures to protect Personal Information under our control.  Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure.  If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the _“Contacting Us”_ section below (note that physical mail notification will delay the time it takes for us to respond to the problem).
 
-## **CHOICES AND ACCESS**
+**CHOICES AND ACCESS**
 
 **Your choices regarding our use and disclosure of your Personal Information**
 
@@ -170,31 +173,31 @@ If you have an account with us, you may make changes and updates on the account 
 
 If you are under 18 and a registered user of the Sites, you may ask us to remove content or information that you have posted to the Sites by writing to us at Industry and Consumer Affairs, Attn: Website Privacy Policy, The Coca-Cola Company, One Coca-Cola Plaza, Atlanta, GA 30313.  Please note that your request does not ensure complete or comprehensive removal of the content or information, as, for example, some of your content may have been reposted by another user.
 
-## **RETENTION PERIOD**
+**RETENTION PERIOD**
 
 We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. 
 
-## **USE OF SITES BY MINORS**
+**USE OF SITES BY MINORS**
 
 The Sites are directed to individuals who are permitted to share their Personal Information without parental consent and we request that other individuals (including individuals under the age of 13) not provide Personal Information through the Sites.
 
-## **CROSS-BORDER TRANSFER**
+**CROSS-BORDER TRANSFER**
 
 Your Personal Information may be stored and processed in any country where we have facilities or service providers, and by using our Sites you consent to the transfer of information to countries outside of your country of residence, including the United States, which may provide for different data protection rules than in your country.
 
-## **SENSITIVE INFORMATION**
+**SENSITIVE INFORMATION**
 
 we ask that you not send us, and you not disclose, any sensitive Personal Information ( _e.g._ , information related to racial or ethnic origin, political opinions, religion or other beliefs, health or medical condition, criminal background or trade union membership) on or through the Sites or otherwise to us.
 
-## **UPDATES TO THIS PRIVACY POLICY**
+**UPDATES TO THIS PRIVACY POLICY**
 
 We may change this Privacy Policy.  Please take a look at the “ _Last Updated_ ” legend at the top of this page to see when this Privacy Policy was last revised.  Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on a Site.  Your use of the Sites following these changes means that you accept the revised Privacy Policy.
 
-## **CONTACTING US**
+**CONTACTING US**
 
 If you have any questions about this Privacy Policy, please contact us as follows:
 
-1\. You may email us at: <https://secure.cocacolacompany.com/ssldocs/mail/eQuery_other.shtml>
+1\. You may email us at: <https://secure.coca-colacompany.com/ssldocs/mail/eQuery_other.shtml>
 
 2\. You may call us at 1-800-438-2653
 
