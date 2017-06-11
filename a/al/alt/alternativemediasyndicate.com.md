@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternativemediasyndicate.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229143528id_/http%3A//alternativemediasyndicate.com/sample-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativemediasyndicate.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611122818id_/http%3A//alternativemediasyndicate.com/sample-page) for the most accurate reproduction.*
 
-# Privacy Policy – ALTERNATIVE MEDIA SYNDICATE
+# Privacy Policy
 
 **AlternativeMediaSyndicate.com – PRIVACY POLICY**
 
