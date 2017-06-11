@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technobuzz.net privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226215029id_/http%3A//www.technobuzz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technobuzz.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611092612id_/http%3A//www.technobuzz.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TechnoBuzz | Best How to Tips, Android Guides, and Internet Tips
 
@@ -13,7 +13,7 @@ If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask 
  **Cookies**  
 A cookie is a piece of data stored on the userâ€™s computer tied to information about the user. Our site donâ€™t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads).
 
  **Links**  
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
