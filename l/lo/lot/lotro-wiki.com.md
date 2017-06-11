@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lotro-wiki.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023044226id_/http%3A//lotro-wiki.com/index.php/Lotro-Wiki.com%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotro-wiki.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611153953id_/https%3A//lotro-wiki.com/index.php/Lotro-Wiki.com%3APrivacy_policy) for the most accurate reproduction.*
 
 # Lotro-Wiki.com:Privacy policy - Lotro-Wiki.com
 
