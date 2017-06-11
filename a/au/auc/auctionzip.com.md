@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222042344id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionzip.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611045956id_/http%3A//www.auctionzip.com/agreements/privacy.html) for the most accurate reproduction.*
 
 # AuctionZip, LLC Privacy Policy
 
@@ -62,6 +62,14 @@ Our site offers registered users the ability to forward along objects of interes
 
 As a service to auction houses, we keep track of communications between registered users and auction houses. Not all auction houses permit direct communication with our users.   We may store destination emails sent by users to auction houses with questions or request for more information about an object.   If an auction house requests more information about a user, we may share that information if we determine that is in our interest to do so.   We may disable your capability to communicate with a specific auction house.   We may also revoke your auction house communication privileges at any time without notifying you if we determine that it is in our interest to do so.
 
+ _Communications with Our Customers, Customer Support, and Promotional E-mail_
+
+From time to time, it may be necessary to notify subscribers of impending subscription expirations, account or credit card issues, transactions completed, and in the case of registered users terms agreement or policy changes. While such communication will typically be conducted through email, as appropriate, mail or phone may also be used.
+
+We may also use your personal information to send you e-mail newsletters and other promotional emails about services and products that we believe may be of interest to you.
+
+While we do not presently, in the future we may use the information you provide to send you e-mail and mail only for products offered by AuctionZip or its affiliates, or to determine your interest in programs or services that we believe may be of interest to you. These materials will be offered on an opt-in basis only.
+
  _Subscription Billing_
 
 We charge fees for using our subscription level services. At present, these are AuctionZip Basic, AuctionZip Premium, and AuctionZip Professional subscriptions. To enable the purchase of these products, AuctionZip collects and stores billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
@@ -69,12 +77,6 @@ We charge fees for using our subscription level services. At present, these are 
  _Access Control_
 
 In order to access paid subscription products, you will be required to enter a user name and password through our secure sign-in on each visit. At that time, the current status of your subscription will be checked, and appropriate access given according to the information on file.
-
- _Communications with Our Customers and Customer Support_
-
-From time to time, it may be necessary to notify subscribers of impending subscription expirations, account or credit card issues, transactions completed, and in the case of registered users terms agreement or policy changes. While such communication will typically be conducted through email, as appropriate, mail or phone may also be used.
-
-While we do not presently, in the future we may use the information you provide to send you e-mail and mail only for products offered by AuctionZip or its affiliates, or to determine your interest in programs or services that we believe may be of interest to you. These materials will be offered on an opt-in basis only.
 
  _Compliance with Legal Process_
 
@@ -134,4 +136,4 @@ AuctionZip, LLC
 
 Boston, MA 02134
 
-This policy document was last revised 09/10/2015. 
+This policy document was last revised 1/9/2017. 
