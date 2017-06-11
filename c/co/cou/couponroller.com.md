@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponroller.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126032937id_/http%3A//www.couponroller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponroller.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611191914id_/http%3A//www.couponroller.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy coupon
 
@@ -57,8 +57,7 @@ By using this Website, you indicate your acceptance of this policy. If you do no
 
 If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at:  
 [http://www.couponroller.com](http://www.couponroller.com/)  
-2885 Sanford Ave SW #13307 Grandville, MI 49418  
-786-405-0763  
+7 Jabotinsky Ramat Gan, Israel 52520  
 support@couponroller.com
 
-This document was last updated on June 14, 2014
+This document was last updated on February 20, 2016
