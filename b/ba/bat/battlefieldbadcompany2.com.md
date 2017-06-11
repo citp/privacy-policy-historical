@@ -1,45 +1,6 @@
-> *The following text is extracted and transformed from the battlefieldbadcompany2.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122073014id_/http%3A//www.ea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlefieldbadcompany2.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184319id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Electronic Arts Inc.Privacy and Cookie Policy
-
-Last Updated: October 28, 2016  
-Effective Date: November 28, 2016
-
-  
-
-
-EA has revised its Privacy and Cookie Policy to make it easier for you to read and understand. We are not changing how we collect, use, store, transfer, and otherwise treat your data; only how we present that information to you.
-
-Here are some of the changes we've made:
-
-  * We've reorganized and renamed the provisions to make it easier to navigate
-  * We've set out our commitment to the new EU-U.S. Privacy Shield framework
-  * We've highlighted our use of your data with examples from our different services
-  * We've removed language that is already addressed in our User Agreement
-
-
-
-If you have any questions, please contact the Privacy Policy Administrator in your country as listed at [privacyadmin.ea.com](http://privacyadmin.ea.com/).
-
-[](http://privacy.truste.com/privacy-seal/validation?rid=7d587a12-773f-4bf9-a209-d18047ee5f05 "TRUSTe Privacy Certification")
-
-TABLE OF CONTENTS
-
-  1. Information We Collect
-  2. How We Collect Information
-  3. How We Use Your Information
-  4. Information We Share with Third Parties
-  5. Where We Hold Your Information
-  6. How We Protect Your Personal Information
-  7. Children
-  8. Your Choices and Controls
-  9. Third Party Services
-  10. Changes to Our Policy
-  11. Contact Us
-
-
+# 
 
 1\. Information We Collect
 
@@ -102,7 +63,7 @@ A. Cookies and Similar Technologies
 
 Cookies are small text files stored on your Internet browser. We use cookies and similar technologies to help us understand things like what web pages, features or ads you view and what games you play. This information helps us keep track of your shopping cart, measure the effectiveness of our advertising, make sure you don't see the same ad repeatedly and otherwise help enhance your user experience. You can disable cookies, limit the types of cookies you allow, or set your browser to alert you when cookies are being sent. Please refer to [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) or the guidance provided by your individual web browser if you'd like help in managing your cookie preferences.
 
-We use other technologies for similar purposes as a cookie. We use pixels or clear GIFs to collect information about your use of our products and your response to our marketing emails. We use Internet log files (which contain technical data such as your IP address) to monitor traffic on our products, troubleshoot technical problems, detect and prevent fraud and enforce our Terms of Service. Other examples include HTML 5 cookies, Silverlight Application Storage, device fingerprints and "flash cookies." If you want to remove flash cookies or prevent them from being placed, adjust your preferences in the Macromedia Website Privacy Settings Panel at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html>. We currently do not respond to Do Not Track (DNT) signals. We may adopt a DNT standard if one is established. In the meantime, you may opt out of certain types of tracking, including certain analytics and tailored advertising by changing your cookie settings.
+We use other technologies for similar purposes as a cookie. We use pixels or clear GIFs to collect information about your use of our products and your response to our marketing emails. We use Internet log files (which contain technical data such as your IP address) to monitor traffic on our products, troubleshoot technical problems, detect and prevent fraud and enforce our User Agreement. Other examples include HTML 5 cookies, Silverlight Application Storage, device fingerprints and "flash cookies." If you want to remove flash cookies or prevent them from being placed, adjust your preferences in the Macromedia Website Privacy Settings Panel at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html>. We currently do not respond to Do Not Track (DNT) signals. We may adopt a DNT standard if one is established. In the meantime, you may opt out of certain types of tracking, including certain analytics and tailored advertising by changing your cookie settings.
 
 We also use Analytics, Advertising, Anti-Cheat and Anti-Fraud technologies in our products that utilize the same cookies and similar mechanisms. These technologies are described below.
 
@@ -119,23 +80,6 @@ C. Ad Serving Technologies
 Some of our products employ ad serving technologies that use cookies, clear GIFs, web beacons, tracking pixels, and other similar technologies like identifiers to deliver offers to you. Some of these technologies can sync or connect behavior across different websites, mobile apps and devices. The ads can be tailored to your interests. For instance, you may be presented with an offer for a game we think you might enjoy. Or if you express interest in a game, you might receive an advertisement later for that game or similar products on EA or third party sites. Other in-game advertising technologies enable advertising to be temporarily uploaded to your game, web browser, or mobile device and later replaced while you are online.
 
 These technologies collect and use information so we can serve appropriate advertising to you and help track results and measure effectiveness. In addition to identifiers, this information includes:
-
-  * Advertisements served and the location of the ad;
-  * Length of time an advertisement was visible;
-  * Domain type, IP address, size of the advertisement; and
-  * Advertisement response.
-
-
-
-Third party advertising companies may combine the information collected in the context of delivering an ad to you via our Products and Services with other information they have independently collected over time and across different websites. Many of these companies collect and use information under their own privacy policies. A representative list of ad serving companies that operate their own networks on our sites and online and/or mobile products and/or services as well as how to opt out to the extent applicable can be found at [privacyappendix.ea.com](http://privacyappendix.ea.com/).
-
-To learn more about some of these ad networks' practices, or to opt out of third party targeted advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/), <http://www.aboutads.info/choices/>, <http://youradchoices.ca/>, or [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/). Note that opting out does not mean you won't see ads; it just means that the advertising you see may be less relevant to your interests.
-
-D. Anti-Cheat and Fraud Prevention Technologies
-
-EA strives to provide a safe and fair gaming environment for all players. When you log in to one of our products, set up an EA Account or make purchases, we or third parties may use cookies and similar technologies, or collect data about your machine or device, to create a machine "fingerprint" or "hash" of your machine components, for fraud prevention, security and authentication purposes. We also may use other anti-cheat technology with our products.
-
-3\. How We Use Your Information
 
 We use your personal and non-personal information, both individually and combined together, in the following ways:
 
