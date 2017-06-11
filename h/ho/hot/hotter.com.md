@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128221536id_/http%3A//www.hotter.com/us/en/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotter.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611183152id_/http%3A//www.hotter.com/us/en/info/privacy-policy) for the most accurate reproduction.*
 
 # Hotter Shoes USA - Privacy Policy
 
@@ -160,7 +160,7 @@ Aggregate Information
 
 We may collect non-personal information about how users navigate through the Website. We may aggregate this information to improve our site, and we may share this information with our affiliates or other outside companies. This aggregated information does not include individual names or personal data, so it does not identify you or any other customer.
 
-We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Digital Advertising Alliance at http://www.aboutads.info/choices/ or the European Interactive Digital Advertising Alliance at [http://youronlinechoices.eu/](https://web.archive.org/web/20161128221536id_/http%3A//www.hotter.com/us/en/info/%3Ehttp://youronlinechoices.eu/)
+We may use the services of third parties to collect and use anonymous information about your visits to and interactions with our website through the use of technologies such as cookies to personalize advertisements for goods and services. To learn more, or to opt-out of receiving advertisements tailored to your interests by our third party partners, visit the Digital Advertising Alliance at http://www.aboutads.info/choices/ or the European Interactive Digital Advertising Alliance at [http://youronlinechoices.eu/](https://web.archive.org/web/20170611183152id_/http%3A//www.hotter.com/us/en/info/%3Ehttp://youronlinechoices.eu/)
 
 Children's Privacy
 
