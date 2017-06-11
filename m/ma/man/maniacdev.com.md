@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530111419id_/https%3A//maniacdev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611045419id_/https%3A//maniacdev.com/privacy) for the most accurate reproduction.*
 
 # Privacy | iOS App Dev Libraries, Controls, Tutorials, Examples and Tools
 
