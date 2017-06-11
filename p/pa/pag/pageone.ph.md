@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pageone.ph privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614015634id_/http%3A//www.pageone.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageone.ph privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612003254id_/http%3A//pageone.ph/privacy-policy) for the most accurate reproduction.*
 
-# PageOne.ph. Conversations start here.
+# Privacy Policy | PAGEONE.
 
 PageOne.ph is a website that is developed and managed by PAGEONE MEDIA & COMMUNICATIONS PHILIPPINES, Inc. 
 
