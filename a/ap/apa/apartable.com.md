@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartable.com privacy policy that was archived on 2015-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150818103959id_/http%3A//apartable.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartable.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611155004id_/http%3A//apartable.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Apartable
 
@@ -82,9 +82,4 @@ This policy was last modified on February 1, 2012
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[Apartable](http://apartable.com/)  
-222 Broadway, 20th Floor  
-New York, NY 10007 USA  
-Email: [hello@apartable.com](mailto:hello@apartable.com). 
+If there are any questions regarding this privacy policy you may contact us at [hello@apartable.com](mailto:hello@apartable.com). 
