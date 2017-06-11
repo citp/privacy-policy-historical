@@ -1,58 +1,60 @@
-> *The following text is extracted and transformed from the ewandoo.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211215521id_/http%3A//www.ewandoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewandoo.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611174245id_/http%3A//ewandoo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ewandoo
-
-This Privacy Policy governs the manner in which Ewandoo collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.ewandoo.com](http://www.ewandoo.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Ewandoo.
-
-**Personal identification information**
-
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
-
-**Non-personal identification information**
-
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
-
-**Web browser cookies**
-
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
-
-**How we use collected information**
-
-Ewandoo may collect and use Users personal information for the following purposes:
-
-  * _– To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _– To send periodic emails_  
-We may use the email address to send them information and updates pertaining to their order. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+# Privacy Policy - Ewandoo Free Printables Worksheets for Students
 
 
 
-**How we protect your information**
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+## Privacy Policy
 
-**Sharing your personal information**
+ _[ _Home_](http://ewandoo.com/ "Back to Home Page")_  ›  _[_Privacy Policy_](http://ewandoo.com/privacy-policy/ "Privacy Policy - Ewandoo Free Printables Worksheets for Students")_
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+ **Your privacy at Ewandoo**  
+We gather no personal information about you when you visit the website (Ewandoo), unless, you prefer to provide the information to us. Yet, we collect and store particular information automatically, and the following are what we do to handle it.
 
-**Advertising**
+**What We Collect and Store Automatically**  
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+  * The Internet domain (for example, "website.com" if you use a private Internet access account, or "highschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website.
+  * The type of browser and operating system used to access our site.
+  * The date and time you access our site.
+  * The pages you visit.
+  * If you linked to our website from another website, the address of that website.
 
-**Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-**Changes to this privacy policy**
+We use the information we collect to count the number and type of visitors to the different pages on our site, and to help us make our site more useful to visitors like you.
 
-Ewandoo has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+If you send us an e-mail or a comment, you may choose to provide us with personal information, such as your name or your e-mail address. We use the information to improve our service to you or to respond to your request.
 
-**Your acceptance of these terms**
+Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations.
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.ewandoo.com/terms-of-service/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**Cookies**  
+To save you comment's information every time you visit Ewandoo, we place a little text file called a "cookie" on your hard drive. It sits in your web browser directory.
 
-**Contacting us**
+A cookie lets us store your profile information on your computer and let's our web site retrieve it when you visit our site. No other web site can use or view the cookie set by Ewandoo.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Ewandoo](http://www.ewandoo.com/)  
-[http://www.ewandoo.com](http://www.ewandoo.com/)
+Cookies help us create a speedy web experience by remembering your address and email information, so you don't have to re-type it when making comments.
+
+We do not use cookies to track your movements through our site.
+
+Google, as a third party vendor, uses cookies to serve ads on this site.
+
+Google's use of the DART cookie enables it to serve ads to our users based on their visit to Ewandoo and other sites on the Internet.
+
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://ewandoo.com/out/d3d3Lmdvb2dsZS5jb20vcHJpdmFjeV9hZHMuaHRtbA==/).
+
+**Links to Other Sites**  
+Ewandoo has links to partners and other sites. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+
+**Restriction of Liability**  
+Ewandoo makes no claims, promises or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website.
+
+No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources.
+
+Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by Ewandoo.
+
+**Amendments to this Privacy Policy**  
+We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will prominently post notice of the changes at this URL. Any material changes to this Privacy Policy will be effective when posted.
+
+Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof.
