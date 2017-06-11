@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127121446id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheplayroom.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611194644id_/http%3A//intheplayroom.co.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - In The Playroom
 
