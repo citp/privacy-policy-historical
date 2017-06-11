@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124000610id_/http%3A//rabble.ca/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611155918id_/http%3A//rabble.ca/about/privacypolicy) for the most accurate reproduction.*
 
 # privacy policy | rabble.ca
 
@@ -26,15 +26,15 @@ _Collection of Traffic Data_
 When you visit _rabble.ca_ , our systems collect basic information about your computer, including: IP address (your computer's unique signature), operating system (e.g., Windows 95), browser software (e.g., Microsoft Internet Explorer, Netscape), Internet Service Provider (e.g., AOL). We also collect information about what you view on the site. This information reflects the user population as a whole and is used to help us better understand the _rabble.ca_ community. This information helps us identify popular features and content on our site. 
 
 _Use of Cookies to Collect Information from Users_  
-_rabble.ca_ monitors traffic on its Site using "cookies." "Cookies" are small information packets that a website creates which are stored on the hard drive of a user's computer by the user's browser. _rabble.ca_ uses cookies to track and collect information relating to a User's use of the Site, including, without limitation, the pages visited by Users, any special formation requested by Users and any other User preferences (collectively, "User Information"). If a User does not want rabble.ca to collect such User Information, a User may reset his or her browser so that it does not accept cookies. Disabling cookies may limit a User's ability to access some of the information or services available on the Site. 
+ _rabble.ca_ monitors traffic on its Site using "cookies." "Cookies" are small information packets that a website creates which are stored on the hard drive of a user's computer by the user's browser. _rabble.ca_ uses cookies to track and collect information relating to a User's use of the Site, including, without limitation, the pages visited by Users, any special formation requested by Users and any other User preferences (collectively, "User Information"). If a User does not want rabble.ca to collect such User Information, a User may reset his or her browser so that it does not accept cookies. Disabling cookies may limit a User's ability to access some of the information or services available on the Site. 
 
 **USE OF INFORMATION**
 
 _Processing of Application Forms_  
-_rabble.ca_ uses the Personal Information it collects as part of the Application Form to process the applications of Members. In addition, rabble.ca will use Personal Information to provide continued service to its Members. _rabble.ca_ will also collect and store Personal Information collected from Members for back-up, archival and other record keeping purposes. 
+ _rabble.ca_ uses the Personal Information it collects as part of the Application Form to process the applications of Members. In addition, rabble.ca will use Personal Information to provide continued service to its Members. _rabble.ca_ will also collect and store Personal Information collected from Members for back-up, archival and other record keeping purposes. 
 
 _Improvement of Site and User Customization_  
-_rabble.ca_ uses User Information collected in order to learn which areas of the Site are popular and which are not so that it can improve and update the Site and the information available on the Site. _rabble.ca_ also uses User Information to customize the delivery of information, services and advertisements to best meet a User's preferences. 
+ _rabble.ca_ uses User Information collected in order to learn which areas of the Site are popular and which are not so that it can improve and update the Site and the information available on the Site. _rabble.ca_ also uses User Information to customize the delivery of information, services and advertisements to best meet a User's preferences. 
 
 _E-Mail Notices_  
 After signing up online to receive an _rabble.ca_ e-mail notice, users will start receiving an e-mail notice and other occasional announcements from _rabble.ca_. In order to distribute our newsletters, we collect subscribers' e-mail addresses. We do not share addresses with other companies or partners. Users can choose to unsubscribe from rabble.ca e-mail list at any time by following the unsubscribe instructions found in the initial e-mail message sent to subscribers, visiting the newsletter sign-up page or sending e-mail to [business@rabble.ca](mailto:business@rabble.ca). 
@@ -42,7 +42,7 @@ After signing up online to receive an _rabble.ca_ e-mail notice, users will star
 _rabble.ca_ offers a service which allows our users to inform friends about an article they might be interested in reading. In order for this feature to function, we ask for e-mail addresses from the sender and for the recipient. We do not store or save these addresses and you will not receive any communication from _rabble.ca_ as a result of having used this feature. 
 
 _babble_  
-_rabble.ca_ makes the babble discussion boards available to its Users. Please remember that any information that is disclosed in these areas becomes publicly available and you should therefore exercise caution when disclosing Personal Information. 
+ _rabble.ca_ makes the babble discussion boards available to its Users. Please remember that any information that is disclosed in these areas becomes publicly available and you should therefore exercise caution when disclosing Personal Information. 
 
 You are responsible for the content of the messages that you post to babble. _rabble.ca_ does not assume any responsibility for the content that you or any other members post to babble. 
 
