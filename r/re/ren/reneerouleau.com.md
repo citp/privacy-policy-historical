@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316133608id_/https%3A//www.reneerouleau.com/company/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reneerouleau.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612000319id_/https%3A//www.reneerouleau.com/pages/company-privacy-terms) for the most accurate reproduction.*
 
-# Privacy & Terms - Renee Rouleau®
+# Privacy & Terms – Renée Rouleau Skin Care
 
 We recognize that every visitor to RenéeRouleau.com (the "Site") is concerned about maintaining privacy. Therefore, it is our goal to make each visitor feel secure about accessing and using our Site. Set forth below is an explanation of what information Renée Rouleau collects through the services available on our Site, how we use that information, how you can opt out of certain uses of information we may collect, and a description of the policies we have adopted to help meet your privacy concerns.
 
