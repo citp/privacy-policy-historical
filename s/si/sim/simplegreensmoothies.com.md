@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplegreensmoothies.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225174031id_/http%3A//simplegreensmoothies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplegreensmoothies.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611205113id_/http%3A//simplegreensmoothies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Simple Green Smoothies
 
@@ -8,10 +8,10 @@ At Simple Green Smoothies, LLC (“Simple Green Smoothies”) we are committed t
 
 Our Privacy Policy explains:
 
-  * **Why** we collect personally identifiable information;
-  * **What** personally identifiable information we collect;
-  * **How** we use that information, including how the information is stored and whether we share the information with third parties; and
-  * **Your choices** regarding our collection, use, and distribution of that information.
+  *  **Why** we collect personally identifiable information;
+  *  **What** personally identifiable information we collect;
+  *  **How** we use that information, including how the information is stored and whether we share the information with third parties; and
+  *  **Your choices** regarding our collection, use, and distribution of that information.
 
 
 
@@ -25,23 +25,23 @@ Simple Green Smoothies’ Privacy Policy DOES NOT apply to any information that 
 
 Simple Green Smoothies collects two types of information from you: personally identifiable information (e.g., information that can be used to identify you specifically, such as your name, e-mail address, billing address, telephone number, credit card information, etc.) and non-personally identifiable information (e.g., information that reasonably could not be linked to or associated with you or aggregated anonymous data, etc.).
 
-**Newsletter Subscription**
+ **Newsletter Subscription**
 
 When you subscribe to our newsletter, we collect the name and e-mail address that you submit to our newsletter subscription form.
 
-**Challenge Signup**
+ **Challenge Signup**
 
 When you sign up to participate in our free or paid green smoothie challenges, we collect the name and e-mail address that you submit to our challenge signup form.
 
-**Digital Product Download**
+ **Digital Product Download**
 
 When you purchase one of our Digital Products, we collect your name, e-mail address, credit card information, and billing address through PayPal or Authorize.net. When you purchase a free Digital Product, we only collect your name and e-mail address.
 
-**Promotions**
+ **Promotions**
 
 If you participate in a Simple Green Smoothies promotion like a giveaway, contest, or sweepstakes, we collect and store the name and e-mail address you submit to enter the promotion.
 
-**Surveys**
+ **Surveys**
 
 If you participate in a Simple Green Smoothies survey, we may collect your name and e-mail address in connection with that survey, as well as the information you agree to submit in the survey.
 
