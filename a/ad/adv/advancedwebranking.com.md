@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the advancedwebranking.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416211557id_/https%3A//www.advancedwebranking.com/online/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedwebranking.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611104058id_/https%3A//www.advancedwebranking.com/cloud/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Advanced Web Ranking Cloud
+# Privacy Policy
 
-##  Privacy policy
+## Privacy policy
 
 This policy describes how the AWR Cloud uses and secures the information that you provide when using this website. The information we ask you to provide will be used only in accordance with the policy herein.
 
@@ -32,17 +32,17 @@ We do not store your billing information. All the information is stored and proc
 
 ### What we do with the information we collect
 
-We gather this information to provide you with a unique service account and to better understand your needs. We also use the information for the following purposes: 
+We gather this information to provide you with a unique service account and to better understand your needs. We also use the information for the following purposes:
 
   * Internal record keeping in order to maintain and protect our services.
   * For marketing research purposes in order to improve our services or to create new ones.
-  * Provide you with information about your subscription to the Service, including expiration, renewal or upgrade details. 
+  * Provide you with information about your subscription to the Service, including expiration, renewal or upgrade details.
   * To notify you about changes to our website or any products or services we offer or provide through it.
-  * To send you, from time to time, promotional emails about special offers and new products that we think you may find interesting. You can always unsubscribe if you no longer wish to receive these messages. 
+  * To send you, from time to time, promotional emails about special offers and new products that we think you may find interesting. You can always unsubscribe if you no longer wish to receive these messages.
 
 
 
-### Data Security 
+### Data Security
 
 AWR Cloud commits to ensuring that your private information is secure. To prevent unauthorized access, the administrator's account and users' accounts are accessed via a user and a password and all pages inside the accounts are served through a secure HTTPS connection.
 
@@ -52,7 +52,7 @@ Per the policy herein, we will not sell, distribute or lease your personal infor
 
 This policy is effective from Sep 4, 2012 and may be subject to changes from time to time, by updating this page.
 
-##  Cancellation policy 
+##  Cancellation policy
 
 This policy describes how AWR Cloud handles refunds and cancellation of the paid subscription plans.
 
@@ -62,7 +62,7 @@ If you are not 100% satisfied with your subscription, you can return your order 
 
 Refunds are usually processed within 7 business days from the date the refund request was submitted.
 
-#### Cancelling the subscription 
+#### Cancelling the subscription
 
 You can cancel your paid subscription at any time, after the initial 30 days. To do this, you need to log in your AWR Cloud account, go to Settings -> Subscription Details and click on the Cancel Account button.
 
