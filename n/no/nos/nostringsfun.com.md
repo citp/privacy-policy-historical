@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nostringsfun.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121115519id_/http%3A//www.nostringsfun.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nostringsfun.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611163630id_/http%3A//secure.secure.browse.nostringsfun.com/site/privacy) for the most accurate reproduction.*
 
 # No Strings Fun
 
@@ -91,16 +91,3 @@ You have the following choices to modify or delete your profile information from
 #### 11\. Opt-out provisions
 
 You can unsubscribe at any time by clicking the 'unsubscribe' link at the bottom of our mails. When clicking the unsubscribe link, you will be instantly removed from all the mailing lists of FH International. You can also choose to opt-out through the email preference center of your profile by clicking on 'Account Settings' when logged in. 
-
-  
-
-
-#### Our address:
-
-Service Development Limited  
-PO Box 440  
-Envoy House, La Vrangue  
-GY1 3ZN  
-St Peter Port  
-Guernsey  
-+1 661 705-5088 
