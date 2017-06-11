@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the realex.ie privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408002903id_/https%3A//www.realexpayments.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realex.ie privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611235049id_/https%3A//www.realexpayments.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Realex Payments
+
+Please note if the country where your business is registered is not listed, you will require a third party merchant account with one of our acquiring bank partners.
+
+A merchant account is separate from your business account, set up with an acquiring bank, which enables you to accept payments by credit and debit card.
+
+See a full list of our acquiring bank partners [here](https://www.realexpayments.com/partners/acquirers)
+
+Close
+
+This site uses cookies to enhance your user experience. If you would like to review our cookie policy, please click [here](https://web.archive.org/cookie-policy)[X]()
 
 ## General Information
 
@@ -8,7 +18,7 @@ Pay and Shop Limited, trading as Realex Payments must comply with the Data Prote
 
 This Privacy Statement sets out the basis, on which any personal data you provide to us, or we collect from you through our website(s), our Applications and Services, or our operating partners will be processed by us.
 
-If you do not agree with this Privacy Statement, you should not use our applications, services or websites.
+If you do not agree with this Privacy Statement, you should not use our applications, services or websites. 
 
 ## Statement of Data Protection and Privacy
 
@@ -16,13 +26,13 @@ Realex Payments will take appropriate measures to ensure confidentiality of all 
 
 Realex Payments is committed to and complies with all relevant Data Protection and Privacy legislation and/or regulations of the jurisdictions within which we operate. We will ensure that your personal data can be used only by authorised personnel for legally authorised purposes.
 
-We will only use personal data in our possession for its intended specific and authorised purpose. Your personal data may be transferred to contracted third parties, e.g. banks and other firms external to us or within our group for the purposes of providing our services to you. 
+We will only use personal data in our possession for its intended specific and authorised purpose. Your personal data may be transferred to contracted third parties, e.g. banks and other firms external to us or within our group for the purposes of providing our services to you.
 
 Your personal data will be retained and maintained in accordance with applicable Data Protection and Privacy laws and regulations.
 
 Via our applications or upon written request, we will amend the personal data we hold if factually incorrect, and provide you with a copy of any personal data held by us.
 
-All our employees are trained in applicable Data Protection and Privacy legislation and will act with due care and diligence when handling personal data. 
+All our employees are trained in applicable Data Protection and Privacy legislation and will act with due care and diligence when handling personal data.
 
 ## Information we collect
 
@@ -40,16 +50,16 @@ Realex Payments may integrate to third-party websites and/or applications (Faceb
 
 ## Retention
 
-Realex Payments must comply with a number of statutory and regulatory requirements in relation to the retention of data. Your personal data must be retained for a period of no less than six years following the closure or your account with us, or six years from the date of the last transaction, whichever is the later. We do not sell or rent your personal information to any third parties for marketing purposes. 
+Realex Payments must comply with a number of statutory and regulatory requirements in relation to the retention of data. Your personal data must be retained for a period of no less than six years following the closure or your account with us, or six years from the date of the last transaction, whichever is the later. We do not sell or rent your personal information to any third parties for marketing purposes.
 
 ## Sale of Business
 
-We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of our Privacy Statement and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out. 
+We reserve the right to transfer information (including your Personal Data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of our company provided that the third party agrees to adhere to the terms of our Privacy Statement and provided that the third party only uses your Personal Data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out.
 
 ## Changes to this Privacy Statement
 
-We continue to review our controls and processes to assure that they are effective in meeting our commitments to our customers. Realex Payments reserves the right to change this Privacy Statement without notice at any time and from time to time, including as needed to comply with the laws and regulations of the jurisdictions within which we operate. 
+We continue to review our controls and processes to assure that they are effective in meeting our commitments to our customers. Realex Payments reserves the right to change this Privacy Statement without notice at any time and from time to time, including as needed to comply with the laws and regulations of the jurisdictions within which we operate.
 
 ## Accessing and Correcting your Personal Information
 
-Under the Data Protection Acts 1988 and 2003 (as amended), you have a right to seek access to personal information which we hold about you. You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date. You also have the right, in certain circumstances to request that we delete your personal information. Any such request should be made to us in writing to: Data Protection Officer, Realex Payments, 3rd Floor, The Observatory, 7-11 Sir John Rogerson’s Quay, Dublin 2, Ireland or by email to [support@realexpayments.com](mailto:support@realexpayments.com). The current fee for processing a Data Access Request is €6.35. We will ordinarily provide you with a print-out of the relevant personal information from our current databases, or with photocopies of records which are held only on current paper files. Your request will be dealt with as soon as possible and in any event within 40 days. 
+Under the Data Protection Acts 1988 and 2003 (as amended), you have a right to seek access to personal information which we hold about you. You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date. You also have the right, in certain circumstances to request that we delete your personal information. Any such request should be made to us in writing to: Data Protection Officer, Realex Payments, 3rd Floor, The Observatory, 7-11 Sir John Rogerson’s Quay, Dublin 2, Ireland or by email to support@realexpayments.com. The current fee for processing a Data Access Request is €6.35. We will ordinarily provide you with a print-out of the relevant personal information from our current databases, or with photocopies of records which are held only on current paper files. Your request will be dealt with as soon as possible and in any event within 40 days.
