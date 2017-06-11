@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesecretworld.com privacy policy that was archived on 2012-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120614194915id_/http%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecretworld.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611130627id_/https%3A//www.funcom.com/corporate/privacy_policy) for the most accurate reproduction.*
 
 # funcom.com | Funcom Privacy Policy
 
@@ -20,7 +20,7 @@ Non-personal Information: Funcom may from time to time collect information such 
 
 Information In Transit: To protect private and confidential information from interception and visibility to unauthorized persons while in transit, the connection between your web browser and the registration server operated by Funcom is encrypted and verified using Secure Socket Layer (SSL) technology. When setting up a unique session between you and Funcom, the server at Funcom will send its public key to your browser. In return, your browser will generate a randomly generated secret key based on the key it received from Funcom. This key is then sent back and checked by the server at Funcom. Transferring personal data over the Internet may involve transferring the data on electronic systems in jurisdictions with a different level of data protection regulations than in the EEA. By accepting this Privacy Policy you accept that transfer of personal data can take place over the Internet by use of electronic systems in such jurisdictions.
 
-Information In Storage: Information you provide to Funcom is stored on servers operated by Funcom AS, Oslo, Norway on behalf of Funcom Sales GmBH, and physically placed in the United States and The Netherlands. The servers handling registrations are placed in a physically shielded environment. By clicking on the padlock symbol in your browser you can check the information encapsulated in the certificate to verify you are connected to the registration server owned and operated by Funcom.
+Information In Storage: Information you provide to Funcom is stored on servers operated by Funcom AS, Oslo, Norway and physically placed in the United States and The Netherlands. The servers handling registrations are placed in a physically shielded environment. By clicking on the padlock symbol in your browser you can check the information encapsulated in the certificate to verify you are connected to the registration server owned and operated by Funcom.
 
 While Funcom uses reasonable efforts to protect your privacy, due to the nature of the Internet we cannot guarantee that a third party will not be able to unlawfully intercept a private communication. BY ACCEPTING THIS PRIVACY POLICY, YOU ACCEPT THE RISKS RELATED TO POSSIBLE UNLAWFUL INTERCEPTIONS OR EXPLOITATIONS OF YOUR INFORMATION BY THIRD PARTIES AND RELEASE FUNCOM OF ANY LIABILITY IN THIS REGARD.
 
@@ -67,6 +67,7 @@ In the event Funcom decides to change the Privacy Policy you will receive notice
 ### How to access and rectify my information?
 
 If you wish to access or rectify the information which Funcom has stored about you, please contact:  
-Funcom Sales GmbH,  
-Neugutstrasse 66,  
-8600 Dübendorf Switzerland
+Funcom Oslo AS   
+Bestumstubben 11   
+N-0281 Oslo   
+Norway 
