@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220183447id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beforward.jp privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611023215id_/http%3A//www.beforward.jp/privacy) for the most accurate reproduction.*
 
 # Japanese Used Cars | BE FORWARD | Privacy Policy
 
@@ -41,7 +41,7 @@ Please read our Privacy Policy carefully !
      Members information: We shall not disclose your membership information to any third party, other than for legal/relevent reasons. 
 
 3.3
-     Purchase Request Information: We use Purchase Request Information to process your request and provide valuable service. This information may be passed on to our accredited dealers, manufacturers and fulfillment partners for completion of the sale pursuant to contractual rights granted by us. Once our accredited dealer receives this information, it becomes the property of the dealership in addition to ours. 
+     Purchase Request Information: We use Purchase Request Information to process your request and provide valuable service. This information may be passed on to our agents, accredited dealers, manufacturers and fulfillment partners for completion of the sale pursuant to contractual rights granted by us. Once our accredited dealer receives this information, it becomes the property of the dealership in addition to ours. 
 
 3.4
      Billing & Payment Information: The Billing & Payment Information which we collect shall not be disclosed to any third party, other than for legal reasons implied in the transaction. The billing & payment information you have voluntarily provided while purchasing online has been registered. This information is used to process your order and could later be used for further promotional marketing purposes. As part of our marketing policy to advise you of any other offers of related products or services, we may allow other departments of BE FORWARD, and the group to which it belongs, to have your name and address and/or email address. 
