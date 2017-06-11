@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wallpapercave.com privacy policy that was archived on 2016-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223213132id_/http%3A//wallpapercave.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wallpapercave.com privacy policy that was archived on 2017-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611113032id_/http%3A//wallpapercave.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -9,7 +9,7 @@
   <link rel="shortcut icon" href="/favicon.ico">
   <link href="http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900" rel="stylesheet" type="text/css">
   <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,300" rel="stylesheet" type="text/css">
-  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=1732174797018864"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="/js/jquery.cookie.js"></script>
   <script src="/js/wcave.js"></script>
   <script src="/js/cookies-consent.js"></script>
@@ -18,6 +18,22 @@
     if (top.location!= self.location) {
       top.location = self.location.href
     }
+    /*
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 99) {
+            $('#scrollarrow').fadeIn();
+        } else {
+            $('.#scrollarrow').fadeOut();
+        }
+    });
+
+    $('#scrollarrow').click(function () {
+        $("html, body").animate({
+            scrollTop: 0
+        }, 599);
+        return false;
+    });
+    */
   //-->
   </script>
 
@@ -33,14 +49,6 @@
 </head>
 
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1732174797018864";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
   
   <div id="headerc"><div id="header">
     <a href="/"><img id="logo" src="/logo.png" width="149"></a>
@@ -50,6 +58,24 @@
       <input type="text" placeholder="Search wallpapers..." id="q" name="q"><button id="submitsearch" title="Search" type="submit">Search</button>  
     </form>
     <ul id="menu">
+      <li id="catsm"><a href="/categories">Categories</a>
+        <ul>
+          <li><a href="/categories/holidays">Holidays</a></li>
+          <li><a href="/categories/animals">Animals</a></li>
+          <li><a href="/categories/nature-space">Nature / Space</a></li>
+          <li><a href="/categories/geography">Geography</a></li>
+          <li><a href="/categories/games">Games</a></li>
+          <li><a href="/categories/sports">Sports</a></li>
+          <li><a href="/categories/brands">Brands</a></li>
+          <li><a href="/categories/motor">Motor</a></li>
+          <li><a href="/categories/cartoons">Cartoons</a></li>
+          <li><a href="/categories/superheroes">Superheroes</a></li>
+          <li><a href="/categories/movies-celebrities">Movies / Celebrities</a></li>
+          <li><a href="/categories/religion">Religion</a></li>
+          <li><a href="/categories/music">Music</a></li>
+          <li><a href="/categories/others">Others</a></li>
+        </ul>
+      </li>
           <li id="myfavorites-loggedout"><a href="/favorites">My favorites</a></li>
       <li id="signin"><a href="/signin?redirect=http://wallpapercave.com/privacy">Sign in</a></li>
       <li id="signup"><a href="/signup?redirect=http://wallpapercave.com/privacy">Create an account</a></li>
@@ -129,13 +155,15 @@
     <div id="fsocial">
       <h2>Follow us</h2>
       <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fwallpapercave&amp;width=122&amp;layout=button_count&amp;action=like&amp;size=small&amp;show_faces=true&amp;share=true&amp;height=46" width="122" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-      <a href="https://www.instagram.com/wallpapercave/"><img id="igram" height="20" src="/img/instagram.png" alt="Follow us on Instagram"></a>
+      <a id="figram" href="https://www.instagram.com/wallpapercave/"><img id="igram" height="20" src="/img/instagram.png" alt="Follow us on Instagram"></a>
       <a href="https://twitter.com/WallpaperCave" class="twitter-follow-button" data-show-count="false">Follow @WallpaperCave</a><script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
     <div id="rights">
-      <p>Copyright © WallpaperCave 2014 - 2016. All Right Reserved.</p>
+      <p>Copyright © WallpaperCave 2014 - 2017. All Right Reserved.</p>
     </div>
   </div></div>
+  
+  <a href="#" id="scrollarrow">Scroll up this page</a>
 	
 	
   <!-- Start of StatCounter Code for Default Guide -->
