@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duoboots.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010193447id_/http%3A//www.tedandmuffy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duoboots.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611202410id_/http%3A//www.tedandmuffy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Ted&Muffy
 
@@ -65,7 +65,7 @@ By using the Ted&Muffy website you acknowledge and agree that:
 
 • You consent to Ted&Muffy contacting you in the ways outlined in this privacy policy, whether by telephone, e-mail, sms or in writing, and you confirm that you do not and will not consider any of this contact as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-• If you do not want us to use your personal data for marketing purposes or to pass your details on to third parties for marketing purposes, please tick or untick the relevant boxes situated in the account creation and purchasing process, displayed to you before placing an order. If you have previously given permission for us to use your data for marketing purposes, and wish to revoke this permission, please use the unsubscribe link within any of Ted&Muffy ’s marketing emails, or contact [enquiries@tedandmuffy.com](mailto:enquiries@tedandmuffy.com) to make this request.
+• If you do not want us to use your personal data for marketing purposes or to pass your details on to third parties for marketing purposes, please tick or untick the relevant boxes situated in the account creation and purchasing process, displayed to you before placing an order. If you have previously given permission for us to use your data for marketing purposes, and wish to revoke this permission, please use the unsubscribe link within any of Ted&Muffy ’s marketing emails, or contact [customercare@tedandmuffy.com](mailto:customercare@tedandmuffy.com) to make this request.
 
 • If you do not want to accept cookies you will be unable to use some of this website’s features, as they depend technically on the use of cookie technology. Find out more about how to block cookies in our cookie policy [here](https://web.archive.org/cookie-policy.html).
 
@@ -73,7 +73,7 @@ By using the Ted&Muffy website you acknowledge and agree that:
 
 **Accessing your information**
 
-If you want to access or update any of your personal information held by Ted&Muffy , you can amend or update your profile online in the My Account section of the website here. To completely remove your details from our database, or to request cessation of contact from Ted&Muffy , or for any enquiries relating to your personal information or profile with Ted&Muffy , please contact us at enquiries@Ted&Muffy boots.com.
+If you want to access or update any of your personal information held by Ted&Muffy , you can amend or update your profile online in the My Account section of the website here. To completely remove your details from our database, or to request cessation of contact from Ted&Muffy , or for any enquiries relating to your personal information or profile with Ted&Muffy , please contact us at [customercare@tedandmuffy.com](mailto:customercare@tedandmuffy.com).
 
 Ted&Muffy reserves the right to access and disclose personal information to comply with applicable laws and lawful government requests, to operate its systems properly, or to protect itself or its users.
 
@@ -93,7 +93,7 @@ You can tell whether a page is secure as 'https' will replace the 'http' at the 
 
 To view our security certificate [click here](https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&dn=www.tedandmuffy.com&lang=en) (opens a new window).
 
-Your payment details are held in an encrypted format until we process your order. If you have any questions regarding our credit card security policies please contact us at [enquiries@tedandmuffy.com](mailto:enquiries@tedandmuffy.com).
+Your payment details are held in an encrypted format until we process your order. If you have any questions regarding our credit card security policies please contact us at [customercare@tedandmuffy.com](mailto:customercare@tedandmuffy.com).
 
 ### 3\. COOKIES
 
