@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techliquidators.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208085900id_/http%3A//www.bestbuy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techliquidators.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611181242id_/http%3A//www.bestbuy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -239,13 +239,7 @@ Our website includes ways to interact and share using social media, through feat
 
 ### TRUSTe Privacy Seal
 
-Best Buy has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, www.BestBuy.com, and does not cover information that may be collected through our mobile applications or through downloadable software.
-
-If you have questions or concerns regarding our privacy policy or practices, please contact us at [PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com). If you are not satisfied with our response, you can [file a report with TRUSTe](https://feedback-form.truste.com/watchdog/request). 
-
-[Contact TRUSTe for fax and postal mail information ›](https://www.truste.com/about-TRUSTe/contact-us+/)   
-(TRUSTe's Dispute Resolution process is only available in English.)   
-[Read the TRUSTe Enterprise Privacy Certification Standards ›](https://www.truste.com/privacy-certification-standards/program-requirements/)
+If you have questions or concerns regarding our privacy policy or practices, please contact us at [PrivacyManager@bestbuy.com](mailto:PrivacyManager@bestbuy.com). If you have an unresolved privacy or data-use concern that we have not addressed to your satisfaction, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ### Privacy Policy Updates
 
@@ -267,4 +261,4 @@ Attn: Customer Care/Privacy
 7601 Penn Avenue South  
 Richfield, MN 55423-3645 
 
-Last Updated: February 19, 2016
+Last Updated: May 19, 2017
