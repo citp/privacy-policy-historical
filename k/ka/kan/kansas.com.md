@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120221725id_/http%3A//www.kansas.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansas.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611204625id_/http%3A//www.kansas.com/site-services/legal/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | The Wichita Eagle & Kansas.com The Wichita Eagle
 
@@ -239,7 +239,7 @@ We reserve the right to update this Privacy Policy from time to time by posting 
 
 If you have any questions or comments about our privacy practices, we may be reached at   
 Kansas.com,   
-825 E. Douglas, Wichita, KS 67202,   
+330 N. Mead, Wichita, KS 67202,   
 316-268-6000   
 or at [webmaster@wichitaeagle.com](mailto:webmaster@wichitaeagle.com). 
 
