@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051418id_/http%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611184836id_/http%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
@@ -39,3 +39,11 @@ Transaction mail, Shipping notification, Weekly deal, Promotion, Activity.
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
 
 The purpose of Criteo Dynamic Email is to find visitors of Criteo advertising clients’ properties (websites, apps and newsletters) and send them personalized emails.Criteo uses cookies to single out users and then personalize ads based on their browsing experience.To learn more or opt out of Criteo Dynamic Email [click here](http://edm.sammydress.com/?email={$email}). 
+
+#### Contact Details
+
+Tel : 0755-84358466-8055 
+
+Email : support@sammydress.com 
+
+Advancer Limited  Address: Third Floor  207 Regent Street  W1B 3HH London UK
