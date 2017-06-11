@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112095821id_/http%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obd-codes.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611165754id_/https%3A//www.obd-codes.com/misc/privacy-policy.php) for the most accurate reproduction.*
 
 # OBD-Codes.com Privacy Policy
 
@@ -15,9 +15,9 @@ NOTE: By using this site, you agree to the terms of the OBD-Codes.com privacy po
 
 
 Here is the information we have right now regarding your visit:  
-**IP Address:** 207.241.229.214  
+**IP Address:** 54.67.87.36  
 **Remote Hostname:**   
-**Referring Page:** http://www.obd-codes.com/
+**Referring Page:** https://www.obd-codes.com/
 
 ## Information Sharing And Disclosure
 
@@ -47,7 +47,7 @@ We aren't responsible for information that may be gathered by ad networks, affil
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-  * If you have questions or complaints regarding our privacy policy or use of your information, please [contact us using this form](https://web.archive.org/contactus.php) or by mail at:  
+  * If you have questions or complaints regarding our privacy policy or use of your information, please [contact us using this form](https://www.obd-codes.com/contactus.php) or by mail at:  
 OBD-Codes.com  
 P.O. Box 2032  
 Moose Jaw, SK S6H 7N7  
@@ -62,4 +62,4 @@ Canada
 
 Privacy Policy last updated March 25,2009.
 
-NOTE: This information is presented for information purposes only. It is not intended as repair advice and we are not responsible for any actions you take on any vehicle. All information on this site is copyright protected. If you want to share this article or information with others, please link to this page, don't copy and paste it elsewhere.
+NOTE: This information is presented for information purposes only. It is not intended as repair advice and we are not responsible for any actions you take on any vehicle. All information on this site is copyright protected.
