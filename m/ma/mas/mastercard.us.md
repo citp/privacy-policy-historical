@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.us privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021150738id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.us privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612003816id_/https%3A//www.mastercard.us/en-us/about-mastercard/what-we-do/privacy.html) for the most accurate reproduction.*
 
 # Mastercard Global Privacy Policy
 
@@ -89,9 +89,9 @@ You can opt out of the collection and use of certain information, which we colle
 
 You can opt out of certain uses of information, which we collect about you by automated means, when you visit third-party websites and interact with our ads. We may use service providers to serve ads on those third-party websites. These ads may be customized and served based on the use of data we (and our partners) have collected on our websites and apps. In addition, some of our service providers and partners may collect information about your online activities over time and across third-party websites to customize and serve these ads. Mastercard advertisements are sometimes delivered with icons that help consumers (i) learn more about how their data is being used and (ii) exercise choices they may have regarding the use of their data. Please [click here](http://www.adobe.com/privacy/opt-out.html "click here") or, where applicable, on the icon in our targeted advertisements to learn about your ability to opt out or limit the use of your browsing behavior for online behavioral advertising purposes.
 
-You can at any time tell us not to send you marketing communications by e-mail by clicking on the unsubscribe link within the marketing e-mails you receive from us or by contacting us as indicated below.  You also may opt out of receiving marketing e-mails from Mastercard by [clicking here](https://www.mastercard.com/us/personal/en/general/email-opt-out.html "clicking here").
+You can at any time tell us not to send you marketing communications by e-mail by clicking on the unsubscribe link within the marketing e-mails you receive from us or by contacting us as indicated below. You also may opt out of receiving marketing e-mails from Mastercard by [clicking here](https://web.archive.org/en-us/about-mastercard/what-we-do/privacy/email-opt-out.html "clicking here").
 
-As indicated above, we may anonymize personal information to perform data analyses.  To opt-out of such anonymization, [click here](https://www.mastercard.com/us/personal/en/general/data-analytics-opt-out.html "click here").
+As indicated above, we may anonymize personal information to perform data analyses. To opt-out of such anonymization, [click here](https://web.archive.org/en-us/about-mastercard/what-we-do/privacy/data-analytics-opt-out.html "click here").
 
 If your employer provides your personal information to Mastercard, you may have certain choices with respect to Mastercard’s use or disclosure of the information. Please contact your employer to learn about and to exercise your choices.
 
@@ -109,7 +109,9 @@ If you provide us with any information or material relating to another individua
 
 We may transfer the personal information we collect about you to recipients in countries other than the country in which the information was originally collected, including the United States of America. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Global Privacy Notice or as otherwise disclosed to you at the time the data is collected (e.g. via program specific privacy notice).
 
-Mastercard is a global business. To offer our services, we may need to transfer your personal information among several countries, including the United States, where we are headquartered. We comply with applicable legal requirements providing adequate safeguards for the transfer of personal information to countries outside of the European Economic Area ("EEA") or Switzerland. 
+Mastercard is a global business. To offer our services, we may need to transfer your personal information among several countries, including the United States, where we are headquartered. We comply with applicable legal requirements providing adequate safeguards for the transfer of personal information to countries outside of the European Economic Area ("EEA") or Switzerland.
+
+In particular, we have established and implemented a set of Binding Corporate Rules (“ **BCRs** ”) that have been recognized by EEA data protection authorities as providing an adequate level of protection to the personal information we process globally. A copy of our BCRs is available [here](https://web.archive.org/content/dam/mccom/global/documents/mastercard-bcrs-february-2017.pdf "Binding Corporate Rules").
 
 ### How We Hold And Protect Personal Information
 
@@ -135,7 +137,7 @@ Mastercard International Incorporated
 Purchase, New York 10577  
 USA
 
-If you are located in the EEA or Switzerland, Mastercard Europe sprl may be the entity responsible for the processing of your personal information.  If you are located in the EEA or Switzerland, you may e-mail us at: [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com "privacyanddatausage@mastercard.com"); or write to us at:
+If you are located in the EEA or Switzerland, Mastercard Europe sprl may be the entity responsible for the processing of your personal information. If you are located in the EEA or Switzerland, you may e-mail us at: [privacyanddatausage@mastercard.com](mailto:privacyanddatausage@mastercard.com "privacyanddatausage@mastercard.com"); or write to us at:
 
 Global Privacy Officer  
 Mastercard Europe sprl  
