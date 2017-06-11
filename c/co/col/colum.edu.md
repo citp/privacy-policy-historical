@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colum.edu privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211033740id_/http%3A//www.colum.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colum.edu privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611033857id_/http%3A//www.colum.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Columbia College Chicago
 
@@ -16,7 +16,7 @@ We use remarketing services from Google and other providers. These providers use
 
 ## Web Analytics
 
-We use Google Analytics and other cookie or IP address-based tools to analyze website visitor behavior and technical information for reporting purposes. This information is not connected to your personal information.
+We use Google Analytics and other cookie or IP address-based tools to analyze website visitor behavior and technical information for reporting and marketing purposes. This information may be connected to your personal information, if you voluntarily provide any personal information to us.
 
 ## Sharing
 
