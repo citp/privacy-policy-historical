@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polaris.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119180251id_/http%3A//www.polaris.com/en-us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polaris.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611054737id_/http%3A//www.polaris.com/en-us/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Polaris
 
@@ -32,10 +32,10 @@ Polaris has implemented security measures to protect personal information provid
   8. Changes and Updates to Privacy Policy  
 By using the Polaris Websites, you consent to the collection, use and disclosure of your information as described in this Privacy Policy. This policy reflects Polaris’ current business practices, and is subject to change and update. In the event of any such change or update, a revised policy will be posted on the Polaris Websites, with the last date of update noted on the bottom of the page. Please check the Polaris Websites periodically to remain informed of any changes or updates to Polaris’ privacy policies and practices. If Polaris intends to disclose personal information collected from users of the Polaris Websites to third parties in a manner that is not already outlined in this Privacy Policy, Polaris will first notify you by email, and provide an opportunity to opt-out of any such use or disclosure of such information.
   9. Changes and Access to Personal Information  
-You may ask Polaris to correct, update or delete information you have provided to Polaris by: (i) sending Polaris an email at postoffice@polarisind.com; (ii) visiting the opt-out page of the Polaris Websites located at http://polarisindustries.com/optout and following the instructions on that page; or (iii) writing to Polaris at Polaris Industries, Inc., 2100 Hwy 55, Medina MN 55340, Attention: Webmaster. You should be sure to provide Polaris with any updates and changes to your personal information, including your email address. Unless otherwise required by law, Polaris will retain in its archives, and may use, any communications sent by you and/or any information you have provided to Polaris even after you cease to be a registered user of the Polaris Websites, or to otherwise use the Polaris Websites.
+You may ask Polaris to correct, update or delete information you have provided to Polaris by: (i) sending Polaris an email at postoffice@polarisind.com; or (ii) writing to Polaris at Polaris Industries, Inc., 2100 Hwy 55, Medina MN 55340, Attention: Webmaster. You should be sure to provide Polaris with any updates and changes to your personal information, including your email address. Unless otherwise required by law, Polaris will retain in its archives, and may use, any communications sent by you and/or any information you have provided to Polaris even after you cease to be a registered user of the Polaris Websites, or to otherwise use the Polaris Websites.
   10. Contact Us  
-If you have any questions about Polaris’ privacy policies and practices, please feel free to contact us by email at consumer.service@polarisind.com or by writing to us at Polaris Industries Inc., 2100 Hwy 55, Medina MN 55340, Attention: Webmaster.
+If you have any questions about Polaris’ privacy policies and practices, please feel free to contact us by phone at 1-800-POLARIS or by writing to us at Polaris Industries Inc., 2100 Hwy 55, Medina MN 55340, Attention: Customer Service.
 
 
 
-December 2002
+January 2017
