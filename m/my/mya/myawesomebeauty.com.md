@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myawesomebeauty.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126144522id_/http%3A//myawesomebeauty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myawesomebeauty.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611202636id_/https%3A//myawesomebeauty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
-As you can imagine, you will find here our privacy policy, which is pretty much the same as most other websites. If you need any more information or have any questions about our privacy policy, you are more than welcome to get in touch with us by email from[ our contact page](http://myawesomebeauty.com/contact-us/ "Contact us").
+As you can imagine, you will find here our privacy policy, which is pretty much the same as most other websites. If you need any more information or have any questions about our privacy policy, you are more than welcome to get in touch with us by email from[ our contact page](https://myawesomebeauty.com/contact-us/ "Contact us").
 
 At myawesomebeauty.com, we definitely consider the privacy of our readers or visitors to be extremely important. This privacy policy page describes in detail what personal information is collected and recorded by myawesomebeauty.com and how we use it.
 
