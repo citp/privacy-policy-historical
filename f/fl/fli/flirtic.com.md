@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flirtic.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204235654id_/http%3A//www.flirtic.com/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirtic.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611185938id_/http%3A//www.flirtic.com/index/privacy_policy) for the most accurate reproduction.*
 
 # Flirtic.com - Privacy
 
@@ -112,4 +112,4 @@ Users' use of Flirtic's website or any other services, including any dispute con
 
 ## Effective Date
 
-This Privacy Policy was last updated on 28.10.2014. Copyright © 2016 Flirtic OÜ. All rights reserved
+This Privacy Policy was last updated on 28.10.2014. Copyright © 2017 Flirtic OÜ. All rights reserved
