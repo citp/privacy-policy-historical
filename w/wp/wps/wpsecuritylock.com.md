@@ -1,9 +1,17 @@
-> *The following text is extracted and transformed from the wpsecuritylock.com privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509134643id_/https%3A//my.wpsecuritylock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsecuritylock.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611113250id_/https%3A//my.wpsecuritylock.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-PRIVACY POLICY  
-Effective Date: January 1, 2014
+* * *
+
+## INFORMATION SECURITY POLICY
+
+Please also see our [Information Security Policy](https://wpsecuritylock.com/digital/wpsl-information-security-policy.pdf) for information on our collection of personal information and how it’s used, children’s privacy, and our Company’s commitment to confidentiality and data security.
+
+* * *
+
+## PRIVACY POLICY  
+Effective Date: August 8, 2016
 
 To review material modifications and their effective dates scroll to the bottom of the page.
 
@@ -103,6 +111,6 @@ Attn: Privacy Policy Officer
 PO Box 212,  
 Davis Junction, IL, 61020  
 Email:  esupport [at] wpsecuritylock.com  
-Telephone: (815) 200-9775  
+Telephone: [866-977-5911 ](tel:+18669775911)  
 —  
-Material Modifications Since January 1, 2014:  none.
+Material Modifications Since August 8, 2016:  none.
