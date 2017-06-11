@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voya.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014024311id_/https%3A//www.voya.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voya.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611160913id_/https%3A//www.voya.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Voya Financial
 
@@ -29,7 +29,8 @@ Reasons we can share your personal information | Does Voya share? | Can you limi
 **For our everyday business purposes –  **  
 such as to process your transactions, maintain your   
 account(s), respond to court orders and legal   
-investigations, or report to credit bureaus | Yes | No  
+investigations, detect and prevent fraud, or  
+report to credit bureaus | Yes | No  
 **For our marketing purposes –**  
 to offer our products and services to you | Yes | No  
 **For joint marketing with other financial companies** | No | We don't share  
@@ -42,7 +43,7 @@ information about your creditworthiness | No | We don't share
   
 To limit our sharing
 
-  * Call our toll-free number (855) 685-9519 – our menu will prompt you through your choice(s)
+  * Call our toll-free number (855) 685-9519 – our menu will prompt you through your choice
 
 
 
@@ -116,7 +117,7 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 ### Other important information
 
-We will comply with more restrictive state laws to the extent that they apply. If you live in an "opt-in" state such as California or Vermont, we will obtain your affirmative consent to share your personal information with nonaffiliates who do not currently assist us in servicing your account or conducting our business. If you are a participant in a retirement plan sponsored by your current or former employer, we will not share your personal information to the extent prohibited by your plan sponsor.
+If you live in California or Vermont, we will obtain your affirmative consent to share your personal information with nonaffiliates who do not currently assist us in servicing your account or conducting our business. **If you are a participant in a retirement plan sponsored by your current or former employer, our contract with your plan sponsor may contain additional restrictions on the use or sharing of your personal information**.
 
 ### Voya affiliates
 
