@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkvist.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802114002id_/https%3A//checkvist.com/auth/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkvist.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611150251id_/https%3A//checkvist.com/auth/privacy) for the most accurate reproduction.*
 
 # Checkvist: Privacy policy
 
