@@ -1,39 +1,39 @@
-<!--The following is the downloaded HTML source of the chipublib.org privacy policy that was archived on 2016-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160118121826id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chipublib.org privacy policy that was archived on 2017-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170611091342id_/http%3A//chipublib.bibliocommons.com/info/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:og="http://ogp.me/ns#" lang="en-US"><head>
-  
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="https://script.crazyegg.com/pages/scripts/0017/8067.js?439009" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script data-airbrake-environment-name="live" data-airbrake-project-id="95999" data-airbrake-project-key="58d1c10d819e2be658492275f2f1b1fd" src="//cor-liv-cdn-static.bibliocommons.com/assets/airbrake-shim-a28069991082fb6362d38d6ba64a90ea.js" type="text/javascript"></script>
+  <!-- Google Analytics (analytics.js) -->
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script src="https://script.crazyegg.com/pages/scripts/0017/8067.js?439009" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+  if (!window.ga) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  }
+
+  window.BCGoogleAnalytics={_initialized:!1,config:{},default_tracker:null,init:function(a){if(this._initialized)throw new Error("BCGoogleAnalytics has already been initialized.");if(this.config=a||{},this.config.core&&this.config.core.trackingId){var i=this.config.core.name?this.config.core.name+".set":"set";ga("create",this.config.core),ga(i,"language",this.config.core.language),ga(i,"transport","beacon")}if(this.config.library&&this.config.library.trackingId){var e=this.config.library.name+".set";ga("create",this.config.library),ga(e,"language",this.config.library.language),ga(e,"transport","beacon")}ga(function(a){BCGoogleAnalytics.default_tracker=a}),this._initialized=!0},getCoreTracker:function(){if(ga.getByName){var a=this.config.core||{};return a.name?ga.getByName(a.name):this.default_tracker}return null},getLibraryTracker:function(){var a=this.config.library||{};return ga.getByName&&a.name?ga.getByName(a.name):null},send:function(){var a=[].slice.call(arguments);a.unshift(!1),BCGoogleAnalytics._send.apply(this,a)},sendAll:function(){var a=[].slice.call(arguments);a.unshift(!0),BCGoogleAnalytics._send.apply(this,a)},_send:function(){var a=[].slice.call(arguments),i=a.shift();ga(function(){var e=[];BCGoogleAnalytics.getCoreTracker()&&e.push(BCGoogleAnalytics.getCoreTracker()),i&&BCGoogleAnalytics.getLibraryTracker()&&e.push(BCGoogleAnalytics.getLibraryTracker()),e.forEach(function(i){i.send.apply(i,a)})})}};
+
+  var core_ga_config = {"language":"en-us","trackingId":"UA-12552489-1","cookieDomain":"auto"}
+
+  var library_ga_config = null, ga_autolink_domains = null;
+    library_ga_config = {"name":"b","language":"en-us","trackingId":"UA-477834-4","cookieDomain":"auto"}
 
 
-<!-- Google Analytics (analytics.js) -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  /* Default Tracker */
-  ga('create', 'UA-12552489-1', {'cookieDomain': 'auto'});
-  ga('set', 'language', 'en-us');
-  ga('send', 'pageview');
+  BCGoogleAnalytics.init({ core:core_ga_config, library:library_ga_config });
 
-  /* Library Tracker */
-    ga('create', 'UA-477834-4', {
-      'name': 'b',
-      'cookieDomain': 'auto',
-      'allowLinker': false
-    });
-    ga('b.set', 'language', 'en-us');
+    if (ga_autolink_domains && ga_autolink_domains.length) {
+      ga(library_ga_config.name + '.require', 'linker');
+      ga(library_ga_config.name + '.linker:autoLink', ga_autolink_domains, false, true);
+    }
 
-
-    ga('b.send', 'pageview');
-    var external_id = 'UA-477834-4';
+    BCGoogleAnalytics.sendAll('pageview');
 </script>
 <!-- End Google Analytics -->
 
 
-  
+<!-- NEW RELIC -->
+
   <!-- start CrazyEgg -->
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
@@ -41,13 +41,24 @@ var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0017/8067.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
-<!-- end CrazyEgg -->  
-  
+<!-- end CrazyEgg -->
 
+
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Library",
+    "url": "https://chipublib.bibliocommons.com/",
+    "name": "Chicago Public Library",
+    "logo": "https://cor-liv-cdn-static.bibliocommons.com/images/IL-CPL/logo.png?1497169016247",
+    "image": "https://cor-liv-cdn-static.bibliocommons.com/images/IL-CPL/logo.png?1497169016247"
+  }
+</script>
 
 <script type="text/javascript" charset="utf-8">
   var registered_messages = [];
-  var controller_js = '//cor-liv-cdn-static.bibliocommons.com/assets/controllers/info.js';
+  var controller_js = '//cor-cdn-static.bibliocommons.com/assets/controllers/info.js';
 </script>
 
 <script type="text/javascript">
@@ -60,10 +71,15 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 <title data-analytics="info">Privacy | Chicago Public Library | BiblioCommons</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="App-Version" content="Version paprika-hotfix Last updated 2016/01/14 10:52 [cor-liv-app07]">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="JCHoOHL0rIDUY2hiCXGr/2/kQHCUYQ2u+FD9z+exSrA=" name="csrf-token">
+<meta name="App-Version" content="Version heads/v2.0 Last updated 2017/05/29 09:35 [cor-liv-app15.bcommons.net]">
+<meta name="format-detection" content="telephone=no">
 
+  <meta name="google-site-verification" content="IHGZai-b9I6WkoKpSakgHMbb4KQg1fKvmEvjdirrsVw">
+
+<meta content="authenticity_token" name="csrf-param">
+<meta content="jGgAt9aG/zkCrY6RXAWqDTRokUdclHALoQ4d9bRwx/8=" name="csrf-token">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta property="og:site_name" content="BiblioCommons">
 <meta name="twitter:site" content="@bibliocommons">
@@ -78,8 +94,8 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
   <meta property="og:title" content="Privacy | Chicago Public Library | BiblioCommons">
   <meta name="twitter:title" content="Privacy | Chicago Public Library | BiblioCommons">
 
-  <meta property="description" content="Explore Chicago Public Library. New titles, recently rated, and recently tagged by the library community.">
-  <meta property="og:description" content="Explore Chicago Public Library. New titles, recently rated, and recently tagged by the library community.">
+  <meta name="description" content="Explore Chicago Public Library. New titles, recently rated, and recently tagged by the library community.">
+  <meta name="og:description" content="Explore Chicago Public Library. New titles, recently rated, and recently tagged by the library community.">
   <meta name="twitter:description" content="Explore Chicago Public Library. New titles, recently rated, and recently tagged by the library community.">
 
   <meta name="twitter:card" content="summary">
@@ -87,46 +103,423 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 
 
-  <link href="//cor-liv-cdn-static.bibliocommons.com/assets/bc_base-b5b3f628ee50d7a6866e914841dd13cf.css" media="screen" rel="stylesheet" type="text/css">
-<link href="//cor-liv-cdn-static.bibliocommons.com/assets/core-1bc8a2d8b9fcf1f90b55a5215666ae83.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="//cor-liv-cdn-static.bibliocommons.com/assets/compatibility/legacy_body-4545d10809f701a70bcc95fd884865de.css" media="screen" rel="stylesheet" type="text/css">
-
-
-  <link href="//cor-liv-cdn-static.bibliocommons.com/assets/controllers/info-dd7474ae4a6315817a2cd4afe1fe4e46.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="//cor-cdn-static.bibliocommons.com/assets/bc_base-23f3b4bccce8750d31fa86c356d49745.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//cor-cdn-static.bibliocommons.com/assets/core-4c1f020425ec2436dbd554f887455304.css" media="screen" rel="stylesheet" type="text/css">
   
-    <link href="//cor-liv-cdn-static.bibliocommons.com/dynamic_stylesheet/IL-CPL/default.css?1453106183260" media="all" rel="stylesheet" type="text/css">
-  <link href="//cor-liv-cdn-static.bibliocommons.com/dynamic_stylesheet/IL-CPL/stylesheet.css?1453106183260" media="all" rel="stylesheet" type="text/css">
+  
 
-  <!--[if lt IE 9]><link href="//cor-liv-cdn-static.bibliocommons.com/assets/deprecated/context/core/IE-027f5edb1a67fcfbc24afbc11e1951f5.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-  <!--[if IE 8]><link href="//cor-liv-cdn-static.bibliocommons.com/assets/deprecated/context/core/IE8-7738061b30a6d8b9bf915196470369cf.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-  <!--[if IE 9]><link href="//cor-liv-cdn-static.bibliocommons.com/assets/deprecated/context/core/ie9-99350285e99eb6640e76c3dcfe06b555.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <link href="//cor-cdn-static.bibliocommons.com/assets/controllers/info-65255a77063333b72c6c5b6ea4b7f9bb.css" media="screen" rel="stylesheet" type="text/css">
+  
+    <link href="//cor-liv-cdn-static.bibliocommons.com/dynamic_stylesheet/IL-CPL/library_branding.css?1497169016247" media="all" rel="stylesheet" type="text/css">
+  <link href="//cor-liv-cdn-static.bibliocommons.com/dynamic_stylesheet/IL-CPL/stylesheet.css?1497169016247" media="all" rel="stylesheet" type="text/css">
+
+  <!--[if lt IE 9]><link href="//cor-cdn-static.bibliocommons.com/assets/deprecated/context/core/IE-223cce97d2a1ab4365e01eb4070abbb7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if IE 8]><link href="//cor-cdn-static.bibliocommons.com/assets/deprecated/context/core/IE8-6423c920b2af42d04525fdd61d76a9ee.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if IE 9]><link href="//cor-cdn-static.bibliocommons.com/assets/deprecated/context/core/ie9-f9eebad232c8e6d89bc517dc1c34ab40.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 
 <script type="text/javascript" charset="utf-8">
   var registered_messages = [];
 </script>
 
-  <script type="text/javascript" charset="UTF-8" src="https://chipublib.bibliocommons.com/jsvars.js"></script>
-  <script type="text/javascript" charset="UTF-8" src="https://chipublib.bibliocommons.com/jsvars/other.js?1182016"></script>
+  <script type="text/javascript">
+    /*
+Javascript constants and variables fed from the server side - NON-CACHED
+Please confirm with Leeor/Andrew before deciding if your data should go here or
+in other.js.erb (the cached version).
+*/
+
+var AUTH_TOKEN = "jGgAt9aG/zkCrY6RXAWqDTRokUdclHALoQ4d9bRwx/8="; 
+var BC_USER_ID = 0; 
+var BC_USERNAME = ""; 
+var BC_MD5_USER = "";
+var at_local_branch = "";
+var USER_PRESENT = "false";
+var current_time = "Sun, 11 Jun 2017 09:13:43 GMT";
+var j_callback = "";
+var SEND_FORMS = true;
+var CURRENT_LOCALE = "en-US";
+
+
+var AUTH_RULES = {
+  is_program_agency: false,
+  recently_returned_enabled: true,
+  registration_requires_user_segments: false,
+  digital_service_enabled: true,
+  show_barcodeless_if_login_fail: false,
+  reminder_messaging_enabled: false,
+  numeric_password_required: false,
+  confirm_password: true,
+  supported_registration_types: ["ILS_BACKED"],
+  required_fields: ["barcode", "user_pin", "first_name", "last_name", "location_city", "location_name", "user_name", "password", "confirm_password", "accept_terms", "user_zip_code", "user_grade"],
+  reminder_types: [],
+  default_page: 'dashboard',
+  restricted_age_limit: 13,
+  password_min_length: 4,
+  password_max_length: 6,
+  pre_registration_matching: false,
+  restrict_free_text_entry: true
+};
+
+var READING_TIME_LAST_NUDGE = false;
+
+var USER_HAS_NEW_BADGES = false;
+var DOE_LOGIN_REDIRECT = false;
+
+var IN_ACQUISITIONS_MODE = false;
+
+
+
+
+
+
+/* Localization */
+var less = "Show less";
+var more = "Show more";
+var sSearch =  "Search entries:";
+var sLengthMenu = "Display _MENU_ records per page";
+var sZeroRecords =  "Nothing found";
+var sInfo = "Showing _START_ to _END_ of _TOTAL_ records";
+var sInfoEmpty = "Showing 0 to 0 of 0 records";
+var sInfoFiltered = "(filtered from _MAX_ total records)";
+var sNext = "Next";
+var sPrevious = "Previous";
+var od_localizations = {
+    fetch_message: "Checking Availability...",
+    wait_message: "Please wait, other requests are pending.",
+    request_available: "Check availability",
+    digital_request: "Request this Download",
+    checkout: "Available for checkout"
+}
+var DISABLE_MSG = "If you edit the query directly, the form below will be disabled.";
+var ADDED = '<i aria-hidden="true" class=" icon-ok"></i> Added to...';
+var CLOSETEXT = "Close";
+var START_DATE = "Pick a start date.";
+var DONE_BUTTON =  "Done";
+var END_DATE = "Suspend End Date";
+var START_DATE = "Suspend Start Date";
+var YOUR_USERNAME_IS = "Your username is:";
+var localized_validator_messages = {
+  accept_terms: {
+    required: "You must accept the terms."
+  }
+  , user_name:{
+    remote:  "Someone already has that username",
+    matchesPattern: "Your username can contain only letters, numbers, or underscores (no spaces). It cannot contain numbers only."
+  }
+  , validExactPwd: "Your password must be {0} characters in length"
+  , validExactPin: "Your PIN must be {0} numeric digits"
+  , required: "This field is required."
+  , remote: "Please fix this field."
+  , email: "Please enter a valid email address."
+  , multiemail: "Please enter valid email address(es)."
+  , url: "Please enter a valid URL."
+  , date: "Please enter a valid date."
+  , dateISO: "Please enter a valid date (ISO)."
+  , number: "Please enter a valid number."
+  , digits: "Please enter only digits."
+  , creditcard: "Please enter a valid credit card number."
+  , equalTo: "Please enter the same value again."
+  , accept: "Please enter a value with a valid extension."
+  , maxlength: "Please enter no more than {0} characters."
+  , minlength: "Please enter at least {0} characters."
+  , rangelength: "Please enter a value between {0} and {1} characters long."
+  , range: "Please enter a value between {0} and {1}."
+  , max: "Please enter a value less than or equal to {0}."
+  , min: "Please enter a value greater than or equal to {0}."
+  , filteredPhone: "Please enter a valid 10-digit North American phone number."
+  , s4pYearRange: "Please enter a 4-digit year from 1901 to {0}"
+  , reportDateRange: "This date is outside the maximum range of 3 months."
+  , badgesAgeRange: "Minimum age cannot be more than max age."
+  , badgesCode: "Text, numbers, underscores and hashtags only please. Code must have at least 2 characters."
+  , twitterusername: "Twitter username cannot contain spaces or symbols."
+  , suggested_purchases_select_reason: "Please select a reason."
+};
+
+var BCLang = {
+  more: "More",
+  like: "Like",
+  likes: "likes",
+  liked: "Liked",
+  unlike: "Unlike",
+  unliked: "unliked",
+  list: "List",
+  lists: "Lists",
+  title: "Title",
+  titles: "Titles",
+  library: "library",
+  libraries: "libraries",
+  person: "person",
+  people: "people",
+  show_more: "Show More",
+  loading: "Loading...",
+  buttons: {
+    save: "Save",
+    cancel: "Cancel"
+  },
+  errors_and_messages: {
+    errors: "An error occurred and your request could not be completed. Please try again later",
+    preferred_location_selected: "This location has been selected."
+  },
+  user_profile: {
+    duplicate_label: "You have entered a duplicate label",
+    user_added: "User added"  
+  },
+  color: "color",
+  animal: "animal",
+  reg_color_picked: "picked color",
+  reg_animal_picked: "picked animal",
+  reg_confirm_tos: "Confirm your acceptance of the terms and conditions",
+  something_went_wrong: "Something went wrong, please try later.",
+  help_bubble: {
+    borrowing_select_items: {
+      text: "Switch to manage multiple items from here...",
+      title: "You will be able to select and manage items of all status types."
+    },
+    borrowing_summary: {
+      title: "Your borrowing summary menu can be accessed from here"
+    },
+    checkedout_ratings: {
+      text: "Titles you rate are automatically added to your Completed Shelf, and default to the privacy setting of your shelf.<br><a data-js=\"help_popout\" href=\"http://help.bibliocommons.com/045faq/040faq-my-shelves\">Learn more<\/a>",
+      title: "Rate or add titles to your Shelves"      
+    },
+    borrowing_summary_view: {
+      text: "Your items are grouped by status when 2 or more status types exist. You can manage your items in groups, or...",
+      title: "This is your summary view"       
+    },
+    holds_shelves: {
+      text: "Shelves allow you to keep a reference to the items you have borrowed or wish to borrow. You can add and move items to your For Later, In Progress, or Completed Shelf, and you can keep them private or public.<br><a data-js=\"help_popout\" href=\"http://help.bibliocommons.com/045faq/040faq-my-shelves\">Learn more<\/a>",
+      title: "Add items to your Shelves"      
+    },
+    borrowing_faqs: {
+      text: "You can access the FAQs or take this tour from here."
+    },
+    next_text: "OK, Next",
+    close_text: "OK, Got it.",
+    borrowing_batch_actions: {
+      title: "Select the items you want to manage, and then choose the action you want to take from here"
+    },
+    borrowing_individual_actions: {
+      title: "Access individual item actions from here"
+    }
+  }
+};
+
+var HELP_BUBBLES = {};
+
+var bc_feature = {};
+bc_feature['ReadALikeLists'] = false;
+bc_feature['BibPageAwardsBlock'] = true;
+bc_feature['CirculationPopularity'] = true;
+bc_feature['PerServiceDigitalLimit'] = true;
+bc_feature['FrbrFreshLibrarySearchableContent'] = false;
+bc_feature['FrbrLists'] = true;
+bc_feature['RecentCommentsCarousel'] = false;
+bc_feature['ReaderAssetBuild'] = false;
+bc_feature['ReaderConsolidatedMenu'] = false;
+bc_feature['ReaderEcwImageFix'] = false;
+bc_feature['ReaderForceDownload'] = false;
+bc_feature['ReaderForceDownloadReadPage'] = false;
+bc_feature['ReaderNativeLogout'] = false;
+bc_feature['ReaderStartupScreen'] = false;
+bc_feature['ReaderSafariHomescreen'] = false;
+bc_feature['ResponsiveHolds'] = true;
+bc_feature['ResponsiveCheckedOut'] = true;
+bc_feature['ResponsiveSearch'] = true;
+bc_feature['ResponsiveFeedbackBox'] = true;
+bc_feature['ResponsiveRegistration'] = true;
+bc_feature['ResponsiveShelves'] = false;
+bc_feature['ResponsiveShelvesOptIn'] = false;
+bc_feature['ResponsiveUGCPermalink'] = true;
+bc_feature['RevisedFrbrRatingFacet'] = false;
+bc_feature['ScopingFacet'] = true;
+bc_feature['MyConversations'] = false;
+bc_feature['UseAcquisitionCoreStub'] = false;
+bc_feature['RemoveFooterPartials'] = false;
+bc_feature['LikingLibraryBreakdown'] = false;
+bc_feature['ReskinFacets'] = true;
+bc_feature['ShowOclcIds'] = false;
+bc_feature['CrossIndexingMigration'] = true;
+bc_feature['SaveUserInfoForReporting'] = false;
+bc_feature['BootstrapPopovers'] = false;
+bc_feature['CheckedOutOUTStatus'] = true;
+bc_feature['EHoldingsStatus'] = false;
+bc_feature['ResponsiveNavHelpBubble'] = true;
+bc_feature['ResponsiveRecentlyReturned'] = true;
+bc_feature['BorrowingWidgetCaching'] = false;
+bc_feature['WrapLegacyWithBootstrap'] = true;
+bc_feature['ResponsiveAccountMessages'] = true;
+bc_feature['ResponsiveFines'] = true;
+bc_feature['HoldsWhileYouWaitRecommendations'] = false;
+bc_feature['ResponsiveBorrowingOnIPad'] = true;
+bc_feature['BCRestAuthentication'] = true;
+bc_feature['BorrowingOnboarding'] = true;
+bc_feature['BatchAddToShelf'] = false;
+bc_feature['ReactPrivacyToggle'] = false;
+bc_feature['ReactCommentEditor'] = false;
+bc_feature['ReactSummaryEditor'] = false;
+bc_feature['ReactQuotationEditor'] = false;
+bc_feature['ReactContentAdvisoryEditor'] = false;
+bc_feature['ReactVideoEditor'] = true;
+bc_feature['ReactAgeSuitibilityEditor'] = false;
+bc_feature['Locations'] = true;
+bc_feature['ResponsiveExplorePages'] = true;
+bc_feature['ThreeWayAccountLinking'] = false;
+bc_feature['UserListReactCreation'] = true;
+bc_feature['NerfSearch'] = true;
+bc_feature['LambdaJacketCovers'] = false;
+bc_feature['LambdaJacketCoverButton'] = false;
+bc_feature['ExploreServiceDistinctionsFix'] = true;
+bc_feature['PendoTracking'] = false;
+bc_feature['NotificationsButtonInHeader'] = false;
+bc_feature['PatronBorrowingHistory'] = true;
+bc_feature['CommonHeaderSearchUpdates'] = true;
+bc_feature['SuggestForPurchaseImprovements'] = false;
+bc_feature['SuggestForPurchaseNotifications'] = false;
+bc_feature['CombinedCatalogProbes'] = true;
+bc_feature['MMMCloudLibraryAvailability'] = true;
+bc_feature['GraphicNovelRecommendations'] = true;
+
+var THIRD_PARTY_RECOMMENDATIONS = {};
+
+var is_responsive_registration = true;
+
+var frbr_enabled = true
+
+    /*
+Javascript constants and variables fed from the server side - CACHED
+Please confirm with Leeor/Andrew before deciding if your data should go here or
+in nc.js.erb (the non-cached version).
+*/
+
+  if (typeof console == "undefined" || typeof console.debug == "undefined") var console = { log: function() {}, warn: function() {}, info: function() {}, error: function() {}  }; 
+    console.debug = function() {};
+      
+  document.write("<style type=\"text/css\">.hide_on_script{display:none;}</style>");
+
+  var auto_suggest_enabled = true;
+  var open_dropdown = "";
+  var open_popup = "";
+  var open_editor = "";
+  var open_details = "";
+  var selected_items = [];
+  var open_tip = "";
+  var help_win = false;
+
+  var fines_popup_width = 750;
+  var fines_popup_height = 600;
+
+  var renew_enabled = true;
+  var registrar = {
+    hooks: {},
+    handlers: {},
+    remove_hook: function(type){
+      this.hooks[type] = [];
+    },
+    add_hook: function(type, o) {
+      if (typeof(o) == "string") o = {element: o};
+      if (this.hooks[type] == undefined) {
+       this.hooks[type] = [];
+      }
+      this.hooks[type].push(o);
+      if (this.handlers[type] != undefined) {
+       for (var i=0; i < this.handlers[type].length; i++) {
+         this.inform_handler(this.handlers[type][i], o);
+       };
+      }
+    },
+    add_handler: function(types, handler, opts) {
+      if (typeof(types) != "object") {
+       types = [types];
+      }
+      
+      if (opts == undefined) {
+       opts = {delay: 0};
+      }
+           
+      for (var i=0; i < types.length; i++) {
+       var type = types[i];
+       if (this.handlers[type] == undefined) {
+         this.handlers[type] = [];
+       }
+       var h = {handler: handler, opts: opts};
+       this.handlers[type].push(h);
+       if (this.hooks[type] != undefined) {
+         var hook_length = this.hooks[type].length;
+         if (hook_length > 0) {
+          if (h.opts.delay != 0) {
+            this.chained_inform_handler(0, h, type);
+          } else {
+            for (var i=0; i < this.hooks[type].length; i++) {
+             this.inform_handler(h, this.hooks[type][i]);
+            }
+          }
+         }
+       }
+      };
+    },
+    chained_inform_handler: function(idx, h, type) {
+      if (idx < this.hooks[type].length) {
+        registrar.inform_handler(h, this.hooks[type][idx]);
+        setTimeout(function() { registrar.chained_inform_handler(idx+1, h, type); }, h.opts.delay);
+      }
+    },
+    inform_handler: function(h, hook) {
+      h.handler(hook);
+    }
+  };
+  
+  registrar.add_handler("dropdown", function(o) {
+    var hover = false;
+    if (o.hover != undefined && o.hover != null) hover = o.hover;
+    if (!o.hover && o.trigger) document.getElementById(o.trigger).onclick = function(){return false;};
+  });
+  
+     var DOAUTH = true;
+   
+  HAS_SCHOOLS = false
+
+var CHECK_FOR_BADGES = false;
+
+var sitedomain = "";
+var storedomain = "seattle.foxycart.com";
+
+
+var CMS_ENABLED = true;
+var CMS_URL = "https://www.chipublib.org";
+
+var images_path_location = /assets/;
+
+  </script><style type="text/css">.hide_on_script{display:none;}</style>
 
 <script type="text/javascript">
   if (typeof console == "undefined" || typeof console.debug == "undefined") var console = { log: function() {}, warn: function() {}, info: function() {}, error: function() {} };
   console.debug = function() {};
 </script>
+
 <script type="text/javascript">
     var messages = [];
 </script>
 
-<link href="//cor-liv-cdn-static.bibliocommons.com/assets/print-e53732846d78db69996d04b33c43722b.css" media="print" rel="stylesheet" type="text/css">
+<link href="//cor-cdn-static.bibliocommons.com/assets/print-a61c6c068aedceb48d1403c06706557c.css" media="print" rel="stylesheet" type="text/css">
 
-<link rel="shortcut icon" href="/images/IL-CPL/favicon_128x128.png">
+
+
+
+
+<link rel="shortcut icon" href="/images/IL-CPL/favicon.ico">
 
 </head>
 
-<body id="context_core" class="lt_legacy two_col ">
-<div class="screen-reader-text" role="navigation">
-  <a href="#globalQuery" tabindex="1">Skip To Search</a>
-  <a href="#content-start" tabindex="2">Skip To Content</a>
+<body id="context_core" class="lt_responsive two_col ">
+<div class="screen_reader_navigation" role="navigation">
+  
+  <a class="hidden-xs screen_reader_nav" href="#header_main_nav">Skip to main navigation</a>
+    <a class="hidden-xs screen_reader_nav" href="#desktop_search_form" data-js="header_collapsible_search_trigger">
+      Skip to search
+    </a>
+
+  <a class="screen_reader_nav" href="#content-start">Skip to content</a>
 </div>
 <div data-js="obocBanner"></div>
 
@@ -179,487 +572,580 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 <div id="ct_info" class="view_medium">
   
-    <div class="cp_biblio_master_message" style="display: none;">
-  <!-- IE8 Browser Message --><p>You are using Internet Explorer 8 to view this site. IE8 is a 6-year-old browser that does not display modern web sites properly. Please upgrade to a newer browser to make best use of this site. Contact your local library branch if you require assistance. <br>For more information, see this <a href="http://help.bibliocommons.com/045faq/000faq-system/" target="_blank" class="highlight">FAQ page</a>.</p><p>Download <a href="http://www.google.com/chrome/index.html" target="_blank" class="highlight">Chrome</a>, <a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank" class="highlight">Firefox</a> or a newer version of <a href="http://windows.microsoft.com/en-US/internet-explorer/download-ie" target="_blank" class="highlight">Internet Explorer</a></p>
-</div>
+    
   
-      <div id="cms_external_header">
-    <link rel="stylesheet" href="https://www.chipublib.org/wp-content/themes/bibliocommons/css/header_all.css?v=1452115770145211570214521157023">
-<!--[if lte IE 8]>
-<link rel="stylesheet" href="https://www.chipublib.org/wp-content/themes/bibliocommons/css/header/ie8_external.css?v=1452115770145211570214521157023" />
-<![endif]-->
+    
 <script type="text/javascript">
-    if (typeof(window.bc_Environment) == "undefined") {
-        window.bc_Environment = {};
-        window.bc_Environment.coreUrl = "https://chipublib.bibliocommons.com";
-    }
+  window.BCHeaderConfig = {"is_externally_rendered":false,"initial_state":{},"core_base_url":"https://chipublib.bibliocommons.com/"};
 </script>
 
 
+<div class="cp_header_wrapper">
+  <div class="cp_header" data-js="cp_header" testid="header" data-responsive="true">
 
-<div class="masthead_spacer">&nbsp;</div>
-<header id="bccms_masthead" class="default  ">
+    <div class="cp_header_biblio_bar">
+  <div class="container">
+    <div class="row">
 
-    <div id="header_cms" class="clearfix">
+      <div class="col-xs-12">
+        <!-- begin LANGUAGES (desktop and tablet) -->
+        <!-- end LANGUAGES -->
 
+        <div class="pull-left visible-xs">
+            <a href="https://chipublib.bibliocommons.com/locations" class="biblio_bar_link header_hours_and_locations_link" data-js="header_hours_and_locations_link" data-target="header_locations_dropdown_menu" data-ga-category="header_locations_link" data-ga-label="Locations Link" testid="link_hours_and_locations">
+  <i aria-hidden="true" class=" icon-location"></i>
+  <span class="sr-only-xs">Hours &amp; Location</span>
+</a>
 
-        <a class="skip_to_region" data-skipto-doaction="open_search" data-skipto-id="li.search_type" href="#">Skip to Search</a>
-        <a class="skip_to_region" id="bc_skip_to_content" data-skipto-fallback-id="#page a:first, .event-page-container a:first, .info-block:visible a:first" data-skipto-id=".systemMessages a:first" href="#" tabindex="10">Skip to Content</a>
+          <a href="https://www.chipublib.org/using-the-library" class="biblio_bar_link header_help_link" data-js="header_help_link" data-target="header_help_dropdown_menu" data-ga-category="header_help_link" data-ga-label="Help Link" testid="link_help">
+  <i aria-hidden="true" class=" icon-help-circled"></i>
+  <span class="sr-only-xs">Help</span>
+</a>
 
-        <div class="main_header_area">
-            <div id="topNavCMS">
-                <div class="top_menus">
-                    <div class="row_1_wrap">
+        </div>
 
+        <!-- begin BCNAV -->
+<div data-js="bc_my_account_nav">
+  <div class="pull-right biblio_bar_my_account">
 
-
-                        <div role="banner" class="banner">
-                            <div class="logo logo-desktop">
-                                <a tabindex="-1" href="http://www.chipublib.org">
-                                    <img src="//d34rompce3lx70.cloudfront.net/wp-content/uploads/sites/3/2015/11/cpl-logo-desktop-2.png?v=1452115770145211570214521157023" alt="Chicago Public Library Homepage">
-                                </a>
-                            </div>
-                            <div class="logo logo-small">
-                                <a tabindex="-1" href="http://www.chipublib.org">
-                                    <img src="//d34rompce3lx70.cloudfront.net/wp-content/uploads/sites/3/2015/11/cpl-logo-mobile-2.png?v=1452115770145211570214521157023" alt="Chicago Public Library Homepage">
-                                </a>
-                            </div>
-
-
-                            <div class="logo logo-tablet">
-                                <a tabindex="-1" href="http://www.chipublib.org">
-                                    <img src="//d34rompce3lx70.cloudfront.net/wp-content/uploads/sites/3/2015/11/cpl-logo-tablet-2.png?v=1452115770145211570214521157023" alt="Chicago Public Library Homepage">
-                                </a>
-                            </div>
-
-                            <div class="logo logo-collapsed">
-                                <a tabindex="-1" href="http://www.chipublib.org">
-                                    <img src="//d34rompce3lx70.cloudfront.net/wp-content/uploads/sites/3/2015/11/cpl-logo-collapsed-2.png?v=1452115770145211570214521157023" alt="Chicago Public Library Homepage">
-                                </a>
-                            </div>
-
-                        </div>
-                        <nav class="top_bar">
-                            <div id="cms_top_nav_bar">
-                                <div id="user_wrap" role="navigation" aria-label="user menu">
-                                    <div id="usernav_trigger" class="bccms_dropdown_trigger" data-dropdown-target=".usernav_menu" data-dropdown-trigger-action="auto_mouseenter" data-dropdown-trigger-out-action="auto_mouseleave">
-                                        <a href="https://chipublib.bibliocommons.com/user/login">
-                                            Login
-                                        </a>
-
-                                    </div>
-                                    <nav class="usernav_menu">
-                                    </nav>
-                                </div>
-
-
-                                <div id="scrolled_search_starter_block" role="navigation">
-                                    <a id="scrolled_search_trigger" tabindex="0" href="#" title="Search" aria-haspopup="true">
-                                        Search                                        <span class="search-icon"></span>
-                                    </a>
-                                </div>
-
-                                                                    <div id="locations_button">
-                                        <a class="hours_locations_expanded" href="https://chipublib.bibliocommons.com/locations">Hours &amp; Locations</a>
-                                    </div>
-                                                                
-<div id="help_button" role="navigation" aria-label="help menu">
-    <a class="help_menu_trigger bccms_dropdown_trigger" href="#">Help<span class="down_chevron"></span></a>
-
-    <div id="help_dropdown_menu">
-        <div class="search_help">
-            <aside class="widget ">      <h3 class="widget-title">Search FAQs</h3>
-      <form method="get" id="bccms_header_faq_search" class="widget-content" action="https://www.chipublib.org/">
-                <input type="hidden" name="post_type" value="bccms_faq">
-        <input class="" type="text" name="s" id="s" title="Search FAQ" value="" placeholder="">
-        <input class="button" type="submit" id="searchsubmit" value="Search">
-      </form>
-      </aside>        </div>
-        <span class="clear"></span>
-                    <div class="help_dd_menu_outer_container">
-                <div class="menu-help-menu-container"><ul id="menu-help-menu" class="menu"><li id="menu-item-44655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44655"><a href="http://www.chipublib.org/faqs">FAQs</a></li>
-<li id="menu-item-44657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44657"><a href="http://www.chipublib.org/ask-a-librarian/">Ask a Librarian</a></li>
-<li id="menu-item-44659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44659"><a href="http://www.chipublib.org/contact-us/">Contact Us</a></li>
-<li id="menu-item-44661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44661"><a href="http://www.chipublib.org/help-us-improve-our-website/">Website Feedback</a></li>
-</ul></div>                            </div>
-            </div>
-</div>                                
-
-                                <div id="show_full_menu" role="navigation">
-                                    <a id="show_full_menu_trigger" tabindex="0" href="#" title="Menu" aria-haspopup="true">
-                                        Show Menu                                    </a>
-                                </div>
-
-                            </div>
-                        </nav>
-
-                    </div>
-                    <nav id="topNav">
-
-                        <ul id="mobile_menu" class="events_is_on">
-    <li role="presentation" tabindex="0">
-        <a role="menuitem" title="home" class="cms_home_link" href="http://www.chipublib.org">
-            <span class="border_wrapper"> Home Link</span>
-        </a>
-    </li>
-    <li role="presentation" class="mobile_only" id="li_mobile_menu_trigger">
-        <a role="menuitem" href="#" id="mobile_menu_trigger"> <span class="border_wrapper">Main Nav</span></a>
-    </li>
-            <li role="presentation" class="mobile_only">
-            <a href="https://chipublib.bibliocommons.com/events" id="link_mobile_events" role="menuitem">
-               <span class="border_wrapper"> Events</span>
-            </a>
-        </li>
+    <a href="javascript:void(0);" class="dropdown-toggle my_account_toggle biblio_bar_link " testid="user_state_logged_out" type="button" id="biblionav_account_trigger" data-js="biblionav_account_trigger" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        <!-- Template: t_biblionav_account_trigger -->
+          <span>Log In / My CPL</span>
+    </a>
     
-    <li role="presentation" class="mobile_only list_item_help">
-        <a href="http://www.chipublib.org/using-the-library/" id="link_mobile_help" role="menuitem">
-            <span class="border_wrapper">Help</span>
-        </a>
+    <ul class="dropdown-menu biblionav_my_account" data-js="biblionav_my_account" aria-labelledby="biblionav_account_trigger">
+
+      <!-- Template - t_biblionav_my_account_user_info -->
+      <li role="presentation" class="info" data-js="biblionav_my_account_user_info">
+        <a href="https://chipublib.bibliocommons.com/user/login" class="btn btn-transactional btn-block log_in_btn" data-ga-category="biblionav_my_account_login" data-js="header_login_button" role="button" testid="biblionav_login">Log In / Register</a>
+      </li>
+
+
+        <li role="presentation" class="divider"></li>
+
+
+          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/dashboard/user_dashboard" class="" data-ga-category="biblionav_my_account_dashboard" tabindex="-1" testid="biblionav_mylibrary">My Library Dashboard</a>
+</li>
+        <li role="presentation" class="divider"></li>
+
+          <li class="dropdown-header" role="presentation">My Borrowing</li>
+
+          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/checkedout" class="indented" data-ga-category="biblionav_my_account_checkedout" tabindex="-1" testid="biblionav_checkedout">Checked Out</a>
+</li>          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/holds" class="indented" data-ga-category="biblionav_my_account_holds" tabindex="-1" testid="biblionav_holds">On Hold</a>
+</li>          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/recentlyreturned" class="indented" data-ga-category="biblionav_my_account_recentlyreturned" style="display: none;" tabindex="-1" testid="biblionav_borrowing_history">Borrowing History</a>
+</li>          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/fines" class="indented" data-ga-category="biblionav_my_account_fines" tabindex="-1" testid="biblionav_fines">Fees</a>
+</li>
+        <li role="presentation" class="divider"></li>
+
+          <li class="dropdown-header" role="presentation">My Collections</li>
+
+          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/collection/show/my/library/for_later" class="indented" data-ga-category="biblionav_my_account_shelves_future" tabindex="-1" testid="biblionav_shelves_future">For Later Shelf</a>
+</li>          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/collection/show/my/library/completed" class="indented" data-ga-category="biblionav_my_account_shelves_past" tabindex="-1" testid="biblionav_shelves_past">Completed Shelf</a>
+</li>          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/collection/show/my/library/in_progress" class="indented" data-ga-category="biblionav_my_account_shelves_present" tabindex="-1" testid="biblionav_shelves_present">In Progress Shelf</a>
+</li>          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/lists/show/mine" class="indented" data-ga-category="biblionav_my_account_lists" tabindex="-1" testid="biblionav_lists">Lists</a>
+</li>          <li data-js="biblionav_my_purchases_link" role="presentation" style="display: none;">
+            <a href="https://chipublib.bibliocommons.com/read" class="indented" data-ga-category="biblionav_my_account_purchases" tabindex="-1" testid="biblionav_purchases">My Purchases</a>
+</li>
+        <li role="presentation" class="divider"></li>
+
+
+          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/user_profile/me" class="" data-ga-category="biblionav_my_account_myprofile" tabindex="-1" testid="biblionav_myprofile">My Profile</a>
+</li>
+        <li role="presentation" class="divider"></li>
+
+
+          <li role="presentation">
+            <a href="https://chipublib.bibliocommons.com/account" class="" data-ga-category="biblionav_my_account_mysettings" tabindex="-1" testid="biblionav_mysettings">My Settings</a>
+</li>
+      <!-- Template: t_biblionav_account_selector -->
+      <li role="presentation" data-js="biblionav_account_selector"></li>
+      
+    </ul>
+  </div>
+
+  <!-- Template: t_biblionav_admin_nav -->
+<div class="pull-right admin_nav hidden" data-js="biblionav_admin_nav" testid="admin_nav">
+  <a href="#" class="dropdown-toggle biblio_bar_link admin_nav_trigger" type="button" id="admin_nav_trigger" data-js="admin_nav_trigger" testid="admin_nav_trigger" data-toggle="dropdown" aria-expanded="false">
+    <svg aria-hidden="false" class="svg_icon " focusable="false" height="14" viewBox="0 0 30 32" width="14" xmlns="http://www.w3.org/2000/svg">
+  <title>Admin</title>
+<path d="M6.848 26.272q0-0.448-0.32-0.8t-0.8-0.32-0.8 0.32-0.352 0.8 0.352 0.8 0.8 0.352 0.8-0.352 0.32-0.8zM18.368 18.784l-12.192 12.192q-0.672 0.64-1.6 0.64t-1.632-0.64l-1.888-1.952q-0.672-0.64-0.672-1.6 0-0.928 0.672-1.632l12.16-12.16q0.704 1.76 2.048 3.104t3.104 2.048zM29.696 11.008q0 0.704-0.416 1.888-0.864 2.4-2.944 3.904t-4.608 1.472q-3.328 0-5.664-2.336t-2.336-5.664 2.336-5.632 5.664-2.368q1.024 0 2.144 0.32t1.92 0.832q0.288 0.192 0.288 0.48t-0.288 0.512l-5.216 3.008v4l3.456 1.92q0.064-0.064 1.408-0.864t2.4-1.44 1.28-0.64q0.256 0 0.416 0.16t0.16 0.448z"></path>
+</svg>
+    <span class="hidden-sm hidden-xs">Admin</span>
+  </a>
+
+  <ul class="dropdown-menu admin_nav_menu" role="menu" data-js="admin_nav_menu" aria-labelledby="admin_nav_trigger">
+  </ul>
+</div>
+
+<script id="t_biblionav_admin_nav" type="x-handlebars-template">
+  {{#if admin_nav.length}}
+    <li role="presentation" class="dropdown-header">
+      Library
     </li>
-    <li role="presentation" class="mobile_only list_item_locations">
-        <a href="https://chipublib.bibliocommons.com/locations" id="link_mobile_locations" role="menuitem">
-            <span class="border_wrapper">Hours &amp; Locations</span>
-        </a>
+
+    {{#each admin_nav}}
+      <li role="presentation">
+        <a href="{{link}}"
+           role="menuitem"
+           tabindex="-1"
+           testid="biblionav_admin_{{locals.testid}}">{{title}}</a>
+      </li>
+    {{/each}}
+  {{/if}}
+
+  {{#if is_acquisitions_user}}
+    {{#if admin_nav.length}}
+      <li role="presentation" class="divider"></li>
+    {{/if}}
+
+    <li role="presentation" class="dropdown-header">
+      Acquisitions
     </li>
-    <li role="presentation" class="mobile_only alternative_search_trigger">
-        <a href="#" id="link_mobile_search_trigger" role="menuitem">
-            <span class="border_wrapper">Search</span>
-        </a>
+    <li role="presentation">
+      <a href="https://chipublib-acquisitions.bibliocommons.com" role="menuitem" tabindex="-1" testid="link_acquisitions">Home</a>
     </li>
-</ul>
+  {{/if}}
 
-                        <ul id="mainNavCMS" role="menubar">
-    <li role="presentation" tabindex="0" class="no_mobile">
-        <a role="menuitem" title="home" class="cms_home_link" href="http://www.chipublib.org">Home Link</a>
+  {{#if bcadmin_nav.length}}
+    <li role="presentation" class="divider"></li>
+
+    <li role="presentation" class="dropdown-header">
+      BC Admin
     </li>
-                        <li role="presentation" class="menu-parent list_item_browse has_subnav">
-                <a href="#" aria-expanded="false" aria-haspopup="true" class="subnav_trigger main_nav_link" id="link_browse">
-                    <span class="border-wrapper">
-                        Browse                        <span class="down_chevron"></span>
-                    </span>
-                </a>
-                <div id="browse_menu" class="slide_down_item sub_nav_menu_cms  " aria-labelledby="link_browse">
 
-                        <h2 role="presentation" class="slidedown_heading">Browse</h2>
-                        <ul role="menu" class="second_tier">
-                                                            <li role="presentation" class="navColumn has_subnav third_tier_trigger">
-                                                                                                                        <h3>By Format<span class="down_chevron"></span> </h3>
-                                                                                <ul role="menu" class="third_tier nav_column slide_down_item">
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse/books/" id="books_link">
-                                                        Books                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse/ebooks/" id="ebooks_link">
-                                                        eBooks                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse/browse-audiobooks/" id="audiobooks_link">
-                                                        Audiobooks                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse/movies/" id="movies_link">
-                                                        Movies                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse/music/" id="music_link">
-                                                        Music                                                    </a>
-                                                </li>
-                                                                                    </ul>
-                                                                    </li>
+    {{#each bcadmin_nav}}
+      <li role="presentation">
+        <a href="{{link}}"
+           role="menuitem"
+           tabindex="-1"
+           testid="biblionav_admin_{{locals.testid}}">{{title}}</a>
+      </li>
+    {{/each}}
+  {{/if}}
+</script>
 
-                                                            <li role="presentation" class="navColumn has_subnav third_tier_trigger">
-                                                                                                                        <h3>By Audience<span class="down_chevron"></span> </h3>
-                                                                                <ul role="menu" class="third_tier nav_column slide_down_item">
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse_audience/browse-audience-kids/" id="kids_link">
-                                                        Kids                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse_audience/browse-audience-teens/" id="teens_link">
-                                                        Teens                                                    </a>
-                                                </li>
-                                                                                    </ul>
-                                                                    </li>
+</div>
+<!-- end BCNAV -->
 
-                                                            <li role="presentation" class="navColumn has_subnav third_tier_trigger">
-                                                                                                                        <h3>More<span class="down_chevron"></span> </h3>
-                                                                                <ul role="menu" class="third_tier nav_column slide_down_item">
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/online-resources/" id="online-resources_link">
-                                                        Online Resources                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/chicago-history/" id="chicago-history_link">
-                                                        Chicago History                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/archives-collections/" id="archival-collections_link">
-                                                        Archival Collections                                                    </a>
-                                                </li>
-                                                                                            <li class="dropDownItem">
-                                                    <a role="menuitem" href="http://www.chipublib.org/browse_program/one-book-one-chicago/" id="one-book-one-chicago_link">
-                                                        One Book, One Chicago                                                    </a>
-                                                </li>
-                                                                                    </ul>
-                                                                    </li>
+<script id="t_biblionav_divider" type="x-handlebars-template">
+  <li role="presentation" class="divider" data-js="divider_{{divider_name}}"></li>
+</script>
 
-                                                    </ul>
-
-
-                </div>
-
-            </li>
-                                <li role="presentation" class="list_item_events">
-                <a href="https://chipublib.bibliocommons.com/events" id="link_events" class="main_nav_link" role="menuitem">
-                    <span class="border-wrapper">
-                        Events                    </span>
-                </a>
-            </li>
-                <li role="presentation" class="mobile_only list_item_help main_nav_link ">
-        <a href="http://www.chipublib.org/using-the-library/" id="link_help" role="menuitem">
-            Help        </a>
-    </li>
-    <li role="presentation" class="mobile_only list_item_locations main_nav_link">
-        <a href="https://chipublib.bibliocommons.com/locations" id="link_locations" role="menuitem">
-            Hours &amp; Locations        </a>
-    </li>
-</ul>
-
-                        <div id="search_starter_block" role="navigation">
-                            <a id="search_trigger" tabindex="0" href="#" title="Search" aria-haspopup="true">
-                                Search                                <span class="search-icon"></span>
-                            </a>
-                        </div>
-                    </nav>
-
-                </div>
-            </div>
-
-            <section id="searchWrapperCMS" class="slide_down_item clearfix" role="search">
-
-
-        <div id="bccmsSearch" role="search" class="catalog_options_wrapper">
-            <div class="row_1_wrap_search">
-
-                <div class="search_title">
-                    <h2>Search</h2>
-                </div>
-
-                <div id="topNavSearchFilters">
-                    <span class="separator" tabindex="-1">the</span>
-                    <ul role="menu" id="search_types" class="search_options_menu closed">
-                        
-                            <li id="catalog_options" role="menuitemradio" class="search_type active" tabindex="0" aria-checked="true">
-                                <span class="max_len_containter">Catalog</span>
-                                <input type="hidden" value="http://chipublib.bibliocommons.com/search?" class="search_base" name="search_base">
-                                <input type="hidden" value="&amp;q=" class="query_prefix" name="query_prefix">
-                                <span class="down_chevron"></span>
-                            </li>
-                        
-                            <li id="the_website_options" role="menuitemradio" class="search_type " tabindex="0" aria-checked="false">
-                                <span class="max_len_containter">Website</span>
-                                <input type="hidden" value="http://www.chipublib.org/?s= " class="search_base" name="search_base">
-                                <input type="hidden" value="" class="query_prefix" name="query_prefix">
-                                <span class="down_chevron"></span>
-                            </li>
-                        
-                            <li id="faqs_options" role="menuitemradio" class="search_type " tabindex="0" aria-checked="false">
-                                <span class="max_len_containter">FAQs</span>
-                                <input type="hidden" value="http://www.chipublib.org/?post_type=bccms_faq&amp;s=" class="search_base" name="search_base">
-                                <input type="hidden" value="" class="query_prefix" name="query_prefix">
-                                <span class="down_chevron"></span>
-                            </li>
-                        
-                            <li id="events_options" role="menuitemradio" class="search_type " tabindex="0" aria-checked="false">
-                                <span class="max_len_containter">Events</span>
-                                <input type="hidden" value="https://chipublib.bibliocommons.com/events/search/q=" class="search_base" name="search_base">
-                                <input type="hidden" value="" class="query_prefix" name="query_prefix">
-                                <span class="down_chevron"></span>
-                            </li>
-                                            </ul>
-
-
-                                            <div id="catalog_options_container" class="search_options_containter" style="display:block">
-
-                                                            <span class="separator" tabindex="-1">for</span>
-                                <ul role="menu" id="catalog_for" class="search_options_menu closed">
-                                                                            <li role="menuitemradio" tabindex="0" class="active" aria-checked="true" id="catalog_search_for_format_any" data-query-string="">
-                                            <span class="max_len_containter">All Formats</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_for_books" data-query-string="formats=BK|EBOOK|LPRINT|PAPERBACK|">
-                                            <span class="max_len_containter">Books &amp; eBooks</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_for_audiobooks_spoken_word" data-query-string="formats=AB|BOOK_CD|PLAYAWAY_AUDIOBOOK|CS">
-                                            <span class="max_len_containter">Audiobooks</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_for_movies_tv_video" data-query-string="formats=DVD|VIDEO_DOWNLOAD|VC|">
-                                            <span class="max_len_containter">Movies &amp; TV</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_for_music_sound" data-query-string="formats=MUSIC_CD|LP|MN|MUSIC_DOWNLOAD">
-                                            <span class="max_len_containter">Music &amp; Sound</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_for_journals_magazines" data-query-string="formats=EJ|NEWSPAPER|MAG">
-                                            <span class="max_len_containter">Journals &amp; Magazines</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_for_accessible_formats" data-query-string="formats=LPRINT|">
-                                            <span class="max_len_containter">Accessible Formats</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                        </ul>
-                                                            <span class="separator" tabindex="-1">by</span>
-                                <ul role="menu" id="catalog_by" class="search_options_menu closed">
-                                                                            <li role="menuitemradio" tabindex="0" class="active" aria-checked="true" id="catalog_search_by_smart" data-query-string="t=smart&amp;search_category=keyword">
-                                            <span class="max_len_containter">Keyword</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_by_title" data-query-string="t=title&amp;search_category=title">
-                                            <span class="max_len_containter">Title</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_by_author" data-query-string="t=author&amp;search_category=author">
-                                            <span class="max_len_containter">Author</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_by_series" data-query-string="t=series&amp;search_category=series">
-                                            <span class="max_len_containter">Series</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_by_subject" data-query-string="t=subject&amp;search_category=subject">
-                                            <span class="max_len_containter">Subject</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_by_tag" data-query-string="t=tag&amp;search_category=tag">
-                                            <span class="max_len_containter">Tag</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_by_userlist" data-query-string="t=userlist&amp;search_category=list">
-                                            <span class="max_len_containter">List</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="catalog_search_by_user" data-query-string="t=user&amp;search_category=user">
-                                            <span class="max_len_containter">User</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                        </ul>
-                                                    </div>
-                                            <div id="the_website_options_container" class="search_options_containter" style="display:none">
-
-                                                            <span class="separator" tabindex="-1">for</span>
-                                <ul role="menu" id="the_website_for" class="search_options_menu closed">
-                                                                            <li role="menuitemradio" tabindex="0" class="active" aria-checked="true" id="the_website_search_for_all_post_type" data-query-string="">
-                                            <span class="max_len_containter">All Content</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="the_website_search_for_bccms_faq_post_type" data-query-string="&amp;post_type=bccms_faq">
-                                            <span class="max_len_containter">FAQs</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="the_website_search_for_bccms_news_post_type" data-query-string="&amp;post_type=bccms_news">
-                                            <span class="max_len_containter">News</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                                <li role="menuitemradio" tabindex="0" class="" aria-checked="false" id="the_website_search_for_post_post_type" data-query-string="&amp;post_type=post">
-                                            <span class="max_len_containter">Blog Posts</span>
-                                            <span class="down_chevron"></span>
-                                        </li>
-                                                                        </ul>
-                                                    </div>
-                                            <div id="faqs_options_container" class="search_options_containter" style="display:none">
-
-                                                    </div>
-                                            <div id="events_options_container" class="search_options_containter" style="display:none">
-
-                                                    </div>
-                    
-
-                </div>
-            </div>
-
-            <div id="search_bar" class="clearfix">
-                <input type="text" id="globalQuery" name="q" aria-label="Search" title="Search Catalog" value="" autofocus="">
-                <a href="https://chipublib.bibliocommons.com/search?t=smart&amp;q=" class="search_button" title="Search Catalog">Search Button</a>
-                <a href="https://chipublib.bibliocommons.com/search" class="moreSearch">
-                    Advanced Search                </a>
-
-            </div>
-
-            <a href="javascript:void(0)" onclick="return false" id="header_close_btn"><span>Close Search</span></a>
-        </div>
-
-</section>
-            <div class="slide_down_item sub_nav_menu_cms" id="sub_nav_admin_menu">
-                <ul id="admin_actions_list_final"></ul>
-            </div>
-        </div>
+<script id="t_biblionav_account_trigger" type="x-handlebars-template">
+  {{#if logged_in}}
+    <div class="cp_user_avatar sm home_patron" testid="user_avatar_{{user_id}}">
+      {{#if user_avatar}}
+        <img src="{{user_avatar}}" class="img-circle">
+      {{else}}
+        <div class="img-circle initial"><span>{{user_initial}}</span></div>
+      {{/if}}
     </div>
-</header>
-<script type="text/javascript">
+    <span class="hidden-xs user_identity_name">{{user_name}}</span>
+  {{else}}
+    <span>Log In / My CPL</span>
+  {{/if}}
+</script>
 
-  load_header_functions = function () {
-    $.getScript('//www.chipublib.org/wp-content/themes/bibliocommons/js/header/min/main.min.js?v=1452115770145211570214521157023');
-    if(document.addEventListener) {
-      document.removeEventListener("DOMContentLoaded", load_header_functions, false);
-      window.removeEventListener( "load", load_header_functions, false );
-    }
-  }
+<script id="t_biblionav_my_account_user_info" type="x-handlebars-template">
+  <li role="presentation" class="info" data-js="biblionav_my_account_user_info">
+    {{#if logged_in}}
+      <div class="pull-left">
+        <div><b>My Account</b></div>
+        <a href="https://chipublib.bibliocommons.com/user/logout" class="log_out_btn" data-ga-category="biblionav_my_account_logout" role="button" testid="biblionav_logout">Log Out</a>
+      </div>
+     
+      <div class="pull-right notification-buttons">
+        
+        
+        <a href="https://chipublib.bibliocommons.com/messages" class="btn btn-default btn-flat" data-ga-category="biblionav_my_account_messages" testid="biblionav_messages">
+          <i aria-hidden="true" class=" icon-mail"></i>
+          <span class="sr-only">Messages</span>
+          {{#if unread_messages}}
+            <span class="badge">{{unread_messages}}</span>
+          {{/if}}
+</a>        
+        <a href="https://chipublib.bibliocommons.com/account/personal_information" class="btn btn-default btn-flat" data-ga-category="biblionav_my_account_mysettings" data-ga-label="Settings Icon" testid="biblionav_mysettings">
+          <i aria-hidden="true" class=" icon-cog"></i>
+          <span class="sr-only">My Settings</span>
+</a>      </div>
+    {{else}}
+      <a href="https://chipublib.bibliocommons.com/user/login" class="btn btn-transactional btn-block log_in_btn" data-ga-category="biblionav_my_account_login" data-js="header_login_button" role="button" testid="biblionav_login">Log In / Register</a>
+    {{/if}}
+  </li>
+</script>
 
-  function runaltready() {
-    if ( document.readyState === "complete" ) {
-      setTimeout( load_header_functions, 0 );
-    } else {
-      if(document.addEventListener) {
-        document.addEventListener( "DOMContentLoaded", load_header_functions, false );
-        window.addEventListener( "load", load_header_functions, false );
-      } else if(window.attachEvent) {
-        window.attachEvent("onload",load_header_functions);
-      }
-    }
+<script id="t_biblionav_account_selector" type="x-handlebars-template">
+  <li role="presentation" class="divider"></li>
 
-  }
+  <li role="presentation" class="dropdown-header">
+    Switch Library Account
+  </li>
+  {{#each accounts}}
+    <li role="presentation">
+      <a href="https://{{link}}"
+         class="indented"
+         data-js="switch_linked_library"
+         data-host="{{link}}"
+         data-ga-category="biblionav_my_account_switch_account"
+         testid="biblionav_multiaccount_lib_{{text}}">
+        {{text}} <i aria-hidden="true" class=" icon-right"></i>
+      </a>
+    </li>
+  {{/each}}
+</script>
+
+        <div class="pull-right hidden-xs">
+            <div class="pull-right header_help_dropdown_wrapper hidden-xs" data-ga-category="header_help_dropdown" data-ga-label="Help Dropdown" data-ga-event="show" testid="header_help_dropdown">
+  <a href="#" class="dropdown-toggle biblio_bar_link" role="button" id="header_help_dropdown_trigger" testid="header_help_dropdown_trigger" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i aria-hidden="true" class=" icon-help-circled"></i>
+    <span>Help</span>
+  </a>
+
+  <div class="dropdown-menu" data-js="header_help_dropdown_menu" aria-labelledby="header_help_dropdown_trigger">
+    <div class="header_help_menu">
+      <div class="form-group">
+        <form action="https://www.chipublib.org" autocomplete="off" method="get">
+          <label for="faqs_search_input">Search FAQs</label>
+          <div class="input-group">
+            <input id="post_type" name="post_type" type="hidden" value="bccms_faq">
+            <input autocomplete="off" class="form-control text" id="faqs_search_input" name="s" testid="faqs_search_input" type="text">
+            <span class="input-group-btn">
+              <button type="submit" class="btn btn-primary btn-flat">
+                <i aria-hidden="true" class=" icon-search"></i>
+                <span class="sr-only">Search</span>
+              </button>
+            </span>
+          </div>
+</form>      </div>
+
+        <ul class="form-group help_nav">
+              <li>
+                <a href="https://www.chipublib.org/faqs/" data-ga-category="header_help_nav_item" data-ga-label="FAQs">FAQs</a>
+              </li>
+              <li>
+                <a href="http://help.bibliocommons.com/" data-ga-category="header_help_nav_item" data-ga-label="Catalog and Account Guide">Catalog and Account Guide</a>
+              </li>
+              <li>
+                <a href="https://www.chipublib.org/ask-a-librarian/" data-ga-category="header_help_nav_item" data-ga-label="Ask a Librarian">Ask a Librarian</a>
+              </li>
+              <li>
+                <a href="https://www.chipublib.org/contact-us/" data-ga-category="header_help_nav_item" data-ga-label="Contact Us">Contact Us</a>
+              </li>
+              <li>
+                <a href="https://www.chipublib.org/help-us-improve-our-website/" data-ga-category="header_help_nav_item" data-ga-label="Website Feedback">Website Feedback</a>
+              </li>
+
+        </ul>
+    </div>
+  </div>
+</div>
 
 
-  window.bc_Environment = {};
-  window.bc_Environment.coreUrl = "//chipublib.bibliocommons.com";
-  window.bc_Environment.cmsUrl = "http://www.chipublib.org";
-  window.bc_Environment.cmsDomain = "www.chipublib.org";
-  runaltready();
-</script>  </div>
-  
+            <div class="pull-right header_locations_dropdown_wrapper hidden-xs" data-ga-category="header_locations_dropdown" data-ga-label="Locations Dropdown" data-ga-event="show" testid="header_locations_dropdown">
+  <a href="#" class="dropdown-toggle biblio_bar_link" role="button" id="header_locations_dropdown_trigger" testid="header_locations_dropdown_trigger" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    <i aria-hidden="true" class=" icon-location"></i>
+    <span>Hours &amp; Locations</span>
+  </a>
+
+  <div class="dropdown-menu" data-js="header_locations_dropdown_menu" aria-labelledby="header_locations_dropdown_trigger">
+    <div class="header_locations_menu">
+      <div class="form-group">
+        <form action="https://chipublib.bibliocommons.com/locations" autocomplete="off" method="get">
+          <label for="locations_search_input">Find by address or ZIP code</label>
+          <div class="input-group">
+            <input autocomplete="off" class="form-control text" id="locations_search_input" name="near_addr" testid="locations_search_input" type="text">
+            <span class="input-group-btn">
+              <button type="submit" class="btn btn-primary btn-flat">
+                <i aria-hidden="true" class=" icon-search"></i>
+                <span class="sr-only">Search</span>
+              </button>
+            </span>
+          </div>
+</form>      </div>
+
+      <div class="form-group locations_geo_search" data-js="locations_geo_search">
+        <button class="btn btn-block btn-default btn-flat" data-js="locations_geo_search_button">
+          <i aria-hidden="true" class=" icon-spinner animate-spin"></i>
+          <i aria-hidden="true" class=" icon-crosshair"></i>
+          Use current location
+        </button>
+      </div>
+
+        <!-- Template: t_biblionav_preferred_locations -->
+        <div data-js="biblionav_preferred_locations"></div>
+
+        <script id="t_biblionav_preferred_locations" type="x-handlebars-template">
+          <div class="form-group preferred_locations">
+            <label>Preferred Locations</label>
+            <a href="https://chipublib.bibliocommons.com/account/pickup_location" class="preferred_locations_edit_link" data-ga-category="header_preferred_locations_edit" data-ga-label="Preferred Locations Edit Link" testid="header_preferred_locations_edit">Edit</a>
+
+            <ol>
+              {{#each preferred_locations}}
+                <li><a data-ga-category="header_preferred_locations_branch_name" href="{{url}}">{{name}}</a></li>
+              {{/each}}
+            </ol>
+
+            {{#if can_add_locations}}
+              <a href="https://chipublib.bibliocommons.com/account/pickup_location" class="preferred_locations_edit_link" data-ga-category="header_preferred_locations_add" data-ga-label="Preferred Locations Add Link" testid="header_preferred_locations_add">Add Location</a>
+            {{/if}}
+          </div>
+        </script>
+
+      <div class="form-group">
+        <a href="https://chipublib.bibliocommons.com/locations" testid="header_locations_see_all">See all locations</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- /.cp_header_biblio_bar -->
 
 
-  
+    <div class="header_main">
+        <div class="client_and_search">
+  <div class="container">
+    <div class="pull-left cp_header_client_area">
+  <div class="pull-left logo">
+    <a href="https://www.chipublib.org"><picture><source media="(max-width: 991px)" sizes="64px" srcset="//cor-liv-cdn-static.bibliocommons.com/images/IL-CPL/mobile_logo.png?1497169016247"><img alt="Chicago Public Library" src="//cor-liv-cdn-static.bibliocommons.com/images/IL-CPL/logo.png?1497169016247" title=""></picture></a>
+  </div>
+
+  <div class="pull-left visible-xs-block visible-sm-block xs_icon_triggers">
+    <a href="#" aria-label="Main navigation" data-ga-category="mobile_header_main_nav" data-ga-label="Mobile Main Nav" data-js="header_nav_xs_trigger" data-main-nav="true" data-target="header-main-nav" role="button"><i aria-hidden="true" class=" icon-menu"></i></a>
+
+        <a href="https://chipublib.bibliocommons.com/events" aria-label="Events" data-ga-category="mobile_header_events_nav" data-ga-label="Mobile Events Nav"><i aria-hidden="true" class=" icon-calendar"></i></a>
+  </div>
+</div>
+
+    <div class="visible-xs-block visible-sm-block xs_icon_triggers">
+      <a href="#" aria-label="Open search form" class="header_search_xs" data-icon-off="icon-cancel" data-icon-on="icon-search" data-js="header_search_xs_trigger" role="button"><i aria-hidden="true" class=" icon-search"></i></a>
+    </div>
+
+    <div class="hidden-xs hidden-sm header_collapsible_search_wrapper">
+        <button class="btn header_collapsible_search_trigger" data-js="header_collapsible_search_trigger">
+          Search <i aria-hidden="true" class=" icon-search"></i>
+        </button>
+
+      <div id="header_search_catalogue" class="header_search_wrapper_desktop" data-js="header_search_wrapper_desktop">
+        <div class="cp_header_search" data-js="header_search">
+          <div>
+              <div class="pull-left">
+                <span role="presentation" class="connector" aria-hidden="true">Search the</span>
+                <div class="bootstrap-select-wrapper"><select aria-label="Search alternatives" class=" selectpicker form-control" data-dropup-auto="false" data-js="header_search_target" data-style="btn-flat btn-default" id="searchOpt" name="searchOpt" testid="search_scope"><option value="catalogue" data-action="https://chipublib.bibliocommons.com/search" data-query-field="q">Catalog</option>
+<option value="website" data-action="https://www.chipublib.org" data-query-field="s">Website</option>
+<option value="faqs" data-action="https://www.chipublib.org" data-query-field="s">FAQs</option>
+<option value="events" data-action="https://chipublib.bibliocommons.com/events/search/q=__QUERY__" data-query-field="">Events</option></select></div>
+
+              </div>
+
+            <form action="https://chipublib.bibliocommons.com/search" class="collapsible_search_form" data-js="desktop_search_form" id="desktop_search_form" name="desktop_search_form">
+              <div class="pull-left">
+                    <div data-js="header_target_search_options" data-target="catalogue">
+                      
+<div class="form-group">
+  <span role="presentation" class="connector">
+    by
+  </span>
+  <!-- begin SEARCH TYPE -->
+<div class="bootstrap-select-wrapper"><select aria-label="Search type" class="form-control selectpicker form-control" data-dropup-auto="false" data-js="search_type" data-style="btn-flat btn-default" id="search_filter_id_7ba4t05te3vn7b26lq34v0fgak" name="t" testid="search_filter"><option value="smart">Keyword</option>
+<option value="title">Title</option>
+<option value="author">Author</option>
+<option value="series">Series</option>
+<option value="subject">Subject</option>
+<option value="tag">Tag</option>
+<option value="userlist">List</option>
+<option value="user">User</option></select></div>
+
+<input data-js="search_category" id="search_category_id_7p0q044fcs8quv512qqnooj9a0" name="search_category" testid="search_category" type="hidden" value="keyword">
+<!-- end SEARCH TYPE-->
+</div>
+
+
+
+
+</div>                    <div class="hidden" data-js="header_target_search_options" data-target="website">
+                      <div class="form-group">
+  <span role="presentation" class="connector">for</span>
+  <div class="bootstrap-select-wrapper"><select aria-label="Search within the website" class=" selectpicker form-control" data-dropup-auto="false" data-js="header_search_format" data-style="btn-flat btn-default" id="post_type" name="post_type" testid="cms_post_type"><option value="">All Content</option>
+<option value="bccms_faq">FAQs</option>
+<option value="bccms_news">News</option>
+<option value="post">Blog Posts</option></select></div>
+</div>
+
+</div>                    <div class="hidden" data-js="header_target_search_options" data-target="faqs">
+                      <input id="post_type" name="post_type" type="hidden" value="bccms_faq">
+
+</div>              </div>
+
+              <!-- begin SEARCH INPUT -->
+
+  <div class="input-group header_search_box">
+    <label class="sr-only" for="q">Enter search query</label>
+    <input autocomplete="off" class="form-control main_search_input text" data-js="main_search_input" id="search_box_id_6pbsvsc5icc41a16d7sq803k4t" name="q" testid="main_search_input" type="text">
+    <span class="input-group-btn">
+      <button type="submit" class="btn btn-primary btn-flat">
+        <i aria-hidden="true" class=" icon-search"></i>
+        <span class="sr-only">Search</span>
+      </button>
+    </span>
+  </div>
+
+<!-- end SEARCH INPUT -->
+
+
+</form>          </div>
+
+          <div class="small pull-right adv_search">
+            <a href="https://chipublib.bibliocommons.com/user/saved_searches" class="hidden" data-ga-category="header_saved_searches" data-js="save_search_overlay" testid="link_savedsearches">Saved Searches</a>
+
+            <a href="https://chipublib.bibliocommons.com/search" test_id="link_advancedsearch">Advanced Search</a>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div><!-- /.client_and_search -->
+
+<div id="header_search_catalogue" class="clearfix search_wrapper_xs" data-js="header_search_wrapper_xs">
+  <div class="col-xs-12">
+    <div class="cp_header_search" data-js="header_search">
+      <h2 data-js="header_search_title" class="header_search_title" tabindex="-1">
+        Search
+      </h2>
+
+        <div class="form-group">
+          <div class="bootstrap-select-wrapper"><select aria-label="Search alternatives" class=" selectpicker form-control" data-dropup-auto="false" data-js="header_search_target" data-style="btn-flat btn-default" id="searchOpt" name="searchOpt" testid="search_scope"><option value="catalogue" data-action="https://chipublib.bibliocommons.com/search" data-query-field="q">Catalog</option>
+<option value="website" data-action="https://www.chipublib.org" data-query-field="s">Website</option>
+<option value="faqs" data-action="https://www.chipublib.org" data-query-field="s">FAQs</option>
+<option value="events" data-action="https://chipublib.bibliocommons.com/events/search/q=__QUERY__" data-query-field="">Events</option></select></div>
+
+        </div>
+
+      <form accept-charset="UTF-8" action="https://chipublib.bibliocommons.com/search" data-js="mobile_search_form" id="mobile_search_form" method="get" name="mobile_search_form"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+            <div data-js="header_target_search_options" data-target="catalogue">
+              
+<div class="form-group">
+  <span role="presentation" class="connector">
+    by
+  </span>
+  <!-- begin SEARCH TYPE -->
+<div class="bootstrap-select-wrapper"><select aria-label="Search type" class="form-control selectpicker form-control" data-dropup-auto="false" data-js="search_type" data-style="btn-flat btn-default" id="search_filter_id_10ui4hkr6msn9aibnm2h5ls74t" name="t" testid="search_filter"><option value="smart">Keyword</option>
+<option value="title">Title</option>
+<option value="author">Author</option>
+<option value="series">Series</option>
+<option value="subject">Subject</option>
+<option value="tag">Tag</option>
+<option value="userlist">List</option>
+<option value="user">User</option></select></div>
+
+<input data-js="search_category" id="search_category_id_7slo6kok67ls7vofs374elduot" name="search_category" testid="search_category" type="hidden" value="keyword">
+<!-- end SEARCH TYPE-->
+</div>
+
+
+
+
+</div>            <div class="hidden" data-js="header_target_search_options" data-target="website">
+              <div class="form-group">
+  <span role="presentation" class="connector">for</span>
+  <div class="bootstrap-select-wrapper"><select aria-label="Search within the website" class=" selectpicker form-control" data-dropup-auto="false" data-js="header_search_format" data-style="btn-flat btn-default" id="post_type" name="post_type" testid="cms_post_type"><option value="">All Content</option>
+<option value="bccms_faq">FAQs</option>
+<option value="bccms_news">News</option>
+<option value="post">Blog Posts</option></select></div>
+</div>
+
+</div>            <div class="hidden" data-js="header_target_search_options" data-target="faqs">
+              <input id="post_type" name="post_type" type="hidden" value="bccms_faq">
+
+</div>
+        <div class="form-group">
+          <!-- begin SEARCH INPUT -->
+
+  <div class="input-group header_search_box">
+    <label class="sr-only" for="q">Enter search query</label>
+    <input autocomplete="off" class="form-control main_search_input text" data-js="main_search_input" id="search_box_id_2o4n7q696iah4066b3ec6l8urc" name="q" testid="main_search_input" type="text">
+    <span class="input-group-btn">
+      <button type="submit" class="btn btn-primary btn-flat">
+        <i aria-hidden="true" class=" icon-search"></i>
+        <span class="sr-only">Search</span>
+      </button>
+    </span>
+  </div>
+
+<!-- end SEARCH INPUT -->
+
+
+        </div>
+</form>
+      <div class="form-group small pull-right adv_search">
+        <a href="https://chipublib.bibliocommons.com/user/saved_searches" class="hidden" data-ga-category="header_saved_searches" data-js="save_search_overlay" testid="link_savedsearches">Saved Searches</a>
+
+        <a href="https://chipublib.bibliocommons.com/search" test_id="link_advancedsearch">Advanced Search</a>
+
+      </div>
+    </div>
+    <!-- /.cp_header_search -->
+  </div>
+</div>
+
+      <div class="navbar yamm navbar-default hidden-xs hidden-sm cp_header_nav" data-js="header-top-nav">
+  <div class="container">
+    <nav class="navbar-collapse collapse col-md-12" role="navigation">
+
+      <ul role="menubar" class="nav navbar-nav header_main_nav" id="header_main_nav" aria-haspopup="true" data-js="header-main-nav">
+
+        <li class="dropdown yamm-fw desktop mobile" role="menuitem" data-ga-category="header_top_level_nav" data-ga-label="Browse" data-ga-event="show"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Browse</a><ul role="menu" class="dropdown-menu" data-js="header_nav_full_width_menu">  <li>    <div class="container yamm-content"><div role="presentation" class="menu-title"><h2>Browse</h2></div><ul role="menu" class="menu-column list-unstyled"><li class="desktop mobile"><h5>By Format</h5></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/books/" data-ga-category="header_sub_level_nav" data-ga-label="Books — Browse">Books</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/ebooks/" data-ga-category="header_sub_level_nav" data-ga-label="eBooks — Browse">eBooks</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/audiobooks/" data-ga-category="header_sub_level_nav" data-ga-label="Audiobooks — Browse">Audiobooks</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/movies/" data-ga-category="header_sub_level_nav" data-ga-label="Movies &amp; TV — Browse">Movies &amp; TV</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/music/" data-ga-category="header_sub_level_nav" data-ga-label="Music — Browse">Music</a></li></ul><ul role="menu" class="menu-column list-unstyled"><li class="desktop mobile"><h5>By Audience</h5></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/kids/" data-ga-category="header_sub_level_nav" data-ga-label="Kids — Browse">Kids</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/teens/" data-ga-category="header_sub_level_nav" data-ga-label="Teens — Browse">Teens</a></li></ul><ul role="menu" class="menu-column list-unstyled"><li class="desktop mobile"><h5>More</h5></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/online-resources/" data-ga-category="header_sub_level_nav" data-ga-label="Online Resources — Browse">Online Resources</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/jobs-small-business/" data-ga-category="header_sub_level_nav" data-ga-label="Jobs &amp; Small Business — Browse">Jobs &amp; Small Business</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/browse/chicago-history/" data-ga-category="header_sub_level_nav" data-ga-label="Chicago History — Browse">Chicago History</a></li><li class="desktop mobile" role="menuitem"><a href="http://www.chipublib.org/archives-collections/" data-ga-category="header_sub_level_nav" data-ga-label="Archival Collections — Browse">Archival Collections</a></li></ul>    </div>  </li></ul></li><li class="desktop mobile header_nav_events" data-js="header_nav_events" role="menuitem"><a href="https://chipublib.bibliocommons.com/events" data-ga-category="header_top_level_nav" data-ga-label="Events"><i aria-hidden="true" class="header_nav_icon icon-calendar"></i>Events</a></li>
+
+      </ul>
+
+    </nav>
+
+  </div>
+</div>
+<!-- /.cp_header_nav -->
+
+<script id="t_biblionav_header_nav_xs" type="x-handlebars-template">
+  <div class="navbar yamm navbar-default cp_header_nav">
+    <nav class="col-xs-12" role="navigation">
+
+      {{{nav_html}}}
+
+    </nav>
+  </div>
+</script>
+
+    </div>
+  </div><!-- /.cp_header -->
+</div>
+
+
+  <div class="container container_for_page">
 
     <div id="page">
       <a class="screen-reader-text" name="content-start"></a>
 
-      
+      <div class="legacy_page_row">
 
-            <div class="alert cp_system_message critical collapsed" role="alert" data-notice_id="573424517" testid="system_message critical" data-js="system_message">
-      <button type="button" class="close" data-dismiss="alert" testid="system_message_close_button" aria-label="hide"><span aria-hidden="true">×</span></button>
-    <div class="wrapper">
-      <div class="priority_box">
-        <i class="icon-attention-circled"></i>
-      </div>
-      <div class="message_box" testid="system_message_text" data-js="expand-text">
-        All CPL locations will be closed Monday, January 18.
-      </div>
-      <div class="collapse_expand_actions" data-js="collapse_expand_actions">
-        <a href="#" class="expand_trigger" data-js="expand_action"><i class=" icon-down-dir"></i></a>
-        <a href="#" class="collapse_trigger" data-js="collapse_action"><i class=" icon-up-dir"></i></a>
-      </div>
-    </div>
-  </div>
-
+          
 
         
         
+
 
         <div id="top_banner">
           
@@ -667,23 +1153,22 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
         
 
-        <div id="main" class="clearfix ">
-            <div class="" data-analytics="{ &quot;Section&quot;: &quot;Center&quot; }" id="content">
+        <div id="main" class="clearfix row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9" data-analytics="{ &quot;Section&quot;: &quot;Center&quot; }" id="">
     <div class="content info_page">
-	<h1>BiblioCommons US Privacy Statement</h1> <p>Last updated: January 19, 2015</p> <p>Chicago Public Library has entered into an agreement with BiblioCommons to provide an online service that will make it easier to track your holds and renewals and find the titles you are looking for. In addition, you may also choose to use this service to share ratings and commentary about the titles you find at Chicago Public Library, and to connect with other library users. When you use the pages in Chicago Public Library’s catalog that say “Powered by BiblioCommons” in the lower left-hand corner of the screen, you are using what is referred to in this document as the “BiblioCommons Service,” and any information that is collected or shared here will be governed by this Privacy Statement.</p> <p>BiblioCommons believes that effective privacy controls are the cornerstone of open and engaged communities. We have implemented the standards described on this page to protect the privacy of all users, at the same time providing the opportunity to share information about books, movies and music for those who are interested. By using the BiblioCommons Service, you agree to the terms of this BiblioCommons Privacy Statement and the BiblioCommons <a href="/info/terms">Terms of Use</a>. The BiblioCommons Privacy Statement and BiblioCommons Terms of Use can be accessed anytime through the links at the bottom of each page that is powered by BiblioCommons; together they are the only documents that govern your relationship with BiblioCommons.</p> <h3>Is this the only policy governing the use of my information on services offered by the library?</h3> <p>No.  Information you provide on the BiblioCommons Service may be transmitted to your library and its designated service partners, where it will be handled according to the policies your library has implemented in those environments. Please check the library’s website to view these documents, or speak to a librarian.</p> <h3>What types of information are collected on this service?</h3> <p>Several types of information may be collected and stored on the BiblioCommons service:</p> <ul> <li>Personal information </li> <li>Borrowing information</li> <li>Shared content</li> <li>Feedback and Suggestions</li> <li>Non-Identifying information.</li> </ul> <p>You will find a description of how this information is handled in the sections that follow.</p> <a name="personal_information" id="personal_information"></a> <h2>Personal Information </h2> <h3>What personal information is gathered? </h3> <p>BiblioCommons gathers personal information that you provide or choose to import from Chicago Public Library.  If you register for the BiblioCommons Service, your library barcode, PIN and borrower ID, name, birth month and year, and email address are automatically loaded into your on-line account from your library record. If some of this information is not available in your record you may be asked to provide it. </p> <p>If you participate in some optional services, for example youth and literacy programs, BiblioCommons may also ask for additional information, such as your ZIP/postal code, education level and gender, in order to support program evaluation.</p> <h3>How is my personal information used?</h3> <p>We use your personal information to create an online account in your name, provide the services that you have requested, monitor and improve the service, keep your library record up to date, and customize content.  We do not share your information or activity with ad networks or other entities that are not directly involved in the services you choose to use.</p> <p>If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your <a href="/user/account">Settings</a>.</p> <p>BiblioCommons may disclose your personal information and any content associated with your account if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, or (b) enforce the Terms of Use, including investigation of potential violations hereof.</p> <h3>Is my personal information protected?</h3> <p>Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility. This information will be used by BiblioCommons and Chicago Public Library to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.</p> <p><b>Law Enforcement Requests</b></p> <p>BiblioCommons does not share information in response to law enforcement requests unless it is presented with a warrant or other legal compulsion.</p> <h3>Can I change or delete my personal information?</h3> <p>You may alter or delete any of the personal information in your BiblioCommons account except for your name, birth information and your library card number(s); please contact your library staff to make changes to these. If your personal information is updated either through the BiblioCommons Service or directly on your Chicago Public Library account with the help of library staff, we will synchronize the new information in both locations.</p> <p>At any time, you may delete your BiblioCommons account without deleting your Chicago Public Library account. To delete your BiblioCommons account, please contact the BiblioCommons Privacy Officer. Note that while your BiblioCommons account information will not be available after deletion, some of that information may persist on memory discs.</p> <h3>Do I have to provide contact information?</h3> <p>No, you do not need to provide contact information to use the BiblioCommons Service. However you may choose to do so in order to receive to notices related to your use of the library through the BiblioCommons Service. Your contact information will not be used by BiblioCommons for any other purpose without your consent, or shared with any party other than Chicago Public Library without your direction to do so. We encourage you to check Chicago Public Library's policies to understand the other ways in which your contact information may be used by Chicago Public Library.</p> <p>BiblioCommons may send email or display messages on the service that provide you with the choice to take advantage of new features and functionality based on your past activity and stated preferences. To change your preferences for system messaging, please go to <a href="/user/account">My Settings</a>.</p> <h3>What measures are in place to protect children?</h3> <p>Parts of the BiblioCommons Service are open to children under the age of thirteen. However additional measures have been taken to protect their privacy and safety. Patrons under the age of thirteen (13) years (“minors”) will be restricted from using the BiblioCommons Service to enter free text; however provision may be made for a more permissive service for minors with parental consent.  While the Terms of Use prohibits the use of the BiblioCommons Service to arrange meetings with minors, children should be advised never to arrange meetings with strangers over the Internet.</p> <p>User-generated content may not be appropriate for children. The BiblioCommons Service contains functionality that will enable you to collapse user-generated content that has been flagged by Users who feel the content may be offensive to some users. Enabling this functionality will help decrease the likelihood of children encountering objectionable material when using the BiblioCommons Service.</p> <h3>Where can I learn more about internet safety for users under the age of 18?</h3> <p>We recommend that parents and guardians discuss internet privacy and safety with their children. When using the internet, children should be advised:</p> <ul> <li>never to give out personal information such as their real name, phone number, email address, or school without first consulting their parents or guardians, and</li> <li>never to arrange a meeting with someone they met online.</li> </ul> <p>More information about children’s safety online can be found on the following sites.</p> <p><i>Safety tips for children:</i></p> <ul> <li><a href="http://www.safekids.com/kids-rules-for-online-safety/">http://www.safekids.com/kids-rules-for-online-safety/</a></li> <li><a href="http://www.safesurfingkids.com/tips_for_kids.htm">http://www.safesurfingkids.com/tips_for_kids.htm</a></li> </ul> <p>Tips for parents:</p> <ul> <li><a href="http://www.google.com/familysafety/advice.html">http://www.google.com/familysafety/advice.html</a></li> <li><a href="http://www.internetsafety101.org/safety101.htm">http://www.internetsafety101.org/safety101.htm</a></li> </ul> <h3>How can parents and guardians oversee the personal information of their children?</h3> <p>Guardians of children under the age of thirteen may make a request to review and alter the personal information collected from their children on this service, or to deactivate their child’s BiblioCommons account. The first step in gaining access to your child’s account is to make your request in person to staff at one of the library’s locations.  Be prepared to show proof of your identity and of your relationship with the child.  Staff will then have the information retrieved and delivered to you by mail or held for pick-up.   Note that guardians cannot be given access to a child’s borrowing record.</p> <p>Note that the BiblioCommons Service does not require children under the age of 13, as a condition of participation, to provide more information than is reasonably required.  </p> <h2>Borrowing Information</h2> <h3>Is my borrowing record tracked?</h3> <p>No.  Lists of your current loans, due dates, outstanding fines, etc. may be loaded from your library record during your sessions online, but this information is not stored on your BiblioCommons account, and it is never shared with other users. You may choose to create a record of your recently-borrowed titles if this service is supported by your library; information about recently borrowed items is never made available to the public unless you choose to enter specific titles on your shelves or in other Shared Content. If you do not choose to enable the recently-borrowed feature, no automatic record of your borrowing will be created.</p> <a name="shared_content" id="shared_content"></a> <h2>Shared Content</h2> <h3>What is Shared Content?</h3> <p>You may use the BiblioCommons Service to record information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves; all of this content is called “Shared Content”. Shared Content may be useful for your own reference and can help other users find resources and information.</p> <p>When you contribute content to an individual title, that title is automatically added to My Shelves, a collection that gathers all of the titles to which you have contributed content or chosen to add to your shelves. You may also create Shared Content by interacting with others through messaging, forums, or collaborative guides.</p> <h3>Can Shared Content be viewed by the public?</h3> <p>Shared Content has been designed for sharing, and is usually public. However you may make portions of your Shared Content private by using your <a href="/user/privacy">Privacy Settings</a>. In addition, messages sent directly to other users through the service are not publicly viewable.</p> <p>If you are uncomfortable with the idea of sharing content with others, you may decide not to use My Shelves or contribute ratings, comments, guides, or other types of Shared Content. You do not need to create Shared Content in order to use the BiblioCommons Service.</p> <h3>Will my name be visible with my Shared Content?</h3> <p>Content and messages that you leave in public view or send to other users will be accompanied by the username that you create, or by whatever display name that you choose at a later date in your account settings. This display name is also linked to your profile page, which includes links to your Shelves, your shared Lists, and any other profile information you choose to display.</p> <h3>Can I change my Shared Content?</h3> <p>Shared Content that is not interactive may be edited or deleted on this service at any time. Deleted content is removed from our data bases and inaccessible to other users, but may remain in our data back-up system and in third-party search indexes like Google. Shared Content that is not deleted may remain available on the BiblioCommons Service indefinitely, even if you have closed your library account.</p> <p>Messages and chat cannot be deleted or edited once they have been sent. They are logged and archived indefinitely. In the event of complaints regarding violations of the BiblioCommons Terms of Use, this type of information may be used by BiblioCommons to investigate.</p> <p>Interactive Shared Content that other users may respond or contribute to, such as discussions or collaborative guides, may be visible to others indefinitely in association with your display name, and may persist after your BiblioCommons account is terminated.</p> <h2>Other Information</h2> <h3>Feedback and Suggestions</h3> <p>When you submit feedback or suggestions they will not be considered confidential and may be stored with your name and email address for analysis and follow-up.</p> <h3>Non-Identifying Information</h3> <p>BiblioCommons also records anonymous information and activity in order to improve the quality and scope of the features and content you access through the BiblioCommons Service.  For example:</p> <ul> <li>Information such as your browser type or IP address may be used to help us understand how visitors use the service over time and how it might be improved.</li> <li>Data from your account may also be aggregated in an anonymous way.</li> <li>Anonymous search logs are analyzed to improve the search algorithms.</li> <li>Activity such as borrowing and reading may be aggregated anonymously to guide the development of the library’s collections or to allow publishers to understand how their titles are being used.</li> </ul> <h3>Cookies</h3> <p>Cookies are small files used to enhance the functionality of websites.</p> <p>BiblioCommons may set and access temporary session cookies on your computer in order to make our system easier for you to use. In addition, a more persistent cookie is used to store your user preferences. These files do not contain or transfer any personally-identifiable information. You may also choose on the log-in page to save your username in a cookie by checking “remember me.” If you wish to be notified when you receive a cookie, you may set your browser to do so.</p> <h3>External Sites</h3> <p>The Internet is a big place: take care to guard your personally identifying information. This website may link to other websites that collect personal information. We recommend that you review the privacy policies of these sites before providing them with any personal data.</p> <h3>Changes to this Privacy Statement</h3> <p>This privacy statement may change from time to time in response to new laws, or to an evolution in BiblioCommons policies or practices. We encourage you to check this privacy statement from time to time for changes. Your continued use of BiblioCommons after a change will signify your acceptance of the new terms.</p> <h3>Change of Service</h3> <p>In the event that Chicago Public Library discontinues its participation in the BiblioCommons Service, the Chicago Public Library may transfer your information to a new service of a similar nature. In addition, Chicago Public Library may agree to have your information transferred to a successor entity of BiblioCommons or to any entity which purchases substantially all of the assets related to BiblioCommons or a division of BiblioCommons.</p> <p>Comments? Questions? Contact us. privacy@bibliocommons.com</p> <p> Privacy Officer<br> BiblioCommons<br> 119 Spadina Avenue, suite 1000<br> Toronto, ON M5V 2L1, Canada <br> tel. 1 (647) 436 6381 <br> </p> <p>Chicago Public Library may have additional policies that govern other aspects of the services we offer.  Please check the library's homepage to view these documents, or speak to a librarian.</p>
+	<h1>BiblioCommons US Privacy Statement</h1> <p>Last updated: January 19, 2015</p> <p>Chicago Public Library has entered into an agreement with BiblioCommons to provide an online service that will make it easier to track your holds and renewals and find the titles you are looking for. In addition, you may also choose to use this service to share ratings and commentary about the titles you find at Chicago Public Library, and to connect with other library users. When you use the pages in Chicago Public Library’s catalog that say “Powered by BiblioCommons” in the lower left-hand corner of the screen, you are using what is referred to in this document as the “BiblioCommons Service,” and any information that is collected or shared here will be governed by this Privacy Statement.</p> <p>BiblioCommons believes that effective privacy controls are the cornerstone of open and engaged communities. We have implemented the standards described on this page to protect the privacy of all users, at the same time providing the opportunity to share information about books, movies and music for those who are interested. By using the BiblioCommons Service, you agree to the terms of this BiblioCommons Privacy Statement and the BiblioCommons <a href="/info/terms">Terms of Use</a>. The BiblioCommons Privacy Statement and BiblioCommons Terms of Use can be accessed anytime through the links at the bottom of each page that is powered by BiblioCommons; together they are the only documents that govern your relationship with BiblioCommons.</p> <h3>Is this the only policy governing the use of my information on services offered by the library?</h3> <p>No.  Information you provide on the BiblioCommons Service may be transmitted to your library and its designated service partners, where it will be handled according to the policies your library has implemented in those environments. Please check the library’s website to view these documents, or speak to a librarian.</p> <p>Chicago Public Library may have additional policies that govern other aspects of the services we offer.  Please check the library's homepage to view these documents, or speak to a librarian.</p> <h3>What types of information are collected on this service?</h3> <p>Several types of information may be collected and stored on the BiblioCommons service:</p> <ul> <li>Personal information </li> <li>Borrowing information</li> <li>Shared content</li> <li>Feedback and Suggestions</li> <li>Non-Identifying information.</li> </ul> <p>You will find a description of how this information is handled in the sections that follow.</p> <a name="personal_information" id="personal_information"></a> <h2>Personal Information </h2> <h3>What personal information is gathered? </h3> <p>BiblioCommons gathers personal information that you provide or choose to import from Chicago Public Library.  If you register for the BiblioCommons Service, your library barcode, PIN and borrower ID, name, birth month and year, and email address are automatically loaded into your on-line account from your library record. If some of this information is not available in your record you may be asked to provide it. </p> <p>If you participate in some optional services, for example youth and literacy programs, BiblioCommons may also ask for additional information, such as your ZIP/postal code, education level and gender, in order to support program evaluation.</p> <h3>How is my personal information used?</h3> <p>We use your personal information to create an online account in your name, provide the services that you have requested, monitor and improve the service, keep your library record up to date, and customize content.  We do not share your information or activity with ad networks or other entities that are not directly involved in the services you choose to use.</p> <p>If you choose to share information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves (“Shared Content”), information such as the username or name you have chosen to display, your library affiliation(s) and age group may accompany your Shared Content and appear on a profile page that summarizes your Shared Content. If you would like to change your username or modify the information that is made publicly available in connection with these features, please visit your <a href="/account/personal_information">Settings</a>.</p> <p>BiblioCommons may disclose your personal information and any content associated with your account if required to do so by law or in a good faith belief that such disclosure is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, or (b) enforce the Terms of Use, including investigation of potential violations hereof.</p> <h3>Is my personal information protected?</h3> <p>Information in your BiblioCommons account that personally identifies you is encrypted and stored in a secured facility. This information will be used by BiblioCommons and Chicago Public Library to deliver the services you request in accordance with this Privacy Statement. BiblioCommons will not share, gift, sell, rent or trade your personal information (e.g., your email address or month and year of birth). But we may display Shared Content (defined below) in the BiblioCommons Service, or make other commercial uses of Shared Content.</p> <p><b>Law Enforcement Requests</b></p> <p>BiblioCommons does not share information in response to law enforcement requests unless it is presented with a warrant or other legal compulsion.</p> <h3>Can I change or delete my personal information?</h3> <p>You may alter or delete any of the personal information in your BiblioCommons account except for your name, birth information and your library card number(s); please contact your library staff to make changes to these. If your personal information is updated either through the BiblioCommons Service or directly on your Chicago Public Library account with the help of library staff, we will synchronize the new information in both locations.</p> <p>At any time, you may delete your BiblioCommons account without deleting your Chicago Public Library account. To delete your BiblioCommons account, please contact the BiblioCommons Privacy Officer. Note that while your BiblioCommons account information will not be available after deletion, some of that information may persist on memory discs.</p> <h3>Do I have to provide contact information?</h3> <p>No, you do not need to provide contact information to use the BiblioCommons Service. However you may choose to do so in order to receive to notices related to your use of the library through the BiblioCommons Service. Your contact information will not be used by BiblioCommons for any other purpose without your consent, or shared with any party other than Chicago Public Library without your direction to do so. We encourage you to check Chicago Public Library's policies to understand the other ways in which your contact information may be used by Chicago Public Library.</p> <p>BiblioCommons may send email or display messages on the service that provide you with the choice to take advantage of new features and functionality based on your past activity and stated preferences. To change your preferences for system messaging, please go to <a href="/user/account">My Settings</a>.</p> <h3>What measures are in place to protect children?</h3> <p>Parts of the BiblioCommons Service are open to children under the age of thirteen. However additional measures have been taken to protect their privacy and safety. Patrons under the age of thirteen (13) years (“minors”) will be restricted from using the BiblioCommons Service to enter free text; however provision may be made for a more permissive service for minors with parental consent.  While the Terms of Use prohibits the use of the BiblioCommons Service to arrange meetings with minors, children should be advised never to arrange meetings with strangers over the Internet.</p> <p>Community-created content may not be appropriate for children. The BiblioCommons Service contains functionality that will enable you to collapse community-created content that has been flagged by Users who feel the content may be offensive to some users. Enabling this functionality will help decrease the likelihood of children encountering objectionable material when using the BiblioCommons Service.</p> <h3>Where can I learn more about internet safety for users under the age of 18?</h3> <p>We recommend that parents and guardians discuss internet privacy and safety with their children. When using the internet, children should be advised:</p> <ul> <li>never to give out personal information such as their real name, phone number, email address, or school without first consulting their parents or guardians, and</li> <li>never to arrange a meeting with someone they met online.</li> </ul> <p>More information about children’s safety online can be found on the following sites.</p> <p><i>Safety tips for children:</i></p> <ul> <li><a href="http://www.safekids.com/kids-rules-for-online-safety/">http://www.safekids.com/kids-rules-for-online-safety/</a></li> <li><a href="http://www.safesurfingkids.com/tips_for_kids.htm">http://www.safesurfingkids.com/tips_for_kids.htm</a></li> </ul> <p>Tips for parents:</p> <ul> <li><a href="http://www.google.com/familysafety/advice.html">http://www.google.com/familysafety/advice.html</a></li> <li><a href="http://www.internetsafety101.org/safety101.htm">http://www.internetsafety101.org/safety101.htm</a></li> </ul> <h3>How can parents and guardians oversee the personal information of their children?</h3> <p>Guardians of children under the age of thirteen may make a request to review and alter the personal information collected from their children on this service, or to deactivate their child’s BiblioCommons account. The first step in gaining access to your child’s account is to make your request in person to staff at one of the library’s locations.  Be prepared to show proof of your identity and of your relationship with the child.  Staff will then have the information retrieved and delivered to you by mail or held for pick-up.   Note that guardians cannot be given access to a child’s borrowing record.</p> <p>Note that the BiblioCommons Service does not require children under the age of 13, as a condition of participation, to provide more information than is reasonably required.  </p> <h2>Borrowing Information</h2> <h3>Is my borrowing record tracked?</h3> <p>No.  Lists of your current loans, due dates, outstanding fees, etc. may be loaded from your library record during your sessions online, but this information is not stored on your BiblioCommons account, and it is never shared with other users. You may choose to create a record of your recently-borrowed titles if this service is supported by your library; information about recently borrowed items is never made available to the public unless you choose to enter specific titles on your shelves or in other Shared Content. If you do not choose to enable the recently-borrowed feature, no automatic record of your borrowing will be created.</p> <a name="shared_content" id="shared_content"></a> <h2>Shared Content</h2> <h3>What is Shared Content?</h3> <p>You may use the BiblioCommons Service to record information or opinions about books, movies, music, and other topics, participate in online conversations, or create selections using Lists or My Shelves; all of this content is called “Shared Content”. Shared Content may be useful for your own reference and can help other users find resources and information.</p> <p>When you contribute content to an individual title, that title is automatically added to My Shelves, a collection that gathers all of the titles to which you have contributed content or chosen to add to your shelves. You may also create Shared Content by interacting with others through messaging, forums, or collaborative guides.</p> <h3>Can Shared Content be viewed by the public?</h3> <p>Shared Content has been designed for sharing, and is usually public. However you may make portions of your Shared Content private by using your <a href="/user/privacy">Privacy Settings</a>. In addition, messages sent directly to other users through the service are not publicly viewable.</p> <p>If you are uncomfortable with the idea of sharing content with others, you may decide not to use My Shelves or contribute ratings, comments, guides, or other types of Shared Content. You do not need to create Shared Content in order to use the BiblioCommons Service.</p> <h3>Will my name be visible with my Shared Content?</h3> <p>Content and messages that you leave in public view or send to other users will be accompanied by the username that you create, or by whatever display name that you choose at a later date in your account settings. This display name is also linked to your profile page, which includes links to your Shelves, your shared Lists, and any other profile information you choose to display.</p> <h3>Can I change my Shared Content?</h3> <p>Shared Content that is not interactive may be edited or deleted on this service at any time. Deleted content is removed from our data bases and inaccessible to other users, but may remain in our data back-up system and in third-party search indexes like Google. Shared Content that is not deleted may remain available on the BiblioCommons Service indefinitely, even if you have closed your library account.</p> <p>Messages and chat cannot be deleted or edited once they have been sent. They are logged and archived indefinitely. In the event of complaints regarding violations of the BiblioCommons Terms of Use, this type of information may be used by BiblioCommons to investigate.</p> <p>Interactive Shared Content that other users may respond or contribute to, such as discussions or collaborative guides, may be visible to others indefinitely in association with your display name, and may persist after your BiblioCommons account is terminated.</p> <h2>Other Information</h2> <h3>Feedback and Suggestions</h3> <p>When you submit feedback or suggestions they will not be considered confidential and may be stored with your name and email address for analysis and follow-up.</p> <h3>Non-Identifying Information</h3> <p>BiblioCommons also records anonymous information and activity in order to improve the quality and scope of the features and content you access through the BiblioCommons Service.  For example:</p> <ul> <li>Information such as your browser type or IP address may be used to help us understand how visitors use the service over time and how it might be improved.</li> <li>Data from your account may also be aggregated in an anonymous way.</li> <li>Anonymous search logs are analyzed to improve the search algorithms.</li> <li>Activity such as borrowing and reading may be aggregated anonymously to guide the development of the library’s collections or to allow publishers to understand how their titles are being used.</li> </ul> <h3>Cookies</h3> <p>Cookies are small files used to enhance the functionality of websites.</p> <p>BiblioCommons may set and access temporary session cookies on your computer in order to make our system easier for you to use. In addition, a more persistent cookie is used to store your user preferences. These files do not contain or transfer any personally-identifiable information. You may also choose on the log-in page to save your username in a cookie by checking “remember me.” If you wish to be notified when you receive a cookie, you may set your browser to do so.</p> <h3>External Sites</h3> <p>The Internet is a big place: take care to guard your personally identifying information. This website may link to other websites that collect personal information. We recommend that you review the privacy policies of these sites before providing them with any personal data.</p> <h3>Changes to this Privacy Statement</h3> <p>This privacy statement may change from time to time in response to new laws, or to an evolution in BiblioCommons policies or practices. We encourage you to check this privacy statement from time to time for changes. Your continued use of BiblioCommons after a change will signify your acceptance of the new terms.</p> <h3>Change of Service</h3> <p>In the event that Chicago Public Library discontinues its participation in the BiblioCommons Service, the Chicago Public Library may transfer your information to a new service of a similar nature. In addition, Chicago Public Library may agree to have your information transferred to a successor entity of BiblioCommons or to any entity which purchases substantially all of the assets related to BiblioCommons or a division of BiblioCommons.</p> <p>Comments? Questions? Contact us. privacy@bibliocommons.com</p> <p> Privacy Officer<br> BiblioCommons<br> 119 Spadina Avenue, suite 1000<br> Toronto, ON M5V 2L1, Canada <br> tel. 1 (647) 436 6381 <br> </p>
 </div>
-</div>  <div class="secondary" data-analytics="{ &quot;Section&quot;: &quot;Right&quot; }" id="rightBar">    
-  
-  
+</div>  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3" data-analytics="{ &quot;Section&quot;: &quot;Right&quot; }" id="">
+
 </div>
         </div>
         <!-- /#main -->
 
-
+</div>
     </div>
     <!-- /#page -->
 
-
+</div>
 
   
 
@@ -692,145 +1177,143 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
       
   <div class="footer_wrapper">
       <div id="cms_external_footer">
-    <link rel="stylesheet" href="https://www.chipublib.org/wp-content/themes/bibliocommons/css/footer_all.css">
+    <link rel="stylesheet" href="https://www.chipublib.org/wp-content/themes/chicago/css/footer_all.css">
+
 <div id="bccms_footer" class="footer-wrapper">
-  <div id="footer_container">
-    <div class="footer_container_12">
-      <div class="footer_grid">
-        <div class="footer-menus clearfix">
-                              <div class="social-links-wrapper">
-            <ul>
-                            <li>
-                <a href="https://www.facebook.com/pages/Chicago-Public-Library/35447572453" class="facebook_link" title="Facebook">Facebook Link</a>
-              </li>
-                            <li>
-                <a href="https://twitter.com/chipublib" class="twitter_link" title="Twitter">Twitter Link</a>
-              </li>
-                            <li>
-                <a href="http://chicagopubliclibrary.tumblr.com/" class="tumblr_link" title="Tumblr">Tumblr Link</a>
-              </li>
-                            <li>
-                <a href="https://www.chipublib.org/enews-signup/" class="newsletter_link" title="Newsletter">Newsletter Link</a>
-              </li>
-                          </ul>
-          </div>
-                    <div class="footer-all-menu-columns">
-                      <div class="footer-1-container footer-menu-column">
-              <h4>Services</h4>
-              <div class="menu-services-2-container"><ul id="menu-services-2" class="menu"><li id="menu-item-24557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24557"><a href="http://www.chipublib.org/ask-a-librarian/">Ask a Librarian</a></li>
-<li id="menu-item-24563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24563"><a href="http://www.chipublib.org/get-a-library-card/">Get a Library Card</a></li>
-<li id="menu-item-24561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24561"><a href="http://www.chipublib.org/reserve-a-computer/">Reserve a Computer</a></li>
-<li id="menu-item-24567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24567"><a href="http://www.chipublib.org/request-an-interlibrary-loan/">Request an Interlibrary Loan</a></li>
-<li id="menu-item-24571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24571"><a href="http://www.chipublib.org/ebooks-and-eaudiobooks-support/">eBooks and eAudiobooks Support</a></li>
-<li id="menu-item-24569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24569"><a href="http://www.chipublib.org/suggest-a-purchase/">Suggest a Purchase</a></li>
-<li id="menu-item-33581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33581"><a href="http://www.chipublib.org/order-a-photo-reproduction/">Order a Photo Reproduction</a></li>
-<li id="menu-item-24559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24559"><a href="http://www.chipublib.org/book-a-meeting-room/">Book a Meeting Room or Study Room</a></li>
-<li id="menu-item-24565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24565"><a href="http://www.chipublib.org/private-event-rentals/">Private Event Rentals</a></li>
-</ul></div>            </div>
-                      <div class="footer-2-container footer-menu-column">
-              <h4>FAQs</h4>
-              <div class="menu-faqs-2-container"><ul id="menu-faqs-2" class="menu"><li id="menu-item-23215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23215"><a href="http://www.chipublib.org/faq/your-account/">Your Account</a></li>
-<li id="menu-item-24575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24575"><a href="http://www.chipublib.org/faq/library-cards/">Library Cards</a></li>
-<li id="menu-item-24573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24573"><a href="http://www.chipublib.org/faq/technology/">Technology</a></li>
-<li id="menu-item-23219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23219"><a href="http://www.chipublib.org/faq/services/#people-with-disabilities">People with Disabilities</a></li>
-<li id="menu-item-33745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33745"><a href="http://www.chipublib.org/faqs/">more »</a></li>
-</ul></div>            </div>
-                      <div class="footer-3-container footer-menu-column">
-              <h4>About the Library</h4>
-              <div class="menu-about-the-library-container"><ul id="menu-about-the-library" class="menu"><li id="menu-item-24611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24611"><a href="http://www.chipublib.org/administrative-staff/">Administrative Staff</a></li>
-<li id="menu-item-24613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24613"><a href="http://www.chipublib.org/board-of-directors/">Board of Directors</a></li>
-<li id="menu-item-49173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49173"><a href="http://www.chipublib.org/chicago-public-library-foundation/">Chicago Public Library Foundation</a></li>
-<li id="menu-item-30123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30123"><a href="http://www.chipublib.org/news-feed/library-news/">Library News</a></li>
-<li id="menu-item-24625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24625"><a href="http://www.chipublib.org/jobs-at-cpl/">Jobs at CPL</a></li>
-<li id="menu-item-33747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33747"><a href="http://www.chipublib.org/about-us/">more »</a></li>
-</ul></div>            </div>
-          
-          <div class="footer-menu-column footer-multi-row-column">
-                          <div class="footer-4-container footer-menu-row">
-                <h4>I Speak...</h4>
-                <div class="menu-i-speak-container"><ul id="menu-i-speak" class="menu"><li id="menu-item-24639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24639"><a href="http://www.chipublib.org/spanish/">Español</a></li>
-<li id="menu-item-24641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24641"><a href="http://www.chipublib.org/polish/">Polski</a></li>
-<li id="menu-item-24629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24629"><a href="http://www.chipublib.org/chinese/">中文</a></li>
-</ul></div>              </div>
-                          <div class="footer-5-container footer-menu-row">
-                <h4>Resources for</h4>
-                <div class="menu-resources-for-container"><ul id="menu-resources-for" class="menu"><li id="menu-item-24577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24577"><a href="http://www.chipublib.org/finding-a-job/">Finding a Job</a></li>
-<li id="menu-item-24581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="http://www.chipublib.org/learning-english/">Learning English</a></li>
-<li id="menu-item-24579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24579"><a href="http://www.chipublib.org/becoming-a-citizen/">Becoming a Citizen</a></li>
-</ul></div>              </div>
-                      </div>
-          <div class="footer-menu-column">
-            <div class="footer-contact-info  large-footer">
-                              <h4><a href="https://www.chipublib.org/contact-us/" class="contact_us_url">Contact Us</a></h4>
+    <div id="footer_container">
+        <h2 class="a11y-visually-hidden">Footer Menu</h2>
+        <div class="footer_container_12">
+            <div class="footer_grid">
+                <div class="footer-menus clearfix">
+                                                                <div class="social-links-wrapper">
                             <ul>
-                <li>Chicago Public Library</li>
-                <li>400 S. State Street<span class="clear"></span>
-Chicago, IL 60605</li>
-                <li>(312) 747-4300</li>
-              </ul>
+                                                                    <li>
+                                        <a href="https://www.facebook.com/pages/Chicago-Public-Library/35447572453" class="facebook_link">
+                                            <img src="https://d34rompce3lx70.cloudfront.net/wp-content/themes/bibliocommons/images/facebook-icon.png" alt="Chicago Public Library on Facebook"></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://twitter.com/chipublib" class="twitter_link">
+                                            <img src="https://d34rompce3lx70.cloudfront.net/wp-content/themes/bibliocommons/images/twitter-icon.png" alt="Chicago Public Library on Twitter"></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://www.instagram.com/chicagopubliclibrary/" class="instagram_link">
+                                            <img src="https://d34rompce3lx70.cloudfront.net/wp-content/themes/bibliocommons/images/instagram-icon.png" alt="Chicago Public Library on Instagram"></a>
+                                    </li>
+                                                                        <li>
+                                        <a href="https://visitor.r20.constantcontact.com/d.jsp?llr=vs7doizab&amp;p=oi&amp;m=1126638416469&amp;sit=fcnca6dlb&amp;f=a1f24030-412d-44ba-8dc8-d4bbd69edbd4" class="newsletter_link">
+                                            <img src="https://d34rompce3lx70.cloudfront.net/wp-content/themes/bibliocommons/images/newsletter-icon.png" alt="Chicago Public Library Newsletter"></a>
+                                    </li>
+                                                                </ul>
+                        </div>
+                                            <div class="footer-all-menu-columns">
+                        <div class="footer-1-container footer-menu-column"><h3 class="bccms-footer-heading">Services</h3><div class="menu-services-2-container"><ul id="menu-services-2" class="menu"><li id="menu-item-24557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24557"><a href="https://www.chipublib.org/ask-a-librarian/">Ask a Librarian</a></li>
+<li id="menu-item-24563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24563"><a href="https://www.chipublib.org/get-a-library-card/">Get a Library Card</a></li>
+<li id="menu-item-24561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24561"><a href="https://www.chipublib.org/reserve-a-computer/">Reserve a Computer</a></li>
+<li id="menu-item-24567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24567"><a href="https://www.chipublib.org/request-an-interlibrary-loan/">Request an Interlibrary Loan</a></li>
+<li id="menu-item-24571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24571"><a href="https://www.chipublib.org/ebooks-and-eaudiobooks-support/">eBooks and eAudiobooks Support</a></li>
+<li id="menu-item-24569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24569"><a href="https://www.chipublib.org/suggest-a-purchase/">Suggest a Purchase</a></li>
+<li id="menu-item-33581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33581"><a href="https://www.chipublib.org/order-a-photo-reproduction/">Order a Photo Reproduction</a></li>
+<li id="menu-item-24559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24559"><a href="https://www.chipublib.org/book-a-meeting-room/">Book a Meeting Room or Study Room</a></li>
+<li id="menu-item-24565" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24565"><a href="https://www.chipublib.org/private-event-rentals/">Private Event Rentals</a></li>
+</ul></div></div><div class="footer-2-container footer-menu-column"><h3 class="bccms-footer-heading">FAQs</h3><div class="menu-faqs-container"><ul id="menu-faqs" class="menu"><li id="menu-item-23215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23215"><a href="https://www.chipublib.org/faq/your-account/">Your Account</a></li>
+<li id="menu-item-24575" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24575"><a href="https://www.chipublib.org/faq/library-cards/">Library Cards</a></li>
+<li id="menu-item-24573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24573"><a href="https://www.chipublib.org/faq/technology/">Technology</a></li>
+<li id="menu-item-23219" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23219"><a href="https://www.chipublib.org/faq/services/#people-with-disabilities">People with Disabilities</a></li>
+<li id="menu-item-33745" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33745"><a href="https://www.chipublib.org/faqs/">More FAQs »</a></li>
+</ul></div></div><div class="footer-3-container footer-menu-column"><h3 class="bccms-footer-heading">About the Library</h3><div class="menu-about-the-library-container"><ul id="menu-about-the-library" class="menu"><li id="menu-item-24611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24611"><a href="https://www.chipublib.org/administrative-staff/">Administrative Staff</a></li>
+<li id="menu-item-24613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24613"><a href="https://www.chipublib.org/board-of-directors/">Board of Directors</a></li>
+<li id="menu-item-49173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49173"><a href="https://www.chipublib.org/chicago-public-library-foundation/">Chicago Public Library Foundation</a></li>
+<li id="menu-item-30123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30123"><a href="https://www.chipublib.org/news-feed/library-news/">Library News</a></li>
+<li id="menu-item-24625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24625"><a href="https://www.chipublib.org/jobs-at-cpl/">Jobs at CPL</a></li>
+<li id="menu-item-146858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-146858"><a href="https://visitor.r20.constantcontact.com/d.jsp?llr=vs7doizab&amp;p=oi&amp;m=1126638416469&amp;sit=fcnca6dlb&amp;f=a1f24030-412d-44ba-8dc8-d4bbd69edbd4">Sign Up for Email Updates</a></li>
+<li id="menu-item-157786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157786"><a href="https://www.chipublib.org/library-policies/website-accessibility-policy/">Website Accessibility Policy</a></li>
+<li id="menu-item-33747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33747"><a href="https://www.chipublib.org/about-us/">More About the Library »</a></li>
+</ul></div></div>
+                        <div class="footer-menu-column footer-multi-row-column">
+                            <div class="footer-4-container footer-menu-row"><h3 class="bccms-footer-heading">I Speak...</h3><div class="menu-i-speak-container"><ul id="menu-i-speak" class="menu"><li id="menu-item-24639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24639"><a href="https://www.chipublib.org/spanish/">Español</a></li>
+<li id="menu-item-24641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24641"><a href="https://www.chipublib.org/polish/">Polski</a></li>
+<li id="menu-item-24629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24629"><a href="https://www.chipublib.org/chinese/">中文</a></li>
+</ul></div></div><div class="footer-5-container footer-menu-row"><h3 class="bccms-footer-heading">Resources for</h3><div class="menu-resources-for-container"><ul id="menu-resources-for" class="menu"><li id="menu-item-142510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-142510"><a href="https://www.chipublib.org/computer-help-cybernavigator/">Computer Help</a></li>
+<li id="menu-item-142680" class="menu-item menu-item-type-taxonomy menu-item-object-bc_browse menu-item-142680"><a href="https://www.chipublib.org/browse/jobs-small-business/">Jobs &amp; Small Business</a></li>
+<li id="menu-item-24581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="https://www.chipublib.org/learning-english/">Learning English</a></li>
+<li id="menu-item-24579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24579"><a href="https://www.chipublib.org/becoming-a-citizen/">Becoming a Citizen</a></li>
+</ul></div></div>                        </div>
+                        <div class="footer-menu-column">
+                            <div class="footer-contact-info  large-footer">
+                                                                    <h3 class="bccms-footer-heading"><a href="https://www.chipublib.org/contact-us/" class="contact_us_url">Contact Us</a></h3>
+                                                                    <ul>
+                                    <li>Chicago Public Library</li>
+                                    <li>400 S. State Street<span class="clear"></span>
+Chicago, IL 60605                                    </li>
+                                    <li>
+                                        (312) 747-4300                                    </li>
+                                </ul>
+                            </div>
+                            <div class="clear"></div>
+                                                            <a href="https://www.chipublib.org/help-us-improve-our-website/" class="feedback-btn"><span>Website Feedback</span></a>
+                                                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="clear"></div>
-                          <a href="https://www.chipublib.org/help-us-improve-our-website/" class="feedback-btn"><span>Website Feedback</span></a>
-                      </div>
-          </div>
         </div>
-      </div>
-    </div>
-    <div class="footer-contact-info small-footer">
-      <div class="small-footer-content">
-      <!-- Footer to be shown on small screen sizes. -->
-              <h4><a href="https://www.chipublib.org/contact-us/" class="contact_us_url">Contact Us</a></h4>
-            <ul>
-        <li>Chicago Public Library</li>
-        <li>400 S. State Street<span class="clear"></span>
+        <div class="footer-contact-info small-footer">
+            <div class="small-footer-content">
+                <!-- Footer to be shown on small screen sizes. -->
+                                    <h3 class="bccms-footer-heading"><a href="https://www.chipublib.org/contact-us/" class="contact_us_url">Contact Us</a></h3>
+                                    <ul>
+                    <li>Chicago Public Library</li>
+                    <li>400 S. State Street<span class="clear"></span>
 Chicago, IL 60605</li>
-        <li>(312) 747-4300</li>
-      </ul>
-      </div>
+                    <li>
+                        (312) 747-4300                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
+
+    <div class="clear"></div>
+    <div class="footer-bottom clearfix">
+                    <a href="https://www.chipublib.org/help-us-improve-our-website/" class="feedback-btn-small">Website Feedback</a>
+                    <div class="clear"></div>
+        <div class="support-cpl">
+                            <a href="http://www2.cplfoundation.org/site/Donation2?df_id=2582&amp;mfc_pref=T&amp;2582.donation=form1" class="support-cpl-link">
+                                            <img alt="Support the Library Chicago Public Library Foundation, Dedicated to the Curious" src="https://chicago.bibliocms.com/wp-content/uploads/sites/3/2016/02/CPLSupportCPLF_web_130x60.png?v=1496946280149694623514969462353">
+                                            <span class="a11y-visually-hidden">, opens a new window</span>
+                </a>
+                        </div>
+        <div class="footer-col-2">
+            <div id="green-links-wrapper">
+                                    <a href="https://chicago.polarislibrary.com/patronstatus/" class="footer-green-link">Reciprocal Library Verification</a>
+                                        <a href="http://www.cityofchicago.org/" class="footer-green-link">City of Chicago</a>
+                                </div>
+            <div class="clear"></div>
+                        <div class="footer-bottom-copyright">
+                <a href="http://chipublib.bibliocommons.com/info/terms" target="_blank">
+                    Terms of Use                    <span class="a11y-visually-hidden">, opens a new window</span>
+                </a>
+                <a href="http://chipublib.bibliocommons.com/info/privacy" target="_blank">
+                    Privacy Statement                    <span class="a11y-visually-hidden">, opens a new window</span>
+                </a>
+                <span class="copyright-statement">
+                    © 2017 Chicago Public Library                </span>
+            </div>
+        </div>
+    </div>
+</div>
+<noscript>Please enable javascript to chat with librarians online</noscript>  </div>
+  
+      <div class="appserver">
+  <div class="powered-by">
+    Powered by BiblioCommons.
   </div>
-
-  <div class="clear"></div>
-  <div class="footer-bottom">
-          <a href="https://www.chipublib.org/help-us-improve-our-website/" class="feedback-btn-small">Website Feedback</a>
-        <div class="clear"></div>
-    <div class="support-cpl">
-      <a href="https://secure3.convio.net/cplf/site/Donation2?idb=2015336334&amp;DONATION_LEVEL_ID_SELECTED=1&amp;df_id=2020&amp;2020.donation=form1&amp;idb=0" class="support-cpl-link">
-                  <img alt="Support CPL" src="//chicago.bibliocms.com/wp-content/uploads/sites/3/2015/11/CPLF-Logo.png?v=1452115770145211570214521157023">
-              </a>
-    </div>
-    <div class="footer-col-2">
-
-      <div id="green-links-wrapper">
-        <a href="http://app3.chipublib.org/PatronStatus/index_01.jsp" class="footer-green-link">Reciprocal Library Verification</a>
-        <a href="http://www.cityofchicago.org/" class="footer-green-link">City of Chicago</a>
-      </div>
-      <div class="clear"></div>
-      <div class="footer-bottom-copyright">
-        <a href="http://chipublib.bibliocommons.com/info/terms" target="_blank">
-          Terms of Use        </a>
-        <a href="http://chipublib.bibliocommons.com/info/privacy" target="_blank">
-          Privacy Statement        </a>
-        <span class="copyright-statement">© 2016 Chicago Public Library &amp; BiblioCommons</span>
-      </div>
-    </div>
-
+  
+  <div class="product-version">
+    BiblioCore: app15 Version heads/v2.0 Last updated 2017/05/29 09:35
   </div>
 </div>
-  <noscript>Please enable javascript to chat with librarians online</noscript>  </div>
-  
+
   </div>
 
-      
-      <p class="appserver hide_for_cms">
-  Powered by BiblioCommons.
-  <br>
-  <span class="small text-muted">
-    app07
-    Version paprika-hotfix Last updated 2016/01/14 10:52 
-    
-  </span>
-</p>
 
 
   <!-- begin POSITIONED ELEMENTS -->
@@ -847,17 +1330,17 @@ Chicago, IL 60605</li>
   </div>
 
 <div data-analytics="{ &quot;Section&quot;:&quot;Messaging&quot; }">
-  <div class="messaging" id="id_2etbcqnjasauncespui77lvlp3">
+  <div class="messaging" id="id_2tduf626fh2bsp14a1qsf6s1cn">
   <div class="messageContent">
     <span class="message-icon"></span>
-    <div class="top_message" id="msg_id_6s8o5e7107drnfvqpe8ef6mm32" testid="test_message">
+    <div class="top_message" id="msg_id_6i6olkpa9ct52ubbp7p0pnt588" testid="test_message" data-test-id="top-message">
       <a name=""></a>
     </div>
   </div>
   <div class="closeButton" data-js="close_system_message"></div>
 </div>
 <script type="text/javascript" charset="utf-8">
-    registered_messages.push( {element: 'msg_id_6s8o5e7107drnfvqpe8ef6mm32', key: [], type: ["message","error"]});
+    registered_messages.push( {element: 'msg_id_6i6olkpa9ct52ubbp7p0pnt588', key: [], type: ["message","error"]});
 </script> 
 </div>
   <div class="cp_bc_modal">
@@ -870,27 +1353,20 @@ Chicago, IL 60605</li>
 </div>
   <!-- Currently, we cannot cache these templates because the content would change depending on the value of the
 feature flag.-->
-<script type="x-handlebars-template" id="discussion_flag_tpl" charset="utf-8">
-  <a href="javascript:void(0)" class="pull-right" data-js="flag_close_button"><i class='icon-cancel'></i></a>
-  
-  <div class="flagging" id="flag_{{content_id}}">
+<script type="x-handlebars-template" id="discussion_flag_tpl" charset="utf-8">  
+  <div class="flagging overlay-white" id="flag_{{content_id}}">
     <div class="flag_selection">
-      <h4>This content...</h4>
+      <h4>
+        <span class="flag_icon"><i aria-hidden="true" class=" icon-flag-empty"></i></span>
+        Flag this content because:
+          <a href="http://help.bibliocommons.com/025ug/060reporting-inappropriate-content/" class="help_icon blockHijack inline" id="main_help_025ug/060reporting-inappropriate-content/_id_5j9h8mjb0gm646br58ocneqlmf" target="_blank"><i aria-hidden="true" class=" icon-info-circled"></i></a>
+      </h4>
         {{#if flag_options.violates_appropriate_use_show_option}} 
-        <div class="types" testid="violates_appropriate_use">          <a href="#" data-type="violates_appropriate_use"><i class=" icon-right-open"></i> Violates Appropriate Use Standards</a>
-</div>        {{/if}}
-        {{#if flag_options.offensive_show_option}} 
-        <div class="types" testid="offensive">          <a href="#" data-type="offensive"><i class=" icon-right-open"></i> Is offensive<br>(To me or my community)</a>
-</div>        {{/if}}
-        {{#if flag_options.spoiler_show_option}} 
-        <div class="types" testid="spoiler">          <a href="#" data-type="spoiler"><i class=" icon-right-open"></i> Contains spoilers<br>(Gives away the ending)</a>
-</div>        {{/if}}
-    </div>
-  
-      <form accept-charset="UTF-8" action="/{{controller}}/flag/{{content_id}}" class="flag_form" id="flag_form_violates_appropriate_use" method="post" style="display:none;" testid="flag_form_violates_appropriate_use"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JCHoOHL0rIDUY2hiCXGr/2/kQHCUYQ2u+FD9z+exSrA=" /></div>        <input data-js="flag_type" id="flag_type" name="flag_type" type="hidden" value="VIOLATES_APPROPRIATE_USE" />
-        <input data-js="java-content-class" id="content_class" name="content_class" type="hidden" value="{{java_content_class}}" />
-        <h4>Please review the Appropriate Use standard and tell us which term has been violated.</h4>
-<input checked="checked" id="violation_type_UNRELATED" name="violation_type" type="radio" value="UNRELATED" />Unrelated <br/>
+        <div class="types" testid="violates_appropriate_use">          <a href="#" data-js="type_form_trigger" data-type="violates_appropriate_use"><i aria-hidden="true" class=" icon-right-open"></i> Violates Appropriate Use Standards</a>
+</div>        <form accept-charset="UTF-8" action="/{{controller}}/flag/{{content_id}}" class="flag_form" id="flag_form_violates_appropriate_use" method="post" style="display:none;" testid="flag_form_violates_appropriate_use"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jGgAt9aG/zkCrY6RXAWqDTRokUdclHALoQ4d9bRwx/8=" /></div>          <input data-js="flag_type" id="flag_type" name="flag_type" type="hidden" value="VIOLATES_APPROPRIATE_USE" />
+          <input data-js="java-content-class" id="content_class" name="content_class" type="hidden" value="{{java_content_class}}" />
+          <p>Please review the Appropriate Use standard and tell us which term has been violated.</p>
+<input checked="checked" id="violation_type_UNRELATED" name="violation_type" type="radio" value="UNRELATED" /> Unrelated <br/>
 <input id="violation_type_UNLAWFUL" name="violation_type" type="radio" value="UNLAWFUL" /> Unlawful <br/>
 <input id="violation_type_OBSCENE" name="violation_type" type="radio" value="OBSCENE" /> Obscene <br/>
 <input id="violation_type_MARKETING_SCHEME" name="violation_type" type="radio" value="MARKETING_SCHEME" /> Marketing Scheme <br/>
@@ -899,39 +1375,39 @@ feature flag.-->
 <input id="violation_type_VIRUS" name="violation_type" type="radio" value="VIRUS" /> Virus <br/>
 <input id="violation_type_RIGHTS_VIOLATION" name="violation_type" type="radio" value="RIGHTS_VIOLATION" /> Rights Violation <br/>
 <input id="violation_type_CRIMINAL_ADVICE" name="violation_type" type="radio" value="CRIMINAL_ADVICE" /> Criminal Advice <br/>
-<p><label for="accept"><input class="required" id="accept" name="accept" type="checkbox" value="1" />I have reviewed the <a href="/info/terms" target="_blank">Appropriate Use Standards</a></label></p>
+<p><label for="accept" class="review_standards"><input class="required" id="accept" name="accept" type="checkbox" value="1" /> I have reviewed the <a href="/info/terms" target="_blank">Appropriate Use Standards</a></label></p>
 
-        <input class="btn btn-primary" name="commit" type="submit" value="Submit" />
-        &nbsp;
-        <input type="button" value="Back" class="btn btn-primary back">
-</form>      <form accept-charset="UTF-8" action="/{{controller}}/flag/{{content_id}}" class="flag_form" id="flag_form_offensive" method="post" style="display:none;" testid="flag_form_offensive"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JCHoOHL0rIDUY2hiCXGr/2/kQHCUYQ2u+FD9z+exSrA=" /></div>        <input data-js="flag_type" id="flag_type" name="flag_type" type="hidden" value="OFFENSIVE" />
-        <input data-js="java-content-class" id="content_class" name="content_class" type="hidden" value="{{java_content_class}}" />
-        <h4>This content is offensive because:</h4>
+          <input class="btn btn-primary" name="commit" type="submit" value="Submit" />
+</form>        {{/if}}
+        {{#if flag_options.offensive_show_option}} 
+        <div class="types" testid="offensive">          <a href="#" data-js="type_form_trigger" data-type="offensive"><i aria-hidden="true" class=" icon-right-open"></i> Is offensive (To me or my community)</a>
+</div>        <form accept-charset="UTF-8" action="/{{controller}}/flag/{{content_id}}" class="flag_form" id="flag_form_offensive" method="post" style="display:none;" testid="flag_form_offensive"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jGgAt9aG/zkCrY6RXAWqDTRokUdclHALoQ4d9bRwx/8=" /></div>          <input data-js="flag_type" id="flag_type" name="flag_type" type="hidden" value="OFFENSIVE" />
+          <input data-js="java-content-class" id="content_class" name="content_class" type="hidden" value="{{java_content_class}}" />
+          <p>This content is offensive because:</p>
 <textarea class="required" id="reason" name="reason" placeholder="Please enter the reason">
 </textarea>
 
-        <input class="btn btn-primary" name="commit" type="submit" value="Submit" />
-        &nbsp;
-        <input type="button" value="Back" class="btn btn-primary back">
-</form>      <form accept-charset="UTF-8" action="/{{controller}}/flag/{{content_id}}" class="flag_form" id="flag_form_spoiler" method="post" style="display:none;" testid="flag_form_spoiler"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JCHoOHL0rIDUY2hiCXGr/2/kQHCUYQ2u+FD9z+exSrA=" /></div>        <input data-js="flag_type" id="flag_type" name="flag_type" type="hidden" value="SPOILER" />
-        <input data-js="java-content-class" id="content_class" name="content_class" type="hidden" value="{{java_content_class}}" />
-        <h4>This content contains spoilers.</h4>
+          <input class="btn btn-primary" name="commit" type="submit" value="Submit" />
+</form>        {{/if}}
+        {{#if flag_options.spoiler_show_option}} 
+        <div class="types" testid="spoiler">          <a href="#" data-js="type_form_trigger" data-type="spoiler"><i aria-hidden="true" class=" icon-right-open"></i> Contains spoilers (Gives away the ending)</a>
+</div>        <form accept-charset="UTF-8" action="/{{controller}}/flag/{{content_id}}" class="flag_form" id="flag_form_spoiler" method="post" style="display:none;" testid="flag_form_spoiler"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jGgAt9aG/zkCrY6RXAWqDTRokUdclHALoQ4d9bRwx/8=" /></div>          <input data-js="flag_type" id="flag_type" name="flag_type" type="hidden" value="SPOILER" />
+          <input data-js="java-content-class" id="content_class" name="content_class" type="hidden" value="{{java_content_class}}" />
+          <p>This content contains spoilers.</p>
 <p>Some people don't want to ruin the ending.</p>
 
-        <input class="btn btn-primary" name="commit" type="submit" value="Submit" />
-        &nbsp;
-        <input type="button" value="Back" class="btn btn-primary back">
-</form>  </div>
+          <input class="btn btn-primary" name="commit" type="submit" value="Submit" />
+</form>        {{/if}}
+    </div>
+  </div>
 </script>
 <!-- For the popout when user clicks "Contains Spoiler" on a tagged UGC. -->
 <script type="x-handlebars-template" id="ugc_flagged_content_spoiler_info" charset="utf-8">
-  <a href="javascript:void(0)" class="pull-right" data-js="close_button"><i class='icon-cancel'></i></a>
   <p><b>May contain spoilers</b><br> Spoilers give away details you may not want to know until you've read/watched this yourself.</p>
 </script>
 <!-- For the popout when user clicks "Contains Offensive Content" on a tagged UGC. -->
 <script type="x-handlebars-template" id="ugc_flagged_content_offensive_info" charset="utf-8">
-  <a href="javascript:void(0)" class="pull-right" data-js="close_button"><i class='icon-cancel'></i></a>
-  <p></p><b>This content has been tagged as offensive</b><br> This content has been reported by other users as offensive. <a href="/info/terms">Learn more about reported content.</a></p>
+  <p><b>This content has been tagged as offensive</b><br> This content has been reported by other users as offensive. <a href="/info/terms">Learn more about reported content.</a></p>
 </script>
 
 <script id="dropdown_filter_template" type="x-handlebars-template" charset="UTF-8">
@@ -978,7 +1454,7 @@ feature flag.-->
 </script>
 
 <script data-js="like_breakdown_template" type="text/x-handlebars-template" charset="utf-8">
-  <a href="#" class="like_breakdown_close" data-js="like_breakdown_close"><i class=" icon-cancel"></i></a>
+  <a href="#" class="like_breakdown_close" data-js="like_breakdown_close"><i aria-hidden="true" class=" icon-cancel"></i></a>
   {{#liking_ifContentHasLikes like_count}}
     <h4 class="like_breakdown_heading">
         {{#liking_if_single_user_liked like_count}}
@@ -988,7 +1464,7 @@ feature flag.-->
         {{/liking_if_single_user_liked}}
     </h4>
     <span class="like_usernames">
-      <i class=" icon-heart"></i>
+      <i aria-hidden="true" class=" icon-heart"></i>
       {{#if liked}}
         You{{#liking_unlessContentOnlyHasOneLike like_count}},{{/liking_unlessContentOnlyHasOneLike}}
       {{/if}}
@@ -1003,8 +1479,8 @@ feature flag.-->
   
     {{#if liked_users.see_more}}
       <div class="like_usernames_see_more_wrap">
-        <a href="{{url}}" data-js="like_breakdown_see_more">See more<i class=" icon-down-dir"></i></a>
-        <i class="hidden icon-spinner" data-js="liked_users_spinner"></i>
+        <a href="{{url}}" data-js="like_breakdown_see_more">See more<i aria-hidden="true" class=" icon-down-dir"></i></a>
+        <i aria-hidden="true" class="hidden icon-spinner" data-js="liked_users_spinner"></i>
       </div>
     {{/if}}
   
@@ -1013,7 +1489,7 @@ feature flag.-->
   {{/liking_ifContentHasLikes}}
 </script>
 <script id="tmpl_save_search_form" type="text/x-handlebars">
-  <form accept-charset="UTF-8" action="/user/save_search" class="form-inline save_search_form" data-js="save_search_form" data-remote="true" data-type="json" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="JCHoOHL0rIDUY2hiCXGr/2/kQHCUYQ2u+FD9z+exSrA=" /></div>
+  <form accept-charset="UTF-8" action="/user/save_search" class="form-inline save_search_form" data-js="save_search_form" data-remote="true" data-type="json" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="jGgAt9aG/zkCrY6RXAWqDTRokUdclHALoQ4d9bRwx/8=" /></div>
     <div data-js="messaging">
     </div>
     <button type="button" class="close close_top_right" data-js="close_button">
@@ -1027,11 +1503,11 @@ feature flag.-->
         <label for="search_name">
           Save search as:
         </label>
-        <input type="text" name="search_name" data-js="search_name" required class="form-control search_name_field" maxlength="100" value="{{{current_query}}}">
+        <input type="text" name="search_name" data-js="search_name" required class="form-control search_name_field" maxlength="100" value="{{current_query}}">
 
         <div class="form_buttons">
           <button type="submit" class="btn btn-primary" data-saving-text="<i class='icon-spinner animate-spin'></i> Saving..." data-js="save_button">
-            <i class=" icon-ok"></i> Save it
+            <i aria-hidden="true" class=" icon-ok"></i> Save it
           </button>
           <a href="#" data-js="close_button" class="btn btn-default">
             Cancel
@@ -1065,6 +1541,7 @@ feature flag.-->
 	<div class="content-header">
   <button type="button" class="close close_top_right" data-js="close_button">
     <span aria-hidden="true">&times;</span>
+    <span class="sr-only">Close Dialog</span>
   </button>
   <h4 class="content-title" id="modal_label">
     Are you sure?
@@ -1087,11 +1564,61 @@ feature flag.-->
   </div>
 </script>
 
+<script data-js="user_card_template" type="text/x-handlebars-template" charset="utf-8">
+  <div class="card" testid="user_card_hover_{{id}}">
+    <div class="row">
+      <div class="col-xs-3">
+        <span class="cp_user_avatar md {{libraryMembership}}" testid="user_avatar">
+          <a href="/user_profile/{{id}}">
+            {{#if avatar}}
+              <img src="{{avatar}}" class="img-circle">
+            {{else}}
+              <div class="img-circle initial"><span>{{initial}}</span></div>
+            {{/if}}
+          </a>
+        </span>
+      </div>
+
+      <div class="col-xs-9">
+        <h4>
+          <a href="/user_profile/{{id}}" title="{{name}}'s Profile" testid="user_profile_link">{{name}}</a>
+        </h4>
+
+        {{#if libraryName}}
+          <p>{{libraryName}}</p>
+        {{/if}}
+
+        {{#if staff}}<p><span class="cp_staff_stamp">Library Staff</span></p>{{/if}}
+
+        <p><a href="/user_profile/{{id}}" title="{{name}}'s Profile">View Profile</a></p>
+
+        
+        
+        <p>  <a href="/user/login" class="btn btn-secondary btn-flat btn-sm" testid="logged_out_follow_user"><i aria-hidden="true" class=" icon-user-plus"></i>Follow</a>
+  <a href="/user/login" class="btn btn-secondary btn-flat btn-sm" testid="logged_out_ignore_user"><i aria-hidden="true" class=" icon-block"></i>Ignore</a>
+</p>
+        
+        {{#if is_currently_logged_in_user}}<div class="status-label status-label-info">This is me!</div>{{/if}}
+      </div>
+    </div>
+  </div>
+</script>
+
+<script charset="utf-8" data-js="tour_dots_template" type="text/x-handlebars-template">
+  <div class="pagination_dots">
+    {{#each steps}}
+      <div class="dot {{#isTourDotFilledIn ../currentStep @index}}active{{/isTourDotFilledIn}}"></div>
+    {{/each}}
+  </div>
+</script>
   <div id="overlay" aria-hidden="true" role="dialog" data-js="overlay-container">
   <div class="overlay-backdrop"></div>
   <div class="overlay-inner">
-    <span class="overlay-close js-close-trigger">×</span>
     <div class="overlay-body"></div>
+    <a href="#close-overlay" class="overlay-close js-close-trigger">
+      <i aria-hidden="true" class=" icon-cancel"></i>
+      <span class="sr-only">Close Dialog</span>
+    </a>
   </div>
 </div>
   <div class="popup-box-ie-position">
@@ -1102,10 +1629,12 @@ feature flag.-->
   </div>
 </div>
   <div id="globalSpinner" class="spinner">	
-	<img alt="" src="//cor-liv-cdn-static.bibliocommons.com/assets/ajax-loader-d0952e3b34f29e4a5c00e4f1540cdaa5.gif" title="">
+	<img alt="" src="//cor-cdn-static.bibliocommons.com/assets/ajax-loader-2ad22ee6988a62b7f1661cb696219501.gif" title="">
 </div>
 
-  
+  <a class="btn btn-secondary cp_sticky_tab btn-float back_to_top" data-bottom="30" data-right="0" data-js="sticky_tab back_to_top">
+  <i aria-hidden="true" class=" icon-up"></i> To Top
+</a> 
   
   <!-- end POSITIONED ELEMENTS -->
 
@@ -1113,8 +1642,11 @@ feature flag.-->
 <!-- /#ct_controller -->
 
 <!-- begin JS BLOCK -->
-  <script src="//cor-liv-cdn-static.bibliocommons.com/assets/core-401fcbf24bdf39805c0ef623894fe4f7.js" type="text/javascript"></script>
-  <script src="//cor-liv-cdn-static.bibliocommons.com/assets/controllers/info.js" type="text/javascript"></script>
+  <script src="//cor-cdn-static.bibliocommons.com/assets/core-5cb83c241249937719d0f23e38d7e18c.js" type="text/javascript"></script>
+  <script src="//cor-cdn-static.bibliocommons.com/assets/controllers/info.js" type="text/javascript"></script>
+  
+  
+
 
 
 
@@ -1139,6 +1671,12 @@ feature flag.-->
        fjs.parentNode.insertBefore(js, fjs);
      }(document, 'script', 'facebook-jssdk'));
   </script>  
+
+
+
+
+
+
 
 
 <!-- end JS BLOCK -->
