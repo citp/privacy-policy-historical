@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanthinker.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233902id_/http%3A//www.americanthinker.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanthinker.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611165254id_/http%3A//www.americanthinker.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Thinker
 
