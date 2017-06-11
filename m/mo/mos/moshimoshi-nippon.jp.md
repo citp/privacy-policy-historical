@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moshimoshi-nippon.jp privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206043049id_/http%3A//www.moshimoshi-nippon.jp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimoshi-nippon.jp privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611125102id_/http%3A//www.moshimoshi-nippon.jp/privacy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | もしもしにっぽん | MOSHI MOSHI NIPPON
+# PRIVACY POLICY | MOSHI MOSHI NIPPON | もしもしにっぽん
 
 ASOBISYSTEM Company Limited, full name of the applicable legal entity here (hereinafter referred to as “Our company”, “we” or “us”), respects your privacy. Please note that we own and operate this website “Moshi Moshi Nippon” (hereinafter referred to as “Our website”). Our website will maintain your Personal Information so carefully and sensibly. We will only share Personal Information collected through the platform as described in this policy, unless we provide you with choices. Specifically, we may share your Personal Information.
 
