@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costar.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030802id_/http%3A//www.costar.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costar.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611153807id_/https%3A//www.costar.com/about/privacy-policy) for the most accurate reproduction.*
 
 # CoStar Privacy Policy | CoStar
 
