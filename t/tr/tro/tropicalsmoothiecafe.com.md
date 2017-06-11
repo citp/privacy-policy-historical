@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tropicalsmoothiecafe.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217150030id_/http%3A//www.tropicalsmoothiecafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tropicalsmoothiecafe.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611135254id_/https%3A//www.tropicalsmoothiecafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Tropical Smoothie Cafe · Privacy Policy · Eat Better. Feel Better.
 
@@ -61,15 +61,21 @@ If at any time you would like to correct the personal information we have about 
 
 Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the “Help” section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of this website. 
 
-####  6\. Links to Other Sites 
+#### 6\. Google
+
+Our website utilizes google remarketing. As a visitor to our website you should be aware that your data may be used in the manner articulated below. 
+
+Where users have chosen to enable Google to associate their web and app browsing history with their Google account, and to use information from their Google account to personalize ads they see across the web, Google will use data from its signed-in users together with our Google Analytics data to build and define audience lists for cross-device remarketing. In order to support this feature, Google Analytics will collect these users' Google-authenticated identifiers, which are Google's personal data, and temporarily join them to your Google Analytics data in order to populate your audiences.
+
+####  7\. Links to Other Sites 
 
 We may offer links to sites that are not operated by Tropical Smoothie Cafe. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies. 
 
-####  7\. Changes to our Privacy Policy 
+####  8\. Changes to our Privacy Policy 
 
-This privacy policy is effective as of November 1, 2013. If we change our policy, we will post the revised version here. 
+This privacy policy is effective as of April 28, 2017. If we change our policy, we will post the revised version here. 
 
-####  8\. How to Contact Us 
+####  9\. How to Contact Us 
 
 Tropical Smoothie Cafe Corporate Support Center  
 1117 Perimeter Center West  
