@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpd.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004700id_/http%3A//www.dpd.co.uk/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpd.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611052824id_/http%3A//www.dpd.co.uk/privacy_policy.jsp) for the most accurate reproduction.*
 
 # DPD (UK) - Privacy & Cookie Policy
 
