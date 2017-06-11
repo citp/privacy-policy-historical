@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyi.net privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209054201id_/http%3A//www.nyi.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyi.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611032553id_/http%3A//www.nyi.net/privacy_policy) for the most accurate reproduction.*
 
 # NYI Privacy Policy - NYI - New York Internet
 
