@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the existor.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126140226id_/http%3A//www.existor.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the existor.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611161217id_/http%3A//www.existor.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Existor
 
