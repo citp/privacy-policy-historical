@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629132719id_/http%3A//www.sanfordbrown.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611062941id_/http%3A//www.sanfordbrown.edu/Privacy) for the most accurate reproduction.*
 
 # Sanford-Brown | Privacy Statement
 
