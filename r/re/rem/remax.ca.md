@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remax.ca privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014114016id_/http%3A//www.remax.ca/editorial/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remax.ca privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611064446id_/https%3A//www.remax.ca/editorial/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guide You Home
 
