@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2015-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150328041825id_/http%3A//www.zyrtec.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zyrtec.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611131256id_/https%3A//www.zyrtec.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ZYRTEC®
 
@@ -15,9 +15,9 @@
 
 
 
-## Last Update: January 1, 2015
+## Last Update: 01/18/2016
 
-McNEIL-PPC, Inc is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the “Site”). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
+Johnson & Johnson Consumer Inc.  is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information. This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the "Site"). By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
 
 ## Information Collection
 
@@ -25,7 +25,7 @@ McNEIL-PPC, Inc is concerned about privacy issues and wants you to be familiar w
 
 Some areas of the Site may ask you to submit personal information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, or order processing) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed what information is required and what information is optional.
 
-We may combine the information you submit with other information we have collected from you, whether on- or offline, including, for example, your purchase history. We may also combine it with information we receive about you from other sources, such as other companies, divisions, parents, subsidiaries, and affiliated companies of McNEIL-PPC, Inc , publicly available information sources (including information from your publicly available social media profiles), and other third parties.
+We may combine the information you submit with other information we have collected from you, whether on- or offline, including, for example, your purchase history. We may also combine it with information we receive about you from other sources, such as other companies, divisions, parents, subsidiaries, and affiliated companies of Johnson & Johnson Consumer Inc. publicly available information sources (including information from your publicly available social media profiles), and other third parties.
 
 ### Passive Information Collection and Use
 
@@ -61,7 +61,12 @@ We also use information from or about you:
 
 We also disclose information collected through the Site:
 
-  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at <http://www.investor.jnj.com/governance/sec-filings.cfm> \- click on the link for Form 10K, Exhibit 21, under "SEC Filings". McNEIL-PPC, Inc. is the party responsible for the management of the jointly-used Personal Information;
+  * to our affiliates for the purposes described in this Privacy Policy. A list of our affiliates is available at <http://www.investor.jnj.com/governance/sec-filings.cfm> \- click on the link for Form 10K, Exhibit 21, under "SEC Filings".
+
+
+
+**Johnson & Johnson Consumer Inc.** is the party responsible for the management of the jointly-used Personal Information;
+
   * to our third party partners with whom we offer a co-branded or co-marketed promotion;
   * to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and
   * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
@@ -88,9 +93,9 @@ We use reasonable organizational, technical, and administrative measures to prot
 
 We give you choices regarding our use and disclosure of your personal information for marketing purposes. You may opt out from:
 
-  * Receiving marketing communications from us: If applicable and you no longer want to receive marketing communications from us on a going-forward basis, you may opt out of receiving them by contacting us as specified below in the CONTACTING US section. In your response to us, please provide your name, identify the form(s) of marketing communications that you no longer wish to receive, and include the address(es) to which it/they are sent. For example, if you no longer wish to receive marketing e-mails or direct mail from us, tell us that, and provide your name and e-mail or postal address. You may also opt out of receiving marketing communications from us by visiting the Site to update your online profile. In addition, you may opt out of receiving marketing e-mails from us by following the unsubscribe instructions provided in any such message.
-  * Receiving reminders from us: If applicable and you no longer want to receive medical reminders from us on a going-forward basis, you may opt out of receiving them by contacting us as specified below in the CONTACTING US section. In your response to us, please provide your name and the e-mail address or phone number at which you receive reminders from us.
-  * Our sharing of your personal information with affiliates and third-party partners: If applicable and you would prefer that we not share your personal information on a going-forward basis with our affiliates and/or third-party partners for their marketing purposes, you may opt out of this sharing by contacting as specified below in the CONTACTING US section. In your response to us, please state that we should no longer share your personal information with our affiliates and/or third-party partners for their marketing purposes, and include your name and e-mail address.
+  * **Receiving marketing communications from us:** If applicable and you no longer want to receive marketing communications from us on a going-forward basis, you may opt out of receiving them by contacting us as specified below in the CONTACTING US section. In your response to us, please provide your name, identify the form(s) of marketing communications that you no longer wish to receive, and include the address(es) to which it/they are sent. For example, if you no longer wish to receive marketing e-mails or direct mail from us, tell us that, and provide your name and e-mail or postal address. You may also opt out of receiving marketing communications from us by visiting the Site to update your online profile. In addition, you may opt out of receiving marketing e-mails from us by following the unsubscribe instructions provided in any such message.
+  * **Receiving reminders from us:** If applicable and you no longer want to receive medical reminders from us on a going-forward basis, you may opt out of receiving them by contacting us as specified below in the CONTACTING US section. In your response to us, please provide your name and the e-mail address or phone number at which you receive reminders from us.
+  * **Our sharing of your personal information with affiliates and third-party partners:** If applicable and you would prefer that we not share your personal information on a going-forward basis with our affiliates and/or third-party partners for their marketing purposes, you may opt out of this sharing by contacting as specified below in the CONTACTING US section. In your response to us, please state that we should no longer share your personal information with our affiliates and/or third-party partners for their marketing purposes, and include your name and e-mail address.
 
 
 
@@ -131,8 +136,8 @@ We may change this Privacy Policy. Please take a look at the LAST UPDATE legend 
 If you have any questions about this Privacy Policy, please contact us via one of these methods:
 
   * On the Site, via the CONTACT US section, if available
-  * Or by phone:  
-For Consumers and Professionals, please call [800-361-8068](tel://800-361-8068) (Monday to Friday, 8am to 8pm EST)  
+  * or by phone:  
+For Consumers and Professionals, please call [800-361-8068](tel:800-361-8068) (Monday to Friday, 9am to 7pm EST)  
 If you reside outside of the United States, a list of telephone numbers by country is available at <https://www.ccc-consumercarecenter.com/phone_us>
 
 
@@ -141,6 +146,6 @@ Consumer Care Center
 McNeil Consumer Healthcare  
 7050 Camp Hill Rd  
 Fort Washington, PA 19034  
-© McNEIL-PPC, Inc 2015.
+© Johnson & Johnson Consumer Inc. 2015.  All Rights Reserved.
 
 Top
