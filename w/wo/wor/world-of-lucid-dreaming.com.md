@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228000005id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-of-lucid-dreaming.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611131800id_/http%3A//www.world-of-lucid-dreaming.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for World of Lucid Dreaming
 
-[ ](http://www.world-of-lucid-dreaming.com/lucid-dreaming-fast-track.html)
+[ ](https://claridream.com/)
 
 ## Short Version
 
@@ -10,11 +10,13 @@ This site keeps all your personal information secret. Your personal information 
 
 ## Long Version
 
-Creative Media NZ Ltd has created this privacy statement for World-of-Lucid-Dreaming.com in order to demonstrate its firm commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. 
+The World of Lucid Dreaming has created this statement in order to demonstrate its firm commitment to privacy. The following statement discloses the information gathering and dissemination practices for this web site. 
 
 **Information Automatically Logged** This site may log your IP address to help diagnose problems with the web server and to administer this web site. This information is primarily used for general traffic tracking and security. 
 
-**Cookies** This site uses cookies to track information about its visitors. This information includes the date/time of visits, pages viewed, and products ordered. 
+**Cookies** This site uses cookies to track information about its visitors. This information includes the date/time of visits, pages viewed, and products ordered. We do this to better understand how we can serve you and give you a wonderful viewing experience. 
+
+**Google Analytics** This site uses Google Analytics Demographics and Interest Reporting to better understand the behaviours and needs of our customers. You can opt out of this with Google Analytics [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/)
 
 **Newsletter / e-Course** This site allows visitors to sign up for a free newsletter and e-course by providing an email address. The email address you provide is used only to send you the free newsletter and e-course, and you can unsubscribe by clicking a link in any issue. 
 
