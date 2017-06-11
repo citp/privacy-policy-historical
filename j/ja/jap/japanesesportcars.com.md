@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanesesportcars.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215103750id_/http%3A//www.japanesesportcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesesportcars.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611220232id_/http%3A//www.japanesesportcars.com/privacy) for the most accurate reproduction.*
 
 # Privacy | JapaneseSportCars.com
 
