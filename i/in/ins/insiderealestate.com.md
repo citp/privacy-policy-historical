@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderealestate.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025005734id_/http%3A//insiderealestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderealestate.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611234655id_/http%3A//insiderealestate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Inside Real Estate | Lead Generation + Websites + CRM + Reporting + Powerful Performance
 
@@ -6,7 +6,7 @@
 
 We collect information from you when you register on our site or fill out a form.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. We also may collect your computer’s IP address, IP address location and browser and/or device information. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
@@ -72,16 +72,18 @@ By using our site, you consent to our [privacy policy](http://www.insiderealesta
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page.
+This version of our privacy policy is effective as of Sep 16, 2014. We make changes to this policy periodically and if we decide to change our privacy policy, we will post those changes on this page. Recent changes, as of November 2016 include updates to the extent of information collected on some forms, including IP and location information.
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://insiderealestate.com  
-68 S. Main St, 9th Floor  
+> [Home](http://insiderealestate.com/)
+
+  
+6510 S. Millrock Drive, 4th Floor  
 Salt Lake City, UT  
-84101  
+84121  
 USA  
 support@insiderealestate.com  
 (800) 656-1646
