@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220213727id_/http%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwildlife.org privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611124221id_/http%3A//www.worldwildlife.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pages | WWF
 
@@ -126,7 +126,18 @@ This Privacy Policy shall apply to the following websites and all associated sub
 
 
   * www.seafoodsustainability.org
+
+
   * www.envirodm.org
+
+
+  * www.wearestillin.com / www.wearestillin.org
+
+
+  * www.lowcarbonusa.org
+
+
+  * detect.trade
 
 
 
