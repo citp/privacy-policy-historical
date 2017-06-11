@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229162026id_/http%3A//ip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611083520id_/https%3A//ip.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | IP.com
+# Privacy Policy - IP.com
 
 This policy discloses the information practices for IP.com on the web, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.
 
