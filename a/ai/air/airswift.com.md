@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airswift.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207092938id_/http%3A//www.airswift.com/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airswift.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611154512id_/https%3A//www.airswift.com/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Airswift
 
@@ -47,7 +47,7 @@ Without limitation, any of the following Data may be collected by this Website f
 **g)** to third parties who perform functions on our behalf and who also provide services to us, such as professional advisors and outsourcing partners, including business development advisers as well as IT consultants carrying out testing and development work on our business technology systems. These third parties comply with similar undertakings of privacy and confidentiality as Airswift; and  
 **h)** to regulatory or law enforcement agencies if we believe in good faith that we are required by law to disclose it in connection with the detection of crime, the collection of taxes or duties, in order to comply with any applicable law or order of a court of competent jurisdiction, or in connection with legal proceedings.
 
-**4.4** From time to time we may seek your consent to process, use or disclose your information for any other purpose not listed above. We may also pass your information to, or allow access to such information to other companies in our group, whose locations can be found at www.airswift.com in order that they may use your personal information in the same way as we process, use and disclose your information as described above.
+**4.4** From time to time we may seek your consent to process, use or disclose your information for any other purpose not listed above. We may also pass your information to, or allow access to such information to other companies in our group, whose locations can be found at https://www.airswift.com in order that they may use your personal information in the same way as we process, use and disclose your information as described above.
 
 **5\. Third Party Services**
 
