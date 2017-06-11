@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myrepublica.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033747id_/http%3A//www.myrepublica.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrepublica.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611103843id_/http%3A//www.myrepublica.com/content/privacy-policy) for the most accurate reproduction.*
 
 # My Republica
+
+Sunday, 11 June 2017 04:23 PM
 
 MyRepublica.com recognizes the importance of protecting the privacy of information you provide us.
 
