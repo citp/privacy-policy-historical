@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the youpdates.me privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126172501id_/http%3A//youpdates.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youpdates.me privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612010016id_/http%3A//youpdates.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | YoUpdates
-
-[](http://youpdates.me/ "YoUpdates") TV Serials and Movies Latest News Updates
 
 YoUpdates cares about how your personal data is employed and shared, and we get your privacy critically. Be sure to study the next terms To find out more about our privacy policy. By registering to and developing account at YoUpdates.me that you are accepting the methods outlined During this Privacy Plan.
 
