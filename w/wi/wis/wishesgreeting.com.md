@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wishesgreeting.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045113id_/http%3A//www.wishesgreeting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishesgreeting.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611140720id_/http%3A//www.wishesgreeting.com/privacy-policy) for the most accurate reproduction.*
 
-# | WishesGreeting
+# Terms of service and Privacy Policy | WishesGreeting
 
 Every care is taken to secure the permission from the original copyright holder of displayed pictures. In most cases, we will contact you either before we make the feature post, or immediately after, to verify your agreement to the displayed content, and the accuracy of our “link back” to you.
 
@@ -28,7 +28,7 @@ Information Gathering
 
 IP Addresses: We may use your IP address (the location of your computer on the internet) to help diagnose problems with our server, to administer our sites, to gauge the popularity of content areas, and to gather broad demographic information for prospective advertisers
 
-## **Cookies**
+##  **Cookies**
 
 Cookies: We use “cookies” to help deliver advertisements and to identify unique browsers that visit us and to track usage throughout our sites. Some third party merchants and advertisers use cookies, which can be used to tell when your computer has contacted a site.
 
@@ -55,4 +55,4 @@ Because we do not control the privacy policies of third party merchants, adverti
 Affiliate links  
 WishesGreeting.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com
 
-Comments are closed.
+Cookies are used on this website in order to help user experience. We hope it is ok with you this. [Read More](http://www.wishesgreeting.com/privacy-policy/) Got it
