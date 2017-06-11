@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindishows.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202165901id_/http%3A//www.hindishows.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindishows.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611064734id_/http%3A//www.hindishows.com/privacy_policy) for the most accurate reproduction.*
 
 # HindiShows.com - Privacy Policy
 
