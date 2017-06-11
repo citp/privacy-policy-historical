@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the parentherald.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220054659id_/http%3A//www.parentherald.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentherald.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611211958id_/http%3A//www.parentherald.com/privacypolicy) for the most accurate reproduction.*
 
 # Parent Herald
 
-This is the privacy policy ("Privacy Policy") for ParentHerald.com ("Site," "we," "us," or "our"). This Privacy Policy is intended to explain our privacy practices and covers the following areas:   
-When This Privacy Policy Applies.  
-U.S. Governing Law; Safe Harbor.  
-Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).  
-Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).  
-Wireless Marketing Services and Associated Promotional Opportunities.  
-Sharing and Disclosure of Personal Information and Other Information.  
-Reviewing, Updating or Deleting Certain Information.  
-Protection of Information.  
-Your California Privacy Rights.  
-Changes to this Privacy Policy and Notice.  
-Miscellaneous.  
+### Privacy Policy
+
+This is the privacy policy for ParentHerald.com. This Privacy Policy is intended to explain our privacy practices and covers the following areas: 
+
+  * When This Privacy Policy Applies
+  * U.S. Governing Law; Safe Harbor
+  * Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)
+  * Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)
+  * Wireless Marketing Services and Associated Promotional Opportunities
+  * Sharing and Disclosure of Personal Information and Other Information
+  * Reviewing, Updating or Deleting Certain Information
+  * Protection of Information
+  * Your California Privacy Rights
+  * Changes to this Privacy Policy and Notice
+  * Miscellaneous
 
 
-BAM RESOURCE TRAINING INC.  
-10866 Wilshire Blvd. 4th Floor  
-Los Angeles, CA 90024
 
 1\. When This Privacy Policy Applies.
 
@@ -32,21 +32,13 @@ The Site is designed and targeted to U.S. audiences and is governed by and opera
 
 If you are located outside of the U.S., the European Economic Area and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and the Flux Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.
 
-3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities). 
+3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).
 
 When we use the term "Personal Information" we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number. When we use the term "Other Information", we mean any information other than Personal Information that may be collected about you (Personal Information and Other Information, together, the "Information").
 
-a. Information We Collect that You Provide Us.
-
-[business@parentherald.com](mailto:business@parentherald.com)
-
-Feedback
-
-[feedback@parentherald.com](mailto:feedback@parentherald.com)
-
 i. User Registration. To the extent we offer user registration on the Site, to register as a member of the Site, you are required to select a user name and password (together, your "User ID") and may be required to also provide other Information, such as your email address and date of birth. Additional Information may be requested during the registration process (but not required). 
 
-ii. In Connection with Certain Features and Functions. We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to subscribe to a selection of free email newsletters and other periodic information, chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions. For example, to sign up to receive email newsletters, you may be required to provide your email address, date of birth and zip code separate from any user registration. Further, for example, to the extent we offer such services, if you order any of our various Products (as defined in the Terms of Use Agreement), in addition to your name and contact information, we will also collect and may maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number and information about your computer's internet address and website which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number is collected via a secure transmission. 
+ii. In Connection with Certain Features and Functions. We may also provide you with access to certain features or functions that we may offer on the Site, such as the option to subscribe to a selection of free email newsletters and other periodic information, chat rooms, message boards, electronic mail services, messaging services, auctions, shopping, registration and member profile pages. To sign up for or participate in these features or functions, you may be required to provide us with certain Information about you in order for us to personalize and/or allow you to use such features and functions. For example, to sign up to receive email newsletters, you may be required to provide your email address, date of birth and zip code separate from any user registration. Further, for example, to the extent we offer such services, if you order any of our various Products (as defined in the Terms of Use Agreement), in addition to your name and contact information, we will also collect and may maintain your billing address, shipping address, Product selections, your credit card or other payment instrument information, your order number and information about your computer's internet address and website which may have referred or directed you to the Site (e.g., the referring URL). Your credit card or debit card number is collected via a secure transmission.
 
 iii. In Connection with Promotions such as Contests and Sweepstakes. There may be a separate registration process to enter Promotions such as contests and sweepstakes which may require the submission of all or some of the following: your first and last name, street address, city, state and zip code, email address, telephone number and date of birth. Additional Information may be requested depending on the specific Promotion, but submission of such Information may be optional. The Promotion's entry page and/or Rules will provide the specific requirements. You may also have the opportunity to opt-in to receive special Promotions or offers from our third party advertisers, sponsors or promotional partners ("Advertisers") as a result of your use of the Site in connection with many of these types of Promotions. 
 
@@ -64,9 +56,7 @@ c. Use of Information.
 
 As set forth in this Privacy Policy, we may share Information with our Parent Companies and Affiliates.
 
-**i. Personal Information.**
-
-We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
+i. Personal Information. We, and/or our Parent Companies and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
 
 Sending marketing and promotional e-mails or, subject to the "Wireless Marketing Services and Associated Promotional Opportunities" Section below, text messages offering the purchase of goods and/or services that may be of interest to users, whether those goods and/or services are provided by the Site, the Parent Companies, Affiliates or third parties (for example, we may send you an email about a product sold by a third party);
 
@@ -84,7 +74,7 @@ Saving your User ID or other Personal Information, so you don't have to re-enter
 
 Otherwise to maintain and administer the Site and For other purposes disclosed at the time you provide the Personal Information.
 
-**ii. Other Information Collected by Us.**
+ii. Other Information Collected by Us.
 
 We, and/or our Parent Companies and Affiliates, use the Other Information we collect from you in a variety of ways, including:
 
@@ -100,7 +90,7 @@ We, and/or our Parent Companies and Affiliates, use the Other Information we col
 
 Otherwise to maintain and administer the Site For the uses described for "Personal Information" above and For other purposes disclosed at the time you provide the Other Information.
 
-**iii. Other Information Collected by Third Party Advertising Service Providers and Advertisers.**
+iii. Other Information Collected by Third Party Advertising Service Providers and Advertisers.
 
 The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours. Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet. This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. Use of Third Party Advertising Service Providers' and Advertisers' Tracking Technologies is governed by the Third Party Advertising Service Providers' or Advertisers', as applicable, own specific privacy policies and not this Privacy Policy. However, please see " Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)" Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
 
@@ -108,17 +98,17 @@ The use of Tracking Technologies by Third Party Advertising Service Providers an
 
 a. Opting-Out of Certain Uses of Personal Information.
 
-**i. In Connection with Marketing and Promotional E-mail and Offers.** You may "opt-out" of receiving marketing and promotional e-mails from us at any time by going to the Site's home page, logging in, clicking the "Account" link, to (1) deactivate your account or (2) change or edit your preferences. You may also use the opt-out mechanism that is contained in each such email. Please note that when you opt-out of receiving marketing and promotional e-mails from us, you are not opting out of receiving newsletters from us that you have requested. Further, when you use the opt-out mechanism that is contained in an email, you are not opting out of receiving marketing and promotional e-mails from other VMN brands. Please see Section 4.a.ii below for your newsletter options.
+i. In Connection with Marketing and Promotional E-mail and Offers. You may "opt-out" of receiving marketing and promotional e-mails from us at any time by going to the Site's home page, logging in, clicking the "Account" link, to (1) deactivate your account or (2) change or edit your preferences. You may also use the opt-out mechanism that is contained in each such email. Please note that when you opt-out of receiving marketing and promotional e-mails from us, you are not opting out of receiving newsletters from us that you have requested. Further, when you use the opt-out mechanism that is contained in an email, you are not opting out of receiving marketing and promotional e-mails from other VMN brands. Please see Section 4.a.ii below for your newsletter options.
 
-**ii. In connection with Newsletters and other Editorial-based E-mails.** To the extent the applicable Site offers newsletters or other editorial-based emails, to manage your newsletter preferences, you may click on the newsletter link provided in the footer of our website to select which newsletters you receive, follow the unsubscribe link in the applicable newsletter or unsubscribe throughhttp://exodus.enstarz.com/site/unsubscribe_email. Please note that when you opt-out of receiving any or all newsletters and other editorial-based e-mails from us, you are not opting out of receiving marketing and promotional e-mails from us. Please see Section 4.a.i above for your marketing and promotional e-mail options.
+ii. In connection with Newsletters and other Editorial-based E-mails. To the extent the applicable Site offers newsletters or other editorial-based emails, to manage your newsletter preferences, you may click on the newsletter link provided in the footer of our website to select which newsletters you receive, follow the unsubscribe link in the applicable newsletter or unsubscribe throughhttp://exodus.enstarz.com/site/unsubscribe_email. Please note that when you opt-out of receiving any or all newsletters and other editorial-based e-mails from us, you are not opting out of receiving marketing and promotional e-mails from us. Please see Section 4.a.i above for your marketing and promotional e-mail options.
 
-**iii. In Connection with Wireless Marketing Services.** See "Termination of Wireless Services by Users" under the "Wireless Marketing Services and Associated Promotional Opportunities" Section for more information on how you may unsubscribe from receiving text messages.
+iii. In Connection with Wireless Marketing Services. See "Termination of Wireless Services by Users" under the "Wireless Marketing Services and Associated Promotional Opportunities" Section for more information on how you may unsubscribe from receiving text messages.
 
-**iv. Certain Continuing Rights Regardless of Opt-Outs.** However, even if you exercise your opt-out rights above, we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the "Use of Information" Section above, such as for maintenance and administrative purposes.
+iv. Certain Continuing Rights Regardless of Opt-Outs. However, even if you exercise your opt-out rights above, we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the "Use of Information" Section above, such as for maintenance and administrative purposes.
 
 b. Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.
 
-**i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: 
+i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers. With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options: 
 
 Third Party Advertising Service Providers and Advertisers may collect Other Information about you when you visit this Site to help identify products and services that may interest you and deliver advertising tailored to your interests.
 
@@ -132,15 +122,13 @@ Opt-outs are "browser-specific." The opt-out preferences that you choose will ap
 
 PLEASE NOTE THAT THE USE AND STORAGE OF FLASH COOKIES TYPICALLY CANNOT BE CONTROLLED THROUGH YOUR BROWSER. PLEASE SEE BELOW FOR INFORMATION ON HOW TO MANAGE FLASH COOKIES.
 
-**ii. Tracking Technologies Set By the Site.** With respect to the Tracking Technologies set by the Site, you have a number of options: You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must:
+ii. Tracking Technologies Set By the Site. With respect to the Tracking Technologies set by the Site, you have a number of options: You can prevent the use of certain Tracking Technologies (other than Flash cookies) by using the controls in your Web browser. To do so, you must:
 
 Delete existing Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature; and Disable future Tracking Technologies through the same browser controls. Additional information on enabling or disabling most Tracking Technologies may be available through your browser's support feature. (See the "help" section of your browser for more information.)
 
-You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature. This Site is committed to complying with the Self-Regulatory Principles for Online Behavioral Advertising. Click here for more information about this Site and online behavioral advertising. Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
+You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser's support feature.This Site is committed to complying with the Self-Regulatory Principles for Online Behavioral Advertising. Click here for more information about this Site and online behavioral advertising. Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
 
-**iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit http://kb2.adobe.com/cps/526/52697ee8.html4.
-
-**iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit http://kb2.adobe.com/cps/526/52697ee8.html4.
+iii. Flash Cookies. Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit http://kb2.adobe.com/cps/526/52697ee8.html4.
 
 5\. Wireless Marketing Services and Associated Promotional Opportunities.
 
@@ -154,11 +142,11 @@ a. Registration.
 
 To the extent we provide wireless marketing services, there are two registration methods provided for EnStarNewss wireless marketing services. Standard rate Promotions will be subject to either the "single opt-in" or the "double-opt-in" (Site/SMS) method, at the discretion of EnStarNews depending on the type of Promotion. Premium rate services will require the "double opt-in" (Site/SMS or SMS/SMS) method.
 
-**i. Single Opt-in Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user's voluntary submission of the designated word or code to EnStarNews will mean that the user has freely and affirmatively granted permission to EnStarNews to send text messages to him or her. EnStarNews will thank the user for his or her registration by sending a "Thank you" message. The user may terminate the service at any time by using the unsubscribe command in any text message from EnStarNews or by sending a text message to EnStarNews that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT".
+i. Single Opt-in Method: In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. The user's voluntary submission of the designated word or code to EnStarNews will mean that the user has freely and affirmatively granted permission to EnStarNews to send text messages to him or her. EnStarNews will thank the user for his or her registration by sending a "Thank you" message. The user may terminate the service at any time by using the unsubscribe command in any text message from EnStarNews or by sending a text message to EnStarNews that says "STOP", "END", "CANCEL", "REMOVE", "UNSUBSCRIBE" or "QUIT".
 
-**ii. Double Opt-in (Site/SMS) Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to EnStarNews's sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by EnStarNews) and by clicking the consent statement on the Site's registration page. The user must also agree to the Site's Privacy Policy and Terms of Use Agreement before the online registration process is completed. EnStarNews will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from EnStarNews to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of EnStarNews's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that EnStarNews may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while EnStarNews continues to offer the specific wireless marketing service.
+ii. Double Opt-in (Site/SMS) Method: In response to print, radio, television, Internet, or other promotional messages, users will be directed to this Site to start the registration process. The user must affirmatively consent to EnStarNews's sending of wireless messages to his or her designated wireless device by submitting a telephone number (or wireless email address, only if requested by EnStarNews) and by clicking the consent statement on the Site's registration page. The user must also agree to the Site's Privacy Policy and Terms of Use Agreement before the online registration process is completed. EnStarNews will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from EnStarNews to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of EnStarNews's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that EnStarNews may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while EnStarNews continues to offer the specific wireless marketing service.
 
-**iii. Double Opt-in (SMS/SMS) Method:** In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. EnStarNews will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from EnStarNews to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of EnStarNews's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that EnStarNews may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while EnStarNews continues to offer the specific wireless marketing service.
+iii. Double Opt-in (SMS/SMS) Method: In response to print, radio, television, Internet, or other promotional messages, users will be directed to send a specific word or code via a text message to a designated telephone number to register for the service promoted. EnStarNews will then send a "Confirmation" message to the user's designated wireless device and will request that the user confirm that he or she has agreed to receive messages from EnStarNews to that particular telephone number (or wireless domain name when appropriate). The user must respond to the "Confirmation" message with a text message that states "YES" or "Y" that will indicate the user's acceptance of EnStarNews's wireless marketing service. Until the user responds to the "Confirmation" message, the user is not registered for the specific wireless marketing service subject to the Promotion. A user may respond to the "Confirmation" message at any time provided that EnStarNews may choose to terminate offering wireless marketing service at any time and the user's response to the "Confirmation" is only valid if the response is received while EnStarNews continues to offer the specific wireless marketing service.
 
 b. Termination of Wireless Services by User. 
 
@@ -178,13 +166,17 @@ EnStarNews will not use a wireless telephone number, wireless or conventional In
 
 a. Sharing and Disclosure of Personal Information.
 
-Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy.
+Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy.  
+i. Disclosure to Parent Companies and Affiliates. We may disclose Personal Information to Parent Companies and Affiliates for marketing and/or administrative purposes. You can choose to opt-out of certain such uses as described in the "Opting-Out of Certain Uses of Personal Information" Section above.
 
-  * **i. Disclosure to Parent Companies and Affiliates.** We may disclose Personal Information to Parent Companies and Affiliates for marketing and/or administrative purposes. You can choose to opt-out of certain such uses as described in the "Opting-Out of Certain Uses of Personal Information" Section above.
-  * **ii. Disclosure of Certain Information in Postings Intended to Be Disclosed.** Certain Personal Information associated with a Posting may be intended for disclosure ("Posting Information"), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.
-  * **iii. Disclosure In Connection with Co-Branded Services and Features.** The Site may also offer co-branded services and features, such as events and Promotions that we put together with another company or our Parent Companies or Affiliates ("Co-Branded Partner") and that may be hosted on the Site and/or our Co-Branded Partner's website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect the Information provided in connection with the specific co-branded feature or service and to use such Information for the fulfillment of the feature or service and for marketing or administrative purposes. The Co-Branded Partner will be identified on the co-branded feature or service, along with the Co-Branded partner's privacy policy. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly and the use of such information by Co-Branded Partner is subject to Co-Branded Partner's privacy policy.
-  * **iv. Disclosure to Operational Service Providers.** We also have the right to disclose your Personal Information and Other Information to third parties for the purpose of administering and maintaining the Site's services, features, functions and operations. We will refer to these third parties as "operational service providers". We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Information to operational service providers for the purpose of providing services to us.
-  * **v. Disclosure to Certain Other Third Parties.** In addition to the above, we will make your Personal Information and Other Information available to certain third parties in the following limited circumstances:
+ii. Disclosure of Certain Information in Postings Intended to Be Disclosed. Certain Personal Information associated with a Posting may be intended for disclosure ("Posting Information"), such as username. We will disclose Posting Information in connection with the display of, and other services relating to, such Posting.
+
+iii. Disclosure In Connection with Co-Branded Services and Features. The Site may also offer co-branded services and features, such as events and Promotions that we put together with another company or our Parent Companies or Affiliates ("Co-Branded Partner") and that may be hosted on the Site and/or our Co-Branded Partner's website. We may share your Personal Information with our Co-Branded Partner and your voluntary use of or participation in a co-branded service or feature means that you opt-in and give your affirmative consent to both the Site and our Co-Branded Partner to collect the Information provided in connection with the specific co-branded feature or service and to use such Information for the fulfillment of the feature or service and for marketing or administrative purposes. The Co-Branded Partner will be identified on the co-branded feature or service, along with the Co-Branded partner's privacy policy. If you wish to opt-out of a Co-Branded Partner's future use of your Personal Information for marketing purposes, you will need to contact the Co-Branded Partner directly and the use of such information by Co-Branded Partner is subject to Co-Branded Partner's privacy policy.
+
+iv. Disclosure to Operational Service Providers. We also have the right to disclose your Personal Information and Other Information to third parties for the purpose of administering and maintaining the Site's services, features, functions and operations. We will refer to these third parties as "operational service providers". We use operational service providers to efficiently provide the full range of content, activities, services, features and functions we bring you and we disclose your Information to operational service providers for the purpose of providing services to us.
+
+v. Disclosure to Certain Other Third Parties. In addition to the above, we will make your Personal Information and Other Information available to certain third parties in the following limited circumstances: 
+
   * When we are compelled to do so by a governmental agency, court or other entity (e.g., to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation;
   * If we believe your actions violate any law, rule, regulation and/or the Terms of Use Agreement, including, without limitation, this Privacy Policy, Rules or Additional Terms;
   * In connection with Promotions, as necessary to administer the Promotion or as required by applicable laws, rules or regulations (for example, to provide winners' lists or make required filings as appropriate);
@@ -240,10 +232,10 @@ b. Questions.
 
 If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by sending an email to privacy-admin@enstarz.com or please contact our Privacy Administrator at EnStarNews, 33 Whitehall St., 7th Floor, New York, New York 10004, c/o Privacy Administrator. 
 
-c. Statement: 
+c. Statement.
 
 This document is the sole statement of the Site's Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
 
-d. Other: 
+d. Other.
 
 Please review our Terms of Use Agreement which governs your use of the Site. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. This Privacy Policy was last modified on the date indicated above and is effective immediately.
