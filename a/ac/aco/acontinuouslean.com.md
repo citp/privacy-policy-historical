@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acontinuouslean.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221092115id_/http%3A//www.acontinuouslean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acontinuouslean.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611065439id_/http%3A//acontinuouslean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Continuous Lean.
 
