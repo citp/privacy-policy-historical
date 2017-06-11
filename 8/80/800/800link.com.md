@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 800link.com privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907053833id_/http%3A//800link.com/Company/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 800link.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612013127id_/http%3A//800link.com/Company/Privacy) for the most accurate reproduction.*
 
 # 800LiNK - Privacy Policy
 
@@ -10,7 +10,7 @@ Your use of and/or registration on any aspect of the Website will constitute you
 
   * We don’t ask you for personal information unless we truly need it.
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services.
+  * We don’t store personal information on our servers any longer than we deem necessary to fulfill our obligations.
 
 
 
@@ -52,4 +52,4 @@ If you have any questions or concerns about the online privacy statement for thi
 
 Although most changes are likely to be minor, 800Link may change its Privacy Policy from time to time, and in 800Link’s sole discretion. 800Link encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Last updated Dec. 20, 2010
+Last updated Dec. 20, 2016
