@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119125038id_/http%3A//preferences.vitessemedia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the information-age.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612003424id_/http%3A//preferences.vitessemedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vitesse Media preference centre
 
@@ -6,7 +6,7 @@
 
 Vitesse Media Plc (“we”, “us” or “Vitesse Media”)  is registered to collect and process personal data under the Data Protection Act 1998 (“Act”). Vitesse Media Plc is the data controller of personal information collected by us for the purposes of the Act. We respect and safeguard the privacy of the users of Vitesse Media Plc’s portfolio of websites and associated companies and microsites (“website”), and readers of our magazines which include Information Age Magazine and What Investment Magazine (“ Magazines”).
 
-This Privacy Policy outlines how we will collect and use your personal information (such as your name, country of origin, date of birth, your email address, mobile telephone number or other contact details and any financial payment information),  how you can limit our use of this data and how we will safeguard your data. Please read this Privacy Policy carefully which should be read together with our website [Terms and conditions](http://www.spectator.co.uk/terms/).
+This Privacy Policy outlines how we will collect and use your personal information (such as your name, country of origin, date of birth, your email address, mobile telephone number or other contact details and any financial payment information),  how you can limit our use of this data and how we will safeguard your data. Please read this Privacy Policy carefully which should be read together with our website [Terms and conditions](http://preferences.vitessemedia.co.uk/terms-and-conditions/).
 
 **1\. What information do we gather?**
 
