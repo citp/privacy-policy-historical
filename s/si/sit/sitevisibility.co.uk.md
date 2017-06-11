@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028102241id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitevisibility.co.uk privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611061027id_/http%3A//www.sitevisibility.co.uk/cookie-and-privacy-policy) for the most accurate reproduction.*
 
 # Cookie and Privacy Policy - SiteVisibility
 
 July 2015  
 [grow@sitevisibility.com](mailto:grow@sitevisibility.com "Email SiteVisibility ")
 
+## Cookies and Privacy – Introduction
+
 This policy covers the data collected by the company, SiteVisibility, how it is used, how it is protected, and the users’ ability to control the collection and use of their personal data.
 
 SiteVisibility (AI Digital Ltd) is registered with the Office of the Information Commissioner Data Protection Act 2003. Our registration number is Z1082412.
+
+## What Information SiteVisibility Collects
 
 SiteVisibility collects anonymous information about the visitors to our website for analytics purposes, and personal information from those users who complete the contact form, or sometimes those who provide information over the phone when calling with an inquiry.
 
@@ -45,6 +49,8 @@ King Place Suite,
 Brighton  
 East Sussex  
 BN1 1GA
+
+## Cookies
 
 In May 2011, the UK Government passed new legislation is regards to the use of Cookies. The following section explains what cookies are, which ones are collected by SiteVisibility and how they are used on SiteVisibility’s website.
 
@@ -160,6 +166,8 @@ Facebook Privacy Policy (<https://www.facebook.com/about/privacy/other>)
 Twitter Privacy Policy (<https://twitter.com/privacy>)
 
 Google+ Privacy Policy (<http://www.google.co.uk/intl/en/policies/privacy/>)
+
+## Prohibiting the Collection of Cookies
 
 If you would like to prevent SiteVisibility from collecting cookies when you visit our site, please update your privacy settings in your browser. You can control the kinds of cookies you accept there.
 
