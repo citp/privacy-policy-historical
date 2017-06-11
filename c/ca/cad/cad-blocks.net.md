@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cad-blocks.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207014820id_/http%3A//www.cad-blocks.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cad-blocks.net privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611062857id_/http%3A//www.cad-blocks.net/privacy.html) for the most accurate reproduction.*
 
-# cad-blocks.net, Privacy policy
+# cad-blocks.net, Privacy policy and Cookies
 
-### cad-blocks.net Privacy Policy
+### cad-blocks.net Privacy Policy and Cookies
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -50,9 +50,7 @@ However, non-personally identifiable visitor information may be provided to othe
   
 
 
-#### Google
-
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+#### Google AdSense Advertising
 
 We use Google AdSense Advertising on our website.
 
@@ -70,6 +68,39 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 #### Opting out:
 
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.
+
+  
+
+
+#### Google
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+
+  
+
+
+#### How Google uses cookies
+
+For example, to remember your safe search preferences, to make the ads you see more relevant to you, to count how many visitors we receive to a page, to help you sign up for our services and to protect your data.[Learn more](https://www.google.com/intl/en/policies/technologies/cookies/)
+
+  
+
+
+#### How Google uses data when you use our partners' sites or apps
+
+For example: 
+
+  * Make ads more effective 
+  * Provide reports of ads activity to advertisers and websites hosting the ads, and to ensure payment to those website publishers 
+  * Help website and app owners using Google Analytics to understand how visitors engage with their sites or apps 
+  * Improve your Google+ experience 
+  * Detect and defend against fraud and other security risks to protect users and partners 
+  * Meet Google legal duties 
+  * Improve Google products
+
+
+
+[Learn more](https://www.google.com/intl/en/policies/privacy/partners/)
 
 Contacting Us
 
