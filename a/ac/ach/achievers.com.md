@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207005437id_/http%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievers.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611054425id_/http%3A//www.achievers.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Achievers
+# Privacy Policy | Employee Rewards and Recognition Programs | Achievers
 
 Date of issue: September 30, 2016
 
 ## OVERVIEW
 
-Achievers Corp. (together with the companies owned by and in common ownership with Achievers Corp, "Achievers") is committed to protecting the privacy of users who use the Achievers public Web Site (the "Website") <http://www.achievers.com/>.
+Achievers Corp. (together with the companies owned by and in common ownership with Achievers Corp, “Achievers”) is committed to protecting the privacy of users who use the Achievers public Web Site (the “Website”) <http://www.achievers.com/>.
 
 ## SCOPE
 
@@ -14,7 +14,7 @@ Achievers has developed data practices that comply with applicable privacy laws 
 
 ## NOTICE
 
-"Personal Information" is personally identifiable information such as your name, address, date of birth, phone number and e-mail address and includes information about your business, service and recorded complaints.
+“Personal Information” is personally identifiable information such as your name, address, date of birth, phone number and e-mail address and includes information about your business, service and recorded complaints.
 
 Personal Information is collected by Achievers when you specifically and knowingly choose to provide it to us, such as when you choose to receive program information, register for events, or engage in the service offering provided by Achievers.
 
@@ -30,7 +30,7 @@ Achievers logs the date and time, the URL of the referring page (if applicable) 
 
 ## USE OF COOKIES ON OUR WEBSITES
 
-Achievers uses a browser feature called a "cookie" to collect information anonymously and track user patterns on and off Achievers Websites. We may also use cookies to show you relevant advertising across third party web sites and to determine how that ad performed.
+Achievers uses a browser feature called a “cookie” to collect information anonymously and track user patterns on and off Achievers Websites. We may also use cookies to show you relevant advertising across third party web sites and to determine how that ad performed.
 
 A cookie is a small text file that is placed on your hard disk by a Website. Cookies contain a unique identification number that identifies your browser, but not you, to our systems each time you visit one of our Websites. Cookies tell us which pages of our Websites are visited and by how many people. Achievers does not collect any Personal Information about you through cookies nor can a cookie carry a damaging payload (such as malware).
 
@@ -43,9 +43,9 @@ There are two types of cookies in use with Achievers Websites which include:
 
 The use of cookies is an industry standard and many major browsers are initially set up to accept them. You can reset your browser to either refuse to accept all cookies or to notify you when you have received a cookie. However, if you refuse to accept cookies, you may not be able to use some of the features available on our Websites.
 
-## "DO NOT TRACK" BROWSER SETTING
+## “DO NOT TRACK” BROWSER SETTING
 
-Achievers does not respond to web browser "do not track" (DNT) settings or headers with respect to Achievers public Websites. Currently no common industry standard for DNT has been adopted and there is also no consistent standard of interpreting user intent when the DNT setting is enabled. Achievers takes privacy seriously will continue to monitor policy advocates, technical experts, regulators and companies attempting to create a consensus interpretation around DNT browser technology and the implementation of a standard.
+Achievers does not respond to web browser “do not track” (DNT) settings or headers with respect to Achievers public Websites. Currently no common industry standard for DNT has been adopted and there is also no consistent standard of interpreting user intent when the DNT setting is enabled. Achievers takes privacy seriously will continue to monitor policy advocates, technical experts, regulators and companies attempting to create a consensus interpretation around DNT browser technology and the implementation of a standard.
 
 ## EMAIL
 
@@ -53,7 +53,7 @@ When you send us an e-mail or when you ask us to respond to you by e-mail, we co
 
 We use your e-mail address to acknowledge your comments and/or reply to your questions, and we will store your communication and our reply in case we correspond further. We may use your e-mail address to send you information about offers on products or special promotions that we believe may be of interest to you.
 
-Achievers uses images imbedded in e-mail messages called "web beacons". Web beacons are clear images that allow Achievers to determine if a message has been opened. It also allows Achievers to determine the IP address of the user that opened it and to access any Achievers cookies. We may use this information in the aggregate to assess and improve our email messages.
+Achievers uses images imbedded in e-mail messages called “web beacons”. Web beacons are clear images that allow Achievers to determine if a message has been opened. It also allows Achievers to determine the IP address of the user that opened it and to access any Achievers cookies. We may use this information in the aggregate to assess and improve our email messages.
 
 Email web beacons can be disabled by turning off HTML display and displaying text only or by turning off image display while still using HTML within your email client.
 
@@ -65,10 +65,10 @@ If you indicated that you were interested in receiving information from our webs
 
 In the case that you enter a contest or other promotion offered by Achievers, your Personal Information will be used to administer the promotion, including the use of your name and selected other information for the purposes of contacting, announcing and promoting the winners of the contest or promotion.
 
-If you don't want us to contact you by e-mail with offers on products and special promotions, you may tell us by selecting the unsubscribe option at the bottom of the communication or by contacting the Privacy Office.  
+If you don’t want us to contact you by e-mail with offers on products and special promotions, you may tell us by selecting the unsubscribe option at the bottom of the communication or by contacting the Privacy Office.  
 Achievers may also contact you from time to time to conduct market research and surveys in an effort to continually improve our product and service offering.
 
-Anonymous or "non-personal" information gathered by Achievers through our Websites may be used for technical, research or analytical purposes. Information collected through surveys, existing files and public archives may be used by Achievers to analyze our markets and to develop or enhance product or service offerings.
+Anonymous or “non-personal” information gathered by Achievers through our Websites may be used for technical, research or analytical purposes. Information collected through surveys, existing files and public archives may be used by Achievers to analyze our markets and to develop or enhance product or service offerings.
 
 Achievers will seek your consent, as required by applicable privacy legislation, prior to the collection, use and disclosure of the information. Subject to legal and contractual requirements, you can refuse to consent to our collection, use or disclosure of information about you. You may also withdraw your consent to any further collection, use or disclosure of information about you at any time by giving us reasonable notice. If our intended disclosures or uses of information change, we will notify you accordingly.
 
@@ -80,7 +80,7 @@ Achievers products, services and sites are provided to employers and their emplo
 
 To ensure that we efficiently provide the information, products or services you have requested from us, Achievers may share your Personal Information with selected Service Providers who are acting on our behalf to assist us in carrying out the purposes identified in this policy. For example, we may work with Service Providers to track and manage the request that you have made on the Website for white papers, demos, information about Achievers Service offering, etc. Such Service Providers are provided only with information as is necessary which may include your physical mailing address, e-mail address and name. Information provided to Service Providers may be used only for the purpose stipulated and is subject to strict terms of confidentiality. Achievers represents that any third party for which Personal Information may be disclosed by Achievers subscribes to The Personal Information Protection and Electronic Documents Act (PIPEDA) and/or the principles in Privacy Shield, and/or U.S.-Swiss Safe Harbor Framework or are subject to applicable laws providing the same level of privacy protection.
 
-If you live in the European Economic Area ("EEA"), the data that we collect from you may be transferred to and stored at a location outside the EEA. It may also be processed by staff operating outside the EEA who work for Achievers or for one of our Service Providers. Among other things, such staff may process and store your information and provide support services.
+If you live in the European Economic Area (“EEA”), the data that we collect from you may be transferred to and stored at a location outside the EEA. It may also be processed by staff operating outside the EEA who work for Achievers or for one of our Service Providers. Among other things, such staff may process and store your information and provide support services.
 
 Achievers reserve the right to transfer any Personal Information Achievers have about you in the event that we merge with or are acquired by a third party or should any such transaction be proposed. Achievers may also use, or disclose your Personal Information to third parties, if Achievers has reason to believe that using or disclosing such information is necessary to: (i) conduct investigations of possible breaches of law; (ii) identify, contact, or bring legal action against someone who may be violating an agreement they have with us; (iii) investigate security breaches or cooperate with government authorities pursuant to a legal matter; or (iv) to protect our rights, safety or property, and/or the rights, safety, and property of our clients, users of our platform, and any other persons. Lastly, we may disclose your Personal Information for any other purpose to which you consent.
 
@@ -114,7 +114,7 @@ Achievers will investigate and attempt to resolve complaints and disputes regard
 
 ## EU-U.S PRIVACY SHIELD
 
-Achievers participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Achievers is committed to subjecting all Personal Information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List. <https://www.privacyshield.gov/list>.
+Achievers participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Achievers is committed to subjecting all Personal Information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>.
 
 Achievers is responsible for the processing of Personal Information it receives, under the Privacy Shield Framework, and subsequently transfers to a Service Provider acting as an agent on its behalf. Achievers complies with the Privacy Shield Principles for all onward transfers of Personal Information from the EU, including the onward transfer liability provisions.
 
@@ -122,7 +122,7 @@ With respect to Personal Information received or transferred pursuant to the Pri
 
 Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## U.S. - SWISS SAFE HARBOR FRAMEWORK
+## U.S. – SWISS SAFE HARBOR FRAMEWORK
 
 Achievers complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information from Switzerland. Achievers has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Achievers certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
