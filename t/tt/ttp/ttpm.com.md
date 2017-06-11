@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414103757id_/http%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttpm.com privacy policy that was archived on 2017-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170611175340id_/https%3A//ttpm.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Time to Play | Toys, Tots, Pets & More
 
@@ -40,7 +40,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://ttpm.com/legal/terms-of-use/>.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://ttpm.com/legal/terms-of-use/>.
 
 ### Changes to our Privacy Policy
 
@@ -48,6 +48,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information posted at [http://ttpm.com/about/](http://ttpm.com/about/#contact).
+If there are any questions regarding this privacy policy you may contact us using the information posted at [https://ttpm.com/about/](https://ttpm.com/about/#contact).
 
 ###### Updated: April 1, 2014
