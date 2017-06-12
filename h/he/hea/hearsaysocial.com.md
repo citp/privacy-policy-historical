@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the hearsaysocial.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815080909id_/https%3A//hearsaysocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearsaysocial.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612053539id_/https%3A//hearsaysystems.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Hearsay Social
+# Privacy Policy | Hearsay Systems
 
-### Notice: We updated our Privacy Policy in August 2016.
-
-To view our archived privacy policy, please [click here](https://web.archive.org/archived-privacy-policy).
+Notice: We updated our Privacy Policy in September 2016.  
+To view our archived privacy policy, please [click here](https://hearsaysocial.com/archived-privacy-policy/).
 
 Last updated August 2016
 
@@ -16,9 +15,7 @@ Hearsay Social complies with the E.U.-U.S. Privacy Shield (“Privacy Shield”)
 
 Hearsay Social is subject to the investigatory and enforcement powers of the Federal Trade Commission, Department of Transportation and any other US authorized statutory body.
 
-## Web sites and Services covered
-
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: <http://hearsaysocial.com/>, <https://my.hearsaysocial.com/> (collectively referred to as “Hearsay’s Websites” or “the Company’s Websites”).
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: <https://hearsaysocial.com/>, <https://my.hearsaysocial.com/> (collectively referred to as “Hearsay’s Websites” or “the Company’s Websites”).
 
 Hearsay may allow access to third party social media websites via its Services.  When those sites are made available by Hearsay and the application links to this Privacy Statement, this Privacy Statement applies. When applications are posted by third parties, the privacy statement of the third party applies, and this Privacy Statement does not apply.
 
@@ -26,18 +23,12 @@ The Services also enable Hearsay Customers to create websites that are hosted by
 
 Hearsay’s Websites and Services may contain links to other Websites. The information practices or the content of such other Websites is governed by the privacy statements of such other Websites. The Company encourages you to review the privacy statements of other Websites to understand their information practices.
 
-## Information Use and Collection
-
-### Data you give to us directly.
-
-On some places on the Hearsay Website, you can fill in a web form to share your data (i.e., name, e-mail address, address, phone number, etc.) with us directly, such as on our “[Contact Us](http://hearsaysocial.com/about/contact-us/)” page, on our “[Request a Demo](https://info.hearsaysocial.com/demo-hearsay.html)” page, or on our [blog](http://hearsaysocial.com/blog/) home page. We collect the information you provide in response to those web forms. Occasionally, we may also offer opportunities for you to share your data with us such as through a survey, to sign up for a newsletter, or to register for or receive details about an event we are sponsoring. If you participate in those surveys, sign up for a newsletter, or register for an event, we will collect the information you provide to us in doing so.
+Data you give to us directly.  
+On some places on the Hearsay Website, you can fill in a web form to share your data (i.e., name, e-mail address, address, phone number, etc.) with us directly, such as on our [“Contact Us”](https://hearsaysocial.com/company/contact/) page, on our [“Request a Demo”](https://info.hearsaysocial.com/demo-hearsay.html) page, or on our [blog](https://hearsaysocial.com/insights/blog/) home page. We collect the information you provide in response to those web forms. Occasionally, we may also offer opportunities for you to share your data with us such as through a survey, to sign up for a newsletter, or to register for or receive details about an event we are sponsoring. If you participate in those surveys, sign up for a newsletter, or register for an event, we will collect the information you provide to us in doing so.
 
 Hearsay Social collects the email addresses of those who communicate with us via email, contact information of Users that communicate through other channels (such as phone number and physical address), information on what pages Users visit on the Hearsay Website, IP addresses of those accessing the Hearsay Website, information volunteered by the User (such as survey information), and information collected from the End User of the Service (e.g. name) (“Hearsay Data”).  This also includes information on the senders and recipients of communications sent using Hearsay Services (including Mail and Messages), by the End User of the Service and the people they are communicating with (“End User Contacts”).  We may also monitor the online activity of End User Contacts that provide information to the Services, such as their interaction with End User websites, social media,  and other online content related to the End User.  We collect this information on behalf of our End Users to enable them to provide better services.
 
-## Website Navigational Information
-
-### Cookies, Web Beacons and IP Addresses
-
+Cookies, Web Beacons and IP Addresses  
 When you visit the Hearsay Website, we and our service providers acting on our behalf automatically collect certain data using tracking technologies like cookies, web beacons, and similar technologies.
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website’s computers and stored on your computer’s hard drive.
@@ -52,33 +43,27 @@ Hearsay uses web beacons with cookies or separately to compile information about
 
 When you visit the Hearsay Website, we collect your Internet Protocol address (“IP Address”) to monitor the regions from which you navigate the Hearsay Website.
 
-### Social Media Features
-
-We allow you to “Connect With Us” through various social media networks through our website. Clicking on these links takes you away from the Hearsay Website to the Hearsay Website on those specific social media networks ([Hearsay on Facebook](https://www.facebook.com/hearsaysocial),[ Hearsay on Twitter](https://twitter.com/hearsaysocial),[ Hearsay on LinkedIn](https://www.linkedin.com/company/hearsay-social),[ Hearsay on Google+](https://plus.google.com/+HearsaySocial/posts)).
+Social Media Features  
+We allow you to “Connect With Us” through various social media networks through our website. Clicking on these links takes you away from the Hearsay Website to the Hearsay Website on those specific social media networks ([Hearsay on Facebook](https://www.facebook.com/hearsaysocial), [Hearsay on Twitter](https://twitter.com/hearsaysocial), [Hearsay on LinkedIn](https://www.linkedin.com/company/hearsay-social), [Hearsay on Google+](https://plus.google.com/+HearsaySocial/posts)).
 
 Each third party website and social media network has its own terms and privacy policy regarding information stored, collected, processed and shared on those respective website and networks.  So, your participation with Hearsay on those websites and social media networks is subject to the websites’ and social media networks’ terms and privacy policy, not ours.
 
 You should not provide Hearsay with any personally identifiable information (or post any personally identifiable information to the Hearsay Website) unless you would like that information to be used in accordance with this Privacy Policy.
 
-### Do Not Track Statement
-
-Certain internet web browsers allow a “do not track” (DNT) setting that relies on a technology known as a DNT header, which sends a signal to websites visited by the individual about the individual’s browser DNT setting. At this time, we do not currently commit to respond to DNT signals, whether that signal is received on a computer or on a mobile device.  Learn more about DNT[ here](https://allaboutdnt.com/).
-
-## Public forums, refer a friend, and Customer testimonials
+Do Not Track Statement  
+Certain internet web browsers allow a “do not track” (DNT) setting that relies on a technology known as a DNT header, which sends a signal to websites visited by the individual about the individual’s browser DNT setting. At this time, we do not currently commit to respond to DNT signals, whether that signal is received on a computer or on a mobile device.  Learn more about DNT [here](https://allaboutdnt.com/).
 
 Hearsay may provide community forums such as blogs on the Company’s Websites (collectively, “Forums”). Any personal information you choose to submit in such a Forum may be read, collected, or used by others who visit these Forums, and may be used to send you unsolicited messages. Hearsay is not responsible for the personal information you choose to submit in these Forums.
 
 Hearsay posts recorded Customer testimonials on the Company’s Website that contain information such as Customer names and titles. Hearsay obtains the consent of each Customer prior to posting any information on such a list or posting testimonials.
 
-## Sharing of information collected
-
 We use third party vendors and hosting partners to provide hardware, software, networking, storage, support or related technology required to run our Services. Your information may be accessible by such third party vendors for the purpose of enabling them to store such data in connection with the permitted uses of your information under this Privacy Policy. Our third party service providers have an obligation to maintain the confidentiality of the information, except where disclosure is required by law.
 
 To the extent permitted by applicable law, we may disclose information where it is necessary in order to investigate, prevent, or take action regarding illegal activities (including cooperating with governmental authorities regarding the investigation of illegal activities), suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
 
-Suspected or actual violations of this Privacy Policy should be sent to us by forwarding a copy suspected or actual violation to privacy@hearsaysocial.com. It is our policy to catalog, investigate, and take appropriate action on all reports of abuse.
+Suspected or actual violations of this Privacy Policy should be sent to us by forwarding a copy suspected or actual violation to privacy@hearsaysocial.com. It is our policy to catalog, investigate, and take appropriate action on all reports of abuse.In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Hearsay Social, Inc. is potentially liable.
 
-## International transfer of information collected
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Hearsay Social, Inc. is potentially liable.
 
 Hearsay Social, Inc. is based in the United States and by interacting with the Hearsay Website or otherwise providing your personal data to us, your personal data will be transferred to and processed in the United States.
 
@@ -86,32 +71,25 @@ _Dispute Resolution_
 
 We have chosen the EU Data Protection Authorities (EU DPAs) to serve as an independent recourse mechanism for dispute resolution arising from collection, use, and retention of personal information transferred from EU member countries to the United States.
 
-If you have any questions or concerns regarding this Policy, please contact us first at privacy@hearsaysocial.com. If contacting us does not resolve your complaint, you may file a complaint, free of charge, with the[ EU Data Protection Authorities (EU DPAs)](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+If you have any questions or concerns regarding this Policy, please contact us first at privacy@hearsaysocial.com. If contacting us does not resolve your complaint, you may file a complaint, free of charge, with the [EU Data Protection Authorities (EU DPAs)](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
 
 Further, as explained in the [Privacy Shield Principles](https://www.commerce.gov/sites/commerce.gov/files/media/files/2016/eu_us_privacy_shield_full_text.pdf.pdf), a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
-
-## Correcting and Updating Your Information
 
 You have the right to access your personal information that we control and request rectifications of any personal information that may be obsolete, incomplete or incorrect. We will need to validate your identity in order to implement such a request to ensure that we do not provide your information to anyone who does not have the right to that information. In some cases, we will not be able to provide the information we hold about you. That may occur if: (1) it contains reference to other persons; except where those persons have given their consent to the disclosure or the disclosure is reasonable without their consent; or (2) it is subject to solicitor-client (attorney-client) privilege or litigation privilege.
 
 To request access to your personal information or to file a privacy complaint, please email our Privacy Officer at: [privacy@hearsaysocial.com](mailto:privacy@hearsaysocial.com).
 
-If your personal information changes (such as zip code, phone, email or postal address), or if you no longer desire to be contacted about our products and services, you can correct, update, delete or deactivate your use of the website and Services at any time. This can be done by emailing Hearsay Social at: [privacy@hearsaysocial.com](mailto:privacy@hearsaysocial.com)
-
-## Service-Specific Privacy and Customer Data
+If your personal information changes (such as zip code, phone, email or postal address), or if you no longer desire to be contacted about our products and services, you can correct, update, delete or deactivate your use of the website and Services at any time. This can be done by emailing Hearsay Social at:[privacy@hearsaysocial.com](mailto:privacy@hearsaysocial.com)
 
 All Services are accessible via an internet browser and certain services also have a mobile app. Generally, our Customers are companies who give their employees, contractors and agents access to the Hearsay Services (those individuals are collectively, “End Users”).
 
-### Collection of personally identifiable information we control
-
+Collection of personally identifiable information we control  
 Hearsay Social collects the email addresses of those who communicate with us via email, contact information of Users that communicate through other channels (such as phone number and physical address), information on what pages Users visit on the Hearsay Website, IP addresses of those accessing the Hearsay Website, information volunteered by the user (such as survey information), and information collected from the User of the Service (e.g. name) (“Hearsay Data”).  This also includes information on the senders and recipients of communications sent using Hearsay Services (including Mail and Messages), by the User of the Service and the people they are communicating with.
 
-### Use of personally identifiable information
-
+Use of personally identifiable information  
 The Hearsay Data we collect and process is used to improve the content of our website and the quality of our Services and to contact Users.
 
-### Data we process as a data processor to provide the Hearsay Social Service
-
+Data we process as a data processor to provide the Hearsay Social Service  
 We act as a data processor for our Customers that use the Service. We process information that our Users and/or Customer’s End User Contacts provide, or grant us access to, after either (i) giving their explicit consent to connect their social media accounts to the Service; or (ii) submitting their contact information (name, job title, company name, business address, and/or phone number to the Service (“Services Data”).  We may use Services Data across multiple products to enable End User Contact communications, such as sending and receiving email, sending and receiving text messages, populating website information at the request of End User’s organization, and other digital communications. Services Data processed includes the content of any posts End User Contacts make to social media sites in order to enable our Customers to monitor the social media activity of its Users. We use the Services Data solely in order to provide the Service in accordance with our license agreement.  Such use includes:
 
   * Monitoring: Our Service monitors content posted to connected social media accounts in accordance with the terms our license agreement.
@@ -122,46 +100,35 @@ We act as a data processor for our Customers that use the Service. We process in
 
 
 
-### Confidentiality
-
+Confidentiality  
 We have comprehensive security controls to protect against unauthorized review and use of the personal information that is submitted to or processed by us, including electronic safeguards such as encryption software and firewalls. Access to personal information is restricted to authorized employees only.
 
-### Disclosure to third parties
-
+Disclosure to third parties  
 Hearsay Data and Services Data are not shared with or sold to other organizations except under the following circumstances:
 
-  * To the extent permitted by applicable law, we may disclose information where it is necessary in order to investigate, prevent, or take action regarding illegal activities (including cooperating with governmental authorities and law enforcement agencies regarding the investigation of illegal activities), suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
-  * To the extent permitted by applicable law, we may transfer information about you to a successor or acquirer of Hearsay Social, in which case such successor’s or acquirer’s use of such information shall be subject to this Privacy Policy and our contractual obligations.
-  * We do not share your information with third parties for the third parties’ own and independent direct marketing purposes unless we receive your permission.
-
-
-
-## Your California Privacy Rights
+To the extent permitted by applicable law, we may disclose information where it is necessary in order to investigate, prevent, or take action regarding illegal activities (including cooperating with governmental authorities and law enforcement agencies regarding the investigation of illegal activities), suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.  
+To the extent permitted by applicable law, we may transfer information about you to a successor or acquirer of Hearsay Social, in which case such successor’s or acquirer’s use of such information shall be subject to this Privacy Policy and our contractual obligations.  
+We do not share your information with third parties for the third parties’ own and independent direct marketing purposes unless we receive your permission.
 
 California law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties’ direct marketing purposes. We do not share your information with third parties for the third parties’ own and independent direct marketing purposes unless we receive your permission.
 
-## Changes to this Privacy Statement
+This Terms of Use and License Agreement governs the use of Hearsay Social, Inc.’s web-based social management service (“Service”) and is a legal agreement between you and Hearsay Social. By accessing or using the Service, you agree to be bound by and accept the terms of the agreement.
+
+  * [Hearsay Social – End User License Agreement US](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-US-FINAL-2015.pdf)
+  * [Hearsay Social – End User License Agreement UK](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-UK-2015_FINAL.pdf)
+  * [Hearsay Social – End User License Agreement Canada (French)](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-_Canada-French_2015.pdf)
+  * [Hearsay Social – End User License Agreement France](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-French-2015.pdf)
+  * [Hearsay Social – End User License Agreement Germany](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-German-2015.pdf)
+  * [Hearsay Social – End User License Agreement Austria](https://hearsaysocial.com/hearsay-eula-austria-2016/)
+  * [Hearsay Social – End User License Agreement Spain](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-Spanish-2015.pdf)
+  * [Hearsay Social – End User License Agreement Netherlands](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-Netherlands-2015.pdf)
+  * [Hearsay Social – End User License Agreement Switzerland](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-Switzerland-2015.pdf)
+  * [Hearsay Social – End User License Agreement Italy](https://hearsaysocial.com/wp-content/uploads/legacy-assets/2013/05/Hearsay-EULA-Italy-2015.pdf)
+
+
 
 We may periodically update this policy. We will notify you about material changes (e.g. material changes to the use of your personal information)  in this Privacy Policy by placing a prominent notice on our website.  We will comply with applicable law with respect to any changes we make to this notice.
 
-## Hearsay Social, Inc. End User License Agreement
-
-This Terms of Use and License Agreement governs the use of Hearsay Social, Inc.’s web-based social management service (“Service”) and is a legal agreement between you and Hearsay Social. By accessing or using the Service, you agree to be bound by and accept the terms of the agreement.
-
-  * [Hearsay Social – End User License Agreement US](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-US-FINAL-2015.pdf)
-  * [Hearsay Social – End User License Agreement UK](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-UK-2015_FINAL.pdf)
-  * [Hearsay Social – End User License Agreement Canada (French)](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-_Canada-French_2015.pdf)
-  * [Hearsay Social – End User License Agreement France](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-French-2015.pdf)
-  * [Hearsay Social – End User License Agreement Germany](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-German-2015.pdf)
-  * [Hearsay Social – End User License Agreement Spain](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-Spanish-2015.pdf)
-  * [Hearsay Social – End User License Agreement Netherlands](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-Netherlands-2015.pdf)
-  * [Hearsay Social – End User License Agreement Switzerland](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-Switzerland-2015.pdf)
-  * [Hearsay Social – End User License Agreement Italy](http://hearsaysocial.com/assets/2013/05/Hearsay-EULA-Italy-2015.pdf)
-
-
-
 Any questions about this Privacy Policy or requests for access to or deletion or rectification of data should be addressed to [privacy@hearsaysocial.com](mailto:privacy@hearsaysocial.com) or by mail at: Hearsay Social, Attn: Legal, 185 Berry St. Suite 3800, San Francisco, CA 94107, USA.
 
-## Archived Privacy Policy
-
-To view our archived privacy policy, please [click here](https://web.archive.org/archived-privacy-policy).
+To view our archived privacy policy, please click [here](https://hearsaysocial.com/archived-privacy-policy/).
