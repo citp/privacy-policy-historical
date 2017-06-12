@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panoply.io privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221071827id_/http%3A//panoply.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panoply.io privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612030615id_/https%3A//panoply.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Panoply
+# Privacy Policy - Panoply.io
 
 This Privacy Policy of Panoply Ltd. (“ **Panoply** ”, “ **we** ” or “ **our** ”) applies only to **information** , including personal information (collectively, “information”), collected by us from subscribers to our automated data warehouse services (“ **Customers** “) or from visitors of our website, and does not apply to any information collected by our Customers, even if such information is processed by our Services. Information collected by our Customers shall be governed solely by the Customers’ respective privacy policies.
 
