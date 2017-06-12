@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the franchisedirect.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219013736id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisedirect.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612122755id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.*
 
 # Franchise Direct – Privacy Policy
 
 ## Personal Information
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a)
 
 This privacy policy applies to [http://www.franchisedirect.com](http://www.franchisedirect.com/), its network websites (including [http://www.franchisedirect.co.uk](http://www.franchisedirect.co.uk/)), and its mobile websites (including [http://mobile.franchisedirect.com](http://mobile.franchisedirect.com/) and [http://mobile.franchisedirect.co.uk](http://mobile.franchisedirect.co.uk/)), all of which are owned and operated by Franchise Direct, a registered business name of McGarry Internet Limited (collectively: “we”, “us”, and “our”). This privacy policy describes how Franchise Direct collects and uses the personal information you provide on our websites [http://www.franchisedirect.com](http://www.franchisedirect.com/) and [http://www.franchisedirect.co.uk](http://www.franchisedirect.co.uk/), and our mobile websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.  
  
