@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proudemocrat.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211130045id_/http%3A//proudemocrat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proudemocrat.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612125505id_/http%3A//proudemocrat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
