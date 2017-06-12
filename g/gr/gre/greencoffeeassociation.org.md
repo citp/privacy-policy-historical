@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115070622id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greencoffeeassociation.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612234823id_/http%3A//greencoffeeassociation.org/privacypolicy) for the most accurate reproduction.*
 
 # Green Coffee Association - Privacy Policy
 
@@ -30,37 +30,29 @@ We are committed to conducting our business in accordance with these principles 
 
 #### Upcoming Events
 
-#### 2016 Annual Golf Outing & Dinner
+#### 2017 GCA Convention
 
-[Learn More and Register](http://greencoffeeassociation.org/announcements/details/2016_annual_golf_outing_dinner)
+June 7-9, 2017  
+JW Marriott Marquis   
+Miami, Florida  
+[LEARN MORE](http://greencoffeeassociation.org/announcements/details/2017_gca_convention/)
 
-* * *
+  
 
-#### 2016 GCA Holiday Party
-
-December 2, 2016
-
-* * *
-
-#### 2017 GCA Annual Convention
-
-Details coming soon
 
 #### Past Events
+
+* * *
+
+#### GCA Webinar
+
+[DETAILS](http://greencoffeeassociation.org/announcements/details/gca_webinars)
 
 * * *
 
 #### "Good Coffee Men" Screening
 
 May 20, 2015
-
-* * *
-
-#### GCA Webinar
-
-June 18, 2014
-
-[DETAILS](http://greencoffeeassociation.org/announcements/details/gca_webinars)
 
 * * *
 
