@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarteranalyst.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731211108id_/http%3A//www.smarteranalyst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarteranalyst.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113522id_/http%3A//www.smarteranalyst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Smarter Analyst
 
@@ -51,3 +51,9 @@ Your use of our Web site is subject to this privacy policy. BY USING OUR WEB SI
 **Effective Date**
 
 The privacy policy was last revised on Jan 18, 2015.
+
+**Newsletter Subscription: Cancellation and Refund Policy**
+
+All subscriptions can be cancelled at any time. Quarterly subscriptions will be cancelled at the completion of the current billing month. On request a prorated refund will be issued, less the months used based on the **monthly subscription fee**.
+
+A refund issued prior to the completion of the billing month will result in the loss of any remaining subscription days, and the immediate removal from the mailing list.
