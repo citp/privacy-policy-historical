@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubykotex.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607204311id_/https%3A//www.ubykotex.com/en-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubykotex.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612142716id_/https%3A//www.ubykotex.com/en-us/privacy) for the most accurate reproduction.*
 
 # Privacy
 
