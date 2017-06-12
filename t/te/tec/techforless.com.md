@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222123515id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612153741id_/https%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -87,7 +87,7 @@ Tech for Less, Inc.
 1610 Garden of the Gods Rd.  
 Colorado Springs, CO 80907
 
-M-F 8:00am to 6:00pm MST
+M-F 8:30am to 5:00pm MST
 
 | 
 
