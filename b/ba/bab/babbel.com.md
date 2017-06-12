@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208164320id_/http%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babbel.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612234710id_/http%3A//about.babbel.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Babbel.com
 
@@ -109,7 +109,9 @@ We send you emails for a variety of reasons. These may include confirmations of 
 
 #### 1.11. Apps
 
-As well as our website, we also offer apps for various smartphone operating systems. Here too we collect data on the use of the application by means of software from external suppliers for the purpose of detecting and correcting errors and to improve our applications. However, no data are collected in the process from which any external supplier could directly establish any personal connection. In this way we receive aggregated information on how the apps are used and which features are especially popular, and from this information we can draw conclusions for future improvements in product development. You can prevent this analysis by “opting out”: <http://optoutmobile.com/optout/index.html> In addition, we will also be informed if apps crash - if you have enabled this through your device settings. These so-called crash reports are provided by external suppliers. However, no data are processed from which any external supplier could derive any personal connection.
+As well as our website, we also offer apps for various smartphone operating systems. Here too we collect data on the use of the application by means of software from external suppliers for the purpose of detecting and correcting errors and to improve our applications. However, no data are collected in the process from which any external supplier could directly establish any personal connection. In this way we receive aggregated information on how the apps are used and which features are especially popular, and from this information we can draw conclusions for future improvements in product development. You can prevent this analysis by changing this in “settings” on the mobile device on which the app is installed. Further information can be found here at: <http://optoutmobile.com/>.
+
+In addition, we will also be informed if apps crash - if you have enabled this through your device settings. These so-called crash reports are provided by external suppliers. However, no data are processed from which any external supplier could derive any personal connection.
 
 ### 2\. Purpose of storing the data
 
