@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219182515id_/https%3A//software.dell.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612211828id_/https%3A//www.quest.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Quest Software
 
@@ -97,11 +97,13 @@ For more information regarding the privacy and data collection practices of thir
 
  **theTradeDesk:** Information regarding the privacy and data collection practices for theTradeDesk is located at <http://www.thetradedesk.com/privacy-policy/>.
 
+ **LeadLander:**  Information regarding the privacy and data collection practices for LeadLander is located at <https://www.leadlander.com/privacy.html>https://www.leadlander.com/privacy.html
+
 Similarly, third parties use cookies to deliver advertising for companies other than those within our portfolio to you on the Internet, based on your visits to This Website and other websites, and to measure the effectiveness of those advertising campaigns. These cookies can be effective whether you are on This Website or another website. These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the website from which you came before arriving at a web page.
 
  **“Do Not Track” Signals**
 
-Please note that while you may have the opportunity to opt out of targeted advertising through links on the advertisements themselves and you may be able to control the use of cookies through your web browser as described in the “How We Use Cookies” section above, some web browsers also may give you the ability to enable a “do not track” setting.  This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Our system does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+Please note that while you may have the opportunity to opt out of targeted advertising through links on the advertisements themselves and you may be able to control the use of cookies through your web browser as described in the “How We Use Cookies” section above, some web browsers also may give you the ability to enable a “do not track” setting.  This setting sends a special signal to the websites you encounter while web browsing. This “do not track” signal is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Our system does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about “do not track,” visit [www.allaboutdnt.com](https://allaboutdnt.com/).
 
  **Targeted Email Marketing**
 
@@ -141,6 +143,6 @@ This Privacy Statement is effective as of June 16, 2015. We reserve the right to
 
  **Contact Us**
 
-If you have questions or concerns regarding this Privacy Statement, please contact us at [webmaster@quest.com](mailto:webmaster@quest.com) or via postal mail at 4 Polaris Way, Aliso Viejo, CA 92656. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [listmaster@quest.com](mailto:listmaster@quest.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and for other necessary business purposes.
+If you have questions or concerns regarding this Privacy Statement, please contact us at [webmaster@quest.com](mailto:webmaster@quest.com) or via postal mail at 4 Polaris Way, Aliso Viejo, CA 92656. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [listmaster@quest.com](mailto:listmaster@quest.com). If you would like to request to view, edit or delete your private information, or if you have a complaint or concern about a violation of your privacy rights, contact us at [privacy@quest.com](mailto:privacy@quest.com). We will retain and use your Personal Information as necessary to comply with our legal obligations, resolve disputes, enforce our agreements, and for other necessary business purposes.
 
-Page last updated: Nov 1, 2016
+Page last updated: 06/01/2017
