@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nutmeg.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207212025id_/http%3A//www.nutmeg.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutmeg.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612092030id_/https%3A//www.nutmeg.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nutmeg - Nutmeg
 
-## Privacy Policy
+## Privacy policy
 
 This privacy policy sets out how Nutmeg Saving & Investment Limited, trading as Nutmeg, uses and protects any information that you give Nutmeg.
 
