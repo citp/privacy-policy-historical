@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the startupbros.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118111044id_/http%3A//startupbros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupbros.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613014542id_/http%3A//startupbros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StartupBros
 
 This Privacy Policy was last modified on December 10, 2013.
 
-StartupBros, LLC (“us”, “we”, or “our”) operates http://www.startupbros.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+StartupBros, LLC (“us”, “we”, or “our”) operates https://www.startupbros.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://www.startupbros.com.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://www.startupbros.com.
 
 **Information Collection And Use**  
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
