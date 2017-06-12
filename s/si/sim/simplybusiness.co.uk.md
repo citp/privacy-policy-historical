@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128175036id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113230id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Simply Business UK
 
@@ -154,11 +154,11 @@ Simply Business
 
 Attn: Customer Service
 
-One Finsbury Square
+99 Gresham Street
 
 London
 
-EC2A 1AE
+EC2V 7NG
 
 Telephone: +44 (0)333 014 6683
 
