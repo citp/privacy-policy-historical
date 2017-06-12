@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204021948id_/http%3A//www.visitnsw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnsw.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612205327id_/http%3A//visitnsw.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,11 +7,11 @@ Destination NSW is committed to maintaining your privacy.
 ### Your rights  
  
 
-When you use Destination NSW’s website, mobile website or application your privacy is protected by the Privacy and Personal Information Protection Act 1998 (NSW) (including the Information Privacy Principles ( **IPPs** )) ( **PPIPA** ) and Privacy Act 1988 (including the Australian Privacy Principles ( **APPs** )) ( **Privacy Act** ).
+When you use Destination NSW’s website, mobile website or application your privacy is protected by the Privacy and Personal Information Protection Act 1998 (NSW) (including the Information Privacy Principles **(IPPs)) (PPIPA)** and Privacy Act 1988 (including the Australian Privacy Principles **(APPs)) (Privacy Act)**.
 
 Destination NSW has introduced practices and procedures to maximise compliance with PPIPA and the Privacy Act. This policy outlines in some detail the purpose for the collection and use of your Personal Information.
 
-“ **Personal Information** ” in this policy means information or any opinion, whether true or not, and whether recorded in a material form or not, about an identified individual, or an individual who is reasonably identifiable.
+ **“Personal Information”** in this policy means information or any opinion, whether true or not, and whether recorded in a material form or not, about an identified individual, or an individual who is reasonably identifiable.
 
 ### Destination NSW' obligations  
  
@@ -21,13 +21,15 @@ Destination NSW, in carrying out its functions and activities, collects Personal
 ### Purpose of this Policy  
  
 
-This privacy policy details the collection of Personal Information by s Destination NSW.
+This privacy policy details the collection of Personal Information by Destination NSW.
 
 Destination NSW will only collect Personal Information for a lawful purpose which directly relates to our primary function as a NSW Government agency and for obtaining feedback about the effectiveness of our services. Destination NSW will not collect any more information than is necessary for it to fulfill these functions. Destination NSW’s functions are listed in the Destination NSW Act (2011): <http://www.legislation.nsw.gov.au/acts/2011-21.pdf>.
 
-Destination NSW will collect, store, use and disclose Personal Information in accordance with the PPIPA, the Privacy Act and any other relevant laws and codes of practice in operation from time to time.
+Destination NSW will collect, store, use and disclose Personal Information in accordance with the PPIPA, the Privacy Act and any other relevant laws and codes of practice in operation from time to time. This includes use of Personal Information by Destination NSW’s international offices which are listed here - <http://www.destinationnsw.com.au/contact-us/key-contacts>[ ](http://www.destinationnsw.com.au/contact-us/key-contacts)
 
-Destination NSW has prepared a privacy management plan in compliance with the PPIPA ( **Privacy Management Plan** ). This Privacy Management Plan sets out how Destination NSW complies with the PPIPA. Destination NSW is responsible for the overall management of the Personal Information we collect from you, store, access, use and disclose. Anyone engaged to collect, store, use or disclose Personal Information for or on behalf of Destination NSW will be required to comply with the Destination NSW’s Privacy Management Plan, the IPPs and the APPs, as part of their terms of engagement.
+Destination NSW has prepared a privacy management plan in compliance with the PPIPA ( **Privacy Management Plan** ).  This Privacy Management Plan sets out how Destination NSW complies with the PPIPA.  
+
+Destination NSW is responsible for the overall management of the Personal Information we collect from you, store, access, use and disclose.  Anyone engaged to collect, store, use or disclose Personal Information for or on behalf of Destination NSW will be required to comply with the Destination NSW’s Privacy Management Plan, the IPPs and the APPs, as part of their terms of engagement.
 
 ### Why Destination NSW collects Personal Information  
  
@@ -48,7 +50,9 @@ Surveys are designed to collect specific market research and/or demographic info
 
 ####  _Corporate and Industry Events_
 
-Destination NSW conducts a series of corporate and industry events. These include trade event participation, sales missions, seminars, industry forums, Regional Tourism Forums and Partnership Sydney meetings. Where applications or bookings to attend these events are offered online, we will ensure that you have been offered the opportunity to be listed on our tourism operator’s database for future events of that kind. We will also indicate if we intend to distribute the participants list to all attendees and you will have the option to have your name deleted from the participants list. Our industry database is held securely by Destination NSW and is not disclosed to anyone outside Destination NSW. Should you wish to change any of your Personal Information that we hold on our database, please contact 02 9931 1111.
+Destination NSW conducts a series of corporate and industry events. These include trade event participation, sales missions, seminars, industry forums, Regional Tourism Forums and Partnership Sydney meetings.
+
+Where applications or bookings to attend these events are offered online, we will ensure that you have been offered the opportunity to be listed on our tourism operator’s database for future events of that kind. We will also indicate if we intend to distribute the participants list to all attendees and you will have the option to have your name deleted from the participants list. Our industry database is held securely by Destination NSW and is not disclosed to anyone outside Destination NSW. Should you wish to change any of your Personal Information that we hold on our database, please contact 02 9931 1111.
 
 ####  _Competition_
 
@@ -66,13 +70,13 @@ Destination NSW provides special purpose funding in order to support tourism mar
 
 ####  _Get Connected_
 
-If you are a tourism operator and would like to comprehensively display your details on Destination NSW’s consumer websites, [www.visitnsw.com](http://www.visitnsw.com/) and [www.sydney.com](http://www.sydney.com/), you will need to register through the Get Connected membership program. Simple and easy to use Get Connected membership is free and is open to all tourism operators within New South Wales. Terms and conditions apply, please see: <http://www.destinationnsw.com.au/tourism/industry-opportunities/connect-your-tourism-product/get-connected>.
-
 As a tourism operator, your contact details including address, telephone, fax, e-mail address and the title of your designated contact officer are collected by Destination NSW through the membership program. The provision of your Personal Information on our website is voluntary. However, if you choose not to provide your details we cannot process your request for membership.
 
-Destination NSW recommends that the title of your designate contact officer for public contact purposes be an official title such as “Booking Officer” or “Registration Clerk” and avoid using your staff’s personal names. Our membership database may also be provided to Local Tourism Associations, Regional Tourism Organisations, the Department of State and Regional Development and the Sydney Harbour Foreshore Authority.
+Destination NSW recommends that the title of your designate contact officer for public contact purposes be an official title such as “Booking Officer” or “Registration Clerk” and avoid using your staff’s personal names.
 
-The Get Connected membership program offers opportunities to have your business details forwarded to the Australian Tourism Data Warehouse ( **ATDW** ) which is the exclusive supplier of tourism product information to Tourism Australia’s website, [www.australia.com](http://www.australia.com/). As an added benefit, your contact details including address, telephone, fax, e-mail address and the name of your designated contact officer are also included in the ATDW. The ATDW is a joint initiative of all state and territory government tourism organisations and Tourism Australia. It provides a central database of tourism product and destination information that is made available to websites including Tourism Australia’s website, [www.australia.com](http://www.australia.com/). Destination NSW is not responsible for the information handling practices or privacy policies of Tourism Australia or the ATDW. For more information concerning Tourism Australian’s privacy policy or information handling practices, please refer to the appropriate sections on their website: [www.australia.com](http://www.australia.com/).
+Our membership database may also be provided to Local Tourism Associations, Regional Tourism Organisations, the Department of State and Regional Development and the Sydney Harbour Foreshore Authority.
+
+The Get Connected membership program offers opportunities to have your business details forwarded to the Australian Tourism Data Warehouse (ATDW) which is the exclusive supplier of tourism product information to Tourism Australia’s website, www.australia.com. As an added benefit, your contact details including address, telephone, fax, e-mail address and the name of your designated contact officer are also included in the ATDW. The ATDW is a joint initiative of all state and territory government tourism organisations and Tourism Australia. It provides a central database of tourism product and destination information that is made available to websites including Tourism Australia’s website, [www.australia.com](http://www.australia.com/). Destination NSW is not responsible for the information handling practices or privacy policies of Tourism Australia or the ATDW. For more information concerning Tourism Australian’s privacy policy or information handling practices, please refer to the appropriate sections on their website: [www.australia.com](http://www.australia.com/).
 
 ####  _Feedback_
 
@@ -86,11 +90,11 @@ Destination NSW may publish aggregated information about feedback on the site, b
 
 ### Collection of your Personal Information
 
-Destination NSW’s collection of Personal Information is performed in an open manner. Accordingly, you will be informed when your Personal Information is being collected, how it will be used, how it will be stored, who else might have access and any consequences where the requested Personal Information is not provided.
+Destination NSW’s collection of Personal Information is performed in an open manner.  Accordingly, you will be informed when your Personal Information is being collected, how it will be used, how it will be stored, who else might have access and any consequences where the requested Personal Information is not provided.
 
 Destination NSW will ensure that any Personal Information collected is relevant to Destination NSW’s purpose (as detailed in section 3), is accurate, complete and up-to-date.
 
-Destination NSW will collect information directly from you, unless it is reasonably impracticable to do so.
+Destination NSW will collect information directly from you, unless it is reasonably impracticable to do so. 
 
 ####  _Email Addresses_
 
@@ -98,7 +102,7 @@ Email addresses are recorded when an email message is sent to Destination NSW or
 
 These email addresses are stored electronically in accordance with standards and authorities under the State Records Act 1998 (NSW). An email address is only used for the purpose for which it is provided and is not added to any unauthorised mailing list or disclosed to other organisations unless you request that this to be done.
 
-If you have subscribed to one of Destination NSW’s online mailing lists, you can easily remove your email details from the list by unsubscribing. Each mailing list provides clear instructions on how to unsubscribe.
+If you have subscribed to one of Destination NSW’s online mailing lists, you can easily remove your email details from the list by unsubscribing. Each mailing list provides clear instructions on how to unsubscribe. 
 
 ### Use of Personal Information within Destination NSW
 
@@ -116,7 +120,7 @@ The circumstances in which Destination NSW will collect, use and disclose more e
   * unauthorised tampering or interference with files on the listed websites
   * unauthorised attempts to index the contents of the listed websites
   * attempts to intercept messages of other users of the listed websites
-  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed
+  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed 
   * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the use of the listed websites by other users.
 
 
@@ -127,17 +131,17 @@ Destination NSW may initiate proceedings in relation to any loss or damage suffe
 
 Disclosure may also occur where it is lawfully authorised or required under any act, other law or statutory agency or foreign body.
 
-Destination NSW does not have any responsibility for the privacy policies or practices of third party sites linked to from the listed websites.  
+Destination NSW does not have any responsibility for the privacy policies or practices of third party sites linked to from the listed websites.
 
 ### Access, accuracy and amendments
 
-Destination NSW takes all reasonable steps to ensure the Personal Information it collects is accurate, complete and up-to-date. Accordingly and as required by the PPIPA, you can access any of your Personal Information that we hold, except in the circumstances set out in appropriate legislation. If you would like to access or update your Personal Information, or if you would like to know more about the Personal Information that we may hold on you please e-mail us at [info@dnsw.com.au](mailto:info@dnsw.com.au).
+Destination NSW takes all reasonable steps to ensure the Personal Information it collects is accurate, complete and up-to-date.  Accordingly and as required by the PPIPA, you can access any of your Personal Information that we hold, except in the circumstances set out in appropriate legislation. If you would like to access or update your Personal Information, or if you would like to know more about the Personal Information that we may hold on you please e-mail us at [info@dnsw.com.au](mailto:info@dnsw.com.au). 
 
 ### Security of your Personal Information
 
 Destination NSW takes all reasonable steps to:
 
-  * protect the security of any Personal Information held, be it stored in electronic or hard copy format;
+  * protect the security of any Personal Information held, be it stored in electronic or hard copy format; 
 
 
 
@@ -153,9 +157,10 @@ You can set your browser to notify you when you receive a cookie, giving you the
 
   * the IP (Internet Protocol) address of the machine which has accessed it
   * your top-level domain name (for example .com, .gov, .au, .uk etc.)
-  * the address of your server • the date and time of your visit to the site
+  * the address of your server
+  * the date and time of your visit to the site
   * the pages accessed and documents downloaded
-  * the previous site visited
+  * the previous site visited 
   * the type of browser and operating system you have used.
 
 
@@ -166,7 +171,7 @@ Destination NSW will not disclose or publish information that identifies individ
 
 ### Data Matching
 
-“ **Data matching** ” means the bringing together of at least two data sets that contain Personal Information, and that come from different sources, and the comparison of those data sets with the intention of producing a match. DNSW may from time to time utilise Google’s Customer Match technology (a data matching tool) to provide a service to you whereby offers are geared to your personal preferences. Accordingly, DNSW may share your Personal Information with Google’s Customer Match platform in order to undertake data matching. In the course of data matching, your Personal Information remains protected through the use of a one-way hashing mechanism that cannot be encrypted. Personal Information that DNSW shares with Google, including email addresses, will be hashed against Google’s database of hashed users, without Google ever seeing the unhashed data. By continuing to use this site, you consent to DNSW sharing your Personal Information with Google for data matching purposes. If you would not like DNSW to use your Personal information for data matching, you can request such by contacting DNSW on +61 02 9931 1111. For more information on Google’s Customer Match platform visit: [https://support.google.com/adwords/answer/6334160 ](https://support.google.com/adwords/answer/6334160)
+ **"Data matching”** means the bringing together of at least two data sets that contain Personal Information, and that come from different sources, and the comparison of those data sets with the intention of producing a match. DNSW may from time to time utilise Google’s Customer Match technology (a data matching tool) to provide a service to you whereby offers are geared to your personal preferences.  Accordingly, DNSW may share your Personal Information with Google’s Customer Match platform in order to undertake data matching.  In the course of data matching, your Personal Information remains protected through the use of a one-way hashing mechanism that cannot be encrypted.  Personal Information that DNSW shares with Google, including email addresses, will be hashed against Google’s database of hashed users, without Google ever seeing the unhashed data.  By continuing to use this site, you consent to DNSW sharing your Personal Information with Google for data matching purposes.  If you would not like DNSW to use your Personal information for data matching, you can request such by contacting DNSW on +61 02 9931 1111. For more information on Google’s Customer Match platform visit: [https://support.google.com/adwords/answer/6334160 ](https://support.google.com/adwords/answer/6334160)
 
 ### Confidential Information
 
