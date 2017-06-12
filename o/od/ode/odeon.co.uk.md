@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the odeon.co.uk privacy policy that was archived on 2016-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161003131720id_/http%3A//www.odeon.co.uk/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odeon.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612224357id_/http%3A//www.odeon.co.uk/privacy-and-legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+FINAL PRIVACY POLICY AMENDS FOR GIFTING 25/10/2016
 
 Privacy and Cookie Policy
 
@@ -28,17 +30,17 @@ Making a purchase / joining ODEON Première Club / joining Limitless
 
 6\. If you make a purchase via the Website or Mobile Apps, ODEON will collect the information we need to fulfil your order and notify you of the status of your order. If you apply to join ODEON Première Club or Limitless, ODEON will collect the information we need to open, administer and run your account and to deal with any enquiries you may have about it.
 
-Registering your details with ODEON
+Registering your details with ODEON / My ODEON account
 
-7\. You may choose to register your details with ODEON anytime online using the "Register" section of the Website or by completing the ODEON Wi-Fi registration process.
+7\. If you are 16 or older, you may choose to register your details with ODEON to get a My ODEON account using the "Sign Up" section of the Website . You will need a My ODEON account if you want to post content on the Website (e.g. film reviews).
 
-8\. If you want to use your ODEON Première Club card to earn and redeem ODEON points, you must register with us as an ODEON Première Club member.
+8\. If you want to use your ODEON Première Club card to earn and redeem ODEON points, you must register with us as an ODEON Première Club member, and we will give you a My ODEON account to manage your membership. You need to be 16 or over to be an ODEON Première Club member.
 
-9\. In each case, the registration process will set out the minimum information you need to provide (in the form of mandatory fields) and you may provide us with other information if you chose.
+9\. If you have joined Limitless, we will give you a My ODEON account to manage your membership. You need to be 16 or older to be a Limitless member (or 13-15 if you join via a gift membership with parent/guardian consent).
 
-10\. You must be over 16 to register with ODEON via the Website. You do not need to be 16 or over to register with ODEON via ODEON Wi-Fi  \- see Part D, below, for more information about this.
+10\. In each case, the registration / joining process will set out the minimum information you need to provide (in the form of mandatory fields) and you may provide us with other information if you chose.
 
-11\. You will also need to register with us if you want to post content on the Website (e.g. film reviews)
+11.  If you register with ODEON to use the ODEON Wi-Fi, the login process will set out the information you need to provide, including your date of birth. You don’t automatically get a My ODEON account just by registering for ODEON Wi-Fi.
 
 Competitions / Surveys / Correspondence
 
@@ -48,9 +50,9 @@ Sensitive personal information
 
 13\. Please note that ODEON may collect sensitive personal information from you in the course of providing goods and/or services to you (in particular, information as to whether you have a disability).
 
-Using our services / Information emails from ODEON
+Using our services / Marketing messages from ODEON
 
-14\. ODEON may collect information about your use of our services (including your purchases from us, and your use of ODEON Premiere Club, Limitless, the Website, Mobile Apps, ODEON Social Media and ODEON Wi-Fi). We may also collect information about information emails we send to you and how you respond to them. See Part C, below, for more details about this.
+14\. ODEON may collect information about your use of our services (including your purchases from us, and your use of ODEON Premiere Club, Limitless, the Website, Mobile Apps, ODEON Social Media and ODEON Wi-Fi). We may also collect information about  marketing messages we send to you and how you respond to them. See Part C, below, for more details about this.
 
 PART C - COOKIES / WEB BEACONS / THIRD PARTY LINKS
 
@@ -91,11 +93,11 @@ ODEON Social Media
 
 27\. ODEON Social Media may allow you to see your friend's details and contact them. An example of this would be our Event Planner within Facebook. Where this is the case, this function is provided by the social media site provider and not ODEON. ODEON does not hold your friend's details and any messages you send to friends via ODEON Social Media use the relevant social media's functionality and are not sent from ODEON.
 
-Web beacons on the Website, Mobile App and in ODEON's information emails
+Web beacons on the Website, Mobile App and in ODEON's email marketing messages
 
-28\. The Website, Mobile Apps, ODEON Social Media and information emails from ODEON may contain web beacons, and we use them in conjunction with ODEON cookies and third party cookies to collect information. For example, ODEON may use web beacons to do the following: count the number of visitors to the Website, Mobile Apps and ODEON Social Media; establish levels of interest in particular items or aspects of the Website, Mobile Apps and ODEON Social Media; or particular products and services available on the Website, Mobile Apps and ODEON Social Media; determine whether you have acted on an email or clicked on a link (e.g. where this is a condition of entering a competition); compile aggregated statistics on how successful a specific marketing campaign or a competition has been; assess whether advertisements or competitions result in purchases being made; and/or understand how popular a particular film or screening is, and how interest levels vary between particular ODEON cinemas.
+28\. The Website, Mobile Apps, ODEON Social Media and email marketing messages from ODEON may contain web beacons, and we use them in conjunction with ODEON cookies and third party cookies to collect information. For example, ODEON may use web beacons to do the following: count the number of visitors to the Website, Mobile Apps and ODEON Social Media; establish levels of interest in particular items or aspects of the Website, Mobile Apps and ODEON Social Media; or particular products and services available on the Website, Mobile Apps and ODEON Social Media; determine whether you have acted on an email or clicked on a link (e.g. where this is a condition of entering a competition); compile aggregated statistics on how successful a specific marketing campaign or a competition has been; assess whether advertisements or competitions result in purchases being made; and/or understand how popular a particular film or screening is, and how interest levels vary between particular ODEON cinemas.
 
-29\. Web beacons do not store additional information on your device but, by communicating with cookies on your device, they can provide us with personal information (e.g. when you have opened an information email from us). If you object to web beacons, we recommend you follow the instructions for deleting and disabling cookies set out above.
+29\. Web beacons do not store additional information on your device but, by communicating with cookies on your device, they can provide us with personal information (e.g. when you have opened an  email marketing message from us). If you object to web beacons, we recommend you follow the instructions for deleting and disabling cookies set out above.
 
 Third party links
 
@@ -127,8 +129,7 @@ Making a purchase / joining ODEON Première Club or Limitless
 
 Registering with ODEON
 
-35\. If you register your details with us via our Website or ODEON Wi-Fi, or you register as an ODEON Première Club member, or you become an Limitless Member, we will use the details you have given us, together with details of how you use the Website, Mobile Apps or ODEON Social Media, details of information emails we send to you and how you respond to them, and details of your purchasing behaviour with ODEON, as follows: 
-
+35\. If you register your details with us via our Website or ODEON Wi-Fi, or you register as an ODEON Première Club member, or you become an Limitless Member, we will use the details you have given us, together with details of how you use the Website, Mobile Apps or ODEON Social Media, details of marketing messages we send to you and how you respond to them, and details of your purchasing behaviour with ODEON, as follows:   
 a) to manage and improve our goods and services, the Website, Mobile Apps, ODEON Social Media, Guest Services, our cinemas, the ODEON Première Club and/or our stored value cards;
 
 b) to notify you of changes to our goods and services, the Website, Mobile Apps, ODEON Social Media, Guest Services, our cinemas, the ODEON Première Club and/or our stored value cards, our Privacy Policy and/or any of our terms and conditions;
@@ -137,21 +138,29 @@ c) to carry out our obligations arising from any contracts entered into between 
 
 d) to understand what you buy from us and how you use our services;
 
-e) if applicable, to provide you with information emails as set out in this Privacy Policy;
+e) to provide you with marketing messages as set out in this Privacy Policy;
 
 f) to manage and improve the advertising of our goods and services via third parties (including advertising on social media); and
 
-g) to build up a picture of your personal preferences, and generally how you use the Website, Mobile Apps and ODEON Social Media and so allow us to customise your visits to our Website, Mobile Apps and ODEON Social Media and any information emails we send to you.
+g) to build up a picture of your personal preferences, and generally how you use the Website, Mobile Apps and ODEON Social Media and so allow us to customise your visits to our Website, Mobile Apps and ODEON Social Media and any marketing messages we send to you.
 
-Information emails from ODEON
+Marketing messages from ODEON
 
-36\. If you have registered with ODEON through the Website, you can ask us to send you information emails  about film times and/or emails with film & cinema news, competitions & special offers, and information about ODEON products and services. We will also send you information emails if you have consented to this when booking a ticket or joining the ODEON Première Club on the Website or a Mobile App.  If you have registered with ODEON via ODEON Wi-Fi and are 16 or over we will send you emails with information about film & cinema news, competitions & special offers, and information about ODEON products and services unless you have previously expressed a preference not to receive such emails.  When you register with ODEON via ODEON Wi-Fi, we will ask for your date of birth to ensure that we only send you information emails about age appropriate films. If you are under 16 years old we will not send you any information emails. For Limitless members, we will send you emails about similar ODEON products and services such as films & cinema news, promotions, our loyalty schemes, and competitions & special offers, unless you asked us not to do this during the sign up process.( For ODEON Limitless “beta” members who joined at Brighton, Guildford, Stoke and Wrexham prior to 1 March 2016, we will send you emails asking for your thoughts on ODEON Limitless, plus information emails with information about film times and/or emails with film & cinema news, competitions & special offers, and information about ODEON products  and services, unless you asked us not to do this during the sign up process.)
+36 We will send you marketing messages by post. We will also send you email marketing messages as follows:.
 
-37\. Information emails will only come from ODEON. They may involve carefully selected partners from time to time, but we will not pass your data to any third party for direct marketing. Where we provide you with news and offers of organisations outside ODEON, we do not give them your details.
+a) If you have registered with ODEON through the Website by signing up to a My ODEON account, or you have joined ODEON Première Club (both of which require you to be 16 or over), we will send you email marketing messages about film times and/or emails with film & cinema news, competitions & special offers, and information about ODEON products and services, if you have consented to this.  
 
-38\. For most information emails from ODEON, you can change your mind at any time about which information emails you receive by logging into the Website and amending your details.    (For ODEON Limitless information emails, where we have collected your email address as part of joining ODEON Limitless “beta” at Brighton, Guildford, Stoke and Wrexham prior to 1 March 2016, you can’t use the Website to unsubscribe from these, and you will need to call the ODEON Limitless customer service number which is 0330 0246 782 to unsubscribe.    Every information email from ODEON will contain details of how you can unsubscribe, and you can always contact us to unsubscribe using the methods set out at paragraphs 50 to 53 below.)
+b) If you have registered with ODEON via ODEON Wi-Fi and you have told us you are 16 or over, we will send you email marketing messages with information about film & cinema news, competitions & special offers, and information about ODEON products and services unless you have previously expressed a preference not to receive such emails.  
 
-39\. Please note that if you indicate to us that you prefer not to receive information emails, and then opt in to receive them at a later date (or vice versa), we will take the latest indication as the confirmation as to whether you want to receive information emails from us. This does not apply if you register with us via ODEON Wi-Fi, as we will continue to honour your existing information email preferences.  (For ODEON Limitless “beta” members who joined at Brighton, Guildford, Stoke and Wrexham prior to 1 March 2016 , please note that your ODEON Limitless “beta” email preferences will not affect your other information email preferences registered with us.  In particular, if you indicated you don’t want to receive ODEON Limitless information emails when signing up to ODEON Limitless “beta”, we will continue to send you any other emails you already get from us according to the existing preferences we have listed for you  until you let us know you don’t want to receive them. )  
+c) If you have joined Limitless and you have told us you are 16 or over, we will send you email marketing messages about similar ODEON products and services such as films & cinema news, promotions, our loyalty schemes, and competitions & special offers, unless you asked us not to do this during the sign up process.
+
+37\. Marketing messages will only come from ODEON. They may involve carefully selected partners from time to time, but we will not pass your data to any third party for direct marketing. Where we provide you with news and offers of organisations outside ODEON, we do not give them your details.
+
+38\. If you have a My ODEON account and you are over 16, you can change your mind at any time about which email marketing messages you receive by logging into your My ODEON account and amending your  email marketing message preferences.   .    Every information email from ODEON will contain details of how you can unsubscribe, and you can always contact us to unsubscribe using the methods set out at paragraphs 50 to 52 below.)
+
+Please note that if you indicate to us that you prefer not to receive email marketing messages, and then opt in to receive them at a later date (or vice versa), we will take the latest indication as the confirmation as to whether you want to receive email marketing messages from us. This does not apply if you register with us via ODEON Wi-Fi, as we will continue to honour your existing email marketing message preferences.    
+
+39.  If you are a Limitless member or you have registered for ODEON Wi-Fi, and you have told us you are under 16, we won’t send you any marketing messages whilst you remain under 16, but once you are 16 we will start sending you marketing messages in accordance with the preferences we have logged for you at that time. For 16-17 year olds, we will use date of birth information to make sure our marketing messages are age appropriate.
 
 Survey information
 
@@ -191,12 +200,10 @@ User names and passwords
 
 Updating and accessing your personal information / Contacting us
 
-50\. If you want to modify or update your registered details at any time, you can do this by logging in to the Website. Alternatively, you may inform us by any of the methods set out at paragraph 52  and 53 below of any changes in your personal information or preferences, and we will update or modify your personal information accordingly.
+50\. If you want to modify or update your registered details at any time, you can do this by logging in to the Website. Alternatively, you may inform us by any of the methods set out at paragraph 52  below of any changes in your personal information or marketing message preferences, and we will update or modify your personal information accordingly.
 
 51\. You have a right upon written request and payment of a fee in accordance with our standard fee rate, to have a copy of the personal information we hold about you.
 
 52\. You can contact us with any queries or requests concerning your personal information and/or this Privacy Policy by using the contact details shown on the Website "Contact Us" page . Our security procedures mean that we may occasionally request proof of identity before we are able to disclose information to you.
 
-53 (For ODEON Limitless “beta” members (who joined at Brighton, Guildford, Stoke and Wrexham prior to 1 March 2016), there is a different process to modify, update, and access your personal information submitted in connection with your ODEON Limitless “beta” membership.  All queries should be directed to the ODEON Limitless customer service number which is 0330 0246 782 or you can write to us at this address: ODEON Limitless Team, ODEON Cinemas Limited, 57-59 St Albans House, London SW1Y 4QX.0
-
-© Odeon Cinemas Holdings Limited 2006 - 2016. All rights reserved. Version 2.9 dated Februayr 2016
+© Odeon Cinemas Holdings Limited 2006 - 2016. All rights reserved. Version 2.10 dated October 2016
