@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219152528id_/https%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613012826id_/https%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mall of America
 
-Last Modified: 03 March 2016
+Last Modified: 24 March 2017
 
-**Mall of America Privacy Policy**
+**Mall of America ® Privacy Policy**
 
-MOAC Mall Holdings LLC, CanAm Theatres MOA, LLC and MOA Entertainment Company LLC (“ **MOA** ” shall mean any of the foregoing entities), including any entity that controls MOA, is controlled by MOA or is under common control with MOA (each an “ **Affiliate** ”), are committed to protecting your privacy and demonstrating care and respect with regard to our treatment of any ‎Personal Information that we may obtain from you.  This privacy policy (the “ **Privacy Policy** ”) is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your Personal Information with care and respect.
+MOAC Mall Holdings LLC and MOA Entertainment Company LLC (“ **MOA** ” shall mean any of the foregoing entities), including any entity that controls MOA®, is controlled by MOA or is under common control with MOA (each an “ **Affiliate** ”), are committed to protecting your privacy and demonstrating care and respect with regard to our treatment of any ‎Personal Information that we may obtain from you.  This privacy policy (the “ **Privacy Policy** ”) is designed to provide transparency into our privacy practices and principles, in a format that our guests can navigate, read and understand. We are dedicated to treating your Personal Information with care and respect.
 
 BY SUBMITTING YOUR PERSONAL INFORMATION TO US, YOU ARE CONSENTING TO THE PROCESSING OF YOUR PERSONAL INFORMATION IN THE UNITED STATES OR IN ANY OTHER COUNTRY IN THE WORLD AND TO OUR USE OF YOUR PERSONAL INFORMATION AS SET FORTH IN THIS PRIVACY POLICY. IF YOU ARE SUBMITTING PERSONAL INFORMATION OF THIRD PARTIES TO US, YOU WARRANT AND REPRESENT YOU HAVE THEIR CONSENT TO PROVIDE THEIR PERSONAL INFORMATION TO US AND WILL HOLD US HARMLESS FROM AND AGAINST CLAIMS BY SUCH INDIVIDUALS RELATING TO OUR PROCESSING AND USE OF SUCH PERSONAL INFORMATION WITHIN THE TERMS OF THIS PRIVACY POLICY.
 
