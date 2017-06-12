@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theconfidentialfiles.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024040916id_/http%3A//www.theconfidentialfiles.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconfidentialfiles.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612110328id_/http%3A//www.theconfidentialfiles.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Confidential Files
 
-This Privacy Policy governs the manner in which The Confidential FIles collects, uses, main...
+This Privacy Policy governs the manner in which The Confidential FIles collects, uses, maintains and discloses information collecte...
 
 [](http://2.bp.blogspot.com/-bRlHDXpFiyY/Vj7j9vN84GI/AAAAAAAAA0E/AwAk66gRjtI/s1600/TCF%2BInfo%2BLogo.png)
 
