@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ieltsadvantage.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109121417id_/http%3A//ieltsadvantage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieltsadvantage.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612041819id_/https%3A//www.ieltsadvantage.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – IELTS Advantage
 
 **1\. Introduction**
 
@@ -8,7 +8,7 @@
 
 1.2 By using our website and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
 
-**2\. Collecting personal information**
+ **2\. Collecting personal information**
 
 2.1 We may collect, store and use the following kinds of personal information: 
 
@@ -32,7 +32,7 @@
 
 2.2 Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
-**3\. Using personal information**
+ **3\. Using personal information**
 
 3.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website.
 
@@ -70,7 +70,7 @@
 
 3.5 All our website financial transactions are handled through our payment services provider, _Stripe_. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
 
-**4\. Disclosing personal information**
+ **4\. Disclosing personal information**
 
 4.1 We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes set out in this policy.
 
@@ -88,7 +88,7 @@
 
 4.3 Except as provided in this policy, we will not provide your personal information to third parties.
 
-**5\. International data transfers**
+ **5\. International data transfers**
 
 5.1 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
 
@@ -98,7 +98,7 @@
 
 5.4 You expressly agree to the transfers of personal information described in this Section 6.
 
-**6\. Retaining personal information**
+ **6\. Retaining personal information**
 
 6.1 This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal information.
 
@@ -112,7 +112,7 @@
 
 (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
-**7\. Security of personal information**
+ **7\. Security of personal information**
 
 7.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
@@ -124,7 +124,7 @@
 
 7.5 You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
 
-**8\. Amendments**
+ **8\. Amendments**
 
 8.1 We may update this policy from time to time by publishing a new version on our website.
 
@@ -132,7 +132,7 @@
 
 8.3 We may notify you of changes to this policy by email or through the private messaging system on our website.
 
-**9\. Your rights**
+ **9\. Your rights**
 
 9.1 You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to: 
 
@@ -146,17 +146,17 @@
 
 9.4 In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
 
-**10\. Third party websites**
+ **10\. Third party websites**
 
 10.1 Our website includes hyperlinks to, and details of, third party websites.
 
 10.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.
 
-**11\. Updating information**
+ **11\. Updating information**
 
 11.1 Please let us know if the personal information that we hold about you needs to be corrected or updated.
 
-**12\. Cookies**
+ **12\. Cookies**
 
 12.1 Our website uses cookies.
 
@@ -188,7 +188,7 @@
 
 12.9 Deleting cookies will have a negative impact on the usability of many websites.
 
-**13\. Our details**
+ **13\. Our details**
 
 13.1 This website is owned and operated by _Advantage Exam Preparation Limited_.
 
@@ -198,6 +198,6 @@
 
 (a) by email, using the email address published on our website from time to time.
 
-**14\. Credit**
+ **14\. Credit**
 
 14.1 This document was created using a template from SEQ Legal.
