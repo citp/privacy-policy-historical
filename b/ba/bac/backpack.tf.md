@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119023610id_/http%3A//backpack.tf/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpack.tf privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612171057id_/http%3A//backpack.tf/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - backpack.tf
 
@@ -29,7 +29,29 @@ Our website also uses "cookies" and other technologies to remember personal info
 
 As is true of most websites, we gather some information automatically and store it in log files. This information includes Internet Protocol (IP) addresses, browser type and language, Internet service provider (ISP), referring and exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. Apple may use this information in our marketing and advertising services.
+We use this information to understand and analyze trends, to administer the site, to learn about user behavior on the site, and to gather demographic information about our user base as a whole. 
+
+## Analytics
+
+We’ve implemented Google Analytics based on Display Advertising (e.g. Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration and Google Analytics Demographics and Interest Reporting). 
+
+We and third-party vendors, including Google, will use this remarketing information and data based on previous visits to our site to serve relevant messages across the web. 
+
+You can opt out of Google's use of cookies by visiting Google's Ads Settings. Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative opt out page. 
+
+## 3rd party cookies
+
+We uses cookies on our websites in order to provide enhanced functionality to users, such as user accounts and saved preferences. We also use cookies to ensure that you see the most relevant ads and limit the number of times we show you the same advertisements. 
+
+If you continue to use this site, we'll assume you are happy to accept these cookies. Some of the adverts carried on our websites are delivered by third party servers and in doing so they may leave cookies on your machine. 
+
+You may opt-out of these cookies by following these links: 
+
+MediaMind opt-out: <http://ds.serving-sys.com/OBA/Europe/Opt-out.aspx>
+
+FlashTalking opt-out: <http://www.flashtalking.com/cookieOptOut.html>
+
+MindShare opt-out: <http://www.mindshareworld.com/privacy>
 
 ## Requesting Removal of a Specific Inventory
 
