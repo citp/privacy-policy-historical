@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachmesurgery.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117070800id_/http%3A//teachmesurgery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachmesurgery.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612132630id_/http%3A//teachmesurgery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TeachMeSurgery
 
@@ -50,7 +50,7 @@ The owners of this website cannot guarantee or verify the contents of any extern
 
 This website may contain sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
 
-Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and it&#82#8217;s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will tracks the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your computers hard drive. Users should therefore note they click on sponsored external links at their own risk and this website and itR#8217;s owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
 
 **Social Media Platforms**
 
