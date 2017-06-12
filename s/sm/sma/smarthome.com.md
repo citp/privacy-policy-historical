@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121021123id_/http%3A//www.smarthome.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612145023id_/http%3A//www.smarthome.com/security-and-privacy) for the most accurate reproduction.*
 
-# Security & Privacy | Smarthome Home Automation Superstore
+# Home Automation Customer Privacy And Security | Smarthome
 
 For more than 20 years, Smarthome® has been committed to providing you with a high-quality shopping experience with respect for your security and privacy.
 
@@ -44,7 +44,7 @@ In order to process your order efficiently or to send you the correspondence you
 
 ## Making Changes
 
-  * You may can update your information by logging into [My Account](https://web.archive.org/web/20161121021123id_/http%3A//www.smarthome.com/customer/account/).
+  * You may can update your information by logging into [My Account](https://web.archive.org/web/20170612145023id_/http%3A//www.smarthome.com/customer/account/).
 
 
 
