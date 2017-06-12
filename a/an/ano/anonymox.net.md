@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonymox.net privacy policy that was archived on 2016-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160423044946id_/http%3A//www.anonymox.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymox.net privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612220739id_/http%3A//www.anonymox.net/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | anonymoX
 
@@ -27,8 +27,6 @@ If you explicitly opt-in to our usage data collection, the following data will b
 #### 2\. Opening this website
 
 While opening this website, logfiles are generated on our webservers which contain datas about your IP-address, the opened page, a timestamp, the name of your browser and more information send by your browser. These datas are deleted automatically no later than 2 weeks.
-
-(Of course, if you open this website while your anonymoX service is turned on, we will not save your original IP address but the IP address of the proxy.)
 
 #### 3\. Right of withdrawal and disclosure
 
