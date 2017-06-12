@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515022652id_/http%3A//planbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbox.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612185746id_/https%3A//www.planbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Planbox
 
-Last updated: July 16, 2015
+Last updated: June 8, 2017
 
-This Privacy Policy (the “Policy”) applies to services offered by Planbox, its subsidiaries and affiliated companies under the domain and sub-domains of www.planbox.com. By visiting this website you agree to be bound by the terms and conditions of this Policy. If you do not agree, please to not use or access our Site.
+Planbox respects the privacy of every individual who visits our websites or responds to online advertisements or e-mail campaigns. The information that you share with us will be treated with appropriate care. This Privacy Policy (the “Policy”) describes our policies on the collection, use, and disclosure of your information in connection with your use of our websites, social media pages, emails, web and mobile applications (“Site” or “Sites”), as well as through our online advertisements at other websites and e-mail campaigns. This Policy will also provide you with instructions on how to opt out of sharing information about you with us.
 
-This Policy describes the information, as part of the normal operation of our services that we collect from you and what may happen to that information. Our subsidiaries and affiliated companies operate under similar privacy practices as described in this Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout our global www.planbox.com user community.
+This Policy applies to services offered by Planbox, its subsidiaries and affiliated companies under the domain and sub-domains of www.planbox.com and idealink.io (the “Sites”). This Policy describes the information, as part of the normal operation of our services that we collect from you and what may happen to that information. Our subsidiaries and affiliated companies operate under similar privacy practices as described in this Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices throughout our global www.planbox.com user community.
 
 By accepting the Policy, you expressly consent to our use and disclosure of your personal information in accordance with this Policy.
 
 **Information we collect**
-
-Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customized user experience. This allows us to provide services and features that will meet your needs, and to customize our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose.
 
 In general, you can browse planbox.com without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular feature.
 
@@ -24,7 +22,16 @@ If you send us personal correspondence, such as emails or letters, we may collec
 
 **Our use of your Information**
 
-We use your personal information to facilitate the services you request. We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on planbox.com to: troubleshoot problems; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity. We may compare and review your personal information for errors, omissions and for accuracy.
+We collect personal information (Personal Information) for the following purposes:
+
+  * For a specific reason: If you provide Personal Information for a certain purpose, we may use the Personal Information in connection with the purpose for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Information you provide to respond to your inquiry, answer your question or resolve your problem and will respond to the email address from which the contact was made.
+  * Marketing: Where it is in accordance with your marketing preferences, we may use your Personal Information to contact you in the future for our marketing and advertising purposes, including without limitation, to inform you about services or events we believe might be of interest to you, to develop promotional or marketing materials and provide those materials to you, and to display content and advertising on or off the Services that we believe might be of interest to you.
+  * Access and Use: If you provide Personal Information in order to obtain access to or use of the Services or any functionality thereof, we will use your Personal Information to provide you with access to or use of the Services or functionality and to monitor your use of such Services or functionality. For instance, if you supply Personal Information relating to your identity or qualifications to use certain portions of the Services, we will use that information to make a decision as to granting you access to use such Services and to monitor your ongoing qualification to use such Services.
+  * Internal Business Purposes: We may use your Personal Information for internal business purposes, including without limitation, to help us improve the content, user experience and functionality of the Services, to better understand our Users, to improve the Services, to protect against, identify or address wrongdoing, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Services and our business.
+
+
+
+We only collect personal information about you that we consider necessary for achieving the above mentioned purposes.
 
 As you browse planbox.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners, then enable us to present you with retargeting advertising on other sites based on your previous interaction with planbox.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address, or telephone number. You can visit this page to opt out of our partner’s targeted advertising.
 
@@ -46,7 +53,7 @@ We offer you the ability to review and change your personal information that you
 
 **Security**
 
-Your information is stored and processed on computers located in Canada. planbox.com uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, “perfect security” does not exist on the Internet.
+Your information is stored and processed on computers maintained by Amazon Web Services in Eastern USA. planbox.com uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, “perfect security” does not exist on the Internet.
 
 **Notice**
 
