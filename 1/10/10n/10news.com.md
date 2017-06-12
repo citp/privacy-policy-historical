@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 10news.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119174800id_/http%3A//www.10news.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10news.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612134248id_/http%3A//www.10news.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 10News.com KGTV ABC10 San Diego
+# Privacy Policy - 10News.com KGTV-TV San Diego
 
 PRIVACY POLICY
 
