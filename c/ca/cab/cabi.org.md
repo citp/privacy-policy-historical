@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227222346id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabi.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113719id_/http%3A//www.cabi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -9,6 +9,8 @@ Like most websites we use cookies. This is to ensure that we give you the best e
 Continuing to use www.cabi.org means you agree to our use of cookies. If you would like to, you can learn more about the cookies we use.
 
 **Sign up for the CABI e-zine Newsletter**
+
+[ ](https://web.archive.org/)
 
   * You are here:
   * [Home](https://web.archive.org/)
@@ -22,7 +24,7 @@ Continuing to use www.cabi.org means you agree to our use of cookies. If you wou
     * [ Project locations](https://web.archive.org/projects/search/)
     * [ CABI centres](https://web.archive.org/about-cabi/cabi-centres/)
     * [ How we are managed](https://web.archive.org/about-cabi/how-we-are-managed/)
-    * [ CABI Policies](https://web.archive.org/about-cabi/business-policies-and-strategies/)
+    * [ CABI Policies](https://web.archive.org/about-cabi/business-policies/)
     * [ CABI history](https://web.archive.org/about-cabi/history/)
     * [ Work for us](https://web.archive.org/about-cabi/work-for-us/)
     * [ Find people](https://web.archive.org/about-cabi/search-staff/)
