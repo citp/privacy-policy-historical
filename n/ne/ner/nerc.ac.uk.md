@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227163421id_/http%3A//www.nerc.ac.uk/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerc.ac.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612073554id_/http%3A//www.nerc.ac.uk/site/privacy) for the most accurate reproduction.*
 
 # NERC - Privacy and cookies
 
@@ -58,9 +58,7 @@ We also use our own cookies in order to comply with EU legislation on cookies an
 
 We will not use cookies to collect personally identifiable information about you.
 
-However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
-
-Alternatively, you may wish to visit [AboutCookies.org \- external link -](http://www.aboutcookies.org/ "external link") which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The help function within your browser should tell you how.
 
 Please be aware that restricting cookies may impact on the functionality of our website.
 
