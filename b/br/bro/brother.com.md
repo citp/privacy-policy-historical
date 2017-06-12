@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208185238id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brother.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612060943id_/http%3A//www.brother-usa.com/disclaimer.aspx) for the most accurate reproduction.*
 
 # Brother International - Privacy Statement
 
