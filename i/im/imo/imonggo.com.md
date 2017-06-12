@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imonggo.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606200533id_/http%3A//www.imonggo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imonggo.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612234914id_/https%3A//www.imonggo.com/privacy_statement) for the most accurate reproduction.*
 
-# Imonggo Privacy Statement
+# Privacy Statement – Imonggo
 
 ### Imonggo Privacy Statement
 
@@ -8,13 +8,13 @@ This privacy policy describes how Imonggo.com collects and processes data provid
 
 By using Imonggo.com, you agree to the collection and use of your personal information as described in this policy. You should know:
 
-  1. We collect limited account – store information, and maintain your account data in our secure servers.
-  2. We will not rent, sell, or share any of your personal information for marketing purposes without your express permission.
-  3. You can update your account information and preferences at any time.
+1\. We collect limited account – store information, and maintain your account data in our secure servers.
 
+2\. We will not rent, sell, or share any of your personal information for marketing purposes without your express permission.
 
+3\. You can update your account information and preferences at any time.
 
-In compliance with the Children's Online Privacy Protection Act, Imonggo.com is only available to users who are at least 13 years old. If you are under 13, please do not use the Imonggo.com service.
+In compliance with the Children’s Online Privacy Protection Act, Imonggo.com is only available to users who are at least 13 years old. If you are under 13, please do not use the Imonggo.com service.
 
 ### Types of Information Collected
 
@@ -40,7 +40,7 @@ This information is needed primarily to help us provide our services to you. In 
 
 In general, sensitive data on the credit card such as credit card numbers and card verification codes are never stored on our server. Only the last 4 digits of the credit card number are kept for reference.
 
-In the premium edition, we can use Imonggo to process your customers' credit card payments. When you enable this feature, we automatically enable the SSL feature as well. This means that we use industry standard 128-bit SSL (Secure Socket Layer) software to encrypt all of the data sent to us so that only your web browser and the Imonggo server can decipher them. Likewise, sensitive data such as credit card numbers and card verification codes of your customers' credit cards are never kept on the server, so there is no chance of them being misappropriated.
+In the premium edition, we can use Imonggo to process your customers’ credit card payments. When you enable this feature, we automatically enable the SSL feature as well. This means that we use industry standard 128-bit SSL (Secure Socket Layer) software to encrypt all of the data sent to us so that only your web browser and the Imonggo server can decipher them. Likewise, sensitive data such as credit card numbers and card verification codes of your customers’ credit cards are never kept on the server, so there is no chance of them being misappropriated.
 
 ### How We May Contact You
 
