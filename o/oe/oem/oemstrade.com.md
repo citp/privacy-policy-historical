@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123045041id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oemstrade.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612170352id_/http%3A//www.supplyframe.com/company/privacy) for the most accurate reproduction.*
 
-# Supplyframe
-
-  
-
-
-### Privacy Policy
+# Supplyframe Privacy
 
 This Privacy Policy was last updated on April 15, 2013.
 
 SupplyFrame, Inc. (“ **SupplyFrame** ,” “ **we** ,” or “ **us** ”) takes the privacy and protection of personal information very seriously. By visiting and using the SupplyFrame Offerings or registering for the SupplyFrame Offerings and creating an Account, you acknowledge that you accept the practices and policies outlined in this privacy policy (“ **Privacy Policy** ”). Unless otherwise defined herein, capitalized terms shall have the meanings assigned to such terms in the Frame-It Terms of Service that you can find at Frame-It Terms of Service and which incorporate this Privacy Policy by reference.
 
-### What This Privacy Policy Covers
+## What This Privacy Policy Covers
 
 This Privacy Policy describes SupplyFrame’s practices with respect to Personal Information and Anonymous Information that we collect when you use the SupplyFrame Offerings. This Privacy Policy does not apply to the use of your Personal Information that is collected by third parties that SupplyFrame does not own or control or that do not support SupplyFrame in providing the SupplyFrame Offerings.
 
@@ -25,7 +20,7 @@ BY USING THE SERVICE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICE, YOU
 
 YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY AND BY USING THE SERVICE OR SUBMITTING PERSONAL INFORMATION THROUGH THE SERVICES, YOU ARE EXPRESSLY CONSENTING TO SUCH PROCESSING.
 
-### Personal Information We Collect
+## Personal Information We Collect
 
 We collect the following Personal Information that you submit to us voluntarily:
 
@@ -48,7 +43,7 @@ We collect the following Personal Information that you submit to us voluntarily:
 
 
 
-### Personal Information Collected Via Technology
+## Personal Information Collected Via Technology
 
 As you use the Supply Frame Offerings, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Sites. We may use Cookies to improve your experience and a “reverse IP lookup” to determine the company associated with your IP address. 
 
@@ -75,13 +70,13 @@ These cookies collect information to deliver you more relevant advertising. They
 
 
 
-While you will still be able to use the Supply Frame Offerings if you disable Cookies in your browser, certain parts of the Supply Frame Offerings may not function as effectively. You can find more information on Cookies and how they may affect you by visiting: [www.youronlinechoices.org](https://web.archive.org/web/20161123045041id_/http%3A//www.supplyframe.com/company/www.youronlinechoices.org)
+While you will still be able to use the Supply Frame Offerings if you disable Cookies in your browser, certain parts of the Supply Frame Offerings may not function as effectively. You can find more information on Cookies and how they may affect you by visiting: [www.youronlinechoices.com](http://www.youronlinechoices.com/)
 
-### Personal Information From Other Sources
+## Personal Information From Other Sources
 
 We may receive Personal Information about you from outside the Sites, such as from third parties that provide services for us that are related to the SupplyFrame Offerings. We may add this information to the information we have already collected from you via the SupplyFrame Offerings.
 
-### Use Of Information We Collect
+## Use Of Information We Collect
 
 In general, information (including Personal Information) you submit to us, or to third parties that support us in collecting information, is used by us to provide you and others with the SupplyFrame Offerings, to respond to requests that you make, to improve our SupplyFrame Offerings and to better tailor the features, performance and support of the SupplyFrame Offerings.
 
@@ -89,11 +84,11 @@ We may also use your Personal Information to provide you with notifications rela
 
 We may create Anonymous Information records from Personal Information by excluding information (such as your name) that makes the information personally identifiable to you. We may also create Anonymous Information on how you use the SupplyFrame Offerings. We may use this Anonymous Information for internal purposes, such as analyzing usage patterns so that we may enhance the SupplyFrame Offerings, and we also reserve the right to use and disclose any Anonymous Information at our discretion.
 
-### Feedback
+## Feedback
 
 If you provide feedback about the SupplyFrame Offerings to us, we may use and disclose such feedback for any purpose, provided we do not associate such feedback with your Personal Information. We will collect any information contained in such feedback and will treat the Personal Information in it in accordance with this Privacy Policy.
 
-### Disclosure of Personal Information
+## Disclosure of Personal Information
 
 Except as otherwise stated in this Privacy Policy, we do not disclose to or share your Personal Information with third parties, unless you ask or authorize us to do so. Please note that we may disclose certain of your Personal Information, such as your username, to other Users of certain SupplyFrame Offerings in order to identify you as a User of the SupplyFrame Offerings. In addition, certain information that you have provided on an optional basis in connection with registering with our SupplyFrame Offerings (your gender, birthday, phone number, address, city, state, country, and website) may be made available on your profile to other Users of all the SupplyFrame Offerings; please make sure that you only provide the information that you feel comfortable sharing with others in this way.
 
@@ -107,32 +102,32 @@ In the event SupplyFrame goes through a business transition such as a merger, ac
 
 We may (and you authorize us to) disclose information we have collected from and about you (including Personal Information) if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on us; (b) to enforce any agreement we may have entered into with you and to enforce the Privacy Policy; or (c) to protect and defend the rights or property of us, other Users, or third parties.
 
-### Choices Regarding Personal Information
+## Choices Regarding Personal Information
 
 We will include unsubscribe instructions in each newsletter or promotional communication you receive from us.
 
 We may send you service-related announcements (such as, but not limited to, notice that we have changed the Service, the Terms of Service, or the Privacy Policy) when we believe it is necessary to do so. You may not opt-out of these communications, which are not promotional in nature, but if you do not wish to receive these announcements, you have the option to terminate the Account you may have with us. You understand that any termination of your Account may involve deletion of your Account information (and associated Content) from our live databases and all the information and data stored for such Account in the SupplyFrame Offerings. SupplyFrame will not have any liability whatsoever to you for any termination of your account or related deletion of you information.
 
-### Modifying and Deleting Your Personal Information
+## Modifying and Deleting Your Personal Information
 
 You may change any of your Personal Information in your account by editing your profile within the SupplyFrame Offerings. You may request deletion of your Personal Information by us, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information that we have collected from or about you, it will be deleted from our active databases but may remain in our archives.
 
-### Links to Other Web Sites
+## Links to Other Web Sites
 
 The SupplyFrame Offerings may contain links to other web sites that are not owned or controlled by SupplyFrame. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites. Please be aware that the terms of the Privacy Policy do not apply to any outside web sites.
 
-### Privacy of Minors
+## Privacy of Minors
 
 We do not intentionally collect or maintain information from persons under the age of 18.
 
-### Security and Confidentiality
+## Security and Confidentiality
 
 SupplyFrame is committed to safeguarding and securing the information we collect online. We use a variety of industry-standard security technologies and procedures to help protect your Personal Information from unauthorized access, use, or disclosure. We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. However, no company, including SupplyFrame, can fully eliminate security risks associated with Personal Information.
 
-### Changes in this Privacy Policy
+## Changes in this Privacy Policy
 
 As part of the Terms of Service, this Privacy Policy is subject to occasional amendment, in accordance with the terms of the Terms of Service.
 
-### Contact Us
+## Contact Us
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to [legal@SupplyFrame.com](mailto:legal@SupplyFrame.com).
