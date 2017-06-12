@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000318id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldatlas.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612114457id_/http%3A//www.worldatlas.com/policy.htm) for the most accurate reproduction.*
 
 # Worldatlas.com and Graphic Maps Privacy Policy
 
@@ -54,31 +54,31 @@ worldatlas.com web hosting provided by [rackspace.com](http://www.rackspace.com/
 The Richest Countries In The World
 
 ](https://web.archive.org/articles/the-richest-countries-in-the-world.html)
-  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html) [
+  * [ ](https://web.archive.org/articles/the-largest-countries-in-the-world-the-biggest-nations-as-determined-by-total-land-area.html) [
 
-Most Dangerous Cities in the World
+The Largest Countries in the World
 
-](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html)
-  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-united-states.html) [
-
-Most Dangerous Cities In The United States
-
-](https://web.archive.org/articles/most-dangerous-cities-in-the-united-states.html)
+](https://web.archive.org/articles/the-largest-countries-in-the-world-the-biggest-nations-as-determined-by-total-land-area.html)
   * [ ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html) [
 
 The 10 Smallest Countries In The World
 
 ](https://web.archive.org/articles/the-10-smallest-countries-in-the-world.html)
+  * [ ](https://web.archive.org/articles/safest-countries-in-the-world.html) [
+
+The 25 Safest Countries In The World
+
+](https://web.archive.org/articles/safest-countries-in-the-world.html)
+  * [ ](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html) [
+
+Most Dangerous Cities in the World
+
+](https://web.archive.org/articles/most-dangerous-cities-in-the-world.html)
   * [ ](https://web.archive.org/articles/29-largest-armies-in-the-world.html) [
 
 29 Largest Armies In The World
 
 ](https://web.archive.org/articles/29-largest-armies-in-the-world.html)
-  * [ ](https://web.archive.org/articles/29-most-obese-countries-in-the-world.html) [
-
-29 Most Obese Countries In The World
-
-](https://web.archive.org/articles/29-most-obese-countries-in-the-world.html)
 
 
 
