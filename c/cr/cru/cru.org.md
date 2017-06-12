@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016140019id_/https%3A//www.cru.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612024940id_/https%3A//www.cru.org/about/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy
 
-### Last Updated: September 2005
+### Last Updated: May 2017
 
-Cru.org is a Web site (Site) of Campus Crusade for Christ International.  This Site is one of the family of Sites operated by various ministries related to Campus Crusade for Christ.  When we use the terms "we" "us" or "our," we refer to Campus Crusade for Christ International and affiliated ministries ("Our Organization").   
+Cru.org is a Web site (Site) of Campus Crusade for Christ International.  This Site is one of the family of Sites operated by various ministries related to Campus Crusade for Christ.  When we use the terms “we” “us” or “our,” we refer to Campus Crusade for Christ International and affiliated ministries (“Our Organization”).   
 
 Please know that we are committed to protecting and appropriately handling the private and personal information of users and visitors to this Site.  We are publishing this Privacy Statement to let you know how we handle personal information in this Site.  We may, from time-to-time, update this privacy notice so we encourage you to periodically review this policy.  We will notify you about material changes in the way we treat personal information by placing a notice on our site.
 
 **1.   **Using this Site.  
 
-Please read our [Terms of Use](https://web.archive.org/about/terms-of-use.html) (the "Terms of Use") to find out more about the requirements for using this Site. 
+Please read our [Terms of Use](https://www.cru.org/about/terms-of-use.html) (the “Terms of Use”) to find out more about the requirements for using this Site. Please note that individual applications like MPDX and Mission Hub may be governed by Terms of Use customized for that specific application.  
+
 
 **2.  Collection and Use of Information.**  
 
@@ -20,7 +21,7 @@ Generally, we will not disclose or share any visitor information (including your
 
 **3\. Registering on the Site.**   
 
-We give visitors to certain Sites the opportunity to register or provide their contact information such as their e-mail address so they can receive updates such as news reports, project or organization reports, opportunities for personal and financial involvement and promotional information.  You may also be required to register on the Site to engage in other activities, such as purchases or downloads of materials, services, products, donations, receiving promotions, registering for conferences or activities, or registering for chat rooms or public forums.  Personally identifiable information that you provide in these registrations is used consistently with this policy and we will notify you at a particular site if any uses are different than these uses.  You can choose not to receive such mailings, or cancel any registrations, by un-subscribing.  (See "Opt-In/Opt-Out Communications" below).
+We give visitors to certain Sites the opportunity to register or provide their contact information such as their e-mail address so they can receive updates such as news reports, project or organization reports, opportunities for personal and financial involvement and promotional information.  You may also be required to register on the Site to engage in other activities, such as purchases or downloads of materials, services, products, donations, receiving promotions, registering for conferences or activities, or registering for chat rooms or public forums.  Personally identifiable information that you provide in these registrations is used consistently with this policy and we will notify you at a particular site if any uses are different than these uses.  You can choose not to receive such mailings, or cancel any registrations, by un-subscribing.  (See “Opt-In/Opt-Out Communications” below).
 
 **4.  Security.**
 
@@ -30,7 +31,7 @@ We cannot guarantee that the security measures we implement in connection with t
 
 **5.  Public Forums.**
 
-Certain of our Sites may make Forums (as defined in the [Terms of Use](https://web.archive.org/about/terms-of-use.html) ) available to its registered users.  We might operate these Forums or they may be operated by outside groups.  We are not responsible for the content posted in any chat rooms or other Forum.  Please remember that any information disclosed in any Forum becomes public information and you should exercise caution when deciding to disclose any personal information.  Also, any information you submit to our Sites is the property of our Sites unless the Site indicates otherwise.  If you post personal information online that is accessible to the public (in any Forum, message board, or "chat" environment), you may receive unsolicited messages from other parties in return.
+Certain of our Sites may make Forums (as defined in the [Terms of Use](https://www.cru.org/about/terms-of-use.html) ) available to its registered users.  We might operate these Forums or they may be operated by outside groups.  We are not responsible for the content posted in any chat rooms or other Forum.  Please remember that any information disclosed in any Forum becomes public information and you should exercise caution when deciding to disclose any personal information.  Also, any information you submit to our Sites is the property of our Sites unless the Site indicates otherwise.  If you post personal information online that is accessible to the public (in any Forum, message board, or “chat” environment), you may receive unsolicited messages from other parties in return.
 
 **6.  Cookies and Information Collected by Technology.**
 
@@ -44,7 +45,7 @@ The Site may contain links to other Web sites that are run by third parties such
 
 You must read the privacy policy of the third party Web site concerning how personal information will be used.  We also provide content created by third-parties on certain of our Sites.  We are not responsible for the privacy practices or the content of such Content Providers or Third-Party Sites. 
 
-**8.  Special Rules for Children. ** 
+**8.  Special Rules for Children. **
 
 We do not collect more personally identifiable information from children under the age of 13 than is necessary for them to participate in our online or other activities such as registering for a conference or downloading materials.
 
@@ -62,8 +63,8 @@ The Site may offer different options for accessing, changing and modifying infor
 
 **11.  Contacting Our Organization.**
 
-A link named "Contact" may be provided on pages of Our Site.  Please click on this link to send an e-mail to Our Organization's support staff and we will work to ensure your query is answered or passed on to the appropriate person in a timely manner. You can contact Us about Your Personal Information at: Campus Crusade for Christ International, 100 Lake Hart Drive, Orlando, FL 32832.
+A link named “Contact” may be provided on pages of Our Site.  Please click on this link to send an e-mail to Our Organization's support staff and we will work to ensure your query is answered or passed on to the appropriate person in a timely manner. You can contact Us about Your Personal Information at: Campus Crusade for Christ International, 100 Lake Hart Drive, Orlando, FL 32832.
 
 **12.   Your California Privacy Rights.**
 
-Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2005 will receive information regarding 2004 sharing activities).  Please be aware that not all information sharing is covered by the "Shine the Light" requirements.
+Beginning January 1, 2005 under California's “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2005 will receive information regarding 2004 sharing activities).  Please be aware that not all information sharing is covered by the “Shine the Light” requirements.
