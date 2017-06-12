@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybridlava.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201104100id_/http%3A//www.hybridlava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridlava.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612152754id_/http%3A//www.hybridlava.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HybridLavaHybridLava
 
