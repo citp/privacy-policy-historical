@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveylot.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223232254id_/http%3A//www.surveylot.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveylot.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612152651id_/http%3A//surveylot.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Paid Surveys - Privacy Policy
 
