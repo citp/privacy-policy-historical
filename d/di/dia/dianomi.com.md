@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227171635id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dianomi.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612141122id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - dianomi - intelligent customer acquisition
 
@@ -18,7 +18,7 @@ We (and, if appropriate, our advertising partners) may also use your personal in
 
 When you submit your personal information on the Website, you are giving your consent to the collection, use and disclosure of such information as set forth in this Privacy Policy. 
 
-If you don't want to receive information on other products and services, please contact us via email: [sales@dianomi.com](mailto:sales@dianomi.com) or write to us: dianomi ltd, 18 Buckingham Gate, London SW1E 6LB. 
+If you don't want to receive information on other products and services, please contact us via email: [sales@dianomi.com](mailto:sales@dianomi.com) or write to us: dianomi ltd, 10 Greycoat Place, London SW1P 1SB. 
 
 **2\. Disclosure of Personal Information**
 
@@ -70,8 +70,8 @@ Calls to and from dianomi may be recorded for quality and training purposes.
 If you have any questions or comments on this Privacy Policy please contact us at _[customerservices@dianomi.com](mailto:customerservices@dianomi.com)_. 
 
 Dianomi Ltd   
-18 Buckingham Gate   
+10 Greycoat Place   
 London   
-SW1E 6LB 
+SW1P 1SB 
 
 This Privacy Policy is dated 18th November, 2011 
