@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macauhr.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212092600id_/http%3A//www.macauhr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macauhr.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612203628id_/http%3A//www.macauhr.com/privacy) for the most accurate reproduction.*
 
 # macauHR.com - Privacy Policy - Macau Job search, Macau Recruitment, Macau Find Jobs, Macau Hotels, Human Resources, Job Vacancies
 
