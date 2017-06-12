@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507162927id_/http%3A//www.brockport.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brockport.edu privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612224732id_/https%3A//www.brockport.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: The College at Brockport
 
@@ -54,7 +54,7 @@ Finally, we may aggregate and disclose information collected through this websit
 
 ## Security
 
-We are strongly committed to protecting _personal information_ collected through our website against unauthorized access, use or disclosure. Confidentiality, integrity, and availability of informationÂ are staples of our security goals which drive our procedures. Consequently, we limit employee access to _personal information_ from this website to only those employees who need access to perform a specific job. Security measures have been integrated into the design, implementation and day-to-day operations of this site as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. Our procedures include, but are not limited to, authentication, authorization, monitoring, auditing, and encryption. 
+We are strongly committed to protecting _personal information_ collected through our website against unauthorized access, use or disclosure. Confidentiality, integrity, and availability of information are staples of our security goals which drive our procedures. Consequently, we limit employee access to _personal information_ from this website to only those employees who need access to perform a specific job. Security measures have been integrated into the design, implementation and day-to-day operations of this site as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. Our procedures include, but are not limited to, authentication, authorization, monitoring, auditing, and encryption. 
 
 NOTE: The information contained in this policy should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via this website. For site security purposes and to ensure that this website remains available to all users, we employ software to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage to this site. 
 
@@ -120,7 +120,7 @@ For questions regarding this Internet privacy policy, please contact our privacy
 > Privacy Compliance Officer  
 >  The College at Brockport  
 >  350 New Campus Dr.  
->  Brockport, NYÂ  14420 
+>  Brockport, NY  14420 
 
 Policy effective 2002-06-16.  
 Amended 2009-06-10.  
