@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truefacet.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526195428id_/https%3A//www.truefacet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truefacet.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612164625id_/https%3A//www.truefacet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrueFacet
 
@@ -40,14 +40,6 @@ We may share Other Information about your activity on the Site with third partie
 
 If you have provided us Personal Data, you may access, review, and make changes to your Personal Data through your account. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of any TrueFacet marketing email. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt out of receiving transactional e-mails related to your transactions with us.
 
-## ACCESSING AND MODIFYING PERSONAL DATA AND COMMUNICATION PREFERENCES
-
-If you have provided us Personal Data, you may access, review, and make changes to your Personal Data through your account. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of any TrueFacet marketing email. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt out of receiving transactional e-mails related to your transactions with us.
-
-## ACCESSING AND MODIFYING PERSONAL DATA AND COMMUNICATION PREFERENCES
-
-If you have provided us Personal Data, you may access, review, and make changes to your Personal Data through your account. In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the "unsubscribe" link located on the bottom of any TrueFacet marketing email. We will use commercially reasonable efforts to process such requests in a timely manner. You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases. You cannot opt out of receiving transactional e-mails related to your transactions with us.
-
 ## HOW WE USE AND SHARE THE INFORMATION
 
 We use the Personal Data, the Other Information, and the Transaction Information (collectively, the "Information") to process your transactions, provide and improve the Site and our services, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, and administer our rewards and promotional programs. Also, we may share Information as described below.
@@ -63,10 +55,6 @@ We use the Personal Data, the Other Information, and the Transaction Information
   * To the extent permitted by law, we may also disclose the Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing the such information is necessary or advisable, for example, to protect the rights, property, or safety of TrueFacet or others.
 
 
-
-## HOW WE PROTECT YOUR INFORMATION
-
-We take commercially reasonable steps to protect the Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.
 
 ## HOW WE PROTECT YOUR INFORMATION
 
