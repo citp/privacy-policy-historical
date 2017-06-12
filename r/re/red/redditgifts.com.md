@@ -1,71 +1,43 @@
-> *The following text is extracted and transformed from the redditgifts.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616083424id_/http%3A//www.redditgifts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redditgifts.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612153117id_/http%3A//www.redditgifts.com/privacy) for the most accurate reproduction.*
 
 # redditgifts Privacy Policy
 
-Welcome to redditgifts! Our purpose in providing our Services is to provide a gift exchange service with the ability to match gift givers to recipients, and to allow you to shop for gifts on-site. The following Privacy Policy explains how redditgifts ("we," "us," etc.) treats the information you provide while using www.redditgifts.com (the "Site"), the redditgifts Marketplace ("Marketplace"), and all other services we provide (altogether, "Services").
+_Effective Date: September 2, 2016_
 
-Please read this Privacy Policy carefully. You can access it any time at [http://redditgifts.com/privacy/](https://web.archive.org/privacy/). Your use of and/or registration on any of our Services will constitute your agreement to our Privacy Policy. If you cannot agree with the terms and conditions of our Privacy Policy, please do not use our Services.
+We want you to understand how and why Reddit, Inc. ("Reddit," "we" or "us") collects, uses, and shares information about you when you access and use the Reddit Gifts website and other online products and services related to Reddit Gifts (collectively, the "Reddit Gifts Services" or "Reddit Gifts").
 
-In addition to reviewing this Privacy Policy, please read our [Terms of Service](https://web.archive.org/terms/). Your use of our Services constitutes agreement to its terms and conditions as well.
+The collection and use of your information in connection with the Reddit Gifts Services is subject to the [Reddit, Inc. Privacy Policy](https://www.reddit.com/help/privacypolicy/) (the "Privacy Policy"), and this Reddit Gifts Privacy Notice (the "Notice") explains some important additional things we would like you to understand about the information we collect when you access the Reddit Gifts Services and how that information is used.
 
-## What Information Our Services Collect and Use
+In addition to reviewing this Notice, please review the [Reddit Gifts Terms of Service](https://www.redditgifts.com/terms/). Your use of the Reddit Gifts Services constitutes agreement to its terms and conditions as well. As Reddit Gifts's Terms of Service prohibits users from being under 13 years of age, this Notice does not discuss use of Reddit Gifts by minors under the age of 13.
 
-_How We Collect and Use Your Personally Identifiable Information:_ We only collect personally identifying information with your specific knowledge and consent, such as when you provide it to us during the signup process. Since the purpose of our Services is to provide an online "Secret-Santa"-style gift exchange ("Gift Exchange") along with our Marketplace, we will ask for personally identifiable information that is relevant to your participation in the Gift Exchange and your transactions in the Marketplace. We will use the information you give us only as described in this Privacy Policy. We will not ask you for any information not necessary to provide the gift-exchange service.
+## Additional Information You Provide to Us
 
-_How We Use Your Email Address:_ We will use your email address to send you copies of your username and password, and to communicate updates on the statuses of any Gift Exchange in which you are participating, your Marketplace orders. We may also use it to send you any Service-related communications we think necessary.
+We collect additional information about you when you use the Reddit Gifts Services. You may be asked to provide us with personal information such as your name, address, telephone number, age, personal interests, and email address. You may also be required to provide log-in information for an existing Reddit Account or to create one before using Reddit Gifts. Any information we collect from your use of the Reddit Gifts Services may be associated with the Reddit Account being used for the Reddit Gifts Services.
 
-￼￼￼￼￼￼ 
+When using the Reddit Gifts Services, you may also choose to provide additional information to us. This may include posts, photographs, comments, messages, financial or payment information, shipping information, or other information related to your use of the Reddit Gifts Services.
 
-_Information We Collect When You Participate in a Gift Exchange:_ When you participate in a Gift Exchange, we collect data like your reddit username, real name, physical mailing address, gender, interests, etc. We need this information to match you with other redditors and to help you send and receive gifts. We won't use this information for any other purpose.
+We may share your information with other companies or individuals outside of Reddit as permitted under the Privacy Policy and as authorized by you or by your use of the Reddit Gifts Services.
 
-_Information We Collect When You Use the Marketplace:_ When you buy gifts on the Marketplace, we will collect your payment information (credit card or other payment method), your name, your email address, and your billing and shipping addresses. The shipping address you provide could be the address of a gift recipient.
+For example, when participating in a gift exchange or other transaction with another user, the other user may request and we may provide such other user with the information about you necessary to complete the exchange or transaction, such as your name, Reddit Account, email address, contact details, address, or other information about you needed to promote the success and security of the exchange or transaction. The user receiving your information is not allowed to use this information for purposes unrelated to completing the exchange or transaction. Contacting users in an unwanted manner, including for marketing purposes, is a violation of the Reddit Gifts Terms of Service and may be reported to [support@redditgifts.com](mailto:support@redditgifts.com). If an exchange or transaction fails or is otherwise unsuccessful, we may provide an alternate user with the information about you necessary to complete a substitute exchange or transaction.
 
-_Log Data:_ Our servers may also automatically collect information about your computer when you visit our Site, including (but not limited to) the type of browser software you use, the operating system you are running, the website that referred you, and your IP address, which is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We call this all "Log Data."
+We may also share non-personally identifiable information publicly and with our partners. For example, we may share information to show trends about the general use of, the participation in, or the geographic reach of the Reddit Gifts Services.
 
-We do not share Log Data with anyone, but we reserve the right to use it internally for any lawful business purpose, including helping us to diagnose problems with our servers, gathering broad demographic information, and otherwise administering our Site. We will not associate Log Data with personally identifiable information.
+Any information you decide to share with a public audience, including information in your public profile or information you submit to a public page, is available to anyone on or off of Reddit and the Reddit Gifts Services. Of course, publicly available information can be seen or accessed through search engines and most other media.
 
-## When We Share or Disclose Your Information.
+We will ask for your consent before sharing your information in a manner other than those that are set out in this Notice or in the Privacy Policy.
 
-_Information Shared During the Gift-Giving Process:_ It is your choice whether to disclose any information to a user with whom you are matched during a Gift Exchange. If you choose not to reveal any information (like your name, username, or mailing address) to the person to whom you send a gift, they will not receive any information about you at all.
+## Additional Choices
 
-_Information We Share with Merchants:_ You have the option of providing Marketplace merchants with your name and email address when you check out, but you are not required to do so. You may also provide a pseudonym, like your reddit username. We will not otherwise share your information with Marketplace merchants, unless (1) there is a dispute between you and the merchant that is irresolvable without our providing your information, which will be strictly limited to the resolution of your dispute, or (2) we believe — after due consideration — that doing so is reasonably necessary to comply with a law or an emergency involving imminent bodily harm or death requires us to disclose it.
+As a user of the Reddit Gifts Services, you have additional choices about how to protect and limit the collection, use, and disclosure of certain information about you. You may delete your account associated with the Reddit Gifts Services at any time by contacting [support@redditgifts.com](mailto:support@redditgifts.com). When you delete your account, your Reddit Gifts profile is no longer visible to other users and is disassociated from content you posted under that account. However, the posts, photographs, comments, and messages you submitted to the Reddit Gifts Services before deleting your account will still be visible to other users unless you delete such content before deleting your account. Reddit may also retain certain information about you as required by law or for legitimate business purposes after you delete your account. If you would like to delete your Reddit Account in addition to your Reddit Gifts account, please follow the process outlined in the Privacy Policy.
 
-_The Gift Gallery and Other Disclosures You Make:_ We provide you with the option to post a photograph of gifts you receive, along with notes about those gifts, on the redditgifts Gift Gallery. If you do so, your username will appear alongside the gift, as will any other information you choose to make public. We are not responsible for any of this content, or for the content of any other disclosure of your own information, personal or not, that you choose to make (like in a comment on the Gift Gallery).
+## Changes
 
-_Information We Share for Informational Purposes:_ We may use some non- personally identifiable information, like depersonalized geographic data (e.g., the ZIP codes of Gift Exchange participants) to provide information to the Reddit.com community about the geographic distribution of participating redditors. In some cases we may also retain and use your Reddit.com username in association with such informational activities.
+We may update this Notice from time to time. If we do, we will let you know by revising the date at the top of the Notice. If we make a change to this Notice that, in our sole discretion, is material, we will provide you with additional notice (such as by adding a statement to redditgifts.com or by otherwise sending you a notification). We encourage you to review this Notice whenever you access or use the Reddit Gifts Services or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-_Third-Party Payment Processing:_ As explained in our Terms of Service, we used Balanced as a third-party payment processor. When you transmit payment information through the redditgifts Marketplace, you agree to be bound by Balanced's terms and conditions (available at https:// www.balancedpayments.com/terms), along with its privacy policy (available at https://www.balancedpayments.com/privacy).
+If you have any questions about this Reddit Gifts Privacy Notice, please email [legal@reddit.com](mailto:legal@reddit.com).
 
-_When Laws or Emergencies Require Us to Disclose Information:_ We may preserve or disclose your information if we believe — after due consideration — that doing so is reasonably necessary to comply with a law, regulation, or legal request; to protect the safety of any person; to address fraud, security, or technical issues; or to protect our rights or property.
+#### Previous Versions
 
-## Cookies and Analytics
+  * [Version 1](https://www.redditgifts.com/privacy/version_1/)
 
-_What Are Cookies and How Do We Use Them?_ We use cookies, small data files that we transfer to your computer to help us remember information about you and keep track of how you use our Services. We may use cookies to record registration and personalization information, and to keep track of analytics data for our Services (via third-party services). For example, if you register on any part of our Site and are given the option to save your user￼name and password on your computer, we can provide this convenience to you by placing a cookie on your computer so that you don't have to enter that information again (unless you clear your cookies).
 
-_Blocking and Clearing Cookies:_ If you don't want to allow cookies, your Web browser likely includes an option that allows you to clear your cookies or reject them altogether. However, if you set your browser to refuse cookies, some portions of our Site may not function properly.
-
-_Third-Party Analytics Services:_ We also use third-party services like Google Analytics so that we can monitor aggregate usage, traffic information, an other analytics data on our Services. These services may run scripts and place cookies on your machine. They do not receive any personal information about you.
-
-## Deleting Your Account
-
-If you decide you would like to delete your account you must email us at support@redditgifts.com. You must email us from the email address associated with your account and provide your reddit username.
-
-## Third-Party Links
-
-Sometimes you will find links to third-party sites on our Services, like on merchants' product or profile pages. If you click those links, you leave our Site and are subject to those third parties' privacy policies and other terms. redditgifts is not responsible for any such third party's activities. We encourage you to read their privacy policies, since they may differ from ours.
-
-## Information Security and Notification
-
-Because no data transmission over the Internet is completely secure, and no system of physical or electronic security is impenetrable, we cannot guarantee the security of the information you send to us or the security of our servers or databases. By using our Services, you agree to assume all risk in connection with the information sent to us or collected by us when you use our Services. In the unlikely event that we believe that the security of your information in our possession or control may have been compromised, we may seek to notify you by email (provided we have your e-mail address).
-
-## Minors
-
-Users under the age of 14 are not permitted to use any redditgifts Services.
-
-## Changes to This Policy
-
-We reserve the right to change this Policy, and we may do so when our Services change or for any other reason. If we do so, we will make reasonable efforts to notify you of material changes by email or by posting a notice on this page.
-
-## Contact
-
-If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator at support@redditgifts.com.
