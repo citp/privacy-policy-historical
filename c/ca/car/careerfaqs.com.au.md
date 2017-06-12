@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074235id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612164647id_/http%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
-##  Career FAQs Pty Ltd (ACN 111 754 799) (“ **Career FAQs** ” or “ **we** ”), cares about the privacy of its users (“ **you** ”) and understands the importance of protecting any personal information we collect about you as well as clearly disclosing to you what we may do with your personal information.
+Career FAQs Pty Ltd (ACN 111 754 799) (“Career FAQs” or “we”), cares about the privacy of its users (“you”) and understands the importance of protecting any personal information we collect about you as well as clearly disclosing to you what we may do with your personal information.
 
 We are committed to protecting the privacy of our customers and observe the Australian Privacy Principles (“ **APP** ”) pursuant to the Privacy Act 1988 (Cth) (as amended).
 
