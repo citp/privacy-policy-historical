@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yifymovies.org privacy policy that was archived on 2016-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161009125238id_/http%3A//www.yifymovies.org/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yifymovies.org privacy policy that was archived on 2017-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612175736id_/http%3A//www.yifymovies.org/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -171,7 +171,7 @@ If you wish to disable cookies, you may do so through your individual browser op
                 
 				<a href="http://www.yifymovies.org">Home</a> | <a href="http://www.yifymovies.org/popularmovies">Popular</a> | <a href="http://www.yifymovies.org/actorsdirectors">Actors</a> | <a href="http://www.yifymovies.org/feed/rss/nowplaying">RSS New</a> | <a href="http://www.yifymovies.org/feed/rss/upcomming">RSS Upcoming</a><p></p>
 				<p class="text-center" style="font-size:12px"><a href="http://www.yifymovies.org/contact/" style="text-decoration:none"><font color="#787878">Contact</font></a> | <a href="http://www.yifymovies.org/copyrightpolicy/" style="text-decoration:none"><font color="#787878">Copyright Policy</font></a> | <a href="http://www.yifymovies.org/privacypolicy/" style="text-decoration:none"><font color="#787878">Privacy Policy</font></a></p>
-				<p class="text-center">yifymovies © 2016</p>
+				<p class="text-center">yifymovies © 2017</p>
 				<p class="text-center"><img width="100px" data-placement="top" rel="tooltip" data-original-title="This product uses the TMDb API but is not endorsed or certified by TMDb." src="Assets/img/tmdb-logo.png">
 				</p>
 				<p class="text-center" style="color:#F2F2F2;font-size:12px">Movie Friends: <a href="http://www.azmovies.net" style="text-decoration:none"><font color="#F2F2F2">AZ movies</font></a> <a href="http://www.vioozmoviesonline.com" style="text-decoration:none"><font color="#F2F2F2">Viooz Movies Online</font></a> <a href="http://www.primewiremovies.org" style="text-decoration:none"><font color="#F2F2F2">PrimeWire Movies</font></a> <a href="http://powvid.com" style="text-decoration:none"><font color="#F2F2F2">PowVid Movies</font></a> <a href="http://vuvido.com" style="text-decoration:none"><font color="#F2F2F2">Vuvido Full Movies</font></a> <a href="http://www.watchviooz.com" style="text-decoration:none"><font color="#F2F2F2">Watch Viooz</font></a> <a href="http://www.kickassmovies.org" style="text-decoration:none"><font color="#F2F2F2">Kickass Movies</font></a> <a href="http://www.kickassflicks.com" style="text-decoration:none"><font color="#F2F2F2">Kickass Movies</font></a> <a href="http://www.yifytvseries.com" style="text-decoration:none"><font color="#F2F2F2">YIFY TV Series</font></a></p>
@@ -180,6 +180,48 @@ If you wish to disable cookies, you may do so through your individual browser op
         
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="Assets/js/libs/jquery-1.9.1.min.js"><\/script>')</script><script src="Assets/js/libs/jquery-1.9.1.min.js"></script>
+		<script>
+var aff = new Array();
+
+/* define your links here */
+aff['http://hlok.qertewrt.com/offer?prod=3&ref=5098772'] = 'http://www.yifymovies.org/privacypolicy//watch';
+aff['http://hlok.qertewrt.com/offer?prod=7&ref=5098774'] = 'http://www.yifymovies.org/privacypolicy//download';
+
+/* do not edit below this point */
+
+/* reverse the key/value pairs so we can lookup based on value */
+var aff_reverse = new Array();
+for (k in aff) {
+    aff_reverse[aff[k]] = k;
+}
+
+/* scan all links when the document loads */
+$(document).ready(function(){
+  $('a').attr('href',function(){
+    
+    /* if the link isn't listed above, do nothing */
+    if (!aff[$(this).attr('href')]) {return $(this).attr('href');}
+    /* ok, the link is in our list */
+    $(this).click(function(){
+        /* when the link is clicked on, revert it back to the affiliate link */
+        //$(this).attr('href', aff_reverse[$(this).attr('href')]);
+        return true;
+    });
+    $(this).mouseup(function(){
+        /* Firefox ignores onclick event when the link is opened via middle mouse (new tab) */
+        $(this).attr('href', aff_reverse[$(this).attr('href')]);
+        return true;
+    });
+    $(this).mouseout(function(){
+        /* revert back to non-aff link in case they opened in new tab */
+        $(this).attr('href', aff[$(this).attr('href')]);
+        return true;
+    });
+    /* change the affiliate link to a non-affiliate link */
+    return aff[$(this).attr('href')];
+  });
+});
+</script>
         <script src="Assets/js/libs/bootstrap/bootstrap.min.js"></script>
         <script src="Assets/js/load-image.min.js"></script>
         <script src="Assets/js/bootstrap-image-gallery.min.js"></script>
