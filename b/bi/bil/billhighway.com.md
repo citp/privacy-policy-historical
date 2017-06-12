@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315172825id_/http%3A//www.billhighway.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612203408id_/http%3A//www.billhighway.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Billhighway
 
@@ -6,7 +6,7 @@
 
 **Any information given to us from you, whether personal or group based is confidential. We want you to understand how the Billhighway process works and how we collect and use the personal information you provide to us on www.billhighway.com, so we ask that you carefully read our Privacy and Security Policy.**
 
-Billhighway has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, billhighway.staging.wpengine.comm. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request/>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=1c1e0f80-3c17-4c77-bc0f-d3ebb4d60cb7 "TRUSTe Privacy Certification")
 
@@ -40,7 +40,7 @@ While going through the registration process at our website you submit personal 
 
 ### Accurate and Updated Information
 
-If your personal information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page, by emailing our Customer Support at support@billhighway.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
+Upon request, Billhighway will provide you with information about whether we hold any of your personal information. If your personal information changes, or if you no longer desire our service, you may update or delete it by making the change on our member information page, by emailing our Customer Support at support@billhighway.com or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 The Billhighway infrastructure is designed to keep records accurate, current and complete. You will have the ability to see your personal information each time you login to the Billhighway website, or, if you would prefer, emailing us at support@billhighway.com during regular business hours. If you see your records are incomplete, inaccurate or not current, please email, write or call us and we will investigate the matter and correct the information.
 
@@ -60,7 +60,7 @@ We use this information, which does not identify individual users, to analyze tr
 
 Technologies such as: cookies, beacons, tags and scripts are used by Billhighway, affiliates, or analytics. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual, as well as aggregated basis.
 
-We use cookies to remember user and organization preferences/settings [e.g. reminder and pop up preferences, organization names, etc.]. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+We use cookies to remember user and organization preferences/settings (e.g. reminder and pop up preferences, organization names, etc.). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
 Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
@@ -96,6 +96,8 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 
 ### Disclosure Policy
 
+In certain situations, Billhighway may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 In the event Billhighway goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
@@ -116,4 +118,4 @@ Troy, MI 48084
 
 Thank you for using Billhighway!
 
-Effective Date: 03/15/16
+Effective Date: 09/26/16
