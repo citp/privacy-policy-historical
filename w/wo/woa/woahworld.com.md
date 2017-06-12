@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the woahworld.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041614id_/http%3A//www.woahworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woahworld.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612145452id_/http%3A//www.woahworld.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# WOAHWORLD PRIVACY POLICY
 
-WOAHWORLD PRIVACY POLICY 
+WOAHWORLD PRIVACY POLICY
 
 _Last updated: June 6, 2016,_
 
-Thank you for visiting our website. Your privacy is important to us, and we have adopted this Privacy Policy to memorialize our data collection, use and disclosure practices for our website located at the [http://woahworld.com](http://woahworld.com/) domain, along with its related tools and services (the "Website"). The Website is owned and operated by Audience Drive, LP ("AudienceDrive," "we," "us" or "our"). This Privacy Policy applies to anyone using or browsing our Website and to information provided to us via the Website by you or other visitors or users of our Website ("you" or "your" or "users"). 
+Thank you for visiting our website. Your privacy is important to us, and we have adopted this Privacy Policy to memorialize our data collection, use and disclosure practices for our website located at the [http://www.woahworld.com](https://web.archive.org/) domain, along with its related tools and services (the "Website"). The Website is owned and operated by Audience Drive, LP ("AudienceDrive," "we," "us" or "our"). This Privacy Policy applies to anyone using or browsing our Website and to information provided to us via the Website by you or other visitors or users of our Website ("you" or "your" or "users"). 
 
 **CONSENT**
 
@@ -50,7 +50,7 @@ Please email us at [privacy@audiencedrive.com](mailto:privacy@audiencedrive.com)
 
 Non-Personal Information (including aggregate, technical or demographic information) can also be collected through the standard operation of our internet servers and logs as well as other automatic data collection tools such as "cookies," "web beacons" and other similar web technologies. A "cookie" is a small amount of data that is recorded either temporarily or persistently on your hard drive and that a website can use in order to recognize visitors who revisit the website so as to facilitate their ongoing access to and use of the website. Information we may collect through cookies and other similar technologies includes your browser type, language preference, operating system, referring website (if applicable), your IP address, the name and type of your computer or mobile device, the operating system of your device, your general geographic location, the date and time of each user visit or request, and the Website endpoints that you accessed or visited during your use of the Website. In addition to other uses as described in this Privacy Policy, we may gather the information we collect from each user and perform statistical analysis of the aggregated information, including analysis about the behavior of visitors to our Website on an aggregated, anonymous basis. 
 
-Any Non-Personal information we collect from you through the use of our cookies, web beacons and other web technologies may also be used by us and shared with our affiliated companies to target advertising to you on the Website. We may also allow unaffiliated third-party companies such as advertising networks to serve ads and/or collect anonymous, Non-Personal Information when you visit our Website. These unaffiliated third-party companies may collect and use Non-Personal Information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) in order to provide advertisements about goods and services likely to be of greater interest to you. This collection and use of Non-Personal Information would be governed by those unaffiliated third-party companiesâ€™ own privacy policies. These companies typically use a cookie or third party web beacons to collect this information. To learn more about this behavioral advertising practice or to opt out of this type of advertising for participating companies, you can visit [**http://www.networkadvertising.org**](http://www.networkadvertising.org/) **.** Please note that if you delete your cookies or use a different browser, a different computer, or other device, you will need to opt out of this type of advertising again. 
+Any Non-Personal information we collect from you through the use of our cookies, web beacons and other web technologies may also be used by us and shared with our affiliated companies to target advertising to you on the Website. We may also allow unaffiliated third-party companies such as advertising networks to serve ads and/or collect anonymous, Non-Personal Information when you visit our Website. These unaffiliated third-party companies may collect and use Non-Personal Information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) in order to provide advertisements about goods and services likely to be of greater interest to you. This collection and use of Non-Personal Information would be governed by those unaffiliated third-party companies’ own privacy policies. These companies typically use a cookie or third party web beacons to collect this information. To learn more about this behavioral advertising practice or to opt out of this type of advertising for participating companies, you can visit [**http://www.networkadvertising.org**](http://www.networkadvertising.org/) **.** Please note that if you delete your cookies or use a different browser, a different computer, or other device, you will need to opt out of this type of advertising again. 
 
 We support the development and implementation of a standard "do not track" browser feature that provides customers with control over the collection and use of information about their web-browsing activities. Once a standardized "do not track" feature is released, we intend to adhere to the browser settings accordingly. 
 
@@ -58,7 +58,7 @@ You may prevent our use of cookies to collect Non-Personal information about you
 
 **CHILDREN**
 
-We do not knowingly collect Personal Information from children less than 18 years of age. Nor do we authorize or permit children less than 18 years of age to use the Website. If we learn that we have inadvertently collected Personal Information from a child under the age of 18, upon receipt of notice from the child or the childâ€™s parent or legal guardian, we will delete that childâ€™s Personal Information and/or disable such information from being viewed or accessed by any other user or other third party. 
+We do not knowingly collect Personal Information from children less than 18 years of age. Nor do we authorize or permit children less than 18 years of age to use the Website. If we learn that we have inadvertently collected Personal Information from a child under the age of 18, upon receipt of notice from the child or the child’s parent or legal guardian, we will delete that child’s Personal Information and/or disable such information from being viewed or accessed by any other user or other third party. 
 
 **INFORMATION SECURITY**
 
@@ -66,13 +66,13 @@ We utilize a number of reasonable information security measures to safeguard you
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-A California resident who has provided Personal Information to a business with whom she or he has established a business relationship for personal, family, or household purposes ("California Customer") is entitled to request information about whether the business has disclosed her or his Personal Information to any third parties for the third partiesâ€™ direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed. 
+A California resident who has provided Personal Information to a business with whom she or he has established a business relationship for personal, family, or household purposes ("California Customer") is entitled to request information about whether the business has disclosed her or his Personal Information to any third parties for the third parties’ direct marketing purposes. In general, if the business has made such a disclosure of Personal Information, upon receipt of a request by a California Customer, the business is required to provide a list of all third parties to whom Personal Information was disclosed in the preceding calendar year, as well as a list of the categories of Personal Information that were disclosed. 
 
 Currently, we do not intend to share your Personal Information with third parties for their own direct marketing purposes. 
 
-Please note that whenever you choose to share your Personal Information with a third party or to allow your Personal Information to be shared with a third party to communicate with you, your information will be subject to the third partyâ€™s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use your Personal Information and other information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. 
+Please note that whenever you choose to share your Personal Information with a third party or to allow your Personal Information to be shared with a third party to communicate with you, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use your Personal Information and other information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. 
 
-California Customers may request further information about our compliance with Californiaâ€™s privacy law by emailing [privacy@audiencedrive.com](mailto:privacy@audiencedrive.com) or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this email address. 
+California Customers may request further information about our compliance with California’s privacy law by emailing [privacy@audiencedrive.com](mailto:privacy@audiencedrive.com) or contacting us as stated below. Please note that we are only required to respond to one request per customer per year, and we are not required to respond to requests made by means other than through this email address. 
 
 **YOUR CONTENT**
 
@@ -88,14 +88,9 @@ Your continued use of the Website following the effective date of an updated Pri
 
 To ask questions about our Privacy Policy, obtain more information, or to lodge a complaint, please contact us at: 
 
-Audience Drive, LP 
-
-Attention: Office of the General Counsel 
-
-116 Pine Street 
-
-3rd Floor, Suite 320 
-
-Harrisburg, PA 17101 
-
+Audience Drive, LP  
+Attention: Office of the General Counsel  
+116 Pine Street  
+3rd Floor, Suite 320  
+Harrisburg, PA 17101  
 Email: [privacy@audiencedrive.com](mailto:privacy@audiencedrive.com)
