@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dailystar.com.ng privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020194040id_/http%3A//dailypost.ng/dailystar/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailystar.com.ng privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204406id_/http%3A//dailypost.ng/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-Policy - Daily Star Nigeria
+# Privacy-Policy - Daily Post Nigeria
 
-_DailyStar  _may collect information from our users at several different points on the site.   _DailyStar_ is the sole owner of the information collected on _  _DailyStar__.com.ng
+DailyPost may collect information from our users at several different points on the site. Daily Post Media Limited is the sole owner of the information collected on dailypost.ng
 
 **Comments and Posts**
 
-_DailyStar_  users can choose to write comments or posts on the site. To leave a comment, users must submit information including a valid email address.  _DailyStar_  uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
+___DailyPost___  users can choose to write comments or posts on the site. To leave a comment, users must submit information including a valid email address.  _ _DailyPost__  uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
 
 **Newsletters**
 
-_DailyStar_  offers email newsletters. To sign up to receive regular emails, users must submit information including a valid email address. This information will be used in aggregate form to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
+___DailyPost___  offers email newsletters. To sign up to receive regular emails, users must submit information including a valid email address. This information will be used in aggregate form to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails, including new articles added to the site.
 
 **Log Files**
 
@@ -18,15 +18,15 @@ Like most standard Web site servers we use log files. These include internet pro
 
 **Legal Disclaimer**
 
-Though we make every effort to preserve user privacy,  _DailyStar_  may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+Though we make every effort to preserve user privacy,  _ _DailyPost__  may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
 
 **Business Transitions**
 
-In the event  _DailyStar_  goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
+In the event  _ _ _DailyPost___  goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
 **Links**
 
-_DailyStar_  contains links to other sites. Please be aware that _  _DailyStar__  is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by  _DailyStar_.
+___DailyPost___  contains links to other sites. Please be aware that _  _ _DailyPost___  is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by  _ _DailyPost__.
 
 **Third Party Advertising**
 
@@ -34,8 +34,8 @@ The ads appearing on this Web site are delivered to users by Google, among other
 
 **Notification of Changes**
 
-Whenever  _DailyStar_  changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
+Whenever  _ _ _DailyPost___  changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
 **Contact Information**
 
-If you have any questions or suggestions regarding our privacy policy, please  send an email to   **  info@dailystar.com.ng** .
+If you have any questions or suggestions regarding our privacy policy, please end an email to **box@dailpost.ng**  .
