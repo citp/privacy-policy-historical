@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepower7.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207175842id_/http%3A//gamepower7.com/en/node/199) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepower7.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612214031id_/http%3A//gamepower7.com/en/node/199) for the most accurate reproduction.*
 
 # Privacy Policy | Game Power 7
 
@@ -9,6 +9,13 @@ By using our Web site you fully agree and obliged to comply with the terms and c
 Company reserves the rights on its sole discretion to update the Privacy Policy at any reasonable times by placing a new version on Web site. Therefore, Company encourages you to periodically check back and review this Privacy Policy so that you always will keep abreast and know the changes.
 
 If you do not agree with this Privacy Policy or with its any modified version, please do not use Web sites. By continuing of using Web sites you automatically accept the updated version of Privacy Policy.
+
+Logo use
+
+  * Game power 7 gives the journalists and authors the right of using its logo in their articles or news related to the company.
+  * Game Power 7  prevent using its logo for commercial purposes without a permission.
+
+
 
 ###  The Data Company collects
 
