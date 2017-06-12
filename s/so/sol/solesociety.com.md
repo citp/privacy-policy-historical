@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127154242id_/http%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solesociety.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612181558id_/http%3A//www.solesociety.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,6 +20,8 @@ We receive and store certain types of information whenever you interact with our
 
 Usage information, such as the numbers and frequency of visitors to our site and its components may also be used in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and our Website, so that they, too, may provide you with an optimal online experience. Sole Society never discloses aggregate information to a partner in a manner that would identify you personally.
 
+Furthermore, the Site may share with or provide third-parties and affiliates access to your personally-identifiable and non-personally-identifiable information through joint marketing campaigns or when we believe you would benefit from receiving contact from that party. The Site will not share any of your personally-identifiable financial information with any third-party or affiliate that is not otherwise privy to such information as previously described within this Privacy Policy.
+
 **E-mail Communications:**
 
 We may receive a confirmation when you open an email from Sole Society if your computer supports this type of program. Sole Society uses this confirmation to help us make emails more interesting and helpful and improve our service. If you do not want to receive email or other mail from us, please indicate your preference by making a modification on your account page, or by using the "Unsubscribe" feature in any email we send to you.
@@ -37,11 +39,16 @@ Our advertising partners may also transmit cookies to your browser or device, wh
 **Information Collected From Other Websites and Do Not Track Policy**  
 Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services.  Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy.  Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and across different websites.  Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
+**California Privacy Disclosure:**
+
+California law permits California residents to request a list of personally-identifiable data that we have collected and may have shared with third parties, including: (i) a list of the categories of personal information about you that we have disclosed to third parties for direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed sufficient to give you a reasonable indication of the nature of the third parties' business.  **  
+**
+
 **WILL SOLE SOCIETY SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?**
 
 Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
 
-**Affiliated Businesses We Do Not Control:** We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses sell items to you through Sole Society's Website. In other situations, Sole Society provides services, or sells products jointly with affiliated businesses.  You can recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.  One such service may include the ability for you to automatically transmit Third Party Account information to your profile on the Website or to automatically transmit information from Sole Society’s services to your Third Party Account.  Additionally, if you sign into the Website through a third party social networking site or service, your list of “friends” from that site or service may be automatically imported to the Website, and such “friends,” if they are also registered users of the Website, may be able to access certain information you have entered in your Website user profile.  We do not control the policies and practices of any other third party site or service.
+**Affiliated Businesses We Do Not Control:** We are affiliated with a variety of businesses and work closely with them. In certain situations, these businesses sell items to you through Sole Society's Website. In other situations, Sole Society provides services, or sells products jointly with affiliated businesses.  You can recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.  One such service may include the ability for you to automatically transmit Third Party Account information to your profile on the Website or to automatically transmit information from Sole Society’s services to your Third Party Account.  Additionally, if you sign into the Website through a third party social networking site or service, your list of “friends” from that site or service may be automatically imported to the Website, and such “friends,” if they are also registered users of the Website, may be able to access certain information you have entered in your Website user profile.  We do not control the policies and practices of any other third party site or service. 
 
 **Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Sole Society's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
@@ -89,3 +96,5 @@ If you have any questions or concerns regarding privacy at Sole Society site, pl
 8511 Steller Drive  
 Culver City, CA 90232  
 Effective Date: April 11, 2012
+
+UPDATED MARCH 2, 2017.
