@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaljetstream.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008094347id_/https%3A//www.digitaljetstream.com/2.0/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaljetstream.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612165733id_/http%3A//www.digitaljetstream.com/2.0/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,7 +78,7 @@ We cooperate with government and law enforcement officials to enforce and comply
 
 ## Correcting/Updating Personal Information
 
-If a customer's information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at [Client Area](https://www.digitaljetstream.com/whmcs/clientarea.php "DigitalJetstream Billing") or by emailing us at This email address is being protected from spambots. You need JavaScript enabled to view it." ' + path + '\'' + prefix + ':' + addy35849 + '\'>'+addy_text35849+'<\/a>'; //--> .
+If a customer's information changes, or if a customer no longer desires our services, we will endeavor to provide a way to correct, update or remove that customer's personal data in our records. In most cases, this can be achieved via our billing system at [Client Area](http://www.digitaljetstream.com/whmcs/clientarea.php "DigitalJetstream Billing") or by emailing us at [Support](mailto:isupport@digitaljetstream.com "Email isupport@digitaljetstream.com").
 
 ## Opt Out
 
@@ -86,7 +86,7 @@ By default, customers will receive invoices, any system updates, DigitalJetstrea
 
 ## Public Forums
 
-Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at This email address is being protected from spambots. You need JavaScript enabled to view it." ' + path + '\'' + prefix + ':' + addy38096 + '\'>'+addy_text38096+'<\/a>'; //--> . In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so.
+Please remember that any information you may disclose or post on public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. To request removal of your personal information from our community forums or testimonials, contact us at [isupport@digitaljetstream.com](mailto:isupport@digitaljetstream.com "Email isupport@digitaljetstream.com"). In some cases, we may not be able to remove your personal information, in which case we will let you know why we are unable to do so.
 
 ## Data Security
 
@@ -130,6 +130,6 @@ DigitalJetstream will seek to resolve any concerns. DigitalJetstream LLC. has a
 
 ## Questions
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at This email address is being protected from spambots. You need JavaScript enabled to view it." ' + path + '\'' + prefix + ':' + addy58248 + '\'>'+addy_text58248+'<\/a>'; //--> .
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at [info@digitaljetstream.com](mailto:info@digitaljetstream.com "Email privacy@hostgator.com").
 
-[](https://www.digitaljetstream.com/)
+[](http://www.digitaljetstream.com/)
