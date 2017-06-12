@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floryday.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210183240id_/http%3A//www.floryday.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floryday.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612193741id_/http%3A//www.floryday.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Floryday - Privacy Policy
 
