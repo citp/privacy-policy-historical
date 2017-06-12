@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2016-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160723224835id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youbeauty.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612050311id_/http%3A//www.youbeauty.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - YouBeauty
 
@@ -28,24 +28,13 @@ Other information we collect:
 
 We automatically collect information about your interaction with our Site, our advertisements and other promotional content using technologies like cookies and web beacons, and via our web server’s log files. Examples of information which may be collected by our various technologies include browser information, your device IP address, whether you clicked on one of our advertisements, pages you’ve visited on the Site, which website you came from, date and time stamp information, and other navigation and click-through information. Although information we collect through these tracking devices is not always personally identifying when collected, we may combine such information with personally identifying information like your name or email address or other information that could be used to identify you.
 
-### How we use your information
+### How we may use the information that we collect
 
-The information that we collect about you may be used by us and shared by us with third parties in any manner and for any purpose permitted by law. This may include disclosing (with or without remuneration) the personally identifying information that we collect to third parties for their marketing purposes. Once we provide your information to a third party for any reason, we do not control and are not responsible for that third party’s use or disclosure of such information. Examples of the ways we may use the information and with whom we may share the information that we collect include:
-
-  * With third parties in connection with processing or fulfilling your requests or inquiries;
-  * With companies who may use such information for their own marketing purposes, including to contact you in order to offer you their products or services, or the products or services of other third parties;
-  * With companies who may resell, exchange or otherwise provide your information to other businesses for various marketing purposes, including to contact you with offers regarding third party products or services;
-  * With advertisers whose content we publish or display, their agents, third party ad servers, and service providers;
-  * With service providers we engage to provide us with services that support our business;
-  * In response to government or regulatory agency requests, court orders, subpoenas, or as we otherwise believe to be required or permitted in connection with any applicable law, rule or regulation;
-  * As we believe necessary or desirable to protect our business, rights, safety, assets, or property, or those of a third party; to limit our legal liability; to defend our interests or the interests of you or a third party; or to enforce our [Terms of Service ](http://www.youbeauty.com/terms)or other rules; and
-  * In connection with the consolidation or sale of or other transactions related to our business.
-
-
+The information that we collect about you may be used by us in any manner and for any purpose permitted by law. This may include sharing your information, both personally identifiable information and non-personally identifiable information, with third parties for marketing purposes, including but not limited to, sending you emails r offers for goods and services that may interest you. If you do not want us to share your personally identifying information with third parties for marketing purposes, you may [opt-out here](mailto:optout@youbeauty.com).  Additionally, we may, or we may engage third parties who may, combine your personally identifiable information, such as your email address, with non-personally identifiable information such as your IP address, device ID, a unique cookie recognized on your browser, or information associated with such non-personally identifiable information such as information about your browsing history, whether collected on this site or a third-party site, for the purpose of sending you more relevant advertising, including by email.  To opt-out from this service [click here](http://www.aboutads.info/choices/).
 
 ### How You Can Opt-Out of Certain Data Sharing
 
-Any personal information collected may be shared immediately for direct marketing purposes, but you may opt-out of further sharing for direct marketing by submitting your request to[optout@youbeauty.com.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=optout@youbeauty.com)
+Any personal information collected may be shared immediately for direct marketing purposes, but you may opt-out of further sharing for direct marketing by submitting your request to [optout@youbeauty.com.](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=optout@youbeauty.com)
 
 ### Cookies and Other Technology
 
