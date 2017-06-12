@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125204716id_/http%3A//beprepared.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beprepared.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612134350id_/http%3A//beprepared.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Privacy Policy
 
-We can be reached via e-mail at sales@beprepared.com or by calling toll free at 1-800-999-1863. Our Sales Consulting Staff is available from 8 am to 6 pm M-F MST and 9 am to 5 pm Saturday MST. We can also be reached by regular mail at 653 North 1500 West, Orem, Utah 84057.
+We can be reached via e-mail at sales@beprepared.com or by calling toll free at 1-800-999-1863. Our Sales Consulting Staff is available from 8 am to 5 pm M-F MT. We can also be reached by regular mail at 653 North 1500 West, Orem, Utah 84057.
 
 We only collect customer navigation information in order to improve the content of our website. The information you provide us, information about your order, and other generic demographic and past purchase information may be shared with third parties who may place anonymous cookies on the browsers of website visitors or the visitor’s own cookie file. This information will solely be used to make our future marketing efforts and website design more pleasing and efficient.
 
