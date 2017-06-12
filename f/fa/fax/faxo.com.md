@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120182705id_/http%3A//faxo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faxo.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612131433id_/https%3A//faxo.com/privacy) for the most accurate reproduction.*
 
-# Faxo
+# Privacy Policy - Faxo
 
 Last modified: April 10, 2008 
 
