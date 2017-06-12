@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tobiidynavox.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129204833id_/http%3A//www.tobiidynavox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobiidynavox.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612182439id_/https%3A//www.tobiidynavox.com/link/6a720ff30d1c4234941a83a5c9f0c9ad.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Tobii Dynavox
 
