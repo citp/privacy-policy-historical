@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bajiroo.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201103314id_/http%3A//www.bajiroo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajiroo.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113708id_/http%3A//www.bajiroo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Bajiroo.com
+# Privacy Policy | Bajiroo.com
 
 **Bajiroo Inc. Privacy Policy**  
 The following privacy statement covers all of the Bajiroo Inc. websites. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please contact us.
