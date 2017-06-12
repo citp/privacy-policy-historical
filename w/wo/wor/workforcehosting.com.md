@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611232126id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workforcehosting.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612053258id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WorkForce Software
-
-* * *
 
 ## Our Commitment to Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personal information may be requested.
-
-This privacy statement complies with the U.S. Department of Commerce Safe Harbor Principles, which has been approved by the E.U. as an adequate way for WorkForce Software, LLC to demonstrate that it complies with the protections outlined in the E.U. Directive on Data Privacy. In processing personal information, WorkForce Software, LLC complies with the following Safe Harbor Principles, as more specifically described in this statement: Notice, Choice, Onward Transfer (to Third Parties), Security, Data Integrity, Access, Enforcement and Verification. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>.
 
 WorkForce Software, LLC abides by the privacy laws in the countries in which we conduct business.
 
@@ -46,31 +42,13 @@ Additionally, if you apply for an open position at WorkForce Software, LLC, the 
 
 This site utilizes Google Analytics Demographics and Interest Reporting. WorkForce Software may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interest) with Google Analytics. Users of this site may opt-out of the Google Analytics Demographics and Interest Reporting by use of the Google opt-out add-ons, located at <https://tools.google.com/dlpage/gaoptout>.
 
+Personal Information stored and processed using our cloud-based products, such as WorkForce Suite, EmpCenter, EmpLive, and Enterprise are not collected by WorkForce. Such data are upload and processed by the Customer, who owns all title, rights, and interest to that data. WorkForce does not collect personal data for use in our cloud-based products.
+
 ## Our Use of Cookies
 
 Cookies are collected on this site via the marketing automation system Marketo. A cookie is a small data file that is stored on your device or computer when you visit a website. A “session cookie” expires immediately when you end your session (i.e., close your browser). A “persistent cookie” stores information on the device so when you end your session and return to the same website at a later date, the cookie information is still available. When you visit our Site, we may use a session and a persistent cookie. These Marketo-placed cookies may contain information (such as a unique user ID) that is used to track your usage of our Site. WorkForce Software employs cookies using the Marketo system to enable our website to recognize your browser and tell us how and when pages are visited and by how many people, and also in order for our server to recognize a return visitor as a distinct user. The cookies placed by the Marketo system are readable only by Marketo, and cookies cannot access, read or modify any other data on a computing device. Marketo uses Performance, Functionality and Analytics and Retargeting cookies.
 
 A description of each of these cookies and how to opt out of these cookies is below.
-
-  * Performance cookies
-  * Functionality cookies
-  * Analytics and Retargeting cookies
-
-
-
-These cookies enable the collection of information about how visitors use our website, including the pages visited with the most frequency and any error messages received from such pages. Visitors cannot be individually identified by these cookies. The information these cookies collect is aggregated and anonymous, and will only be used to improve the performance and functions of the WorkForce Software website.
-
-To learn how to opt out of performance cookies using your browser settings [click here](http://www.aboutcookies.org/ "About Cookies").
-
-Functionality cookies allow the WorkForce Software website to remember information you enter such as username and your preferred language. These cookies also enable you to optimize your use of our website.
-
-To learn how to opt out of functionality cookies using your browser settings [click here](http://www.aboutcookies.org/ "About Cookies"). Note that opting out may impact the functionality you receive when visiting the WorkForce Software website.
-
-WorkForce Software may use cookies to store your preferences or display content based upon what you view on our Site to personalize your visit.
-
-WorkForce Software engages third parties, such as Google Analytics, to track and analyze usage and volume statistical information from individuals who visit workforcesoftware.com. No personal information is provided to third parties, but this data may be re-associated with personal information after WorkForce Software receives it.
-
-To learn more about these and other third party analytical tools, and how to opt out of analytics and retargeting cookies using your browser settings [click here](http://www.aboutcookies.org/ "About Cookies").
 
 ## The Way We Use Information
 
@@ -89,6 +67,16 @@ We also may use non-identifying and aggregate website visitor information to imp
 WorkForce Software, LLC may use the information obtained through the recruiting system to help determine eligibility for a specific position, to notify you of future job openings and hiring events, and to communicate with you through the hiring process.
 
 We never use or share the personal information provided to us through workforcesoftware.com in ways other than as described above without providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+### Personal information in our cloud-based products
+
+In the normal course of using the WorkForce SaaS Service, Customers will input electronic data into the WorkForce systems (“Customer Data”). The use of information collected through our service shall be limited to the purpose of providing the service for which the Customer has engaged WorkForce. WorkForce may access Customer Data for the purposes of providing the service, preventing or addressing service or technical problems, responding to support issues, responding to Customer’s instructions or as may be required by law, in accordance with the relevant agreement between Customer and WorkForce.
+
+WorkForce processes Customer Data under the direction of its Customers, and has no direct control or ownership of the personal data it processes. Customers are responsible for complying with any regulations or laws that require providing notice, disclosure and/or obtaining consent prior to transferring the data to WorkForce for processing purposes.
+
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his or her query to the WorkForce Customer (the data controller). Upon Customer request, WorkForce to remove the personal data to comply with data protection regulations, WorkForce will respond to their request within 30 business days.
+
+WorkForce will refer any request for disclosure of personal data by a law enforcement authority to the Customer. WorkForce may, where it concludes that it is legally obligated to do so, disclose personal data to law enforcement or other government authorities. WorkForce will notify Customer of such request unless prohibited by law.
 
 ## Opt-out Policy
 
@@ -112,6 +100,8 @@ You can access all your personal information that we collect online and maintain
 
 You can correct factual errors in your personal information by sending us a request that credibly shows error. You can expect to receive a response to any such update request within seven (7) days of WorkForce Software, LLC’s receipt of the same.
 
+In our cloud-based products, WorkForce retains Personal Information according to the timeframes set forth in the relevant Customer agreement. Individuals who would like to request that their Personal Information not be used for specific purposes or disclosed should contact the WorkForce Customer responsible for uploading such Personal Information into our cloud-based products (the data controller).
+
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 ## Enforcement and Verification
@@ -134,11 +124,7 @@ WorkForce Software, LLC
 38705 7 Mile Rd., Ste 300  
 Livonia, MI 48152  
 Phone: 877.493.6723  
-Email: [opt-out@workforcesoftware.com](mailto:opt-out@workforcesoftware.com "opt-out@workforcesoftware.com")
-
-## US – EU Safe Harbor Framework Dispute Resolution
-
-WorkForce Software, LLC will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of personal information in accordance with the principles contained in this policy. WorkForce Software, LLC agrees to cooperate with Data Protection Authorities located in the European Union or their authorized representatives for disputes specific to human resource information received from the European Union. All other disputes that cannot be resolved between WorkForce Software, LLC and the complainant will be handled in accordance with applicable dispute resolution procedures through the American Arbitration Association, which are available for review at [www.adr.org](http://www.adr.org/ "American Arbitration Association"). We strongly encourage you to raise any complaints you may have with regard to this privacy policy and/or our implementation of this policy to us prior to proceeding to the arbitration procedure described in this paragraph.
+Email: [privacy@workforcesoftware.com](mailto:privacy@workforcesoftware.com "privacy@workforcesoftware.com")
 
 ## Copyright Policy
 
@@ -152,4 +138,4 @@ Customers should seek independent legal counsel to determine what laws and regul
 
 ## Effective Date
 
-This Privacy Notice became effective January 1, 2012. It was last updated November 10, 2015.
+This Privacy Notice became effective January 1, 2012. It was last updated September 27, 2016.
