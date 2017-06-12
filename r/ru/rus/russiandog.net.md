@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russiandog.net privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207013408id_/http%3A//www.russiandog.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russiandog.net privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612081339id_/http%3A//www.russiandog.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Russian Dog
 
