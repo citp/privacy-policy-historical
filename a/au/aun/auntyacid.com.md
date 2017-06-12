@@ -1,171 +1,163 @@
-> *The following text is extracted and transformed from the auntyacid.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025173417id_/http%3A//www.auntyacid.com/privacy-cookie-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auntyacid.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612183729id_/http%3A//www.auntyacid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policies and Cookie Policies - Aunty Acid
+# Privacy Policy - Aunty Acid
 
-**Aunty Acid Ltd  **trading as  **auntyacid.com** , a company registered in England and Wales under company number xxx whose registered address is at xxx, hereinafter referred to as ‘ **Aunty Acid** ’ or ‘ **We** ’ have created this privacy statement (‘ **Statement** ’) in order to demonstrate our firm commitment to the privacy of the details that You provide to us when using _http://www.Aunty Acid.com_  (the ‘ **Site** ’) and the Aunty Acid. When You use the Site and the Aunty Acid, You are consenting to the practices set forth in this Statement.
+**This is the main privacy policy for auntyacid.com and for certain services provided through these and other applications (“our sites”) by Ruby Moon Associates Ltd.**
 
-We know that Your privacy is very important to You which makes it very important to us. We aim to be as clear as possible in this Statement in respect of Your Personal Data. This Statement applies inter alia to Your Personal Data that We collect about You when You use the Site, how and when it is used, how We protect it and who has access to it.
+At AUNTY ACID we collect different types of information about our users for four main reasons:
 
-**1.**
+  1. To provide personalised services unique to individual users.
 
-**YOUR ACCEPTANCE OF THE STATEMENT**
 
-This Statement governs Your use of the Aunty Acid , including any dispute concerning privacy. By using the Aunty Acid , You accept this Statement in full. You should read the Statement carefully and ensure that You understand its effect before proceeding to use the Site and the Aunty Acid . We reserve the right to modify this Statement at any time without notice by posting the changes on this page. Your continued use of any portion of the Site following the posting of the updated Statement will constitute Your acceptance of the changes.
+  2. To help us to monitor and improve the services we offer
 
-**2.**
 
-**WHAT INFORMATION IS COLLECTED & HOW?**
+  3. To sell advertising space on the site. This helps us to keep the site free for people who visit it.
 
-**A.**
 
-**PERSONAL DATA**
+  4. If we have permission from the user, to market services to them.
 
-**2.1**
 
-The Site asks You to provide various types of Personal Data to enhance the quality of the Aunty Acid We can provide to You and the more accurate the information You provide, the better We are able to respond to Your requirements! As part of the process of using the Site and the Aunty Acid , We may collect the following types of Personal Data about You (as applicable):
 
-  * Your first name, last name, email and password (upon Sign-Up as a Aunty Acid Member on the Site);
-  * Your gender, house number, date of birth, postcode and photo (upon further entering a Prize Draw and accruing Entries in Your Entries Bank by undertaking certain Aunty Acid Member Actions);
-  * Your visits to the Site and the Aunty Acid Content that You download;
-  * Your UGC that You may upload or submit to the Site;
-  * information about Your computer (including Your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and Site navigation);
-  * any other information that You choose to send to us, including any request for further Aunty Acid , general correspondence, reports of a problem with the Site or the Aunty Acid .
-  * information relating to any Prize Draws entered in to by You on the Site and any Prize Draws which You have been a Winner; and,
+There may be other privacy policies that apply to certain services we provide. Please read these when you register or subscribe for these services on these sites.
 
+### **Our principles**
 
+1 We do our very best to protect your privacy by using security technology appropriately. This means:
 
-**B.**
+  * we make sure that we have appropriate security measures to protect your information; and
 
-**OTHER DATA**
 
-**2.2**
+  * we make sure that when we ask another organisation to provide a service for us, they have appropriate security measures.
 
-Other de-personalised data which does not record Personal Data as such, rather information such as the date of Your visit to the Site, the path taken, the browser used, the IP address etc is used primarily to aid the technical administration of the Site, to better understand how the Site is functioning for Aunty Acid Members and to draw conclusions upon demographic information.
 
-**3.**
 
-**HOW IS THE INFORMATION USED?**
+2 We will respect your privacy. You should receive marketing emails only from us and, if you agree, from other organisations we have carefully chosen. We will make sure it is clear when you can make these choices, for example, we have boxes you need to tick if you want to receive marketing. However, we may email you occasionally with information or questions about your registration, your subscription account or postings, for example, with reminders, warnings or copyright requests.We will collect and use individual user details only if we have your permission or we have sensible business reasons for doing so, such as collecting enough information to manage subscriptions.
 
-**3.1**
+3\. We will collect and use individual user details only if we have your permission or we have sensible business reasons for doing so, such as collecting enough information to manage subscriptions.
 
-You hereby expressly consent to Your Personal Data being passed on to third party companies or service providers for the sole purpose of fulfilling the Aunty Acid only (including making improvements to the Aunty Acid ) and not for the purposes of those third parties making marketing communications to You, unless You have expressly consented to this being undertaken by a third party (“ **Aunty Acid Partners** ”).  **Aunty Acid Partners include our Aunty Acid Retailers who provide the Prizes so although You are under no obligation to provide such Personal Data to us, however, if You choose not to, some of the Aunty Acid may not be available to You**.
+4 We will be clear in our dealings with you as to what information about you we will collect and how we will use it.
 
-**3.2**
+5 We will use personal information only for the purposes for which it was originally collected and we will make sure we delete it securely.
 
-You acknowledge that Your Personal Data may be used by Aunty Acid to contact a Aunty Acid Member by post, phone or by electronic mail when necessary in connection with Your use of the Site and the Aunty Acid including Your Aunty Acid Membership.
+6 Our site is accessible via the internet. This means that people around the world who access our website can see anything you post on the website, for example, comments about an article.
 
-**3.3**
+7 If we or our service providers transfer any information out of the European Economic Area (EEA), it will only be done with the relevant protection (stated under UK law) being in place.
 
-From time to time, Aunty Acid may contact You by electronic mail (or by telephone) by way of sending You various confirmations, notifications, feedback requests or any other newsletter or information or offers regarding upcoming Aunty Acid promotions, or customer surveys. If You change Your mind, You can opt out of receiving some but not all of this as some are required as a necessary part of delivering the Aunty Acid Program and for operating the Aunty Acid Membership in order to continue to receive access to the Aunty Acid . You cannot opt out of receiving the Aunty Acid Membership Verification Email, the Aunty Acid Membership Email or the Winner Alert.
+### **How we use your information**
 
-**3.4**
+What information do we collect?
 
-You can opt out of receiving direct marketing communications from Aunty Acid as described below.
+We collect information on you:
 
-**3.5**
+  * when you register your email address or become a member of the Aunty acid
 
-Your Personal Data is used solely by Aunty Acid (and Aunty Acid Partners to the extent necessary to fulfil the Aunty Acid obligations to You and the Aunty Acid Retailer obligations to You where applicable) for the sole purpose of enabling Aunty Acid to act as a service provider to You and is not shared with any person or company without Your express consent.
 
-**3.6**
+  * when you use the website
 
-Any Personal Data that is held with Aunty Acid shall be retained in accordance with the Data Protection Act 1998 and related Data Protection Legislation and/ or our retention and destruction policy culminating in its permanent deletion.
 
-**3.7**
+  * through cookies
 
-If Personal Data has been passed to third parties with Your consent, You may need to contact them separately if You change Your mind in relation to their use of Your Personal Data.
 
-**OPTING OUT:**  If You do not wish to be contacted by Aunty Acid in respect of future marketing communications, We will give You the opportunity to unsubscribe to the receipt of such communications in every electronic mail communication that We send to You. Alternatively and additionally, You can contact Aunty Acid by sending an email to this email address with “UNSUBSCRIBE REQUEST” in the subject line or send Your request by post to Aunty Acid at the contact address below.
+  * if you choose to reveal information in postings, and
 
-**4.**
 
-**WHO HAS ACCESS TO YOUR PERSONAL DATA?**
+  * when you enter sales promotions and competitions.
 
-**4.1**
 
-To minimise the risk of unauthorised access to Your Personal Data, We use some of Your Personal Data to authenticate You when using the Site and the Aunty Acid .
 
-**4.2**
+Certain services that we provide may involve us collecting extra information (Membership, for example), such as where you are, so the service can be provided as designed. This may also apply to certain apps that you download, or which we provide.
 
-For our daily operations, We may use the Aunty Acid of third parties to provide some of our business and operational functions. Consequently, some of the Aunty Acid are provided by Aunty Acid Partners and We need to disclose Your information to them to provide You with the Aunty Acid .
+### **Registration on mailing list**
 
-**4.3**
+The minimum information we need to register you is your name, email address. We will ask you more questions for different services, including sales promotions. Unless we say otherwise, you have to answer all the registration questions.
 
-**Disclosure of Your Personal Data in Compliance with Laws  **
+We may also ask some other, voluntary questions during registration for certain services (for example, professional networks) so we can gain a clearer understanding of who you are. This also allows us to personalise services for you.
 
-You should be aware that We may release Your Personal Data when We believe it is necessary to comply with laws or regulations, to assist law enforcement, to enforce the terms under which You transact or communicate with or via Aunty Acid, or to protect the rights, property or safety of Aunty Acid, Aunty Acid Members or third parties.
+To assist us in our marketing, in addition to the data that you provide to us if you register, we may also obtain data from trusted third parties to help us understand what you might be interested in. This ‘profiling’ information is produced from a variety of sources, including publicly available data (such as the electoral roll) or from sources such as surveys and polls where you have given your permission for your data to be shared. You can choose not to have such data shared with the Aunty acid from these sources by logging into your account and changing the settings in the privacy section.
 
-**4.4**
+After you have registered, and with your permission, we may send you emails we think may interest you. Newsletters may be personalised based on what you have been reading on auntyacid.com. At any time, you can decide not to receive these emails and will be able to ‘unsubscribe.
 
-**Transfer of Your Personal Data outside of the EEA  **
+### **Logging in using social networking credentials**
 
-From time to time, We may transfer Your Personal Data to a related company, agent or contractor in order to improve our Aunty Acid or to assist our security, credit risk or fraud protection activities. Such companies may be located outside of the EEA and You consent to the transfer of Your Personal Data to such companies for the purposes set out here in accordance with this Statement and as permitted by the Data Protection Legislation from time to time.
+If you log-in to our sites using a Facebook log-in, you are granting permission to Facebook to share your user details with us. This will include your name, email address, date of birth and location which will then be used to form an Aunty acid identity. You can also use your picture from Facebook as part of your profile. This will also allow us and Facebook to share your, networks, user ID and any other information you choose to share according to your Facebook account settings. If you remove the Aunty acid app from your Facebook settings, we will no longer have access to this information.
 
-**4.5**
+If you log-in to our sites using a Google log-in, you grant permission to Google to share your user details with us. This will include your name, email address, date of birth, sex and location which we will then use to form an Aunty acid identity. You may use your picture from Google as part of your profile. This also allows us to share your networks, user ID and any other information you choose to share according to your Google account settings. If you remove the Aunty acid from your Google settings, we will no longer have access to this information.
 
-**Transfer of Personal Data in the Event of the Sale of Aunty Acid.co.uk or its Assets**
+If you log-in to our sites using a twitter log-in, we receive your avatar (the small picture that appears next to your tweets) and twitter username.
 
-In the event that Aunty Acid.co.uk is sold or transfers some of its assets to another party, Your Personal Data could be one of the transferred assets. If Your Personal Data is transferred, its use will remain subject to this Statement. Your Personal Data will be passed on to a successor in interest in the event of a liquidation or administration of Aunty Acid.
+### **Updating your personal information**
 
-**4.6**
+We can upon request on your details page (also known as Dashboard), can update your personal information at any time, and change your marketing preferences.
 
-**Other Sites and their Privacy Policies and Cookie Policies**
+Who we share data with
 
-The Site may contain links to other websites. Aunty Acid is not responsible for the privacy practices or the content of such websites or for the privacy policies, cookie policies and practices of other third parties, so You should be careful to read and understand those website policies independently.
+Depending on where you live, your personal information may be shared with Aunty acid and its partners that are based in the UK, USA or Australia.
 
-**5.**
+We will not share your personal information with others for marketing purposes unless you have given us your permission. If we have your permission, we will share your information only with other organisations we have chosen carefully.
 
-**HOW DO WE PROTECT YOUR PERSONAL DATA & FOR HOW LONG?**
+We may make other organisations’ services available, through our sites, although we are not necessarily operating these sites. We process any information which we collect when you access a service provided by another organisation under this privacy policy. Information these other organisations collect is governed by their own privacy policies.
 
-**5.1**
+We can access and release personal information to keep to relevant laws and government requests, to operate our systems properly and to protect both us and our users.
 
-The privacy and protection of Your Personal Data is important to us. In addition, any Aunty Acid Member statistics that We may provide to prospective Aunty Acid Partners regarding Your usage of the Aunty Acid are provided in the aggregate only and do not include any individually identifiable data.
+Any other organisations who access your information in the course of providing services on our behalf will be governed by strict contractual restrictions to make sure that they protect your information and keep to data-protection and privacy laws which apply. We may also independently audit these service providers to make sure that they meet our standards. We may use service providers to help us run these sites (or services available on the sites), some of whom may be based outside the EEA.
 
-**5.2**
+Some of our webpages use plug-ins from other organisations (such as the ‘Facebook Recommend’ function). These other organisations may use information about your visit to our websites on their pages. If you browse these pages while still also logged in to your account with us, information they collect may be connected to your account on their site. For more information on how these organisations use information, please read their privacy policies.
 
-You acknowledge that email messages sent over the internet are not encrypted and are not secure. Despite efforts to protect Your Personal Data, We cannot ensure or warrant the security of any Personal Data You transmit to us, via, to, or from our Site. You accept that Aunty Acid cannot be held liable for any breaches of confidentiality that may occur as a result of the use of email. If there is any sensitive or confidential Personal Data which You do not wish to communicate by email, please contact Aunty Acid by telephone or post to arrange an alternative method of communication.  **You transmit all such Personal Data at Your own risk**.
+### **Use of Cookies**
 
-**5.3**
+We use cookies for a number of reasons.
 
-How long We keep Your Personal Data collected through our Site depends on the context in which You provide it and the purpose for which We use it. We will only retain it for as long as is necessary for such purposes. We may send You direct marketing communications for as long as You do not unsubscribe from receiving the same from Aunty Acid. In the event that You choose to close Your Aunty Acid Member Account, all Your Personal Data will be deleted from the Site.
+1 For statistical purposes to track how many users we have and how often they visit our websites. We collect information listing which of our pages are most frequently visited, and by which types of users and from which countries.
 
-**5.4**
+2 We use other organisations to collect anonymous user information, sometimes through cookies and web beacons, (information embedded in images which allow them to analyse how the website is being used and the number of visitors). Click here to learn more about how we use these services to collect and use information on aunty acid.com.
 
-**Telephone calls** : If You call any of the service telephone numbers quoted on this Site, We may record Your call. These recordings are used for training and quality control to ensure that We continuously monitor and improve our service standards.
+3 We and other advertisers may use statistical cookies to track who has seen an advert and clicked on it. You can find more information on this in the online behavioural advertising section of this privacy policy.
 
-**6.**
+4 Placing cookies on your computer means we can show you adverts that you might be interested in, and allows us to control the number of times you see them and measure how effective the ad campaign has been. Advertising helps us to keep the site free for you to use. You can find more information on this in the Online Behavioural Advertising section of this privacy policy, including how you can ‘opt out’.
 
-**COOKIES** :
+5 We may use ‘Flash’ cookies to store your preferences for your media player (for example, volume and so on). If we don’t use them, you may not be able to watch some video content.
 
-For information about cookies and how they are used on this Site, please visit our Cookie Policy.
+You can turn cookies off but if you do this, you may not be able to use all services on our websites and you might see more pop-ups and other advertising. This is because we won’t be able to limit what you see by using cookies. However, you will still be able to see our editorial content.
 
-**7.**
+6 We or other companies may use cookies to suggest and deliver content which we believe may interest you.
 
-**COMPLAINTS OR QUERIES**
+For more information about cookies and managing them, including how to turn them off, please visit our page on Cookies.
 
-Aunty Acid tries to meet the highest standards when collecting and using Personal Data. For this reason, We take any complaints We receive about this very seriously. We encourage You to bring it to our attention if You think that our collection or use of Personal Data is unfair, misleading or inappropriate. We would also welcome any suggestions for improving our procedures. This Statement does not provide exhaustive detail of all aspects of Aunty Acid’s collection and use of Personal Data. However, We are happy to provide any additional information or explanation needed. Any requests for this should be sent to the address below. If You are not happy with the way in which Your Personal Data is being handled by Aunty Acid, You can complain to the Information Commissioner whose details can be found at: http://www.ico.org.uk/
+By using the site, you are agreeing to the use of cookies as described. ** **
 
-**8.**
+### **About our advertising**
 
-**ACCESS TO YOUR PERSONAL DATA**
+We use an advertising service which allows us to deliver targeted advertising to people who visit our website. It works by showing you adverts that are based on your browsing patterns and the way you have interacted with our site. It then shows you adverts which we believe may interest you.
 
-Aunty Acid tries to be as open as it can be in terms of giving people access to their Personal Data. Individuals can find out if We hold any Personal Data by making a ‘subject access request’ under the Data Protection Act 1998. If We do hold Personal Data about You, We will let You have a copy of that Personal Data. To make a request to Aunty Acid for any Personal Data that We may hold, You need to put the request in writing addressing it to the address provided below. They may be an administrative charge applied in accordance with the applicable legislation.
+As you browse our sites, some of the cookies we place on your computer will be advertising cookies, so we can understand what sort of pages you are interested in We can then display advertising on your browser that is based on these perceived interests. For instance, if you have been reading a lot of food and drink articles, you may be shown more adverts for food and drink.
 
-**9.**
+It is important to remember that none of the techniques we use will collect information such as your name, email address, postal address or phone number.
 
-**HOW TO CONTACT US**
+We may also share anonymised behavioural data with advertising partners. This may mean that when you are on other websites, you will be shown advertising based on your behaviour on aunty acid.com. We may also show you advertising on our site based on your behaviour on other sites.
 
-Requests for information about our Statement or a ‘subject access request’ can be emailed to this email address or by writing to:
+Behavioural targeting is also another form of targeting that allows us and some of our advertising partners to show you ads based on your browsing patterns and interactions with a site away from our sites. For example, if you have visited the website of an online clothes shop, you may start seeing ads from that same shopping site displaying special offers or showing you the products that you were browsing. This allows companies to advertise to you if you leave their website without making a purchase. The privacy policy of criteo, one of the partners that we work with for behavioural retargeting is shown here. criteo.com/en/privacy-policy.
 
-Aunty Acid Ltd  **trading as**  Aunty Acid.co.uk (Internal Compliance Department)
+If you want to opt out of receiving online behavioural advertising, this does not mean that you will no longer receive advertising when you are using our sites. It just means that the advertising you see will not be customised for you.
 
-76 Quay Street
+If you would like more targeting and how to opt out of it, please visit youronlinechoices.com or networkadvertising.org (if accessing from the US.)
 
-Manchester
+Please visit audiencescience.com/privacy.asp and krux.com/privacy/ for the privacy policy of our online behavioural targeting technology providers.
 
-M34PR
+Advertising on mobile devices may require the collection and sharing of the unique device ID with companies who purchase advertising space on the mobile application.
 
-**10.**
+### **Other Advertising**
 
-**CHANGES TO THIS STATEMENT**
+Our sites contain links to other websites from which we may earn revenue. Our articles are purely for entertainment and are never influenced by advertisers or affiliates, nor are they written for the purpose of promoting a product, except when clearly branded as a ‘sponsored by’, ‘brought to you by’ or ‘supported by’ to represent sponsored content, advertisement features and foundation funded features respectively.
 
-We keep our Statement under regular review. This Statement was last updated on 26th February 2016.
+### **Legal information and how to contact us**
+
+Under the UK Data Protection Act 1998 we have to say who the ‘data controller’ is for auntyacid.com services provided through our websites. The data controller is the organisation responsible for protecting information and, in our case, is Ruby Moon Associates Ltd. 09358358 incorporated in England, whose registered office / address is at Golden Valley Accountancy Ltd Unit 4, Westwood Ind Est, Pontrilas, Hereford, Herefordshire, HR2 0EL.  Our VAT number is GB 213 3017 66.
+
+If you would like access to or a copy of the personal information we hold about you, to request a correction, or have any questions about how we may use it or to make a complaint, please contact the Data Protection Manager at the address shown above. Or, email dataprotection@aunty acid.com.
+
+Complaints will be dealt with by the Data Protection Manager, and will be responded to within 30 days at the latest.
+
+If you are not satisfied with the way your complaint was handled, your may
+
+be able to refer your complaint to your local data protection regulator. For example, in the United Kingdom this is the Information Commissioner’s Office, and in Australia is the Office of the Australian Information Commissioner.
