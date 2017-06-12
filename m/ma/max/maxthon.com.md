@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222032231id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxthon.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612120313id_/http%3A//www.maxthon.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Maxthon
+# Privacy Policy | Maxthon Browser
 
 ## General
 
@@ -164,4 +164,4 @@ This Privacy Statement may be updated or changed. When we post changes to this P
 
 ### Contact information
 
-If you have any questions about this Privacy Statement, or privacy on our Websites, we can be reached at [international@maxthon.com](mailto:international@maxthon.com).
+If you have any questions about this Privacy Statement, or privacy on our Websites, we can be reached at[international@maxthon.com](mailto:international@maxthon.com).
