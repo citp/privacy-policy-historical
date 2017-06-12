@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synthego.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014052434id_/http%3A//www.synthego.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synthego.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612060357id_/http%3A//www.synthego.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Synthetic Guide RNA for CRISPR Genome Editing | Synthego
 
@@ -60,7 +60,7 @@ However, no security can be 100% effective, so we cannot guarantee the security 
 
 ## Opting Out
 
-If you do not wish to receive certain communications from us, you may opt out by: (1) declining the service offered when registering or at other information gathering points on our website, or (2) informing us that you no longer wish to receive such communications by emailing us at:  SynthegoUnsubscribe@synthego.com. We will comply with such requests unless such communications from us are required by law or contract or do not require your consent under applicable laws. If you opt out of certain communications, you may not be able to access certain of our products or services. If you would like to opt-out of receiving communications from affiliates or other third parties with whom we shared data in accordance with this policy, please contact such third parties directly.
+If you do not wish to receive certain communications from us, you may opt out by: (1) declining the service offered when registering or at other information gathering points on our website, or (2) informing us that you no longer wish to receive such communications by emailing us at support@synthego.com. We will comply with such requests unless such communications from us are required by law or contract or do not require your consent under applicable laws. If you opt out of certain communications, you may not be able to access certain of our products or services. If you would like to opt-out of receiving communications from affiliates or other third parties with whom we shared data in accordance with this policy, please contact such third parties directly.
 
 ## Children’s Privacy
 
