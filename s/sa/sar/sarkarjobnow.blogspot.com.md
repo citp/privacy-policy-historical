@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sarkarjobnow.blogspot.com privacy policy that was archived on 2012-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120524215758id_/http%3A//sarkarjobnow.blogspot.com/2010/02/privacy-policy-for-sarkarjobnowblogspot.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarjobnow.blogspot.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612113627id_/http%3A//sarkarjobnow.blogspot.com/2010/02/privacy-policy-for-sarkarjobnowblogspot.html) for the most accurate reproduction.*
 
-# Sarkar Job: Privacy Policy For sarkarjobnow.blogspot.com
-
-###  Privacy Policy For sarkarjobnow.blogspot.com 
+# Privacy Policy For sarkarjobnow.blogspot.com | Sarkar Jobnow
 
 The privacy of our visitors to sarkarjobnow.blogspot.com is important to us.
 
