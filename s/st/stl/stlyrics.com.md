@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731023557id_/http%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlyrics.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612174802id_/https%3A//www.stlyrics.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy | ST Lyrics
+# Privacy policy - Stlyrics.com
 
   1. [](https://web.archive.org/)
-  2. Soundtrack lyrics source #1. Privacy
+  2. Soundtrack lyrics source #1. Privacy policy
 
   
 
