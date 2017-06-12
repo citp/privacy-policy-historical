@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutualofomaha.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120151715id_/http%3A//www.mutualofomaha.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutualofomaha.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612214707id_/http%3A//www.mutualofomaha.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mutual of Omaha
 
@@ -6,17 +6,14 @@ Mutual of Omaha Insurance Company and its affiliates (“Mutual of Omaha”) res
 
 In addition to this Policy, Mutual of Omaha’s written Privacy Notices further describe how we handle your personal information (defined below) shared with us, such as when you apply for or purchase our products and services. If you would like to view these Privacy Notices, please click on the appropriate link below:
 
-  * Privacy Notices
-  * [HIPAA Notices](https://web.archive.org/web/20161120151715id_/http%3A//www.mutualofomaha.com/legal/hipaa.php)
-  * [New York Domestic Violence](https://web.archive.org/web/20161120151715id_/http%3A//www.mutualofomaha.com/legal/new-york-victims.php)
+  * [HIPAA Notices](https://web.archive.org/web/20170612214707id_/http%3A//www.mutualofomaha.com/legal/privacy-notices.php)
+  * [New York Domestic Violence](https://web.archive.org/web/20170612214707id_/http%3A//www.mutualofomaha.com/legal/new-york-victims.php)
 
 
 
 We encourage you to read our Policy before using the sites. By visiting our sites, you are agreeing in advance to the current and future terms of this Policy. If you do not wish to agree to these terms, you should leave this web site. Further, framing of our sites on other web sites is subject to the terms and policy practices of the framing web sites.
 
-The following sections address mutualofomaha.com’s privacy issues in more detail:
-
-  * This Policy applies to all services and sub-sites available under the domain [mutualofomaha.com](http://www.mutualofomaha.com/ "Mutual of Omaha"). We encourage you to read our Policy before using the site. By visiting this web site, you are agreeing in advance to the current and future terms of this Policy. If you do not wish to agree to these terms, you should leave this web site.
+The following sections address our sites’ privacy practices in more detail:
 
   * There are two types of information collected on our sites: Personally Identifiable Information and Non-Personally Identifiable Information.
 
@@ -94,7 +91,7 @@ Attention: Web Master
 
 The latest revision to this Policy occurred in May, 2015. Changes to this Policy will not affect our use of previously provided personal information.
 
-  * Your use of this site is subject to certain [Terms and Conditions of Use](https://web.archive.org/web/20161120151715id_/http%3A//www.mutualofomaha.com/legal/terms.php). 
+  * Your use of this site is subject to certain [Terms and Conditions of Use](https://web.archive.org/web/20170612214707id_/http%3A//www.mutualofomaha.com/legal/terms.php). 
   * Please note that whenever you submit any information to us in connection with any Mutual of Omaha products and services, you consent to Mutual of Omaha’s processing of this information as necessary to provide the products and services in which you are participating. 
 
 If you have any questions or comments about our Policy and/or the way it affects you, please feel free to contact us by:
