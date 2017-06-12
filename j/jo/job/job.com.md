@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093018id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612123137id_/http%3A//www.job.com/my.job/privacy) for the most accurate reproduction.*
 
 # Job.com Jobs - Start your job search and find employment today!
 
