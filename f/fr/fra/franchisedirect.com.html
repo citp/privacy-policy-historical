@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the franchisedirect.com privacy policy that was archived on 2016-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161219013736id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the franchisedirect.com privacy policy that was archived on 2017-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612122755id_/http%3A//www.franchisedirect.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-		<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgIBUlFRGwIHVlVQBwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
+		<meta charset="UTF-8">
 		<title>Franchise Direct – Privacy Policy</title>
 		<meta name="description" content="Franchise Direct is a good resource for those looking to start their own franchise business. Read the privacy policy of Franchise Direct.">
 		<meta name="keywords" content="franchise, franchises, information, privacy, policy, franchise direct, information">
@@ -20,12 +20,12 @@
 		<link rel="apple-touch-icon" href="http://c1590022.cdn.cloudfiles.rackspacecloud.com/3a89e35ce3f9ed8b01730ec2cea3357b.png">
 		<link rel="apple-touch-icon-precomposed" href="http://c1590022.cdn.cloudfiles.rackspacecloud.com/3a89e35ce3f9ed8b01730ec2cea3357b.png">
 
-		<link href="/css/header-new.css?date=2016-12-18" type="text/css" rel="stylesheet" media="screen">
+		<link href="/css/header-new.css?date=2017-06-12" type="text/css" rel="stylesheet" media="screen">
 		<link href="http://64920c522d3c867c0f23-1c58c74aa2229d5b1243af6de5ca51ff.r99.cf1.rackcdn.com/fontawesome-4.2.0/font-awesome.min.css" type="text/css" rel="stylesheet" media="screen">
 
 		<link href="/css/thickbox.css" type="text/css" rel="stylesheet" media="screen">
 		<link href="/css/forms.css" type="text/css" rel="stylesheet" media="screen">
-		<link href="/css/site-new.php?site_id=1&amp;date=2016-12-18" type="text/css" rel="stylesheet" media="screen">
+		<link href="/css/site-new.php?site_id=1&amp;date=2017-06-12" type="text/css" rel="stylesheet" media="screen">
 		<link href="/css/cookiecuttr.css" type="text/css" rel="stylesheet" media="screen">
 		<link href="/css/jquery.smoothness.jquery-ui.css" type="text/css" rel="stylesheet" media="screen">
 
@@ -35,7 +35,7 @@
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="http://www.franchisedirect.com/privacy/">
 		
-<script type="text/javascript">				
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript">				
 mobileDetection = function() {
 	var ref = "";
 	var createCookie = function(name,value,days) {
@@ -160,19 +160,19 @@ mobileDetection();
 		<form action="#" class="country-form header-US">
 			<fieldset>
 				<select class="country-form-select">
-					<option selected="selected" value="http://www.franchisedirect.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_US.png">USA</option>
-					<option value="http://www.franchisedirect.co.uk/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_GB.png">UK</option>
-					<option value="http://www.franchisedirekt.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_DE.png">Germany</option>
-					<option value="http://www.franchisedirecte.fr/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_FR.png">France</option>
-					<option value="http://www.franquiciadirecta.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_ES.png">Spain</option>
-					<option value="http://www.franchisedirect.co.za/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_ZA.png">South Africa</option>
-					<option value="http://www.franchisedirectcanada.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_CA.png">Canada</option>
-					<option value="http://www.franchisedirect.ie/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_IE.png">Ireland</option>
-					<option value="http://www.franchiseeurope.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_EU.png">Europe</option>
-					<option value="http://www.franquiciadirecta.com.mx/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_MX.png">Mexico</option>
-					<option value="http://india.franchiseasia.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_IN.png">India</option>
-					<option value="http://malaysia.franchiseasia.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_MY.png">Malaysia</option>
-					<option value="http://singapore.franchiseasia.com/" title="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/16_SG.png">Singapore</option>
+					<option selected="selected" value="http://www.franchisedirect.com/" title="/images/legacy-flags/16_US.png">USA</option>
+					<option value="http://www.franchisedirect.co.uk/" title="/images/legacy-flags/16_GB.png">UK</option>
+					<option value="http://www.franchisedirekt.com/" title="/images/legacy-flags/16_DE.png">Germany</option>
+					<option value="http://www.franchisedirecte.fr/" title="/images/legacy-flags/16_FR.png">France</option>
+					<option value="http://www.franquiciadirecta.com/" title="/images/legacy-flags/16_ES.png">Spain</option>
+					<option value="http://www.franchisedirect.co.za/" title="/images/legacy-flags/16_ZA.png">South Africa</option>
+					<option value="http://www.franchisedirectcanada.com/" title="/images/legacy-flags/16_CA.png">Canada</option>
+					<option value="http://www.franchisedirect.ie/" title="/images/legacy-flags/16_IE.png">Ireland</option>
+					<option value="http://www.franchiseeurope.com/" title="/images/legacy-flags/16_EU.png">Europe</option>
+					<option value="http://www.franquiciadirecta.com.mx/" title="/images/legacy-flags/16_MX.png">Mexico</option>
+					<option value="http://india.franchiseasia.com/" title="/images/legacy-flags/16_IN.png">India</option>
+					<option value="http://malaysia.franchiseasia.com/" title="/images/legacy-flags/16_MY.png">Malaysia</option>
+					<option value="http://singapore.franchiseasia.com/" title="/images/legacy-flags/16_SG.png">Singapore</option>
 					<option value="http://www.franquiciadirectalatam.com/" title="http://c1590022.cdn.cloudfiles.rackspacecloud.com/fc332ff45462273fd546bbff73016acf.png">Latam</option>
 				</select>
 			</fieldset>
@@ -302,7 +302,7 @@ mobileDetection();
 <h1 id="page-heading-redesigned">Franchise Direct - Privacy Policy
 </h1>
 <div class="body"><h2 style="text-align: left;">Personal Information</h2>
-<div style="text-align: center;"><a target="_blank" title="TRUSTe Privacy Certification" href="//privacy.truste.com/privacy-seal/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a"><img alt="TRUSTe Privacy Certification" src="//privacy-policy.truste.com/privacy-seal/seal?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" style="border: none"></a></div>
+<div style="text-align: center; padding: 20px;"><div><a href="//privacy.truste.com/privacy-seal/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" alt="TRUSTe"></a></div></div>
 <p>This privacy policy applies to <a href="http://www.franchisedirect.com">http://www.franchisedirect.com</a>, its network websites (including <a href="http://www.franchisedirect.co.uk">http://www.franchisedirect.co.uk</a>), and its mobile websites (including <a href="http://mobile.franchisedirect.com">http://mobile.franchisedirect.com</a> and <a href="http://mobile.franchisedirect.co.uk">http://mobile.franchisedirect.co.uk</a>), all of which are owned and operated by Franchise Direct, a registered business name of McGarry Internet Limited (collectively: “we”, “us”, and “our”). This privacy policy describes how Franchise Direct collects and uses the personal information you provide on our websites <a href="http://www.franchisedirect.com">http://www.franchisedirect.com</a> and <a href="http://www.franchisedirect.co.uk">http://www.franchisedirect.co.uk</a>, and our mobile websites. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.<br>
 &nbsp;</p>
 <p>You can view all of the content on our site without providing personal information. However if you seek additional information on a franchise or business opportunity, personal information will be requested, including your name, email address and phone number. The information you submit via our request form is then shared only with the franchises or business opportunities that you have in your request list. Franchise Direct does not share, sell, rent, or trade your personal information with third parties for their promotional purposes, unless authorized by you. We will share your personal information with third parties only in the ways that are described in this privacy policy.<br>
@@ -405,8 +405,6 @@ privacy@franchisedirect.com</p>
 </li>
 <li><a href="http://www.franchisedirect.com/courierfranchises/42" title="Courier Franchises">Courier Franchises</a>
 </li>
-<li><a href="http://www.franchisedirect.com/dvdvideofranchises/106" title="DVD &amp; Video Franchises">DVD &amp; Video </a>
-</li>
 </ul>
 <ul class="list-industries">
 <li><a href="http://www.franchisedirect.com/employmentstaffingfranchises/45" title="Employment &amp; Staffing Franchises">Employment &amp; Staffing </a>
@@ -416,8 +414,6 @@ privacy@franchisedirect.com</p>
 <li><a href="http://www.franchisedirect.com/fitnessfranchises/13" title="Fitness Franchises">Fitness Franchises</a>
 </li>
 <li><a href="http://www.franchisedirect.com/foodfranchises/14" title="Food Franchises">Food Franchises</a>
-</li>
-<li><a href="http://www.franchisedirect.com/golffranchises/108" title="Golf Franchises">Golf Franchises</a>
 </li>
 <li><a href="http://www.franchisedirect.com/healthbeautyfranchises/129" title="Health &amp; Beauty Franchises">Health &amp; Beauty </a>
 </li>
@@ -1340,10 +1336,8 @@ privacy@franchisedirect.com</p>
 							<div id="product_id_list">
 								<!-- ids added here later -->
 							</div>
-							<div class="truste_badge"><div id="f103ace3-b01c-4f86-8850-1a86b7fbc80a">
-				<a class="noBackground" href="//privacy.truste.com/privacy-seal/Franchise-Direct-/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" title="TRUSTe online privacy certification" target="_blank" rel="nofollow">
-					<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Franchise-Direct-/seal?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" alt="TRUSTe online privacy certification">
-				</a>
+							<div class="truste_badge"><div>
+				<a href="//privacy.truste.com/privacy-seal/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" alt="TRUSTe"></a>
 			</div></div>
 						</div>
 					</form>
@@ -1398,7 +1392,7 @@ privacy@franchisedirect.com</p>
 	</div>
 
 			<div id="footer-copyright">
-				Copyright © 2003-2016 Franchise Direct. All Rights Reserved.
+				Copyright © 2003-2017 Franchise Direct. All Rights Reserved.
 			</div>
 
 		</div>
@@ -1411,7 +1405,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_us">
 							In the USA? Visit <a href="http://www.franchisedirect.com">www.franchisedirect.com</a>!
 							<br>
-							<a href="http://www.franchisedirect.com"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_US.png" alt="us"></a>
+							<a href="http://www.franchisedirect.com"><img src="/images/legacy-flags/64_US.png" alt="us"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_us">
@@ -1421,7 +1415,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_gb">
 							In the UK? Visit <a href="http://www.franchisedirect.co.uk">www.franchisedirect.co.uk</a>!
 							<br>
-							<a href="http://www.franchisedirect.co.uk"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_GB.png" alt="gb"></a>
+							<a href="http://www.franchisedirect.co.uk"><img src="/images/legacy-flags/64_GB.png" alt="gb"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_gb">
@@ -1431,7 +1425,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_de">
 							In Deutschland? Besuchen Sie <a href="http://www.franchisedirekt.com">www.franchisedirekt.com</a>!
 							<br>
-							<a href="http://www.franchisedirekt.com"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_DE.png" alt="de"></a>
+							<a href="http://www.franchisedirekt.com"><img src="/images/legacy-flags/64_DE.png" alt="de"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_de">
@@ -1441,7 +1435,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_fr">
 							En France ? Visitez le site <a href="http://www.franchisedirecte.fr">www.franchisedirecte.fr</a>!
 							<br>
-							<a href="http://www.franchisedirecte.fr"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_FR.png" alt="fr"></a>
+							<a href="http://www.franchisedirecte.fr"><img src="/images/legacy-flags/64_FR.png" alt="fr"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_fr">
@@ -1451,7 +1445,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_es">
 							En España? Visita <a href="http://www.franquiciadirecta.com">www.franquiciadirecta.com</a>!
 							<br>
-							<a href="http://www.franquiciadirecta.com"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_ES.png" alt="es"></a>
+							<a href="http://www.franquiciadirecta.com"><img src="/images/legacy-flags/64_ES.png" alt="es"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_es">
@@ -1461,7 +1455,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_za">
 							In South Africa? Visit <a href="http://www.franchisedirect.co.za">www.franchisedirect.co.za</a>!
 							<br>
-							<a href="http://www.franchisedirect.co.za"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_ZA.png" alt="za"></a>
+							<a href="http://www.franchisedirect.co.za"><img src="/images/legacy-flags/64_ZA.png" alt="za"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_za">
@@ -1471,7 +1465,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_ca">
 							In Canada? Visit <a href="http://www.franchisedirectcanada.com">www.franchisedirectcanada.com</a>!
 							<br>
-							<a href="http://www.franchisedirectcanada.com"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_CA.png" alt="ca"></a>
+							<a href="http://www.franchisedirectcanada.com"><img src="/images/legacy-flags/64_CA.png" alt="ca"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_ca">
@@ -1481,7 +1475,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_ie">
 							In Ireland? Visit <a href="http://www.franchisedirect.ie">www.franchisedirect.ie</a>!
 							<br>
-							<a href="http://www.franchisedirect.ie"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_IE.png" alt="ie"></a>
+							<a href="http://www.franchisedirect.ie"><img src="/images/legacy-flags/64_IE.png" alt="ie"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_ie">
@@ -1491,7 +1485,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_mx">
 							En México? Visita <a href="http://www.franquiciadirecta.com.mx">www.franquiciadirecta.com.mx</a>!
 							<br>
-							<a href="http://www.franquiciadirecta.com.mx"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_MX.png" alt="mx"></a>
+							<a href="http://www.franquiciadirecta.com.mx"><img src="/images/legacy-flags/64_MX.png" alt="mx"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_mx">
@@ -1501,7 +1495,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_in">
 							In India? Visit <a href="http://india.franchiseasia.com">india.franchiseasia.com</a>!
 							<br>
-							<a href="http://india.franchiseasia.com"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_IN.png" alt="in"></a>
+							<a href="http://india.franchiseasia.com"><img src="/images/legacy-flags/64_IN.png" alt="in"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_in">
@@ -1511,7 +1505,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_my">
 							In Malaysia? Visit <a href="http://malaysia.franchiseasia.com">malaysia.franchiseasia.com</a>!
 							<br>
-							<a href="http://malaysia.franchiseasia.com"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_MY.png" alt="my"></a>
+							<a href="http://malaysia.franchiseasia.com"><img src="/images/legacy-flags/64_MY.png" alt="my"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_my">
@@ -1521,7 +1515,7 @@ privacy@franchisedirect.com</p>
 						<div class="hidden link_network_redirect redirect_sg">
 							In Singapore? Visit <a href="http://singapore.franchiseasia.com">singapore.franchiseasia.com</a>!
 							<br>
-							<a href="http://singapore.franchiseasia.com"><img src="http://3442f2c7a7b40abc2fc5-6d3cda0276c60ac1534ec49761ff6aa7.r91.cf1.rackcdn.com/64_SG.png" alt="sg"></a>
+							<a href="http://singapore.franchiseasia.com"><img src="/images/legacy-flags/64_SG.png" alt="sg"></a>
 						</div>
 					
 						<div class="hidden link_network_redirect_close close_sg">
@@ -1548,10 +1542,8 @@ src="https://www.facebook.com/tr?id=172947979717348&ev=PageView&noscript=1"
 <div class="trust-logos">
 <img src="http://c1590022.cdn.cloudfiles.rackspacecloud.com/dedba609cf0ee2e8cc298c5e7b449bb9.gif" alt="BBB Accredited Business" title="BBB Accredited Business" width="59" height="96">
 <img src="http://c1590022.cdn.cloudfiles.rackspacecloud.com/0b83822b26a63f8f24357ffe21cfd0fc.gif" alt="International Franchise Association Logo" title="International Franchise Association Logo" width="136" height="95">
-<div id="f103ace3-b01c-4f86-8850-1a86b7fbc80a">
-				<a class="noBackground" href="//privacy.truste.com/privacy-seal/Franchise-Direct-/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" title="TRUSTe online privacy certification" target="_blank" rel="nofollow">
-					<img style="border: none" src="//privacy-policy.truste.com/privacy-seal/Franchise-Direct-/seal?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" alt="TRUSTe online privacy certification">
-				</a>
+<div>
+				<a href="//privacy.truste.com/privacy-seal/validation?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=f103ace3-b01c-4f86-8850-1a86b7fbc80a" alt="TRUSTe"></a>
 			</div>
 </div>
 </div>
@@ -1652,7 +1644,7 @@ var LEAD_FORM_POSTAL_CODE = "Zip/Postal Code";
 
 				
 <!-- THE NEXT LINE WILL BE REPLACED WITH THE COMBINED JS FROM THE SCRIPTS ABOVE -->
-<script type="text/javascript" src="/js/12965.js"></script>
+<script type="text/javascript" src="/js/13292.js"></script>
 
 		
 <script>
@@ -1685,5 +1677,5 @@ ga('send', 'pageview');
 		</div>
 	</noscript>
 </div>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"de1a287d40","applicationID":"1724207","transactionName":"YVYHY0ICDUUDBhYIW1gcMEVZTBVXEEoVFkMbQxdYVBYAQgsKDE5XWV4IWF5MAFoDFhEERxlQCllEEQxaDgAQEhtGRgdbWQBMcQcLBxNdVR0VX0A=","queueTime":0,"applicationTime":289,"atts":"TREEFQoYHks=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
 </body></html>
