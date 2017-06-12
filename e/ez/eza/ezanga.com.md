@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120203900id_/http%3A//www.ezanga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612205819id_/http%3A//www.ezanga.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eZanga.com, Inc.
 
@@ -32,11 +32,11 @@ eZanga strongly encourages responsible marketing practices and the share of info
 
  **Pixels/Web Beacons:**
 
-eZanga uses third-party applications throughout our website which do rely on pixels, or a tiny image embedded on the web page that allows us to know you have seen the page. They also allow us to crease, update, and read our own cookies.
+eZanga uses third-party applications throughout our website which do rely on pixels, or a tiny image embedded on the web page that allows us to know you have seen the page. They also allow us to create, update, and read our own cookies.
 
  **Device IDs:**
 
-A Device ID (device identification) is a distinctive number associated with a smartphone or similar handheld device. Device IDs are accessible by Publishers and can be passed to eZanga with an a request. These Device IDs do not enable eZanga to identify individuals, but rather can be used for certain advertising purposes. They can be used to limit the number of times a specific advertisement is presented to the same device, track a device to show that the device interacted with an ad (i.e. “clicked” on it, watched a video ad, or downloaded an application as a result of an advertisement). If eZanga stores a Device ID, it would be for these advertising administrative purposes, and would not be used to create profiles of end-users over time. eZanga may also partner with third parties that have their own methods of identifying a device. These can be used as described above, or in some cases can be used for the purpose of supporting third-party targeted advertising solutions. Where these solutions are employed, eZanga will work with our Exchanges or otherwise endeavor to provide end-users with the ability to opt-out of these solutions.
+A Device ID (device identification) is a distinctive number associated with a smartphone or similar handheld device. Device IDs are accessible by Publishers and can be passed to eZanga with a request. These Device IDs do not enable eZanga to identify individuals, but rather can be used for certain advertising purposes. They can be used to limit the number of times a specific advertisement is presented to the same device, track a device to show that the device interacted with an ad (i.e. “clicked” on it, watched a video ad, or downloaded an application as a result of an advertisement). If eZanga stores a Device ID, it would be for these advertising administrative purposes, and would not be used to create profiles of end-users over time. eZanga may also partner with third parties that have their own methods of identifying a device. These can be used as described above, or in some cases can be used for the purpose of supporting third-party targeted advertising solutions. Where these solutions are employed, eZanga will work with our Exchanges or otherwise endeavor to provide end-users with the ability to opt-out of these solutions.
 
  **Why does eZanga collect this information?**
 
@@ -94,13 +94,13 @@ When using the eZanga Network, clients may enter third-party personal informatio
 
 eZanga does collect information about, and from, their clients for administrative needs, such as accounting and performance reporting. eZanga may also use the clients’ information to communicate via email newsletters or other avenues to offer product updates, information, and other communications to assist in business-related activities. Clients can opt-out from future communications by clicking on the unsubscribe links located at the bottom of such emails.
 
-It’s important to note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails from the advertiser. eZanga is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7001). It is eZanga’s policy to prohibit the sending of unsolicited or ‘spam’ email by eZanga or any of its strategic partnerships, subsidiaries, or alliances.
+It’s important to note that under the CAN-SPAM Act of 2003 (15 U.S.C. § 7001), an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails from the advertiser. eZanga is committed to proper Internet practices and full compliance with the CAN-SPAM Act. It is eZanga’s policy to prohibit the sending of unsolicited or ‘spam’ email by eZanga or any of its strategic partnerships, subsidiaries, or alliances.
 
-Unless otherwise states, eZanga keeps all personal information provided by its clients in strict confidence and treats such data with the same level of care and respect that eZanga treats their own proprietary information. eZanga may from time to time provide certain third-party administrative vendors information to run administrative or program services. Some examples of this use include, but are not limited to: email service providers, marketing automation providers, and client relationship management providers. Any third-party vendor engaging with eZanga for any form of information or services has agreed to protect the confidentiality of information provided by eZanga.
+Unless otherwise stated, eZanga keeps all personal information provided by its clients in strict confidence and treats such data with the same level of care and respect that eZanga treats their own proprietary information. eZanga may from time to time provide certain third-party administrative vendors information to run administrative or program services. Some examples of this use include, but are not limited to: email service providers, marketing automation providers, and client relationship management providers. Any third-party vendor engaging with eZanga for any form of information or services has agreed to protect the confidentiality of information provided by eZanga.
 
 eZanga may share information when requested to comply with law enforcement towards a response to a subpoena, bankruptcy proceeding, or similar legal process. eZanga will apply the Terms of Service and other agreements to protect the rights, property, or safety of eZanga or others. This includes exchanging information with other companies and organizations for fraud and ad fraud protection.
 
-eZanga may also share information with the sale, merger, change of control, transfer of a key asset, consolidation, reorganization, or liquidation in part of whole of eZanga. In this case, clients will be notified via a prominent notice on our website of any change in ownership. This will declare what, if any, aspects of the clients’ personal information was transferred, as well as any choices clients have regarding their personal information.
+eZanga may also share information in connection with the sale, merger, change of control, transfer of a key asset, consolidation, reorganization, or liquidation in part of whole of eZanga. In this case, clients will be notified via a prominent notice on our website of any change in ownership. This will declare what, if any, aspects of the clients’ personal information was transferred, as well as any choices clients have regarding their personal information.
 
  **Can a client opt-out of providing information to eZanga?**
 
@@ -118,7 +118,7 @@ eZanga’s website offers publicly accessible articles and access to community s
 
  **Social Media Widgets:**
 
-eZanga’s corporate website ([www.ezanga.com](http://www.ezanga.com/)) includes social media features and widgets, such as the Facebook ‘Like’ button, or the ability to ‘tweet this’ or ‘share this,’as it pertains to articles on our website. These are interactive mini-programs that run on the website. These features may collect a user’s IP address and the page a user visits on the site, and may also set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the eZanga website. A user’s interactions with the Features are governed by the privacy policy of the company providing them.
+eZanga’s corporate website (www.ezanga.com) includes social media features and widgets, such as the Facebook ‘Like’ button, or the ability to ‘tweet this’ or ‘share this,’as it pertains to articles on our website. These are interactive mini-programs that run on the website. These features may collect a user’s IP address and the page a user visits on the site, and may also set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on the eZanga website. A user’s interactions with the Features are governed by the privacy policy of the company providing them.
 
  **Third-Party Links:**
 
@@ -150,4 +150,9 @@ We reserve the right to amend or revise this privacy policy from time to time. W
 
  **Contact eZanga:**
 
-For more information or it you have questions or concerns regarding the eZanga Privacy Policy, please contact [support@ezanga.com](mailto:support@ezanga.com) or send correspondence to the following address: eZanga.com, Inc. Attn: Privacy and Website Security, 222 Carter Drive, Suite 201, Middletown, DE 19709.
+For more information or it you have questions or concerns regarding the eZanga Privacy Policy, please contact [support@ezanga.com](mailto:support@ezanga.com) or send correspondence to the following address:
+
+eZanga.com, Inc.  
+Attn: Privacy and Website Security  
+222 Carter Drive, Suite 201  
+Middletown, DE 19709.
