@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dianomi.com privacy policy that was archived on 2016-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161227171635id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dianomi.com privacy policy that was archived on 2017-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612141122id_/https%3A//www.dianomioffers.co.uk/legal/privacy.epl) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en-US"><head>
 	<title>Privacy Policy - dianomi - intelligent customer acquisition</title>
@@ -11,12 +11,10 @@
 	<meta http-equiv="content-language" content="en">
 
 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-	<script type="text/javascript">
-		google.load("jquery","1.6.1");
-		google.load("jqueryui","1.8.16");
-	</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=1.11.3"></script>
 	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/ui-darkness/jquery-ui.css" type="text/css" media="all">
 	<link rel="stylesheet" type="text/css" href="https://www.dianomi.com/cms/wp-content/themes/dianomi-website/css/dianomi.css">
+	<link rel="stylesheet" type="text/css" href="https://www.dianomi.com/cms/wp-content/themes/dianomi-website/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="https://www.dianomi.com/cms/wp-content/themes/dianomi-website/css/dianomi-site.css">
 	<link rel="icon" href="https://www.dianomi.com/cms/favicon.ico" type="image/x-icon"> 
 	<style>
@@ -125,7 +123,7 @@
 						forth in this Privacy Policy.
 					</p>
 <p lang="en-US">
-If you don't want to receive information on other products and services, please contact us via email: <a href="mailto:sales@dianomi.com">sales@dianomi.com</a> or write to us: dianomi ltd, 18 Buckingham Gate, London SW1E 6LB.
+If you don't want to receive information on other products and services, please contact us via email: <a href="mailto:sales@dianomi.com">sales@dianomi.com</a> or write to us: dianomi ltd, 10 Greycoat Place, London SW1P 1SB.
 </p>
 					<p lang="en-US" style="margin-top: 40px;">
 						<a name="disclosure"></a>
@@ -178,7 +176,43 @@ We do not store credit card details of our customers.
 						information (such as signing up to receive one of the offers made by our third party advertising partners), this information may be linked to the data
 						stored in the cookie. We use cookies to understand Internet usage, enhance the performance of the Website, activate special web features and security
 						mechanisms. In addition, we may use cookies to offer you products, programs or services which may be part of client retargeting campaigns.
-					</p>
+					</p>			
+
+<!-- Button trigger modal -->
+<button style="margin: 10px 0 30px 0; font-size: 18px;" type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#optOutModal">
+  Opt Out
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="optOutModal" tabindex="-1" role="dialog" aria-labelledby="optOutModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="optOutModalLabel">Success</h4>
+      </div>
+      <div class="modal-body">
+       <iframe id="optOutLoc" src="//data.dianomi.com/frontend/optout" style="border: none; overflow:hidden; width: 100%; height: 50px;"></iframe>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+	if(location.hostname.match('dev')){
+    document.getElementById("optOutLoc").src = '//dev-data.dianomi.com/frontend/optout';
+	}
+		else{
+    document.getElementById("optOutLoc").src = '//data.dianomi.com/frontend/optout';
+
+		}
+
+
+</script>
+			
+					<p></p>
 					<p lang="en-US">
 						You always have the option of setting your browser to warn you when a cookie is being accessed on your computer, to delete cookies that are currently
 						on your computer or to decline cookies altogether. However, to take full advantage of the Website and its features, your browser will need to accept
@@ -189,6 +223,7 @@ We do not store credit card details of our customers.
 						information about your use of and activity with the Website and emails. If we combine cookies or clear gifs with or link them to any of the personally
 						identifying information, we would treat this information in the same way we treat other personal information.
 					</p>
+
 					<p lang="en-US" style="margin-top: 40px;">
 						<a name="third"></a>
 						<strong>4. Third Party Advertisements.</strong>
@@ -245,11 +280,11 @@ We do not store credit card details of our customers.
 					<p lang="en-US">
 						Dianomi Ltd
 					<br>
-						18 Buckingham Gate
+						10 Greycoat Place
 					<br>
 						London
 					<br>
-						SW1E 6LB
+						SW1P 1SB
 					</p>
 					<p>
 						This Privacy Policy is dated 18<sup>th</sup> November, 2011
@@ -290,8 +325,8 @@ We do not store credit card details of our customers.
 	</footer>
 
 	</div>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 
 </div></body></html>
