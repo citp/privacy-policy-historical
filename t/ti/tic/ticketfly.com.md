@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ticketfly.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205082518id_/http%3A//start.ticketfly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketfly.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612081648id_/http%3A//start.ticketfly.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Ticketfly
+# Privacy Policy – Ticketfly
+
+**Last Revised: 15 February 2017**
 
 Ticketfly strives to deliver products and services with fairness and clarity and to protect your privacy. Please see our Privacy Policy below and direct any inquiries to [legal@ticketfly.com](mailto:legal@ticketfly.com).
 
@@ -8,107 +10,129 @@ Protecting your personal information is very important to Ticketfly, and we resp
 
 By using the Website, you are accepting the practices we describe here.
 
-**_Pour les conditions de confidentialité en français,[cliquez ici](http://start.ticketfly.com/vie-privee/)._**
+Ticketfly, LLC (“ **Ticketfly** ”, “ **we** ”, “ **us** ”, or “ **our** ”), a subsidiary of Pandora Media, Inc. (“ **Pandora** ”), is a provider of ticketing services, marketing, and related analytic services to venue operators and other organizers and promoters of concerts, theatrical performances and other live events (collectively our “ **Clients** ”). As explained below, our Clients will have access to much of the information we collect from individuals who buy tickets to our Client’s events and from other individuals who use our website, located at [www.ticketfly.com](http://www.ticketfly.com/) (the “ **Site** ”), our mobile application (“ **Application** ”), and our services (collectively, with the Site and Application, the “ **Services** ”). Our Clients may use and share this information subject to their own respective privacy policies and practices which we don’t control and which may differ from ours. We have prepared this Privacy Policy to describe our own practices regarding the Personal Data (as defined below) that we collect from our Services.
 
-**Information that we collect**  
-When you visit the Website, you provide us with two types of information: personal information that identifies you (such as your name and email address) and non-personal information (such as your IP address and browser type) that does not identify you personally, but gives us information about your computer and about your activities on our site. This information includes your IP address, your browser type, the date and time you access the site, and the website that referred you to our site. We also collect and store information from your computer using “cookies.” A cookie is a small file stored on your computer that is tied to information about you. For example, when you sign in to your [My Ticketfly] account, cookies will be used to save your email address and name so the next time you visit your [My Ticketfly] account from the same computer we will “remember” your email address and name in order to make your experience faster and simpler. We may also use “web beacons,” which track your use of the Website in order to provide you with more useful information and a more personalized experience the next time you visit.
+**_Pour les conditions de confidentialité en français,[cliquez ici](http://start-v2.ticketfly.net/vie-privee/)._**
 
-If you buy or sell a ticket or enroll in a program or special offer on the Website, we will collect financial information from you (your credit card number and expiration date, billing address, etc.).
+For purposes of this policy, “ **Personal Data** ” means data that identifies you as an individual, including, for example, your name, address, telephone number or e-mail address, as well as any other information about you that is associated with or linked to any of the foregoing data. “ **Anonymous Data** ” means data that does not permit the identification of individual persons and that is not associated with or linked to Personal Data. We collect Personal Data and Anonymous Data, as described below.
 
-From time to time, we also may ask you some questions about yourself (such as your interests and activities, your age, etc.) so we know how to serve you better. You don’t have to answer these questions if you’d rather not.
+**1\. Questions; Contacting Ticketfly.** If you have any questions about our Privacy Policy or data collection or processing practices, or would like to contact us for any other reason, please contact us at the following address:
 
-Finally, we also may receive information about you from third parties (such as updated delivery and address information, purchase history and additional demographic information), and we may allow third parties to display advertisements on our site. These companies may use tracking technologies, such as cookies or “web beacons”, to collect information about people who view or interact with their advertisements on our site. This information allows them to deliver targeted advertisements and judge their effectiveness. We do not provide any personal information about you to these third parties.
-
-**Protection; Practical Limitations**  
-We take appropriate security measures to help safeguard this information from unauthorized access and disclosure. For example, only authorized employees are permitted to access your personal information, and they may do so only for limited reasons. We also encrypt credit card numbers and other sensitive information before it is sent from your computer to ours. We also use firewalls to help prevent unauthorized access to your personal information.
-
-We take precautions to ensure the security of your personal information. However, we cannot guarantee that hackers or unauthorized personnel may not gain access to your personal information despite our efforts. You should note that in using the Website, your information will travel through third party infrastructures which are not under our control.
-
-You should always take great care in handling and disclosing your personal information. For example, avoid sending personal information through insecure email. Please refer to the Federal Trade Commission’s website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
-
-**Information Sharing and Disclosure**  
-Ticketfly will not sell, trade, or rent your personal information to others without your consent. Ticketfly may share non-personal information regarding our visitors with our business partners, trusted affiliates and advertisers for the purposes outlined above. Ticketfly may use third party service providers to help us operate our business and the Website or administer activities on our behalf. Ticketfly may share your information with these third parties for those limited purposes. Ticketfly shares your personal information with venues and performers who may in turn potentially share your information with artists.
-
-If we have your express consent, Ticketfly may share your personal information that it collects with business partners, and other third parties that are not affiliated with Ticketfly. Note that if you sign up for service from one of our affiliates, we may ask for your consent to share with such third party partner certain of your personal information. Ticketfly is not responsible for the acts of such partners.
-
-We may transfer any and all information that we collect from users of the services to a Ticketfly affiliate or a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Ticketfly’s business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
-
-In addition, Ticketfly may (and you authorize Ticketfly to) share your personal information with third parties:
-
-  * if Ticketfly determines that it is required to do so by law or to comply with legal process;
-  * to respond to a request from the government or another public authority;
-  * to prevent prohibited or illegal activities;
-  * to assist or support a third party’s theft investigation involving Ticketfly services or a third party’s theft prevention efforts relating to their products;
-  * to enforce our Terms of Services or any of our policies or usage guidelines for specific services;
-  * if it is necessary in Ticketfly ‘s opinion to do so to prevent, investigate, detect or prosecute criminal offences or attacks on the technical integrity of the services or Ticketfly’s network;
-  * if it is necessary in Ticketfly ‘s opinion to do so to protect the rights, privacy, property, or safety of Ticketfly or its employees, Ticketfly affiliates, the users of its services, or the public;
-  * to enforce Ticketfly’s rights against you or in connection with your breach of this Privacy Policy or Ticketfly’s Terms of Service;
-  * to permit us to pursue available remedies or limit the damages that we may sustain; or if Ticketfly has your consent.
-
-
-
-**Other websites**  
-Third parties have their own privacy policies that govern their use of your information. There are a number of places on the Website where you may click on a link to access other websites that don’t operate under this Privacy Policy. For example, if you click on an advertisement on the Website, you may be taken to a website that we don’t control. These third-party websites may independently solicit and collect information, including personal information, from you. Importantly, these third parties will have their own privacy policies describing how they use and disclose your personal information. Those policies will govern the use, handling and disclosure of your personal information once you or we have shared it with those third parties. If you want to learn more about other entities’ privacy practices, please review the websites of those third parties. Privacy policies are typically located at the bottom of the webpage you are visiting.
-
-If you have any questions about how a third party handles personal information, please contact that third party directly.
-
-**Access to your information**  
-If you have a My Ticketfly account,  
-Privacy Officer  
-c/o Ticketfly Legal  
-111 Townsend Street, San Francisco, CA 94107  
-[legal@ticketfly.com](mailto:legal@ticketfly.com)
-
-If you have a [My Ticketfly] account, you also may close your account at any time by contacting Ticketfly customer service at http://support.ticketfly.com/. If you close your account, you will not be able to sign in to your account or access any of your personal information. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we think are necessary to protect the integrity of the Website or to protect our users, or take other actions otherwise permitted by law.
-
-Please note that if we have already provided information about you to third parties (for example, if we’ve already sent your information to an event provider), or if you’ve given information to a third party (for example, by clicking on a website link taking you to a third party’s website, and you provided your contact information to that third party), retention of that information will be subject to those third parties’ policies. If you receive an unwanted email from a third party, you’ll have to opt-out from receiving further emails from that party itself.
-
-**Your Options**  
-You can choose not to provide us with certain information. However, that may result in your not being able to use certain features of the Website because such information may be required in order to use those features. For example, in order to open a [My Ticketfly] account, purchase or sell tickets, or participate in a contest, promotion or sweepstakes, your personal information will be required.
-
-At any time, you can choose to no longer receive commercial or promotional emails from us by clicking on [My Ticketfly] and following the instructions to “manage your email alerts.” You may modify your choices at any time in your [My Ticketfly] account. Also, in any commercial email we send, you will be given the opportunity to opt out of receiving such messages in the future by clicking on the link at the bottom of the email that says “unsubscribe.” It may take up to 10 days for us to process an opt-out request.
-
-Even if you have unsubscribed from receiving promotional emails from us, we may send you other types of important e-mail communications without offering you the opportunity to opt out of receiving them. These may include, but are not limited to, customer service communications and announcements, purchase notifications and confirmations, administrative notices, and surveys.
-
-Please note that changing information in your [My Ticketfly] account or opting out of receiving promotional email communications will affect only future communications from us. If we already provided your information to a third party (such as an event provider) before you changed your preferences or updated your information, you may have to change your preferences directly with that third party as well.
-
-**User content**  
-We may provide areas on the Website where you can post information about yourself, communicate with others, post reviews or upload content (e.g. pictures, videos, audio files, etc.). Such postings are governed by our Terms of Service, so be sure to review them before posting. In addition, keep in mind that postings may appear on other websites or when searches are conducted on search engines on the subject of your posting.
-
-If you post any content to the Website, by electronic mail or otherwise, we will treat it as non-confidential and non-proprietary to you. Information that is posted to the Website shall not be subject to the Privacy Policy and may be publicly displayed and disclosed and otherwise used by Ticketfly or any third party in any way. By posting content to the Website, you authorize us to use or allow others to distribute, reproduce or otherwise use such content. You should not post information about yourself on the website that can be used to identify or contact you, including, but not limited to, your name, home or work address, phone numbers, email address or other such information. If you post such information, Ticketfly cannot prevent it from being used in a manner that violates its Terms of Service, the law, or your personal privacy and safety.
-
-**Facebook Connect**  
-Ticketfly offers Facebook users the opportunity to interact with friends and to share on Facebook using Facebook Connect. If you are logged into both Ticketfly and Facebook, when you use the Site’s Facebook connection functions, we will link your Facebook account with your Ticketfly account if the email addresses match. If the email addresses do not match, we ask you if you want to link them and you must validate that you control the accounts. If you are already logged into Ticketfly but not logged into Facebook, when you use the Site’s Facebook connection functions, you will be prompted to enter your Facebook credentials or to sign up for Facebook. By proceeding through any of these scenarios, you grant Ticketfly permission to access your Facebook profile information and to use it in accordance with the Facebook terms of use and this Privacy Statement.
-
-If you are not currently registered as a Ticketfly user and you use the Site’s Facebook connection functions, you will first be asked to enter your Facebook credentials and then be given the option to register and join Ticketfly. Once you register with Ticketfly and connect with Facebook, you will be able to automatically post recent Ticketfly activity back to your Facebook wall. Please refer to the privacy settings in your Facebook account to manage the performance of your Facebook account.
-
-If you use Facebook Connect or the Ticketfly Facebook App, Ticketfly will create a [My Ticketfly] user account for you.  Your [My Ticketfly] account will be governed by the Terms of Service and Privacy Policy located at <http://www.ticketfly.com/about/legal-policies/>.  If you wish to close your [My Ticketfly] account, you may do so as provided in the Privacy Policy.
-
-**Children’s privacy**  
-The Website is not intended for children under 13, and we do not knowingly collect information from children under the age of 13. Children aged 13 or older should not submit any personal information without the permission of their parents or guardians. By using the Website, you are representing that you are at least 18, or that you are at least 13 years old and have your parents’ permission to use the Website.
-
-Visiting our website from outside the United States  
-This Privacy Policy covers the collection of information on the Website from U.S. residents. If you are visiting the Website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated.
-
-U.S. data protection and other laws may not be as comprehensive as those in your country. Please be assured that we take steps to ensure that your privacy is protected.
-
-**Changes to this Privacy Policy**  
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the “last updated” date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, and/or by prominently posting notice of the changes on our website. We recommend that you check the Website from time to time to remain updated as to any changes in our privacy or other policies.
-
-**How to contact us**  
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties, please contact us by e-mail or regular mail at the following address:
-
-Privacy Officer  
-c/o Ticketfly Legal  
-111 Townsend St.  
+Ticketfly, LLC  
+_Attn:_ Privacy Officer  
+111 Townsend Street  
 San Francisco, CA 94107  
 [legal@ticketfly.com](mailto:legal@ticketfly.com)
 
-Your California Privacy Rights  
-If you are a California resident, you have the right to request information about how we share certain categories of personal information with third parties. California law gives you the right to send us a request at a designated address to receive the following information:
+**2\. User Consent.** By submitting Personal Data through our Services, you agree to the terms of this Privacy Policy and you expressly consent to the collection, use and disclosure of your Personal Data in accordance with this Privacy Policy.
 
-1\. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;  
-2\. the names and addresses of the third parties that received that information; and  
-3\. if the nature of the third party’s business cannot be determined from their name, examples of the products or services marketed.
+**3\. A Note about Children.** The Services are not intended for children under 13, and we do not intentionally gather Personal Data from visitors who are under the age of 13. If we discover that a child under 13 has submitted Personal Data to Ticketfly, we will attempt to delete the information as soon as possible. If you believe that we might have any Personal Data from a child under 13, please contact us at [legal@ticketfly.com](mailto:legal@ticketfly.com).
 
-We may provide this information in a standard format that is not specific to you. The designated email address for these requests is [legal@ticketfly.com](mailto:legal@ticketfly.com).
+**4\. A Note to Users Outside of the United States.** By using our Services, you acknowledge and agree that your Personal Data may be collected, used, disclosed and otherwise processed for the purposes identified in this Privacy Policy. In addition, your Personal Data may be maintained and processed by Ticketfly and our third-party service providers and Affiliates (as defined below) in the country in which it was collected and in other countries, including the United States, where laws regarding the processing of Personal Data may be less protective than the laws in your country. Personal Data processed in another jurisdiction may be accessible by the courts, law enforcement and national security authorities of such jurisdiction. By using our Services, you consent to such processing and transfer.
+
+**5\. Types of Data We Collect.**
+
+**(a) Information You Provide to Us.**
+
+  * We may collect your e-mail address and password when you create an account to log in to our network (“ **Account** ”).
+  * When you order tickets through our Services, we will collect information necessary to complete the transaction, which may include your name, e-mail, phone number, credit card information, billing address and other billing information, and shipping address information. We may also collect other event-related information from you. For instance, we may ask how you heard about the event or we may request your clothing size if the event provides a gift T-shirt or other apparel.
+  * If you provide us feedback or contact us via e-mail, phone, or social networking service (e.g., Twitter or Facebook), we may collect your name and contact information, as well as any other content included in your communication to us, in order to send you a reply, and for other reasons as stated in this policy.
+  * If you post content on publicly accessible portions of our Services, the information contained in your posting will be stored in our servers and other users will be able to see the content. If you signed in to your Account via a social networking site (“ **SNS** ”), your profile photo may be displayed along with your posted content.
+  * If you respond to one of our surveys, we will collect any Personal Data you provide in your survey responses.
+  * We (or service providers acting on our behalf) may also collect Personal Data to administer your participation in contests, sweepstakes or other promotions and at other points in our Services that state that Personal Data is being collected.
+
+
+
+****(b) Information You Provide to Social Networking Sites.**** If you elect to sign in to your Account via a SNS, you are allowing us to access information stored by the SNS, including, without limitation, your public user ID, public profile information, your email address, your “likes”, and your “shares”, and you are agreeing to the SNS’s terms of use as well as our Purchase Terms and Conditions (<http://start.ticketfly.com/purchase-terms-and-conditions>) and Terms of Service (<http://start.ticketfly.com/terms-of-service>) in connection with your use of the Services. The particular data that we collect from your SNS account may depend on the privacy settings you have selected with your SNS, so please consult the SNS’s privacy policy for more information.
+
+**(c) Information Collected from Client Users of Our Services.** If you are an employee of a Ticketfly Client who has been granted access to the administrative tools and features of our Services, we may collect Personal Data from you in connection with the establishment of your access credentials and your use of our Services, including without limitation, your name, position, work email address, business address and work phone number and any records you create while using our Services. We will use and share this information in accordance with this Privacy Policy, subject to any separate agreements we have negotiated with your employer.
+
+**(d) Information Collected Automatically.**
+
+  * Information Collected by Our Servers. To make our Services more useful to you, our servers (which may be hosted by a third-party service provider) may collect information from your computer or device, including but not limited to: 
+    * The date and time of your visit and the web pages, content and advertisements you view and links you click on while navigating within our Services;
+    * Information about your interactions with any content appearing on our Services, such as the type of content accessed via our Services;
+    * Information about your interactions with our email messages, such as the links you click on and whether you open or forward a message, the date and time of these interactions and the device you use to read emails;
+    * The site you visited before and after visiting our Site;
+    * Your Internet Protocol (IP) address (a numerical address assigned to your computer or device by your Internet service provider so that other computers or devices connected to the Internet can communicate with your computer or device online) that can sometimes be used to derive your general geographic area;
+    * Search terms you enter using our Services or on a referral site;
+    * Unique identifiers such as mobile device advertising identifiers and non-global mobile device identification numbers;
+    * With your permission, your exact device location;
+    * Information about your device such as your device type and model, screen size, browser type, language and other settings, memory capacity, advertising identifiers, operating system, Wi-Fi information, radio type (e.g. LTE, 3G, etc.), carrier code, and time zone; and
+    * Information collected through cookies, pixel tags and other tracking technologies (see additional descriptions of these terms below).
+  * Cookies. Like many online services, we use cookies to collect information. “ **Cookies** ” are small pieces of information that a website sends to your computer’s hard drive while you are viewing the website. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Services. To turn off cookies, see “Your Choices Regarding Information” below.
+  * Local Storage. Ticketfly and its advertising and technology partners may, in some instances, use HTML5 and/or Flash Local Storage (collectively, “ **Local Storage** “) to enhance your experiences on the Service.
+  * Pixel Tags. We and our service providers also use “ **Pixel Tags** ” (sometimes referred to as clear Gifs, Web beacons, or Web bugs). Pixel Tags are tiny graphic images with a unique identifier, similar in function to Cookies, that are used to track online movements of Web users. In contrast to Cookies, which are stored on a user’s computer hard drive, Pixel Tags are embedded invisibly in Web pages. Pixel Tags also allow us to send e-mail messages in a format users can read, and they tell us whether e-mails have been opened to help us ensure that we are sending messages that are of interest to our users. We may use this information to, among other things, reduce the frequency of or eliminate messages sent to a user.
+  * Do Not Track. We do not currently respond to “do not track” signals from web browsers.
+  * Analytics Services. We use technology provided by third-party analytics services (“ **Analytics Services** ”) to help analyze how users use our Services. The information generated by Cookies or other technologies that monitor your use of our Services (“ **Analytics Information** ”) is collected by such Analytics Services (e.g., Google Analytics) so that they can compile reports on user activity. The Analytics Services may also transfer the Analytics Information to third parties where required to do so by law, or where such third parties process Analytics Information on their behalf. Each Analytics Service’s ability to use and share Analytics Information is restricted by such Analytics Service’s terms of use and privacy policy. By using our Services, you consent to the processing of data about you by Analytics Services in the manner and for the purposes set out above. To learn more about how Google Analytics uses data, visit [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). For a list of our Analytics Services and further information on how those services use data, please contact us at [legal@ticketfly.com](mailto:legal@ticketfly.com).
+
+
+
+**(e) Information Collected from Third Parties.** We may combine information we collect through our Services with other information we obtain about you, your computer or device from other companies and sources, including Affiliates, Clients, and public databases, and use that information for the purposes described in this Privacy Policy. This additional data may include, without limitation, additional contact information (name, postal address, email address and telephone number), information about your musical and other interests and purchase behavior, publicly-visible data, such as your posts and submissions to blogs and other interactive forums and additional demographic information. In addition, we may receive aggregated information from our data suppliers such as age and gender information to understand the demographics and interests of our users.
+
+**6\. Use of Your Personal Data**
+
+**(a) General Use.** In general, Personal Data is used either to respond to requests that you make, or to help provide and improve our and our Clients’ products, services, content, and advertising for you and other users. We, our authorized service providers, and our Clients that offer the tickets you purchase or that host, organize or promote the events you browse on our Services, may use your Personal Data for a variety of purposes, including:
+
+  * To facilitate the creation of and secure your Account on our network;
+  * To identify you as a user in our system;
+  * To provide improved administration of our Services;
+  * To provide you with content that may be of interest to you;
+  * To provide the tickets and Services you request;
+  * To contact you in the event of changes to an event, such as a change in a seat assignment or cancellation of an event that you have purchased tickets to attend;
+  * To measure and analyze audience traffic and improve the quality of your experience when you interact with our Services;
+  * To send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+  * To send you administrative e-mail notifications, such as security, or support and maintenance advisories;
+  * To respond to your inquiries or other requests;
+  * To send newsletters, surveys, offers, and other promotional materials and for other marketing purposes;
+  * To help recognize you as a previous visitor and save and remember your preferences and settings and deliver to you appropriate interest-based content;
+  * To control the display of advertising and help deliver advertising tailored to your interests, from us, our Clients or others;
+  * To understand how you use our Services. For example, we may use Personal Data to determine whether our users read email messages and click on links within those messages;
+  * To detect and prevent fraud and other potentially prohibited or illegal activities, comply with applicable law and enforce our Terms of Service; and
+  * For any other purposes disclosed to you at the time of collection or pursuant to your consent.
+
+
+
+**(b) Creation and/or Use of Anonymous Data.** We may create Anonymous Data records from Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We reserve the right to use Anonymous Data for any purpose and disclose Anonymous Data to any third parties in our sole discretion.
+
+**7\. Disclosure of Your Personal Data.** We disclose your Personal Data as described below and as described elsewhere in this Privacy Policy. With your consent, we may also disclose Personal Data to third parties in other circumstances that we describe to you while you are using our Services.
+
+**(a) Ticketfly Clients.** We may share the Personal Data we collect from or about you with the Clients that offer the tickets you purchase or that host, organize, operate or promote the events you browse while using our Services. For example, our Clients may receive a list of their customers who purchased tickets through our Services together with contact information, information about the tickets each customer purchased, and information about how their customers shared content relating to the Client’s events or performances on social media. Our Clients may use and share this information for marketing, operational, analytics and other purposes pursuant to their own respective privacy policies and practices, for which we are not responsible, and that may differ from ours. Our Clients will also have access to any Personal Data collected from their own employees who access and use the administrative tools and features available through our Services together with any records or reports their employees create, and information about how their employees interact with and use those features and tools.
+
+**(b) Public Posts and Profile Pictures.** Any content you post to public areas of the Services (e.g. the comment section on web pages) is available for public viewing. If you sign in to your Account via SNS and interact with the Services in a public manner (e.g. by publicly RSVP’ing to an event or posting a public comment), your SNS profile picture and link to your SNS profile may be posted on the Services together with a record of your public interaction. Once displayed on publicly viewable web pages, your content can be collected and used by others. We cannot control who reads your postings or what other users may do with the content that you voluntarily post, so it is very important that you do not include Personal Data that you do not want to make public in your posts. Once you have posted information publicly, while you will still be able to edit and delete it on the Services, you will not be able to edit or delete such information after it has been cached, collected, and stored elsewhere by others (e.g., search engines).
+
+**(c) Third-Party Service Providers.** We may share your Personal Data with third-party service providers that we or our Clients employ to provide services on our or their behalf, such as to: provide you with the Services; process and fulfill your ticket purchase; conduct quality assurance testing; facilitate creation of accounts; provide technical support; and/or provide other services to Ticketfly or to our Clients. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. Our third-party service providers may be located in jurisdictions outside of the United States or Canada. If you have questions about our use of third-party service providers, please contact our Privacy Officer at [legal@ticketfly.com](mailto:legal@ticketfly.com).
+
+**(d) Pandora and Our Affiliates.** We may share some or all of your Personal Data with our parent company, Pandora, our subsidiaries, joint ventures, or other companies under common control (“ **Affiliates** ”) with us. Personal Data collected from Ticketfly may be linked to Personal Data collected from Affiliates and will be used in accordance with the applicable Affiliate’s Privacy Policy, including, without limitation, for their respective marketing, analytics and operational purposes. Pandora’s Privacy Policy is available at [www.pandora.com/privacy](http://www.pandora.com/privacy).
+
+**(e) NOTICE TO CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**
+
+(AS PROVIDED BY CALIFORNIA CIVIL CODE SECTION 1798.83
+
+A CALIFORNIA RESIDENT WHO HAS PROVIDED PERSONAL DATA TO A BUSINESS WITH WHOM HE/SHE HAS ESTABLISHED A BUSINESS RELATIONSHIP FOR PERSONAL, FAMILY, OR HOUSEHOLD PURPOSES (A “CALIFORNIA CUSTOMER”) MAY REQUEST INFORMATION ABOUT WHETHER THE BUSINESS HAS DISCLOSED PERSONAL DATA TO ANY THIRD PARTIES FOR THE THIRD PARTIES’ DIRECT MARKETING PURPOSES. IN GENERAL, IF THE BUSINESS HAS MADE SUCH A DISCLOSURE OF PERSONAL DATA, UPON RECEIPT OF A REQUEST BY A CALIFORNIA CUSTOMER, THE BUSINESS IS REQUIRED TO PROVIDE A LIST OF ALL THIRD PARTIES TO WHOM PERSONAL DATA WAS DISCLOSED IN THE PRECEDING CALENDAR YEAR, AS WELL AS A LIST OF THE CATEGORIES OF PERSONAL DATA THAT WERE DISCLOSED. CALIFORNIA CUSTOMERS MAY REQUEST FURTHER INFORMATION ABOUT OUR COMPLIANCE WITH THIS LAW BY E-MAILING [LEGAL@TICKETFLY.COM](mailto:legal@ticketfly.com). PLEASE NOTE THAT WE ARE REQUIRED TO RESPOND TO ONLY ONE REQUEST PER CALIFORNIA CUSTOMER EACH YEAR AND WE ARE NOT REQUIRED TO RESPOND TO REQUESTS MADE BY MEANS OTHER THAN THROUGH THIS E-MAIL ADDRESS.
+
+**(f) Corporate Restructuring.** We may share some or all of your Personal Data in connection with or during negotiation of any contemplated or actual merger, financing, acquisition or dissolution transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets. In the event of an insolvency, bankruptcy, or receivership, Personal Data may also be transferred as a business asset. If another company acquires our company, business, or assets, that company will possess the Personal Data collected by us.
+
+**(g) Social Networking Sites.** Some of our Services may enable you to post content to SNSs or RSVP to events on SNSs. If you choose to do this, we will provide information to such SNSs in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those SNSs and that it is your responsibility to review the terms of use and privacy policy of the third-party provider of such SNSs. We will not be responsible or liable for: (i) the availability or accuracy of such SNSs; (ii) the content, products or services on or availability of such SNSs; or (iii) your use of any such SNSs.
+
+**(h) Other Disclosures.** Regardless of any choices you make regarding your Personal Data (as described below), Ticketfly may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation or proceeding; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Ticketfly; (c) to protect or defend the rights or property of Ticketfly, its Affiliates or its users; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Service.
+
+**8\. Third-Party Websites and Applications.** Our Services may contain links to third-party websites and applications. When you click on a link to any other website or application, you will leave our Services and go to another site or application, and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites, applications, or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites, applications, or content, or to any collection, use or disclosure of your Personal Data after you click on links to such outside websites or applications. We encourage you to read the privacy policies of every website or application you visit. The links to third-party websites or applications are for your convenience and do not signify our endorsement of such third parties or their products, content, services, or privacy practices.
+
+**9\. Your Choices Regarding Information.** You have several choices regarding the use of information we collect:
+
+**(a) Email Communications.** We may periodically send you free newsletters and e-mails that directly promote the use of our Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further marketing and promotional e-mail communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information above). Despite your indicated e-mail preferences, we may continue to send you account or service-related communications, including notices of any updates to our Terms of Service or Privacy Policy.
+
+**(b) Analytics Services.** You may opt-out of tracking by certain of our analytics services by visiting the following: <https://mixpanel.com/optout/> for Mixpanel and <https://tools.google.com/dlpage/gaoptout> for Google Analytics. For a full list of our Analytics Services and other opt-out options, please contact us at [legal@ticketfly.com](mailto:legal@ticketfly.com).
+
+**(c) Cookies.** If you decide at any time that you no longer wish to accept Cookies from our Service for any of the purposes described above, then you can instruct your browser, by changing its settings, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. Consult your browser’s technical information. If you do not accept Cookies, however, you may not be able to use all portions of the Service or all functionality of the Services. If you get a new computer, install a new browser, erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may also clear the opt-out cookies of our analytics services providers.
+
+**(d) Local Storage.** For more information on how to manage content stored with Local Storage, which cannot be disabled using ordinary browser settings, visit <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>.
+
+**(e) De-Linking SNS.** If you decide at any time that you no longer wish to have your SNS account linked to your Account, please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Services and your social media account.
+
+**(f) Accessing, Updating, Correcting, or Changing Your Personal Data.** You may access, update, correct or change your Personal Data by editing it within your Account. You may also request access or changes to your Personal Data in our custody or control by sending an e-mail to us at [legal@ticketfly.com](mailto:legal@ticketfly.com). We may request certain Personal Data for the purposes of verifying the identity of the individual seeking access to their Personal Data records.
+
+**(g) Application.** You can stop all future collection of information by the Application by uninstalling the Application using the standard uninstall processes supported by your mobile device and/or the mobile application marketplace or network you use.
+
+**10\. Changes to This Privacy Policy.** This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at <http://start.ticketfly.com/privacy> and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
