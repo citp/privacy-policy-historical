@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheresbest.co.uk privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206123138id_/http%3A//www.wheresbest.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheresbest.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612232948id_/http%3A//www.wheresbest.co.uk/privacy.php) for the most accurate reproduction.*
 
 # UK directory of pubs, restaurants, hotels, youth hostels and other places of interest. - Wheresbest.co.uk
 
