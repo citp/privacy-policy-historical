@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119024303id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612115448id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -141,7 +141,7 @@ As well as searching credit reference agencies, we may ask you to provide physic
 
 If you apply to us but we are unable to offer you a credit card you can contact us within 21 days to ask to have the decision reconsidered.
 
-We will keep your data for statistical analysis, fraud prevention and credit scoring purposes. Where you consented to this during the application process, we may also contact you by post, email, SMS phone or in any other way (including online and via social media) about our products and services unless you tell us that you prefer not to receive marketing by contacting our Customer Services Team as set out below.
+We will keep your data for statistical analysis, fraud prevention and credit scoring purposes. Where you consented to this during the application process, we may also contact you by post, email, SMS, phone or in any other way (including online and via social media) about our products and services unless you tell us that you prefer not to receive marketing by contacting our Customer Services Team as set out below.
 
 ### Incomplete applications
 
@@ -157,15 +157,11 @@ You have a right under the Consumer Credit Act 1974 to request credit reference 
 
 ### Contact from NewDay Group
 
-As part of the application process we ask whether we may contact you about our products and services. If you ticked yes, but no longer wish to receive such communications, please let us know by writing to Customer Services Team, NewDay Ltd, PO Box 700 Leeds LS99 2BD or phoning us on the number set out on your card or statement.
+We and the retailer, or members of either group, may send you information directly related to your card and from which you may benefit about, for example, retailer offers, loyalty points or cardholder promotions.
 
-We want to make sure that we provide excellent customer service and we use various means of communication to do this including phone, post, email and sms.
+As part of the application process we ask whether you wish to receive marketing from us. We will not send you marketing communications if you ask us not to. If you ticked yes, but no longer wish to receive such communications, please let us know by writing to Customer Services Team, NewDay Ltd, PO Box 700 Leeds LS99 2BD or phoning us on the number set out on your card or statement.
 
-We may contact you about services related to your credit card that we, or other companies outside the NewDay Group, may be able to provide you and which we think may be of interest to you or may benefit you financially. We promise not to contact you about everything – only if we think that it could be appropriate and relevant to you.
-
-We will not send you marketing communications if you ask us not to and we will not provide information about you to companies outside the NewDay Group to use for their own marketing purposes.
-
-If you do not want to receive marketing from us, please contact us on 0333 220 2691.
+We want to make sure that we provide excellent customer service and we use various means of communication to do this including phone, post, email and sms. You can choose the way in which you would like to be contacted. 
 
 ### Recording phone calls
 
