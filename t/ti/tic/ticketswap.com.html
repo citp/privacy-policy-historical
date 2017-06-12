@@ -1,31 +1,37 @@
-<!--The following is the downloaded HTML source of the ticketswap.com privacy policy that was archived on 2016-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202070607id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketswap.com privacy policy that was archived on 2017-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612062415id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8PUVVQGwAJU1BRAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><title>Privacy Policy - TicketSwap</title><meta name="description" content="With TicketSwap you can buy and sell e-tickets. It's easy, quick and safe."><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta property="og:title" content="TicketSwap: The safest way to buy and sell e-tickets"><meta property="og:image" content="https://d2ch0x1l0wofme.cloudfront.net/static/images/facebook-image-squarable.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:description" content=""><meta property="og:type" content="website"><meta property="og:site_name" content="TicketSwap"><meta name="twitter:image" content="https://d2ch0x1l0wofme.cloudfront.net/static/images/bm-square.png"><meta name="theme-color" content="#222222"><meta name="apple-itunes-app" content="app-id=932337449"><meta property="fb:app_id" content="384197868327751"><meta name="env" content="prod"><meta name="csrf_token" content="JfkFEofqqiEoTcHUQW13MUOYoIenZREgjfDhWXPWMCo"><meta name="app:response:status_code" content="200"><meta name="app:response:url" content="https://www.ticketswap.com/content/privacy"><link rel="canonical" href="https://www.ticketswap.com/content/privacy"><link rel="alternate" hreflang="nl-nl" href="https://www.ticketswap.nl/content/privacy"><link rel="alternate" hreflang="fr-fr" href="https://www.ticketswap.fr/content/privacy"><link rel="alternate" hreflang="de-de" href="https://www.ticketswap.de/content/privacy"><link rel="alternate" hreflang="en-gb" href="https://www.ticketswap.uk/content/privacy"><link rel="alternate" hreflang="en-ie" href="https://www.ticketswap.ie/content/privacy"><link rel="alternate" hreflang="pl-pl" href="https://www.ticketswap.pl/content/privacy"><link rel="alternate" hreflang="pt-pt" href="https://www.ticketswap.pt/content/privacy"><link rel="alternate" hreflang="sv-se" href="https://www.ticketswap.se/content/privacy"><link rel="alternate" hreflang="it-it" href="https://www.ticketswap.it/content/privacy"><link rel="alternate" hreflang="es-es" href="https://www.ticketswap.es/content/privacy"><link rel="alternate" hreflang="hu-hu" href="https://www.ticketswap.hu/content/privacy"><link rel="alternate" hreflang="nl-be" href="https://www.ticketswap.be/content/privacy"><link rel="alternate" hreflang="fr-be" href="https://fr.ticketswap.be/content/privacy"><link rel="alternate" hreflang="de-ch" href="https://www.ticketswap.ch/content/privacy"><link rel="alternate" hreflang="fr-ch" href="https://fr.ticketswap.ch/content/privacy"><link rel="alternate" hreflang="it-ch" href="https://it.ticketswap.ch/content/privacy"><link rel="alternate" hreflang="de-at" href="https://www.ticketswap.at/content/privacy"><link rel="shortcut icon" type="image/x-icon" href="https://d2ch0x1l0wofme.cloudfront.net/static/images/favicon/favicon-blue-retina.ico"><link rel="apple-touch-icon-precomposed" href="https://d2ch0x1l0wofme.cloudfront.net/static/images/bm-square.png"><link href="https://d2ch0x1l0wofme.cloudfront.net/dcd0f9de9f58c38a8e807117b40df95c153bc333/dynamic/css/main.css" type="text/css" rel="stylesheet" data-turbolinks-track="reload"><script type="text/javascript">
+    
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Ug8PUVVQGwAJU1BRAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><title>Privacy Policy – TicketSwap</title><meta name="referrer" content="origin-when-cross-origin"><meta name="description" content="TicketSwap is the safest way to buy and sell e-tickets. Prices are always fair, because the selling price cannot exceed 120% of the original price."><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><meta property="og:title" content="TicketSwap: The safest way to buy and sell e-tickets"><meta property="og:image" content="https://cdn.ticketswap.com/static/images/facebook-image-squarable.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta property="og:description" content=""><meta property="og:type" content="website"><meta property="og:site_name" content="TicketSwap"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@TicketSwap"><meta name="twitter:title" content="Privacy Policy"><meta name="twitter:description" content="TicketSwap is the safest way to buy and sell e-tickets. Prices are always fair, because the selling price cannot exceed 120% of the original price."><meta name="twitter:image:src" content="https://cdn.ticketswap.com/static/images/facebook-image-squarable.png"><meta name="theme-color" content="#00b2f3"><meta name="apple-itunes-app" content="app-id=932337449"><meta property="fb:app_id" content="384197868327751"><meta name="google" content="notranslate"><meta name="env" content="prod"><meta name="csrf_token" content="B4VoJGBKTTmUJW-ISrf14ce5dzk66FTuvKFfEaO36Us"><meta name="app:response:status_code" content="200"><meta name="app:response:url" content="https://www.ticketswap.com/content/privacy"><link rel="canonical" href="https://www.ticketswap.com/content/privacy"><link rel="alternate" hreflang="nl-nl" href="https://www.ticketswap.nl/content/privacy"><link rel="alternate" hreflang="fr-fr" href="https://www.ticketswap.fr/content/privacy"><link rel="alternate" hreflang="de-de" href="https://www.ticketswap.de/content/privacy"><link rel="alternate" hreflang="en-gb" href="https://www.ticketswap.uk/content/privacy"><link rel="alternate" hreflang="en-ie" href="https://www.ticketswap.ie/content/privacy"><link rel="alternate" hreflang="pl-pl" href="https://www.ticketswap.pl/content/privacy"><link rel="alternate" hreflang="pt-pt" href="https://www.ticketswap.pt/content/privacy"><link rel="alternate" hreflang="sv-se" href="https://www.ticketswap.se/content/privacy"><link rel="alternate" hreflang="it-it" href="https://www.ticketswap.it/content/privacy"><link rel="alternate" hreflang="es-es" href="https://www.ticketswap.es/content/privacy"><link rel="alternate" hreflang="hu-hu" href="https://www.ticketswap.hu/content/privacy"><link rel="alternate" hreflang="da-dk" href="https://www.ticketswap.dk/content/privacy"><link rel="alternate" hreflang="nl-be" href="https://www.ticketswap.be/content/privacy"><link rel="alternate" hreflang="fr-be" href="https://fr.ticketswap.be/content/privacy"><link rel="alternate" hreflang="de-ch" href="https://www.ticketswap.ch/content/privacy"><link rel="alternate" hreflang="fr-ch" href="https://fr.ticketswap.ch/content/privacy"><link rel="alternate" hreflang="it-ch" href="https://it.ticketswap.ch/content/privacy"><link rel="alternate" hreflang="de-at" href="https://www.ticketswap.at/content/privacy"><link rel="alternate" hreflang="en" href="https://api.ticketswap.com/content/privacy"><link rel="shortcut icon" type="image/x-icon" href="https://cdn.ticketswap.com/static/images/favicon/favicon-blue-retina.ico"><link rel="apple-touch-icon-precomposed" href="https://cdn.ticketswap.com/static/images/bm-square.png"><link href="https://cdn.ticketswap.com/assets/css/main-5a126d45f0.css" type="text/css" rel="stylesheet" data-turbolinks-track="reload" integrity=""><script type="text/javascript">
         var LC_API = LC_API || {};
         var config = {
             facebook_app_id: '384197868327751',
             language: 'en',
+            locale: 'en',
             geoCountry: 'US',
-            search_country: '',
+            search_country: 'US',
             debug: false,
-            release: 'dcd0f9de9f58c38a8e807117b40df95c153bc333',
-            allCountries: {"AF":"Afghanistan","AX":"\u00c5land Islands","AL":"Albania","DZ":"Algeria","AS":"American Samoa","AD":"Andorra","AO":"Angola","AI":"Anguilla","AQ":"Antarctica","AG":"Antigua & Barbuda","AR":"Argentina","AM":"Armenia","AW":"Aruba","AC":"Ascension Island","AU":"Australia","AT":"Austria","AZ":"Azerbaijan","BS":"Bahamas","BH":"Bahrain","BD":"Bangladesh","BB":"Barbados","BY":"Belarus","BE":"Belgium","BZ":"Belize","BJ":"Benin","BM":"Bermuda","BT":"Bhutan","BO":"Bolivia","BA":"Bosnia & Herzegovina","BW":"Botswana","BR":"Brazil","IO":"British Indian Ocean Territory","VG":"British Virgin Islands","BN":"Brunei","BG":"Bulgaria","BF":"Burkina Faso","BI":"Burundi","KH":"Cambodia","CM":"Cameroon","CA":"Canada","IC":"Canary Islands","CV":"Cape Verde","BQ":"Caribbean Netherlands","KY":"Cayman Islands","CF":"Central African Republic","EA":"Ceuta & Melilla","TD":"Chad","CL":"Chile","CN":"China","CX":"Christmas Island","CC":"Cocos (Keeling) Islands","CO":"Colombia","KM":"Comoros","CG":"Congo - Brazzaville","CD":"Congo - Kinshasa","CK":"Cook Islands","CR":"Costa Rica","CI":"C\u00f4te d\u2019Ivoire","HR":"Croatia","CU":"Cuba","CW":"Cura\u00e7ao","CY":"Cyprus","CZ":"Czech Republic","DK":"Denmark","DG":"Diego Garcia","DJ":"Djibouti","DM":"Dominica","DO":"Dominican Republic","EC":"Ecuador","EG":"Egypt","SV":"El Salvador","GQ":"Equatorial Guinea","ER":"Eritrea","EE":"Estonia","ET":"Ethiopia","FK":"Falkland Islands","FO":"Faroe Islands","FJ":"Fiji","FI":"Finland","FR":"France","GF":"French Guiana","PF":"French Polynesia","TF":"French Southern Territories","GA":"Gabon","GM":"Gambia","GE":"Georgia","DE":"Germany","GH":"Ghana","GI":"Gibraltar","GR":"Greece","GL":"Greenland","GD":"Grenada","GP":"Guadeloupe","GU":"Guam","GT":"Guatemala","GG":"Guernsey","GN":"Guinea","GW":"Guinea-Bissau","GY":"Guyana","HT":"Haiti","HN":"Honduras","HK":"Hong Kong SAR China","HU":"Hungary","IS":"Iceland","IN":"India","ID":"Indonesia","IR":"Iran","IQ":"Iraq","IE":"Ireland","IM":"Isle of Man","IL":"Israel","IT":"Italy","JM":"Jamaica","JP":"Japan","JE":"Jersey","JO":"Jordan","KZ":"Kazakhstan","KE":"Kenya","KI":"Kiribati","XK":"Kosovo","KW":"Kuwait","KG":"Kyrgyzstan","LA":"Laos","LV":"Latvia","LB":"Lebanon","LS":"Lesotho","LR":"Liberia","LY":"Libya","LI":"Liechtenstein","LT":"Lithuania","LU":"Luxembourg","MO":"Macau SAR China","MK":"Macedonia","MG":"Madagascar","MW":"Malawi","MY":"Malaysia","MV":"Maldives","ML":"Mali","MT":"Malta","MH":"Marshall Islands","MQ":"Martinique","MR":"Mauritania","MU":"Mauritius","YT":"Mayotte","MX":"Mexico","FM":"Micronesia","MD":"Moldova","MC":"Monaco","MN":"Mongolia","ME":"Montenegro","MS":"Montserrat","MA":"Morocco","MZ":"Mozambique","MM":"Myanmar (Burma)","NA":"Namibia","NR":"Nauru","NP":"Nepal","NL":"Netherlands","NC":"New Caledonia","NZ":"New Zealand","NI":"Nicaragua","NE":"Niger","NG":"Nigeria","NU":"Niue","NF":"Norfolk Island","KP":"North Korea","MP":"Northern Mariana Islands","NO":"Norway","OM":"Oman","PK":"Pakistan","PW":"Palau","PS":"Palestinian Territories","PA":"Panama","PG":"Papua New Guinea","PY":"Paraguay","PE":"Peru","PH":"Philippines","PN":"Pitcairn Islands","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","QA":"Qatar","RE":"R\u00e9union","RO":"Romania","RU":"Russia","RW":"Rwanda","WS":"Samoa","SM":"San Marino","ST":"S\u00e3o Tom\u00e9 & Pr\u00edncipe","SA":"Saudi Arabia","SN":"Senegal","RS":"Serbia","SC":"Seychelles","SL":"Sierra Leone","SG":"Singapore","SX":"Sint Maarten","SK":"Slovakia","SI":"Slovenia","SB":"Solomon Islands","SO":"Somalia","ZA":"South Africa","GS":"South Georgia & South Sandwich Islands","KR":"South Korea","SS":"South Sudan","ES":"Spain","LK":"Sri Lanka","BL":"St. Barth\u00e9lemy","SH":"St. Helena","KN":"St. Kitts & Nevis","LC":"St. Lucia","MF":"St. Martin","PM":"St. Pierre & Miquelon","VC":"St. Vincent & Grenadines","SD":"Sudan","SR":"Suriname","SJ":"Svalbard & Jan Mayen","SZ":"Swaziland","SE":"Sweden","CH":"Switzerland","SY":"Syria","TW":"Taiwan","TJ":"Tajikistan","TZ":"Tanzania","TH":"Thailand","TL":"Timor-Leste","TG":"Togo","TK":"Tokelau","TO":"Tonga","TT":"Trinidad & Tobago","TA":"Tristan da Cunha","TN":"Tunisia","TR":"Turkey","TM":"Turkmenistan","TC":"Turks & Caicos Islands","TV":"Tuvalu","UM":"U.S. Outlying Islands","VI":"U.S. Virgin Islands","UG":"Uganda","UA":"Ukraine","AE":"United Arab Emirates","GB":"United Kingdom","US":"United States","UY":"Uruguay","UZ":"Uzbekistan","VU":"Vanuatu","VA":"Vatican City","VE":"Venezuela","VN":"Vietnam","WF":"Wallis & Futuna","EH":"Western Sahara","YE":"Yemen","ZM":"Zambia","ZW":"Zimbabwe"},
-            searchCountries: ["AT","BE","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HU","IE","IT","LT","LU","LV","MT","NL","NO","PL","PT","SE","SI","SK"],
-            searchCountryNames: {"AT":"Austria","BE":"Belgium","CY":"Cyprus","CZ":"Czech Republic","DK":"Denmark","EE":"Estonia","FI":"Finland","FR":"France","DE":"Germany","GR":"Greece","HU":"Hungary","IE":"Ireland","IT":"Italy","LV":"Latvia","LT":"Lithuania","LU":"Luxembourg","MT":"Malta","NL":"Netherlands","NO":"Norway","PL":"Poland","PT":"Portugal","SK":"Slovakia","SI":"Slovenia","ES":"Spain","SE":"Sweden","CH":"Switzerland","GB":"United Kingdom"},
-            preferredCountries: ["AT","BE","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HU","IE","IT","LT","LU","LV","MT","NL","NO","PL","PT","SE","SI","SK"],
+            release: '04f3c4f51d60173d488753535c6895d72c3de7a6',
+            allCountries: {"AF":"Afghanistan","AX":"\u00c5land Islands","AL":"Albania","DZ":"Algeria","AS":"American Samoa","AD":"Andorra","AO":"Angola","AI":"Anguilla","AQ":"Antarctica","AG":"Antigua & Barbuda","AR":"Argentina","AM":"Armenia","AW":"Aruba","AC":"Ascension Island","AU":"Australia","AT":"Austria","AZ":"Azerbaijan","BS":"Bahamas","BH":"Bahrain","BD":"Bangladesh","BB":"Barbados","BY":"Belarus","BE":"Belgium","BZ":"Belize","BJ":"Benin","BM":"Bermuda","BT":"Bhutan","BO":"Bolivia","BA":"Bosnia & Herzegovina","BW":"Botswana","BR":"Brazil","IO":"British Indian Ocean Territory","VG":"British Virgin Islands","BN":"Brunei","BG":"Bulgaria","BF":"Burkina Faso","BI":"Burundi","KH":"Cambodia","CM":"Cameroon","CA":"Canada","IC":"Canary Islands","CV":"Cape Verde","BQ":"Caribbean Netherlands","KY":"Cayman Islands","CF":"Central African Republic","EA":"Ceuta & Melilla","TD":"Chad","CL":"Chile","CN":"China","CX":"Christmas Island","CC":"Cocos (Keeling) Islands","CO":"Colombia","KM":"Comoros","CG":"Congo - Brazzaville","CD":"Congo - Kinshasa","CK":"Cook Islands","CR":"Costa Rica","CI":"C\u00f4te d\u2019Ivoire","HR":"Croatia","CU":"Cuba","CW":"Cura\u00e7ao","CY":"Cyprus","CZ":"Czechia","DK":"Denmark","DG":"Diego Garcia","DJ":"Djibouti","DM":"Dominica","DO":"Dominican Republic","EC":"Ecuador","EG":"Egypt","SV":"El Salvador","GQ":"Equatorial Guinea","ER":"Eritrea","EE":"Estonia","ET":"Ethiopia","EZ":"Eurozone","FK":"Falkland Islands","FO":"Faroe Islands","FJ":"Fiji","FI":"Finland","FR":"France","GF":"French Guiana","PF":"French Polynesia","TF":"French Southern Territories","GA":"Gabon","GM":"Gambia","GE":"Georgia","DE":"Germany","GH":"Ghana","GI":"Gibraltar","GR":"Greece","GL":"Greenland","GD":"Grenada","GP":"Guadeloupe","GU":"Guam","GT":"Guatemala","GG":"Guernsey","GN":"Guinea","GW":"Guinea-Bissau","GY":"Guyana","HT":"Haiti","HN":"Honduras","HK":"Hong Kong SAR China","HU":"Hungary","IS":"Iceland","IN":"India","ID":"Indonesia","IR":"Iran","IQ":"Iraq","IE":"Ireland","IM":"Isle of Man","IL":"Israel","IT":"Italy","JM":"Jamaica","JP":"Japan","JE":"Jersey","JO":"Jordan","KZ":"Kazakhstan","KE":"Kenya","KI":"Kiribati","XK":"Kosovo","KW":"Kuwait","KG":"Kyrgyzstan","LA":"Laos","LV":"Latvia","LB":"Lebanon","LS":"Lesotho","LR":"Liberia","LY":"Libya","LI":"Liechtenstein","LT":"Lithuania","LU":"Luxembourg","MO":"Macau SAR China","MK":"Macedonia","MG":"Madagascar","MW":"Malawi","MY":"Malaysia","MV":"Maldives","ML":"Mali","MT":"Malta","MH":"Marshall Islands","MQ":"Martinique","MR":"Mauritania","MU":"Mauritius","YT":"Mayotte","MX":"Mexico","FM":"Micronesia","MD":"Moldova","MC":"Monaco","MN":"Mongolia","ME":"Montenegro","MS":"Montserrat","MA":"Morocco","MZ":"Mozambique","MM":"Myanmar (Burma)","NA":"Namibia","NR":"Nauru","NP":"Nepal","NL":"Netherlands","NC":"New Caledonia","NZ":"New Zealand","NI":"Nicaragua","NE":"Niger","NG":"Nigeria","NU":"Niue","NF":"Norfolk Island","KP":"North Korea","MP":"Northern Mariana Islands","NO":"Norway","OM":"Oman","PK":"Pakistan","PW":"Palau","PS":"Palestinian Territories","PA":"Panama","PG":"Papua New Guinea","PY":"Paraguay","PE":"Peru","PH":"Philippines","PN":"Pitcairn Islands","PL":"Poland","PT":"Portugal","PR":"Puerto Rico","QA":"Qatar","RE":"R\u00e9union","RO":"Romania","RU":"Russia","RW":"Rwanda","WS":"Samoa","SM":"San Marino","ST":"S\u00e3o Tom\u00e9 & Pr\u00edncipe","SA":"Saudi Arabia","SN":"Senegal","RS":"Serbia","SC":"Seychelles","SL":"Sierra Leone","SG":"Singapore","SX":"Sint Maarten","SK":"Slovakia","SI":"Slovenia","SB":"Solomon Islands","SO":"Somalia","ZA":"South Africa","GS":"South Georgia & South Sandwich Islands","KR":"South Korea","SS":"South Sudan","ES":"Spain","LK":"Sri Lanka","BL":"St. Barth\u00e9lemy","SH":"St. Helena","KN":"St. Kitts & Nevis","LC":"St. Lucia","MF":"St. Martin","PM":"St. Pierre & Miquelon","VC":"St. Vincent & Grenadines","SD":"Sudan","SR":"Suriname","SJ":"Svalbard & Jan Mayen","SZ":"Swaziland","SE":"Sweden","CH":"Switzerland","SY":"Syria","TW":"Taiwan","TJ":"Tajikistan","TZ":"Tanzania","TH":"Thailand","TL":"Timor-Leste","TG":"Togo","TK":"Tokelau","TO":"Tonga","TT":"Trinidad & Tobago","TA":"Tristan da Cunha","TN":"Tunisia","TR":"Turkey","TM":"Turkmenistan","TC":"Turks & Caicos Islands","TV":"Tuvalu","UM":"U.S. Outlying Islands","VI":"U.S. Virgin Islands","UG":"Uganda","UA":"Ukraine","AE":"United Arab Emirates","GB":"United Kingdom","UN":"United Nations","US":"United States","UY":"Uruguay","UZ":"Uzbekistan","VU":"Vanuatu","VA":"Vatican City","VE":"Venezuela","VN":"Vietnam","WF":"Wallis & Futuna","EH":"Western Sahara","YE":"Yemen","ZM":"Zambia","ZW":"Zimbabwe"},
+            searchCountries: ["AT","BE","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IT","LT","LU","LV","MT","NL","NO","PL","PT","SE","SI","SK","US"],
+            searchCountryNames: {"AT":"Austria","BE":"Belgium","HR":"Croatia","CY":"Cyprus","CZ":"Czechia","DK":"Denmark","EE":"Estonia","FI":"Finland","FR":"France","DE":"Germany","GR":"Greece","HU":"Hungary","IE":"Ireland","IT":"Italy","LV":"Latvia","LT":"Lithuania","LU":"Luxembourg","MT":"Malta","NL":"Netherlands","NO":"Norway","PL":"Poland","PT":"Portugal","SK":"Slovakia","SI":"Slovenia","ES":"Spain","SE":"Sweden","CH":"Switzerland","GB":"United Kingdom","US":"United States"},
+            preferredCountries: ["AT","BE","CH","CY","CZ","DE","DK","EE","ES","FI","FR","GB","GR","HR","HU","IE","IT","LT","LU","LV","MT","NL","NO","PL","PT","SE","SI","SK","US"],
             user_id: '',
-            assets_url: 'https://d2ch0x1l0wofme.cloudfront.net/',
-            supportedCurrencies: {"EUR":{"displayName":"Euro","symbol":"\u20ac"},"GBP":{"displayName":"Pound Sterling","symbol":"\u00a3"},"HUF":{"displayName":"Forint","symbol":"HUF"},"PLN":{"displayName":"Zloty","symbol":"PLN"}},
-            countriesWithDefaultCurrency: {"GB":{"displayName":"Pound Sterling","currencyCode":"GBP"},"HU":{"displayName":"Forint","currencyCode":"HUF"},"PL":{"displayName":"Zloty","currencyCode":"PLN"}},
+            assets_url: 'https://cdn.ticketswap.com/',
+            supportedCurrencies: {"EUR":{"displayName":"Euro","symbol":"\u20ac"},"DKK":{"displayName":"Danish Krone","symbol":"DKK"},"GBP":{"displayName":"Pound Sterling","symbol":"\u00a3"},"HUF":{"displayName":"Forint","symbol":"HUF"},"PLN":{"displayName":"Zloty","symbol":"PLN"},"SEK":{"displayName":"Swedish Krona","symbol":"SEK"},"USD":{"displayName":"US Dollar","symbol":"$"}},
+            countriesWithDefaultCurrency: {"DK":{"displayName":"Danish Krone","currencyCode":"DKK"},"GB":{"displayName":"Pound Sterling","currencyCode":"GBP"},"HU":{"displayName":"Forint","currencyCode":"HUF"},"PL":{"displayName":"Zloty","currencyCode":"PLN"},"SE":{"displayName":"Swedish Krona","currencyCode":"SEK"},"US":{"displayName":"US Dollar","currencyCode":"USD"}},
             isMobileApp: false,
             isIosApp: false,
             isAndroidApp: false,
             mobileAppVersion: '',
             showChat: false,
             facebookAccessToken: '',
-            disableTurbolinks: false
+            disableTurbolinks: false,
+            geoInfo: {
+                latitude: '37.7811',
+                longitude: '-122.4625'
+            }
         };
     </script><script type="text/javascript">
     var __lc = {};
@@ -33,7 +39,7 @@
 
         __lc.group = 2;
     
-    </script><script type="text/javascript" src="https://d2ch0x1l0wofme.cloudfront.net/dcd0f9de9f58c38a8e807117b40df95c153bc333/dynamic/js/common.js" data-turbolinks-track="reload"></script><script type="text/javascript" src="https://www.ticketswap.com/translations?locales=en%2Cen%2Cen"></script><script type="text/javascript" src="https://d2ch0x1l0wofme.cloudfront.net/dcd0f9de9f58c38a8e807117b40df95c153bc333/dynamic/js/app.js" data-turbolinks-track="reload"></script><script type="text/javascript" src="https://d2ch0x1l0wofme.cloudfront.net/dcd0f9de9f58c38a8e807117b40df95c153bc333/dynamic/js/react.js" data-turbolinks-track="reload"></script><script type="application/javascript">
+    </script><script type="text/javascript" src="https://cdn.ticketswap.com/assets/js/common-91ba182b2f.js" data-turbolinks-track="reload" integrity=""></script><script type="text/javascript" src="https://cdn.ticketswap.com/assets/js/translations-en-646c199ae3.js" integrity=""></script><script type="text/javascript" src="https://cdn.ticketswap.com/assets/js/app-3092c5f8f8.js" data-turbolinks-track="reload" integrity=""></script><script type="text/javascript" src="https://cdn.ticketswap.com/assets/js/react-034de2b96a.js" data-turbolinks-track="reload" integrity=""></script><script type="application/javascript">
     window.ga = window.ga||function(){(ga.q=ga.q||[]).push(arguments)}; ga.l = +new Date;
 
     if (typeof window.googleAnalytics !== 'undefined') {
@@ -71,37 +77,24 @@
 
         fbq('init', '1657645947888053');
         fbq('track', "PageView");
-    </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1657645947888053&ev=PageView&noscript=1" /></noscript><!-- End Facebook Pixel Code --><script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "WebSite",
-            "url": "https://www.ticketswap.com/",
-            "potentialAction": {
-                "@type": "SearchAction",
-                "target": "https://www.ticketswap.com/discover?query={search_term_string}",
-                "query-input": "required name=search_term_string"
-            }
-        }
-    </script></head>
+    </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1657645947888053&ev=PageView&noscript=1" /></noscript><!-- End Facebook Pixel Code --></head>
 <body class="lang-en chat-status-offline page-content-privacy content hide-cookie-bar">
     <script type="text/javascript">
         config.facebookAccessToken = '';
     </script>
-    <div id="fb-root"></div>
 
-    <!--[if lt IE 9 ]>
+    <!--[if lte IE 9 ]>
         <script type="text/javascript">document.body.className += ' oldie';</script>
                     <div id="browser-bar" class="nocontent top-bar top-bar-unsupported-browser">
                 <div class="title">Your browser is out of date and not supported by TicketSwap</div>
                 <p>
-                    <a href="https://www.google.com/chrome/browser/desktop/">Download Google Chrome</a> &middot; <a href="http://getfirefox.com">Download Firefox</a> &middot; <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Download Internet Explorer</a>                </p>
+                    <a href="https://www.google.com/chrome/browser/desktop/">Download Google Chrome</a> &middot; <a href="http://getfirefox.com">Download Firefox</a> &middot; <a href="https://www.microsoft.com/windows/microsoft-edge">Download Microsoft Edge</a>.                </p>
             </div>
             <![endif]-->
 
                                             
     
         
-    
                 
     <nav class="mobile-menu ">
     <a href="#close-menu" class="mobile-menu--close toggle" data-selector="body" data-class="open-menu"><i class="icon-remove"></i></a>
@@ -109,9 +102,8 @@
     <ul class="mobile-menu--items">
         <li><a href="/">Home</a></li>
         <li><a href="/upload">Sell<span> your e-ticket</span></a></li>
-        <li><a href="/discover">Discover</a></li>
-        <li><a href="/faq">FAQ</a></li>
-                    <li><a href="/login" data-facebook-login="reload"><i class="icon-facebook-alt"></i> Login</a></li>
+        <li><a href="/help">FAQ</a></li>
+                            <li><a href="/login" data-facebook-login="reload"><i class="icon-facebook-alt"></i> Login</a></li>
             </ul>
 
     </nav>
@@ -122,119 +114,12 @@
     </div>
 
     <div class="main-navigation--call-to-action">
-        <a href="/upload" class="btn btn-success">Sell<span> your e-ticket</span></a>
+        <a href="/upload" class="btn btn-success">Sell<span> tickets</span></a>
     </div>
 
     <nav class="main-navigation--mobile">
         <ul>
-                            <li><div class="vue-app" instance="mobile-nav">
-    <search v-cloak="" inline-template="" placement="top" :default-recent-events="[]" :default-popular-events="[]" default-country="global">
-        <form ref="form" @submit="onSubmit" @keydown.esc="close" :class="searchFormClasses">
-            <div class="auto-complete-search--form">
-                <label v-show="! hasFocus" @click="focus" :for="'query' + _uid" ref="label" class="act-label">${inputLabel}</label>
-
-                <input v-show="hasFocus" :id="'query' + _uid" name="query" class="act" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" ref="input" v-focus="isFocused('input')" :class="{'loading': fetchingResults}" v-model="query" @keyup="search" @keydown.up.down="changeSelectedItem" @focus="focus" :placeholder="inputPlaceholder">
-
-                    
-    
-    
-    
-    
-<div class="select-box search-country" data-store="search-country">
-            <label class="flag-WORLD">Global</label>
-        <select name="country">
-        <option value="worldwide" data-flag="WORLD" selected="selected">Global</option>
-
-                    <option value="AT" data-flag="AT">Austria</option>
-                    <option value="BE" data-flag="BE">Belgium</option>
-                    <option value="CY" data-flag="CY">Cyprus</option>
-                    <option value="CZ" data-flag="CZ">Czech Republic</option>
-                    <option value="DK" data-flag="DK">Denmark</option>
-                    <option value="EE" data-flag="EE">Estonia</option>
-                    <option value="FI" data-flag="FI">Finland</option>
-                    <option value="FR" data-flag="FR">France</option>
-                    <option value="DE" data-flag="DE">Germany</option>
-                    <option value="GR" data-flag="GR">Greece</option>
-                    <option value="HU" data-flag="HU">Hungary</option>
-                    <option value="IE" data-flag="IE">Ireland</option>
-                    <option value="IT" data-flag="IT">Italy</option>
-                    <option value="LV" data-flag="LV">Latvia</option>
-                    <option value="LT" data-flag="LT">Lithuania</option>
-                    <option value="LU" data-flag="LU">Luxembourg</option>
-                    <option value="MT" data-flag="MT">Malta</option>
-                    <option value="NL" data-flag="NL">Netherlands</option>
-                    <option value="NO" data-flag="NO">Norway</option>
-                    <option value="PL" data-flag="PL">Poland</option>
-                    <option value="PT" data-flag="PT">Portugal</option>
-                    <option value="SK" data-flag="SK">Slovakia</option>
-                    <option value="SI" data-flag="SI">Slovenia</option>
-                    <option value="ES" data-flag="ES">Spain</option>
-                    <option value="SE" data-flag="SE">Sweden</option>
-                    <option value="CH" data-flag="CH">Switzerland</option>
-                    <option value="GB" data-flag="GB">United Kingdom</option>
-            </select>
-</div>
-
-                <button v-if="placement === 'home'" type="submit" class="btn btn-lg">${trans("home.button.search")}</button>
-
-                <a href="#" @click="close" class="auto-complete-search--close"><i class="icon-remove"></i></a>
-            </div>
-
-            <div v-if="canShowSuggestionTray" class="auto-complete-tabs" @keydown.left.right="changeTab" @keydown.up.down.prevent="changeSelectedItem" tabindex="-1" v-focus="isFocused('tray')">
-                <nav v-if="canShowRecommendations || performedSearch">
-                    <a v-if="canShowTab('trending')" class="trending"><i class="icon-trending"></i> ${'auto.complete.search.tab.trending' | trans}</a>
-                    <a v-if="canShowTab('recent')" class="recent"><i class="icon-recently-viewed"></i> ${trans("auto.complete.search.tab.recent")}</a>
-                    <a @click.prevent="currentSearchTab = 'events'" v-if="performedSearch" :class="{active: activeTab === 'events' }">${trans("auto.complete.search.tab.events")}</a>
-                    <a @click.prevent="currentSearchTab = 'locations'" v-if="performedSearch" :class="{active: activeTab === 'locations' }">${trans("auto.complete.search.tab.locations")}</a>
-                    <a @click.prevent="currentSearchTab = 'cities'" v-if="performedSearch" :class="{active: activeTab === 'cities' }">${trans("auto.complete.search.tab.cities")}</a>
-                </nav>
-
-                <div v-if="canShowTab('trending')" :class="{'loading': fetchingTrending}" class="auto-complete-tabs--item auto-complete-tabs--trending">
-                    <search-result-item v-for="event in tabs.trending.items" v-focus="isFocused(event)" tab="trending" :url="event.url" :title="event.title" :content="generateEventResult(event)"></search-result-item>
-
-                    <div class="auto-complete-tabs--more">
-                        <a :href="route('discover')" class="auto-complete-discover-link" data-mobile-app-navigate="discover">${trans("auto.complete.search.tab.discover")}</a>
-                    </div>
-                </div>
-
-                <div v-if="canShowTab('recent')" class="auto-complete-tabs--item auto-complete-tabs--recent">
-                    <search-result-item v-for="event in tabs.recent.items" v-focus="isFocused(event)" tab="recent" :url="event.url" :title="event.title" :content="generateEventResult(event)"></search-result-item>
-                </div>
-
-                <div v-if="canShowTab('events')" class="auto-complete-tabs--item auto-complete-tabs--events">
-                    <div v-if="tabs.events.noResults" class="auto-complete-search--no-results">
-                        <h2>${translated('auto.complete.search.no.results')}</h2>
-                    </div>
-
-                    <h4 v-if="tabs.events.showGlobalHeading">${translated('auto.complete.search.global')}</h4>
-                    <search-result-item ref="eventItems" v-for="event in tabs.events.items" v-focus="isFocused(event)" :url="event.url" :title="event.title" :content="generateEventResult(event)"></search-result-item>
-
-                    <div v-if="tabs.events.total > 5" class="auto-complete-tabs--more">
-                        <a :href="tabs.events.url">${translated('auto.complete.search.more.events')}</a>
-                    </div>
-                </div>
-
-                <div v-if="canShowTab('locations')" class="auto-complete-tabs--item auto-complete-tabs--locations">
-                    <div v-if="tabs.locations.noResults" class="auto-complete-search--no-results">
-                        <h2>${translated('auto.complete.search.no.results')}</h2>
-                    </div>
-
-                    <h4 v-if="tabs.locations.showGlobalHeading">${translated('auto.complete.search.global')}</h4>
-                    <search-result-item v-for="location in tabs.locations.items" v-focus="isFocused(location)" :url="location.url" :title="location.name" :content="location.city.name + ', '  + location.city.translated_country"></search-result-item>
-                </div>
-
-                <div v-if="canShowTab('cities')" class="auto-complete-tabs--item auto-complete-tabs--cities">
-                    <div v-if="tabs.cities.noResults" class="auto-complete-search--no-results">
-                        <h2>${translated('auto.complete.search.no.results')}</h2>
-                    </div>
-
-                    <h4 v-if="tabs.cities.showGlobalHeading">${translated('auto.complete.search.global')}</h4>
-                    <search-result-item v-for="city in tabs.cities.items" v-focus="isFocused(city)" :url="city.url" :title="city.name" :content="city.translated_country"></search-result-item>
-                </div>
-            </div>
-        </form>
-    </search>
-</div>
+                            <li>    <div class="react-search-bar" data-placement="top" data-instancekey="topMobile"></div>
 </li>
                         <li><a href="/cart"><i class="icon-cart"></i></a></li>
             <li><a href="#open-menu" class="toggle close-cookie-bar" data-selector="body" data-class="open-menu"><i class="icon-hamburger"></i></a></li>
@@ -243,189 +128,11 @@
 
     <nav class="main-navigation--desktop">
         <ul>
-                            <li class="search"><div class="vue-app" instance="desktop-nav">
-    <search v-cloak="" inline-template="" placement="top" :default-recent-events="[]" :default-popular-events="[]" default-country="global">
-        <form ref="form" @submit="onSubmit" @keydown.esc="close" :class="searchFormClasses">
-            <div class="auto-complete-search--form">
-                <label v-show="! hasFocus" @click="focus" :for="'query' + _uid" ref="label" class="act-label">${inputLabel}</label>
-
-                <input v-show="hasFocus" :id="'query' + _uid" name="query" class="act" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" ref="input" v-focus="isFocused('input')" :class="{'loading': fetchingResults}" v-model="query" @keyup="search" @keydown.up.down="changeSelectedItem" @focus="focus" :placeholder="inputPlaceholder">
-
-                    
-    
-    
-    
-    
-<div class="select-box search-country" data-store="search-country">
-            <label class="flag-WORLD">Global</label>
-        <select name="country">
-        <option value="worldwide" data-flag="WORLD" selected="selected">Global</option>
-
-                    <option value="AT" data-flag="AT">Austria</option>
-                    <option value="BE" data-flag="BE">Belgium</option>
-                    <option value="CY" data-flag="CY">Cyprus</option>
-                    <option value="CZ" data-flag="CZ">Czech Republic</option>
-                    <option value="DK" data-flag="DK">Denmark</option>
-                    <option value="EE" data-flag="EE">Estonia</option>
-                    <option value="FI" data-flag="FI">Finland</option>
-                    <option value="FR" data-flag="FR">France</option>
-                    <option value="DE" data-flag="DE">Germany</option>
-                    <option value="GR" data-flag="GR">Greece</option>
-                    <option value="HU" data-flag="HU">Hungary</option>
-                    <option value="IE" data-flag="IE">Ireland</option>
-                    <option value="IT" data-flag="IT">Italy</option>
-                    <option value="LV" data-flag="LV">Latvia</option>
-                    <option value="LT" data-flag="LT">Lithuania</option>
-                    <option value="LU" data-flag="LU">Luxembourg</option>
-                    <option value="MT" data-flag="MT">Malta</option>
-                    <option value="NL" data-flag="NL">Netherlands</option>
-                    <option value="NO" data-flag="NO">Norway</option>
-                    <option value="PL" data-flag="PL">Poland</option>
-                    <option value="PT" data-flag="PT">Portugal</option>
-                    <option value="SK" data-flag="SK">Slovakia</option>
-                    <option value="SI" data-flag="SI">Slovenia</option>
-                    <option value="ES" data-flag="ES">Spain</option>
-                    <option value="SE" data-flag="SE">Sweden</option>
-                    <option value="CH" data-flag="CH">Switzerland</option>
-                    <option value="GB" data-flag="GB">United Kingdom</option>
-            </select>
-</div>
-
-                <button v-if="placement === 'home'" type="submit" class="btn btn-lg">${trans("home.button.search")}</button>
-
-                <a href="#" @click="close" class="auto-complete-search--close"><i class="icon-remove"></i></a>
-            </div>
-
-            <div v-if="canShowSuggestionTray" class="auto-complete-tabs" @keydown.left.right="changeTab" @keydown.up.down.prevent="changeSelectedItem" tabindex="-1" v-focus="isFocused('tray')">
-                <nav v-if="canShowRecommendations || performedSearch">
-                    <a v-if="canShowTab('trending')" class="trending"><i class="icon-trending"></i> ${'auto.complete.search.tab.trending' | trans}</a>
-                    <a v-if="canShowTab('recent')" class="recent"><i class="icon-recently-viewed"></i> ${trans("auto.complete.search.tab.recent")}</a>
-                    <a @click.prevent="currentSearchTab = 'events'" v-if="performedSearch" :class="{active: activeTab === 'events' }">${trans("auto.complete.search.tab.events")}</a>
-                    <a @click.prevent="currentSearchTab = 'locations'" v-if="performedSearch" :class="{active: activeTab === 'locations' }">${trans("auto.complete.search.tab.locations")}</a>
-                    <a @click.prevent="currentSearchTab = 'cities'" v-if="performedSearch" :class="{active: activeTab === 'cities' }">${trans("auto.complete.search.tab.cities")}</a>
-                </nav>
-
-                <div v-if="canShowTab('trending')" :class="{'loading': fetchingTrending}" class="auto-complete-tabs--item auto-complete-tabs--trending">
-                    <search-result-item v-for="event in tabs.trending.items" v-focus="isFocused(event)" tab="trending" :url="event.url" :title="event.title" :content="generateEventResult(event)"></search-result-item>
-
-                    <div class="auto-complete-tabs--more">
-                        <a :href="route('discover')" class="auto-complete-discover-link" data-mobile-app-navigate="discover">${trans("auto.complete.search.tab.discover")}</a>
-                    </div>
-                </div>
-
-                <div v-if="canShowTab('recent')" class="auto-complete-tabs--item auto-complete-tabs--recent">
-                    <search-result-item v-for="event in tabs.recent.items" v-focus="isFocused(event)" tab="recent" :url="event.url" :title="event.title" :content="generateEventResult(event)"></search-result-item>
-                </div>
-
-                <div v-if="canShowTab('events')" class="auto-complete-tabs--item auto-complete-tabs--events">
-                    <div v-if="tabs.events.noResults" class="auto-complete-search--no-results">
-                        <h2>${translated('auto.complete.search.no.results')}</h2>
-                    </div>
-
-                    <h4 v-if="tabs.events.showGlobalHeading">${translated('auto.complete.search.global')}</h4>
-                    <search-result-item ref="eventItems" v-for="event in tabs.events.items" v-focus="isFocused(event)" :url="event.url" :title="event.title" :content="generateEventResult(event)"></search-result-item>
-
-                    <div v-if="tabs.events.total > 5" class="auto-complete-tabs--more">
-                        <a :href="tabs.events.url">${translated('auto.complete.search.more.events')}</a>
-                    </div>
-                </div>
-
-                <div v-if="canShowTab('locations')" class="auto-complete-tabs--item auto-complete-tabs--locations">
-                    <div v-if="tabs.locations.noResults" class="auto-complete-search--no-results">
-                        <h2>${translated('auto.complete.search.no.results')}</h2>
-                    </div>
-
-                    <h4 v-if="tabs.locations.showGlobalHeading">${translated('auto.complete.search.global')}</h4>
-                    <search-result-item v-for="location in tabs.locations.items" v-focus="isFocused(location)" :url="location.url" :title="location.name" :content="location.city.name + ', '  + location.city.translated_country"></search-result-item>
-                </div>
-
-                <div v-if="canShowTab('cities')" class="auto-complete-tabs--item auto-complete-tabs--cities">
-                    <div v-if="tabs.cities.noResults" class="auto-complete-search--no-results">
-                        <h2>${translated('auto.complete.search.no.results')}</h2>
-                    </div>
-
-                    <h4 v-if="tabs.cities.showGlobalHeading">${translated('auto.complete.search.global')}</h4>
-                    <search-result-item v-for="city in tabs.cities.items" v-focus="isFocused(city)" :url="city.url" :title="city.name" :content="city.translated_country"></search-result-item>
-                </div>
-            </div>
-        </form>
-    </search>
-</div>
+                            <li class="search">    <div class="react-search-bar" data-placement="top" data-instancekey="topDesktop"></div>
 </li>
-                        <li class="dropdown">
-                <a href="#" data-toggle="dropdown">Language&nbsp;<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    
-
-
-
-    <li>
-                            
-        <a href="https://www.ticketswap.de/content/privacy?language=de" lang="de" hreflang="de">
-            Deutsch
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.com/content/privacy?language=en" lang="en" hreflang="en">
-            English
-                            <i class="icon icon-checkmark"></i>
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.es/content/privacy?language=es" lang="es" hreflang="es">
-            Español
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.fr/content/privacy?language=fr" lang="fr" hreflang="fr">
-            Français
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.it/content/privacy?language=it" lang="it" hreflang="it">
-            Italiano
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.hu/content/privacy?language=hu" lang="hu" hreflang="hu">
-            Magyar
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.nl/content/privacy?language=nl" lang="nl" hreflang="nl">
-            Nederlands
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.pl/content/privacy?language=pl" lang="pl" hreflang="pl">
-            Polski
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.pt/content/privacy?language=pt" lang="pt" hreflang="pt">
-            Português
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.se/content/privacy?language=sv" lang="sv" hreflang="sv">
-            Svenska
-                    </a>
-    </li>
-                </ul>
-            </li>
-            <li><a href="/discover">Discover</a></li>
-            <li class="cart"><a href="/cart">Cart</a></li>
-                            <li><a href="/login" data-facebook-login="reload">Login</a></li>
-                    </ul>
+                                        <li><a href="/how-does-it-work">How does it work?</a></li>
+                <li><a href="/login" data-facebook-login="reload">Login</a></li>
+                                </ul>
     </nav>
 </div>
 
@@ -435,23 +142,23 @@
     
                 <nav class="content-navigation">
             <ul class="container clear">
-                <li><a href="/faq">FAQ</a></li>
+                <li><a href="/help">FAQ</a></li>
                 <li><a href="/content/about-us">About us</a></li>
                 <li><a href="https://ticketswap.homerun.co/" target="_blank">Jobs</a></li>
                 <li><a href="/partners">Partners</a></li>
-                <li><a href="/content/contact">Contact</a></li>
+                <li><a href="/help">Contact</a></li>
             </ul>
         </nav>
         <div class="container l-content">
     
         <h1>Privacy Policy</h1>
 
-    <p>Last update: May 2016</p>
+    <p>Last update: June 2017</p>
 <br>
 <p>TicketSwap respects your privacy. We comply with the Dutch Data Protection Act (Wet Bescherming Persoonsgegevens) and the Dutch Telecommunications Act (Telecommunicatiewet). In this Privacy Policy you can read what kind of personal data we collect and how we store, protect and use your personal data. Furthermore, you can read for which purposes we will use your personal data and with whom your data will be shared. </p>
 
 <h2>What does this Privacy Policy apply to?</h2>
-<p>This Privacy Policy applies to your use of the "<strong>Websites</strong>"  <a href="https://www.ticketswap.com">www.ticketswap.com</a> (related websites such as www.ticketswap.nl, www.ticketswap.be, www.ticketswap.fr, www.ticketswap.de, www.ticketswap.it, www.ticketswap.pt, www.ticketswap.fi, www.ticketswap.pl, www.ticketswap.ch, www.ticketswap.at) and the mobile application "<strong>Apps</strong>" offered under the name TicketSwap, and all products and services that we offer you via our Websites and Apps.</p>
+<p>This Privacy Policy applies to your use of the "<strong>Websites</strong>" www.ticketswap.com (related websites such as www.ticketswap.nl, www.ticketswap.be, www.ticketswap.fr, www.ticketswap.de, www.ticketswap.it, www.ticketswap.pt, www.ticketswap.fi, www.ticketswap.pl, www.ticketswap.ch, www.ticketswap.at) and the mobile application "<strong>Apps</strong>" offered under the name TicketSwap, and all products and services that we offer you via our Websites and Apps.</p>
 <h2>Personal data</h2>
 <p>In this Privacy Policy, your "<strong>personal data</strong>" means information or pieces of information that could allow you to be identified.</p>
 <h2>Your consent</h2>
@@ -468,7 +175,7 @@
 <ul>
     <li>We use your Facebook profile picture, name, the amount of your Facebook friends and your residence to complete your account. These will be shown on our Websites when you sell tickets to make the selling and buying of secondhand tickets safer for (potential) buyers.</li>
     <li>We use your phone number to check whether it belongs to you and to check whether it is real. When you sell tickets, the check of your phone number (and not the phone number itself) will be shown on our Websites to make the selling and buying of secondhand tickets safer for (potential) buyers.</li>  
- 	<li> If you make use of our “Secure Swap” service, we will use your email address and name to annul the second-hand ticket of the seller and provide the buyer with a new authentic ticket. For more information on Secure Swap see <a href="https://www.ticketswap.com/faq/buyers/67/wat-is-een-secure-swap">this page</a>.</li>
+ 	<li> If you make use of our “Secure Swap” service, we will use your email address and name to annul the second-hand ticket of the seller and provide the buyer with a new authentic ticket. For more information on Secure Swap see <a href="/faq/buyers/67/wat-is-een-secure-swap">this page</a>.</li>
  	<li>We use your email address to send you information and updates about your order. We may also send you information about topics that might be interesting for you. You can unsubscribe from these services at any time.</li>
  	<li>We use the data about your browser language, your IP address and geolocation in order to address you in a language you speak and to show you content that relates to the country you reside in. </li>
 	<li>In case of fraud, we will share your personal data with the victim in order to allow this person to file a report with the police. We will not share more data than necessary for the report, and we will notify you in advance when we are about to share your data for this purpose.</li>
@@ -477,7 +184,7 @@
 <p>TicketSwap does <u>not</u> sell, trade, or rent personal data to third parties.</p>
 <h2>Third-party service providers</h2>
 <p>In order to render our services, there are data that we will need to share with third-party service providers.</p> 
-<p>If you use our Secure Swap service, your email address and name will be shared with the event organizer and/or or the ticketing company (e.g. Paylogic). These third parties are contractually obliged not to use said data for any other purpose than providing the buyer with a new ticket as well as annulling the old ticket.</p>
+<p>If you use our Secure Swap service, your email address and name will be shared with the event organizer and/or or the ticketing company (e.g. Paylogic). These third parties are contractually obliged not to use said data for any other purpose than providing the buyer with a new ticket, cancelling the old ticket or contacting the buyer with relevant info about the event.</p>
 <p>For payments made via our websites, we use third-party services such as payment gateways and other payment transaction processors. These third parties are contractually obliged not to use said data for any other purpose than to effectuate the payment.</p>
 <h2>Generic aggregated (non-personal) data</h2>
 <p>We may share generic aggregated data with our business partners, trusted affiliates and advertisers. In such case the data will be fully anonymized.</p>
@@ -511,172 +218,110 @@ The Netherlands<br>
 
             </div>
     
-                        <footer class="testimonials-widget">
-            <div class="container">
-                                        <h4 class="h2 text-center"><a href="/testimonials">What people say about TicketSwap</a></h4>
-            <article class="testimonials-widget--item">
-            <a href="/testimonials">
-                <div class="testimonials-widget--avatar"><img src="https://s3-eu-west-1.amazonaws.com/ticketswap/public/testimonials/201606/6dcd0212-7136-471b-ae5f-efad4d9245b4.jpeg"></div>
-                <div class="testimonials-widget--message">
-                    <div class="testimonials-widget--name">Olivia</div>
-                    <div class="testimonials-widget--body">
-                                                    “Great website! Really convienent and cheap!”
-                                            </div>
-                </div>
-            </a>
-        </article>
-            <article class="testimonials-widget--item">
-            <a href="/testimonials">
-                <div class="testimonials-widget--avatar"><img src="https://ticketswap.s3.amazonaws.com/public/testimonials/201411/aa3df451-2a63-47ff-b1be-c8e873142d9c.jpeg"></div>
-                <div class="testimonials-widget--message">
-                    <div class="testimonials-widget--name">Anna</div>
-                    <div class="testimonials-widget--body">
-                                                    “fast &amp; sure - thats really cool and helpful.<br>
-Just too bad that the charges/fee are quite big again.…”
-                                            </div>
-                </div>
-            </a>
-        </article>
-            <article class="testimonials-widget--item">
-            <a href="/testimonials">
-                <div class="testimonials-widget--avatar"><img src="https://ticketswap.s3.amazonaws.com/public/testimonials/201511/c56afb0b-8dab-47f2-ad87-882a010c903e.jpeg"></div>
-                <div class="testimonials-widget--message">
-                    <div class="testimonials-widget--name">Engin</div>
-                    <div class="testimonials-widget--body">
-                                                    “nice”
-                                            </div>
-                </div>
-            </a>
-        </article>
-    
-                            </div>
-        </footer>
-    
-<footer class="footer main-footer">
-    <i class="icon-ticketswap">
-        <span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span>
-    </i>
-    <div class="container sitemap clear">
-        <ul class="main-footer-left">
-            <li class="head">TicketSwap</li>
-            <li><a href="/">Home</a></li>
-            <li><a href="/content/about-us">About us</a></li>
-            <li><a href="https://ticketswap.homerun.co/" target="_blank">Jobs</a></li>
-            <li><a href="/partners">Partners</a></li>
-            <li><a href="/organizers" data-turbolinks="false">Organizers</a></li>
-                    </ul>
-        <ul class="main-footer-left">
-            <li class="head">Help</li>
-            <li><a href="/content/contact">Contact</a></li>
-            <li><a href="/faq">FAQ</a></li>
-            <li><a href="/how-does-it-work">How does it work?</a></li>
-            <li><a href="/content/conditions">Conditions</a></li>
-            <li><a href="/content/privacy">Privacy</a></li>
-        </ul>
-        <ul class="main-footer-right">
-            <li class="head">Language</li>
+                                    
             
+    <div class="testimonials-slider testimonials-slider--default" id="testimonials">
+        <h3>
+            More than <strong>1,300,000 happy users</strong> from over <strong>20 different countries</strong>!        </h3>
 
+        <div class="testimonials-slider--items slider">
+            <div class="slider--container">
+                <div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/e3ade6be-98d3-4f30-ba34-834149619c7f.jpeg"><h4>Önder</h4><time class="h5 timeago" datetime="June 11, 2017 21:33">June 11, 2017 21:33</time></div><p>best thing in internet. even better than cat videos!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/b880c673-b4b0-4439-a642-1580087e70a0.jpeg"><h4>Dalia</h4><time class="h5 timeago" datetime="June 11, 2017 13:10">June 11, 2017 13:10</time></div><p>Very easy. My tickets sold quickly and I even got a thankyou from the buyer!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/d626f00b-30c6-4418-821b-7d5f9338035c.jpeg"><h4>Gábor</h4><time class="h5 timeago" datetime="June 11, 2017 09:42">June 11, 2017 09:42</time></div><p>Nagyon jó és biztonságos program</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/6615d05d-5358-4e18-9a43-805fbf77b6f0.jpeg"><h4>Titis</h4><time class="h5 timeago" datetime="June 7, 2017 17:18">June 7, 2017 17:18</time></div><p>So easy to use, so fast and simple way of payment! Great platform!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/c15a5436-efe8-418e-be74-05af347a5ced.jpeg"><h4>Barbara</h4><time class="h5 timeago" datetime="June 7, 2017 11:54">June 7, 2017 11:54</time></div><p>What a great concept! Will be using the service in the future!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/92b7695d-bb7f-4a87-91ef-0688fc24228d.jpeg"><h4>Daphne</h4><time class="h5 timeago" datetime="June 5, 2017 21:09">June 5, 2017 21:09</time></div><p>Very quick, easy, and they keep you informed ecerytime something happens,amazing!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/06d73a6d-9804-49df-8fb4-008dfd235abb.jpeg"><h4>Carlos</h4><time class="h5 timeago" datetime="June 5, 2017 00:41">June 5, 2017 00:41</time></div><p>Great service to get legit sold out tickets.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/b68fea09-8a39-418c-84ca-b23d845224e1.jpeg"><h4>João</h4><time class="h5 timeago" datetime="June 4, 2017 13:30">June 4, 2017 13:30</time></div><p>Really nice platform, easy, quick and simple!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/0e62bdd3-046b-4fbf-99da-fb6d2eef4bca.jpeg"><h4>Quân</h4><time class="h5 timeago" datetime="June 4, 2017 09:27">June 4, 2017 09:27</time></div><p>Awesome service. Fast. Simple. Easy payment.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/4ecd8a6f-5a6e-431e-8efa-509d046a5515.jpeg"><h4>Miguel</h4><time class="h5 timeago" datetime="June 3, 2017 14:16">June 3, 2017 14:16</time></div><p>Very reliable, totally recommend it.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/a4818c28-f473-46b9-a48a-a9be1607faeb.jpeg"><h4>Jacqueline</h4><time class="h5 timeago" datetime="June 3, 2017 12:16">June 3, 2017 12:16</time></div><p>Love Ticketswap for buying and selling! Really good online service.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/8ed0fc30-cb84-48ab-92c4-f3ff8eeb8b8b.jpeg"><h4>Serge</h4><time class="h5 timeago" datetime="June 1, 2017 16:11">June 1, 2017 16:11</time></div><p>Very simple and very fast, keep it this way!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/c404de92-8a0b-4eb7-813f-26f29f986d3a.jpeg"><h4>Gyongyi</h4><time class="h5 timeago" datetime="May 31, 2017 16:04">May 31, 2017 16:04</time></div><p>Such a nice website, easy to use, safe and fun!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/0ac3bd42-ce4f-452e-a712-0cabb7472a86.jpeg"><h4>Sara</h4><time class="h5 timeago" datetime="May 30, 2017 00:33">May 30, 2017 00:33</time></div><p>Very efficient, I will use it again!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/6d062c4e-ce35-4015-9632-303e025a3fab.jpeg"><h4>Sasha</h4><time class="h5 timeago" datetime="May 29, 2017 21:41">May 29, 2017 21:41</time></div><p>Thankyou your ticket went to amazing use 😁</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/5dee2e2b-4b0d-4b51-b74d-76f7f1b08d9f.jpeg"><h4>Molly</h4><time class="h5 timeago" datetime="May 29, 2017 18:20">May 29, 2017 18:20</time></div><p>Perfect way to buy tickets hassle and worry free !</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/3f5c4e7c-2733-40ae-abd9-14d0e687b18d.jpeg"><h4>Bob</h4><time class="h5 timeago" datetime="May 29, 2017 09:39">May 29, 2017 09:39</time></div><p>Had an awesome day @ Lente Kabinet! Thanks TicketSwap team and seller!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/f6ef1c67-cb19-4c84-89f3-97bff684b4d7.jpeg"><h4>Has</h4><time class="h5 timeago" datetime="May 28, 2017 13:16">May 28, 2017 13:16</time></div><p>Great service, exactly what society needed.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/34f5de78-d541-4003-8c91-e59cd4ee11a5.jpeg"><h4>Önder</h4><time class="h5 timeago" datetime="May 28, 2017 11:36">May 28, 2017 11:36</time></div><p>next best thing in internet after cat videos.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/510dfcd6-215d-4947-bd16-b14c9370582e.jpeg"><h4>Marco</h4><time class="h5 timeago" datetime="May 25, 2017 17:42">May 25, 2017 17:42</time></div><p>Very easy to use, it works perfect!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/e3ade6be-98d3-4f30-ba34-834149619c7f.jpeg"><h4>Önder</h4><time class="h5 timeago" datetime="June 11, 2017 21:33">June 11, 2017 21:33</time></div><p>best thing in internet. even better than cat videos!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/b880c673-b4b0-4439-a642-1580087e70a0.jpeg"><h4>Dalia</h4><time class="h5 timeago" datetime="June 11, 2017 13:10">June 11, 2017 13:10</time></div><p>Very easy. My tickets sold quickly and I even got a thankyou from the buyer!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/d626f00b-30c6-4418-821b-7d5f9338035c.jpeg"><h4>Gábor</h4><time class="h5 timeago" datetime="June 11, 2017 09:42">June 11, 2017 09:42</time></div><p>Nagyon jó és biztonságos program</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/6615d05d-5358-4e18-9a43-805fbf77b6f0.jpeg"><h4>Titis</h4><time class="h5 timeago" datetime="June 7, 2017 17:18">June 7, 2017 17:18</time></div><p>So easy to use, so fast and simple way of payment! Great platform!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/c15a5436-efe8-418e-be74-05af347a5ced.jpeg"><h4>Barbara</h4><time class="h5 timeago" datetime="June 7, 2017 11:54">June 7, 2017 11:54</time></div><p>What a great concept! Will be using the service in the future!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/92b7695d-bb7f-4a87-91ef-0688fc24228d.jpeg"><h4>Daphne</h4><time class="h5 timeago" datetime="June 5, 2017 21:09">June 5, 2017 21:09</time></div><p>Very quick, easy, and they keep you informed ecerytime something happens,amazing!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/06d73a6d-9804-49df-8fb4-008dfd235abb.jpeg"><h4>Carlos</h4><time class="h5 timeago" datetime="June 5, 2017 00:41">June 5, 2017 00:41</time></div><p>Great service to get legit sold out tickets.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/b68fea09-8a39-418c-84ca-b23d845224e1.jpeg"><h4>João</h4><time class="h5 timeago" datetime="June 4, 2017 13:30">June 4, 2017 13:30</time></div><p>Really nice platform, easy, quick and simple!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/0e62bdd3-046b-4fbf-99da-fb6d2eef4bca.jpeg"><h4>Quân</h4><time class="h5 timeago" datetime="June 4, 2017 09:27">June 4, 2017 09:27</time></div><p>Awesome service. Fast. Simple. Easy payment.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/4ecd8a6f-5a6e-431e-8efa-509d046a5515.jpeg"><h4>Miguel</h4><time class="h5 timeago" datetime="June 3, 2017 14:16">June 3, 2017 14:16</time></div><p>Very reliable, totally recommend it.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/a4818c28-f473-46b9-a48a-a9be1607faeb.jpeg"><h4>Jacqueline</h4><time class="h5 timeago" datetime="June 3, 2017 12:16">June 3, 2017 12:16</time></div><p>Love Ticketswap for buying and selling! Really good online service.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/8ed0fc30-cb84-48ab-92c4-f3ff8eeb8b8b.jpeg"><h4>Serge</h4><time class="h5 timeago" datetime="June 1, 2017 16:11">June 1, 2017 16:11</time></div><p>Very simple and very fast, keep it this way!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/c404de92-8a0b-4eb7-813f-26f29f986d3a.jpeg"><h4>Gyongyi</h4><time class="h5 timeago" datetime="May 31, 2017 16:04">May 31, 2017 16:04</time></div><p>Such a nice website, easy to use, safe and fun!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/0ac3bd42-ce4f-452e-a712-0cabb7472a86.jpeg"><h4>Sara</h4><time class="h5 timeago" datetime="May 30, 2017 00:33">May 30, 2017 00:33</time></div><p>Very efficient, I will use it again!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/6d062c4e-ce35-4015-9632-303e025a3fab.jpeg"><h4>Sasha</h4><time class="h5 timeago" datetime="May 29, 2017 21:41">May 29, 2017 21:41</time></div><p>Thankyou your ticket went to amazing use 😁</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/5dee2e2b-4b0d-4b51-b74d-76f7f1b08d9f.jpeg"><h4>Molly</h4><time class="h5 timeago" datetime="May 29, 2017 18:20">May 29, 2017 18:20</time></div><p>Perfect way to buy tickets hassle and worry free !</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/3f5c4e7c-2733-40ae-abd9-14d0e687b18d.jpeg"><h4>Bob</h4><time class="h5 timeago" datetime="May 29, 2017 09:39">May 29, 2017 09:39</time></div><p>Had an awesome day @ Lente Kabinet! Thanks TicketSwap team and seller!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/f6ef1c67-cb19-4c84-89f3-97bff684b4d7.jpeg"><h4>Has</h4><time class="h5 timeago" datetime="May 28, 2017 13:16">May 28, 2017 13:16</time></div><p>Great service, exactly what society needed.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/34f5de78-d541-4003-8c91-e59cd4ee11a5.jpeg"><h4>Önder</h4><time class="h5 timeago" datetime="May 28, 2017 11:36">May 28, 2017 11:36</time></div><p>next best thing in internet after cat videos.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/510dfcd6-215d-4947-bd16-b14c9370582e.jpeg"><h4>Marco</h4><time class="h5 timeago" datetime="May 25, 2017 17:42">May 25, 2017 17:42</time></div><p>Very easy to use, it works perfect!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/e3ade6be-98d3-4f30-ba34-834149619c7f.jpeg"><h4>Önder</h4><time class="h5 timeago" datetime="June 11, 2017 21:33">June 11, 2017 21:33</time></div><p>best thing in internet. even better than cat videos!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/b880c673-b4b0-4439-a642-1580087e70a0.jpeg"><h4>Dalia</h4><time class="h5 timeago" datetime="June 11, 2017 13:10">June 11, 2017 13:10</time></div><p>Very easy. My tickets sold quickly and I even got a thankyou from the buyer!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/d626f00b-30c6-4418-821b-7d5f9338035c.jpeg"><h4>Gábor</h4><time class="h5 timeago" datetime="June 11, 2017 09:42">June 11, 2017 09:42</time></div><p>Nagyon jó és biztonságos program</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/6615d05d-5358-4e18-9a43-805fbf77b6f0.jpeg"><h4>Titis</h4><time class="h5 timeago" datetime="June 7, 2017 17:18">June 7, 2017 17:18</time></div><p>So easy to use, so fast and simple way of payment! Great platform!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/c15a5436-efe8-418e-be74-05af347a5ced.jpeg"><h4>Barbara</h4><time class="h5 timeago" datetime="June 7, 2017 11:54">June 7, 2017 11:54</time></div><p>What a great concept! Will be using the service in the future!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/92b7695d-bb7f-4a87-91ef-0688fc24228d.jpeg"><h4>Daphne</h4><time class="h5 timeago" datetime="June 5, 2017 21:09">June 5, 2017 21:09</time></div><p>Very quick, easy, and they keep you informed ecerytime something happens,amazing!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/06d73a6d-9804-49df-8fb4-008dfd235abb.jpeg"><h4>Carlos</h4><time class="h5 timeago" datetime="June 5, 2017 00:41">June 5, 2017 00:41</time></div><p>Great service to get legit sold out tickets.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/b68fea09-8a39-418c-84ca-b23d845224e1.jpeg"><h4>João</h4><time class="h5 timeago" datetime="June 4, 2017 13:30">June 4, 2017 13:30</time></div><p>Really nice platform, easy, quick and simple!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/0e62bdd3-046b-4fbf-99da-fb6d2eef4bca.jpeg"><h4>Quân</h4><time class="h5 timeago" datetime="June 4, 2017 09:27">June 4, 2017 09:27</time></div><p>Awesome service. Fast. Simple. Easy payment.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/4ecd8a6f-5a6e-431e-8efa-509d046a5515.jpeg"><h4>Miguel</h4><time class="h5 timeago" datetime="June 3, 2017 14:16">June 3, 2017 14:16</time></div><p>Very reliable, totally recommend it.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/a4818c28-f473-46b9-a48a-a9be1607faeb.jpeg"><h4>Jacqueline</h4><time class="h5 timeago" datetime="June 3, 2017 12:16">June 3, 2017 12:16</time></div><p>Love Ticketswap for buying and selling! Really good online service.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201706/8ed0fc30-cb84-48ab-92c4-f3ff8eeb8b8b.jpeg"><h4>Serge</h4><time class="h5 timeago" datetime="June 1, 2017 16:11">June 1, 2017 16:11</time></div><p>Very simple and very fast, keep it this way!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/c404de92-8a0b-4eb7-813f-26f29f986d3a.jpeg"><h4>Gyongyi</h4><time class="h5 timeago" datetime="May 31, 2017 16:04">May 31, 2017 16:04</time></div><p>Such a nice website, easy to use, safe and fun!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/0ac3bd42-ce4f-452e-a712-0cabb7472a86.jpeg"><h4>Sara</h4><time class="h5 timeago" datetime="May 30, 2017 00:33">May 30, 2017 00:33</time></div><p>Very efficient, I will use it again!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/6d062c4e-ce35-4015-9632-303e025a3fab.jpeg"><h4>Sasha</h4><time class="h5 timeago" datetime="May 29, 2017 21:41">May 29, 2017 21:41</time></div><p>Thankyou your ticket went to amazing use 😁</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/5dee2e2b-4b0d-4b51-b74d-76f7f1b08d9f.jpeg"><h4>Molly</h4><time class="h5 timeago" datetime="May 29, 2017 18:20">May 29, 2017 18:20</time></div><p>Perfect way to buy tickets hassle and worry free !</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/3f5c4e7c-2733-40ae-abd9-14d0e687b18d.jpeg"><h4>Bob</h4><time class="h5 timeago" datetime="May 29, 2017 09:39">May 29, 2017 09:39</time></div><p>Had an awesome day @ Lente Kabinet! Thanks TicketSwap team and seller!</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/f6ef1c67-cb19-4c84-89f3-97bff684b4d7.jpeg"><h4>Has</h4><time class="h5 timeago" datetime="May 28, 2017 13:16">May 28, 2017 13:16</time></div><p>Great service, exactly what society needed.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/34f5de78-d541-4003-8c91-e59cd4ee11a5.jpeg"><h4>Önder</h4><time class="h5 timeago" datetime="May 28, 2017 11:36">May 28, 2017 11:36</time></div><p>next best thing in internet after cat videos.</p></div></div><div class="slider--item"><div class="testimonials-slider--item"><div class="user"><img src="https://cdn.ticketswap.com/public/testimonials/201705/510dfcd6-215d-4947-bd16-b14c9370582e.jpeg"><h4>Marco</h4><time class="h5 timeago" datetime="May 25, 2017 17:42">May 25, 2017 17:42</time></div><p>Very easy to use, it works perfect!</p></div></div>            </div>
+        </div>
 
-
-    <li>
-                            
-        <a href="https://www.ticketswap.de/content/privacy?language=de" lang="de" hreflang="de">
-            Deutsch
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.com/content/privacy?language=en" lang="en" hreflang="en">
-            English
-                            <i class="icon icon-checkmark"></i>
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.es/content/privacy?language=es" lang="es" hreflang="es">
-            Español
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.fr/content/privacy?language=fr" lang="fr" hreflang="fr">
-            Français
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.it/content/privacy?language=it" lang="it" hreflang="it">
-            Italiano
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.hu/content/privacy?language=hu" lang="hu" hreflang="hu">
-            Magyar
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.nl/content/privacy?language=nl" lang="nl" hreflang="nl">
-            Nederlands
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.pl/content/privacy?language=pl" lang="pl" hreflang="pl">
-            Polski
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.pt/content/privacy?language=pt" lang="pt" hreflang="pt">
-            Português
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.se/content/privacy?language=sv" lang="sv" hreflang="sv">
-            Svenska
-                    </a>
-    </li>
-        </ul>
+        <div class="testimonials-slider--more"><a href="/testimonials" class="btn btn-primary">Show all testimonials</a></div>
     </div>
-    <section class="social-links main-footer-elsewhere">
-        <div class="container">
-            <a href="https://www.facebook.com/TicketSwap" target="_blank" class="facebook" title="Facebook"><i class="icon-facebook"></i><span>Facebook</span></a>
+
+            
+<footer class="footer main-footer">
+    <div class="l-container">
+        <i class="icon-ticketswap"><span class="path1"></span><span class="path2"></span><span class="path3"></span><span class="path4"></span></i>
+
+        <nav class="footer--menu">
+            <label class="h4" for="footer-menu">Menu</label>
+
+<a href="/">Home</a>
+<a href="/how-does-it-work">How does it work?</a>
+<a href="/content/about-us">About us</a>
+<a href="https://ticketswap.homerun.co/" target="_blank">Jobs</a>
+<a href="/partners">Partners</a>
+<a href="/organizers" data-turbolinks="false">Organizers</a>
+<a href="/help">Contact</a>
+
+<select class="form-control redirect-select" name="footer-menu" id="footer-menu">
+    <option value="">— navigate to —</option>
+    <option value="/">Home</option>
+    <option value="/how-does-it-work">How does it work?</option>
+    <option value="/content/about-us">About us</option>
+    <option value="https://ticketswap.homerun.co/">Jobs</option>
+    <option value="/partners">Partners</option>
+    <option value="/organizers" data-turbolinks="false">Organizers</option>
+        <option value="/help">Contact</option>
+    <option value="/content/conditions">Conditions</option>
+    <option selected="selected" value="/content/privacy">Privacy</option>
+    <option value="/content/responsible-disclosure">Responsible Disclosure</option>
+</select>
+        </nav>
+
+        <nav class="footer--social">
+            <h4>Follow us</h4>
+            <a href="https://www.facebook.com/TicketSwap" target="_blank" class="facebook" title="Facebook"><i class="icon-facebook-alt"></i><span>Facebook</span></a>
             <a href="https://www.twitter.com/TicketSwap" target="_blank" class="twitter" title="Twitter"><i class="icon-twitter"></i><span>Twitter</span></a>
             <a href="https://www.instagram.com/ticketswap" target="_blank" class="instagram" title="Instagram"><i class="icon-instagram"></i><span>Instagram</span></a>
-            <a href="https://itunes.apple.com/nl/app/ticketswap/id932337449" class="iphone" title="TicketSwap iPhone App"><span>TicketSwap iPhone App</span></a>
-            <a href="https://play.google.com/store/apps/details?id=com.ticketswap.ticketswap" class="android" title="TicketSwap Android App"><span>TicketSwap Android App</span></a>
-        </div>
-    </section>
-    <section class="partners-widget main-footer-partners">
-        <div class="container">
-            <h4 class="text-center">Partners</h4>
-            <div class="partners-widget--items">
-                                        <article>
-        <a href="/partners" title="Vondel Disco"><img src="https://s3-eu-west-1.amazonaws.com/ticketswap/public/201604/4f0920ee-feb1-4d15-8dde-bd9683095254.png" alt="Vondel Disco"></a>
-    </article>
-    <article>
-        <a href="/partners" title="Lose Your Mind"><img src="https://s3-eu-west-1.amazonaws.com/ticketswap/public/201609/fb4562c1-0ffb-475d-b24c-d88e8d89ca31.png" alt="Lose Your Mind"></a>
-    </article>
-    <article>
-        <a href="/partners" title="ZeeZout"><img src="https://d32qe10a881krs.cloudfront.net/public/201507/00f3aaa2-6c1c-4bd1-a68f-c38cb17806d5.png" alt="ZeeZout"></a>
-    </article>
-    <article>
-        <a href="/partners" title="Gabbers"><img src="https://s3-eu-west-1.amazonaws.com/ticketswap/public/201611/bb152243-af11-4481-bccd-39d22e421c80.png" alt="Gabbers"></a>
-    </article>
-    <article>
-        <a href="/partners" title="Cabaret Aléatoire"><img src="https://s3-eu-west-1.amazonaws.com/ticketswap/public/201611/fe6c1e1e-0956-4b9f-b888-635f6d8825ec.png" alt="Cabaret Aléatoire"></a>
-    </article>
-    <article>
-        <a href="/partners" title="Chateau Techno"><img src="https://d32qe10a881krs.cloudfront.net/public/201503/91b79f42-2138-422d-9dd9-f8e8ad3a4447.png" alt="Chateau Techno"></a>
-    </article>
 
-                            </div>
+            <h4>Download</h4>
+            <a href="https://itunes.apple.com/nl/app/ticketswap/id932337449" title="iOS app"><i class="icon-apple"></i><span>iOS app</span></a>
+            <a href="https://play.google.com/store/apps/details?id=com.ticketswap.ticketswap" title="Android app"><i class="icon-android"></i><span>Android app</span></a>
+        </nav>
+
+        <div class="footer--help">
+            <nav class="footer--help-contact">
+                <h4>Need help?</h4>
+                <p>We're available through e-mail, Twitter, Facebook, chat and phone.</p>
+                <a href="/help"><i class="icon-help-contact"></i> Go to our contact page</a>
+                <a href="/help"><i class="icon-question-mark-circle"></i> Or view the FAQ</a>
+            </nav>
         </div>
-    </section>
+    </div>
+</footer>
+<footer class="footer page-bottom">
+    <div class="l-container">
+        <nav class="footer--conditions">
+            <a href="/content/conditions">Conditions</a>
+            <a href="/content/privacy">Privacy</a>
+            <a href="/content/responsible-disclosure">Responsible Disclosure</a>
+        </nav>
+
+        <nav class="footer--languages">
+            
+<label for="select-country">Language:</label>
+
+<select class="form-control redirect-select" name="select-country" id="select-country">
+                                
+        <option value="https://www.ticketswap.dk/content/privacy?language=da">Dansk</option>
+                                
+        <option value="https://www.ticketswap.de/content/privacy?language=de">Deutsch</option>
+                                
+        <option value="https://www.ticketswap.com/content/privacy?language=en" selected="selected">English</option>
+                                
+        <option value="https://www.ticketswap.es/content/privacy?language=es">Español</option>
+                                
+        <option value="https://www.ticketswap.fr/content/privacy?language=fr">Français</option>
+                                
+        <option value="https://www.ticketswap.it/content/privacy?language=it">Italiano</option>
+                                
+        <option value="https://www.ticketswap.hu/content/privacy?language=hu">Magyar</option>
+                                
+        <option value="https://www.ticketswap.nl/content/privacy?language=nl">Nederlands</option>
+                                
+        <option value="https://www.ticketswap.pl/content/privacy?language=pl">Polski</option>
+                                
+        <option value="https://www.ticketswap.pt/content/privacy?language=pt">Português</option>
+                                
+        <option value="https://www.ticketswap.se/content/privacy?language=sv">Svenska</option>
+    </select>
+        </nav>
+    </div>
 </footer>
         <nav class="website-feedback">
     <a href="#feedback-positive" data-toggle="modal" class="website-feedback--positive" data-analytics-send="event" data-category="Website feedback" data-action="positive" data-speech="Positive feedback"><i class="icon-happy"></i></a>
@@ -689,14 +334,14 @@ Just too bad that the charges/fee are quite big again.…”
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-close"></i></button>
 
             <div class="modal-body">
-                <form class="feedback-form form-horizontal ajax-form" data-endpoint="/api/websitefeedback/positive" method="post">
+                <form class="l-block feedback-form form-horizontal ajax-form" data-endpoint="/api/websitefeedback/positive" method="post">
                     <h2>Positive feedback</h2>
                     <p>Thank you for being positive! Let others know what you think of TicketSwap. Your message will be posted publicly.</p>
 
                                             <input type="text" name="name" required="required" class="form-control" placeholder="Name">
                         <input type="email" name="email" required="required" class="form-control" placeholder="Email address">
-                    
-                    <textarea id="message" name="message" required="required" minlength="3" class="input-xlarge form-control" placeholder="Give us your opinion about TicketSwap"></textarea>
+                                        
+                    <input type="text" name="feedback[_token]" class="form-user-input hide" value="daX9Mcc8RoMhEfrj5jEgUdENhbNaxe9lnUg9UUPw5AA">                    <textarea id="message" name="message" required="required" minlength="3" class="input-xlarge form-control" placeholder="Give us your opinion about TicketSwap"></textarea>
 
                     
                                             <input type="submit" class="btn btn-block btn-success" value="Send message">
@@ -727,7 +372,7 @@ Just too bad that the charges/fee are quite big again.…”
             <button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="icon-close"></i></button>
 
             <div class="modal-body">
-                <form class="feedback-form form-horizontal ajax-form" data-endpoint="/api/websitefeedback/negative" method="post">
+                <form class="l-block feedback-form form-horizontal ajax-form" data-endpoint="/api/websitefeedback/negative" method="post">
                     <h2>Negative feedback</h2>
                     <p>Please send us your negative feedback via the form below. We will try to respond to your feedback as soon as possible!</p>
 
@@ -738,7 +383,7 @@ Just too bad that the charges/fee are quite big again.…”
                                             <input type="text" name="name" required="required" class="form-control" placeholder="Name">
                         <input type="email" name="email" required="required" class="form-control" placeholder="Email address">
                     
-                    <input id="feedback-hidden-url" type="text" name="url" class="form-user-input hide" value="https://www.ticketswap.com/content/privacy">                    <input type="text" name="_token" class="form-user-input hide" value="JfkFEofqqiEoTcHUQW13MUOYoIenZREgjfDhWXPWMCo">                    <input type="text" name="phone" class="form-user-input hide" placeholder="Phone number">                    <textarea name="message" required="required" class="input-xlarge form-control" placeholder="Your feedback"></textarea>
+                    <input id="feedback-hidden-url" type="text" name="url" class="form-user-input hide" value="https://www.ticketswap.com/content/privacy">                    <input type="text" name="feedback[_token]" class="form-user-input hide" value="daX9Mcc8RoMhEfrj5jEgUdENhbNaxe9lnUg9UUPw5AA">                    <input type="text" name="phone" class="form-user-input hide" placeholder="Phone number">                    <textarea name="message" required="required" class="input-xlarge form-control" placeholder="Your feedback"></textarea>
                     <input type="submit" class="btn btn-block btn-danger" value="Send negative feedback">
 
                     <div class="form-overlay">
@@ -762,89 +407,12 @@ Just too bad that the charges/fee are quite big again.…”
 </div>
             <div class="cookie-bar">
         <div class="cookie-bar--container">
-            <p>TicketSwap uses <a href="/content/privacy">cookies</a>. By continuing browsing the website, you agree with the usage of our <a href="/content/privacy">cookies</a>.</p>
+            <p>
+                TicketSwap uses <a href="/content/privacy">cookies</a>. By continuing browsing the website, you agree with the usage of our <a href="/content/privacy">cookies</a>.            </p>
             <a href="#close-cookie-bar" class="cookie-bar--close"><i class="icon-remove"></i></a>
         </div>
     </div>
     
-    <div id="modal-country" class="modal hide fade modal-country" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-body clear">
-                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-                <h2>Language
-                                    </h2>
-                <ul>
-                    
-
-
-
-    <li>
-                            
-        <a href="https://www.ticketswap.de/content/privacy?language=de" lang="de" hreflang="de">
-            Deutsch
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.com/content/privacy?language=en" lang="en" hreflang="en">
-            English
-                            <i class="icon icon-checkmark"></i>
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.es/content/privacy?language=es" lang="es" hreflang="es">
-            Español
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.fr/content/privacy?language=fr" lang="fr" hreflang="fr">
-            Français
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.it/content/privacy?language=it" lang="it" hreflang="it">
-            Italiano
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.hu/content/privacy?language=hu" lang="hu" hreflang="hu">
-            Magyar
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.nl/content/privacy?language=nl" lang="nl" hreflang="nl">
-            Nederlands
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.pl/content/privacy?language=pl" lang="pl" hreflang="pl">
-            Polski
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.pt/content/privacy?language=pt" lang="pt" hreflang="pt">
-            Português
-                    </a>
-    </li>
-    <li>
-                            
-        <a href="https://www.ticketswap.se/content/privacy?language=sv" lang="sv" hreflang="sv">
-            Svenska
-                    </a>
-    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div>
     <div id="facebook-login-modal" class="modal hide fade" tabindex="-1" role="dialog" aria-hidden="true" style="display: none;">
     <div class="modal-dialog">
         <div class="modal-content">
@@ -853,7 +421,7 @@ Just too bad that the charges/fee are quite big again.…”
             <div class="modal-body">
                 <h2>Still trying to login...</h2>
                 <p>Do you have a plugin installed that is blocking Facebook?</p>
-                <a href="/faq/general/62/login" target="_blank" class="btn btn-large">More information about login problems</a>
+                <a href="/help/item/62" target="_blank" class="btn btn-large">More information about login problems</a>
             </div>
         </div>
     </div>
@@ -868,20 +436,7 @@ Just too bad that the charges/fee are quite big again.…”
 
     
 
-    <script type="application/ld+json">
-    {
-       "@context": "http://schema.org",
-       "@type": "WebSite",
-       "url": "https://www.ticketswap.com/",
-       "potentialAction": {
-         "@type": "SearchAction",
-         "target": "https://www.ticketswap.com/discover?query={search_term_string}",
-         "query-input": "required name=search_term_string"
-       }
-    }
-    </script>
-
     
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7ed428b22e","applicationID":"3971365","transactionName":"blcGZhZWWBFYARUMXlcdJ0cXQ1kPFgEOC0VcXBBtAE5YA1QLAg==","queueTime":0,"applicationTime":48,"atts":"QhAREF5MS04bA0NfSkRP","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7ed428b22e","applicationID":"3971365","transactionName":"blcGZhZWWBFYARUMXlcdJ0cXQ1kPFgEOC0VcXBBtAE5YA1QLAg==","queueTime":0,"applicationTime":25,"atts":"QhAREF5MS04bA0NfSkRP","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
