@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viddsee.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118063544id_/https%3A//www.viddsee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viddsee.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612231655id_/https%3A//www.viddsee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Viddsee
 
@@ -76,8 +76,8 @@ This Privacy Policy was last updated on 18 September 2014.
 
 If there are any questions regarding this privacy policy you may contact us using the information below:
 
-www.viddsee.com   
-#26-04, International Plaza,   
-10, Anson Road   
-Singapore 079903   
+www.viddsee.com  
+71 Ayer Rajah Crescent  
+#03-06  
+Singapore 139951  
 [support@viddsee.com](mailto:support@viddsee.com)
