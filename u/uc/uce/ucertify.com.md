@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2015-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151213061304id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucertify.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204444id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy -uCertify
-
-Privacy Policy 
 
 ### Our Commitment:
 
@@ -25,6 +23,3 @@ uCertify contains links to other Web sites. Please note that when you click on o
 In addition to the circumstances described above, uCertify may disclose member information if required to do so by law, court order, as requested by other government or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable including, without limitation, to protect the rights or properties of uCertify or when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
 Any material changes in the way uCertify uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to legal@uCertify.com. Please refer the privacy policy in your subject line. uCertify will attempt to respond to all reasonable concerns or inquiries within five business days of receipt.
-
-Copyright © 2002-2015 uCertify. All Rights Reserved. • All logos and trademarks are property of their respective owners.  
-
