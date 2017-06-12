@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twi-global.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129011940id_/http%3A//www.twi-global.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twi-global.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612225458id_/http%3A//www.twi-global.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
 Information and communication technologies play a fundamental role in the activities of an organisation like TWI Ltd. We are based in the UK. 
 
   
-Our principle activities are:
+Our principal activities are:
 
   * Engineering consultancy
   * Engineering research
@@ -313,7 +313,7 @@ We ensure that your personal data will not be disclosed to State institutions an
 **Access to your information and correction  
 **You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, you can contact us by:
 
-  * sending an email to [ data.protection@twi-global.com ](mailto:data.protection@twi-global.com)
+  * sending an email to [ data.protection@twi.co.uk ](mailto:data.protection@twi.co.uk)
   * calling this telephone number +44 (0)1223 899000
 
 
@@ -341,7 +341,7 @@ We want to make sure that your personal information is accurate and up to date. 
  Address: |  Granta Park, Great Abington, Cambridge, CB21 6AL, UK  
  Phone number: |  +44 (0)1223 899000  
  Fax number: |  01223 892588  
- Email address: |   [data.protection@twi-global.com ](mailto:data.protection@twi-global.com)  
+ Email address: |   [data.protection@twi.co.uk ](mailto:data.protection@twi.co.uk)  
   
 
 
