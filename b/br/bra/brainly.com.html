@@ -1,0 +1,612 @@
+<!--The following is the downloaded HTML source of the brainly.com privacy policy that was archived on 2017-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612043839id_/https%3A//brainly.com/pages/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html id="html" class="en-us"><head>
+<link rel="apple-touch-icon" href="/img/logo-100.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/logo-100.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/logo-100.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/logo-100.png">
+<link rel="apple-touch-icon-precomposed" href="/img/logo-100.png">
+<title>Brainly.com - Together we go far</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> <script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/1d2d9b30a39bd4f5d4dd6e9dda58e9bc27b35010.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KH54WS"></script><script type="text/javascript">
+		if(typeof console == 'undefined') {
+	console = {};
+	console.log = function() {
+		return true;
+	};
+	console.time = function() {
+		return true;
+	};
+	console.timeEnd = function() {
+		return true;
+	};
+	console.error = function() {
+		return true;
+	}
+	console.info = function() {
+		return true;
+	}
+	console.warn = function(){
+		return true;
+	}
+	console.debug = function(){
+		return true;
+	}
+	console.assert = function(){
+		return true;
+	}
+	console.clear = function(){
+		return true;
+	}
+	console.dir = function(){
+		return true;
+	}
+	console.dirxml = function(){
+		return true;
+	}
+	console.trace = function(){
+		return true;
+	}
+	console.group = function(){
+		return true;
+	}
+	console.groupCollapsed = function(){
+		return true;
+	}
+	console.groupEnd = function(){
+		return true;
+	}
+	console.profile = function(){
+		return true;
+	}
+	console.profileEnd = function(){
+		return true;
+	}
+	console.count = function(){
+		return true;
+	}
+	console.exception = function(){
+		return true;
+	}
+	console.table = function(){
+		return true;
+	}
+}	siteLocale = 'en-us';
+	siteController = 'pages';
+	siteAction  = 'display';
+
+			
+
+
+		
+	closedTask = '1';
+	
+	sitePassedParams = '["privacy_policy"]';
+	seleniumTestUsers = []; //defined in zadanium dictionary
+	
+	tinyMceVersion = 2;
+	timeStamp = '1497242319';
+	
+	languageFormNrCounter = function(n) {
+		return n==1 ? 0 : 1;
+	}
+
+		
+	socketIo = {
+		allowed :	!!(true),
+
+		
+		url		:	'us-comet.z-dn.net',
+		ssl_url	:   'us-comet.z-dn.net',
+		host	:	'us-comet.z-dn.net',
+		port	:	'7878',
+		ssl_port:	'7879'
+	}
+	
+	subj2subscribe = '["0"]';	
+	
+			myData = {"loggedIn":false,"hash":"46ac3bd7e3400b630241f98c219225c4","authHash":"2c97c8bb4bc2bf59b9da6a9c5ee0bcd6"};
+	</script>
+<script type="text/javascript">
+			api_headers = false;
+	 
+
+	api_version = 28</script>
+<script type="text/javascript">
+(function() {
+	/**
+	*	Constants namespace contains all constants we are using in code (mostly they are from backend configuration)
+	*	IMPORTANT: if backend constant is undefined then javascript parse it as value and returns undefined and type error!
+	*/
+	var constants = {
+		'PRESENCE_REAL' : 1,
+		'PRESENCE_OBSERVER' : 2,
+		'PRESENCE_WRITING' : 3,
+		'PRESENCE_STOPPED_WRITING' : 4,
+		'TPL_TIMESTAMP' : ((typeof timeStamp !== 'undefined') ? timeStamp : 1497242319),
+		'LIVE_NOTIFICATION_NEW_MSG' : 'newMsg',
+		'LIVE_NOTIFICATION_READ_MSG' : 'readMsg',
+		'TASKS_SOLVED' : ~~('2'),
+		'TASKS_ALL' : ~~('3'),
+		'TASKS_UNRESOLVED' : ~~('1'),
+		'TASKS_NO_RESPS' : ~~('0'),
+		'T_BEFORE' : 1,
+		'T_AFTER' : 2,		
+		'PANEL_NOTIFICATION_MESSAGES' : '1',
+		'PANEL_NOTIFICATION_TASKS' : '2',
+		'PANEL_NOTIFICATION_COMMUNITY' : '3',
+		'PANEL_SCROLLBAR_HEIGHT' : 400,			// static panel height
+		'CHATS_BOX_BIND' : '1',
+		'CHATS_BOX_UNBIND' : '2',
+		'CHATS_BOX_ACTIVE' : '3',
+		'CHATS_BOX_DEACTIVE' : '4',
+		'MAX_CHAT_BOXES' : 6,
+		'MY_MAIN_DOMAIN' : 'Brainly.com',
+		'SINGLE_COLUMN_COMMUNITY' : 1,
+		'DEFAULT_AVATAR_SIZE' : 32,
+		'EMPTY_AVATAR_64_1' : '',
+		'EMPTY_AVATAR_64_2' : '',
+				'SOCKETIO_DEFAULT_PROTOCOL' : '2.1',
+		'SOCKETIO_WEBSOCKET_ENABLED' : 1,
+		'SOCKETIO_DEBUGGER_ENABLED' : 0,
+		'AVATAR_MAX_WEIGHT' : '5120',
+		'LANGUAGE_FORM_FUNCTION' : languageFormNrCounter,
+		'REGISTRATION_ENHANCEMENT_VERSION' : '0',
+		'REGISTRATION_ENHANCEMENT_FIRST_VERSION' : '1',
+		'FOOTER_ANALYTICS_ID' : '',
+		'ENABLE_COUPON_SYSTEM' : ~~('1'),
+		'FORM_TOKEN_EXPIRE' : ~~('10'),
+		'NEW_REGISTRATION_TWO_TYPES_ENABLED' : ~~('1'),
+		'BOUNDARY_AGE_OF_EDUCATION_LEVEL' : '14,18,18,18,99',
+		'NEW_LOGIN_BUDDIES_SUGGESTIONS_ENABLED' :  ~~('0'),
+		'MODEL_TYPE_ID' : {
+			'task' : 1,
+			'response' : 2
+		},
+		'API_HEADER_NAME' : {
+			'nick' : 'X-B-Nick',
+			'uuid' : '',
+			'token' : 'X-B-Auth-Token'
+		},
+		'MODERATION_TICKET_TIMES' : '["300","600","900"]',
+		'KISSMETRICS_CLICK_TRACKING_ENABLED' : ~~('0'),
+		'MY_CONTENT_CONFIRMATION_ENABLED' : ~~('1') && ~~(''),
+		'CAN_CONFIRMATION_CONTENT_MODERATE' : ~~(''),
+	}
+	
+	/**
+	*	Constants function, return given constant from namespace above (keys as string!)
+	*/
+	_c = function(key) {
+		if(key in constants) {
+			return constants[key];
+		} else {
+			console.error('Undefined constant ' + key);
+			return null;
+		} 
+	}
+	
+	/**
+	*	Basic debugger namespace (prevents calling to undefined when debugger is disabled)
+	*/
+	zDebugger = {
+		_tm : 0,
+		log : function() {
+			if(_c('SOCKETIO_DEBUGGER_ENABLED')) {
+				if(zDebugger._tm < 5) {
+					setTimeout(function() {
+						zDebugger.log(arguments[0], arguments[1]);
+					}, 150);
+					zDebugger._tm++;
+				}
+			}
+		}
+	};
+})();
+</script>
+<link rel="stylesheet" type="text/css" href="/css/screening.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/zadane_dynamic.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/uczelnie.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/jquery.qtip.min.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/bootstrap_zad.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/static_pages.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/rebranding.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/jquery.notifyBar.css?1497010171">
+<link rel="stylesheet" type="text/css" href="/css/overrides-en-us.css?1497010171">
+<script type="text/javascript">
+	ZConfig = {"debug":false,"cssAsset":["screening","zadane_dynamic","jquery.fancybox","uczelnie","jquery.qtip.min","bootstrap","bootstrap_zad","static_pages","rebranding","jquery.notifyBar","overrides-en-us"],"jsAsset":["jquery","jquery.cookie","html5shiv.js","basics","lazyload","mustache","escaping","zadanium","global\/base","global\/sanitizable","api\/endpoints","global\/user_element_skeleton","global\/user_skeleton","global\/users","jquery.scrollTo-min","global\/scrollbar_skeleton","global\/scrollbar","flXHR\/flXHR","jquery.flXHRproxy","socket.io.min","comet\/dispatcher","comet\/socket.io","jquery.fancybox.min","jquery.md5","jquery.confirm-1.3","jquery.form","jquery.animate-shadow-min","jquery.color","base64","panel","sprintf","global\/flash_msg_skeleton","global\/flash_msg","tasks\/add_box","jquery.qtip.min","textarea-insert","modules\/time_skeleton","modules\/time","modules\/toplayer_button_skeleton","modules\/toplayer_skeleton","modules\/toplayer","tasks\/box_skeleton","tasks\/activities_skeleton","tasks\/show_more_skeleton","tasks\/show_more","global\/title","jquery.ui.core.min","jquery.ui.widget.min","jquery.ui.mouse.min","jquery.ui.sortable.min","jQuery.ui.tabs","jquery.rotator","jquery.tools.min.only.validation","jquery.notifyBar"],"minifyDir":"min","minifyAllowed":false,"jsTimeStampPrefix":"?","jsDir":"\/js\/","timeStamp":1497242319,"language":"en-us","endpointsUrl":"\/\/brainly.com\/endpoints\/legacy"};
+	
+	if(typeof Object.freeze === 'function') {
+		Object.freeze(ZConfig);
+	}
+</script>
+<script type="text/javascript" src="/js/jquery.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js?1497010171"></script>
+<script type="text/javascript" src="/js/html5shiv.js?1497010171"></script>
+<script type="text/javascript" src="/js/basics.js?1497010171"></script>
+<script type="text/javascript" src="/js/lazyload.js?1497010171"></script>
+<script type="text/javascript" src="/js/mustache.js?1497010171"></script>
+<script type="text/javascript" src="/js/escaping.js?1497010171"></script>
+<script type="text/javascript" src="/js/zadanium.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/base.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/sanitizable.js?1497010171"></script>
+<script type="text/javascript" src="/js/api/endpoints.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/user_element_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/user_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/users.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.scrollTo-min.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/scrollbar_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/scrollbar.js?1497010171"></script>
+<script type="text/javascript" src="/js/flXHR/flXHR.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.flXHRproxy.js?1497010171"></script>
+<script type="text/javascript" src="/js/socket.io.min.js?1497010171"></script>
+<script type="text/javascript" src="/js/comet/dispatcher.js?1497010171"></script>
+<script type="text/javascript" src="/js/comet/socket.io.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.fancybox.min.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.md5.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.confirm-1.3.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.form.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.animate-shadow-min.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.color.js?1497010171"></script>
+<script type="text/javascript" src="/js/base64.js?1497010171"></script>
+<script type="text/javascript" src="/js/panel.js?1497010171"></script>
+<script type="text/javascript" src="/js/sprintf.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/flash_msg_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/flash_msg.js?1497010171"></script>
+<script type="text/javascript" src="/js/tasks/add_box.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.qtip.min.js?1497010171"></script>
+<script type="text/javascript" src="/js/textarea-insert.js?1497010171"></script>
+<script type="text/javascript" src="/js/modules/time_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/modules/time.js?1497010171"></script>
+<script type="text/javascript" src="/js/modules/toplayer_button_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/modules/toplayer_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/modules/toplayer.js?1497010171"></script>
+<script type="text/javascript" src="/js/tasks/box_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/tasks/activities_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/tasks/show_more_skeleton.js?1497010171"></script>
+<script type="text/javascript" src="/js/tasks/show_more.js?1497010171"></script>
+<script type="text/javascript" src="/js/global/title.js?1497010171"></script>
+<script type="text/javascript">
+	
+	//$.each([""], function() {
+	//	if(~~(this) > 0) { seleniumTestUsers.push(~~(this))};
+	//});
+</script>
+<link type="text/css" rel="stylesheet" href="/newcss/zadane.cssp;grid.cssp;panel.cssp;scrollbar.cssp;bookmarks.cssp;tasks.cssp;patrons.cssp;pretty_things.cssp;notification.cssp;toplayer.cssp;toplayer_contents.cssp;community.cssp&amp;1497242319"><link type="text/css" rel="stylesheet" href="/newcss/i18n/subject_icons/subject_icons.cssp;i18n/subject_icons/subject_icons_en-us.cssp;chat/panel.cssp;chat/thread.cssp;chat/inbox.cssp;chat/bind.cssp&amp;1497242319">
+<script type="text/javascript" src="/js/jquery.ui.core.min.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.ui.widget.min.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.ui.mouse.min.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.ui.sortable.min.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.scrollTo-min.js?1497010171"></script>
+<script type="text/javascript" src="/js/jQuery.ui.tabs.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.rotator.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.tools.min.only.validation.js?1497010171"></script>
+<script type="text/javascript" src="/js/base64.js?1497010171"></script>
+<script type="text/javascript" src="/js/jquery.notifyBar.js?1497010171"></script>
+<link rel="apple-touch-icon-precomposed" href="/img/mint/apple/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/img/mint/apple/apple-touch-icon-76x76-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/img/mint/apple/apple-touch-icon-120x120-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/img/mint/apple/apple-touch-icon-152x152-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="/img/mint/apple/apple-touch-icon-180x180-precomposed.png">
+<link rel="icon" type="image/x-icon" href="https://styleguide.brainly.com/images/favicons/brainly/favicon-0c2222f36b.ico">
+<link rel="icon" sizes="192x192" href="https://styleguide.brainly.com/images/favicons/brainly/favicon-hd-0865c7f19f.png">
+<meta name="theme-color" content="#6ED6A0">
+ 
+<link href="http://brainly.com/img/favicon.jpg" rel="image_src">
+<meta property="og:title" content="Brainly.com - Together we go far">
+<meta property="og:description" content="Together we go far">
+<meta property="og:url" content="https://brainly.com/pages/privacy_policy">
+<meta property="og:image" content="https://brainly.com/img/logo-100.png">
+<meta name="viewport" id="ios_viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="apple-itunes-app" content="app-id=745089947">
+<script type="text/javascript">
+	;(function() {
+		// changes meta tag to allow touch rescale
+		if(!navigator.userAgent.match(/iPhone/i)) {
+			var meta = document.getElementById("ios_viewport");
+			if(!!meta && typeof meta == 'function') {
+				meta.setAttribute('content', "width=device-width, initial-scale=0.4 , minimum-scale=0.25, maximum-scale=5.0, user-scalable=1");
+			}
+			
+		}
+	})();
+</script>
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+  var _kmk = _kmk || '1d2d9b30a39bd4f5d4dd6e9dda58e9bc27b35010';
+  function _kms(u){
+    setTimeout(function(){
+      var d = document, f = d.getElementsByTagName('script')[0],
+      s = d.createElement('script');
+      s.type = 'text/javascript'; s.async = true; s.src = u;
+      f.parentNode.insertBefore(s, f);
+    }, 1);
+  }
+  _kms('//i.kissmetrics.com/i.js');
+  _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
+<link rel="canonical" href="https://brainly.com/pages/privacy_policy">
+<link rel="apple-touch-icon-precomposed" href="/img/new/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/new/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/new/apple-touch-icon-114x114-precomposed.png">
+</head>
+<body clickbox="body" class="mint">
+ 
+<script>
+    (function() {
+
+        window.dataLayer = window.dataLayer || [];
+        var parsedData = {
+            event: 'FillDataLayer',
+            user: {"isLoggedIn":false}        };
+
+        window.dataLayer.push(parsedData);
+    })();
+</script>
+<noscript>
+<iframe src="//www.googletagmanager.com/ns.html?id=GTM-KH54WS" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-KH54WS');</script>
+ 
+<!--[if lt IE 8]>
+	<link href="/css/infobar.css?1234" rel="stylesheet">
+	<div id="infobar" style="z-index: 10000; position: fixed; top: 30px; background-color: red; text-align: center; cursor: pointer;">
+		<a href="http://browsehappy.pl/infobar">
+			Internet Explorer is unable to display this page. To find out more, click here...		</a>
+	</div>
+<![endif]-->
+<div id="main-panel" class="mint-header" clickbox="panel">
+<div class="mint-header__container">
+<div class="mint-header__left">
+<a href="/" class="mint-home-button ">
+<img class="mint-home-button__logo-small" src="https://styleguide.brainly.com/images/logos/brainly-mobile-426ef8718f.svg">
+<img class="mint-home-button__logo-big" src="https://styleguide.brainly.com/images/logos/brainly-761d75d6ea.svg">
+</a>
+</div>
+<div class="mint-header__middle">
+<form method="GET" action="/app/ask" class="mint-search">
+<input type="hidden" name="entry" value="top">
+<input class="mint-input mint-input--full mint-input--transparent-border mint-input--low mint-input--with-icon" name="q" type="search" placeholder="What is your question?">
+<div class="mint-search__button">
+<button class="mint-icon-as-button mint-icon-search" type="submit">Search</button>
+</div>
+</form>
+</div>
+<div class="mint-header__right mint-hide-for-mobile menu-right">
+<a class="mint-button-secondary mint-button-secondary--light" href="/login" data-track="click_log_in_link">
+<span class="mint-button-secondary__hole">
+Log in </span>
+</a>
+<a class="mint-button-secondary mint-button-secondary--light-inverse" href="/signup?entry=1" data-track="click_register_link">
+<span class="mint-button-secondary__hole">
+Register </span>
+</a>
+</div>
+<div class="mint-header__right mint-hide-for-desktop">
+<button class="mint-icon-as-button mint-icon-as-button--light mint-icon-menu">Menu</button>
+</div>
+</div>
+</div>
+<div class="container_24" id="container">
+<div class="clear"></div>
+<div id="content-old" class="grid_24">
+<div class="grid_16">
+<style type="text/css">ul.lst-kix_er1pelur5h4c-3{list-style-type:none}.lst-kix_hhhrodqfe7ih-2>li:before{content:"\0025a0  "}ul.lst-kix_er1pelur5h4c-4{list-style-type:none}ul.lst-kix_er1pelur5h4c-5{list-style-type:none}.lst-kix_hhhrodqfe7ih-1>li:before{content:"\0025cb  "}.lst-kix_hhhrodqfe7ih-3>li:before{content:"\0025cf  "}ul.lst-kix_er1pelur5h4c-6{list-style-type:none}.lst-kix_hhhrodqfe7ih-0>li:before{content:"\0025cf  "}.lst-kix_hhhrodqfe7ih-4>li:before{content:"\0025cb  "}ul.lst-kix_er1pelur5h4c-0{list-style-type:none}ul.lst-kix_er1pelur5h4c-1{list-style-type:none}ul.lst-kix_er1pelur5h4c-2{list-style-type:none}ul.lst-kix_er1pelur5h4c-7{list-style-type:none}ul.lst-kix_er1pelur5h4c-8{list-style-type:none}.lst-kix_utyhqaayt7xv-8>li:before{content:"\0025a0  "}ul.lst-kix_utyhqaayt7xv-4{list-style-type:none}ul.lst-kix_utyhqaayt7xv-5{list-style-type:none}ul.lst-kix_utyhqaayt7xv-2{list-style-type:none}ul.lst-kix_utyhqaayt7xv-3{list-style-type:none}ul.lst-kix_utyhqaayt7xv-8{list-style-type:none}ul.lst-kix_utyhqaayt7xv-6{list-style-type:none}ul.lst-kix_utyhqaayt7xv-7{list-style-type:none}ul.lst-kix_utyhqaayt7xv-0{list-style-type:none}ul.lst-kix_utyhqaayt7xv-1{list-style-type:none}.lst-kix_u2akg8nrp3hy-0>li:before{content:"\0025cf  "}.lst-kix_u2akg8nrp3hy-1>li:before{content:"\0025cb  "}.lst-kix_u2akg8nrp3hy-2>li:before{content:"\0025a0  "}.lst-kix_utyhqaayt7xv-1>li:before{content:"\0025cb  "}.lst-kix_utyhqaayt7xv-2>li:before{content:"\0025a0  "}.lst-kix_u2akg8nrp3hy-4>li:before{content:"\0025cb  "}ul.lst-kix_u2akg8nrp3hy-0{list-style-type:none}.lst-kix_u2akg8nrp3hy-3>li:before{content:"\0025cf  "}.lst-kix_u2akg8nrp3hy-5>li:before{content:"\0025a0  "}.lst-kix_utyhqaayt7xv-0>li:before{content:"\0025cf  "}ul.lst-kix_u2akg8nrp3hy-7{list-style-type:none}.lst-kix_u2akg8nrp3hy-8>li:before{content:"\0025a0  "}.lst-kix_utyhqaayt7xv-7>li:before{content:"\0025cb  "}ul.lst-kix_u2akg8nrp3hy-8{list-style-type:none}ul.lst-kix_u2akg8nrp3hy-5{list-style-type:none}.lst-kix_u2akg8nrp3hy-7>li:before{content:"\0025cb  "}ul.lst-kix_u2akg8nrp3hy-6{list-style-type:none}ul.lst-kix_u2akg8nrp3hy-3{list-style-type:none}.lst-kix_u2akg8nrp3hy-6>li:before{content:"\0025cf  "}.lst-kix_utyhqaayt7xv-5>li:before{content:"\0025a0  "}ul.lst-kix_u2akg8nrp3hy-4{list-style-type:none}ul.lst-kix_u2akg8nrp3hy-1{list-style-type:none}.lst-kix_utyhqaayt7xv-6>li:before{content:"\0025cf  "}ul.lst-kix_u2akg8nrp3hy-2{list-style-type:none}.lst-kix_utyhqaayt7xv-3>li:before{content:"\0025cf  "}.lst-kix_utyhqaayt7xv-4>li:before{content:"\0025cb  "}.lst-kix_er1pelur5h4c-0>li:before{content:"\0025cf  "}.lst-kix_er1pelur5h4c-2>li:before{content:"\0025a0  "}.lst-kix_er1pelur5h4c-1>li:before{content:"\0025cb  "}.lst-kix_er1pelur5h4c-5>li:before{content:"\0025a0  "}.lst-kix_er1pelur5h4c-3>li:before{content:"\0025cf  "}.lst-kix_er1pelur5h4c-4>li:before{content:"\0025cb  "}.lst-kix_er1pelur5h4c-6>li:before{content:"\0025cf  "}.lst-kix_er1pelur5h4c-7>li:before{content:"\0025cb  "}.lst-kix_er1pelur5h4c-8>li:before{content:"\0025a0  "}ul.lst-kix_hhhrodqfe7ih-8{list-style-type:none}ul.lst-kix_hhhrodqfe7ih-5{list-style-type:none}.lst-kix_hhhrodqfe7ih-8>li:before{content:"\0025a0  "}ul.lst-kix_hhhrodqfe7ih-4{list-style-type:none}ul.lst-kix_hhhrodqfe7ih-7{list-style-type:none}ul.lst-kix_hhhrodqfe7ih-6{list-style-type:none}ul.lst-kix_hhhrodqfe7ih-1{list-style-type:none}.lst-kix_hhhrodqfe7ih-6>li:before{content:"\0025cf  "}ul.lst-kix_hhhrodqfe7ih-0{list-style-type:none}ul.lst-kix_hhhrodqfe7ih-3{list-style-type:none}.lst-kix_hhhrodqfe7ih-5>li:before{content:"\0025a0  "}.lst-kix_hhhrodqfe7ih-7>li:before{content:"\0025cb  "}ul.lst-kix_hhhrodqfe7ih-2{list-style-type:none}ol{margin:0;padding:0}table td,table th{padding:0}.c12{padding-top:0pt;padding-bottom:0pt;line-height:1.3333333333333333;text-align:center}.c1{line-height:1.411764705882353;orphans:2;widows:2}.c10{orphans:2;widows:2}.c8{color:inherit;text-decoration:inherit}.c5{color:#ff8700;font-weight:bold}.c2{margin-left:36pt;padding-left:0pt}.c11{max-width:468pt;padding:72pt 72pt 72pt 72pt}.c13{color:#1155cc;text-decoration:underline}.c7{padding:0;margin:0}.c15{font-size:11pt}.c16{font-size:8.5pt}.c0{background-color:#ffffff}.c4{text-indent:15pt}.c9{font-size:10pt}.c3{height:11pt}.c6{font-weight:bold}.c14{text-decoration:underline}.title{padding-top:0pt;color:#000000;font-size:26pt;padding-bottom:3pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}.subtitle{padding-top:0pt;color:#666666;font-size:15pt;padding-bottom:16pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}li{color:#000000;font-size:11pt;font-family:"Arial"}p{margin:0;color:#000000;font-size:11pt;font-family:"Arial"}h1{padding-top:20pt;color:#000000;font-size:20pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h2{padding-top:18pt;color:#000000;font-size:16pt;padding-bottom:6pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h3{padding-top:16pt;color:#434343;font-size:14pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h4{padding-top:14pt;color:#666666;font-size:12pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h5{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;orphans:2;widows:2;text-align:left}h6{padding-top:12pt;color:#666666;font-size:11pt;padding-bottom:4pt;font-family:"Arial";line-height:1.15;page-break-after:avoid;font-style:italic;orphans:2;widows:2;text-align:left}</style>
+<h1 class="c10 c12" id="h.buoizrqznpr3"><span class="c0 c6 c15">U.S. Privacy Policy</span></h1>
+<p class="c3 c10"><span></span></p>
+<p class="c1"><span class="c0">
+This privacy policy describes how we (Brainly.com, which is owned by Brainly, Inc. of Delaware, U.S.) collect, use and share your information when you visit and interact with our service
+at </span><span class="c0 c5"><a class="c8" href="https://www.google.com/url?q=http://brainly.com/pages/www.brainly.com&amp;sa=D&amp;ust=1456843013374000&amp;usg=AFQjCNHf07vOGpWN3Xy4rQ8kct6SiLd9uQ">&nbsp;www.brainly.com</a></span><span class="c0">&nbsp;(the “Website”) or the Brainly.com mobile application (the “App”). Those services include all the ways you might interact with us: through the Brainly.com website, mobile applications, or anyotherBrainlyofferingsorserviceslinkingtothisprivacypolicy. PleasereadthisPrivacyPolicy carefully before you use the Brainly.com service so that you will understand our practices and your options before you choose to share your information. Your use of the Brainly service means that you agree to our collection, use, and disclosure of the information you share with us, as explained in this Privacy Policy.
+</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">
+Brainly reserves the right to modify this Privacy Policy at any time and without prior notice. We will post any changes on Brainly.com so please check regularly for the most recent version of our Privacy Policy. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change either by sending a notice to the primary email address specified in your account or by placing a prominent notice on the Brainly.com websitee.
+</span></p>
+<p class="c1 c3"><span class="c0 c6 c16"></span></p>
+<p class="c1"><span class="c0 c6">How to Contact Us:</span></p>
+<p class="c1"><span class="c0 c9">If you have any questions, comments or concerns about this privacy policy, you can contact us by mail or email:</span></p>
+<p class="c1 c4"><span class="c0 c9">Brainly.com</span></p>
+<p class="c1 c4"><span class="c0 c9">161 Bowery</span></p>
+<p class="c1 c4"><span class="c0 c9">2nd floor</span></p>
+<p class="c1 c4"><span class="c0 c9">New York, NY 10012</span></p>
+<p class="c1 c4"><span class="c0 c9">privacy@brainly.com</span></p>
+<p class="c1 c4 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6">I Want to Delete My or My Child’s Account:</span></p>
+<p class="c1"><span class="c0">If you would like to delete your or your child’s account, you can do so within profile preferences. Simply click on “Edit Profile”, go to the “Preferences” section, and click “I want to delete my account”.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">You can also email us at </span><span class="c0 c6 c13"><a class="c8" href="mailto:privacy@brainly.com">privacy@brainly.com</a></span><span class="c0">&nbsp;with the subject line “Delete Account”. &nbsp;Please include your username and the email address associated with the account.</span></p>
+<p class="c1 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6">Notice to Parents/Guardians and Children Under 13</span></p>
+<p class="c1"><span class="c0">With parental consent, children can register at Brainly.com to pose and answer questions. &nbsp;During the registration process, we ask registrants to provide their name, email address, and other information as listed below for notification and security purposes. &nbsp;We may also ask for birthdates to validate ages. &nbsp;We only collect the information that is reasonably necessary for a child to participate in Brainly’s online activities. &nbsp;</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">We will also collect a parent/guardian’s email address, because portions of our site may be deemed to be directed toward children under the U.S. Children’s Online Privacy Protection Act (“COPPA”). &nbsp;We will ask for a parent’s email address before collecting the name or email address or other identifying information from a site visitor who has self-identified as under 13 years of age. &nbsp;We will not use parent emails provided for these registration purposes to market to the parent, unless a parent expressly opts in to such messages or separately has registered. &nbsp;We will send an email to the parent to explain what information we are collecting, how we plan to use it, and how the parent can provide or revoke consent. &nbsp;If we do not receive parental consent within </span><span class="c0">48 hours,</span><span class="c0">&nbsp;we will delete all parental contact information and any other information collected from the child in connection with this activity.</span></p>
+<p class="c1 c4"><span class="c0">&nbsp; &nbsp; &nbsp; &nbsp; </span></p>
+<p class="c1"><span class="c0 c6">Push Notifications</span></p>
+<p class="c1"><span class="c0">Push notifications are notifications on devices such as smartphones or tablets that run our Brainly app. &nbsp;These can communicate to the device holder even when the application is not in use. &nbsp;We will require a child to provide a parental email address before the child can receive push notifications, because such technology requires that we collect and use a unique device identifier from the mobile device. &nbsp; </span><span class="c0">We will then provide the parent with notice of our contact with the child and will provide the parent the opportunity to prevent further notifications. W</span><span class="c0">e will not associate the device identifier with other personal information without contacting the parent to get consent.</span></p>
+<p class="c1 c4 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6 c14">Your Information</span></p>
+<p class="c1"><span class="c0 c6">What We Collect Via the Website:</span></p>
+<p class="c1"><span class="c0">As a Brainly registered user, we may collect from you the following information:</span></p>
+<ul class="c7 lst-kix_u2akg8nrp3hy-0 start">
+<li class="c1 c2"><span class="c0">A username and password you create</span></li>
+<li class="c1 c2"><span class="c0">Email address</span></li>
+<li class="c1 c2"><span class="c0">Gender</span></li>
+<li class="c1 c2"><span class="c0">Year of birth</span></li>
+<li class="c1 c2"><span class="c0">Your educational level</span></li>
+<li class="c1 c2"><span class="c0">Persistent identifiers such as IP address or mobile device identifier</span></li>
+</ul>
+<p class="c1 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6">What We Collect Via the App:</span></p>
+<ul class="c7 lst-kix_er1pelur5h4c-0 start">
+<li class="c1 c2"><span class="c0">A username you create</span></li>
+<li class="c1 c2"><span class="c0">Persistent identifiers such as IP address or mobile device identifier</span></li>
+</ul>
+<p class="c1"><span class="c0">NOTE: &nbsp;This Website has a question and answer format, where free form entry is permitted. &nbsp; It is a violation of our terms of use to post personal information when using these features. &nbsp;Information posted through any of these features will be posted publicly.</span></p>
+<p class="c1 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6">How We May Use and Share Your Information:</span></p>
+<p class="c1"><span class="c0">We use the personal information you provide for the following purposes:</span></p>
+<ul class="c7 lst-kix_utyhqaayt7xv-0 start">
+<li class="c1 c2"><span class="c0">to deliver our interactive computer service</span></li>
+<li class="c1 c2"><span class="c0">to complete transactions or services requested by you</span></li>
+<li class="c1 c2"><span class="c0">to communicate with you about your registration, your account in the Service, or to send notices or other disclosures required by law, such as to notify you of material changes to this policy or our Terms of Use</span></li>
+<li class="c1 c2"><span class="c0">to track and analyze non-identifying and aggregate usage and other statistical information from our Users and provide such non-identifying aggregate information to third parties</span></li>
+<li class="c1 c2"><span class="c0">to contact you about promotions and marketing related to Brainly’s service &nbsp;</span></li>
+<li class="c1 c2"><span class="c0">to tailor our programming and services to meet User needs and interests</span></li>
+</ul>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">We share personal information with the unaffiliated service providers we use to deliver, maintain, and develop the Service. &nbsp;They are prohibited from using such information for any purpose other than providing services in connection with this Site.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">We may also track and analyze non-identifying and aggregate usage and other statistical information from our Users and provide such non-identifying aggregate information to third parties. For more information, see the section titled “Cookies, Tracking Technologies and Third Party Advertising” below.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">Brainly may share personal information about you in the following circumstances: (a) in response to subpoenas, court orders or legal processes, to the extent permitted and as restricted by law; (b) when disclosure is required to maintain the security and integrity of this site, or to protect any user's security or the security of other persons, consistent with applicable laws; (c) when disclosure is directed or consented to by the registered member who has inputted the personal information; (d) in the event that Brainly, Brainly, Inc or any of its subdivisions or units goes through a business transition, such as a merger, divestiture, acquisition, liquidation or sale of all or a portion of its assets, your personal information. &nbsp;</span></p>
+<p class="c1 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6">How We Store and Safeguard Your Information:</span></p>
+<p class="c1"><span class="c0">Brainly shall take the appropriate technical and organizational measures to preserve the integrity and security of personal information provided by Users, in particular, to prevent unauthorized access to the data by third parties, as well as to prevent their loss, damage or destruction. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, we will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.</span></p>
+<p class="c1 c4 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6">How You Can Change or Access Information:</span></p>
+<p class="c1"><span class="c0">At any time, a user (or parent of a child user) may refuse to permit further collection of personal information, or can request that we delete from our records the personal information we have collected in connection with that Brainly account, by logging into their account and using the “I want to delete my account” option in account preferences.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">Parents can request access to and delete their child’s personal information by either logging into the account directly with the child’s username and password, or by contacting Brainly at privacy@brainly.com. &nbsp;</span></p>
+<p class="c1 c3"><span class="c0 c6"></span></p>
+<p class="c1"><span class="c0 c6">Cookies, Tracking Technologies and Third Party Advertising:</span></p>
+<p class="c1"><span class="c0">We automatically collect certain usage information when you use our website, such as information about your browser or device, the websites you came from and how you use our Website. This information is typically collected through tracking technologies such as cookies, which are small text files stored in the User’s device and are needed to navigate on the Website. We use cookies and other tracking technologies for a variety of purposes. For example, we use cookies to (i) adjust the content of the pages of the Website according to the preferences of the User and optimize the use of the webpages; (ii) recognize the User‘s device, so that the website is displayed according to the User’s individual needs; (iii) collect statistical data, making it possible to understand how the Users of the Website use the pages, which, in turn, allows Brainly to improve their structure and content; and maintain the User’s session (after login) so that the User does not need to introduce his or her login and password each time they visit the page.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">We may also work with third parties which collect, use and disclose certain identifiers, like IP address, mobile device identifier or cookie information on our Website and App, solely for the support of the internal operations of the Website and App, such as providing content or allowing features to run on the Website and App, serving contextual advertising, and using analytics and other tools to improve the quality and performance of the Website and App. While Brainly may work with some third parties to serve you advertisements based on your browsing behavior and interests, Brainly does not behaviorally target advertising to children under 13 on sites that are directed to children or where we have actual knowledge that a user is under 13. If you believe we, or one of our third party partners operating on our Website, have inadvertently used behavioral information to target advertisements to children under 13, please contact us at privacy@brainly.com as soon as possible.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">The Brainly Website uses session cookies and persistent cookies. Session cookies are temporary files stored on the User’s device until the User logs out, leaves the website or turns off the software (the browser). Persistent cookies are stored on the User’s device for as long as it is stated in the cookies’ parameters or until they are removed by the User. &nbsp; &nbsp;There are several types of cookies used by the Website:</span></p>
+<p class="c1 c4"><span class="c0">&nbsp;a) “necessary” cookies, which allow the user to use the Website’s services, e.g. authentication cookies used for the authentication purposes on the Website;</span></p>
+<p class="c1 c4"><span class="c0">&nbsp;b) cookies used for security purposes, e.g. used with the aim of detecting malpractice in authentication processes on the Website;</span></p>
+<p class="c1 c4"><span class="c0">&nbsp;c) “efficiency” cookies, making it possible to gather information about the way the pages of the Website are used;</span></p>
+<p class="c1 c4"><span class="c0">&nbsp;d) “functional” cookies, which allow "remembering" settings selected by the user and user’s interface customization, for example the language or region, font size, the appearance of the website, etc.</span></p>
+<p class="c1 c4"><span class="c0">&nbsp;e)"advertising" cookies, which allow for the delivery of advertising content to users to be more tailored to their interests.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">The website at Brainly.com, whether accessed on a computer or a mobile device, is not at this time configured to read or respond to “do not track” settings or signals in your browser headings, which vary by browser provider. &nbsp;</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0">If you would prefer not to accept cookies, most browsers will allow you to: (i) change your browser settings to notify you when you receive a cookie, which lets you choose whether or not to accept it; (ii) disable existing cookies; or (iii) set your browser to automatically reject cookies. Please note that doing so may negatively impact your experience using the Website, as some features and services on our Website may not work properly. Depending on your mobile device and operating system, you may not be able to delete or block all cookies. To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may visit the Network Advertising Initiative’s online resources, at http://www.networkadvertising.org/choices, and/or the DAA’s resources at www.aboutads.info/choices. Some of these opt-outs may not be effective unless your browser is set to accept cookies. Furthermore, if you use a different device, change browsers or delete the opt-out cookie, you may need to perform the opt-out task again. You may also be able to opt-out of some – but not all – interest-based ads served by mobile ad networks by visiting http://youradchoices.com/appchoices and downloading the mobile AppChoices app. If you have any questions about opting out of the collection of cookies and other tracking/recording tools, you can contact us directly at privacy@brainly.com.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0 c6">Links to Other Websites and Services:</span></p>
+<p class="c1"><span class="c0">The Website and App may contain links to and from third party websites of our business partners and advertisers. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. We strongly recommend that you read their privacy policies and terms and conditions of use to understand how they collect, use, and share information. We are not responsible for the privacy practices or the content on the websites of third party sites.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0 c6">Changes to Our Privacy Policy:</span></p>
+<p class="c1"><span class="c0">We may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last updated’ date at the bottom of this page. If you object to any changes, you may close your account. Continuing to use our Website and App after we publish changes to this Privacy Policy means that you are consenting to the changes.</span></p>
+<p class="c1 c3"><span class="c0"></span></p>
+<p class="c1"><span class="c0 c6">Last Updated:</span></p>
+<p class="c1"><span class="c0">[April 25, 2017]</span></p>
+<p class="c10 c3"><span></span></p> </div>
+<div id="main-right" class="narrow">
+<div>
+</div>
+</div> 
+<div class="clear"></div>
+</div>
+</div>
+ 
+<div clickbox="footer" id="footer">
+<div class="container_24">
+<div class="grid_24">
+<div id="footer-right">
+<ul class="first">
+<li>
+<a href="/pages/terms_of_use" data-track="footer_click_any_link">Terms of Use</a> <span class="space">|</span>
+</li>
+<li>
+<a href="/contact/index" data-track="footer_click_any_link">Contact us</a> </li>
+</ul>
+<ul class="second">
+<li>
+<a href="/pages/points" data-track="footer_click_any_link">How do I receive points?</a> </li>
+</ul>
+<ul class="third">
+<li>
+<a href="https://brainly.co" rel="nofollow" target="_blank" data-track="footer_click_any_link">About us</a><span class="space">|</span>
+</li>
+</ul>
+</div> 
+<div id="footer-left">
+<ul>
+<li>
+This website is using cookies under <span class="counter"><a href="/pages/cookie_policy" rel="nofollow" data-track="footer_click_any_link">cookie policy</a></span>. You can specify conditions of storing and accessing cookies in your browser. </li>
+</ul>
+</div>
+<div class="clear"></div>
+ 
+<script type="text/javascript">
+		var _gaq = _gaq || [];
+		var trackAsLogged = (typeof document.cookie == "string") && (document.cookie.indexOf('[Auth][User]') > -1 || document.cookie.indexOf('[hasRegistered]') > -1 || document.cookie.indexOf('[hasLoggedIn]') > -1);
+								_gaq.push(['voidtracker._setAccount', '']);
+			_gaq.push(['voidtracker._setDomainName', 'brainly.com']);
+						if (trackAsLogged) {
+				_gaq.push(['voidtracker._setCustomVar',
+			  		4,
+			  		'UserType',
+			  		'L',
+			  		1
+				]);
+			}
+			_gaq.push(['voidtracker._trackPageview']);
+			if (trackAsLogged) {
+				_gaq.push(['voidtracker._deleteCustomVar', 4]);
+			}
+						
+						
+			(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+	</script>
+<script type="text/javascript">		
+	$(document).ready(function() {							
+		var events = $.cookie('analytics');			
+		if(events !== null && events !== 'null'){	
+			events = $.parseJSON(base64_decode(events));
+			if(events !== null){
+				for(i in events){
+					if(events[i].action !== null){						
+																					_gaq.push(['voidtracker._trackEvent',events[i].category,events[i].action,events[i].label,events[i].value]);
+																			
+					}
+				}
+			}
+			$.cookie('analytics',null, {infobar : true});
+		}					
+	});
+</script>
+<script type="text/javascript">
+		$(document).ready(function() {					
+			var name = 'kiss';
+			if (!!$.cookie(name)) {
+				document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';			
+			}
+		});
+	</script>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+		$(document).ready(function() {
+			var infobar = $.cookie('Zadanepl_cookie[infobar]',{infobar: true});
+			if (infobar !== null  && (typeof infobar === 'string' && infobar.length > 1 && infobar !== 'null')) {
+				infobar = $.parseJSON(base64_decode(infobar));
+				for (msg in infobar) {
+					if(typeof infobar[msg] === 'object') {
+						Zadanium.namespace('flash_msg').setMsg(infobar[msg]['text'].replace(/\+/g,' '), infobar[msg]['class']);
+					}
+				}
+				$.cookie('Zadanepl_cookie[infobar]',null,{ infobar: true});				
+			}
+		});
+	</script>
+<ul class="chat-bind-elements">
+</ul>
+<div id="toplayer" class="hidden" style="display: none;">
+</div>
+
+
+</body></html>
