@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careercruising.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205100147id_/https%3A//public.careercruising.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careercruising.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612165341id_/http%3A//public.careercruising.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Career Cruising - English - Privacy Policy
 
