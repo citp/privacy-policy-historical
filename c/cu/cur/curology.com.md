@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curology.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817080910id_/https%3A//curology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curology.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612142256id_/https%3A//curology.com/privacy) for the most accurate reproduction.*
 
 # Curology - Privacy Policy
 
