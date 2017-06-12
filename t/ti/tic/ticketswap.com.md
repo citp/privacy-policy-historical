@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202070607id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketswap.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612062415id_/https%3A//www.ticketswap.com/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TicketSwap
+# Privacy Policy – TicketSwap
 
-Last update: May 2016
+Last update: June 2017
 
 TicketSwap respects your privacy. We comply with the Dutch Data Protection Act (Wet Bescherming Persoonsgegevens) and the Dutch Telecommunications Act (Telecommunicatiewet). In this Privacy Policy you can read what kind of personal data we collect and how we store, protect and use your personal data. Furthermore, you can read for which purposes we will use your personal data and with whom your data will be shared. 
 
 ## What does this Privacy Policy apply to?
 
-This Privacy Policy applies to your use of the " **Websites** " [www.ticketswap.com](https://www.ticketswap.com/) (related websites such as www.ticketswap.nl, www.ticketswap.be, www.ticketswap.fr, www.ticketswap.de, www.ticketswap.it, www.ticketswap.pt, www.ticketswap.fi, www.ticketswap.pl, www.ticketswap.ch, www.ticketswap.at) and the mobile application " **Apps** " offered under the name TicketSwap, and all products and services that we offer you via our Websites and Apps.
+This Privacy Policy applies to your use of the " **Websites** " www.ticketswap.com (related websites such as www.ticketswap.nl, www.ticketswap.be, www.ticketswap.fr, www.ticketswap.de, www.ticketswap.it, www.ticketswap.pt, www.ticketswap.fi, www.ticketswap.pl, www.ticketswap.ch, www.ticketswap.at) and the mobile application " **Apps** " offered under the name TicketSwap, and all products and services that we offer you via our Websites and Apps.
 
 ## Personal data
 
@@ -38,7 +38,7 @@ We use and process the personal data you have provided us with for the purposes 
 
   * We use your Facebook profile picture, name, the amount of your Facebook friends and your residence to complete your account. These will be shown on our Websites when you sell tickets to make the selling and buying of secondhand tickets safer for (potential) buyers.
   * We use your phone number to check whether it belongs to you and to check whether it is real. When you sell tickets, the check of your phone number (and not the phone number itself) will be shown on our Websites to make the selling and buying of secondhand tickets safer for (potential) buyers.
-  * If you make use of our “Secure Swap” service, we will use your email address and name to annul the second-hand ticket of the seller and provide the buyer with a new authentic ticket. For more information on Secure Swap see [this page](https://www.ticketswap.com/faq/buyers/67/wat-is-een-secure-swap).
+  * If you make use of our “Secure Swap” service, we will use your email address and name to annul the second-hand ticket of the seller and provide the buyer with a new authentic ticket. For more information on Secure Swap see [this page](https://web.archive.org/faq/buyers/67/wat-is-een-secure-swap).
   * We use your email address to send you information and updates about your order. We may also send you information about topics that might be interesting for you. You can unsubscribe from these services at any time.
   * We use the data about your browser language, your IP address and geolocation in order to address you in a language you speak and to show you content that relates to the country you reside in. 
   * In case of fraud, we will share your personal data with the victim in order to allow this person to file a report with the police. We will not share more data than necessary for the report, and we will notify you in advance when we are about to share your data for this purpose.
@@ -53,7 +53,7 @@ TicketSwap does _not_ sell, trade, or rent personal data to third parties.
 
 In order to render our services, there are data that we will need to share with third-party service providers.
 
-If you use our Secure Swap service, your email address and name will be shared with the event organizer and/or or the ticketing company (e.g. Paylogic). These third parties are contractually obliged not to use said data for any other purpose than providing the buyer with a new ticket as well as annulling the old ticket.
+If you use our Secure Swap service, your email address and name will be shared with the event organizer and/or or the ticketing company (e.g. Paylogic). These third parties are contractually obliged not to use said data for any other purpose than providing the buyer with a new ticket, cancelling the old ticket or contacting the buyer with relevant info about the event.
 
 For payments made via our websites, we use third-party services such as payment gateways and other payment transaction processors. These third parties are contractually obliged not to use said data for any other purpose than to effectuate the payment.
 
