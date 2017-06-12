@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartshoot.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130022103id_/http%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshoot.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612121847id_/https%3A//www.smartshoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Start Photography & Video Production projects on SmartShoot
 
@@ -112,7 +112,7 @@ We will make any legally required disclosures of any breach of the security, con
 
 ### Contacting Us
 
-If you have any questions or comments about our Privacy Policy, please e-mail us at legal@SmartShoot.com. Our office address is 121 2nd Street, Ste. 300, San Francisco, CA. 94105. 
+If you have any questions or comments about our Privacy Policy, please e-mail us at legal@SmartShoot.com. Our office address is 575 Market Street, Ste. 2725, San Francisco, CA. 94105. 
 
 Non-US Users 
 
