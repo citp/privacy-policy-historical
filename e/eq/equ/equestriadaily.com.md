@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112022301id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equestriadaily.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612041752id_/http%3A//www.equestriadaily.com/2011/06/eqd-privacy-policy.html) for the most accurate reproduction.*
 
-# Equestria Daily: EQD Privacy Policy
+# Equestria Daily - MLP Stuff!: EQD Privacy Policy
 
-This Privacy Policy governs the manner in which Equestria Daily collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://www.equestriadaily.com](http://www.equestriadaily.com/) website, the [http://www.eqdmusic.com](http://www.eqdmusic.com/) website and the mobile Equestria Daily Android and iOS app (from here on out all referred to as "Site"). This privacy policy applies to the Site and all products and services offered by Equestria Daily.
+This Privacy Policy governs the manner in which Equestria Daily collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://www.equestriadaily.com](http://www.equestriadaily.com/) website, the [https://www.eqdmusic.com](http://www.eqdmusic.com/) website and the mobile Equestria Daily Android and iOS app (from here on out all referred to as "Site"). This privacy policy applies to the Site and all products and services offered by Equestria Daily.
 
 Non-personal identification information  
 The Blogger engine may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. This information is used only for functional purposes.
@@ -25,7 +25,7 @@ Contacting us
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 Equestria Daily  
-[http://www.equestriadaily.com](http://www.equestriadaily.com/)  
+[https://www.equestriadaily.com](http://www.equestriadaily.com/)  
 [sethisto@gmail.com](mailto:sethisto@gmail.com)
 
 This document was last updated on January 8, 2016
