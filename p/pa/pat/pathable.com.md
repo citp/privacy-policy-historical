@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathable.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001161225id_/https%3A//pathable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathable.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612081935id_/https%3A//pathable.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Pathable
 
@@ -58,7 +58,7 @@ For your convenience, our Services may contain links to other Web sites, product
 
 * _Children *_ Children's safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children.  We do not knowingly collect personal information from children under the age of 13 without obtaining parental consent.
 
-**Security** We use reasonable security measures that are designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information. You transmit personal information to us at your own risk. Download our Security document [here](https://web.archive.org/resources/Pathable-Security.pdf).
+**Security** We use reasonable security measures that are designed to protect personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please note, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any personal information or other information. You transmit personal information to us at your own risk.
 
 **Principles**
 
