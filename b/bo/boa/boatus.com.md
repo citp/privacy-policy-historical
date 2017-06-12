@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatus.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124024806id_/http%3A//www.boatus.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatus.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612210704id_/http%3A//www.boatus.com/privacy.asp) for the most accurate reproduction.*
 
 # BoatUS Privacy Policy
 
@@ -27,11 +27,13 @@ When using our website and providing us with your information, you are agreeing 
  **Your Trust**  
 We value your trust in us and your permission to communicate with you about how we can make your time boating more fun, easier and safer. All communications from BoatUS include a phone number, unsubscribe link, email address or physical address for you to contact us with your preferences.
 
-You may opt-out of any future communications with BoatUS by sending an e-mail, calling or writing us at the following:
+If you do not wish to be contacted by email for nonbusiness-related communications, you may unsubscribe by following the instructions at the bottom of any email you receive.
+
+If you wish to be excluded from our mailing list, you may request to do so in writing or by calling us at the following:
 
  **BoatUS  
 Membership Department**  
 880 S. Pickett Street  
 Alexandria, Virginia 22304-4606 USA  
 Email: [Membership@BoatUS.com](mailto:Membership@boatus.com)  
-Phone: 800-395-2628 M – F 8 a.m. – 7 p.m. EST
+Phone: 800-395-2628
