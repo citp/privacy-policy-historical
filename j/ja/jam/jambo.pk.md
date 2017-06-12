@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the jambo.pk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121042357id_/http%3A//www.jambo.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambo.pk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612145348id_/http%3A//www.jambo.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jambo.pk
 
 **INTRODUCTION**
 
- ** _We_** **lcome & congratulations!**
+**_We_** **lcome & congratulations!**
 
 Now that _you_ have decided to use **Jambo** as _your_ preferred online shopping store, it’s the right thing to read through _our_ Privacy Policy document because _your **privacy matters**_!
 
- _We_ thank _you_ for the trust _you_ have placed in _us_ by using _our_ services. _We_ place great emphasis on privacy and confidentiality in all matters.
+_We_ thank _you_ for the trust _you_ have placed in _us_ by using _our_ services. _We_ place great emphasis on privacy and confidentiality in all matters.
 
 This Privacy Policy governs the manner in which **Jambo**  (hereinafter referred to as “ _Jambo_ ”, _“website”, “us”, “we”, “our_ ”) collects, uses, maintains and (under certain conditions and scenarios) discloses the information collected from _users_ (hereinafter referred to as _“user”, “You”, “Your”, “Their”, “Them_ ”) of the **www.Jambo.pk** _we_ bsite. This privacy policy applies to the _website_ and all products and services offered by _Jambo_.
 
- _Your_ usage of the _we_ bsite, whether directly or through another site, implies understanding and acceptance of the practices described in this policy. If _you_ do not agree with any of the practices outlined in this privacy policy, do not use this _we_ bsite. But _we_ are reasonable and accommodating, so _you_ won’t find anything to disagree with. 
+_Your_ usage of the _we_ bsite, whether directly or through another site, implies understanding and acceptance of the practices described in this policy. If _you_ do not agree with any of the practices outlined in this privacy policy, do not use this _we_ bsite. But _we_ are reasonable and accommodating, so _you_ won’t find anything to disagree with. 
 
 Please remember that _we_ only collect information that _we_ require to fulfill _your_ order and to improve _your_ online shopping experience, and information that is required by law.
 
@@ -22,25 +22,25 @@ Your personal information, including financial details, if any, are encrypted, a
 
 You also have the option to opt-out at any time of any specific service of features, or if _you_ don’t wish the _Website_ to have access to _your_ personal information.
 
- **DATA COLLECTION – PERSONAL IDENTIFICATION DETAILS**
+**DATA COLLECTION – PERSONAL IDENTIFICATION DETAILS**
 
- _We_ need _your_ information when _you_ place an order.
+_We_ need _your_ information when _you_ place an order.
 
- _We_ may collect personal identification information from _you_ dependent upon usage, including, but not limited to, when _users_ visit our _We_ bsite, fill out a form, and in connection with other activities, services, features or resources _we_ make available on our _we_ bsite.
+_We_ may collect personal identification information from _you_ dependent upon usage, including, but not limited to, when _users_ visit our _We_ bsite, fill out a form, and in connection with other activities, services, features or resources _we_ make available on our _we_ bsite.
 
- _Users_ may be asked for, based upon relevance, name, gender, email address, residential address, contact number and other details.
+_Users_ may be asked for, based upon relevance, name, gender, email address, residential address, contact number and other details.
 
- _Users_ may, ho _we_ ver, visit _Jambo_ anonymously. _We_ will collect personal identification information from _users_ only if they voluntarily submit such information to us.
+_Users_ may, ho _we_ ver, visit _Jambo_ anonymously. _We_ will collect personal identification information from _users_ only if they voluntarily submit such information to us.
 
- _Users_ can always refuse to supply personally identification information, except that it may prevent _them_ from engaging in certain _website_ related activities.
+_Users_ can always refuse to supply personally identification information, except that it may prevent _them_ from engaging in certain _website_ related activities.
 
- **NON-PERSONAL DETAILS**
+**NON-PERSONAL DETAILS**
 
- _We_ may collect non-personal identification information about _you_ whenever _you_ interact with our _we_ bsite. This may include device type, browser name, the type of computer and technical information about _your_ means of connection to our _We_ bsite, such as the operating system and the Internet service providers utilized and other similar information.
+_We_ may collect non-personal identification information about _you_ whenever _you_ interact with our _we_ bsite. This may include device type, browser name, the type of computer and technical information about _your_ means of connection to our _We_ bsite, such as the operating system and the Internet service providers utilized and other similar information.
 
- **COOKIES**
+**COOKIES**
 
- **Cookies** are miniature text files that help _our_ server to recognize _your_ computer as a unique visitor whenever _you_ visit certain pages on _Jambo_. _Your_ Internet Protocol (IP) Address saves time and unnecessary clicks and helps _us_ improve User Experience (UX).
+**Cookies** are miniature text files that help _our_ server to recognize _your_ computer as a unique visitor whenever _you_ visit certain pages on _Jambo_. _Your_ Internet Protocol (IP) Address saves time and unnecessary clicks and helps _us_ improve User Experience (UX).
 
 Cookies are never used to obtain information about any user, such as for targeted advertising purposes. _You_ can set _your_ browser settings and not accept any cookies; but that would restrict Jambo’s effectiveness. _We_ assure our customers that none of our cookies contain any private or personal details and are virus free.
 
@@ -48,32 +48,32 @@ To find more information regarding cookies _you_ can visit https://www.allaboutc
 
 _Our_ _website_ uses Google Analytics, which is a Google. Inc provided service (“Google”). Google analytics places text files (cookies) on _user’s_ computer to help track and analyze the _website_ as to how it is being used by different _users_. All information generated by these cookies is transferred and stored on the servers of Google in USA. Google uses all gathered information to evaluate how the _website_ is used and compiles the information in form of reports which is then made available to _website_ operators in form of activity on their sites along with offering other services also related to activity on the _website_ and use of internet. Google may also pass out the information received to other third parties whenever the law requires it to do so or wherever any third party is used by Google to process the information on their behalf. Google does not associate IP addresses with any other Google held date. _Website users_ can at any time refuse cookies use via selecting suitable settings in their browsers. Ho _we_ ver doing so will restrict users from enjoying the full functionality of _Jambo_. Through using this site, visitors offer consent to Google’s processing of _your_ data in the manner and for the purpose defined above.
 
- **SECURITY – PROTECTING DATA**
+**SECURITY – PROTECTING DATA**
 
 Data collection, storage and processing practices and security measures are in place to protect against unauthorized access, alteration, disclosure or destruction of _your_ personal information, username, password, transaction information and data entered on _Jambo_.
 
- **INFORMATION SHARING**
+**INFORMATION SHARING**
 
- _We_ do not sell, trade, or rent _your_ personal identification information to others. _We_ may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+_We_ do not sell, trade, or rent _your_ personal identification information to others. _We_ may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
- _We_ may also share _your_ details with _our_ agents and subcontractors to help complete _your_ request, such as with _our_ logistics partner, for delivery.
+_We_ may also share _your_ details with _our_ agents and subcontractors to help complete _your_ request, such as with _our_ logistics partner, for delivery.
 
- _We_ may collect and use _users’_ personal information for the following purposes as _we_ ll:
+_We_ may collect and use _users’_ personal information for the following purposes as _we_ ll:
 
   * To improve Jambo using _your_ feedback; improve products and services.
   * To send periodic emails responding to inquiries, queries & questions, and/or other requests. _You_ can also read about it in the FAQs section
 
 
 
- **COMPLIANCE WITH LAWS AND LAW ENFORCEMENT**
+**COMPLIANCE WITH LAWS AND LAW ENFORCEMENT**
 
- _Jambo_ cooperates with mandated government and law enforcement agencies or any third parties by an order under law in order to enforce and comply with the law. _We_ will disclose any information about _you_ to government or law enforcement officials or private parties as _we_ , in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect the property and rights of the _website_ or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity. _We_ may also provide _your_ personal information to various tax authorities upon any demand or request from them.
+_Jambo_ cooperates with mandated government and law enforcement agencies or any third parties by an order under law in order to enforce and comply with the law. _We_ will disclose any information about _you_ to government or law enforcement officials or private parties as _we_ , in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect the property and rights of the _website_ or a third party, to protect the safety of the public or any person, or to prevent or stop any illegal, unethical or legally actionable activity. _We_ may also provide _your_ personal information to various tax authorities upon any demand or request from them.
 
- **LINKS TO OTHER WEBSITES**
+**LINKS TO OTHER WEBSITES**
 
- _We_ provide links to other websites for _your_ convenience and information. These sites may have their own privacy policies in place, which we recommend _you_ review if _you_ visit any linked websites. _We_ are not responsible for the content of linked sites or any use of the sites.
+_We_ provide links to other websites for _your_ convenience and information. These sites may have their own privacy policies in place, which we recommend _you_ review if _you_ visit any linked websites. _We_ are not responsible for the content of linked sites or any use of the sites.
 
- **YOUR RIGHTS & RESPONSIBILITIES**
+**YOUR RIGHTS & RESPONSIBILITIES**
 
 By using this _we_ bsite, _you_ signify _your_ acceptance of this policy. If _you_ do not agree with the practices mentioned in this policy, please do not use _our_ _We_ bsite. _Your_ continued use of the _Website_ following the posting of changes to this policy will be deemed _as your_ acceptance of those changes.
 
