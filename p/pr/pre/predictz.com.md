@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003947id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictz.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612181550id_/http%3A//www.predictz.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# predictZ.com - Privacy and Cookie Policy
+# Privacy and Cookie Policy - predictZ.com
 
 PredictZ.com Privacy and Cookie Policy
 
