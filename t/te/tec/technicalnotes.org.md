@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the technicalnotes.org privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627132525id_/http%3A//www.technicalnotes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technicalnotes.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204132id_/http%3A//www.technicalnotes.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Technical Notes
 
-**TechnicalNotes.org Privacy Policy Highlights**
+[vc_row][vc_column width=”1/1″][vc_message color=”alert-info” style=”rounded”] **TechnicalNotes.org Privacy Policy Highlights**
 
 This notice provides highlights of the full privacy policy which currently applies to the collection and use of information from any device used to access or connect to **TechnicalNotes.org** , services, and software, as well as many websites owned by or affiliated with **TechnicalNotes.org** and operating under different names.
 
-**Information We Collect and Receive**  
-
+**Information We Collect and Receive**
 
 We collect and receive information about you and your device when you give it to us directly, when you use our Services, and from certain third-party sources.
 
@@ -31,4 +30,4 @@ India, Karnataka,
 
 581320 –
 
-Ihtishamtashreef6@gmail.com
+Ihtishamtashreef6@gmail.com[/vc_message][/vc_column][/vc_row]
