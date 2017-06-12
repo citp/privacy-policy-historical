@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveawake.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122181853id_/http%3A//www.loveawake.com/special/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveawake.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612075124id_/http%3A//www.loveawake.com/special/policy) for the most accurate reproduction.*
 
 # 
 
