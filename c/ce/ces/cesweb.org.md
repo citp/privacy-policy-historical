@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204225104id_/http%3A//www.ces.tech/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612042756id_/http%3A//www.ces.tech/privacy) for the most accurate reproduction.*
 
 # CES.tech Privacy Statement - CES 2017
 
@@ -30,7 +30,7 @@ We may also collect general, non-personal, statistical information about the use
 
 A "cookie" is a piece of data stored on your hard drive containing non-personally identifiable information about you. We may use cookies in order to collect certain information about you, such as IP addresses (e.g., whether you are logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), and the type of computer and operating system being used. We may also use cookies to identify your computer when you revisit our Website, to recall your authentication information, or to track statistical information related to navigation throughout the Website. We may collect such information in order to better operate the Website so as to enhance your experience while using the Website, and to share with advertisers to provide you with a more personalized visit to the Website. Usage of a cookie is in no way linked to any personal information while on our Website. 
 
-Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by this Website; however, depending on the particular cookie you reject, you may not be able to use some of the features of this Website. To disable all cookies, [follow these instructions](http://www.aboutcookies.org/Default.aspx?page=2) for the type of browser you are using.
+Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by this Website; however, depending on the particular cookie you reject, you may not be able to use some of the features of this Website. To disable all cookies, follow these instructions for the type of browser you are using.
 
 We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting the Website. Yahoo! may also use anonymous information about your visits to this Website in order to improve its products and services. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, please [click here](https://ondemand.indextools.com/optout,OptOut.vm?domain=stats.indextools.com).
 
