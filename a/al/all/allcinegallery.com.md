@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcinegallery.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122213114id_/http%3A//allcinegallery.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcinegallery.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612180009id_/http%3A//allcinegallery.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer - Tamil Movie Stills Telugu Movie Stills Cinema Actor Actress Photos Images Gallery
 
