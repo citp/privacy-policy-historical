@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line.me privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220162236id_/http%3A//terms.line.me/line_rules/%3Flang%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line.me privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612204240id_/http%3A//terms.line.me/line_rules/%3Flang%3Den) for the most accurate reproduction.*
 
 # LINE Privacy Policy
 
@@ -197,9 +197,9 @@ If we learn that we have inadvertently collected personal information from Child
 If you have any questions, comments, or concerns about this Privacy Policy or our other privacy policies or practices, please contact us via the [Contact Form](https://contact.line.me/en/)  or by writing to:  
 LINE Corporation  
 Attn: Privacy Policy  
-27th Floor Shibuya Hikarie  
-2-21-1 Shibuya, Shibuya-ku, Tokyo  
-150-8510 Japan
+23th Floor JR Shinjuku Miraina Tower  
+4-1-6 Shinjuku, Shinjuku-ku, Tokyo  
+160-0022 Japan
 
  **c. Changes to This Privacy Policy**  
 We may modify our Privacy Policy from time to time for various reasons including to improve our privacy practices, to reflect changes to our Service, and to comply with relevant laws.  This Privacy Policy was last updated on December 9, 2016, and it was initially released on August 15, 2012.
