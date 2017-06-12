@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119025928id_/http%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612040733id_/http%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
@@ -76,7 +76,7 @@ There are essentially 3 different types of cookies that we use on [Office.co.uk]
 
 
 
-If you wish, you can set up your computer so that it rejects cookies and you will find instructions on how to do this at [www.allaboutcookies.org](https://web.archive.org/web/20161119025928id_/http%3A//www.office.co.uk/view/content/www.allaboutcookies.org). Please note that in doing so, in common with other online shopping sites, you will be unable to purchase from [office.co.uk](http://www.office.co.uk/). Alternatively, please view our section ‘Managing Cookies’ below.
+If you wish, you can set up your computer so that it rejects cookies and you will find instructions on how to do this at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Please note that in doing so, in common with other online shopping sites, you will be unable to purchase from [office.co.uk](http://www.office.co.uk/). Alternatively, please view our section ‘Managing Cookies’ below.
 
 Full details of the cookies that we use (as of May 2012) are listed below.
 
@@ -105,7 +105,7 @@ Non essential, but helpful cookies
 **1st party cookies**  
 ---  
 **Partner Name** |  **Description**  
-Qubit  |  These cookies are for analtics software by our business partner Qubit. This helps us take site data to improve the website and your experience whilst on the website, and to tailor marketing to you. Duration: 1 year   
+Qubit  |  These cookies are for analytics software by our business partner Qubit. This helps us take site data to improve the website and your experience whilst on the website, and to tailor marketing to you. Duration: 1 year   
   
 Analytics and Marketing
 
@@ -114,6 +114,16 @@ Analytics and Marketing
 **Partner Name** |  **Description**  
 Criteo  |  Recommends alternative products to you based on your viewing habits   
 Criteo  |  Criteo uses cookies to retarget you with personalised banner advertising after you have been to our website. To learn more please click on the 'i' tab in one of the ads. Duration: Up to 13 months   
+Criteo  |  Our website uses cookies/advertising IDs for the purpose of advertising. This enables us to show our advertisements to visitors who are interested in our products on partner websites, apps and emails. Re-targeting technologies use your cookies or advertising IDs and display advertisements based on your past browsing behaviour. You can opt-out of interest based advertising by visiting the following websites:
+
+<http://go.pardot.com/e/126241/choices-/3yy9lv/114140805>
+
+<http://go.pardot.com/e/126241/2017-04-12/3yy9lx/114140805> We may share data, such as technical identifiers derived from your registration information on our [website/app] or our CRM system with our trusted advertising partners. This allows them to link your devices and/or environments and provide you a seamless experience across the different devices and environments that you use. To read more about their linking capabilities, please refer to their privacy policy listed in the above-mentioned platforms or listed below. 
+
+Criteo privacy policy: <http://go.pardot.com/e/126241/privacy-/3yy9lz/114140805>
+
+AffiliateWindow policy: <https://www.awin.com/gb/legal/privacy-policy>  
+  
 EmailVision  |  To make our emails more tailored and relevant to you, we collect data on how you interact with them so that we can improve what we send you via marketing emails. Duration: 60 days   
 Google  |  These cookies enable Google Analytics. This helps us take site data to improve the website and your experience whilst on the website, and to tailor marketing to you. Duration: Up to 2 years   
 Affiliate Window  |  These cookies give us information on who directed you to the website. We may choose to reward some external websites for directing you to our website. Duration: Up to 30 days   
@@ -192,8 +202,8 @@ CONTROLLING YOUR PERSONAL INFORMATION
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by OFFICE or companies of OFFICE's careful selection for direct marketing purposes
-  * if you have previously agreed to OFFICE using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing via our marketing emails or emailing us at [help@office.co.uk](https://web.archive.org/web/20161119025928id_/http%3A//www.office.co.uk/view/content/help@office.co.uk).
-  * if you have previously agreed to OFFICE sharing your personal information with companies of OFFICE's careful selection for direct marketing purposes, you may change your mind at any time by emailing us at [help@office.co.uk](https://web.archive.org/web/20161119025928id_/http%3A//www.office.co.uk/view/content/help@office.co.uk).
+  * if you have previously agreed to OFFICE using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing via our marketing emails or emailing us at [help@office.co.uk](mailto:help@office.co.uk).
+  * if you have previously agreed to OFFICE sharing your personal information with companies of OFFICE's careful selection for direct marketing purposes, you may change your mind at any time by emailing us at [help@office.co.uk](mailto:help@office.co.uk).
 
 
 
@@ -203,4 +213,4 @@ You may request details of personal information which we hold about you under th
 
 CONTACT US
 
-If you have any questions, please feel free to contact us by email at: [help@office.co.uk](https://web.archive.org/web/20161119025928id_/http%3A//www.office.co.uk/view/content/help@office.co.uk) Alternatively, you may call our team on 0330 100 1906 , Monday to Friday: 9am to 6pm & Saturday 9.30am to 4.30pm
+If you have any questions, please feel free to contact us by email at: [help@office.co.uk](mailto:help@office.co.uk) Alternatively, you may call our team on 0330 100 1906 , Monday to Friday: 9am to 6pm & Saturday 9.30am to 4.30pm
