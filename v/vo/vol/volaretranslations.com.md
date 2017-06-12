@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the volaretranslations.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233318id_/http%3A//volaretranslations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volaretranslations.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612051843id_/http%3A//volarenovels.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - volaretranslations
+# Privacy Policy - volare novels
 
-This Privacy Policy governs the manner in which volaretranslations collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://volaretranslations.com website (“Site”).
+This Privacy Policy governs the manner in which volaretranslations collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://volarenovels.com website (“Site”).
 
 ### Personal identification information
 
@@ -68,6 +68,3 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on June 26, 2016
-
- **Sponsored Links:**  
-
