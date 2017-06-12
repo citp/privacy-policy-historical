@@ -1,37 +1,21 @@
-> *The following text is extracted and transformed from the zinus.com privacy policy that was archived on 2015-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150819061235id_/http%3A//www.zinus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zinus.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612150802id_/https%3A//www.zinus.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Zinus, Inc - Comfort Innovations
+# Privacy Policy | Zinus
 
-**Information that is gathered from visitors**  
-In common with other websites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
+This Privacy Policy describes how Zinus, Inc. and its affiliated brands, (collectively “Zinus” or “we” or “us”) collects and processes the information that you share when you use this website.
 
-Cookies may be used to remember visitor preferences when interacting with the website.
+Before providing information to this website, please review this Privacy Policy carefully. By using or accessing this website, you accept the practices described in this Privacy Policy. If you prefer that we not collect and process information about you, please do not provide it to us and do not access this website.  We collect information that you share with us through this website, including general information and your personal information. The general information includes browser information, operating system information, device information, TCP-IP addresses and the date, time, length of stay and specific webpages accessed during your visits to this website. The personal information includes information that can personally identify you, such as your name, email address and telephone number. For example, when you place an order, we collect your shipping address and financial information for payment. We maintain one or more databases to store your personal information and may retain it as reasonably required to serve you. Providing your personal information to us is your choice. If you choose not to provide us with certain personal information, you may not be able to take advantage of certain after-sales services that we provide.
 
-Where registration is required, the visitor’s email and a username will be stored on the server.
+In operating our website, we use web beacons collect general information, such as the type of browser that you use and your IP address. We use your IP address to help diagnose problems with our server and to improve the technical operation of our website. Your IP address is also used to help identify you and to gather general information. Web beacons may also be used in conjunction with cookies. When web beacons are used with cookies, they may link general information to your personal information. Web beacons and cookies are usually not visible to you.
 
-We collect the e-mail addresses of those who communicate with us via e-mail.
+From time to time this website may include links to other websites that we do not own or control. These links are provided for your convenience to provide further information. They do not signify that we endorse the linked website(s). We have no responsibility for the content of the linked website(s). We encourage you to review and understand the privacy policies of linked websites before providing any information to them.
 
-The information we collect is used to improve the content of our Web page. It is not shared with other organizations for commercial purposes. We will never sell or rent your email address. If you conduct fraud or spam, we may post your site on Black Hat SEO.com or other similar websites.
+Zinus retains your personal information for the period necessary to provide services related to the products we sell, unless a longer retention period is required or permitted by applicable law.
 
-**How the Information is used**  
-The information is used to enhance the vistor’s experience when using the website to display personalized content and possibly advertising.
+Your use of this website and any dispute arising out of the use of the website is subject to the laws and jurisdiction of the State of California, United States of America.
 
-E-mail addresses will not be sold, rented or leased to 3rd parties.
+Our website is hosted in the United States. If you are visiting our website from outside the United States, your information may be transferred to, stored and processed in the United States in accordance with this Privacy Policy and applicable California and U.S. law. Note that the data protection and privacy laws of California and the United States may not be as comprehensive as the laws in your country. By using this website, you consent to transfer of your information to our facilities as described in this Privacy Policy.
 
-E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+Information Security Practices Zinus has implemented reasonable safeguards to protect information that is collected through our website. When you submit your personal information (such as your credit card number) though our website, your personal information is encrypted with secure socket layer (SSL) protocol, the current industry-standard encryption protocol. Web pages that transmit SSL-encrypted information have URLs that start with “https://” instead of “http://”. Despite our reasonable efforts to safeguard and protect your personal information, however, it might still be possible for unauthorized third parties to access such information. Without limiting our Terms of Use and Privacy Policy, you understand that we do not guarantee that your personal information will remain secure and inaccessible to third parties, and we are not liable to you for any breach of the privacy of your information, i.e., through hacking, unauthorized intrusion or cyber attack.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. We will never rent or sell email addresses or other personal information.
-
-**Visitor Options**  
-If you have subscribed to one of our services, you may unsubscribe by following the instructions which are included in emails that you receive.
-
-You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
-
-**Cookies**  
-Cookies are small digital signature files that are stored by your web browser that allow your preferences to be recorded when visiting the website. Also they may be used to track your return visits to the website.
-
-3rd party advertising companies may also use cookies for tracking purposes.
-
-**Please contact us if you have any questions.**
+You are responsible for taking measures to monitor and mitigate any breach in the privacy of your personal information. Please do not use the website if you do not accept the adequacy of our information security practices and do not agree to hold Zinus harmless from damages that occur despite our reasonable efforts to prevent any malicious third-party intrusions.
