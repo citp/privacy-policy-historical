@@ -1,55 +1,168 @@
-<!--The following is the downloaded HTML source of the workforcehosting.com privacy policy that was archived on 2016-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160611232126id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workforcehosting.com privacy policy that was archived on 2017-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170612053258id_/http%3A//www.workforcesoftware.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js"><!--<![endif]--><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><link rel="pingback" href="http://www.workforcesoftware.com/xmlrpc.php"><!--[if lt IE 9]> <script src="http://www.workforcesoftware.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script> <![endif]--> <script type="text/javascript" src="https://pi.pardot.com/pd.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TX8XXC"></script><script type="text/javascript">document.documentElement.className = 'js';</script> <link type="text/css" media="all" href="http://www.workforcesoftware.com/wp-content/cache/autoptimize/autoptimize_214e95da68ce1eda171a6a26cff4a1fb.php" rel="stylesheet"><title>Privacy Policy | WorkForce Software</title><link rel="canonical" href="http://www.workforcesoftware.com/privacy-policy/"><meta property="og:locale" content="en_US"><meta property="og:type" content="article"><meta property="og:title" content="Privacy Policy | WorkForce Software"><meta property="og:url" content="http://www.workforcesoftware.com/privacy-policy/"><meta property="og:site_name" content="WorkForce Software"><meta property="article:publisher" content="https://www.facebook.com/workforcesoftware"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Privacy Policy | WorkForce Software"><meta name="twitter:site" content="@WorkForceSW"><meta name="twitter:creator" content="@WorkForceSW"><link rel="dns-prefetch" href="//fonts.googleapis.com"><link rel="dns-prefetch" href="//s.w.org"><link rel="alternate" type="application/rss+xml" title="WorkForce Software » Feed" href="http://www.workforcesoftware.com/feed/"><link rel="alternate" type="application/rss+xml" title="WorkForce Software » Comments Feed" href="http://www.workforcesoftware.com/comments/feed/"> <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.workforcesoftware.com\/wp-includes\/js\/wp-emoji.js?ver=4.8","twemoji":"http:\/\/www.workforcesoftware.com\/wp-includes\/js\/twemoji.js?ver=4.8"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
 
-	<meta charset="UTF-8">
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
-	
-	
-	
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, emoji41, emoji42;
 
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
 
-	
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
 
-	<link rel="pingback" href="http://www.workforcesoftware.com/xmlrpc.php">
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+				flag = canvas.toDataURL();
 
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
+				// Add a zero width space between the characters, to force rendering as characters.
+				context.fillText( stringFromCharCode( 55356, 56826, 8203, 55356, 56819 ), 0, 0 );
+				flag2 = canvas.toDataURL();
 
-	
-	<!--[if lt IE 9]>
+				if ( flag !== flag2 ) {
+					return false;
+				}
 
-	<script src="http://www.workforcesoftware.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				// Cleanup from previous test.
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-	<![endif]-->
+				context.fillText( stringFromCharCode( 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ), 0, 0 );
+				flag = canvas.toDataURL();
 
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
+				context.fillText( stringFromCharCode( 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ), 0, 0 );
+				flag2 = canvas.toDataURL();
 
-	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TX8XXC"></script><script type="text/javascript">
+				return flag !== flag2;
+			case 'emoji4':
+				/*
+				 * Emoji 5 has faries of all genders.
+				 *
+				 * To test for support, try to render a new emoji (fairy, male), then compares
+				 * it to how it would look if the browser doesn't render it correctly
+				 * (fairy + male sign).
+				 */
+				context.fillText( stringFromCharCode( 55358, 56794, 8205, 9794, 65039 ), 0, 0 );
+				emoji41 = canvas.toDataURL();
 
-		document.documentElement.className = 'js';
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-	</script>
+				context.fillText( stringFromCharCode( 55358, 56794, 8203, 9794, 65039 ), 0, 0 );
+				emoji42 = canvas.toDataURL();
 
-	<title>Privacy Policy | WorkForce Software</title>
+				return emoji41 !== emoji42;
+		}
 
-<!-- This site is optimized with the Yoast SEO plugin v3.2.5 - https://yoast.com/wordpress/plugins/seo/ -->
-<link rel="canonical" href="http://www.workforcesoftware.com/privacy-policy/">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Privacy Policy | WorkForce Software">
-<meta name="twitter:site" content="@WorkForceSW">
-<meta name="twitter:creator" content="@WorkForceSW">
-<!-- / Yoast SEO plugin. -->
+		return false;
+	}
 
-<link rel="alternate" type="application/rss+xml" title="WorkForce Software » Feed" href="http://www.workforcesoftware.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="WorkForce Software » Comments Feed" href="http://www.workforcesoftware.com/comments/feed/">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.workforcesoftware.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.workforcesoftware.com/wp-includes/js/wp-emoji-release.min.js?ver=4.5.2" type="text/javascript"></script>
-		<meta content="WorkForce Software v.1.0" name="generator"><style type="text/css">
-img.wp-smiley,
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji4' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );</script><script src="http://www.workforcesoftware.com/wp-includes/js/twemoji.js?ver=4.8" type="text/javascript" defer=""></script><script src="http://www.workforcesoftware.com/wp-includes/js/wp-emoji.js?ver=4.8" type="text/javascript" defer=""></script> <meta content="WorkForce Software v.1.0" name="generator"><style type="text/css">img.wp-smiley,
 img.emoji {
 	display: inline !important;
 	border: none !important;
@@ -60,73 +173,28 @@ img.emoji {
 	vertical-align: -0.1em !important;
 	background: none !important;
 	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="et-gf-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
-<link rel="stylesheet" id="et_monarch-css-css" href="http://www.workforcesoftware.com/wp-content/plugins/monarch/css/style.css?ver=1.3" type="text/css" media="all">
-<link rel="stylesheet" id="wpupg_style1-css" href="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/css/filter.css?ver=1465687286" type="text/css" media="all">
-<link rel="stylesheet" id="wpupg_style2-css" href="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/css/pagination.css?ver=1465687286" type="text/css" media="all">
-<link rel="stylesheet" id="wpupg_style3-css" href="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/css/grid.css?ver=1465687286" type="text/css" media="all">
-<link rel="stylesheet" id="wpupg_style4-css" href="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/css/layout_base_forced.css?ver=1465687286" type="text/css" media="all">
-<link rel="stylesheet" id="wpupg_style5-css" href="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/premium/addons/filter-dropdown/css/filter-dropdown.css?ver=1465687286" type="text/css" media="all">
-<link rel="stylesheet" id="wpupg_style6-css" href="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/vendor/select2/css/select2.css?ver=1465687286" type="text/css" media="all">
-<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.workforcesoftware.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
-<link rel="stylesheet" id="divi-parent-css" href="http://www.workforcesoftware.com/wp-content/themes/Divi/style.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="child-style-css" href="http://www.workforcesoftware.com/wp-content/themes/workforce/style.css?ver=4.5.2" type="text/css" media="all">
-<link rel="stylesheet" id="divi-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="divi-style-css" href="http://www.workforcesoftware.com/wp-content/themes/workforce/style.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-css-css" href="http://www.workforcesoftware.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://www.workforcesoftware.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css" href="http://www.workforcesoftware.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css" href="http://www.workforcesoftware.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.css?ver=1.5.7" type="text/css" media="screen">
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.3"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0"></script>
-<link rel="https://api.w.org/" href="http://www.workforcesoftware.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.workforcesoftware.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.workforcesoftware.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.5.2">
-<link rel="shortlink" href="http://www.workforcesoftware.com/?p=136">
-<link rel="alternate" type="application/json+oembed" href="http://www.workforcesoftware.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://www.workforcesoftware.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;format=xml">
-
-			<style type="text/css">
-				#wpadminbar .quicklinks li#wp-admin-bar-clickystats {
-					height: 28px
-				}
-
-				#wpadminbar .quicklinks li#wp-admin-bar-clickystats a {
-					height: 28px;
-					padding: 0
-				}
-
-				#wpadminbar .quicklinks li#wp-admin-bar-clickystats a img {
-					padding: 4px 5px;
-					height: 20px;
-					width: 99px;
-				}
-			</style>
-		<style type="text/css" id="et-social-custom-css">
-				 
-			</style><style type="text/css">.wpupg-grid { transition: height 0.8s; }</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">		<style id="theme-customizer-css">
-					@media only screen and ( min-width: 767px ) {
+}</style><link rel="stylesheet" id="et-gf-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all"><style id="wpml-legacy-dropdown-0-inline-css" type="text/css">.wpml-ls-statics-shortcode_actions{background-color:#ffffff;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#cdcdcd;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}</style><link rel="stylesheet" id="divi-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" type="text/css" media="all"> <script type="text/javascript" src="http://www.workforcesoftware.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script> <link rel="https://api.w.org/" href="http://www.workforcesoftware.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.workforcesoftware.com/xmlrpc.php?rsd"><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.workforcesoftware.com/wp-includes/wlwmanifest.xml"><link rel="shortlink" href="http://www.workforcesoftware.com/?p=136"><link rel="alternate" type="application/json+oembed" href="http://www.workforcesoftware.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F"><link rel="alternate" type="text/xml+oembed" href="http://www.workforcesoftware.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;format=xml"><style type="text/css" id="et-social-custom-css"></style><meta name="generator" content="WPML ver:3.7.1 stt:64,1,55;"><style type="text/css">.wpupg-grid { transition: height 0.8s; }</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><style id="theme-customizer-css">@media only screen and ( min-width: 767px ) {
 				body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url, body .et_pb_bg_layout_light .et_pb_post p,  body .et_pb_bg_layout_dark .et_pb_post p { font-size: 15px; }
 				.et_pb_slide_content, .et_pb_best_value { font-size: 17px; }
 			}
-										h1, h2, h3, h4, h5, h6 { color: #3f79ba; }
-										.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #3f79ba !important; }
-			#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #3f79ba; }
-			.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit input, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button { color: #3f79ba; }
-			.footer-widget h4 { color: #3f79ba; }
-			.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #3f79ba; }
-			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content, .et_pb_post_slider.et_pb_bg_layout_dark, .et_slide_in_menu_container { background-color: #3f79ba; }
+							body { color: #757b82; }
+								h1, h2, h3, h4, h5, h6 { color: #696e75; }
+										.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #079AD7 !important; }
+			#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #079AD7; }
+			.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit .et_pb_button, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .et_pb_contact p input[type="checkbox"]:checked + label i:before { color: #079AD7; }
+			.footer-widget h4 { color: #079AD7; }
+			.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #079AD7; }
+			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content, .et_pb_post_slider.et_pb_bg_layout_dark, .et_slide_in_menu_container, .et_pb_contact p input[type="radio"]:checked + label i:before { background-color: #079AD7; }
 							.container, .et_pb_row, .et_pb_slider .et_pb_container, .et_pb_fullwidth_section .et_pb_title_container, .et_pb_fullwidth_section .et_pb_title_featured_container, .et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container { max-width: 1140px; }
 			.et_boxed_layout #page-container, .et_fixed_nav.et_boxed_layout #page-container #top-header, .et_fixed_nav.et_boxed_layout #page-container #main-header, .et_boxed_layout #page-container .container, .et_boxed_layout #page-container .et_pb_row { max-width: 1300px; }
-							a { color: #0055c9; }
-													#top-header, #et-secondary-nav li ul { background-color: #3f79ba; }
-													.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info { color: #3f79ba; }
-			.et_search_form_container input::-moz-placeholder { color: #3f79ba; }
-			.et_search_form_container input::-webkit-input-placeholder { color: #3f79ba; }
-			.et_search_form_container input:-ms-input-placeholder { color: #3f79ba; }
+							a { color: #079ad7; }
+											.nav li ul { border-color: #079ad7; }
+							#top-header, #et-secondary-nav li ul { background-color: #ffffff; }
+								#top-header, #top-header a { color: #757b82; }
+									.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info { color: #757b82; }
+			.et_search_form_container input::-moz-placeholder { color: #757b82; }
+			.et_search_form_container input::-webkit-input-placeholder { color: #757b82; }
+			.et_search_form_container input:-ms-input-placeholder { color: #757b82; }
 									#top-header, #top-header a, #et-secondary-nav li li a, #top-header .et-social-icon a:before {
 									font-size: 14px;
 															}
@@ -138,19 +206,23 @@ img.emoji {
 			.et_color_scheme_red #top-menu li.current-menu-ancestor > a, .et_color_scheme_red #top-menu li.current-menu-item > a,
 			.et_color_scheme_pink #top-menu li.current-menu-ancestor > a, .et_color_scheme_pink #top-menu li.current-menu-item > a,
 			.et_color_scheme_orange #top-menu li.current-menu-ancestor > a, .et_color_scheme_orange #top-menu li.current-menu-item > a,
-			.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item > a { color: #25aae1; }
-							#main-footer { background-color: #001d55; }
-							#footer-widgets .footer-widget li a { color: #0055c9; }
-							.footer-widget { color: #ffffff; }
-							#main-footer .footer-widget h4 { color: #ffffff; }
-							.footer-widget li:before { border-color: #3f79ba; }
-						.footer-widget h4 { font-weight: bold; font-style: normal; text-transform: none; text-decoration: none;  }#footer-widgets .footer-widget li:before { top: 9.75px; }.bottom-nav, .bottom-nav a, .bottom-nav li.current-menu-item a { color: #ffffff; }#et-footer-nav .bottom-nav li.current-menu-item a { color: #ffffff; }#footer-info, #footer-info a { color: #ffffff; }#footer-bottom .et-social-icon a { color: #ffffff; }									body .et_pb_button,
+			.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item > a { color: #079ad7; }
+							#main-footer { background-color: ; }
+							#footer-widgets .footer-widget a,
+			#footer-widgets .footer-widget li a,
+			#footer-widgets .footer-widget li a:hover { color: #079ad7; }
+							.footer-widget { color: #757b82; }
+							#main-footer .footer-widget h4 { color: #757b82; }
+							.footer-widget li:before { border-color: #757b82; }
+							.footer-widget, .footer-widget li, .footer-widget li a, #footer-info { font-size: 12px; }
+				.footer-widget h4 { font-weight: bold; font-style: normal; text-transform: none; text-decoration: none;  }#footer-widgets .footer-widget li:before { top: 7.2px; }.bottom-nav, .bottom-nav a, .bottom-nav li.current-menu-item a { color: #ffffff; }#et-footer-nav .bottom-nav li.current-menu-item a { color: #ffffff; }#footer-info, #footer-info a { color: #ffffff; }#footer-bottom .et-social-icon a { color: #ffffff; }									body .et_pb_button,
 			.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt,
-			.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button
+			.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message a.button.wc-forward
 			{
-													background: #3f79ba;
-													border-width: 0px !important;
-																					font-weight: bold; font-style: normal; text-transform: none; text-decoration: none; ;
+									 font-size: 18px;
+													background: #079ad7;
+																	border-color: #079ad7;
+																	font-weight: bold; font-style: normal; text-transform: none; text-decoration: none; ;
 											}
 			body.et_pb_button_helper_class .et_pb_button,
 			.woocommerce.et_pb_button_helper_class a.button.alt, .woocommerce-page.et_pb_button_helper_class a.button.alt, .woocommerce.et_pb_button_helper_class button.button.alt, .woocommerce-page.et_pb_button_helper_class button.button.alt, .woocommerce.et_pb_button_helper_class input.button.alt, .woocommerce-page.et_pb_button_helper_class input.button.alt, .woocommerce.et_pb_button_helper_class #respond input#submit.alt, .woocommerce-page.et_pb_button_helper_class #respond input#submit.alt, .woocommerce.et_pb_button_helper_class #content input.button.alt, .woocommerce-page.et_pb_button_helper_class #content input.button.alt,
@@ -161,71 +233,68 @@ img.emoji {
 			.woocommerce a.button:after, .woocommerce-page a.button:after, .woocommerce button.button:after, .woocommerce-page button.button:after, .woocommerce input.button:after, .woocommerce-page input.button:after, .woocommerce #respond input#submit:after, .woocommerce-page #respond input#submit:after, .woocommerce #content input.button:after, .woocommerce-page #content input.button:after
 			{
 															content: '=';
-										font-size: 20px;
+										font-size: 18px;
 											}
 							body .et_pb_button:hover,
 			.woocommerce a.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page #content input.button.alt:hover,
-			.woocommerce a.button:hover, .woocommerce-page a.button:hover, .woocommerce button.button, .woocommerce-page button.button:hover, .woocommerce input.button:hover, .woocommerce-page input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page #content input.button:hover
+			.woocommerce a.button:hover, .woocommerce-page a.button:hover, .woocommerce button.button:hover, .woocommerce-page button.button:hover, .woocommerce input.button:hover, .woocommerce-page input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page #content input.button:hover
 			{
-													background: #75a0d0 !important;
-																			}
+													background: #27618e !important;
+													border-color: #27618e !important;
+															}
 		
 						h1, h2, h3, h4, h5, h6, .et_quote_content blockquote p, .et_pb_slide_description .et_pb_slide_title {
 										
 											line-height: 1.4em;
 									}
 		
-																														
+									body #page-container .et_slide_in_menu_container { background: #079ad7; }
+																										
 		@media only screen and ( min-width: 981px ) {
-																			.et_header_style_left #et-top-navigation, .et_header_style_split #et-top-navigation  { padding: 40px 0 0 0; }
-				.et_header_style_left #et-top-navigation nav > ul > li > a, .et_header_style_split #et-top-navigation nav > ul > li > a { padding-bottom: 40px; }
-				.et_header_style_split .centered-inline-logo-wrap { width: 80px; margin: -80px 0; }
-				.et_header_style_split .centered-inline-logo-wrap #logo { max-height: 80px; }
-				.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo { height: 80px; }
-				.et_header_style_centered #top-menu > li > a { padding-bottom: 14px; }
-				.et_header_style_slide #et-top-navigation, .et_header_style_fullscreen #et-top-navigation { padding: 31px 0 31px 0 !important; }
-									.et_header_style_centered #main-header .logo_container { height: 80px; }
+																				h1 { font-size: 32px; }
+					h2, .product .related h2, .et_pb_column_1_2 .et_quote_content blockquote p { font-size: 27px; }
+					h3 { font-size: 23px; }
+					h4, .et_pb_circle_counter h3, .et_pb_number_counter h3, .et_pb_column_1_3 .et_pb_post h2, .et_pb_column_1_4 .et_pb_post h2, .et_pb_blog_grid h2, .et_pb_column_1_3 .et_quote_content blockquote p, .et_pb_column_3_8 .et_quote_content blockquote p, .et_pb_column_1_4 .et_quote_content blockquote p, .et_pb_blog_grid .et_quote_content blockquote p, .et_pb_column_1_3 .et_link_content h2, .et_pb_column_3_8 .et_link_content h2, .et_pb_column_1_4 .et_link_content h2, .et_pb_blog_grid .et_link_content h2, .et_pb_column_1_3 .et_audio_content h2, .et_pb_column_3_8 .et_audio_content h2, .et_pb_column_1_4 .et_audio_content h2, .et_pb_blog_grid .et_audio_content h2, .et_pb_column_3_8 .et_pb_audio_module_content h2, .et_pb_column_1_3 .et_pb_audio_module_content h2, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 { font-size: 19px; }
+					h5 { font-size: 16px; }
+					h6 { font-size: 15px; }
+					.et_pb_slide_description .et_pb_slide_title { font-size: 48px; }
+					.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2, .et_pb_column_1_4 .et_pb_audio_module_content h2 { font-size: 16px; }
+																	.et_header_style_left #et-top-navigation, .et_header_style_split #et-top-navigation  { padding: 35px 0 0 0; }
+				.et_header_style_left #et-top-navigation nav > ul > li > a, .et_header_style_split #et-top-navigation nav > ul > li > a { padding-bottom: 35px; }
+				.et_header_style_split .centered-inline-logo-wrap { width: 70px; margin: -70px 0; }
+				.et_header_style_split .centered-inline-logo-wrap #logo { max-height: 70px; }
+				.et_pb_svg_logo.et_header_style_split .centered-inline-logo-wrap #logo { height: 70px; }
+				.et_header_style_centered #top-menu > li > a { padding-bottom: 13px; }
+				.et_header_style_slide #et-top-navigation, .et_header_style_fullscreen #et-top-navigation { padding: 26px 0 26px 0 !important; }
+									.et_header_style_centered #main-header .logo_container { height: 70px; }
 														#logo { max-height: 60%; }
 				.et_pb_svg_logo #logo { height: 60%; }
-																									.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #3f79ba; }
+																												.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #ffffff; }
 													.et-fixed-header #top-menu li a { font-size: 15px; }
-										.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info { color: #3f79ba !important; }
-				.et-fixed-header .et_search_form_container input::-moz-placeholder { color: #3f79ba !important; }
-				.et-fixed-header .et_search_form_container input::-webkit-input-placeholder { color: #3f79ba !important; }
-				.et-fixed-header .et_search_form_container input:-ms-input-placeholder { color: #3f79ba !important; }
+										.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info { color: #757b82 !important; }
+				.et-fixed-header .et_search_form_container input::-moz-placeholder { color: #757b82 !important; }
+				.et-fixed-header .et_search_form_container input::-webkit-input-placeholder { color: #757b82 !important; }
+				.et-fixed-header .et_search_form_container input:-ms-input-placeholder { color: #757b82 !important; }
 										.et-fixed-header #top-menu li.current-menu-ancestor > a,
-				.et-fixed-header #top-menu li.current-menu-item > a { color: #25aae1 !important; }
-						
+				.et-fixed-header #top-menu li.current-menu-item > a { color: #079ad7 !important; }
+										.et-fixed-header#top-header a { color: #757b82; }
+			
 					}
-		@media only screen and ( min-width: 1425px) {
-			.et_pb_row { padding: 28px 0; }
-			.et_pb_section { padding: 57px 0; }
-			.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 85px; }
-			.et_pb_section.et_pb_section_first { padding-top: inherit; }
-			.et_pb_fullwidth_section { padding: 0; }
-		}
+					@media only screen and ( min-width: 1425px) {
+				.et_pb_row { padding: 28px 0; }
+				.et_pb_section { padding: 57px 0; }
+				.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 85px; }
+				.et_pb_section.et_pb_section_first { padding-top: inherit; }
+				.et_pb_fullwidth_section { padding: 0; }
+			}
+		
 		@media only screen and ( max-width: 980px ) {
 																				}
 		@media only screen and ( max-width: 767px ) {
-														}
-	</style>
-
-					<style class="et_heading_font">
-				h1, h2, h3, h4, h5, h6 {
-					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}
-				</style>
-							<style class="et_body_font">
-				body, input, textarea, select {
-					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}
-				</style>
-							<style class="et_all_buttons_font">
-				.et_pb_button {
-					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}
-				</style>
-			
-	
-	<style id="module-customizer-css">
-								.et_pb_social_media_follow li a.icon{
+														}</style><style class="et_heading_font">h1, h2, h3, h4, h5, h6 {
+					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}</style><style class="et_body_font">body, input, textarea, select {
+					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}</style><style class="et_all_buttons_font">.et_pb_button {
+					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}</style><style id="module-customizer-css">.et_pb_social_media_follow li a.icon{
 							margin-right: 13.68px;
 							width: 48px;
 							height: 48px;
@@ -241,701 +310,78 @@ img.emoji {
 						.et_pb_social_media_follow li a.follow_button{
 							font-size: 24px;
 						}
-						.et_pb_fullwidth_section .et_pb_slide_description .et_pb_slide_title { font-weight: bold; font-style: normal; text-transform: none; text-decoration: none;  }
-	</style>
+						.et_pb_fullwidth_section .et_pb_slide_description .et_pb_slide_title { font-size: 42px; }
+.et_pb_fullwidth_section .et_pb_slide_description .et_pb_slide_title { font-weight: bold; font-style: normal; text-transform: none; text-decoration: none;  }
+.et_pb_fullwidth_section .et_pb_slide_content { font-size: 18px; }</style><link rel="shortcut icon" href="/wp-content/uploads/icon-logo.png"><style type="text/css">.titletext.youtube { display: none; }.preview-youtube .lazy-load-youtube-div, .lazy-load-vimeo-div { background: url(http://www.workforcesoftware.com/wp-content/plugins/lazy-load-for-videos/frontend/../assets/play-y-red.png) center center no-repeat; }
+			.preview-youtube .lazy-load-youtube-div:before,
+			.preview-youtube .lazy-load-youtube-div::before,
+			.preview-vimeo:after,
+			.preview-vimeo::after
+			 { content: ""; }</style><script src="https://use.fontawesome.com/a58db9d56d.js"></script> <script type="text/javascript">piAId = '214062';
+piCId = '1060';
 
-	<link rel="shortcut icon" href="/wp-content/uploads/favicon.ico"><script type="text/javascript">
-(function($) {
-$(document).ready(function() {
-
-$('.et_pb_video_overlay').click(function() {
-var iframe = $(this).prev('.et_pb_video_box').find('iframe'),
-iframe_src = $(iframe).attr('src');
-$(iframe).attr('src', iframe_src + '&autoplay=1');
-});
-
-});
-})(jQuery);
-</script><style type="text/css">.select2wpupg-selection, .select2wpupg-dropdown { border-color: #AAAAAA!important; }.select2wpupg-selection__arrow b { border-top-color: #AAAAAA!important; }.select2wpupg-container--open .select2wpupg-selection__arrow b { border-bottom-color: #AAAAAA!important; }.select2wpupg-selection__placeholder, .select2wpupg-search__field, .select2wpupg-selection__rendered, .select2wpupg-results__option { color: #444444!important; }.select2wpupg-search__field::-webkit-input-placeholder { color: #444444!important; }.select2wpupg-search__field:-moz-placeholder { color: #444444!important; }.select2wpupg-search__field::-moz-placeholder { color: #444444!important; }.select2wpupg-search__field:-ms-input-placeholder { color: #444444!important; }.select2wpupg-results__option--highlighted { color: #FFFFFF!important; background-color: #5897fb!important; }</style><link rel="icon" href="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-workforce-software-150x150.png" sizes="32x32">
-<link rel="icon" href="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-workforce-software-300x300.png" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-workforce-software-300x300.png">
-<meta name="msapplication-TileImage" content="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-workforce-software-300x300.png">
-
-<!-- Easy FancyBox 1.5.7 using FancyBox 1.3.7 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var fb_timeout = null;
-var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
-var easy_fancybox_handler = function(){
-	/* YouTube */
-	jQuery('a[href*="youtube.com/watch"]:not(.nofancybox), area[href*="youtube.com/watch"]:not(.nofancybox)').addClass('fancybox-youtube');
-	jQuery('a[href*="youtu.be/"]:not(.nofancybox), area[href*="youtu.be/"]:not(.nofancybox)').addClass('fancybox-youtube');
-	jQuery('a.fancybox-youtube, area.fancybox-youtube, li.fancybox-youtube a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 640, 'height' : 360, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('youtu.be', 'i'), 'www.youtube.com/embed').replace(new RegExp('watch\\?(.*)v=([a-z0-9\_\-]+)(&amp;|&|\\?)?(.*)', 'i'), 'embed/$2?$1$4'); var splitOn = selectedOpts.href.indexOf('?'); var urlParms = ( splitOn > -1 ) ? selectedOpts.href.substring(splitOn) : ""; selectedOpts.allowfullscreen = ( urlParms.indexOf('fs=0') > -1 ) ? false : true } }) );
-	/* Vimeo */
-	jQuery('a[href*="vimeo.com/"]:not(.nofancybox), area[href*="vimeo.com/"]:not(.nofancybox)').addClass('fancybox-vimeo');
-	jQuery('a.fancybox-vimeo, area.fancybox-vimeo, li.fancybox-vimeo a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'iframe', 'width' : 640, 'height' : 360, 'titleShow' : false, 'titlePosition' : 'float', 'titleFromAlt' : true, 'onStart' : function(selectedArray, selectedIndex, selectedOpts) { selectedOpts.href = selectedArray[selectedIndex].href.replace(new RegExp('//(www\.)?vimeo\.com/([0-9]+)(&|\\?)?(.*)', 'i'), '//player.vimeo.com/video/$2?$4'); var splitOn = selectedOpts.href.indexOf('?'); var urlParms = ( splitOn > -1 ) ? selectedOpts.href.substring(splitOn) : ""; selectedOpts.allowfullscreen = ( urlParms.indexOf('fullscreen=0') > -1 ) ? false : true } }) );
-	/* Auto-click */ 
-	jQuery('#fancybox-auto').trigger('click');
-}
-/* ]]> */
-</script>
-
-<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
-
-<body class="page page-id-136 page-template-default et_monarch et_button_icon_visible et_button_no_icon et_button_custom_icon et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_fade et_pb_footer_columns1 et_header_style_left et_pb_pagebuilder_layout et_full_width_page unknown">
-<!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TX8XXC"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+(function() {
+	function async_load(){
+		var s = document.createElement('script'); s.type = 'text/javascript';
+		s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
+		var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
+	}
+	if(window.attachEvent) { window.attachEvent('onload', async_load); }
+	else { window.addEventListener('load', async_load, false); }
+})();</script><style type="text/css">.select2wpupg-selection, .select2wpupg-dropdown { border-color: #AAAAAA!important; }.select2wpupg-selection__arrow b { border-top-color: #AAAAAA!important; }.select2wpupg-container--open .select2wpupg-selection__arrow b { border-bottom-color: #AAAAAA!important; }.select2wpupg-selection__placeholder, .select2wpupg-search__field, .select2wpupg-selection__rendered, .select2wpupg-results__option { color: #444444!important; }.select2wpupg-search__field::-webkit-input-placeholder { color: #444444!important; }.select2wpupg-search__field:-moz-placeholder { color: #444444!important; }.select2wpupg-search__field::-moz-placeholder { color: #444444!important; }.select2wpupg-search__field:-ms-input-placeholder { color: #444444!important; }.select2wpupg-results__option--highlighted { color: #FFFFFF!important; background-color: #5897fb!important; }</style><link rel="icon" href="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-logo-32x32.png" sizes="32x32"><link rel="icon" href="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-logo-192x192.png" sizes="192x192"><link rel="apple-touch-icon-precomposed" href="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-logo-180x180.png"><meta name="msapplication-TileImage" content="http://www.workforcesoftware.com/wp-content/uploads/cropped-icon-logo-270x270.png"><script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head><body class="page-template-default page page-id-136 et_monarch et_bloom et_button_icon_visible et_button_no_icon et_button_custom_icon et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_secondary_nav_enabled et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_fade et_pb_footer_columns1 et_header_style_left et_pb_pagebuilder_layout et_full_width_page et_divi_theme unknown"><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TX8XXC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-TX8XXC');</script>
-<!-- End Google Tag Manager -->
-	<div id="page-container">
-
-
-
-
-	
-		<div id="top-header">
-
-			<div class="container clearfix">
-
-
-
-			
-
-
-				<div id="et-secondary-menu">
-
-				<ul class="et-social-icons">
-
-
-</ul>                                <select name="lang_choice_1" id="lang_choice_1">
-	<option value="en" selected="selected">United States</option>
-	<option value="au">Australia</option>
-	<option value="uk">United Kingdom</option>
-	<option value="fr">France</option>
-	<option value="de">Germany</option>
-
-</select>
-
-				<script type="text/javascript">
-					//<![CDATA[
-					var urls_1 = {"en":"http:\/\/www.workforcesoftware.com\/","au":"http:\/\/www.workforcesoftware.com\/au\/","uk":"http:\/\/www.workforcesoftware.com\/uk\/","fr":"http:\/\/www.workforcesoftware.com\/fr\/","de":"http:\/\/www.workforcesoftware.com\/de\/"};
-					document.getElementById( "lang_choice_1" ).onchange = function() {
-						location.href = urls_1[this.value];
-					}
-					//]]>
-				</script>								
-				</div> <!-- #et-secondary-menu -->
-
-
-
-			</div> <!-- .container -->
-
-		</div> <!-- #top-header -->
-
-	
-
-
-		<header id="main-header" data-height-onload="80">
-
-			<div class="container clearfix et_menu_container">
-
-			
-				<div class="logo_container">
-
-					<span class="logo_helper"></span>
-
-					<a href="http://www.workforcesoftware.com/">
-
-						<img src="/wp-content/uploads/logo.png" alt="WorkForce Software" id="logo" data-height-percentage="60">
-
-					</a>
-
-				</div>
-
-				<div id="et-top-navigation" data-height="80" data-fixed-height="40">
-
-					<nav id="top-menu-nav">
-
-					<ul id="top-menu" class="nav"><li id="menu-item-20692" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20692"><a href="http://www.workforcesoftware.com/workforce-management-solutions/">Solutions</a>
-<ul class="sub-menu">
-	<li id="menu-item-20099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20099"><a href="/workforce-management-solutions/">Your Role</a>
-	<ul class="sub-menu">
-		<li id="menu-item-20100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20100"><a href="http://www.workforcesoftware.com/hrs-guide-to-workforce-management-software/">Human Resources</a></li>
-		<li id="menu-item-20102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20102"><a href="http://www.workforcesoftware.com/finance-guide-to-workforce-management-software/">Finance</a></li>
-		<li id="menu-item-20101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20101"><a href="http://www.workforcesoftware.com/it-guide-to-workforce-management-software/">Information Technology</a></li>
-	</ul>
-</li>
-	<li id="menu-item-19505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19505"><a href="/workforce-management-solutions/">Products</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1771"><a href="http://www.workforcesoftware.com/products/time-attendance/">Time &amp; Attendance</a></li>
-		<li id="menu-item-1866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1866"><a href="http://www.workforcesoftware.com/products/employee-scheduling/">Workforce Scheduling</a></li>
-		<li id="menu-item-1789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1789"><a href="http://www.workforcesoftware.com/products/absence-management/">Absence &amp; Leave Management</a></li>
-		<li id="menu-item-1864" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1864"><a href="http://www.workforcesoftware.com/products/labor-analysis/">Workforce Analytics</a></li>
-		<li id="menu-item-1865" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1865"><a href="http://www.workforcesoftware.com/products/fatigue-management/">Fatigue Management</a></li>
-		<li id="menu-item-1875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1875"><a href="http://www.workforcesoftware.com/products/data-collection/">Data Capture</a></li>
-	</ul>
-</li>
-	<li id="menu-item-20103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20103"><a href="/workforce-management-solutions/">Industry</a>
-	<ul class="sub-menu">
-		<li id="menu-item-20104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20104"><a href="http://www.workforcesoftware.com/utilities/">Energy &amp; Utilities</a></li>
-		<li id="menu-item-20105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20105"><a href="http://www.workforcesoftware.com/financial-services/">Financial Services</a></li>
-		<li id="menu-item-20106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20106"><a href="http://www.workforcesoftware.com/healthcare/">Healthcare</a></li>
-		<li id="menu-item-20107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20107"><a href="http://www.workforcesoftware.com/higher-education/">Higher Education</a></li>
-		<li id="menu-item-20108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20108"><a href="http://www.workforcesoftware.com/hospitality/">Hospitality</a></li>
-		<li id="menu-item-20109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20109"><a href="http://www.workforcesoftware.com/k-12-school-districts/">K-12 School Districts</a></li>
-		<li id="menu-item-20110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20110"><a href="http://www.workforcesoftware.com/manufacturing/">Manufacturing</a></li>
-		<li id="menu-item-20111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20111"><a href="http://www.workforcesoftware.com/petrochemical-refining/">Petrochemical &amp; Refining</a></li>
-		<li id="menu-item-20112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20112"><a href="http://www.workforcesoftware.com/public-sector/">Public Sector</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li id="menu-item-1224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1224"><a href="http://www.workforcesoftware.com/customers/">Customers</a></li>
-<li id="menu-item-1187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1187"><a href="http://www.workforcesoftware.com/partners/">Partners</a>
-<ul class="sub-menu">
-	<li id="menu-item-20114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20114"><a href="http://www.workforcesoftware.com/partners/systems-integrators/">Services Partners</a></li>
-	<li id="menu-item-20115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20115"><a href="http://www.workforcesoftware.com/partners/strategic-partners/">Software Partners</a></li>
-	<li id="menu-item-20116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20116"><a href="http://www.workforcesoftware.com/partners/technology-partners/">Technology Partners</a></li>
-</ul>
-</li>
-<li id="menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1321"><a href="http://www.workforcesoftware.com/services/">Services</a>
-<ul class="sub-menu">
-	<li id="menu-item-20413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20413"><a href="http://www.workforcesoftware.com/services/our-approach/">Our Approach</a></li>
-	<li id="menu-item-20281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20281"><a href="http://www.workforcesoftware.com/services/service-offerings/">Service Offerings</a></li>
-	<li id="menu-item-1343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1343"><a title="Customer Education" href="http://www.workforcesoftware.com/services/customer-education/">Customer Education</a></li>
-	<li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a title="Customer Support" href="http://www.workforcesoftware.com/services/customer-support/">Customer Support</a></li>
-</ul>
-</li>
-<li id="menu-item-20117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20117"><a href="http://www.workforcesoftware.com/resources/">Resources</a></li>
-<li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-166"><a title="WorkForce Software News &amp; Events" href="http://www.workforcesoftware.com/newsroom/">Newsroom</a>
-<ul class="sub-menu">
-	<li id="menu-item-6150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6150"><a title="WorkForce Software Blog" href="http://www.workforcesoftware.com/blogs/">Blog</a></li>
-	<li id="menu-item-767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-767"><a title="WorkForce Software News &amp; Events" href="http://www.workforcesoftware.com/newsroom/press-releases/">Press Releases</a></li>
-	<li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a title="Labor Laws" href="http://www.workforcesoftware.com/newsroom/labor-laws/">Labor Laws</a></li>
-	<li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a title="WorkForce Software Events &amp; Tradeshows" href="http://www.workforcesoftware.com/newsroom/events/">Events</a></li>
-</ul>
-</li>
-<li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-822"><a title="About WorkForce Software" href="http://www.workforcesoftware.com/company/">Company</a>
-<ul class="sub-menu">
-	<li id="menu-item-20951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20951"><a href="http://www.workforcesoftware.com/company/about-us/">About Us</a></li>
-	<li id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823"><a title="WorkForce Software Leadership Team" href="http://www.workforcesoftware.com/company/leadership/">Leadership</a></li>
-	<li id="menu-item-18535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18535"><a href="http://www.workforcesoftware.com/careers/">Careers</a></li>
-	<li id="menu-item-20946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20946"><a href="http://www.workforcesoftware.com/company/contact-us/">Contact Us</a></li>
-</ul>
-</li>
-</ul>
-					</nav>
-
-
-
-					
-
-
-					
-					<div id="et_top_search">
-
-						<span id="et_search_icon"></span>
-
-					</div>
-
-					
-
-
-					<div id="et_mobile_nav_menu">
-				<div class="mobile_nav closed">
-					<span class="select_page">Select Page</span>
-					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-				</div>
-			</div>
-				</div> <!-- #et-top-navigation -->
-
-			</div> <!-- .container -->
-
-			<div class="et_search_outer">
-
-				<div class="container et_search_form_container">
-
-					<form role="search" method="get" class="et-search-form" action="http://www.workforcesoftware.com/">
-
-                    <input type="search" class="et-search-field" value="Search.." name="s" id="s" onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
-
-					</form>
-
-					<span class="et_close_search_field"></span>
-
-				</div>
-
-			</div>
-
-		</header> <!-- #main-header -->
-
-		<div id="et-main-area">
-
-        	<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.workforcesoftware.com" rel="v:url" property="v:title">Home</a> » <span rel="v:child" typeof="v:Breadcrumb"><a href="http://www.workforcesoftware.com/" rel="v:url" property="v:title">United States</a> » <span class="breadcrumb_last">Privacy Policy</span></span></span></span></p>
-<div id="main-content">
-
-
-			
-				<article id="post-136" class="post-136 page type-page status-publish hentry">
-
-				
-					<div class="entry-content">
-					<div class="et_pb_section  et_pb_section_0 et_section_regular">
-				
-				
-					
-					<div class=" et_pb_row et_pb_row_0">
-				
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_0">
-				
-				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_0">
-				
-<h1>Privacy Policy</h1>
-
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column -->
-					
-			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_1">
-				
-				<div class="et_pb_column et_pb_column_2_3  et_pb_column_1">
-				
-				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_1">
-				
-<h3>Privacy Policy Table of Contents:</h3>
-<ol>
-<li><a href="#privacy1">Our Commitment To Privacy</a></li>
-<li><a href="#privacy2">The Information We Collect</a></li>
-<li><a href="#cookies">Our Use of Cookies</a></li>
-<li><a href="#privacy3">The Way We Use Information</a></li>
-<li><a href="#privacy4">Opt-out Policy</a></li>
-<li><a href="#privacy5">Our Commitment To Data Security</a></li>
-<li><a href="#privacy6">Data Integrity</a></li>
-<li><a href="#privacy7">How To Access Or Correct Your Information</a></li>
-<li><a href="#privacy8">Enforcement and Verification</a></li>
-<li><a href="#privacy9">How To Contact Us</a></li>
-<li><a href="#privacy10">US – EU Safe Harbor Framework Dispute Resolution</a></li>
-<li><a href="#privacy11">Copyright Policy</a></li>
-<li><a href="#privacy12">Effective Date</a></li>
-</ol>
-
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3  et_pb_column_2">
-				
-				<div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_2">
-				
-<p><a title="Safe Harbor List" href="https://safeharbor.export.gov/list.aspx" target="_blank"><strong>We self-certify compliance with:</strong></a></p>
-
-			</div> <!-- .et_pb_text --><div class="et_pb_module et-waypoint et_pb_image et_pb_animation_off et_pb_image_0 et_always_center_on_mobile">
-				<a href="http://export.gov/safeharbor/" target="_blank"><img src="/wp-content/uploads/safe-harbor-certification-mark.jpg" alt="U.S.–European Union Safe Harbor Framework" title="U.S.–European Union Safe Harbor Framework">
-			</a>
-			</div>
-			</div> <!-- .et_pb_column -->
-					
-			</div> <!-- .et_pb_row --><div class=" et_pb_row et_pb_row_2">
-				
-				<div class="et_pb_column et_pb_column_4_4  et_pb_column_3">
-				
-				<hr class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et-hide-mobile"><div id="privacy1" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_3">
-				
-<h2>Our Commitment to Privacy</h2>
-<p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personal information may be requested.</p>
-<p>This privacy statement complies with the U.S. Department of Commerce Safe Harbor Principles, which has been approved by the E.U. as an adequate way for WorkForce Software, LLC to demonstrate that it complies with the protections outlined in the E.U. Directive on Data Privacy. In processing personal information, WorkForce Software, LLC complies with the following Safe Harbor Principles, as more specifically described in this statement: Notice, Choice, Onward Transfer (to Third Parties), Security, Data Integrity, Access, Enforcement and Verification. More information about the U.S. Department of Commerce Safe Harbor Program can be found at <a title="U.S.-EU &amp; U.S.-Swiss Safe Harbor Frameworks" href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>.</p>
-<p>WorkForce Software, LLC abides by the privacy laws in the countries in which we conduct business.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy2" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_4">
-				
-<h2>The Information We Collect</h2>
-<p>This notice applies to all information collected or submitted on the WorkForce Software, LLC website.</p>
-<p>On some pages you can register for access to specific materials or to participate in an event, or request that a WorkForce Software, LLC representative contact you. The types of personal information collected to manage these requests can include any combination of the following:</p>
-<ul>
-<li>Your first and last name</li>
-<li>Your job title, phone number, and email address</li>
-<li>Your postal address for work</li>
-<li>The name of your employer</li>
-<li>The number of employees retained by your employer</li>
-<li>The HR and payroll software products that you currently use</li>
-<li>The business goals that have prompted you to contact us</li>
-</ul>
-<p>Additionally, if you apply for an open position at WorkForce Software, LLC, the online recruiting system may collect details about you to aid in the hiring process. Information obtained through this system can include:</p>
-<ul>
-<li>Your first, middle, and last name</li>
-<li>Your email address, mailing address, and primary phone number</li>
-<li>The name and postal address of your current employer</li>
-<li>Names, contact information, and addresses for previous employers</li>
-<li>Information about your level of work experience and level of education</li>
-<li>The type of job you are looking for, desired salary, and data of availability</li>
-<li>Whether you are available for relocation if hired</li>
-<li>Whether you are legally allowed to work in a particular country without sponsorship</li>
-<li>How you heard about the open position</li>
-<li>Your prior history, if any, of applying and/or interviewing for WorkForce Software positions</li>
-<li>Additional questions specific to the requisition</li>
-</ul>
-<p>This site utilizes Google Analytics Demographics and Interest Reporting. WorkForce Software may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interest) with Google Analytics. Users of this site may opt-out of the Google Analytics Demographics and Interest Reporting by use of the Google opt-out add-ons, located at <a title="Google Analytics Opt-out Browser Add-on" href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.</p>
-
-			</div> <!-- .et_pb_text --><div id="cookies" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_5">
-				
-<h2>Our Use of Cookies</h2>
-<p>Cookies are collected on this site via the marketing automation system Marketo. A cookie is a small data file that is stored on your device or computer when you visit a website. A “session cookie” expires immediately when you end your session (i.e., close your browser). A “persistent cookie” stores information on the device so when you end your session and return to the same website at a later date, the cookie information is still available. When you visit our Site, we may use a session and a persistent cookie. These Marketo-placed cookies may contain information (such as a unique user ID) that is used to track your usage of our Site. WorkForce Software employs cookies using the Marketo system to enable our website to recognize your browser and tell us how and when pages are visited and by how many people, and also in order for our server to recognize a return visitor as a distinct user. The cookies placed by the Marketo system are readable only by Marketo, and cookies cannot access, read or modify any other data on a computing device. Marketo uses Performance, Functionality and Analytics and Retargeting cookies.</p>
-<p>A description of each of these cookies and how to opt out of these cookies is below.</p>
-
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_tabs  et_pb_tabs_0">
-				<ul class="et_pb_tabs_controls clearfix">
-					<li class="et_pb_tab_0 et_pb_tab_active"><a href="#">Performance cookies</a></li><li class="et_pb_tab_1"><a href="#">Functionality cookies</a></li><li class="et_pb_tab_2"><a href="#">Analytics and Retargeting cookies</a></li>
-				</ul>
-				<div class="et_pb_all_tabs">
-					
-<div class="et_pb_tab clearfix et_pb_active_content et_pb_tab_0">
-				These cookies enable the collection of information about how visitors use our website, including the pages visited with the most frequency and any error messages received from such pages. Visitors cannot be individually identified by these cookies. The information these cookies collect is aggregated and anonymous, and will only be used to improve the performance and functions of the WorkForce Software website.<p></p>
-<p>To learn how to opt out of performance cookies using your browser settings <a title="About Cookies" href="http://www.aboutcookies.org/" target="_blank">click here</a>.</p>
-
-			</div> <!-- .et_pb_tab --><div class="et_pb_tab clearfix et_pb_tab_1">
-				Functionality cookies allow the WorkForce Software website to remember information you enter such as username and your preferred language. These cookies also enable you to optimize your use of our website.<p></p>
-<p>To learn how to opt out of functionality cookies using your browser settings <a title="About Cookies" href="http://www.aboutcookies.org/" target="_blank">click here</a>. Note that opting out may impact the functionality you receive when visiting the WorkForce Software website.</p>
-
-			</div> <!-- .et_pb_tab --><div class="et_pb_tab clearfix et_pb_tab_2">
-				WorkForce Software may use cookies to store your preferences or display content based upon what you view on our Site to personalize your visit.<p></p>
-<p>WorkForce Software engages third parties, such as Google Analytics, to track and analyze usage and volume statistical information from individuals who visit workforcesoftware.com. No personal information is provided to third parties, but this data may be re-associated with personal information after WorkForce Software receives it.</p>
-<p>To learn more about these and other third party analytical tools, and how to opt out of analytics and retargeting cookies using your browser settings <a title="About Cookies" href="http://www.aboutcookies.org/" target="_blank">click here</a>.</p>
-
-			</div> <!-- .et_pb_tab -->
-
-				</div> <!-- .et_pb_all_tabs -->
-			</div> <!-- .et_pb_tabs --><div id="privacy3" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_6">
-				
-<h2>The Way We Use Information</h2>
-<p>When we collect information through registration forms we may use it for any number of the following reasons:</p>
-<ul>
-<li>To determine the appropriate WorkForce Software, LLC representative for contacting you or fulfilling your request</li>
-<li>To determine your eligibility for a requested event or digital file</li>
-<li>To send you invitations or special offers that may be of interest based upon the information you supplied</li>
-<li>To extend invitations from select partner organizations that may be of interest based upon the information you supplied</li>
-<li>To contact you regarding your potential interest in workforce management products and services</li>
-</ul>
-<p>We also may use non-identifying and aggregate website visitor information to improve the design of workforcesoftware.com.</p>
-<p>WorkForce Software, LLC may use the information obtained through the recruiting system to help determine eligibility for a specific position, to notify you of future job openings and hiring events, and to communicate with you through the hiring process.</p>
-<p>We never use or share the personal information provided to us through workforcesoftware.com in ways other than as described above without providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy4" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_7">
-				
-<h2>Opt-out Policy</h2>
-<p>WorkForce Software, LLC offers its communication recipients a means for controlling the information they receive. If, at any time, you change your mind about receiving information from us, please use the opt-out link located at the bottom of each communication or email your request to <a title="opt-out@workforcesoftware.com" href="mailto:opt-out@workforcesoftware.com" target="_blank">opt-out@workforcesoftware.com</a>. You can expect that such a request will be completed within seven (7) days of WorkForce Software, LLC’s receipt of the same.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy5" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_8">
-				
-<h2>Our Commitment to Data Security</h2>
-<p>To prevent unauthorized access or disclosure, to maintain data accuracy, and to allow only the appropriate use of your personal information, we employ physical, technical, and administrative controls and procedures to safeguard the information we collect.</p>
-<p>To protect the confidentiality, integrity, and availability of your personal information, WorkForce Software, LLC utilizes a variety of physical and logical access controls, firewalls, intrusion detection/prevention systems, network and database monitoring, anti-virus, and backup systems.</p>
-<p>We limit access to your personal information and data to those persons who have a specific business purpose for maintaining and processing such information. WorkForce Software, LLC employees who have been granted access to your personal information are made aware of their responsibilities to protect the confidentiality, integrity, and availability of that information and have been provided training and instruction on how to do so.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy6" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_9">
-				
-<h2>Data Integrity</h2>
-<p>WorkForce Software, LLC will take reasonable steps to ensure that personal information collected is maintained accurately, completely, and kept current for its intended use. WorkForce Software, LLC will only use personal information in ways that are compatible with the purposes for which it was collected.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy7" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_10">
-				
-<h2>How You Can Access or Correct Your Information</h2>
-<p>You can access all your personal information that we collect online and maintain by emailing your request to <a title="opt-out@workforcesoftware.com" href="mailto:opt-out@workforcesoftware.com" target="_blank">opt-out@workforcesoftware.com</a>. We use this procedure to better safeguard your information.</p>
-<p>You can correct factual errors in your personal information by sending us a request that credibly shows error. You can expect to receive a response to any such update request within seven (7) days of WorkForce Software, LLC’s receipt of the same.</p>
-<p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy8" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_11">
-				
-<h2>Enforcement and Verification</h2>
-<p>WorkForce Software, LLC holds its employees and agents accountable for maintaining the trust that our customers place in our company. WorkForce Software, LLC will conduct periodic assessments to validate its continued adherence to this privacy policy.</p>
-<p>In the case that WorkForce Software, LLC obtains knowledge of use or disclosure of information not in accordance with the Web Privacy Policy, WorkForce Software, LLC will take the following reasonable steps to stop the use or disclosure:</p>
-<ol>
-<li>WorkForce Software will formally contact the relevant party and instruct them to stop using the data inappropriately and/or destroy the data. WorkForce Software will advise the relevant party on appropriate use and disclosure of information in accordance with the Web Privacy Policy.</li>
-<li>If the relevant party continues to use or disclose the information inappropriately, WorkForce Software will take legal actions to prevent the continued misuse of information. WorkForce Software will also remove the information from its database to prevent further misuse.”</li>
-</ol>
-
-			</div> <!-- .et_pb_text --><div id="privacy9" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_12">
-				
-<h2>How to Contact Us</h2>
-<p>If you have any questions or concerns regarding these privacy policies, please contact us.</p>
-<p>Privacy Compliance Officer<br>
-WorkForce Software, LLC<br>
-38705 7 Mile Rd., Ste 300<br>
-Livonia, MI 48152<br>
-Phone: 877.493.6723<br>
-Email: <a title="opt-out@workforcesoftware.com" href="mailto:opt-out@workforcesoftware.com" target="_blank">opt-out@workforcesoftware.com</a></p>
-
-			</div> <!-- .et_pb_text --><div id="privacy10" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_13">
-				
-<h2>US – EU Safe Harbor Framework Dispute Resolution</h2>
-<p>WorkForce Software, LLC will investigate and attempt to resolve complaints and disputes regarding the use and disclosure of personal information in accordance with the principles contained in this policy. WorkForce Software, LLC agrees to cooperate with Data Protection Authorities located in the European Union or their authorized representatives for disputes specific to human resource information received from the European Union. All other disputes that cannot be resolved between WorkForce Software, LLC and the complainant will be handled in accordance with applicable dispute resolution procedures through the American Arbitration Association, which are available for review at <a title="American Arbitration Association" href="http://www.adr.org/" target="_blank">www.adr.org</a>. We strongly encourage you to raise any complaints you may have with regard to this privacy policy and/or our implementation of this policy to us prior to proceeding to the arbitration procedure described in this paragraph.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy11" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_14">
-				
-<h2>Copyright Policy</h2>
-<p>The information on this web site may not be duplicated in any way without the express written consent of WorkForce Software, LLC, except in printed or electronic form for the purposes of evaluation within your organization.</p>
-<p>The information supplied is distributed on an “as is” basis, without any warranty. WorkForce Software, LLC shall not have any liability to any person or entity with respect to any loss or damage caused or alleged to be caused directly or indirectly by the information contained herein.</p>
-<p>Trademark names appear throughout this material. Rather than list the names and entities that own those trademarks or insert a trademark symbol with each mention of the trademarked name, WorkForce Software, LLC states that it is using those names in editorial fashion only for the benefit of the trademark owner, with no intention of infringing on the trademark. No mention of a company or trademark is intended to convey endorsement or other affiliation with WorkForce Software, LLC.</p>
-<p>Customers should seek independent legal counsel to determine what laws and regulations apply to them to ensure that they are in compliance. WorkForce Software, LLC does not provide legal services or advice.</p>
-
-			</div> <!-- .et_pb_text --><div id="privacy12" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_15">
-				
-<h2>Effective Date</h2>
-<p>This Privacy Notice became effective January 1, 2012. It was last updated November 10, 2015.</p>
-
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column -->
-					
-			</div> <!-- .et_pb_row -->
-				
-			</div> <!-- .et_pb_section -->
-					</div> <!-- .entry-content -->
-
-				
-				</article> <!-- .et_pb_post -->
-
-			
-
-</div> <!-- #main-content -->
-
-
-<span class="et_pb_scroll_top et-pb-icon"></span>
-<footer id="main-footer">
-  
-<div class="container">
-	<div id="footer-widgets" class="clearfix">
-	<div class="footer-widget last"></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
-</div>	<!-- .container -->      <div id="footer-bottom">
-    <div class="container">
-      <div class=" et_pb_row">
-        <div class="et_pb_column et_pb_column_1_3">
-          <ul id="menu-us-footer-links" class="bottom-nav"><li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a title="Contact WorkForce Software" href="http://www.workforcesoftware.com/company/contact-us/">Contact Us</a></li>
-<li id="menu-item-9351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9351"><a href="http://www.workforcesoftware.com/disclaimer/">Disclaimer</a></li>
-<li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-136 current_page_item menu-item-138"><a title="WorkForce Software Privacy Policy" href="http://www.workforcesoftware.com/privacy-policy/">Privacy Policy</a></li>
-</ul>        </div>
-        <!-- .et_pb_column -->
-        <div class="et_pb_column et_pb_column_1_3">
-          <p id="footer-info">
-            Copyright © 1999 - 2016 WorkForce Software          </p>
-        </div>
-        <!-- .et_pb_column -->
-        <div class="et_pb_column et_pb_column_1_3">
-          <ul class="et-social-icons">
-            <li class="et-social-icon et-social-linkedin"><a href="https://www.linkedin.com/company/workforce-software" class="icon" target="_blank"> <span>LinkedIn</span></a></li>
-            <li class="et-social-icon et-social-twitter"><a href="https://twitter.com/WorkForceSW" class="icon" target="_blank"> <span>Twitter</span></a></li>
-            <li class="et-social-icon et-social-facebook"><a href="https://www.facebook.com/workforcesoftware/" class="icon" target="_blank"><span>Facebook</span></a></li>
-            <li class="et-social-icon et-social-google-plus"><a href="https://plus.google.com/+workforcesoftware/" class="icon" target="_blank"> <span>Google</span></a></li>
-            <li class="et-social-icon et-social-rss"><a href="/feed/" class="icon" target="_blank"><span>RSS</span></a></li>
-          </ul>
-        </div>
-        <!-- .et_pb_column --> 
-      </div>
-    </div>
-    <!-- .container --> 
-  </div>
-</footer>
-<!-- #main-footer -->
-</div>
-<!-- #et-main-area -->
-
-</div>
-<!-- #page-container -->
-
-<div class="et_social_pin_images_outer">
-					<div class="et_social_pinterest_window">
-						<div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div>
-						<div class="et_social_pin_images" data-permalink="http://www.workforcesoftware.com/privacy-policy/" data-title="Privacy Policy" data-post_id="136"></div>
-					</div>
-				</div><div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_mobile_on">
-					
-					<ul class="et_social_icons_container"><li class="et_social_linkedin">
-									<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_linkedin"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_twitter">
-									<a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;via=WorkForceSW" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_twitter"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_facebook">
-									<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_facebook"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_googleplus">
-									<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_googleplus"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_all_button">
-								<a href="#" rel="nofollow" data-location="sidebar" data-page_id="136" data-permalink="http://www.workforcesoftware.com/privacy-policy/" data-title="Privacy Policy" class="et_social_open_all">
-									<i class="et_social_icon et_social_icon_all_button"></i>
-									<span class="et_social_overlay"></span>
-								</a>
-							</li></ul>
-					<span class="et_social_hide_sidebar et_social_icon"></span>
-				</div><div class="et_social_mobile_button"></div>
-					<div class="et_social_mobile et_social_fadein">
-						<div class="et_social_heading">Share This</div>
-						<span class="et_social_close"></span>
-						<div class="et_social_networks et_social_simple et_social_rounded et_social_left">
-							<ul class="et_social_icons_container"><li class="et_social_linkedin">
-									<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_linkedin"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIhttps://www.linkedin.com/company/workforce-softwaren</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_twitter">
-									<a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;via=WorkForceSW" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_twitter"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Twitterhttps://twitter.com/WorkForceSW</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_facebook">
-									<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_facebook"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">https://www.facebook.com/workforcesoftware/</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_googleplus">
-									<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="136" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_googleplus"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">https://plus.google.com/+workforcesoftware/</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_all_button">
-								<a href="#" rel="nofollow" data-location="sidebar" data-page_id="136" data-permalink="http://www.workforcesoftware.com/privacy-policy/" data-title="Privacy Policy" class="et_social_open_all">
-									<i class="et_social_icon et_social_icon_all_button"></i>
-									<span class="et_social_overlay"></span>
-								</a>
-							</li></ul>
-						</div>
-					</div>
-					<div class="et_social_mobile_overlay"></div><style type="text/css" id="et-builder-advanced-style">
-				
-.et_pb_text_10 { margin-bottom: 0px !important; }
-.et_pb_text_11 { margin-bottom: 0px !important; }
-.et_pb_text_9 { margin-bottom: 0px !important; }
-.et_pb_text_2 { padding-bottom: 0px !important;margin-bottom: 0px !important; }
+})(window,document,'script','dataLayer','GTM-TX8XXC');</script> <div id="page-container"><div id="top-header"><div class="container clearfix"><div id="et-secondary-menu"><ul id="et-secondary-nav" class="menu"><li class="demo-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-30532"><a href="http://www.workforcesoftware.com/demonstration/">Request A Demo</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30534"><a href="http://www.workforcesoftware.com/blogs/">Blog</a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30535"><a href="http://www.workforcesoftware.com/company/contact-us/">Contact</a></li><li class="menu-item-language menu-item-language-current menu-item menu-item-has-children wpml-ls-slot-1198 wpml-ls-item wpml-ls-item-en wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-wpml-ls-1198-en"><a href="http://www.workforcesoftware.com/privacy-policy/"><img class="wpml-ls-flag" src="http://www.workforcesoftware.com/wp-content/uploads/flags/us.png" alt="en" title="United States"></a><ul class="sub-menu"><li class="menu-item-language menu-item wpml-ls-slot-1198 wpml-ls-item wpml-ls-item-au wpml-ls-menu-item menu-item-wpml-ls-1198-au"><a href="http://www.workforcesoftware.com/au/"><img class="wpml-ls-flag" src="http://www.workforcesoftware.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/au.png" alt="au" title="Australia"></a></li><li class="menu-item-language menu-item wpml-ls-slot-1198 wpml-ls-item wpml-ls-item-uk wpml-ls-menu-item wpml-ls-last-item menu-item-wpml-ls-1198-uk"><a href="http://www.workforcesoftware.com/uk/"><img class="wpml-ls-flag" src="http://www.workforcesoftware.com/wp-content/uploads/flags/gb.png" alt="uk" title="United Kingdom"></a></li></ul></li></ul></div></div></div><header id="main-header" data-height-onload="70"><div class="container clearfix et_menu_container"><div class="logo_container"> <span class="logo_helper"></span> <a href="http://www.workforcesoftware.com/"> <img src="/wp-content/uploads/logo.png" alt="WorkForce Software" id="logo" data-height-percentage="60"> </a></div><div id="et-top-navigation" data-height="70" data-fixed-height="40"><nav id="top-menu-nav"><ul id="top-menu" class="nav"><li id="menu-item-20692" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20692"><a href="http://www.workforcesoftware.com/workforce-management-solutions/">Solutions</a><ul class="sub-menu"><li id="menu-item-20099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20099"><a href="/workforce-management-solutions/">Your Role</a><ul class="sub-menu"><li id="menu-item-20100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20100"><a href="http://www.workforcesoftware.com/hrs-guide-to-workforce-management-software/">Human Resources</a></li><li id="menu-item-20102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20102"><a href="http://www.workforcesoftware.com/finance-guide-to-workforce-management-software/">Finance</a></li><li id="menu-item-20101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20101"><a href="http://www.workforcesoftware.com/it-guide-to-workforce-management-software/">Information Technology</a></li><li id="menu-item-26679" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26679"><a href="http://www.workforcesoftware.com/operations-guide-workforce-management-software/">Operations</a></li></ul></li><li id="menu-item-19505" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19505"><a href="/workforce-management-solutions/">Products</a><ul class="sub-menu"><li id="menu-item-26654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26654"><a href="http://www.workforcesoftware.com/workforce-forecasting-scheduling/">Forecasting and Scheduling</a></li><li id="menu-item-26680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26680"><a href="http://www.workforcesoftware.com/products/time-attendance/">Time and Attendance</a></li><li id="menu-item-26681" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26681"><a href="http://www.workforcesoftware.com/products/employee-scheduling/">Advanced Scheduler</a></li><li id="menu-item-26682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26682"><a href="http://www.workforcesoftware.com/products/absence-management/">Absence Compliance Tracker</a></li><li id="menu-item-26683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26683"><a href="http://www.workforcesoftware.com/products/labor-analysis/">Analytics</a></li><li id="menu-item-26684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26684"><a href="http://www.workforcesoftware.com/products/fatigue-management/">Fatigue Management</a></li><li id="menu-item-26685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26685"><a href="http://www.workforcesoftware.com/products/data-collection/">Data Capture</a></li></ul></li><li id="menu-item-20103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20103"><a href="/workforce-management-solutions/">Industry</a><ul class="sub-menu"><li id="menu-item-20104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20104"><a href="http://www.workforcesoftware.com/utilities/">Energy and Utilities</a></li><li id="menu-item-20105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20105"><a href="http://www.workforcesoftware.com/financial-services/">Financial Services</a></li><li id="menu-item-20106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20106"><a href="http://www.workforcesoftware.com/healthcare/">Healthcare</a></li><li id="menu-item-20107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20107"><a href="http://www.workforcesoftware.com/higher-education/">Higher Education</a></li><li id="menu-item-20108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20108"><a href="http://www.workforcesoftware.com/hospitality/">Hospitality</a></li><li id="menu-item-20109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20109"><a href="http://www.workforcesoftware.com/k-12-school-districts/">K-12 School Districts</a></li><li id="menu-item-20110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20110"><a href="http://www.workforcesoftware.com/manufacturing/">Manufacturing</a></li><li id="menu-item-20111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20111"><a href="http://www.workforcesoftware.com/petrochemical-refining/">Petrochemical and Refining</a></li><li id="menu-item-20112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20112"><a href="http://www.workforcesoftware.com/public-sector/">Public Sector</a></li><li id="menu-item-26678" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26678"><a href="http://www.workforcesoftware.com/retail/">Retail</a></li></ul></li></ul></li><li id="menu-item-1224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1224"><a href="http://www.workforcesoftware.com/customers/">Customers</a></li><li id="menu-item-1187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1187"><a href="http://www.workforcesoftware.com/partners/">Partners</a><ul class="sub-menu"><li id="menu-item-20114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20114"><a href="http://www.workforcesoftware.com/partners/systems-integrators/">Services Partners</a></li><li id="menu-item-20115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20115"><a href="http://www.workforcesoftware.com/partners/strategic-partners/">Software Partners</a></li><li id="menu-item-20116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20116"><a href="http://www.workforcesoftware.com/partners/technology-partners/">Technology Partners</a></li></ul></li><li id="menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1321"><a href="http://www.workforcesoftware.com/services/">Services</a><ul class="sub-menu"><li id="menu-item-20413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20413"><a href="http://www.workforcesoftware.com/services/our-approach/">Our Approach</a></li><li id="menu-item-20281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20281"><a href="http://www.workforcesoftware.com/services/service-offerings/">Service Offerings</a></li><li id="menu-item-1343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1343"><a title="Customer Education" href="http://www.workforcesoftware.com/services/customer-education/">Customer Education</a></li><li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a title="Customer Support" href="http://www.workforcesoftware.com/services/customer-support/">Customer Support</a></li></ul></li><li id="menu-item-20117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20117"><a href="http://www.workforcesoftware.com/resources/">Resources</a></li><li id="menu-item-166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-166"><a title="WorkForce Software News &amp; Events" href="http://www.workforcesoftware.com/newsroom/">Newsroom</a><ul class="sub-menu"><li id="menu-item-6150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6150"><a title="WorkForce Software Blog" href="http://www.workforcesoftware.com/blogs/">Blog</a></li><li id="menu-item-767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-767"><a title="WorkForce Software News &amp; Events" href="http://www.workforcesoftware.com/newsroom/press-releases/">Press Releases</a></li><li id="menu-item-212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-212"><a title="Labor Laws" href="http://www.workforcesoftware.com/newsroom/labor-laws/">Labor Laws</a></li><li id="menu-item-170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170"><a title="WorkForce Software Events &amp; Tradeshows" href="http://www.workforcesoftware.com/newsroom/events/">Events</a></li></ul></li><li id="menu-item-822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-822"><a title="About WorkForce Software" href="http://www.workforcesoftware.com/company/">Company</a><ul class="sub-menu"><li id="menu-item-20951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20951"><a href="http://www.workforcesoftware.com/company/about-us/">About Us</a></li><li id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823"><a title="WorkForce Software Leadership Team" href="http://www.workforcesoftware.com/company/leadership/">Leadership</a></li><li id="menu-item-18535" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18535"><a href="http://www.workforcesoftware.com/careers/">Careers</a></li><li id="menu-item-20946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20946"><a href="http://www.workforcesoftware.com/company/contact-us/">Contact Us</a></li></ul></li></ul></nav><div id="et_top_search"> <span id="et_search_icon"></span></div><div id="et_mobile_nav_menu"><div class="mobile_nav closed"> <span class="select_page">Select Page</span> <span class="mobile_menu_bar mobile_menu_bar_toggle"></span></div></div></div></div><div class="et_search_outer"><div class="container et_search_form_container"><form role="search" method="get" class="et-search-form" action="http://www.workforcesoftware.com/"> <input type="search" class="et-search-field" placeholder="Search …" value="" name="s" title="Search for:"></form> <span class="et_close_search_field"></span></div></div></header><div id="et-main-area"><p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://www.workforcesoftware.com/" rel="v:url" property="v:title">Home</a> » <span class="breadcrumb_last">Privacy Policy</span></span></span></p><div id="main-content"><article id="post-136" class="post-136 page type-page status-publish hentry"><div class="entry-content"><div class="et_pb_section  et_pb_section_0 et_section_regular"><div class=" et_pb_row et_pb_row_0"><div class="et_pb_column et_pb_column_4_4  et_pb_column_0"><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_0"><div class="et_pb_text_inner"><h1>Privacy Policy</h1></div></div></div></div><div class=" et_pb_row et_pb_row_1"><div class="et_pb_column et_pb_column_2_3  et_pb_column_1"><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_1"><div class="et_pb_text_inner"><h3>Privacy Policy Table of Contents:</h3><ol><li><a href="#privacy1">Our Commitment To Privacy</a></li><li><a href="#privacy2">The Information We Collect</a></li><li><a href="#cookies">Our Use of Cookies</a></li><li><a href="#privacy3">The Way We Use Information</a></li><li><a href="#privacy4">Opt-out Policy</a></li><li><a href="#privacy5">Our Commitment To Data Security</a></li><li><a href="#privacy6">Data Integrity</a></li><li><a href="#privacy7">How To Access Or Correct Your Information</a></li><li><a href="#privacy8">Enforcement and Verification</a></li><li><a href="#privacy9">How To Contact Us</a></li><li><a href="#privacy11">Copyright Policy</a></li><li><a href="#privacy12">Effective Date</a></li></ol></div></div></div><div class="et_pb_column et_pb_column_1_3  et_pb_column_2"><div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_2"><div class="et_pb_text_inner"><h2>Privacy Shield Notice</h2><p>WorkForce Software has self-certified to the EU-U.S. Privacy Shield. Please <a href="/privacy-shield-notice/" title="Privacy Shield Notice" target="_blank">click here</a> to view our Privacy Shield Notice.</p></div></div></div></div><div class=" et_pb_row et_pb_row_2"><div class="et_pb_column et_pb_column_4_4  et_pb_column_3"><div class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et_pb_divider_position_top et-hide-mobile"><div class="et_pb_divider_internal"></div></div><div id="privacy1" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_3"><div class="et_pb_text_inner"><h2>Our Commitment to Privacy</h2><p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personal information may be requested.</p><p>WorkForce Software, LLC abides by the privacy laws in the countries in which we conduct business.</p></div></div><div id="privacy2" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_4"><div class="et_pb_text_inner"><h2>The Information We Collect</h2><p>This notice applies to all information collected or submitted on the WorkForce Software, LLC website.</p><p>On some pages you can register for access to specific materials or to participate in an event, or request that a WorkForce Software, LLC representative contact you. The types of personal information collected to manage these requests can include any combination of the following:</p><ul><li>Your first and last name</li><li>Your job title, phone number, and email address</li><li>Your postal address for work</li><li>The name of your employer</li><li>The number of employees retained by your employer</li><li>The HR and payroll software products that you currently use</li><li>The business goals that have prompted you to contact us</li></ul><p>Additionally, if you apply for an open position at WorkForce Software, LLC, the online recruiting system may collect details about you to aid in the hiring process. Information obtained through this system can include:</p><ul><li>Your first, middle, and last name</li><li>Your email address, mailing address, and primary phone number</li><li>The name and postal address of your current employer</li><li>Names, contact information, and addresses for previous employers</li><li>Information about your level of work experience and level of education</li><li>The type of job you are looking for, desired salary, and data of availability</li><li>Whether you are available for relocation if hired</li><li>Whether you are legally allowed to work in a particular country without sponsorship</li><li>How you heard about the open position</li><li>Your prior history, if any, of applying and/or interviewing for WorkForce Software positions</li><li>Additional questions specific to the requisition</li></ul><p>This site utilizes Google Analytics Demographics and Interest Reporting. WorkForce Software may use data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interest) with Google Analytics. Users of this site may opt-out of the Google Analytics Demographics and Interest Reporting by use of the Google opt-out add-ons, located at <a title="Google Analytics Opt-out Browser Add-on" href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.</p><p>Personal Information stored and processed using our cloud-based products, such as WorkForce Suite, EmpCenter, EmpLive, and Enterprise are not collected by WorkForce. Such data are upload and processed by the Customer, who owns all title, rights, and interest to that data. WorkForce does not collect personal data for use in our cloud-based products.</p></div></div><div id="cookies" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_5"><div class="et_pb_text_inner"><h2>Our Use of Cookies</h2><p>Cookies are collected on this site via the marketing automation system Marketo. A cookie is a small data file that is stored on your device or computer when you visit a website. A “session cookie” expires immediately when you end your session (i.e., close your browser). A “persistent cookie” stores information on the device so when you end your session and return to the same website at a later date, the cookie information is still available. When you visit our Site, we may use a session and a persistent cookie. These Marketo-placed cookies may contain information (such as a unique user ID) that is used to track your usage of our Site. WorkForce Software employs cookies using the Marketo system to enable our website to recognize your browser and tell us how and when pages are visited and by how many people, and also in order for our server to recognize a return visitor as a distinct user. The cookies placed by the Marketo system are readable only by Marketo, and cookies cannot access, read or modify any other data on a computing device. Marketo uses Performance, Functionality and Analytics and Retargeting cookies.</p><p>A description of each of these cookies and how to opt out of these cookies is below.</p></div></div><div class="et_pb_module et_pb_tabs  et_pb_tabs_0"><ul class="et_pb_tabs_controls clearfix"><li class="et_pb_tab_0 et_pb_tab_active"><a href="#">Performance cookies</a></li><li class="et_pb_tab_1"><a href="#">Functionality cookies</a></li><li class="et_pb_tab_2"><a href="#">Analytics and Retargeting cookies</a></li></ul><div class="et_pb_all_tabs"><div class="et_pb_tab clearfix et_pb_active_content et_pb_tab_0"><div class="et_pb_tab_content"> These cookies enable the collection of information about how visitors use our website, including the pages visited with the most frequency and any error messages received from such pages. Visitors cannot be individually identified by these cookies. The information these cookies collect is aggregated and anonymous, and will only be used to improve the performance and functions of the WorkForce Software website.<p></p><p>To learn how to opt out of performance cookies using your browser settings <a title="About Cookies" href="http://www.aboutcookies.org/" target="_blank">click here</a>.</p></div></div><div class="et_pb_tab clearfix et_pb_tab_1"><div class="et_pb_tab_content"> Functionality cookies allow the WorkForce Software website to remember information you enter such as username and your preferred language. These cookies also enable you to optimize your use of our website.<p></p><p>To learn how to opt out of functionality cookies using your browser settings <a title="About Cookies" href="http://www.aboutcookies.org/" target="_blank">click here</a>. Note that opting out may impact the functionality you receive when visiting the WorkForce Software website.</p></div></div><div class="et_pb_tab clearfix et_pb_tab_2"><div class="et_pb_tab_content"> WorkForce Software may use cookies to store your preferences or display content based upon what you view on our Site to personalize your visit.<p></p><p>WorkForce Software engages third parties, such as Google Analytics, to track and analyze usage and volume statistical information from individuals who visit workforcesoftware.com. No personal information is provided to third parties, but this data may be re-associated with personal information after WorkForce Software receives it.</p><p>To learn more about these and other third party analytical tools, and how to opt out of analytics and retargeting cookies using your browser settings <a title="About Cookies" href="http://www.aboutcookies.org/" target="_blank">click here</a>.</p></div></div></div></div><div id="privacy3" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_6"><div class="et_pb_text_inner"><h2>The Way We Use Information</h2><p>When we collect information through registration forms we may use it for any number of the following reasons:</p><ul><li>To determine the appropriate WorkForce Software, LLC representative for contacting you or fulfilling your request</li><li>To determine your eligibility for a requested event or digital file</li><li>To send you invitations or special offers that may be of interest based upon the information you supplied</li><li>To extend invitations from select partner organizations that may be of interest based upon the information you supplied</li><li>To contact you regarding your potential interest in workforce management products and services</li></ul><p>We also may use non-identifying and aggregate website visitor information to improve the design of workforcesoftware.com.</p><p>WorkForce Software, LLC may use the information obtained through the recruiting system to help determine eligibility for a specific position, to notify you of future job openings and hiring events, and to communicate with you through the hiring process.</p><p>We never use or share the personal information provided to us through workforcesoftware.com in ways other than as described above without providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p><h3>Personal information in our cloud-based products</h3><p>In the normal course of using the WorkForce SaaS Service, Customers will input electronic data into the WorkForce systems (“Customer Data”). The use of information collected through our service shall be limited to the purpose of providing the service for which the Customer has engaged WorkForce. WorkForce may access Customer Data for the purposes of providing the service, preventing or addressing service or technical problems, responding to support issues, responding to Customer’s instructions or as may be required by law, in accordance with the relevant agreement between Customer and WorkForce.</p><p>WorkForce processes Customer Data under the direction of its Customers, and has no direct control or ownership of the personal data it processes. Customers are responsible for complying with any regulations or laws that require providing notice, disclosure and/or obtaining consent prior to transferring the data to WorkForce for processing purposes.</p><p>An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his or her query to the WorkForce Customer (the data controller). Upon Customer request, WorkForce to remove the personal data to comply with data protection regulations, WorkForce will respond to their request within 30 business days.</p><p>WorkForce will refer any request for disclosure of personal data by a law enforcement authority to the Customer. WorkForce may, where it concludes that it is legally obligated to do so, disclose personal data to law enforcement or other government authorities. WorkForce will notify Customer of such request unless prohibited by law.</p></div></div><div id="privacy4" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_7"><div class="et_pb_text_inner"><h2>Opt-out Policy</h2><p>WorkForce Software, LLC offers its communication recipients a means for controlling the information they receive. If, at any time, you change your mind about receiving information from us, please use the opt-out link located at the bottom of each communication or email your request to <a title="opt-out@workforcesoftware.com" href="mailto:opt-out@workforcesoftware.com" target="_blank">opt-out@workforcesoftware.com</a>. You can expect that such a request will be completed within seven (7) days of WorkForce Software, LLC’s receipt of the same.</p></div></div><div id="privacy5" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_8"><div class="et_pb_text_inner"><h2>Our Commitment to Data Security</h2><p>To prevent unauthorized access or disclosure, to maintain data accuracy, and to allow only the appropriate use of your personal information, we employ physical, technical, and administrative controls and procedures to safeguard the information we collect.</p><p>To protect the confidentiality, integrity, and availability of your personal information, WorkForce Software, LLC utilizes a variety of physical and logical access controls, firewalls, intrusion detection/prevention systems, network and database monitoring, anti-virus, and backup systems.</p><p>We limit access to your personal information and data to those persons who have a specific business purpose for maintaining and processing such information. WorkForce Software, LLC employees who have been granted access to your personal information are made aware of their responsibilities to protect the confidentiality, integrity, and availability of that information and have been provided training and instruction on how to do so.</p></div></div><div id="privacy6" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_9"><div class="et_pb_text_inner"><h2>Data Integrity</h2><p>WorkForce Software, LLC will take reasonable steps to ensure that personal information collected is maintained accurately, completely, and kept current for its intended use. WorkForce Software, LLC will only use personal information in ways that are compatible with the purposes for which it was collected.</p></div></div><div id="privacy7" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_10"><div class="et_pb_text_inner"><h2>How You Can Access or Correct Your Information</h2><p>You can access all your personal information that we collect online and maintain by emailing your request to <a title="opt-out@workforcesoftware.com" href="mailto:opt-out@workforcesoftware.com" target="_blank">opt-out@workforcesoftware.com</a>. We use this procedure to better safeguard your information.</p><p>You can correct factual errors in your personal information by sending us a request that credibly shows error. You can expect to receive a response to any such update request within seven (7) days of WorkForce Software, LLC’s receipt of the same.</p><p>In our cloud-based products, WorkForce retains Personal Information according to the timeframes set forth in the relevant Customer agreement. Individuals who would like to request that their Personal Information not be used for specific purposes or disclosed should contact the WorkForce Customer responsible for uploading such Personal Information into our cloud-based products (the data controller).</p><p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p></div></div><div id="privacy8" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_11"><div class="et_pb_text_inner"><h2>Enforcement and Verification</h2><p>WorkForce Software, LLC holds its employees and agents accountable for maintaining the trust that our customers place in our company. WorkForce Software, LLC will conduct periodic assessments to validate its continued adherence to this privacy policy.</p><p>In the case that WorkForce Software, LLC obtains knowledge of use or disclosure of information not in accordance with the Web Privacy Policy, WorkForce Software, LLC will take the following reasonable steps to stop the use or disclosure:</p><ol><li>WorkForce Software will formally contact the relevant party and instruct them to stop using the data inappropriately and/or destroy the data. WorkForce Software will advise the relevant party on appropriate use and disclosure of information in accordance with the Web Privacy Policy.</li><li>If the relevant party continues to use or disclose the information inappropriately, WorkForce Software will take legal actions to prevent the continued misuse of information. WorkForce Software will also remove the information from its database to prevent further misuse.”</li></ol></div></div><div id="privacy9" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_12"><div class="et_pb_text_inner"><h2>How to Contact Us</h2><p>If you have any questions or concerns regarding these privacy policies, please contact us.</p><p>Privacy Compliance Officer<br> WorkForce Software, LLC<br> 38705 7 Mile Rd., Ste 300<br> Livonia, MI 48152<br> Phone: 877.493.6723<br> Email: <a title="privacy@workforcesoftware.com" href="mailto:privacy@workforcesoftware.com" target="_blank">privacy@workforcesoftware.com</a></p></div></div><div id="privacy11" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_13"><div class="et_pb_text_inner"><h2>Copyright Policy</h2><p>The information on this web site may not be duplicated in any way without the express written consent of WorkForce Software, LLC, except in printed or electronic form for the purposes of evaluation within your organization.</p><p>The information supplied is distributed on an “as is” basis, without any warranty. WorkForce Software, LLC shall not have any liability to any person or entity with respect to any loss or damage caused or alleged to be caused directly or indirectly by the information contained herein.</p><p>Trademark names appear throughout this material. Rather than list the names and entities that own those trademarks or insert a trademark symbol with each mention of the trademarked name, WorkForce Software, LLC states that it is using those names in editorial fashion only for the benefit of the trademark owner, with no intention of infringing on the trademark. No mention of a company or trademark is intended to convey endorsement or other affiliation with WorkForce Software, LLC.</p><p>Customers should seek independent legal counsel to determine what laws and regulations apply to them to ensure that they are in compliance. WorkForce Software, LLC does not provide legal services or advice.</p></div></div><div id="privacy12" class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left  et_pb_text_14"><div class="et_pb_text_inner"><h2>Effective Date</h2><p>This Privacy Notice became effective January 1, 2012. It was last updated September 27, 2016.</p></div></div></div></div></div> <span class="et_bloom_bottom_trigger"></span></div></article></div><span class="et_pb_scroll_top et-pb-icon"></span><footer id="main-footer"><div class="container"><div id="footer-widgets" class="clearfix"><div class="footer-widget"><div id="text-96" class="fwidget et_pb_widget widget_text"><h4 class="title">About Us</h4><div class="textwidget"><ul><li> <a title="Leadership" href="/about/leadership/">Leadership</a></li><li> <a title="Philosophy" href="/about/philosophy/">Philosophy</a></li><li> <a title="Partners" href="/about/partners/">Partners</a></li><li> <a title="Contact Us" href="/about/contact-us/">Contact Us</a></li></ul></div></div></div><div class="footer-widget"><div id="aboutmewidget-2" class="fwidget et_pb_widget widget_aboutmewidget"><h4 class="title">About Me</h4><div class="clearfix"> <img src="" id="about-image" alt=""></div></div></div></div></div><div id="footer-bottom"><div class="container"><div class=" et_pb_row"><div class="et_pb_column et_pb_column_1_2"><ul id="menu-footer-links" class="bottom-nav"><li id="menu-item-1155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1155"><a title="Contact WorkForce Software" href="http://www.workforcesoftware.com/company/contact-us/">Contact Us</a></li><li id="menu-item-9351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9351"><a href="http://www.workforcesoftware.com/disclaimer/">Disclaimer</a></li><li id="menu-item-138" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-136 current_page_item menu-item-138"><a title="WorkForce Software Privacy Policy" href="http://www.workforcesoftware.com/privacy-policy/">Privacy Policy</a></li></ul></div><div class="et_pb_column et_pb_column_1_2"><ul class="et-social-icons"><li class="et-social-icon et-social-linkedin"><a href="https://www.linkedin.com/company/workforce-software" class="icon" target="_blank"> <span>LinkedIn</span></a></li><li class="et-social-icon et-social-twitter"><a href="https://twitter.com/WorkForceSW" class="icon" target="_blank"> <span>Twitter</span></a></li><li class="et-social-icon et-social-facebook"><a href="https://www.facebook.com/workforcesoftware/" class="icon" target="_blank"><span>Facebook</span></a></li><li class="et-social-icon et-social-youtube"><a href="https://www.youtube.com/c/workforcesoftware" class="icon" target="_blank"> <span>YouTube</span></a></li><li class="et-social-icon et-social-rss"><a href="/feed/" class="icon" target="_blank"><span>RSS</span></a></li></ul></div></div><p id="footer-info">Copyright © 2017 WorkForce Software, LLC. All Rights Reserved. WorkForce Software, WFS, and Making Work Easy are trademarks registered in the U.S. Patent and Trademark Office.</p></div></div></footer></div></div><div class="et_social_pin_images_outer"><div class="et_social_pinterest_window"><div class="et_social_modal_header"><h3>Pin It on Pinterest</h3><span class="et_social_close"></span></div><div class="et_social_pin_images" data-permalink="http://www.workforcesoftware.com/privacy-policy/" data-title="Privacy Policy" data-post_id="136"></div></div></div><div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_sidebar_withcounts et_social_withtotalcount et_social_mobile_on"><div class="et_social_totalcount et_social_dark"> <span class="et_social_totalcount_count et_social_total_share" data-post_id="136"></span> <span class="et_social_totalcount_label">Shares</span></div><ul class="et_social_icons_container"><li class="et_social_linkedin"> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="linkedin" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_linkedin"></i> <span class="et_social_overlay"></span> </a></li><li class="et_social_twitter"> <a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;via=WorkForceSW" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="twitter" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_twitter"></i> <span class="et_social_overlay"></span> </a></li><li class="et_social_facebook"> <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_facebook"></i> <span class="et_social_overlay"></span> </a></li><li class="et_social_googleplus"> <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_googleplus"></i> <span class="et_social_overlay"></span> </a></li><li class="et_social_all_button"> <a href="#" rel="nofollow" data-location="sidebar" data-page_id="136" data-permalink="http://www.workforcesoftware.com/privacy-policy/" data-title="Privacy Policy" class="et_social_open_all"> <i class="et_social_icon et_social_icon_all_button"></i> <span class="et_social_overlay"></span> </a></li></ul> <span class="et_social_hide_sidebar et_social_icon"></span></div><div class="et_social_mobile_button"></div><div class="et_social_mobile et_social_fadein"><div class="et_social_heading">Share This</div> <span class="et_social_close"></span><div class="et_social_networks et_social_simple et_social_rounded et_social_left et_social_withcounts"><ul class="et_social_icons_container"><li class="et_social_linkedin"> <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="linkedin" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_linkedin"></i><div class="et_social_network_label"><div class="et_social_networkname">linkedin</div></div> <span class="et_social_overlay"></span> </a></li><li class="et_social_twitter"> <a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;via=WorkForceSW" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="twitter" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_twitter"></i><div class="et_social_network_label"><div class="et_social_networkname">twitter</div></div> <span class="et_social_overlay"></span> </a></li><li class="et_social_facebook"> <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_facebook"></i><div class="et_social_network_label"><div class="et_social_networkname">facebook</div></div> <span class="et_social_overlay"></span> </a></li><li class="et_social_googleplus"> <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.workforcesoftware.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="136" data-social_type="share" data-location="sidebar" data-min_count="1"> <i class="et_social_icon et_social_icon_googleplus"></i><div class="et_social_network_label"><div class="et_social_networkname">googleplus</div></div> <span class="et_social_overlay"></span> </a></li><li class="et_social_all_button"> <a href="#" rel="nofollow" data-location="sidebar" data-page_id="136" data-permalink="http://www.workforcesoftware.com/privacy-policy/" data-title="Privacy Policy" class="et_social_open_all"> <i class="et_social_icon et_social_icon_all_button"></i> <span class="et_social_overlay"></span> </a></li></ul></div></div><div class="et_social_mobile_overlay"></div><style type="text/css" id="et-builder-advanced-style">.et_pb_text_2 { padding-bottom: 0px !important;margin-bottom: 0px !important; }
 .et_pb_text_6 { margin-bottom: 0px !important; }
-.et_pb_text_8 { margin-bottom: 0px !important; }
-.et_pb_text_12 { margin-bottom: 0px !important; }
 .et_pb_text_13 { margin-bottom: 0px !important; }
-.et_pb_divider_0:before { border-top-color: #eeeeee; border-top-width: px; }
-.et_pb_image_0 { margin-left: 0; }
-.et_pb_text_5 { margin-bottom: 0px !important; }
-.et_pb_text_15 { margin-bottom: 0px !important; }
-.et_pb_text_14 { margin-bottom: 0px !important; }
+.et_pb_text_12 { margin-bottom: 0px !important; }
+.et_pb_text_11 { margin-bottom: 0px !important; }
+.et_pb_text_10 { margin-bottom: 0px !important; }
+.et_pb_text_9 { margin-bottom: 0px !important; }
+.et_pb_text_8 { margin-bottom: 0px !important; }
 .et_pb_text_7 { margin-bottom: 0px !important; }
-.et_pb_tab_2 p { line-height: 2em; }
-.et_pb_tab_0 { line-height: 2em; }
-.et_pb_tab_0 p { line-height: 2em; }
-.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_0 { line-height: 2em !important; }
-.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_1 { line-height: 2em !important; }
-.et_pb_tab_1 p { line-height: 2em; }
-.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_2 { line-height: 2em !important; }
-.et_pb_tab_1 { line-height: 2em; }
-.et_pb_tab_2 { line-height: 2em; }
+.et_pb_text_14 { margin-bottom: 0px !important; }
+.et_pb_divider_0:before { border-top-color: #eeeeee; border-top-style: solid; }
+.et_pb_text_5 { margin-bottom: 0px !important; }
+.et_pb_tabs .et_pb_all_tabs .et_pb_tab_2.et_pb_tab { line-height: 2em; }
+.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_2, .et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_2 a { line-height: 2em !important; }
+.et_pb_tabs .et_pb_all_tabs .et_pb_tab_1.et_pb_tab { line-height: 2em; }
+.et_pb_tabs .et_pb_tab_1.et_pb_tab p { line-height: 2em; }
+.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_1, .et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_1 a { line-height: 2em !important; }
+.et_pb_tabs .et_pb_all_tabs .et_pb_tab_0.et_pb_tab { line-height: 2em; }
+.et_pb_tabs .et_pb_tab_0.et_pb_tab p { line-height: 2em; }
+.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_0, .et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_0 a { line-height: 2em !important; }
+.et_pb_tabs .et_pb_tab_2.et_pb_tab p { line-height: 2em; }
 
 @media only screen and ( min-width: 981px ) {
-	.et_pb_row_0 { padding-bottom: 0px; }
-}
-
-@media only screen and ( max-width: 980px ) {
-	.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_2 { line-height: 2em !important; }
-	.et_pb_tab_2 p { line-height: 2em; }
-	.et_pb_tab_1 p { line-height: 2em; }
-	.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_1 { line-height: 2em !important; }
-	.et_pb_tab_0 p { line-height: 2em; }
-	.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_0 { line-height: 2em !important; }
-}
-
-@media only screen and ( max-width: 767px ) {
-	.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_2 { line-height: 2em !important; }
-	.et_pb_tab_2 p { line-height: 2em; }
-	.et_pb_tab_1 p { line-height: 2em; }
-	.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_1 { line-height: 2em !important; }
-	.et_pb_tab_0 p { line-height: 2em; }
-	.et_pb_tabs .et_pb_tabs_controls li.et_pb_tab_0 { line-height: 2em !important; }
-}
-			</style><script>// <![CDATA[
+	.et_pb_row_0.et_pb_row { padding-bottom: 0px; }
+}</style><style type="text/css" id="et-builder-page-custom-style">.page.et_pb_pagebuilder_layout #main-content { background-color: rgba(255,255,255,0); }</style><script>// 
 var th = jQuery('#top-header').height(); var hh = jQuery('#main-header').height(); var fh = jQuery('#main-footer').height(); var wh = jQuery(window).height(); var ch = wh - (th + hh + fh); jQuery('#main-content').css('min-height', ch);
-// ]]></script><script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.3"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"http:\/\/www.workforcesoftware.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.workforcesoftware.com\/privacy-policy\/","stats_nonce":"872f6fb37a","share_counts":"ba77a3e165","follow_counts":"57e2e4c369","total_counts":"841445cbe8","media_single":"41f8bbaa17","media_total":"192df83d42","generate_all_window_nonce":"d4f6b86250","no_img_message":"No images available for sharing on this page"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/monarch/js/custom.js?ver=1.3"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/vendor/isotope/isotope.pkgd.min.js?ver=1465687286"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/vendor/imagesloaded/imagesloaded.pkgd.min.js?ver=1465687286"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wpupg_public = {"ajax_url":"http:\/\/www.workforcesoftware.com\/wp-admin\/admin-ajax.php?wpupg_ajax=1","animationSpeed":"0.8s","animationShow":{"opacity":"1"},"animationHide":{"opacity":"0"},"nonce":"db7eb6e068","rtl":"","dropdown_hide_search":"","link_class":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/js/grid.js?ver=1465687286"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/core/vendor/select2/js/select2.js?ver=1465687286"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/premium/addons/filter-dropdown/js/filter-dropdown.js?ver=1465687286"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/premium/addons/pagination-infinite-load/js/pagination-infinite-load.js?ver=1465687286"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/premium/addons/pagination-load-filter/js/pagination-load-filter.js?ver=1465687286"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-ultimate-post-grid-premium/premium/addons/pagination-load-more/js/pagination-load-more.js?ver=1465687286"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/js/custom.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/js/smoothscroll.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/wp-gallery-custom-links/wp-gallery-custom-links.js?ver=1.1"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=2.7.5"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var et_pb_custom = {"ajaxurl":"http:\/\/www.workforcesoftware.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.workforcesoftware.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/www.workforcesoftware.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"1a68f93917","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"7958a2b11f","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"136","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-includes/js/wp-embed.min.js?ver=4.5.2"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.7.min.js?ver=1.5.7"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/easy-fancybox/jquery.easing.pack.js?ver=1.3"></script>
-<script type="text/javascript" src="http://www.workforcesoftware.com/wp-content/plugins/easy-fancybox/jquery.mousewheel.min.js?ver=3.1.12"></script>
-	<!-- Clicky Web Analytics - http://clicky.com, WordPress Plugin by Yoast - https://yoast.com/wordpress/plugins/clicky/ -->
-			<script type="text/javascript">
-			function clicky_gc(name) {
-				var ca = document.cookie.split(';');
-				for (var i in ca) {
-					if (ca[i].indexOf(name + '=') != -1) {
-						return decodeURIComponent(ca[i].split('=')[1]);
-					}
-				}
-				return '';
-			}
-			var username_check = clicky_gc('comment_author_fd1fe7e5e11373367ff8d0d93122ef7d');
-			if (username_check) var clicky_custom_session = {username: username_check};
-		</script>
-		<script type="text/javascript">
-				var clicky = { log : function () { return true;	}, goal: function () { return true;	} };
-		var clicky_site_id = 165456;
-		(function () {
-			var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = '//static.getclicky.com/js';
-			( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild(s);
-		})();
-	</script>
-	<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/165456ns.gif" /></p></noscript>
-	
-<script type="text/javascript">
-jQuery(document).on('ready post-load', easy_fancybox_handler );
-</script>
-</body></html>
+//</script> <script type="text/javascript">var clicky_site_ids = clicky_site_ids || [];
+clicky_site_ids.push(165456);
+(function() {
+  var s = document.createElement('script');
+  s.type = 'text/javascript';
+  s.async = true;
+  s.src = '//static.getclicky.com/js';
+  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+})();</script> <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/165456ns.gif" /></p></noscript> <script type="text/javascript">/*  */
+var monarchSettings = {"ajaxurl":"http:\/\/www.workforcesoftware.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.workforcesoftware.com\/privacy-policy\/","stats_nonce":"b6c74f4b23","share_counts":"af8778ba49","follow_counts":"c62523da95","total_counts":"86512e5975","media_single":"68f8d6d958","media_total":"88e2c9d1e7","generate_all_window_nonce":"73bf997df3","no_img_message":"No images available for sharing on this page"};
+/*  */</script> <script type="text/javascript">/*  */
+var wpupg_public = {"ajax_url":"http:\/\/www.workforcesoftware.com\/wp-admin\/admin-ajax.php?wpupg_ajax=1&lang=en","animationSpeed":"0.8s","animationShow":{"opacity":"1"},"animationHide":{"opacity":"0"},"nonce":"2b50e57112","rtl":"","dropdown_hide_search":"","link_class":""};
+/*  */</script> <script type="text/javascript">/*  */
+var lazyload_video_settings = {"youtube":{"theme":"dark","colour":"red","showinfo":false,"relations":false,"buttonstyle":"youtube_button_image_red","controls":true,"loadpolicy":false,"responsive":true,"thumbnailquality":"0","preroll":"","postroll":"","displaybranding":false,"callback":"<!--YOUTUBE_CALLBACK-->"},"vimeo":{"buttonstyle":"youtube_button_image_red","playercolour":"#00adef","responsive":true,"preroll":"","postroll":"","show_title":false,"displaybranding":false,"callback":"<!--VIMEO_CALLBACK-->"}};
+/*  */</script> <script type="text/javascript">/*  */
+var et_pb_custom = {"ajaxurl":"http:\/\/www.workforcesoftware.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.workforcesoftware.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/www.workforcesoftware.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"46278f3dcd","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"0d079cde2f","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"136","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+/*  */</script> <script type="text/javascript">/*  */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.workforcesoftware.com\/","ajax_url":"http:\/\/www.workforcesoftware.com\/wp-admin\/admin-ajax.php","url_type":"1"};
+/*  */</script> <script type="text/javascript" defer="" src="http://www.workforcesoftware.com/wp-content/cache/autoptimize/autoptimize_e480a6da2b2400b1a6ba77c7ca1d93a1.php"></script>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Object Caching 4686/4754 objects using apc
+Page Caching using redis
+Database Caching 4/97 queries in 0.050 seconds using redis
+
+ Served from: www.workforcesoftware.com @ 2017-06-12 01:32:59 by W3 Total Cache --></body></html>
