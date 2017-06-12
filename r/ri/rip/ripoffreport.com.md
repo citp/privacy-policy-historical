@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121014509id_/http%3A//www.ripoffreport.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612155757id_/http%3A//www.ripoffreport.com/privacy-policy) for the most accurate reproduction.*
 
-# Ripoff Report | Scams, reviews, complaints, lawsuits and frauds. File a report, post your review. Consumers educating consumers.
+# Ripoff Report | Privacy Policy
 
 This privacy policy applies to the Ripoff Report web site. Our contact information is:
 
