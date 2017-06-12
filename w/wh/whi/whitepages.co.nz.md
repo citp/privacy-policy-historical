@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitepages.co.nz privacy policy that was archived on 2015-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150212212001id_/http%3A//help.yellow.co.nz/yellow/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.co.nz privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612084002id_/http%3A//help.yellow.co.nz/yellow/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Yellow® New Zealand
+# Yellow Privacy Policy
 
 We are committed to protecting the privacy of personal information you might provide via any of our websites. This policy explains how we manage your information. For the purposes of this policy, “we”, “us” or “our” means Yellow Pages Group Limited (having its registered office at 604 Great South Road, Ellerslie, Auckland) together with its related companies.
 
@@ -44,7 +44,6 @@ We will generally collect and use non-personal information to:
 
 
 
-
 ## Holding and correcting personal information
 
 Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold, where such information can readily be retrieved. We reserve the right to require payment of our reasonable costs in relation to the access to and correction of certain information.
@@ -67,7 +66,7 @@ We may use a third-party advertising company to serve ads when you visit our web
 
 ## Nielsen//NetRatings - NZ internet statistics
 
-We use the Nielsen//NetRatings counting system to help us improve our service by tracking common entry and exit points for our websites, compiling anonymous information about visits to our websites, and randomly and anonymously surveying users of our websites. To do this, our websites have a small piece of code on each page which accumulates these statistics. For more information and to view Nielson//Net Ratings’ privacy policy, please visit <http://www.nielsen-online.com/corp.jsp?section=leg_prs>.
+We use the Nielsen//NetRatings counting system to help us improve our service by tracking common entry and exit points for our websites, compiling anonymous information about visits to our websites, and randomly and anonymously surveying users of our websites. To do this, our websites have a small piece of code on each page which accumulates these statistics. For more information and to view Nielson//Net Ratings’ privacy policy, please visit <http://www.nielsen-online.com/corp.jsp?section=leg_prs>.
 
 ## Security
 
@@ -83,4 +82,4 @@ We may change this policy, by adding, changing or removing terms at any time. An
 
 ## Contact Details
 
-If you have any questions about the privacy of your personal information please [contact us](http://help.yellow.co.nz/contact-us/).
+If you have any questions about the privacy of your personal information please [contact us](http://help.yellow.co.nz/contact-us/).
