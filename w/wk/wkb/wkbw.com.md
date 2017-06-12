@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223053413id_/http%3A//www.wkbw.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613015055id_/http%3A//www.wkbw.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Story
+# Privacy Policy - WKBW.com Buffalo, NY
 
 BUFFALO, N.Y. (WKBW) - PRIVACY POLICY
 
