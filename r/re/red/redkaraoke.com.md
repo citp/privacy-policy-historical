@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redkaraoke.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231338id_/http%3A//www.redkaraoke.com/terms/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redkaraoke.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613002956id_/https%3A//www.redkaraoke.com/terms/en/privacy) for the most accurate reproduction.*
 
 # RedKaraoke - Help
 
-Although [Red Karaoke](http://www.redkaraoke.com/) is an entertainment website to have fun, since we need a record to be able to save the recordings, have a file, etc., we have to give all of that a trustworthy legal coverage that guarantees the use of our users’ data. So here’s the legal text (the “Policy") created by our lawyers.
+Although [Red Karaoke](https://www.redkaraoke.com/) is an entertainment website to have fun, since we need a record to be able to save the recordings, have a file, etc., we have to give all of that a trustworthy legal coverage that guarantees the use of our users’ data. So here’s the legal text (the “Policy") created by our lawyers.
 
 **1\. INTRODUCTION**
 
@@ -16,7 +16,7 @@ To register for the service, you must previously provide certain Personal Data t
 
 Your Personal Data will be included in a file owned by us that is registered with the Spanish Agency of data protection and will be subject to automated data processing by us to (i) manage the services and features of the Service, in addition to manage our contractual relationship with you; (ii) market products and services which may be of interest to you based on your Personal Data and to analyze the effectiveness of advertising built into our Services, (iii) establish and analyze our customers’ individual, group and behavioral profiles as well as to (iv) send you advertising.
 
-At any time, you can tell us that you do not want to continue to receive our commercial communications via regular mail by adjusting your preferences [here](http://www.redkaraoke.com/my-karaoke/notifications).
+At any time, you can tell us that you do not want to continue to receive our commercial communications via regular mail by adjusting your preferences [here](https://www.redkaraoke.com/my-karaoke/notifications).
 
 The subscription to our Services may lead to the use of your Personal Data to provide you customized advertising related to our products and services through emails, SMS, push app notifications and other own or third-party electronic means. In order to improve the service that we provide to you, your Personal Data related to your activity on our Services, tastes and preferences may be used for the purpose of analysis, creation of usage profiles, marketing studies, quality surveys and improvement of interaction with our customers. You can change your preferences in relation to such commercial communications in the “Notifications by mail” section of your account.
 
@@ -76,19 +76,19 @@ If you choose not to accept our cookies, you can continue to use our website in 
 
 _Analysis cookies_ : They allow us to track and analyze your behavior and that of other Service users. We use the information collected by these cookies to measure the Service activity and to develop Service users’ navigation profiles in order to improve the service. 
 
-Google Analytics: [www.google.com/analytics](http://www.google.com/analytics)
+Google Analytics: [www.google.com/analytics](https://www.google.com/analytics)
 
 _Advertising cookies_ : They allow us to efficiently manage the advertising spaces included in the Service.
 
 _Behavioral advertising cookies_ : They allow us to efficiently manage the advertising spaces we have included. These cookies store information about your behavior (and that of other users) obtained through continued observance of your navigation habits, which allows to develop your specific profile and show you ads according to your preferences.
 
-<http://www.google.com/adsense/start/>
+<https://www.google.com/adsense/start/>
 
 _Cookies to exchange social content_ : They are used to identify content shared with other websites.
 
 <https://es-es.facebook.com/>
 
-<http://www.google.com/intl/es/+/learnmore/>
+<https://www.google.com/intl/es/+/learnmore/>
 
 We also use cookies to measure and track different marketing campaigns that we create or are created by third parties hired by us.
 
@@ -100,13 +100,13 @@ Information about how to do this can be found at the following links:
 
 <https://support.mozilla.org/es/kb/Borrar%20cookies> for Firefox.
 
-[http://support.google.com/chrome/bin/answer.py?hl=es&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=es&answer=95647) for Chrome.
+[https://support.google.com/chrome/bin/answer.py?hl=es&answer=95647](https://support.google.com/chrome/bin/answer.py?hl=es&answer=95647) for Chrome.
 
-<http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9> for Explorer.
+<https://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9> for Explorer.
 
-<http://support.apple.com/kb/ph5042> for Safari.
+<https://support.apple.com/kb/ph5042> for Safari.
 
-If you want to get more accurate and complete information about all the cookies we use on this website, their purpose, duration and whether they are own or third-party cookies, please click [here](http://www.redkaraoke.com/terms/en/cookies)
+If you want to get more accurate and complete information about all the cookies we use on this website, their purpose, duration and whether they are own or third-party cookies, please click [here](https://www.redkaraoke.com/terms/en/cookies)
 
 **9\. PRIVACY AND COOKIE POLICY UPDATES**
 
