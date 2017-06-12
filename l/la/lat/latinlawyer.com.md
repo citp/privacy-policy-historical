@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203013913id_/http%3A//latinlawyer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinlawyer.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612203524id_/http%3A//latinlawyer.com/static/privacy) for the most accurate reproduction.*
 
-# Latin Lawyer
+# Privacy - Latin Lawyer
 
 _By submitting personal data to us and/or by using our website you give your consent that all personal data that you submit may be processed by us in the manner and for the purposes described below._
 
@@ -8,10 +8,7 @@ _By submitting personal data to us and/or by using our website you give your con
 
 We are LAW BUSINESS RESEARCH LIMITED. We are registered in England and Wales and have our registered office at:
 
-Law Business Research  
-87 Lancaster Road   
-London, W11 1QQ  
-Company Number: 03281866 
+Law Business Research 87 Lancaster Road London, W11 1QQ Company Number: 03281866
 
 #### Scope of privacy and cookie policy
 
@@ -29,18 +26,13 @@ We make use of “cookies” to track your use of our website. Cookies are text 
 
 This website uses the following cookies:
 
-Type | Name | Essential? | Purpose  
+Type| Name| Essential?| Purpose  
 ---|---|---|---  
-Website | CFID   
-CFTOKEN  | Yes | Identifies your current session to our web server. These are set upon arrival and expire when your session does. They hold no personal information.  
-Website | login   
-encryptedLogin  | No | Identifies logged in site subscribers who chose the "remember me" option to our web server. These are set upon log in and expire when you next log out. They hold no personal information beyond site username.  
+Website | CFID CFTOKEN | Yes | Identifies your current session to our web server. These are set upon arrival and expire when your session does. They hold no personal information.  
+Website | login encryptedLogin | No | Identifies logged in site subscribers who chose the "remember me" option to our web server. These are set upon log in and expire when you next log out. They hold no personal information beyond site username.  
 Website | NEWGEOCODE | No | Identifies your current geographical country location to our web server based on your IP address. This is set upon arrival and expires after 30 days or when you change location. We use this cookie to serve location specific content and set correct currency types for our shops. They hold no personal information beyond geographical location.  
 Website | poll | No | Identifies to our web server if you've already completed one of our site surveys or polls. This is set upon poll submission. They hold no personal information.  
-[Google Analytics](http://www.google.com/analytics) | __utma   
-__utmb   
-__utmc   
-__utmz  | No | Used by Google Analytics to collect information on how visitors use our site. We use this information to help improve the site and customer experiences. All information collected is in an anonymous form, including the number of visitors to the site, where they come from, the pages they visit and so on. For more information see the [Google Analytics Privacy Overview](http://www.google.co.uk/intl/en/analytics/privacyoverview.html).  
+[Google Analytics](http://www.google.com/analytics) | __utma __utmb __utmc __utmz | No | Used by Google Analytics to collect information on how visitors use our site. We use this information to help improve the site and customer experiences. All information collected is in an anonymous form, including the number of visitors to the site, where they come from, the pages they visit and so on. For more information see the [Google Analytics Privacy Overview](http://www.google.co.uk/intl/en/analytics/privacyoverview.html).  
 [Google DFP](http://www.google.com/dfp) | __gads | No | Used by Google DFP to support our site advertisments. We use this information to implement advertisment features and target ads for users. All information collected is in an anonymous form. For more information see the [Google DFP cookies help page](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880) and the [DFP opt-out site](http://www.google.com/settings/ads/onweb/optout).  
   
 For further information visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
@@ -95,7 +87,7 @@ Information posted on chat rooms, forums, message boards and/or news groups that
 
 #### Changes to our privacy and cookies policy
 
-We will improve and add new functionality and features to this website and improve and add to our existing products, services and promotions. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change form time to time. If and when our data practices change, we will post the changes on our website to notify you. We encourage you to check this page frequently.
+We will improve and add new functionality and features to this website and improve and add to our existing products, services and promotions. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change form time to time. If and when our data practices change, we will post the changes on our website to notify you.  We encourage you to check this page frequently.
 
 #### Law
 
@@ -107,14 +99,6 @@ If you have any questions about this privacy policy, the practices of Law Busine
 
 Please contact us at the addresses below if you have any questions about our Privacy Policy or information we hold about you, if you wish to opt out of marketing materials, make a request for information or request the correction/deletion of information.
 
-**Law Business Research Limited**  
-87 Lancaster Road  
-London  
-W11 1QQ  
-United Kingdom  
-Data Protection Officer  
-[tom.barnes@lbresearch.com](mailto:tom.barnes@lbresearch.com)  
-+44 (0)20 7908 1180
-
-Office hours: 9am to 6pm GMT 
+**Law Business Research Limited** 87 Lancaster Road London W11 1QQ United KingdomData Protection Officer [tom.barnes@lbresearch.com](mailto:tom.barnes@lbresearch.com) +44 (0)20 7908 1180  
+Office hours: 9am to 6pm GMT
   *[Essential?]: Essential to site operation?
