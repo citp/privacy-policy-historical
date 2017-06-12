@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiningsusa.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518011722id_/http%3A//www.twiningsusa.com/static/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiningsusa.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612142225id_/https%3A//twiningsusa.com/static/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Twinings Tea US
 
