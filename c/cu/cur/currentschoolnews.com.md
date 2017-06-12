@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentschoolnews.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119101547id_/http%3A//www.currentschoolnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentschoolnews.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612193919id_/http%3A//www.currentschoolnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Current School News : Current School News
 
