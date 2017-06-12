@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decalgirl.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905182035id_/https%3A//www.decalgirl.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decalgirl.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612023158id_/https%3A//www.decalgirl.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DecalGirl
 
@@ -34,7 +34,7 @@ DecalGirl does not share, sell, rent, or trade PII with third parties other than
 
 We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@decalgirl.com. We offer an opportunity to opt-out of certain communications on our Email Updates page as well as our "My Account" section, or you may contact us at support@decalgirl.com or by mail to DecalGirl, Attn: Privacy, 25448 Prime Hook Rd, Suite 400, Milton, DE 19968, USA to opt-out.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at privacy@decalgirl.com. We offer an opportunity to opt-out of certain communications on our Email Updates page as well as our "My Account" section, or you may contact us at support@decalgirl.com or by mail to DecalGirl, Attn: Privacy, 35770 Airport Rd, Rehoboth Beach, DE 19971, USA to opt-out.
 
 #### We protect your personal information
 
