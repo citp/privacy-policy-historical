@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qoolquiz.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206104834id_/http%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qoolquiz.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612121938id_/http%3A//qoolquiz.com/terms/privacyPolicy) for the most accurate reproduction.*
 
 # Qool Quiz
 
