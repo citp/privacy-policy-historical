@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2016-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160520042907id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionsoftwarereview.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612130830id_/http%3A//www.webretailer.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Web Retailer
 
@@ -39,7 +39,7 @@ Web Retailer will not sell, rent or otherwise disclose your personally identifia
 
 ## Managing Your Member Information
 
-  * You may edit your member information at any time by going to the [settings](https://web.archive.org/member-account.asp) page.
+  * You may edit your member information at any time by going to the [settings](https://www.webretailer.com/member-account.asp) page.
   * You may request deletion of your member details by [sending an email](https://web.archive.org/contact-us.asp?subject=memberdelete&action=readfaqs) quoting the email address you registered with.
 
 
