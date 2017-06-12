@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014104618id_/https%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2017-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170612021412id_/https%3A//www.australiansuper.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AustralianSuper - Privacy Policy
 
@@ -75,7 +75,7 @@ a    with any third party on specific matters if you have consented to the di
 
 b    as required by law or regulations, by Courts/Tribunals, or Government or regulatory bodies/authorities
 
-c    with service providers that we need to deal with for the purposes described in section 4 above including: our Fund administrator, insurers, mail houses, independent consultants and market research companies, auditors, actuaries and lawyers, web hosting companies, web and application developers, online calculator providers, our Member Direct platform partners, other superannuation, pension and investment fund trustees or administrators if you transfer your investment to another fund, and other organisations for the purposes described in section 4 above.
+c    with service providers/third parties that we need to deal with for the purposes described in section 4 above including: our Fund administrator, insurers, your employer, mail houses, independent consultants and market research companies, auditors, actuaries and lawyers, web hosting companies, web and application developers, online calculator providers, our Member Direct platform partners, other superannuation, pension and investment fund trustees or administrators if you transfer your investment to another fund, and other organisations for the purposes described in section 4 above.
 
 Where you provide your personal details for the purpose of online data verification, our third party service provider will use your details for this purpose.  Your information will be subject to an information match request in relation to relevant official record holder information and a corresponding information match result will be provided via the use of third party systems.
 
@@ -98,7 +98,7 @@ For employment candidates, AustralianSuper may disclose your personal informatio
 
 ## 7\. Is AustralianSuper likely to disclose personal information to overseas recipients?
 
-Our Fund administrator may use overseas service providers located in countries including the USA, India, Philippines, Singapore, Canada, Malaysia, New Zealand and the UK for aspects of fund administration (a current list of countries can be found in our administrator’s privacy policy at <http://linkgroup.com/docs/Link_Group_Privacy_Policy.pdf>). Your personal information may be accessed by those service providers.
+Our Fund administrator may use overseas service providers located in countries including India and the Philippines for aspects of fund administration (a current list of countries can be found in our administrator’s privacy policy at <http://linkgroup.com/docs/Link_Group_Privacy_Policy.pdf>). Your personal information may be accessed by those service providers.
 
 Other instances where your personal information may be accessed by an Australian service provider that sub-contracts certain services overseas, or by an overseas service provider include:
 
@@ -189,4 +189,4 @@ We will review your complaint and respond within a reasonable period of time aft
 
 If you are not satisfied with the resolution of your complaint, you can refer your complaint to the Office of the Australian Information Commissioner at [www.oaic.gov.au](http://www.oaic.gov.au/ "Opens in new window").
 
-Document last updated on: 13 September 2016
+Document last updated on: 23 November 2016
