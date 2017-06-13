@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000303id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethestudent.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613205221id_/http%3A//www.savethestudent.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Save the Student
 
@@ -6,11 +6,11 @@ This privacy policy sets out how this website (www.savethestudent.org) uses and 
 
 We (Grip Media Ltd) are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-**We only ever use your personal information (eg. email address) with your consent (opt-in) and do not share any such details with third parties without your prior permission. Your privacy is of upmost importance to us.  We are a registered data controller under the United Kingdom’s Data Protection Act 1998 in respect of your personal information to which our privacy policy applies.**
+ **We only ever use your personal information (eg. email address) with your consent (opt-in) and do not share any such details with third parties without your prior permission. Your privacy is of upmost importance to us.  We are a registered data controller under the United Kingdom's Data Protection Act 1998 in respect of your personal information to which our privacy policy applies.**
 
 We may change this policy from time to time by updating this page. You should check this page periodically to ensure that you are happy with any changes
 
-**What we collect**
+ **What we collect**
 
 We may collect the following information from our users:
 
@@ -21,7 +21,7 @@ We may collect the following information from our users:
 
 
 
-**What we do with the information we gather**
+ **What we do with the information we gather**
 
 We often require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -31,13 +31,13 @@ We often require this information to understand your needs and provide you with 
 
 
 
-**Security Policy**
+ **Security Policy**
 
 We are committed to ensuring that your information is secure and take reasonable precautions. In order to prevent unauthorised access or disclosure, we have put in place suitable procedures to safeguard and secure the information we collect online. However we do not guarantee the security of any information disclosed to us. By submitting data and information you accept the risks involved and will not hold us liable for any breach of this security.
 
-**How we use cookies**
+ **How we use cookies**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
@@ -47,15 +47,15 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 We allow advertisers and other third parties to place cookies onto your computer when you visit our Website. These cookies are placed to keep track of the Web searches you make while visiting this website, as well as your Web surfing behavior on this Website and other Websites you may visit. That information is used to show you advertisements tailored to your interests on this and other Websites, and/or to keep track of your response to each ad. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please [click here](http://www.networkadvertising.org/choices/).
 
-**Links to external websites**
+ **Links to external websites**
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Hosted images**
+ **Hosted images**
 
 We claim no credit for any images posted on this website, unless otherwise noted, that we do not own the copyright for. Images on this website are copyright to its respectful owners. If there is an image appearing on this website that belongs to you and you do not wish for it appear on this site, please[ contact us](http://www.savethestudent.org/contact-us) with a direct link to the image and it will be promptly removed.
 
-**Controlling your personal information**
+ **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -67,6 +67,6 @@ We will not sell, distribute or lease your personal information to third parties
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible. We will promptly correct any information found to be incorrect.
 
-**How to contact us**
+ **How to contact us**
 
 Please use the [Contact form](http://www.savethestudent.org/contact-us) found within the website to email us. Or you can write to our office at: Grip Media Ltd, 83 Ducie St, Manchester, M1 2JQ.
