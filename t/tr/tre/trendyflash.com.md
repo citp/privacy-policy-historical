@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendyflash.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025011137id_/http%3A//www.trendyflash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendyflash.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613203625id_/http%3A//www.trendyflash.com/privacy.html) for the most accurate reproduction.*
 
 # Flash Website Builder: Flash Web Design Software & Flash Templates
 
@@ -36,7 +36,7 @@ This Privacy Policy is incorporated into and subject to the terms of the
 
 . 
 
-Copyright © 2003-2016 TrendyFlash.com All rights Reserved.
+Copyright © 2003-2017 TrendyFlash.com All rights Reserved.
 
 ## Privacy Policy
 
