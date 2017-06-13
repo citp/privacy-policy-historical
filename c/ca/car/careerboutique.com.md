@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the careerboutique.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004234119id_/http%3A//www.careerboutique.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerboutique.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613191544id_/https%3A//www.careerboutique.com/privacy_policy) for the most accurate reproduction.*
 
-# CareerBoutique - Find Jobs. Showcase Your Resume. Get Hired.
+# Search Jobs - Job Listings | CareerBoutique
 
-### CareerBoutique.com PRIVACY POLICY Effective Date: April 16, 2010
+#### CareerBoutique.com PRIVACY POLICY Effective Date: April 16, 2010
 
 This privacy policy (this "Policy") covers the web site www.CareerBoutique.com and the other web sites operated under the domain name CareerBoutique.com (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
 
@@ -24,8 +24,7 @@ To cancel or correct your personal information: send an email with your User Nam
 To express or ask questions regarding privacy concerns: send an email to info@careerboutique.com 
 
 Address:  
-955 Massachusetts Ave  
-Ste 401  
+625 Massachusetts Ave  
 Cambridge, MA 02139  
 
 
