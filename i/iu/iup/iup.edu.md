@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130205751id_/http%3A//www.iup.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iup.edu privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613053415id_/http%3A//www.iup.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Privacy - Indiana University of Pennsylvania
 
@@ -10,11 +10,11 @@ IUP will not (and will not allow any third party) to use this statistical analyt
 
 ### Further Information about Cookies
 
-The [About Cookies website](http://www.aboutcookies.org/ "About Cookies website"), maintained by law firm Pinsent Masons, explains how to delete and control the cookies stored on your computer. Additional information about cookies is available via [Google](http://www.google.com/search?q=define:Cookie&oi=glossary_definition "Google") and [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie "Wikipedia").
+The [About Cookies website](http://www.aboutcookies.org/ "About Cookies website"), maintained by law firm Pinsent Masons, explains how to delete and control the cookies stored on your computer. Additional information about cookies is available via [Google](http://www.google.com/search?q=define:Cookie&oi=glossary_definition "Google") and [Wikipedia](https://en.wikipedia.org/wiki/HTTP_cookie "Wikipedia").
 
 ### Disabling and Enabling Cookies
 
-You have the ability to accept or decline cookies by modifying the settings on your browser. The About Cookies site explains [how to remove cookies from your browser](http://www.aboutcookies.org/how-to-delete-cookies/ "how to remove cookies from your browser").
+You have the ability to accept or decline cookies by modifying the settings on your browser. The About Cookies site explains [how to remove cookies from your browser](https://www.aboutcookies.org/page/2/ "how to remove cookies from your browser").
 
 ## Using our Search Engine
 
@@ -24,9 +24,9 @@ Our search engine is powered by Google Custom Search. In order for this search e
 
 Our [online directory service](http://search.people.iup.edu/ "Find People") provides only personal information that has been authorized by those listed.
 
-At your request, your address information can be changed, restricted, or removed from the on-line directory. Employees should contact the [Office of Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=197983&libID=198000 "Human Resources"); students can change their information by [logging into MyIUP](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=195450&libID=195467 "URSA").
+At your request, your address information can be changed, restricted, or removed from the on-line directory. Employees should contact the [Office of Human Resources](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=197983&libID=198000 "Human Resources"); students can change their information by [logging into MyIUP](https://web.archive.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=195450&libID=195467).
 
-## On-Line Forms
+## Online Forms
 
 Information entered into online forms on this website (aside from search forms) may be delivered to its recipients by e-mail. E-mail is not a secure form of communication, and it is possible, though unlikely, that your information could be intercepted and read by a third party while in transit.
 
