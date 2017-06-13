@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214114411id_/http%3A//www.subaru.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613164119id_/https%3A//www.subaru.com/company/privacy.html) for the most accurate reproduction.*
 
-# Subaru Cars, Sedans, SUVs, Crossovers, Wagons | Subaru of America
+# Subaru Cars, Sedans, SUVs | Subaru of America
 
 Your privacy is important to Subaru of America, Inc. ("Subaru"). This Privacy Policy explains how Subaru collects, uses, shares and endeavors to protect your information.
 
