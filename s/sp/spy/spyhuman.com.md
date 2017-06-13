@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyhuman.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031014703id_/https%3A//spyhuman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyhuman.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613223743id_/https%3A//spyhuman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of SpyHuman | Disclaimer before using SpyHuman app
 
@@ -46,7 +46,7 @@ We have not enabled Google AdSense on our site but we may do so in the future.
 
 #### California Online Privacy Protection Act
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
 
 #### According to CalOPPA we agree to the following:
 
@@ -97,7 +97,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 #### To be in accordance with CANSPAM we agree to the following:
 
-#### If at any time you would like to unsubscribe from receiving future emails, you can email us at :info.spyhuman@gmail.com
+#### If at any time you would like to unsubscribe from receiving future emails, you can email us at :support@spyhuman.com
 
 and we will promptly remove you from **ALL** correspondence.
 
@@ -105,11 +105,11 @@ and we will promptly remove you from **ALL** correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-SpyHuman.COM  
-Gujrat,  
-India  
-info.spyhuman@gmail.com
+SpyHuman.COM
 
-Last Edited on 2015-12-04
++91-9104979801  
+support@spyhuman.com
+
+Last Edited on 2017-01-04
 
 #### You acknowledge having read these words in good conscience. If you have additional questions, contact us via our form contact.
