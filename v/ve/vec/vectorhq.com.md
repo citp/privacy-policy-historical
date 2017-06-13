@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorhq.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026023732id_/http%3A//www.vectorhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorhq.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613160324id_/http%3A//www.vectorhq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VectorHQ.com
 
@@ -6,7 +6,7 @@ VectorHQ.com knows that you care about how your personal information is used and
 
 ### Information Collected by VectorHQ.com
 
-We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. Generally, registration is not required to use VectorHQ.com, but in order for you to use some services, such as adding icons to your favorite box, submitting new tags to icons, you must complete a registration form. As part of this registration form, we require select personal information (including your full name and e-mail address). We receive and store certain types of information whenever you interact with us. We receive and record certain "traffic data" on their server logs from your browser including your IP address, and the page you requested. We this traffic data to help diagnose problems with its servers, analyze trends and administer the website. We may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.
+We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. Generally, registration is not required to use VectorHQ.com, but in order for you to use some services, such as adding icons to your favorite box, submitting new tags to icons, you must complete a registration form. As part of this registration form, we require select personal information (including your full name and e-mail address). We receive and store certain types of information whenever you interact with us. We receive and record certain "traffic data" on their server logs from your browser including your IP address, and the page you requested. We this traffic data to help diagnose problems with its servers, analyze trends and administer the website. We may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages. 
 
 ### E-mail Communications
 
@@ -18,7 +18,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ### Keeping Information Secure
 
-Your VectorHQ.com account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Only our staff who need personal information to perform a specific job are granted access to it. All of our staffs are kept up to date on our privacy and security practices.
+Your VectorHQ.com account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Only our staff who need personal information to perform a specific job are granted access to it. All of our staffs are kept up to date on our privacy and security practices. 
 
 ### Changes to this Privacy Policy
 
