@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sarawakenergy.com.my privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030754id_/http%3A//www.sarawakenergy.com.my/index.php/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarawakenergy.com.my privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613093222id_/http%3A//www.sarawakenergy.com.my/index.php/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy
 
