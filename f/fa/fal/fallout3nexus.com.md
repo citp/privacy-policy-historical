@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fallout3nexus.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123213641id_/http%3A//www.nexusmods.com/fallout3/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fallout3nexus.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613172815id_/http%3A//www.nexusmods.com/fallout3/about/privacy) for the most accurate reproduction.*
 
 # Fallout3 Nexus - mods and community
 
