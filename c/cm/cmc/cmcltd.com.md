@@ -1,31 +1,57 @@
-> *The following text is extracted and transformed from the cmcltd.com privacy policy that was archived on 2015-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150703155034id_/http%3A//www.cmcltd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcltd.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613145024id_/http%3A//www.cmcltd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CMC Limited
+# Privacy Policy for cmcltd.com
 
-CMC takes your privacy very seriously. You are advised to please read the Privacy Policy carefully. By accessing the services provided by CMC, you agree to the collection and use of your data by CMC in the manner provided in this Privacy Policy.  
- 
+This privacy policy for cmcltd.com has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.
 
-In general, you can visit CMC’ website without telling us who you are and without revealing any information about yourself. There are times, however, when we may need information from you.
+What personal information does CMC Limited collect from the people that visit cmcltd.com?
 
-CMC does not share personal information about you with non-affiliated companies except: (a) to provide products or services you've requested; (b) when we have your permission: or (c) under the following circumstances:
+When ordering or registering on our site, as appropriate, you may be asked to enter your email address or other details to help you with your experience.
 
-Providing the information to trusted partners who work on behalf of or with CMC under strict confidentiality agreements. These companies may use your personal information to help CMC communicate with you about offers from CMC and our marketing partners. However, these companies do not have any independent right to share this information.
+How does cmcltd.com use your information?
 
-Responding to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+cmcltd.com may use the information collected from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-If we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
+  * To send periodic emails regarding your order or other products and services.
 
-Transferring information about you if CMC is acquired by or merged with another company.
 
-You may choose to give us personal information, such as your name and address or e-mail id that may be needed, for example, to correspond with you, to provide you with business information, to download our white papers or to provide you with a subscription. If you tell us that you do not want us to use this information as a basis for further contact with you, we will respect your wishes. We intend to protect the quality and integrity of your personally identifiable information.
 
-We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies in your personal information please return the message containing the inaccuracies to the sender with details of the correction requested.
+cmcltd.com does not use an SSL certificate. cmcltd.com only provides articles and information.
 
- **Cookies and other  **
+Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, cmcltd.com uses cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.
 
-We sometimes collect anonymous information from visits to our sites to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on CMC web site, but we do so in ways that keep the information anonymous. CMC or its affiliates or vendors may use this data to analyze trends and statistics and to help us provide better customer service. We maintain the highest levels of confidentiality for this information, our affiliates and vendors follow the same high levels of confidentiality. This anonymous information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your transaction details used in this manner, you can either disable your cookies or opt-out at the download or request page.
+cmcltd.com uses cookies to:
 
- **Anti spam policy**  
-CMC recognizes the receipt, transmission or distribution of spam emails (unsolicited bulk emails) as a major concern and has taken reasonable measures, to minimize the transmission and effect of spam emails in its computing environment. All emails received by CMC, are subject to spam check. Any email identified as spam will be rejected with sufficient information to the Sender for taking necessary action. With this measure, along with other technical spam reduction measures, CMC hopes to minimize the effect of spam emails. CMC reserves the right to reject and/or report any suspicious spam emails, to the authorities concerned, for necessary action, from time to time
+  * Understand and save user's preferences for future visits.
 
-Please note that this Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent. We will post any Policy changes on this page. We will also keep prior versions of this Policy in an archive for your review.
+
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies.
+
+Third-party disclosure
+
+cmcltd.com does not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+
+COPPA (Children Online Privacy Protection Act)
+
+cmcltd.com does not specifically market to children under 13.
+
+Fair Information Practices
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+cmcltd.com also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law.
+
+CAN SPAM Act
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+To be in accordance with CANSPAM cmcltd.com agrees to the following:
+
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Monitor third-party email marketing services for compliance, if one is used.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
+
