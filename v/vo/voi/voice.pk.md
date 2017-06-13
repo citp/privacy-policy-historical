@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072311id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voice.pk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613203645id_/http%3A//www.voice.pk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Voice of Pakistan
+# Privacy Policy - Voice.pk
 
 This privacy statement discloses the privacy practices for all pages and services offered by **Voice.PK (Voice of Pakistan)**
 
@@ -36,4 +36,4 @@ Our web sites contain links to other sites.  **Voice.PK (Voice of Pakistan)** i
 
 Mostly News, Articles and Images are not under our copyrights, these belong to their respective owners. News, Images and Articles have been taken from different sources, If anything is offensive or under your Copyrights then please E-mail us at admin@voice.pk to get it removed.
 
-Note: This Page can get updated any time, without an prior noitce, so keep checking back.
+Note: This Page can get updated any time, without an prior notice, so keep checking back.
