@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinevault.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225214008id_/http%3A//www.onlinevault.com/Legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinevault.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613151244id_/http%3A//www.onlinevault.com/Legal/Privacy.aspx) for the most accurate reproduction.*
 
 # Online Backup, Data Storage and Data Protection with Online Vault
 
