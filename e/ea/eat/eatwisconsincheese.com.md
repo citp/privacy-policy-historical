@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211001736id_/http%3A//www.eatwisconsincheese.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatwisconsincheese.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613034809id_/http%3A//www.eatwisconsincheese.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eat Wisconsin Cheese
 
 ## INTRODUCTION
 
-The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com (previously named WisDairy.com), AmericasDairyland.com (previously named DairyDoingMore.org), EatCurds.com, WMMB.com, WisconsinDairyCouncil.com, WisconsinCheeseRetail.com and WisconsinCheeseFoodservice.com.
+The policies below are intended to clearly inform our users about our privacy practices and procedures and are applicable to EatWisconsinCheese.com (previously named WisDairy.com), AmericasDairyland.com (previously named DairyDoingMore.org), EatCurds.com, DairyDaysofSummer.com, WMMB.com, WisconsinDairyCouncil.com, WisconsinCheeseRetail.com and WisconsinCheeseFoodservice.com.
 
 As part of the registration, operation and customization features of EatWisconsinCheese.com, we gather certain types of information from users. We would like to explain the types of information we gather, what we do with them, and how to correct or change the information. Please review this privacy policy when you enter the website to keep aware of any policy changes.
 
