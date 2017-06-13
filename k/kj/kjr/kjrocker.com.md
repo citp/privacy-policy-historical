@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kjrocker.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005162537id_/http%3A//www.kjrocker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kjrocker.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613192547id_/http%3A//www.kjrocker.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
