@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyautoparts.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyautoparts.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613162024id_/http%3A//www.buyautoparts.com/policies.htm) for the most accurate reproduction.*
 
 # Buy Auto Parts Policies and Terms of Use
 
@@ -8,11 +8,11 @@
 
 ## Core Returns Policy
 
-We will return the core deposit of every customer except in cases, when the part is visibly damaged, when the core is incomplete, or the wrong core is returned. You must return the cores within 90 days of purchase for full credit. For more information please visit our [Core Returns](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/core-returns.htm) Page. We guarantee all good cores will be refunded within two weeks of receiving the core. If you have waited for a long time and have not received any information about the core credits, you can [contact us](http://www.buyautoparts.com/contactus.htm).
+We will return the core deposit of every customer except in cases, when the part is visibly damaged, when the core is incomplete, or the wrong core is returned. You must return the cores within 90 days of purchase for full credit. For more information please visit our [Core Returns](https://web.archive.org/web/20170613162024id_/http%3A//www.buyautoparts.com/core-returns.htm) Page. We guarantee all good cores will be refunded within two weeks of receiving the core. If you have waited for a long time and have not received any information about the core credits, you can [contact us](http://www.buyautoparts.com/contactus.htm).
 
 ## Payment and Security Policy
 
-We accept Visa, MasterCard, American Express & Discover. Our site utilizes full 128 bit encryption to protect you. For more information please visit our [Payment and Security](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/security.htm) Page.
+We accept Visa, MasterCard, American Express & Discover. Our site utilizes full 128 bit encryption to protect you. For more information please visit our [Payment and Security](https://web.archive.org/web/20170613162024id_/http%3A//www.buyautoparts.com/security.htm) Page.
 
 ## Price Matching Policy
 
@@ -55,15 +55,17 @@ BuyAutoParts.com offers a full warranty on all parts sold unless otherwise noted
 
 ## Shipping Policy
 
-We give free UPS ground shipping on all orders over $50.  Need the Part Quicker? We also have great pricing on UPS Next Day, Second Day Air, and 3 Day Express. We use a nationwide network of warehouses to process your orders and deliver the  parts quickly. For more information please visit our [Shipping Policy](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/shipping.htm) page. 
+We give free UPS ground shipping on all orders over $99.  Need the Part Quicker? We also have great pricing on UPS Next Day, Second Day Air, and 3 Day Express. We use a nationwide network of warehouses to process your orders and deliver the  parts quickly. For more information please visit our [Shipping Policy](https://web.archive.org/web/20170613162024id_/http%3A//www.buyautoparts.com/shipping.htm) page. 
 
 ## International Policy
 
-BuyAutoParts.com also ships to international locations. Depending on location, we accept major credit cards and wire transfers as international payment options. We use DHL Express for international shipping.  For more information please visit our [International Policy](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/international.htm) Page.
+BuyAutoParts.com also ships to international locations. Depending on location, we accept major credit cards and wire transfers as international payment options. We use DHL Express for international shipping.  For more information please visit our [International Policy](https://web.archive.org/web/20170613162024id_/http%3A//www.buyautoparts.com/international.htm) Page.
+
+We are happy to ship worldwide. Our shipping service is fast and professional, and includes tracking. International customers are responsible for any and all taxes, duties, or other additional fees associated with the delivery. We are not able to send international packages marked as a gift, or with any stated value other than the actual invoice value of the package. All the parts we sell are designed for use on vehicles originally sold in the USA. We cannot guarantee correct fitment for any part outside the USA. We are happy to help you confirm fitment, and verify your part numbers before you purchase. If you have any questions, please contact us. We have happy customers in nearly every country in the world.
 
 ## Tax Policy
 
-All orders shipped to California addresses have 8% tax and all other orders are tax exempt. Dealers and auto professionals with reseller tax ID's see [dealers](https://web.archive.org/web/20161121120500id_/http%3A//www.buyautoparts.com/dealers.htm) page, or contact us via email or phone 1-800-241-3197.
+All orders shipped to California addresses have 8% tax and all other orders are tax exempt. Dealers and auto professionals with reseller tax ID's see [dealers](https://web.archive.org/web/20170613162024id_/http%3A//www.buyautoparts.com/dealers.htm) page, or contact us via email or phone 1-800-241-3197.
 
 ## Privacy Policy
 
