@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627100534id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613180631id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Holiday Extras - privacy policy | How we use your information
 
@@ -54,7 +54,8 @@ We use information held about you in the following ways:
 
   * to enable the provision of the products and services you have requested;
   * to provide services tailored to your requirements, for example, to send you messages and information that we consider relevant and of interest to you, either prior to, during or after your travel and to personalise the products and services on our website or other sales channels;
-  * to deliver service information about the products and services you have booked or in relation to your travel plans; to contact you for your views on our products and services;
+  * to deliver service information about the products and services you have booked or in relation to your travel plans; 
+  * to contact you for your views on our products and services;
 
 
 
@@ -65,7 +66,7 @@ We use information held about you in the following ways:
   * to ensure that content on our websites, mobile apps, search engines and third party sites is presented in the most effective manner for you and for your computer; 
   * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
   * to make suggestions and recommendations to you and other users of our site about products and services that may interest you or them;
-  * If you find that you’d rather not have any contact with us, apart from that which is necessary for us to give you our normal level of service please unsubscribe here <http://www.holidayextras.co.uk/unsubscribe-preferences.html>.
+  * If you find that you’d rather not have any contact with us, apart from that which is necessary for us to give you our normal level of service, please unsubscribe by following the link on any of our emails.
 
 
 
