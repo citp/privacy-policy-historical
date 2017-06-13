@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifemartini.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212191057id_/http%3A//www.lifemartini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifemartini.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613154409id_/http%3A//www.lifemartini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DIY Life Martini
 
@@ -94,5 +94,4 @@ We use third-party advertising companies to serve ads when you visit or use our 
 
 7\. UPDATES / CHANGES
 
-The internet is an ever evolving medium. We may alter our privacy policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point of time) the terms of this Privacy Policy or the Terms of Use. Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the “Application”. Your use of the Application or Services after such notice will be deemed acceptance of such changes. We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Privacy Policy periodically on the “Application”) to ensure that you are aware of the latest version.  
-
+The internet is an ever evolving medium. We may alter our privacy policy from time to time to incorporate necessary changes in technology, applicable law or any other variant. In any case, we reserve the right to change (at any point of time) the terms of this Privacy Policy or the Terms of Use. Any changes we make will be effective immediately on notice, which we may give by posting the new policy on the “Application”. Your use of the Application or Services after such notice will be deemed acceptance of such changes. We may also make reasonable efforts to inform you via electronic mail. In any case, you are advised to review this Privacy Policy periodically on the “Application”) to ensure that you are aware of the latest version.
