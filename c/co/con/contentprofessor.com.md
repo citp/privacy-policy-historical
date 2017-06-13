@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentprofessor.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216150541id_/http%3A//contentprofessor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentprofessor.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613092113id_/http%3A//contentprofessor.com/privacy.html) for the most accurate reproduction.*
 
 # Content Professor - Better Articles. Better Results.
 
@@ -70,10 +70,8 @@ This policy was last modified on August 16, 2010
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.ludovichelpdesk.com  
-P.O Box 110123  
-Cambria Heights, New York 11411  
-United States  
-support@ludovichelpdesk..com 
+http://www.manincloud.com
 
-**For Questions, Help and Support, visit:  [www.LudovicHelpDesk.com](http://www.contentprofessor.com/ludovichelpdesk.zendesk.com) **or ludovichelpdesk.zendesk.com 
+help@manincloud.com 
+
+**For Questions, Help and Support, visit:  [www.manincloud.com](https://www.manincloud.com/) **or manincloud.zendesk.com 
