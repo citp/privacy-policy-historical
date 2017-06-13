@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babestare.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315113911id_/http%3A//www.babestare.com/%3Fread%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babestare.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613174340id_/http%3A//www.babestare.com/%3Fread%3Dprivacy) for the most accurate reproduction.*
 
 # Naked babes, gorgeous hot babes, naked pussy pictures | Babe Stare
 
