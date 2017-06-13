@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207190356id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticshowto.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613164336id_/http%3A//www.statisticshowto.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Statistics How To
 
