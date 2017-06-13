@@ -1,67 +1,218 @@
-> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630103846id_/http%3A//www.arthritisresearchuk.org/footer/our-privacy-and-cookies-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613042043id_/http%3A//www.arthritisresearchuk.org/footer/our-privacy-and-cookies-policy.aspx) for the most accurate reproduction.*
 
 # Our privacy and cookies policy | Arthritis Research UK
 
-## Privacy policy
+Arthritis Research UK is committed to protecting and respecting your privacy and personal information. This policy (together with our [terms of use ](http://www.arthritisresearchuk.org/footer/terms-and-conditions.aspx)and our [cookies policy](http://www.arthritisresearchuk.org/footer/our-cookies-policy.aspx)) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. 
 
-At Arthritis Research UK we are committed to protecting your privacy. This policy is made in the light of the requirements of the Data Protection Act 1998.
+Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it, and your options to tell us what you would like us to do with your personal information. 
 
-If you have any questions about the policy, please write to us at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or by email [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
+Any questions regarding this policy should be addressed to the supporter care team, details at the bottom of this page. 
 
-## How do we collect information?
+By using our site or any of our services or providing us with any personal information you are accepting and consenting to your personal information being used as described in this policy. 
 
-We will obtain personal information from you when you enquire about our activities, register with us, request an e-newsletter, make a donation to us or otherwise provide us with personal information.
+## Who we are 
 
-## What information do we collect?
+We are Arthritis Research UK, registered charity number 207711 in England and Wales and SC041156 in Scotland. We invest in breakthrough treatments, the best information and vital support for everyone affected by arthritis. We are a registered company in England and Wales number 490500 and our registered address is Copeman House, St Marys Court, Chesterfield S41 7TD. 
 
-The types of information collected might include names, date of birth, e-mail address, postal address, telephone number, fax number and credit/debit card details and, if you consent, some sensitive data.
+Arthritis Research UK Trading Limited is a registered company in England and Wales number 891517 and is a wholly owned subsidiary of Arthritis Research UK which trades on our behalf. In this policy, “we” means both Arthritis Research UK and our subsidiary. 
 
-## How do we use this information?
+## Information we collect from you 
 
-We will use your personal information to provide you with the services, products or information you have requested, for administration purposes and, if you have given consent, for fundraising purposes.
+We will collect and process the following data about you: 
 
-We will not sell or swap your details with any third parties but we may share your information with our service providers, agents and associated organisations authorised to act on our behalf to provide the services you have requested.
+### Information you give us 
 
-For instance, when you order literature, buy goods or donate, we may need to pass your information to companies who provide warehousing, mailing, order processing, payment processing and other services for us. However they can only use your information to deliver those services.
+This is information about you that you give us by filling in forms on our site www.arthritisresearchuk.org (“ **our site** ”) or by contacting the helpline or otherwise corresponding with us by phone, e-mail or otherwise. It includes information you provide when you register to use our site, place an order on our site, make a donation to us, participate in a discussion with the Arthritis Virtual Assistant, enter a competition, promotion or survey, take part in our campaign activity, and when you report a problem with our site. The information you give us may include your name, address, e-mail address and phone number, financial, banking and credit card information, as well as sensitive personal data where you volunteer this (see below). 
 
-We will not share your personal information with third parties or used in any other way other than described in this policy, unless required by law.
+#### Arthritis Virtual Assistant
 
-You can change your mind at any time by contacting Supporter Services at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
+We will collect and process all of the information that you give us, as well as the responses given by the Arthritis Virtual Assistant. This may include sensitive personal data where you volunteer this information (see below). 
 
-## Sensitive data
+### Information we collect about you
 
-Under the Data Protection Act 1998 any data about an individual’s physical health condition is called sensitive data. The Data Protection Act 1998 requires that we obtain your ‘explicit consent’ to collect such sensitive data. We therefore ask you to tick a box to indicate your consent.
+We collect information about the services you use and how you use them, like when you visit our websites or view and interact with our ads and content, download or order our products.
 
-Your sensitive data will be used only for the following purposes: to enable our employees to provide you with information and services appropriate to your interests and preferences, or to enable contracted service providers to provide you with services relating to our communications with you.
+### Information we receive from other sources
 
-We sometimes aggregate statistics about our supporters, donors and customers to enable us to operate more effectively, but these statistics do not include information from which individuals can be identified.
+This can include information such as your name, postal address, email address, phone number, your geographic location, credit/debit card details and whether you are a tax payer so that we can claim Gift Aid.  We are able to confirm what browser you are using, IP address and computer operating systems that are being used and this information may be used to improve the services we offer. 
 
-## Do we use ‘cookies’?
+### Website users 
 
-‘Cookies’ are small pieces of information sent by a web server to a web browser, enabling the server to collect information from the browser. Typically this takes the form of a small text file deposited on your computer’s hard drive.
+We use cookies and other tracking technologies to ensure that our site works well and to monitor how people use it. We use this information to provide the services and content that you want and to improve the way that our site works. Where possible we use aggregated or anonymous information which does not identify individual visitors. In addition, if you register on our website: 
 
-Arthritis Research UK uses cookies to ensure that you can interact with our website successfully, to identify you when you visit our website and to keep track of your activity patterns. The use of cookies does not give us access to the rest of your computer.
+  * You will no longer be anonymous when you log in and browse our site, and you will remain logged in for 20 minutes from when you last access a page, or until you log out; 
 
-If you want to prevent our cookies being stored on your computer in future, you may do so by referring to your internet browser’s instructions. You can do this by clicking on the “Help” menu. Please note however that if you disable our cookies you may not be able to access certain services or facilities on our website and your use of our site may be restricted.
 
-## How do we protect personal information?
+  * We collect and retain information about your shopping cart and transactions with us so that we can process these and deal with future queries. We also collect and store your favourite content, if you want to, so that you can quickly access it again. 
 
-We use a secure server when you make a donation via our website. We also take appropriate measures to ensure that all the information disclosed to us is kept secure, accurate and up to date and kept only for so long as is necessary for the purposes for which it is given.
 
-Unfortunately, no data transmission over the Internet is 100% secure. While we make every reasonable effort to ensure that information sent to us is done so securely, we cannot warrant the security of information transmitted to us through the internet. When you transmit information to us via the internet, you do so at your own risk.
 
-## Will we disclose the information we collect to outside parties?
+### Debit and credit card information
 
-As indicated above, we may pass your information to our service providers, agents and associated organisations, providing these organisations have satisfied our criteria for information security and data protection. We may need to disclose your information if required to do so by law.
+If you use a debit or credit card to donate to us or buy something online or over the phone, we will ensure that this is done securely in line with the [PCI DSS standards](https://www.pcisecuritystandards.org/pci_security/ "www.pcisecuritystandards.org \(opens in a new window\)")  by us or our contracted suppliers. All credit and debit card details are securely destroyed once the payment or donation has been processed. 
 
-## How can I access and update my information held by Arthritis Research UK?
+### Sensitive personal data
 
-If your personal details change, please help us to keep your information up to date by notifying us at: Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD.
+A full definition of this is available on the [Information Commissioners website](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/#personal-data "ico.org.uk \(opens in a new window\)")  but this is most likely to be information relating to your health or a medical condition.When you contact the helpline or the Arthritis Virtual Assistant it is likely we will require such information so we can provide an accurate response. In these cases we will record calls for training and quality purposes, and will delete these records after 7 months. We will also give you the option to have the information stored for future records and for statistical analysis. If you contact the helpline by email and post then any data you provide will be processed and recorded automatically but you can request its removal from our records. 
 
-Arthritis Research UK will correct or remove information it holds about you which you tell us is inaccurate.
+We do not normally collect or process “sensitive personal data” for other purposes without a clear reason for doing so and you are informed and consent to this at the time. You do not need to provide us with information relating to your health to access our services or content, but if you do then we cannot automatically remove this from our records so we may collect and store it but only as part of providing that service or content to you and thereafter for our internal records. You may request we remove sensitive data by contacting the supporter care team, details at the bottom of this page.
 
-Under the Data Protection Act 1998 you have the right to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. Such requests need to be made in writing to the address above.
+## Cookies and tracking technologies 
 
-## Changes to this privacy statement
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. In addition, we and our service providers use technology such as pixel tags and web beacons to track and improve your user experience on our site and to monitor the effectiveness of campaigns and digital marketing activities. 
 
-Despite any changes we make to this privacy statement we will always use your personal data for the purposes we outline in this privacy statement unless you give your express consent for us to do otherwise, and in accordance with the Data Protection Act 1998.
+For detailed information on the cookies and tracking technologies we use and the purposes for which we use them see our [cookies policy](http://www.arthritisresearchuk.org/footer/our-cookies-policy.aspx). 
+
+## How we may use your information
+
+We use information held about you in the following ways: 
+
+  * to respond to contact requests through the helpline, providing information and advice to help you live with arthritis every day
+
+
+  * to provide you with the content, products and services that you request from us, including to fulfil and sales contracts you have entered into 
+
+
+  * to provide you with information about other content, products and services we offer that may be suitable for you, where you have consented to be contacted 
+
+
+  * to provide you with important updates to any content, products and services that you have received from us, even where you have not consented to be contacted 
+
+
+  * to process donations from you 
+
+
+  * to fundraise and to send you marketing materials (see below) 
+
+
+  * to invite you to participate in surveys and research activity 
+
+
+  * to invite you to take part in our campaigning activity (e.g. to contact your local MP about an important issue) 
+
+
+  * to keep records of contacts for future reference if you contact us again
+
+
+  * for internal record keeping, including the management of any feedback or complaints 
+
+
+  * for administration purposes in connection with any of the other purposes detailed (e.g. about a donation you have made) 
+
+
+  * to allow you to participate in interactive features of our service, when you choose to do so (e.g. the Arthritis Virtual Assistant) 
+
+
+  * to improve the effectiveness and relevance of our communications and contact with you
+
+
+  * to determine what other content, products and services may be suitable for you and other users and to personalise our site and content for you 
+
+
+  * to analyse the personal information we hold about you and include publicly available information to create a profile of your interests, preferences and level of potential donations so that we can tailor our communications with you to contact you with the most relevant information in the most appropriate way 
+
+
+  * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes 
+
+
+  * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you 
+
+
+  * to evaluate the effectiveness of our services
+
+
+  * to record telephone conversations for training and quality assurance
+
+
+  * to identify your approximate location, to block disruptive or unauthorised use, to record or limit traffic, and improve our site to ensure that content is presented in the most effective manner for you and for your computer 
+
+
+  * where it is required or authorised by law or for fraud prevention or anti-money laundering purposes or safeguarding purposes. 
+
+
+
+## Marketing materials 
+
+We only want to contact people who want to hear from us in the ways that they want to hear from us. If you have given us your consent to contact you, we may contact you for marketing purposes by email, telephone and text message. If you subscribe to our emails or online magazine, you also allow us to email you for marketing and advertising targeting. We may also contact you by email or telephone or text message for service delivery purposes (e.g. where you place an order on our site or where you make a donation). 
+
+If you have provided us with your postal address then we may send you direct mail for fundraising, campaigning or research unless you have told us that you would prefer not to hear from us in this way. 
+
+You control what we contact you about and by what method. You can opt-out from receiving email marketing using the “unsubscribe” link on all of our marketing emails. You have the right to ask us not to process your personal information for marketing purposes and you can change any of your contact preferences at any time, including telling us that you do not want us to contact you in future. To do this, or to talk to us about your options, please contact our supporter care team, the details at the bottom of this page. 
+
+We will not use your information for marketing purposes if you have told us not to. However, we will retain your details on a suppression list to help ensure that we do not continue to contact you in future. 
+
+## Arthritis Virtual Assistant
+
+### Background and processing 
+
+The Arthritis Virtual Assistant is our interactive advisor which utilises the IBM Watson Cognitive Computing platform to answer your questions. It will use the information you give it to answer your questions and learn how to better answer questions in the future. IBM has a privacy policy available at [www.ibm.com/privacy/us/en/](http://www.ibm.com/privacy/us/en/ "www.ibm.com") 
+
+### Transfer out of the EEA and further processing 
+
+The Arthritis Virtual Assistant does not need your personal information and will only ask for your name. The Arthritis Virtual Assistant will not treat your conversations as personal data and you must not provide the Arthritis Virtual Assistant with any other personal information which may be used to identify you, for example your address, NHS number, bank details etc. Any information which you tell the Arthritis Virtual Assistant, including and personal information or sensitive personal information, will be transferred to the IBM Watson platform based in the United States of America (USA). 
+
+The Arthritis Virtual Assistant will store the information you give it in the USA for up to 30 days. It will also transfer all conversations to our servers located in the United Kingdom so that we can analyse the conversations and enable it to give better answers. We will store this information for up to 12 months. 
+
+### Your consent 
+
+By using the Arthritis Virtual Assistant you understand that this information will be available to us and if you provide personal information or sensitive personal data you consent to us collecting storing and processing this as described in this section, including transferring this outside of the EEA. 
+
+### Additional support 
+
+At the end of the conversation with the Arthritis Virtual Assistant, you may have the option to provide us with personal information so that we can link your conversation to your profile. We will ask to do this only so that we can follow up your conversation and provide you with a better service overall. We will only create this link if you tell us that we can. 
+
+This link will only take place on our servers based in the United Kingdom. Your personal information and sensitive personal data will be stored securely in line with the rest of this privacy policy. 
+
+## Arthritis Research UK Helpline
+
+### Your consent
+
+By contacting the helpline and providing us with personal and sensitive data you understand that this information will be available to us and you consent to us collecting storing and processing this as described in this section.
+
+### Sharing with BUPA
+
+The helpline team may pass your information to BUPA so their specialist clinicians can help us assess your query. We will inform you when we consult with BUPA clinicians. Where information, including sensitive data is passed to BUPA, they will store it for a period of 7 years, with limited access only to clinicians and appropriate persons. Read our [BUPA privacy policy](https://www.bupa.co.uk/legal-notices/privacy-and-cookies "www.bupa.co.uk \(opens in a new window\)").
+
+## Sharing or disclosing your information 
+
+We may share your personal information with our trading subsidiaries, suppliers or service providers to provide the products or services you've requested from us. 
+
+We may share your information with our data processors. This includes our trusted partners that work with us to achieve our charitable purposes, and other entities that act as fundraisers for us, sell our products services or provide our content and marketing (subject to your communication preferences). We have contracts with all our data processors and require them to comply strictly with our instructions and data protection laws and we regularly monitor their activities to ensure they are complying with our policies and procedures. 
+
+We will never share, sell or swap your details with any third parties for the purposes of their own marketing or to make money from your personal information. 
+
+We may disclose your personal information if we are under a duty to disclose your personal information in order to comply with any legal obligation (for example to government bodies and law enforcement agencies), or in order to enforce or apply our rights (including in relation to our website or other applicable terms and conditions) or to protect Arthritis Research UK. 
+
+## Where we store your personal information 
+
+Your personal information may be transferred to, and stored at, a destination outside the European Economic Area ("EEA") and may be processed by staff operating outside the EEA who work for us or for one of our suppliers. We will ensure that your information is held in compliance with the European data protection regulations. By giving us personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
+
+The transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use appropriate procedures and security features to try to prevent unauthorised access. 
+
+## How long we store your personal information 
+
+We keep records for as long as is required in accordance with legal requirements and tax and accounting rules. Where your information is no longer required, we will ensure that it is disposed of in a secure manner. For example, if you send us information in paper format, we may scan this and securely destroy the paper copy. 
+
+## Your information rights 
+
+You can edit your account information, including your address and contact details at any time through your account on our site. If you would like to change your preferences or update the details we hold about you other than online, please contact our supporter care team, details below. 
+
+Under the Data Protection Act 1998 you have a right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. Please address requests to the supporter care team, details below. Please provide as much information as possible about the nature of your contact with us to help us locate your records. We may require you to prove your identity and reserve the right to charge a fee of £10 for this process. 
+
+## Changes to our privacy policy 
+
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. 
+
+## Contact 
+
+For all questions regarding this privacy policy or to change your contact preferences please speak to our supporter care team: 
+
+  * by mail to: Supporter Care, Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD 
+
+
+  * by email to: [digital@arthritisresearchuk.org](mailto:digital@arthritisresearchuk.org?subject=Our%20privacy%20policy)
+
+
+  * by phone on: 0300 790 040. 
+
+
