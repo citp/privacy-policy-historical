@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203230945id_/http%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecannabist.co privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613032909id_/http%3A//www.denverpost.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Denver Post
 
@@ -40,7 +40,7 @@ The Newspaper in Education program is a free service for teachers that promotes 
 
 DenverPost.com reserves the right to change this policy at any time. Please check this page periodically for changes. (The most recent change was made on Aug. 7, 2009.)
 
-**For terms of use, please click[here](http://www.denverpost.com/termsofuse/).**>
+**For terms of use, please click[here](http://www.denverpost.com/terms-of-use/).**>
 
 If you have any questions about this privacy policy, you can contact us at:
 
