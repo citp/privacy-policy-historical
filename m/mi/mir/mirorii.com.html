@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the mirorii.com privacy policy that was archived on 2016-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161201031825id_/http%3A//mirorii.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mirorii.com privacy policy that was archived on 2017-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170613055807id_/http%3A//mirorii.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="fr"><head>
 	<meta charset="UTF-8">
 	<!-- Désactivation du code pour SEO manuel -->
-	<!-- <title>Mirorii - Multi Upload - Распространите ваши файлы в один клик</title> -->
+	<!-- <title>Mirorii - Multi Upload - Mirror your files in one click</title> -->
 	<title>Mirorrii - Envoyer en multi upload sur 36 hosts...</title>
             <meta name="Keywords" content="envoyer des fichiers,multi upload,hosts,1fichier.com,depositfiles,zippyshare">
             <meta name="Description" content="Mirorii est un service de partage de fichiers Multi Upload, permettant de distribuer ses fichiers sur diff�rentes plateformes de stockage telles que 1fichier.com, Uploaded, Mediafire, Depositfiles, zippyshare et bien plus...">
@@ -67,7 +67,7 @@
 			</button>
 			<ul class="nav">
 				<li class="flag">					
-					<a href="http://mirorii.com/change_lang?lang=russian" class="select-russian"><img src="http://mirorii.com/img/flag-russian.jpg" alt="Language Flags"></a>
+					<a href="http://mirorii.com/change_lang?lang=english" class="select-english"><img src="http://mirorii.com/img/flag-english.jpg" alt="Language Flags"></a>
 					<a href="http://mirorii.com/change_lang?lang=english" class="english" title="English"><img src="http://mirorii.com/img/flag-english.jpg" alt="English"></a>
 					<a href="http://mirorii.com/change_lang?lang=french" class="french" title="French"><img src="http://mirorii.com/img/flag-french.jpg" alt="Français"></a>
 					<a href="http://mirorii.com/change_lang?lang=german" class="german" title="German"><img src="http://mirorii.com/img/flag-german.jpg" alt="German"></a>
@@ -76,8 +76,8 @@
 
 		
 			
-				<li class="border"><a href="#inscription" id="lightbox">Регистрация</a></li>
-				<li><a href="#connexion" id="lightbox">Вход</a></li>
+				<li class="border"><a href="#inscription" id="lightbox">Register</a></li>
+				<li><a href="#connexion" id="lightbox">Login</a></li>
 			
 			
 
@@ -158,44 +158,44 @@ may contact us at contact.mirorii@gmail.com<br>
 
 	
 	<div id="connexion" class="lightbox">
-		<p class="title">Вход</p>
+		<p class="title">Login</p>
 
 		<form method="POST" onsubmit="return CheckForm(this)" action="http://mirorii.com/login">	
 			<input type="hidden" name="q" value="login_reg">
 			<input type="text" class="input2" name="usr_login" placeholder="Username">
-			<input type="password" class="input2" name="usr_password" placeholder="Пароль">
+			<input type="password" class="input2" name="usr_password" placeholder="Password">
 			<input type="submit" class="submit2" value="Valider">
 		</form>
 
-		<a href="http://mirorii.com/forgot_pass" class="forgetpwd">Забыли пароль?</a>
+		<a href="http://mirorii.com/forgot_pass" class="forgetpwd">Forgot password?</a>
 	</div>
 
 <script type="text/javascript">
 function  CheckForm(f)
 {
     var err=Array();
-    if(f.usr_password.value.length<5)err.push("* Пароль должен быть не менее 5 символов");
-    if(f.usr_password.value.length>32)err.push("* Пароль должен быть не более 32 символов");
-    if(err.length>0){alert( 'Исправьте следующие ошибки:\n\n'+err.join('\n') );return false;}
+    if(f.usr_password.value.length<5)err.push("* Password should be 5 chars min");
+    if(f.usr_password.value.length>32)err.push("* Password should be 32 chars max");
+    if(err.length>0){alert( 'Please fix the errors below:\n\n'+err.join('\n') );return false;}
 }
 </script>
 
 
 	<div id="inscription" class="lightbox">
-		<p class="title">Регистрация пользователя</p>
+		<p class="title">User Registration</p>
 
 		<form method="POST" onsubmit="return CheckForm(this)" action="http://mirorii.com/register_save">
 			<input type="hidden" name="rand" value="">
 			<input type="hidden" name="next" value="">
-			<input type="text" class="input2" name="usr_login" placeholder="Имя пользователя">
+			<input type="text" class="input2" name="usr_login" placeholder="Username">
 			<input type="text" class="input2" name="usr_email" placeholder="E-mail">
-			<input type="password" class="input2" name="usr_password" placeholder="Пароль">
-			<input type="password" class="input2" name="usr_password2" placeholder="Повторите пароль">
+			<input type="password" class="input2" name="usr_password" placeholder="Password">
+			<input type="password" class="input2" name="usr_password2" placeholder="Retype Password">
 
 		
 
 
-			<input type="submit" class="submit2" value="Послать">
+			<input type="submit" class="submit2" value="Submit">
 		</form>
 	</div>
 
@@ -203,14 +203,14 @@ function  CheckForm(f)
 	function  CheckForm(f)
 	{
 	    var err=Array();
-	    if(f.usr_login.value.length<4)err.push("* Логин должен быть длиной хотя бы 4 символа");
-	    if(f.usr_login.value.length>32)err.push("* Логин не должен быть длиннее 32 символов");
-	    if(!f.usr_login.value.match(/^([a-zA-Z0-9_\-])+$/))err.push("* Неправильный формат логина");
-	    if(f.usr_password.value.length<4)err.push("* Пароль должен быть не менее 5 символов");
-	    if(f.usr_password.value.length>32)err.push("* Пароль должен быть не более 32 символов");
+	    if(f.usr_login.value.length<4)err.push("* Login must be at least 4 letters long");
+	    if(f.usr_login.value.length>32)err.push("* Login must be less than 32 letters long");
+	    if(!f.usr_login.value.match(/^([a-zA-Z0-9_\-])+$/))err.push("* Invalid Login format");
+	    if(f.usr_password.value.length<4)err.push("* Password should be 5 chars min");
+	    if(f.usr_password.value.length>32)err.push("* Password should be 32 chars max");
 	    if( !f.usr_email.value.match(/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/) )err.push("* Valid e-mail required");
-	    if(f.usr_password.value.length!=f.usr_password2.value.length)err.push("* Пароли не совпадают");
-	    if(err.length>0){alert( 'Исправьте следующие ошибки:\n\n'+err.join('\n') );return false;}
+	    if(f.usr_password.value.length!=f.usr_password2.value.length)err.push("* Passwords do not match");
+	    if(err.length>0){alert( 'Please fix the errors below:\n\n'+err.join('\n') );return false;}
 	}
 	</script>
 	
