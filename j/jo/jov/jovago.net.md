@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jovago.net privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214105557id_/https%3A//www.jovago.net/en-gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jovago.net privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613234435id_/https%3A//www.jovago.net/en-gb/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jovago.net
+# Privacy Policy
 
 _Bookings:_ We use the information you give us to manage your bookings, and to share some of it with the accommodation provider so that they know who to expect.
 
