@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121214848id_/http%3A//www.commercialmotor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614012803id_/http%3A//www.commercialmotor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Commercial Motor
 
-[Commercialmotor.com](http://www.commercialmotor.com/) is owned and operated by Road Transport Media Ltd. Information we collect from users of the sites will be stored by us on computers in the UK and may be used in the following ways:
+[Commercialmotor.com](http://www.commercialmotor.com/) is owned and operated by DVV Media International Ltd. Information we collect from users of the sites will be stored by us on computers in the UK and may be used in the following ways:
 
 ### Contact details
 
-We will use your contact details (your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. These details will be used by us and by businesses within Road Transport Media and their associated companies to provide you with information about other services and products and may also be disclosed to third party businesses and advertisers for the same purpose.
+We will use your contact details (your name, job title, telephone and fax number and your e-mail and postal addresses) to provide any services requested by you and also to tell you about important changes to the site and its functionality. These details will be used by us and by businesses within DVV Media International and their associated companies to provide you with information about other services and products and may also be disclosed to third party businesses and advertisers for the same purpose.
 
 If you do not wish to be contacted for this purpose, please express your preferences by emailing us at [webteam@roadtransport.com](mailto:Webteam@roadtransport.com).
 
