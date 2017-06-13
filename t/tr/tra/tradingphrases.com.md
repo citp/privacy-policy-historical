@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingphrases.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914130808id_/http%3A//tradingphrases.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingphrases.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614003848id_/http%3A//tradingphrases.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement - Trading Phrases
 
