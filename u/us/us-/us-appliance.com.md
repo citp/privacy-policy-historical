@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128162632id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613211146id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
-  **Privacy Statement for US Appliance®** (last updated 03/07/2011) 
+  **Privacy Statement for US Appliance®**
 
 US Appliance has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: www.us-appliance.com, which is owned and operated by US Appliance. We do not share, sell, trade, or rent your personal information to third parties for any reasons except as outlined in this privacy policy. 
 
@@ -33,7 +33,9 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 We use third-party tracking services that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate, e.g., usage and volume statistics to measure advertising results.  
 We use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Third-Party Web Beacons: We use third-party web beacons to help analyze where visitors go and what they do while visiting our Web site. They may also use anonymous information about your visits to this and other Web sites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com) or by Google Analytics, [click here](http://www.google.com/privacy_ads.html). 
+Third-Party Web Beacons: We use third-party web beacons or similar technology to help analyze where visitors go and what they do while visiting our Web site. They may also use anonymous information about your visits to this and other Web sites in order to improve its products and services and provide advertisements about goods and services of interest to you. These beacons may collect information in connection with the Google Customer Reviews program and Google may receive information about transactions conducted on our site.
+
+If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://www.aabacosmallbusiness.com/privacy-policy) or by Google [click here](http://www.google.com/privacy_ads.html). 
 
 If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this web site, you can contact: 
 
