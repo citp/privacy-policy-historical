@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809081803id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyportalwatch.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613101023id_/http%3A//www.propertyportalwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Property Portal Watch
 
