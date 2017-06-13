@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipsonubuntu.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120060740id_/http%3A//tipsonubuntu.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipsonubuntu.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614015354id_/http%3A//tipsonubuntu.com/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Tips on Ubuntu
 
