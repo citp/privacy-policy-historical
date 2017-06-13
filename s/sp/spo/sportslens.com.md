@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportslens.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121073931id_/http%3A//sportslens.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportslens.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614013533id_/http%3A//sportslens.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Soccerlens
+# Privacy | Sportslens
 
 Soccerlens knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
