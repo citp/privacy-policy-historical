@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcorecloser.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225023606id_/http%3A//www.hardcorecloser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcorecloser.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613094547id_/http%3A//hardcorecloser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hardcore Closer - Sales Training For The Modern Marketplace
 
@@ -7,8 +7,6 @@ Hardcore Closer, LLC understands that your privacy is important to you. We are c
 **PERSONAL AND NON-PERSONAL INFORMATION**
 
 Our Privacy Policy identifies how we treat your personal and non-personal information.
-
-**SIGN UP FOR E-MAIL UPDATES AND GET A DIGITAL COPY OF MY LATEST BEST-SELLER 'ELEVATOR TO THE TOP' FREE!!!**
 
 **WHAT IS NON-PERSONAL INFORMATION AND HOW IS IT COLLECTED AND USED?**
 
