@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214024120id_/http%3A//www.universityrooms.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universityrooms.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613122642id_/http%3A//www.universityrooms.com/en/privacy) for the most accurate reproduction.*
 
 # Accommodation in University Colleges and Student Residences
 
 **Privacy Policy**
 
-This site is powered by SpeedyBooker, part of SpeedyBooker.com Ltd ( **We, Us, Our** ), which is committed to preserving the privacy of all visitors to Our websites and partner websites. By making a booking through this website, You consent to the collection, use and transfer of Your information under the terms of this policy.
+This site is powered by SpeedyBooker, part of SpeedyBooker.com Ltd ( **We, Us, Our** ), which is committed to preserving the privacy of all visitors to Our websites and partner websites. By visiting or making a booking through this website, You consent to the collection, use and transfer of Your information under the terms of this policy.
 
 **Cookies:**
 
