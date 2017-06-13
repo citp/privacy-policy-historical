@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121144839id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/207482929-Privacy-Policy-Data-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkpowders.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613085349id_/http%3A//help.bulkpowders.com/hc/en-gb/articles/207482929-Privacy-Policy-Data-Security) for the most accurate reproduction.*
 
 # Privacy Policy & Data Security – Help
 
@@ -50,7 +50,7 @@ We protect your privacy in several ways:
 
 
 
-If for any reason you are unsure about the personal and account information we are holding in your name, please contact us. We will happily review your file and update the records if required. You can call us on 01206 222 018 (Monday - Friday 9.00am to 6.00pm) or email us on [sales@bulkpowders.co.uk](mailto:sales@bulkpowders.co.uk).
+If for any reason you are unsure about the personal and account information we are holding in your name, please contact us. We will happily review your file and update the records if required. You can call us on 0800 085 2950 (Monday - Friday 8.00am to 8.00pm) or email us on [sales@bulkpowders.co.uk](mailto:sales@bulkpowders.co.uk).
 
 **Payment Security**
 
@@ -72,7 +72,7 @@ Do you have Trusted Shop (Internet Shopping is Safe) accreditation? You can shop
 
 Can I be removed from your mailing list?
 
-BULK POWDERS™ will send you special offers and promotions by post, email and SMS. If you do not want to receive offers and promotions by email, you can [unsubscribe](mailto:sales@bulkpowders.co.uk?subject=Email%20unsubscribe) here. Please remember it can take up to 21 days to fully remove you from our email mailing list so you may receive one or two more. If you do not want to receive offers and promotions by post or SMS, let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018 (Monday - Friday 9.00am to 6.00pm). Our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
+BULK POWDERS™ will send you special offers and promotions by post, email and SMS. If you do not want to receive offers and promotions by email, you can [unsubscribe](mailto:sales@bulkpowders.co.uk?subject=Email%20unsubscribe) here. Please remember it can take up to 21 days to fully remove you from our email mailing list so you may receive one or two more. If you do not want to receive offers and promotions by post or SMS, let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 0800 085 2950 (Monday - Friday 8.00am to 8.00pm). Our brochures are printed in advance so it can take up to eight weeks for the process to be complete and you may receive one further brochure.
 
 **Why did I receive your brochure when I didn't request it?**
 
@@ -81,19 +81,19 @@ We may have received your details from a third party company. If you do not wish
 
 **Can I go back on your Mailing List?**
 
-If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0844 736 4222 (Monday - Friday 9.00am to 6.00pm) or email us at sales@bulkpowders.com.
+If you have previously asked us not to send offers but have changed your mind please let us know by calling us on 0800 085 2950 (Monday - Friday 8.00am to 8.00pm) or email us at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk).
 
 **Will you pass my data on to third parties?**
 
 BULK POWDERS™ will never pass on your email address to a third party for marketing purposes. 
 
-From time to time we may send you details by post from companies whose products and services may be of interest to you. If you wish to opt-out of third party offers and promotions let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 01206 222 018. 
+From time to time we may send you details by post from companies whose products and services may be of interest to you. If you wish to opt-out of third party offers and promotions let us know at [sales@bulkpowders.com](mailto:sales@bulkpowders.co.uk) or by calling us on 0800 085 2950. 
 
 We respect your privacy and are committed to protect it.
 
 **About the company**
 
-BULK POWDERS™ is a trading name of Sports Supplements Ltd, a company registered in England & Wales under the Number 05654661.  The VAT number is GB877535868.  Any correspondence should be forwarded to: ** **
+BULK POWDERS™ is a trading name of Sports Supplements Ltd, a company registered in England & Wales under the Number 05654661.  The VAT number is GB 254 5648 84.  Any correspondence should be forwarded to: ** **
 
 Unit 1, Gunfleet Business Park **,** Brunel Way, Colchester, Essex CO4 9QX.
 
