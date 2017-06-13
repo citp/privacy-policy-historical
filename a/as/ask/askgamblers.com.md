@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602144138id_/http%3A//www.askgamblers.com/privacy-policy-p64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askgamblers.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613130540id_/https%3A//www.askgamblers.com/privacy-policy-p64) for the most accurate reproduction.*
 
 # AskGamblers - Privacy Policy
 
@@ -26,8 +26,8 @@ AskGamblers.com gives personal information, only with your permission, or under 
 
 #### Confidentiality
 
-  * AskGamblers.com limit access to personal information about users to employees who we believe reasonably need to come into contact with that information to provide services, in order to do their jobs.
-  * AskGamblers.com all required safeguards that act in accordance with with regulations to protect personal information.
+  * AskGamblers.com gives limited access to personal information about users to its employees who we believe reasonably need to come into contact with that information to provide services and do their jobs.
+  * AskGamblers.com obtains all required safeguards that act in accordance with regulations to protect personal information.
   * AskGamblers.com Account Information is completely password-protected.
 
 
@@ -41,7 +41,7 @@ AskGamblers.com gives personal information, only with your permission, or under 
 #### Content Condition
 
   * AskGamblers.com does not warrant that the content herein is accurate.
-  * Users responsibility is, to validate information before taking action on it.
+  * Users responsibility is, to validate information before taking action upon it.
   * AskGamblers.com reserves the right to adjust information contained within this site without prior notice.
   * Some services are subject to regulatory or other restrictions and are not available in all markets.
 
@@ -49,24 +49,24 @@ AskGamblers.com gives personal information, only with your permission, or under 
 
 #### Security
 
-  * AskGamblers.com has adequate security procedures in place in our physical IT facilities to protect against the loss, misuse or alteration of information that we have collected from users at our site.
+  * AskGamblers.com has adequate security procedures in place in our physical IT facilities to protect against the loss, misuse or alteration of information that we have collected from users on our site.
 
 
 
 #### Complaint Section
 
-  * AskGamblers.com does not give advises on how to solve problems between players and online gambling Companies.
-  * Our mission is to provide Fair Games within gambling industry.
-  * AskGamblers.com helps to establish good and quality communication between sides in order to finish all disputes as fast as possible.
-  * AskGamblers.com do not charge this process and any side cannot pay it. There is no money being processed through AskGamblers.com between Players or Companies regarding to Complaint section (feature).
+  * AskGamblers.com does not give advice on how to solve problems between players and online gambling companies.
+  * Our mission is to provide Fair Game within gambling industry.
+  * AskGamblers.com helps to establish good and quality communication between all parties in order to finish all disputes as fast as possible.
+  * AskGamblers.com do not charge this process. There is no money being processed through AskGamblers.com between players or companies in relation to the Complaint Section (feature).
 
 
 
 #### Submit your site
 
-  * The cost to submit your web site to be included in the AskGamblers list depends of chosen package.
-  * Once we have successfully received payment your web site will be reviewed and published to the AskGamblers list within 3 business days.
-  * If your site does not meet the above guidelines you will recieve a full Moneybookers (only) refund and your website will not be published to the list.
-  * All fees are added on top of current commission.
+  * The cost to submit your website to be included in the AskGamblers list depends on chosen package.
+  * Once we have successfully received payment your website will be reviewed and added to the AskGamblers list within 3 business days.
+  * If your site does not meet the above guidelines you will recieve a full Skrill (only) refund and your website will not be published.
+  * All fees are added on the top of the current commission.
 
 
