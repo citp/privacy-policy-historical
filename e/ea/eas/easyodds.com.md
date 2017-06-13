@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyodds.com privacy policy that was archived on 2014-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140917062636id_/https%3A//easyodds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyodds.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613233127id_/https%3A//easyodds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Easyodds.com
+# Privacy Policy | easyodds.com
 
 easyodds.com Limited is an service and information provider - it is not a betting company. The principle sports betting related web site owned by easyodds.com limited, namely [www.easyodds.com](http://www.easyodds.com/) as well the principle poker related web site, namely [www.pokerverdict.com](http://www.pokerverdict.com/) do not accept any form of wagers. Rather, they provide users with expert information and 'community' services and features.
 
@@ -92,12 +92,12 @@ By using this site, you consent to the collection and use of information by  **
 
 You have a legal right to a copy of all the personal information about you held by us. You also have a right to correct any errors in that information. As mentioned above, you have a right to prevent us using your personal information for direct marketing purposes.
 
-Please email any questions, concerns or comments you have about these policies to [info@easyodds.com](mailto:info@easyodds.com?subject=General%20Enquiry). Alternatively call us on freephone 0800 007 5020, or write to us at:
+Please email any questions, concerns or comments you have about these policies to [info@easyodds.com](mailto:info@easyodds.com?subject=General%20Enquiry). Alternatively call us on 0207 751 4479, or write to us at:
 
 **easyodds.com**  Limited  
-Fourth Floor  
-12 Great Newport Street  
+115 Design Centre East  
+Chelsea Harbour  
 London  
-WC2H 7JD
+SW10 0XF
 
-©  **easyodds.com**  Limited 2013
+©  **easyodds.com**  Limited 2016
