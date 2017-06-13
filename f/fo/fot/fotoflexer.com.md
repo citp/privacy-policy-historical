@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotoflexer.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010855id_/http%3A//fotoflexer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotoflexer.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613184102id_/http%3A//fotoflexer.com/privacy.php) for the most accurate reproduction.*
 
 # FotoFlexer - Privacy Policy
 
