@@ -1,41 +1,225 @@
-> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201011552id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613235724id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.com
 
-Dear Customer, 
+Dear zooplus Customer,
 
-We value your trust and thus make every effort to make your shopping experience safe and enjoyable. zooplus employs highest security standards at all times to ensure the protection of all your personal data from unauthorised access or use. Your order, personal data as well as your credit card details are protected by technical encryption and an additional authorisation process - both when transferring data and saving data on our servers. 
+We value your trust, which is why protecting your data, privacy rights and your right to know how your information is being collected, processed and used is of the greatest importance to us. Our data protection practices are in accordance with the German Federal Data Protection Act (Bundesdatenschutzgesetz/ ‘BDSG’) as well as the German Telemedia Act (Telemediengesetz/ ‘TMG’).
 
-**Collecting and using your data**  
-We collect information about you for two reasons: to process your order and to provide you with the best possible service. 
+##  1\. Collecting and using your data
 
-The personal data you submit at zooplus will not be passed on to any unauthorised third party outside the company. However, we may share your information with our certified partners when it is necessary to do so in order to fulfill your order. 
+In order to process your order as best as possible, the data required for the transaction is stored and passed on to the delivery company. If you lose your information, please contact our customer services team ([www.zooplus.ie/contact](https://web.archive.org/contact/)) and we will send you a copy of your order. The personal data you submit to zooplus will not be passed on to any unauthorised third party outside the company.
 
-In order for the delivery company to provide a time frame for delivery of your parcel, we need to pass on personal details such as your address, email address and, where available, contact phone number to the delivery company. You will receive an email or a text message from the delivery company with further details of your delivery, and the option to change delivery options where possible. 
+a. It is important to us that we provide you with a customer-friendly order and delivery service, both before and during the delivery process. Depending on the Delivery Service Provider (DSP) you have selected, this may include the opportunity to select delivery time, date and location/ destination prior to parcel dispatch and during transit. In order for the DSP to provide a time frame for delivery of your parcel, we need to pass on personal details such as your address, email address and, where available, contact phone number to the delivery company. Depending on the DSP you have selected, you will receive an email or a text message with further details of your delivery and the possibility to change delivery options where possible.  
+As a customer you can actively give us your permission to send you personalised special offers and advertisements by zooplus.ie. These will be sent to your postal or email address.  
+This communication is a compulsory part of the contractual relationship with zooplus AG and cannot be avoided. More information can be found in our Terms and Conditions under section [4: Dispatch and delivery](https://web.archive.org/content/terms#delivery).
 
-While registering with zooplus you also can subscribe to one of our marketing newsletters. If you wish to terminate the subscription, please tell us. You can do so at any time and at your convenience. 
+b. In addition, we also commission countries outside of the European Economic Area (EEA) to assist us with business processing and customer care. The transferred services include, for example, the listing of new products, the creation and translation of product descriptions in the shop, general shop maintenance, translation work, auditing and/or warehouse control. These service providers have access to personal customer data only to the extent they need in order to fulfil their tasks. We ensure that the transmission of customer data to these companies is carried out in accordance with the Data Protection Act. The "Standard Treaty II" of the European Union is applied. These are standard contract clauses for the transfer of personal data from the European Community to third countries, which are set by the European Commission in orde
 
-**State-of-the-art technical standards**  
-For transferring data zooplus uses the so-called SSL security system (secure socket layer) together with a 128-bit encryption. This technology offers the best possible security and is also used by all major high street banks, to protect all online banking data. You will know if a site uses encrypted data transmission by the closed padlock symbol on the bottom status bar of your browser. 
+Dear zooplus Customer,
 
-**Security of payment transactions**  
-Payment by credit card is completely safe due to our above-mentioned security standards. 
+We value your trust, which is why protecting your data, privacy rights and your right to know how your information is being collected, processed and used is of the greatest importance to us. Our data protection practices are in accordance with the German Federal Data Protection Act (Bundesdatenschutzgesetz/ ‘BDSG’) as well as the German Telemedia Act (Telemediengesetz/ ‘TMG’).
 
-**Your password**  
-zooplus offers a special service in case you should forget your password: At the centre of the sign in-page you will always find the link "Forgotten your password?". We will send your password to your email address immediately. 
+##  1\. Collecting and using your data
 
-As only you or persons authorised by you have access to your email account, your password is safeguarded against unauthorised access. Please note: you should not entrust a third party with your log-in information and use the SSL encryption when ordering whenever it is available. 
+In order to process your order as best as possible, the data required for the transaction is stored and passed on to the delivery company. If you lose your information, please contact our customer services team ([www.zooplus.ie/contact](https://web.archive.org/contact/)) and we will send you a copy of your order. The personal data you submit to zooplus will not be passed on to any unauthorised third party outside the company.
 
-**Using cookies**  
-Cookies are alphanumeric means of identification that are transferred onto your computer's hard drive via your Web browser. Cookies are a very common technique found in most leading online shops. 
+a. It is important to us that we provide you with a customer-friendly order and delivery service, both before and during the delivery process. Depending on the Delivery Service Provider (DSP) you have selected, this may include the opportunity to select delivery time, date and location/ destination prior to parcel dispatch and during transit. In order for the DSP to provide a time frame for delivery of your parcel, we need to pass on personal details such as your address, email address and, where available, contact phone number to the delivery company. Depending on the DSP you have selected, you will receive an email or a text message with further details of your delivery and the possibility to change delivery options where possible.  
+As a customer you can actively give us your permission to send you personalised special offers and advertisements by zooplus.ie. These will be sent to your postal or email address.  
+This communication is a compulsory part of the contractual relationship with zooplus AG and cannot be avoided. More information can be found in our Terms and Conditions under section [4: Dispatch and delivery](https://web.archive.org/content/terms#delivery).
 
-During your shopping session at zooplus we transfer a permanent cookie onto your hard drive. This allows our systems to save the shopping cart while you are shopping with us. Please be advised that permanent cookies are mandatory for shopping with zooplus. We ensure you that no other information will be stored in our systems. 
+b. In addition, we also commission countries outside of the European Economic Area (EEA) to assist us with business processing and customer care. The transferred services include, for example, the listing of new products, the creation and translation of product descriptions in the shop, general shop maintenance, translation work, auditing and/or warehouse control. These service providers have access to personal customer data only to the extent they need in order to fulfil their tasks. We ensure that the transmission of customer data to these companies is carried out in accordance with the Data Protection Act. The "Standard Treaty II" of the European Union is applied. These are standard contract clauses for the transfer of personal data from the European Community to third countries, which are set by the European Commission in order to ensure an adequate level of data protection.
 
-To read our full Cookie Usage Policy, click [here](http://www.zooplus.com/content/cookies)
+c. From time to time, we may also send your product information or advertising via post or email to the address given at the time of purchasing. You may opt out of the processing and use of your personal data for advertising purposes at any time by contacting our Customer Services team using our contact form, which can be found at the following web address:[ www.zooplus.ie/contact](https://web.archive.org/contact/)
 
-**Optimizely**  
-In order to continuously improve our website, we perform A / B testing. We do this by using the web analytics service provided by the company Optimizely, Inc. (https://www.optimizely.com).   
-We know how important it is to keep all personal information confidential and Optimizely never collects personal data. Your browsing data is anonymous and never includes any personally identifiable information. Data collected on website usage is transmitted anonymously to an Optimizely server in USA and stored there.   
-You can disable Optimizely by following the instructions here: http://www.optimizely.com/opt_out.
+##  2\. Security Standards you can Trust
 
-Munich, 23. June 2016
+In order to transfer personal data, zooplus.ie uses the Secure Sockets Layer (SSL) security protocol with 128-bit encryption. This technology offers the best possible security and is also used by all major high street banks to protect online banking data. All payment methods offered by us are fully protected by these safety standards. You will be able to identify that the website is using encrypted data transmission by the closed padlock symbol visible in the bottom status bar of your browser.
+
+##  3\. Safer shopping with zooplus
+
+In detail, our security guarantee is as follows:
+
+Our software, which uses Secure Socket Layer (SSL) as standard, encrypts your personal data such as your name, address, bank account number and credit card number whenever you make an order. SSL is supported by most browsers and ensures that your data reaches our server in a form of code that is unreadable for unauthorised persons.
+
+To date, no damage has been incurred to a customer of zooplus.de due to the illegal use of their credit card or bank information. If a case of misuse occurs during a purchase on our website, most credit card issuers are liable for all amounts in excess of an initial EUR 50.00. Should your bank require you to pay the initial amount, then we will take over this amount on your behalf. A condition of this is that you inform your bank or credit card company immediately that you suspect your bank or credit card details are being used fraudulently.
+
+##  4\. Use of Cookies and Similar Technologies
+
+Cookies are alphanumeric identifiers that are transferred to your computer through your web browser. Many online transactions are impossible without the use of cookies, including areas such as the virtual “shopping cart” on most websites.
+
+Once you have logged in to the zooplus website, so-called “session cookies” are used to identify you for the duration of your visit. These session cookies will expire automatically when you log out.
+
+Visiting the zooplus online shop also requires the use of permanent cookies, and enable the saving of the content of your shopping basket for the duration of your browsing as well as for later visits to the store. They are also used to recognise misuse, such as the creation of duplicate accounts. Finally, we use cookies to store your most recent search terms used in our store, to help you to find recently searched for items more quickly. The mobile version of the shop also cookies to greet you personally when you visit the homepage, to show you orders from the last seven days and their delivery status, and to allow email address log-in fields to be automatically filled.
+
+Certain identifying features are assigned to you when following external advertising links or banners, and cookies may be used to help assign suitable discount codes.
+
+The permanent cookies do not contain any of your personal data such as name, email address or IP address. We do not use cookies to build up individual profile information about your usage of the site.
+
+You can disable cookies in your browser settings, restrict them to certain sites or set your browser to notify you whenever a cookie is sent. You can also delete cookies from your computer harddrive whenever you wish. Please bear in mind that many zooplus services will not work either correctly or at all without the use of certain cookies. For more information on how to personalise your cookie settings, see the Help bar of your internet browser. 
+
+a. **Certona**
+
+Certona technology is used by zooplus to collect and store visitor behaviour anonymously through the use of cookies. It allows customised and personalised product recommendations to be displayed when visiting the website but it does not use your personal data. To disable this technology, you need to delete the cookie stored for this purpose, as described above ("Use of Cookies").
+
+b. **Maxymiser**
+
+We also use the technology of Maxymiser GmbH, Josephspitalstraße 15, 80331 Munich "Maxymiser Technology". Maxymiser uses cookies to analyse your website use. This usage information is then transmitted to a server at Maxymiser GmbH and stored there. Maxymiser GmbH then use the anonymised, pseudonymised data on our behalf to analyse and evaluate visitor behaviour on our websites and to help to optimise the website. You can prevent this data from being collected from your computer, as well as the processing of this data, by downloading and installing an opt-out cookie from the following link: <https://www.maxymiser.com/cookie-opt-out/coo.html>
+
+c. **CrazyEgg**
+
+This site also uses the tracking tool CrazyEgg.com to analyse visitor behaviour. The tool randomly selects individual visitors (with anonymous IP addresses) and creates a log of their mouse movements and clicks so that individual visits can be played back. This allows us to identify areas where our website can be improved. The information is attributable to any individual and will not be disclosed. If you do not want your website behaviour to be monitored, you can disable it on all sites that use this tool under the following link. <http://www.crazyegg.com/opt-out>
+
+d. **Hotjar**
+
+This site also uses the tracking tool Hotjar.com to analyse visitor behaviour (using anonymised IP address information only). Hotjar randomly selects individual visits and creates a log of their mouse movements and clicks so that individual visits can be played back. This allows us to identify areas where our website can be improved. The information is attributable to any individual and will not be disclosed. You can find more detailed information about the data that Hotjar collects here: <http://www.hotjar.com/privacy> Disable Hotjar by following this link: <https://www.hotjar.com/opt-out>
+
+e. **Optimizely**
+
+In order to continuously improve our website, we sometimes perform A / B testing. We do this by using the web analytics service provided by the company Optimizely, Inc. ([https://www.optimizely.com](https://www.optimizely.com/)). We know how important it is to keep all personal information confidential and that is why Optimizely never collects personal data. Data collected on website usage is transmitted anonymously to an Optimizely server in USA and stored there. You can disable Optimizely by following the instructions here: <http://www.optimizely.com/opt_out>
+
+f. **Retargeting**
+
+Technology from NextPerformance GmbH is implemented on [www.zooplus.ie](http://www.zooplus.ie/), in order to collect and record data regarding user behaviour on the website. This enables appropriate and personalised advertisements to be displayed on partner websites. This does not use the user’s personal data. For further information or to deactivate NextPerformance technology for your browser, visit the NextPerformance website at http://www.nextperf.com/privacy/
+
+g. **KUPONA**
+
+In order to optimise online advertising campaigns, KUPONA media collects anonymous information about people’s browsing habits, which involves storing cookies on your hard drive. By using certain algorithms, it can recommend targeted products on other websites in the form of product-specific banners. The only purpose of the cookies in this process is to optimise the offers, and it is impossible to identify the user personally. No personal information is collected or transmitted to third parties as part of this process. If you would like to prevent the use of anonymous cookie files and the corresponding analysis of your surfing behaviour by Kupona, you can do so on the following KUPONA privacy page: <http://datzenschutz.kupona.de/?cus=12629>
+
+I consent to the use of cookies and thus to the collection, storage and use of my data. I also agree that my data will be stored in cookies beyond the end of the browser session and may be recalled on my next visit to the website. I can revoke this consent at any time for future activity by refusing to accept cookies in my browser settings.
+
+##  5\. Web analysis
+
+Here you will find a list of the web analysis services that we use:
+
+a. **Google Analytics**
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc („Google“). Google Analytics uses cookies – files which are stored on your computer and which allow an analysis of your use of the website. The information generated by these cookies is generally transferred to a Google server in the USA and stored there. This site uses IP anonymisation, meaning that your IP address is abridged within the European Union and any contracted states in the European Economic Area before it is sent to the USA. Only in exceptional cases with the full IP address be transferred to the Google server then abbreviated there. Google uses this information on behalf of the website owner to analyse your use of the website, compiling reports on website activity and to provide other services related to website usage and internet usage for the website operator. The IP address provided by your browser as part of Google Analytics will not be merged with other Google data. You can prevent cookies from being saved by setting your browser software accordingly. However, this may result in your not being able to fully utilise all the functions of the zooplus website.
+
+If you wish, you can also prevent Google from collecting and processing the data (including your IP address) by downloading and installing the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>
+
+b. **Adobe Analytics and Omniture**
+
+We use Adobe Analytics (Omniture), a web analytics service provided by Adobe Systems Software Ireland Ltd. („Adobe“). Adobe Analytics collects anonymous data that helps us to understand and analyse website visitors’ usage behaviour. Adobe Analytics uses cookies and counter pixels that are retrieved and stored by your computer. The resulting information is transferred to Adobe servers and stored there. It is only passed on as cumulative data that display general trends in web usage rather than your own personal activity or information. As Adobe Analytics does not store any of your personal information, it is impossible to associate, merge or link this anonymous information to individual users. If you wish to opt out of the Adobe Analytics records, click here: <http://www.adobe.com/de/privacy/opt-out.html>
+
+##  6\. Google Ads
+
+This website uses Google Remarketing, a service provided by Google to integrate advertisements into websites. For this purpose, information about your browsing behaviour is collected anonymously when you visit our website and stored on your computer with the help of cookies. This information helps third-party advertisers such as Google to display appropriate ads on web pages. You may opt out of Google’s use of cookies by clicking on the following link: http://www.google.com/privacy_ads.html
+
+For more information about Google technologies, visit their Privacy Policy at http://www.google.de/privacy_cookies.html
+
+##  7\. Viewing your personal data
+
+You can view, edit and remove your personal data at any time in the “my zooplus” section of the website by logging in using your email address and password. If you have forgotten your password, you can simply click on the “Forgotten your password?” link on the log-in page, then enter your registered email address into the form and we will send you a replacement password. If a third party is trying to gain access to your data, this process is safe, as the new password will be sent only to your personal email address.
+
+##  8\. Duration of data storage
+
+Your personal data will only be kept as long as necessary for the provision of our services. Sometimes longer-term data storage may be necessary for legal reasons.
+
+##  9\. Your access and cancellation rights
+
+You are entitled to demand free written disclosure of any personal information zooplus AG has stored about you. Upon notification of any necessary corrections, blockages or deletions, we will make these changes immediately on the basis of the information given, if legally permitted. You may revoke your consent for the use of your personal data at any time with future effect. For questions regarding data protection and the exercise of your rights, please write to us via our contact form ([www.zooplus.ie/contact](http://www.zooplus.ie/contact)).
+
+##  10\. Operational data protection
+
+zooplus AG takes its statutory obligations into account and has appointed an operational data protection officer. All our employees have been obliged in writing to comply with the relevant regulations and guidelines on data protection and data security, as well as to protect data secrecy. In addition, the employees of zooplus AG are regularly trained in these areas.
+
+Munich, 16 March 2017
+
+r to ensure an adequate level of data protection.
+
+c. From time to time, we may also send your product information or advertising via post or email to the address given at the time of purchasing. You may opt out of the processing and use of your personal data for advertising purposes at any time by contacting our Customer Services team using our contact form, which can be found at the following web address:[ www.zooplus.ie/contact](https://web.archive.org/contact/)
+
+##  2\. Security Standards you can Trust
+
+In order to transfer personal data, zooplus.ie uses the Secure Sockets Layer (SSL) security protocol with 128-bit encryption. This technology offers the best possible security and is also used by all major high street banks to protect online banking data. All payment methods offered by us are fully protected by these safety standards. You will be able to identify that the website is using encrypted data transmission by the closed padlock symbol visible in the bottom status bar of your browser.
+
+##  3\. Safer shopping with zooplus
+
+In detail, our security guarantee is as follows:
+
+Our software, which uses Secure Socket Layer (SSL) as standard, encrypts your personal data such as your name, address, bank account number and credit card number whenever you make an order. SSL is supported by most browsers and ensures that your data reaches our server in a form of code that is unreadable for unauthorised persons.
+
+To date, no damage has been incurred to a customer of zooplus.de due to the illegal use of their credit card or bank information. If a case of misuse occurs during a purchase on our website, most credit card issuers are liable for all amounts in excess of an initial EUR 50.00. Should your bank require you to pay the initial amount, then we will take over this amount on your behalf. A condition of this is that you inform your bank or credit card company immediately that you suspect your bank or credit card details are being used fraudulently.
+
+##  4\. Use of Cookies and Similar Technologies
+
+Cookies are alphanumeric identifiers that are transferred to your computer through your web browser. Many online transactions are impossible without the use of cookies, including areas such as the virtual “shopping cart” on most websites.
+
+Once you have logged in to the zooplus website, so-called “session cookies” are used to identify you for the duration of your visit. These session cookies will expire automatically when you log out.
+
+Visiting the zooplus online shop also requires the use of permanent cookies, and enable the saving of the content of your shopping basket for the duration of your browsing as well as for later visits to the store. They are also used to recognise misuse, such as the creation of duplicate accounts. Finally, we use cookies to store your most recent search terms used in our store, to help you to find recently searched for items more quickly. The mobile version of the shop also cookies to greet you personally when you visit the homepage, to show you orders from the last seven days and their delivery status, and to allow email address log-in fields to be automatically filled.
+
+Certain identifying features are assigned to you when following external advertising links or banners, and cookies may be used to help assign suitable discount codes.
+
+The permanent cookies do not contain any of your personal data such as name, email address or IP address. We do not use cookies to build up individual profile information about your usage of the site.
+
+You can disable cookies in your browser settings, restrict them to certain sites or set your browser to notify you whenever a cookie is sent. You can also delete cookies from your computer harddrive whenever you wish. Please bear in mind that many zooplus services will not work either correctly or at all without the use of certain cookies. For more information on how to personalise your cookie settings, see the Help bar of your internet browser. 
+
+a. **Certona**
+
+Certona technology is used by zooplus to collect and store visitor behaviour anonymously through the use of cookies. It allows customised and personalised product recommendations to be displayed when visiting the website but it does not use your personal data. To disable this technology, you need to delete the cookie stored for this purpose, as described above ("Use of Cookies").
+
+b. **Maxymiser**
+
+We also use the technology of Maxymiser GmbH, Josephspitalstraße 15, 80331 Munich "Maxymiser Technology". Maxymiser uses cookies to analyse your website use. This usage information is then transmitted to a server at Maxymiser GmbH and stored there. Maxymiser GmbH then use the anonymised, pseudonymised data on our behalf to analyse and evaluate visitor behaviour on our websites and to help to optimise the website. You can prevent this data from being collected from your computer, as well as the processing of this data, by downloading and installing an opt-out cookie from the following link: <https://www.maxymiser.com/cookie-opt-out/coo.html>
+
+c. **CrazyEgg**
+
+This site also uses the tracking tool CrazyEgg.com to analyse visitor behaviour. The tool randomly selects individual visitors (with anonymous IP addresses) and creates a log of their mouse movements and clicks so that individual visits can be played back. This allows us to identify areas where our website can be improved. The information is attributable to any individual and will not be disclosed. If you do not want your website behaviour to be monitored, you can disable it on all sites that use this tool under the following link. <http://www.crazyegg.com/opt-out>
+
+d. **Hotjar**
+
+This site also uses the tracking tool Hotjar.com to analyse visitor behaviour (using anonymised IP address information only). Hotjar randomly selects individual visits and creates a log of their mouse movements and clicks so that individual visits can be played back. This allows us to identify areas where our website can be improved. The information is attributable to any individual and will not be disclosed. You can find more detailed information about the data that Hotjar collects here: <http://www.hotjar.com/privacy> Disable Hotjar by following this link: <https://www.hotjar.com/opt-out>
+
+e. **Optimizely**
+
+In order to continuously improve our website, we sometimes perform A / B testing. We do this by using the web analytics service provided by the company Optimizely, Inc. ([https://www.optimizely.com](https://www.optimizely.com/)). We know how important it is to keep all personal information confidential and that is why Optimizely never collects personal data. Data collected on website usage is transmitted anonymously to an Optimizely server in USA and stored there. You can disable Optimizely by following the instructions here: <http://www.optimizely.com/opt_out>
+
+f. **Retargeting**
+
+Technology from NextPerformance GmbH is implemented on [www.zooplus.ie](http://www.zooplus.ie/), in order to collect and record data regarding user behaviour on the website. This enables appropriate and personalised advertisements to be displayed on partner websites. This does not use the user’s personal data. For further information or to deactivate NextPerformance technology for your browser, visit the NextPerformance website at http://www.nextperf.com/privacy/
+
+g. **KUPONA**
+
+In order to optimise online advertising campaigns, KUPONA media collects anonymous information about people’s browsing habits, which involves storing cookies on your hard drive. By using certain algorithms, it can recommend targeted products on other websites in the form of product-specific banners. The only purpose of the cookies in this process is to optimise the offers, and it is impossible to identify the user personally. No personal information is collected or transmitted to third parties as part of this process. If you would like to prevent the use of anonymous cookie files and the corresponding analysis of your surfing behaviour by Kupona, you can do so on the following KUPONA privacy page: <http://datzenschutz.kupona.de/?cus=12629>
+
+I consent to the use of cookies and thus to the collection, storage and use of my data. I also agree that my data will be stored in cookies beyond the end of the browser session and may be recalled on my next visit to the website. I can revoke this consent at any time for future activity by refusing to accept cookies in my browser settings.
+
+##  5\. Web analysis
+
+Here you will find a list of the web analysis services that we use:
+
+a. **Google Analytics**
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc („Google“). Google Analytics uses cookies – files which are stored on your computer and which allow an analysis of your use of the website. The information generated by these cookies is generally transferred to a Google server in the USA and stored there. This site uses IP anonymisation, meaning that your IP address is abridged within the European Union and any contracted states in the European Economic Area before it is sent to the USA. Only in exceptional cases with the full IP address be transferred to the Google server then abbreviated there. Google uses this information on behalf of the website owner to analyse your use of the website, compiling reports on website activity and to provide other services related to website usage and internet usage for the website operator. The IP address provided by your browser as part of Google Analytics will not be merged with other Google data. You can prevent cookies from being saved by setting your browser software accordingly. However, this may result in your not being able to fully utilise all the functions of the zooplus website.
+
+If you wish, you can also prevent Google from collecting and processing the data (including your IP address) by downloading and installing the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>
+
+b. **Adobe Analytics and Omniture**
+
+We use Adobe Analytics (Omniture), a web analytics service provided by Adobe Systems Software Ireland Ltd. („Adobe“). Adobe Analytics collects anonymous data that helps us to understand and analyse website visitors’ usage behaviour. Adobe Analytics uses cookies and counter pixels that are retrieved and stored by your computer. The resulting information is transferred to Adobe servers and stored there. It is only passed on as cumulative data that display general trends in web usage rather than your own personal activity or information. As Adobe Analytics does not store any of your personal information, it is impossible to associate, merge or link this anonymous information to individual users. If you wish to opt out of the Adobe Analytics records, click here: <http://www.adobe.com/de/privacy/opt-out.html>
+
+##  6\. Google Ads
+
+This website uses Google Remarketing, a service provided by Google to integrate advertisements into websites. For this purpose, information about your browsing behaviour is collected anonymously when you visit our website and stored on your computer with the help of cookies. This information helps third-party advertisers such as Google to display appropriate ads on web pages. You may opt out of Google’s use of cookies by clicking on the following link: http://www.google.com/privacy_ads.html
+
+For more information about Google technologies, visit their Privacy Policy at http://www.google.de/privacy_cookies.html
+
+##  7\. Viewing your personal data
+
+You can view, edit and remove your personal data at any time in the “my zooplus” section of the website by logging in using your email address and password. If you have forgotten your password, you can simply click on the “Forgotten your password?” link on the log-in page, then enter your registered email address into the form and we will send you a replacement password. If a third party is trying to gain access to your data, this process is safe, as the new password will be sent only to your personal email address.
+
+##  8\. Duration of data storage
+
+Your personal data will only be kept as long as necessary for the provision of our services. Sometimes longer-term data storage may be necessary for legal reasons.
+
+##  9\. Your access and cancellation rights
+
+You are entitled to demand free written disclosure of any personal information zooplus AG has stored about you. Upon notification of any necessary corrections, blockages or deletions, we will make these changes immediately on the basis of the information given, if legally permitted. You may revoke your consent for the use of your personal data at any time with future effect. For questions regarding data protection and the exercise of your rights, please write to us via our contact form ([www.zooplus.ie/contact](http://www.zooplus.ie/contact)).
+
+##  10\. Operational data protection
+
+zooplus AG takes its statutory obligations into account and has appointed an operational data protection officer. All our employees have been obliged in writing to comply with the relevant regulations and guidelines on data protection and data security, as well as to protect data secrecy. In addition, the employees of zooplus AG are regularly trained in these areas.
+
+Munich, 17 March 2017
