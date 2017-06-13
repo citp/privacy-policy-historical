@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the doctorslounge.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201010044id_/http%3A//www.doctorslounge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorslounge.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613175251id_/https%3A//www.doctorslounge.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy statement - The Doctors Lounge(TM)
+# Privacy statement - Doctors Lounge(TM)
+
+[](https://www.doctorslounge.com/)
+
+[web.archive.org](https://web.archive.org/) / [web](https://web/) / [20170613175251id_](https://web.archive.org/web/20170613175251id_/) / [https%3A](https://web.archive.org/web/20170613175251id_/https%3A/) / [](https://web.archive.org/) / [www.doctorslounge.com](https://web.archive.org/web/20170613175251id_/https%3A//www.doctorslounge.com/) / [privacy.htm](https://web.archive.org/web/20170613175251id_/https%3A//www.doctorslounge.com/privacy.htm)
+
+* * *
 
 ### June 21, 2007
 
@@ -28,29 +34,12 @@ Welcome. Doctors Lounge would like to thank you for visiting our website. We are
 
 This privacy policy applies to the website operated by Doctors Lounge:
 
-[www.doctorslounge.com](http://www.doctorslounge.com/)
+[www.doctorslounge.com](https://www.doctorslounge.com/)
 
 Please note that this privacy policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by Doctors Lounge offline. In addition, this privacy policy applies only to sites maintained by Doctors Lounge and not to websites maintained by other companies or organizations to which we link. Doctors Lounge is therefore not responsible for the content or activities provided on such sites.
 
 * * *
 
-* * *  
-  
----  
-|    | 
-
-## Are you a doctor or a nurse?
-
-Do you want to join the Doctors Lounge online medical community?
-
-Participate in **editorial activities** (publish, peer review, edit) and give a helping hand to the largest online community of **patients**.
-
-Click on the link below to see the requirements:
-
-**[Doctors Lounge Membership Application](https://web.archive.org/web/20161201010044id_/http%3A//www.doctorslounge.com/member.htm)**  
-  
-* * *  
-  
 ### What types of information does Doctors Lounge collect and how will it be used? 
 
 Doctors Lounge only collects information on a voluntary basis. The personal information Doctors Lounge collects is used almost exclusively for communications purposes and will usually take the form of: (1) Doctors Lounge Membership registration form; (2) a consumer complaint or inquiry directed to the Support Team; (3) Doctors Lounge survey; (4) Doctors Lounge Medical Forums and other medical services; (5) Doctors Lounge referral services; (6) Doctors Lounge's newsletter; and/or, (7) other general information contained in an email (e.g., comments). The types of information that may be requested for each activity and the way the information may be used are detailed below.
@@ -143,3 +132,16 @@ Doctors Lounge maintains appropriate safeguards that ensure the security, integr
 If you have any questions, complaints or comments regarding our privacy policy or practices, please contact us [via e-mail](mailto:webmaster@doctorslounge.com?subject=Privacy%20Info).
 
 By using this site, you signify your assent to the Doctors Lounge Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Policy. Please check back from time to time to ensure you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.
+
+## Are you a Doctor, Pharmacist, PA or a Nurse?
+
+**Join the Doctors Lounge online medical community**
+
+  * **Editorial activities:** Publish, peer review, edit online articles.
+
+  * **Ask a Doctor Teams:** Respond to patient questions and discuss challenging presentations with other members.
+
+
+
+
+**[Doctors Lounge Membership Application](https://www.doctorslounge.com/member.htm)**
