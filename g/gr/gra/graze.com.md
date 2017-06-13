@@ -1,170 +1,206 @@
-> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2015-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150620064226id_/https%3A//www.graze.com/us/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graze.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613225336id_/https%3A//www.graze.com/us/help/privacy) for the most accurate reproduction.*
 
 # graze | privacy policy
 
-##  1\. Introduction 
+Welcome to the graze.com website (the "Site"). The Site is operated by Nature Delivered Inc. (the "Company", "we", "us", "our"), which provides the graze subscription food service, delivering packaged foods directly to consumers via mail. Your privacy and security is important to us. We know that providing personal information is an act of trust and we take that trust seriously. Our Privacy Policy describes the ways we capture your information and governs how we will deal with it. We refer to the website, subscription service, all features, functionality, and content of the Site as the "Services." By using the Site, registering with Nature Delivered Inc. and/or using the Services, you are accepting and consenting to the collection, use, disclosure, and other handling of your information as described below. 
 
-Welcome to the graze.com website (the “Site”). Nature Delivered Inc. (the “Company”, “we”, “us”, “our”) provides a subscription food service delivering packaged foods directly to consumers via mail (collectively, including all features, functionality and content of the Site, the “Services”). 
+##  1\. Information We Collect or Receive 
 
-Please read this Privacy Policy carefully as the terms may have changed since your last visit to this Site. By using the Site and/or registering with Nature Delivered Inc., you are accepting and consenting to the practices described in this Privacy Policy. 
+### Information You Provide To Us
 
-Your privacy and security is important to us. We know that providing personal information is an act of trust and we take that trust seriously. Nature Delivered Inc. will not disclose any of your personal information, including your email address, to any third party without your consent, unless you give us specific consent to act otherwise. Our Privacy Policy describes the ways we capture your personal information and governs how we will deal with it. We aim to ensure that any personal information we obtain and use about you will always be held, used and transmitted in compliance with all applicable data protection rules. If you have questions or concerns about our Privacy Policy, please contact us. 
+When you use visit the Site, we collect and retain information that you, as a customer or potential customer, provide through the Site, as well as information that is automatically or passively collected from you, your device or your browser. This information is collectively referred to as the "Information." Information you provide to us may include: 
 
-The Site may contain links to third parties' websites. Nature Delivered Inc. assumes no responsibility for the privacy practices or the content of those websites. Therefore, please read carefully any privacy policies on those websites before either agreeing to their terms or using those websites. 
-
-Nature Delivered Inc. may occasionally update this Privacy Policy to reflect regulatory requirements and changes in our information collection and disclosure practices. You should therefore return here regularly to view our most up to date Privacy Policy. 
-
-Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect this information. However, while we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorized acts by others. Information provided by you may be stored or processed outside the United States of America. 
-
-You have the right of access to any personal information processed by us. Nature Delivered Inc. is committed to providing you with reasonable and practical access to your information to give you the opportunity to identify any inaccuracies. Where possible, if Nature Delivered Inc. is informed of the inaccuracy of any personal information, we will make appropriate corrections. You can request to update or change any information you have provided to Nature Delivered Inc. by contacting us. 
-
-back to top ↑
-
-* * *
-
-##  2\. Information We Collect About You 
-
-The information we collect from you depends on what activities you are carrying out on the Site, whether you are logged in or not and whether you are making a purchase. 
-
-The information we collect includes (but may not be limited to): 
-
-  * Full name
-  * Email address
-  * Address
-  * Telephone number
-  * Mobile telephone number (optional)
-  * Credit card type
-  * Credit card number
-  * Credit card expiry date
-  * Gender
-  * Date of birth
+  * Contact and profile information, including name, email address, postal address (including zip code), and telephone number;
+  * Account information, including your user-name, password, log-in details, transaction details, and successful referrals;
+  * Credit card information , including the name on the card, card type, card number, expiry date, and CV2 is collected and processed by our third party payment processor; graze collects and retains limited credit card information for its records but does not store or retain complete credit card information;
+  * Your preferences, including ratings you provide in relation to products that are available on the Site and survey responses;
+  * Communications to us, for example reporting a problem or submitting queries, concerns or comments regarding the Site or its content;
+  * Any other content or information you choose to provide, including photos you may upload;
+  * Details of your visits to the Site, the resources you access and any data you download.
+  * Information related or connected to a social media account that you use to sign up or log in to the Services, or that you associate with your account through our Services. For instance, when you associate your Facebook account with our Services, we may receive your public profile (name, profile picture, age range, gender, language, country and other public information), your friend list and your email address. If you sign up, log in with or associate other social media accounts with our Services, such as Twitter or Tumblr, we may obtain similar information from those platforms.
 
 
 
-How we use it: 
+### Information That Is Automatically Collected
 
-  * To create your account on the Site 
-  * To identify you as a user on the Site 
-  * To check that a credit card is valid 
-  * To send you boxes 
-  * To recommend other boxes you may like 
-  * To communicate with you on Nature Delivered Inc. related matters 
-  * To provide you with order and billing history information 
+We, along with third parties, also may collect Information about you, your computer or device, and your use of the Service via automated means, including Web server logs, Web Beacons, clear gifs (For more information about these technologies, see Section 4 titled (Cookies and Other Electronic Technologies) 
 
-
-
-When you visit the Site, Nature Delivered Inc. collects additional information about you in order to provide the service. 
-
-What we collect: 
-
-  * Your product ratings
+  * Information about your visits to the Site and use of the Services, the resources you access, any data you download, and information related to the ways in which you interact with the Site and the Services.
+  * IP addresses including the general information in such address, such as city, state and zip code), unique device identifiers, other information about your mobile phone or other mobile device(s), browser types, and browser language
+  * Referral pages and links, URLs, number of clicks, pages viewed, how long you're on a page, your search queries and results
+  * Information about your device, computer and/or browser you use as well as the device's operating system. This may include your device hardware model, operating system version, or mobile network information.
+  * Precise Location Information: We may solicit your permission to collect precise location information from you or your device. If you agree to allow access to your specific location, you agree that we and our service providers may collect such precise information from your mobile device (e.g., GPS-based location information, longitude/latitude, etc.), and use that information to deliver the content, services, features and products that are available through the Services.
 
 
 
-How we use it: 
+We may also combine Information that we collect from you with Information we obtain about you from third parties and Affiliates and Information derived from any other subscription, product, or service we provide.
 
-  * To send you boxes you would like to receive
-  * To establish eating trends in order to recommend other products you may like to eat
+### Information from Third Parties
 
+We may obtain additional information about you from third parties such as marketers, partners, researchers, and others.
 
+### Anonymous or De-Identified Data
+
+We may anonymize and/or de-identify information collected by the Services or via other means so that the information does not identify you. Our use and disclosure of aggregated and/or de-identified information is not subject to any restrictions under this Privacy Policy, and we may disclose it to others without limitation for any purpose.
 
 back to top ↑
 
 * * *
 
-##  3\. Cookies 
+##  2\. How We Use the Information We Collect or Receive 
 
-We use cookies (a small file that is stored by your browser to recognize you and store your preferences) to help speed up the login process and for security purposes. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. 
+We use your information to better serve you, such as by letting you know about new snacks or other products we've added to the graze range that we think you'll like. Some other examples of how we may use your information include to: 
 
-### 3.1. Disabling cookies
+  * Process your orders and provide you with the Services
+  * Customize our Services to you, for instance by establishing your food trends to facilitate better recommendations
+  * Provide, operate and maintain, our Services, including, for instance (without limitation) to administer your account, provide you with order and billing information, monitor use of and downloads from the Site
+  * Improve the website and Services for Customers, analyze website usage, investigate complaints or website operations and identify visitors to the Site
+  * Analyze our users' demographics and track sales data
+  * Provide you with offers, marketing materials and other promotional materials, both online and through other marketing channels, such as third party social networks, like Facebook
+  * Send you information or content you have requested or we believe you will find useful, including to advertise our Services to you when you visit our the Site or other websites across the Internet
+  * Communicate with you and investigate any complaints
+  * Perform market research, data analytics and data appends. To accomplish some of these tasks, we may enhance or append other data collected from or about you to the Information we possess
+  * Communicate with you and investigate any complaints
+  * Protect against fraud, unauthorized transactions, security issues, claims and other liabilities, and manage risk exposure and quality
+  * Verify whether you have had a previous account with us to prevent fraudulent use of our offers​.
+  * Provide customer support and diagnostic assistance, for instance, by analyzing the Information, our Services' integration with other platforms, and the contact information and other materials you submit to us
+  * To associate an email address that you have provided to us with previous browsing and purchase experiences. We may be able to make this connection whether you are logged on or not, and we will know whether you receive email alerts and will be able to associate this with any other contact information you may have given us.
 
-You can set your browser to disable cookies or to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. If you do not want to accept third party cookies, this will not affect the functionality of the Site, but it may impair your use of or prevent access to some areas, including taking advantage of special offers and vouchers. If you do leave cookies turned on, please take care to sign off when you are finished using a shared computer. 
+
 
 back to top ↑
 
 * * *
 
-##  4\. Emails 
+##  3\. Information Sharing and Disclosure 
 
-If you have ever provided us with an email address, we will be able to associate this email address back to your previous browsing and purchase experiences, whether you are logged on or not. We will know whether you receive email alerts and will be able to associate this with any other contact information you may have given us. 
+We may share the Information we collect in the following ways: 
 
-back to top ↑
+  * With service providers, to perform or assist us in performing any of the functions listed in Section 2 (How We Use the Information We Collect or Receive), for instance (without limitation) to assist us with email delivery, customer and technology support, hosting services, fraud prevention and marketing, data enhancement, advertising and market research services
+  * If you refer a new customer to us, we may share your first name and first initial of your surname with the referred person
+  * We may share your Information when we believe in good faith that such sharing is reasonably necessary in order to investigate, prevent, or take action regarding possible illegal activities or to comply with legal process. We may also share your information in situations involving potential threats to the physical safety of any person, violations of this Privacy Policy or the Terms of Service; or to respond to the claims of violation of the rights of third parties and/or to protect the rights, property and safety of graze, our employees, users, or the public. This may involve the sharing of your information with law enforcement, government agencies, courts, and/or other organizations.
+  * As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses, or sell some or all of our assets. In such transactions, your Information may be among the transferred assets or may be shared with the other company or business for purposes of evaluating the transaction.
+  * Unless you direct us not to, we may share your information with reputable third parties so that they may contact you to offer products, services and promotions that we believe you may find valuable. We may also share your information with third-parties with whom we have a contractual relationship. You can instruct us not to provide your information that identifies you (such as your name, address and email address) to these third parties by sending an email to [privacy@graze.com](mailto:privacy@graze.com) with "REMOVE THIRD PARTIES" in the subject line. If you receive a communication from a third party and you do not wish to receive future communications from that party, you should also tell them to remove you from their marketing list.
+  * Our affiliate program members receive aggregate information about customers that they direct to us through links on their website
+  * We may also provide aggregate analysis of our customers to prospective partners, advertisers, and other third parties
+  * We may share your feedback or comments. If you post anything to this website or through the Services that can be viewed by the general public, we may share that with third parties.
+  * We may use third-party Web analytics Services on the Site, such as those of Google Analytics. We may also share certain information about you and the device you use to access the Services in order to deliver tailored advertising. See Third Party Advertising and Your Choices for more information including the choices you have. These service providers use the technology described in the (Cookies and Other Electronic Technologies section to help us analyze how users use the Site and to deliver advertising. The information collected by the technology (including your IP address) will be disclosed to or collected directly by these services providers, who use the information to evaluate your use of the Site. Learn about [opting out of Google Analytics](https://tools.google.com/dlpage/gaoptout).
+  * We may share your Information in any other circumstances where we have your consent.
 
-* * *
 
-##  5\. What We Use Your Information For 
 
-The principal purposes for which we collect and store your personal information are to process your orders and deliver boxes, authorise payment, bill you, respond to your inquiries, get in touch with you about other products and promotional offers, recommend products which we think might be of interest to you, and generally maintain the account you hold with us, together with improving our Site and Services. 
-
-### 5.1. Marketing and business development purposes
-
-Apart from using your personal information to process any orders you may place, if you provide us with an email address, it will automatically be entered into our regular email update service. From time to time, we may also contact you by mail with information on special offers or events regarding our products or services or those of trusted third parties that we think you may be interested in. If you do not wish to receive updates or marketing information, please change your mailing preferences in the [Preferences](https://web.archive.org/us/account/preferences) page of the "Your Account" section.
-
-If you do not object to receiving marketing material at the time the information was collected from you, but subsequently change your mind and no longer wish to receive such information, you may opt out of doing so. If you opt out you may continue to receive information for up to 7 days after the date on which you update your account.
-
-If you start to set up an account with us, via the Site, but do not complete the process or place any orders, then we may email you to find out if you need any help to complete the process. An unsubscribe pnk is given at the end of this email. You may also [unsubscribe from emails](https://web.archive.org/us/email/unsubscribe/e/).
-
-In addition, we may use an IP address to identify you and to gather broad demographic information about you, which we will use to assist in the detection of fraud, to help identify problems with our server and to administer the Site.
+Sometimes, we may combine certain parts or portions of the Information with each other. For instance, when we provide you with customer support or other assistance, we may combine your account information and other personal information you've provided to us with Information about your usage of the Services.
 
 back to top ↑
 
 * * *
 
-##  6\. The Ability to Edit and Cancel your Account 
+##  4\. Cookies and Other Electronic Technologies 
 
-You can access 'My Account' from every page on the Site to update and correct the personal details that we gathered when you subscribed. You must be logged in to access this information. All information is password-protected so no one can access the information but you. We are required to retain your information for accounting and taxation purposes. 
+When you use the Services, we use persistent and session cookies and other tracking technologies to: (a) analyze the usage of our sites and Services; (b) customize the Services to your preferences; and (c) control the advertising displayed by the Services. We may also use other Internet technologies, such as Web beacons or pixel tags, and other similar technologies, to deliver or communicate with cookies and track your use of the Services (including to serve you ads when you are on other websites or the Internet when we can access those cookies). We also may include Web beacons in e-mail messages or newsletters to determine whether the message has been opened. As we adopt additional technology, we may also gather additional information through other methods.
 
-back to top ↑
-
-* * *
-
-##  7\. Information Sharing and Disclosure 
-
-We are committed to protecting your personal information. We will not disclose your personally identifiable information to third parties without your consent except where: 
-
-  * We are required by law to disclose information to third parties.
-  * It is necessary for the performance of our operations e.g. mail delivery, hosting services, protecting us from fraud, and payment of your account.
-  * We share your information with trusted third parties who perform services for us in relation to activities such as customer relationship management and product development purposes such as consumer behaviour analysis and improved product targeting.
-  * We buy or sell subsidiaries or business units. In such transactions, customer information is one of the transferred assets, but would remain subject to the commitments made in any pre-existing Privacy Policy or equivalent.
-
-
-
-Where you have referred a new customer to us your first name and first initial of your surname will be shared with the person you referred to us and you agree to that sharing. 
-
-Companies and individuals registered in our Affiliate Program receive aggregate information about customers that they direct to us through links on their Site. No personally identifiable information is provided to affiliate members; the information collected from our affiliates is used strictly for the affiliates program and will not be used for general marketing purposes. 
-
-We also provide analyses of our customers in the aggregate to prospective partners, advertisers and other third parties (often known as 'Aggregated Data Analytics'). We do this so that we and our business partners can understand you better, and so we can keep bringing you first-rate services. We may also disclose, on an anonymous basis, literal statements made by our customers. At no time, however, will we disclose personal information about specific customers for the purpose of Aggregated Data Analytics. 
-
-Linked websites are not under our control and we are not responsible for the conduct of companies linked to our Site. Before disclosing your personal information on any other website we advise you to examine their terms and conditions of use. 
+Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help menu of your browser's toolbar. If you choose to decline cookies, please note that you may not be able to sign in, customize, or use some of the interactive features of the Services.
 
 back to top ↑
 
 * * *
 
-##  8\. Security 
+##  5\. Third party advertising and your choices 
 
-We have implemented technology and security features, as well as strict internal guidelines, to safeguard the privacy of your personal information from unauthorized access or improper use. We will continue to enhance our security procedures as new technology becomes available. 
+We may permit third parties to advertise their products or services through the Services (or through other websites and services) and we may advertise our own products on other websites too. In order to deliver these advertisements, we and these third parties (e.g. ad networks and ad servers) may place cookies or other tracking technologies on your computer, mobile phone, or other device to collect information about your use of the Services. We neither have access to, nor does this Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device you use to access the Services by non-affiliated, third-party ad technology, ad servers, ad networks or any other non-affiliated third parties. However, those parties that use these technologies may offer you a way to opt out of ad targeting as described below.
 
-While we make every effort to ensure that your information is secure on our system, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, we cannot guarantee the security of any information you transmit to us, and you do so at your own risk. 
-
-Your account information is password protected for your privacy and security. You can play an important role in keeping your personal information secure by maintaining the confidentiality of your password used on the Site. We recommend that you change your password from time to time for additional security. Please advise us immediately if there is any unauthorized use of your account by any other Internet user or any other breach of security. 
-
-Access authorization is granted to key Nature Delivered Inc. staff only. Backups are run to prevent loss of information, and our Internet servers are housed in secure facilities. 
+If you are interested in more information about tailored browser advertising and how you control cookies from being put on your computer to deliver tailored advertising, you may visit the [Network Advertising Initiative's website](http://www.networkadvertising.org/managing/opt_out.asp) and/or the [Digital Advertising Alliance's website](http://www.aboutads.info/choices/). You also can control advertising cookies from Google, by using its [Ads Preference Manager](https://www.google.com/settings/ads/onweb/?sig=ACi0TChRwpbntAMM2njihdXfozJJeFxAHpjCee18n5ZUFrx0f8Ag81ZmI54vN5AJDgezZbJiXkYJzMoIPZZ5IrzDPFotiE02HNJqcwNz6mqlWRRkiULVCbvp_56vm0MKiu_uNlIoIfHLZNZk4nM3PMRYKe24CwR6JlanqGrd1kJrWrKSpv82qlzOgEH_yTJ2vTcw2LO912QV&hl=e) (but we make no representations regarding the effectiveness or accuracy of any Google tools, or other opt-out mechanisms). Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out of tailored advertising. In such cases, the advertising will just not be tailored to your interests.
 
 back to top ↑
 
 * * *
 
-##  9\. Contact Details 
+##  6\. Your Choices: Controlling Your Information, from Accessing to Removing 
 
-If you have questions or concerns regarding this Privacy Policy, please contact;
+If you are a customer of ours, we may provide you access to account and usage information, such as: 
 
-> Privacy Officer,  
->  25 Colony Road,  
->  Jersey City,  
->  New Jersey 07030,  
->  USA. 
+  * Your service and transaction history
+  * Your delivery information (name, email, delivery addresses, billing zip code), which you can change at any time
+  * Your product ratings, which you can change at any time
+  * Your payment information, which you can change at any time
+  * Your dietary preferences, which you can change at any time
+  * The ability to change your password
+  * A list of your successful referrals
+
+
+
+To completely close your account, please contact customer service at [hi@graze.com](mailto:hi@graze.com). Closing your account will mean that you are no longer able to log in and place any orders, however we will retain the information for our records.
 
 back to top ↑
 
-**This privacy policy is effective as of February 16th 2015**
+* * *
+
+##  7\. Children Under Thirteen 
+
+Neither the Services nor any portion of the Services are intended for persons under the age of 13. If you are not at least 13 years of age, you should not use the Services. By using the Services, you represent that you are at least 13 years old.
+
+back to top ↑
+
+* * *
+
+##  8\. California Residents – Your California Privacy Rights 
+
+California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an email to [privacy@graze.com](mailto:privacy@graze.com).
+
+back to top ↑
+
+* * *
+
+##  9\. How We Respond to Do Not Track Signals 
+
+We are committed to providing you with meaningful choices about the information collected on our Services for third-party purposes, and that is why we provide above the Network Advertising Initiative's "Consumer Opt-out" link, Digital Advertising Alliance's Consumer Opt-Out Link, and the Google opt-out link. However, we do not recognize or respond to browser-initiated Do Not Track signals, as the Internet industry is currently still working on Do Not Track standards, implementations and solutions
+
+back to top ↑
+
+* * *
+
+##  10\. Security 
+
+Although we take certain precautions that we believe will help protect against unauthorized access to our Services or related systems, please understand that no security is 100 percent foolproof. We make no promises regarding the security, integrity, availability or retention of the information collected or handled by our Services or related systems
+
+back to top ↑
+
+* * *
+
+##  11\. Users From Outside the United States 
+
+The Services (or significant portions of the Services) are provided, supported and hosted in the United States. Use of the Services is governed by United States law and the laws of the applicable states within the United States. If you are using the Services from outside of the United States, please be aware that any information we collect under this Privacy Policy may be transferred to, stored and processed in the United States. The data protection and other laws of the United States are not always as comprehensive as those in other countries. By using the Services, you consent to your information being transferred to our facilities.
+
+back to top ↑
+
+* * *
+
+##  12\. Changes to Our Privacy Policy 
+
+We may update this Privacy Policy at any time for any reason. If we do so, we will post the updated Privacy Policy on the Site and indicate its effective date or the date it was posted. We encourage you to review the changes carefully. Your continued use of the Service will mean you consent to those changes.
+
+back to top ↑
+
+* * *
+
+##  13\. Third Party Websites and Data Collection 
+
+The Site may contain links to third parties' websites, or show content (including advertising) from third parties. Nature Delivered Inc. assumes no responsibility for the privacy practices or the content of those websites or third parties. Therefore, please read carefully any privacy policies on those websites before either agreeing to their terms or using those websites.
+
+back to top ↑
+
+* * *
+
+##  14\. Contact Us 
+
+If you have any questions, comments, or concerns regarding our Privacy Policy, please send a message to:
+
+> Privacy Officer  
+>  25 Colony Road  
+>  Jersey City, NJ 07305  
+>  [privacy@graze.com](mailto:privacy@graze.com)  
+> 
+
+back to top ↑
+
+**This privacy policy is effective as of March 2 2017**
