@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokebuddha.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001004834id_/http%3A//www.jokebuddha.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokebuddha.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613223628id_/http%3A//www.jokebuddha.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
