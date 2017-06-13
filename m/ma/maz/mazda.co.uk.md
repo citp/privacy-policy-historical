@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021123033id_/https%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613151211id_/https%3A//www.mazda.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies
 
