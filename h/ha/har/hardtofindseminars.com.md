@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122110829id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofindseminars.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613164257id_/http%3A//www.hardtofindseminars.com/PrivacyPolicyStatement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement LAST UPDATED July 23rd, 2005
 
@@ -76,6 +76,6 @@
 >  San Diego, CA 92117  
 >  USA
 > 
-> **This privacy policy was last updated on 01-19-2016.**
+> **This privacy policy was last updated on 01-19-2017.**
 > 
 > Copyright © 2008-2009  Michael Young PLLC, and licensed for use by the owner of this website at www.hardtofindseminars.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
