@@ -1,79 +1,133 @@
-> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125062153id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614015254id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-This policy covers both licensees of Tessitura Software and members of the Tessitura Network, Inc. (“Tessitura”) utilizing the website (“Licensees”) and visitors to the website who are not licensees.
+At Tessitura Network (“Network”, “we” or “us”), we respect and protect your privacy rights. This Privacy Policy describes: 
 
-This policy is subject to change at any time, with or without notice.  Every effort, however, will be made to keep it updated to reflect our current policies.
+  * When and what information we collect on our websites and through use of our online services (the "Services"), or by any of our service providers through our website.
+  * How we use Personal Information we collect.
+  * Your rights regarding your Personal Information.
+
+
+
+This Policy describes Network's practices regarding the collection, use, and retention of Personal Information. "Personal Information" is information through which you can be directly or indirectly identified, e.g. your name, your e-mail address and items you purchased (provided we can connect them to your e-mail/customer account) "Individual Customers" refers to licensees of Tessitura software and their designated employees.
+
+By using this website or our products and services, you consent to our collection, use and disclosure of your Personal Information as set out in this Privacy Policy.
+
+## Use of Personal Information
+
+The information that we collect from Individual Customers is used for licensing Tessitura software and supporting members in their use of that software, managing transactions, reporting, invoicing, renewals, and other operations related to providing services and products to the Individual Customer.
+
+When we host Tessitura software on behalf of a member, Tessitura Network serves as a service provider. In our capacity as a service provider, we will receive, store, and/or process Personal Information. In such cases, we are acting as a data processor and will process the Personal Information on behalf of and under the direction of our Individual Customers. The information that we store for our Individual Customers in this capacity is used by Individual Customers for managing transactions, reporting, invoicing, renewals, other operations related to providing services to the Individual Customer, and as otherwise requested by our partner and/or agent. Network uses Personal Information that it collects directly from its Individual Customers and for its partners indirectly in its role as a service provider for the following business purposes, without limitation:
+
+  1. maintaining and supporting its products, delivering and providing the requested products/services, and complying with its contractual obligations related thereto (including managing transactions, reporting, invoices, renewals, and other operations related to providing services to an Individual Customer); 
+  2. satisfying governmental reporting, tax, and other requirements (e.g., import/export); 
+  3. storing and processing data, including Personal Information, in computer databases and servers located in the United States; 
+  4. verifying identity (e.g., for online access to accounts); 
+  5. as requested by the Individual Customer; 
+  6. for other business-related purposes permitted or required under applicable local law and regulation; 
+  7. to protect the security or integrity of our websites and our business 
+  8. and as otherwise required by law.
+
+
+
+## Disclosures and Onward Transfers of Personal Information 
+
+Tessitura Network never discloses Personal Information to Third Parties, except as expressly set forth herein. 
+
+We will only disclose personally identifiable information that we collect or you provide as described in this Privacy Policy:
+
+  1. To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep Personal Information confidential and use it only for the purposes for which we disclose it to them. 
+  2. To fulfill the purpose for which you provide it. 
+  3. For any other purpose disclosed by us when you provide the information. 
+  4. With your consent.
+
+
+
+We may share your Personal Information where necessary in order to comply with any legal obligation, legal requests by public authorities, including requests to meet national security or law enforcement requirements, to protect and defend us, our subsidiaries and affiliates and all of our officers, directors, employees, attorneys, agents, contractors, and partners, in connection with any legal action, claim or dispute or in order to enforce or apply our terms of use and other agreements.
+
+We may transfer your Personal Information to a third party in the event of a transfer of all or some of our assets to a third party, provided that the third party agrees to adhere to terms similar to those of this Privacy Policy. If your information is subject to Privacy Shield we will provide you with an opportunity to reject the transfer of your Personal Information in such cases.
+
+We may disclose aggregated, non-personal information about website users without restriction.
+
+## Retention
+
+We will keep your Personal Information for as long as necessary for the purposes described herein or as long as we are required by law. After this your Personal Information will be deleted. We cannot remove your Personal Information when there is a legal storage requirement, such as accounting rules or when there are other legal grounds to keep the data, such as an ongoing contractual relationship.
+
+## Security
+
+The security of your Personal Information is important to us. Accordingly, while no set of privacy and security standards or safeguards is 100% secure, we take steps to ensure any information that you share with us is kept secure and strictly confidential in accordance with this policy. We take various precautions to protect information from loss, misuse and unauthorized access, collection, use, disclosure, copying, modification, alteration, destruction or similar risks. Tessitura Network personnel may access and use Personal Information only if they are authorized to do so and only for the purpose for which they are authorized.
+
+## California Residents
+
+Under California law, California residents who have an established business relationship with Network may make a written request to Network about how we have shared their Personal Information with third parties for direct marketing purposes during the prior calendar year. In response to a written request, Network is allowed to provide a cost-free means to opt-out of such sharing.
+
+Network does not share your Personal Information with third parties for direct marketing purposes and therefore is not required to provide such a procedure; however, if you would like to access, correct or request deletion of your Personal Information in Network’s possession please follow the cost-free procedures set forth herein.
+
+## Children’s Online Privacy Protection Act (“COPPA”)
+
+We do not knowingly collect, maintain, or use Personal Information from our Website about children under the age of 13. We request that persons under the age of 13 not use our Website. We will never knowingly request Personal Information from a child under the age of 13. If we become aware that a child under the age of 13 has sent Personal Information to us, we will remove his or her Personal Information from our files.
+
+## Services Location
+
+The Services are operated in the United States. If you are located outside the United States, please be aware that information we collect, including Personal Information, may be transferred to, processed, and stored in the United States. By using the Services or providing us with any information, you consent to the transfer, processing, and storage of your information in the United States. To the maximum extent allowed by applicable law, you are also consenting to the application of United States federal and Texas state law in all matters concerning the Services and this Privacy Policy.
 
 ## Password Protected Section of the Website
 
-Access to the password protected section of the website (“Licensee Section”) is restricted to such person(s) who are licensees of Tessitura Software or employees of Tessitura or those separately authorized for entry by Tessitura.
+Access to the password protected section of the website (“Licensee Section” or “Section”) is restricted to such person(s) who are licensees of Tessitura Software or employees of Tessitura or those separately authorized for entry by Tessitura.
 
-Passwords are issued on a per person basis and may be used only by the individual to whom the password is issued. All persons who access the Licensee Section agree to not share with or  provide access to this Section or share their password with anyone else, and also agree to not discuss pricing practices, terms or similar issues.
+Passwords are issued on a per person basis and may be used only by the individual to whom the password is issued. All persons who access the Licensee Section agree to not share with or provide access to this Section or share their password with anyone else, and also agree to not discuss pricing practices, terms or similar issues.
 
 Licensees are responsible for maintaining the security of any passwords issued by Tessitura to their employees and agree to promptly notify Tessitura in the event of a misappropriation or unauthorized disclosure of a password to a third party.
 
 ## Email Subscription Management
 
-As a member of Tessitura Network, you will automatically be signed up to receive Tessitura Network business and education email communications.  If you choose to opt out of these lists, you may do so at any time by managing the “Subscriptions” area on this website’s logged in My Account page, or from the “unsubscribe” mechanism at the bottom of all Tessitura Network email.
+As a member of Tessitura Network, you will automatically be signed up to receive Tessitura Network business and education email communications. If you choose to opt out of these lists, you may do so at any time by managing the “Subscriptions” area on this website’s logged in My Account page, or from the “unsubscribe” mechanism at the bottom of all Tessitura Network email.
 
 ## Confidentiality
 
-You agree not to distribute or share any information made available to you on the website except and solely to the extent reasonably necessary to operate your business in the ordinary course and consistent with any terms to which the information is expressly made subject where posted, any other agreements, such as licenses for the Tessitura Software or as restricted by applicable confidentiality agreements.  You further agree not to use, rent, or sell for marketing or other commercial purposes any data obtained from this website including user addresses, and any user web postings including comments or statements.
+You agree not to distribute or share any information made available to you on the website except and solely to the extent reasonably necessary to operate your business in the ordinary course and consistent with any terms to which the information is expressly made subject where posted, any other agreements, such as licenses for the Tessitura Software or as restricted by applicable confidentiality agreements. You further agree not to use, rent, or sell for marketing or other commercial purposes any data obtained from this website including user addresses, and any user web postings including comments or statements.
 
 ## IP Addresses
 
-An Internet protocol (“IP”) address is a numeric code, for example, “152.163.207.197.”  This code is used to communicate between your Internet service provider and the World Wide Web.  The IP address does not identify you individually.  Tessitura logs inbound IP addresses to administer our website and to compile aggregate information on site traffic for internal use.
+An Internet protocol (“IP”) address is a numeric code, for example, “152.163.207.197.” This code is used to communicate between your Internet service provider and the World Wide Web. The IP address does not identify you individually. Tessitura logs inbound IP addresses to administer our website and to compile aggregate information on site traffic for internal use.
 
 ## Cookies
 
-Cookies (and similar files such as single pixel GIFs, web beacons or tags) are small computer files written to your computer when you visit websites.  You have the option of setting your browser to refuse Cookies although this may diminish your ability to utilize the website.
+Cookies (and similar files such as single pixel GIFs, web beacons or tags) are small computer files written to your computer when you visit websites. You have the option of setting your browser to refuse Cookies although this may diminish your ability to utilize the website.
 
-Tessitura uses Cookies to collect anonymous, non-personal information to make your use of the website easier and allow Tessitura to track website usage.  For example, when you check the “Remember my Email” checkbox at Login, a  Cookie will remember your email address.
+Tessitura uses Cookies to collect anonymous, non-personal information to make your use of the website easier and allow Tessitura to track website usage. For example, when you check the “Remember my Email” checkbox at Login, a Cookie will remember your email address.
 
 ## Links to Other Websites
 
-Tessitura assumes no responsibility for any content, information collected, terms and conditions or privacy rules maintained on any linked site and we strongly encourage you to examine the privacy policies contained on these sites.  Please inform us at [webmaster@tessituranetwork.com](mailto:webmaster@tessituranetwork.com) about any concerns you may have regarding any of our linked sites. 
+Tessitura assumes no responsibility for any content, information collected, terms and conditions or privacy rules maintained on any linked site and we strongly encourage you to examine the privacy policies contained on these sites. Please inform us at [webmaster@tessituranetwork.com](mailto:webmaster@tessituranetwork.com) about any concerns you may have regarding any of our linked sites.
 
-## Age Restrictions
+## Access to and Your Rights Regarding Your Personal Information
 
-Tessitura’s website is not directed at children under the age of thirteen, and accordingly, Tessitura does not intentionally collect any personal information from anyone under age thirteen. 
+  1. **Right to Access**. Individual Customers have the right to know what Personal Information about them is included in our databases and to ensure that such Personal Information is accurate and relevant for the purposes for which Tessitura Network collected it. Individual Customers may review their own Personal Information stored in the databases and correct, erase, or block any data that is incorrect, as permitted by applicable law and Tessitura Network policies. Upon reasonable request, Tessitura Network allows Individual Customers access to their Personal Information, in order to correct or amend such data where inaccurate. Individual Customers may edit their Personal Information by logging into their account profile or by contacting Tessitura Network by phone at 888-643-5778 or email at [privacy@tessituranetwork.com](mailto:privacy@tessituranetwork.com). In making modifications to their Personal Information, Individual Customers must provide only truthful, complete, and accurate information. To request erasure of Personal Information, Individual Customers should submit a written request to Tessitura Network.
+  2. **Satisfying Requests for Access, Modifications, and Corrections**. Tessitura Network will endeavor to respond in a timely manner to all reasonable written requests to view, modify, or inactivate Personal Information. You may access information we hold about you, request a correction where data is incorrect or a deletion of your data, unless we have to keep your data for legal reasons.
+  3. **Questions and Concerns**. We encourage you to address any concerns you may have regarding our use of your Personal Information by using the contact details provided herein.
 
-## U.S. Department of Commerce Privacy Shield
 
-Tessitura Network complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Tessitura Network has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
-##  U.S. - Swiss Safe Harbor
+## Changes to this Policy 
 
-Tessitura Network complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Tessitura Network has certified that it adheres to the U.S.-Swiss Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Tessitura Network’s certification, please visit <http://www.export.gov/safeharbor/>
+This Policy may be amended from time to time, consistent with applicable data protection and privacy laws and principles. We will make employees available of changes to this policy either by posting to our intranet, through email, or other means. We will notify Customers if we make changes that materially affect the way we handle Personal Information previously collected, and we will allow them to choose whether their Personal Information may be used in any materially different manner.
 
-_PRIVACY PRINCIPLES_ :  The privacy principles listed below are based on the Safe Harbor Principles.
+## Questions or Complaints
 
-_NOTICE_ : Where Tessitura collects personal information directly from individuals in the EEA, Tessitura does not use or disclose the information for a purpose other than that for which it was originally collected nor does Tessitura disclose information to any third party other than subcontractors of Tessitura Network, Inc. who are bound to the same obligations of confidentiality.  Where Tessitura provides data processing services to members through our RAMP or RADR programs, Tessitura acts only as a processor of the data and not the data collector.  Such data collectors are required to comply with all applicable EU Member State Data Protection regime, thereby ensuring the data subjects have been provided with proper notice regarding how their personal data will be used.
-
-_CHOICE_ : As stated above, Tessitura does not use or disclose personal information to any third party.  For purposes of these standards, opt-out is the default and only choice.
-
-_DATA INTEGRITY_ : Tessitura will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Tessitura will take reasonable steps to ensure that personal information is relevant to its intended use, accurate, complete, and current. We will only collect and store personal information that is relevant to fulfill the purpose of the request and will retain such information no longer than appropriate to fulfill the purpose of the request.
-
-_TRANSFERS TO AGENTS or THIRD PARTIES_ : Tessitura will not transfer personal information to any third party.
-
-_ACCESS AND CORRECTION_ : Upon request, Tessitura will grant individuals reasonable access to personal information that it holds about them. In addition, Tessitura will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. 
-
-_SECURITY_ : Tessitura will take reasonable precautions to protect personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
-
-_ENFORCEMENT_ : Tessitura will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that Tessitura determines to have intentionally violated this policy will be subject to disciplinary action up to and including termination of employment.
-
-_DISPUTE RESOLUTION_ : Any questions or concerns regarding the use or disclosure of personal information should be directed to the address given below. Tessitura will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between Tessitura and the complainant, Tessitura has agreed to participate in the dispute resolution procedures of the American Arbitration Association pursuant to the Safe Harbor Principles.
-
-_LIMITATIONS ON APPLICATION OF PRINCIPLES_ :  Adherence by Tessitura to these Safe Harbor Principles may be limited (a) to the extent required or permitted by law or legal process, such as to respond to or investigate a legal or ethical obligation or request or pursuant to court orders, subpoenas, interrogatories or similar directive carrying the force of law; and (b) to the extent expressly permitted by an applicable law, rule or regulation.
-
-## Contact Us
-
-If you have any questions about the use of your personal information or would like to correct or amend any personal information we maintain about you, please feel free to contact us at [webmaster@tessituranetwork.com](mailto:webmaster@tessituranetwork.com), or send a letter to:
+Customers may contact Tessitura Network with questions or complaints concerning this Policy at the following address: [privacy@tessituranetwork.com](mailto:privacy@tessituranetwork.com).  You may also write us at:
 
 Tessitura Network, Inc.   
 P.O. Box 670245  
 Dallas, TX  75367-0245
 
-Version updated November 2009
+## Enforcement and Dispute Resolution
+
+Tessitura Network commits to resolve complaints about your privacy and our collection or use of your Personal Information. EU individuals with questions or concerns about the use of their Personal Information should contact us at: [privacy@tessituranetwork.com](mailto:privacy@tessituranetwork.com).
+
+If a Customer's question or concern cannot be satisfied through this process Tessitura Network has further committed to refer unresolved privacy complaints to an independent dispute resolution mechanism operated by the International Centre for Dispute Resolution/American Arbitration Association (ICDR/AAA).
+
+Tessitura Network commits to take steps to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of the employment relationship.
+
+_Version updated March, 2017_
