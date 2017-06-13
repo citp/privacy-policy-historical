@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mu.edu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121022926id_/http%3A//mu.edu/tools/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mu.edu privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613175958id_/http%3A//mu.edu/tools/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy // Marquette University
 
