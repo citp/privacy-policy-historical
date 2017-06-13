@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131557id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reimageplus.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613182423id_/http%3A//www.reimageplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reimageplus.com
 
-This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: 5/12/2015. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
+This document explains the privacy policy and practices of Reimageplus.com, a web-based PC maintenance and repair service operated by Reimage Limited ("Reimage" or the "Service"). This Policy is part of the Terms of Service for using Reimage. This Policy was last updated on: 2/6/2017. At Reimage, protecting your personal information is an essential part of our Service. This Policy explains what personal information we collect from you, why we collect it and how we use it.
 
-Reimage Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us, at [about@reimageplus.com](mailto:about@reimageplus.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site, [http://www.reimageplus.com/](https://web.archive.org/) and does not cover information that may be collected through any software downloaded from this Web site.
+If you have questions or complaints regarding our privacy policy or practices, please contact us, at [about@reimageplus.com](mailto:about@reimageplus.com).
 
 ### What Personal Information Do We Collect?
 
@@ -86,7 +86,7 @@ We use cookies to remember users’ settings (e.g. language preference). Users c
 Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as Flash to collect and store information.  
 To manage Flash LSOs please click [here.](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 ### Third Party Websites
 
