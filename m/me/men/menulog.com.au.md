@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015001127id_/https%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menulog.com.au privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613105711id_/https%3A//www.menulog.com.au/menulog_privacy) for the most accurate reproduction.*
 
 # Privacy - Menulog
 
@@ -20,15 +20,19 @@ By visiting and/or using the Service on the Website, you agree and, where requir
 
 2.2. We may use your information to contact you for your views on the Service and to notify you occasionally about important changes or developments to the Website or the Service. 
 
-2.3. Where you have indicated accordingly by giving your consent, you agree that we may use your information to let you know about our other products and services that may be of interest to you including services that may be the subject of direct marketing and we may contact you to do so by post, telephone, mobile messaging (e.g. SMS, MMS etc.) as well as by e-mail in accordance with the Spam Act and the Privacy Act. 
+2.3. When you register with Menulog, you consent to Menulog using your personal information for direct marketing purposes to communicate with you by phone, email or SMS and, if you use our mobile application, via push notification, to tell you about offers, updates and our products and services that may be of interest to you. 
 
-2.4. Where you have indicated accordingly by giving your consent, you agree that we may also share information with third parties (including those in the food, drink, leisure, marketing and advertising sectors) to use your information in order to let you know about goods and services which may be of interest to you (by post, telephone, mobile messaging (e.g. SMS, MMS etc.) and/or e-mail) in accordance with the Spam Act and the Privacy Act. We may also disclose your information to help us analyse the information which we collect so that we can administer, support, improve and develop our business and services to you. For example, by providing anonymised personal information to Google Analytics – see attached link - “ **How Google uses data when you use our partners' sites or apps** ”, (located at www.google.com/policies/privacy/partners). 
+You may choose to stop receiving direct marketing communications from a channel at any time by using the unsubscribe mechanism in the marketing communication itself. To opt-out of communications via email click the "unsubscribe" link at the bottom of the email and to opt-out of communications by SMS reply with "STOP". You may also decline marketing messaging sent by push notifications by refusing the relevant permission to our app in your phone or tablet settings, however this will also prevent you from receiving order updates via push. 
+
+2.4. Where you have given express consent, you agree that we may also share information with third parties (including those in the food, drink, leisure, marketing and advertising sectors) to use your information in order to let you know about goods and services which may be of interest to you (by post, telephone, mobile messaging (e.g. SMS, MMS etc.) and/or e-mail) in accordance with the Spam Act and the Privacy Act. 
+
+We may also disclose your information to help us analyse the information which we collect so that we can administer, support, improve and develop our business and services to you. 
 
 2.5. You agree that we may disclose personal information which we collect from you to other companies that also hold information about you. We may also collect personal information from those other companies. We and/or those companies may combine the information in order to better understand your preferences and interests, thereby enabling them and us to serve you better. 
 
-2.6 If you do not want us to use your data in this way or change your mind about being contacted in the future, please let us know by using the contact details set out in paragraph 8 below, by amending your profile accordingly or by using the opt-out facilities provided (eg an unsubscribe link).
+2.6 If you do not want us to use your data in this way or change your mind about being contacted in the future, please let us know by using the contact details set out in paragraph 8 below, by amending your profile accordingly or by using the opt-out facilities provided (eg an unsubscribe link). 
 
-2.7. Please note that by submitting Reviews regarding the Website, Service and/or Restaurants, you consent to us to use such Reviews on the Website and in any marketing or advertising materials. We will only identify you for this purpose by your first name and the city in which you reside (and any other information that you may from time to time consent to us disclosing).
+2.7. Please note that by submitting Reviews regarding the Website, Service and/or Restaurants, you consent to us to use such Reviews on the Website and in any marketing or advertising materials. We will only identify you for this purpose by your first name and the city in which you reside (and any other information that you may from time to time consent to us disclosing). 
 
 3\. DISCLOSURE OF YOUR INFORMATION
 
@@ -50,22 +54,24 @@ By visiting and/or using the Service on the Website, you agree and, where requir
 
 4.4. However, the transmission of information via the internet is not completely secure. Although we will take reasonable steps to protect your information and make sure it is safe and secure and we use a number of physical, administrative, personnel and technical measures to protect your personal information, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. For the avoidance of doubt, Menulog will not in any circumstances be liable to you, or third parties, for loss or damage arising from credit card fraud or identity theft.
 
-5\. COOKIES
+5\. COOKIES AND THIRD PARTY ANALYTICS AND ADVERTISING
 
-5.1 We may collect personal information about you when you use and access our website. While we do not use browsing information to identify you personally, we may record certain information about your use of our website, such as which pages you visit, the time and date of your visit and the internet protocol address assigned to your computer. 
+5.1. We may collect personal information about you when you use and access our website. While we do not use browsing information to identify you personally, we may record certain information about your use of our website, such as which pages you visit, the time and date of your visit and the internet protocol address assigned to your computer. 
 
-We may also use 'cookies' or other similar tracking technologies on our website that help us track your website usage and remember your preferences. Cookies are small files that store information on your computer, TV, mobile phone or other device. They enable the entity that put the cookie on your device to recognise you across different websites, services, devices and/or browsing sessions. You can disable cookies through your internet browser but our websites may not work as intended for you if you do so.
+5.2. We may also use 'cookies' or other similar tracking technologies on our website that help us track your website usage and remember your preferences. Cookies are small files that store information on your computer, TV, mobile phone or other device. They enable the entity that put the cookie on your device to recognise you across different websites, services, devices and/or browsing sessions. You can disable cookies through your internet browser but our websites may not work as intended for you if you do so.
 
-We may also use cookies to enable us to collect data that may include personal information. For example, where a cookie is linked to your account, it will be considered personal information under the Privacy Act. We will handle any personal information collected by cookies in the same way that we handle all other personal information as described in this Privacy Policy. 
+5.3. We may also use cookies to enable us to collect data that may include personal information. For example, where a cookie is linked to your account, it will be considered personal information under the Privacy Act. We will handle any personal information collected by cookies in the same way that we handle all other personal information as described in this Privacy Policy. 
+
+5.4. This site uses the Google Analytics cookie, and other cookies and identifiers to collect anonymous, aggregated audience data in order to measure user interactions on our site and improve our service. This includes the use of Google Analytics Advertiser Features which provides Demographic and Interest reports, Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration. For more information on how this works and to opt-out of this service, please visit the following Google support page:[ https://support.google.com/analytics/answer/2700409?hl=en ](https://support.google.com/analytics/answer/2700409?hl=en)
 
 6\. ACCESSING AND UPDATING
 
-6.1. You have the right to see the information we hold about you and to ask us to make any changes to ensure that it is accurate and up to date. If you wish to do this, please contact us using the contact details set out in paragraph 8 below.
+You have the right to see the information we hold about you and to ask us to make any changes to ensure that it is accurate and up to date. If you wish to do this, please contact us using the contact details set out in paragraph 8 below.
 
 7\. CHANGES TO OUR PRIVACY POLICY
 
-7.1. Any changes to our Privacy Policy will be posted to the Website and, where appropriate, through e-mail notification. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.
+Any changes to our Privacy Policy will be posted to the Website and, where appropriate, through e-mail notification. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.
 
 8\. CONTACT
 
-8.1. All comments, queries and requests relating to our use of your information are welcomed. You can also lodge a complaint if you think we have breached the Privacy Act (Cth) 1988 in relation to your personal information. We will acknowledge your complaint and respond to you regarding your complaint within a reasonable period of time. If you think that we have failed to resolve the complaint satisfactorily, we will provide you with information about the further steps you can take. All correspondence should be addressed to Menulog Pty Ltd at Suite 901, Level 9, 447 Kent Street, Sydney NSW, 2000 Australia. Alternatively, you can contact us by emailing [enquiries@menulog.com.au](mailto:enquiries@menulog.com.au) or by calling 1300 664 335.
+All comments, queries and requests relating to our use of your information are welcomed. You can also lodge a complaint if you think we have breached the Privacy Act (Cth) 1988 in relation to your personal information. We will acknowledge your complaint and respond to you regarding your complaint within a reasonable period of time. If you think that we have failed to resolve the complaint satisfactorily, we will provide you with information about the further steps you can take. All correspondence should be addressed to Menulog Pty Ltd at Level 23, 227 Elizabeth Street, Sydney NSW, 2000 Australia. Alternatively, you can contact us by emailing [privacy@menulog.com](mailto:privacy@menulog.com) or by calling 02 9240 8188. Menulog is owned and operated by Just Eat Holding Limited.
