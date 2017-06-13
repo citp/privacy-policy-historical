@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229225656id_/http%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedcafe.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613223016id_/http%3A//www.speedcafe.com/privacy-policy) for the most accurate reproduction.*
 
 # Speedcafe Pty Ltd Privacy Policy - Speedcafe
 
@@ -91,11 +91,11 @@ All of our electronic marketing activities will comply with the requirements of 
 
 We have a strict duty to maintain the privacy of all personal information we hold about you. However, certain exceptions do apply. For example, where disclosure of your personal information is:
 
-  *  **authorised or required by law**  
+  * **authorised or required by law**  
 e.g. disclosure to various government departments and agencies such as the Australian Taxation Office, CentreLink, Child Support Agency, or disclosure to courts under subpoena.
-  *  **in the public interest**  
+  * **in the public interest**  
 e.g. where a crime, fraud or misdemeanour is committed or suspected, and disclosure against the customer’s rights to confidentiality is justified.
-  *  **with your consent**  
+  * **with your consent**  
 Your consent may be implied or express and it may also be verbal or written.
 
 
@@ -149,6 +149,10 @@ The Speedcafe Pty Ltd site contains links to other sites. We are ultimately not 
 
 Some of the content appearing on the Speedcafe Pty Ltd website may be supplied by third parties, for example, by framing third party web sites or the incorporation through “framesets” of content supplied by third party application service providers. In such cases Speedcafe Pty Ltd will ensure that our contractual arrangements with these third parties protect your personal information in compliance with privacy laws.
 
+### Website comments
+
+The Speedcafe Pty Ltd site contains comments submitted by website users.  Comments are automatically published by DISQUS. We are ultimately not responsible for inappropriate comments. Speedcafe.com goes to every effort to ensure inappropriate comments are removed immediately. We encourage users to flag/report comments which should be removed from public viewing.
+
 ### Searches
 
 Search terms that you enter when using our search engine are collected, but are not associated with any other information that we collect. We use these search terms for the purpose of aggregated statistical analyses so we can ascertain what people are looking for on our website, and to improve the services that we provide.
@@ -176,10 +180,10 @@ Speedcafe Pty Ltd will take reasonable steps to protect personal information no 
 You can obtain further general information about your privacy rights and privacy law from the Office of the Australian Information Commissioner by:
 
   * calling their Privacy Hotline on 1300 363 992, or
-  * visiting their web site at www.privacy.gov.au(External link), or
+  * visiting their web site at www.privacy.gov.au (External link) , or
   * by writing to:  
 The Australian Information Commissioner
 
 
 
- **Last Updated:** 15 April 2015
+**Last Updated:**  20 February 2017
