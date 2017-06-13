@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042315id_/http%3A//storybird.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storybird.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613202404id_/https%3A//storybird.com/privacy) for the most accurate reproduction.*
 
 # Storybird - Privacy Policy
+
+As a Student Privacy Pledge signatory we are committed to providing a service that keeps students safe. All student work is private, and we do not require student profiles, sell any user data, or allow third parties to advertise to students. We are currently revising the language used in our Privacy Policy to align it with the language used in the Student Privacy Pledge. 
 
 Last Updated: February 23, 2015
 
