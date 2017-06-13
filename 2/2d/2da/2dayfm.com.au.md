@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128093914id_/http%3A//www.2dayfm.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dayfm.com.au privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613054016id_/https%3A//www.hit.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Southern Cross Austereo Pty Ltd (ACN 109 243 110) ( **SCA** ) and our related bodies corporate operate a number of commercial radio stations, television stations, websites, and other media platforms throughout Australia. In the course of conducting our business we may collect and handle your personal information.
+Southern Cross Austereo Pty Ltd (ACN 109 243 110) ( **SCA** ) and our related bodies corporate operate a number of commercial radio stations, television stations, websites, and other media platforms throughout Australia, including PodcastOne Australia. In the course of conducting our business we may collect and handle your personal information.
 
-We are committed to the protection of your personal information and meeting the standards set out in the _Privacy Act 1988_ (Cth) ( **the Act** ), including the Australian Privacy Principles ( **APPs** ). This Privacy Policy sets out how we will handle the personal information that we collect and hold.
+We are committed to the protection of your personal information and meeting the standards set out in the Privacy Act 1988 (Cth) ( **the Act** ), including the Australian Privacy Principles ( **APPs** ). This Privacy Policy sets out how we will handle the personal information that we collect and hold.
 
 ### **Collection of Information**
 
@@ -96,11 +96,11 @@ If you no longer wish to receive marketing or other communications from us, plea
 We may disclose personal information to:
 
   * our related bodies corporate;
-  * third parties engaged by us to provide functions on our behalf (such as storing and managing databases, processing credit card information, mailouts, debt collection, marketing research and advertising), some of which may be located overseas, including in Canada and Singapore;
-  * third parties who supply us with content for broadcast and/or industry groups such as Commercial Radio Australia ( **CRA** ), Free TV Australia or the Advertising Standards Bureau, where you make a complaint about a broadcast;
-  * regulators and government agencies, such as the Australian Communications and Media Authority ( **ACMA** );
+  * third parties engaged by us to provide functions on our behalf (such as storing and managing databases, processing credit card information, mailouts, debt collection, marketing research and advertising), some of which may be located overseas, including in Canada, Singapore and the USA;
+  * third parties who supply us with content for broadcast and/or industry groups such as Commercial Radio Australia (CRA), Free TV Australia or the Advertising Standards Bureau, where you make a complaint about a broadcast;
+  * regulators and government agencies, such as the Australian Communications and Media Authority (ACMA);
   * third parties to whom you authorise us to disclose your personal information; and
-  * our sponsors and promotions partners where you have expressly consented ("opted in") to being contacted by them.
+  * our sponsors and promotions partners where you have expressly consented (“opted in”) to being contacted by them.
 
 
 
@@ -114,15 +114,11 @@ If you believe that the personal information we hold about you is incorrect or o
 
 ### **Data security**
 
-We store your personal information in a number of secure computer storage facilities and paper based files, and in other records. We may also engage third party service providers to assist in storing and processing certain types of personal information for us, some of which may be located overseas.
-
-We take reasonable steps to ensure that the personal information we hold about you is protected from misuse, interference and loss and from unauthorised access, modification or disclosure.
+We store your personal information in a number of secure computer storage facilities and paper based files, and in other records. We may also engage third party service providers to assist in storing and processing certain types of personal information for us, some of which may be located overseas.We take reasonable steps to ensure that the personal information we hold about you is protected from misuse, interference and loss and from unauthorised access, modification or disclosure.
 
 ### **Access** **and correction**
 
-If you wish to request access to, or correction of any personal information we may hold about you, please contact us on the details below.
-
-Generally, we will provide you with access to your personal information unless one of the exceptions set out in the APPs applies to your request, such as where providing access would unreasonably impact on the privacy of others. If one of these exceptions applies, we may, if reasonable, provide access to the personal information in a way that meets our needs and yours (for example by giving you access through a mutually agreed intermediary), although this will not always be possible.
+If you wish to request access to, or correction of any personal information we may hold about you, please contact us on the details below.Generally, we will provide you with access to your personal information unless one of the exceptions set out in the APPs applies to your request, such as where providing access would unreasonably impact on the privacy of others. If one of these exceptions applies, we may, if reasonable, provide access to the personal information in a way that meets our needs and yours (for example by giving you access through a mutually agreed intermediary), although this will not always be possible.
 
 We may charge a fee for giving access to personal information which reflects our costs of providing access.
 
@@ -134,13 +130,13 @@ For more information on how we handle your personal information, or if you are c
 
 We will take any privacy complaint seriously, and we aim to resolve all complaints in a timely and efficient manner. We request that you cooperate with us during this process and provide us with relevant information we may require.
 
-We expect our procedures will deal fairly and promptly with your complaint. However, if you are unsatisfied with our response, you can make a complaint to the Office of the Australian Information Commissioner (OAIC) on by calling 1300 363 992 or visiting the OAIC website at [www.oaic.gov.au](http://www.oaic.gov.au/).
+We expect our procedures will deal fairly and promptly with your complaint. However, if you are unsatisfied with our response, you can make a complaint to the Office of the Australian Information Commissioner (OAIC) on by calling 1300 363 992 or visiting the OAIC website at [www.oaic.gov.au](http://www.oaic.gov.au/).
 
 ### **Contact us**
 
-Mail: The Privacy Officer   
-Southern Cross Austereo   
-PO Box 345   
+Mail: The Privacy Officer  
+Southern Cross Austereo  
+PO Box 345  
 South Melbourne, VIC, 3205
 
 Email: [privacy@sca.com.au](mailto:privacy@sca.com.au)
@@ -149,6 +145,6 @@ Phone: (03) 9252 1019
 
 ### **Changes to our Privacy Policy**
 
-SCA will review this Privacy Policy from time to time to ensure that it accurately reflects our practices and procedures as well as any changes in the law. We will notify you of any changes to this Policy by posting an amended version on our website ([www.southerncrossaustereo.com.au](http://www.southerncrossaustereo.com.au/)), and changes will take effect from the date of posting.
+SCA will review this Privacy Policy from time to time to ensure that it accurately reflects our practices and procedures as well as any changes in the law. We will notify you of any changes to this Policy by posting an amended version on our website([www.southercrossaustereo.com.au](http://www.southercrossaustereo.com.au/)), and changes will take effect from the date of posting.
 
-Last updated: June 2016
+Last updated: May 2017
