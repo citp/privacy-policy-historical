@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbc.edu privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125024949id_/http%3A//sbc.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbc.edu privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613130123id_/http%3A//sbc.edu/privacy-policy) for the most accurate reproduction.*
 
 # Sweet Briar College | Privacy Policy
 
