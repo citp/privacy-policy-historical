@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122154617id_/http%3A//www.myzone.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzone.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613172729id_/http%3A//myzone.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | MYZONE
+# Group Heart Rate | Privacy Policy | MYZONE
+
+## **Privacy Policy**
 
 **_Effective 5, October 2016_**
 
