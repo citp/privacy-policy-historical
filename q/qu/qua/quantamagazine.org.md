@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantamagazine.org privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112174318id_/https%3A//www.quantamagazine.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantamagazine.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613102610id_/https%3A//www.quantamagazine.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quanta Magazine
 
@@ -19,4 +19,4 @@ Please be aware that our information-sharing forums such as commenting are acces
 
 We are committed to conducting our site in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. You will immediately notify us at Quanta(replace this with the @ sign)SimonsFoundation.org if you learn of any unauthorized use of your subscription or other product. We are not liable for any loss or damage from your failure to comply with our privacy policy.
 
-Additional information and policies can be found in our [Terms & Conditions](https://www.quantamagazine.org/terms-conditions/) document.
+Additional information and policies can be found in our [Terms & Conditions](https://www.quantamagazine.org/terms-conditions/) document.
