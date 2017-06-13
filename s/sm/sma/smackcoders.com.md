@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smackcoders.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129035314id_/https%3A//www.smackcoders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smackcoders.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613145953id_/https%3A//www.smackcoders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Smackcoders
 
