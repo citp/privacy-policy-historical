@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thebeautydepartment.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616172505id_/http%3A//thebeautydepartment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebeautydepartment.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613130419id_/http%3A//thebeautydepartment.com/policy) for the most accurate reproduction.*
 
-# The Beauty Department: Your Daily Dose of Pretty. - privacy policy
-
-PRIVACY POLICY
+# The Beauty Department: Your Daily Dose of Pretty. - policy
 
 How We Collect Information About You
 
@@ -28,7 +26,7 @@ Our primary purpose in collecting personal information is to provide you with th
   * provide membership services and requested customer support for us or our affiliates;
   * provide information you allow us to provide to other users of our site.
   * prevent potentially prohibited or illegal activities, and enforce our Terms and Conditions;
-  * customize, troubleshoot, and improve www.thebeautydepartment.com and the content and layout of our website and applications;
+  * customize,troubleshoot, and improve www.thebeautydepartment.com and the content and layout of our website and applications;
   * deliver targeted marketing, service update notices, and promotional offers based on your communication preferences from us or our affiliates;
   * compare information for accuracy and verify it with third parties.
 
