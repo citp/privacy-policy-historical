@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225215200id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theugandanjobline.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613034336id_/http%3A//www.theugandanjobline.com/p/this-privacy-policy-sets-out-how-uses.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY ~ Ugandan Jobline Jobs - The Best Uganda Jobs
 
-### [Programme Officer - Research, Documentation and Advocacy (RDA) NGO Jobs - Center for Health, Human Rights & Development (CEHURD)](http://www.theugandanjobline.com/2016/12/programme-officer-research-documentation-and-advocacy-rda-ngo-jobs-center-for-health-human-rights-development-cehurd.html)
+### [50 No Experience Sales & Marketing Officer Job Opportunities - Human Resource Service Centre (HRSC) ](http://www.theugandanjobline.com/2017/06/50-fresher-sales-marketing-officer-job-opportunities-human-resource-service-centre-hrsc.html)
 
-Job Title:     Programme Officer - Research, Documentation and Advocacy (RDA) Organization: Center for Health, Human Rights & Develo... 
+Job Title:      Sales & Marketing Officer (50 Fresher Jobs) Organisation: Human Resource Service Centre (HRSC) Duty Station: Kamp... 
 
 [ ](https://www.blogger.com/rearrange?blogID=5878136938400860152&widgetType=FeaturedPost&widgetId=FeaturedPost1&action=editWidget&sectionId=main "Edit")
 
