@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndham.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Wyndham Hotels and Resorts
 
@@ -22,13 +22,13 @@ This Privacy Notice does not apply to hotels operated by franchisees (independen
 
 **Your Acceptance of Our Privacy Notice:** By using the Services, you accept the terms of this Privacy Notice and the ways we may use your information. If you do not accept the terms of this Notice, please do not continue to use the Services.
 
-[What Information Is Collected and How Is It Collected?](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Collected)  
-[How Do We Use Your Information?](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#UseInfo)  
-[How Do We Disclose Your Information?](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Disclose)  
-[How Do We Safeguard Your Information?](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Safeguard)  
-[Other Important Information](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Important)  
-[Choices and Contact Us with Your Questions](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Choices)  
-[Contact Information](https://web.archive.org/web/20161112003129id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Contact)  
+[What Information Is Collected and How Is It Collected?](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Collected)  
+[How Do We Use Your Information?](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#UseInfo)  
+[How Do We Disclose Your Information?](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Disclose)  
+[How Do We Safeguard Your Information?](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Safeguard)  
+[Other Important Information](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Important)  
+[Choices and Contact Us with Your Questions](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Choices)  
+[Contact Information](https://web.archive.org/web/20170613184625id_/http%3A//www.wyndham.com/terms-policy/privacy-policy#Contact)  
 
 
 #### What Information Is Collected and How Is It Collected?
