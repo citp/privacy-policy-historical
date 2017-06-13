@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621053736id_/http%3A//www.grandinroad.com/privacy-rights/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandinroad.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613173722id_/http%3A//www.grandinroad.com/privacy-rights/content) for the most accurate reproduction.*
 
-# Privacy & Security - Grandin Road
+# Privacy & Security | Grandin Road
 
-Last updated May 18th, 2015.
+Last updated January 4th, 2017.
 
 Grandin Road respects your privacy. As a member of the Direct Marketing Association (DMA), Grandin Road follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [_www.dmachoice.org_](http://www.dmachoice.org/).
 
@@ -97,27 +97,8 @@ Grandin Road
 West Chester, OH 45069   
 [_ps@grandinroad.com_](mailto:ps@grandinroad.com)
 
-### Your California Privacy Rights
-
-California Residents:
-
-  * If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the HSNi companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information: 
-
-1\. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year;   
-2\. the names and addresses of the third parties that received that information; and   
-3\. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed. 
-
-
-
-
-We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [ps@grandinroad.com](mailto:ps@grandinroad.com)
-
-  * Currently, our online Services do not recognize automated browser signals regarding "do not track" instructions. If we develop this capability in the future, we will describe how we do so in the HSN Privacy Policy. Please note that third parties may collect personal information about your online activities over time and across different websites when you use our online Services or browse other websites. For more information about "Do Not Track," please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
-
-
-
-© 2008 - 2014 HSN, Inc. All rights reserved.
-
 ### Mobile Services:
 
 We may also collect non-personal information from your mobile device if you have downloaded any of our mobile application(s). This information is generally used to help us deliver the most relevant information to you. Examples of information that may be collected and used may include, but are not limited to, your geographic location, how you use our application(s), and information about the type of device you use. This information is sent to us as aggregate information, and is not traceable back to any individual and cannot be used to identify an individual. To opt out of sharing this information, such as location, please review the terms and conditions before you download the application, or you may review the settings on your mobile device or you may choose at any time to uninstall our application(s) from your mobile device.
+
+© 2008 - 2017 HSN, Inc. All rights reserved.
