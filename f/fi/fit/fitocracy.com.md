@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitocracy.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114145845id_/https%3A//www.fitocracy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitocracy.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613040303id_/https%3A//www.fitocracy.com/privacy-policy) for the most accurate reproduction.*
 
 # Fitocracy | Privacy Policy
 
