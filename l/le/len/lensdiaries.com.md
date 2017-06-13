@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830185620id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensdiaries.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614002633id_/http%3A//www.lensdiaries.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Lens Diaries™
 
@@ -79,12 +79,3 @@ By Email:
 If a user or member wishes not to receive any emails from the administrator, the LensDiaries.com updates, and/or any type of LensDiaries.com newsletters, then they must delete their entire account. Part of the joining this site requires that you opt-in to our administrative and LensDiaries.com updates and/or any type of newsletters we may send. Please keep in mind, we do not like spam and we adhere to the CAN-SPAM act. We do our best to minimize any administrative or LensDiaries.com emails to our users, but in order to contact you from time to time, we must have the ability to email you personally. Again, we do not spam nor believe in it! 
 
 Privacy of our email lists: LensDiaries.com does not provide the actual email addresses when a list is sold or rented. All members of any lists owned by LensDiaries.com. agreed to join our list before being accepted and can opt-out without any questions or reasons according to the guidelines provide above under our privacy policy and options, 100% and instantly, at any time. None of our lists are sold or rented to any type of spam or spam services. LensDiaries.com supports all anti-spamming legislation and existing laws. If you have any questions, [please contact us](http://www.lensdiaries.com/contact/).
-
-Welcome to LensDiaries.com (Lens Diaries™), a hybrid photography blog with social flair. The photoblog provides photo tips, photo tutorials and photo diaries by professional photographer, author, writer, speaker and social media consultant, Rolando Gomez. 
-
-Lens Diaries™ is open to all levels of photographers, beginners to advanced, including fine art photography, fashion photography, wedding photography, portrait photography, people photography, baby photography, sports photography, nature photography, iphoneography, landscape photography, studio photography, underwater photography, etc. 
-
-Our primary photography focus is digital photography and digital cameras. From iPhones to Canon’s and Nikon’s, you can count on us!
-
-  
-
