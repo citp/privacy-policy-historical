@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asicentral.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206125958id_/http%3A//www.asicentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicentral.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613023615id_/http%3A//asicentral.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ ASI publishes in print and electronic formats business information provided by i
 
 When you visit our Web site, you provide us with information about your company that we collect and may use and/or share with others for marketing purposes, including informing your company of new products, services and trade shows that are designed to help you grow your business.
 
-The ASI website may use third party cookies to track user behaviors while on this website. These cookies help us understand how visitors interact with our webpages and personalize the website accordingly. This data may be used by third parties to preform targeted advertising on other sites based on your viewing history. To opt out of these ads you can turn off the cookies in your browser, or visit <http://www.networkadvertising.org/choices/>.
+The ASI website may use third party cookies to track user behaviors while on this website. These cookies help us understand how visitors interact with our webpages and personalize the website accordingly. This data may be used by third parties to perform targeted advertising on other sites based on your viewing history. To opt out of these ads you can turn off the cookies in your browser, or visit <http://www.networkadvertising.org/choices/>.
 
 **Security**  
 Your payment and personal information are always safe. The information you provide to an ASIcentral.com Web site covered by this policy is protected in transit by using a network protocol called Secure Sockets Layer (SSL). SSL is the industry standard technology for secure online transactions. A simple way to know your transmission is protected is by referencing the URL. If it starts with https://, you can be assured that it is using SSL. Transactions are processed only from secure browsers. These browsers encrypt the information sent using SSL, which scrambles the data to make it extremely difficult for anyone who intercepts the information to read it.
