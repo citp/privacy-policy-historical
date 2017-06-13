@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201005459id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieeye.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613233341id_/http%3A//contactanycelebrity.com/cac/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contact Any Celebrity ::
 
@@ -71,13 +71,13 @@ West Hollywood, CA 90069-4507
 
 Contact Any Celebrity is concerned about the safety and security of our customers. We have put a number of technological protections in place including state-of-the-art encryption to ensure that our transaction process is safe and that our customers’ information is secure.
 
-## **[7-Day Free Trial on All Memberships!](https://contactanycelebrity.com/cac/checkout)**
+## **[Free 7-Day Trial on All Memberships!](https://contactanycelebrity.com/cac/checkout)**
 
-Annual (VIP) Membership
+Annual VIP Membership
 
-$197
+$197/year
 
-year
+(most popular - best rate)
 
 Free 7-Day Full Trial 
 
@@ -135,9 +135,7 @@ Best Rate - No Monthly Charges
 
 Monthly (Basic) Membership
 
-$47
-
-month
+$47/month
 
 Free 7-Day Full Trial 
 
