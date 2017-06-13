@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210022104id_/https%3A//www.schneider-electric.co.uk/en/about-us/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613081049id_/https%3A//www.schneider-electric.co.uk/en/about-us/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Schneider Electric
 
@@ -109,6 +109,8 @@ When on a page, Munchkin automatically gathers the following information:
   * Our cookie ID
 
 
+
+If you prefer that we do not place this cookie on your web browser you may opt out by clicking on the “opt-out” button below.
 
 We also include web beacons (also known as clear gifs or web bugs) on our Sites and in our emails to track the success of our marketing campaigns. This means that if you look at our Sites or open an email from us we can see which pages of the Sites you visit. Our web beacons do not store additional information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened our email. If you object to web beacons, we recommend you follow the instructions for deleting existing cookies and disabling future cookies above. We will still know how many of our emails are opened and we will automatically receive your IP address, a unique identifier of your computer or other access device; but we will not identify you as an individual.
 
