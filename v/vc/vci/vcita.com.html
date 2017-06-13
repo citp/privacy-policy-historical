@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vcita.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229032722id_/https%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vcita.com privacy policy that was archived on 2017-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170613052750id_/https%3A//www.vcita.com/about/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en" ng-app="main" xmlns:ipp=""><head>
 <title>vCita - Privacy Policy</title>
@@ -9,8 +9,8 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700|Open+Sans:300italic,400italic,600italic,700italic,300,400,700,600" rel="stylesheet" type="text/css">
 <link href="//fonts.googleapis.com/css?family=fonts.googleapis.com/css?family=Caudex|Overlock|Patrick+Hand|Jockey+One|Sarina|Niconne|Fredericka+the+Great|Corben|Kelly+Slab|Marck+Script|Mr+De+Haviland|Lobster|Anton|Josefin+Slab|EB+Garamond|Basic|Chelsea+Market|Enriqueta|Forum|Jura|Noticia+Text|Open+Sans|Play|Signika|Spinnaker" rel="stylesheet" type="text/css">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="3Fpy4CTmhbKV8W1pPdGJE/prZtszYwx9d9WG6iBhy6E=" name="csrf-token">
-<script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>
+<meta content="GUQO72TwmYSsqZ83obFohxStg+pB+bTDBn/DqeUAcnU=" name="csrf-token">
+<script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-TT3HPWN"></script><script>
   //<![CDATA[
     window.FRONTAGE_IFRAME = false;
     
@@ -56,7 +56,7 @@
       "settings/wl_main": "whitelabel",
       "settings/branding": "branding"
     }
-    function linkToFrontage(link, prefix) {
+    function linkToFrontage(link, settingsLink) {
       var redirect_link = link.attributes['href'].value;
     
       if (redirect_link[0] == '/')
@@ -65,23 +65,25 @@
       redirect_link = redirect_link.replace("?frontage_iframe=true&", "?");
       redirect_link = redirect_link.replace("?frontage_iframe=true", "");
     
-      /*
-      redirect_link = encodeURIComponent(encodeURIComponent(redirect_link))
-    
-      if (prefix)
-        redirect_link = prefix + redirect_link
-    
-      frontageUrlRedirect(redirect_link)*/
-      
       if (state_shortcodes[redirect_link])
         redirect_link = state_shortcodes[redirect_link]
     
       redirect_link = redirect_link.replace(/\//ig, '__');
-      
-      if (prefix)
-        frontageRedirect('app.settings_page', {page:redirect_link})
-      else
+    
+      if (settingsLink) {
+        if (redirect_link == 'my_services') {
+          frontageRedirect('app.services_settings_page', {tab:'services'})
+        }
+        else if (redirect_link == 'scheduling_options') {
+          frontageRedirect('app.services_settings_page', {tab:'settings'})
+        }
+        else {
+          frontageRedirect('app.settings_page', {page:redirect_link})
+        }
+      }
+      else {
         frontageUrlRedirect(redirect_link)
+      }
     
       return false;
     }
@@ -153,10 +155,10 @@
   //]]>
 </script>
 
-<link href="/assets/application-9ac5e6c4aebadad225c77adfc73e48c9.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://cdn2.vcdnita.com/assets/application-78cc6ef39b73388f2d7507b0ef3114f4.css" media="all" rel="stylesheet" type="text/css">
 <!--[if lte IE 9]>
-<link href="/assets/application_split2-9ac5e6c4aebadad225c77adfc73e48c9.css" media="all" rel="stylesheet" type="text/css" />
-<link href="/assets/application_split3-9ac5e6c4aebadad225c77adfc73e48c9.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://cdn2.vcdnita.com/assets/application_split2-78cc6ef39b73388f2d7507b0ef3114f4.css" media="all" rel="stylesheet" type="text/css" />
+<link href="https://cdn0.vcdnita.com/assets/application_split3-78cc6ef39b73388f2d7507b0ef3114f4.css" media="all" rel="stylesheet" type="text/css" />
 <![endif]-->
 
 
@@ -167,14 +169,13 @@
   //]]>
 </script>
 
-<script src="/assets/angular/angular-file-upload-shim-explorer8-9-89f9f5baf3cf5f94f5321a48d929e710.js" type="text/javascript"></script>
-<script src="/assets/angular/angular-file-upload-shim.min-2fa97384f3c1817f4b4d2eff4cb5230e.js" type="text/javascript"></script>
+<script src="https://cdn3.vcdnita.com/assets/angular-file-upload-shim-611a0a5922961f4e277d87551fb7806a.js" type="text/javascript"></script>
 <!--[if lte IE 9]>
 <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js" type="text/javascript"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js" type="text/javascript"></script>
 <![endif]-->
-<script src="/assets/application-3814e59bdb22fd7da024322b3ebdcf96.js" type="text/javascript"></script>
-<script src="/assets/angular-pack-72b4a29ea42bb78ab8b03a01105d4b74.js" type="text/javascript"></script>
+<script src="https://cdn3.vcdnita.com/assets/application-ebcbc54f790c0111cb786d229d076e16.js" type="text/javascript"></script>
+<script src="https://cdn0.vcdnita.com/assets/angular-pack-c6a5d80b2ca5240c0495ab385f2af989.js" type="text/javascript"></script>
 <!-- / frontage show in popup handling -->
 <script>
   //<![CDATA[
@@ -187,8 +188,23 @@
   //]]>
 </script>
 
-<script src="/assets/angular-pack-2-0f51b56f37b5fde9fdf3714316a3517c.js" type="text/javascript"></script>
-<link href="/assets/fav.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<script src="https://cdn3.vcdnita.com/assets/angular-pack-2-d52c8e815f16cf0bdea080f45accf48f.js" type="text/javascript"></script>
+<link href="https://cdn3.vcdnita.com/assets/fav.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+
+      <!-- Google Data Layer -->
+      <script>
+dataLayer = [];
+</script>
+
+      <!-- End Google Data Layer -->
+
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-TT3HPWN');</script>
+      <!-- End Google Tag Manager -->
 
 
 <script type="text/javascript">
@@ -215,11 +231,35 @@
 </script>
 </head>
 <body class="abouts abouts-privacy_policy ">
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT3HPWN"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+      <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '746053468893176',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
 <div id="root">
 <div id="root_content" vc-report-height="">
 <div class="frontage-iframe" id="header">
 <div class="page">
-<img alt="Logo-1" class="site-logo" src="/assets/Logo-1-b086635ff63adb36d167903cdd8e081f.png">
+<img alt="Logo-1" class="site-logo" src="https://cdn3.vcdnita.com/assets/Logo-1-b086635ff63adb36d167903cdd8e081f.png">
 <ul id="nav">
 <li class="item">
 <a href="/">Home</a>
@@ -398,7 +438,7 @@
 <li><a href="https://www.vcita.com/software/event_registration">Event Registration</a></li>
 <li><a href="https://www.vcita.com/crm_software">CRM Software</a></li>
 <li><a href="https://www.vcita.com/online_payments">Online Payments and Invoicing</a></li>
-<li><a href="https://www.vcita.com/invoice_template">Invoice Template</a></li>
+<li><a href="https://www.vcita.com/online_invoice_template">Invoice Template</a></li>
 <li><a href="https://www.vcita.com/online_file_sharing">Online File Sharing</a></li>
 <li><a href="https://www.vcita.com/contact_form">Contact Form</a></li>
 <li><a href="https://www.vcita.com/software/wordpress_contact_form">WordPress Contact Form</a></li>
@@ -483,7 +523,7 @@
 <li><a href="http://www.vcita.pl">Polski</a></li>
 </ul>
 </div>
-<div class="trademark">© 2010-2016 vCita. All rights reserved.</div>
+<div class="trademark">© 2010-2017 vCita. All rights reserved.</div>
 </div>
 </div>
 </div>
@@ -494,9 +534,10 @@ b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
 var mixpanel_id = '';
 mixpanel.init("78aa39b3aa49594f172cfccda537ef1a", {loaded: function(){mixpanel_id = mixpanel.get_distinct_id(); if (typeof(mixpanel_id_callback) == 'function') mixpanel_id_callback(mixpanel_id);}, track_pageview: false, test: false, upgrade: true});
 mixpanel.register({'Application':'Website'});
-    mixpanel.register({"Source Referrer":"https://www.vcita.com/xmlrpc.php"});
+    mixpanel.register({"Source Referrer":"https://www.vcita.com/"});
+          mixpanel.track('First Touch', {"Section":"Website","First Touch":true,"Info":"Privacy Policy"});
       mixpanel.register_once({"Landing Page":"Privacy Policy"});
-    mixpanel.track('Privacy Policy', {"Section":"Website"});
+    mixpanel.track('Privacy Policy', {"Section":"Website","First Touch":true});
     var mixpanel_page = 'Privacy Policy';
 </script>
 
