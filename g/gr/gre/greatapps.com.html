@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the greatapps.com privacy policy that was archived on 2016-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161223075959id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatapps.com privacy policy that was archived on 2017-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170613184202id_/http%3A//greatapps.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -12,16 +12,14 @@
 
 
 
-
-
-
-
-
         <meta name="format-detection" content="telephone=no">
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i" rel="stylesheet">
         <link rel="stylesheet" href="/css/v2/normalize.css">
         <link rel="stylesheet" href="/css/v2/main.css">
+        <link rel="stylesheet" href="/css/v2/headercssnew.css">
         <link rel="stylesheet" href="/css/v2/jquery.bxslider.css">
         <link rel="stylesheet" href="/css/v2/photobox.css">
 		<link rel="stylesheet" href="/css/v2/photobox.ie.css">
@@ -57,83 +55,356 @@
 		})();
 		</script>
 		<link rel="stylesheet" href="/css/tipTip.css" type="text/css">
+       
 
 
 
-
+<style>
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	position:relative;
+	padding:0 10px;
+	}  
+.bodynew img{
+	width:100%;
+	height:auto;
+	}	
+.headernew{
+	background-color:#fff !important;
+	background-image:none;
+	height:auto;
+ 	position:relative;
+	padding:10px 0;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	z-index:999;
+	border-bottom:10px solid #f93f35; 
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	}
+.headernew-inner{
+	background: none;
+	color: #fff;
+ 	transition: all 0.3s;
+	}
+.logo-area{
+	float:left;
+	}		   
+.logo-area img{
+	width:90px;
+	height:auto;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	}   
+.mainnav{
+	float:left;
+	margin-left:10px;
+	margin-top:20px;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	}   
+.mainnav li{
+	float:left;
+	padding: 15px 0;
+	margin:0 2px;
+	transition: all 0.5s ease-out;
+	-webkit-transition: all 0.5s ease-out;
+	-moz-transition: all 0.5s ease-out;
+	}
+.mainnav li a{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
+	font-size: 1.5rem;
+	text-transform: uppercase;
+ 	letter-spacing: 0.05em;
+	padding: .5rem 1.6rem; 
+	position: relative;
+	border-right: 1px solid #000;
+	}
+.mainnav li.active a, .mainnav li a:hover{
+	background: none;
+	color: #f93f35;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	}   
+.mainnav li:last-child a{
+	border-right:0;
+	}   
+.bannernew{
+	padding-top:100px;
+	display:block;
+	padding-bottom:40px;
+	width:100%;
+	height: auto;
+    position: relative;
+    background-size: cover;
+    z-index: 1;
+    overflow: hidden;
+	background-image: url(https://s21.postimg.org/nxbvrsngn/header-bg.jpg);
+    background-position: 0% 0%; 
+ 	}   
+.bannernew:before{
+	position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .7);
+    z-index: -1;
+	}   
+.welcome-text-area{
+	width:100%;
+	float:left; 
+	}  
+.welcome-text {
+	width:65%;
+	float:left;
+    text-align: left;
+    padding-top: 80px;
+	}   
+.welcome-text h2 {
+    font-size: 3rem;
+    color: #fff;
+    font-weight: 900;
+    line-height: 45px;
+    font-family: 'Raleway', sans-serif;
+	} 
+.welcome-text h3 {
+    font-size: 2.5rem;
+	font-family: 'Raleway', sans-serif;
+    color: #fff;
+    font-weight: 300;
+	}	
+.welcome-text h2 strong{
+	font-weight:bold;
+	}	
+.welcome-text p {
+    color: #fff;
+    font-family: 'Raleway', sans-serif;
+	font-size:1.8rem;
+	font-weight:600;
+	} 
+/*Button*/	
+.download-button{
+	margin-top:75px;
+	text-align:right;
+	padding-right:10px;
+	}	
+.download-button a {
+    color: #fff;
+    border-color: #fff;
+	}
+.btn-custom{
+	border: 2px solid;
+	display: inline-block;
+	font-size: 1.1em;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing:.5px;
+	padding:15px 15px;
+	min-width: 200px;
+	text-align: center;
+	}
+.logo-icon{
+	width:22px;
+	height:auto;
+	margin-bottom:-5px;
+	margin-right:5px;
+	}
+.btn-fill{
+	border-radius:25px;
+	color:#fff;
+	background-color:#f93f35;
+	-webkit-border-radius:25px;
+	-moz-border-radius:25px;
+	position: relative;
+	box-shadow: 0 0 1px transparent;
+	transform: perspective(1px) translateZ(0);
+	-webkit-transform: perspective(1px) translateZ(0);
+	-webkit-transition-property: color;
+	transition-property: color;
+ 	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	}
+.btn-fill:hover{
+ 	background-color:rgba(249,63,53,0.5);
+	}
+	
+/*Twitter Button*/
+.twitter-button{
+	width:120px;
+	height:auto;
+	/*border-radius:10px;
+	background:#55ACEE;*/
+	float:right;
+	margin-top:50px;
+	margin-right:70px;
+	}
+.twitter-button a{
+  	border-radius:10px;
+  	font-size:1.2em;
+	width:150px;
+	display:inline-block;
+	position:relative;
+	color:#fff;
+  	text-align:center;
+	text-decoration:underline;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	}
+.twitter-button a i{
+	color:#55ACEE;
+	font-size:40px;
+	line-height:20px;
+	position:absolute; 
+	left:0;
+	top:0px;
+	}
+.twitter-button a:hover{
+	opacity:0.7;
+	} 
+.welcome-text-pic{
+	margin-top:30px;
+	float:right;
+	width:28%;
+	text-align:center;
+	}
+.banner-add-area-content{
+	max-width:950px;
+	margin:auto;
+	}	   
+.banner-add-area{
+	padding-top:110px;
+	padding-bottom:15px;
+	width:100%;
+ 	height:auto;
+	text-align:center;
+	background-color:rgba(249,63,53, 0.8);
+	}  
+.banner-add-inner{
+  	height:auto;
+	float:right;
+   	}
+.banner-add-inner p{
+	font-size:12px;
+	color:#000;
+	margin-bottom:5px;
+	}		 
+.banner-add-area-innera img{
+	width:100%;
+ 	height:auto;
+  	} 
+.banner-add-button{
+	float:right;
+	}	
+.btn1{
+	padding:10px 20px;
+	color:#fff;
+	font-size:18px;
+	font-weight:300;
+	letter-spacing:1px;
+	border:2px solid #fff;
+	margin:10px 10px;
+	border-radius:25px;
+	-webkit-border-radius:25px;
+	-moz-border-radius:25px;
+	min-width:180px;
+	display:block;
+	float:left;
+	transition:all 0.3s ease-in-out;
+	-webkit-transition:all 0.3s ease-in-out;
+	-moz-transition:all 0.3s ease-in-out;
+	}
+.btn1:hover{
+	background-color:#fff;
+	color:#f93f35;
+	}	  
+/*Logo Section*/
+.client-logo{
+    background: #f0f6f6;
+    padding: 10px 0px;
+ 	}   
+ .client-logo img{
+	 width:100%;
+	 height:auto;
+	 }  
+	 
+@media (max-width:767px) { 
+.bannernew{padding-top:120px;}
+.mainnav li a{font-size:1rem !important; padding:.5rem 1rem !important;}
+.download-button{margin-top:100px;}
+.welcome-text h3{font-size:.8rem;}
+.welcome-text h2{font-size:1rem;}	
+.welcome-text p{font-size:.6rem;}
+.banner-add-inner, #gaBannerIMG{max-width:350px; height:50px; margin-right:15px;}	
+}	 
+</style>
 	
     </head>
     <body class="as-seen" id="red" style="">
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-	<!-- SITE HEADER STARTS HERE-->
-	<header id="banner" class="body">
-		<div class="container">
-		
-			<h1 class="logo"><a href="/"><img src="/img/v2/logo-small.png" alt="Great Apps Logo"></a></h1>
-
-
-				<div style="float:left;width:150px;height:150px;margin-top:20px;margin-left:50px;background-image:url('   '); background-position:0;">
- 	
-				<a href="http://GreatApps.com/about" style="float:left;height:120px;width:120px;">
-
-					     	
-				</a>
-			</div> 
-
-			<div id="as-seen-in">As Seen In<br><a href="/news.php"><img src="/img/v2/as-seen-bw-2.jpg"></a>
-			</div>
-
- 			<div class="header-right">
- 				<div id="ad"><p></p>
- 					<a id="gaBannerLink" target="_blank" href="https://itunes.apple.com/ca/app/lohalo/id1074104502?mt=8">
-              			<img id="gaBannerIMG" height="60" width="468" src="/i/loc/d86045f437afd13a033e8596a8babf13">
-            		</a>
-			
- 				</div>
-			
-				<div id="twitter"><a href="http://twitter.com/greatappscom" target="_blank"><img src="/img/v2/twitter.png"></a></div>
-				
-
-			</div>
-
-			
-			<!-- NAVIGATION STARTS HERE -->
-			<nav>
-				<ul>
-					<li class="active"><a href="/">home</a></li>
-					<li><a href="/about">about</a></li>
-					<li><a href="/search">search</a></li>
-					<li><a href="/app-reviews">reviews</a></li>
-					<li><a href="/news">press</a></li>	
-					<li><a href="/contact">contact</a></li>
-					<li><a href="/app/login">login</a></li>
-				</ul>
-			</nav> 
-			<!-- NAVIGATION ENDS -->
- 		</div>
-	</header><!-- END HEADER -->
-	<!--FEATURED STRIP STARTS HERE-->
-	<aside id="featured" class="content-sidebar"> 
-		<div class="container">
-			<div class="content">
-				<p>Celebrating five years !!!! GreatApps.com has been serving the mobile &amp; app community since 2011.</p> 
-				<h2>The Exclusive App Discovery Platform</h2>
-				<h4>We only allow a select number of apps to be added monthly.</h4>
-			</div>
-			<div class="sidebar">
-				<h5><a href="/register" class="btn-white">SUBMIT YOUR APP</a></h5>
-			</div>
-		</div>
-			
-	</aside><!--END FEATURED STRIP-->
-	<!--AS SEEN IN BAR STARTS HERE-->
-	<aside id="as-seen">
-		<div class="container">
-			<a href="/news"><img src="/img/v2/as-seen-in-bw1.png"></a>
-		</div>
-	</aside><!--END AS SEEN IN BAR-->
+    <header class="headernew">
+        <div class="headernew-inner">
+            <div class="container">
+                <div class="logo-area"><a href="/"><img src="/img/v2/logo-small.png" alt="Great Apps Logo"></a></div>
+                <div class="mainnav">
+                    <ul>
+                        <li><a href="/">home</a></li>
+                        <li><a href="/about">about</a></li>
+                        <li><a href="/search">search</a></li>
+                        <li><a href="/app-reviews">reviews</a></li>
+                        <li><a href="/news">press</a></li>	
+                        <li><a href="/contact">contact</a></li>
+                        <li><a href="/app/login">login</a></li>
+                     </ul>
+                </div>
+                <div class="banner-add-inner">
+                    <p>Advertisements</p>
+                    <a href="https://itunes.apple.com/us/app/id968736696?mt=8" target="_blank">
+                    	<img id="gaBannerIMG" height="60" width="468" src="/i/loc/bc131f85999bc368fd19d3a4ee713661">
+                    </a>
+                </div>
+            </div>	
+        </div>
+    </header> 
+    <div class="bannernew">
+        <div class="container">
+            <div class="welcome-text-area">
+                <div class="welcome-text ">
+                    <h3>Celebrating six years !! GreatApps.com has been serving the mobile &amp; app community since 2011.</h3>
+                    <h2>The Exclusive App Discovery <strong>Platform</strong></h2>
+                    <p>We only allow a select number of apps to be added monthly.</p>
+                </div>
+                <div class="welcome-text-pic">
+                    <div class="download-button">
+                        <a href="/register" class="btn-custom btn-fill"><img class="logo-icon" src="/img/v2/logo-small.png">  Submit Your App</a>
+                    </div>
+                    <div class="twitter-button">
+                        <a href="http://twitter.com/greatappscom" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</a>
+                    </div> 
+                </div>
+            </div>
+        </div>	
+    </div>
+    <div class="client-logo">
+        <div class="container">
+            <div class="client-logo">
+                <a href="/news"><img src="/img/v2/as-seen-in-bw1.png"></a>
+            </div>
+        </div>
+    </div>
 	
 	<!--#MAIN SITE CONTENT BEGINS HERE-->
 	<div class="container content-sidebar main">
@@ -320,19 +591,19 @@
  <aside class="sidebar"><!--Main sidebar-->	
 	
 	<div id="spotlight">
-		<a href="/allinfitness">
+		<a href="/jetpedia">
 			<div class="wrap">
 				<h3>Spotlight App</h3>
 	
 				<div class="box">
 					<div class="app">
-						<img src="/c/icon/180/180/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3EvMTgwLzE4MC84YmM5YWEzNmZmOTJjNTI3ZmE2YmFlZmE5MGU4YjExYQ==">
+						<img src="/c/icon/180/180/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3EvMTgwLzE4MC80YTY1NDQzODM5Mjk0ZjhkNjVmNjRhMTVhNGI4YmFiMA==">
 					</div>
 				</div>
 				<div class="app-description">
-					<h4>All-in Fitness</h4>
+					<h4>Jetpedia |…App Guide.</h4>
 					<p><span class="Category">Category:</span></p>
-					<p>Health &amp; Fitness</p>
+					<p>Lifestyle</p>
 					
 					
 				</div>
@@ -346,6 +617,42 @@
 		<div class="wrap">
 			<h3 style="font-size:1.2em;">Recently Added</h3>
 			<ul class="thirds">
+
+			
+				<li>
+					<a href="http://greatapps.com/subliminalvisionboards" id="chicklet_1308">
+						<div class="app">
+							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvZjIzMmU5NzY4YjQ5MmEzZDVlZjliZjVlNTRlZmRjMmE=">
+						</div>
+					</a>
+				</li>
+
+			
+				<li>
+					<a href="http://greatapps.com/whatsleft" id="chicklet_1307">
+						<div class="app">
+							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvNmNjMjJkZmUxNDZkMDE1MmM4ZjM3ZjYzOWJmMWI2Zjg=">
+						</div>
+					</a>
+				</li>
+
+			
+				<li>
+					<a href="http://greatapps.com/bang" id="chicklet_1306">
+						<div class="app">
+							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvOTk1OWE2NTkyZjQ2M2YzMTM0OGEzY2JhNWJmYjIzMmQ=">
+						</div>
+					</a>
+				</li>
+
+			
+				<li>
+					<a href="http://greatapps.com/bananadefender" id="chicklet_1305">
+						<div class="app">
+							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvYjBmYTNlMTQ4ZWY4MDJmMmUyYTQyMGVlNjJmZGJkOTQ=">
+						</div>
+					</a>
+				</li>
 
 			
 				<li>
@@ -581,55 +888,13 @@
 					</a>
 				</li>
 
-			
-				<li>
-					<a href="http://greatapps.com/graphlock" id="chicklet_1278">
-						<div class="app">
-							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvMTBhYmMyNzcyMmJmNzQ0NjgxZjAxMDI3OWU2YWFhYzc=">
-						</div>
-					</a>
-				</li>
-
-			
-				<li>
-					<a href="http://greatapps.com/soccerkick" id="chicklet_1277">
-						<div class="app">
-							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvZGU4MjZlMTgwNjg4NGE0MmNkNmJhNWMxYThiOTMzNWM=">
-						</div>
-					</a>
-				</li>
-
-			
-				<li>
-					<a href="http://greatapps.com/yougovi" id="chicklet_1276">
-						<div class="app">
-							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvOTBkN2RmZmFlNDg2NDE5MWZmYTViN2UzNTRiMjllMGQ=">
-						</div>
-					</a>
-				</li>
-
-			
-				<li>
-					<a href="http://greatapps.com/bettachange" id="chicklet_1275">
-						<div class="app">
-							<img src="/c/icon/52/52/aHR0cDovL2dyZWF0YXBwcy5jb20vYy9tL3MvNTIvNTIvYmFkZDk1YmZlNGUzYjQ2Mzk1YmNmNGUxMTRmNWQ0YWY=">
-						</div>
-					</a>
-				</li>
-
 				
 
 			</ul>
 		</div>
 	</div>
 	
-			        	<div class="resourceLink" style="margin-bottom:10px;">
-				<a href="http://www.preapps.com/app-review-submission" target="_blank"><img src="http://greatapps.com/c/m/q/125/200/52a4445924510aa6e8c7d3f630d77a81"></a>
-			</div>
-		        	<div class="resourceLink" style="margin-bottom:10px;">
-				<a href="https://itunes.apple.com/us/app/materials-commodities-reimagined/id1099849139" target="_blank"><img src="http://greatapps.com/c/m/q/125/200/f2fe89b6cd14093328c6f909ffbaa49e"></a>
-			</div>
-			
+	
 </aside>
 
 
@@ -676,11 +941,10 @@ $(function(){
 		<div class="one-third">
 			<h3>Contact Information</h3>
 			<p>
-				GreatApps.com<br><br>
-				1208 Cromwell Avenue<br>
-				Rocky Hill, CT 06067 (USA)<br><br>
-				203-612-5222 (tel)<br>
-				<br><br>
+				GreatApps.com<br>
+				<br>
+				(tel#) 203-612-5222 (USA)<br>
+				<br>
 
 				email: Info (at) GreatApps.com
 			</p>
@@ -688,15 +952,9 @@ $(function(){
 		<div style="clear:both;height:20px;"></div>
 		<hr style="background:white;">
 		<div class="addtl first">
-		<h3 style="text-align:center;">Additional Properties</h3>
-			<ul>
-				<li><a href="http://TopAppVideos.com" target="_blank"><img src="/images/tav-logo.png" alt="Top App Videos"></a></li>
-				<li><a href="http://AppGamesCenter.com" target="_blank"><img src="/images/agc-logo.png" alt="App Games Center"></a></li>
-	
-				<li><a href="http://GreatAppsForKids.com" target="_blank"><img src="/images/gafk_logo.png" alt="Great Apps For Kids"></a></li>	      			
-	      		</ul>
+		
                         <br><br>
-			<p style="text-align:center;">Copyright © 2011-2016 GreatApps.com All rights reserved.</p>
+			<p style="text-align:center;">Copyright © 2011-2017 GreatApps.com All rights reserved.</p>
 		</div>
 
 			<p style="text-align:center;">Windows is a trademark of Microsoft<br>
