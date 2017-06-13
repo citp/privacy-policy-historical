@@ -1,193 +1,276 @@
-> *The following text is extracted and transformed from the hasbro.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasbro.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613031612id_/https%3A//www.hasbro.com/en-us/privacy) for the most accurate reproduction.*
 
-# HASBRO WEB SITE PRIVACY POLICY
+# None
 
-[](https://privacy.truste.com/privacy-seal/Hasbro,-Inc-/validation?rid=db771587-f252-4ddd-967b-55573a089b04 "TRUSTe online privacy certification")
+[](http://www.esrb.org/confirm/hasbro-confirmation.jsp)
 
-[](https://privacy.truste.com/privacy-seal/Hasbro,-Inc-/validation?rid=db771587-f252-4ddd-967b-55573a089b04 "TRUSTe Children privacy certification")
+**HASBRO WEBSITE PRIVACY POLICY**
 
-## WELCOME!
+(Last Updated: 4/18/2017)
 
-This Privacy Policy ("Policy") explains how Hasbro, Inc. and its subsidiaries and affiliated companies that operate within the United States ("Hasbro") collect, use and disclose your personal information. This Policy applies to information we collect when you use our websites, mobile applications and other online products and services where this Policy is posted (collectively, the "Services").
+ **WELCOME!**
 
-Hasbro has been awarded TRUSTe's Web Privacy and Children's Privacy Seal signifying that this Privacy Policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's certification covers all Hasbro websites that link to this privacy policy. At this time, the TRUSTe program does not cover information that may be collected through our mobile websites, but does cover information collected through our mobile applications listed [here](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/MobileAppsList.html). TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our Policy or privacy practices, please contact us at hasbroregistration@hasbro.com. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
+This privacy policy ("Policy") explains how Hasbro, Inc. and its subsidiaries and affiliated companies that operate within the United States (collectively, "Hasbro", “we”, “our”, or “us”) collect, use and disclose your information. This Policy applies to information we collect when you use our websites and other online products and services where this Policy is posted (collectively, the "Services").
 
-If you are a parent or guardian and are interested in knowing more about Hasbro's policy regarding the collection of information from children, we recommend reviewing the Note To Parents below.
+This Policy and the ESRB certification seals shown on our Services confirm that Hasbro is a valid licensee, and participating member, of the [Entertainment Software Rating Board's Privacy Certified Program](http://www.esrb.org/privacy/faq.aspx#10) (“ESRB Privacy Certified”). To protect your privacy, we have voluntarily undertaken this privacy initiative and have had all of our Services where this Policy is posted reviewed and certified by ESRB Privacy Certified to meet established online information collection, use and disclosure practices. As a licensee of this privacy program, we are subject to frequent audits of our Services and other enforcement and accountability mechanisms administered independently by the ESRB.
 
-We may change the provisions of this Policy at any time and will indicate when changes have been made by revising the date at the top of this Policy. Your use of the Services, or any portion thereof, following the posting of such changes shall constitute your consent to such changes. We encourage you to review the Policy whenever you access the Services to make sure that you understand our information collection, use and disclosure practices. If we make material changes to this policy, we will provide you with additional notice of such changes and request your affirmative consent before using or sharing previously collected information in a materially different way. If we make material changes to how we use personal information collected from children under 13, we will notify parents by e-mail in order to obtain verifiable consent for the new uses of the child's personal information.
+We ask that you take the time to read this Policy carefully. By using our Services, you agree to this Policy. _If you do not agree with this Policy, please do not use the Services._
 
-### What information does Hasbro collect?
+ **Table of Contents**
 
-#### Information That You Provide
+1.      Changes to this Policy
 
-Hasbro may collect information that you provide when you use the Services, such as when you: (1) create an account; (2) make a purchase; (3) participate in contests, events or promotions; (4) send questions or comments via e-mail or live chat to Hasbro customer support; (5) submit your resume to us online; (6) fill out online surveys; or (7) otherwise communicate with us through the Services (8) to obtain parental consent. The types of personal information that you provide may include your name, e-mail address, parent's email address, telephone number, postal address, credit card information, birth date and other contact or identifying information that you choose to provide. We may also collect your gender, toy and game ownership and preferences when you provide this information at the same time as your name or other contact or identifying information, or we may combine these data points with your personal information in the future. If you are under the age of 13, only your parent or guardian can provide any personal information to us for purposes of registration and other online activities. See Note To Parents below for more information.
+2.      What information is collected from me?
 
-#### Information We Collect Automatically From You
+3.      How does Hasbro use my information?
 
-When you access or use our Services, we may also automatically collect information about you. For example, when you visit our websites, we collect information about your computer's operating system, Internet Protocol ("IP") address, access times, browser type and language and the URL of the website you visited before navigating to our Services. If you access our Services via a mobile device, we may also collect your, first name or username (depending on which you would like to use), device make and model, mobile carrier, mobile web browser type and version, the country in which you are using your device, and analytics used to collect aggregate data on app usage, downloads, number of users, sessions, frequency of use, retention, territories, and in-game events.
+4.      How does Hasbro handle children’s information?
 
-We do not ask you for, access, or track any location based information, other than the country information, from your mobile device at any time while downloading or using our Mobile Apps or services.
+5.      With whom does Hasbro share my personal information?
 
-To collect this information, we use the technologies identified below:
+6.      What are my information choices?
 
-**Cookies:** Cookies are small data files stored on your computer or mobile device by a website. Among other things, cookies help us improve our Services and your experience, see which areas and features of our Services are popular and count visits. In addition, when you view a video on our Services, we may set a "flash cookie" (sometimes called a "flash object") on your computer or device. For more information about cookies, and how to disable them, please see "What are my information choices" below.
+7.      Security
 
-**Clear GIFs:** Clear GIFs, sometimes called "web bugs" or "web beacons," are small electronic images that are placed on a web page or in an e-mail message. We use clear GIFs to monitor user behavior, deliver cookies, collect information, count visits, understand usage and campaign effectiveness and to tell if a recipient has opened and acted upon an email. 
+8.      Your California Privacy Rights
 
-**Log Files:** Log files record website activity on our Services and enable us to gather statistics about our users' browsing habits. These entries help Hasbro determine (among other things) how many and how often users have accessed or used our Services, which pages of our Services they've visited, and other similar data. 
+9.      Contact Us
 
-We may associate the information we collect from these technologies with other personal information that you provide for the purposes described in this Policy. 
+ **1\. Changes to this Policy**
 
-### Information We Collect from Third Parties
+We encourage you to review this Policy whenever you access the Services to make sure that you understand our information collection, use and disclosure practices. We may change the provisions of this Policy at any time and will indicate when changes have been made by revising the date at the top of this Policy. Your use of the Services, or any portion thereof, following the posting of such changes shall constitute your consent to such changes. If we make material changes to this Policy, we will provide you with additional notice of such changes by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the applicable website(s). _If you do not agree with the changes we make to this Policy, please stop using the Services._
 
-We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a third-party social networking site, we will have access to certain information from that site, such as your name, account info and friends, in accordance with the authorization procedures determined by such third-party social networking site.
+Back to top
 
-For a list of third party partners we have integrated on our site please click [HERE](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/ThirdPartiesList.html). If you have any inquiries regarding our partner's privacy practices or how they use your child's personal information, please contact us directly at hasbroregistration@hasbro.com.
+ **2\. What information is collected from me?**
 
-### Website Analytics
+ **Information That You Provide**
 
-We use analytics services and software provided by third parties to help us understand how users access and use the Services. These tools and services place cookies, web beacons and other devices or technologies on our Services to enable them to track traffic data. The data collected typically includes information such as your IP address, your Internet Service Provider, your web browser, the time spent on webpages, the links clicked and the advertisements viewed on those pages. We use this information to improve our Services and your experience, to see which areas and features of our Services are popular and to count visits.
+Hasbro may collect information that you provide when you use the Services, such as when you:
 
-### Mobile Analytics
+(1) create an account;
 
-We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile app.
+(2) make a purchase;
 
-### Third Party Advertising 
+(3) participate in contests, events or promotions;
 
-We allow third parties to serve ads on our Services and we engage third parties to place ads for our products and services on other websites. These third parties place cookies, web beacons and other devices or technologies within the ads. When you click or scroll over any of these ads, these third parties collect information about your use of the Services and other third party websites. The data collected typically includes information such as your IP address, your web browser, web pages viewed, time spent on pages, links clicked and whether you purchased an advertised product. These third parties use this information to deliver advertising and/or content targeted to your interests. For more information about targeted advertising in connection with these third parties, and how to opt out of having your information used in this way, please visit: [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
+(4) send questions or comments via email or live chat to Hasbro customer support;
 
-### How does Hasbro use my information?
+(5) fill out online surveys;
 
-#### Use of Information
+(6) sign up for our newsletter or other email alerts;
 
-We use personal information collected through our Services for purposes described in this Policy or otherwise disclosed to you on or in connection with our Services. For example, we may use your information to: 
+(7) share a website with a friend;
 
-  * Send you advertising or promotional materials, including information about new products, contests, features and enhancements, special offers and other events of interest from Hasbro and our select partners; 
+(8) share a news release through our investor website;
 
-  * Operate and improve our Services;
+(9) submit your resume to us online;
 
-  * Provide and deliver the products and services you request, process transactions, and to send you related information, including confirmations and invoices; 
+(10) provide information necessary to obtain parental consent; or
 
-  * Send you technical notices, updates, security alerts and support and administrative messages; 
+(11) otherwise communicate with us through the Services.
 
-  * Respond to your comments, questions and requests and provide customer service;
+Depending on the activity, the types of personal information that you provide may include:
 
-  * Monitor and evaluate trends, usage and activities in connection with our Services; 
+(1) your first and/or last name;
 
-  * Personalize and improve the Services and provide ads, content, communications or features that match user profiles or interests;
+(2) email address;
 
-  * Link or combine with other information we get from third parties to help understand your needs and provide you with better service;
+(3) telephone number;
 
-  * Monitor performance of the app, track how users are engaging in the game, identify which app features are least and most utilized, to identify problem areas within the app, and to inform design development for future app updates; and
+(4) address (including billing address and/or shipping address);
 
-  * Obtain consent from parents in order to allow children to upload videos and voice recordings to YouTube or share through SMS messaging. 
+(5) credit card or other payment information; and
+
+(6) other contact or identifying information that you choose to provide.
+
+Non-personal information you may also provide includes your birth date, gender, toy and game ownership and preferences, company name, and job title. When you provide this information at the same time as you provide certain personal information (e.g., your name or other contact or identifying information), we may combine these data points. Standing alone, these pieces of non-personal information we collect cannot be used to identify or directly contact you. However, when we combine your non-personal information with your personal information, it may become personally identifiable (e.g., first and last name combined with birth date). In some cases, we may also collect information you provide about others, such as when you refer someone to our Services (including promotions) or when you purchase and ship products to someone. We will use this information to fulfill your requests and will not send communications to your contacts unrelated to your requests, unless they separately consent to receive communications from us.
+
+ **Please note that this Policy applies to any information we collect when you use our Services. If our Services collect and/or share personal information in a manner that differs from what is described in this Policy, we will use reasonable efforts to notify you of the purposes for which such information will be collected and/or with whom such information will be shared (if applicable), whether via a just-in-time notification at the point of collection or via an alternate notice.**
+
+ **Information We Collect Automatically From You**
+
+When you access or use our Services, we may also automatically collect information about your visit. When you visit our websites, the personal information we collect is your computer's Internet Protocol (“IP”) address, which we use for the support of our internal operations. The non-personal information we collect includes your operating system, access times, browser type and language, country, and the URL of the website you visited before navigating to our Services. If you access our Services via a mobile device, we may also collect your device make and model, mobile carrier, operating system version, language your device is set to, mobile web browser type and version, the country in which you are using your device, and non-personal analytics and statistical data regarding use of the websites (e.g., downloads, number of users, sessions, frequency of use, retention, territories, and in-game events). Please be sure to review Hasbro’s [Mobile Privacy Policy](http://www.hasbro.com/app_esrb_privacy) or [Cast-Enabled Application Privacy Policy](http://www.hasbro.com/en-us/privacy-connectedtv) to learn more about our privacy practices in relation to mobile application usage.
+
+To collect this information, we use various technologies, including the following:
+
+ **Cookies:** Cookies are small data files stored on your computer or mobile device by a website. Among other things, cookies help us improve our Services and your experience, see which areas and features of our Services are popular, and count visits. In addition, when you view a video on our Services, we may set a "flash cookie" (sometimes called a "flash object") on your computer or device. For more information about cookies, and how to disable them, please see "What are my information choices?" below.
+
+ **Clear GIFs:** Clear GIFs, sometimes called "web bugs" or "web beacons," are small electronic images that are placed on a web page or in an email message. We use clear GIFs to monitor user behavior, deliver cookies, collect information, count visits, understand usage and campaign effectiveness, and to tell if a recipient has opened and acted upon an email.
+
+ **Log Files:** Log files record website activity on our Services and enable us to gather statistics about our users' browsing habits. These entries help Hasbro determine (among other things) how many and how often users have accessed or used our Services, which pages of our Services they've visited, and other similar data.
+
+We may associate the information we collect from these technologies with other personal information that you provide for the purposes described in this Policy.
+
+ **Information We Collect from Third Parties**
+
+We may also obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a third-party social networking site, we may have access to certain information from that site, such as your name, account information and friends, in accordance with the authorization procedures determined by such third-party social networking site.
+
+ **Third-Party Technology**
+
+For a list of third-party partners whose technology we have integrated on our site, please click [here. ](http://www.hasbro.com/en-us/thirdpartieslist)If you have any inquiries regarding our partner's privacy practices or how they use your information, you can review our partner’s privacy policy and terms of use or contact [Hasbro Consumer Care](http://corporate.hasbro.com/en-us/consumer-care).
+
+ **Website Analytics**
+
+We use analytics services and software provided by third parties (identified here) to help us understand how users access and use the Services. These tools and services use cookies, web beacons and other devices or technologies on our Services to enable them to track traffic data. The data collected typically includes information such as your IP address, your Internet Service Provider, your web browser, the time spent on web pages, the links clicked and the advertisements viewed on those pages. We use this information to improve our Services and your experience, to see which areas and features of our Services are popular, and to count visits.
+
+ **Third Party Advertising**
+
+We engage third parties to place ads for our products and services on other websites. These third parties use cookies, web beacons and other devices or technologies to collect information about your visits to websites and mobile applications, including Hasbro’s websites and mobile applications. The data collected typically includes information such as your IP address, your web browser, web pages viewed, time spent on pages, links clicked and whether you purchased an advertised product. These third parties use this information to deliver advertising and/or content targeted to your interests. For more information about targeted advertising provided by these third parties, and how to opt out of having your information used in this way by companies that participate in the Digital Advertising Alliance, please visit: [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). You may refer to our list of third parties ([here](http://www.hasbro.com/en-us/thirdpartieslist)) in order to see which of our third party service providers offer consumer opt-out choices through the Digital Advertising Alliance’s (DAA) and/or Network Advertising Initiative’s (NAI) sites. Hasbro is not responsible for the effectiveness of, or compliance with, any third parties’ opt-out options or programs or the accuracy of their statements regarding their opt-out options or programs.
+
+Back to top
+
+ **3\. How does Hasbro use my information?**
+
+ **Use of Information**
+
+We use personal information collected through our Services for the purposes described in this Policy or as otherwise disclosed to you on or in connection with our Services. For example, we may use your information to:
+
+  * Send you advertising or promotional materials, including information about new products, contests, features and enhancements, special offers and other events of interest from Hasbro and our select partners;
+  * Operate and improve our Services, including by linking or combining your information with other information we get from third parties;
+  * Provide and deliver the products and services you request, process transactions, and to send you related information, including confirmations and invoices;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions, and requests and provide customer service;
+  * Monitor performance of the Services, overall usage of the Services and user retention rates, track how users are engaging in the games, identify which website features are least and most utilized, identify problem areas within the websites, and inform design development for future application updates; and
+  * Carry out any other purpose conveyed to you at the time the information was collected.
 
 
 
+Back to top
 
-Hasbro may store and process personal information in the United States and other countries.
+ **4\. How does Hasbro handle children’s information?**
 
-#### Sharing of Information
+ **NOTE TO PARENTS**
 
-We do not share your personal information with third parties other than as described in this Policy or in connection with the Services, including: 
+Hasbro has developed its Services to be an enjoyable experience for users of all ages, including those under 13 (“Children” or “Child”). Please discuss this Policy with your Children so that they will better understand how to use the Services and the information they may be asked to provide when using the Services. Hasbro believes that providing its visitors with accurate and adequate notice about the Services will inform choices and decisions about how to use the Services, and will better protect its users' privacy. If you have any questions or comments about this Policy, please contact us using the contact information provided at the end of this section.
 
-  * With your consent, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information; 
+Hasbro is committed to compliance with the [Children’s Online Privacy Protection Act (“COPPA”)](http://www.esrb.org/privacy/faq.aspx#12), a federal law designed to protect Children online. We take Children's privacy seriously, and encourage parents to take an active role in protecting their Children's privacy and online experience at all times. Except as otherwise outlined in this Policy, we do not collect personal information from users of the Services.
 
-  * With third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us. These entities have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us, and, unless we notify you otherwise and provide you with an opportunity to opt-out, will not use your personal information for any purpose other than as described in this Policy.
+ **Services Directed to Children**
 
-  * When we believe it is necessary or appropriate to (i) comply with applicable law or legal process or to respond to lawful requests or legal authorities; (ii) protect the rights and property of Hasbro and our employees, agents, users and other third parties, including to enforce our agreements, policies and [Terms and Conditions of Use ](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/terms.html) and protect against fraudulent, abusive, inappropriate, or unlawful use of our Services; and (iii) protect the safety of Hasbro our users or any third party; and
+Hasbro’s Services contain content appropriate for a wide range of audiences, including Children. For a list of Services that Hasbro treats as being directed to Children under COPPA, please contact our Senior Digital Compliance Specialist at [Rachel.Mccaughey@hasbro.com](mailto:Rachel.Mccaughey@hasbro.com).
 
+ **Collection and Use of Children's Personal Information**
+
+Hasbro may collect and store persistent identifiers (e.g., cookies, IP addresses, etc.) from Children without parental consent for the purpose of supporting the internal operations of the Service or as otherwise permitted under COPPA.
+
+Hasbro may collect and store other personal information about Children if this information is submitted by a Child with prior parental consent or by the parent or guardian of the Child. If a Service is directed to children under COPPA, we may ask users to verify their dates of birth before collecting any personal information from them. Those users that indicate they are Children are either blocked from the activity or taken through a parental consent process.
+
+Hasbro may collect and store the following types of personal information about a Child when submitted by a Child with prior parental consent or by the parent or guardian of the Child: first and/or last name, email address, parent's or guardian's name, and parent's or guardian's email address. Hasbro may also collect the Child's mailing address and/or telephone number when necessary to respond to an inquiry or fulfill a transaction, such as sending the winner of a contest or sweepstakes the awarded prize. Hasbro may also collect demographic information about a Child such as the Child's date of birth, gender, toy and game ownership and other preferences, and combine such information with the Child's personal information. Please refer to the sections entitled "What information is collected from me?" and “How does Hasbro use my information?” for further details on the information we collect and the tools we use to collect it.
+
+When registering an account to play online games, we may collect a username and password from registrants for the purpose of saving that user’s gaming activities (e.g., pets collected in Littlest Pet Shop). Once collected, we may also use the game play information for our internal marketing and demographic studies so that we can improve the products and services we provide our visitors in order to better meet their needs, or as otherwise described in this Policy. Please note that we use aggregated (i.e., non-personal) information for analytics purposes.
+
+Additionally, we are prohibited by COPPA from conditioning a Child's participation in an activity - like contests - on the Child's disclosure of more personal information than is reasonably necessary to participate in the activity. This means that if we don't need a specific piece of information (like the Child's phone number) to allow the Child to participate in a contest, we simply won't ask for it, even with parental consent. To read about the steps Hasbro takes to protect the confidentiality, security, and integrity of all users’ personal information, please see our section on "Security".
+
+ **Disclosure of Children's Personal Information**
+
+We follow our standard policy ("With whom does Hasbro share my personal information?") for the disclosure of personal information collected from and about Children.
+
+ **Parental Access**
+
+A parent who has already given Hasbro permission to collect and use his or her Child's personal information can, at any time, do the following: (1) review, correct, or delete the Child's personal information; and/or (2) discontinue further collection or use of the Child's personal information. To do so, please refer to the confirmation email provided to you when you gave consent or contact [Hasbro Consumer Care](http://corporate.hasbro.com/en-us/consumer-care). Please be sure to include your Child's name and email address, your name and email address, and the name of the site on which your Child is registered. Alternatively, you may contact us at:
+
+Hasbro, Inc.  
+Attention: Website Administrator  
+1027 Newport Avenue, Mailstop A906  
+Pawtucket, RI 02861  
+(800) 255-5516
+
+For any other issue, please contact [Hasbro Consumer Care](http://corporate.hasbro.com/en-us/consumer-care). We will be happy to take your request.
+
+Back to top
+
+ **5\. With whom does Hasbro share my personal information?**
+
+ **Sharing of Information**
+
+We do not share your personal information with third parties other than as described in this Policy or in connection with the Services, including:
+
+  * With your consent, including if we notify you through our Services that the information you provide will be shared in a particular manner and you provide such information;
+  * With third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us. We require these entities to maintain the confidentiality, security, and integrity of the personal information they obtain from us.
+  * With our affiliates for internal business purposes;
+  * Except for information collected from Children, with our affiliates and third parties for Hasbro’s own marketing purposes and those affiliates’ and third parties’ own business purposes, including direct marketing purposes (California residents have certain rights set forth in the section entitled “Your California Privacy Rights”);
+  * When we believe it is necessary or appropriate to: (i) comply with applicable law or legal process or to respond to lawful requests or legal authorities; (ii) protect the rights and property of Hasbro and our employees, agents, users and other third parties, including to enforce our agreements, policies and terms of use and protect against fraudulent, abusive, inappropriate, or unlawful use of our Services; and (iii) protect the safety of Hasbro, our users or any third party; and
   * In connection with, or during negotiations of, any merger, sale of company assets, bankruptcy or reorganization, financing or acquisition of all or a portion of our business to another company.
 
 
 
+We may also share aggregated information or information that we have collected from you through the Services, including on co-branded pages and where we have taken reasonable measures to de-identify such information.
 
-We may also share aggregated information or information that we have collected from you while on our website including on co-branded pages and where we have taken reasonable measures to de-identify.
+ **Social Sharing Features**
 
-#### Social Sharing Features 
+The Services may offer third party social sharing features and other integrated tools (such as the Facebook widget), which let you share actions you take on our Services with other media, and vice versa. The use of such features may enable the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides these features. The third party provider may also collect other information in connection with your use of their features, including your IP address, which page you are visiting on our Services, and may set a cookie to enable the features to function properly. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.
 
-The Services may offer social sharing features and other integrated tools (such as the Facebook "Like" button or widgets), which let you share actions you take on our Services with other media, and vice versa. The use of such features may enable the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides these features. These features may also collect your IP address, which page you are visiting on our Services and may set a cookie to enable the features to function properly. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.
+ **Linking to Third Party Sites**
 
-#### Linking to Third Party Sites
+To provide relevant information not found on our Services, to facilitate online shopping, and to allow you to interact with other websites and/or applications in which you may have accounts (such as Facebook and other social media sites), Hasbro may provide links to or embed third-party applications that allow login from our Services to third party websites. Your use of these third party websites and/or applications is subject to the third parties' privacy policies and terms of use, and we encourage you to read the third parties' privacy policies and terms of use before submitting personal or other information or using the websites and/or applications.
 
-To provide relevant information not found on our Services, to facilitate online shopping, and to allow you to interact with other websites and/or applications in which you may have accounts (such as Facebook and other social media sites), Hasbro may provide links or embed third-party applications that allow login from our Services to third party websites. Hasbro will notify users when they are leaving the Services or otherwise indicate that you will be going to a third-party's site. Your use of these third party websites and/or applications is subject to the third parties' privacy policies, and we encourage you to read the third parties' privacy policies before submitting personal or other information or using the websites and/or applications. 
+ **Matched List Ads**
 
-### What are my information choices?
+Third party websites and applications may display ads from Hasbro that are targeted to reach people on those websites or applications who are also identified on one of more of Hasbro’s databases. This is done by matching common factors between Hasbro’s databases - except for information collected from Children - and the databases of these third parties. For instance, we may share your email address with Facebook as part of Facebook’s matched list ad services. If we use Facebook’s matched list ad services, you should be able to hover over the box in the right corner of the Facebook ad to find out how to opt-out with us from such list. If you opt-out with us from Facebook matched list ad services, we will remove the matching personal information from that Facebook list; however, this will not take effect immediately and if you have multiple emails or other accounts, you may have to opt-out separately for each one. We are not responsible for such third parties’ failure to comply with your or our opt-out instructions.
 
-### Regarding Personal Information
+Back to top
 
-If you have registered with our Services, you may at any time review and/or update the contact information we have for you or inform us that you want us to remove your information from our database by either visiting the online profile section of one of our Services or contacting us at hasbroregistration@hasbro.com. If you choose to send us an e-mail, please be sure to include in your message, the name of the website or mobile application at which you registered and the e-mail address you used to register so that we can verify your request. We will respond to all access requests within 30 days. 
+ **6\. What are my information choices?**
 
-### Regarding Cookies
+ **Regarding Personal Information**
 
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. For more information about how to delete or disable flash cookies please visit www.adobe.com/products/flashplayer/security. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+If you have registered with our Services, you may at any time review and/or update the contact information we have for you or inform us that you want us to remove your information from our database by either visiting the online profile section of one of our Services or contacting [Hasbro Consumer Care](http://corporate.hasbro.com/en-us/consumer-care). If you choose to send us an email, please be sure to include in your message, the name of the website at which you registered and the email address you used to register so that we can verify your request. We will respond to all access requests as soon as possible.
 
-###  Regarding Promotional Communications
+ **Regarding Cookies**
 
-You may opt out of receiving promotional emails, text messages or mail from Hasbro by declining to receive such communications at the time of registration or at the time you otherwise provide the information to us. You may also opt-out of receiving promotional emails or text messages by following the instructions in those emails or text messages or by sending an e-mail to hasbroregistration@hasbro.com.
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+ **Regarding Promotional Communications**
+
+You may opt out of receiving promotional emails, text messages or mail from Hasbro by declining to receive such communications at the time of registration or at the time you otherwise provide the information to us. You may also opt-out of receiving promotional emails or text messages by following the instructions in those emails or text messages or by sending an email to [Hasbro Consumer Care](http://corporate.hasbro.com/en-us/consumer-care).
 
 If you opt out, we may still send you transactional or relationship messages, such as emails about your account or our ongoing business relations.
 
-### Safeguarding your personal information
+Back to top
 
-Hasbro has established policies to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. For example, Hasbro has established policies to provide you with a reasonably secureconnection when you create an account or enter payment information (encrypted) for the purchase of a product. 
+ **7\. Security**
 
-Hasbro retains your information for business purposes, for as long as your account is active and/or as long as is reasonably necessary to provide you with our products and services. We will also retain your information as reasonably necessary to comply with our legal obligations, resolve disputes and enforce our agreements. We may also retain cached or archived copies of your information for a reasonable period of time.
+Hasbro has established policies in an effort to protect your personal information against loss, misuse and unauthorized access, disclosure, alteration and/or destruction. For example, Hasbro strives to provide only those employees performing a legitimate business function with access to users’ personal information. Hasbro also reviews its security procedures periodically to consider appropriate new technology and updated methods.
 
-### Contact Us
+Hasbro retains your information for business purposes, for as long as your account is active, and/or as long as is reasonably necessary to provide you with our products and services. Hasbro will also retain your information as reasonably necessary to comply with our legal obligations, resolve disputes and enforce our agreements. We may also retain cached or archived copies of your information for a reasonable period of time.
 
-If you have questions or concerns regarding this Policy, you should first contact Hasbro, using the following contact information:
+Despite our efforts, please be aware that no security measure is ever perfect or impenetrable. To that end, Hasbro will notify users of a data breach when Hasbro determines that is reasonably necessary in accordance with applicable law.
 
-Hasbro, Inc.
+Back to top
 
-Attention: Website Administrator
+ **8\. Your California Privacy Rights**
 
-1027 Newport Avenue, Mailstop A906
-
-Pawtucket, RI 02861
-
+Since 2005, California Civil Code Section 1798.83 permits customers of this website who are California residents to request certain information regarding our disclosure of personal information as defined by the statute to our affiliates and third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please call or write us at:  
+Hasbro, Inc.  
+Attention: Website Administrator  
+1027 Newport Avenue, Mailstop A906  
+Pawtucket, RI 02861  
 (800) 255-5516
 
-hasbroregistration@hasbro.com 
+Back to top
 
-For additional information about our Services, please see our [ Terms and Conditions of Use](https://web.archive.org/web/20140528091700id_/http%3A//www.hasbro.com/home/terms.html).
+ **9\. Contact Us**
 
-### NOTE TO PARENTS
+If you have questions or concerns regarding this Policy, please contact us using the following contact information:
 
-Hasbro has developed its Services to be an enjoyable experience for children (and adults) of all ages. The purpose of this Policy is to help you understand some of the information contained on the Services and how the Services operate. Please discuss this Policy with your children so that they will better understand how to use the Services and the information they may be asked to provide. Hasbro believes that providing its visitors with accurate and adequate notice about the Services will inform choices and decisions about how to use the Services, and will better protect its users' privacy. If you have any questions or comments about our Policy, please contact us using the contact information provided below. For any other issue, please contact [Customer Service](http://www.hasbro.com/customer-service/contacts). 
+Hasbro, Inc.  
+Attention: Website Administrator  
+1027 Newport Avenue, Mailstop A906  
+Pawtucket, RI 02861  
+(800) 255-5516  
+ 
 
-### Children Under 13
+For any other issues, please contact [Hasbro Consumer Care](http://corporate.hasbro.com/en-us/consumer-care). For additional information about our Services, please see our [Terms and Conditions of Use](http://www.hasbro.com/home/terms.html).
 
-### Collection and Use of Children's Personal Information
+As aforementioned, Hasbro is a licensee of the ESRB’s Privacy Certified Program. If you believe that we have not responded to your privacy-related inquiry or your inquiry has not been satisfactorily addressed, please contact ESRB at <https://www.esrb.org/privacy/contact.aspx> or:
 
-Hasbro may collect and store personal information about children under 13 years of age ("children" or "child") if this information is submitted by the parent or guardian in connection with any of our website registrations. To determine who is younger than 13 years old and whether parental consent is required, we ask all prospective registrants to submit their date of birth. Those users that indicate they are less than 13 years of age are taken through a parental consent process. When provided by the parent or guardian, Hasbro may collect and store the following types of personal information about a child under 13: name, email address, parent's or guardian's name, and parent's or guardian's email address. Hasbro may also collect the child's mailing address when necessary to fulfill a transaction, such as sending the winner of a contest or sweepstakes the awarded prize. Hasbro may also collect demographic information about a child such as the child's date of birth, gender, and other preferences; and, combine such information with the child's personal information. Hasbro will only collect this information if it believes that it is voluntarily submitted to us by the child's parent or guardian. For information on how we use cookies and other information collection tools, please see our section on (above). 
+ **ESRB**  
+Attn: Privacy Certified Program  
+420 Lexington Avenue, Suite 2024  
+New York, NY 10170  
+[privacy@esrb.org](mailto:privacy@esrb.org?subject=General%20Privacy%20Policy%20Question)
 
-Once collected, a child's registration information may be used to: (a) fulfill a transaction, such as ship products that have been purchased or send the winner of a contest or sweepstakes the awarded prize, or (b) send the child requested promotional materials, including information about new products, contests, features and enhancements, special offers, and other events of interest (e.g., Birthday Club e-mails). We may also use the information for our internal marketing and demographic studies, so that we can improve the products and services we provide our visitors and to better meet their needs. 
+Back to top
 
-Please note that we are prohibited from conditioning a child's participation in an activity - like contests - on the child's disclosure of more personal information than is reasonably necessary to participate in the activity. This means that if we don't need a specific piece of information (like the child's phone number) to allow the child to participate in a contest, we simply won't ask for it. To read about the steps Hasbro takes to protect the confidentiality, security, and integrity of children's personal information, please see our section on "Safeguarding your personal information" (above).
-
-### Hasbro Contact Information
-
-Any registration information that a child provides to our Services is collected by Hasbro. Hasbro's contact information is as follows:
-
-Hasbro, Inc.
-
-Attention: Website Administrator
-
-1027 Newport Avenue, Mailstop A906
-
-Pawtucket, RI 02861
-
-(800) 255-5516
-
-hasbroregistration@hasbro.com
-
-### Disclosure of Children's Personal Information
-
-We follow our standard policy ("With whom does Hasbro share my personal information" (above)) for the disclosure of personal information collected from and about children under 13.
-
-### Parental Access
-
-A parent who has already given Hasbro permission to collect and use his or her child's personal information can, at any time, do the following: (1) review, correct, or have deleted the child's personal information; and/or, (2) discontinue further collection or use of the child's personal information. To do so, please refer to the confirmation email provided to you when you gave consent or contact us at hasbroregistration@hasbro.com and be sure to include your child's name and email address, your name and email address, and the name of the site at which your child is registered. To make changes to your child's demographic information, you may also visit the online profile section of one of our Services. We will be happy to honor your request. Back to start of Hasbro Privacy Policy. 
-
-If you no longer with to allow your child to upload videos to Youtube or share the videos or voice recordings they are able to make within the application, please delete the application from the device and do not allow your child to use it any longer.
+[](http://www.esrb.org/confirm/hasbro-confirmation.jsp)[](http://www.esrb.org/confirm/hasbro-confirmation.jsp)
