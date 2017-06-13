@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108154130id_/https%3A//www.brooklynmuseum.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklynmuseum.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613023034id_/https%3A//www.brooklynmuseum.org/privacy) for the most accurate reproduction.*
 
 # Brooklyn Museum: Brooklyn Museum Privacy Policy
 
