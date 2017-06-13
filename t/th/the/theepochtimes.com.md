@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119050122id_/http%3A//www.theepochtimes.com/n3/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theepochtimes.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613021636id_/http%3A//www.theepochtimes.com/n3/privacy-notice) for the most accurate reproduction.*
 
 # The Epoch Times - Privacy Notice
 
@@ -87,7 +87,7 @@ Our Site also includes links to other websites and provides access to products a
 If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:
 
    
-Epoch Times International  
+Epoch Times Inc.  
 [feedback@epochtimes.com](email:feedback@epochtimes.com)  
 229 West 28th Street, Suit 700  
 New York, New York 10001
