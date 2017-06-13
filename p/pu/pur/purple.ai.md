@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purple.ai privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204161732id_/http%3A//purple.ai/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purple.ai privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613195516id_/http%3A//purple.ai/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Purple
 
@@ -12,10 +12,10 @@ This privacy policy sets out how Purple WiFi Ltd. uses and protects any informat
 
 We may collect the following information:
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+  * Name and job title.
+  * Contact information including email address.
+  * Demographic information such as postcode, preferences and interests.
+  * Other information relevant to customer surveys and/or offers.
 
 
 
@@ -48,8 +48,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at marketing@purplewifi.com
+  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at marketing@purplewifi.com.
 
 
 
