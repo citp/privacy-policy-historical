@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216125906id_/http%3A//lilypie.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilypie.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613082208id_/http%3A//www.lilypie.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Lilypie - Privacy Policy
 
@@ -43,7 +43,7 @@ If you sign up for the free newsletter, we will send you newsletters periodicall
 
     3. **Contact Information**
 
-If you contact Lilypie.com through the [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php), by e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our [contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php) we will gather information about your browser, IP and from your Lilypie cookies in order to help you with any problems. If you contact us through the Lilypie [Contact Developer](https://apps.facebook.com/lilypie/contactFB.php) link on Facebook (https://apps.facebook.com/lilypie/contactFB.php), we will also gather your numeric Facebook ID in order to check on the status of your tickers.
+If you contact Lilypie.com through the [contact page](https://web.archive.org/contact.php) (https://lilypie.com/contact.php), by e-mail or letter, we may keep a record of your correspondence or comments. If you contact us through our [contact page](https://web.archive.org/contact.php) (https://lilypie.com/contact.php) we will gather information about your browser, IP and from your Lilypie cookies in order to help you with any problems. If you contact us through the Lilypie [Contact Developer](https://apps.facebook.com/lilypie/contactFB.php) link on Facebook (https://apps.facebook.com/lilypie/contactFB.php), we will also gather your numeric Facebook ID in order to check on the status of your tickers.
 
     4. **Cookies**
 
@@ -63,7 +63,7 @@ TOP
 
 Newsletter: You may "opt-out," or unsubscribe from our newsletter by following the unsubscribe instructions in any newsletter e-mail you receive from us. After doing so, Lilypie.com users will not receive future newsletter emails 
 
-My Lilypie: You may cancel your Lilypie account by contacting us through the [Contact page](https://web.archive.org/contact.php) (http://lilypie.com/contact.php) and requesting that your account be closed.
+My Lilypie: You may cancel your Lilypie account by contacting us through the [Contact page](https://web.archive.org/contact.php) (https://lilypie.com/contact.php) and requesting that your account be closed.
 
 TOP  
 
