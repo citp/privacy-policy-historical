@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackdaniels.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014648id_/http%3A//www.jackdaniels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackdaniels.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613222812id_/http%3A//www.jackdaniels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jack Daniel's
 
@@ -10,7 +10,7 @@ This Privacy Policy was last updated on June 15, 2016. We may update this Priva
 
 ### Persons Under Legal Drinking Age Are Not Allowed
 
-BFC maintains this Site for the use of individuals who are of legal age to consume alcoholic beverages under applicable law, and you must be of legal drinking age where you reside to access the Site or provide information to us. We do not solicit or knowingly collect personal information from persons under such legal drinking age, and we do not knowingly market our products or services to persons under such legal drinking age. [ **[www.responsibility.org](http://www.responsibility.org/)** ]
+BFC maintains this Site for the use of individuals who are of legal age to consume alcoholic beverages under applicable law, and you must be of legal drinking age where you reside to access the Site or provide information to us. We do not solicit or knowingly collect personal information from persons under such legal drinking age, and we do not knowingly market our products or services to persons under such legal drinking age. [ **[www.responsibility.org](https://www.responsibility.org/)** ]
 
 ### Information Voluntarily Provided by You 
 
@@ -30,7 +30,7 @@ The Personal Information we receive will be used in our marketing, promotion and
 
 ### Cookies
 
-Please read our Cookie Policy by [clicking here](http://www.brown-forman.com/cookiePolicy/english.html).
+Please read our Cookie Policy by [clicking here](https://www.brown-forman.com/cookiePolicy/english.html).
 
 ### Pixel Tags
 
