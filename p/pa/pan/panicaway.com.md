@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102203234id_/http%3A//www.panicaway.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panicaway.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613141323id_/https%3A//www.panicaway.com/word/privacy) for the most accurate reproduction.*
 
-# Privacy | Panic Away
+# Privacy – Panic Away
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
