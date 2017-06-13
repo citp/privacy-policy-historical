@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grana.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203080806id_/http%3A//www.grana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grana.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613212538id_/https%3A//www.grana.com/privacy) for the most accurate reproduction.*
 
-# GRANA: Wardrobe essentials made from the world’s best fabrics
+# privacy policy - GRANA: Wardrobe essentials made from the world’s best fabrics
 
   * ## Privacy policy
 
@@ -51,8 +51,6 @@ When you submit data to through a form such as those found on contact pages or c
 In order to provide you with a great experience on this site we provide the functionality to set your preferences for how this site runs when you use it. In order to remember your preferences we need to set cookies so that this information can be called whenever you interact with a page is affected by your preferences.
 
 Third Party Cookies
-
-In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
 
 This site uses Google Analytics which is one of the most widespread and trusted analytics solution on the web for helping us to understand how you use the site and ways that we can improve your experience. These cookies may track things such as how long you spend on the site and the pages that you visit so we can continue to produce engaging content.
 
