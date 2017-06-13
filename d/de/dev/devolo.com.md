@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devolo.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130192137id_/http%3A//www.devolo.com/en/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devolo.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613205256id_/http%3A//www.devolo.com/en/Privacy-policy) for the most accurate reproduction.*
 
 # Data privacy at devolo - devolo AG
 
@@ -23,6 +23,7 @@ You can use part of our online service without revealing your identity. Your per
   3. When you register for our e-mail newsletter: if you register for our e-mail newsletter, we will record the data which are required for this purpose or were notified separately by you, e.g. name (form of address, forename(s), surname) and your e-mail address.
   4. When you log onto the website www.mydevolo.de or www.mydevolo.com to manage the devices from the Home Control product line and the devolo live cam: your e-mail address (devolo ID), password, name (form of address, forename, surname), date of birth, language. After the data have been entered, you will receive a confirmation e-mail with an activation link. In order to use supplementary functions (e.g. weather data), you can enter under the item "Addresses" your address data (designation, street, house number, postcode, town, country) and the required time zone, together with your telephone numbers under the item "telephone numbers". 
   5. When you log onto the website www.devolo-cc.de or devolo-cc.de (or one of your country variants: *.com, *.ch, *.fr, *.at) to manage the devolo professional products in the devolo Control Centre: e-mail address, password, date of birth and country where the user account was created, as well as voluntary information: form of address, forename, surname, language. When registering a location as compulsory information: designation, company, street, house number, postcode, town, country. 
+  6. If you decide to request an e-book or a white paper, we will record the following personal data: name (salutation, forename(s), surname), e-mail address, job title, name of company, industry and country). After the data have been input, you will receive an e-mail containing a link to the ordered e-book. By ordering an e-book or a white paper, you also agree to receiving additional information and offers from devolo AG by e-mail.
 
 
 
@@ -38,7 +39,10 @@ In order to supply our services, personal data must be transmitted to selected e
 
   1. In a devolo competition we will use your data for the purpose of your participation and for prize notification and delivery.
   2. If you register for our e-mail newsletter, we will use the data which are required for this purpose or were notified separately by you in order to send you our e-mail newsletter at regular intervals.
-  3. In the event of operation of a dLAN hotspot, we will transmit your user data and your location data assigned to the dLAN hotspot to hotsplots GmbH, Rotherstrasse 22, 10245 Berlin, Germany, so that a contract can be concluded with hotsplots GmbH. More details can be found in the [General Terms and Conditions for Operation of dLAN Hotspots of hotsplots GmbH](http://devolo.hotsplots.com/hotsplots/d-gtc.html).
+  3. In the event of operation of a dLAN® hotspot, we will transmit your user data and your location data assigned to the dLAN® hotspot to hotsplots GmbH, Rotherstrasse 22, 10245 Berlin, Germany, so that a contract can be concluded with hotsplots GmbH. More details can be found in the [General Terms and Conditions for Operation of dLAN® Hotspots of hotsplots GmbH](http://devolo.hotsplots.com/hotsplots/d-gtc.html).
+  4. In the event of use of the Network Management product area in the devolo connectivity center, we shall pass on your user data, utilisation data and, if necessary, data from connected services of third-party suppliers to commissioned partners.
+  5. In the event of use of the WiFi Planner product area in the devolo connectivity center, we shall pass on your user data, utilisation data and, if necessary, data from connected services of third-party suppliers to commissioned partners.
+  6. By ordering an e-book or a white paper, you also agree to receiving additional information and offers from devolo AG by e-mail.
 
 
 
@@ -59,6 +63,7 @@ Where applicable, you have explicitly given your consent to the following. We wo
   1. Unsubscribing from the devolo e-mail-newsletter: you can unsubscribe from our e-mail newsletter at any time by using the related link at the end of the newsletter.
   2. Deletion of your customer account on the website www.mydevolo.de or www.mydevolo.com: Please send an e-mail to support@devolo.de from your registered e-mail address.
   3. Deletion of your customer account on the website www.devolo-cc.de or devolo-cc.de (or one of your country variants: *.com, *.ch, *.fr, *.at): Please send an e-mail to support@devolo.de from your registered e-mail address.
+  4. Deletion of your personal data in connection with the request for an e-book or a white paper: Send an e-mail containing your name, forename and e-mail address to support@devolo.de.
 
 
 
