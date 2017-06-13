@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ninjamanager.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233518id_/http%3A//www.ninjamanager.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjamanager.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613185321id_/http%3A//classic.ninjamanager.com/about/privacy) for the most accurate reproduction.*
 
-# About Us at NinjaManager - a free browser based MMORPG
+# About Us at NinjaManager Classic - a free browser based MMORPG
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
