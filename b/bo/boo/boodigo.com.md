@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boodigo.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427183851id_/https%3A//boodigo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boodigo.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613114912id_/https%3A//boodigo.com/privacy) for the most accurate reproduction.*
 
 # Boodigo - Your Privacy
 
