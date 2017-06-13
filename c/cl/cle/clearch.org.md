@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearch.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003826id_/http%3A//search.clearch.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearch.org privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613180959id_/http%3A//search.clearch.org/privacy.html) for the most accurate reproduction.*
 
 # Clean Search Privacy Policy
 
