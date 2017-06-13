@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2015-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150827035320id_/http%3A//www.jobhat.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobhat.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613115734id_/http%3A//jobhat.com/privacy_policy) for the most accurate reproduction.*
 
-# JobHat - Find Jobs. Showcase Your Resume. Get Hired.
+# Search Jobs - Job Listings | JobHat
 
-### JobHat.com PRIVACY POLICY Effective Date: April 16, 2010
+#### JobHat.com PRIVACY POLICY Effective Date: April 16, 2010
 
 This privacy policy (this "Policy") covers the web site www.JobHat.com and the other web sites operated under the domain name JobHat.com (the "Site") and is applicable to all information about you ("you" or "your") collected through the Site. 
 
@@ -19,14 +19,13 @@ Please read this entire Policy carefully before using this Site or providing us 
 If you have any questions about this Policy please contact us via e-mail at info@jobhat.com.
 
 Electronic:  
-To opt out and unsubscribe from e-mail communications, [click here](https://web.archive.org/unsubscribe)  
+To opt out and unsubscribe from e-mail communications, [click here](mailto:info@jobhat.com)  
 To cancel or correct your personal information: send an email with your User Name and the notice "My User Information" in the subject line to info@jobhat.com  
 To express or ask questions regarding privacy concerns: send an email to info@jobhat.com 
 
 Address:  
-40 Warren Street  
-3rd Floor  
-Charlestown, MA 02129  
+625 Massachusetts Ave  
+Cambridge, MA 02139  
 
 
 **Registration**
