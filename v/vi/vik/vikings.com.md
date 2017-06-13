@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015050id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613030403id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Minnesota Vikings | Privacy Policy
 
@@ -79,8 +79,8 @@ partners and/or their respective affiliates and subsidiaries and other third par
 At times, we may share your personal information with others for various purposes. The following outlines the ways in which your information may be shared with others and the ways in which you may opt-out of having your information shared:  
 Agents: We employ other businesses, certain services and individuals to perform functions on our behalf. Examples include fulfilling orders, sending e-mail, removing repetitive information from customer lists, Website analysis, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They may have access to personally identifiable information needed to perform their functions, but may not use it for their own purposes, like sending you marketing offers about their products.
 
-Here are three urls of third parties that display the team site's branding/frame. Any information provided is directly collected by the third party even though the pages have the look at feel of the team site. The respective third parties' privacy policy shall apply to these areas. <https://www.vikingsnewsletter.com/Register.jsp>  
-<http://vikingmerchandise.com/vikings/customer/home.php>  
+Here are two urls of third parties that display the team site's branding/frame. Any information provided is directly collected by the third party even though the pages have the look at feel of the team site. The respective third parties' privacy policy shall apply to these areas.  
+<http://www.vikingsfanshop.com/vikings-merchandise.php>  
 [https://oss.ticketmaster.com/html/home.htmI?team=vikings&l=EN&STAGE=1](https://oss.ticketmaster.com/html/home.htmI?team=vikings&l=EN&STAGE=1)
 
 Aggregate Information: We may share aggregate information, such as demographics and Website usage statistics, with advertisers, sponsors or other organizations. When this type of information is shared, the other parties do not have access to your personally identifiable information. 
