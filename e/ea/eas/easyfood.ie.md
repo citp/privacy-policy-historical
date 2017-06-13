@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyfood.ie privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024234922id_/http%3A//easyfood.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyfood.ie privacy policy that was archived on 2017-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170613093210id_/http%3A//easyfood.ie/privacy-policy) for the most accurate reproduction.*
 
 # Easy Food | Privacy policy
 
