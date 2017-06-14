@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iari.res.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229091409id_/http%3A//iari.res.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D130%26Itemid%3D1198) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iari.res.in privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614060323id_/http%3A//iari.res.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D130%26Itemid%3D1198) for the most accurate reproduction.*
 
 # Privacy Policy
 
