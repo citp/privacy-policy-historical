@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olmeramarketing.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117055212id_/http%3A//olmeramarketing.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olmeramarketing.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614124316id_/http%3A//www.olmeramarketing.com/privacy.html) for the most accurate reproduction.*
 
 # Mama OnePage HTML Template by Jewel Theme
 
