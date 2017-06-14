@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeepartyusa.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229214415id_/http%3A//coffeepartyusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeepartyusa.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614123514id_/http%3A//coffeepartyusa.com/privacy) for the most accurate reproduction.*
 
 # Coffee Party Privacy Statement - CoffeeParty
 
