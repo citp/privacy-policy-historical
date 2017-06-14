@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129142534id_/http%3A//www.nafex.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafex.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614201101id_/http%3A//www.nafex.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nafex.com
+# Best Foreign Exchange Rates | Nafex.com
 
 We at NAFEX.com understand the importance of your privacy. We will never willfully disclose individually identifiable information about our customers to any third party without first receiving your permission. You can be rest-assured that your information is safe with us. Your visit to this Site is subject to this "Privacy Policy" and our Terms of Use, as may be amended from time to time. 
 
