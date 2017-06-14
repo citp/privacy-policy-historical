@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uca.ac.uk privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129215353id_/http%3A//uca.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uca.ac.uk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614175509id_/http%3A//uca.ac.uk/privacy-policy) for the most accurate reproduction.*
 
-# UCA - Privacy Policy
+# University for the Creative Arts - Privacy Policy - UCA
 
 **GENERAL** This privacy statement sets out how the University for the Creative Arts (the ‘University’) complies with European Union data protection requirements and how it uses and protects any personal information that you provide when you use this website. If you have any questions about this policy or do not agree with it, please contact the University at [**web@uca.ac.uk**](mailto:web@uca.ac.uk)
 
