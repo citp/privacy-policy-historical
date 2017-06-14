@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the heraldgoa.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120174249id_/http%3A//www.heraldgoa.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldgoa.in privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202122id_/http%3A//www.heraldgoa.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Herald: Privacy Policy
+
+  1. [Home](https://www.heraldgoa.in/)
+  2. Privacy Policy
+
+
 
 The Privacy Policy (hereinafter “the policy”) provided below is with respect to our use and protection of any personal information you provide to us through the http://www.heraldgoa.in website.
 
