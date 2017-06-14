@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616235709id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaction-design.org privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614071834id_/https%3A//www.interaction-design.org/about/privacy) for the most accurate reproduction.*
 
 # Personal Data Use and Privacy Policy | Interaction Design Foundation
 
@@ -8,7 +8,7 @@ Personal data and any membership information provided by you to IDF when you ent
 
 By entering, using and/or registering into the Site, you hereby provide IDF with your explicit consent for the collection, treatment and processing of your personal data according to this Privacy Policy. You, as the legitimate owner of your personal data, by using the Site hereby represent to be an adult to the date that the same is provided and to have full legal capacity in your jurisdiction. 
 
-Edits, comments, commentaries and other contributions to the Site made or provided by you will be publicly distributed, and except in certain, very limited circumstances, will remain a permanent part of this site. If you decide to contribute to the Site, you must keep this in mind. Your contributions will be subject to the Site's [Terms and Conditions](https://www.interaction-design.org/about/terms-of-use) and IDF's [Site IP/Copyright Policy](https://www.interaction-design.org/about/copyright). 
+Edits, comments, commentaries and other contributions to the Site made or provided by you will be publicly distributed, and except in certain, very limited circumstances, will remain a permanent part of this site. If you decide to contribute to the Site, you must keep this in mind. Your contributions will be subject to the Site's [Terms and Conditions](https://www.interaction-design.org/index.php/about/terms-of-use) and IDF's [Site IP/Copyright Policy](https://www.interaction-design.org/index.php/about/copyright). 
 
 Under "The Act on Processing of Personal Data", incorporated under Danish law, you may request a copy of the information we hold on you (for which we may request the applicable fee to offset our administration costs) by writing to our address first shown above or to the email legal@interaction-design.org. 
 
