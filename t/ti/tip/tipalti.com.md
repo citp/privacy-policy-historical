@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105154109id_/http%3A//tipalti.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipalti.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614203754id_/https%3A//tipalti.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Tipalti
 
@@ -204,10 +204,10 @@ On October 6, 2015, the European Court of Justice issued a judgment that declare
 
 **TIPALTI**
 
-505 HAMILTON AVE., SUITE 230  
-PALO ALTO, CA 94301 
+1810 GATEWAY DR., SUITE 260  
+SAN MATEO, CA 94404 
 
 or can be emailed to: 
 
 privacy@Tipalti.com  
-**Last Revised** : **May, 2016**
+**Last Revised** : **Jan, 2016**
