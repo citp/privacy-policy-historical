@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westkowloon.hk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124112732id_/http%3A//www.westkowloon.hk/en/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westkowloon.hk privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614113349id_/http%3A//www.westkowloon.hk/en/footer/privacy-policy) for the most accurate reproduction.*
 
 # West Kowloon Cultural District - Privacy Policy
 
@@ -16,7 +16,7 @@ The West Kowloon Cultural District Authority is committed to ensuring that all p
 
 
 
-If you have any queries about our Privacy Policy and Practices, please [contact us](https://web.archive.org/web/20161124112732id_/http%3A//www.westkowloon.hk/en/the-authority/contact).
+If you have any queries about our Privacy Policy and Practices, please [contact us](https://web.archive.org/web/20170614113349id_/http%3A//www.westkowloon.hk/en/the-authority/contact).
 
 **Data Collection for Direct Marketing**
 
@@ -25,7 +25,7 @@ The information collected from you will be used to keep you informed about activ
 You have the right to request access to and correction of information about you held by us. If you wish to access or correct your personal data held by us, you may do so by:
 
   * clicking the "Update My Preferences" link at the bottom of our emails;
-  * contacting our Data Privacy Officer by email at [privacy@wkcda.hk](mailto:privacy@wkcda.hk), or by post to "West Kowloon Cultural District Authority, 29th Floor, Tower 6, The Gateway, 9 Canton Road, Tsim Sha Tsui, Hong Kong".
+  * contacting our Data Privacy Officer by email at [privacy@wkcda.hk](mailto:privacy@wkcda.hk), or by post to "West Kowloon Cultural District Authority, Units 608-613, Level 6, Core C, Cyberport 3, 100 Cyberport Road, Hong Kong".
 
 
 
@@ -33,6 +33,6 @@ If you do not wish to receive information from West Kowloon Cultural District Au
 
   * clicking the "Unsubscribe" link at the bottom of our emails;
   * email us at [unsubscribe@wkcda.hk](mailto:unsubscribe@wkcda.hk);
-  * contacting our Data Privacy Officer by post to "West Kowloon Cultural District Authority, 29th Floor, Tower 6, The Gateway, 9 Canton Road, Tsim Sha Tsui, Hong Kong".
+  * contacting our Data Privacy Officer by post to "West Kowloon Cultural District Authority, Units 608-613, Level 6, Core C, Cyberport 3, 100 Cyberport Road, Hong Kong".
 
 
