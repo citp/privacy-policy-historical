@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231124722id_/http%3A//marketing.move.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614075643id_/http%3A//marketing.move.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Move Inc.
 
@@ -11,7 +11,7 @@ MOVE TAKES MATTERS OF PRIVACY AND INFORMATION SERIOUSLY. Please read the followi
 
 The Move family of Web sites, and mobile apps, mobile-optimized Web sites and other applications and/or electronic media (such as emails Move sends), linking to or bearing this Privacy Policy and operated by or on behalf of Move (collectively, the “Sites,” and each, a “Site”) are committed to implementing policies and procedures designed to provide for privacy and security and deliver the best possible online experience. To that end, we want you to understand what kinds of information we gather about you, how this information, particularly Personal Information (defined below), is used and safeguarded, and how you can control its use. The Move family of Web sites includes, but is not necessarily limited to:  
 [http://www.move.com](http://www.move.com/)  
-[http://realtor.com](http://www.realtor.com/)  
+[https://www.realtor.com](https://www.realtor.com/)  
 <http://newhomes.move.com/>  
 <http://www.moving.com/>  
 <http://www.relocation.com/>  
