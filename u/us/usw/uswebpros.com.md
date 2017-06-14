@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswebpros.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202104158id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswebpros.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614163229id_/http%3A//www.lunarpages.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lunarpages Web Hosting
 
