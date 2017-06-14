@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the xeimages.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120021743id_/http%3A//xeimages.net/page-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xeimages.net privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614180424id_/http%3A//xeimg.yt/page-privacy.html) for the most accurate reproduction.*
 
-# Privacy - Earn Money with Sharing Images
+# Privacy - Share your images to the world
+
+Privacy 
 
 **XeImages Privacy Policy**
 
