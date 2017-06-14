@@ -1,55 +1,15 @@
-> *The following text is extracted and transformed from the shruticreation.com privacy policy that was archived on 2014-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140926124321id_/http%3A//www.shruticreation.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shruticreation.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614232953id_/https%3A//www.shruticreation.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
-Privacy Policy
+We respect your privacy and are committed to maintaining it. When you shop on our shopping store, we will ask you to input your information and will collect Personal Information from you such as your name, e-mail address, billing address, shipping address, telephone/ mobile number, product selections, credit card or other payment information and password. 
 
-What information do we collect?
+We recognize your right to confidentiality and are committed to protecting your privacy. We do not furnish any identifiable information at the individual level regarding its customers to any third party. The information you give to us is held with the utmost care and security. This information is collected primarily to ensure that we are able to fulfill your requirements and to deliver you a truly personalized shopping experience. When navigating our web site, personal information about you is not collected automatically or without your knowledge. 
 
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We are also bound to co-operate fully should a situation arise where we are required by law or legal process to provide information about a customer. We may share non-personal, non-individual statistical or demographic information in aggregate form with our marketing partners, advertisers or other third-parties for research and advertising purposes. In other words, we will not tell our marketing partners that you purchased a specific product, but we may tell them how many customers purchased that product. 
 
-What do we use your information for?
+If you consent, to notify you of products or special offers that may be of interest to you. You agree that you do not object to us contacting you for any of the above purposes whether by telephone, e-mail or in writing and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Telecommunications (Data Protection and Privacy) Regulations 1999. 
 
-Any of the information we collect from you may be used in one of the following ways:
+We will not release your Personal Information to any company outside for mailing or marketing purposes. 
 
-; To personalize your experience
-
-(your information helps us to better respond to your individual needs)
-
-; To improve our website
-
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-; To improve customer service
-
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-; To administer a contest, promotion, survey or other site feature
-
-; To send periodic emails The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-How do we protect your information?
-
-We implement a variety of security measures to maintain the safety of your personal information when you place an order. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days.
-
-#### Do we use cookies?
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
-
-Do we disclose any information to outside parties?
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-Childrens Online Privacy Protection Act Compliance
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page.
+We always strive to respect the privacy of our customers completely. We use the information we collect on our website to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. 
