@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225161806id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614020200id_/http%3A//www.emedco.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,9 +99,3 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 
 
 If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/ "Trust Guard"). 
-
-Respectfully, 
-
-Douglas Jankowski  
-Manager, E-commerce & E-marketing  
-Emedco.com
