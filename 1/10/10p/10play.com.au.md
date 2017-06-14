@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10play.com.au privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022214313id_/http%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10play.com.au privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614022717id_/http%3A//tenplay.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - tenplay - Network Ten
 
