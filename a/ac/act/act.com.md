@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611185603id_/http%3A//swiftpage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614035225id_/http%3A//swiftpage.com/privacy-policy) for the most accurate reproduction.*
 
 # Swiftpage | Privacy Policy
 
