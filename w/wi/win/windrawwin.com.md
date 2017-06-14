@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233703id_/http%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windrawwin.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614125100id_/http%3A//www.windrawwin.com/privacy) for the most accurate reproduction.*
 
-# WinDrawWin.com - Privacy and Cookie Policy
+# Privacy and Cookie Policy - WinDrawWin.com
 
 This privacy policy sets out how WinDrawWin.com uses and protects any information that you give WinDrawWin.com when you use this website.
 
