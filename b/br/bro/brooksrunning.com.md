@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228193214id_/http%3A//www.brooksrunning.com/en_us/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614215830id_/http%3A//www.brooksrunning.com/en_us/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Brooks Running
 
 Brooks Sports, Inc. Privacy Policy
 
-**Last Updated: April 8, 2016**
+**Last Updated: March 10, 2017**
 
 This Privacy Policy describes how information about you is collected, used, and disclosed by Brooks Sports, Inc., and its subsidiaries (collectively, "Brooks" or "we"). This Privacy Policy applies to information we collect when you access or use our websites, mobile applications, or other online or mobile services or applications ("Services"), shop in our stores, or otherwise interact with us.
 
@@ -77,6 +77,8 @@ We take reasonable measures, including administrative, technical, and physical s
 ## Third Party Advertising and Analytics
 
 We may allow third parties to serve advertisements on our behalf across the Internet and to provide analytics services. These third parties may use cookies, web beacons, and other technologies to collect information, such as your IP addresses, identifiers associated with your mobile device or applications on the device, web browsers, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used by Brooks and other companies to analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests, and better understand your usage. This Privacy Policy does not apply to third-party cookies, web beacons, or other tracking technologies, and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices](http://www.aboutads.info/choices).
+
+We may also work with third parties to serve ads to you as part of a customized campaign on third-party platforms (such as Google or Facebook), unless you opt-out of having information about you used in this way by contacting us at [store@brooksrunning.com](mailto:store@brooksrunning.com).
 
 We also use a third party to enable product reviews on our Services. When you submit a product review, you become subject to the terms of use and privacy policy of this third party and the reviews you submit may be posted on our Services and on third party sites.
 
