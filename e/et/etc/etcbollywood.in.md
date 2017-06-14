@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etcbollywood.in privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327210002id_/http%3A//etcbollywood.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etcbollywood.in privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614173534id_/http%3A//etcbollywood.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Etc Bollywood- Box Office Update | Entertainment
+# Privacy Policy | etc Bollywood- Box Office Update | Entertainment
 
 www.etcbollywood.in has published this privacy policy in order to declare our website commitment to privacy. The following discloses the information gathering and dissemination practices for this website.
 
