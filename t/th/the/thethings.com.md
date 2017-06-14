@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thethings.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100419id_/http%3A//www.thethings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thethings.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614233511id_/http%3A//www.thethings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheThings TheThings
+# TheThings Search Results
 
 **  
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.  
