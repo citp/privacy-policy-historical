@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strategy-business.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224102912id_/http%3A//www.strategy-business.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strategy-business.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614020442id_/https%3A//www.strategy-business.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -36,7 +36,7 @@ Our Web Site does not collect or compile personally identifiable information for
 
 Cookies may be used on some pages of the Web Site. “Cookies” are small text files placed on your hard drive that assist us in providing a more customized website experience. For example, a cookie can be used to store registration information in an area of the website so that a user does not need to re-enter it on subsequent visits to that area. It is PwC’s policy to use cookies to make navigation of our websites easier for visitors and to facilitate efficient registration procedures. The information about your visit to our Web Site is aggregated and used by PwC for statistical tracking purposes. The information is not used for individual identification and PwC in no way relates your personal information to these traffic pattern statistics. Site statistics are compiled by third parties and therefore your IP address will be passed to third parties for statistical reporting only. 
 
-PwC also uses site analytics providers, which may set cookies in your browser. Site activity information collected by these analytics providers may be combined with personal information held by PwC. More information about our use of cookies and third-party tools can be found [here](http://www.strategyand.pwc.com/global/home/cookie-information). 
+PwC also uses site analytics providers, which may set cookies in your browser. Site activity information collected by these analytics providers may be combined with personal information held by PwC. More information about our use of cookies and third-party tools can be found [here](https://www.strategy-business.com/cookies). 
 
 If you are concerned about cookies, most browsers permit individuals to decline cookies. In most cases, you may refuse or delete one or more cookies and still access the Web Site, but site functionality may be impaired. After you finish browsing the Web Site, you may delete site cookies from your system if you wish. 
 
@@ -66,11 +66,11 @@ The personal data that you submit to us will only be retained for as long as is 
 
 ## Unsubscribe
 
-Should you wish to unsubscribe from our mailing list or any registrations, we will provide instructions within the appropriate area of the Web Site or in communications to you; or you may contact our [webmaster](http://www.strategy-business.com/press/contactwm). 
+Should you wish to unsubscribe from our mailing list or any registrations, we will provide instructions within the appropriate area of the Web Site or in communications to you; or you may contact our [webmaster](https://www.strategy-business.com/press/contactwm). 
 
 ## Access
 
-Visitor updates of information should be handled by going back through the registration process. Inquiries about the accuracy of identifying information previously submitted to PwC through the Web Site, or requests to have outdated information removed, should be directed to our [webmaster](http://www.strategy-business.com/press/contactwm). PwC is committed to providing reasonable and practical access to visitors to allow them the opportunity to identify and correct any inaccuracies. When requested and practical, PwC will delete identifying information from current operational systems. 
+Visitor updates of information should be handled by going back through the registration process. Inquiries about the accuracy of identifying information previously submitted to PwC through the Web Site, or requests to have outdated information removed, should be directed to our [webmaster](https://www.strategy-business.com/press/contactwm). PwC is committed to providing reasonable and practical access to visitors to allow them the opportunity to identify and correct any inaccuracies. When requested and practical, PwC will delete identifying information from current operational systems. 
 
 When personally identifiable information is retained, PwC assumes responsibility for keeping an accurate record of the information once a visitor has submitted and verified the data. PwC does not assume responsibility for verifying the ongoing accuracy of the content of personally identifiable information. When practically possible, if PwC is informed that any data collected through the Web Site is no longer accurate, PwC will make appropriate corrections based on the updated information provided by the authenticated visitor. 
 
