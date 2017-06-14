@@ -1,37 +1,52 @@
-> *The following text is extracted and transformed from the howtomakemoneyinmusic.com privacy policy that was archived on 2013-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130526101455id_/http%3A//howtomakemoneyinmusic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtomakemoneyinmusic.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614044814id_/http%3A//how-to-make-money-in-music.teachable.com/p/privacy) for the most accurate reproduction.*
 
-# Howtomakemoneyinmusic's Site Privacy Policy
+# Privacy Policy | How to Make Money In Music
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on the homepage and pages where personally identifiable information may be requested. 
+## Privacy Policy
 
-**The Information We Collect**
+This Privacy Policy governs the manner in which the website collects, uses, maintains and discloses information collected from users (each, a 'User') of the website ('Site'). This privacy policy applies to the Site and all products and services offered by company.
 
-This notice applies to all information collected or submitted on the howtomakemoneyinmusic.com website. On some pages, you can order products, make requests, and register to receive materials or make use of our services. The types of personal information collected at these pages may be any or all of the following: 
+ **Personal identification information**
 
-First and Last Name  
-Address  
-Phone Number  
-Email Address  
-IP Address
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-This information is collected for the main purpose of delivering requested information, products and/or services to you.
+ **Non-personal identification information**
 
-The payment services we utilize to process your order on this website have their own privacy statements which may be different from those found here at howtomakemoneyinmusic.com. It is therefore recommended that you carefully read the privacy statements located on these corresponding payment processing sites to help protect your privacy. 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**How We Use Your Information**
+ **Web browser cookies**
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+Our Site may use 'cookies' to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+ **How we use collected information**
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties or collected in a database. 
+Company may collect and use Users personal information for the following purposes:
 
-You can register with our website if you would like to receive updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+  *  _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  *  _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  *  _To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-**Our Commitment to Your Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+ **How we protect your information**
 
-_[Return To: howtomakemoneyinmusic.com](http://howtomakemoneyinmusic.com/)_
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+ **Sharing your personal information**
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+ **Third party websites**
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
+
+ **Changes to this privacy policy**
+
+Company has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+ **Your acceptance of these terms**
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
