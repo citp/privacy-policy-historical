@@ -1,177 +1,72 @@
-> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414091900id_/http%3A//www.sonycreativesoftware.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acidplanet.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614230903id_/http%3A//www.magix.com/us/privacy-statement) for the most accurate reproduction.*
 
-# Sony Creative Software - Corporate - Privacy Policy
+# Privacy
 
-Privacy Policy
+We appreciate your trust in us and always take the greatest possible care to protect your personal data from unauthorized access using the highest safety standards possible.
 
-Last Update: February 2015
+Your order, personal information and payment details are protected by technical security systems and additional authorization procedures. This applies to the transfer of your data as well as to its storage on our servers. Your safety concerns according to the statutory obligations will always be accounted for when data is saved. We process your personal information for handling orders and maintaining customer relations.
 
-At Sony, we believe you have a right to know what type of information we may collect when you interact with us and our practices with respect to that information. The guidelines contained herein apply only to information collected by or for Sony Creative Software Inc. ("SCS"). This includes, among other things, websites operated by or for SCS ("Sites"). Websites which are linked to/from these Sites (including websites of other Sony affiliated companies, e.g., Sony Electronics Inc., Sony Music Entertainment, Sony Pictures Entertainment, Sony Computer Entertainment America) and via banner ads may have different policies; therefore, please review the privacy policy notices on those websites for details.
+### What information does MAGIX collect?
 
-While SCS does not generally require that you provide us with personally identifiable information (for example, in order to visit and use the SCS Sites), please note that in order to participate in some activities, it will be necessary for you to provide such information. If you choose not to provide it for those activities, you may not be able to participate in them.
+Within the frame of processing the services ordered by you, MAGIX, as necessary, collects information such as your name, address and, if applicable, your bank details and email address for the duration of the contractual relationship between you and MAGIX. Your data will be collected exclusively for processing the corresponding order and will be deleted according to statutory requirements as soon as it is no longer needed. Depending on the payment method the payment provider may ask for your phone number during the ordering process for identification purposes.
 
-  
+Provided you receive our newsletter you can revoke the future use your email address for advertising purposes at any time by clicking "Unsubscribe" at the bottom of the newsletter.
 
+#### Repeating the declaration of consent for the newsletter:
 
-## Notice to California Residents. Your California Privacy Rights:
+The following consent was expressly granted by you and we recorded your consent. Due to the Telemedia Act all content regarding consent must be readily available.
 
-California resident, you have the right to receive: a) information identifying any third party company(ies) to whom SCS may have disclosed, within the previous calendar year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please [send us a message](http://www.sonycreativesoftware.com/privacyinfo).
+**"Please enter the following data to order our newsletter.  
+Title:  
+First name:  
+Surname:  
+Country:  
+** **Email address:**
 
-  
+**You can cancel any future use of your email address for advertising purposes at any time by clicking "Unsubscribe" at the bottom of the newsletter.**
 
+### Where does MAGIX save your data?
 
-## Collection of Information:
+The information we have collected from you is stored exclusively on our company-owned servers. Sensitive information is encrypted during transfer using established safety technology (SSL: Secure Socket Layer) and thereby protected from unauthorized access.
 
- ** _SCS may ask you to provide Personal Information,_** meaning individually identifiable information, such as your email address, name, mailing address, telephone number, social security number, credit card number, or persistent identifier (such as a customer number held in a cookie) which is associated with individually identifiable information, to, among other things, enable you to participate in contests, chat rooms, on bulletin boards, to obtain product or service support, to fill out a registration, to download certain software or to order products and services. SCS may combine the information you provide with other information we may collect from you or your devices or from third parties so that we can more effectively tailor our Sites, services and offerings to you.
+### Does MAGIX disclose your data to third parties?
 
- ** _SCS will not share the Personal Information you provide with any other parties, except_** (a) to other Sony "Affiliates" (i.e., (i) Sony Corporation, (ii) any company of which 50% or more of its outstanding shares are owned by Sony Corporation, directly or indirectly, and (iii) any company with the name "SONY" as a part of its trade name) who may want to contact you about products, services or other offerings that may be of interest to you (SCS and such Affiliates being collectively referred to as "Sony"), (b) with your consent (see below), (c) as may be required by law or court order, (d) to persons or companies SCS engages to carry out or provide support for our products and services or for the operation of our Sites or our business (in connection with joint marketing arrangements, co-branded relationships, or otherwise), or (e) to appropriate third parties, including law enforcement or other government agencies, in connection with a criminal investigation, fraud prevention, or other legal action or if SCS reasonably believes it is necessary to do so to protect SCS, its customers, or the public. SCS may also provide data from transactions that it believes to be fraudulent to third parties that provide fraud prevention services to SCS and other merchants.
+On this website Google Analytics, a web analysis service by Google Inc, gathers and saves data from which user profiles are created using pseudonyms. These user profiles serve to analyze visitor behavior and are evaluated in order to improve the design of our offers in line with demand.
 
- ** _Co-Branded Sites_**. When you visit or use a part of any website that is co-branded (i.e., including both Sony and non-Sony branding) or that is a part of a joint promotion involving SCS and one or more third parties (each a "Co-Branded Party"), you are providing and consenting to provide and are transmitting the Personal Information and other information collected, provided or obtained to SCS and to each of the Co-Branded Parties involved, without any other notice or further consent. Please note that we do not control any Co-Branded Parties' use or treatment of information you provide to them and you should consult each of their privacy policies or any separate Co-Branded privacy policy posted on or linked from the Co-Branded Site to determine your rights with respect to their use and treatment of your information. You will need to communicate with us and each Co-Branded Party directly, as applicable, if you decide you no longer wish to receive communications or if you wish to change any information you have supplied.
+In addition, we use Google remarketing and Google DoubleClick technology on our website.This technology enables users who have visited our website and are interested in our products to be targeted with specific advertisements. This benefits users in that they will receive advertisements that are in line with their interests. All data collected by this technology is anonymous, so individual users cannot be identified. Users can opt out of targeted advertising within the Google network via the following link: <http://www.google.com/ads/preferences/html/opt-out.html>.
 
- ** _Unless you instruct us otherwise,_** SCS may contact you to provide information about products, services, promotions, contests, or other activities or offerings that may be of interest to you. You can instruct us whether or not you wish to receive such information by checking or unchecking the box indicating your preference, as applicable, at the place where your information is collected. In addition, with each commercial email you receive from SCS or any of its business units, you will be given the opportunity to indicate if you do not wish to receive future commercial emails from SCS or the SCS business unit which sent it to you.
+Cookies are used for Google Analytics and for Google remarketing technology. These are small text files which are saved locally on the computer of the person visiting the site, they enable our website to recognize the user the next time they visit our website. You can prevent cookies being installed by selecting the respective option in your browser software; we would like to make it clear however that it is necessary to allow cookies in order to use the Service Center and web shop, other areas of the website work without cookies. The pseudonymized user profiles will not be merged with personal data regarding the bearer of the pseudonym without expressly stated approval by those affected. You can object to the collection and saving of data for web analysis purposes at any time by installing the deactivation add-on for your browser provided by Google. The add-on, plus more detailed information can be found using the following link: <http://tools.google.com/dlpage/gaoptout?hl=en>.
 
- **To adjust your preferences related to Sony Creative Software products, click[here.](http://www.sonycreativesoftware.com/mailprefs)**
+Using a corresponding code extension, Google Analytics captures your IP address on our website, but in an anonymous form.
 
- ** _With your consent,_** SCS may share your Personal Information with third parties outside of the Sony group of companies who may want to contact you about products, services or other offerings that may be of interest to you. SCS will seek to obtain your consent at the place where the information is collected either by an "opt-out" or "opt-in" method, or by other means (such as an email request). Each of these companies may have their own privacy policies. We do not control and are not responsible for these other parties, their privacy policies or their use or treatment of your Personal Information or other information. We and our Affiliates make no representation regarding how any third parties use, manage, store, treat or maintain your Personal Information or other information and you should therefore carefully review all such third parties' privacy policies. If you consent to receiving communications from any of these third parties, you will need to communicate with them directly if you later decide that you no longer wish to receive their communications. If you wish to withdraw your consent from any further sharing of your Personal Information with non-affiliated third parties for marketing purposes you may do so by clicking on the link provided above and providing the requested information.
+The MAGIX website uses retargeting technology from AdRoll (AdRoll, 972 Mission St, 3rd Floor, San Francisco, CA 94103, United States). This technology enables targeting individual Internet users who have already shown interest in our shop and products with advertising. Naturally, no personal information is requested or saved in the process. The AdRoll privacy statement and privacy policy are found under the following link: <https://www.adroll.com/about/privacy>. Additionally, you can decide to opt out of targeted ads from AdRoll by clicking on the following link: <https://app.adroll.com/optout/safari>.
 
-For instructions on how to request changes to the Personal Information you have provided to SCS, please [send us a message](http://www.sonycreativesoftware.com/privacyinfo), or write to us at:
+MAGIX will use "Hotjar" software (Hotjar Ltd, Level 2 St Julians Business Centre, 3, Elia Zammit Street St Julians STJ 1000, Malta, EU) in order to improve user experience on its Internet pages. Hotjar lets us evaluate user behavior (mouse movements, clicks, scroll height) on our web pages. To this end, Hotjar places cookies on the site visitor’s end device in order to save technical information (e.g. browser information, operating system, site retention time). You can learn more about privacy policy and opt-outs from Hotjar here: <https://www.hotjar.com/privacy>.
 
-Privacy Office  
-Sony Creative Software  
-8215 Greenway Blvd  
-Suite 400  
-Middleton, WI 53562
+#### The following applies in other cases:
 
- **System Information.** We may collect your computers', network enabled devices', systems' and/or networks' IP addresses and message information for system administration, record keeping, capacity planning, volume and other operational reasons, as well as for advertising and royalty reporting as necessary in the conduct of our business. When you use our services, our systems may record this information, which may be stored with your registration, order or other information you provide to us. This may allow us, among other things, to determine which other websites linked you to us.
+MAGIX or companies affiliated with MAGIX may use the information collected from you for marketing purposes, provided you have given your consent to such utilization. You can object to your data being used for commercial purposes at any time. If you wish to do so please write an email to [privacy@magix.net](mailto:privacy@magix.net).
 
-We collect and maintain Personal Information and/or other information about visitors to our Sites, devices and users of devices that access or use our services and Sites, as well as anyone who sends us information or communications, and recipients of our communications. Much of this information we may gather directly by asking (e.g., hobbies, interests, purchasing habits, music preferences, difficulties in using a particular feature), but we also use technology to collect anonymous information, for example, regarding the content you view through our Sites, products and services and the devices you use to connect to them. We use such information to, among other things, enhance and customize our Sites and services and the advertising and promotions we make available to attempt to create a better experience. We also aggregate information (meaning it does not identify any individual) to analyze trends and statistics to improve your online experiences, our Sites, services, and customer support. If you visit or use the Sites or have registered or provided us with Personal Information about yourself, it is likely that "cookies" allow us to identify you and associate you with your registration, your devices, your applicable Account, user name or ID, information and preferences. For a description of how we use "cookies" see the section below entitled "Cookies."
+Moreover, your details may be passed on to third parties for providing services or for delivering the newsletter, for instance, to the carrier who will deliver the goods you have ordered or the company that will be responsible for the technology for delivering the newsletter.
 
- **Device ID.** Some of the applications used in connection with our products and services generate a device identification ("ID") value during installation or use. This is a number that serves to identify your computer or other device (e.g., for licensing purposes), and which contains no specific information about you, your device, or any files or other data on your system. Among other things, these ID values serve as an effective way to combat software piracy.
+Within the frame of applicable law MAGIX will surrender information to law enforcement agencies and courts at their request for the purpose of criminal prosecution.
 
- **Cookies.** When you visit any of our Sites, advertisements appearing thereon, use one or more of our services, or receive emails from SCS, we may use technology commonly referred to as a "cookie" which stores small bits of data on your computer. While actual "cookie" technology is currently among the most common, we may use a wide variety of technological tools, means and mechanisms (e.g., XML technology, clickstream data, etc.) to help us to customize your experience to better match your interests and preferences and otherwise improve and enhance the services we provide. We will use the term "cookie" to refer to any and or all of these tools, means and mechanisms, whether they are currently available and in use, developed or discovered in the future or otherwise. We use cookies in a variety of ways. For example, we use cookies to save your user ID, Account number or other information (so you do not have to re-enter it each time you visit or use our services) and to help us keep count of your return visits to our Sites and, in some cases, to our advertisers' or partners' or co-branded websites, which helps us determine which services, promotions, features, content and functions users like best. In general, browsers or separately purchased software tools may allow you to erase cookies from your hard drive. You acknowledge and understand that erasing cookies may limit or restrict your ability to use any or all the features and functions of our Sites, Co-Branded Sites and services. We may also use technology to detect the absence or presence of any versions of software or software updates installed on your computer and to track and monitor content you are downloading, streaming, using or otherwise accessing. Any or all of these activities can occur periodically or when necessary, without any other specific notice to you. We may also use cookies to identify your computer each time we automatically update or attempt to update your software. Cookies allow us to transmit and arrange for automatic installation of updates, modifications and even full re-installations of software on your computer to address security, digital rights management, interoperability or performance issues or to enhance the range of features and functions available through our Sites. Any or all of these activities can occur periodically or when necessary, without any other specific notice to you.
+### Does MAGIX use cookies?
 
- **Third Party Ads and Personal Information.** Without limiting or amending any other provisions or terms described in our Privacy Policy, you should be aware that on some of our Sites, we use third parties to post and serve advertisements. Some of these third parties (e.g., Google's AdSense) use their own cookies and/or other technology to collect information about you and your visit to our Site(s) and your use of our services. We do not always control the advertisements you may see and while these third parties do not collect Personal Information about you (such as name, address, telephone number or email), they may collect other data (e.g., 'context-related' information such as which browser is being used, which domain you came to our Sites from, and what time and which pages are being accessed on our Sites, and other websites you may visit before or after leaving our Sites) and system information such as IP addresses. If you would like more information about Google's AdSense — including whether and how this information may be used by Google, [click here](http://www.google.com/privacy_ads.html). Your continued use of our Sites and services will constitute your agreement to this Privacy Policy and the data collection and advertising practices that apply when you use our services or visit our Sites.
+MAGIX does not collect personal data of any kind when you visit our website. However MAGIX places cookies when its website is loaded thus avoiding anew requesting of information on navigating our website.
 
- **Research and Tracking Techniques.** Web beacons, pixel tags, passive capture technologies or other technologies may be used by SCS, third parties we engage or third party application providers for purposes such as researching and tracking certain usage, site interaction, and other activities on our Sites, on certain network enabled devices, and in emails you receive from us. Information collected through these technologies is typically in an aggregate, non-personally identifiable form. However, in some cases, the information collected may include personally identifiable information provided by the user where it is deemed advantageous to collect such information for purposes such as improving the usability of our Sites, providing customer support, and enabling users to access third party content and applications.
+Cookies are small files that are saved on the hard drive of your PC. Access therefore only occurs in impersonalized form and exclusively when you visit our website. Other websites cannot access this information.
 
-  
+Most cookies we use are deleted at the end of the browsing session (known as session cookies). Other cookies stay on your computer and allow us to recognize your computer on your next visit (persistent cookies). Our partner companies are not permitted to gather, process or use personal data collected from our website using cookies.
 
+You can prevent cookies from being installed at anytime by selecting the option "Do not accept cookies" in your browser.
 
- **"Do Not Track" Signals.** Note that your browser settings may allow you to automatically transmit a "Do Not Track" signal to websites and online services you visit. There is no consensus among industry participants as to what "Do Not Track" means in this context. Like many websites and online services, SCS currently does not alter its practices when it receives a "Do Not Track" signal from a visitor's browser. To find out more about "Do Not Track," you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+Data that we collect with the aid of cookies is used for the sole purpose of customizing our offer according to customer preferences and to make browsing of our site as convenient as possible for you.
 
-In addition, note that third parties may collect personal information about your online activities over time and across different websites when you visit our websites or other online websites and services.
+It is necessary to allow cookies in order to use the Service Center and web shop, other areas of the website however will be displayed without cookies.
 
-  
+#### Cookies from third party providers:
 
+MAGIX operates an affiliate program to attract customers. To this end we place banners and/or links to our Online Shop on third party (affiliate) websites. You will be redirected to our Online Shop if you click on one of these links and/or banners. Using a third party cookie we can ascertain which affiliate redirected you. This does not provide us with any of your personal information.
 
-## Use and Disclosure of Anonymous Information
-
-Anonymous information about you, such as your hobbies, interests, purchases, music and viewing preferences, downloads, burns, transfers, page visits and other information related to your user activity may be collected, and in some cases aggregated, by SCS and/or third parties whose applications you may access through your devices. This data can then be used to, among other things, tailor promotions, advertising, and communications that may be relevant to you. Such anonymous information may also be shared with advertisers, business partners, sponsors, licensors, content rights holders and other third parties, for example, to inform them about demographics or content preferences of visitors to our Sites and users of our products, or to ensure proper royalty reporting.
-
-  
-
-
-## Security
-
-SCS seeks to maintain reasonable commercial precautions designed to help protect the security of your Personal Information and in preventing unauthorized access, misuse, loss or accidental disclosure of it through the use of appropriate technology and internal procedures. However, SCS cannot and does not guarantee the security of your Personal Information or that any communications means will be uninterrupted, error free or not intercepted by others improperly and without authorization.
-
-  
-
-
-## Retention
-
-SCS may retain information about you as long as it is necessary for us to fulfill the purposes outlined in this Privacy Policy. In addition, we may retain your information for an additional period as is permitted or required by law in order to, among other things, comply with our legal obligations, resolve disputes, and enforce agreements. Where and when required by law, we shall delete your information. However, even if we delete your information from active databases, the information may remain on backup or storage media.
-
-  
-
-
-## Notice To/Regarding Children Under the Age of 13
-
-SCS believes that children using the Internet require special protection, and we urge parents or guardians to explain Internet safety to their children. Parents are urged to spend time online with their children to become familiar with the types of content available on the SCS Sites and the Internet in general. Control tools are available from online services and software manufacturers to help create a safer environment for children.
-
-If you are under 13 years of age, you should not provide any Personal Information (for example, your last name, home address or e-mail address) on these Sites without the knowledge and permission of your parent or guardian. If SCS learns that you are under 13 years of age, SCS will not maintain or use any Personal Information about you without the verifiable consent of your parent or guardian, except as allowed by law. This may mean that you will be unable to participate in some activities on the Sites without that verifiable consent. If a child under 13 years of age wishes to participate in any SCS Site activity, or wishes to take advantage of a product or service offering available to children, and to do so necessitates the furnishing of any of the child's Personal Information, please note the following:
-
-(i) The name, address, telephone number, and email address of the operator collecting or maintaining Personal Information from children through these Sites are as follows:
-
-Privacy Office  
-Sony Creative Software  
-8215 Greenway Blvd  
-Suite 400  
-Middleton, WI 53562  
-[send us a message](http://www.sonycreativesoftware.com/privacyinfo)
-
-(ii) The types of Personal Information collected from children may include the name, email address, home address, telephone number and/or any other information reasonably necessary for the child to participate in a particular activity. This information may be collected directly and/or passively (e.g., through a Web server that automatically recognizes and stores information such as a visitor's IP address/domain name combination).
-
-(iii) The information collected may be used for purposes such as fulfillment of a requested transaction, record keeping, marketing back to the child, or making it publicly available through a chat room or by other means.
-
-(iv) Unless specific consent is obtained from the child's parent or guardian, the child's Personal Information will not be disclosed to third parties who are not contractors hired to carry out the internal operations of the Sites, other than as may be required or permitted by law. We have required, or will require, such contractors to agree to use Personal Information of Site visitors only for the purposes of carrying out these operations and to keep such information confidential. A parent or guardian has the option of consenting to the collection and use of the child's Personal Information without consenting to the disclosure of that information to third parties.
-
-(v) SCS is prohibited from conditioning a child's participation in an activity on the child's disclosing more Personal Information than is reasonably necessary to participate in such activity; and
-
-(vi) A parent can review and request deletion of the child's Personal Information, can refuse to permit further collection or use of the child's information, and can revoke or limit consents previously given. For instructions on how to do so, please send an email to:
-
-Privacy Office  
-Sony Creative Software  
-8215 Greenway Blvd  
-Suite 400  
-Middleton, WI 53562  
-[send us a message](http://www.sonycreativesoftware.com/privacyinfo)
-
-Except as permitted by law, before any collection of a child's Personal Information takes place at a Site directed to children or where SCS is knowingly collecting children's Personal Information, the child will be asked to provide his/her parent's or guardian's e-mail address so that SCS can contact the child's parent or guardian. SCS will then send an email (the "Initial Notification") to the parent/guardian indicating, among other things, the information that the child is requested to provide, the intended use(s) of the information and information on how the parent/guardian can, at their election, delete the child's information from SCS's database or records. Upon receipt of the Initial Notification, a parent or guardian may respond back to SCS to grant his/her consent or to deny consent in which case SCS will delete the parent/guardian's email address and any other Personal Information, if any, previously obtained for securing parental consent. Upon SCS's receipt of the parent/guardian consent, SCS will send a confirming email to the parent/guardian's email address or take such other action as may be required to verify the consent.
-
-If SCS desires to use a child's information for purposes other than that for which the parent/guardian consent was previously given, SCS will not do so without first getting the parent/guardian consent.
-
-  
-
-
-## Consent to Processing:
-
-By providing any Personal Information to SCS, all persons, including without limitation persons in the member states of the European Union, fully understand and unambiguously consent to the collection and processing of such information in the United States of America, and/or in territories or countries outside of the United States of America, and understand and acknowledge their consent, notwithstanding that some governmental authorities may consider the level of protection of such data in the United States not equivalent to that required within the European Union or any other jurisdiction.
-
-  
-
-
-## Consent to Assignment:
-
-By providing any Personal Information to SCS, you will be deemed to have consented to SCS's disclosure and transfer to, as well as the use by, (a) any party who acquires all or any portion of any SCS service or business unit, whether through merger, acquisition, assignment, or sale, of your Personal Information or other information about you that we have obtained and that is governed by this Privacy Policy and which is related to such service or business unit ; and (b) any party who acquires all or substantially all of the assets of SCS, whether through merger, acquisition, assignment or sale, of your Personal Information or other information about you that we have obtained and that is governed by this Privacy Policy.
-
-  
-
-
-## Your Communications:
-
-Unless otherwise required by law, we are no responsible for monitoring or recording any activity on our Sites, including communications, but we reserve the right to do so.
-
-To help protect you and others, we may monitor the use of the Sites, and we use the Personal Information and other information we collect in order to: ensure that our policies regarding use and our terms and conditions are being complied with and not being violated (e.g., no obscenity, defamation or abusive language, no content that may infringe rights); identify fraudulent activities and transactions; prevent abuse of and investigate any potential threats or misuse of our Sites; and otherwise protect the rights and property of SCS, its partners and customers. Monitoring may result in the collection, recording, and analysis of online activity or communication through our Sites. We have the right to block, remove and/or report any such communications and activities as appropriate. We may analyze and keep records of users' messages and, among other things, the email addresses involved. If you do not consent to these conditions, you must discontinue your use of our Sites.
-
-  
-
-
-## Links to Other Websites:
-
-From time to time we may offer links to other websites from our Sites. Other websites may also reference, advertise, or link to our Sites. However, we do not endorse or sponsor other websites, are not responsible for the privacy policies, practices or the content of such websites, expressly disclaim any statements or assertions made on such websites, and deny all liability associated with your use of, and the content on, such other websites. You may arrive at one of these websites through clicking on a banner advertisement, as part of a co-branding arrangement, or simply by selecting a link on any of our Site pages. These websites might issue their own cookies or collect Personal Information, so please use caution when visiting an external website. You should also be aware we sometimes permit third parties to offer subscription and registration-based services on our services. We are not responsible for the actions or policies of such third parties with respect to Personal Information or other information you may give them, and you should carefully read and understand the applicable privacy policy whenever you provide Personal Information to anyone.
-
-  
-
-
-## Policy Governs Use: Changes to Privacy Policy
-
-The terms of this Privacy Policy will govern the use of any information collected while it is in place. SCS reserves the right to change this Privacy Policy at any time, so please re-visit this page often. In case of any material change, we will change the "Last Update Date" in this Privacy Policy and/or post a notice on the Sites. Changes to this Privacy Policy are effective as of the stated "Last Update Date" and your continued use of the Sites on or after the "Last Update Date" will constitute acceptance of, and agreement to be bound by, those changes.
-
-  
-
-
-## Questions:
-
-If you have any questions or comments about our Personal Information practices or about this Privacy Policy, please feel free to [send us a message](http://www.sonycreativesoftware.com/privacyinfo) or write us at:
-
-Privacy Office  
-Sony Creative Software  
-8215 Greenway Blvd  
-Suite 400  
-Middleton, WI 53562
-
-If you have questions regarding products or services, please click [here](https://web.archive.org/custcenter/home) for further information.
-
-  
-
+MAGIX uses services from third parties to optimize its website. This logs your behavior on our website using cookies. Personal information will not be used.
