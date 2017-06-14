@@ -1,73 +1,123 @@
-> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801000231id_/https%3A//www.motus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motus.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614044253id_/https%3A//www.motus.com/legal/privacy_notice) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Notice
 
-### AGREEMENT
+[Read in French](https://www.motus.com/legal/privacy-notice-french/ "Privacy Notice – French")
 
-By visiting our website and using our services, you agree to be bound by the terms of our Privacy Policy and our Terms of Use.
+**MOTUS PRIVACY NOTICE**
 
-### INTRODUCTION
+Effective: March 16, 2017
 
-Motus, LLC (the “Company” or “Motus” or “we”) uses industry standard practices to safeguard the confidentiality of your personal information. The Company recognizes and respects the privacy interests of Motus users and is committed to protecting that privacy and keeping users informed about our privacy policy.
+**INTRODUCTION**
 
-### UPDATES AND CHANGES TO THIS POLICY
+This Privacy Notice explains how Motus, LLC (“Motus” or “we”) collects, uses, shares, and handles information about Users of the Motus website, mobile app, and other services (collectively, “Motus Services”).  For example, Users include mobile workers who use the Motus app to track mileage for reimbursement from their employers.  By visiting Motus.com or using any Motus Service, Users accept the practices described in this Privacy Notice and consents to the collection, use and disclosure of information described herein.
 
-As Motus evolves, we may update this privacy policy statement to reflect changes in the manner in which we deal with personal information, whether to comply with then applicable regulations and self-regulatory standards or otherwise. The privacy policy posted here will always be current. We encourage you to review this statement regularly.
+Motus collects Users’ information on behalf of Users’ employers or other companies that engage the services of Users (collectively, “Motus Clients”).  Users may be direct employees or independent contractors of Motus Clients.  Users also may be direct employees or independent contractors of Motus Clients’ Permitted Affiliates, as defined in the Motus Master Services Agreement.
 
-### INFORMATION WE COLLECT AND HOW WE USE IT
+As Motus evolves, we may update this Privacy Notice to reflect changes in the manner in which we deal with personal information, whether to comply with then applicable regulations and self-regulatory standards or otherwise. The Privacy Notice posted here will always be current. We encourage you to review this statement regularly.  If we make a material change to the Privacy Policy, we will notify you via e-mail at your most recent e-mail address on record and post a notice of the change on our website, motus.com.
 
-We collect information from you in order to provide services on behalf of your employer for the administration of Motus programs and services. Information that may be collected includes name, email address, and other types of information such as Internet Protocol (“IP”) address, location (via GPS) and simple web page actions.
+This Privacy Notice does not limit collection, use, sharing, or handling by Motus of aggregated, de-identified, or anonymized information, provided that the information cannot be associated with an individual.
 
-The information collected is used solely for the purposes of administering our services which may include:
+If you have any questions or concerns about this Privacy Notice, e-mail Motus at privacy@motus.com.
 
-  * – Processing of transactions
-  * – Email notifications
-  * – Compliance with program guidelines
+**INFORMATION WE COLLECT**
+
+Motus collects User information from Users and Clients in order to administer and provide Motus Services to Motus Clients and Users and for the other purposes identified in this Privacy Notice. Information that may be collected includes:
+
+  * Name
+  * Email address
+  * Telephone number
+  * Date of birth
+  * Gender
+  * Employer name
+  * Vehicle and car insurance information
+  * Bank account data
+  * Website log and user agent data such as Internet Protocol (“IP”) address, browser type, metadata, and the date and time that you accessed Motus Services
+  * Mobile device type and operating system information
+  * Precise location information (described below)
+  * Information collected via cookies and web beacons (described below),
+  * Miles driven
+  * Simple web page actions
+  * Any other information that Users or Clients choose to communicate to Motus (such as sending information to Motus via e-mail, app, or a Web form).
 
 
 
-We collect this information for Motus use only; we will not sell, trade, or rent this information to a third party.
+To deliver some services, such as mileage reimbursement, Motus may collect precise location information related to a User’s location and route.  Motus will only collect precise location information if a User affirmatively opts in to such collection via both the mobile device operating system settings and the settings on the Motus Service.  For instance, in order for a User to allow the Motus app to collect precise location information on the User’s iPhone, the User must take two steps.  First, the User must allow Motus to access location information via the iPhone’s Privacy settings.  Second, the User must enable location collection via the settings on the Motus app.  Users may choose to enable a Motus Service to automatically collect geolocation information during specific timeframes each day.  Users also could manually start and stop precise geolocation data collection via the “Start” and “Stop” buttons, or similar options, on the Motus service. Please note that the exact settings for precise location information collection vary by mobile operating system.
 
-### COOKIES
+Motus Services are not directed to children under the age of 13. Motus does not knowingly collect or store personal information about children under the age of 13.
 
-Cookies are bits of electronic information that can be transferred to your computer or other electronic device to uniquely identify your browser. When you use our website, we may place one or more cookies on your computer or other electronic device. We may use cookies to connect your activity on our website with other information we store about you in your account profile or your prior interactions our website to, for example, store your preferences. The use of cookies helps us improve the quality of the products and services we provide to you by identifying information which is most interesting to you (see Targeted Advertising), tracking trends, measuring the effectiveness of advertising, or storing information you may want to retrieve on a regular basis. Motus uses cookies that are session-based and persistent. Session-based cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. You have the ability to accept or decline cookies by modifying the settings in your browser. You also have the ability to enable or disable persistent cookies by checking or unchecking the “Remember Me” option at login.
+If a User would like to review or request changes to his or her information that is collected through a Motus Service (subject to certain exceptions prescribed by law), the User may email privacy@motus.com.
 
-At any time, you may adjust your browser settings to refuse cookies according to the instructions related to your browser. Please note that if you disable your web browser’s ability to accept cookies, you will not be able to navigate Motus websites, and you will not be able to successfully use Motus services or offerings. Unless you have adjusted your browser setting so that it will refuse cookies, our system will place cookies when you log on to our websites. For more information about how to manage cookies in your web browser, see [http://www.aboutcookies.org](http://www.aboutcookies.org/).
+**HOW WE USE THE INFORMATION**
 
-### WEB BEACONS
+We use the User information that we collect to administer and provide our services to Motus Clients and Users.  We may use User information for the following purposes:
+
+  * Maintaining, providing, repairing, personalizing, understanding, and improving Motus Services, including but not limited to mileage reimbursement, fleet management, mileage tracking, billing, insurance processing, and business intelligence;
+  * Processing transactions with Motus Clients and Users, such as billing and processing account information;
+  * Communicating with Users about Motus Services and affiliated third party services, via methods such as e-mail notifications;
+  * Preventing potentially illegal activities, or activities that potentially violate the Motus Master Service Agreement or Terms of Use;
+  * Responding to the inquiries of Motus Clients and Users;
+  * Complying with IRS (CRA in Canada) and employer mileage reimbursement guidelines; and
+  * For any other purpose to which you consent at the time that your information is collected.
+
+
+
+**SHARING INFORMATION**
+
+If Motus collects User information on behalf of a Motus Client, it may share any of that User information with that Motus Client. For example, if Jane Doe uses the Motus app to track her car’s mileage for her employer, ABC Company, Motus may share any information that the Motus app collects about Jane Doe with ABC Company.
+
+Additionally, under the following circumstances, Motus may provide third parties with the information that it has collected from a User, provided that the sharing is conducted for one of the following purposes:
+
+  * To obtain services from Motus third-party service providers.  Examples of such third-party services include technical support, analytics, insurance quotes, insurance processing services, fuel prices, and motor vehicle record information.
+  * To comply with legal requirements and respond to lawful court orders and other valid legal process;
+  * To protect the rights, property, or safety of Motus or others, or to assist in the investigation of fraud or any other unlawful activity;
+  * As part of a merger, partial or complete acquisition, bankruptcy, asset sale, financing, consolidation, restructuring, liquidation, or similar corporate transaction.  In the event of a corporate transaction that would result in the transfer of User information, Motus would inform Users via their most recent e-mail address on record with Motus and a prominent notice on the Motus.com website;
+  * To transfer any aggregate or anonymized information, provided that no individual could be identified by the information;
+  * Under any other circumstance to which the User consents after being notified.
+
+
+
+**COOKIES, WEB BEACONS, AND DO-NOT-TRACK   **
+
+Cookies are bits of electronic information that can be transferred to your computer or other electronic device to uniquely identify your browser. When you use our website, we may place one or more cookies on your computer or other electronic device. We may use cookies to connect your activity on our website with other information we store about you in your account profile or your prior interactions with our website to, for example, store your preferences. Motus uses cookies that are session-based and persistent. Session-based cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. You have the ability to accept or decline cookies by modifying the settings in your browser. You also have the ability to enable or disable persistent cookies by checking or unchecking the “Remember Me” option at login.
+
+At any time, you may adjust your browser settings to refuse cookies according to the instructions related to your browser. Please note that if you disable your web browser’s ability to accept cookies, you will not be able to access all features and functions available on the Motus website, and you may not be able to successfully use Motus services or offerings. Unless you have adjusted your browser setting so that it will refuse cookies, our system will place cookies when you log on to our websites. For more information about how to manage cookies in your web browser, see [http://www.aboutcookies.org](http://www.aboutcookies.org/).
 
 Web beacons are transparent graphic images placed in emails or web pages to record the simple actions of users. Web beacons collect only limited information, such as time and date of a page being viewed, and a description of the page on which the web beacon resides (the URL). Motus uses web beacons to support analytical programs like Google Analytics and New Relic (our SLA monitoring system).
 
-### TARGETED ADVERTISING
+Motus uses cookies in conjunction with services such as Google Analytics to better understand Users’ experience with Motus Services.
 
-We may participate in targeted advertising. This means that, for example, when you visit our website, we or third party service providers or advertisers may use cookies (that they collect or that we provide to them) or other similar technologies to collect information about your use of our website or your online activities over time and across different websites. As you visit our website, cookies will be placed on your computer and information will be collected so that we can understand what you are interested in. Collected information may include the content you view, the date and time that you view this content, the time you spent viewing this content, and the website that referred you to our website. This information may be associated with your unique browser, device identifier, or Internet Protocol address. These practices help our display advertising partner, Google AdWords, to tailor advertisements that are relevant and useful to you. This could be in the form of an advertisement on the Google search results page, or a website in the Google Display Network.
+As described in this Privacy Notice, other parties may collect Motus User personally identifiable information about an individual User’s online activities over time and across different Web sites when the User uses Motus services.  Motus does not respond to Do-Not-Track signals.
 
-You can visit the page [Google Ad Preferences](http://www.google.com/settings/ads/onweb/) to opt-out of targeted advertising, and to set preferences for how Google advertises to you. You can also opt-out of targeted advertising entirely by modifying your browser settings or by using a browser plug-in.
+**TARGETED ADVERTISING**
 
-### GPS
+We may participate in targeted advertising. This means that, for example, when you visit our website, we or third party service providers or advertisers may use cookies (that they collect or that we provide to them) or other similar technologies to collect information about your use of our website or your online activities over time and across different websites. As you visit our website, cookies will be placed on your computer and information will be collected so that we can understand what you are interested in. Collected information may include the content you view, the date and time that you view this content, the time you spent viewing this content, and the website that referred you to our website. This information may be associated with your unique browser, device identifier, or Internet Protocol address. These practices help our display advertising partner, Google AdWords, to tailor advertisements that are relevant and useful to you.
 
-If your employer subscribes to a Motus product or service that utilizes GPS functionality (whether via telematics or mobile device) we may collect information related to your location and route. Motus uses location and route data to provide products or services to you and/or your employer and for statistical reporting purposes. We also use this information to the extent reasonably necessary to provide and maintain our products and services.
+This could be in the form of an advertisement on the Google search results page, or a website in the Google Display Network. You can visit the page [Google Ad Preferences](http://www.google.com/settings/ads/onweb/) to opt-out of targeted advertising, and to set preferences for how Google advertises to you. You can also opt-out of targeted advertising entirely by modifying your browser settings or by using a browser plug-in.
 
-### INFORMATION SECURITY
+**INFORMATION SECURITY     **
 
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include security measures for and internal reviews of our data collection, storage, and processing practices. We also implement physical security measures to guard against unauthorized access to systems where we store personal data.
+We take reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of personal information within our custody or control. These include security measures for and internal reviews of our data collection, storage, and processing practices and the use of Secure Sockets Layer (SSL) software to encrypt certain sensitive User information such as bank account data. We also implement physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to Motus employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We restrict access to User information to Motus employees, contractors, and agents who need to know that information in order to operate, develop, or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-### DATA INTEGRITY
+**DATA INTEGRITY**
 
-Motus processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+Motus processes User information only for the purposes for which it was collected and in accordance with this Privacy Notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the User information needed to administer, provide or improve our services or as otherwise permitted under this Privacy Notice. We take reasonable steps to ensure that the User information we process is accurate, complete, and current, but we depend on our Users to update or correct their information whenever necessary.
 
-### THIRD-PARTY PROVIDERS
+**INTERNATIONAL TRANSFERS**
 
-Motus will only share information with affiliated and/or contracted third parties in order to administer our services. These entities may include:
+Motus is headquartered in the United States and, regardless of where you use our Services or otherwise provide information to us, your information may be transferred to, maintained, and processed by Motus and our service providers in the United States or other jurisdictions in which we or they operate. Please note that privacy laws, regulations, and standards in the jurisdictions in which your information may be maintained and processed may not be equivalent to the laws in your country of residence and such information may be subject to lawful access by U.S. or other foreign courts, law enforcement, and governmental authorities.
 
-  * _–_ Service providers (i.e., insurance quotes, fuel prices, RMV information, and other entities who may provide services at Motus’ discretion)
-  * _–_ Government agencies, other regulatory bodies, and law enforcement officials (i.e., for tax purposes, for reporting suspicious transactions, etc.)
-  * _–_ Other organizations, with our client’s consent or as permitted or required by law (for example, fraud prevention) Our service providers or any third party entities are obligated to keep both general and personal information we share with them confidential and use it only to provide services specified by Motus.
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
+The California Shine the Light Law requires companies to disclose certain information about information shared with third parties that is used for the third parties’ direct marketing purposes.  Motus does not share Users’ personal information with third parties for the third parties’ direct marketing purposes.  Nonetheless, if you are a California resident, you may request information about the disclosure of your personal information to third parties for the third parties’ direct marketing purposes by emailing privacy@motus.com.
 
+**CONTACT US**
 
-### CURRENT P3P PRIVACY CONFIGURATION AT MOTUS
+If you have any questions about this Privacy Notice or our privacy practices, please contact us at [privacy@motus.com](mailto:privacy@motus.com) or write to us at:
 
-This is the compact P3P policy that we are adding to HTTP headers in CAS for our front end customer facing website: IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT This is a detailed list of the policy abbreviations: [http://www.p3pwriter.com/LRN_111.asp](http://www.w3.org/TR/P3P/#compact_policies).
+Motus, LLC  
+Two Financial Center  
+60 South Street, Boston, MA 02111  
+Phone: 888-312-0788
