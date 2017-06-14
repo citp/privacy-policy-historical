@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hislife.style privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125143801id_/http%3A//hislife.style/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hislife.style privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614021648id_/http%3A//hislife.style/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - His LifeStyle
 
