@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the mediabuyerassociation.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126142228id_/http%3A//mediabuyerassociation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabuyerassociation.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614060003id_/http%3A//mediabuyerassociation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Media Buyer Association - Join The Fastest Growing Network And Resource Hub For Media Buyers
 
-**What information do we collect?**    
+**What information do we collect?**  
+
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. 
 
 Any data we request that is not required will be specified as voluntary or optional. 
