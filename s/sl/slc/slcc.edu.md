@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slcc.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119121518id_/http%3A//www.slcc.edu/policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slcc.edu privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614225950id_/http%3A//slcc.edu/policies/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Computer Usage Statement | SLCC
 
@@ -14,7 +14,7 @@ The College uses reporting programs to collect data about visitor traffic to our
 
 ## Cookies
 
-Some College sites require the use of cookies (bits of data passed by your browser to our site). The MyPage portal uses cookies (active only during your session) to remember password and menu settings. We recommend using the default cookie settings in your browser (not disabling), while interacting with our site(s).
+Some College sites require the use of cookies (bits of data passed by your browser to our site). The MySLCC portal uses cookies (active only during your session) to remember password and menu settings. We recommend using the default cookie settings in your browser (not disabling), while interacting with our site(s).
 
 ## Security Programs Running
 
