@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the highfive.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211211751id_/https%3A//highfive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highfive.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614033541id_/https%3A//highfive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Highfive
 
-Last Updated: December 6, 2016
+Last Updated: February 10, 2017
 
 Thanks for using Highfive! This Privacy Policy describes how we collect, use and handle your information and personally identifiable data when you access and use Highfive’s video conferencing and screen sharing system and all related software, applications and technologies available at and through the website [www.highfive.com](http://highfive.com/) (the “ **Site** ”) and mobile applications (such system, software, applications and the Site together, the “ **Service** ”).
 
