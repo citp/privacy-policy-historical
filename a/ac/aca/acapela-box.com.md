@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acapela-box.com privacy policy that was archived on 2015-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150202171621id_/https%3A//www.acapela-box.com/wp/%3Fpage_id%3D303) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acapela-box.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614030940id_/https%3A//acapela-box.com/wp/%3Fpage_id%3D303) for the most accurate reproduction.*
 
 # Privacy Policy
 
