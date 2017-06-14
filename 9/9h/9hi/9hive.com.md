@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 9hive.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126193307id_/http%3A//9hive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9hive.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614184857id_/http%3A//9hive.com/privacy) for the most accurate reproduction.*
 
-# 9HIVE Website Privacy Policy
+# Privacy Policy
 
 Thank you for visiting 9HIVE. The following is our privacy policy that describes our treatment of
 
@@ -122,7 +122,4 @@ in your backup systems.
 
 The users will be notified about any change in the privacy policy.
 
- **For any further queries  
-**
-
-Contact us at privacy@9hive.com
+ **For any further queries Fill out Form Below:**
