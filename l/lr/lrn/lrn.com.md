@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222031728id_/http%3A//lrn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614201813id_/http%3A//lrn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – LRN
 
@@ -112,7 +112,7 @@ In the event of a sale, assignment, liquidation or other transfer of all or subs
 
 **Changes to this Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, HOWwe use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
