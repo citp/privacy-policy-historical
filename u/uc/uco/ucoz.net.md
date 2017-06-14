@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucoz.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119232036id_/http%3A//www.ucoz.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucoz.net privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614160013id_/http%3A//www.ucoz.net/privacy) for the most accurate reproduction.*
 
 # uCoz - Privacy Policy
 
@@ -64,6 +64,10 @@ uCoz uses the above-described information to tailor our content to suit your nee
 **Security**
 
 All payment procedures of uCoz operate on secure data networks protected by industry standard for cryptography. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. 
+
+**Security Capabilities and Policy for Transmission of Payment Card Details**
+
+When purchasing from uCoz by credit card your financial details are passed through a secure server using the latest 256-bit SSL (secure sockets layer) encryption technology. We use upay.ucoz.net for our data collection. Secure Sockets Layer (SSL) technology with 256 bit encryption protects the security of your online order information. When you place an order online and provide your credit card number, SSL encrypts all personal information including your card number, name and address. With this encryption, only we have the ability to decode your information. If you have any questions regarding our security policy, please contact support@ucoz.com 
 
 **No Spyware / Adware**
 
