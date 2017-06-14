@@ -1,71 +1,73 @@
-> *The following text is extracted and transformed from the dailyjournal.net privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324063233id_/http%3A//www.dailyjournal.net/view/page/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyjournal.net privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614145337id_/http%3A//www.dailyjournal.net/privacy-policy) for the most accurate reproduction.*
 
-# Daily Journal - Privacy Policy
+# Privacy Policy – Daily Journal
 
-**Welcome to therepublic.com.**
+This is the Privacy Policy for all Web sites owned or operated by Aim Media Indiana  (“Aim” “we” or “our”), including, without limitation the Web sites listed (collectively, the “Site”). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to this Site.
 
-We understand that privacy is very important to our readers. While your confidential information is always handled with great care by therepublic.com, we want to make sure that you understand why we collect, how we use, and how we protect certain information.
+ **Managing Information Preferences**
 
-**How do I know my confidential information is safe?**  
-Therepublic.com and The Republic do not share reader information with anyone. We collect this information to improve therepublic.com and provide more and better services to our readers. The only times we will divulge a guest's personal information to a third party are:  
-\- The law requires such disclosure.  
-\- To identify, contact or initiate legal action against someone violating therepublic.com's terms of service, or someone who is causing injury to or interference with  therepublic.com's rights or property, other therepublic.com users, or anyone else who may be harmed by such activities.
+We want to communicate with you only if you want to hear from us. If you have questions or concerns regarding this Privacy Policy or if you wish to exclude your personal information from our direct marketing purposes, please feel free to contact us at:
 
-**What information does therepublic.com collect?**  
-The Republic obtains information from you when you start a newspaper subscription,  register for an online account or purchase advertising. This information may include, but is not limited to, your name, address, telephone number, e-mail address and details of your purchase. If you contact therepublic.com, we may keep a record of your correspondence.
+2980 N. National Road, Suite A
 
-Therepublic.com may conduct surveys on its site for research purposes. When you participate in a survey, the information you provide is collected by therepublic.com. We will always inform you how we will use this information.
-
-Computer IP addresses identify computers and the networks or Internet service providers to which they are connected. Therepublic.com collects computer IP addresses to help with system administration and to gather information about site traffic patterns.
-
-**How does therepublic.com use cookies?**  
-A cookie is a small amount of data transferred from a Web server through your browser and stored on your computer’s hard drive. The cookie contains your username and password so the Web server recognizes you when you log in.
-
-Some advertisers on therepublic.com may use their own cookies. When you click on an ad, visit an advertiser's Web site or make an online purchase from an advertiser, that company may use cookies according to their own policies and is not covered under therepublic.com's privacy policy.
-
-You do not have to allow the use of cookies. Through Web browser options, you may choose to accept all cookies, reject all cookies or to receive notification when a cookie is being delivered to evaluate on a case-by-case basis. Deleting cookies will affect our ability to provide your previous customization you may have set up on the site.
-
-**General statistical information**  
-Visits to therepublic.com are monitored to gather statistical information, including the number of site visits, pages visited and browsers used to view the site. This information enables us to evaluate the effectiveness of our services and monitor site performance.
-
-**How does therepublic.com use my information?**  
-Information collected on therepublic.com is used primarily for the following purposes:
-
-\- Internal research. therepublic.com is continuously working to improve user experience and assessing how visitors use the site. The data we collect assists us in making decisions about how to improve the site and to better serve our users. Our aggregated research data that may be shared with our advertisers or business partners does not include information about specific individuals. Therepublic.com may use your information to contact you to request your participation in a focus group, survey, or other type of research effort to improve our products and services.
-
-\- To customize your online experience. As therepublic.com strives to add and improve customization features, we may use information provided by you to assist in the customization process, if you elect to participate in the use of these features.
-
-\- To target advertising. Most of the information available to you at therepublic.com is  free and supported by advertising. Advertisers prefer to target their message toward online users most likely interested in their products. Information gathered on therepublic.com helps advertisers see general visitor demographics and how visitors use the site, resulting in better decisions concerning advertising placement. No specific information about individual users is ever provided to advertisers.
-
-**Therepublic.com may use provided information in these ways:**  
-\- E-mail addresses. We may send you information that we believe would be of interest to you via e-mail if you provide us your e-mail address by registering on the site. This information may be from therepublic.com, The Republic or one of The Republic’s niche products.
-
-\- Postal addresses. If you provide us your postal address, we may send occasional mailings about new products, upcoming events or other information we think might be of interest to you.
-
-\- Telephone numbers. Therepublic.com may call you regarding orders you have placed online, if you have provided your telephone number. Therepublic.com or The Republic may also call you for research purposes.  
-**  
-What information is covered by this privacy policy? What isn't?**  
-All information you provide directly to therepublic.com is covered under this privacy policy. This information may include but is not limited to your name, address, phone number, and e-mail address.
-
-Information you post in a comment section or in any public area of the site is not considered confidential communication and is not protected under this privacy policy.  
-Therepublic.com has the right, but not the obligation, to monitor comment sections to determine user compliance with its policies and terms of use. Therepublic.com shall have the right, without prior notice, to edit, remove or refuse to post any items submitted or posted to its comment section or any other public area of the site.
-
-Whenever you voluntarily disclose information on a public website, that information can be collected and used by others. Posting information online that is accessible to the public may result in unsolicited messages from other parties. Therepublic.com is not responsible for this disclosure of your information and it is not covered under this privacy policy.
-
-You are responsible for maintaining the secrecy of your password and any account information.
-
-**What if I don't want to be contacted?**  
-When you receive an e-mail from therepublic.com, we will always allow you to opt out of any further e-mails from us. You will find an unsubscribe option within the e-mail. You may also e-mail us at webstaff@therepublic.com, write us at 333 2nd Street, Columbus, IN 47201 or call us at 812-379-5769 to opt out of our e-mail programs.
-
-If, at anytime in the future, therepublic.com desires to use the information you provided to us in a way not previously described, we will contact you to explain the use of the information and give you the opportunity to decline that use.
-
-**Security technologies**  
-Therepublic.com uses industry-standard encryption technologies when receiving and transferring consumer data on our site. You will always be redirected to a secure server when we transfer or receive sensitive data, such as financial information.
-
-**Contacting therepublic.com**  
-If you have any questions about our privacy policy or the privacy practices of this site, please contact us at webstaff@therepublic.com.
-
-You may telephone us at (812) 379-5769 or write us at:  
-Therepublic.com  
-333 2nd Street  
 Columbus, IN 47201
+
+E-mail: webstaff@aimmediaindiana.com
+
+If you would like to correct, update, or change your personal information with us please contact us the same way.
+
+ **What Types Of Information Do We Collect?**
+
+We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, enter sweepstakes, contests or other promotions, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
+
+We may automatically collect non-personal information that does not identify an individual user, such as IP (internet protocol) address, ISP (internet service provider), the Web browser used to visit the Site, the time the Site is visited, which Web pages were visited on the Site, a unique mobile device identifier (in connection with the use of the Sites or related services from mobile devices) and other anonymous Site usage data.
+
+We also use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the Site. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies. Certain of our Service Providers (defined below) may use cookies and Web beacons in connection with the services they perform on our behalf, including, without limitation, ad serving.
+
+ **How Do We Use The Information We Collect?**
+
+We will not sell, share, or rent personal information to third parties, and we will not otherwise disclose personal information to third parties, without your permission, except as disclosed in this Privacy Policy.
+
+We use personal information and non-personal information for internal purposes, including:
+
+  * enhancing your experience at the Site;
+  * performing administration and technical support for the Site;
+  * enabling you to enter sweepstakes, contests and other promotions;
+  * enabling you to use certain services and features available on or through the Site;
+  * creating aggregate information about demographics and usage patterns;
+  * inviting our promotional vendors and advertisers—with your permission—to call to your attention special offers, products and services that may be of interest to you; and
+  * enabling purchases of goods and services.
+
+
+
+We may use aggregate information to measure general Site usage patterns and characteristics of our user base, and we may include such aggregate information about our audience in reports to our commercial vendors. We may also disclose aggregated user statistics (for example, a certain percentage of our users live in a certain area) without your permission in order to describe our audience to existing and prospective advertisers or other third parties. However, this aggregate information does not reference names, phone numbers, e-mail addresses, or other personal information, and it is not traceable to a specific recipient or user e-mail address.
+
+We also may share personal information with entities controlling, controlled by, or under common control with AIM. In the event that AIM is merged, or in the event of a transfer of our assets, we may disclose or transfer your personal information and non-personal information in connection with such transaction.
+
+From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (“Service Providers”). For example, we may contract with Service Providers to provide certain services including credit card processing, advertising, promotions, analytics tools, data management, Web hosting, and Web development. We provide our Service Providers with the information needed for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of your information in order to protect your personal information from unauthorized access, destruction, use, modification, or disclosure.
+
+We may work with third-party advertising companies which may use information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you on the Site and on third-party Web sites. From the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons or pixel tags. Our Privacy Policy does not cover any use of information that a third-party advertisement serving company may collect from you. For more information about ad cookies and companies that provide users the ability to “opt-out” of the collection of information from such cookies, please click here [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp%3E).
+
+Although unlikely, in certain instances we may disclose your personal information when we have reason to believe it is necessary to identify, contact or bring legal action against persons or entities who may be causing injury to you, to AIM or its affiliates, or to others. We may also disclose your personal information when we believe the law or legal process requires such disclosure. Please note that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your personal information to be shared or transferred to third parties without your permission.
+
+ **Security**
+
+We use encryption and authentication tools to protect the security of personal information that you share with us. However, no data transmission over the Internet (or, with respect to our mobile services, over cellular phone networks) can be guaranteed to be 100% secure. As a result, while we strive to protect personal information, we cannot and do not guarantee or warrant the security of any information you transmit to or from the Site, and you do so at your own risk.
+
+ **Links To Third-Party Web Sites**
+
+The Site may contain links to Web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked Web sites may be different from our Privacy Policy. You access such linked Web sites at your own risk. You should always read the privacy policy of a linked Web site before disclosing any personal information on such site.
+
+ **Discussion Board, Forums and Other User Generated Content**
+
+Our online chat areas, bulletin boards, social networks, mobile messaging services, other public forums and user-generated content (i.e., photos, videos) can be a useful way for you to express yourself to other online users. When you post messages or otherwise use these features, the information that you provide (including personal information) may be publicly available to, collected by, and used by third parties. We are not responsible for the content of such messages or images posted by users or such disclosures of personal information.
+
+ **Children’s Privacy Statement**
+
+We do not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently received personal information from a child under the age of 13, we will delete such information from our records.
+
+ **Policy Changes**
+
+If we decide to change our Privacy Policy, in whole or in part, we will inform you by posting the changed Privacy Policy on the Site. Your continued use of the Site constitutes your agreement to abide by the Privacy Policy as changed. If you object to any such changes, your sole recourse shall be to cease using the Site.
+
+Effective Date 11/01/2015
