@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128090611id_/http%3A//www.pentaho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614235909id_/http%3A//www.pentaho.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pentaho
 
-**Last Updated: 20 September 2016**
+**Last Updated: 2 March 2017**
 
 Pentaho Corporation (“Pentaho”) is committed to protecting the privacy of personal information that it collects and processes. This Privacy Policy Statement (“Privacy Statement”) describes the personal information Pentaho and its affiliates collect about you and how we use that information.
 
-Pentaho has certified that its use of personal information conforms to the principles of the EU-U.S. Privacy Shield agreement.  To view our certification, and learn more about Privacy Shield, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).   
+Pentaho has certified that its use of personal information conforms to the principles of the EU-U.S. Privacy Shield agreement. To view our certification, and learn more about Privacy Shield, please visit [www.privacyshield.gov](http://www.privacyshield.gov/).      
 
 By submitting your data to us, you provide your explicit consent to the use of your personal information in accordance with this Privacy Statement. 
 
@@ -67,7 +67,7 @@ You have the right to access the personal information that we hold about you and
 
 ### ONWARD TRANSFER
 
-Personal information collected by us may be stored and processed in the United States or any other country in which Pentaho or its subsidiaries or service providers maintain facilities. By providing the information to us, you are consenting to the transfer of the personal information from your country to a country which may not have the same data protection laws as the country in which you reside. We share your personal information for business purposes only on a need-to-know basis with our employees, affiliates and third parties who provide goods and services to us and will not otherwise share, sell, transfer or exchange your personal information with any other third parties. We will take the necessary steps to ensure that such onward transfers of personal information comply with applicable data protection laws or the Privacy Shield principles.
+Personal information collected by us may be stored and processed in the United States or any other country in which Pentaho or its subsidiaries or service providers maintain facilities. By providing the information to us, you are consenting to the transfer of the personal information from your country to a country which may not have the same data protection laws as the country in which you reside. We share your personal information for business purposes only on a need-to-know basis with our employees, affiliates and third parties who provide goods and services to us and will not otherwise share, sell, transfer or exchange your personal information with any other third parties. We will take the necessary steps to ensure that such onward transfers of personal information comply with applicable data protection laws or the Privacy Shield principles.  In the case of onward transfer of personal information, we will assume responsibility for the processing of personal information we receive and subsequently transfer to third parties acting as an agent on our behalf. We shall remain liable under Privacy Shield principles if third parties engaged by us to process such personal information do so in a manner inconsistent with Privacy Shield principles.
 
 ### COMPELLED DISCLOSURE
 
