@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2015-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150915145651id_/https%3A//thrivethemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybrid-connect.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614191255id_/https%3A//thrivethemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Thrive Themes
+# Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.
 
@@ -20,7 +20,7 @@ IP addresses are used by your computer every time you are connected to the Inter
 
 If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-Refer to our [disclaimer page](http://hybrid-connect.com/disclaimer/) for more information about our emailing and anti-spam policies.
+Refer to our [disclaimer page](https://thrivethemes.com/disclaimer/) for more information about our emailing and anti-spam policies.
 
 ## How Do We Use the Information That You Provide to Us?
 
