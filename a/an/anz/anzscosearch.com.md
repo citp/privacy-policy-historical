@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anzscosearch.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604042114id_/https%3A//www.anzscosearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anzscosearch.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614061937id_/https%3A//www.anzscosearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Anzscosearch
 
