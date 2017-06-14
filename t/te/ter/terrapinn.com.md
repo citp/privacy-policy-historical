@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225124221id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terrapinn.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614084906id_/http%3A//www.terrapinn.com/privacy) for the most accurate reproduction.*
 
-# Terrapinn | privacy
+# Terrapinn privacy
 
 Terrapinn Limited and its group companies (together, "Terrapinn") are committed to safeguarding the privacy of the users of the Terrapinn website, while providing a service which is tailored to suit their needs.  Please take a moment to read our Privacy Policy as it describes what happens to the personal information which you supply to Terrapinn.  Terrapinn reserves the right to change the terms of this Privacy Policy from time to time.
 
