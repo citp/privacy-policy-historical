@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235855id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucdenver.edu privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614110150id_/http%3A//www.ucdenver.edu/policy/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | | Accredited Degrees, Research and Health Care | Denver, Colorado | University of Colorado Denver
 
