@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222083228id_/http%3A//www.fertilethoughts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilethoughts.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614145451id_/http%3A//www.fertilethoughts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FertileThoughts
 
