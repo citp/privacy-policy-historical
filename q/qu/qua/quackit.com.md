@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222040915id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614041713id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for Quackit.com
 
