@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128163524id_/http%3A//www.afroromance.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afroromance.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615010215id_/http%3A//www.afroromance.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chellaul
 
@@ -129,7 +129,7 @@ c/o Chellaul Corporation
 1135 Terminal Way, Suite 209  
 Reno, NV, 89502 
 
-(C) 2016 Chellaul Corporation. All rights reserved. 
+(C) 2017 Chellaul Corporation. All rights reserved. 
 
 ## Linked information:
 
