@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115020127id_/https%3A//www.rockhall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockhall.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614042251id_/https%3A//www.rockhall.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Rock & Roll Hall of Fame
 
