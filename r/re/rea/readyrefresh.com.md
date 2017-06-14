@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the readyrefresh.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223184622id_/http%3A//www.nestle-watersna.com/en/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readyrefresh.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614100729id_/http%3A//www.nestle-watersna.com/en/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy UPDATED
 
 **Nestlé Waters Privacy and Tracking Policy**
 
-Effective August 2012, Last revised October 2015.
+Effective August 2012, Last revised January 2017.
 
 Thank you for visiting this Nestlé Waters North America Inc. website. This Privacy Policy describes our information practices with respect to consumer information we collect both online and offline (e.g., when you communicate with us through our various websites, through mobile applications, and at offline programs and events). This Privacy Policy does NOT apply to information collected independently by our affiliate companies, or joint venture partners. 
 
@@ -20,7 +20,7 @@ We may collect your contact information. This might include name and postal addr
 
 _Purchase Information_
 
-If you make a purchase through our website, applications, or our vendors we may collect purchase information.  This includes credit card information and billing address.  It also includes shipping information. 
+If you make a purchase through our website, applications, or our vendors we may collect purchase information.  This includes credit card information and billing address.  It also includes shipping information.
 
 _Other Information_
 
@@ -46,7 +46,7 @@ We will collect information when you voluntarily provide it to us.  You might d
 
 
 
-We may also collect information you provide us in connection with content that you submit.  This might be content you post on our website or applications, by e-mail, or through text or video message. 
+We may also collect information you provide us in connection with content that you submit.  This might be content you post on our website or applications, by e-mail, or through text or video message.
 
 _Information automatically collected from you online_
 
@@ -54,11 +54,15 @@ We automatically collect certain technical information from your computer or mob
 
 Browser and Flash Cookies
 
-A browser cookie is a small file that websites often store on a user's computer. A Flash cookie is similar to a browser cookie, but is used to store data in conjunction with our web pages that incorporate Adobe Flash applications.  Storage of cookies on your system allows us to personalize or enhance your experience on our website and to make your next visit more convenient and enjoyable. For example, cookies may allow us to remember the content you previously viewed on our website or your log-in information. Cookies may also be used to remember items you have previously placed in your shopping cart when making purchases. We and our third party ad network partners also use cookies to serve interest-based advertisements to you across different websites affiliated with the ad networks, as described in the "Interest-Based Advertising" section below. We may link information contained in a cookie to personal information collected from you by other means (e.g., website registration). For more about your choices with respect to cookies, click here.
+A browser cookie is a small file that websites often store on a user's computer. A Flash cookie is similar to a browser cookie, but is used to store data in conjunction with our web pages that incorporate Adobe Flash applications.  Storage of cookies on your system allows us to personalize or enhance your experience on our website and to make your next visit more convenient and enjoyable. For example, cookies may allow us to remember the content you previously viewed on our website or your log-in information. Cookies may also be used to remember items you have previously placed in your shopping cart when making purchases. We and our third party ad network partners also use cookies to serve interest-based advertisements to you across different websites affiliated with the ad networks, as described in the "Interest-Based Advertising" section below. 
+
+We may link information contained in a cookie to personal information collected from you by other means (e.g., website registration). For more about your choices with respect to cookies, click here.
 
 Clear GIFs
 
-We may use clear GIFs on our website or include them in e-mail messages we send you. Clear GIFs are small graphic images we include on a web page or in an e-mail message that allow us to determine how users interact with the web page or e-mail. Clear GIFs may be used to allow us, or our advertising delivery partners, to communicate with cookies stored on your computer. The information collected via clear GIFs may also include some of the information described in the "Other information" section above, as well as information about how a user responds to an e-mail campaign (such as, the time the e-mail is opened, where does the user link to from the e-mail, etc.). We use information collected this way for a variety of purposes, including but not limited to site traffic reporting, unique visitor counts, advertising and e-mail auditing and reporting, and content personalization.
+We may use clear GIFs on our website or include them in e-mail messages we send you. Clear GIFs (also known as pixels or web beacons) are small graphic images we include on a web page or in an e-mail message that allow us to determine how users interact with the web page or e-mail. Clear GIFs may be used to share information between us and our advertising partners, or to allow us, or our advertising partners, to communicate with cookies stored on your device. We may also use cookies, clear GIFs, and other tools to collect information about your interactions with third party websites. Clear GIFs may be used to serve interest-based advertisements to you across different websites affiliated with advertising networks, as described in the "Interest-Based Advertising" section below. 
+
+The information collected via clear GIFs may also include some of the information described in the "Other information" section above, as well as information about how a user responds to an e-mail campaign (such as, the time the e-mail is opened, where does the user link to from the e-mail, etc.). We use information collected this way for a variety of purposes, including but not limited to site traffic reporting, unique visitor counts, promotions and marketing involving our advertising partners, advertising and e-mail auditing and reporting, and content personalization.
 
 _From third parties or other sources_
 
@@ -68,7 +72,7 @@ We may also get information from other consumers. For example, we may offer e-ca
 
 _Combining Information_
 
-We may combine information we get from one source with other information we may have about you. This might include combining information you submit online with information you submit offline, or information that you submit by e-mail with information that you submit through our websites. Or we may combine information we received from a third party with information you submit to us.  
+We may combine information we get from one source with other information we may have about you. This might include combining information you submit online with information you submit offline, or information that you submit by e-mail with information that you submit through our websites. Or we may combine information we received from a third party with information you submit to us.
 
 **How do we use the information we collect?**
 
@@ -78,13 +82,13 @@ Information collected is used for the purpose for which the information was coll
 
 _To respond to inquiries_
 
-Similarly, we may use your information to respond to your requests or inquiries, For example, if you contact us via an online contact form, your information may be used to respond to your inquiry or comment. 
+Similarly, we may use your information to respond to your requests or inquiries, For example, if you contact us via an online contact form, your information may be used to respond to your inquiry or comment.
 
 _To send communications and for marketing purposes  _
 
 We may use your information to provide you with marketing or other information about our products and services through any communications medium, including but not limited to (i) through e-mail, (ii) on our website and mobile applications, (iii) on third party websites and mobile applications, and (iv) by text message.  We will also use your information to send you transactional communications about your account or relationship with us.
 
-From time to time, we may be approached by reputable third party companies and organizations that provide products or services that we believe may be of interest to you. To help you find these useful products or services, we may use your personal information to send out notices on their behalf. 
+From time to time, we may be approached by reputable third party companies and organizations that provide products or services that we believe may be of interest to you. To help you find these useful products or services, we may use your personal information to send out notices on their behalf.
 
 We may also use your personal and/or demographic information for our internal marketing and demographic studies, so we can constantly improve, personalize, and customize the products and services we provide you and to better meet your needs. This may include occasionally combining, updating, or otherwise enhancing the personal information collected through this website with data we receive from outside records or third parties. We may also use your information to improve our websites and applications.
 
@@ -96,7 +100,7 @@ We may also use your information as permitted by law or in the manner communicat
 
 **Who is collecting your information and is it shared with anyone?**
 
-The information that you disclose on this website is collected by Nestlé Waters North America Inc. or by a vendor acting on its behalf; and is used in accordance with the practices set forth above and for other reasons we may describe to you.  The following provides more specific information about how and to whom we may disclose your information.
+The information that you disclose on this website is collected by Nestlé Waters North America Inc. or by a third party acting on our behalf; and is used in accordance with the practices set forth above and for other reasons we may describe to you.  We may also permit third parties to collect information about your use of the website for their own purposes (e.g., through the use of cookies, clear GIFs, and similar tools). These third parties' use of such tools is not in our control, and they may use or share the information they collect according to their own privacy policies. The following provides more specific information about how and to whom we may disclose your information.
 
 _Affiliated Companies_
 
@@ -108,7 +112,14 @@ We may use third party agents or contractors to provide support for our internal
 
 _Partners and Joint Promotions_
 
-From time to time, we may run a joint or co-sponsored program or promotion with another company, organization, affiliate or other reputable third party, or group of third parties; and, as part of this program or promotion, collect and process personal information.  We may share your personal information with any such third party and we may provide a separate link to that company's website. If you do not want your information to be collected by or shared with any such third party, you can choose not to participate in these programs or promotions at the time the information is collected/requested. Those third parties may use your information as described in any Privacy Policy associated with the program or promotion, which may include their Privacy Policies.  We encourage you to carefully review any such Privacy Policy and other conditions of use. We may share your information if you win a sweepstakes or contest as part of a winner's list. We may also publish this winner's list publicly.
+From time to time, we may run a joint or co-sponsored program or promotion with another company, organization, affiliate or other reputable third party, or group of third parties; and, as part of this program or promotion, collect and process personal information.  We may share your personal information with any such third party and we may provide a separate link to that company's website. If you do not want your information to be collected by or shared with any such third party, you can choose not to participate in these programs or promotions at the time the information is collected/requested. Those third parties may use your information as described in any privacy policy associated with the program or promotion, which may include their privacy policies.  We encourage you to carefully review any such privacy policy and other conditions of use. We may share your information if you win a sweepstakes or contest as part of a winner's list. We may also publish this winner's list publicly.
+
+_Advertising Partners_
+
+We may share your information with advertising partners so that they can better understand your behaviors and browsing activities and so that we and our advertising partners can serve content relevant to you. Our advertising partners may use cookies, clear GIFs, and other tools to collect information over time about your interaction with our websites and unaffiliated websites. Our advertising partners may append information collected by these tools to information obtained from other sources. This Privacy Policy does not address or govern how advertising partners may collect, use, and share information.   
+Similarly, to better understand your behaviors and browsing activities and to serve content relevant to you, we may use cookies, clear GIFs, and other tools to collect information about your interaction with third party websites. Any information collected from a third party website or third party tool is governed by that entity's privacy policy and is not subject to this Privacy Policy. 
+
+Please see the "Interest Based Advertising" section of this Privacy Policy to learn more about how third parties may use tools and information on our behalf or for their own purposes.
 
 _Legal and Business Transfers_
 
@@ -134,7 +145,7 @@ The following outlines the choices you have with respect to the collection and u
 
 
 
-In addition, please note that if you participated in a promotion or program that involved a third party company and, as part of that promotion, you agreed to receive future communications directly from that third party, you will need to contact the third party (not Nestlé Waters North America Inc.) directly to opt out from such communications. This process may be outlined in the third party's Privacy Policy.
+In addition, please note that if you participated in a promotion or program that involved a third party company and, as part of that promotion, you agreed to receive future communications directly from that third party, you will need to contact the third party (not Nestlé Waters North America Inc.) directly to opt out from such communications. This process may be outlined in the third party's privacy policy..
 
 **Children**
 
@@ -164,7 +175,7 @@ We reserve the right to make changes to this Privacy Policy. Any changes will be
 
 **Interest-Based Advertising**
 
-We use certain online technologies, such as cookies, to collect information about you over time and across different websites when you use this website or service, as described in the "How do we collect information" section of this Privacy Policy.  We also allow third parties to collect information this way.  We use these technologies to serve you with interest-based advertising and to better understand your behaviors and browsing activities.  We partner with third party ad networks to either display advertising on our website or to manage our advertising on other sites. Our ad network partners use cookies and clear GIFs to collect information about your activities on this and other websites to provide you advertising based upon your interests on both our and third party websites and mobile applications. 
+We use certain online technologies, such as cookies and clear GIFs, to collect information about you over time and across different websites when you use this website or service, as described in the "How do we collect information" section of this Privacy Policy.  We also allow third parties to collect information this way.  We use these technologies to serve you with interest-based advertising and to better understand your behaviors and browsing activities.  We partner with third party ad networks to either display advertising on our website or to manage our advertising on other sites. Our ad network partners use tools such as cookies and clear GIFs to collect information about your activities on this and other websites to provide you advertising based upon your interests on both our and third party websites and mobile applications.  Our third party partners may use or share information collected by us, information they collect from our websites, or information they collect from cookies on your device for their own purposes, including serving you with interest-based advertising. Such use and sharing is governed by the third party partners' privacy policies, not this Privacy Policy. For more information, please see the "Advertising Partners" section of this Privacy Policy.  
 
 If you wish to not receive interest-based ads from some of our ad network partners, you may opt out by [clicking here](http://www.aboutads.info/choices/). Please note that this may not opt you out of interest-based ads from all of our ad network partners. It also does not opt you out of being served non-interest-based advertising from our ad network partners.  It also does not opt you out of receiving interest-based advertising from us, our affiliated companies, partners, and joint promoters as described in the "Who is collecting your information and is it shared with anyone" section of this Privacy Policy. 
 
@@ -174,7 +185,7 @@ You can always disable cookies or set your browser to alert you when cookies are
 
 Please note that Flash cookies are different from browser cookies because of the way in which Flash cookies capture and store data. Your browser's cookie management tools will not remove flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here:
 
-[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html%22%20/l%20%22117118)
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
 _Do Not Track_
 
