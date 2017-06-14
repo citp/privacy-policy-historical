@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zebpay.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410042403id_/https%3A//www.zebpay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zebpay.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614105527id_/https%3A//www.zebpay.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Zebpay Bitcoin India | Buy Bitcoin | Sell Bitcoin | Bitcoin India
+# Privacy Policy - Zebpay Bitcoin India | Buy Bitcoin | Sell Bitcoin | Buy Bitcoins Online
 
 ### This is the Privacy Policy of Zebpay, which is referred to in these Terms as Zebpay, we or us.
 
