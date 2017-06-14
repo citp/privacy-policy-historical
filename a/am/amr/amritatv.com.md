@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519112112id_/http%3A//www.amritatv.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amritatv.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614071312id_/http%3A//amritatv.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Welcome to Amrita TV
 
@@ -45,16 +45,5 @@ If you have further questions about our Privacy Policy, the practices of our sit
 Legal  
 By visiting this site you are agreeing to the terms as outlined above and in the Credits and Copyrights section. We reserve the right to change our Privacy Policy at any time.   
    
-  
-   
-Leave a Comment  
-Disclaimer - Posting comments that are abusive, vulgar, personal or incendiary is subject to legal action. Irrelevant comments and hyperlinks cannot be published.  
-   
-  
-Write a comment ...
-
-Post comment
-
-Cancel  
   
  
