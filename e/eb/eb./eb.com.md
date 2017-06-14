@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the eb.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124122809id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eb.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614170504id_/http%3A//corporate.britannica.com/privacy.html) for the most accurate reproduction.*
 
 # Encyclopædia Britannica, Inc. Corporate Site
 
   
-_Updated February 20, 2015_
+_Updated March 27, 2017_
 
 _
 
-About Our Ads and our Privacy Policy together explain how we and some of the companies we work with collect, use, share and protect information in relation to our Web sites, mobile application services and any software provided on or in connection with Britannica services (collectively, the "Services") and your choices about the collection and use of your information. The Services are general audience services, intended for Users (visitors and subscribers) of all ages. Our free Services are supported by advertising. Our subscription Web sites are paid for by subscription fees, and are ad-free, as are our paid-for mobile applications. Except with respect to Britannica Projects, if you would like to avoid ads, sign up for a subscription or upgrade your mobile application.
+About Our Ads and our Privacy Policy together explain how we and some of the companies we work with collect, use, share and protect information in relation to our Web sites, mobile application services and any software provided on or in connection with Britannica services (collectively, the "Services") and your choices about the collection and use of your information. The Services are general audience services, intended for Users (visitors and subscribers) of all ages.
+
+Our free Services are supported by advertising. 
+
+Our subscription Web sites are paid for by subscription fees, and are _ad-free_ , as are our paid-for mobile applications. If you would like to avoid ads, sign up for a subscription or upgrade your mobile application.
 
 Your use of our Services is governed by our [Terms of Use](http://corporate.britannica.com/termsofuse.html). PLEASE NOTE, OUR TERMS OF USE CONTAIN DISCLAIMERS OF WARRANTIES AND LIABILITY, A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER. THESE PROVISIONS AFFECT YOUR RIGHTS ABOUT HOW TO RESOLVE ANY DISPUTE WITH BRITANNICA, INCLUDING UNDER THIS PRIVACY POLICY. PLEASE REVIEW. YOUR USE OF THE SERVICES IS ACCEPTANCE OF THIS PRIVACY POLICY AND OUR TERMS OF USE.
 
@@ -55,9 +59,9 @@ In general, our Users are able to visit many of the pages within our Services wi
 
 ### Personal Information (“PII”) We Collect and How We Use It. 
 
-We ask Users to provide certain PII about themselves when they sign up for subscriptions, make purchases in our store, or register for or contribute content to a Britannica Service. PII means, where applicable, your name, address, telephone number, e-mail address, and/or credit or charge card information. It is up to you whether you provide any PII; however, you must provide some PII to purchase a subscription, register for Britannica Projects, submit content or make a store purchase. When you provide your PII within your content submissions, realize we have no control over how other Users will use that information.
+We ask Users to provide certain PII about themselves when they sign up for subscriptions, make purchases in our store, or register for or contribute content to a Britannica Service. PII means, where applicable, your name, address, telephone number, e-mail address, and/or credit or charge card information. It is up to you whether you provide any PII; however, you must provide some PII to purchase a subscription, submit content or make a store purchase. When you provide your PII within your content submissions, realize we have no control over how other Users will use that information.
 
-Britannica uses PII for: allowing Users to obtain an account and to receive communications; verifying the identities of contributors of content, including those using Britannica Projects; making ongoing enhancements to the sites; marketing and promotional purposes; and evaluating site usage by analyzing PII and related data in the aggregate. In addition, with respect to Britannica site Users located outside North America, we may share pertinent PII with our local subsidiaries.
+Britannica uses PII for: allowing Users to obtain an account and to receive communications; verifying the identities of contributors of content; making ongoing enhancements to the sites; marketing and promotional purposes; and evaluating site usage by analyzing PII and related data in the aggregate. In addition, with respect to Britannica site Users located outside North America, we may share pertinent PII with our local subsidiaries.
 
 We may share PII with: 
 
@@ -65,9 +69,7 @@ We may share PII with:
 
 **Business partners.** When you make purchases or engage in our promotions, we may share PII with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
 
-**Britannica Projects.** One of the main reasons Users register for Britannica Projects is to share content with others. This content may include User reports, photos, videos and locations. To bring you this Service, we partnered with n0tice.com ("n0tice"), a crowd sourcing site and a business division of the Guardian Media Group. The minimum information we need to register you is your email address and a password, which n0tice gathers for us. Information such as your name and photo, and the posts you submit may be shared with the n0tice community. When you register for Britannica Projects, n0tice has access to pertinent PII. Before registering for Britannica Projects, review the n0tice [privacy policy](http://n0tice.com/privacy-policy/), which governs n0tice's use of the PII provided to them through the Britannica Projects registration process.
-
-**Quizzes Data Collection.** Whenever you play our Quizzes, we collect data about your interactions with each Quiz. This information may be associated with your user name, IP address or device ID for the purpose of providing our Services and improving them. In addition, when you play a Quiz, your user name, related photo and Quiz score may be displayed in our "Quiz Leaderboard" for other players to see. If you do not want your user name and related photo displayed in the Quiz Leaderboard, please refrain from playing our Quizzes. 
+**Quizzes Data Collection.** Whenever you play our Quizzes, we collect data about your interactions with each Quiz. This information may be associated with your user name, IP address or device ID for the purpose of providing our Services and improving them. In addition, when you play a Quiz, your user name, related photo and Quiz score may be displayed in our "Quiz Leaderboard" for other players to see. If you do not want your user name and related photo displayed in the Quiz Leaderboard, please refrain from playing our Quizzes.
 
 **Logging in using social networking credentials.** If you log-in to our Services using a social media (such as Facebook or Twitter) log-in, you are granting permission to the social media service to share your user details with us. This may include your name, email address, date of birth and location, which will then be used to create a Britannica identity. These social media services may use information about your visit to our Services on their pages. If you browse these pages while still logged in to your account with us, information they collect may be connected to your account on their Web site. For more information on how these social media services use information, please review their privacy policies.
 
@@ -195,7 +197,7 @@ Monday - Friday, 8:00 a.m. to 6:00 p.m. (U.S. Central Time).
 
 **Write us at:**  
 Britannica Customer Service, Attn: Removal from Mailing List  
-331 North LaSalle Street  
+325 North LaSalle Street, Suite 200  
 Chicago, IL 60654-2682  
 Please allow up to six (6) weeks for mailed-in or faxed opt-out requests to be processed.
 
@@ -203,17 +205,17 @@ Please allow up to six (6) weeks for mailed-in or faxed opt-out requests to be p
 
 **Data Retention.** We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations. 
 
-**Account Deletion.** If you no longer wish to have a registered account, you may terminate your account by sending an email to privacy@eb.com. Because of the way we maintain the Britannica Services, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media for up to ninety (90) days. 
+**Account Deletion.** If you no longer wish to have a registered account, you may terminate your account by sending an email to [privacy@eb.com](mailto:%20privacy@eb.com). Because of the way we maintain the Britannica Services, such deletion may not be immediate, and residual copies of your profile information or posts may remain on backup media for up to ninety (90) days. 
 
-**Your Consent and Changes to Privacy Policy.** This Privacy Policy was last updated on April 8, 2014. By using any one of the Britannica Services, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. We reserve the right to change this Privacy Policy at any time. If we make material changes to this policy, we will notify you here or on with a notice on our home page. Where required by law, we will obtain your consent to make these changes.
+**Your Consent and Changes to Privacy Policy.** This Privacy Policy was last updated February, 2015. By using any one of the Britannica Services, you consent to the collection and use of your information by Britannica in the manner specified in this Privacy Policy. We reserve the right to change this Privacy Policy at any time. If we make material changes to this policy, we will notify you here or on with a notice on our home page. Where required by law, we will obtain your consent to make these changes.
 
 **Your California Privacy Rights.** If you are a California resident, you are entitled to prevent sharing of your personal information with third parties for their own marketing purposes through a cost-free means. If you send a request to the address above, Britannica will provide you with a California Customer Choice Notice that you may use to opt-out of such information sharing. To receive this notice, submit a written request to the address above under the "How to Opt Out" section, specifying that you seek your "California Customer Choice Notice." Please allow at least thirty (30) days for a response. 
 
-**Contact Us.** For more information, please contact us at:  Encyclopaedia Britannica, Inc. Attn: Legal - Privacy Practices, 331 North LaSalle Street, Chicago, IL 60654, or [privacy@eb.com](mailto:privacy@eb.com). 
+**Contact Us.** For more information, please contact us at:  Encyclopaedia Britannica, Inc. Attn: Legal - Privacy Practices, 325 North LaSalle Street, Suite 200, Chicago, IL 60654, or [privacy@eb.com](mailto:privacy@eb.com). 
 
 [UK Privacy Policy](http://britannicashop.britannica.co.uk/BritannicaCoUK_Info_Privacy.htm)   
 [Australian Privacy Policy](http://www.britannica.com.au/privacy-policy/)
 
 >  
 
-**©2015 Encyclopædia Britannica, Inc. All Rights Reserved.**
+**©2017 Encyclopædia Britannica, Inc. All Rights Reserved.**
