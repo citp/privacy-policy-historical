@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newdelhitimes.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022164946id_/http%3A//www.newdelhitimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newdelhitimes.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615013402id_/http%3A//www.newdelhitimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | New Delhi Times – India's leading opinion based newspaper
+# Privacy Policy- Read about International issues and policiesNew Delhi Times - India's Only International Newspaper | New Delhi Times – India's Only International Newspaper
 
 **Privacy & Cookies**
 
