@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalkstreet.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418203534id_/http%3A//www.chalkstreet.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalkstreet.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615014917id_/https%3A//www.chalkstreet.com/info/privacy-policy) for the most accurate reproduction.*
 
 # ChalkStreet-Privacy Policy
 
