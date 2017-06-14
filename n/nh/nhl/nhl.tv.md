@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhl.tv privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402212956id_/http%3A//www.nhl.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhl.tv privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202748id_/http%3A//www.nhl.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NHL.com
 
@@ -57,7 +57,7 @@ We may share information that we collect or receive with third parties when we h
 
 We may share information with the following types of third parties:
 
-    * **Our affiliates**. We may share information with current and future "affiliates", a term that includes our parent and subsidiary companies, joint venture partners, or other companies we control, are controlled by, or with which we are under common control. Such affiliates may include those listed here.
+    * **Our affiliates**. We may share information with current and future "affiliates", a term that includes our parent and subsidiary companies, joint venture partners, or other companies we control, are controlled by, or with which we are under common control. Such affiliates may include those listed [here.](https://www.nhl.com/info/nhl-affiliates-member-clubs#affiliates)
     * **Our service providers**. We may provide information about you to service providers that perform certain functions or services on our behalf (for example, hosting our Services, storing our data, fulfilling orders, providing products and services, managing databases, performing analyses, administering our contests and sweepstakes, collecting location data, providing location-based services, processing credit card payments, providing customer service, or sending communications for us). These companies are contractually limited in the ways in which they may use this information.
     * **Operational partners**. We partner with third parties to operate certain of our Services. From time to time, in accordance with applicable laws, we may provide information about you to these operational partners to use for their own purposes. For example, we partner with MLB Advanced Media, L.P. ("MLBAM") to operate certain Services, and we therefore may share information about you with MLBAM, its successors and permitted assigns, and their affiliates in connection with the operation of our Services and where it is otherwise permitted by applicable law. 
 
