@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119204108id_/http%3A//www.textlocal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txtlocal.co.uk privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615001829id_/https%3A//www.textlocal.com/legal/privacy) for the most accurate reproduction.*
 
 # Our User & Website Privacy Policy & Practices - Textlocal
 
@@ -6,7 +6,7 @@ Unless the context otherwise requires, definitions in this Privacy Policy shall 
 
 TxtLocal Limited is committed to protecting and respecting your privacy.
 
-This Privacy Policy is incorporated into Our Terms of Service which can be found on Our website, www.textlocal.comand sets out the basis on which any personal data We collect from You, or that You provide to Us (in relation to You only and not Your customers or clients), will be processed by Us. Please read the following carefully to understand Our views and practices regarding Your personal data and how We will treat it. By visiting [www.textlocal.com](http://www.textlocal.com/) You are accepting and consenting to the practices described in this Privacy Policy.
+This Privacy Policy is incorporated into Our Terms of Service which can be found on Our website, www.textlocal.comand sets out the basis on which any personal data We collect from You, or that You provide to Us (in relation to You only and not Your customers or clients), will be processed by Us. Please read the following carefully to understand Our views and practices regarding Your personal data and how We will treat it. By visiting [www.textlocal.com](https://www.textlocal.com/) You are accepting and consenting to the practices described in this Privacy Policy.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is TxtLocal Limited (company no. 5578161), having its registered office at IMImobile, Tempus Court, Bellfield Road, High Wycombe, Buckinghamshire, HP13 5HA which trades as **Textlocal**.
 
@@ -24,7 +24,7 @@ We may collect and process the following data about You:
 
 ### COOKIES
 
-Our Site uses cookies to distinguish You from other users of Our Site. This helps Us to provide You with a good experience when You browse Our Site and also allows Us to improve Our Site. For detailed information on the cookies We use and the purposes for which We use them see Our Cookie Policy which can be found on Our website, [www.textlocal.com](https://web.archive.org/cookie-policy).
+Our Site uses cookies to distinguish You from other users of Our Site. This helps Us to provide You with a good experience when You browse Our Site and also allows Us to improve Our Site. For detailed information on the cookies We use and the purposes for which We use them see Our Cookie Policy which can be found on Our website, [www.textlocal.com](https://www.textlocal.com/legal/cookies/).
 
 ### USES MADE OF THE INFORMATION
 
@@ -54,7 +54,7 @@ We may share Your personal information with any member of Our group, which means
 We may share Your information with selected third parties including:
 
   * Business partners, suppliers and sub-contractors for the performance of any contract We enter into with them or You.
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts to You and others. We do not disclose information about identifiable individuals to Our advertisers, but We may provide them with aggregate information about Our users (for example, We may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data We have collected from You to enable Us to comply with Our advertisers' wishes by displaying their advertisement to that target audience.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to You and others. We do not disclose information about identifiable individuals to Our advertisers, but We may provide them with aggregate information about Our users (for example, We may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1). We may make use of the personal data We have collected from You to enable Us to comply with Our advertisers’ wishes by displaying their advertisement to that target audience.
   * Analytics and search engine providers that assist Us in the improvement and optimisation of Our Site.
   * Credit reference agencies for the purpose of assessing Your credit score where this is a condition of us entering into a contract with You.
 
