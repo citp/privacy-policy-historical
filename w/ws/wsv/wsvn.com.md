@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120094855id_/http%3A//wsvn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614100647id_/http%3A//wsvn.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale
 
