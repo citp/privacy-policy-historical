@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voluum.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315001229id_/http%3A//voluum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voluum.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614070107id_/https%3A//voluum.com/privacy-policy) for the most accurate reproduction.*
 
 # Software For Affiliate Marketing - Privacy Policy
 
@@ -42,25 +42,33 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
+**Google Analytics and AdWords**
+
+For Google Analytics we are using: User ID feature for associating multiple sessions and activity with a unique ID, Audience Reporting and standard tracking features. For Google AdWords we are using: Remarketing feature for retargeting purposes.
+
+If you wish to opt-out from any of above features, please contact us.
+
 **Online Privacy Policy Only**  
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**  
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.voluum.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.voluum.com/terms>
 
 **Changes to our Privacy Policy**  
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 15/12/2014
+This policy was last modified on 18/03/2015
 
 **Contacting Us**  
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 Codewise Sp. z o.o. Sp. K.  
-Ul. Lubicz 17h, 31-503 Krakow  
+Ul. Lubicz 17G, 31-503 Krakow  
 Poland  
 hello@codewise.com
+
+Go top
