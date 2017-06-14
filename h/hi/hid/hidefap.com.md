@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidefap.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231092815id_/http%3A//www.hidefap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidefap.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614152434id_/http%3A//www.hidefap.com/privacy.php) for the most accurate reproduction.*
 
 # Hide Fap Proxy - Unblock Sites with our free proxy. Works with: YouTube, Facebook, Myspace, Bebo.
 
@@ -22,4 +22,4 @@ We may also use third-party advertising partners on our website. Advertisers may
 
 The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
 
-* For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
+* For more information on configuring your browser, see [The Ultimate Guide to Cookies](http://www.whoishostingthis.com/resources/cookies-guide/) or the documentation for your browser. We are not responsible for the content of any third-party websites.
