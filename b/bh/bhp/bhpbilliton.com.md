@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhpbilliton.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113222id_/http%3A//www.bhpbilliton.com/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhpbilliton.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615013256id_/http%3A//www.bhpbilliton.com/info/privacy-policy) for the most accurate reproduction.*
 
 # BHP Billiton | Privacy Policy
 
@@ -50,7 +50,7 @@ Users can set their browsers to provide notification when a cookie is received, 
 
 Providing personal information 
 
-At times, BHP Billiton may ask you to voluntarily supply personal information, such as your name, email address, location, telephone number and preferred means of communication, for purposes such as subscribing to BHP Billiton news alerts or requesting further information from BHP Billiton, including through the [Contact Us](http://www.bhpbilliton.com/contact) form available on our website.
+At times, BHP Billiton may ask you to voluntarily supply personal information, such as your name, email address, location, telephone number and preferred means of communication, for purposes such as subscribing to BHP Billiton news alerts or requesting further information from BHP Billiton, including through the [Contact Us](https://web.archive.org/contact-us) form available on our website.
 
 We will use information to provide you with the information that you request from us.Other than as stated above, no attempt is made to identify our website users or their browsing activities except:
 
@@ -79,7 +79,7 @@ Please note that any person to whom BHP Billiton may disclose your personal info
 
 ### Security
 
-BHP Billiton takes all reasonable technical and organizational security measures to protect personal information from accidental or unlawful destruction, accidental loss and unauthorised access, destruction, misuse, modification or disclosure.
+BHP Billiton takes all reasonable technical and organisational security measures to protect personal information from accidental or unlawful destruction, accidental loss and unauthorised access, destruction, misuse, modification or disclosure.
 
 ### Access to BHP Billiton's e-Business
 
@@ -89,7 +89,7 @@ BHP Billiton will collect details in the membership database that are relevant t
 
 ### Access to personal data and right to rectification
 
-You can gain access to the personal information BHP Billiton holds about you by sending a request to ‘General Enquiries’ on the [Contact Us](http://www.bhpbilliton.com/contact) form available on our website. As BHP Billiton wishes to ensure the personal information it holds about you is complete, accurate and up to date, you have the right to send a request for rectification via the same form.
+You can gain access to the personal information BHP Billiton holds about you by sending a request to ‘General Enquiries’ on the [Contact Us](https://web.archive.org/contact-us) form available on our website. As BHP Billiton wishes to ensure the personal information it holds about you is complete, accurate and up to date, you have the right to send a request for rectification via the same form.
 
 If you have posted a resume on the BHP Billiton job vacancy website, you can at all times complete, update or otherwise rectify your resume by logging into your account via the existing applicant login section of our website.
 
@@ -99,12 +99,10 @@ If you do not provide us with the information sought in the required fields we m
 
 ### Complaints and Concerns
 
-If you have a concern or complaint about how BHP Billiton has used your personal information, as a first step, you should raise this in writing with BHP Billiton, using the contact details available on our website or via the [Contact Us](http://www.bhpbilliton.com/contact) form.
+If you have a concern or complaint about how BHP Billiton has used your personal information, as a first step, you should raise this in writing with BHP Billiton, using the contact details available on our website or via the [Contact Us](https://web.archive.org/contact-us) form.
 
 ### Changes to this Privacy Policy and Contact
 
 Any changes BHP Billiton may make to this privacy policy in the future will be posted on this page.
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be submitted via the [Contact Us](http://www.bhpbilliton.com/contact) form available on our website
-
-### 
+Questions, comments and requests regarding this privacy policy are welcomed and should be submitted via the [Contact Us](https://web.archive.org/contact-us) form available on our website
