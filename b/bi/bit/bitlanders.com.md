@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitlanders.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013801id_/http%3A//www.bitlanders.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitlanders.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614041122id_/http%3A//www.bitlanders.com/pages/about/privacy) for the most accurate reproduction.*
 
 # About bitLanders
 
@@ -33,6 +33,8 @@ In addition to the Personal Information and Billing Information noted above that
 ### The Information Collected by or Through Third-Party Advertising Companies
 
 We may share Other Information about your activity on the Platforms with third parties for the purpose of tailoring, analyzing, managing, reporting, and optimizing advertising you see on the Platforms and elsewhere. These third parties may use cookies, pixel tags (also called web beacons or clear gifs), and/or other technologies to collect such Other Information for such purposes. Pixel tags enable us, and these third-party advertisers, to recognize a browser’s cookie when a browser visits the site on which the pixel tag is located in order to learn which advertisement brings a user to a given site.
+
+You can opt-out with Digital Advertising Alliance at http://www.aboutads.info/choices or Your Online Choices at http://www.youronlinechoices.com/uk/
 
 ### Accessing and Modifying Personal Information and Communication Preferences
 
