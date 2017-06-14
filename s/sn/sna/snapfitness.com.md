@@ -1,99 +1,149 @@
-> *The following text is extracted and transformed from the snapfitness.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508131902id_/http%3A//snapfitness.com/Corporate/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfitness.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614153446id_/https%3A//www.snapfitness.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Snap Fitness | Gym - Health Club - Fitness Center
 
-**Welcome to SnapFitness.com (the "Site"). This page summarizes our Privacy Policy.  
-**  
-Snap Fitness, Inc. (hereinafter referred to as either, "Company," "We," "Us," or "Our") is committed to protecting the privacy of personal information you may provide Us on this Website (the "Site"). We updated this Privacy Policy effective as of January 1, 2008.
+[](https://web.archive.org/)
 
-The terms of this Privacy Policy apply to all users of this Site. If you do not agree with the terms of this Privacy Policy, you should immediately cease the use of this Site. Below you will find answers to several questions regarding Our revised Privacy Policy.
+Thank you for visiting [www.snapfitness.com](https://web.archive.org/) (this “Site”), which is owned by Snap Fitness, Inc. (“Snap Fitness”), a wholly owned subsidiary of Lift Brands, Inc. (“Lift Brands,” “we,” “us,” or “our”). 
 
-**Privacy Policy - Last Updated January 1, 2008**
+This online privacy policy (this “Policy”) describes the information we collect from or about you through this website. It also describes how we use and share that information and some of the steps we take to protect your privacy. 
 
-This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by SnapFitness.com (collectively, "Services") (members who register to transact business are referred to herein as "Authorized Customers").
+## Effective Date
 
- **"Personally Identifiable Information"**   
-  
-This term refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, , email address, , , credit card information, demographic information, and any other information you may voluntarily provide. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual.
+September 09, 2016
 
- **What Personally Identifiable Information is collected? **
+## Scope of This Policy
 
-We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: their Member Identification number, email address and sometimes their address and phone number as well to enable the set-up of Personal Web Pages.  
+This Policy applies only to information collected through this Site. It does not apply to third-party sites or to websites owned by Lift Brands on which it is not posted. It also does not apply to information collected through other channels, such as over the phone or in person. 
 
-At certain times, you may have the choice of whether or not to disclose certain Personally Identifiable Information in navigating the Site; some parts of the Site and some services may be more difficult or impossible to use if you choose not to disclose Personally Identifiable Information.
+Some of the information we collect through this Site may be “personal information”—information that identifies you personally, alone or in combination with other information available to us. Other information may be nonpersonally identifiable, such as information collected by cookies. 
 
-You may at some point have the option to receive future offers and updates from the Us by checking the appropriate opt-in box. If you choose to opt-in, your Personally Identifiable Information will be kept in a secured database and We will alert you via email to new features, special offers, updated information and new services.
+## Your Consent
 
-**What organizations are collecting the information?**  
-  
-In addition to our direct collection of information, our third-party service vendors (such as credit card companies, clearinghouses, banks and fitness service providers) who may provide such services as credit, insurance, escrow services, personal wellness plans and coaching, customized nutritional supplements and online nutritional and exercise planning may collect this information from our Visitors and Authorized Customers. We do not control how these third parties use such information, but we do ask them to disclose how they use personal information provided to them from Visitors and Authorized Customers. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the information given to them.
+Please take a few minutes to review this Policy before using this Site. By using this Site, you are consenting to the collection, use and disclosure of your information as set forth in this Policy. If you do not agree to be bound by this Policy, you may not access or use this Site. 
 
- **How does the Site use Personally Identifiable Information?**
+## This Policy is Part of Our Terms of Use
 
-We and our franchisees, agents, employees, affiliates, successors and assigns (our "Affiliates") may use your Personal Information for any of the following purposes: (1) to customize the Site; (2) to understand the use of the Site and make improvements; (3) to fulfill prizes and make service offerings; (4) to fulfill buying and selling requests on the Site;  (5) to register visitors for online activities such as: online ordering, sweepstakes, contests, surveys, employment applications, comment forms, or any other online interactive activities; (6) to respond to specific requests from visitors; (7) to obtain parental consent from visitors under 18 years of age, when necessary; (8) to provide any necessary notices to visitors or their parent or legal guardians if situations prompt such notification; (9) to protect the security or integrity of the Site if necessary; (10) to send notices of special promotions, offers or solicitations; and (11) in general, to promote and market Our business and Our franchise system.  We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information.   We also use the information to provide information to our franchisees.
+This Policy is part of the [Terms of Use](https://web.archive.org/terms-and-conditions) that govern your use of this Site. A link to our [Terms of Use](https://web.archive.org/terms-and-conditions) is provided at the bottom of each page of this Site. 
 
- **With whom may the information may be shared?**  
-  
-All Personally Identifiable Information that we collect may be shared with our franchisees, agents, employees, affiliates, successors and assigns (our "Affiliates").  Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with not only our Affiliates but also our third-party vendors.
+## Types of Information We Collect
 
-We also offer the opportunity to "opt out" of receiving information or being contacted by Us or by any agency acting on our behalf. 
+ _Information You Manually Provide._ Snap Fitness collects the information you manually provide (using your keyboard, mouse, or touchpad) when you use this Site, for example, we collect the information you provide when you sign up for a trial membership, express interest in owning a franchise, register for an event, make a purchase, apply for a job, engage in an online chat, or otherwise interact with this Site. Some of the information you manually provide may be personal information, such as your name and contact information, height, weight or photograph. 
 
-**How is Personally Identifiable Information stored?**  
-  
-Personally Identifiable Information collected by SnapFitness.com is securely stored and is not generally accessible to third parties or employees of SnapFitness.com except for uses as indicated above. 
+_Information From Third-Party Social Media Platforms._ You may be able to register with, log on to, or enhance your profile on this Site by choosing to automatically populate the requested data fields with information you previously provided to a third-party social media platform (such as Facebook or Twitter). By doing this, you are asking the third-party platform to send us information, including personal information, from your profile on that platform. We treat that information as we do any other information you give to us when you register, log on, or enhance your profile. 
 
-**What choices are available to Visitors regarding collection, use and distribution of the information?**  
-  
-Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [webmaster@snapfitness.com](mailto:webmaster@snapfitness.com)
+_Information from your browser or device._ . Snap Fitness collects information that is sent to us automatically by your web browser or mobile device. This information typically includes your IP address, the name of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit. The information we receive may depend on your browser or device settings. 
 
-**Are Cookies Used on the Site?**
+The information we receive from your web browser and device is not, in and of itself, personally identifiable. Generally, we use this information in the aggregate to help us improve this Site and make it more compatible with the technology used by our visitors. However, we may combine it with other information in an attempt to identify you or we may combine it with information that does identify you. We may also review our server logs for security purposes—for example, to detect intrusions into our network—and we might share our server logs, which contain visitors’ IP addresses, with the appropriate investigative authorities who could use that information to trace and identify you. 
 
-Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 20 minutes, we will automatically log off the Authorized Customer.
+_Information Collected by Cookies and Other Technologies._ A “cookie” is a small file placed on your device when you visit a site that can be understood by the site that issued the cookie. We use cookies and other technologies to collect information and support certain features of this Site. For example, we may use these technologies to: 
 
-Cookies are a common part of many commercial Websites that allow small text files to be sent by a Website, accepted by a Web browser and then placed on your hard drive as recognition for repeat visits to the Site. Every time you visit Our Site, Our servers, through cookies, pixels and/or GIF files, collect basic technical information such as your domain name, the address of the last URL visited prior to clicking through to the Site, and your browser and operating system. You do not need to enable cookies to visit Our Site; however, some parts of the Site and some services may be more difficult or impossible to use if cookies are disabled.
+  * collect information about the ways visitors use this Site—which pages they visit, which links they use, and how long they stay on each page
+  * support the features and functionality of this Site—for example, to save you the trouble of reentering information already in our database or to prompt the settings you established on previous visits;
+  * personalize your experience when you use this Site; and
+  * improve our marketing efforts, including through use of targeted advertising.
 
-**How does SnapFitness.com use login information?**
 
-SnapFitness.com uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, gather broad demographic information and provide Personal Web Page access to Authorized Customers. 
 
-**What partners or service providers who are not Snap Fitness's Affiliates have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-  
-SnapFitness.com has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.  Our privacy policy does not cover their collection or use of this information. ~~~~
+The information we collect using cookies and similar technologies is not, in and of itself, personally identifiable, but we may link it to personal information that you provide. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit this Site, you may be unable to use all of the functionality of this Site if your browser rejects our cookies. 
 
-**Disclosure of Personally Identifiable Information to comply with law.**
+## Information About Third-Party Cookies
 
-We will disclose Personally Identifiable Information in order to comply with a court order or subpoena or a request from a law enforcement agency to release information. We will also disclose Personally Identifiable Information when reasonably necessary to protect the safety of our Visitors and Authorized Customers.
+In addition to the cookies Snap Fitness delivers to your computer or mobile device through this Site, certain third parties may deliver cookies to you for a variety of reasons. For example, we use Google Analytics, a web analytics tool that helps us understand how visitors engage with our Sites. To learn more about Google Analytics, [click here](https://support.google.com/analytics/answer/6004245). 
 
-**How does the Site keep Personally Identifiable Information secure?**
+Other third parties may deliver cookies to your computer or mobile device for the purpose of tracking your online behaviors over time and across nonaffiliated websites and/or delivering targeted advertisements either on this Site or on other websites. 
 
-All of our Affiliates are familiar with our security policy and practices. The Personally Identifiable Information of our Visitors and Authorized Customers is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis. Sensitive information, such as credit card numbers, is protected by encryption protocols, in place to protect information sent over the Internet. While we take commercially reasonable measures to maintain a secure site, electronic communications and databases are subject to errors, tampering and break-ins, and we cannot guarantee or warrant that such events will not take place and we will not be liable to Visitors or Authorized Customers for any such occurrences. 
+You have choices about the collection of information by third parties on our Sites. For example, if you don’t want information about your visit to this Site sent to Google Analytics, you may download an Opt-out Browser Add-on by [clicking here.](https://support.google.com/analytics/answer/6004245) Please note that the Add-on does not prevent information from being sent to Snap Fitness. 
 
-**How can Visitors correct any inaccuracies in Personally Identifiable Information?**  
-  
-Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at [webmaster@snapfitness.com](mailto:webmaster@snapfitness.com)
+In addition, if you would like to opt-out of having interest-based information collected by certain entities during your visits to this Site or other websites, please [click here.](https://support.google.com/analytics/answer/6004245) You will be directed to an industry-developed website that contains mechanisms for choosing whether each listed entity may collect and use data for online behavioral advertising purposes. It may be that some of the third parties that collect interest-based information on this Site do not participate in the industry-developed opt-out website, in which case the best way to avoid third-party tracking of your online behaviors may be through your browser settings and deletion of cookies. 
 
-**Can a Visitor delete or deactivate Personally Identifiable Information collected by the Site?**  
-  
-We provide Visitors and Authorized Customers with a mechanism to delete/deactivate Personally Identifiable Information from the Site's database by contacting [webmaster@snapfitness.com](mailto:webmaster@snapfitness.com).
+## How We Use Information Collected Through This Site
 
-However, because of backups and records of deletions, it may be impossible to delete a Visitor's entry without retaining some residual information. An individual who requests to have Personally Identifiable Information deactivated will have this information functionally deleted, and we will not sell, transfer, or use Personally Identifiable Information relating to that individual in any way moving forward. 
+How We Use Information Collected Through This Site 
 
-**What happens if the Privacy Policy Changes?**  
-  
-We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
+  * to provide the information, products and services you request;
+  * for security, credit or fraud prevention purposes;
+  * to provide you with effective customer service; 
+  * to provide you with a personalized experience when you use this Site;
+  * to contact you with information and notices related to your use of this Site; 
+  * to contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us); 
+  * to invite you to participate in surveys and provide feedback to us (in accordance with any privacy preferences you have expressed to us); 
+  * to better understand your needs and interests;
+  * to improve the content, functionality and usability of this Site;
+  * to improve our products and services; 
+  * to improve our marketing and promotional efforts; and
+  * for any other purpose identified in an applicable privacy notice, click-through agreement or other agreement between you and us. 
 
-**Links**
 
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.  This Privacy Policy applies solely to Personally Identifiable Information collected on this Site.
 
-**Date of Privacy Policy**
+Please see below for information about the choices you have about the ways we use your information. 
 
-This Privacy Policy was last updated on January 1, 2008.
+## Your Choices
 
-**Policy in the Event of   Merger or Acquisition**
+ _In General._ We respect your right to make choices about the ways we collect, use, and disclose the information you provide on or through this Site. We strive to provide choices to you at a meaningful time and in a meaningful place. This Notice describes some of your other choices, such as your choice to opt out of receiving “cookies.” 
 
-In the event that We go through a business transition, such as a merger, another company acquires us or a subsidiary, or We sell a portion of its assets, your personal information will, in most instances, be part of the assets transferred. Thirty days prior to the change of ownership or control, you will be informed of this exchange and its effects via prominent notice on Our site. If as a result of a business transition, your personally identifiable information will be used in a manner different from that stated at the time of collection, you will be give the choice to opt-out.
+_Do Not Track Mechanisms._ Your browser may deliver a “Do-Not-Track (‘DNT’) signal” to this Site. Because of the changing state of technology and indecision within the technology and marketing industries regarding the meaning of DNT signals, we currently do not make any guarantee that we will honor DNT signals. 
 
-If you have any further questions concerning the Company's Privacy Policy and the use of your Personal Information, please contact webmaster@snapfitness.com.
+_Previously Expressed Preferences._ You may change previously expressed preferences regarding how we use information you provide on or through this Site. For example, if you have provided your contact information and receive periodic emails from us, you may decide to stop receiving those emails by clicking the “unsubscribe” link in an email’s footer. You may be able to change other preferences through an account you create on this Site. Otherwise, please contact us using the information provided below. 
 
-Effective as of December 20, 2007
+## How to Access, Correct, or Delete Your Information 
+
+If you have created a profile on this Site, you have the right to access, correct, or delete your information and may be able to do so through your account settings. Otherwise, you may need our help. Please contact us using the information provided below. We will respond to you within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if it is unreasonable and/or the law permits or requires us to do so or if we are unable to verify your identity. 
+
+## Steps We Take to Safeguard your Information
+
+We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of personal information you submit on or through this Site. For example, when collecting credit card information for online purchases, we offer secured-service transactions that encrypt your information in transit to thwart others from intercepting or misusing it. Unfortunately, no website, server or database is completely secure or “hacker proof.” We therefore cannot guarantee that your personal information will not be disclosed, misused or lost by accident or by the unauthorized acts of others. Further, we cannot control dissemination of personal information you post on or through this Site using any social networking tools we may provide, and you should have no expectation of privacy in such information. 
+
+## How We Share Information With Others
+
+ _With Third–Party Vendors._ Snap Fitness shares information collected through this Site with third-party vendors who act on our behalf. For example, we may use third-party vendors to design and operate this Site; to conduct surveys; and to help us with our promotional efforts. These third-party vendors may need information about you to perform their obligations. However, they are required by contract to keep your information confidential and may use it only to provide services on our behalf. 
+
+_Within the Lift Brands Corporate Family._ The owner and operator of this Site may share information collected through this Site with other companies in the Lift Brands corporate structure. These affiliate companies are permitted to use your information for their own marketing purposes and in a manner otherwise consistent with this Policy. 
+
+_With our Franchisees._ Snap Fitness may share information collected through this Site with the owner of any one of our locations that you have used or in which you have expressed interest. Our franchisees are required by contract to keep your information confidential and they may use this information only in accordance with the terms of the contract. 
+
+_In Aggregate or De-Identified Form._ We use information collected through this Site to create a compiled, aggregate view of usage patterns. We may share aggregate information with third parties so we and they can better understand our user base. We may also share with third parties information about how particular individuals use this Site, but only on a de-identified basis (“Individualized Data”). Individualized Data is not personally identifiable, but it does reflect the usage patterns of a particular Site user, as opposed to Site users collectively. We may provide basic demographic information (gender and age) in conjunction with providing Individualized Data. Third parties typically use this information for analytical purposes and to market their own products and services. 
+
+_With Other, Carefully Selected Business Partners._ From time to time, we may share your information with selected third parties for their own marketing purposes. For example, we may partner with third parties to sponsor contests or other promotions, and we may share with these third parties the information you submit to us to participate in the contest or take advantage of the promotion. Before doing so, however, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. 
+
+_As Part of a Business Transfer._ Your information may be transferred to successor organization if, for example, we transfer the ownership or operation of this Site to another organization if we merge with or are acquired by another organization, or if we liquidate our assets. If such a transfer occurs, the successor organization’s use of your information will still be subject to this Policy and the privacy preferences you have expressed to us. 
+
+_To Comply With Laws and Protection of Our Rights and the Rights of Others._ We may disclose your information when we, in good faith, believe disclosure is appropriate to comply with the law, a court order or a subpoena, or in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. We may also disclose your information to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of this Site; to enforce or apply our online Terms of Use [ Terms of Use](https://web.archive.org/terms-and-conditions)or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others. 
+
+_As Described in a Privacy Notice or Click-Through Agreement._ We reserve the right to disclose your information as described in any privacy notice posted on this Site, or as described in any click-through agreement to which you have agreed. 
+
+##  Children Under the Age of Thirteen 
+
+We are proud of this Site and we strive to ensure that it doesn’t offend people of any age. However, this Site is not intended for children or minors under the age of thirteen years without the permission of a parent or guardian. If you believe that any child or minor (as that term is defined by applicable law) has submitted personal information on or through this Site without the consent and supervision of a parent or guardian (to the extent such consent/supervision is required by applicable law), please contact us using the information provided below so that we can take appropriate action. 
+
+##  Links to Other Sites 
+
+This Site may provide links to other websites operated by third parties, including in some cases our third-party vendors. Snap Fitness does not control these websites and is not responsible for their data practices. Any information you provide to third parties on their websites is covered under their privacy and data collection policies and is not covered by this Policy. We urge you to review the privacy policy posted on any site you visit before using the site or providing any personal information. 
+
+## Additional Notices and Agreements
+
+ _Privacy Notices._ This Policy may be supplemented or amended from time to time by “privacy notices” posted on this Site. These privacy notices provide a level of detail that we cannot provide in this more general description of our privacy practices. For example, certain pages of this Site may contain privacy notices providing details about the information we collect on those pages, why we need that information, and choices you may have about the ways we use that information. 
+
+_Click-Through Agreements._ When you sign up to use a special feature of this Site, you may be asked to agree to special terms governing your use of the special feature. In such cases, you may be asked to expressly consent to the special terms, for example, by checking a box or clicking on a button marked “I agree.” This type of agreement is known as a “click-through” agreement. If any of the terms of the click-through agreement are different than the terms of this Policy, the terms of the click-through agreement will supplement or amend this Policy, but only with respect to the matters governed by the “click-through agreement.” 
+
+## Information for Individuals Residing Outside the United States
+
+Information you submit to Lift Brands through this Site is governed exclusively by this Policy. Lift Brands and its wholly owned subsidiaries are U.S. companies headquartered in the United States, and this Policy was drafted to comply with U.S. data protection laws. The data protection laws of the country in which you reside may be more restrictive than the data protection laws of the United States. BY USING THIS SITE, YOU ARE CONSENTING TO THE COLLECTION, USE, AND TRANSFER OF ANY PERSONAL INFORMATION YOU SUBMIT ON OR THROUGH THIS SITE TO THE UNITED STATES OR TO ANY OTHER COUNTRY IN THE WORLD SUBJECT TO THE TERMS OF THIS POLICY. However, we endeavor to comply with the data protection laws of those countries for which we have established country-specific websites. If you reside in a country for which we have established a country-specific website, we encourage you to visit it and read the privacy policy posted there. 
+
+## Additional Information for European Union Residents
+
+Lift Brands, Inc., and several of its wholly owned subsidiaries, including Snap Fitness, Inc., HealthFran, LLC, GoFit, LLC, and Wholesale Fitness Supply, LLC, (the “Certified Entities”) comply with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. To learn more about the Privacy Shield program, and to view our certification page, please visit https://www.privacyshield.gov/. Please note, however, that the Certified Entities’ Privacy Shield certification applies only to personal information that is transferred by third parties in the European Union to the Certified Entities in the United States. The Privacy Shield Principles do not apply to personal information you submit directly to Lift Brands through this Site. Such information is governed exclusively by this Policy. 
+
+## This Policy May Change
+
+We are continually improving and adding to the features and functionality of this Site and the services we offer through this Site. As a result of these changes (or changes in the law), we may need to update or revise this Policy. Accordingly, we reserve the right to update or modify this Policy at any time, without prior notice, by posting the revised version of this Policy behind the link marked “Privacy Policy” at the bottom of each page of this Site. Your continued use of this Site after we have posted the revised Policy constitutes your agreement to be bound by the revised Policy. However, we will honor the terms that were in effect when we gathered data from you. 
+
+For your convenience, whenever this Policy is changed, we will update the “effective date” at the top of this page. Be sure you check the effective date to see if this Policy has been revised since your last visit. 
+
+You may access the current version of this Policy at any time by clicking the link marked “Privacy Policy” at the bottom of each page of this Site. 
+
+## Contact Us
+
+If you have any questions regarding this Privacy Policy, please contact us by e-mail at [privacy@liftbrands.com](mailto:privacy@liftbrands.com) or by mail at 2411 Galpin Court, Suite 110, Chanhassen, MN, USA 55317. 
+
+__
