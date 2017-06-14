@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebrick.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224152419id_/http%3A//www.thebrick.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrick.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614170722id_/http%3A//www1.thebrick.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Brick
 
