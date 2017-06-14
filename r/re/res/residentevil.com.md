@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224085419id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentevil.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202706id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
 
 # Capcom Privacy Policy
 
@@ -12,7 +12,7 @@
 
 Last updated May 11, 2016
 
-Here is a [PDF version](https://web.archive.org/web/20161224085419id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202016.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Here is a [PDF version](https://web.archive.org/web/20170614202706id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20Privacy%20Policy%202016.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
 
 Welcome to Capcom USA!
 
@@ -64,7 +64,7 @@ Attn.: Privacy Policy Administrator
 185 Berry Street, Suite 1200  
 San Francisco, CA 94107  
 (650) 350-6500  
-privacy@capcom.com
+[privacy@capcom.com](mailto:privacy@capcom.com)
 
 **Personal Information You Provide to Us**
 
@@ -157,7 +157,7 @@ Information collected from those who voluntarily submit it to us is used to prov
 
 If you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards. You should understand, however, that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. So whenever you give out personal information in public areas, that information can be collected and used by people you don't know.
 
-Should you wish to remove content or information after you have posted it, you may do so by logging into your Capcom account and clicking either the "garbage can" or "x" icon located on your post. Alternatively, you may contact us at privacy@capcom.com with your request. In addition, Capcom provides all registered users the ability to completely and permanently delete their account information including all comments, blogs, and forum posts. To delete your Capcom-Unity account, please log in and visit this link: <http://www.capcom-unity.com/help/remove_user.one>. **Please note that deleting your profile _cannot_ be reversed.**
+Should you wish to remove content or information after you have posted it, you may do so by logging into your Capcom account and clicking either the "garbage can" or "x" icon located on your post. Alternatively, you may contact us at [privacy@capcom.com](mailto:privacy@capcom.com) with your request. In addition, Capcom provides all registered users the ability to completely and permanently delete their account information including all comments, blogs, and forum posts. To delete your Capcom-Unity account, please log in and visit this link: <http://www.capcom-unity.com/help/remove_user.one>. **Please note that deleting your profile _cannot_ be reversed.**
 
 Please also note that removal of this content or information from public view does not guarantee complete or comprehensive removal. After your removal request has been honored, we may retain copies of the content or information you have previously posted on our servers. We are not required to remove your posted content or information if it has been rendered anonymous or if we are required by law to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information.
 
@@ -204,7 +204,7 @@ Attn.: Privacy Policy Administrator
 185 Berry Street, Suite 1200  
 San Francisco, CA 94107  
 (650) 350-6500  
-privacy@capcom.com   
+[privacy@capcom.com](mailto:privacy@capcom.com)  
 
 
 (Back to top)
@@ -226,7 +226,7 @@ The security and confidentiality of your information is extremely important to u
 
 ## • Q6. How can you update your personal information and profile?
 
-You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at accounts@capcom.com. You may update the information in your profile by logging into your account and visiting your account settings.
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at [accounts@capcom.com](mailto:accounts@capcom.com). You may update the information in your profile by logging into your account and visiting your account settings.
 
 (Back to top)
 
@@ -239,7 +239,7 @@ Attn.: Privacy Policy Administrator
 185 Berry Street, Suite 1200  
 San Francisco, CA 94107  
 (650) 350-6500  
-privacy@capcom.com   
+[privacy@capcom.com](mailto:privacy@capcom.com)  
 
 
 Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
@@ -250,7 +250,7 @@ ESRB
 Attn.: Privacy Certified Program  
 420 Lexington Avenue, Suite 2024  
 New York, NY 10170  
-privacy@esrb.org  
+[privacy@esrb.org](mailto:privacy@esrb.org)  
 
 
 (Back to top)
