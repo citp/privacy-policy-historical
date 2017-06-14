@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpublic.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231123307id_/http%3A//www.interpublic.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpublic.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614065614id_/http%3A//www.interpublic.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | IPG
 
@@ -85,9 +85,8 @@ By using this Site, you consent to the processing of your personal information a
 If you have any questions about this Privacy Notice or our privacy practices, please feel free to email us at privacy@interpublic.com or write to us at:
 
 Interpublic Group of Companies   
-1114 Avenue of the Americas  
-19th Floor  
-New York, N.Y. 10036  
+909 Third Avenue, 25th Floor  
+New York, N.Y. 10022  
 U.S.A.   
 Attn: Privacy Lead
 
