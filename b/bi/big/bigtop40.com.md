@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231035915id_/http%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtop40.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614222924id_/http%3A//www.bigtop40.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Top 40
 
@@ -69,9 +69,9 @@ We may transfer the personal information we collect about you to countries other
 
 If you are registered for an account with us you may update your personal information at any time via the "My Details" page for web users, where registration is available on the site. You can access the "My Details Page" from most pages on the website if you are logged-on. If you are a text user, then where appropriate the text messages you receive from us will alert you to options for unsubscription and/ or change of details please follow these messages.
 
-You have certain rights to the personal information we process about you. You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at privacy@thisisglobal.com.
+You have certain rights to the personal information we process about you. You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at privacy@global.com.
 
-You may request access to the personal information we hold about you. If you would like to submit a request please contact us at privacy@thisisglobal.com
+You may request access to the personal information we hold about you. If you would like to submit a request please contact us at privacy@global.com
 
 ## 7\. Changes to our Privacy Policy
 
@@ -79,4 +79,4 @@ We reserve the right to change our Privacy Policy and all changes will be posted
 
 ## 8\. Contact Us
 
-If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights please contact us at: privacy@thisisglobal.com
+If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights please contact us at: privacy@global.com
