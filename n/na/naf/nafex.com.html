@@ -1,45 +1,199 @@
-<!--The following is the downloaded HTML source of the nafex.com privacy policy that was archived on 2016-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161129142534id_/http%3A//www.nafex.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nafex.com privacy policy that was archived on 2017-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170614201101id_/http%3A//www.nafex.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <link rel="shortcut icon" type="image/x-icon" href="http://www.nafex.com/tools/img/common/favicon.ico">
-    <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <link rel="stylesheet" href="http://www.nafex.com/tools/css/jquery.toast.min.css?v=3.51">
-            <link rel="stylesheet" href="http://www.nafex.com/tools/css/home.css?v=3.51">
-        <link rel="stylesheet" href="http://www.nafex.com/tools/css/footer.css?v=3.51">
-        <link rel="stylesheet" href="http://www.nafex.com/tools/css/currencyFlags.css?v=3.51">
-					<title>Privacy Policy | Nafex.com</title>
-				<meta name="title" content="Privacy Policy | Nafex.com">
-				<meta name="description" content="Nafex will never will fully disclose individually identifiable information about our customers to any third party without first receiving your permission.">
-				<meta name="keywords" content="Nafex Privacy Policy, Foreign Exchange Policy, Foreign Exchange Policy in India, Forex Privacy Policy, Online Foreign Exchange Privacy Policy, Foreign Money Exchange Policy, Currency Exchange, Dollar Exchange Privacy Policy">
-				<link rel="stylesheet" href="http://www.nafex.com/tools/css/currency.css?v=3.51">
-				<link rel="stylesheet" href="http://www.nafex.com/tools/css/headInner.css?v=3.51">
-			    <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
-        var WEBROOT = 'http://www.nafex.com/';
-		var a = '';
-		var onloadPG = 'utils';
-		var nbc = '';
-		var mob = '';
-		var tmp_mob = '';
-		var track_page = '';
-		var city = '';
-		var DEFAULT_CITY = 'Bangalore';
-		var DEFAULT_STAX = '100000';
-		var mmtVal = '0';
-    </script>
-</head>
-    <body id="body" class="transition100">   
-        <div class="innerHead">
-    <div id="headerCont" class="innerHeaderNafex fmUbuntuR transition300">
-        <a href="http://www.nafex.com/" alt="Nafex.com" title="Nafex.com" class="fLeft"><div class="innerLogo fLeft"></div></a>
-        <div class="showHide">
-            <div class="innerHText fRight  fmUbuntuL"><span class="font14">Foreign Exchange</span><span class="font30">Simplified!</span></div>
-            <div class="innerhMobile fmUbuntuR fRight">+91 91 111 111 19</div>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <link rel="shortcut icon" type="image/x-icon" href="http://www.nafex.com/tools/img/common/favicon.ico">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <title>Best Foreign Exchange Rates | Nafex.com</title>
+        <meta name="title" content="Best Foreign Exchange Rates | Nafex.com">
+        <meta name="description" content="Buy or Sell forex online with Nafex Bureau Private Limited, India's leading foreign money exchange platform provides best forex rates in 3 simple steps. Book online &amp; get the best rates for free.">
+        <meta name="keywords" content="Foreign Exchange, Currency Exchange, Forex, Online Foreign Exchange, Online Currency Exchange, Foreign Currency Exchange, Buy Forex, Buy Forex Online">
+        
+        <link rel="stylesheet" href="http://www.nafex.com/css/country.css">
+        <link rel="stylesheet" href="http://www.nafex.com/css/currency.css">
+        <link rel="stylesheet" href="http://www.nafex.com/css/currencyFlags.css">
+        <link rel="stylesheet" href="http://www.nafex.com/css/currency_vs_currency.css">
+        <link rel="stylesheet" href="http://www.nafex.com/css/footer.css">
+        <link rel="stylesheet" href="http://www.nafex.com/css/headInner.css">
+        <link rel="stylesheet" href="http://www.nafex.com/css/home.css">
+        <link rel="stylesheet" href="http://www.nafex.com/css/testimonial.css">
+        <script>
+            // var WEBROOT = 'http://www.nafex.com/';
+            var WEBROOT = 'http://nafex.theapptest.xyz/nafex/public/';
+        	var a = '';
+        	var onloadPG = 'index';
+        	var nbc = '';
+        	var mob = '';
+        	var tmp_mob = '';
+        	var track_page = '';
+        	var city = 'Bangalore';
+        	var DEFAULT_CITY = 'Bangalore';
+        	var DEFAULT_STAX = '100000';
+        	var mmtVal = '0';
+        </script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="http://www.nafex.com/js/app.js"></script>
+        <script src="http://www.nafex.com/js/contact.js"></script>
+        <script src="http://www.nafex.com/js/autosuggest.js"></script>
+        <script src="http://www.nafex.com/js/Common.js"></script>
+        <script src="http://www.nafex.com/js/conversion_async.js"></script>
+        <script src="http://www.nafex.com/js/gears.js"></script>
+        <script src="http://www.nafex.com/js/gearsinit.js"></script>
+        <script src="http://www.nafex.com/js/hammer.js"></script>
+        <script src="http://www.nafex.com/js/homePage.js"></script>
+        <script src="http://www.nafex.com/js/jquery-numerator.js"></script>
+        <script src="http://www.nafex.com/js/jquery.toast.min.js"></script>
+        <script>
+            $(document).ready(function(){
+                $.ajax('http://www.nafex.com/apiv15/countries/1/cities', {
+                    type: 'GET',
+                    success: function(data) {
+                        var list = '';
+                        $.each(data.data_text, function(i, c) {
+                            // list += ` <li class="autoSuggstions transition300 txtCap" onmousedown="setData('${c.cityId}','${c.cityName}','#tf_city','#ctsug','#tf_qty','#cur1id');setAbbreviation('${c.cityName}');" id="${c.cityId}">${c.cityName}</li>`;
+                            list += " <li class=\"autoSuggstions transition300 txtCap\" onmousedown=\"setData('" + c.cityId + "','" + c.cityName + "','#tf_city','#ctsug','#tf_qty','#city_id');\" id=\"" + c.cityId + "\">" + c.cityName + "</li>";
+                        });
+                        $('#ctsug ul').append(list);
+                    },
+                    failure: function(err) {
+                        alert(err);
+                    }
+                });
+                $.ajax('http://www.nafex.com/apiv15/currencies', {
+                    type: 'GET',
+                    success: function(data) {
+                        var list = '';
+                        $.each(data.data_text, function(i, c) {
+                            // list += `<li class="autoSuggstions transition300 txtCap" onmousedown="setData('${c.currencyId}','${c.currencyName} - ${c.currencySymbol}','#tf_cur1','#csug', '', '#cur1id');setAbbreviation('${c.currencySymbol}');" id="${c.currencyId}">${c.currencyName} - ${c.currencySymbol}</li>`;
+                            list += "<li class=\"autoSuggstions transition300 txtCap\" onmousedown=\"setData('" + c.currencyId + "','" + c.currencyName + " - " + c.currencySymbol + "','#tf_cur1','#csug', '', '#cur1id');setAbbreviation('" + c.currencySymbol + "');\" id=\"" + c.currencyId + "\">" + c.currencyName + " - " + c.currencySymbol + "</li>";
+                        });
+                        $('#csug ul').append(list);
+                    },
+                    failure: function(err) {
+                        alert(err);
+                    }
+                });
+               $.ajax('http://www.nafex.com/apiv15/city/1/areas', {
+                    type: 'GET',
+                    success: function(data) {
+                        var list = '';
+                        $.each(data.data_text, function(i, c) {
+                            // list += `<li class="autoSuggstions transition300 txtCap" onmousedown="setData('${c.areaId}','${c.areaName}','#tf_area','#asug','#subdet','#areaid');" id="${c.areaId}">${c.areaName}</li>`;
+                            list += "<li class=\"autoSuggstions transition300 txtCap\" onmousedown=\"setData('" + c.areaId + "','" + c.areaName + "','#tf_area','#asug','#subdet','#areaid');\" id=\"" + c.areaId + "\">" + c.areaName + "</li>";
+                        });
+                        $('#asug ul').append(list);
+                    },
+                    failure: function(err) {
+                        alert(err);
+                    }
+                });
+                $('#tf_city').keyup(function(){
+                    var input, filter, ul, li, city, i;
+                    input = $('#tf_city');
+                    filter = input.val().toUpperCase();
+                    ul = $('#ctsug ul');
+                    li = $('#ctsug ul li');
+
+                    for(i = 0; i < li.length; i++) {
+                        city = li[i].innerHTML;
+                        if( city.toUpperCase().indexOf(filter) > -1) {
+                            $(li[i]).show();
+                        } else {
+                            $(li[i]).hide();
+                        }
+                    }
+                });
+                $('#tf_cur1').keyup(function(){
+                    var input, filter, ul, li, currency, i;
+                    input = $('#tf_cur1');
+                    filter = input.val().toUpperCase();
+                    ul = $('#csug ul');
+                    li = $('#csug ul li');
+
+                    for(i = 0; i < li.length; i++) {
+                        currency = li[i].innerHTML;
+                        if( currency.toUpperCase().indexOf(filter) > -1) {
+                            $(li[i]).show();
+                        } else {
+                            $(li[i]).hide();
+                        }
+                    }
+                });
+                $('#tf_area').keyup(function(){
+                    var input, filter, ul, li, area, i;
+                    input = $('#tf_area');
+                    filter = input.val().toUpperCase();
+                    ul = $('#asug ul');
+                    li = $('#asug ul li');
+
+                    for(i = 0; i < li.length; i++) {
+                        area = li[i].innerHTML;
+                        if( area.toUpperCase().indexOf(filter) > -1) {
+                            $(li[i]).show();
+                        } else {
+                            $(li[i]).hide();
+                        }
+                    }
+                });
+            });
+        </script>
+    </head>
+    <body id="body">
+        <div class="headerLogoCont">
+            <div id="headerCont" class="headerNafex fmUbuntuR transition300 hTransit">                
+                <div class="fLeft menuBtn" onclick="showSideNav(true)"></div>
+                <a href="http://www.nafex.com" class="fLeft" alt="Nafex.com" title="Nafex.com"><div class="nafexLogo fLeft"></div></a>
+                <div class="cityTab fLeft transition100 loginTab" onclick="showCityPop();">
+                <div class="fLeft cnm" id="tf_sel_city">Bangalore</div>
+                <div class="fLeft clocIcon"></div>
+            </div>
+            
+            <div id="cityPopup" class="citypopUp2 fmUbuntuR c666 font16 txtCenter transition300 dn cityTransit1" style="margin-left: 320px; top: 230px;">
+                <div id="citypopCont" class="fieldsopacity transition300">
+                    <div class="closeCity" onclick="hideCityPop()"></div>
+                    <div class="cityTitle fmUbuntuR font20 c666 fLeft">Select your city</div>
+                    <div class="cityInput fLeft">
+                        <div class="custAreaDiv fLeft w100"><!--Add w100 if no otp req.-->
+                            <div class="inputCont fLeft fmUbuntuR ">
+                                <input type="text" id="tf_city" name="tf_city" autocomplete="off" class="txtInput cOrange fmUbuntuR font16 areaIcon txtCap brGreen" onkeypress="return common.isAlphabetKey(event)">
+                                <label for="tf_city" class="inp-label transition100 labelActive">CITY</label>
+                                <div id="tf_city_inpText" class="inpText fRight transition300 op0">Please enter<br>your city</div>
+                                <div class="autoSuggestOuter fmUbuntuR dn" id="ctsug">
+                                    <ul>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="popularCities fLeft fmUbuntuR c666 font14">
+                        <div class="fmUbuntuB">Popular Cities</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Bangalore</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Delhi</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Mumbai</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Chennai</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Hyderabad</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Ahmedabad</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Kolkata</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Pune</div>
+                        <div class="pcityComm transition300" onclick="common.setCity(this, 0);">Chandigarh</div>
+                    </div>
+                </div>
+            </div>
+            <div class="showHide">
+                <div class="hText fRight  fmUbuntuL"><span class="font14">Foreign Exchange</span><span class="font30">Simplified!</span></div>
+                <div class="hMobile fmUbuntuR fRight">+91 91 111 111 19</div>
+                <div class="hDrop fRight transition100 loginTab dn" id="loggedin_div">
+                    <div class="logggerUserr">Hi, <span id="uname">Gajanan</span></div>
+                    <ul class="logoutOptions">
+                        <li class="transition300 litr1" onclick="common.trackHistory();">History</li>
+                        <li class="transition300 litr2" onclick="common.doLogout();">Logout</li>
+                    </ul>
+                </div>                        
+            </div>
         </div>
-    </div>
-</div>        <div class="currencyHeader mTop0">
+             	<div class="currencyHeader mTop0">
             <div class="currencyHeaderCont">
                 <h2 class="fmUbuntuL m0 cFF">PRIVACY POLICY</h2>
             </div>
@@ -67,372 +221,273 @@
                         </div> 
                     </div>
                 </div>
-                <div class="currency_widget">                   
-	<h2 class="currency_title fmUbuntuL">Top Currencies</h2>
-					<a href="http://www.nafex.com/GBP-British-Pound-Sterling" alt="GBP - British Pound Sterling" title="GBP - British Pound Sterling">
-				<div class="curNameCont">
-					<div class="flag gbpS"></div>
-					<h2 class="curName transition300">GBP - British Pound Sterling</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/BDT-Bangladeshi-Taka" alt="BDT - Bangladeshi Taka" title="BDT - Bangladeshi Taka">
-				<div class="curNameCont">
-					<div class="flag bdtS"></div>
-					<h2 class="curName transition300">BDT - Bangladeshi Taka</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/LKR-Sri-Lankan-Rupee" alt="LKR - Sri Lankan Rupee" title="LKR - Sri Lankan Rupee">
-				<div class="curNameCont">
-					<div class="flag lkrS"></div>
-					<h2 class="curName transition300">LKR - Sri Lankan Rupee</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/THB-Thai-Baht" alt="THB - Thai Baht" title="THB - Thai Baht">
-				<div class="curNameCont">
-					<div class="flag thbS"></div>
-					<h2 class="curName transition300">THB - Thai Baht</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/PKR-Pakistani-Rupee" alt="PKR - Pakistani Rupee" title="PKR - Pakistani Rupee">
-				<div class="curNameCont">
-					<div class="flag pkrS"></div>
-					<h2 class="curName transition300">PKR - Pakistani Rupee</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/NZD-New-Zealand-Dollar" alt="NZD - New Zealand Dollar" title="NZD - New Zealand Dollar">
-				<div class="curNameCont">
-					<div class="flag nzdS"></div>
-					<h2 class="curName transition300">NZD - New Zealand Dollar</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/ZAR-South-African-Rand" alt="ZAR - South African Rand" title="ZAR - South African Rand">
-				<div class="curNameCont">
-					<div class="flag zarS"></div>
-					<h2 class="curName transition300">ZAR - South African Rand</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/AUD-Australian-Dollar" alt="AUD - Australian Dollar" title="AUD - Australian Dollar">
-				<div class="curNameCont">
-					<div class="flag audS"></div>
-					<h2 class="curName transition300">AUD - Australian Dollar</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/DKK-Danish-Kroner" alt="DKK - Danish Kroner" title="DKK - Danish Kroner">
-				<div class="curNameCont">
-					<div class="flag dkkS"></div>
-					<h2 class="curName transition300">DKK - Danish Kroner</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/HKD-Hong-Kong-Dollar" alt="HKD - Hong Kong Dollar" title="HKD - Hong Kong Dollar">
-				<div class="curNameCont">
-					<div class="flag hkdS"></div>
-					<h2 class="curName transition300">HKD - Hong Kong Dollar</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/KRW-Korean-Won" alt="KRW - Korean Won" title="KRW - Korean Won">
-				<div class="curNameCont">
-					<div class="flag krwS"></div>
-					<h2 class="curName transition300">KRW - Korean Won</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/SAR-Saudi-Arabian-Riyal" alt="SAR - Saudi Arabian Riyal" title="SAR - Saudi Arabian Riyal">
-				<div class="curNameCont">
-					<div class="flag sarS"></div>
-					<h2 class="curName transition300">SAR - Saudi Arabian Riyal</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/SEK-Swedish-Kroner" alt="SEK - Swedish Kroner" title="SEK - Swedish Kroner">
-				<div class="curNameCont">
-					<div class="flag sekS"></div>
-					<h2 class="curName transition300">SEK - Swedish Kroner</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/CHF-Swiss-Franc" alt="CHF - Swiss Franc" title="CHF - Swiss Franc">
-				<div class="curNameCont">
-					<div class="flag chfS"></div>
-					<h2 class="curName transition300">CHF - Swiss Franc</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/CNY-Chinese-Yuan" alt="CNY - Chinese Yuan" title="CNY - Chinese Yuan">
-				<div class="curNameCont">
-					<div class="flag cnyS"></div>
-					<h2 class="curName transition300">CNY - Chinese Yuan</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/CLP-Chilean-Peso" alt="CLP - Chilean Peso" title="CLP - Chilean Peso">
-				<div class="curNameCont">
-					<div class="flag clpS"></div>
-					<h2 class="curName transition300">CLP - Chilean Peso</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/IDR-Indonesian-Rupiah" alt="IDR - Indonesian Rupiah" title="IDR - Indonesian Rupiah">
-				<div class="curNameCont">
-					<div class="flag idrS"></div>
-					<h2 class="curName transition300">IDR - Indonesian Rupiah</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/PHP-Philippine-Peso" alt="PHP - Philippine Peso" title="PHP - Philippine Peso">
-				<div class="curNameCont">
-					<div class="flag phpS"></div>
-					<h2 class="curName transition300">PHP - Philippine Peso</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/USD-US-Dollar" alt="USD - US Dollar" title="USD - US Dollar">
-				<div class="curNameCont">
-					<div class="flag usdS"></div>
-					<h2 class="curName transition300">USD - US Dollar</h2>
-				</div>
-			</a>
-					<a href="http://www.nafex.com/BND-Brunei-Dollar" alt="BND - Brunei Dollar" title="BND - Brunei Dollar">
-				<div class="curNameCont">
-					<div class="flag bndS"></div>
-					<h2 class="curName transition300">BND - Brunei Dollar</h2>
-				</div>
-			</a>
-		</div>            </div>
+                            </div>
         </div>    
         
-<div class="partnerFooter">
-	<center>
-		<div class="pLogoHolder"><img src="http://www.nafex.com/tools/img/common/sunrisers_logo.png" alt="Sunrisers"></div>
-		<div class="pLogoHolder"><img src="http://www.nafex.com/tools/img/common/kxi.png" alt="Kings XI Punjab"></div>
-	</center>
-</div>
-<div class="pageLinks">
-	<center>
-	   <a href="http://www.nafex.com/About-Us" alt="About Us" title="About Us"><div class="lowerFooterTab transition100">ABOUT US</div></a>
-	   <a href="http://www.nafex.com/Testimonials" alt="Testimonials" title="Testimonials"><div class="lowerFooterTab transition100">TESTIMONIALS</div></a>
-	   <a href="http://www.nafex.com/Careers" alt="Careers" title="Careers"><div class="lowerFooterTab transition100">CAREERS</div></a>
-	   <a href="http://www.nafex.com/FAQs" alt="FAQs" title="FAQs"><div class="lowerFooterTab transition100">FAQs</div></a>
-	   <a href="http://www.nafex.com/Privacy-Policy" alt="Privacy Policy" title="Privacy Policy"><div class="lowerFooterTab transition100">PRIVACY POLICY</div></a>
-	   <a href="http://www.nafex.com/Disclaimer" alt="Disclaimer" title="Disclaimer"><div class="lowerFooterTab transition100">DISCLAIMER</div></a>
-	   <a href="http://www.nafex.com/Terms-And-Conditions" alt="Terms And Conditions" title="Terms And Conditions"><div class="lowerFooterTab transition100">TERMS &amp; CONDITIONS</div></a>
-	   <a href="http://www.nafex.com/Contact-Us" alt="Contact Us" title="Contact Us"><div class="lowerFooterTab transition100">CONTACT US</div></a>
-	</center>
-</div>
-<div class="commfooterDiv fLeft">
-	<div class="footerContainer">
-		<div class="footer-apps fLeft">
-			<div class="footer-heading fmUbuntuL cGreen">Download App</div>
-			<a href="https://play.google.com/store/apps/details?id=com.nafex" alt="Download Nafex APP at Play Store" title="Download Nafex APP at Play Store"><div class="appLinkDiv"></div></a>
-			<div class="videoCont fLeft">
-                            <div class="player-heading fmUbuntuL">Watch leading cricketer's tell us why they use Nafex</div>
-                            <div id="fplCont" class="footplayerCont op02">
-                                    <div class="playerCont ">
-                                            <div id="ftplayer" class="playerDiv"></div>
-                                    </div>
+
+<div id="lowerContents">
+            <div class="pageLinks">
+                <center>
+                    <a href="http://www.nafex.com/about-us" alt="About Us" title="About Us"><div class="lowerFooterTab transition100">ABOUT US</div></a>
+                    <a href="http://www.nafex.com/testimonials" alt="Testimonials" title="Testimonials"><div class="lowerFooterTab transition100">TESTIMONIALS</div></a>
+                    <a href="http://www.nafex.com/careers" alt="Careers" title="Careers"><div class="lowerFooterTab transition100">CAREERS</div></a>
+                    <a href="http://www.nafex.com/faq" alt="FAQs" title="FAQs"><div class="lowerFooterTab transition100">FAQs</div></a>
+                    <a href="http://www.nafex.com/privacy-policy" alt="Privacy Policy" title="Privacy Policy"><div class="lowerFooterTab transition100">PRIVACY POLICY</div></a>
+                    <a href="http://www.nafex.com/disclaimer" alt="Disclaimer" title="Disclaimer"><div class="lowerFooterTab transition100">DISCLAIMER</div></a>
+                    <a href="http://www.nafex.com/terms-conditions" alt="Terms And Conditions" title="Terms And Conditions"><div class="lowerFooterTab transition100">TERMS &amp; CONDITIONS</div></a>
+                    <a href="http://www.nafex.com/contact-us" alt="Contact Us" title="Contact Us"><div class="lowerFooterTab transition100">CONTACT US</div></a>
+                </center>
+            </div>
+            <div class="commfooterDiv fLeft">
+                <div class="footerContainer">
+                    
+                    <!-- <div class="currency-links fLeft">
+                        <div class="footer-heading fmUbuntuL cGreen">Top  Currencies</div>
+                            <a href="http://www.nafex.com/AUD-Australian-Dollar" alt="AUD - Australian Dollar" title="AUD - Australian Dollar">
+                                <div class="curNameCont">
+                                    <div class="flag audS"></div>
+                                    <h2 class="curName transition300">AUD - Australian Dollar</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/GBP-British-Pound-Sterling" alt="GBP - British Pound Sterling" title="GBP - British Pound Sterling">
+                                <div class="curNameCont">
+                                    <div class="flag gbpS"></div>
+                                    <h2 class="curName transition300">GBP - British Pound Sterling</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/EUR-European-Euro" alt="EUR - European Euro" title="EUR - European Euro">
+                                <div class="curNameCont">
+                                    <div class="flag eurS"></div>
+                                    <h2 class="curName transition300">EUR - European Euro</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/MYR-Malaysian-Ringgit" alt="MYR - Malaysian Ringgit" title="MYR - Malaysian Ringgit">
+                                <div class="curNameCont">
+                                    <div class="flag myrS"></div>
+                                    <h2 class="curName transition300">MYR - Malaysian Ringgit</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/SGD-Singapore-Dollar" alt="SGD - Singapore Dollar" title="SGD - Singapore Dollar">
+                                <div class="curNameCont">
+                                    <div class="flag sgdS"></div>
+                                    <h2 class="curName transition300">SGD - Singapore Dollar</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/THB-Thai-Baht" alt="THB - Thai Baht" title="THB - Thai Baht">
+                                <div class="curNameCont">
+                                    <div class="flag thbS"></div>
+                                    <h2 class="curName transition300">THB - Thai Baht</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/AED-UAE-Dirham" alt="AED - UAE Dirham" title="AED - UAE Dirham">
+                                <div class="curNameCont">
+                                    <div class="flag aedS"></div>
+                                    <h2 class="curName transition300">AED - UAE Dirham</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/USD-US-Dollar" alt="USD - US Dollar" title="USD - US Dollar">
+                                <div class="curNameCont">
+                                    <div class="flag usdS"></div>
+                                    <h2 class="curName transition300">USD - US Dollar</h2>
+                                </div>
+                            </a>
+                            <div class="viewAllBtn fmUbuntuR font12 transition100"><a href="http://www.nafex.com/List-of-Currencies" alt="View List of Currencies" title="View List of Currencies">LIST ALL CURRENCIES</a></div>
+                    </div> -->
+                        <!-- <div class="city-links fLeft">
+                            <div class="footer-heading fmUbuntuL cGreen">Top Cities</div>
+                            <a href="#" alt="Bangalore" title="Bangalore">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Bangalore</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Delhi" title="Delhi">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Delhi</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Mumbai" title="Mumbai">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Mumbai</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Chennai" title="Chennai">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Chennai</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Hyderabad" title="Hyderabad">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Hyderabad</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Ahmedabad" title="Ahmedabad">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Ahmedabad</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Kolkata" title="Kolkata">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Kolkata</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Pune" title="Pune">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Pune</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="Chandigarh" title="Chandigarh">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Chandigarh</h2>
+                                </div>
+                            </a>
+                            <a href="#" alt="List of Cities" title="List of Cities">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Others</h2>
+                                </div>
+                            </a>
+                            <div class="viewAllBtn fmUbuntuR font12 cFF">VIEW ALL CITIES</div>
+                            <div class="footer-heading fmUbuntuL cGreen mTop15 fLeft w100">Countries</div>
+                            <a href="http://www.nafex.com/UAE" alt="UAE" title="UAE">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">UAE</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Thailand" alt="Thailand" title="Thailand">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Thailand</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Hong-Kong" alt="Hong Kong" title="Hong Kong">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Hong Kong</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Phillipines" alt="Phillipines" title="Phillipines">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Phillipines</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Malaysia" alt="Malaysia" title="Malaysia">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Malaysia</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Australia" alt="Australia" title="Australia">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Australia</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/New-Zealand" alt="New Zealand" title="New Zealand">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">New Zealand</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Singapore" alt="Singapore" title="Singapore">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Singapore</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Indonesia" alt="Indonesia" title="Indonesia">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Indonesia</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/South-Africa" alt="South Africa" title="South Africa">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">South Africa</h2>
+                                </div>
+                            </a>
+                            <a href="http://www.nafex.com/Sri-Lanka" alt="Sri Lanka" title="Sri Lanka">
+                                <div class="curNameCont">
+                                    <h2 class="curName transition300">Sri Lanka</h2>
+                                </div>
+                            </a>
+                        </div> -->
+                        <div class="footer-links fLeft cFF fmUbuntuR font14 footerRight">
+                            <div class="footer-heading fmUbuntuL cGreen">Contact Us</div>
+                                 <a href="tel:+919111111119" class="cFF" alt="Call us at +919111111119" title="Call us at +919111111119"><div class="fmUbuntuR font18">+91 91 111 111 19</div></a>
+                                <a href="mailto:info@nafex.com" class="cFF" target="_blank" alt="Email us at info@nafex.com" title="Email us at info@nafex.com"><div class="fmUbuntuR font18 mTop15">info@nafex.com</div></a>
+                                <div class="footer-heading fmUbuntuL cGreen mTop25">Find us on</div>
+                                <a href="https://twitter.com/nafexbureau" rel="nofollow" target="_blank" class="cFF " alt="Follow us @nafexbureau" title="Follow us @nafexbureau"><div class="socialCommon iconTwitter transition300 ripplelink poR">Follow@nafexbureau</div></a>
+                                <a href="https://www.facebook.com/nafexbureau" rel="nofollow" target="_blank" class="cFF" alt="Like us on facebook.com" title="Like us on facebook.com"><div class="socialCommon iconFacebook transition300 ripplelink poR">Like us on facebook.com</div></a>
+                                <a href="http://www.linkedin.com/company/nafex-com" rel="nofollow" target="_blank" class="cFF" alt="Follow us on Linkedin" title="Follow us on Linkedin"><div class="socialCommon iconLinkedin transition300 ripplelink poR">Follow us on Linkedin</div></a>
                             </div>
-			</div>
-		</div>
-		<div class="currency-links fLeft">
-			<div class="footer-heading fmUbuntuL cGreen">Top  Currencies</div>
-								<a href="http://www.nafex.com/AUD-Australian-Dollar" alt="AUD - Australian Dollar" title="AUD - Australian Dollar">
-						<div class="curNameCont">
-							<div class="flag audS"></div>
-							<h2 class="curName transition300">AUD - Australian Dollar</h2>
-						</div>
-					</a>
-										<a href="http://www.nafex.com/GBP-British-Pound-Sterling" alt="GBP - British Pound Sterling" title="GBP - British Pound Sterling">
-						<div class="curNameCont">
-							<div class="flag gbpS"></div>
-							<h2 class="curName transition300">GBP - British Pound Sterling</h2>
-						</div>
-					</a>
-										<a href="http://www.nafex.com/EUR-European-Euro" alt="EUR - European Euro" title="EUR - European Euro">
-						<div class="curNameCont">
-							<div class="flag eurS"></div>
-							<h2 class="curName transition300">EUR - European Euro</h2>
-						</div>
-					</a>
-										<a href="http://www.nafex.com/MYR-Malaysian-Ringgit" alt="MYR - Malaysian Ringgit" title="MYR - Malaysian Ringgit">
-						<div class="curNameCont">
-							<div class="flag myrS"></div>
-							<h2 class="curName transition300">MYR - Malaysian Ringgit</h2>
-						</div>
-					</a>
-										<a href="http://www.nafex.com/SGD-Singapore-Dollar" alt="SGD - Singapore Dollar" title="SGD - Singapore Dollar">
-						<div class="curNameCont">
-							<div class="flag sgdS"></div>
-							<h2 class="curName transition300">SGD - Singapore Dollar</h2>
-						</div>
-					</a>
-										<a href="http://www.nafex.com/THB-Thai-Baht" alt="THB - Thai Baht" title="THB - Thai Baht">
-						<div class="curNameCont">
-							<div class="flag thbS"></div>
-							<h2 class="curName transition300">THB - Thai Baht</h2>
-						</div>
-					</a>
-										<a href="http://www.nafex.com/AED-UAE-Dirham" alt="AED - UAE Dirham" title="AED - UAE Dirham">
-						<div class="curNameCont">
-							<div class="flag aedS"></div>
-							<h2 class="curName transition300">AED - UAE Dirham</h2>
-						</div>
-					</a>
-										<a href="http://www.nafex.com/USD-US-Dollar" alt="USD - US Dollar" title="USD - US Dollar">
-						<div class="curNameCont">
-							<div class="flag usdS"></div>
-							<h2 class="curName transition300">USD - US Dollar</h2>
-						</div>
-					</a>
-								<div class="viewAllBtn fmUbuntuR font12 transition100"><a href="http://www.nafex.com/List-of-Currencies" alt="View List of Currencies" title="View List of Currencies">LIST ALL CURRENCIES</a></div>
-		</div>
+                        </div>
+                    </div>
+                    <div class="crLinks fmUbuntuR">
+                    Copyrights 2014-15. <strong>Nafex.com</strong> All Rights Reserved. <a href="http://www.nafex.com/privacy-policy" alt="Privacy Policy" title="Privacy Policy">Privacy</a> | <a href="http://www.nafex.com/terms-conditions" alt="Terms And Conditions" title="Terms And Conditions">Terms</a>
+                    </div>
 
-
-		<div class="city-links fLeft">
-			<div class="footer-heading fmUbuntuL cGreen">Top Cities</div>
-			<a href="http://www.nafex.com/Bangalore" alt="Bangalore" title="Bangalore">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Bangalore</h2>
-				</div>
-			</a>
-			
-			<a href="http://www.nafex.com/Delhi" alt="Delhi" title="Delhi">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Delhi</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Mumbai" alt="Mumbai" title="Mumbai">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Mumbai</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Chennai" alt="Chennai" title="Chennai">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Chennai</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Hyderabad" alt="Hyderabad" title="Hyderabad">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Hyderabad</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Ahmedabad" alt="Ahmedabad" title="Ahmedabad">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Ahmedabad</h2>
-				</div>
-			</a>
-			<a href="http://www.nafex.com/Kolkata" alt="Kolkata" title="Kolkata">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Kolkata</h2>
-				</div>
-			</a>
-
-                        <a href="http://www.nafex.com/Pune" alt="Pune" title="Pune">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Pune</h2>
-				</div>
-			</a>
-			<a href="http://www.nafex.com/Chandigarh" alt="Chandigarh" title="Chandigarh">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Chandigarh</h2>
-				</div>
-			</a>
-			<a href="http://www.nafex.com/List-of-Cities" alt="List of Cities" title="List of Cities">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Others</h2>
-				</div>
-			</a>
-<!--                    <div class="viewAllBtn fmUbuntuR font12 cFF">VIEW ALL CITIES</div>-->
-
-			<div class="footer-heading fmUbuntuL cGreen mTop15 fLeft w100">Countries</div>
-			<a href="http://www.nafex.com/UAE" alt="UAE" title="UAE">
-				<div class="curNameCont">
-					<h2 class="curName transition300">UAE</h2>
-				</div>
-			</a>
-			<a href="http://www.nafex.com/Thailand" alt="Thailand" title="Thailand">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Thailand</h2>
-				</div>
-			</a>
-			<a href="http://www.nafex.com/Hong-Kong" alt="Hong Kong" title="Hong Kong">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Hong Kong</h2>
-				</div>
-			</a>
-			<a href="http://www.nafex.com/Phillipines" alt="Phillipines" title="Phillipines">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Phillipines</h2>
-				</div>
-			</a>
-			<a href="http://www.nafex.com/Malaysia" alt="Malaysia" title="Malaysia">
-				<div class="curNameCont">
-                    <h2 class="curName transition300">Malaysia</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Australia" alt="Australia" title="Australia">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Australia</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/New-Zealand" alt="New Zealand" title="New Zealand">
-				<div class="curNameCont">
-					<h2 class="curName transition300">New Zealand</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Singapore" alt="Singapore" title="Singapore">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Singapore</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Indonesia" alt="Indonesia" title="Indonesia">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Indonesia</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/South-Africa" alt="South Africa" title="South Africa">
-				<div class="curNameCont">
-					<h2 class="curName transition300">South Africa</h2>
-				</div>
-			</a>
-
-			<a href="http://www.nafex.com/Sri-Lanka" alt="Sri Lanka" title="Sri Lanka">
-				<div class="curNameCont">
-					<h2 class="curName transition300">Sri Lanka</h2>
-				</div>
-			</a>
-		</div>
-		<div class="footer-links fLeft cFF fmUbuntuR font14">
-			<div class="footer-heading fmUbuntuL cGreen">Contact Us</div>
-			<a href="tel:+919111111119" class="cFF" alt="Call us at +919111111119" title="Call us at +919111111119"><div class="fmUbuntuR font18">+91 91 111 111 19</div></a>
-			<a href="mailto:info@nafex.com" class="cFF" target="_blank" alt="Email us at info@nafex.com" title="Email us at info@nafex.com"><div class="fmUbuntuR font18 mTop15">info@nafex.com</div></a>
-			
-			<div class="footer-heading fmUbuntuL cGreen mTop25">Find us on</div>
-			<a href="https://twitter.com/nafexbureau" rel="nofollow" target="_blank" class="cFF " alt="Follow us @nafexbureau" title="Follow us @nafexbureau"><div class="socialCommon iconTwitter transition300 ripplelink poR">Follow@nafexbureau</div></a>
-			<a href="https://www.facebook.com/nafexbureau" rel="nofollow" target="_blank" class="cFF" alt="Like us on facebook.com" title="Like us on facebook.com"><div class="socialCommon iconFacebook transition300 ripplelink poR">Like us on facebook.com</div></a>
-			<a href="http://www.linkedin.com/company/nafex-com" rel="nofollow" target="_blank" class="cFF" alt="Follow us on Linkedin" title="Follow us on Linkedin"><div class="socialCommon iconLinkedin transition300 ripplelink poR">Follow us on Linkedin</div></a>
-		</div>
-	</div>
-</div>
-<div class="crLinks fmUbuntuR">Copyrights 2014-15. <strong>Nafex.com</strong> All Rights Reserved. <a href="http://www.nafex.com/Privacy-Policy" alt="Privacy Policy" title="Privacy Policy">Privacy</a> | <a href="http://www.nafex.com/Terms-And-Conditions" alt="Terms And Conditions" title="Terms And Conditions">Terms</a></div>
-<input type="hidden" id="areaid" value="">
-<input type="hidden" id="cur1id" value="">
-<input type="hidden" id="cur2id" value="38">
-<input type="hidden" id="mul_nbc" value="">		
-<!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-54431976-1', 'auto');
-ga('require', 'displayfeatures');
-ga('send', 'pageview');
-
-</script>
-<!-- End Google Analytics -->
-
-		<script src="http://www.nafex.com/tools/js/lib/jquery.js"></script>
-		<script src="http://www.nafex.com/tools/js/yout.js?v=3.51"></script>
+                        <input type="hidden" id="areaid" value="">
+                        <input type="hidden" id="cur1id" value="">
+                        <input type="hidden" id="cur2id" value="38">
+                        <input type="hidden" id="mul_nbc" value="">
+                    </div>        
+                    <div id="leftMenu" class="leftMenuCont fLeft fmUbuntuR font14 c666 transition300 transit-100X">
+                        <div class="openSpace fLeft fmUbuntuL cFF">
+                            <div class="font18">Foreign Exchange</div>
+                            <div class="font34">Simplified!</div>
+                    </div>
+                    <!-- <div class='mbMenuTab fLeft' onclick="openMDivs('mLoginDiv')">LOGIN / SIGN UP</div> -->
+                    <div class="mbMenuTab fLeft ripplelink poR" id="moblog_div" onclick="openMDivs('mLoginDiv')">LOGIN / SIGN UP</div>
+                    <div class="mbMenuTab fLeft dn" id="mobloggedin_div">
+                        <div class="mbUserName fLeft cOrange">Hi, <span id="mobuname"></span> </div>
+                        <div class="resendOtp fmUbuntuB fRight ripplelink poR" onclick="common.doLogout();">LOGOUT</div>
+                    </div>
+                    <div class="mbMenuTab fLeft ripplelink poR dn" id="mobhistory_div" onclick="common.trackHistory();">HISTORY</div>
+                    <div class="mbMenuTab fLeft ripplelink poR" id="mobtrack_div" onclick="openMDivs('mTrackDiv')">TRACK YOUR ORDER</div>
+                    <div class="socialBox fLeft ripplelink poR">   
+                        <center>
+                            <a href="tel:+91 9111111119" class="" alt="Call us at +919111111119" title="Call us at +919111111119"><div class="callNafex actionMb"></div></a>
+                            <a href="mailto:info@nafex.com" target="_blank" class="" alt="Email us at info@nafex.com" title="Email us at info@nafex.com"><div class="emailNafex actionMb"></div></a>        
+                        </center>
+                    </div>
+                </div>
+                <div id="dragTarget" class="drag-target" style="touch-action: pan-y; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); left: 0px; user-select: none;"></div>
+                        <div id="popOver" class="popOverlay dn"></div>
+                        <div id="popDiv" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
+                            <div>
+                                <div class="txtCon1">You have already enquired to <span id="oldData"></span></div>
+                                <div class="font18 txtCon2"> Do you want to add <span id="newQty"></span> more to the existing enquiry.</div>
+                            </div>
+                            <center>
+                                <div class="font20 cOrange fmUbuntuR dn" style="margin-top:20px;" id="loadInq">Please wait while our partners bid for your business</div>
+                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" id="noMstkBtn" onclick="closePopup()">NO, it's by mistake</div>
+                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" id="yesAddBtn" onclick="addDataToEnq()">YES, add to existing</div>
+                            </center>
+                        </div>
+                        <div id="afterHrs" class="afpopUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
+                            <div>
+                                <div class="font18 txtCon2">Your request<span id="reqData"></span> has been submitted.</div>
+                                <div class="font18 txtCon2">We will get back to you with the Best Price from Nafex verified and RBI Approved Money Changers across the city during our working hours of 10:30 am - 07:30 pm</div>
+                            </div>
+                            <center>
+                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" onclick="closePopup();">Ok</div>
+                            </center>
+                        </div>
+                        <div id="limitreached" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
+                            <div>
+                                <div class="font18 txtCon2">You have reached the limit of adding new enquiry for the day.</div>
+                            </div>
+                            <center>
+                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" id="limitclose">OK</div>
+                            </center>
+                        </div>
+                        <div id="genpopup" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn">
+                            <div>
+                                <div class="font18 txtCon2" id="genmsg"></div>
+                            </div>
+                            <center>
+                                <div class="font14 cFFF popBtn1 fmUbuntuR transition300 ripplelink poR" onclick="hideGeneralPop();">OK</div>
+                            </center>
+                        </div>
+                        <div id="infoInq" class="popUp fmUbuntuR c666 font16 txtCenter transition300 fieldsopacity dn commLoader">
+                            <div class="font20 cOrange txtCon2" style="margin-top:20px;" id="inqMsg"></div>
+                        </div>
+                </div>
+                <script type="text/javascript">
+                    var isSet = false;
+                </script>
+        
     
 </body></html>
