@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapingvoidgallery.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222042813id_/http%3A//www.gapingvoidart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapingvoidgallery.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614073617id_/http%3A//www.gapingvoidart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - gapingvoid art
 
