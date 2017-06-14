@@ -1,86 +1,116 @@
-> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127221036id_/http%3A//www.aiuniv.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614125714id_/http%3A//www.aiuniv.edu/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | AIU
+# Privacy Policy | AIU
 
-The Effective Date of this Privacy Policy is January 14, 2014.
+## UPDATED CAREER EDUCATION PRIVACY POLICY – YOUR PRIVACY RIGHTS
 
-This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation, a Delaware corporation ("Career Education Corporation"). Please read the following sections carefully, as they contain the Privacy Policies covering the use of the Sites. Additionally, you should review our Legal Terms and Conditions. Inquiries or concerns regarding this Privacy policy or the Legal Terms and Conditions may be sent by any of the following: via e-mail to [privacymatters@careered.com](mailto:privacymatters@careered.com) or by mail to Privacy Matters, Career Education Corporation, 231 N. Martingale Road, Schaumburg, IL 60173.
+Effective Date: January 2014. Last Updated: May 3, 2017. 
 
-PLEASE READ THE FOLLOWING PRIVACY POLICY (OTHERWISE NOTED AS THIS "AGREEMENT") CAREFULLY BEFORE USING THE SITES. BY USING THE SITES, YOU SIGNIFY YOUR ASSENT TO THIS AGREEMENT. IF YOU DO NOT ASSENT TO THIS AGREEMENT, PLEASE DO NOT USE THE SITE: <http://www.aiuniv.edu/>.
+#### THIS POLICY APPLIES TO THE SITES AND APPS WHERE IT APPEARS.
 
-At Career Education Corporation, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: <http://www.aiuniv.edu/>.
+This Privacy Policy describes how we treat personal information collected on our sites and apps where it is located. This also includes how we treat information collected when you use our Wi-Fi services. We refer to these as our "Platforms." This policy does not apply to information we collect in other ways, such as information we collect from you in connection with your course work. This policy also does not apply to our privacy obligations under FERPA and similar state laws. To learn more, please visit [here](http://aiuniv.smartcatalogiq.com/current/Catalog/Procedures-and-Information/Family-Educational-Rights-and-Privacy-Act-Notice).
 
-## California Residents
+#### WE COLLECT INFORMATION FROM AND ABOUT YOU. 
 
-Under California Civil Code Sections 1798.80-1798.84, California residents are entitled to the following rights regarding any personal information collected and used by Career Education Corporation:
+**We collect contact information.** For example, we may collect your name and mailing address. This may include your zip code. We might also collect phone numbers and email addresses. 
 
-Career Education Corporation will notify any California resident of any breach of the security of Career Education Corporation's system following any discovery or notification of a breach in the security wherein the California resident’s unencrypted information was, or is reasonably believed to have been, acquired by an unauthorized person.
+**We collect application and tuition information.** For example we collect this information in your application for admission and financial aid. This includes Social Security number and date of birth. It also includes citizenship or military status. We may also collect information about other schools you have attended and income history. We might also collect your credit card or bank account number and billing address. For more information about how we treat education records and financial information, please visit [here](http://aiuniv.smartcatalogiq.com/en/current/Catalog/Procedures-and-Information/Family-Educational-Rights-and-Privacy-Act-Notice) .
 
-Further, because Career Education Corporation reserves the right to disclose a user’s personal information to any third party in its discretion, all California residents have the right to obtain what information and to whom the information was provided by Career Education in the immediately preceding calendar year. Upon written receipt of a written or email request for such information to the designated address below, Career Education Corporation shall provide a list of any disclosures of the California resident’s personal information to any third party within thirty (30) days of the receipt of such request. The list shall include:
+**We collect information you post or submit.** We collect information you post in a public space on our Platforms. This may include posts you make on course discussion boards or our social media pages. We may also collect your social media profile information. We might also collect the information you submit to us, such as through our live chat feature.
 
-  * 1\. A list of categories of personal information provided to any third party; and
-  * 2\. The names and addresses of all of third parties that received the California resident’s personal information within the preceding calendar year.
+**We collect job application information.** If you apply for a job through our Platform, we collect the information you include in your application. For example, this may include the name and address of your employer and your employment history.
 
+**We collect demographic information.** We may collect your age and gender. We may also collect information about your race or ethnicity. 
 
+**We collect device and location information.** We collect the type and make of device you use to access our Platforms. We may also collect information about the browser you are using. We might look at what site you came from, or what site you visit when you leave us. We may collect information across the devices you use to access our Platform. If you use our app, we might look at how often you use the app and where you downloaded it. This might include your device identification number, IP address or mobile operating system. We may also collect location information. This may include precise location information from your device such as your location when you are on or near campus. 
 
-Such list may be in a standardized format and not specific to any individual. 
+#### WE COLLECT INFORMATION ABOUT YOU IN SEVERAL WAYS.
 
-A California resident’s request for such information may be submitted via e-mail to [privacymatters@careered.com](mailto:privacymatters@careered.com) or by mail to Privacy Matters, Career Education Corporation, 231 N. Martingale Road Schaumburg, IL 60173. California residents shall only be entitled to have this information provided once per calendar year.
+**We collect information directly from you.** For example, might collect information when you request information about our products and services or sign up for an event. We might also collect information when, for example, you sign up to receive communications from us.
 
-## IP Address
+**We collect information from you passively.** We use common tracking technologies to collect information passively. This includes when you use our Platforms or our WiFi services. 
 
-We log all connections to our web servers. Those log files include your IP address. An IP address is NOT personally identifiable information, but general information about your location, connection to the Internet, and your Internet Service Provider. We use your IP address to help diagnose problems with our server and to administer the Sites. Additionally, we will use your IP address to track your navigation of the Sites and we may use your navigation history in current and future marketing efforts to you and to others.
+**We collect information from third parties.** We may receive information about you from other sources. This might include our business partners. It may also include our education partners, like organizations that administer college-level exams, manage records related to education, or provide scholarships, grants and other financial aid. It might also include other academic institutions. It also includes friends who use our “Its Who U Know” and other referral features. We also get information about you from social media platforms.
 
-## Cookies
+#### WE COMBINE INFORMATION WE OBTAIN FROM DIFFERENT SOURCES.
 
-"Cookies" are small pieces of information stored in a user's browser that give that user a unique identification. The Sites may insert cookies into your browser that identify you as a previous user of the Sites and contain non-personally identifying information regarding you and your navigation of the Sites. In some instances, these cookies may be used by us or other web sites during your future navigation of the internet to target specific advertisements to you based on your previous use of the Sites. The Sites may also read cookies already stored within your browser to identify non-personal information about you and communicate this information to other advertisers. All cookies are established on a per session basis, and are not permanently stored on your machine. For more information about cookies, please visit [www.AboutCookies.org](http://www.aboutcookies.org/).
+We may combine information that we collect offline with information we collect online. We may also combine information you submit or that we track across multiple devices. We may also combine information we collect from you with information we get about you from others. 
 
-## Contact or Registration Form
+#### WE USE INFORMATION IN A VARIETY OF WAYS.
 
-Most information contained on the Sites is available without registering or supplying personal information. In the event you affirmatively act to register with one of the Sites or request additional information via the Sites, you agree to the following terms regarding your contact and personal information in addition to the general terms of this privacy policy tied to use of the Sites. The Sites' contact and/or registration forms request that users provide contact and other personal information (such as their name, mailing address, telephone number, e-mail address, education level, educational interests, age, income and marital status). We use this contact and personal information to send the user additional information about our schools and partners. A user's contact and personal information may also be used by us to contact the user directly. We reserve the right to compile and sell the user's contact and personal information to a third party, including the information identified above or other information the user provides to the Sites during the use of the Sites. We will also disclose your contact and personal information when required by law or in response to a request from a law enforcement agency or authority.
+**We use your information to communicate with you.** This includes responding to your questions or inquiries or notifying you if you won a promotion. We will also use your information to send you information about your account or about our relationship. We may send push notifications in our apps.
 
-In compliance with the Children's Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, our Sites do not permit children under 13 years of age to become users, and we do not collect information from children. By using our Sites, you represent that you are not under 13 years of age.
+**We use information to provide you with our products and services.** This includes determining your eligibility for our services. It also includes fulfilling your requests.
 
-Except with regard to any contact information you may provide us via the Sites, all comments, feedback, information or materials submitted to Career Education Corporation through or in association with this website (collectively, "Feedback") will be considered non-confidential and the property of Career Education Corporation. By submitting such Feedback to Career Education Corporation, you agree that you assign to Career Education Corporation, without charge, all worldwide rights, title and interest, including copyrights and other intellectual property rights, in and to the Feedback. Career Education Corporation shall be free to use such Feedback on an unrestricted basis.
+**We use your information to understand your interests and improve our products and services.** We may use your information to make our Platform, products and services better. This may include improving student retention and user experience. We may also use your information to customize your experience with us. For example, we may use your information to determine your interest in our products and services or to better understand what products and services interest you. 
 
-## Tracking and Sharing Your Personal Information
+**We use your information for marketing purposes.** We may provide you with information about current or new products and services or other ads. We might use your information to serve you with ads. These might be third party offers or products we think you might find interesting. We may also have our business partners serve you with ads about our products and services. We may use your geolocation information to send these communications. 
 
-We share the personal information you provide on the online contact and/or registration forms with a third party vendor to process such information to filter out phony user submissions. The third party vendor stores this information but does not share it with other third parties.
+**We use information for security purposes.** This could include protecting our family of companies and our students. It may also include protecting our Platform. 
 
-In addition, personal information submitted to Sites related to our universities may be shared with other third-party vendors engaged by us to assist with the development, management, and/or operation of these Sites. These vendors do not share user information with any other company. 
+**We use information as otherwise permitted or required by law or as we may notify you.** This includes using your information for our legitimate business needs.
 
-Information you provide through the online contact and/or registration forms for a particular school may be shared with other CEC-affiliated schools. While your browser may also allow you to implement a “Do Not Track” ("DNT") feature through your browser’s settings, our Sites are not configured to honor DNT signals at this time.
+#### WE SHARE INFORMATION WITH THIRD PARTIES.
 
-From time to time, our Sites may link to other websites and we may work with marketing or advertising partners, in which these third parties may collect information about you and/or your computer network over time and across different websites to provide targeted or personalized advertising (also referred to sometimes as online behavioral advertising or interest-based advertising). For a current listing of our partners, please email [privacymatters@careered.com](mailto:privacymatters@careered.com). The practices of these third party companies may be different from ours, and are not governed by this privacy policy. We encourage our users to visit the websites of these companies and/or contact them directly for information about their privacy policies and practices.
+**We share your information within the Career Education Corporation family of companies.** This includes our network of schools and the Career Education Foundation Scholarship Fund
 
-## Security
+**We share your information with third parties who perform services on our behalf.** For example, this may include payment processors or companies that provide identity verification services. It may also include companies that fulfill transcript requests or send communications on our behalf.
 
-The Sites have security measures in place to protect against the loss, misuse and alteration of the information under our control; however, Career Education Corporation does not guarantee the performance or adequacy of such security measures.
+**We share information with our business partners.** For example, this may include third parties that provide educational products and services related to our business. It may also include social media sites or a third party that co-sponsors a promotion. 
 
-## Links to Other Web Sites
+**We share information with those who help pay for your education.** We may share your information with family members or employers who help pay your tuition. We may also share information with banks or other lenders that provide education loans to you. For more information about how we treat education records and financial information, please visit [here](http://aiuniv.smartcatalogiq.com/current/Catalog/Procedures-and-Information/Family-Educational-Rights-and-Privacy-Act-Notice).
 
-The Sites contain links to other web sites that are not owned or operated by Career Education Corporation. Career Education Corporation is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our Legal Terms and Conditions).
+**We share information with third parties for marketing purposes.** This may include third parties that serve ads on our behalf. This may also include third parties in whose products or services we believe you may be interested. These third parties may also share your information with others. These third parties may use your information for their own marketing purposes or the marketing purposes of others. This may include the delivery of interest-based advertising.
 
-## Changes to This Privacy Policy
+**Your information may be publicly accessible on our Platforms.** Information you submit in chat rooms or other features can be seen by others who use that features. This may include information about you like the courses in which you are enrolled. It may also include your contact information.
 
-This privacy policy describes the types of information we currently collect, and the ways we use and protect that information. From time to time, we may collect different types of information and use that information in different ways - for example, when we add features or services to http://www.aiuniv.edu/. In these cases, we may edit this policy to explain the new practices. Because protecting your privacy is very important to us, we do not expect major changes in policy. However, if we do make significant changes in our practices, we will include announcements on the http://www.aiuniv.edu/ home page so that you will know to review the revised policy.
+**We will share your information with any successor to all or part of our business.** For example, if all or part of our business is sold, we may share your personal information with the new owner. This may include as part of an asset sale, corporate reorganization or other change of control. 
 
-## Contact Us
+**We share information with regulating agencies and government entities.** We may share your information with the organizations that analyze our education practices and provide our qualifications to operate as an educational institution. We may also share information with government agencies if we believe we are required to in order to comply with the law or as part of our business operations. For more information about how we treat education records and financial information, please visit [here](http://aiuniv.smartcatalogiq.com/current/Catalog/Procedures-and-Information/Family-Educational-Rights-and-Privacy-Act-Notice).
 
-To remove or change your contact information in our database, or to not receive future mailings or other communications, as well as for all other inquiries, please contact us at any time using one of the options below:
+**We will share information to comply with the law or to protect ourselves.** This includes responding to a court order or subpoena. It could also include sharing information if a government agency or investigatory body requests. We might share information when we are investigating a potential fraud. This could include fraud we think has occurred during a sweepstakes or promotion. We may also share information if you are the winner of a sweepstakes or other contest with anyone who requests a winner’s list.
 
-  1. Email webmaster at [privacymatters@careered.com](mailto:privacymatters@careered.com).
-  
+**We will share information for other reasons we may describe to you.**
 
-  2. Contact us at:
+#### YOU HAVE CERTAIN CHOICES ABOUT HOW WE USE YOUR INFORMATION.
 
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, follow the instructions in any promotional message you receive from us. Note that even if you opt out of our promotional emails, you will still receive transactional messages from us. 
+
+**You can control certain cookies and tracking tools.** To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our **Do Not Track Policy** , please click [here](https://web.archive.org/about-our-ads). 
+
+**You can control tools your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. 
+
+#### YOUR CALIFORNIA PRIVACY RIGHTS
+
+If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at [privacymatters@careered.com](mailto:privacymatters@careered.com) or write to us at the address listed below. Indicate in your email or letter that you are a California resident making a "California Shine the Light" inquiry. 
+
+#### OUR PLATFORMS AND CHILDREN.
+
+Our Platforms are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has provided us with information, please contact us at [privacymatters@careered.com](mailto:privacymatters@careered.com). You can also write to us at the address listed at the end of this website Policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line [here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
+
+#### WE USE STANDARD SECURITY MEASURES.
+
+The Internet is not 100% secure. We cannot promise that your use of our Platform will be completely safe. We encourage you to use caution when using the Internet. We use reasonable means to safeguard personal information under our control. User IDs and passwords are needed to access certain areas of our Platform. It is your responsibility to protect your username and password.
+
+#### STORAGE OF INFORMATION
+
+Information we maintain may be stored in the United States. If you live outside of the United States, you understand and agree that we may transfer your personal information to the United States. This site is subject to U.S. laws, which may not provide the same level of protections as those in your own country.
+
+#### WE MAY LINK TO THIRD PARTY SITES.
+
+Our Platform may contain links to other third party sites that are not governed by this Policy. If you click on a link to a third party site, you will be taken to a site we do not control. We are not responsible for the privacy practices used by third party sites. We suggest that you read the privacy policies of those sites carefully. We are not responsible for these third party sites.
+
+#### HOW TO CONTACT US
+
+If you have any questions about our privacy practices contact us at [privacymatters@careered.com](mailto:privacymatters@careered.com) or by telephone at 847-781-3600. You may also write to us at the following address:
+
+Privacy Matters  
 Career Education Corporation  
 231 N. Martingale Road  
-Schaumburg, IL 60173  
-Phone: [847-781-3600](tel:8477813600)
+Schaumburg, IL 60173
 
+#### CHANGES TO THIS PRIVACY POLICY
 
+From time to time, we may change this Privacy Policy. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our Platforms. Please check our Platforms periodically for updates. 
 
-
-Don't forget:  
-Classes Start January 11, 2017
+© 2017 Career Education Corporation. All rights reserved.
