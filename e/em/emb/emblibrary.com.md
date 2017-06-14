@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129224114id_/http%3A//www.emblibrary.com/EL/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emblibrary.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614090817id_/http%3A//www.emblibrary.com/El/Privacy.aspx) for the most accurate reproduction.*
 
 # Machine Embroidery Designs at Embroidery Library! - Privacy Policy
 
 ## Privacy Statement for Embroidery Library Inc.  
-This page was last edited on 06/3/2016
+This page was last edited on 05/19/2017
 
 [ ](https://privacy.truste.com/privacy-seal/Embroidery-Library,-Inc-/validation?rid=cdcab7e9-fd0c-404b-956e-a21ac1f31096 "TRUSTe online privacy certification")
 
-> This privacy statement describes how [Embroidery Library Inc.](http://www.emblibrary.com/) collects and uses the personal information you provide on our Web site: www.emblibrary.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.   
->  The TRUSTe certification applies to the privacy practices governed by the Privacy Statement accessible from this digital property. 
+> This privacy statement describes how [Embroidery Library Inc.](http://www.emblibrary.com/) collects and uses the personal information you provide on our Web site: www.emblibrary.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. 
 > 
 > Embroidery Library Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy.   
 >  The following discloses our information gathering and dissemination practices for this website: [http://www.emblibrary.com](http://www.emblibrary.com/). 
@@ -98,7 +97,7 @@ This page was last edited on 06/3/2016
 > 
 > **Correct/Update**
 > 
-> This site gives users the following options for changing, deleting, or modifying information previously provided. 
+> Upon request Embroidery Library, Inc. will provide you with information about whether we hold any of your personal information. This site gives users the following options for changing, deleting, or modifying information previously provided. 
 > 
 >   1. You may email [stitch@emblibrary.com](mailto:stitch@emblibrary.com)
 >   2. Or, visit [http://www.emblibrary.com](https://www.emblibrary.com/el/profile/general.aspx), after you have logged into the store, click on the 'My Profile' link located in the upper right margin of our web pages.
@@ -123,4 +122,4 @@ This page was last edited on 06/3/2016
 > 
 > ## Legal Disclaimer
 > 
-> Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. If Embroidery Library, Inc. is involved in a merger, acquistion, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+> Though we make every effort to preserve user privacy, we may need to disclose personal information in response to lawful requests by public authorities, when required by law such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. If Embroidery Library, Inc. is involved in a merger, acquistion, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
