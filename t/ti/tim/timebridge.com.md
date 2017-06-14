@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timebridge.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109091123id_/http%3A//www.timebridge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timebridge.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614034143id_/http%3A//www.timebridge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Timebridge
 
