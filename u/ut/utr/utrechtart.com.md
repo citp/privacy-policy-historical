@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121102035id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utrechtart.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614101944id_/http%3A//www.utrechtart.com/Your-Privacy-g13t0.utrecht) for the most accurate reproduction.*
 
 # Privacy Policy - Art Supplies from Utrecht featuring fine art supplies, school art supplies, discount art supplies, artist paints brushes, acrylics, watercolor supplies, artist oil paints, artist canvas and more
 
