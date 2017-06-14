@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicyceleb.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521025854id_/http%3A//juicyceleb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicyceleb.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614081816id_/http%3A//juicyceleb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Juicy Celeb – Celebrity Gossip, Rumors & Entertainment News
 
@@ -100,4 +100,4 @@ _Main Office: San Rafael, Real de Pereira,_
 
 _De Pavicen 315 Sur, Condominio Lago Mar,_
 
-_Guachipelin, Escazu, Costa Rica_[.](https://web.archive.org/cephalexin-price-cvs-pharmacy)
+_Guachipelin, Escazu, Costa Rica_
