@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527143434id_/http%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the athome.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614212018id_/https%3A//www.athome.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Date of Last Revision:  June 8, 2015.
 
-The website _[www.athome.com](http://www.athome.com/)_ (identified herein as the "Site") and the web pages thereof are owned and operated by At Home Stores LLC., a Delaware limited liability company ("At Home" or “we”).  Please read the following sections carefully, as they contain the terms and provisions governing the use of information related to your use of the Site (the “Privacy Policy”) of the Site.  Additionally, the Privacy Policy and Terms of Use apply to your use of the website, accordingly, you should also review our _[Terms of Use](http://www.athome.com/terms.html)_.
+The website _[www.athome.com](http://www.athome.com/)_ (identified herein as the "Site") and the web pages thereof are owned and operated by At Home Stores LLC., a Delaware limited liability company ("At Home" or “we”).  Please read the following sections carefully, as they contain the terms and provisions governing the use of information related to your use of the Site (the “Privacy Policy”) of the Site.  Additionally, the Privacy Policy and Terms of Use apply to your use of the website, accordingly, you should also review our _[Terms of Use](https://www.athome.com/terms.html)_.
 
 PLEASE READ THE FOLLOWING TERMS OF USE AND THE PRIVACY POLICY CAREFULLY BEFORE USING THE SITE.  BY USING THE SITE, YOU SIGNIFY YOU AGREE TO BOTH THE TERMS OF USE AND THE PRIVACY POLICY.  IF YOU DO NOT AGREE TO BOTH THE TERMS OF USE AND THE PRIVACY POLICY, YOU MAY NOT USE THE SITE.
 
