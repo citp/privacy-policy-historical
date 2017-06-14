@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uberhavoc.com privacy policy that was archived on 2015-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150505094705id_/http%3A//uberhavoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberhavoc.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614115838id_/http%3A//uberhavoc.com/privacy-policy) for the most accurate reproduction.*
 
-# UberHavoc.com Privacy Policy | UberHavoc
+# UberHavoc.com Privacy Policy – UberHavoc
 
 _Last Updated: March 19, 2015_
 
@@ -10,8 +10,7 @@ UBERHAVOC.COM is owned by Picture Wham LLC. For UBERHAVOC.COM, privacy is a top 
 
 **What does this Privacy Policy cover?**
 
-This Privacy Policy applies to collection, use, storage and disclosure of information by us.  
-Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.
+This Privacy Policy applies to collection, use, storage and disclosure of information by us. Please be aware that, as part of the service provided by this Site, we may provide links to websites operated by third parties. We are not responsible for the information collection or privacy practices or the content of those third party Web sites or applications. You should check the applicable privacy policies of such third-party Web sites or applications to determine how they handle any information they collect from you.
 
 **What information does UBERHAVOC.COM collect and how is it used? Does UBERHAVOC.COM disclose information to third parties?**
 
