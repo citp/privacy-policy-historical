@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001929id_/http%3A//www.hymnary.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hymnary.org privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614104454id_/http%3A//hymnary.org/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Hymnary.org
 
