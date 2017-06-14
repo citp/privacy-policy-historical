@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125075901id_/http%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aceproject.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614123827id_/http%3A//www.aceproject.com/privacy-policy) for the most accurate reproduction.*
 
 # AceProject's Privacy Policy Statement
 
@@ -16,7 +16,7 @@ This privacy statement covers the site [[www.aceproject.com]](http://www.aceproj
 
 #### Order
 
-> Our partner, [Internet Secure](http://www.internetsecure.com/), requests information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If [Internet Secure](http://www.internetsecure.com/) has trouble processing an order, the information is used to contact the user.
+> Our authorized payment processor requests information from the user for billing purpose only. The user must provide contact information (such as name, email, and billing address) and financial information (such as credit card number, expiration date). If our authorized payment processor has trouble processing an order, the information is used by our support team to contact the user.
 
 * * *
 
@@ -92,9 +92,9 @@ This privacy statement covers the site [[www.aceproject.com]](http://www.aceproj
 
 #### Security
 
-> This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
+> This Web site takes every precaution to protect our users' information. When users submit sensitive information via the application, their information is protected both online and off-line. 
 > 
-> When [Internet Secure](http://www.internetsecure.com/) registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption technology in the industry - SSL. While on a secure page, such as the [Internet Secure](http://www.internetsecure.com/) order form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer or Mozilla Firefox, becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.
+> Furthermore, your payment information is encrypted and protected before even leaving your computer via the best encryption technology in the industry - SSL.
 
 #### Correcting/Updating/Deleting/Deactivating Personal Information
 
