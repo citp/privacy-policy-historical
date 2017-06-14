@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johnvarvatos.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202020539id_/https%3A//www.johnvarvatos.com/Legal_PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johnvarvatos.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614044102id_/https%3A//www.johnvarvatos.com/Legal_PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | John Varvatos
 
