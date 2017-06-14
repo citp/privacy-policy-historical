@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerock.me privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017223548id_/http%3A//gamerock.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerock.me privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614211904id_/http%3A//gamerock.me/privacy) for the most accurate reproduction.*
 
 # Gamerock.me- Best Free Online Games
 
