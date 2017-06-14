@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybumper.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115080927id_/http%3A//moneybumper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybumper.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614152234id_/http%3A//moneybumper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Make Smarter Money Moves
 
