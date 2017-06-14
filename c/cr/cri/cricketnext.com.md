@@ -1,91 +1,94 @@
-> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2014-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141121134012id_/http%3A//ibnlive.in.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614023828id_/http%3A//news18.com/cricketnext/privacy-policy.html) for the most accurate reproduction.*
 
-# IBNLIVE - Disclaimer
+# Privacy Policy | Privacy Policy of Cricketnext(News18.com)
 
-**Privacy Policy**  
-Web18 recognizes the importance of protecting the privacy of information and will keep the information you entrust to us safely and securely.
+### Our Commitment
 
-**What this Privacy Policy Covers**  
-This policy tells you how Web18 collects information from you, how we protect it and how we use it, and share all personal information which you provide when you use any of Web18 sites (the "Sites"), unless otherwise specified on the relevant site where a different privacy policy will be displayed This policy does not apply to the practices of companies that Web18 does not own or control or to people that Web18 does not employ or manage.
+CricketNext (“CN”) respects your privacy and is strongly committed to your right to privacy and to keeping your personal information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information. This Privacy Policy lists the manner your data is collected and used by the site/service, and you are requested to read it carefully.By accessing services provided by CN (“CN Services”), you agree to the collection and use of your data by CN in the manner provided in this Privacy Policy. This Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by CN or to the people that are not engaged, employed or managed by CN.
 
-**Information Collection and Use**  
-We respect each visitor's right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on [ibnlive.com](http://ibnlive.in.com/). 
+Information collected by CN and how it is used 
 
-We will collect personally identifiable information from you in a variety of ways including directly from you when you register on the Sites, use other Web18 services, enter competitions or prize draws, navigate around our Sites or respond to communications from us. Web18 may also receive personally identifiable information from, third parties including our related companies, our business partners and publicly available sources of information.
+CN only collects the necessary personally identifiable information in order to respond to your requests for our customized products and services. Personally identifiable information includes, but is not limited to, first and last name, physical address, e-mail address, phone number, birth date, and any other information that itself identifies or when tied to the above information, may identify you as a specific individual. You are advised to update your personal information from time to time. CN will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies,” sent to your browser from:
 
-The following is what we normally collect about you to help us provide you with our services, where we can:   
-• Personal attributes, name, address, gender, date of birth, email, telephone number, and service details;  
-• Information on how you use our website, including details of your domain name and Internet Protocol address, operating system, browser, cookies, time spent on a page or content, and the route you took to navigate through the pages;  
-• Other data, from time to time, to help us provide you with improved products and services.
+• web server cookie stored on your hard drive
 
-If you choose not to provide us with certain information we may not be able to provide you with a particular service.   
-Web18 also automatically receives and records information on our server logs from your browser including your IP address, Web18! cookie information and the page you requested. 
+• an IP address, assigned to the computer which you use
 
-In addition, when you use Web18's services, you may make some of your personal information public. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return and Web18 will not be responsible for the use or misuse of such information. The main uses of your personal information are to verify your identity; to help provide our services; to administer those services; to enable us to review and improve our service to provide access to certain areas of the website; to personalise your visit to our site; to run competitions and games and to assist with advertising and other revenue generation functions.  
-The information we collect is also used to notify visitors about events, changes and other information about this web site. The information we collect is never shared with other organizations for commercial or other purposes.  
-This information may be used for marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimise and personalise our services and to send you newsletters and information (where you have agreed to this) about our products and services.  
-We may use information about you to create a picture of your interests. This will allow us to understand our customers and visitors better, so we can make our services and marketing more relevant. Information that we use in this way may include:   
-(i) information about your use of this and other Web18 Sites;   
-(ii) household classification data,   
-(iii) your responses to communications from us;  
-(iv) your interaction with other parts of the Web18 Group;   
-(v) information you provide when you register on a Site;   
-(vi) customer surveys;  
-(vii) information provided by other companies, where you gave them permission to share this information. We may use a variety of technical methods such as cookies and web beacons to collate this information (see the section below on "Use of Cookies" for further information).
+• the domain server through which you access our service
 
-**Information Sharing and Disclosure**  
-Web18 will NOT disclose personally identifiable information about you to third parties except in the following situations:   
-• We have your consent to share the information;   
-• We need to share your information to provide the product or service you have requested;  
-• We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.);   
-• We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;   
-• We respond to subpoenas, court orders or legal proceedings;   
-• When required by law that such action is necessary to protect and defend the rights of property [ibnlive.com](http://ibnlive.in.com/);  
-• When applicable law or regulation requires disclosure of information to protect the safety or security of users of our Sites;  
-• We find that your actions on our web sites violate the Web18 Terms of Service or any of our usage guidelines for specific products or services;   
-• If we sell the business of some of the Web18 group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy;   
-• If we use third party processors to administer and process your personal information for the purposes notified in the Privacy Policy, e.g. for hosting activities related to the use of our Sites or services; or  
-• We may need to share details with third parties (such as auditors or legal advisors) to obtain advice. Any such processing will be governed by an agreement in the form required by law, preserving any statutory data protection rights.
+• the type of computer you’re using
 
-**Who has access to the information at Web18?**  
-We may share your information with other members of the Web18 Group. As used in this Privacy Policy the Web18 Group includes Web18 Holdings Limited, Cayman Islands and all of its subsidiary and affiliated entities, including companies such as those branded under Network18 labels . In this Privacy Policy "we", "us", "our" and "ourselves" means any member of this Group.   
-People we may disclose your personal information will include:   
-• Members of Web18 ;  
-• our related companies;  
-• advertisers and content partners, either in an aggregate form eg. “5,000 users clicked on a banner ad”;  
-• credit-reporting and fraud-checking agencies;  
-• our professional advisers, including our accountants, auditors and lawyers;  
-• other telecommunication and information service providers;  
-• by disclosing individual records such as IP addresses as may be required by law; or  
-• government and regulatory authorities and other organisations, as required or authorised by law.  
-We will ensure that these people only use such information to perform the above functions, and that they have adequate procedures in place to deal with your data securely. Some of these people may be based outside India.
+• the type of web browser you’re using
 
-**Use of information for marketing**  
-In line with any permission you give us, we may send you direct marketing about our own, or carefully selected third parties' goods and services and disclose your information to other organisations that may send direct marketing to you. You can change your marketing preferences if you are registered with us. In addition, you can unsubscribe from email communications via unsubscribe links provided in communications sent to you. 
+We may also collect the following information 
 
-**Link from or to Other Sites**  
-As a means of providing useful resources to our users, [ibnlive.com](http://ibnlive.in.com/) provides links to other web sites. We try to carefully choose web sites that we believe are useful and meet our high standards. However, because web sites can change so quickly, we do not guarantee the standards of any website links we provide nor do we imply endorsement. [ibnlive.com](http://ibnlive.in.com/) is not responsible for the data and privacy policies, content or security of other websites that are linked to our site. . You should be aware that when you are on our Sites you could be directed to other sites where the personal information collected is outside of our control. The privacy policy of the new site will govern the information obtained from you on that site.
+• about the pages you visit/access
 
-**Access to your account information**  
-You can access and change the information that you provided during registration. Simply click on this link [http://ibnlive.in.com](http://ibnlive.in.com/) and then log in with your member name and password wherever necessary. There are instructions on the start page to help you recover your password if you've forgotten it. You can also contact us via e-mail by clicking "Contact Us" bar of [ibnlive.com](http://ibnlive.in.com/) page, or send an email directly to [editor@ibnlive.com](mailto:editor@ibnlive.com). Please include information in the e-mail that will help us identify your account so we can assist you with your inquiry or request. 
+• the links you click on our site
 
-**Cookies**  
-We collect information through technology to make our Sites and other content or services which we make available to you more interesting and useful to you. For instance, when you come to one of our Sites via your computer or other media device, we may combine your visitor session information or other information collected through cookies, web beacons and other technical methods with personally identifiable information in order to understand and improve your online experiences and to determine what products, promotions and services you prefer or are likely to be of interest to you.  
-Cookies are pieces of information that a Site sends to your computer or other media device while you are viewing or interacting with the Site. We use cookies for a variety of purposes including tracking usage on our Sites in order to- enhance our guests' experience on our Sites and to learn more about your preferences and interests   
-Web beacons are small pieces of data that are embedded in images on the pages of Sites. We also use these technical methods to analyse the traffic patterns on our Sites, such as the frequency with which our users visit various parts of our Sites.  
-Web18 ensures that all information collected and accessed by Web18 through the access of these cookies will be maintained in accordance with this Privacy Policy. Web18 allows other companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies. Advertisers or other companies do not have access to Web18's cookies. 
+• the number of times you access the page
 
-**Security**  
-We take various precautions to keep your personal information secure from unauthorized access and will store your personal information for so long as it is necessary to provide you our services or for archive purposes. You are responsible for keeping your User ID and password secure and you should not disclose them to anyone.
+You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.This website does not collect personally identifiable information about you except when you specifically and knowingly provide it. CN and its service partners use your personally identifiable information to operate the sites and services and to send you newsletters, inform you of new features, services, and products from CN and its affiliates.
 
-**Notification of Changes**  
-Web18 may amend this Privacy Policy from time to time and we will post the latest version on this and all our other Sites. If we ever wish to use your personal information in a way which is incompatible with the information in this Privacy Policy, we will only do so with your consent. 
+CN may also carefully select other companies to send you information about their products or services which are related to the site's service but are not necessary to its operation (an "Extended Service"). If CN intends to use personally identifiable information for an Extended Service, CN will provide you with the ability and requisite instructions to decline this service. You may also stop the delivery of informational or promotional mail from CN by following the instructions on the mail.
 
-**Acceptance of Privacy Policy**  
-Your right to access this website is conditional upon your full acceptance of this Privacy Policy and by accessing the Sites you you signify your consent that we store and process your personal data in accordance with this Privacy Policy.
-
-**Contact Us**  
-If you need further assistance or have queries about our use of personal information, please send us an email with your questions or comments to [editor@ibnlive](mailto:editor@ibnlive.com)
+CN may disclose personally identifiable information if required to do so by law or in the good-faith belief that such action is necessary to (i) conform to the edicts of the law or comply with legal process served on the site or its owners; (ii) protect and defend the rights or property of the site-owners, the site or the users of firstpost.com, and (iii) act under exigent circumstances to protect the personal safety of users of firstpost.com, the site, its owners, or the public.
 
   
 
+
+### User/member interaction features
+
+CN has many features (including but not limited to chat rooms, forums, instant messenger and message boards and other services available to you) that provide for users/members to disclose their identities and communicate with other users/members. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone. Your use of such features and disclosure of any personal details (e.g. e-mail address) by you through these features are at your sole risk and CN accepts no responsibility for the same. If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. However, if your privacy has been intruded as a result of participating in such features, you could notify us by e-mail at privacy@CN.
+
+  
+
+
+### Third Party Websites
+
+CN contains links to other third party websites. CN is not responsible for the privacy practices or the content of such websites. Additionally, we may reference other sources of demographic and other information in order to provide you with more targeted communications and promotions. We endeavour to keep the reports anonymous and try and ensure that the reports cannot be associated with any individual personally identifiable information that you may have shared with us.
+
+  
+
+
+### Exceptions
+
+As described above, certain uses of collected information may involve disclosure to third parties. In addition, we may disclose collected information in the good faith belief that we are required to do so by law, or when doing so is reasonably necessary to: (1) comply with the law or legal process; (2) respond to any claims; (3) protect and defend the rights, property or personal safety of CN and its subsidiaries and affiliates, as well as our customers, users or the public; or (4) protect against misuse or unauthorized use of CN Services. In addition, collected information may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets or acquisition.
+
+  
+
+
+### Protection of Information
+
+We use reasonable administrative, technical, personnel and physical measures to safeguard your information against loss, theft and unauthorized use, disclosure or modification. As effective as our security measures are, no security system is impenetrable. Moreover, we cannot guarantee that information that you supply will not be intercepted while being transmitted to us. Your personal information may also be stored on computers of third parties that provide technical support for the operation of CN Services or who otherwise have access to your personal information as disclosed in this Privacy Policy. We do not control the security measures used by such third parties and are not responsible or liable for loss, theft and unauthorized use, disclosure or modification of your information at the end of such third parties.
+
+  
+
+
+### Policy Updates
+
+We reserve the right to change or update this policy at any time by placing a prominent notice on CN. Such changes shall be effective immediately upon to CN.
+
+If we decide to change our privacy policy, we may post those changes to this privacy statement, the homepage and/or such other places as we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time as well.
+
+If we decide to make changes in our email practices, we may post those changes to this privacy policy, the homepage, and other places as we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+Nevertheless, you are advised to visit this page from time to time to keep your aware of any changes to our Privacy Policy.
+
+  
+
+
+### Notify Us
+
+If at any time you believe that CN or its users/members have not adhered to these principles, please notify CN by e-mail at ________ and we will make commercially reasonable efforts to determine and correct the problem.
+
+  
+
+
+### Disclaimer
+
+CN, all the materials and products (including but not limited to software) and any services, included on or otherwise made available to you through CN are gathered from a variety of sources and are intended solely as general information and provided on "as is" and "as available" basis without any representation or warranties, express or implied except otherwise specified in writing. They do not constitute advice and should not be relied upon in making (or refraining from making) any decision. Any specific advice or replies to queries in any part of CN is/are the personal opinion of such experts/consultants/persons and does not constitute or indicate our endorsement, representation or warranty of such information and are not subscribed to by CN. Without prejudice to the forgoing paragraph, we do not warrant that:
+
+• CN will be constantly available, or available at all; or
+
+• The information on CN is complete, legal, true, accurate or non-misleading.
