@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109002829id_/http%3A//www.appcues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcues.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614152619id_/https%3A//www.appcues.com/privacy) for the most accurate reproduction.*
 
 # Appcues Privacy Policy
+
+**Date of Last Revision:**  4/13/17
 
 ### Privacy Policy
 
@@ -23,7 +25,8 @@ This notice applies to all information collected or submitted on the Appcues web
 
 
 
-Appcues also maintains ongoing Level 1 PCI compliance, adhering to stringent industry standards for storing, processing and transmitting credit card information online.
+Appcues also maintains ongoing Level 1 PCI compliance, adhering to stringent industry standards for storing, processing and transmitting credit card information online.  
+
 
 ### How We Use Personal Information
 
@@ -34,22 +37,23 @@ Although Appcues owns the data storage, databases and the Appcues site, you reta
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses, except under the following circumstances:
 
   * If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service, or as otherwise required by law.
-  * If Appcues is acquired by or merged with another company. In this event, Appcues will notify you before information about you is transferred and becomes subject to a different privacy policy.
+  * If Appcues is acquired by or merged with another company. In this event, Appcues will notify you before information about you is transferred and becomes subject to a different privacy policy.  
 
 
 
-### Information Collected from Third Parties
 
-Appcues will collect End User Customer Data necessary to provide the service to you. “End User Customer Data” means information about your customers, which includes but is not limited to, first name, last name, phone number and email address.
+### End User Customer Data
 
-We may use End User Customer Data to lookup and store additional Public Data in order to create a more complete customer profile. "Public Data" is defined as information received from a third party partner named FullContact, a Safe Harbor Certified company. Public Data may be claimed, edited or discarded from their systems by following [this link](http://www.fullcontact.com/privacy/claim) and is subject to their [privacy policy](http://www.fullcontact.com/privacy/).
+Appcues will collect End User Customer Data necessary to provide the service to you. “End User Customer Data” means information about your customers, which includes any information you elect to send to Appcues in your implementation as well as general information including but not limited to browser information and IP address.
 
-End User Customer Data (email address) is used solely to lookup additional Public Data and create a more complete profile. We do not sell, share or disclose _any_ End User Customer Data uploaded, manually entered or otherwise added to Appcues with any third party.
+We do not sell, share or disclose  _any_  End User Customer Data with any third party, except if Appcues is acquired by or merged with another company.  
+
 
 ### Will you ever share my email address?
 
-We never sell or rent your (or your customers') personal information. Email addresses will only be shared with a third party if required by law or covered in this disclosure.
+We never sell or rent your (or your customers') personal information. Email addresses will only be shared with a third party if required by law or covered in this policy or if Appcues is acquired by or merged with another company.  
+
 
 ### Questions?
 
-Please don't hesitate to [contact us](mailto:folks@appcues.com).
+Please don't hesitate to [contact us](mailto:legal@appcues.com)
