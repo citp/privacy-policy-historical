@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logler.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028134555id_/http%3A//www.logler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logler.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614094042id_/http%3A//www.logler.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Logler.com
 
