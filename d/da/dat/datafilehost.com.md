@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the datafilehost.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924080629id_/https%3A//www.datafilehost.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datafilehost.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614112453id_/https%3A//www.datafilehost.com/pages/privacy.php) for the most accurate reproduction.*
 
-# None
+# DataFileHost - Free File Hosting
 
-## Privacy Policy
+####  Datafilehost.com is committed to protecting user privacy online. We we will not sell, share, or rent individually-identifiable information about you to any third party without your full permission.
 
-Datafilehost.com is committed to protecting user privacy online. We we will not sell, share, or rent individually-identifiable information about you to any third party without your full permission.
-
-**Cookies**  
-A cookie is a small data file that the website writes to your computer. A cookie cannot read any other data off your hard drive, pass on a virus, or read cookie files created by other sites. A cookie may be placed on your browser to protect our service against abuse. You can refuse cookies by turning them off in your browser, however, you ability to interact with our and other websites, might be limited.
+#####  **Cookies**  
+A cookie is a small data file that the website writes to your computer. A cookie cannot read any other data off of your hard drive, pass on a virus, or read cookie files created by other sites. A cookie may be placed on your browser to protect our service against abuse. You can refuse cookies by turning them off in your browser, however, your ability to interact with our and other websites, might be limited.
 
 **Third Party Advertising**  
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
