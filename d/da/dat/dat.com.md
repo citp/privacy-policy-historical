@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dat.com privacy policy that was archived on 2015-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150324234309id_/http%3A//www.dat.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dat.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614134455id_/http%3A//www.dat.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DAT
 
@@ -10,7 +10,7 @@ If you have any questions about this Privacy Policy, please feel free to contact
 
 Privacy Matters  
 DAT Solutions  
-11000 SW Stratus St, Suite 200  
+8405 SW Nimbus Avenue  
 Beaverton, OR 97008  
 USA
 
@@ -18,7 +18,7 @@ USA
 
 We offer a number of Services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of Services, we may collect the following types of information:
 
-  * **Information you provide** – When you sign up for a DAT Solutions Service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain Services, such as our DAT Load Boards and DAT Onboarding™, we also request credit card or other payment account information, as well as Federal Tax ID #, which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other DAT Solutions Services or third parties in order to provide you with a better experience and to improve the quality of our Services. 
+  * **Information you provide** – When you sign up for a DAT Solutions Service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain Services, such as our DAT Load Boards and DAT OnBoard™, we also request credit card or other payment account information, as well as Federal Tax ID #, which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other DAT Solutions Services or third parties in order to provide you with a better experience and to improve the quality of our Services. 
   * **Cookies** – When you visit DAT Solutions, we send one or more cookies – a small file containing a string of characters – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our Service by storing user preferences and tracking user trends, such as how people navigate our websites.
   * **Log information** – When you access DAT Solutions Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
   * **User communications** – When you send email or other communications to DAT Solutions, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
@@ -32,6 +32,7 @@ DAT Solutions processes personal information for the purposes described in this 
 
   * Providing our Services to users, including the display of customized content and advertising;
   * Auditing, research and analysis in order to maintain, protect and improve our Services;
+  * Sending you marketing communications that we believe may be of interest to you in accordance with your preferences;
   * Ensuring the technical functioning of our network; and
   * Developing new Services.
 
@@ -79,7 +80,7 @@ DAT Solutions regularly reviews its compliance with this Privacy Policy. Please 
 
 Privacy Matters  
 DAT Solutions  
-11000 SW Stratus St  
+8405 SW Nimbus Avenue  
 Beaverton, OR 97008  
 USA
 
@@ -93,6 +94,6 @@ If you have any additional questions or concerns about this Privacy Policy, plea
 
 Privacy Matters  
 DAT Solutions  
-11000 SW Stratus St  
+8405 SW Nimbus Avenue  
 Beaverton, OR 97008  
 USA
