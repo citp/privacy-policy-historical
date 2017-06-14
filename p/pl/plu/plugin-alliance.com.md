@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plugin-alliance.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223104859id_/https%3A//www.plugin-alliance.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugin-alliance.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614210519id_/https%3A//www.plugin-alliance.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Plugin Alliance
 
-Last Updated April 12, 2016
+Last Updated May 17, 2017
 
 This notice describes the privacy policy (referred to as “Privacy Policy” or “Policy”) for Plugin Alliance, LLC and applies to the Plugin Alliance Service that is accessible at plugin-alliance.com (“Plugin Alliance Service”). This Privacy Policy applies to you, as a User of the Plugin Alliance Service.
 
@@ -46,9 +46,13 @@ As with any Internet-based service, queries to our Plugin Alliance Service trans
 
 When you are logged into your account, Plugin Alliance sends one or more cookies (which is a small file containing a string of characters) to your computer or other device that uniquely identifies your browser. Plugin Alliance uses cookies to help provide the best experience when using the Plugin Alliance Service. Plugin Alliance servers automatically record information that your browser sends whenever you log into your user account. These server logs may include information such as your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. You may refuse the use of cookies by selecting the appropriate settings on your browser, however, please note that if you do this you will not be able to use the full functionality of the Plugin Alliance Service.
 
-Plugin Alliance utilizes the remarketing and targeted advertising services of third-parties, including Google and Facebook, to help Plugin Alliance create relevant ads. This means that Users and visitors of the Plugin Alliance website may be delivered ads for Plugin Alliance when browsing the web. These ads are tailored to the User or visitor based on pages previously viewed on the Plugin Alliance website. This is accomplished through the use of cookies, web beacons, and similar technologies to collect or receive information from the Plugin Alliance website and elsewhere on the Internet. Consistent with the cookie use described above in this Privacy Policy, the information recorded through the use of cookies, web beacons, and similar technologies does not include personally identifiable information. You may opt out of these tailored ads from Google at <https://support.google.com/ads/answer/2662922?hl=en> by following the directions. To opt out or find out more information about the collection of web viewing data for interest-based advertising, visit <http://www.aboutads.info/choices/>.
+Plugin Alliance utilizes the remarketing and targeted advertising services of third-parties, including Google and Facebook, to help Plugin Alliance create relevant ads. This means that Users and visitors of the Plugin Alliance website may be delivered ads for Plugin Alliance when browsing the web. These ads are tailored to the User or visitor based on pages previously viewed on the Plugin Alliance website. This is accomplished through the use of cookies, web beacons, and similar technologies to collect or receive information from the Plugin Alliance website and elsewhere on the Internet. Consistent with the cookie use described above in this Privacy Policy, the information recorded through the use of cookies, web beacons, and similar technologies does not include personally identifiable information.
 
-### User Communications and Opt-Out
+If you own a Google account, please check your privacy settings within your Google account: If you have chosen to enable Google to associate your web and app browsing history with your Google account and to use information from your Google account to personalize ads, Google will use your data in combination with our Google Analytics data to build audience lists for cross-device remarketing (only when you are signed-in your Google account).
+
+You may change your Google settings and opt out of these tailored ads from Google at <https://support.google.com/ads/answer/2662922?hl=en> by following the directions. To opt out or find out more information about the collection of web viewing data for interest-based advertising, visit <https://www.aboutads.info/choices/>.
+
+User Communications and Opt-Out
 
 When you send email or other communications to Plugin Alliance, Plugin Alliance may retain those communications and related e-mail addresses in order to process your inquiries, respond to your requests and improve our Plugin Alliance Service. In addition, Plugin Alliance may use your email address to provide you with Plugin Alliance news about products and/or Plugin Alliance Service and information about your user account. If you do not wish to receive these kinds of communications, you may opt-out by clicking the unsubscribe button located at the bottom of our emails.
 
