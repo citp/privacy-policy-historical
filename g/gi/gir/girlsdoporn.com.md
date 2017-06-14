@@ -1,0 +1,29 @@
+> *The following text is extracted and transformed from the girlsdoporn.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614045540id_/http%3A//www.girlsdoporn.com/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy - GirlsDoPorn.com
+
+This Privacy Policy was updated as of September 20, 2016, and governs the policies followed by GirlsDoPorn.com (the "Site"). 
+
+We will refer, in this document, to two types of information: Personally Identifiable Information and Non-Personally Identifiable Information. "Personally Identifiable Information" (also abbreviated to "PII") is information that can be traced to your identity (e.g., name, address, phone number, etc.). "Non-Personally Identifiable Information" (also abbreviated to "NPI") is all other such information that cannot be traced to your identity.
+
+We strongly believe in protecting the privacy rights of our users. Thus, it is important that we clearly describe (i) what PII we collect; (ii) with whom/how we share your PII; and (iii) how you can limit our sharing of your PII. In short, we are committed to your privacy.
+
+There may be links to other websites on our Site. You understand that we cannot control the privacy policies of the operators of such third-party websites and this privacy policy will not cover the use of such third-party websites. Thus, it is important that you understand that you must check the privacy policies of such third-party websites and independently decide if you should browse such sites and/or use the services offered therein.
+
+Personally Identifiable Information: Through our site, we may collect your name, IP address, and/or email address. This information will not be disclosed to any third parties except as necessary to operate the Site and grant the user access.
+
+Note: Our payment processors may collect additional PII. We do not have access to any information provided to them nor is their use of such information governed by this privacy policy. Thus, it is important that you familiarize yourself with their privacy policies prior to using their website. 
+
+Cookies: When you visit the Site, we may assign your computer one or more cookies, to facilitate access to our websites, to personalize your online experience, and to record information about your visit to the Site. Through the use of a cookie, we also may automatically collect information about your online activity on the Site, such as the web pages you visit, the links or advertisements you click, or the other actions you conduct while visiting the Site if you have enabled cookies. 
+
+The Site may automatically collect NPI from your web browser or mobile device (e.g., how you arrived at/left our site, your IP address, web provider, browser type, mobile device/computer operating system). We use all of this information to analyze trends among our users to help improve our Site and services offered.
+
+Additionally, we may disclose your information: (i) in response to a subpoena, court order, or a request for cooperation from law enforcement agencies; (ii) to defend against legal claims; (iii) when we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take action regarding illegal activity, fraud or wrongdoing; (iv) to protect the rights, property, and safety of our company, users, employees or others; (v) to enforce our website terms; (vi) in the event of a substantial corporate transaction, such as the sale of our business, merger, or consolidation; or (vii) as otherwise required by law.
+
+The previous paragraphs notwithstanding, we will not disclose your PII or NPI, and all of the information collected is used solely for analytical purposes connected to the operation of the website.
+
+We may modify our Privacy Policy, in whole or in part, to address any changes that we feel are necessary. We may or may not notify you via email or the Site, but we will always change the date indicated at the beginning of this document. Any changes we make to our privacy policy shall be effective as of this above date and replace any prior privacy policy, whenever enacted. Thus, it is important that you periodically review this document to ensure your understanding is up to date. 
+
+By using this Site, you accept the terms of this privacy policy. In the event that you do not agree with the use of your information as described herein, do not use the Site. 
+
+In the event you have any questions or concerns with this privacy policy please contact us at Jordan@girlsdoporn.com.
