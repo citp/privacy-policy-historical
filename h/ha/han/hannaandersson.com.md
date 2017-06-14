@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130151927id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hannaandersson.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614221931id_/http%3A//www.hannaandersson.com/Static.asp%3Fpg%3D201) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
