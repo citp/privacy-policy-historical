@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029065211id_/http%3A//www.4wd.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wd.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202401id_/https%3A//www.4wd.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy and Site Security Policies
-
-[Home](https://web.archive.org/) » **Privacy Policy**
+# 4Wheel Drive Hardware Policies | 4WD.com
 
   * Ordering
   * Payment Options
@@ -21,21 +19,25 @@ Call Toll Free **800-555-3353** , or call our International Sales Department at 
 
 ### By Mail
 
-When using the order form in the catalog please take the time to carefully fill in all the appropriate information (please print or type). Please complete both the billing and shipping information to avoid any delays. Include a daytime phone number. To avoid shipping errors we ask that you please list your order by catalog part number and description. You can also print out this [order form](https://web.archive.org/aux_incl/files/OrderForm.pdf) and either email, fax or mail it in
+When using the order form in the catalog please take the time to carefully fill in all the appropriate information (please print or type). Please complete both the billing and shipping information to avoid any delays. Include a daytime phone number. To avoid shipping errors we ask that you list your order by catalog part number and description. You can also print out this [order form](https://web.archive.org/aux_incl/files/OrderForm.pdf) and either email, fax or mail it in.
 
 ### Prices
 
-In our catalog printed beside each part listing is a price. However, this convenient information may become obsolete due to manufacturing cost increases. Therefore, we reserve the right to make price changes without notice. While the internet tries to be accurate with pricing, there are times when products appear with inaccurate pricing. If you see a price you feel is incorrect, please call us before placing your order online. We charge tax in the following states: Arizona, California, Colorado, Florida, Georgia, Hawaii, Indiana, North Carolina, New Mexico, Nevada, Ohio, Oklahoma, Oregon, Tennessee, Texas, Utah and Washington. Because we own businesses in these states, we are required by law to collect all state and local sales taxes based on the destination of the order. Tax rates are determined based on the delivery address of the order. TAX RATES ARE SUBJECT TO CHANGE AT ANYTIME.
+In our catalog printed beside each part listing is a price. However, this convenient information may become obsolete due to manufacturing cost increases. Therefore, we reserve the right to make price changes without notice. While the Internet tries to be accurate with pricing, there are times when products appear with inaccurate pricing. If you see a price you feel is incorrect, please call us before placing your order online. We charge tax in the following states: Alabama, Arizona, Arkansas, California, Colorado, Florida, Georgia, Hawaii, Idaho, Indiana, Louisiana, North Carolina, New Mexico, Nevada, Ohio, Oklahoma, Oregon, Tennessee, Texas, Utah, Virginia and Washington. Because we own businesses in these states, we are required by law to collect all state and local sales taxes based on the destination of the order. Tax rates are determined based on the delivery address of the order. TAX RATES ARE SUBJECT TO CHANGE AT ANYTIME.
 
-**Promotions and discounts can not be combined.**
+**Promotions and discounts cannot be combined.**
 
 **ALL SPECIAL ORDERS ARE FINAL**. Special order items will be charged $5.00 and Drop Ship items will be charged $1.50 for processing.
 
+## Payment Options
+
 ### Credit Card
 
-We accept Visa, MasterCard, American Express, Discover, Car Care One, Checks by Phone and personal checks with your name, address, check number and bank imprinted on the front. If you have a P.O. Box on your check, please include your physical address. Personal checks will not be accepted for orders of $1,000 or more.
+We accept all major credit cards: Visa, MasterCard, American Express and Discover, as well as PayPal and Car Care One (Synchrony Financial). We also accept checks by phone and personal checks with your name, address, check number and bank imprinted on the front. If you have a P.O. Box on your check, please include your physical address. Personal checks will not be accepted for orders of $1,000 or more. Our 4Wheel Drive Hardware gift cards and promo cards can be used on our website, over the phone with one of our knowledgeable representatives and also in our retail showrooms across the country. 
 
-All shipments are F.O.B. Columbiana, Ohio. Small items (under 150 pounds) will be shipped by ground service or express service if requested. Larger items will be shipped by truck freight. We do not ship C.O.D. orders to a P.O. Box, APO, or FPO. All orders must have complete shipping address and phone number. Truck freight is tailgate only, customer must have someone available to unload freight. If the condition of your package is questionable, please contact our Customer Service Department immediately at **800-555-3353, prompt 5**.
+## Shipping Options
+
+All shipments are F.O.B. Columbiana, Ohio. Small items (under 150 pounds) will be shipped by ground service or express service if requested. Larger items will be shipped by truck freight. We do not ship C.O.D. orders to a P.O. Box, APO, or FPO. All orders must have complete shipping address and phone number. Truck freight is tailgate only, customer must have someone available to unload freight. If the condition of your package is questionable, please contact our Customer Service Department immediately at **800-913-8597, prompt 2**.
 
 Special orders & truck shipments can take approximately 2 to 4 weeks depending on the items. 
 
@@ -45,7 +47,7 @@ All international orders require payment in advance. Due to various rate differe
 
 ### Damaged Shipments
 
-Upon receipt of an obviously damaged package, you have the option of refusing delivery and the order will be returned to Four Wheel Drive Hardware. This is the preferred method. If you are not able to refuse the delivery, please call our customer service department immediately so that we can assist you with your damage claim and possibly replace the product. Please be prepared to provide detailed information about your delivery and provide photographs (if possible). Keep the package and parts as close as possible to the condition in which you received them. The carrier might request a physical inspection of the package(s). Without the package, the carrier will void your claim. Please notify our customer service department as to what has occurred so that we may assist you and answer any questions you may have on your claim. Our Customer Service department can be reached at 800-555-3353or via email at [custserv@4wd.com](mailto:custserv@4wd.com). All carrier damage claims must be filed within 5 days of receipt of the products.
+Upon receipt of an obviously damaged package, you have the option of refusing delivery and the order will be returned to 4Wheel Drive Hardware. This is the preferred method. If you are not able to refuse the delivery, please call our customer service department immediately so that we can assist you with your damage claim and possibly replace the product. Please be prepared to provide detailed information about your delivery and provide photographs (if possible). Keep the package and parts as close as possible to the condition in which you received them. The carrier might request a physical inspection of the package(s). Without the package, the carrier will void your claim. Please notify our customer service department as to what has occurred so that we may assist you and answer any questions you may have on your claim. Our Customer Service department can be reached at 800-913-8597 or via email at [custserv@4wd.com](mailto:custserv@4wd.com). All carrier damage claims must be filed within 5 days of receipt of the products.
 
 ### Refused Shipments
 
@@ -53,9 +55,11 @@ Any customer who refuses a C.O.D. delivery of an order (damaged shipment exclude
 
 Any customer who refuses delivery of an order (damaged shipment excluded) will be required to pay the additional return freight charges. The initial shipping charge will not be refunded.
 
+## Returns
+
 ### Return Authorization
 
-You can download an RGA form here [RGA FORM](https://web.archive.org/aux_incl/files/ReturnPolicy.pdf). Please make sure your invoice number is on the form; or your request cannot be processed. You can also call 800-333-5535 prompt 5; provide a specific reason for your return, and request a Return Goods Authorization (RGA) number. Another option is to send an email request to our Customer Service Department. They will reply back in a timely manner.
+You can download an RGA form here [RGA FORM](https://web.archive.org/images/static/ReturnPolicy.pdf). Please complete the RGA form in its entirety and include as much information as possible, including your invoice and/or order number. If you need additional assistance with a return, you can call 800-913-8597 prompt 2, to speak to one of our customer service representatives. You can also send an [email](mailto:custserv@4wd.com) request to our Customer Service Department. 
 
 ### Warranty
 
@@ -65,7 +69,7 @@ We warranty all merchandise for a minimum of 30 days against defects in workmans
 
   * Your product will be covered due to a mishap. The broken component will be replaced at no charge to you upon inspection of the merchandise. You will, however, be responsible for shipping the broken component back to us and the return shipping of new product back to you.
   * The Extreme Warranty can save you the expense of purchasing the product again if you are to break it. We will send a replacement component to replace the broken component on the product. After the warranty is used, it will be voided and a new warranty must be purchased.
-  * Coverage with the Extreme Warranty extends for the product life of the product. Wear items such as bushings, hiem joints, zippers, etc. are not covered. Certain products such as soft tops, seat covers, etc will be subject to a prorated adjustment. Vandalism, theft, fire or accidents will not be covered under this warranty.
+  * Coverage with the Extreme Warranty extends for the product life of the product. Wear items such as bushings, hiem joints, zippers, etc. are not covered. Certain products such as soft tops, seat covers, etc. will be subject to a prorated adjustment. Vandalism, theft, fire or accidents will not be covered under this warranty.
 
 
 
@@ -77,6 +81,8 @@ Sometimes it becomes necessary to cancel orders for a backorder or discontinued 
 
 4Wheel Drive Hardware has no control over the use of any product. 4Wheel Drive Hardware therefore expects the customer to exercise good judgment as to the proper selection, installation, use and maintenance of any product. 4Wheel Drive Hardware assumes no responsibility for damage or injury of any kind due to any misuse or improper application of any products in any way by any person.
 
+## Catalog Information
+
 ### Mail List Preference
 
 We occasionally make our mailing list available to carefully selected companies whose products or services might interest you. If you prefer to have your name withheld, please send your mailing label complete with name and address to:
@@ -86,11 +92,11 @@ Columbiana, OH 44408
 
 ### Duplicate Catalogs
 
-If you are receiving more than one copy of our catalog, please send us both mailing labels or call our Customer Service Department and indicate which one is the most correct. Please share your extra catalog with a "Jeeper" friend.
+If you are receiving more than one copy of our catalog, please send us both mailing labels or call our Customer Service Department 800-913-8597 and indicate which one is the most correct. Please share your extra catalog with a "jeeper" friend.
 
 ### Printing Errors
 
-Although every effort is made to keep our catalog and web site error free, mistakes sometimes occur. We are not responsible for typographical errors.
+Although every effort is made to keep our catalog and website error free, mistakes sometimes occur. We are not responsible for typographical errors.
 
 Price, taxes and shipping rates are subject to change without notice.
 
@@ -170,5 +176,3 @@ To be removed from our email newsletter list:
 
 
 **NOTE: This policy may be modified from time to time. You are encouraged to review this policy monthly.**
-
-back to top
