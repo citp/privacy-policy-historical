@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playbuzz.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223808id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playbuzz.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614121323id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Playbuzz
 
@@ -138,5 +138,3 @@ We may revise this Privacy Policy from time to time, in our sole discretion, and
 If you have any comments or questions about our Privacy Policy, you can always contact us at [support@playbuzz.com](mailto:support@playbuzz.com).
 
 _3 Aluf Kalman Magen St., Building A, 1st Floor, Tel Aviv, 6107075, Israel_
-
-[SheKnows Media – Lifestyles](http://www.sheknows.com/)
