@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressmania.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119172056id_/http%3A//www.pressmania.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressmania.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614202652id_/http%3A//www.pressmania.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
