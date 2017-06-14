@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zigverve.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229063445id_/http%3A//zigverve.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zigverve.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615001341id_/http%3A//zigverve.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Zigverve - Health & Lifestyle blog
 
@@ -70,8 +70,8 @@ By using this Site, you signify your acceptance of this policy and [terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-http://zigverve.com
+> [Frontpage](http://zigverve.com/)
 
 Gents Hostel, AIIMS, Ansari Nagar, New Delhi – 110029
 
-email: info@zigverve.com
+email: contact@zigverve.com
