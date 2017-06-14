@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the dramabeans.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112035412id_/http%3A//www.dramabeans.com/dramabeans-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dramabeans.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614050804id_/http%3A//www.dramabeans.com/dramabeans-privacy-policy) for the most accurate reproduction.*
 
 # Dramabeans Privacy Policy » Dramabeans Korean drama recaps
 
+  
 _1\. Introduction_
 
 This Privacy Policy (“Privacy Policy”) describes how Dramabeans (“Dramabeans”) collects, uses and discloses information from and about visitors to and users of Dramabeans.com, including unregistered visitors (“Visitors”), registered members (“Members”) and registered non-subscription guests (“Guests”), as each category is further described in the Terms of Use, and what choices Members, Guests and Visitors each have regarding the collection and use of such information. This Privacy Policy also explains procedures for the security and protection of the information collected and how you can access and update your information.
@@ -22,7 +23,7 @@ Dramabeans uses your personal and non-personal information in order to improve a
 
 Dramabeans does not share your personal information with third parties, except to the extent necessary to process transactions with you, for example, credit card processing companies, or in the case of contests that include a third party partner, or promotional offers. However, Dramabeans may disclose any such information pursuant to law, including subpoena, warrants or other orders; in order to enforce the Terms of Use or other Website policies and rules with respect to a particular Dramabeans product or service, including reporting suspected cheating or intellectual property rights violations, or any other related agreements between you and Dramabeans; or as otherwise may be required to protect the rights of Dramabeans, its directors, officers, representatives and agents, or its Members, Guests or Visitors.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can find out more here: [www.networkadvertising.org](https://web.archive.org/web/20161112035412id_/http://www.dramabeans.com/dramabeans-privacy-policy/www.networkadvertising.org).
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you can find out more here: [www.networkadvertising.org](https://web.archive.org/web/20170614050804id_/http%3A//www.dramabeans.com/www.networkadvertising.org).
 
 In addition, Dramabeans may share some or all of your personal information with another entity in the event of a change in business structure, including merger or acquisition, as well as with the representatives of the entity to the extent required.
 
@@ -34,5 +35,4 @@ This Privacy Policy is part of the Terms of Use. Dramabeans may revise or amend 
 
 Dramabeans implements reasonable steps to maintain the privacy and security of your information against unauthorized access consistent with industry standards, however, as with all online transactions, hackers or other third parties may intercept and misuse your personal information, including during transmission to and from the Website.
 
-The Website and its related products and services are not intended for use by children under 13 years of age and children under 13 may not submit personal information to Dramabeans. Dramabeans will not knowingly collect or use personal information of anyone under 13 years of age, and if Dramabeans is informed or determines that any such information has been submitted, it will be deleted.  
-
+The Website and its related products and services are not intended for use by children under 13 years of age and children under 13 may not submit personal information to Dramabeans. Dramabeans will not knowingly collect or use personal information of anyone under 13 years of age, and if Dramabeans is informed or determines that any such information has been submitted, it will be deleted.
