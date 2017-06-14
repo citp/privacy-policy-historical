@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118223808id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playbuzz.com privacy policy that was archived on 2017-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170614121323id_/http%3A//www.playbuzz.com/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en"><head>        
 
 
-    <script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-CpsJA1RVGY0Bm" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//d3qxef4rp70elm.cloudfront.net/m.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+    <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://connect.facebook.net/en_US/fbds.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-CpsJA1RVGY0Bm" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//d3qxef4rp70elm.cloudfront.net/m.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 
         //Define googletags on first steps of the page
 
@@ -23,8 +23,6 @@
 
 
 
-
-
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width">
 
@@ -35,15 +33,15 @@
         <!--Favicon for apple touch device-->
         <link rel="apple-touch-icon-precomposed" href="//cdn.playbuzz.com/content/images/apple-touch-icon-new.png">
 
-<link href="//cdn.playbuzz.com/content/bundles/production/f6d749e/libs/css" rel="stylesheet">
-<link href="//cdn.playbuzz.com/content/bundles/production/f6d749e/pages/privacypolicy/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/afb498d/libs/css" rel="stylesheet">
+<link href="//cdn.playbuzz.com/content/bundles/production/afb498d/pages/privacypolicy/css" rel="stylesheet">
 
     
 
     
     
 
-<script src="//cdn.playbuzz.com/content/bundles/production/f6d749e/libs/infra/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/afb498d/libs/infra/js"></script>
     
 
     
@@ -152,7 +150,7 @@
             var sid = cookie ? cookie.session : createGUID();
             var nick = cookie ? cookie.nickname : "Anonymous_user";
             var origin = cookie ? cookie.origin : "Anonymous";
-            var hasAccount = cookie ? cookie.hasAccount == "true" : "false";
+            var hasAccount = cookie ? cookie.hasAccounts == "true" : "false";
 
             // remove empty values which existed in previous versions
             if (uid == "") uid = createGUID();
@@ -166,7 +164,7 @@
                 cookie.session = sid;
                 cookie.nickname = nick;
                 cookie.origin = origin;
-                cookie.hasAccount = hasAccount;
+                cookie.hasAccounts = hasAccounts;
                 cookie.version = cookieVersion;
                 saveCookie(cookie);
 
@@ -468,8 +466,6 @@
     
 
 <script src="https://apis.google.com/js/client:platform.js" async="" defer=""></script>
-
-
     
 <script type="text/javascript">
 
@@ -514,9 +510,11 @@
     <div id="fb_pixel_facebook"></div>
 
             <header role="banner">
+<script>var PBS_Templates = JSON.parse("{\n\t\"flipCard\": \"3eb6e350-8ec6-4c48-9219-e1070fb726ad\",\n\t\"convo\": \"5be4f0ae-b5cf-4100-ad53-3c874a36dea5\",\n\t\"poll\": \"aa6cd7fd-831d-47a7-a44f-4c815bdc99d4\"\n}");</script>
+
 <div id="pb-page-container">
     <nav class="navbar navbar-fixed-top pb-navbar pb-navbar-black">
-        <div class="pb-navbar-container">
+        <div class="container-fluid">
             <!--content push wrapper-->
             <div class="navbar-header">
                 <button type="button" id="toggle-menu" class="navbar-toggle collapsed pull-left pb-navbar-menu-btn">
@@ -549,14 +547,19 @@
                 <h2>Formats</h2>
                 <ul>
                     <li>
+                        <a href="/Story">
+                            <svg class="pb-navbar-icon-formats-white">
+                                <use xlink:href="#pb-icon-format-story-sm"></use>
+                            </svg>
+                            Story<span style="font-size:10px"> (NEW)</span>
+                        </a>
+                    </li>
+                    <li>
                         <a href="/Convo">
                             <svg class="pb-navbar-icon-formats-white">
                                 <use xlink:href="#pb-icon-format-convo-sm"></use>
                             </svg>
                             Convo
-                            <svg class="pb-icon-new-capsule">
-                                <use xlink:href="#pb-icon-new-capsule"></use>
-                            </svg>
                         </a>
                     </li>
                     <li>
@@ -639,17 +642,12 @@
                             Countdown
                         </a>
                     </li>
-                    <li>
-                        <a href="/SnapArticle">
-                            <svg class="pb-navbar-icon-formats-white">
-                                <use xlink:href="#pb-icon-format-snap-article-sm"></use>
-                            </svg>
-                            Story <span style="font-size:10px"> (BETA)</span>                            
-                        </a>
-                    </li>
                 </ul>
-                <h2>Trending Topics</h2>
-                <ul id="pb-navbar-sidebar-trending-topics">
+                <h2>Offerings</h2>
+                <ul id="pb-navbar-sidebar-offerings">
+                    <li><a href="//publishers.playbuzz.com/advertise-with-playbuzz?utm_source=playbuzz.com&amp;utm_medium=navbar_dropdown&amp;utm_campaign=nav_bar">Advertisers</a></li>
+                    <li><a href="//publishers.playbuzz.com/publish-with-playbuzz?utm_source=playbuzz.com&amp;utm_medium=navbar_dropdown&amp;utm_campaign=nav_bar">Publishers</a></li>
+                    <li><a href="//publishers.playbuzz.com/create-with-playbuzz?utm_source=playbuzz.com&amp;utm_medium=navbar_dropdown&amp;utm_campaign=home_page">Creators</a></li>
                 </ul>
                 <ul>
                     <li>
@@ -672,18 +670,20 @@
 
                 <footer>
                     <div>
-                        <a href="//publishers.playbuzz.com/about/">About</a>
-                        <a href="/TermsOfUse">Terms of Use</a>
-                        <a href="/CookiesPolicy">Cookies</a>
+                        <a href="//publishers.playbuzz.com/about?utm_source=playbuzz.com&amp;utm_medium=mobile_nav_bar&amp;utm_campaign=home_page">About</a>
+                        <a href="//publishers.playbuzz.com/news?utm_source=playbuzz.com&amp;utm_medium=mobile_nav_bar&amp;utm_campaign=home_page">In The News</a>
+                        <a href="//publishers.playbuzz.com/comeet-career?utm_source=playbuzz.com&amp;utm_medium=mobile_nav_bar&amp;utm_campaign=home_page">Careers</a>
+                        <a href="//publishers.playbuzz.com/academy?utm_source=playbuzz.com&amp;utm_medium=mobile_nav_bar&amp;utm_campaign=home_page">Academy</a>                                                
                     </div>
                     <div>
-                        <a href="/PrivacyPolicy">Privacy</a>
-                        <a href="/contact/">Contact</a>
+                        <a href="/PrivacyPolicy">Privacy Policy</a>
+                        <a href="/PublisherTerms">Publisher Terms</a>
+                        <a href="/contact">Contact Us</a>
                     </div>
                 </footer>
             </nav>
             <div class="navbar-collapse collapse">
-                <ul class="list-unstyled pull-right">
+                <ul class="list-unstyled pull-right hidden-sm">
                     <li id="pb-navbar-login-btn" class="hidden">
                         <button type="submit" class="btn pb-navbar-btn-sign-in">Sign In</button>
                     </li>
@@ -691,26 +691,24 @@
                         <a class="pb-navbar-link pb-navbar-user-link" role="button">
                             <span id="pb-navbar-login-dropdown-btn">
                                 <img class="pb-navbar-user-image">
-                                <span class="pb-navbar-user-name">Me</span>
                                 <span class="caret"></span>
-                            	<div class="pb-navbar-user-red-dot"></div>
+                                <span class="pb-navbar-user-red-dot"></span>
                             </span>
                         </a>
-                        <ul class="dropdown-menu pb-dropdown-menu-user">
+                        <ul class="dropdown-menu pb-dropdown-menu-user" style="min-width: 100px;">
                             <li>
-                                <a id="pb-navbar-user-profile-link" class="btn pb-navbar-sub-link" href="#">My Profile</a>
+                                <span class="pb-navbar-menu-title">CHANNELS</span>
                             </li>
+                            <li class="list-group pb-navbar-user-channels"></li>
+                            <li class="pb-navbar-divider"></li>
                             <li>
-                                <a id="pb-navbar-user-edit-profile-link" class="btn pb-navbar-sub-link" href="#">Edit Profile</a>
+                                <a id="pb-navbar-user-edit-profile-link" class="btn pb-navbar-sub-link" href="#">Profile settings</a>
                             </li>
                             <li>
                                 <a id="pb-navbar-user-impact-link" class="btn pb-navbar-sub-link" href="#">
-                                    Impact
-                                    <svg class="pb-icon-new-capsule">
-                                        <use xlink:href="#pb-icon-new-capsule"></use>
-                                    </svg>
+                                    Impact                                    
                                 </a>
-                                
+
                             </li>
                             <li class="pb-navbar-divider"></li>
                             <li role="menuitem">
@@ -720,14 +718,14 @@
                     </li>
                     <li id="pb-navbar-dropdown-create" class="pb-dropdown-nav-hide">
                         <a id="pb-navbar-dropdown-create-btn" href="/create?pb_event_pageActionLabel=createarticle" class="btn pb-navbar-btn-create">
-                            CREATE
+                                CREATE
                         </a>
                         <ul class="media-list pb-dropdown-menu-create dropdown-menu">
                             <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" href="/Create/SnapArticle?pb_event_pageActionLabel=Story">
+                                <a class="pb-navbar-formats-link" href="/Create/Story?pb_event_pageActionLabel=Story" appendformatguid="false">
                                     <div class="media-left">
                                         <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
-                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-snap-article-md"></use>
+                                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-story-md"></use>
                                         </svg>
                                     </div>
                                     <div class="media-body media-middle pb-navbar-formats-media-body">
@@ -741,7 +739,7 @@
                                 </a>
                             </li>
                             <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" href="/Create/Convo?pb_event_pageActionLabel=Convo">
+                                <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('convo')" href="#">
                                     <div class="media-left">
                                         <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
                                             <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-convo-md"></use>
@@ -758,7 +756,7 @@
                                 </a>
                             </li>
                             <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" href="/Create/TestYourself?pb_event_pageActionLabel=Personality Quiz">
+                                <a class="pb-navbar-formats-link" href="/Create/TestYourself?pb_event_pageActionLabel=Personality Quiz" appendformatguid="true">
                                     <div class="media-left">
                                         <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
                                             <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-personality-quiz-md"></use>
@@ -775,7 +773,7 @@
                                 </a>
                             </li>
                             <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" href="/Create/MultipleChoice?pb_event_pageActionLabel=Trivia">
+                                <a class="pb-navbar-formats-link" href="/Create/MultipleChoice?pb_event_pageActionLabel=Trivia" appendformatguid="true">
                                     <div class="media-left">
                                         <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
                                             <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-trivia-md"></use>
@@ -792,7 +790,7 @@
                                 </a>
                             </li>
                             <li class="media pb-navbar-formats-media ">
-                                <a class="pb-navbar-formats-link" href="/Create/PlayBuzzPoll?pb_event_pageActionLabel=Poll">
+                                <a class="pb-navbar-formats-link" onclick="pb.openFormatWithStory('poll')" href="#">
                                     <div class="media-left">
                                         <svg class="pb-navbar-icon-formats-create" fill="url(#blueToPurple)">
                                             <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pb-icon-format-poll-md"></use>
@@ -817,217 +815,227 @@
                     </li>
                 </ul>
                 <ul class="nav navbar-nav pull-left">
-                <li id="pb-navbar-discover-menu" class="pb-dropdown-nav-hide">
-                <a class="pb-navbar-link" role="button">
-                    <span id="pb-navbar-discover-menu-btn">
-                        DISCOVER<span class="caret"></span>
-                    </span>                   
-                </a>
-                <div class="pb-dropdown-menu-navbar" role="menu">
-                <div class="pb-navbar-menu-content pb-navbar-container clearfix">
-                <div class="pb-header-grid-content-column">
-                    <div class="pb-navbar-title">
-                        Formats
-                    </div>
-                    <ul class="list-unstyled pb-navbar-discover-formats">
-                        <li>
-                            <a href="/Convo" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-convo-sm"></use>
-                                </svg>
-                                <span>Convo</span>
-                                <svg class="pb-icon-new-capsule">
-                                    <use xlink:href="#pb-icon-new-capsule"></use>
-                                </svg>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/VideoSnaps" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-video-snaps-sm"></use>
-                                </svg>
-                                <span>Video Snaps</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Swiper" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-swiper-sm"></use>
-                                </svg>
-                                <span>Swiper</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Reveal" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-flip-cards-sm"></use>
-                                </svg>
-                                <span>Flip Cards</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/TestYourself" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-personality-quiz-sm"></use>
-                                </svg>
-                                <span>Personality Quiz</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/PlayBuzzPoll" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-poll-sm"></use>
-                                </svg>
-                                <span>Poll</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/MultipleChoice" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-trivia-sm"></use>
-                                </svg>
-                                <span>Trivia</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/RankList" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-ranked-list-sm"></use>
-                                </svg>
-                                <span>Ranked List</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/List" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-list-sm"></use>
-                                </svg>
-                                <span>List</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Gallery" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-gallery-quiz-sm"></use>
-                                </svg>
-                                <span>Gallery Quiz</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Countdown" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-countdown-sm"></use>
-                                </svg>
-                                <span>Countdown</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/SnapArticle" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-formats">
-                                    <use xlink:href="#pb-icon-format-snap-article-sm"></use>
-                                </svg>
-                                Story <span style="font-size:10px"> (BETA)</span>                                  
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="pb-header-grid-content-column">
-                    <div class="pb-navbar-title">
-                        Trending Topics
-                    </div>
-                    <ul id="pb-navbar-discover-trending-column" class="text-center list-unstyled pb-navbar-discover-trending">
-                    </ul>
-                </div>
-                <div class="pb-header-grid-content-column">
-                    <div class="pb-navbar-title">
-                        Languages
-                    </div>
-                    <ul class="list-unstyled pb-navbar-discover-languages">
-                        <li>
-                            <a href="/Latest/German" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-germany-circle"></use>
-                                </svg>
-                                <span>German</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/English" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-usa-circle"></use>
-                                </svg>
-                                <span>English</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/French" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-france-circle"></use>
-                                </svg>
-                                <span>French</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/Hebrew" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-israel-circle"></use>
-                                </svg>
-                                <span>Hebrew</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/Italian" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-italy-circle"></use>
-                                </svg>
-                                <span>Italian</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/Portuguese" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-brazil-circle"></use>
-                                </svg>
-                                <span>Portuguese</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/Spanish" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-spain-circle"></use>
-                                </svg>
-                                <span>Spanish</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/Russian" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-russia-circle"></use>
-                                </svg>
-                                <span>Russian</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/Japanese" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-japan-circle"></use>
-                                </svg>
-                                <span>Japanese</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/Latest/Chinese (Traditional)" type="button" class="btn pb-navbar-sub-link">
-                                <svg class="pb-navbar-icon-flags">
-                                    <use xlink:href="#pb-icon-flag-china-circle"></use>
-                                </svg>
-                                <span>Chinese</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                </div>
-                </div>
-                </li>
+                    <li id="pb-navbar-offering-menu" class="pb-dropdown-nav-hide dropdown">
+                        <a class="dropdown-toggle pb-navbar-link" data-toggle="dropdown" role="button">
+                            <span id="pb-navbar-offering-menu-btn">
+                                OFFERINGS<span class="caret"></span>
+                            </span>
+                        </a>
+                        <div id="pb-dropdown-offering-list" role="menu">
+                            <ul class="dropdown-menu pb-dropdown-menu">
+                                <li><a href="//publishers.playbuzz.com/advertise-with-playbuzz?utm_source=playbuzz.com&amp;utm_medium=navbar_dropdown&amp;utm_campaign=nav_bar" type="button" class="btn pb-navbar-sub-link">Advertisers</a></li>
+                                <li><a href="//publishers.playbuzz.com/publish-with-playbuzz?utm_source=playbuzz.com&amp;utm_medium=navbar_dropdown&amp;utm_campaign=nav_bar" type="button" class="btn pb-navbar-sub-link">Publishers</a></li>
+                                <li><a href="//publishers.playbuzz.com/create-with-playbuzz?utm_source=playbuzz.com&amp;utm_medium=navbar_dropdown&amp;utm_campaign=nav_bar" type="button" class="btn pb-navbar-sub-link">Creators</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li id="pb-navbar-discover-menu" class="pb-dropdown-nav-hide">
+                        <a class="pb-navbar-link" role="button">
+                            <span id="pb-navbar-discover-menu-btn">
+                                DISCOVER<span class="caret"></span>
+                            </span>
+                        </a>
+                        <div class="pb-dropdown-menu-navbar" role="menu">
+                            <div class="pb-navbar-menu-content pb-navbar-container clearfix">
+                                <div class="pb-header-grid-content-column">
+                                    <div class="pb-navbar-title">
+                                        Formats
+                                    </div>
+                                    <ul class="list-unstyled pb-navbar-discover-formats">
+                                        <li>
+                                            <a href="/Story" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-story-sm"></use>
+                                                </svg>
+                                                Story<span style="font-size:10px"> (NEW)</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Convo" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-convo-sm"></use>
+                                                </svg>
+                                                <span>Convo</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/VideoSnaps" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-video-snaps-sm"></use>
+                                                </svg>
+                                                <span>Video Snaps</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Swiper" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-swiper-sm"></use>
+                                                </svg>
+                                                <span>Swiper</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Reveal" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-flip-cards-sm"></use>
+                                                </svg>
+                                                <span>Flip Cards</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/TestYourself" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-personality-quiz-sm"></use>
+                                                </svg>
+                                                <span>Personality Quiz</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/PlayBuzzPoll" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-poll-sm"></use>
+                                                </svg>
+                                                <span>Poll</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/MultipleChoice" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-trivia-sm"></use>
+                                                </svg>
+                                                <span>Trivia</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/RankList" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-ranked-list-sm"></use>
+                                                </svg>
+                                                <span>Ranked List</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/List" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-list-sm"></use>
+                                                </svg>
+                                                <span>List</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Gallery" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-gallery-quiz-sm"></use>
+                                                </svg>
+                                                <span>Gallery Quiz</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Countdown" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-formats">
+                                                    <use xlink:href="#pb-icon-format-countdown-sm"></use>
+                                                </svg>
+                                                <span>Countdown</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="pb-header-grid-content-column">
+                                    <div class="pb-navbar-title">
+                                        Trending Topics
+                                    </div>
+                                    <ul id="pb-navbar-discover-trending-column" class="text-center list-unstyled pb-navbar-discover-trending"></ul>
+                                </div>
+                                <div class="pb-header-grid-content-column">
+                                    <div class="pb-navbar-title">
+                                        Languages
+                                    </div>
+                                    <ul class="list-unstyled pb-navbar-discover-languages">
+                                        <li>
+                                            <a href="/Latest/German" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-germany-circle"></use>
+                                                </svg>
+                                                <span>German</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/English" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-usa-circle"></use>
+                                                </svg>
+                                                <span>English</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/French" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-france-circle"></use>
+                                                </svg>
+                                                <span>French</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/Hebrew" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-israel-circle"></use>
+                                                </svg>
+                                                <span>Hebrew</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/Italian" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-italy-circle"></use>
+                                                </svg>
+                                                <span>Italian</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/Portuguese" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-brazil-circle"></use>
+                                                </svg>
+                                                <span>Portuguese</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/Spanish" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-spain-circle"></use>
+                                                </svg>
+                                                <span>Spanish</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/Russian" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-russia-circle"></use>
+                                                </svg>
+                                                <span>Russian</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/Japanese" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-japan-circle"></use>
+                                                </svg>
+                                                <span>Japanese</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/Latest/Chinese (Traditional)" type="button" class="btn pb-navbar-sub-link">
+                                                <svg class="pb-navbar-icon-flags">
+                                                    <use xlink:href="#pb-icon-flag-china-circle"></use>
+                                                </svg>
+                                                <span>Chinese</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
                     <li id="pb-navbar-popular-tags" class="pb-dropdown-nav-hide">
                         <a class="pb-navbar-link" role="button">
                             <span id="pb-navbar-popular-tags-btn">
@@ -1404,11 +1412,7 @@
     <p>If you have any comments or questions about our Privacy Policy, you can always contact us at <a href="mailto:support@playbuzz.com">support@playbuzz.com</a>.</p>
 
     <p><i>3 Aluf Kalman Magen St., Building A, 1st Floor, Tel Aviv, 6107075, Israel</i></p>
-
-    <br>
-
-    <p><a href="http://www.sheknows.com">SheKnows Media – Lifestyles</a></p>
-
+       
     </div>
 
     </section>
@@ -1432,7 +1436,7 @@
 <!--googleon: index-->
 
 
-<script src="//cdn.playbuzz.com/content/bundles/production/f6d749e/libs/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/afb498d/libs/js"></script>
 <script src="/bundles/Pages/PrivacyPolicy/js"></script>
 
 
@@ -1458,28 +1462,23 @@
         <!-- End Quantcast Tag -->
 
     
-
-    
-
-    <script type="text/javascript">
+<script type="text/javascript">
         (function () {
             var _fbq = window._fbq || (window._fbq = []);
-            if (!_fbq.loaded) {
+            if (!_fbq.fbds_loaded) {
                 var fbds = document.createElement('script');
                 fbds.async = true;
                 fbds.src = 'https://connect.facebook.net/en_US/fbds.js';
                 var s = document.getElementsByTagName('script')[0];
                 s.parentNode.insertBefore(fbds, s);
-                _fbq.loaded = true;
+                _fbq.fbds_loaded = true;
             }
             _fbq.push(['addPixelId', '568445403278652']);
         })();
         window._fbq = window._fbq || [];
         window._fbq.push(['track', 'PixelInitialized', {}]);
-    </script>
-    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=568445403278652&amp;ev=PixelInitialized" /></noscript>
-    
-    <script src="//cdn.taboola.com/libtrc/playbuzz-sc/tfa.js"></script> 
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=568445403278652&amp;ev=PixelInitialized" /></noscript>
 
     
     
@@ -1489,7 +1488,7 @@
 
     
     
-<script src="//cdn.playbuzz.com/content/bundles/production/f6d749e/pbads/dfp/js"></script>
+<script src="//cdn.playbuzz.com/content/bundles/production/afb498d/pbads/dfp/js" async=""></script>
 
 
 
@@ -1507,12 +1506,12 @@
 
 
     if (InQuestionCampaignIdDisregard !== "none" && InQuestionCampaignIdDisregard.length>0) {
-        InQuestionCampaignIdDisregardArray = InQuestionCampaignIdDisregard.split(';').map(Number); 
+        InQuestionCampaignIdDisregardArray = InQuestionCampaignIdDisregard.split(';'); 
     }
 
     try {
         var sponsoredArticleIds = Object.keys(UTMSponsoredArticles);
-        if (sponsoredArticleIds.indexOf(gameData.gameId) >= 0) {
+        if (typeof gameData !== 'undefined' && sponsoredArticleIds.indexOf(gameData.gameId) >= 0) {
             dfpTargeting["userSuvey"] = UTMSponsoredArticles[gameData.gameId];
         }
     } catch (err) {
@@ -1527,7 +1526,7 @@
         }
 
         // mobile targeting
-        dfpTargeting["MobileApp"] = document.location.toString().toLowerCase().search("frommobileapp=true") != -1 ? "Yes" :  "No";
+        dfpTargeting["MobileApp"] = "No";
 
         // item targeting
         if (window.gameData) {
@@ -1619,7 +1618,7 @@
                 } else {
                     //meaning this is an internal playbuzz.com navigation
                     if (!IsPBFeed) {
-                        MonetizationBridge.NextPageVisit();
+                        pbMonetizationBridge.NextPageVisit();
                     }
                 }
             }
@@ -1647,20 +1646,21 @@
 
 <script>
 
-    var enableAds = true;
-
-    // initiating dfp
-    try {
-        var dfpUnitsConfig= "{\"path\":\"pages_privacypolicy\",\"config\":{\"ad-bottom-1\":{\"adunit\":\"PlayBuzz_Quote_Default_BTF_W300X250\",\"dimensions\":\"300x250\"},\"ad-footer-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W728x90\",\"dimensions\":\"728x90\"},\"ad-top-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W300X250\",\"dimensions\":\"300x250\"}}}";
-        pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig);
-
-    } catch (e) {
-        // log to console --> we need alert if we get this error
-        console.error("FATAL: failed to load dfp module", e);
-    }
+    var enableAds = true;    
 
 
-    $(document).ready(function() {
+    $(document).on('pbads.dfp.ready',function() {
+
+        // initiating dfp
+        try {
+            var dfpUnitsConfig= "{\"path\":\"pages_privacypolicy\",\"config\":{\"ad-bottom-1\":{\"adunit\":\"PlayBuzz_Quote_Default_BTF_W300X250\",\"dimensions\":\"300x250\"},\"ad-footer-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W728x90\",\"dimensions\":\"728x90\"},\"ad-top-1\":{\"adunit\":\"PlayBuzz_Quote_Default_W300X250\",\"dimensions\":\"300x250\"}}}";
+            pbads.dfp.init('94166617', dfpTargeting, dfpUnitsConfig);
+
+        } catch (e) {
+            // log to console --> we need alert if we get this error
+            console.error("FATAL: failed to load dfp module", e);
+        }
+
         // fetch dfp ads
         try {
 
@@ -1669,25 +1669,47 @@
                 // fetch units
                 pbads.dfp.fetch();
 
-                // refresh on game progress 50
-                if (window.gameData && (window.gameData.patternId === "TestYourself" || window.gameData.patternId === "multipleChoice")) {
-                    $(document).on("Game.Progress.50", function() { 
-                        try { 
-                            //need to change the query string
-                            window.location.hash = 'half'; //add half to URL
-                            //googletag.pubads().refresh() 
-                            pbads.dfp.refresh();
-                        } catch (e) { 
-                            console.warn("failed to fetch dfp adunits", e); 
-                        }
-                    });
-                }
+                // refresh on game progress for each event configured in adRefreshRate 
+                if (window.gameData && (window.gameData.patternId === "TestYourself" ||
+                    window.gameData.patternId === "multipleChoice" || 
+                    window.gameData.patternId ==="Swiper" || 
+                    window.gameData.patternId ==="Reveal")) {
 
-            }
-            //TODO: better handling for hiding empty ads 
-            /* else {  
-                $(".adunit-wrapper").hide();                
-            }*/
+                    if (typeof pbads.configuration !== 'undefined' &&
+                        typeof pbads.configuration.config !== 'undefined' &&
+                        typeof pbads.configuration.config.adRefreshRate!== 'undefined') {
+
+                        var adRefreshRate = pbads.configuration.config.adRefreshRate;
+
+                       
+                        for (var eventNum = 0; eventNum< adRefreshRate.length; eventNum++) {
+
+                            adRefreshRate[eventNum].eventSent = false;
+
+                            var ratePercent =   adRefreshRate[eventNum].RatePercent;
+                            var rateName = pbads.utils.converters.stringifyNumber(ratePercent);
+                            var eventName = "Game.Progress." + ratePercent;
+
+                            //Attach Game.Progress event (that will refhresh dfp ads) for each Refresh Rate interval
+                            $(document).on(eventName,null,{RateName:rateName},function(event) { 
+                                try { 
+                                    //change the query string after refresh (google requirements)
+                                    window.location.hash =event.data.RateName; 
+                                    pbads.dfp.refresh();
+                                } catch (e) { 
+                                    console.warn("failed to fetch dfp adunits", e); 
+                                }
+                            });
+
+                        }
+
+                    }
+
+
+                }
+            }// else {   //TODO: better handling for hiding empty ads             
+                //$(".adunit-wrapper").hide();                
+            //}
 
         } catch (e) {
             // log to console --> we need alert if we get this error
@@ -1697,6 +1719,89 @@
 
 </script>
 
+
+
+
+
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "23242546" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=23242546&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+<script>    
+    if(jQuery('.game_details').length == 1)
+    {        
+        var dynx_itemid= jQuery('body[data-gameid]').attr('data-gameid');
+        var dynx_pagetype= 'offerdetail';
+        var dynx_totalvalue= 0;
+
+        var google_tag_params = {
+            dynx_itemid: dynx_itemid,
+            dynx_pagetype: dynx_pagetype,
+            dynx_totalvalue: parseFloat(dynx_totalvalue)
+        };
+        jQuery('.play_game_button').click(function(){
+            var dynx_pagetype= 'conversionintent';
+            var google_tag_params = {
+                dynx_pagetype: dynx_pagetype
+            };
+            try {
+                ga('set', 'dimension8','conversionintent');
+            } catch (e) {}
+            try {
+
+            } catch (e) {}
+            ga('send', 'event', 'page', 'visit', 'conversionintent', {
+                'nonInteraction': 1
+            });
+        });
+    }else
+    if(window.location.href.indexOf('/search?query')!=-1)/* for searchresults page */
+    {
+        var dynx_pagetype= 'searchresults';
+        var google_tag_params = {
+            dynx_pagetype: dynx_pagetype
+        };
+    }
+    else if(window.location.pathname == "/" )/* for home page */
+    {
+        var dynx_pagetype= 'home';
+        var google_tag_params = {
+            dynx_pagetype: dynx_pagetype
+        };
+    }else
+
+    {
+        var dynx_pagetype= 'other'; /* for other page */
+        var google_tag_params = {
+            dynx_pagetype: dynx_pagetype
+        };
+    }
+    try {
+        ga('set', 'dimension7', window.google_tag_params.dynx_itemid.toString());
+    } catch (e) {}
+    try {
+        ga('set', 'dimension8', window.google_tag_params.dynx_pagetype.toString());
+    } catch (e) {}
+    try {
+
+    } catch (e) {}
+    ga('send', 'event', 'page', 'visit', window.google_tag_params.dynx_pagetype.toString(), {
+        'nonInteraction': 1
+    });
+</script>
 
 
     <div class="adunit" id="ad-tags-placeholder"></div>
@@ -1796,6 +1901,11 @@
     }
 </script>
 
+
+    
+
+<!-- AdBlock Detector -->
+    <script src="//cdn.playbuzz.com/content/bundles/production/afb498d/adblockdetector" async=""></script>
 
 
 
