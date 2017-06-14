@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adyou.me privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102501id_/https%3A//adyou.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adyou.me privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614163711id_/http%3A//adyou.me/privacy) for the most accurate reproduction.*
 
 # adYoume - Privacy Policy
 
@@ -84,4 +84,4 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us through our [contact form](http://adyou.me/contact) or you may send an email to: [support@adyou.me](mailto:support@adyou.me)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us through our [contact form](https://adyou.me/contact) or you may send an email to: [support@adyou.me](mailto:support@adyou.me)
