@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fame10.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229130638id_/http%3A//www.fame10.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fame10.com privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614084414id_/http%3A//www.fame10.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fame10
+# Privacy Policy – Fame10
 
 At Fame10.com, the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
