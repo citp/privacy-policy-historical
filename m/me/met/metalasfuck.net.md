@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalasfuck.net privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630042411id_/http%3A//metalasfuck.net/zine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalasfuck.net privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615010919id_/http%3A//metalasfuck.net/zine/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metal as Fuck
 
