@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224415id_/http%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcopper.com.au privacy policy that was archived on 2017-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170614135354id_/https%3A//hotcopper.com.au/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | HotCopper - ASX, Share Prices, Stock Trading, Stock Market, Share Trading Forum
+# Privacy Policy | HotCopper Forum
 
 HotCopper takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
