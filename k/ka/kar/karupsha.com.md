@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the karupsha.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207211235id_/http%3A//www3.karupsha.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karupsha.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616015445id_/http%3A//www3.karupsha.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Karup's Hometown Amateurs
+# Karup's Hometown Amateurs - Privacy Policy
 
-PRIVACY POLICY 
+## Privacy Policy
 
-This privacy policy is applicable to Karupspc.com, Karupsha.com, Karupsow.com, Karups.com and Karup.com. 
+**This privacy policy is applicable to BFCollection.com.**
 
 EENT, Inc. does NOT collect personally identifiable information about individuals, except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from the members' area registration process. However, personally identifiable information on individual users is simply used for fraud prevention and age verification purposes and will NOT be sold or otherwise transferred to any third parties. EENT, Inc. reserves the right only to contact a subscriber regarding his/her membership account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected. EENT, Inc. is very much against spam mail activities and does not participate in such mailings, nor do we release or authorize the use of membership data for such purposes. 
 
