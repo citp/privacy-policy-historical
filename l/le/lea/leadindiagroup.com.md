@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leadindiagroup.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831035647id_/http%3A//www.leadindiagroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadindiagroup.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615201252id_/http%3A//www.leadindiagroup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Lead India Group : An Emerging Print Media in India
+# Privacy Policy – Lead India Group
 
 This privacy policy sets out how LEAD INDIA GROUP uses and protects any information that you give right to LEAD INDIA GROUP when you use this website. LEAD INDIA GROUP is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. LEAD INDIA GROUP may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 16th of June, 2010.
 
