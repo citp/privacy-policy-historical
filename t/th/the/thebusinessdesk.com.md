@@ -1,6 +1,93 @@
-> *The following text is extracted and transformed from the thebusinessdesk.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124155042id_/http%3A//www.thebusinessdesk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebusinessdesk.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615050754id_/http%3A//www.thebusinessdesk.com/cookies-and-privacy) for the most accurate reproduction.*
 
-# The Business Desk Privacy Policy | TheBusinessDesk.com
+# Cookies and Privacy | TheBusinessDesk.com
+
+**Introduction**
+
+Our website uses ‘cookies', which are small data files that are used as unique identifiers. They are sent from the website's servers to your computer or mobile phone and stored on your device, and may then be sent back to our website's servers with updated data as you browse our website.
+
+Cookies are used to record information about your preferences as you browse our website, which allows us to improve your experience by tailoring the website accordingly. Cookies can also be used to identify you every time you revisit our website.
+
+A ‘session cookie' will expire at the end of your browsing session once you close your web browser; ‘persistent cookies' on the other hand have a set expiry date and will be stored on your computer until either this date is reached, or you delete your cookies using your browser settings.
+
+ 
+
+**How We Use Cookies**
+
+The following is a list of cookies used by our website, and what they are used for:
+
+**Cookie Name** | **Cookie Type** | **Description**  
+---|---|---  
+PHPSESSID saved_region_new current_region splash_banner_700 uername password | Session Cookie | The Business Desk website uses a session cookie to maintain information about each visit to the website and enable core site functionality. This cookie does not contain any personal information, and only lasts for the duration of your visit, being deleted as soon as you close your web browser.  
+AWSELB | Load Balancer Cookie | This cookie is essential to help ensure that the website loads efficiently by distributing visits across multiple web servers. This cookie does not contain any personal information, and only lasts for the duration of your visit, being deleted as soon as you close your web browser.  
+_utma _utmb _utmc _utmz | Google Analytics | This cookie allows us to count page visits and traffic sources, so we can measure and improve the performance of our site, using a service provided by Google Analytics. For more information about Google's privacy policy, please use this link [www.google.com/intl/en/policies/privacy](http://www.google.com/intl/en/policies/privacy)  
+ 
+
+**Third-Party Cookies**
+
+Our website uses the following third-party suppliers and partners who may also set cookies on your computer or mobile phone as you browse our website. If you would like to know more about how these third-parties use cookies to collect and store your data, please use the links below:
+
+**Cookie Name** | **Cookie Type** | **Description**  
+---|---|---  
+_atuvc, loc, uit, dt, di, uid, uvc, psc | AddThis Cookies | These cookies are used to collect information about how our visitors use the AddThis function provided on the website. We use this information to compile reports to help us improve our site. The cookies collect information such as pages viewed and sites added using this service. Please note these cookies only personally identify you if you have already independently signed up with AddThis and have given your consent. Please visit [www.addthis.com/privacy](http://www.addthis.com/privacy) for more information.  
+NID, PREF | Google+1 Cookies | The Google+ plugin on our website allows you to promote our website to your contacts using the ‘+1' button. These cookies are installed by Google to detect if you are currently logged in with a Google account. For more information, please see [www.google.co.uk/intl/en-GB/policies](http://www.google.co.uk/intl/en-GB/policies).  
+guest_id, pid, k | Twitter Cookies | The Twitter plugin on our website allows you to quickly follow our official Twitter account. These cookies are installed by Twitter, and are used to detect if you are currently logged into Twitter when you visit our website, and if you are already following us. For more information, please see <http://twitter.com/privacy>.  
+datr | Facebook Cookie | The Facebook plugin on our website allows you to quickly ‘Like' our official Facebook page. This cookie is installed by Facebook, and is used to detect if you are currently logged into Facebook when you visit our website, as well as if you already ‘Like' our Facebook page. Please see [www.facebook.com/about/privacy](http://www.facebook.com/about/privacy) for more information.  
+id | DoubleClick Cookie | This cookie is installed by Google to collect anonymous browsing behaviour and serve content, advertisements and other information to you, based on your interests. Please note that no personally identifiable information is recorded. Please visit [www.google.co.uk/policies/privacy/ads](http://www.google.co.uk/policies/privacy/ads) for more information.  
+VISITOR_INFO1_LIVE PREF | YouTube Cookies | These cookies are installed by YouTube, and track your preferences when you view embedded video content on our site. Please visit [www.google.co.uk/intl/en/policies/privacy](http://www.google.co.uk/intl/en/policies/privacy) for more information.  
+  AA002, MUID | Atlas Solutions Cookies | These cookies are installed by a third party, Atlas Solutions, which is part of Microsoft Advertising. They are used to track and deliver targeted advertising to web users based on their browsing behaviour. For more information, please visit <http://atlassolutions.com/privacy-policy>.  
+  
+Please note that, where we embed content from third-party sites such as Flickr and YouTube, you may also have cookies from these third-party websites installed on your device. The Business Desk does not control these cookies and you should check the privacy policy of the relevant website for more information.
+
+Please also note that, if you use one of the ‘sharing tools' on our website to share content using social networks, these social networks may install a cookie on your device. The Business Desk does not control these cookies and you should check the privacy policy of the relevant website for more information.
+
+ 
+
+****Blocking Cookies****
+
+The majority of web browsers (Firefox, Internet Explorer, Google Chrome, Opera, Safari etc.) will allow you to block cookies from being installed on your device via your browser settings.
+
+Depending on your browser, further information can be obtained via the following links:
+
+  * Firefox - <http://support.mozilla.org/en-US/kb/Cookies>
+  * Internet Explorer - <http://support.microsoft.com/kb/196955>
+  * Google Chrome - [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+  * Safari - <http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html>
+  * Opera - <http://www.opera.com/browser/tutorials/security/privacy/>
+
+
+
+Mobile phone users may have to refer to their handset manual for details on how to block cookies using their mobile browser.
+
+Please be aware that restricting the use of cookies may impact on the functionality of our website.
+
+ 
+
+****Deleting Cookies****
+
+The majority of web browsers (Firefox, Internet Explorer, Google Chrome, Opera, Safari etc.) will allow also allow you to delete selected / all cookies currently installed on your device.
+
+Depending on your browser, further information can be obtained via the following links: 
+
+  * Firefox - <http://support.mozilla.org/en-US/kb/Cookies>
+  * Internet Explorer - <http://support.microsoft.com/kb/196955>
+  * Google Chrome - [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+  * Safari - <http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html>
+  * Opera - <http://www.opera.com/browser/tutorials/security/privacy/>
+
+Similarly, mobile phone users may have to refer to their handset manual for details on how to delete cookies using their mobile browser. 
+
+Please note that this will usually only remove any cookies currently installed on your device; you must also change your browser settings (above) if you wish to prevent cookies being installed in future. Please be aware that deleting cookies already stored on your device may impact on the usability of our website.
+
+ 
+
+****Contact Details and Useful Information****
+
+This website is owned and operated by The Business Desk. If you have any questions about our use of cookies and how we collect and store your data, then please contact [admin@thebusinessdesk.com](mailto:admin@thebusinessdesk.com).
+
+For more information on cookies and how they work, please visit <http://www.allaboutcookies.org/>.
+
+ 
 
 **TheBusinessDesk Ltd** is a company registered under the Data Protection Act 1998 and is aware of its responsibilities under that Act.
 
@@ -10,22 +97,38 @@ Unless otherwise disclosed during the collection, personally identifiable inform
 
 It is our policy that visitors to our Site who are under the age of 18 should not post or provide information on our Site without the consent of their parents or legal guardians. You should supervise the online activities of your children, and consider the use of parental control tools available from online services and software providers that help provide a kid-friendly Internet environment.
 
-We may use the personal information you provide for any of the following purposes: (1) to understand the use of our Site and make improvements; (2) to respond to specific request from visitors; (3) to obtain parental consent from visitors under 18 years of age, where necessary; (4) to provide any necessary notices to our visitors or their parent or legal guardians, where necessary; (5) to protect the security or integrity of our Site when necessary; (6) to send you notices and communications regarding the Site and our businesses; and (7) in general to promote and market products to you. Communications may take the form of mailings, telephone calls, e-mails and other methods of contact. If you do not want to receive these communications from us using your personally identifiable information, please notify us.   
+We may use the personal information you provide for any of the following purposes: (1) to understand the use of our Site and make improvements; (2) to respond to specific request from visitors; (3) to obtain parental consent from visitors under 18 years of age, where necessary; (4) to provide any necessary notices to our visitors or their parent or legal guardians, where necessary; (5) to protect the security or integrity of our Site when necessary; (6) to send you notices and communications regarding the Site and our businesses; and (7) in general to promote and market products to you. Communications may take the form of mailings, telephone calls, e-mails and other methods of contact. If you do not want to receive these communications from us using your personally identifiable information, please notify us.
+
 At times, we conduct on-line surveys to better understand the needs and profiles of our visitors. When we conduct a survey, we will try to let you know how we will use the information at the time we collect the information from you on the Internet.
 
 This Site may contain links to other sites of third parties. We are not responsible for the content or privacy practices of those other sites. We may revise this Privacy Policy from time to time. As it may change, we ask you to revisit this page when you visit our Site to review the current policy. If you do not agree with the policy, you should cease use of the Site immediately.
 
-**COOKIES**   
+ 
+
+**Cookies**
+
 Cookies are small amounts of information which we sometimes store on your computer to improve your ability to communicate with us. Our system may issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on to and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies using internet preferences on your web browser although, in that case, you may not be able to use certain features on our site. If you do not wish to receive cookies in the future, please let us know.
 
-**SECURITY AND DATA RETENTION**   
+ 
+
+**Security and data retention**
+
 We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires. We will keep information which we hold about you up to date.
 
-**ACCESSING AND UPDATING**   
+ 
+
+**Accessing and updating**
+
 You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
-**CHANGES TO OUR PRIVACY POLICY**   
+ 
+
+**Changes to our privacy policy**
+
 Any changes to our privacy policy in the future will be posted to the site and, where appropriate, through e-mail notification.
 
-**CONTACT**   
+ 
+
+**Contact**
+
 All comments, queries and requests relating to our use of your information are welcomed and should be addressed to the addresses, or by telephone to the numbers, shown on our "Contact Us" page on this site.
