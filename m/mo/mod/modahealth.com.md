@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modahealth.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027124458id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modahealth.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615034230id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Moda Health Web Privacy
 
