@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220221841id_/http%3A//www.techprevue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprevue.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615165639id_/https%3A//www.techprevue.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « TechPrevue
 
-This Privacy Policy governs the manner in which Tech Prévue collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.techprevue.com](http://www.techprevue.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech Prévue.
+This Privacy Policy governs the manner in which Tech Prévue collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.techprevue.com](https://www.techprevue.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Tech Prévue.
 
 **Personal identification information**  
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
@@ -54,15 +54,15 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 Tech Prévue has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **Your acceptance of these terms**  
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.techprevue.com/terms-of-services/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://www.techprevue.com/terms-of-services/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contact us**  
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 **Tech Prévue**  
-[http://www.techprevue.com](http://www.techprevue.com/)  
+[https://www.techprevue.com](https://www.techprevue.com/)  
 Tech Prévue  
 Lucknow, Uttar Pradesh, India, Pincode – 226010  
 contact@techprevue.com  
-[Contact](http://www.techprevue.com/contact/)
+[Contact](https://www.techprevue.com/contact/)
 
 This document was last updated on Jun 5, 2014 @ 0:20
