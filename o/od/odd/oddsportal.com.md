@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddsportal.com privacy policy that was archived on 2012-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120117213532id_/http%3A//www.oddsportal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsportal.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615215654id_/http%3A//www.oddsportal.com/privacy-policy) for the most accurate reproduction.*
 
 # Odds Portal: Privacy Policy
 
