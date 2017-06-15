@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorlesscomparison.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205022046id_/http%3A//mirrorlesscomparison.com/disclaimer-privacy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorlesscomparison.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615023805id_/http%3A//mirrorlesscomparison.com/disclaimer-privacy-copyright) for the most accurate reproduction.*
 
 # Disclaimer, Privacy & Copyright Notice
 
