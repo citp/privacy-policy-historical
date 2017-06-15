@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223103310id_/https%3A//gusto.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gusto.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615101826id_/https%3A//gusto.com/about/privacy) for the most accurate reproduction.*
 
 # Gusto Privacy Policy | Gusto
 
