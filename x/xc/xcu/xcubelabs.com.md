@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002211155id_/https%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcubelabs.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615185628id_/https%3A//www.xcubelabs.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - [x]cube LABS
+# PRIVACY POLICY - [x]cube LABS - Digital Transformation Company
 
 PurpleTalk is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the PurpleTalk Web site and governs data collection and usage. By using the PurpleTalk website, you consent to the data practices described in this statement.
 
