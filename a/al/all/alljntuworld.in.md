@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alljntuworld.in privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206131839id_/http%3A//www.alljntuworld.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alljntuworld.in privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615125452id_/http%3A//www.alljntuworld.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - JNTU World
+# Privacy Policy - All JNTU World
 
 This Section of JNTU World (www.alljntuworld.in) informs you regarding the collection, uses and disclosure of the personal information received from of the user of this site.
 
@@ -24,4 +24,4 @@ We use Google Adsense as third party ad network which serves ads on our websites
 
 **Changes in the Privacy Policy**
 
-This privacy policy is last updated on 26/01/2016 and is currently in effect. We may change our privacy policy any time with immediate affect.
+This privacy policy is last updated on 25/05/2017 and is currently in effect. We may change our privacy policy any time with immediate affect.
