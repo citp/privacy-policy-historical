@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206032629id_/http%3A//www.plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615190843id_/http%3A//web.plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
 
-# Website Privacy Policies at SUNY Plattsburgh
+# Website Privacy Policies | SUNY Plattsburgh
 
 ## Website Privacy Policy at SUNY Plattsburgh
 
@@ -28,6 +28,10 @@ SUNY Plattsburgh does not collect any personal information about you unless you 
   * [Confidentiality and Integrity of Information](http://web.plattsburgh.edu/policies/privacy/confidentiality.php)
 
 
+
+### State of New York Privacy Notice
+
+Under New York State Public Officer's Law, the college is required to provide a notice when collecting personal information from individuals. [Review the State of New York Privacy Notice](https://web.archive.org/offices/admin/hr/privacynotice.php).
 
 #### Privacy Policy Disclaimer
 
