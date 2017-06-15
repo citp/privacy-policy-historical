@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inficon.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027111329id_/http%3A//www.inficon.com/Default.aspx%3Ftabid%3D293%26target%3D811%26language%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inficon.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615121502id_/http%3A//www.inficon.com/Default.aspx%3Ftabid%3D293%26target%3D811%26language%3Den-US) for the most accurate reproduction.*
 
 # www.inficon.com > Home > Support > Privacy - INFICON
 
