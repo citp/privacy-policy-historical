@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toronto.com privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121133951id_/http%3A//www.toronto.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toronto.com privacy policy that was archived on 2017-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615061849id_/http%3A//www.toronto.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -114,7 +114,7 @@ console.log("saving it for later", jsonString);
     googletag.enableServices();
   });
 </script>
-<!-- This site is optimized with the Yoast SEO plugin v3.3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Read about our commitment to privacy. Our privacy policy governs the collection, use, and protection of personal information at Toronto.com.">
 <meta name="robots" content="noodp">
 <link rel="canonical" href="http://www.toronto.com/privacy-policy/">
@@ -137,9 +137,169 @@ console.log("saving it for later", jsonString);
 <link rel="alternate" type="application/rss+xml" title="Toronto.com » Feed" href="http://www.toronto.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Toronto.com » Comments Feed" href="http://www.toronto.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.toronto.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6be684bcc877d9ab0a5cd6809aa38335"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.toronto.com/wp-includes/js/wp-emoji-release.min.js?ver=6be684bcc877d9ab0a5cd6809aa38335" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.toronto.com\/wp-includes\/js\/wp-emoji.js?ver=4.8","twemoji":"http:\/\/www.toronto.com\/wp-includes\/js\/twemoji.js?ver=4.8"}};
+			( function( window, document, settings ) {
+	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, emoji41, emoji42;
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		switch ( type ) {
+			case 'flag':
+				/*
+				 * Test for UN flag compatibility. This is the least supported of the letter locale flags,
+				 * so gives us an easy test for full support.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly ([U] + [N]).
+				 */
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				// Add a zero width space between the characters, to force rendering as characters.
+				context.fillText( stringFromCharCode( 55356, 56826, 8203, 55356, 56819 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				if ( flag !== flag2 ) {
+					return false;
+				}
+
+				/*
+				 * Test for English flag compatibility. England is a country in the United Kingdom, it
+				 * does not have a two letter locale code but rather an five letter sub-division code.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (black flag emoji + [G] + [B] + [E] + [N] + [G]).
+				 */
+				// Cleanup from previous test.
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'emoji4':
+				/*
+				 * Emoji 5 has faries of all genders.
+				 *
+				 * To test for support, try to render a new emoji (fairy, male), then compares
+				 * it to how it would look if the browser doesn't render it correctly
+				 * (fairy + male sign).
+				 */
+				context.fillText( stringFromCharCode( 55358, 56794, 8205, 9794, 65039 ), 0, 0 );
+				emoji41 = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55358, 56794, 8203, 9794, 65039 ), 0, 0 );
+				emoji42 = canvas.toDataURL();
+
+				return emoji41 !== emoji42;
+		}
+
+		return false;
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.defer = script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	tests = Array( 'flag', 'emoji4' );
+
+	settings.supports = {
+		everything: true,
+		everythingExceptFlag: true
+	};
+
+	for( ii = 0; ii < tests.length; ii++ ) {
+		settings.supports[ tests[ ii ] ] = browserSupportsEmoji( tests[ ii ] );
+
+		settings.supports.everything = settings.supports.everything && settings.supports[ tests[ ii ] ];
+
+		if ( 'flag' !== tests[ ii ] ) {
+			settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && settings.supports[ tests[ ii ] ];
+		}
+	}
+
+	settings.supports.everythingExceptFlag = settings.supports.everythingExceptFlag && ! settings.supports.flag;
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.everything ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script><script src="http://www.toronto.com/wp-includes/js/twemoji.js?ver=4.8" type="text/javascript" defer=""></script><script src="http://www.toronto.com/wp-includes/js/wp-emoji.js?ver=4.8" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -154,64 +314,32 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="evo_sr_styles-css" href="//www.toronto.com/wp-content/plugins/eventon-search/assets/styles.css?ver=6be684bcc877d9ab0a5cd6809aa38335" type="text/css" media="all">
+<link rel="stylesheet" id="evo_sr_styles-css" href="//www.toronto.com/wp-content/plugins/eventon-search/assets/styles.css?ver=4.8" type="text/css" media="all">
 <link rel="stylesheet" id="genesis-simple-share-plugin-css-css" href="//www.toronto.com/wp-content/plugins/genesis-simple-share/lib/css/share.css?ver=0.1.0" type="text/css" media="all">
 <link rel="stylesheet" id="genesis-simple-share-genericons-css-css" href="//www.toronto.com/wp-content/plugins/genesis-simple-share/lib/css/genericons.css?ver=0.1.0" type="text/css" media="all">
 <link rel="stylesheet" id="magazine-pro-theme-css" href="http://www.toronto.com/wp-content/themes/magazine-pro/style.css?ver=3.1" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://www.toronto.com/wp-includes/css/dashicons.min.css?ver=6be684bcc877d9ab0a5cd6809aa38335" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="http://www.toronto.com/wp-includes/css/dashicons.css?ver=4.8" type="text/css" media="all">
 <link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A300%2C400%7CRaleway%3A400%2C500%2C900&amp;ver=3.1" type="text/css" media="all">
-<link rel="stylesheet" id="evcal_google_fonts-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C300%7COpen+Sans%3A400%2C300&amp;ver=6be684bcc877d9ab0a5cd6809aa38335" type="text/css" media="screen">
+<link rel="stylesheet" id="evcal_google_fonts-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C300%7COpen+Sans%3A400%2C300&amp;ver=4.8" type="text/css" media="screen">
 <link rel="stylesheet" id="evcal_cal_default-css" href="//www.toronto.com/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=2.4" type="text/css" media="all">
 <link rel="stylesheet" id="evo_font_icons-css" href="//www.toronto.com/wp-content/plugins/eventON/assets/fonts/font-awesome.css?ver=4.6.2" type="text/css" media="all">
-<link rel="stylesheet" id="evo_fc_styles-css" href="http://www.toronto.com/wp-content/plugins/eventon-full-cal/assets/fc_styles.css?ver=6be684bcc877d9ab0a5cd6809aa38335" type="text/css" media="all">
+<link rel="stylesheet" id="evo_fc_styles-css" href="http://www.toronto.com/wp-content/plugins/eventon-full-cal/assets/fc_styles.css?ver=4.8" type="text/css" media="all">
 <script type="text/javascript" src="http://www.toronto.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://www.toronto.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.toronto.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
 <script type="text/javascript" src="//www.toronto.com/wp-content/plugins/genesis-simple-share/lib/sharrre/jquery.sharrre.min.js?ver=0.1.0"></script>
 <!--[if lt IE 9]>
-<script type='text/javascript' src='http://www.toronto.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<script type='text/javascript' src='http://www.toronto.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
 <![endif]-->
 <script type="text/javascript" src="http://www.toronto.com/wp-content/themes/magazine-pro/js/entry-date.js?ver=1.0.0"></script>
 <script type="text/javascript" src="http://www.toronto.com/wp-content/themes/magazine-pro/js/responsive-menu.js?ver=1.0.0"></script>
 <link rel="https://api.w.org/" href="http://www.toronto.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.toronto.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.toronto.com/wp-includes/wlwmanifest.xml"> 
-
+<meta name="generator" content="WordPress 4.8">
 <link rel="shortlink" href="http://www.toronto.com/?p=431">
 <link rel="alternate" type="application/json+oembed" href="http://www.toronto.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.toronto.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.toronto.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.toronto.com%2Fprivacy-policy%2F&amp;format=xml">
-<script type="text/javascript">
-(function(url){
-	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
-	var addEvent = function(evt, handler) {
-		if (window.addEventListener) {
-			document.addEventListener(evt, handler, false);
-		} else if (window.attachEvent) {
-			document.attachEvent('on' + evt, handler);
-		}
-	};
-	var removeEvent = function(evt, handler) {
-		if (window.removeEventListener) {
-			document.removeEventListener(evt, handler, false);
-		} else if (window.detachEvent) {
-			document.detachEvent('on' + evt, handler);
-		}
-	};
-	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
-	var logHuman = function() {
-		var wfscr = document.createElement('script');
-		wfscr.type = 'text/javascript';
-		wfscr.async = true;
-		wfscr.src = url + '&r=' + Math.random();
-		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
-		for (var i = 0; i < evts.length; i++) {
-			removeEvent(evts[i], logHuman);
-		}
-	};
-	for (var i = 0; i < evts.length; i++) {
-		addEvent(evts[i], logHuman);
-	}
-})('//www.toronto.com/?wordfence_logHuman=1&hid=065D112FF285A86440623D5B1DC1CEDB');
-</script><link rel="icon" href="http://www.toronto.com/wp-content/themes/magazine-pro/images/favicon.ico">
+<link rel="icon" href="http://www.toronto.com/wp-content/themes/magazine-pro/images/favicon.ico">
 <!-- <script src="https://code.jquery.com/jquery-3.0.0.min.js" integrity="sha256-JmvOoLtYsmqlsWxa7mDSLMwa6dZ9rrIdtrrVYRnDRH0=" crossorigin="anonymous"></script> -->
 
 <!-- Begin comScore Tag -->
@@ -230,8 +358,6 @@ img.emoji {
 <!-- End comScore Tag -->
 
 <script type="text/javascript">
-  console.log(tdcAdUnitId);
-
   googletag.cmd.push(function() {
     var cutpoint = 'large';
     if (screen.width <= 480) cutpoint = 'small';
@@ -245,22 +371,55 @@ img.emoji {
     }
   });
 
+  // Handle special behaviour for top ad on page, which can be either
+  // a billboard (970x250) or a leaderboard (728x90)
   googletag.cmd.push(function() {
-    if(jQuery(window).width() <= 1023 ) {
-      googletag.defineSlot(tdcAdUnitId, [728, 90], 'div-gpt-ad-1465929746355-0').setTargeting('pos', ['1']).addService(googletag.pubads());
-    } else {
-      googletag.defineSlot(tdcAdUnitId, [[728, 90], [970, 250]], 'div-gpt-ad-1465929746355-0').setTargeting('pos', ['1']).addService(googletag.pubads());
-    }
+    var topAdId = 'div-gpt-ad-1465929746355-0';
+
+    var isBigScreen = jQuery(window).width() > 1023; 
+
+    // On big screens enable possibility of a billboard as well
+    var topAdSizes = isBigScreen ? [[728, 90], [970, 250]] : [728, 90];
+
+    googletag.defineSlot(tdcAdUnitId, topAdSizes, topAdId).setTargeting('pos', ['1']).addService(googletag.pubads());
 
     googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-       if (jQuery('#div-gpt-ad-1465929746355-0').children('div').width() > 728) {
-         jQuery('#div-gpt-ad-1465929746355-0').addClass('centered-ad-style');
-       }
+      if (event.slot && event.slot.getSlotElementId() === topAdId) {
+        var childWidth = jQuery('#' + topAdId).children('div').width();
+        jQuery('header.site-header').addClass(childWidth > 728 ? 'mode-billboard' : 'mode-leaderboard');
+      }
     });
+
+    googletag.defineSlot(tdcAdUnitId, [135, 168], 'featured_ad_1').setTargeting('pos', ['1']).addService(googletag.pubads());
+    googletag.defineSlot(tdcAdUnitId, [135, 168], 'featured_ad_2').setTargeting('pos', ['2']).addService(googletag.pubads());
+
+    if (window.innerWidth > 728) {
+      googletag.defineSlot(tdcAdUnitId, [135, 168], 'featured_ad_3').setTargeting('pos', ['3']).addService(googletag.pubads());
+      googletag.defineSlot(tdcAdUnitId, [135, 168], 'featured_ad_4').setTargeting('pos', ['4']).addService(googletag.pubads());
+    } 
+
+    var defineLargeSlots = function() {
+      googletag.defineSlot(tdcAdUnitId, [135, 168], 'featured_ad_5').setTargeting('pos', ['5']).addService(googletag.pubads());
+      googletag.defineSlot(tdcAdUnitId, [135, 168], 'featured_ad_6').setTargeting('pos', ['6']).addService(googletag.pubads());
+    }
+
+    var showSlotsForLarge = function(event){
+      if (window.innerWidth > 1022) {
+        defineLargeSlots();
+        googletag.display('featured_ad_5');
+        googletag.display('featured_ad_6');
+        window.removeEventListener('resize', showSlotsForLarge);
+      };
+    };
+
+    if (window.innerWidth > 1022) {
+      defineLargeSlots();
+    } else {
+      window.addEventListener('resize', showSlotsForLarge);
+    }
   });
 
   if(jQuery(window).width() <= 480 && tdcAdUnitId === '/58580620/TDC/homepage') {
-    console.log(tdcAdUnitId);
     googletag.cmd.push(function() {
       googletag.defineSlot('/58580620/TDC/homepage', [300, 250], 'div-gpt-ad-1470162907188-0').setTargeting('pos', ['1']).addService(googletag.pubads());
       googletag.pubads().enableSingleRequest();
@@ -301,27 +460,6 @@ googletag.cmd.push(function() {
 
   }
 
-  
-  // googletag.cmd.push(function() {
-  //   if(jQuery(window).width() <= 480 ) {
-  //     googletag.defineSlot('/58580620/TDC/homepage', [300, 250], 'div-gpt-ad-1470162907188-0').setTargeting('pos', ['1']).addService(googletag.pubads());
-  //     googletag.pubads().enableSingleRequest();
-  //     googletag.enableServices();
-  //   }
-  // });
-  //
-  // googletag.cmd.push(function() {
-  //   if(jQuery(window).width() <= 480 ) {
-  //     googletag.defineSlot(tdcAdUnitId, [300, 250], 'div-gpt-ad-1465929851254-0').setTargeting('pos', ['2']).addService(googletag.pubads());
-  //   } else {
-  //     googletag.defineSlot(tdcAdUnitId, [[300, 600], [300, 250]], 'div-gpt-ad-1465929851254-0').setTargeting('pos', ['1']).addService(googletag.pubads());
-  //   }
-  // });
-
-  // googletag.cmd.push(function() {
-  //   googletag.defineSlot(tdcAdUnitId, [300, 250], 'div-gpt-ad-1466786319765-0').setTargeting('pos', ['3']).addService(googletag.pubads());
-  // });
-
   googletag.cmd.push(function() {
     googletag.defineSlot(tdcAdUnitId, [320, 50], 'div-gpt-ad-1465929890833-0').addService(googletag.pubads());
   });
@@ -339,22 +477,59 @@ googletag.cmd.push(function() {
 
   ga('create', 'UA-80596646-1', 'auto');
   ga('send', 'pageview');
-  console.log("PageView");
 </script>
-
 
 <!-- EventON Version -->
 <meta name="generator" content="EventON 2.4">
 
-</head>
-<body class="page page-id-431 page-template-default custom-header content-sidebar magazine-pro-blue" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.toronto.com/">Toronto.com</a></p></div><div class="widget-area header-widget-area"><section class="widget toron-widget"><div class="widget-wrap"><div class="show-for-tablet">
+		<style type="text/css" id="wp-custom-css">
+			/*
+You can add your own CSS here.
+Click the help icon above to learn more.
+*/
+
+    .small {
+      display: block;
+    }
+
+    .medium {
+      display: none;
+    }
+
+    @media screen and (min-width: 728px) {
+      .medium { 
+        display: block !important; 
+      }
+    }
+
+    .large {
+      display: none;
+    }
+
+    @media screen and (min-width: 1022px) {
+      .large {
+        display: block !important;
+      }
+    }
+
+    .featured {
+      float: left;
+    }
+
+    .featured_block {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+    }		</style>
+	</head>
+<body class="page-template-default page page-id-431 custom-header nolayout magazine-pro-blue" itemscope="" itemtype="http://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://www.toronto.com/">Toronto.com</a></p></div><div class="widget-area header-widget-area"><section class="widget toron-widget"><div class="widget-wrap"><div data-id="23" id="toron-1872744965"><div class="show-for-tablet">
 <div id="div-gpt-ad-1465929746355-0" class="ad-container-styles">
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465929746355-0'); });
 </script>
 </div>
-</div></div></section>
-<section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; " id="toron-1577563561"><!-- /58580620/TDC_Redesign(TEST) -->
+</div></div></div></section>
+<section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; " data-id="112" id="toron-1152867914"><!-- /58580620/TDC_Redesign(TEST) -->
 <div class="hide-for-tablet">
 <div id="div-gpt-ad-1465929890833-0" class="small-ad-container">
 <script type="text/javascript">
@@ -362,23 +537,25 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465929890833-0');
 </script>
 </div>
 </div></div></div></section>
-<section id="text-2" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div class="title-block"><h1 class="site-title" itemprop="headline"><a href="http://www.toronto.com/">toronto.com</a></h1></div></div>
+<section id="text-2" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div class="title-block"><h1 class="site-title" itemprop="headline"><a href="http://toronto.com/">toronto.com</a></h1></div></div>
 		</div></section>
-<section class="widget toron-widget"><div class="widget-wrap"><!-- /58580620/TDC_Redesign(TEST) -->
+<section class="widget toron-widget"><div class="widget-wrap"><div data-id="111" id="toron-1548689597"><!-- /58580620/TDC_Redesign(TEST) -->
 <div id="div-gpt-ad-1465928476237-0" style="height:1px; width:1px;">
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465928476237-0'); });
 </script>
-</div></div></section>
+</div></div></div></section>
 </div></div></header><nav class="nav-secondary" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-main-menu" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-88" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88"><a href="http://www.toronto.com/events-calendar/" itemprop="url"><span itemprop="name">Events Calendar</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://www.toronto.com/concerts/" itemprop="url"><span itemprop="name">Concerts</span></a></li>
 	<li id="menu-item-416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416"><a href="http://www.toronto.com/theatre/" itemprop="url"><span itemprop="name">Theatre</span></a></li>
+	<li id="menu-item-12117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12117"><a href="http://www.toronto.com/canada-150-events/" itemprop="url"><span itemprop="name">Canada 150</span></a></li>
 </ul>
 </li>
 <li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-55"><a href="http://www.toronto.com/things-to-do/" itemprop="url"><span itemprop="name">Things to Do</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-160"><a href="http://www.toronto.com/things-to-do/attractions/" itemprop="url"><span itemprop="name">Attractions</span></a></li>
+	<li id="menu-item-7077" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7077"><a href="http://www.toronto.com/things-to-do/instagramable/" itemprop="url"><span itemprop="name">Instagrammable</span></a></li>
 </ul>
 </li>
 <li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-56"><a href="http://www.toronto.com/food-drink/" itemprop="url"><span itemprop="name">Food &amp; Drink</span></a>
@@ -386,7 +563,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465928476237-0');
 	<li id="menu-item-1079" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1079"><a href="http://www.toronto.com/food-drink/torontos-best/" itemprop="url"><span itemprop="name">Toronto’s Best</span></a></li>
 </ul>
 </li>
-<li id="menu-item-5679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5679"><a href="http://www.toronto.com/guides/holiday-guide/" itemprop="url"><span itemprop="name">Holiday Guide</span></a></li>
+<li id="menu-item-6790" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6790"><a href="http://www.toronto.com/guides/" itemprop="url"><span itemprop="name">Guides</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-12607" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12607"><a href="http://www.toronto.com/guides/fathers-day/" itemprop="url"><span itemprop="name">Fathers’ Day</span></a></li>
+	<li id="menu-item-12351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12351"><a href="http://www.toronto.com/guides/pride-in-the-city/" itemprop="url"><span itemprop="name">Pride in the City</span></a></li>
+	<li id="menu-item-9501" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9501"><a href="http://www.toronto.com/spring-guide/" itemprop="url"><span itemprop="name">Spring Guide</span></a></li>
+	<li id="menu-item-11684" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11684"><a href="http://www.toronto.com/guides/patio-guide/" itemprop="url"><span itemprop="name">Patio Guide</span></a></li>
+</ul>
+</li>
+<li id="menu-item-9558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9558"><a href="http://www.toronto.com/guides/sponsored-getaway-guide/" itemprop="url"><span itemprop="name">Sponsored Getaway Guide</span></a></li>
+<li id="menu-item-12118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12118"><a href="http://www.toronto.com/canada-150/" itemprop="url"><span itemprop="name">Canada 150</span></a></li>
 </ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="post-431 page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Privacy Policy</h1> 
 </header><div class="entry-content" itemprop="text"><div class="share-before share-filled share-small" id="share-before-431"><div class="twitter" id="twitter-before-431" data-url="http://www.toronto.com/privacy-policy/" data-urlalt="http://www.toronto.com/?p=431" data-text="Privacy Policy" data-title="Tweet"></div><div class="facebook" id="facebook-before-431" data-url="http://www.toronto.com/privacy-policy/" data-urlalt="http://www.toronto.com/?p=431" data-text="Privacy Policy" data-title="Share"></div><div class="pinterest" id="pinterest-before-431" data-url="http://www.toronto.com/privacy-policy/" data-urlalt="http://www.toronto.com/?p=431" data-text="Privacy Policy" data-title="Pin"></div><div class="googlePlus" id="googleplus-before-431" data-url="http://www.toronto.com/privacy-policy/" data-urlalt="http://www.toronto.com/?p=431" data-text="Privacy Policy" data-title="Share"></div></div>
 			<script type="text/javascript">
@@ -453,11 +639,8 @@ $('#googleplus-before-431').sharrre({
 <p>This Privacy Policy governs the collection, use and disclosure of your personal information in any form, whether written, electronic or otherwise, by the Star. Be aware that our websites, digital properties, mobile applications and mobile enabled sites (our “Sites”) may contain links to other websites that are maintained by third parties who are not required to comply with this Privacy Policy and for which the Star has no responsibility. Please review the privacy policies on any third party websites to determine their information handling practices.</p>
 <p>This Privacy Policy is available to the public through our Sites, and in paper form from the Star. If you have any additional concerns or questions, we encourage you to contact us and we will address your concerns to the best of our ability. <b>Please read this Privacy Policy carefully, and check back periodically as we may update it from time to time.</b></p>
 <p><b>What is personal information?</b></p>
-<p>Personal information is any information about an identifiable individual.&nbsp;The Star is responsible for personal information in its possession and under its control. The Star has implemented policies and practices to give effect to this Privacy Policy, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, the Star’s parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of the Star.</p><div style="text-align: center; margin-top: 5px; " class="toron-mobile-banner-in-article" id="toron-37211446"><!-- /58580620/TDC: Position 3, Big Box, 300x250-->
-<div id="div-gpt-ad-1470937379380-0">
-<script>
-googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470937379380-0'); });
-</script></div></div><br style="clear: both; display: block; float: none;">
+<p>Personal information is any information about an identifiable individual.&nbsp;The Star is responsible for personal information in its possession and under its control. The Star has implemented policies and practices to give effect to this Privacy Policy, including training and communicating with our employees about the importance of privacy and implementing security procedures that reasonably protect the personal information you provide to us. In addition, Torstar Corporation, the Star’s parent company, has appointed a Chief Privacy Officer to oversee personal information-handling practices of the Star.</p><div style="text-align: center; margin-top: 5px; " class="toron-mobile-banner-in-article" data-id="3558" id="toron-1251301613"><!--- SimCut -->
+<div id="fsk_splitbox"></div></div><br style="clear: both; display: block; float: none;">
 <p><b>What is excluded from privacy protection?</b></p>
 <p>This Privacy Policy does not impose restrictions on: business contact information (e.g. name, title, work contact information) collected, used or disclosed solely for the purpose of communicating with the individual in relation to their employment, business or profession; information collected, used or disclosed solely for journalistic, literary or artistic purposes; publicly available information, such as an individual’s name, telephone number and address when listed in a directory or made available through directory assistance; or information that is aggregated and not associated with a specific individual, including demographic information and statistics.</p>
 <p><b>Children: </b>If you are under the age of majority in your jurisdiction of residence, be sure to obtain your parent or guardian’s permission before you send any personal information to us, or anyone else. We encourage parents to get involved with their children’s online usage and to be aware of the activities in which they are participating.</p>
@@ -537,16 +720,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1470937379380-0');
 </div>
 </div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope="" itemtype="http://schema.org/WPSideBar"><section id="search-3" class="widget widget_search"><div class="widget-wrap"><h4 class="widget-title widgettitle">Search Toronto.com</h4>
 <form class="search-form" itemprop="potentialAction" itemscope="" itemtype="http://schema.org/SearchAction" method="get" action="http://www.toronto.com/" role="search"><meta itemprop="target" content="http://www.toronto.com/?s={s}"><input itemprop="query-input" type="search" name="s" placeholder="Search the site ..."><input type="submit" value="Search"></form></div></section>
-<section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; " id="toron-1381506543"><div id="div-gpt-ad-1465929851254-0">
+<section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; " data-id="21" id="toron-2030273294"><div id="div-gpt-ad-1465929851254-0">
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1465929851254-0'); });
 </script>
 </div></div></div></section>
-<section id="featured-post-2" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Fall Fun in Toronto</h4>
-<article class="post-572 post type-post status-publish format-standard has-post-thumbnail category-fall-fun-guide category-most-read category-new-this-season category-things-to-do entry"><a href="http://www.toronto.com/things-to-do/escape-games-in-toronto-and-the-gta/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-100x100.jpg" class="entry-image attachment-post" alt="Escape Games in Toronto and the GTA" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2016/07/escape-room-games-toronto-omescape-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/things-to-do/escape-games-in-toronto-and-the-gta/">Escape Games in Toronto and the GTA</a></h2></header></article><article class="post-1936 post type-post status-publish format-standard has-post-thumbnail category-dont-miss category-fall-fun-guide category-must-see category-new-this-season category-things-to-do category-whats-on tag-november2016 entry"><a href="http://www.toronto.com/must-see/must-see-november-events-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-100x100.jpg" class="entry-image attachment-post" alt="Must-See November Events" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2016/10/MattBowness_Necklaces_720-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/must-see/must-see-november-events-in-toronto/">Must-See November Events</a></h2></header></article><article class="post-990 post type-post status-publish format-standard has-post-thumbnail category-dont-miss category-fall-fun-guide category-holiday-guide category-new-this-season category-things-to-do tag-november2016 entry"><a href="http://www.toronto.com/things-to-do/christmas-tree-and-holiday-lights-events-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-100x100.jpg" class="entry-image attachment-post" alt="Tree Lightings and Holiday Lights Events" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2016/11/Cavalcade-of-lights-720-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/things-to-do/christmas-tree-and-holiday-lights-events-in-toronto/">Tree Lightings and Holiday Lights Events</a></h2></header></article></div></section>
+<section id="featured-post-2" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Father’s Day</h4>
+<article class="post-11725 post type-post status-publish format-standard has-post-thumbnail category-fathers-day category-food-drink category-new-this-season category-torontos-best entry"><a href="http://www.toronto.com/food-drink/best-whisky-bars-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2017/05/park-copy-100x100.jpg" class="entry-image attachment-post" alt="Best Whisky Bars in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2017/05/park-copy-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2017/05/park-copy-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2017/05/park-copy-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2017/05/park-copy-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2017/05/park-copy-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2017/05/park-copy-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2017/05/park-copy-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/food-drink/best-whisky-bars-in-toronto/">Best Whisky Bars in Toronto</a></h2></header></article><article class="post-12565 post type-post status-publish format-standard has-post-thumbnail category-dont-miss category-fathers-day category-new-this-season category-things-to-do entry"><a href="http://www.toronto.com/things-to-do/best-shaves-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-100x100.jpg" class="entry-image attachment-post" alt="Best Shaves in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2017/06/Garrisons-12-800x560-c-default-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/things-to-do/best-shaves-in-toronto/">Best Shaves in Toronto</a></h2></header></article><article class="post-12558 post type-post status-publish format-standard has-post-thumbnail category-dont-miss category-fathers-day category-must-see category-new-this-season category-things-to-do entry"><a href="http://www.toronto.com/things-to-do/cool-things-to-do-on-fathers-day-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-100x100.jpg" class="entry-image attachment-post" alt="Cool Things to do on Father’s Day in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2017/06/BATTLE_OF_BLACK_CREEK_3-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/things-to-do/cool-things-to-do-on-fathers-day-in-toronto/">Cool Things to do on Father’s Day in Toronto</a></h2></header></article></div></section>
 <section id="featured-post-30" class="widget featured-content featuredpost"><div class="widget-wrap"><h4 class="widget-title widgettitle">Best Food in Toronto </h4>
-<article class="post-2071 post type-post status-publish format-standard has-post-thumbnail category-dont-miss category-food-drink category-new-in-food-drink category-new-torontos-best category-torontos-best entry"><a href="http://www.toronto.com/food-drink/torontos-best/best-ramen-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-100x100.jpg" class="entry-image attachment-post" alt="The Best Ramen in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2015/10/Ramen-Isshin-720-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/food-drink/torontos-best/best-ramen-in-toronto/">The Best Ramen in Toronto</a></h2></header></article><article class="post-2065 post type-post status-publish format-standard category-dont-miss category-food-drink category-new-torontos-best category-torontos-best entry has-post-thumbnail"><a href="http://www.toronto.com/food-drink/torontos-best/top-10-dim-sum-restaurants-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-100x100.jpg" class="entry-image attachment-post" alt="Top 10 Dim Sum Restaurants in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2016/02/lai-wah-heen-dim-sum-2-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/food-drink/torontos-best/top-10-dim-sum-restaurants-in-toronto/">Top 10 Dim Sum Restaurants in Toronto</a></h2></header></article><article class="post-2075 post type-post status-publish format-standard has-post-thumbnail category-dont-miss category-featured-stories category-food-drink category-new-in-food-drink category-new-torontos-best category-torontos-best entry"><a href="http://www.toronto.com/food-drink/torontos-best/top-10-wings-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-100x100.jpg" class="entry-image attachment-post" alt="Top Wings in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2016/02/Wings-by-Nelson-Tam-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/food-drink/torontos-best/top-10-wings-in-toronto/">Top Wings in Toronto</a></h2></header></article></div></section>
-<section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; margin-top: 5px; margin-bottom: 15px; " id="toron-857562347"><!-- /58580620/TDC_Redesign(TEST) -->
+<article class="post-12819 post type-post status-publish format-standard has-post-thumbnail category-food-drink category-new-in-food-drink category-new-torontos-best category-torontos-best entry"><a href="http://www.toronto.com/food-drink/best-filipino-restaurants-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-100x100.jpg" class="entry-image attachment-post" alt="Best Filipino Restaurants in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-100x100.jpg 100w, http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-150x150.jpg 150w, http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-32x32.jpg 32w, http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-50x50.jpg 50w, http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-64x64.jpg 64w, http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-96x96.jpg 96w, http://www.toronto.com/wp-content/uploads/2017/06/platito2-720-copy-128x128.jpg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/food-drink/best-filipino-restaurants-in-toronto/">Best Filipino Restaurants in Toronto</a></h2></header></article><article class="post-12352 post type-post status-publish format-standard has-post-thumbnail category-food-drink category-new-torontos-best entry"><a href="http://www.toronto.com/food-drink/ontario-restaurants-worth-driving-to-from-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-100x100.jpeg" class="entry-image attachment-post" alt="Ontario Restaurants Worth Driving to From Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-100x100.jpeg 100w, http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-150x150.jpeg 150w, http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-32x32.jpeg 32w, http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-50x50.jpeg 50w, http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-64x64.jpeg 64w, http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-96x96.jpeg 96w, http://www.toronto.com/wp-content/uploads/2017/05/150608-Langdon_Hall_00473-128x128.jpeg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/food-drink/ontario-restaurants-worth-driving-to-from-toronto/">Ontario Restaurants Worth Driving to From Toronto</a></h2></header></article><article class="post-10553 post type-post status-publish format-standard has-post-thumbnail category-food-drink category-new-torontos-best category-torontos-best entry"><a href="http://www.toronto.com/food-drink/best-cheap-eats-in-toronto/" class="alignleft" aria-hidden="true"><img width="100" height="100" src="http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-100x100.jpeg" class="entry-image attachment-post" alt="Best Cheap Eats in Toronto" itemprop="image" srcset="http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-100x100.jpeg 100w, http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-150x150.jpeg 150w, http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-32x32.jpeg 32w, http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-50x50.jpeg 50w, http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-64x64.jpeg 64w, http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-96x96.jpeg 96w, http://www.toronto.com/wp-content/uploads/2017/04/cheap-eats_1-128x128.jpeg 128w" sizes="(max-width: 100px) 100vw, 100px"></a><header class="entry-header"><h2 class="entry-title"><a href="http://www.toronto.com/food-drink/best-cheap-eats-in-toronto/">Best Cheap Eats in Toronto</a></h2></header></article></div></section>
+<section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; margin-top: 5px; margin-bottom: 15px; " data-id="120" id="toron-1050502627"><!-- /58580620/TDC_Redesign(TEST) -->
 <div id="div-gpt-ad-1466786319765-0">
 <script type="text/javascript">
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466786319765-0'); });
@@ -555,20 +738,63 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466786319765-0');
 		<section id="recent-posts-3" class="widget widget_recent_entries"><div class="widget-wrap">		<h4 class="widget-title widgettitle">Latest Stories</h4>
 		<ul>
 					<li>
-				<a href="http://www.toronto.com/food-drink/best-eats-at-the-gourmet-food-and-wine-expo/">What to Eat at the Gourmet Food and Wine Expo this weekend</a>
+				<a href="http://www.toronto.com/things-to-do/how-to-visit-the-toronto-islands/">How to Visit the Toronto Islands</a>
 						</li>
 					<li>
-				<a href="http://www.toronto.com/food-drink/torontos-best/best-ramen-in-toronto/">The Best Ramen in Toronto</a>
+				<a href="http://www.toronto.com/things-to-do/toronto-farmers-markets/">Toronto Farmers’ Markets</a>
 						</li>
 					<li>
-				<a href="http://www.toronto.com/dont-miss/whats-on-this-week-in-toronto/">What’s On This Week in Toronto</a>
+				<a href="http://www.toronto.com/things-to-do/canada-day-fireworks-celebrations-in-toronto/">What to Do on Canada Day Weekend in Toronto</a>
 						</li>
 					<li>
-				<a href="http://www.toronto.com/things-to-do/this-weekend-things-to-do-in-toronto/">This Weekend: Things to Do</a>
+				<a href="http://www.toronto.com/things-to-do/best-summer-food-and-drink-festivals-in-toronto-gta/">Best Summer Food and Drink Festivals in Toronto &amp; GTA</a>
 						</li>
 				</ul>
 		</div></section>
-		</aside></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; margin-top: 20px; margin-bottom: 20px; " id="toron-847655465"><!-- /58580620/TDC_Redesign(TEST) -->
+		</aside></div><aside class="sidebar sidebar-secondary widget-area" role="complementary" aria-label="Secondary Sidebar" itemscope="" itemtype="http://schema.org/WPSideBar"><section id="text-4" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><!-- 
+Nothing Goes Here. This is to remove stuff we don't need to see. Please talk to one of the developers, Zenon or Sushil, before removing this widget.
+--></div>
+		</div></section>
+</aside><div data-id="9704" id="toron-1729083403"><div class="featured_block">
+  <div class="featured small" id="featured_ad_1">
+    <script>
+      googletag.cmd.push(function() { googletag.display('featured_ad_1'); });
+    </script>
+  </div>
+
+  <div class="featured small" id="featured_ad_2">
+    <script>
+      googletag.cmd.push(function() { googletag.display('featured_ad_2'); });
+    </script>
+  </div>
+
+  <div class="featured medium" id="featured_ad_3">
+    <script>
+      if (window.innerWidth > 768)
+        googletag.cmd.push(function() { googletag.display('featured_ad_3'); });
+    </script>
+  </div>
+
+  <div class="featured medium" id="featured_ad_4">
+    <script>
+      if (window.innerWidth > 768)
+        googletag.cmd.push(function() { googletag.display('featured_ad_4'); });
+    </script>
+  </div>
+
+  <div class="featured large" id="featured_ad_5">
+    <script>
+      if (window.innerWidth > 1089)
+        googletag.cmd.push(function() { googletag.display('featured_ad_5'); });
+    </script>
+  </div>
+
+  <div class="featured large" id="featured_ad_6">
+    <script>  
+      if (window.innerWidth > 1089) googletag.cmd.push(function() { console.log("hey!"); googletag.display('featured_ad_6'); });
+    </script>
+  </div>
+</div></div></div><div class="footer-widgets"><div class="wrap"><div class="footer-widgets-1 widget-area"><section class="widget toron-widget"><div class="widget-wrap"><div style="text-align: center; margin-top: 20px; margin-bottom: 20px; " data-id="121" id="toron-1772935942"><!-- /58580620/TDC_Redesign(TEST) -->
 <div class="show-for-tablet">
 <div id="div-gpt-ad-1466795596948-0">
 <script type="text/javascript">
@@ -577,13 +803,13 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466795596948-0');
 </div>
 </div></div></div></section>
 </div></div></div><div class="before-footer widget-area"><section id="text-3" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><ul class="site-footer-text">
-  <li><a href="http://www.toronto.com/about/">Contact Us</a></li>
-  <li><a href="http://www.toronto.com/advertise-with-us/">Advertise With Us</a></li>
-  <li><a href="http://www.toronto.com/newsletters/">Newsletters</a></li>
+  <li><a href="http://toronto.com/about/">Contact Us</a></li>
+  <li><a href="http://toronto.com/advertise-with-us/">Advertise With Us</a></li>
+  <li><a href="http://toronto.com/newsletters/">Newsletters</a></li>
   <li><a href="https://www.thestar.com/about/terms.html">Terms and Conditions</a></li>
   <li><a href="https://www.thestar.com/about/termsandconditions.html">Advertising Terms</a></li>
-  <li><a href="http://www.toronto.com/privacy-policy/">Privacy Policy</a></li>
-  <li><a href="http://www.toronto.com/site-map/">Site Map</a></li>
+  <li><a href="http://toronto.com/privacy-policy/">Privacy Policy</a></li>
+  <li><a href="http://toronto.com/site-map/">Site Map</a></li>
 </ul></div>
 		</div></section>
 </div><footer class="site-footer" itemscope="" itemtype="http://schema.org/WPFooter"><div class="wrap"><p></p></div></footer></div>		<script type="text/javascript">
@@ -592,6 +818,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466795596948-0');
 		/* ]]> */
 		</script>		
 		<script type="text/javascript">
+  jQuery('body').on('click', '#evcal_list a.evcal_list_a', function(e) {  jQuery(e.currentTarget).attr("target", "_blank"); })
+
   jQuery('body').bind("wallpaperLoad", function(e, data) {
     console.log("wallpaperLoad", data);
     jQuery('body').css('background', data.background);
@@ -604,8 +832,10 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1466795596948-0');
   jQuery(window).bind("load", function() {
     if (trackShares) trackShares();
   });
-</script><link rel="stylesheet" id="eventon_dynamic_styles-css" href="//www.toronto.com/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=6be684bcc877d9ab0a5cd6809aa38335" type="text/css" media="all">
-<script type="text/javascript" src="http://www.toronto.com/wp-includes/js/wp-embed.min.js?ver=6be684bcc877d9ab0a5cd6809aa38335"></script>
+</script>
+
+<script src="https://static.freeskreen.com/publisher/262/freeskreen.min.js"></script><link rel="stylesheet" id="eventon_dynamic_styles-css" href="//www.toronto.com/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.8" type="text/css" media="all">
+<script type="text/javascript" src="http://www.toronto.com/wp-includes/js/wp-embed.js?ver=4.8"></script>
 
 
 
