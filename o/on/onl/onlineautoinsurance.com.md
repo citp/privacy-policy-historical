@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030044756id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615211455id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Online Auto Insurance
-
-[ ](https://privacy.truste.com/privacy-seal/TZ-Insurance-Solutions,-LLC/validation?rid=446be482-5973-4886-8633-80a99d582bb2 "TRUSTe online privacy certification")[](https://privacy.truste.com/privacy-seal/TZ-Insurance-Solutions,-LLC/validation?rid=446be482-5973-4886-8633-80a99d582bb2 "TRUSTe online privacy certification")
 
 TZ Insurance Solutions LLC  
 96 Linwood Plaza #144  
@@ -11,10 +9,6 @@ ben@onlineautoinsurance.com
 Privacy Statement (Last Update 01/07/2015)
 
 This privacy policy applies to [www.onlineautoinsurance.com](http://www.onlineautoinsurance.com/) owned and operated by TZ Insurance Solutions LLC. This privacy policy describes how TZ Insurance Solutions LLC collects and uses the personal information you provide on our web site: [www.onlineautoinsurance.com](http://www.onlineautoinsurance.com/).  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-TZ Insurance Solutions LLC has received [TRUSTe](http://www.truste.com/)‘s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, www.onlineautoinsurance.com.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 Information Collection and Use
 
@@ -64,7 +58,7 @@ We use cookies to make it easier for you to navigate our site _._ Users can cont
 
 Behavioral Targeting/ Re-Targeting
 
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/))  Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
+We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here (or if located in the European Union click [here](http://www.youronlinechoices.eu/))  Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
 Security
 
