@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtargeting.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222102224id_/http%3A//www.xtargeting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtargeting.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615205752id_/http%3A//www.xtargeting.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Local Business Advertising Online
 
