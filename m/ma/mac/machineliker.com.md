@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the machineliker.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121145id_/http%3A//machineliker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machineliker.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615190701id_/http%3A//machineliker.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Machine Liker
+
+  1. [Machine Liker](https://web.archive.org/)
+  2. Privacy Policy
+
+
 
 This privacy policy sets out how Machine Liker uses and protects any information that you give to Machine Liker when you use this website.
 
