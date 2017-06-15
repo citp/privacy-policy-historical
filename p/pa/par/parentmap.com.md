@@ -1,33 +1,39 @@
-> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110092930id_/https%3A//www.parentmap.com/article/our-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615233444id_/http%3A//www.parentmap.com/node/169) for the most accurate reproduction.*
 
-# Our Online Privacy Policy - ParentMap
+# Our Online Privacy Policy | ParentMap
 
-You know and trust _ParentMap_ newsmagazine and parentmap.com, and we value that trust. We are committed to maintaining the privacy of all personal information that you provide. The following policy describes the privacy practices of _ParentMap_ ("we" or "us"). You should read this policy in order to understand how we treat the information you provide to us as you use our website.
+You know and trust  _ParentMap_  newsmagazine and parentmap.com, and we value that trust. We are committed to maintaining the privacy of all personal information that you provide. The following policy describes the privacy practices of  _ParentMap_  ("we" or "us"). You should read this policy in order to understand how we treat the information you provide to us as you use our website.
 
-**Information we collect**
+### **Information we collect**
 
-**We receive information in several ways:**  
-• You may have subscribed to our magazine or newsletter.  
-• You may have filled out a “Contact Information” form when visiting our booth at an event.  
-• You may have asked to receive information in the past.  
-• You may be an advertiser.   
-• You may be a present or past sponsor of a ParentMap event.  
-• You may be a subscriber to one of our e-newsletters.  
-• You may enter to win one of our giveaways.
+**We receive information in several ways:**
 
-**We may collect the following information:**  
-• Your name  
-• Your address  
-• Your email address  
-• Your phone number  
-• How many children you have  
-• The birth years of your children
+  * You may have subscribed to our magazine or newsletter.
+  * You may have filled out a “Contact Information” form when visiting our booth at an event.
+  * You may have asked to receive information in the past.
+  * You may be an advertiser. 
+  * You may be a present or past sponsor of a ParentMap event.
+  * You may be a subscriber to one of our e-newsletters.
+  * You may enter to win one of our giveaways.
 
-_ParentMap_ does not request any other personal information and will not collect such information unless you provide it to us.
+
+
+**We may collect the following information:**
+
+  * Your name
+  * Your address
+  * Your email address
+  * Your phone number
+  * How many children you have
+  * The birth years of your children
+
+
+
+_ParentMap_  does not request any other personal information and will not collect such information unless you provide it to us.
 
 **How we use the information collected**
 
-If you submit personal information to us through our website, we may use that information to operate and maintain the website. For example, the information we collect allows us to send you information via email on upcoming events that may be of interest to you and your family. It allows us to send notifications about anything new and exciting at _ParentMap_ newsmagazine or parentmap.com. We may occasionally conduct online surveys and want to offer you the opportunity to participate, if you choose to. The information also allows us to provide advertisers and potential advertisers with aggregate information about our user base and usage patterns.
+If you submit personal information to us through our website, we may use that information to operate and maintain the website. For example, the information we collect allows us to send you information via email on upcoming events that may be of interest to you and your family. It allows us to send notifications about anything new and exciting at  _ParentMap_  newsmagazine or parentmap.com. We may occasionally conduct online surveys and want to offer you the opportunity to participate, if you choose to. The information also allows us to provide advertisers and potential advertisers with aggregate information about our user base and usage patterns.
 
 We also use certain non-personally-identifiable information, such as anonymous cookies, IP address and browser type, to improve the quality and design of our website; to create new features, functionality and services by storing and analyzing user preferences and trends; and to further our efforts to police the website and enforce our Terms of Use.
 
@@ -39,13 +45,13 @@ When you visit our website, it may pass cookies to your computer. A cookie is a 
 
 We keep your personally identifiable information confidential and we generally do not disclose it, with the four following exceptions:
 
-**1.** We share information we collect on our website with the _ParentMap_ team. Our employees have access to some of your personally identifiable information for the purpose of helping us run our business. They access and use such data on a “need to know” basis confidentially. The _ParentMap_ team may use this information to invite you to events or introduce you to services that may be of interest to you.
+**1.**  We share information we collect on our website with the  _ParentMap_  team. Our employees have access to some of your personally identifiable information for the purpose of helping us run our business. They access and use such data on a “need to know” basis confidentially. The  _ParentMap_ team may use this information to invite you to events or introduce you to services that may be of interest to you.
 
-**2.** We may share information from giveaways with carefully selected business partners that provide prizes to _ParentMap_. These companies and organizations may use the information we share to provide you with special opportunities and offers. Also, contest winners may be asked to provide information such as physical address and phone number to prize providers for prize fulfillment purposes.
+**2.**  We may share information from giveaways with carefully selected business partners that provide prizes to  _ParentMap_. These companies and organizations may use the information we share to provide you with special opportunities and offers. Also, contest winners may be asked to provide information such as physical address and phone number to prize providers for prize fulfillment purposes.
 
-**3.** Our website may also share information with companies that provide support services to us (such as a mailing host or printer). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+**3.**  Our website may also share information with companies that provide support services to us (such as a mailing host or printer). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
 
-**4.** We may disclose information you provide to our website when we believe disclosure is appropriate to comply with the law or to protect the rights, property, or safety of our website, our users, or others.
+**4.**  We may disclose information you provide to our website when we believe disclosure is appropriate to comply with the law or to protect the rights, property, or safety of our website, our users, or others.
 
 Also, any information that you include in a comment to our website, particularly the blog, may be redistributed through the Internet and other media channels and may be viewed by the general public. The information contained in a comment may be viewable by all users of the website. IF YOU CHOOSE TO MAKE ANY OF YOUR PERSONAL OR OTHER INFORMATION PUBLICLY AVAILABLE THROUGH THE website, YOU DO SO AT YOUR OWN RISK.
 
@@ -59,11 +65,11 @@ You should consult the respective privacy policies of these third-party advertis
 
 **Emails**
 
-If you provide our website with your email address, you may receive emails from us. You can discontinue these emails by cancelling your subscription to these services. If you would like to update your information with _ParentMap_ or unsubscribe from our list, click the "unsubscribe/update your profile" link provided in our newsletters. If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices. At any time, you can contact us through [email](mailto:admin@parentmap.com) to have your contact preference changed to “Do Not Contact.”
+If you provide our website with your email address, you may receive emails from us. You can discontinue these emails by cancelling your subscription to these services. If you would like to update your information with  _ParentMap_  or unsubscribe from our list, click the "unsubscribe/update your profile" link provided in our newsletters. If we ever send you information by email concerning new products or services that you did not expressly request, we will provide you with an email address by which you may request no future notices. At any time, you can contact us through [email](mailto:admin@parentmap.com) to have your contact preference changed to “Do Not Contact.”
 
 **Sharing with other companies**
 
-If you do not want us to share your email address with carefully selected business partners outside of _ParentMap_ , do not enter a giveaway through our website.
+If you do not want us to share your email address with carefully selected business partners outside of  _ParentMap_ , do not enter a giveaway through our website.
 
 **Security**
 
