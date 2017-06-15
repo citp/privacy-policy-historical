@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208051701id_/http%3A//www.i5publishing.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615070423id_/http%3A//www.i5publishing.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lumina Media
 
