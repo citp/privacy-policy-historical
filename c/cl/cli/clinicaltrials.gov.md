@@ -1,114 +1,144 @@
-> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231233529id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clinicaltrials.gov privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615183013id_/https%3A//www.nlm.nih.gov/privacy.html) for the most accurate reproduction.*
 
-# NLM Privacy Policy
+# Privacy and Security Policy
 
-The National Library of Medicine (NLM) provides this Web site as a public service. We do not collect any personally identifiable information (PII) about you when you visit our Web sites unless you choose to provide that information to us. We do collect some data about your visit to our Web site to help us better understand how the public uses the site and how to make it more helpful. NLM never collects information for commercial marketing or any purpose unrelated to [NLM's functions](https://web.archive.org/about/functstatement.html).
+The National Library of Medicine (NLM) complies with requirements for privacy and security established by the Office of Management and Budget (OMB), Department of Health and Human Services (DHHS), and the National Institutes of Health (NIH). This page outlines our privacy and security policy as they apply to our sites as well as third party sites and applications that NLM uses (for example, Facebook, YouTube).
 
-## Type of Information Collected
+### Your Visit to the NLM Websites
 
-When you visit any Web site, certain information about your visit can be collected. NLM automatically collects and temporarily stores the following type of information about your visit:
+Your visit to the NLM websites is private and secure. When you visit the NLM websites, we do not collect any personally identifiable information (PII) about you, unless you choose to explicitly provide it to us. We do, however, collect some data about your visit to our website to help us better understand public use of the site and to make it more useful to visitors. This page describes the information that is automatically collected and stored. NLM never collects information for commercial marketing or any purpose not related to [NLM's functions](https://www.nlm.nih.gov/about/functstatement.html).
 
-  * Internet address and domain from which you visited the NLM Web site
-  * Information about the operating system and browser used
-  * Date and time of the visit
-  * Pages visited
-  * Internet address of the Web site that connected you to the NLM Web site
-  * Words searched
+### What Type of Information NLM Collects
+
+When you visit any website, certain information about your visit can be collected. NLM automatically collects and stores the following type of information about your visit:
+
+  * The name of the domain you use to access the Internet (for example, verizon.com, if you are using a Verizon online account, or stanford.edu, if you are connecting from Stanford University's domain)
+  * The date and time of your visit to our website
+  * The pages and documents you viewed on our website from an external search engine such as Bing or Google
+  * The URL of the website you visited prior to ours
+  * The words you searched for on our website
+  * The type and version of your Web browser and operating system, and
+  * Your location at the time of your visit, down to the city-level
 
 
 
-This information is used to measure the number of visitors to the various sections of our site and improve organization, coverage, system performance or problem areas. This information is not used for associating search terms or patterns of site navigation with individual users. When search features offer suggested terms, these suggestions are based on aggregated data only. NLM periodically deletes its Web logs. On occasion, NLM may provide aggregated information to third party entities it contracts with for the purposes of research analysis. Aggregated data cannot be linked back to an individual user.
+This information is used to measure the number of visitors to the various sections of our site and improve organization, coverage, system performance or other problem areas. This information is not used for associating search terms or patterns of site navigation with individual users. When search features offer suggested terms, these suggestions are based on aggregated data only. NLM periodically deletes its web logs. On occasion, NLM may provide aggregated information to third party entities it contracts with for the purposes of research analysis. Aggregated data cannot be linked back to an individual user.
 
-If your electronic medical record (EMR), patient health record (PHR) or other system links you to MedlinePlus, your diagnosis codes or other information, such as medications or procedures names, are sent to our site in order to link you to the most appropriate information. No personally identifiable information is collected in this process. We may review information in order to make improvements to our site and better meet user needs, but such information is reviewed at an aggregated level.
+If your electronic medical record (EMR), patient health record (PHR) or other system links you to MedlinePlus, your diagnosis codes or other information, such as medications or procedures names, are sent to our site in order to link you to the most appropriate information. No personally identifiable information is collected in this process.
 
-## Cookies
+### How NLM Uses Cookies
 
-When you visit any Web site, it may place a small text file, known as a "cookie" on your computer. The cookie allows the Web site to "remember" specific information about your visit while you are connected or when you return to that site. The Office of Management and Budget Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774) (PDF, 1.03MB), 6/25/10, allows Federal agencies to use session and persistent cookies, defined below.
+When you visit any web site, it may place a small text file, known as a "cookie," on your computer. The cookie allows the website to "remember" specific information about your visit while you are connected or when you return to that site. The Office of Management and Budget (OMB) Memo [M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies](https://www.digitalgov.gov/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/) allows Federal agencies to use session and persistent cookies.
 
-The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from NLM Web pages only collect information about your browser's visit to the site; they do not collect personal information about you. While visiting certain NLM sites, you may occasionally encounter a Web page that automatically employs cookies to make it easier to use the dynamic features of these Web pages.
+The cookie makes it easier for you to use the dynamic features of web pages. Cookies from NLM web pages only collect information about your browser's visit to the site; they do not collect personal information about you. While visiting certain NLM websites, you may occasionally encounter a web page that automatically employs cookies to make it easier to use the web page’s dynamic features.
 
-NLM Web sites may use either single session (temporary) or multi-session (persistent) cookies. Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods.
+NLM websites may use either single session (temporary) or multi-session (persistent) cookies. Session cookies last only as long as your web browser is open. Once you close your browser, the cookie disappears. Persistent cookies are stored on your computer for longer periods.
 
-Session Cookies: We use session cookies for technical purposes such as to enable better navigation through our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1 – Single Session." This tier encompasses any use of single session Web measurement and customization technologies.
+  * **Session Cookies:** We use session cookies for technical purposes such as to enable better navigation through our site. The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1 – Single Session." This tier encompasses any use of single session web measurement and customization technologies.
+  * **Persistent Cookies:** We use persistent cookies to enhance the web experience for our users. Persistent cookies remain on your computer between visits to NLM until they expire. The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2 – Multi-session without Personally Identifiable Information (PII)." This tier encompasses any use of multi-session web measurement and customization technologies when no PII is collected.
 
-Persistent Cookies: NLM uses persistent cookies to enhance the Web experience for our users. Persistent cookies remain on your computer between visits to NLM until they expire. The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2 – Multi-session without Personally Identifiable Information (PII)." This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected.
 
-For example, NLM uses persistent cookies to enable a PubMed retrieval system feature called "MyNCBI." The persistent cookie retains user preferences such as search result filters, LinkOut displays, institutional icon links, document delivery services, etc. across user sessions. Users may opt out of the persistent cookie selection in their MyNCBI settings at any time. NLM also uses persistent cookies to avoid repeated invitations to take our ForeSee customer satisfaction survey. The persistent cookies that block repeated survey invitations expire in 90 days. NLM may employ persistent cookies in other ways consistent with our mission and the OMB guidelines to analyze use patterns and improve our users' experience on NLM Web sites.
+
+For example, NLM uses persistent cookies to enable PubMed’s My NCBI feature. The persistent cookie retains user preferences such as search result filters, LinkOut displays, institutional icon links, document delivery services, etc. across user sessions. Users may opt out of the persistent cookie selection in their My NCBI settings at any time. NLM also uses persistent cookies to avoid repeated invitations to take our ForeSee customer satisfaction survey. The persistent cookies that block repeated survey invitations expire in 90 days. NLM may employ persistent cookies in other ways consistent with our mission and the OMB guidelines to analyze use patterns and improve our users' experience on NLM websites.
 
 ### How to Opt Out or Disable Cookies
 
-If you do not wish to have session or persistent cookies placed on your computer, you can disable them at any time from your Web browser. If you opt out of cookies, you will still have access to all information and resources at NLM, but may be unable to use cookie-dependent features. Follow these instructions for disabling or opting out of cookies in the most popular browsers, <http://www.usa.gov/optout_instructions.shtml>. Please note that by disabling cookies from your Web browser, you will disable cookies from all sources, not just those from NLM.
+If you do not wish to have session or persistent cookies placed on your computer, you can disable them at any time from your web browser. If you opt out of cookies, you will still have access to all information and resources at NLM, but you may not be able to use cookie-dependent features.
 
-## Personally Identifiable Information (PII)
+See USA.gov’s [Web Measurement and Customization Opt-Out](https://www.usa.gov/optout-instructions) page for instructions on disabling or opting out of cookies in the most popular browsers.  Please note when you disable cookies from your web browser, you will disable cookies from all sources, not just those from NLM.
 
-If you choose to send us personal information by email, or by filling out a form on our Web site, we use that information to respond to your message and to help us provide you with information or material that you request. If provided, personally identifiable information is maintained in a database that is regularly purged. Third party contractors may have access to this information in order to provide a response to your question or comment. These contractors are held to strict policies to safeguard the information and provide the same level of privacy protection as guaranteed by NLM. On occasion, we may conduct a study concerning the types of questions sent to us. These studies help us to improve our Web sites in order to make them more responsive to the needs of our users. We do not give, share, sell, or transfer any personal information to a third party unless required by law.
+### Personally Identifiable Information (PII)
 
-## Links to Other Sites
+You do not have to give us personal information to visit the NLM website.
 
-Some NLM Web sites, such as MedlinePlus, provide links to other Internet sites that provide health information. Once you link to another site, you are subject to the privacy policy of the new site.
+If you choose to send us personal information by email, or by filling out a form on our web site, we use this information to respond to your message and to help us provide you with the information or material you requested. If provided, personally identifiable information is maintained in a database that is regularly purged after 410 days.
+
+Third-party contractors employed by NLM may have access to this information in order to provide a response to your question or comment. These contractors are held to strict policies to safeguard the information and provide the same level of privacy protection as guaranteed by NLM.
+
+On occasion, we may conduct a study concerning the types of questions sent to us. These studies help us to improve our websites in order to make them more responsive to the needs of our users.
+
+### Disclosure
+
+NLM does not give, share, sell, or transfer any personal information about our visitors, unless required by law enforcement or statute.
+
+For further information about the NIH privacy policy, please contact the NIH Senior Official listed below, or visit <https://oma.od.nih.gov/DMS/Pages/Privacy-Program.aspx>
+
+**Celeste Dade-Vinson**  
+Privacy Act Officer   
+NIH Office of the Senior Official for Privacy (OSOP)  
+National Institutes of Health, Office of Management Assessment  
+6011 Executive Blvd., Suite 601, MSC 7669  
+Rockville, MD 20852  
+Phone: (301) 496-4606 or (301) 402-6201   
+Fax: (301) 402-0169
+
+### Links from NLM to Other Websites
+
+Some NLM websites, such as MedlinePlus and PubMed, provide links to other Internet sites that provide health information. Once you link to another site, you are subject to the privacy policy of the new site.
+
+### Visiting an Official NLM Page on Third-Party Websites
+
+NLM maintains accounts on third-party websites, such as social media sites, as tools to better interact with the public. The security and privacy policies of third-party websites apply to your activity on those sites. Users of third-party websites often share information with the general public, user community, and/or the third-party operating the website. You should review the privacy policies of all websites before using them and ensure that you understand how your information may be used. You should also adjust privacy settings of your account for any third-party website to match your preferences.
+
+See the list of NLM’s social media accounts on the [Fan, Follow, and Connect with NLM](https://www.nlm.nih.gov/socialmedia/) page.
+
+### NLM Accounts
+
+Common third-party website privacy policies used by NLM include:
+
+  * [Apple](https://www.apple.com/legal/privacy/en-ww/) and [iTunes](https://www.apple.com/legal/internet-services/itunes/us/terms.html) Customer Privacy Policy
+  * [Facebook Data Policy](https://www.facebook.com/policy.php)
+  * [Flickr Privacy Policy](https://policies.yahoo.com/us/en/yahoo/privacy/products/flickr/)
+  * [GitHub Privacy Policy](https://enterprise.github.com/privacy)
+  * [Google and YouTube Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
+  * [LinkedIn Privacy Policy](https://www.linkedin.com/legal/privacy-policy)
+  * [Pinterest Privacy Policy](https://about.pinterest.com/en/privacy-policy)
+  * [Twitter Privacy Policy](https://twitter.com/privacy?lang=en)
+  * [WordPress Privacy Policy](https://wordpress.org/about/privacy/)
+
+
+
+### How NLM Collects and Uses Information from Third-Party Websites
+
+If you have an account/profile with a third-party website, and choose to follow, like, friend, or comment on a third-party website managed by NLM, certain personal information associated with your account may be made available to us based on the privacy policies of the third-party website and your privacy settings within that website.  **We do not share personally identifiable information made available through these websites.**
+
+NLM conducts and publishes a Privacy Impact Assessment for each use of a third-party website. Each use of a third-party website may have unique features or practices. NLM sometimes collects and uses the information made available through third-party websites.
+
+### Google Analytics
+
+When you browse through the NLM websites, we use Google Analytics software to gather and temporarily store a variety of information about your visit. However, this information cannot be used to identify you as an individual.
+
+We do not associate any of the data we collect with you as an individual. Instead, we aggregate this data from all visits in order to improve our website and provide a better user experience to our visitors. The aggregate data is available only to NLM web managers and other designated staff who require this information to perform their duties. It is retained only for as long as needed for proper analysis.  The Google Analytics Privacy Policy is available at <https://www.google.com/intl/en/policies/privacy/>.
+
+### Demographic and Interest Data
+
+On some portions of our website we have enabled Google Analytics and other third-party software (listed below), to provide aggregate demographic and interest data of our visitors. This information cannot be used to identify you as an individual.  **While these tools are used by some websites to serve advertisements, NLM only uses them to measure demographic data. NLM has no control over advertisements served on other websites.**
+
+  * **DoubleClick** : NLM uses DoubleClick to understand the characteristics and demographics of the people who visit NLM sites. Only NLM staff conducts analyses on the aggregated data from DoubleClick. No personally identifiable information is collected by DoubleClick from NLM websites. The DoubleClick Privacy Policy is available at <https://www.google.com/intl/en/policies/privacy/>
+
+You can opt-out of receiving DoubleClick advertising at <https://support.google.com/ads/answer/2662922?hl=en>.
+
+  * **ForeSee:** NLM also uses the ForeSee survey to collect opinions and feedback from a random sample of visitors and to understand our visitors’ satisfaction with the NLM website. This survey does not collect PII and participation in the survey is voluntary. If you decline the survey, you will still have access to the identical information and resources on the NLM website as those who take the survey. Answers to the survey help NLM improve its website to make it easier to use and more responsive to the needs of our visitors. The ForeSee Privacy Policy is available at <https://www.foresee.com/about-us/privacy-policy/>.
+
+
+
+## Web Measurement and Customization Tools
+
+NLM uses the specified software and features below:
+
+**AddThis:** NLM offers AddThis on its websites, giving visitors the option to bookmark and share NLM website content on certain social media sites.  Using AddThis on NLM websites does not require registration or personally identifiable information. The AddThis Privacy policy is available at <https://www.addthis.com/privacy>.
+
+**Bit.ly and Go.USA.gov:** NLM uses Bit.ly and Go.USA.gov to shorten long URLs for use in email and social media messages.
+
+  * **Bit.ly** provides analytics on how many people clicked on the URLs distributed by NLM.  Bit.ly analytics do not provide any personally identifiable information about the visitors who click the shortened links. The Bit.ly Privacy Policy is available at <https://bitly.com/pages/privacy>.   
+  * **Go.USA.gov** creates short URLs out of any .gov, .mil, .fed.us, .si.edu, or .state.xx.us URL that a government user has shortened. Go.USA.gov provides these links as a service to our users. Some shortened URLs may become obsolete in the future. Go.USA.gov will maintain a database of the original URL and its shortened key but cannot verify the availability of the shortened URL when the original URL has been removed, changed, or altered by the URL owner.
+
+
+
+**CrazyEgg:** NLM uses CrazyEgg to obtain information on how visitors are interacting with specific NLM web pages. This allows NLM to evaluate and to modify its websites to improve value and usability. The data CrazyEgg collects includes information about how visitors navigate around a web page and the most commonly clicked links on a specific web page. CrazyEgg does not collect personally identifiable information. The Crazy Egg Privacy Policy is available at <https://www.crazyegg.com/privacy>.
+
+**GovDelivery:** NLM uses the Granicus GovDelivery Communications Suite to email newsletters and other messages to visitors who subscribe to them on NLM websites. Only NLM staff and managers who email newsletters using GovDelivery and/or monitor the results of email initiatives have access to the subscriber lists. GovDelivery never allows access to the subscriber lists to anyone outside of NLM for any purpose. GovDelivery also provides aggregate data, such as email opens rates, and total clicks on links. The Granicus privacy policy is available at <https://granicus.com/privacy-policy/>.
 
 ## Security
 
-The U.S. Government maintains this site. For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Causing damage to federal computer systems is a violation of U.S. law and is subject to criminal prosecution in federal court. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from NLM Web logs may be used to help identify an individual.
-
-## Third-Party Web Sites and Applications
-
-Third-Party Web sites and Applications (TPWA) are Web-based technologies that are not exclusively operated or controlled by NLM. They may be hosted on a non-government Web site or embedded on an NLM Web page. TPWA technologies may make personally identifiable information (PII) available to NLM, regardless of whether we request or collect it. In addition, other official Government Web sites we link to or cooperate with may use a third-party to handle some aspect of an information collection (for example: contest nomination process). As a result, our stated privacy policy/notice may not apply. 
-
-We use these technologies to communicate and interact with you. Examples include social media Web sites such as Twitter and Facebook. Your activity on these non-government sites is governed by the security and privacy policies of those sites. When you use them, you are often sharing information with the general public, other users, and/or the group operating that site or application. We recommend you review the privacy policies of these sites before using them to ensure you understand how these third-party sites and applications might use your information. You may be able to adjust the privacy settings on your account.
-
-The list below includes the applications we use and their purposes. For any sites or applications that collect PII, this list also includes details on the information they collect and how NLM protects your private information. 
-
-### AddThis
-
-AddThis allows you to bookmark and share NLM content in a variety of ways, including through social media sites and your Web-based email service. You do not need to register or provide any personal information to use AddThis.
-
-The AddThis service collects non-personal data, including aggregate and summary statistics on Web browsers and usage patterns. AddThis also uses non-personal data to manage their service efficiently and diagnose server problems. Although AddThis offers some analytics and usage data to NLM, these reports do not include any personally identifiable information. The reports are password protected and only available to NLM managers, members of the NLM Web Teams, and other designated NLM staff requiring this information to perform their duties. The AddThis Privacy & Data Practices are available at: <http://www.addthis.com/privacy>.
-
-### Go.USA.Gov and Bit.ly
-
-NLM uses the Go.USA.gov and Bit.ly URL shortening services. The shorter URLs are shared in our e-mail messages, Twitter feeds, and on NLM's Facebook pages. The services collect data about how often users click on these shortened URLs. The analytics data is provided by Go.USA.Gov and Bit.ly. This data does not provide any personally identifiable information about the visitors who opened NLM's shortened links. The Go.USA.Gov Privacy Statement is available at <https://go.usa.gov/policies>. The Bit.ly Privacy Policy is available at: <http://bitly.com/pages/privacy>.
-
-### Facebook
-
-NLM has multiple Facebook pages where we share information about NLM news, program activities, and other items that may be of interest to you. You do not need to register or provide personal information to view our Facebook pages. The complete list of NLM Facebook pages is at <http://www.nlm.nih.gov/socialmedia/index.html>.
-
-If you have a Facebook account and "Like" NLM Facebook pages, you may post comments or click the "Like" link for individual entries. If you comment on or "Like" NLM Facebook content, personally identifying information will be visible to other Facebook visitors, including NLM staff. The amount of visible personal information about you will depend on your own Facebook privacy settings. To avoid displaying your personally identifiable information, you should not create a Facebook account, post comments or click on the "Like" options in Facebook.
-
-NLM does not collect, use or disclose any information about visitors who comment on or "Like" NLM Facebook pages. Facebook collects and reports non-personally identifiable information about activities on NLM's Facebook pages. This information is password protected and only available to NLM managers and the administrators of the NLM Facebook pages, who require this information to perform their duties. The Facebook Privacy Policy is available at: <http://www.facebook.com/policy.php>.
-
-### GovDelivery
-
-NLM uses GovDelivery to manage email subscriptions for its electronic newsletters, email alerts and other messages about NLM products and services. To subscribe to Gov Delivery for NLM updates, you must provide an email address and indicate your subscription preferences, including the NLM products and type of updates you would like to receive.
-
-GovDelivery collects non-identifiable information about the number of messages sent, how often people open the email messages and whether they click on the links in messages. This information is provided to NLM managers on GovDelivery's password protected Web site. It is only available to NLM managers and staff who manage the email subscription lists as part of their regular duties. The GovDelivery Privacy Policy is available at: <http://www.govdelivery.com/legal-privacy>.
-
-### Google Analytics Premium
-
-NLM uses Google Analytics Premium. Please refer to the following policies on Google’s website for more information:
-
-  * [Google’s main privacy policy](http://www.google.com/intl/en/policies/privacy)
-  * [Cookies & Google Analytics on Websites](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies)
-  * [Opt out of Google Analytics Cookies](https://tools.google.com/dlpage/gaoptout?hl=en)
-
-
-
-### iTunes App Store
-
-NLM uses iTunes to make iPhone, iPod and iPad apps available for download through the Apple's App Store. A list of NLM apps is available at <http://www.nlm.nih.gov/mobile/>. You do not need to register or provide personal information to view the NLM app in the App Store. If you use the iTunes application to view information about NLM apps, iTunes collects information specified in its privacy policy.
-
-If you have an iTunes account and download an app, you may rate or review the app.  If you review an NLM app, your personally identifiable information will be visible to other iTunes visitors, including NLM staff. The amount of visible personal information will depend on your account settings. To avoid displaying your personally identifiable information, you should not create an iTunes account, download apps, or post ratings.
-
-NLM  does not collect, maintain, disclose, or share any information about people who download NLM apps. Apple collects and provides non-identifying information on  how many times an app is downloaded and the continent it is downloaded from. This information is password protected and only available to NLM managers and the administrators of the NLM iTunes apps, who require this information to perform their duties. The iTunes privacy policy is available at: <http://www.apple.com/privacy/>.
-
-### Twitter
-
-NLM uses Twitter to send short messages (up to 140 characters), which are also known as "Tweets," to share information about NLM news, program activities, and other items that may be of interest to you. We also respond to comments and questions sent via Twitter to NLM. You do not need to register or provide personal information to view our Twitter feeds. A complete list of NLM Twitter feeds is available at: <http://www.nlm.nih.gov/socialmedia/index.html>.
-
-If you want to subscribe to (also known as "Follow") the NLM Twitter feeds, you may create a Twitter account at [http://www.twitter.com](http://www.twitter.com/). To create an account, you must provide your name and email address and create a user name and password. You may provide additional information including a short biography, location or a picture. Most of your personal information in your Twitter account is available to the public unless you update your privacy settings.
-
-NLM staff monitor the number of subscribers (known as "Followers") and respond to their comments and queries via Twitter, but we  do not track the personal information of our Twitter followers. NLM does not collect, maintain, disclose or share any information about people who follow NLM on Twitter. The Twitter Privacy Policy is available at: <http://twitter.com/privacy>.
-
-### WordPress
-
-NIH uses the _WordPress.com_ blog platform to support its NIH Director’s Blog initiative along with others, enabling visitors to interact with staff regarding news and initiatives posted by NIH leaders. As a visitor to an NIH Wordpress instance, you can access the NIH.gov home page and post comments. You do not need to register, provide your name, or supply any personal information. The comments are not collected, processed, or reported in any way. However, if you provide your name or other personally identifiable information (PII), the information you provide will appear along with your feedback. Although _WordPress_ offers some analytics and usage data to NIH, these reports do not include any PII. The reports are password- protected and only available to NIH Managers, System Owners, Communications Staff, Web Teams, and other designated staff that require this information to perform their duties. The _WordPress.com_ Privacy Policy is available at <http://automattic.com/privacy/>.
+The U.S. Government maintains this site. For site security purposes and to ensure that this service remains available to all users, we use software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Causing damage to federal computer systems is a violation of U.S. law and is subject to criminal prosecution in federal court. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from NLM web logs may be used to help identify an individual.
