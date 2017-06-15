@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the vioc.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121154309id_/http%3A//www.vioc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vioc.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615043843id_/https%3A//www.vioc.com/privacy-policy) for the most accurate reproduction.*
 
-# Valvoline
+# Valvoline Instant Oil Change
 
 Thank you for your trust in Valvoline Instant Oil Change, and for taking the time to read our Privacy Policy. This Privacy Policy tells you how we protect the privacy of your personal information that you may provide to us.
+
+Time-It Lube is now part of Valvoline Instant Oil Change.  
+
 
 We have organized our web sites so that you will not be required to identify yourself or reveal any personal Information in order to view our web sites. At times, we may ask you to provide information about yourself or your company in order to better serve you. If you choose to provide this personally identifiable information, we will use it in accordance with this Privacy Statement. By entering this web site, you are consenting to the terms of this Privacy Statement. This Privacy Statement only applies to data collected on the Valvoline Instant Oil Change web site (www.vioc.com). Other individual web sites of Valvoline or Ashland Inc. (collectively "Ashland"), including Valvoline.com, may have privacy statements tailored specifically for activity on those web sites and the terms of those privacy statements may differ from this Privacy Statement.
 
