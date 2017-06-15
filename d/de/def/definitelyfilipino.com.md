@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the definitelyfilipino.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507182058id_/http%3A//definitelyfilipino.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the definitelyfilipino.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615140624id_/http%3A//definitelyfilipino.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Definitely Filipino™ | Privacy Policy
+# Privacy Policy – Definitely Filipino™
 
 **Your Privacy**
 
