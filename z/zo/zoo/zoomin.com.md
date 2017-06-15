@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629224630id_/http%3A//www.zoomin.com/us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615094352id_/http%3A//www.zoomin.com/in/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,9 @@ When you visit the site you may provide the Publisher with two types of informat
 
 **App Use Information.**
 
-  * From time to time, we run exciting offers for our customers. In order for you to get full benefit of these offers, we will need to auto register you, using your Google Play Store email adress, if you do not already have a ZoomIn account. This is a requirement to mitigate any possible fraud, and to ensure you have a fun, hassle-free experience with ZoomIn's products and services. 
+  * In order to use the Zoomin App and enjoy frequent offers, we are required to auto register you using your Google Play Store email address or any other available email address already configured with your Google account. You are free to choose the email address that you would like to specifically use with the Zoomin App. This is a mandatory requirement to mitigate possible fraud and also ensure you have a fun, hassle-free experience with Zoomin’s products and services.
+  * When you place an order over our App, you will be requested provide us the recipient’s name, address, city, pin code and mobile no. as information. The ‘recipient’ could be you. This information is termed as 'Personal Information'. We collect and store Personal Information, provided by you, from time to time. We use the highest available encryption and securitization to protect your personal data. Details on how we use your information is provided in the section titled ‘How Do We Use The Information That You Provide To Us?’ Rest assured, our primary goal in collecting this information is to provide you an efficient, smooth and customized experience and to help resolve any possible disputes and assist you in troubleshoot situations.
+  * Although, you can use certain features of the App without telling us who you are or revealing any personal information about yourself, when you download the App we collect device related information pertaining to your mobile phone including, but not limited to, the type of mobile device you use, your mobile device's unique device ID, your mobile operating system, and irrespective of whether you register yourself on the App, once you give us your personal information, you are not anonymous to us. This also allows us to provide services and features that most likely meet your needs, and to improve our App in making your experience safer and easier. 
 
 
 
