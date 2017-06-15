@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228090935id_/http%3A//www.theatermania.com/extra/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616005606id_/http%3A//theatermania.com/extra/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,8 +17,8 @@ TheaterMania respects privacy rights, and is committed to safeguarding the Perso
 Under California law, California residents who have provided personally identifiable information to a company may have the right to request a list of all third parties to whom that company had disclosed such information for the third parties’ direct marketing purposes during the preceding calendar year, along with a list of the categories of Personal Information that had been so disclosed. However, TheaterMania’s policy, as disclosed on this Website, does not currently permit TheaterMania to share the Personal Information collected at this Website about you with non-affiliated third parties for such third parties’ direct marketing purposes. Moreover, even if TheaterMania’s policy permitted the disclosure of Personal Information to third parties for such third parties’ direct marketing purposes, because TheaterMania provides you with an opportunity to opt out of such disclosure, TheaterMania does not have to provide you with such lists. If you are a California resident who would like information on how to exercise your rights concerning third party disclosures, you may send an email to or contact us via postal mail at:
 
 TheaterMania.com, Inc.  
-1156 Avenue of the Americas, 5th Floor  
-New York, New York 10036  
+550 7th Ave., 16th floor  
+New York, New York 10018  
 Attn: California Privacy Rights Administrator
 
 [californiaprivacy@theatermania.com](mailto:californiaprivacy@theatermania.com)
@@ -120,8 +120,8 @@ To protect the confidentiality of your information and respect your wishes for h
 If you would like to check, change, or confirm your privacy choices please contact us at:
 
 TheaterMania.com, Inc.  
-1156 Avenue of the Americas, 5th Floor  
-New York, New York 10036  
+550 7th Ave., 16th floor  
+New York, New York 10018  
 Attn: Privacy Officer
 
 email: [privacy@theatermania.com](mailto:privacy@theatermania.com)
@@ -146,13 +146,13 @@ This Privacy Policy shall be governed by the laws of the State of New York of th
 If you have any questions or complaints concerning this Privacy Policy or our handling of your Personal Information (other than with respect to California Privacy Rights) you may contact us at [privacy@TheaterMania.com](mailto:privacy@theatermania.com) or write to us at:
 
 TheaterMania.com, Inc.  
-1156 Avenue of the Americas, 5th Floor  
-New York, New York 10036  
+550 7th Ave., 16th floor  
+New York, New York 10018  
 Attn: Privacy Officer
 
 If you have any questions concerning California Privacy Rights you may contact us at [californiaprivacy@TheaterMania.com](mailto:californiaprivacy@theatermania.com) or write to us at:
 
 TheaterMania.com, Inc.  
-1156 Avenue of the Americas, 5th Floor  
-New York, New York 10036  
+550 7th Ave., 16th floor  
+New York, New York 10018  
 Attn: California Privacy Rights Administrator
