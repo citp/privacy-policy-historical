@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vishvatimes.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216182415id_/http%3A//www.vishvatimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vishvatimes.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615111004id_/http%3A//www.vishvatimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vishvatimes
 
@@ -9,7 +9,7 @@ What this Privacy Policy Covers
 This policy tells you how Vishvatimes.com collects information from you, how we protect it and how we use it, and share all personal information which you provide when you use any of Vishvatimes.com sites (the “Sites”), unless otherwise specified on the relevant site where a different privacy policy will be displayed This policy does not apply to the practices of companies that Vishvatimes.com does not own or control or to people that Vishvatimes.com does not employ or manage.  
 Information Collection and Use
 
-We respect each visitor’s right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on [Vishvatimes.com.](http://www.ibnlive.com/privacy_policy.php)
+We respect each visitor’s right to personal privacy. To that end, we collect and use information throughout our web site only as disclosed in this Privacy Policy. This statement applies solely to the information collected on [Vishvatimes.com.](http://www.ibnlive.com/privacy_policy.php)
 
 We will collect personally identifiable information from you in a variety of ways including directly from you when you register on the Sites, use other Vishvatimes.com services, enter competitions or prize draws, navigate around our Sites or respond to communications from us. Vishvatimes.com may also receive personally identifiable information from, third parties including our related companies, our business partners and publicly available sources of information.
 
@@ -49,7 +49,7 @@ Vishvatimes.com will NOT disclose personally identifiable information about you 
 •We need to share the information with certain service partners in order to respond to your comments or to resolve service issues. (Unless we tell you differently, these partners have no independent right to use this information except to respond to your comments or to resolve the service issues.);  
 •We respond to requests from any Indian or foreign government, security, defence, revenue, regulatory or other authority, agency or officer;  
 •We respond to subpoenas, court orders or legal proceedings;  
-•When required by law that such action is necessary to protect and defend the rights of property [vishvatimes.com](http://ibnlive.in.com/)  
+•When required by law that such action is necessary to protect and defend the rights of property [vishvatimes.com](http://ibnlive.in.com/)  
 • When applicable law or regulation requires disclosure of information to protect the safety or security of users of our Sites;  
 • We find that your actions on our web sites violate the Web18 Terms of Service or any of our usage guidelines for specific products or services;  
 •If we sell the business of some of the Vishvatimes.com group of companies to another organisation or merge with other businesses. In this case, the buyer will only be able to use your information as set out in this Privacy Policy;  
@@ -107,4 +107,4 @@ Your right to access this website is conditional upon your full acceptance of th
 
 Contact Us
 
-If you need further assistance or have queries about our use of personal information, please send us an email with your questions or comments to [contact@vishvatimes.com](mailto:contact@vishvatimes.com)
+If you need further assistance or have queries about our use of personal information, please send us an email with your questions or comments to [contact@vishvatimes.com](mailto:contact@vishvatimes.com)
