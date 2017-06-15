@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yadtek.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224315id_/http%3A//www.yadtek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yadtek.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615031438id_/http%3A//www.yadtek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yadtek
 
