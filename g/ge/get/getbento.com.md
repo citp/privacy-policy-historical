@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getbento.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204095834id_/http%3A//getbento.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbento.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615095624id_/http%3A//getbento.com/privacy) for the most accurate reproduction.*
 
-# BentoBox | Restaurant Website Platform
+# Privacy Policy | BentoBox
 
 ## BentoBox Privacy Policy
 
@@ -83,8 +83,8 @@ We do not knowingly collect Personal Information from children under the age of 
 Under California Civil Code Section 1798.83, California residents who have an established business relationship with BentoBox may choose to opt out of our sharing their Personal Information with third parties for direct marketing purposes. If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to support@getbento.com or write to us at:
 
 BentoBox CMS, Inc.  
-210 Elizabeth Street, 3rd Floor,  
-New York, New York, USA 10012
+116 West Houston St, 3rd Floor,  
+New York, NY 10012 
 
 In addition, BentoBox does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
 
