@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225171516id_/http%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcinvasion.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615081308id_/https%3A//www.pcinvasion.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PC Invasion
+# Privacy Policy | PC Invasion
 
 **Introduction**
 
-We PCInvasion are incorporated in Scotland carrying on business as an online videogame network and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
+We PC Invasion are incorporated in Scotland carrying on business as an online videogame network and we are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy.
 
  **We are committed to protecting your privacy**
 
