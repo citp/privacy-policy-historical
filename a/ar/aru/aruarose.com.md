@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213184344id_/http%3A//www.aruarose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aruarose.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615131104id_/http%3A//www.aruarose.com/privacy-policy) for the most accurate reproduction.*
 
 # ROSE Online - AruaROSE - Free to Play 3D Fantasy Anime MMORPG
 
