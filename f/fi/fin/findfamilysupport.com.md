@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findfamilysupport.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119144333id_/http%3A//findfamilysupport.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findfamilysupport.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615080016id_/http%3A//findfamilysupport.com/privacy.php) for the most accurate reproduction.*
 
 # Find Family Support
 
@@ -46,7 +46,7 @@ WHAT DOES COMPANY DO WITH COLLECTED INFORMATION?
 
 6\. POLICY UPDATES
 
-6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2016 findfamilysupport.com
+6.1 UPDATES AND CHANGES. We reserve the right, at any time, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. All Content Copyright © 2017 findfamilysupport.com
 
 Click Here to [Contact Us](https://web.archive.org/contact.php)
 
