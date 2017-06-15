@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stanikosport.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027003039id_/http%3A//www.stanikosport.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanikosport.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615035136id_/http%3A//www.stanikosport.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | StanikoSport
 
 “We do not store credit card details nor do we share customer details with any 3rd parties"
 
-This privacy policy sets out how StanikoSport uses and protects any information that you give StanikoSport when you use this website. StanikoSport is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. StanikoSport may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+This privacy policy sets out how Stanikosport uses and protects any information that you give Stanikosport when you use this website. Stanikosport is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Stanikosport may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ## What we collect
 
