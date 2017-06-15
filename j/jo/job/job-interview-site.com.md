@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000906id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615161102id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
