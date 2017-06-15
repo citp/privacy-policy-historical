@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010061727id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cattipper.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615033351id_/http%3A//www.cattipper.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy-CatTipper
 
