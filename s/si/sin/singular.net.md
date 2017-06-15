@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singular.net privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827001155id_/https%3A//www.singular.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singular.net privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615131712id_/http%3A//singular.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Singular
+# Privacy Policy - Singular
 
 Singular Labs, Inc. (“we”, “us” or “Singular”) provides command and control solutions for mobile advertising (the “Solution”). Singular respects your right to privacy. Your ability to make informed choices about the uses of your information is important to us. This privacy policy details how we collect, use and store information and data that we receive. This privacy policy also details our mutual confidentiality obligations to the extent you use the Solution. If you have any comments or questions about our privacy policies, please contact us at contact@singular.net.
 
@@ -24,7 +24,7 @@ We may transfer our databases containing information if we sell our business or 
 
 **Cookies and related technologies**
 
-Our website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by us or third parties and stored on your device. They enable us to identify your device when you move between different websites and applications, and may be used to target ads to you on other websites.
+Our website uses cookies, tracking pixels and related technologies. Cookies are small data files that are served by us or third parties and stored on your device. They enable us to identify your device when you move between different websites and applications, and may be used to target ads to you on other websites.
 
 Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. You may also choose to opt-out of such tracking by clicking [here](http://preferences-mgr.truste.com/).
 
@@ -34,4 +34,4 @@ We may update this privacy policy from time to time, and we encourage you to rev
 **Comments and Questions**  
 If you have any comments or questions about our privacy policy, please contact us at contact@singular.net.
 
-Last updated: September 2015
+Last updated: September 2015
