@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdsreleasedates.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220165242id_/http%3A//www.dvdsreleasedates.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdsreleasedates.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615231849id_/http%3A//www.dvdsreleasedates.com//privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
