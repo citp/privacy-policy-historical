@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jjmehta.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231043352id_/http%3A//jjmehta.com/shop/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjmehta.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615211041id_/http%3A//jjmehta.com/shop/Privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement
 
