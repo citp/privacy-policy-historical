@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erasmusplusols.eu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040934id_/http%3A//erasmusplusols.eu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erasmusplusols.eu privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615170151id_/http%3A//erasmusplusols.eu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | Erasmus+ OLS
 
