@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715230020id_/http%3A//thebln.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615050137id_/http%3A//thebln.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The BLN
 
