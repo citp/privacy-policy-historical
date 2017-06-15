@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockfortwo.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030201230id_/http%3A//docs.cockfortwo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockfortwo.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615145151id_/http%3A//docs.cockfortwo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
