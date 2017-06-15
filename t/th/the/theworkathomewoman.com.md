@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theworkathomewoman.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119231538id_/http%3A//www.theworkathomewoman.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkathomewoman.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615191850id_/https%3A//www.theworkathomewoman.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure | The Work at Home Woman
 
 **Privacy policy**
 
-Holly Reisem Hanna (“us,” “we” or “our”) owns and operates The Work at Home Woman (“Website”). This privacy statement applies to our collection, use and sharing of personal information we receive from visitors and users of this website.
+Holly Reisem Hanna (“us,” “we” or “our”) owns and operates The Work at Home Woman, LLC (“Website”). This privacy statement applies to our collection, use and sharing of personal information we receive from visitors and users of this website.
 
 We use personal information solely for the purpose of providing and improving this Website. By using the Website, you agree to this privacy policy, including the collection and use of information in accordance with this privacy statement.
 
@@ -14,7 +14,7 @@ If you disagree with any aspect of this privacy policy, please discontinue use o
 
 While using the Website, you may provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information includes any of the following: your first and last name, your email address, you shipping and/or billing address and/or your credit card information if you make a purchase on this website (collectively “Personal Information”).
 
-Like many other sites, we collect information that your browser sends when you visit our Website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol address (“IP address”), browser information, Internet Service Provider (“ISP”) information, the pages of our Website that you visit, time spent on those pages and other statistics. We may also use third party services such as Google Analytics to collect, monitor and analyze Log Data.
+Like many other sites, we collect information that your browser sends when you visit our Website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol address (“IP address”), browser information, Internet Service Provider (“ISP”) information, the pages of our Website that you visit, time spent on those pages and other statistics. We may also use third-party services such as Google Analytics to collect, monitor and analyze Log Data.
 
 “Cookies” are files with small amounts of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive. Like many other websites, we use cookies to collect information solely for the purposes of analysis of content performance.
 
@@ -70,9 +70,9 @@ This blog accepts forms of cash advertising, sponsorship, paid insertions, and/o
 
 The compensation received may influence the advertising content, topics, or posts made on this blog. That content, advertising space or post may not always be identified as paid or sponsored content.
 
-The owner of this blog is compensated to provide opinion on products, services, websites, and various other topics. Even though the owner of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
+The owner of this blog is compensated to provide opinion on products, services, websites, and various other topics. Even though the owner of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers' own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
-The Work at Home Woman uses affiliate links on this website. What this means is if you choose to make a purchase or sign up for certain programs, I will earn a commission. Some companies The Work at Home Woman is affiliated with are FlexJobs, Indeed, Stella & Dot, Chloe + Isabel, Blue Host, FabJob, Avon, CareerStep, and Amazon. While this list is not extensive, note, we only promote advertising from companies we trust and feel we can legitimately recommend to our readers.
+The Work at Home Woman, LLC uses affiliate links on this website. What this means is if you choose to make a purchase or sign up for certain programs, I will earn a commission. Some companies The Work at Home Woman, LLC is affiliated with are FlexJobs, Indeed, Stella & Dot, Chloe + Isabel, Blue Host, FabJob, Avon, CareerStep, and Amazon. While this list is not extensive, note, we only promote advertising from companies we trust and feel we can legitimately recommend to our readers.
 
 If there are any questions regarding this disclosure policy, you may contact us using the information below.
 
