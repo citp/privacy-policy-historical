@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531192744id_/http%3A//www.batteries.com/pages/privacy-security-and-email) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteries.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615205508id_/http%3A//www.batteries.com/pages/privacy-security-and-email) for the most accurate reproduction.*
 
 # Privacy, Security and Email | Batteries – Batteries.com
 
