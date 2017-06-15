@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madfientist.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218203453id_/http%3A//madfientist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madfientist.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615204039id_/http%3A//madfientist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Mad Fientist
 
 Your privacy is very important to us. Accordingly, we have developed this policy in order for you to understand how we collect, use, communicate, disclose and make use of personal information. The following outlines our privacy policy.
 
