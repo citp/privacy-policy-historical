@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxpin.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127121026id_/https%3A//www.uxpin.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxpin.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615084228id_/https%3A//www.uxpin.com/privacy.html) for the most accurate reproduction.*
 
 # UXPin Privacy Policy
 
