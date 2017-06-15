@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taptica.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222222609id_/http%3A//www.taptica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taptica.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615193106id_/http%3A//www.taptica.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Taptica
+# Privacy - Taptica
 
 **Privacy Statement**
 
@@ -8,7 +8,11 @@ The Company, including its direct and/or indirect subsidiaries and affiliates wh
 
 **Acceptance of Terms**
 
-By visiting the Website or using the Service, you (“You”, “Your”) agree to be bound by this Policy. If You do not agree with this Policy, please do not use the Website or Service. The Privacy Policy should be read together with the Terms of Use http://taptica.com/termsandconditions/ which together comprise of the full agreement between the Company and its users.
+By visiting the Website or using the Service, you (“You”, “Your”) agree to be bound by this Policy. If You do not agree with this Policy, please do not use the Website or Service. The Privacy Policy should be read together with the Terms of Use which together comprise of the full agreement between the Company and its users.
+
+[Publishers terms & conditions](http://www.taptica.com/publisher-terms-conditions/)
+
+[Advertisers terms & conditions](http://www.taptica.com/advertisers-terms-conditions/)
 
 **What this Policy Covers**
 
@@ -50,7 +54,7 @@ iOS users – <http://support.apple.com/kb/HT4228>
 
 **Your Ability to disable Tracking Technologies (“Opt-Out”)**
 
-You may disable tracking technologies by sending an e-mail request to [operations@taptica.com](mailto:operations@taptica.com).  Within 24 hours after receiving your e-mail we will no longer collect non-PII information from You or Your users.
+You may disable tracking technologies by sending an e-mail request to moc.a1497555002citpa1497555002t@sno1497555002itare1497555002po1497555002.  Within 24 hours after receiving your e-mail we will no longer collect non-PII information from You or Your users.
 
 **Your End Users**
 
@@ -76,7 +80,7 @@ Once You uninstall or disable all tracking technologies, it will expire within 2
 
 **Contact Us**
 
-If You have questions or concerns regarding this Privacy Policy, please contact us at privacy@taptica.com.
+If You have questions or concerns regarding this Privacy Policy, please contact us at *protected email*.
 
 **Updates to this Policy**
 
