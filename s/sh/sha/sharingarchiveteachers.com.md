@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sharingarchiveteachers.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225409id_/http%3A//www.sharingarchiveteachers.com/p/if-you-require-any-more-information-or.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharingarchiveteachers.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616011908id_/http%3A//www.sharingarchiveteachers.com/p/if-you-require-any-more-information-or.html) for the most accurate reproduction.*
 
 # Privacy Policy My Blog
-
-Advertisement
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](mailto:privacy@YourSite.com).
 
