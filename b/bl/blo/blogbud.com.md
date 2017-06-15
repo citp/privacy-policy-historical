@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogbud.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014042220id_/http%3A//blogbud.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbud.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615192654id_/http%3A//blogbud.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy at Blog Pen - Free Blog Publishing
 
