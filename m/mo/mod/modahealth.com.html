@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the modahealth.com privacy policy that was archived on 2016-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161027124458id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the modahealth.com privacy policy that was archived on 2017-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615034230id_/https%3A//www.modahealth.com/privacy/index.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" class=" dk_fouc"><head>
 		<title>Moda Health Web Privacy</title>
@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="/css/dropkick.css" type="text/css">
         <link rel="stylesheet" href="/css/jquery.dataTables.css" type="text/css">
         <link rel="stylesheet" href="/css/blueimp-gallery.min.css"><!--looks to only be used for photo gallery on community/news/photos.shtml-->
-		<link rel="stylesheet" href="/css/main.css?1472751724698" type="text/css">
+		<link rel="stylesheet" href="/css/main.css?1489700190499" type="text/css">
 		<!--[if lt IE 9]>
 	    <link rel="stylesheet" type="text/css" href="/css/fontface.css" />
         <![endif]-->
@@ -28,6 +28,7 @@
         <script type="text/javascript">
             window.jQuery || document.write('<script src="/scripts/jquery-1.7.0.min.js"><\/script>');
         </script><script src="/scripts/jquery-1.7.0.min.js"></script>
+		<script src="/scripts/jquery-ui-1.8.1.custom.min.js" type="text/javascript"></script> <!--needed for news carousel scroll effect easeInOutCubic, I think this is the only thing jquery UI is used for-->
 		<script src="/scripts/jquery.cookie.js" type="text/javascript"></script>
 		<script src="/scripts/jquery.foundation.reveal.js" type="text/javascript"></script>
 		<script src="/scripts/jquery.dropkick-1.0.0.js" type="text/javascript"></script>
@@ -46,31 +47,25 @@
 				'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 		})(window,document,'script','dataLayer','GTM-NZV82B');</script>
 		<!-- End Google Tag Manager -->
-
-		<!--for performance analytics integrated with azure to visualize data-->
-		<script type="text/javascript">
-	        var appInsights=window.appInsights||function(config){
-	            function r(config){t[config]=function(){var i=arguments;t.queue.push(function(){t[config].apply(t,i)})}}var t={config:config},u=document,e=window,o="script",s=u.createElement(o),i,f;for(s.src=config.url||"//az416426.vo.msecnd.net/scripts/a/ai.0.js",u.getElementsByTagName(o)[0].parentNode.appendChild(s),t.cookie=u.cookie,t.queue=[],i=["Event","Exception","Metric","PageView","Trace"];i.length;)r("track"+i.pop());return r("setAuthenticatedUserContext"),r("clearAuthenticatedUserContext"),config.disableExceptionTracking||(i="onerror",r("_"+i),f=e[i],e[i]=function(config,r,u,e,o){var s=f&&f(config,r,u,e,o);return s!==!0&&t["_"+i](config,r,u,e,o),s}),t
-	        }({
-	            instrumentationKey:"41800946-8d87-4e14-b884-e92a58e6eb8c"
-	        });
-	        
-	        window.appInsights=appInsights;
-	        appInsights.trackPageView();
-	    </script><script src="//az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+		
 	    <!--BEGIN QUALTRICS SITE INTERCEPT-->
+		<!--modified to not execute on localhost environments (throws 403 forbidden), matt h. 11-3-16-->
 		<script type="text/javascript">
-		(function(){var g=function(e,h,f,g){
-		this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
-		this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
-		this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
-		this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
-		this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
-		try{(new g(100,"r","QSI_S_SI_5nZIqg834HO4jBj","//zn0f9kcwf61byxw8d-modahealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_5nZIqg834HO4jBj&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}})();
+			var localhost = window.location.host.indexOf('www') === -1;
+			
+			(function(){
+				if (!localhost) {
+					var g=function(e,h,f,g){
+					this.get=function(a){for(var a=a+"=",c=document.cookie.split(";"),b=0,e=c.length;b<e;b++){for(var d=c[b];" "==d.charAt(0);)d=d.substring(1,d.length);if(0==d.indexOf(a))return d.substring(a.length,d.length)}return null};
+					this.set=function(a,c){var b="",b=new Date;b.setTime(b.getTime()+6048E5);b="; expires="+b.toGMTString();document.cookie=a+"="+c+b+"; path=/; "};
+					this.check=function(){var a=this.get(f);if(a)a=a.split(":");else if(100!=e)"v"==h&&(e=Math.random()>=e/100?0:100),a=[h,e,0],this.set(f,a.join(":"));else return!0;var c=a[1];if(100==c)return!0;switch(a[0]){case "v":return!1;case "r":return c=a[2]%Math.floor(100/c),a[2]++,this.set(f,a.join(":")),!c}return!0};
+					this.go=function(){if(this.check()){var a=document.createElement("script");a.type="text/javascript";a.src=g+ "&t=" + (new Date()).getTime();document.body&&document.body.appendChild(a)}};
+					this.start=function(){var a=this;window.addEventListener?window.addEventListener("load",function(){a.go()},!1):window.attachEvent&&window.attachEvent("onload",function(){a.go()})}};
+					try{(new g(100,"r","QSI_S_SI_5nZIqg834HO4jBj","//zn0f9kcwf61byxw8d-modahealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_5nZIqg834HO4jBj&Q_LOC="+encodeURIComponent(window.location.href))).start()}catch(i){}
+				}
+			})(localhost);
 		</script></head><body class="home" style="font-size: 88%;"><div id="SI_5nZIqg834HO4jBj"><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
 		<!--END SITE INTERCEPT-->
-
-
 
 	
 
@@ -111,12 +106,17 @@
 						</ul>
 					</li>
 					<li>
+						<span><a href="/members/plans/grp">Group plans</a></span>
+					</li>
+					<li>
 						<span><a href="#tbd">Individual plans</a></span>
 						<ul>
 							<li><a href="/plans/individual/index.shtml">Medical</a></li>
 							<li><a href="/plans/individual/rx/index.shtml">Pharmacy</a></li>
-							<li><a href="/plans/individual/rx/network.shtml">Pharmacy&nbsp;networks</a></li>
-							<li><a href="/plans/individual/rx/mail.shtml">Mail-order&nbsp;medications</a></li>
+							<!--
+							<li><a href="/plans/individual/rx/network.shtml">Pharmacy networks</a></li>
+							<li><a href="/plans/individual/rx/mail.shtml">Mail-order medications</a></li>
+							-->
 							<li class="content_or content_ak" style="display: none !important"><a href="/plans/individual/dental.shtml">Dental</a></li>
 						</ul>
 					</li>
@@ -126,7 +126,7 @@
 							<li><a href="/plans/medicare/2017/adv_pporx.shtml" class="pporx">Moda Health PPORX</a></li>
 							<li><a href="/plans/medicare/2017/adv_ppo.shtml" class="ppo">Moda Health PPO</a></li>
 							<li><a href="/plans/medicare/2017/adv_hmo.shtml" class="modaHMO">Moda Health HMO&nbsp;(HMO-POS)</a></li>
-							<li><a href="/plans/medicare/2016/sr_select.shtml" class="medicareSupplement">Medicare&nbsp;Supplement</a></li>
+							<li><a href="/plans/medicare/2017/sr_select.shtml" class="medicareSupplement">Medicare&nbsp;Supplement</a></li>
 							<li><a href="/plans/medicare/2017/mtm_program.shtml">Medication Therapy Management&nbsp;Program</a></li>
 							<li><a href="/plans/medicare/forms.shtml">Forms</a></li>
 						</ul>
@@ -145,15 +145,17 @@
 						<ul>
 							<li><a href="/members/live_well.shtml">Be Better tools</a></li>
 							<li><a href="/digitalcard/index.shtml">Digital ID card</a></li>
-							<li class="content_or content_wa" style="display: none !important"><a href="/plans/individual/rx/card.shtml">Pharmacy discount card</a> </li>
-						  	<li><a href="/members/prev_svcs.shtml">Preventive&nbsp;services</a></li>    
-						  	<li><a href="/plans/individual/121101/faq_members.shtml">Member&nbsp;FAQs</a>
-                            </li><li><a href="/members/forms.shtml">Forms</a></li>
+							<li><a href="/members/ebill.shtml">eBill</a></li>
+							<li><a href="/members/forms.shtml">Forms</a></li>
 							<li><a href="/members/glossary.shtml">Glossary</a></li>
-							<li><a href="/members/samples.shtml">Sample&nbsp;documents</a></li>
-							<li><a href="/learning/learning.shtml">Learning&nbsp;Center</a></li>
-							<li><a href="/members/sbc.shtml">Summaries of<br>benefits and&nbsp;coverage</a></li>
 							<li><a href="/members/handbooks.shtml">Handbooks</a></li>
+							<li><a href="/learning/learning.shtml">Learning&nbsp;Center</a></li>
+							<li><a href="/plans/individual/121101/faq_members.shtml">Member&nbsp;FAQs</a>
+							</li><li class="content_or content_wa" style="display: none !important"><a href="/plans/individual/rx/card.shtml">Pharmacy discount card</a> </li>
+						  	<li><a href="/members/prev_svcs.shtml">Preventive&nbsp;services</a></li>    
+						  	<li><a href="/members/priorauth">Prior&nbsp;authorization</a></li>
+							<li><a href="/members/samples.shtml">Sample&nbsp;documents</a></li>
+							<li><a href="/members/sbc.shtml">Summaries of<br>benefits and&nbsp;coverage</a></li>
 							<li><a href="/members/transparency.shtml">Transparency in coverage</a></li>
 						</ul>
 					</li>
@@ -178,8 +180,8 @@
 							<li><a href="/employers/plans/index.shtml">Overview</a></li>
 							<li><a href="/employers/plans/medical.shtml">Medical</a></li>
 							<li><a href="/employers/plans/pharmacy.shtml">Pharmacy</a></li>
-							<li><a href="/employers/plans/participatingrx.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/employers/plans/mailorderrx.shtml">Mail-order&nbsp;medication</a></li>
+							<!--li><a href="/employers/plans/participatingrx.shtml">Participating pharmacies</a></li-->
+							<!--li><a href="/employers/plans/mailorderrx.shtml">Mail-order medication</a></li-->
 							<li class="content_or content_ak" style="display: none !important"><a href="/employers/plans/dental.shtml">Dental</a></li>
 							<li><a href="/employers/enroll.shtml">Enrollment</a></li>
 						</ul>
@@ -208,14 +210,17 @@
 					<li>
 						<span><a href="#tbd">Resources</a></span>
 						<ul>
-							<li class="content_or"><a href="/employers/plans/drugdiscountcard.shtml">Drug discount card</a></li>
-							<li class="content_or"><a href="/employers/news.shtml">Newsletter</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/employers/mkt_materials.shtml">Flyers</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/employers/compliance.shtml">Compliance</a></li>
-							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/employers/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
+							<li class="content_or"><a href="/employers/plans/drugdiscountcard.shtml">Drug discount card</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/employers/mkt_materials.shtml">Flyers</a></li>
+							<li><a href="/employers/forms.shtml">Forms</a></li>
+							<li class="content_or"><a href="/employers/news.shtml">Newsletter</a></li>
+							<li class="content_or"><a href="/employers/priorauth/">Prior&nbsp;authorization</a></li>
 							<li class="content_or"><a href="/pdfs/group_admin_guide.pdf">Group Administrative Guide&nbsp;(PDF)</a></li>
                             <li class="content_ak" style="display: none !important"><a href="/pdfs/ak/group_admin_guide.pdf">Group administrative guide</a></li>
-							<li><a href="/employers/forms.shtml">Forms</a></li>
+							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/employers/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
+							
+							
 							<li><a href="/employers/samples.shtml">Sample&nbsp;Documents</a></li>
 							<!--li><a href="/employers/sb.shtml">Summaries of benefit</a></li-->
 						</ul>
@@ -233,8 +238,8 @@
 							<li class="content_or content_ak content_wa" style="display: none !important">
 								<a href="/producers/rx/group.shtml">Pharmacy</a>
 							</li>
-							<li><a href="/producers/rx/network.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/producers/rx/mail.shtml">Mail-order&nbsp;medications</a></li>
+							<!--li><a href="/producers/rx/network.shtml">Participating pharmacies</a></li-->
+							<!--li><a href="/producers/rx/mail.shtml">Mail-order medications</a></li-->
 							<li class="content_or content_ak" style="display: none !important"><a href="/producers/grp/den.shtml">Dental</a></li>
 							<li class="content_wa content_or content_ak" style="display: none !important">
 								<a href="/producers/grp/enroll.shtml">Enrollment</a>
@@ -247,8 +252,8 @@
 						<ul>
 							<li><a href="/producers/ind/index.shtml">Medical</a></li>
 							<li><a href="/producers/rx/individual.shtml">Pharmacy</a></li>
-							<li><a href="/producers/ind/network.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/producers/rx/mail.shtml">Mail-order&nbsp;medications</a></li>
+							<!--li><a href="/producers/ind/network.shtml">Participating pharmacies</a></li-->
+							<!--li><a href="/producers/rx/mail.shtml">Mail-order medications</a></li-->
 							<li class="content_or content_ak" style="display: none !important"><a href="/producers/dental/dental.shtml">Dental</a></li>
 						</ul>
 					</li>
@@ -268,7 +273,7 @@
 							<li><a href="/plans/medicare_producer/2017/adv_pporx.shtml" class="producer-PPROX">Moda Health PPORX</a></li>
 							<li><a href="/plans/medicare_producer/2017/adv_ppo.shtml" class="producer-PPO">Moda Health PPO</a></li>
 							<li><a href="/plans/medicare_producer/2017/adv_hmo.shtml" class="producer-HMO">Moda Health HMO&nbsp;(HMO-POS)</a></li>
-							<li><a href="/plans/medicare_producer/2016/sr_select.shtml" class="medicareSupplement">Medicare&nbsp;Supplement</a></li>
+							<li><a href="/plans/medicare_producer/2017/sr_select.shtml" class="medicareSupplement">Medicare&nbsp;Supplement</a></li>
 							<li><a href="/plans/medicare_producer/2017/mtm_program.shtml">Medicare Therapy Managment&nbsp;Program</a></li>
 						</ul>
 					</li>
@@ -277,15 +282,18 @@
 						<ul>
                             <!--li><a href="/producers/roadshow.shtml">Road Show</a></li-->
 							<li class="content_or content_wa" style="display: none !important"><a href="/producers/rx/card.shtml">Drug discount card</a></li>
-                            <li class="stepchild"><a href="/producers/pharmacy_prefdrug.shtml">Preferred Drug Program</a></li>
-							
-							<li class="content_wa content_ak content_or" style="display: none !important"><a href="/producers/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
-                            <li class="content_ca" style="display: none !important"><a href="/plans/individual/resources/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
+							<li><a href="/producers/forms.shtml">Forms</a></li>
 							<li class="content_or"><a href="/pdfs/group_admin_guide.pdf">Group administrative guide</a></li>
                             <li class="content_ak" style="display: none !important"><a href="/pdfs/ak/group_admin_guide.pdf">Group administrative guide</a></li>
-							<li><a href="/producers/forms.shtml">Forms</a></li>
-							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/producers/samples.shtml">Samples</a></li>
-                  			<li class="content_ak" style="display: none !important"><a href="/pdfs/ak/uw_field_guide.pdf">Individual underwriting guidelines</a></li>
+							<li class="content_ak" style="display: none !important"><a href="/pdfs/ak/uw_field_guide.pdf">Individual underwriting guidelines</a></li>
+                            <li class="stepchild"><a href="/producers/pharmacy_prefdrug.shtml">Preferred Drug Program</a></li>
+                            <li><a href="/producers/priorauth/">Prior&nbsp;authorization</a></li>
+							<li class="content_wa content_ak content_or" style="display: none !important"><a href="/producers/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
+                            <li class="content_ca" style="display: none !important"><a href="/plans/individual/resources/mkt_team.shtml">Sales &amp; Account  Services&nbsp;team</a></li>
+							
+							
+							<li class="content_wa content_or content_ak" style="display: none !important"><a href="/producers/samples.shtml">Sample&nbsp;Documents</a></li>
+                  			
 						</ul>
 					</li>
 				</ul>
@@ -329,7 +337,7 @@
 					<li><span><a href="#tbd">Authorization &amp; referrals</a></span>
 						<ul>
 							<li><a href="/medical/referrals/">Referral and authorization&nbsp;guidelines</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/medical/imaging.shtml">Diagnostic Imaging Management Service&nbsp;FAQs</a></li>
+							<li class="content_or content_ak" style="display: none !important"><a href="/medical/utilizationmanagement.shtml">Advanced Imaging and musculoskeletal utilization management&nbsp;programs</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/medical/injectables/">Injectable medication program</a></li>
 							<li class="content_or content_ak" style="display: none !important"><a href="/medical/claim_edits_policy/">Claim edits policy</a> </li>
 							<li><a href="/medical/medical_criteria.shtml">Medical necessity criteria</a></li>
@@ -496,8 +504,8 @@
 						<ul>
 							<li><a href="/plans/individual/rx/index.shtml">Overview</a></li>
 							<li class="content_or content_wa" style="display: none !important"><a href="/plans/individual/rx/card.shtml">Drug discount card</a></li>
-							<li><a href="/plans/individual/rx/network.shtml">Participating&nbsp;pharmacies</a></li>
-							<li><a href="/plans/individual/rx/mail.shtml">Mail-order&nbsp;medications</a></li>
+							<!--li><a href="/plans/individual/rx/network.shtml">Participating pharmacies</a></li-->
+							<!--li><a href="/plans/individual/rx/mail.shtml">Mail-order medications</a></li-->
 						</ul>
 					</li>
 					<li class="content_or"><span class="content_or"><a href="/plans/individual/medicare.shtml">Medicare</a></span></li>
@@ -538,9 +546,9 @@
 							<li><a href="/employers/plans/index.shtml">Overview</a></li>
 							<li><a href="/employers/plans/medical.shtml">Medical</a></li>
 							<li><a href="/employers/plans/pharmacy.shtml">Pharmacy</a>
-							</li><li><a href="/employers/plans/participatingrx.shtml">Participating&nbsp;Pharmacies</a></li>
-							<li><a href="/employers/plans/mailorderrx.shtml">Mail-order&nbsp;medications</a></li>
-							<li class="content_or content_ak" style="display: none !important"><a href="/employers/plans/dental.shtml">Dental</a></li>
+							<!--li><a href="/employers/plans/participatingrx.shtml">Participating Pharmacies</a></li-->
+							<!--li><a href="/employers/plans/mailorderrx.shtml">Mail-order medications</a></li-->
+							</li><li class="content_or content_ak" style="display: none !important"><a href="/employers/plans/dental.shtml">Dental</a></li>
 							<li><a href="/employers/enroll.shtml">Enrollment</a></li>
 						</ul>
 					</li>
@@ -593,7 +601,6 @@
 							<li style="display: none;"><a href="/community/news/">News &amp; videos</a></li>
 						</ul>
 					</li>
-					<li><span><a href="/community/moda_moments/">Moda moments</a></span></li>
 					<li><span><a href="/modahealthmonths/">Moda Health Months</a></span>
 						<!--ul>
 							<li><a href="/modahealthmonths/">Overview</a></li>
@@ -624,8 +631,6 @@
                             <li><a href="/community/blazers/moda_center.shtml">Moda&nbsp;Center</a></li>
                         </ul>
                     </li>
-                    <li><span><a href="/community/seahawks">Seahawks</a></span></li>
-                    <li><span><a href="/community/kevin_carroll">Kevin Carroll</a></span></li>
                 </ul>
 
 				<ul class="about news">
@@ -673,14 +678,15 @@
 						<span><a href="/about/compliance.shtml">Compliance tools</a></span>
 					</li>
 				</ul>
-				
+				<!--
 				<ul class="oebbHome">
-					<li><span><a href="/oebb/members/">I’m a member</a></span></li>
-					<li><span><a href="/oebb/entity/">I’m an entity</a></span></li>
+					<li><span><a href="/oebb/members/">I&#8217;m a member</a></span></li>
+					<li><span><a href="/oebb/entity/">I&#8217;m an entity</a></span></li>
 				</ul>
+			-->
 				
-				<ul class="oebbMembers">
-					<li><span><a href="/oebb/members/">I’m a member</a></span></li>
+				<ul class="oebbMembers oebbHome">
+					<li><span><a href="/oebb/">OEBB members</a></span></li>
                     <li><span><a href="#tbd"><!--/oebb/members/fit/-->Fit It In!</a></span>
                     
                      <ul>
@@ -911,7 +917,7 @@
 				</ul>
 
 				<ul class="oebbEntities">
-					<li><span><a href="/oebb/entity/">I’m an entity</a></span></li>
+					<li><span><a href="/oebb/entity/">OEBB entities</a></span></li>
                 	<li>
                 		<span><a href="#tbd"><!--/oebb/entity/act/-->Additional Cost Tier</a></span>
 						<ul>
@@ -1117,7 +1123,7 @@
 						</li>
 					</ul>
 				</div>
-				<div class="leftAction home" style="display: none;">
+				<div class="leftAction home pebbHome oebbMembers oebbHome oebbEntities" style="display: none;">
 					<form class="box home guest members oebbHome oebbMembers oebbEntities oebbAct fourj nike employers pebb pers washington aims alaskacare content_wa content_ak content_or" method="post" action="/mymoda/logon.do" style="display: none !important">
 						<img src="/images/rdm/logo_mymoda_login.png" style="margin-top: 6px;">
 						<div class="inputText">
@@ -1142,14 +1148,6 @@
 						</div>
 
 					</form>
-				</div>
-				<div class="leftAction">
-					<div class="box home guest members producers individualPlans california content_ca ca_map" style="display: none !important">
-						<br>
-						<h1>Where we are</h1>
-						<a href="/california/counties/index.shtml"><img src="/images/california/ca-landing-map.png" alt="Where we are"></a>
-						<p><a href="/california/counties/index.shtml">Click here</a> to see if your county is eligible.</p>
-					</div>
 				</div>
                 <ul class="edi">
                           <li>
@@ -1225,12 +1223,11 @@
 					</p>
 					<div id="left-block">
 						<form id="select_state_form">
-							<div class="dk_container dk_theme_moda" id="dk_container_select_state" tabindex="" style="display: block;"><a class="dk_toggle" style="width: 103px;"><span class="dk_label">Select a state</span></a><div class="dk_options"><ul class="dk_options_inner"><li class="dk_option_current"><a data-dk-dropdown-value="">Select a state</a></li><li class=""><a data-dk-dropdown-value="OR">Oregon</a></li><li class=""><a data-dk-dropdown-value="WA">Washington</a></li><li class=""><a data-dk-dropdown-value="AK">Alaska</a></li><li class=""><a data-dk-dropdown-value="CA">California</a></li></ul></div></div><select id="select_state" name="util_state_select" class="util-where custom_theme" style="display: none;">
+							<div class="dk_container dk_theme_moda" id="dk_container_select_state" tabindex="" style="display: block;"><a class="dk_toggle" style="width: 103px;"><span class="dk_label">Select a state</span></a><div class="dk_options"><ul class="dk_options_inner"><li class="dk_option_current"><a data-dk-dropdown-value="">Select a state</a></li><li class=""><a data-dk-dropdown-value="OR">Oregon</a></li><li class=""><a data-dk-dropdown-value="WA">Washington</a></li><li class=""><a data-dk-dropdown-value="AK">Alaska</a></li></ul></div></div><select id="select_state" name="util_state_select" class="util-where custom_theme" style="display: none;">
 							  <option value="" default="">Select a state</option>
 							  <option value="OR">Oregon</option>
 							  <option value="WA">Washington</option>
 							  <option value="AK">Alaska</option>
-							  <option value="CA">California</option>
 							</select>
 						</form>
 						
@@ -1608,7 +1605,7 @@ Portland, OR 97240<br>
 					</div-->
 
 
-				<form class="box guest members oebbHome oebbMembers oebbEntities oebbAct fourj nike pebb pers washington california aims alaskacare content_wa content_ak content_or" method="post" action="/mymoda/logon.do" style="display: none !important">
+				<form class="box guest members oebbAct fourj nike pebb pers washington california aims alaskacare content_wa content_ak content_or" method="post" action="/mymoda/logon.do" style="display: none !important">
 					<img src="/images/rdm/logo_mymoda_login.png" style="margin-top: 6px;">
 					<div class="inputText">
 						<input name="userId" size="15" value="" maxlength="16" type="text" class="inputText">
@@ -1879,12 +1876,11 @@ Portland, OR 97240<br>
      <!--p>Tell us who you are so we can tailor your Moda Health experience:</p-->
      <p>Please select the state you live in, or the state where your employer is headquartered, so we can tailor your experience:</p>
          <form>
-            <div class="dk_container dk_theme_moda" id="dk_container_fat_select" tabindex="1" style="display: block;"><a class="dk_toggle" style="width: 103px;"><span class="dk_label">Select a state</span></a><div class="dk_options"><ul class="dk_options_inner"><li class="dk_option_current"><a data-dk-dropdown-value="">Select a state</a></li><li class=""><a data-dk-dropdown-value="AK">Alaska</a></li><li class=""><a data-dk-dropdown-value="OR">Oregon</a></li><li class=""><a data-dk-dropdown-value="WA">Washington</a></li><li class=""><a data-dk-dropdown-value="CA">California</a></li></ul></div></div><select name="fat_select" class="modal_select custom_theme" tabindex="1" style="display: none;">
+            <div class="dk_container dk_theme_moda" id="dk_container_fat_select" tabindex="1" style="display: block;"><a class="dk_toggle" style="width: 103px;"><span class="dk_label">Select a state</span></a><div class="dk_options"><ul class="dk_options_inner"><li class="dk_option_current"><a data-dk-dropdown-value="">Select a state</a></li><li class=""><a data-dk-dropdown-value="AK">Alaska</a></li><li class=""><a data-dk-dropdown-value="OR">Oregon</a></li><li class=""><a data-dk-dropdown-value="WA">Washington</a></li></ul></div></div><select name="fat_select" class="modal_select custom_theme" tabindex="1" style="display: none;">
       				<option value="">Select a state</option>
       				<option value="AK">Alaska</option>
       				<option value="OR">Oregon</option>
       				<option value="WA">Washington</option>
-              <option value="CA">California</option>
             </select>
             <!--a class="mdl-inq tooltip" title="Please select your state, <br />or the state where your <br />employer is headquartered"></a-->
             <input type="submit" value="Go!" class="modal_go inactive" disabled="disabled">
@@ -1901,12 +1897,11 @@ Portland, OR 97240<br>
      <!--p class="single_spaced">Tell us who you are so <br />we can tailor your <br />Moda Health experience:</p-->
      <p class="single_spaced">Please select the state you live in, or the state where your employer is headquartered, so we can tailor your experience:</p>
          <form>
-            <div class="dk_container dk_theme_moda" id="dk_container_thin_select" tabindex="" style="display: block;"><a class="dk_toggle" style="width: 103px;"><span class="dk_label">Select a state</span></a><div class="dk_options"><ul class="dk_options_inner"><li class="dk_option_current"><a data-dk-dropdown-value="">Select a state</a></li><li class=""><a data-dk-dropdown-value="AK">Alaska</a></li><li class=""><a data-dk-dropdown-value="OR">Oregon</a></li><li class=""><a data-dk-dropdown-value="WA">Washington</a></li><li class=""><a data-dk-dropdown-value="CA">California</a></li></ul></div></div><select name="thin_select" class="modal_select custom_theme" style="display: none;">
+            <div class="dk_container dk_theme_moda" id="dk_container_thin_select" tabindex="" style="display: block;"><a class="dk_toggle" style="width: 103px;"><span class="dk_label">Select a state</span></a><div class="dk_options"><ul class="dk_options_inner"><li class="dk_option_current"><a data-dk-dropdown-value="">Select a state</a></li><li class=""><a data-dk-dropdown-value="AK">Alaska</a></li><li class=""><a data-dk-dropdown-value="OR">Oregon</a></li><li class=""><a data-dk-dropdown-value="WA">Washington</a></li></ul></div></div><select name="thin_select" class="modal_select custom_theme" style="display: none;">
 				<option value="">Select a state</option>
 				<option value="AK">Alaska</option>
 				<option value="OR">Oregon</option>
 				<option value="WA">Washington</option>
-        <option value="CA">California</option>
             </select>
             <!--a class="mdl-inq tooltip" title="Please select your state,<br /> or the state where your <br />employer is headquartered"></a-->
          
@@ -1945,4 +1940,4 @@ Portland, OR 97240<br>
 		</div><!--pagewrap-->
 	
 
-<script id="dwr-st-0" src="https://web.archive.org/web/20161001044253/https://www.modahealth.com/DynamicContentToolServiceAjax/dwr/call/plaincall/GetContent.getContent.dwr?callCount=1&amp;page=%2Fweb%2F20161027124458id_%2Fhttps%253A%2F%2Fwww.modahealth.com%2Fprivacy%2Findex.shtml&amp;httpSessionId=&amp;scriptSessionId=AA9662FF22AB887EF072FC2CC8DDB197161&amp;c0-scriptName=GetContent&amp;c0-methodName=getContent&amp;c0-id=0&amp;c0-param0=string%3AGLB&amp;c0-param1=string%3ASvcAlert&amp;c0-param2=null%3Anull&amp;c0-param3=Date%3A1580378013988&amp;batchId=0"></script><script type="text/javascript" src="//zn0f9kcwf61byxw8d-modahealth.siteintercept.qualtrics.com/WRSiteInterceptEngine/?Q_SIID=SI_5nZIqg834HO4jBj&amp;Q_LOC=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161027124458id_%2Fhttps%253A%2F%2Fwww.modahealth.com%2Fprivacy%2Findex.shtml&amp;t=1580378014773"></script></body></html>
+<script id="dwr-st-0" src="https://web.archive.org/web/20161001044253/https://www.modahealth.com/DynamicContentToolServiceAjax/dwr/call/plaincall/GetContent.getContent.dwr?callCount=1&amp;page=%2Fweb%2F20170615034230id_%2Fhttps%253A%2F%2Fwww.modahealth.com%2Fprivacy%2Findex.shtml&amp;httpSessionId=&amp;scriptSessionId=AA9662FF22AB887EF072FC2CC8DDB197714&amp;c0-scriptName=GetContent&amp;c0-methodName=getContent&amp;c0-id=0&amp;c0-param0=string%3AGLB&amp;c0-param1=string%3ASvcAlert&amp;c0-param2=null%3Anull&amp;c0-param3=Date%3A1580378014243&amp;batchId=0"></script></body></html>
