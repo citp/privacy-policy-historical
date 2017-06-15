@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the mytime.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130195623id_/https%3A//www.mytime.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytime.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615193636id_/https%3A//www.mytime.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy - MyTime
-
-[](https://privacy.truste.com/privacy-seal/Melian-Labs-Inc-/validation?rid=5072c219-d9f7-4632-9eac-54641f375092 "TRUSTe online privacy certification")
 
 Effective Date: May 15, 2015
 
 This privacy policy ("Privacy Policy") describes how Melian Labs Inc. dba MyTime ("MyTime") collects and uses the personal information you provide on any of our websites, including www.mytime.com, our mobile applications, and other MyTime offerings including but not limited to the MyTime Scheduler (collectively "MyTime Site"). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. This Privacy Policy does not apply to information collected by third parties. 
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is to not use the MyTime Site. By accessing or using the MyTime Site, you agree to the terms of this Privacy Policy, which may change from time to time. Your use of the MyTime Site after we make any changes to the Privacy Policy constitutes acceptance of those changes, so please check the policy periodically for updates.
-
-MyTime has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.mytime.com and does not cover information that may be collected through our mobile applications. 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here.](https://feedback-form.truste.com/watchdog/request)
 
 Please contact us if you have any questions or comments about our privacy practices or this Privacy Policy. You can reach us online at [support@mytime.com](mailto:support@mytime.com). You can reach us via postal mail at the following address: 
 
@@ -124,8 +118,6 @@ In many cases, the information we collect using cookies and other tools is used 
 MyTime has relationships with third party advertising companies to place advertisements on our behalf onto other websites, and to perform tracking and reporting functions for the MyTime Site and our advertisements. These third parties may automatically collect information about your visit to the Site and other websites, your IP address, your ISP and the browser you use to visit this Site. They do this by using cookies, clear gifs and other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other websites tracked by these third parties. This Privacy Policy does not cover the collection methods or use of the information collected by these third parties, and MyTime is not responsible for cookies or clear gifs in third party ads. We encourage you to review the privacy policies or statements of these third party advertising companies to learn more about their use of cookies and other technologies. If you would like more information about this practice and to know your choices about not having this information used by third party advertisers, please visit [http://www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 We engage in remarketing to market the MyTime Site across the web. When a user visits our site, a cookie is dropped on the user. Users with this cookie may be targeted across advertising networks to receive relevant advertisements. You may opt out of this ad serving using the Network Advertising Initiative (NAI) opt-out page (<http://www.networkadvertising.org/managing/opt_out.asp>). 
-
-If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
 For our internal purposes, we employ third party web analytics services to track certain information in connection with your use of our Site. If you wish not to be tracked by our third party web analytics service, please click on the following link(s) for further instructions on how to "opt out" of such services: 
 
