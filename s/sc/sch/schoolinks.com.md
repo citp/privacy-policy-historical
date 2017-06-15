@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolinks.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027165255id_/https%3A//www.schoolinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolinks.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616010822id_/https%3A//www.schoolinks.com/privacy) for the most accurate reproduction.*
 
 # SchooLinks - Privacy and Policy
 
@@ -14,7 +14,15 @@ Cookies are small data text files and can be stored on your computer’s hard dr
 
 ## Information We Collect
 
-We collect information from you when you register on our site or fill out a form. When registering on our site, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.If you provide location information (like a ZIP/Postal code, street address, or even just a city) during the registration process or at any other time via your account settings, we will store that information and associate it with your account.
+We collect information from you when you register on our site or fill out a form. When registering on our site, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously. If you provide location information (like a ZIP/Postal code, street address, or even just a city) during the registration process or at any other time via your account settings, we will store that information and associate it with your account. We use analytics tools to collect some information about your use of the Site. We use the information we get to improve the Site and to help improve your experience. In order to collect this information, cookies may be set on your browser or mobile device, or read if they are already there.
+
+## How We Use the Information Collected
+
+We may use the information we collect, including information which identifies or together with other information may identify (“Personal Information“) you in the following ways: 1) to improve our Site and your experience, for example through the optimization of layout for desktop and mobile devices pending on volume usages; 2) to provide technical support and assist in the development of Site components; 3) to ensure that the Site functions well and to develop new products and services; 4) to analyze how you use the Site.
+
+## Opt Out Policy
+
+You may opt out of receiving commercial e-mail from us at any time by following the instructions in each e-mail.
 
 ## Third Parties
 
@@ -31,9 +39,13 @@ You can also log into SchooLinks using your Facebook, Google, or LinkedIn creden
 
 We may translate our Privacy Policy into other languages for your convenience. However, the English version governs your relationship with SchooLinks, and any inconsistencies among the different versions will be resolved in favor of the English version.
 
+## Accessing and Modifying Your Personal Information
+
+To access, correct or request that we make no further use of personal information you may have provided to us via this website, please send an email to [info@schoolinks.com](mailto:info@schoolinks.com)
+
 ## Security
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+SchooLinks has implemented technical, administrative and physical security measures designed to secure your information. We utilize a third party provider to store and process your personal information, and that provider has also implemented robust physical, electronic, contractual and managerial steps to safeguard and secure your personal information. This includes transmission of data via HTTPS and restrictions on access to the data. The Internet, however, is not perfectly secure and we are not responsible for security breaches not reasonably within its control.
 
 ## Children's Privacy
 
