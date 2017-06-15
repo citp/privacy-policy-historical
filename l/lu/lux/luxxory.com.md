@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxxory.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215055451id_/http%3A//luxxory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxxory.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615065310id_/http%3A//luxxory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Luxxory
 
