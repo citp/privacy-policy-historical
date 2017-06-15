@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brave.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108003641id_/https%3A//brave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brave.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615131049id_/https%3A//brave.com/privacy.html) for the most accurate reproduction.*
 
 # Brave Software | Privacy Policy
 
@@ -32,12 +32,6 @@ We use a third party application performance analytics provider called Crashlyti
 
 We collect user data regarding crashes and requests for updates. We do not store any personally identifiable data of our users, IP addresses, or unique IDs. We send a request to our server to see if an update is available and whether it was the first ever, first daily, first weekly, or first monthly request. These requests do not rely on third party software. We use a Node.js heroku server, which is based on Electron.
 
-## Tracking & Ads
-
-Brave and our advertising partners may provide ads to you through Brave when you have enabled the Ad Replacement feature (which is the default setting in any of our browsers). These Ads do not use tracking technologies like cookies or any other persistent storage on your browser. Browsing history and other information that is used to generate intent signals is encrypted using a client generated key such that Brave cannot see or use this information for any purposes other than Ad Replacement. The encrypted data is stored by Brave for the sole purpose of syncing across the User’s devices that utilize a Brave browser, but Brave does not have access to the client generated key that can be used to decrypt the data and therefore cannot “read” or “see” this data. If you choose to disable the Ad Replacement or Ad Blocking features available through Brave’s settings, this may allow third party cookies and persistent storage technologies to collect information about you and your browsing activities. This may include collection of your personally identifiable information, but Brave does not receive or use this information.
-
-Brave will also collect anonymous ad campaign related data that will be used for reporting and payments to third parties. This includes payments to both ad publishers and Brave partners for Ads viewed by you using Brave Ad Replacement. This data cannot be linked to your device(s) or otherwise identify you. Brave will not collect any information for ads that are delivered when Ad Replacement or Ad Blocking is not enabled.
-
 ## Privacy on our Website
 
 Privacy policy for website is pending final legal review. Please contact us at [info@brave.com](mailto:info@brave.com) with questions.
@@ -48,4 +42,4 @@ We may update this privacy statement to reflect changes to our information pract
 
 ## Contact
 
-You can contact us about this privacy statement by emailing [support@brave.com](mailto:support@brave.com). We are also available and responding to you questions and concerns at [twitter.com/Brave](https://twitter.com/Brave) and at [Github.com/Brave](https://github.com/Brave).
+You can contact us about this privacy statement by visiting [community.brave.com](https://community.brave.com/). We are also available and responding to you questions and concerns at [twitter.com/Brave](https://twitter.com/Brave) and at [Github.com/Brave](https://github.com/Brave).
