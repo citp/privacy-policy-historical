@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020142933id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directstartv.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615023844id_/http%3A//www.directstartv.com/directv/directv_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -98,52 +98,92 @@ x
 
   *     * SELECT™
     * INTERNET
-    *     * SELECT™ All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ 
-    * **145+** Digital Channels
+    * $ 89
+
+99 /mo. For  
+12 mos.  
+Plus Taxes.
+
+    * SELECT™ ALL Included TV Package. w/24 mo. TV agmt*. Separate HSI agreement may be required. Internet speed may vary. 
+    * **150+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * Entertainment
     * INTERNET
-    *     * ENTERTAINMENT All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ 
-    * **150+** Digital Channels
+    * $ 94
+
+99 /mo. For  
+12 mos.  
+Plus Taxes.
+
+    * ENTERTAINMENT ALL Included TV Package. w/24 mo. TV agmt* Separate HSI agreement may be required. Internet speed may vary. 
+    * **155+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * CHOICE™
     * INTERNET
-    *     * CHOICE™ All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add'l charge.‡ Regional sports fee applies in certain markets. 
-    * **175+** Digital Channels
+    * $ 99
+
+99 /mo. For  
+12 mos.  
+Plus Taxes.
+
+    * CHOICE™ ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    * **185+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * XTRA
     * INTERNET
-    *     * XTRA All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ Regional sports fee applies in certain markets. 
-    * **220+** Digital Channels
+    * $ 109
+
+99 /mo. For  
+12 mos.  
+Plus Taxes.
+
+    * XTRA ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    * **230+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * Ultimate
     * INTERNET
-    *     * ULTIMATE All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req'd. Incl Unlimited data allowance ($30 value) at no add’l charge.‡ Regional sports fee applies in certain markets. 
-    * **240+** Digital Channels
+    * $ 114
+
+99 /mo. For  
+12 mos.  
+Plus Taxes.
+
+    * ULTIMATE ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    * **245+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
   *     * Premier™
     * INTERNET
-    *     * PREMIER™ All Included TV Package. 24-mo TV & 12-mo Internet agmts & combined billing req’d. Incl Unlimited data allowance ($30 value) at no add'l charge.‡ Regional sports fee applies in certain markets. 
-    * **315+** Digital Channels
+    * $ 164
+
+99 /mo. For  
+12 mos.  
+Plus Taxes.
+
+    * PREMIER™ ALL Included TV Package. w/24 mo. TV agmt* Regional sports fee applies in certain markets. Separate HSI agreement may be required. Internet speed may vary. 
+    * **325+** Digital Channels
     * Speeds up to **500 Mbps**
     * View Package Channels »
 [See Package Details »](https://web.archive.org/packages.html?packageDetails=1)
 
 
 
+*BUNDLE OFFER REQUIRES 24-MO TV & 12-MO INTERNET AGREEMENTS. ALL OTHER DIRECTV OFFERS REQUIRE 24-MO. AGREEMENT. EARLY TERMINATION FEES ($20/MO. FOR TV; $15/MO. FOR INTERNET) FOR EACH MONTH REMAINING ON AGMT., $35 ACTIVATION, EQUIPMENT NON-RETURN & ADD’L FEES APPLY. *New approved residential customers only (equipment lease req'd). Credit card req'd (except MA & PA). Offer Details
+
+*ALL DIRECTV OFFERS REQUIRE 24-MO TV AGREEMENT. EARLY TERMINATION FEE OF $20/MO. FOR EACH MONTH REMAINING ON AGMT., $35 ACTIVATION, EQUIPMENT NON-RETURN & ADD’L FEES APPLY. *New approved residential customers only (equipment lease req'd). Credit card req'd (except MA & PA). Offer Details
+
 For 12 months after instant TV savings with 24-month agreement. 
 
-Pricing for zip code 94118 | Change
+Pricing for zip code 20147 | Change
 
 x
 
@@ -153,9 +193,9 @@ Schedule **FREE** installation today and start watching!
 
 Call now to order
 
-1-877-626-6804
+1-888-662-8395
 
-Promo Code: 517-242
+Promo Code: 073-651
 
 or **_CHAT WITH US LIVE!_**
 
@@ -177,7 +217,7 @@ Existing customers can call DIRECTV Customer Service for questions, technical su
 
 ### Order DIRECTV
 
-Call **1-877-626-6804** to order new DIRECTV service.
+Call **1-888-662-8395** to order new DIRECTV service.
 
 Speak with a customer service representative to schedule free installation today!
 
@@ -186,4 +226,4 @@ Ask me about special offers for new customers. I’m here to help.
 Or call to speak with   
 a DIRECTV specialist.
 
-1-877-626-6804
+1-888-662-8395
