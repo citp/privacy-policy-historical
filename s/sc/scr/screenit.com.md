@@ -1,69 +1,85 @@
-> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130053642id_/http%3A//www.screenit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615023444id_/http%3A//screenit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 PRIVACY POLICY  
-Effective Date: January 1, 2011 
+Effective Date: January 1, 2017 
 
 To review material modifications and their effective dates scroll to the bottom of the page. 
 
-("ScreenIt") ("ScreenIt") owns and operates this screenitplus.com website business. All references to "we", "us", this "website" or this "site" shall be construed to mean ScreenIt. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including Personal Information, that we collect through this website. By using this website you are accepting the practices described in this Privacy Policy. 
+Screen It, Inc. ("Screen It") owns and operates this screenit.com/screenitplus.com website business. All references to "we", "us", this "website" or this "site" shall be construed to mean Screen It. 
 
 HOW WE MODIFY THIS PRIVACY POLICY 
 
-We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates. 
+We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. 
 
 Regarding Personal Information (defined below), if any modifications are materially less restrictive on our use or disclosure of the Personal Information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information. 
 
 THE TYPES OF INFORMATION WE COLLECT 
 
-Personal Information. We collect Personal Information that you provide to us and that may be used to identify you ("Personal Information"). Personal Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, and credit card information including credit card number, expiration date, and billing address. 
+Personal Information. "Personal Information" includes any information regarding a natural person that may be used directly to identify the person. Personal Information that we collect may vary with each separate purpose for which you provide it, and it may include one or more of the following categories: name, physical address, an email address, phone number, credit card information including credit card number, expiration date, and billing address, and location data. 
 
-Non-Personal Information. We reserve the right to collect anonymous information such as your browser type, the URL of the previous website you visited, your computer's operating system and Internet protocol (IP) Address, Internet domain and host name, your Internet Service provider, your clickstream data, and the dates and times that you may access this site and specific pages ("Non-Personal Information"). Non-Personal Information is essentially anonymous when collected; however, it's possible that Non-Personal Information could be used to identify you. 
+Usage Data. We reserve the right to collect information based on your usage of this site which is information collected automatically from this site (or third party services employed in this site ), which can include: the IP addresses or domain names of the computers utilized by the users who use this site, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the user, the various time details per visit (e.g., the time spent on each page within the site) and the details about the path followed within the site with special reference to the sequence of pages visited, other parameters about the device operating system and/or the user's IT environment, and data, conversion rates, marketing and conversion data and statistics, reports, analytics data, reviews and surveys ("Usage Data"). Usage Data is essentially anonymous when collected, but could be used indirectly to identify a person. 
 
 HOW AND WHEN WE COLLECT INFORMATION 
 
-Personal Information. We collect Personal Information at the time you provide it to us. We collect Personal Information through sign-up forms and as part of your registration for an account, product, or service from this website. Personal information that we collect may vary with the each sign-up or registration, and it may include one or more of the following categories: name, physical address, an email address, phone number, and credit card information including credit card number, expiration date, and billing address. 
+Personal Information. We collect Personal Information at the time you provide it to us. We collect Personal Information through sign-up forms and as part of your registration for an account, product, or service, promotion, or contest from this website. Personal Information that we collect may vary with the each sign-up or registration. In addition, we collect personal information from all communications with site visitors including without limitation, text messages, faxes, telephone calls, and regular "snail mail", as well as from third-party outside sources including database vendors. 
 
-Your Communications With Us. We collect Personal Information that we receive from you as you communicate with us. 
+Your Communications With Us. We collect Personal Information that we receive from you as you communicate with us. If you complete a signup form subscribing to information from our site or to participate in our mailing list activities, we will receive your Personal Information from our email services and/or autoresponder service. 
 
-Passive and Analytical Information. We reserve the right to monitor your use of this site. As you navigate through this site, Non-Personal Information may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons. 
+Usage Data. We reserve the right to monitor your use of this site. As you navigate through this site, Usage Data may be passively collected (that is, gathered without your actively providing the information) using various analytics and reporting technologies, such as cookies and web beacons. 
 
 HOW WE USE YOUR INFORMATION 
 
-We use your Personal Information for the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site. 
+We may use your Personal Information for the performance of the services or transaction for which it was given, and in connection with other products, services, promotions, or contests we may offer, and our private, internal reporting for this site, and security assessments for this site. 
 
-We do NOT tie or link your Personal Information to Non-Personal Information with persistent identifiers. For example, we would not tie or link your email address (Personal Information) with information collected by a cookie regarding the length of time you visit our site (Non-Personal Information). 
+We reserve the right to make full use of Usage Data. For example, we may use Usage Data to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use. Specific uses are described below. 
 
-We reserve the right to make full use of Non-Personal Information. For example, we may use Non-Personal Information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends about the use of this site, and otherwise administer and improve this site for your use. 
+INFORMATION SHARING AND DISCLOSURE 
 
-HOW WE DISCLOSE YOUR INFORMATION 
+General Disclosure Policy. We reserve the right to disclose your Personal Information as described below. We reserve the right to disclose Usage Data without restriction. 
 
-General Disclosure Policy. Our general policy is that we will not share, sell, or rent your Personal Information to others. The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site. We reserve the right to disclose Non-Personal Information without restriction. 
+Affiliated Entities. We reserve the right to provide your Personal Information and Usage Data to any affiliated entities we may have, including our subsidiaries. Affiliated entities are entities that we legally control (by voting rights) or that control us. 
 
-Disclosure to Affiliated Entities. We reserve the right to provide your Personal Information to any affiliated entities we may have, including our subsidiaries. 
+Service Providers. We reserve the right to provide access to your Personal Information and Usage Data to our trusted service providers that assist us with the operation and maintenance of this site. For example, we may contract with third parties to process payments, host our servers, provide security, and provide production, fulfillment, optimization, analytics, and reporting services. Our service providers will be given access to your information only as is reasonably necessary to provide the services for which they are contracted. 
 
-Disclosure to Service Providers and Online Partners for Website Operations. We reserve the right to disclose your Personal Information to our trusted service providers that assist us with the operation and maintenance of this site. For example, we may use third parties to process payments, host our servers, provide security, and provide production, fulfillment, optimization, analytics, and reporting services. We will take commercially reasonable efforts to cause these third parties to agree to hold your information in confidence or to disclose information only to third parties that we believe in good faith are trustworthy regarding the confidentiality of your information. 
+Successors. If we sell or otherwise transfer part or all of our business or assets to another organization, such as in the course of an acquisition, merger, bankruptcy or liquidation, we may transfer your Personal Information and Usage Data. In such an event, we will require the buyer or transferee to agree to our commitments provided in this Privacy Policy. 
 
-Disclosure to Successors. If we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer such information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right to transfer such information to protect our rights or as required by law. 
+Legal Process, Enforcement and Security Notice. We reserve the right to disclose your Personal Information and Usage Data if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), (ii) to detect, prevent, and address fraud or other illegal activity, and (iii) to investigate, respond to, or enforce violations of our rights or the security of this site. 
 
-Disclosure Incident to Legal Process and Enforcement. We reserve the right to disclose your Personal Information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request (such as for example, to comply with a subpoena or court order), or (ii) to investigate or enforce violations of our rights or the security of this site. 
+When We Participate In a Joint Venture With Marketing Partners. We may participate with another company or individual for purposes of jointly promoting our products, services, promotions or contests or their products, services, promotions, or contests. We reserve the right to disclose your Personal Information to them for purposes of (i) compensation, transaction processing, fulfillment, and support, and (ii) for purposes of offering you other products, services, promotions, and contests. These joint venture marketing partners may also contact you regarding other products, services, promotions, or contests. 
+
+Your California Privacy Rights. Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to the email address provided in our contact information below and include the phrase "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request. 
 
 SPECIFIC INFORMATION ABOUT COOKIES AND WEB BEACONS 
 
-3rd Party Cookies for Web Analytics and Reporting. We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal about your use of this site. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. 
+In order to provide better service for our site, we may use Cookies and Web Beacons to collect Usage Data to store your preferences and information about what pages you visit and past activity at our site. We may also employ Web Beacons from third parties in order to help us compile aggregated statistics regarding the effectiveness of our promotional campaigns or other operations of our site. 
 
-3rd Party Cookies for Serving Behavioral Ads. We reserve the right to serve our ads and third party ads on our site that are targeted to your interests ("3rd Party Behavioral Ads"). 3rd Party Behavioral Ads are served by 3rd party advertising services that use 3rd party cookies (cookies passed by others, not by us) to collect Non-Personal Information about your use of this site and other websites. This information is your "behavioral data.â€ 3rd Party Behavioral Ads do not use your Personal Information. Instead, they associate your behavioral data on visited sites with your computer, so that the ads your computer sees on this site are more likely to be relevant to your interests. These advertising services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. We will provide notice and the opportunity to opt-out of receiving 3rd Party Behavioral Ads. 
+"Cookies" are tiny pieces of information stored by your browser on your computer's hard drive. Cookies are also used to customize content based on your browser. Most browsers are initially set to accept cookies. If you want to disable cookies, there is a simple procedure in most browsers that allows you to turn off cookies. Please remember, however, that cookies may be required to allow you to use certain features of our site. 
 
-Participation in Google's Adsense Network. We reserve the right to participate in Google's AdSense network for purposes of serving 3rd Party Behavioral Ads. Google uses DoubleClick's DART cookie in its AdSense network. You may opt out of the use of the DART cookie. For information regarding how to opt out, go to http://www.google.com/privacy_ads.html . 
+Flash Cookies - third party cookies that use an Adobe Flash Media Player local shared object (LSO) - may be used along with other third party cookies for purposes of crediting any purchase you may make on this site to one of our joint venture marketing partners that may have referred you to us. These cookies will be used for purposes of crediting sales to the referring joint venture marketing partner. Flash cookies are not the same as "browser cookies". The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie may automatically create (or re-spawn) a replacement for the browser cookie. 
+
+Web Beacons - sometimes called single-pixel gifs or clear gifs - are used to assist in delivering cookies, and they allow us to count users who have visited pages of our site. We may include Web Beacons in promotional e-mail messages or other communications in order to determine whether messages have been opened and acted upon. 
+
+ANALYTICS 
+
+We reserve the right to participate with third party analytics partners to monitor and analyze Web traffic and can be used to keep track of user behavior on this site. 
+
+Google Analytics (Google) - Google Analytics is a web analysis service provided by Google Inc. ("Google"). Google utilizes the data collected to track and examine the use of this site, to prepare reports on its activities, and to share them with other Google services. Information collected: cookie and Usage Data. Visit Privacy Policy at https://www.google.com/intl/en/policies/?fg=1 You may optout of the Google Analytics service with the Google's Browser Add-on that's available at https://tools.google.com/dlpage/gaoptout/SOCIAL MEDIA INTERACTIONS 
+
+We invite you to socialize and share your participation with this site and purchases. If you choose to use social media platforms such as Facebook, Twitter, Pinterest, and Instagram, you will be allowing interaction with these platforms or other external platforms directly from this site, and in the process you may be sharing certain profile elements, including your comments. This sharing is subject to each social media program's privacy policies. 
+
+DO NOT TRACK REQUESTS 
+
+Some Web browsers incorporate a "Do Not Track" feature that signals to websites that you visit that you do not want to have your online activity tracked. Each browser communicates "Do Not Track" signals to websites differently, making it unworkable to honor each and every request correctly. In order to alleviate any communication error between browsers and website, we do not respond to "Do Not Track" signals at this time. As the technology and communication between browser and website improves, we will reevaluate the ability to honor "Do Not Track" signals and may make changes to our policy. 
 
 DATA SECURITY 
 
-We follow reasonable and appropriate industry standards to protect your Personal Information and data. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Personal Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site. 
+We will implement reasonable and appropriate security procedures consistent with prevailing industry standards to protect data from unauthorized access by physical and electronic intrusion. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your Personal Information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site. 
 
 When you transmit Personal Information through our registration process or if you purchase products or services, we encrypt that information in transit using secure socket layer technology (SSL). 
 
-After the secure transfer of your Personal Information, the information is maintained and stored with 128-bit encryption. 
+After the secure transfer of your Personal Information, your credit card information is maintained and stored with 128-bit encryption by our payment processor (Authorize.net). We do not store the card details but use a 'Token' provided by the payment processor's Payment Gateway. 
 
 ONWARD TRANSFER OUTSIDE YOUR COUNTRY OF RESIDENCE 
 
@@ -73,15 +89,9 @@ UPDATING PERSONAL INFORMATION
 
 Upon request, we will permit you to request or make changes or updates to your Personal Information for legitimate purposes. We request identification prior to approving such requests. We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others. We reserve the right to permit you to access your Personal Information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary. 
 
-EMAIL; OPT-OUT 
+LINKS TO JOINT VENTURE MARKETING PARTNER SITES 
 
-This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA. 
-
-If you supply us with your e-mail address you may receive promotional offers from third party sponsors which we select; however, in these instances, we do NOT share your Personal Information with the third party sponsors for purposes of the mailing; we do the mailing for them. However, if you do accept any of these promotional offers, any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
-
-LINKS TO OTHER SITES; ONLINE ADS 
-
-This site may contain links to other websites with whom we have a business relationship. These links may include online advertisements that we deem to be appropriate. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
+This site may contain links to other websites operated by our joint venture marketing partners. If you do click on any of the links to their websites or accept any of their promotional offers, your click-through information and any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
 
 CHILDREN'S ONLINE POLICY 
 
@@ -93,18 +103,12 @@ If you have any questions regarding this Privacy Policy, please contact the owne
 
 Screen It, Inc.  
 Attn: Privacy Policy Officer  
-P.O. Box 2593  
-Germantown, MD, 20875  
-Email: compliance.officer-at-screenitplus.com  
-Telephone: 240-460-6043  
-Facsimile: 240-460-6043  
-
-
-\--  
-Material Modifications Since January 1, 2011: none. 
-
-Copyright Â© 2001-11 Digital Contracts, Inc. (http://www.digicontracts.com/). All Rights Reserved (this is not a Creative Commons license). This document is licensed only for use by the owner of this website. Copying or use of this document in whole or in part by anyone other than the licensee is prohibited. 
+11211 Minstrel Tune Drive,  
+Germantown, MD, 20876  
+Email: reviews@screenit.com  
+Telephone: 800-507-9076--  
+>>Material Modifications<< Since January 1, 2017: none. Notice: This document is Copyright © Chip Cooper of the law firm of Jones & Haley, P.C., and licensed for use by the owner of this website under distribution rights granted to FTCGuardian.com. All rights reserved worldwide. No part of this document may be copied, reprinted, reproduced, or transmitted in any form or by any means without the prior written permission of the copyright owner. 
 
 All Rights Reserved,  
-©1996-2015 Screen It, Inc.   
+©1996-2017 Screen It, Inc.   
 
