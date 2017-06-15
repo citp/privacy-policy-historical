@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211041624id_/https%3A//ww2.younoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615055229id_/https%3A//ww2.younoodle.com/privacy) for the most accurate reproduction.*
 
 # YouNoodle | Privacy Policy | 2015
 
@@ -72,35 +72,31 @@ YouNoodle does not knowingly collect or store any personal information from or a
 
 If you believe a child under the age of 13 has under any circumstances provided us with personal information and data, a parent or legal guardian can email us at support@younoodle.com to request that their children’s information be deleted from our records.
 
-**8\. EU-U.S. Privacy Shield Framework**
+**8\. EU-U.S. and Swiss-US Privacy Shield Frameworks**
 
-YouNoodle complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. YouNoodle  has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit  _[PrivacyShield.gov](https://www.privacyshield.gov/)_
+YouNoodle complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union and Switzerland to the United States, respectively. YouNoodle has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit  _[PrivacyShield.gov](https://www.privacyshield.gov/)_
 
-In compliance with the EU-US Privacy Shield Principles, YouNoodle commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact YouNoodle at [support@younoodle.com](mailto:support@younoodle.com).
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, YouNoodle commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact YouNoodle at [support@younoodle.com](mailto:support@younoodle.com).
 
-YouNoodle has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit  _[EU Privacy Shield website](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) f_or more information and to file a complaint.
+YouNoodle has further committed to refer unresolved privacy complaints under the EEU-US and Swiss-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit  _[EU Privacy Shield website](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) f_or more information and to file a complaint.
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, EU individuals may seek a binding arbitration option before a Privacy Shield Panel.
+Please note that if your complaint is not resolved through these channels, under limited circumstances, EU and/or Swiss individuals may seek a binding arbitration option before a Privacy Shield Panel.
 
 YouNoodle collects personal data from client, customers and applicants for the sake of logging into our system (email and password) and then further data is collected in order to run startup programs. The data collected is primarily determined by our clients in their application forms that are hosted on our website, and our Privacy Policy and Terms and Conditions govern the use of this data.
 
-YouNoodle complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.  YouNoodle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit  _[Safe Harbor Website](http://www.export.gov/safeharbor/)_  .
-
-In compliance with the US-Swiss Safe Harbor Principles, YouNoodle commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact YouNoodle at [support@younoodle.com](mailto:support@younoodle.com).
-
-YouNoodle has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit  _[Safe Harbor Complaints](http://www.bbb.org/us/safe-harbor-complaints)_  for more information and to file a complaint.
+ 
 
 YouNoodle receives information from users, in our case startups, and then that information is shared with the organizers of the programs, which are our direct clients. When startup users share information with YouNoodle about their startup, they are fully aware and intentional in providing it to the organizers of the programs.
 
 User have the right to access, correct and delete their personal information as stated in our Privacy Policy and Terms of Service.
 
-Users have the right to edit or delete their information from their Account page.. Additionally on this page, users can opt-into or out of email communications. Finally, when a user provides any information to program organizers using our website, they can always access and view the information. Before a program deadline they can access, view, edit and delete any information. After a program deadline, they are unable to edit that information, but they continue to have access. If needed they can always contact either YouNoodle and/or the organizer of the program to delete the information, which while not encouraged, is possible with all parties consent.
+Users have the right to edit or delete their information from their Account page. Additionally on this page, users can opt-into or out of email communications. Finally, when a user provides any information to program organizers using our website, they can always access and view the information. Before a program deadline they can access, view, edit and delete any information. After a program deadline, they are unable to edit that information, but they continue to have access. If needed they can always contact either YouNoodle and/or the organizer of the program to delete the information, which while not encouraged, is possible with all parties consent.
 
 YouNoodle is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
 YouNoodle also may be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements.
 
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, YouNoodle is potentially liable.
+In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US and Swiss Privacy Shield Frameworks, YouNoodle is potentially liable.
 
 **9\. How Does YouNoodle Respond to “Do Not Track” Signals?**
 
