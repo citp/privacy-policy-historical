@@ -1,34 +1,26 @@
-> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222043648id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synthasite.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615235148id_/https%3A//www.yola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yola.com
 
-**Last updated September 7, 2016**
+**Last updated April 20, 2017**
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Yola, Inc., with respect to your use of the website located at www.yola.com (the "Site") so you can make an informed decision about using the Site and the website creation and hosting services offered by Yola. 
 
 Please note that this Policy does not apply to, and we are not responsible in any manner for, any information you provide to third parties in connection with websites hosted by Yola ("User Sites") or how the third parties who operate such User Sites may use the personal information you provide to them. Such information is subject to the privacy practices of such User Site, and we encourage you to become familiar with their privacy practices before disclosing information directly to them. 
 
-## EU-U.S. Privacy Shield Framework
+## EU-U.S. and Swiss-US Privacy Shield Framework
 
-Yola complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Yola has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. 
+Yola complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union and Switzerland and the United States, respectively. Yola has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. 
 
-In compliance with the EU-US Privacy Shield Principles, Yola commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Yola by email at [support@yola.com](mailto:support@yola.com). 
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, Yola commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact Yola by email at [support@yola.com](mailto:support@yola.com). 
 
-Yola has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
+Yola has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
 
 Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
 
 Yola may also be required to disclose an individual’s personal information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. 
 
 Yola is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
-
-## US-Swiss Safe Harbor Framework
-
-Yola complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Yola has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. 
-
-In compliance with the U.S.-Swiss Safe Harbor Privacy Principles, Yola commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Yola by email at [support@yola.com](mailto:support@yola.com). 
-
-Yola has further committed to refer unresolved privacy complaints under the U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint. 
 
 ## Registration
 
@@ -129,7 +121,7 @@ Yola extends its toolset by using these 3rd party business partners, with whom w
 
 Yola will offer individuals the opportunity to opt-out whether their Personal Information is to be disclosed to a third party for a purpose other than for which it was collected. If you wish to opt out in this manner, please send an email to [support@yola.com](mailto:support@yola.com). 
 
-In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Yola is potentially liable. 
+In cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US or Swiss-US Privacy Shield, Yola is potentially liable. 
 
 We will not share the personal information we collect from you through the Site with any other company except as provided in this Policy, as it may be revised from time to time. Yola reserves the right to disclose or transfer such information to a third party if we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities, respond to any claims, or to protect the rights, property or safety of Yola, our users, our employees or the public, including without limitation to protect Yola or our users or the public from fraudulent, abusive, inappropriate or unlawful use of our Site, or if we believe in good faith that an emergency involving immediate danger of death or serious physical injury to any person, or other irreparable injury, including economic interests of Yola or a third party, requires disclosure of the information. 
 
