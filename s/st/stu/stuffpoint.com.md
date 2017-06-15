@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stuffpoint.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106114200id_/http%3A//stuffpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffpoint.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615215754id_/http%3A//stuffpoint.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ Please read this privacy policy to learn more about:
 
 ### Information Collected by Stuffpoint
 
-To become a member of Stuffpoint, you must join and create an account on the Stuffpoint website. The only information that Stuffpoint collects is the information you provide through the Stuffpoint registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), and other contact information. Your IP address is recorded when you register, so that Stuffpoint can enforce its one account per person policy and other provisions of our [Terms of Service](https://web.archive.org/web/20161106114200id_/http%3A//stuffpoint.com/terms.php).
+To become a member of Stuffpoint, you must join and create an account on the Stuffpoint website. The only information that Stuffpoint collects is the information you provide through the Stuffpoint registration process, and the information you provide when you update your payment options. This information includes your first and last name, your email address, your Internet Protocol Address ("IP address"), and other contact information. Your IP address is recorded when you register, so that Stuffpoint can enforce its one account per person policy and other provisions of our [Terms of Service](https://web.archive.org/web/20170615215754id_/http%3A//stuffpoint.com/terms.php).
 
 Other information, that does not personally identify you as an individual, is collected by Stuffpoint from the website (such as, by way of example, patterns of utilization), and it is exclusively owned by Stuffpoint. This information can be utilized by Stuffpoint in such manner as Stuffpoint, in its sole discretion, deems appropriate.
 
@@ -35,7 +35,7 @@ Any information you post on the Stuffpoint website or send through Stuffpoint's 
 
 ### Legal Disclaimer
 
-It is possible that Stuffpoint may need to disclose your personally identifiable information from time to time. Specifically, Stuffpoint may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Stuffpoint has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Stuffpoint's [Terms of Service](https://web.archive.org/web/20161106114200id_/http%3A//stuffpoint.com/terms.php), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Stuffpoint, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Stuffpoint's rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
+It is possible that Stuffpoint may need to disclose your personally identifiable information from time to time. Specifically, Stuffpoint may disclose any information it has about you to legal authorities, your Internet Service Provider, or other harmed parties without your prior permission, if Stuffpoint has a good-faith belief that such disclosure is warranted and/or necessary because: (1) you have violated Stuffpoint's [Terms of Service](https://web.archive.org/web/20170615215754id_/http%3A//stuffpoint.com/terms.php), (2) you have undertaken actions which are illegal, fraudulent, or otherwise harmful to Stuffpoint, its users, or the Third-Parties, or such disclosure is necessary (3) to conform to legal requirements or to comply with the legal process, (4) to protect and defend Stuffpoint's rights in any legal, judicial or administrative proceeding; or (5) to enforce the Terms of Service.
 
 ### Managing Your Information
 
@@ -80,7 +80,4 @@ advertisement
 [Hobbies](https://web.archive.org/clubs/hobbies/)| [Internet](https://web.archive.org/clubs/internet/)  
 [Movies](https://web.archive.org/clubs/movies/)| [Music](https://web.archive.org/clubs/music/)  
 [Other](https://web.archive.org/clubs/other/)| [Sports](https://web.archive.org/clubs/sports/)  
-[Television](https://web.archive.org/clubs/television/)| [Travel](https://web.archive.org/clubs/travel/)  
-  
-Connect With Us  
-[](http://www.facebook.com/stuffpoints) [](http://twitter.com/#!/stuffpoints) [](http://www.youtube.com/user/stuffpoints)
+[Television](https://web.archive.org/clubs/television/)| [Travel](https://web.archive.org/clubs/travel/)
