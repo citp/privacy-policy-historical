@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rixo.co.uk privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213122624id_/http%3A//www.rixo.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rixo.co.uk privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615193325id_/http%3A//www.rixo.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RIXO
 
