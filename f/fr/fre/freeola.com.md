@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120045927id_/http%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeola.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615130604id_/https%3A//freeola.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Freeola Privacy Policy
+
+We will retain your personal data until you request its removal. Examples of personal data include names, addresses and phone numbers. In some cases, we may be required to keep records to comply with regulatory requirements. We may process your data in order to improve and monitor our services, to provide essential updates and also marketing communications, depending on your communication preferences. We take data privacy seriously and aim to follow the principles that personal data shall be fairly and lawfully processed; any data processing should be relevant and not excessive; personal data should be help securely; and that personal data should be accurate and kept up-to-date where possible. 
 
 Your e-mail address is safe with us. We will not sell your e-mail address or any other personal information to any other companies. Your details specifically supplied to us for the purpose of a domain registration, a transaction or a service may be securely transmitted to official registrars, regulated bankers or service providers where we deem it necessary to fulfil your requirements. It is the practice of domain registration authorities to publish domain registration details (in the WHOIS). For some domain types you may opt-out of the WHOIS database using the Get Dotted Domains [WHOIS Privacy Protection](http://getdotted.com/domain-privacy/) service. 
 
@@ -28,10 +30,11 @@ Any cookies set by our websites are used solely to improve the functioning of ou
 Registered Office and Trading Address:
 
 Freeola Limited  
-92-102 East Street  
+94 Church Street  
+Bocking  
 Braintree  
 Essex  
-CM7 3JW  
+CM7 5JY  
 UK  
 
 
