@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408180937id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liverpool-kop.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615140833id_/http%3A//www.liverpool-kop.com/2007/11/contribute-to-site.html) for the most accurate reproduction.*
 
-# Privacy Policy | Liverpool-Kop.com
+# Privacy Policy ~ Liverpool-Kop.com
 
 Liverpool-Kop knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
@@ -36,7 +36,7 @@ Sharing Your Information
 
 Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
 
-Liverpool-Kop Personnel: Liverpool-Kop personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Liverpool-Kop business. 
+Liverpool-Kop Personnel: Liverpool-Kop personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of business. 
 
 Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Liverpool-Kop, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
 
@@ -45,6 +45,8 @@ Protection of Liverpool-Kop and Others: We may release personal information when
 Syndication: Liverpool-Kop allows for the RSS syndication of all of its public content within the Liverpool-Kop website. 
 
 With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information. 
+
+Liverpool-Kop may occasionally partner with third-party vendors to gather anonymous information for advertising targeting. We may also resell this anonymous data to third-parties. You can learn more by visiting the Audience Insights information page: <http://static.audienceinsights.net/>
 
 Children Under 18 Years of Age 
 
@@ -70,7 +72,7 @@ _Effective Date of this Privacy Policy_
 
 _Last updated_
 
-5 January 2014. 
+5 May 2016. 
 
   
 Contact
