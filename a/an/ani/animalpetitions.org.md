@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206115131id_/https%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animalpetitions.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615085104id_/https%3A//animalpetitions.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Animal Petitions
 
-We (“the Company”, “we”, “ForceChange”, “Animal Petitions”, “Black Bear Media,” “Limited Liability Company”, or “us”) are a limited liability company and have established this privacy policy to explain to you how your information on ForceChange or Animal Petitions is protected, collected and used, which may be updated by us from time to time.
+We (“the Company”, “we”, “ForceChange”, “Animal Petitions”, “Limited Liability Company”, or “us”) are a limited liability company and have established this privacy policy to explain to you how your information on ForceChange or Animal Petitions is protected, collected and used, which may be updated by us from time to time.
 
 Protecting your privacy
 
-The Company maintains the right to send you information via the postal mail services of your jurisdiction if such mailing is permissible pursuant to the laws of your jurisdiction. If you do not wish to receive information via the postal mail services, please contact us at https://ForceChange.com/contact.
+The Company maintains the right to send you information via the postal mail services of your jurisdiction if such mailing is permissible pursuant to the laws of your jurisdiction. If you do not wish to receive information via the postal mail services, please contact us at https://animalpetitions.org/contact.
 
 Your Personal Information (defined below) is not shared with any third parties without your consent except as noted below.
 
@@ -25,6 +25,10 @@ To remove yourself from a ForceChange or Animal Petitions email list, simply cli
 If you create a profile on ForceChange or Animal Petitions, it will be visible to the public, anyone can view it and your profile may be indexed by internet search engines.
 
 If you sign a petition or leave a comment on the site, your name and/or comment will be publicly visible.
+
+We allow third-­-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use both personally identifiable information (e.g., your name, phone number, physical or electronic address) and non-­- personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-­-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at www.aboutads.info or Networking Advertising Initiative at www.networkadvertising.org/choices.
+
+California Civil Code Section 1798.83 permits customers of Company who are California residents to request certain information regarding its disclosure of their personally identifiable information to third parties for their direct marketing purposes. You may request a list of all of the third parties with whom we share your PII by sending an email via https://animalpetitions.org/contact and place “California Third Party Disclosure” in the subject line. Please allow up to thirty days for a response.
 
 We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies or learn more please go to http://www.networkadvertising.org/managing/opt_out.asp. 
 
@@ -78,4 +82,4 @@ All disputes resultant from this Privacy Policy shall be adjudicated pursuant to
 
 This Privacy Policy is compliant with: (i) the Safe Harbor Privacy Principles of the U.S. – EU Safe Harbor Framework, and (ii) the Safe Harbor Privacy Principles of the U.S. – Swiss Safe Harbor Framework.
 
-If you need any assistance or would like to provide feedback on this document, please contact us (http://ForceChange.com/contact).
+If you need any assistance or would like to provide feedback on this document, please contact us (http://animalpetitions.org/contact).
