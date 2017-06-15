@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oondi.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016095112id_/http%3A//www.oondi.com/en/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oondi.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615204845id_/http%3A//www.oondi.com/en/info/privacy) for the most accurate reproduction.*
 
 # Oondi | Information
 
