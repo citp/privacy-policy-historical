@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113114908id_/https%3A//www.teamapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamapp.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615093058id_/https%3A//www.teamapp.com/privacy) for the most accurate reproduction.*
 
 # Team App Privacy Policy
 
