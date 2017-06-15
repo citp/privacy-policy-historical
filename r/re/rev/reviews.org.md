@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviews.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122100816id_/http%3A//www.reviews.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviews.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615091618id_/http%3A//www.reviews.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy — Reviews.org
 
 The purpose of this Privacy Policy is to give you a summary of the ways in which Clearlink Technologies, LLC, a wholly owned subsidiary of Sykes Enterprises, Inc., d/b/a REVIEWS.ORG collects, maintains, and uses your information. Please feel free to contact us by email at [privacy@clearlink.com](mailto:privacy@clearlink.com) or by mail at Clearlink Technologies, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116 with any questions or concerns about this Privacy Policy or the information we gather about you.
 
@@ -60,11 +60,7 @@ Should you have any questions about the Customer Information we have about you o
 
 If you are a California or Delaware resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your Customer Information with third parties, for the third parties’ direct marketing purposes. California and Delaware law provides that you have the right to submit a request to us at the designated address and receive the following information:
 
-  1. The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar year 
-
-The names and addresses of third parties that received such information: and
-
-3\. If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed.
+  1. The categories of information we disclosed to third parties for the third parties direct marketing purposes during the preceding calendar yearThe names and addresses of third parties that received such information: and3. If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed. 
 
 4\. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@clearlink.com.
 
