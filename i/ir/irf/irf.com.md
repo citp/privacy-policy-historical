@@ -1,93 +1,112 @@
-> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407160052id_/http%3A//www.irf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irf.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615042934id_/http%3A//www.infineon.com/cms/en/about-infineon/privacy-policy) for the most accurate reproduction.*
 
-# International Rectifier Privacy Policy
+# Privacy Policy - Infineon Technologies
 
-Protecting the privacy of Internet users is very important to International Rectifier Corporation. We always comply with the applicable laws on privacy and data security. The following sections explain what type of information we may collect and how we handle it.
+Protection of our user’s privacy is very important to Infineon. Infineon always complies with the applicable laws on privacy and data security. The following sections explain what type of information Infineon may collect and how Infineon handles it during your use of our website.
 
-**1.  Privacy Statement**
+  1. **Scope of this Privacy and Cookie Policy**  
+This privacy and cookie policy applies to all data which is collected and used www.infineon.com by the Infineon group of companies (hereinafter "Infineon"). By using our website you consent to the collection and usage of your data and information in accordance with this privacy and cookie policy as well as the terms of use. They do not apply to other online or offline Infineon websites, products, services or apps. This website is hosted by our external agency partner Virtual Identity AG, Munich, Germany.
+  2. **Collection of Site Usage Data**  
+By visiting our website, our web servers automatically store the IP address and the domain from which access to the website is made, the date and time of your visit, the website of ours that you visit, as well as technical information about the visit (e.g. http method, http version, http status code, and browser used). 
+    1. Infineon collects no further personal data (e.g. names, addresses, phone numbers, or e-Mail addresses) on our website, unless you have provided us with such data voluntarily (e.g. through registration, participation in a survey, a contest, or in the execution of a contract). If you login as a user on our website, the user ID required for the login is also stored.
+    2. In some of our web applications we are creating a unique Infineon web profile for you to store your personal settings, e.g. simulation configurations, shopping cart, favorites etc. This data might be used for statistical purposes, personalizing your online experience as well as for market analyses.
+  3. **Purpose**  
+Infineon collects user data as describes below in order to make communication with you more personal and interactive. With your data, you are helping us to make our customer service more efficient and continuously improve our website. When you provide us with personal data, Infineon uses it primarily to respond to your inquiries, to process your orders, to provide specially-tailored information or services, and to strengthen our customer relationship. 
+  4. **myInfineon**  
+myInfineon is the “web single sign on” for Infineon services though you have just one email address and password to remember. myInfineon has built-in rules and functions which determine the services and content each user may access and use. When services require higher security (e.g. a one-time password to access confidential data), the user does not have to login again, but needs additional credentials (second factor authentication) which will be send via SMS*.
 
-This Privacy Statement applies to all personal information collected or used by International Rectifier Corporation and its affiliates (hereinafter “IR”). IR strongly believes in protecting the privacy of the personal information You share with IR by using IR’s websites. 
+How can users access to myInfineon?
 
-**2.  What Information Do We Collect?**
+Users have to register once to create a myInfineon account. Some personal data is collected during registration for “myInfineon”. Infineon will ask you for your first name, last name, e-mail address, your country, and your company’s name. Once you have registered, you are no longer anonymous to Infineon. After registration, you can use the registered online services.
 
-By visiting our website, our web servers automatically store the IP address and the domain from which access to the website is made, the date and time of Your visit, the website of ours that You visit, as well as technical information about the visit (http method, http version, http status code, and browser used).
+myInfineon is available from the myInfineon login menu on every www.infineon.com page. Users must login to reach myInfineon customer portal with profile and interest sections or to consume content protected by myInfineon login (like “Insight Sales” content, online simulations, downloads etc.). There is also the option to “stay logged in”.
 
-You can visit our Website without identifying Yourself or revealing any personal information. Some pages of IR under the URL www.irf.com are password protected and require registration by You if You want to access them. These pages allow You to volunteer personal information such as name, job title, address, telephone numbers, email, information on Your design interests, applications, credit card information and purchase quantities. IR also collects the number of visitors to our Website, browsing patterns, information derived from Your IP address indicating country or state where Your communication originated, and areas of visitors’ interest.
+    1. **my Profile**  
+Your login data and your personal data are accessible to you only if you have logged in with your username and password. You may check, change, or delete the personal data you have entered to your myInfineon profile and change your password any time.  
+After your registration you can add further information like your profession, industry you are working in, mobile phone number and business phone number. You can also add information about your design projects you are working on to receive support from Infineon. This information is not mandatory to use myInfineon and can be skipped. This information and your profile, are both protected by your password, which means only you can access this personal information. Infineon recommends not share your password with anyone. Whenever Infineon works with your personal data, it will be treated confidentially and in accordance with this privacy policy. Infineon strives to protect your personal data through the application of high security standards.
+    2. **my Interests**  
+In addition to data entered in your profile section, Infineon may ask you about your product and application interests or preferences in order to provide you tailored information and improve your experience of our website.   
+Within myInfineon in the my Interest section you can select the following: 
+      * Applications of interest
+      * Products of interest
+    3. **my Subscriptions**  
+Within my Subscriptions you can manage your data for the reception of information regarding our company, products, events or online trainings through one of our applications (e.g. via e-Mail), you may withdraw your consent at any time with effect for the future (as described below).
+    4. **my Help  
+** Under the section my Help you can find the following: Support Chat, Support Form, Support FAQs, the Technical Assistance Center and our Toll Free Call Center. 
 
-**3.  ** **Collection and Processing of Personal Data**
+**Support Chat  
+** Data collected during the use of the chat system, as well as the content of chats, will be used for the proper processing of your requests.  
+You also have the option to use the chat function anonymously without giving your name.  
+After Infineon responds to your request, the content of the chat will be processed for the purposes of quality assurance, and to improve our services. 
 
-In some of our web applications we are creating an unique web profile of You to store your personal settings, e.g. simulation configurations, shopping cart, favorites etc. This data might be used for statistical purposes as well as for market analyses.
+**Support Form  
+** When filling out one of our support forms, your contact data will be passed along in order to get back to you to solve your queries.
 
-Access to some IR websites and web pages requires prior registration. Personal data is only collected if You provide it voluntarily, e.g., as part of a registration, a survey, a contest, or in the execution of a contract. After registration, You can use the registered online services. In addition to registering, we may ask You about special interests or preferences in order to provide You with tailored information and improve Your use of our website. 
+  5. **Disclosure  
+** Communication and Advertisement: Occasionally Infineon uses and shares your information within the Infineon Group (e.g. marketing department) in order to get a better understanding of you and your business needs, as well as to improve our products and services. 
 
-**4.  ** **How We Use Your Information**
+Partners and Distributors: Infineon (or a third party on our behalf) may use personal data to get in contact with you regarding an offer or survey. Infineon may also pass on personal information to our network of certified distribution partners, if this facilitates a completion of a transaction with you (e.g. if Infineon needs to send you products). Your data might be shared with further third parties if this serves your business interests. For example, if Infineon sends products to you, Infineon transmits personal data to suppliers, distributors, or third parties that work with us. 
 
-Non-personal information is used to generate statistics and to measure Website activity in order to improve the Website to better meet Your needs. 
+Authorities: Data shall only be sent to government bodies and authorities in accordance with mandatory national legal provisions. In all other cases, Infineon will not pass your data on to third parties without your express consent. Our employees are sworn to secrecy and to protect all personal data.
 
-IR collects user data in order to make communication with You more personal and interactive. With Your data, You are helping IR to make our customer service more efficient and continuously improve our website. When You provide us with personal data, we use it primarily to respond to Your inquiries, to process Your orders, to provide specially-tailored information or services, and to strengthen our customer relationships. 
+  6. **Right of Objection  
+** You can object the collection and use of this data for the future and unsubscribe from any Infineon communication to which you have subscribed. Every e-Mail from Infineon contains a link to your "my profile,” where you can view, change, or delete the data you’ve shared with us, and also subscribe or unsubscribe to/from information services.
+  7. **Personalization (Cookies, Web Beacons)  
+** Infineon uses cookies, web beacons, and the personal data that you provide us to personalize the online presentation for you and to improve our services. Infineon uses cookies, for example, to recall the country and language preferences you have selected on our website. Web beacons from third-party service providers are used to help deliver cookies and gather usage and performance data. 
 
-For example, the personal information You provide allows You to:
+You have a variety of tools to control cookies, web beacons and similar technologies, including browser controls to block and delete cookies and controls from some third-party analytics service providers to opt out of data collection through web beacons (as described below). 
 
-  * Make purchases
-  * Receive information or materials (such as samples)
-  * Subscribe to receive regular information, including confirmations, brochures, technical notices, updates, security alerts and support and administrative messages
+A cookie is a text file that is stored on your computer which makes it possible to analyze your use of the website. Cookies are sent from the Infineon web server to help your browser to identify you and to enable Infineon to provide you with customized and personalized services. All web pages by Infineon which ask you to log in, or which are customized, require cookies. If you do not want us to recognize your computer (hard disk cookies), you can also delete cookies from your computer hard drive, block all cookies, or warn you before a cookie is stored by adjusting your browser settings. Your browser and other choices may impact your experiences with our features.
+
+    1. **Adobe Analytics  
+** Infineon stores anonymized user information on this website using the Adobe Analytics tool. This involves using cookies from a third party. These are used for the purpose of optimizing the website and are not connected with personal data without the explicit consent of the user. You can, however, object to this data collection and opt out with effect for the future. The web analytics services also use cookies that are stored on your computer and make it possible to analyze your use of the website. The information generated by a cookie of your use of this website is transmitted exclusively in an anonymous form to a server operated by the web analysis service, and is then stored there.
+
+ **Opt out:  
+** You can block the collection or processing of data generated by the cookie related to your visit to our website by Adobe, by stating your intention to opt-out via the following link:  
+<http://www.adobe.com/privacy/opt-out.html>
+
+    2. **Eloqua  
+** Oracle’s Eloqua server is located in Amsterdam. Eloqua places a permanent cookie on the respective on our website, unless an Eloqua cookie is already present on your device. Infineon may use the Eloqua cookie to analyze your use of our websites so that Infineon can continuously personalize our communication to you. E-Mails sent by Eloqua include tracking technologies. Infineon uses this information primarily to find out what topics you’re interested in by monitoring which e-Mails are opened and which links are clicked on. This information will help us to improve the e-Mails Infineon sends to you and the services Infineon provides. 
+
+**Opt out:**  
+If you wish to block the use of Eloqua cookies on your device for the future, you can do so via this link: <http://www.oracle.com/us/legal/privacy/privacy-policy/index.html#opt-out>[ ](http://www.oracle.com/us/legal/privacy/privacy-policy/index.html#opt-out)
+
+    3. **Google Analytics**  
+Our website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies. Information gained by cookies about your use of this website (including your IP address) will be transmitted to a Google server in the U.S. and stored there. Google will use this information to evaluate your use of the website, compile reports on website activity for website operators, and provide other website-use and Internet-related services. Google may also transmit this information to third parties where required by law, or in cases where third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may block the installation of cookies by selecting the appropriate settings on your browser; however Infineon points out that if you do, you may not be able to use all the features of this website. By using this site, you agree to the processing of data collected about you by Google in the manner described above and for the aforementioned purpose.
+
+ **Opt out:  
+**[https://tools.google.com/dlpage/gaoptout?hl=de   
+](https://tools.google.com/dlpage/gaoptout?hl=de)[  
+](https://tools.google.com/dlpage/gaoptout?hl=de)For more information on Terms of Use and the Privacy Policy, please visit <http://www.google.com/analytics/terms/de.html> or <https://www.google.de/intl/de/policies/>[  
+](https://www.google.de/intl/de/policies/)
+
+  8. **Links to Other Websites  
+** Our website may contain links to websites of other providers to which this Privacy Policy does not extend. If the usage of web pages of other providers is connected with the collection, processing, or use of personal data, please see the respective privacy policies of those providers.  
+Infineon assumes no responsibility for the content of these websites.
+  9. **Twitter, Facebook, YouTube & Co.  
+**The social media links embedded on our website (Twitter, Facebook, YouTube, Google+, WeChat, LinkedIn etc.) are not integrated through a "Social Plugin". When you visit our website, no direct connection to social media servers is created. Clicking on the respective social media button creates a connection the respective social media service.
+  10. **Children’s Information  
+** Infineon does not seek information from persons less than 13 years of age, and no information should be submitted to this website by visitors less than 13 years of age.
+  11. **Security  
+** Infineon has taken extensive technical and operational safeguards to protect your data against accidental or intentional manipulation, loss, destruction, or unauthorized access. Our security procedures are regularly reviewed and adapted in line with technological advancements.
+  12. **Retrieval of Privacy Policy  
+** You can retrieve information about the Infineon Privacy Policy at any page on the Infineon website via a hyperlink in the footer.  
+At the end of this page you will find the date of the most recent changes to the Privacy Policy.
+  13. **Note  
+** In order to keep up with the continuous development of the Internet, Infineon may amend this Privacy Policy at any time in compliance with data protection regulations.
+  14. **Contact to Data Protection Officer    
+**You can contact us at any time regarding privacy rights concerns at the following e-Mail address: dataprotection@infineon.com, or send a letter to the mailing address given below. 
+
+Please provide us with your contact details, the name of the Infineon website or service in question, and a detailed description of your request or your privacy/data protection issue.
+
+To the Data Protection Officer  
+Infineon Technologies AG  
+IFAG BC-DPC  
+81726 Munich  
+Germany
 
 
 
-You are not required to provide personal information, but some Website features will not be available if You decline to provide needed information.
 
-Finally, IR is obliged to disclose personal data if required by local laws. In all other cases, we will not pass Your data on to third parties without Your express consent.
-
-**5.  Sharing Your Information**
-
-We do not share Your personal information with third parties except as described in this Privacy Statement or as otherwise disclosed to You on our Website. Under certain circumstances, Your information may be forwarded to our authorized sales representatives and authorized distributors for follow-up action or if IR needs to ship products to You, we will share Your name and address with a carrier. IR will also release Your personal information if compelled by law to do so. We reserve the right to report to law enforcement authorities any activities that we, in good faith, believe to be unlawful.
-
-**6.  Your Right to Opt Out at Any Time**
-
-You may opt out of the collection and processing of Your Personal Data at any time. By way of example, when You are registered with irf.com, enter our online stores or register for a contest or promotion You have the option to receive or not to receive additional communications from International Rectifier. If You choose to receive these additional communications and later change Your mind, You may unsubscribe at any time. For example, e-mail messages will contain instructions on how to “unsubscribe” from receiving the e-mail in question.
-
-If You wish to unsubscribe from receiving all IR email, please [update Your subscriptions](http://irf.custhelp.com/ci/documents/detail/2/email_news_signin).
-
-You have the right to view the Personal Data we hold about You. In addition, You have the right to correct the Personal Data we hold about You.
-
-To correct the personal data we hold about You simply [login to www.irf.com](http://ec.irf.com/v6/en/US/direct/ir?cmd=PartnerHomePageDataDisplay).
-
-**7.  Privacy Policy for European Union Data**
-
-IR complies with the EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. IR has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement with respect to certain limited EU Personnel Data received in the United States from our affiliated companies in the EU. “EU Personnel Data” is defined as “IR employees and their identified beneficiaries or dependents, prospective employees, and officers and directors of IR companies located in the EU.” 
-
-[International Rectifier Safe Harbor Statement](http://www.irf.com/privacy/safe-harbor)
-
-**8.  Cookies**
-
-IR is committed to continually improving the Web experience for our visitors. Currently, cookies are the most effective way of identifying a unique, anonymous visitor and their navigation during a visit. A "cookie" is a text file that is sent by a web server and stored in RAM while the browser is running so that it can be read back from that browser the next time a unique visitor returns to that web server. Companies commonly use cookies for on-line ordering systems, site personalization, and Web site tracking. Cookies allow the browser to "remember" specific information about the visitor such as last visit, time spent, or user preferences (like style sheets). When visitors to the site run into browser or HTML problems, cookies allow us to isolate their specific session in our visitor log files. This information helps to replicate the environment and isolate the problem. Cookies and registration are two methods that allow IR to offer more features to repeat visitors/customers. IR uses cookie information to understand usage patterns, to offer personalized features, or to isolate problems experienced by our users as they traverse our site. We do not use cookies for any other purpose. IR cookies are terminated when a visitor ends their browser session. However, cookies may also be stored on Your computer's hard drive once You log off from our Web site.
-
-**9.  Google Analytics**
-
-Our website uses Google Analytics, a web analytics service provided by Google Inc. ("Google"). Google Analytics uses cookies. Information gained by cookies about Your use of this website (including Your IP address) will be transmitted to a Google server in the U.S. and stored there. Google will use this information to evaluate Your use of the website, compile reports on website activity for website operators, and provide other website-use and Internet-related services. Google may also transmit this information to third parties where required by law, or in cases where third parties process the information on Google's behalf. Google will not associate Your IP address with any other data held by Google. You may block the installation of cookies by selecting the appropriate settings on Your browser; however we point out that if You do, You may not be able to use all the features of this website. By using this site, You agree to the processing of data collected about You by Google in the manner described above and for the aforementioned purpose.
-
-**10.  ** **Facebook & LinkedIn**
-
-Outgoing links to the social media platforms are implemented.
-
-**11.  Links to Other Websites**
-
-IR Website may contain links to third party websites. This Privacy Statement does not apply to the linked sites, and we do not control, nor are we responsible for, the content or privacy and security practices of those sites. Any personal information You provide to a linked site is provided directly to a third party and is subject to such third party’s privacy policy.
-
-**12.  ** **Security**
-
-IR uses reasonable safeguards to help protect and secure Your personal information and uses a variety of commercially available security technologies to protect Your personnel information, including secure servers, firewalls, and encryption of financial data.
-
-**13.  ** **Changes to this Privacy Statement**
-
-We reserve the right to change this Privacy Statement at any time.
-
-**14.  ** **Conditions of Use**
-
-By using IR’s Website, You consent to the collection and use of Your information as set forth in this Privacy Statement and to the [Terms and Conditions of Use](http://www.irf.com/privacy/terms-conditions) pertaining to our Website.
-
-**15.  ** **Contact Us**
-
-If You have any questions or comments about IR’s Privacy or the Safe Harbor Statement, please contact [tolson1@irf.com](mailto:tolson1@irf.com).
-
-Please provide us with your contact details, the name of the IR website or service in question, and a detailed description of your request or your privacy/data protection issue.
+  
+*Those services will be provided [ZEITRAHMEN]
