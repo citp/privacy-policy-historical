@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611032546id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognifit.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615195019id_/https%3A//www.cognifit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy. This policy explains the accepted privacy practices for our services at [.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of training programs and any future software, product, neurons or training programs (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
+We respect your privacy. This policy explains the accepted privacy practices for our services at [www.cognifit.com](http://www.cognifit.com/), including the purchase and online use of the CogniFit software and suite of training programs and any future software, product, neurons or training programs (the **"Websites"** **"Product"** and **"Products"** respectively, or collectively: the **"Services"** ). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices.
 
 This policy is incorporated by reference to the Websites' Terms and Conditions ( **"Terms of Use"** ).
 
