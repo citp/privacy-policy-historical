@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228124258id_/https%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360totalsecurity.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615133610id_/https%3A//www.360totalsecurity.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | 360 Total Security
 
-[Year End SALE! **20% off** 360 Total Security Premium. **Get it now**](https://store.360totalsecurity.com/en/)
-
-Qihu 360 Software Co. Ltd (" **360** "), a company based in [Hong Kong], is the developer of 360 online services (" **Services** ") and computer or mobile security software products (" **Software** "). We take the privacy of our customers seriously and are committed to safeguarding your privacy while you use our services. This policy (hereinafter the " **Privacy Policy** ") describes the types of information we collect when you use 360's Services and Software, how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the information you share with us.  **Should you have any questions, please contact our chief privacy executive at [privacy@360safe.com]**. Our website may contain links to third party sites which are not subject to the Privacy Policy. 360 does not endorse and is not responsible for the privacy practices or content of those third party sites, and 360 encourages you to learn about the privacy policy of any third party site you may visit. 
+Qihu 360 Software Co. Ltd (" **360** "), a company based in [Hong Kong], is the developer of 360 online services (" **Services** ") and computer or mobile security software products (" **Software** "). We take the privacy of our customers seriously and are committed to safeguarding your privacy while you use our services. This policy (hereinafter the " **Privacy Policy** ") describes the types of information we collect when you use 360's Services and Software, how we may use that information and with whom we may share it. Our Privacy Policy also describes the measures we take to protect the information you share with us.  **Should you have any questions, please contact our chief privacy executive at [support@360overseas.com]**. Our website may contain links to third party sites which are not subject to the Privacy Policy. 360 does not endorse and is not responsible for the privacy practices or content of those third party sites, and 360 encourages you to learn about the privacy policy of any third party site you may visit. 
 
 ## COLLECTION OF INFORMATION
 
@@ -108,7 +106,7 @@ We understand that our users have different privacy concerns. Our goal is to be 
 
 ## ACCESSING AND UPDATING YOUR PERSONAL INFORMATION
 
-If at any time you would like to access or correct your information that we have on file, please send your request to privacy@360safe.com via email. When providing you with or updating your personal information, we may ask you to verify your identity before we can act on your request.
+If at any time you would like to access or correct your information that we have on file, please send your request to support@360overseas.com via email. When providing you with or updating your personal information, we may ask you to verify your identity before we can act on your request.
 
 Where we can assist in providing or correcting your information, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our Services and Software in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our Services and Software or request deletion of our information, we may not immediately delete residual copies from our active servers and we may not remove information from our backup systems.
 
