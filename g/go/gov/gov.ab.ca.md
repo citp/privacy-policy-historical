@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215180543id_/http%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.ab.ca privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615180908id_/https%3A//www.alberta.ca/privacystatement.aspx) for the most accurate reproduction.*
 
-# Privacy | Using Alberta.ca
+# Privacy | Using Alberta.ca | alberta.ca
 
 ## Collection of information
 
