@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curriechevy.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108094340id_/http%3A//www.curriechevy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriechevy.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615053736id_/http%3A//www.curriechevy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Currie Chevy
 
