@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the intomartgfk.nl privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203150144id_/http%3A//www.gfk.com/nl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intomartgfk.nl privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615200423id_/http%3A//www.gfk.com/nl/privacy) for the most accurate reproduction.*
 
 # Privacy | GfK Netherlands
 
 Effective date: October 5, 2012  
-Last revised: 5 October 2016 
+Last revised: January 6, 2017
 
 GfK respects the privacy of visitors to its websites. This privacy policy ("Privacy Policy") explains how we collect, use, disclose and protect personal data (“Personal Data”) submitted through this website.
 
@@ -59,11 +59,11 @@ We make reasonable efforts to keep personal data in our possession or control, w
 
 The GfK Group is a global organization. Your personal data may be transferred to one or more GfK affiliated companies or non-affiliated service providers in other countries and used for the purposes described previously. _To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. This Privacy Policy shall apply even if we transfer Personal Information to other countries._
 
-GfK’s legal entities in the United States comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. GfK has certified that it adheres to the Safe Harbor Privacy Principles ("Principles”) of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GfK’s certification, please visit [ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). 
+GfK’s legal entities outside the European Union have entered into intra-company data protection agreements using standard contractual clauses prepared by the European Commission. Moreover, GfK’s U.S. entities have entered into data protection agreements with service providers and other business partners.  These agreements require the contracting parties to respect the confidentiality of your Personal Information and to handle European personal data in accordance with applicable European data protection laws.
 
-Compliance with the Principles may be limited in certain cases to the extent necessary to meet national security, public interest or law enforcement requirements. By using this website, you consent to the transfer, storage, use and disclosure of your personal data among our affiliated companies and non-affiliated service providers, wherever located. GfK’s service providers are contractually bound to respect the confidentiality of your personal data.
+By using this website, you consent to the transfer, storage, use and disclosure of your personal data among our affiliated companies and non-affiliated service providers, wherever located. GfK’s service providers are contractually bound to respect the confidentiality of your personal data. 
 
-Our Marketing partner, HubSpot, Inc., based in Boston, MA, USA, is participating in and has certified its compliance with the [EU-US Privacy Shield Framework](http://legal.hubspot.com/privacy-policy). 
+Our Marketing partner, HubSpot, Inc., based in Boston, MA, USA, is participating in and has certified its compliance with the EU-US Privacy Shield Framework.
 
 **Changes to this policy**  
 We reserve the right, at our discretion, to modify our privacy practices and update and make changes to this privacy policy at any time. For this reason, we encourage you to refer to this privacy policy on an ongoing basis. This privacy policy is current as of the "last revised” date which appears at the top of this page. We will treat personal data in a manner consistent with the privacy policy under which it was collected, unless we have your consent to treat it differently. By using this website following any privacy policy change, you freely and specifically give us your consent to collect, use, transfer and disclose your personal data in the manner specified in such then-current privacy policy. 
