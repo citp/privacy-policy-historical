@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medicalmarijuanainc.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125202822id_/http%3A//www.medicalmarijuanainc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalmarijuanainc.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615230743id_/http%3A//www.medicalmarijuanainc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Medical Marijuana Inc. (OTC: MJNA)
+# Privacy Policy - Medical Marijuana, Inc. (OTC: MJNA)
 
 ## Legal / Privacy
 
@@ -17,3 +17,5 @@ We generally record certain information, pertaining to frequency of visitors to 
 ## Personally Identifiable Information
 
 Information voluntarily submitted to our website in the form of a request for general information or through submission of a business proposal may be recorded and used, including but not limited to information such as your name, phone number and e-mail. This information is used for reasonable business purposes and (or) to fill your request. We will not use your personal information for any other purpose without your permission. We may use internal service providers to operate our website and employ other persons to perform work on our behalf, such as sending postal mail and e-mail. These persons may have access to personal information you submit through the website, but only for the purpose of performing their duties. These persons may not use your personal information for any other purpose. Medical Marijuana Inc. withholds all personally identifiable information, except in the case we are required by law to disclosure information to government agencies or private parties in connection with a lawsuit, subpoena, investigation or similar course of events. By agreeing to our terms and conditions you authorize us to disclose any information necessary under the aforementioned circumstances.
+
+_This article may contain certain forward-looking statements and information, as defined within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Securities Exchange Act of 1934, and is subject to the Safe Harbor created by those sections. This material contains statements about expected future events and/or financial results that are forward-looking in nature and subject to risks and uncertainties. Such forward-looking statements by definition involve risks, uncertainties._
