@@ -1,87 +1,155 @@
-> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214032259id_/http%3A//decider.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decider.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615111715id_/http%3A//decider.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Decider | Where To Stream Movies & Shows on Netflix, Hulu, Amazon Instant, HBO Go
 
-Effective: June 1, 2016
+_Effective Date: March 23, 2017_
 
-  * 1\. INTRODUCTION
-  * 2\. COLLECTION OF INFORMATION
-  * 3\. USE AND DISCLOSURE
-  * 4\. SECURITY
-  * 5\. USER ACCESS AND CONTROL
-  * 6\. OTHER IMPORTANT INFORMATION
-  * 7\. CONTACT US
+We at NYP Holdings, Inc. (“Company”, “we”, “us” or “our”), publisher of the New York Post, respect your concerns about privacy. This Privacy Notice (“Notice”) applies to personal customer information obtained by the Company through our services to which this Notice is linked or referenced to, including direct marketing programs, our websites and mobile apps (collectively, the “Services”)
 
+The Notice describes the types of personal information we obtain about customers, how we use the information and with whom we share it. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The Services are for a general audience, are not targeted to children, and we do not knowingly collect personal information from children under 13 years of age.
 
-  1. **INTRODUCTION**  
-Decider.com (“Decider.com” or “we”) wants you to be familiar with how we collect, use and disclose information from and about you. This Privacy Policy describes our practices in connection with information collected through services such as websites, mobile sites, applications (“apps”), and widgets (collectively, the “Decider.com Services”). By using the Decider.com Services, you agree to the terms and conditions of this Privacy Policy. A list of our affiliated companies (“Decider.com Affiliates”) is available at <http://newscorp.com/about/our-businesses/>.As set forth in our [Terms of Use](http://decider.com/terms/ "Terms of Use"), the Decider.com Services are for a general audience, are not targeted to children, and do not knowingly collect personal information from children under 13 years of age.This Privacy Policy applies to all users, including both those who use the Decider.com Services without being registered with or subscribing to an Decider.com Service and those who have registered with or subscribed to an Decider.com Service.This Privacy Policy applies to Decider.com’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name or email address). It also describes generally Decider.com’s practices for handling non-personal information (for example, interests, demographics and services usage).
-  2. **COLLECTION OF INFORMATION**  
-Decider.com and our service providers collect the following information from and about you:
+Click on one of the links below to jump to the listed section:
 
-
-
-**Registration Information** is the information you submit to register for an Decider.com Service, for example, to create an account, post comments, receive a newsletter, or enter a contest or sweepstakes. Registration Information may include, for example, name, email address, gender, zip code and birthday.
-
-**Public Information and Posts** consist of comments or content that you post to the Decider.com Services and the information about you that accompanies those posts or content, which may include a name, user name, comments, likes, status, profile information and picture. Public Information and Posts are always public, which means they are available to everyone and may be displayed in search results on external search engines.
-
-**Information from Social Media.** If you access or log-in to an Decider.com Service through a social media service or connect an Decider.com Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service. When you access the Decider.com Services through social media services or when you connect an Decider.com Service to social media services, you are authorizing Decider.com to collect, store, and use such information and content in accordance with this Privacy Policy.
-
-**Activity Information.** When you access and interact with the Decider.com Services, we may collect certain information about those visits. For example, in order to permit your connection to the Decider.com Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information. If you access the Decider.com Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other transactional information for that device.Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier. Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service. These technologies may also be used to collect and store information about your usage of the Decider.com Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen.
-
-Third parties that support the Decider.com Services by serving advertisements or providing services, such as allowing you to share content or tracking aggregate Decider.com Services usage statistics, may also use these technologies to collect similar information. Decider.com does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser for more information. Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see here. Please note that by blocking any or all cookies you may not have access to certain features, content or personalization available through the Decider.com Services.
-
-Our sites are not designed to respond to “do not track” signals from browsers.
-
-**Information from Other Sources.** We may supplement the information we collect with information from other sources, such as publicly available information from social media services, commercially available sources and information from our Decider.com Affiliates or business partners.
-
-  1. **USE AND DISCLOSURE**  
-We use the information we collect from and about you to provide the Decider.com Services and features to you, including: to measure and improve those Decider.com Services and features; to improve your experience with both online and off-line Decider.com Services by delivering content you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests, or rewards programs; to provide you with customer support and to respond to inquiries. When the information collected from or about you does not identify you as a specific person, we may use that information for any purpose or share it with third parties.We use the information we collect from and about you for these additional purposes:
+  * Information We Obtain
+    * _Information Obtained by Automated Means Through Our Services_
+  * How We Use the Information We Obtain
+  * Interest-Based Advertising
+  * Information We Share
+  * Your Choices
+    * _Accessing, Reviewing, Updating and Modifying Personal Information_
+  * Notice to California Residents
+  * How We Protect Personal Information
+  * Transfers of Information
+  * Links to Third-Party Sites, Apps and Services
+  * Updates to Our Privacy Notice
+  * How To Contact Us
 
 
 
-**To allow service providers to assist us in providing and managing the Decider.com Services.** Decider.com may make your information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide the Decider.com Services. These service providers may not use personal information for any purpose other than the specific service they are providing to you and Decider.com.
+### Information We Obtain
 
-**To allow social sharing functionality.** If you log in with or connect a social media service account with Decider.com Services, we may share your user name, picture, and likes, as well as your activities and comments with other Decider.com Services users and with your friends associated with your social media service. We may also share the same information with the social media service provider. By logging in with or connecting your Decider.com Services account with a social media service, you are authorizing us to share information we collect from and about you with the social media service provider, other users and your friends and you understand that the social media service’s use of the shared information will be governed by the social media service’s privacy policy. If you do not want your personal information shared in this way, please do not connect your social media service account with your Decider.com Services account and do not participate in social sharing on Decider.com Services.
+We obtain personal information about customers through the Services, publicly and commercially available sources and from our Company affiliates and/or business partners.  The types of personal information we may obtain include:
 
-**To provide co-branded services and features.** We may offer co-branded services or features, such as contests, sweepstakes or other promotions together with a third party (“Co-Branded Services”). These Co-Branded Services may be hosted on Decider.com Services or on the third party’s service. By virtue of these relationships, we may share the information you submit in connection with the Co-Branded Service with the third party. The third party’s use of your information will be governed by the third party’s privacy policy.
-
-**To deliver relevant advertisements.** Decider.com and our service providers may use the information we collect from and about you to deliver ads to you when you use the Decider.com Services or another service. As noted above, third-party advertising networks and advertisers may use cookies and similar technologies to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests. To find out more about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info](http://www.aboutads.info/), and to opt-out of such advertising networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices).
-
-**To contact you.** Decider.com may periodically send promotional materials or notifications related to the Decider.com Services. If you want to stop receiving promotional materials follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the Decider.com Services or policies. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
-
-**To share with our Decider.com Affiliates.** Decider.com may share your information with Decider.com Affiliates for the purposes described in this Privacy Policy. A link to a website that lists Decider.com Affiliates can be found at the beginning of this policy. Users who visit Decider.com Affiliates’ services should still refer to their separate privacy policies, which may differ in some respects from this Privacy Policy.
-
-**To share with business partners.** Decider.com may share your information with business partners to permit them to send you marketing communications consistent with your choices.
-
-**To protect the rights of Decider.com and others.** There may be instances when Decider.com may disclose your information, including situations where Decider.com has a good faith belief that such disclosure is necessary in order to: (i) protect, enforce, or defend the legal rights, privacy, safety, or property of Decider.com, our Decider.com Affiliates or their employees, agents and contractors (including enforcement of our agreements and our terms of use); (ii) protect the safety, privacy, and security of users of the Decider.com Services or members of the public; (iii) protect against fraud or for risk management purposes; (iv) comply with the law or legal process; or (v) respond to requests from public and government authorities.
-
-**To complete a merger or sale of assets.** If Decider.com sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Decider.com may transfer your information to the party or parties involved in the transaction as part of that transaction.
-
-  1. **SECURITY**  
-Decider.com uses commercially reasonable administrative, technical, personnel and physical measures to safeguard information in its possession against loss, theft and unauthorized use, disclosure or modification. However, no one can guarantee the complete safety of your information.
-  2. **USER ACCESS AND CONTROL**  
-If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us at [privacy@decider.com](mailto:privacy@decider.com). In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable.If you are a California resident, you may request that we not share your personal information on a going-forward basis with Decider.com Affiliates or unaffiliated third parties for their direct marketing purposes by sending an email to [privacy@decider.com](mailto:privacy@decider.com) with “Decider.com: Disclosure Opt-out” in the subject line and your full name, email address, and postal address in the body of the email. We will try to comply with your request(s) as soon as reasonably practicable.
-  3. **OTHER IMPORTANT INFORMATION**  
-**Updates to Privacy Policy.** Decider.com may modify this Privacy Policy. Please look at the Effective Date at the top of this Privacy Policy to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Decider.com Services. If we make material changes to this Privacy Policy that expand our rights to use the personal information we have already collected from you, we will notify you and provide you with a choice about our future use of that information.
+  * Contact information (such as name, postal address, email address and telephone and/or mobile numbers);
+  * Username and password when you register through our Services;
+  * Geolocation data; and
+  * Other information you may provide to us, such as through our “Submit a Request” or “Contact Us” feature.
 
 
 
-**Location of Data.** The Decider.com Services are hosted in and managed from the United States. If you are a user located outside the United States, you understand and consent to having any personal information processed in the United States. United States data protection and other relevant laws may not be the same as those in your jurisdiction. This includes the use of cookies and other tracking technologies as described above. As a result, please read this Privacy Policy with care.
+#### Information Obtained by Automated Means Through Our Services
 
-**Linked Services.** The Decider.com Services may also be linked to sites operated by unaffiliated companies, and may carry advertisements or offer content, functionality, games, newsletters, contests or sweepstakes, or applications developed and maintained by unaffiliated companies. Decider.com is not responsible for the privacy practices of unaffiliated companies, and once you leave the Decider.com Services or click an advertisement you should check the applicable privacy policy of the other service.
+We also may obtain certain information through our Services by automated means, such as cookies (including HTTP, HTML5 and Flash cookies), web beacons, web server logs, JavaScript and similar technologies, including technologies designed to obtain information regarding your use of our Services. The information we obtain in this manner may include IP address, mobile device advertising ID, browser characteristics, device characteristics, operating system, language preferences, referring URLs, information on actions taken on our Services, and dates and times you access or use the Services. In connection with our mobile apps, we also may obtain your phone number and details about your mobile carrier.
 
-**Collection of Personal Financial Information by a Payment Service.** In some cases, we may use an unaffiliated payment service to allow you to purchase a product or make payments (“Payment Service”). If you wish to purchase a product or make a payment using a Payment Service, you will be directed to a Payment Service webpage. Any information that you provide to a Payment Service will be subject to the applicable Payment Service’s privacy policy, rather than this Privacy Policy. We have no control over, and are not responsible for, any Payment Service’s use of information collected through any Payment Service.
+A “cookie” is a file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. A “web beacon” also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. As the visitor clicks through the website, a record of the action may be collected and stored. We also may use similar automated means to obtain and store information regarding your actions while using our mobile apps.
 
-**Data Retention.** We will retain your information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law.
+We may link certain data elements obtained through automated means, such as your browser or device information, with other information we have obtained about you to let us know, for example, whether you have opened an email we sent to you, what search queries you may have run and what advertisements you may have seen on our Services or on third-party websites and apps. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. You also may be able to delete your Flash cookies or adjust your Flash cookie settings by visiting the Adobe Flash [Website Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html) and [Global Storage Settings Panel](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). Please note, however, that without cookies you may not be able to use all of the features of our Services. Your device settings also may allow you to prohibit mobile app platforms (such as Apple and Google) from sharing certain information obtained by automated means with us through our apps or other app developers.
 
-Remember that even after you cancel your account, copies of some information from your account may remain viewable in some circumstances where, for example, you have shared information with social media or other services. Because of the nature of caching technology, your account may not be instantly inaccessible to others. We may also retain backup information related to your account on our servers for some time after cancelation for fraud detection or to comply with applicable law or our internal security policies. It is not always possible to completely remove or delete all of your information due to technical constraints, contractual, financial or legal requirements.
+The providers of third-party apps, tools, widgets and plug-ins on our Services, such as social media sharing tools, also may use automated means to collect information regarding your interactions with these features. This information is collected directly by the providers of those features and is subject to the privacy policies or notices of those providers. The Company is not responsible for those providers’ information practices.
 
-**Sensitive Information.** We ask that you not send us, and you not disclose, any sensitive personal information (such as social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Decider.com Services or otherwise.
+### How We Use the Information We Obtain
 
-  1. **CONTACT US**  
-If you have questions about this Privacy Policy, please contact us at: **Email:** [privacy@decider.com](mailto:privacy@decider.com)  
-**Mail:** Privacy Office, New York Post, 1211 Avenue of the Americas, New York, New York 10036
+We may use the information collected from and about you to:
+
+  * Provide our products and services;
+  * Create and manage online accounts;
+  * Send promotional materials, alerts regarding available offers and other communications, including communications through the Services and outside of the Services, such as via email and through third-party websites and apps;
+  * Communicate about, and administer participation in, special events, promotions, programs, offers, surveys, contests and market research;
+  * Respond to inquiries from you and other third-parties, including inquiries from law enforcement agencies;
+  * Anonymize personal information to provide third parties with aggregated data reports showing anonymized information and other non-personal information;
+  * Supplement your personal information collected from you with additional information from publicly and commercially available sources, and/or information from Company affiliates and our business partners;
+  * Associate your browser and/or device with other browsers or devices you use for the purpose of providing relevant and easier access to content, advertising across browsers and devices, and other operational/business purposes;
+  * Operate, evaluate and improve our business (including developing, enhancing, analyzing and improving our Services; managing our communications; performing data analytics; and performing accounting, auditing and other internal functions);
+  * Protect against, identify and prevent fraud and other unlawful activity, claims and other liabilities; and
+  * Comply with and enforce applicable legal requirements, relevant industry standards, contractual obligations and our policies.
 
 
+
+In addition, we and our third-party service providers may use information collected through automated means including cookies, web beacons, web server logs, JavaScript and similar technologies for purposes such as (1) customizing our users’ visits to and use of our Services, (2) delivering content (including advertising) tailored to our users’ interests and the manner in which our users use our Services, and (3) managing our Services and other aspects of our business.
+
+We may use third-party analytics services on our Services, such as those of Google Analytics. The analytics providers that administer these services use technologies such as cookies, web beacons, web server logs and similar technologies to help us analyze your use of the Services. The information collected through these means may be disclosed to these analytics providers and other relevant third parties who use the information, for example, to evaluate use of the Services. To learn more about how to opt out of Google Analytics services, please visit the link below:
+
+  * Google Analytics: <https://tools.google.com/dlpage/gaoptout>
+
+
+
+We also may use your personal information in other ways for which we provide specific notice at the time of collection.
+
+### Interest-Based Advertising
+
+On our sites, apps and/or emails we and our third-party service providers may obtain information about your activities to provide you with advertising about products and services tailored to your individual interests. We and our third-party service providers also may obtain information for this purpose from third-party websites and apps. This section of our Privacy Notice provides details and explains how to exercise your choices.
+
+We engage third-party advertising networks to help us target our messaging to visitors through interest-based and contextual means. Through these ad networks, we can track your online activities over time and across third-party websites and apps by obtaining information through automated means, as described above. The ad networks use this information to show you advertisements on our Services or other third-party websites and apps that may be tailored to your individual interests. The information ad networks may obtain on our behalf includes data about your visits to websites and use of apps that serve our advertisements, such as the pages or ads you view and the actions you take on those websites or apps. This data collection takes place both on our sites, apps and emails and on third-party websites and apps that participate in these ad networks. This process also helps us track the effectiveness of our marketing efforts. To learn how to opt out of this ad network interest-based advertising,
+
+  * click [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/) in the US.
+  * click [here](http://youradchoices.ca/choices) in Canada.
+
+
+
+To the extent required by applicable law, we will obtain your consent before using your information for interest-based advertising.
+
+We participate in an advertising platform offered by our affiliate NC Audience Exchange, LLC, News Corp Connect, who gathers information for the purposes as described above. To learn more about News Corp Connect, and how to opt out, please click [here](http://ncaudienceexchange.com/privacy/).
+
+We may share customer personal information as described above with
+
+  * Our subsidiaries and affiliates, any of whom may use your personal information consistent with this Privacy Notice or for the subsidiary’s or affiliate’s own purposes, including marketing purposes.  A current list of our affiliated companies is available at <http://newscorp.com/about/our-businesses/>.
+  * Service providers in the US and other jurisdictions who perform services on our behalf.
+  * Our third party clients or business partners, such as advertisers and social media services and other third parties, for those third parties’ own marketing purposes, such as to serve targeted advertisements.
+
+
+
+In addition, when the information collected from or about you does not identify you as a specific person, we may share it with third parties.
+
+We may further disclose information about you (1) if we are required to do so by law or legal process, (2) to law enforcement authorities or other government officials, and (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.  We also reserve the right to transfer personal information we have about you in the event of a proposed or completed sale or transfer of all or a portion of our business or assets (including in the event of a reorganization, dissolution or liquidation).
+
+### Your Choices
+
+We offer you certain choices in connection with the personal information we obtain about you, such as how we communicate with you.
+
+To update your preferences, ask us to remove your information from our marketing mailing lists or submit a request, please contact us as outlined in the How To How To Contact Us section below.
+
+You also can unsubscribe from our marketing mailing lists by following the “Unsubscribe” link in our emails.
+
+To learn more about how to opt out of ad network interest-based advertising, please visit the customer opt-out pages at:
+
+  * In the US: <http://www.aboutads.info/choices/> and <http://www.networkadvertising.org/choices/>.
+  * In Canada: <http://youradchoices.ca/choices>.
+
+
+
+#### Accessing, Reviewing, Updating and Modifying Personal Information
+
+You have the right to access, review, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updates to and corrections of inaccuracies in your personal information by emailing or writing to us at the contact information set out below. We may request certain personal information for the purposes of verifying the identity of the individual seeking to access or update his/her personal information records.
+
+### Notice to California Residents
+
+Subject to certain limitations, California residents may ask us to provide them with (1) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (2) the identity of those third parties. To make this request, California residents may contact us as specified in the How to Contact Us section below.
+
+### How We Protect Personal Information
+
+We maintain administrative, technical and physical safeguards designed to protect the personal information we have about you against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use.
+
+### Transfers of Information
+
+The Services may be hosted in and managed from a country outside the country in which you initially provided the information, including the United States. We may transfer the personal information we collect about you to the United States and/or another country, which may not be deemed to have the same data protection laws as the country in which you initially provided the information. When your personal information is in such countries, it may be accessed by the courts, law enforcement and national security authorities in accordance with applicable law. If you are a user located outside the United States or the country to which your information may be transferred, you understand and consent to having any personal information processed in the United States and/or such country. Your consent includes the use of cookies and other tracking technologies as described above. When we transfer your information, we will protect that information as described in this Notice.
+
+### Links to Third-Party Sites, Apps and Services
+
+For your convenience and information, our Services may provide links to third-party sites, apps and services that may be operated by companies not affiliated with the Company. These companies may have their own privacy notices or policies, which we strongly suggest you review. We are not responsible for the privacy practices of any sites, apps or services not owned by us.
+
+### Updates to Our Privacy Notice
+
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. For significant changes, we will notify you by posting a prominent notice on our Services indicating at the top of the Notice when it was most recently updated.
+
+### How To Contact Us
+
+If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us at:
+
+[privacy@nypost.com](mailto:privacy@nypost.com)
+
+or
+
+NYP Holdings, Inc.  
+Attention: Privacy Lead  
+1211 Avenue of the Americas  
+New York, NY 10036
