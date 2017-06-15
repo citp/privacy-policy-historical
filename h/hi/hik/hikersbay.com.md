@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130184419id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hikersbay.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615071921id_/http%3A//hikersbay.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [hikersbay.com/contact](mailto:octopus@hikersbay.com).
 
-At hikersbay.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by hikersbay.com and how we use it. 
+At hikersbay.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by hikersbay.com on website and mobile apps and how we use it. 
 
 #### Log Files
 
@@ -12,7 +12,11 @@ Like many other Web sites, hikersbay.com makes use of log files. These files mer
 
 #### Cookies and Web Beacons
 
-hikersbay.com uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. 
+hikersbay.com uses cookies to store information about visitor's preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser. 
+
+#### Personal data
+
+Hikersbay mobile apps and website does not knowingly collect any personally identifiable information like consumer’s identity, contact information, age, location and gender. 
 
 #### DoubleClick DART Cookie
 
@@ -32,6 +36,8 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
   * booking.com 
   * getyourguide.com
   * rentalcars.com
+  * kiwi.com
+  * Foster Travel
 
 
 
