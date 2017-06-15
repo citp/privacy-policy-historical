@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buffalonews.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920122158id_/http%3A//www.buffalonews.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalonews.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615145729id_/http%3A//buffalonews.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Buffalo News
+# Privacy Policy - The Buffalo News
 
 This Privacy Policy pertains to all Buffalo News web sites including without limitation, Buffalonews.com, Buffalo.com, related web pages directly accessible through the navigation bars on Buffalonews.com and Buffalo.com, and to Buffalo News mobile apps, all of which have a direct link to this Privacy Policy. There may be some web pages or sections directly accessible through Buffalonews.com, Buffalo.com, or through Buffalo News mobile apps which are maintained by third parties with whom The Buffalo News has a business relationship (e.g. www.legacy.com). These web pages are governed by, and link to a separate privacy policy maintained by that third party. If you are not sure which privacy policy applies on any particular website click on the privacy policy link at the bottom of the webpage, or you may also contact The Buffalo News as set forth at the end of this policy.
 
@@ -92,7 +92,7 @@ Finally, you are solely responsible for maintaining the secrecy of your password
 
 ## What if I don't want The Buffalo News to contact me?
 
-You may opt out of any or all contacts from The Buffalo News at any time. All e-mails sent to you from The Buffalo News will allow you to opt out of any further e-mail from us. You may e-mail us at [comments@Buffalonews.com](https://web.archive.org/web/20160920122158id_/http%3A//www.buffalonews.com/help/comments@Buffalonews.com) to opt out of our email programs. You may also write or call us at the following address and phone number to notify us regarding use of your information: One News Plaza, P.O. Box 100, Buffalo, NY 14240; (716) 849-4444.
+You may opt out of any or all contacts from The Buffalo News at any time. All e-mails sent to you from The Buffalo News will allow you to opt out of any further e-mail from us. You may e-mail us at [comments@Buffalonews.com](https://web.archive.org/web/20170606205630id_/http://buffalonews.com/corporate/general-help/privacy-policy/comments@Buffalonews.com) to opt out of our email programs. You may also write or call us at the following address and phone number to notify us regarding use of your information: One News Plaza, P.O. Box 100, Buffalo, NY 14240; (716) 849-4444.
 
 ## Security technologies
 
@@ -110,9 +110,11 @@ Submit your request by contacting The Buffalo News via e-mail, postal mail, or t
 
 ## Contacting The Buffalo News
 
-If you have any questions about our privacy policy or the privacy practices of this site, please contact us at [Subscriberservice@buffnews.com](https://web.archive.org/web/20160920122158id_/http%3A//www.buffalonews.com/help/Subscriberservice@buffnews.com). You may telephone us at (716) 849-4444. You may write to us at:
+If you have any questions about our privacy policy or the privacy practices of this site, please contact us at [Subscriberservice@buffnews.com](https://web.archive.org/web/20170606205630id_/http://buffalonews.com/corporate/general-help/privacy-policy/Subscriberservice@buffnews.com). You may telephone us at (716) 849-4444. You may write to us at:
 
-**Buffalonews.com  
-One News Plaza, P.O. Box 100  
-Buffalo NY 14240  
-**
+**  
+Buffalonews.com**
+
+One News Plaza, P.O. Box 100
+
+Buffalo NY 14240
