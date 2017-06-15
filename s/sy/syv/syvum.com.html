@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119193623id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the syvum.com privacy policy that was archived on 2017-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615094430id_/http%3A//www.syvum.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <html><head><title> Syvum Privacy Policy </title><meta name="author" content="Syvum"><meta name="copyright" content="Syvum Technologies Inc."><meta name="publisher" content="Syvum"></head><body bgcolor="#FFFFFF" text="#000000" link="#ff0000" vlink="#0000ff" alink="#FF0000">
 
@@ -115,9 +115,9 @@ function toggleDiv(div_name, foc, force)
 
 if (uid.length == 0)
   {
-    document.write('</td><td>&nbsp; <span class="toplink" onclick="toggleDiv(\'signin_div\', 1, 0);" style="cursor:pointer;">Sign In</span>');
+    document.write('</td><td>&nbsp; <a href="/members/" class="toplink">Sign In</a>');
   }
-</script></td><td>&nbsp; <span class="toplink" onclick="toggleDiv('signin_div', 1, 0);" style="cursor:pointer;">Sign In</span><noscript>
+</script></td><td>&nbsp; <a href="/members/" class="toplink">Sign In</a><noscript>
 <&nbsp; a href="/cgi/members/home.cgi" class="toplink">Members</a> &nbsp; <a href="/cgi/members/logout.cgi" class="toplink">Sign off</a>
 </noscript></td><td align="right"><img class="flag" src="/images/1.gif" width="34" height="20" style="background-position:-1px 0px;" onmouseover="toggleDiv('flag_div', 0, 1);"></td> </tr>
 </tbody></table>
@@ -126,6 +126,8 @@ if (uid.length == 0)
 
 <div id="main_wrapper">
 <!-- my_nie -->
+
+
 
 
 
@@ -300,25 +302,6 @@ Thank you for your support of these policies and of Syvum Technologies.
 <input id="search_div_inp" type="text" size="20" maxlength="80" name="words" style="font-size:70%;" value=""> <input type="submit" style="font-size:70%;" value="Search">&nbsp;<input type="button" value="Cancel" style="font-size:70%;" onclick="toggleDiv('search_div');"></form> 
 </div>
 
-<div id="signin_div" style="display:none;position:absolute;right:0px;top:42px;background-color:#000070;color:#b0b0d0;font-size:13px;padding-left:10px;padding-right:10px;border-left:1px solid white;border-bottom:1px solid white;">
-<form name="loginform" method="post" action="/cgi/members/login.cgi">
-<center>
-<table style="color:white;font-size:13px;">
-<tbody><tr><td><b>User ID</b></td> <td><input id="signin_div_inp" type="text" size="10" maxlength="25" name="UserID"></td>
-</tr>
-<tr>
-<td><b>Password</b></td> <td><input type="password" size="10" maxlength="25" name="Password"></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><input type="checkbox" name="RememberMe" value="1" checked=""> Remember me</td>
-</tr>
-</tbody></table>
-<input type="submit" name="submit" value="Sign In"> &nbsp; <input type="button" value="Cancel" onclick="toggleDiv('signin_div');">
-<br><a href="/members/emailpw.html" style="color:#b0b0d0;font-size:11px;">Password Help</a> &nbsp; <a href="/members/register.html" style="color:#b0b0d0;font-size:11px;">Register (FREE)</a>
-</center>
-</form>
-</div>
-
 <div id="flag_div" style="display:none;position:absolute;right:0px;top:0px;background-color:#000070;color:#b0b0d0;font-size:13px;padding:7px;padding-right:0px;border-left:1px solid white;border-bottom:1px solid white;text-align:right;" onmouseout="closeDiv(event, this);">
 <span class="toplink" style="cursor:default;">English <img class="flag" src="/images/1.gif" width="34" height="20" style="background-position:-1px 0px;"> </span><br>
 <a class="toplink" href="http://fr.syvum.com/" target="_blank">Français <img class="flag" src="/images/1.gif" width="30" height="20" style="background-position:-75px 0px;"> </a><br>
@@ -339,6 +322,7 @@ else if (navigator.userAgent.indexOf('Firefox') > -1)
     document.getElementById('flag_div').style.paddingRight = 4;
   }
 </script>
+
 
  
  
