@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123021407id_/http%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615073355id_/https%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Price of Travel
 
 **What information do we collect?**
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
 **What do we use your information for?**
@@ -53,7 +53,11 @@ This policy was last modified on June 25, 2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.priceoftravel.com  
+https://www.priceoftravel.com  
 info@priceoftravel.com
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+
+The content of this website has been protected by DMCA.
+
+[ ](http://www.dmca.com/Protection/Status.aspx?ID=37073d90-adce-4c24-a7c6-1dc4c33ee5dd "DMCA.com Protection Status")
