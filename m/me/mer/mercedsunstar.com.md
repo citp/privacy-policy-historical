@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223124351id_/http%3A//www.mercedsunstar.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedsunstar.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615134227id_/http%3A//www.mercedsunstar.com/site-services/privacy-policy/%23navlink%3Dmi_footer) for the most accurate reproduction.*
 
 # Privacy Policy | Merced Sun Star & MercedSunStar.com The Merced Sun-Star
 
