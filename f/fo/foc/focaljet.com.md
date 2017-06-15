@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focaljet.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215121505id_/http%3A//forums.focaljet.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focaljet.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615190723id_/http%3A//forums.focaljet.com/privacy-policy.php) for the most accurate reproduction.*
 
 # The Ford Focus Forum | Powered by Focaljet Privacy Policy
 
