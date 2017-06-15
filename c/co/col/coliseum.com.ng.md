@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coliseum.com.ng privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129224451id_/http%3A//www.coliseum.com.ng/info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coliseum.com.ng privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615213424id_/http%3A//www.coliseum.com.ng/info/Privacy) for the most accurate reproduction.*
 
 # Privacy -Shop Fashion - Watches, Accessories, Jewelries, Clothes, Shoes
 
