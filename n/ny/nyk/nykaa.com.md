@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217083254id_/http%3A//www.nykaa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nykaa.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615234040id_/http%3A//www.nykaa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nykaa
 
-Revised From 25th May 2016 
+Revised From 1st April 2017 
 
 **1.   INTRODUCTION**
 
-The domain name [www.nykaa.com](http://nykaa.com/) ( ** _"Site"_** ) is owned and operated by FSN E-Commerce Private Limited (" ** _FSN_** " ). We value the trust you have in us. Therefore, we insist upon the highest standards for secure transactions and customer information privacy.
+The domain name [www.nykaa.com](http://nykaa.com/) ( ** _"Site"_** ) is owned and operated by Nykaa E-Retail Private Limited (" ** _NYKAA_** " or " ** _We_** " or " ** _Us_** "). We value the trust you have in us. Therefore, we insist upon the highest standards for secure transactions and customer information privacy. 
 
 This Privacy Policy (" ** _Policy_** ") describes the type of personal information we collect from our User, purpose for collecting such information, how we use it, with whom we share it and the choices available to our customers regarding our use of the information. We will not disclose the personal information and sensitive information (meanings ascribed in clause 2 below) shared by the user other than in compliance with this Policy. If you do not consent to any of the terms enumerated in this Policy, do not proceed to use the Site.
 
@@ -14,35 +14,35 @@ Our Policy is subject to change at any time without notice. Your continued use o
 
 **2.   WHAT WE COLLECT**
 
-We may collect personal identifiable information from you when you save or otherwise provide us when you set up a free account with the Site OR when you communicate with us via phone, email, chat, etc OR when you fill an entry to participate in any contest, promotion or survey, etc. OR use the service of Gift Card on the Site OR when you participate at one of our events, etc. As a result of these actions you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), credit card information, names of people to whom purchases have been shipped including address and telephone numbers, IP addresses, product interest information and in certain circumstances, your opinions and individual preferences, etc (collectively " ** _Personal Information_** "). When you visit this Site, our social media platforms, or our social networking or mobile applications, may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs and web beacons
+We may collect personal identifiable information from you when you save or otherwise provide us when you set up a free account with the Site OR when you communicate with us via phone, email, chat, etc OR when you fill an entry to participate in any contest, promotion or survey, etc. OR use the service of Gift Card on the Site OR when you participate at one of our events, etc. As a result of these actions you might supply us with personal information, such as your name, e-mail and postal addresses, phone number(s), credit card information, names of people to whom purchases have been shipped including address and telephone numbers, IP addresses, product interest information and in certain circumstances, your opinions and individual preferences, etc (collectively " ** _Personal Information_** "). When you visit this Site, our social media platforms, or our social networking or mobile applications, may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs and web beacons.
 
-You may also provide us with information like financial information such as Bank account or credit card or debit card or other payment instrument details, password, physical health condition; medical history, sex, etc. (collectively " ** _Sensitive Information_** ") for availing the services at our Site.
+You may also provide us with information like financial information such as Bank account or credit card or debit card or other payment instrument details, password, physical health condition; medical history, sex, etc. (collectively " ** _Sensitive Information_** ") for availing the services at our Site. 
 
-We may also maintain a record of your product interests and acquire information about you from our present and/or future affiliates.
+We may also maintain a record of your product interests and acquire information about you from our present and/or future affiliates. 
 
 This Site is directed to be used by adults only who are above the age of 18 years. If you are not an adult, while you may look at our Site, but you should not make a purchase, register, or submit personal information to us. We or our associates / affilates do not knowingly collect information from minors.Minors should not be using the Site with any personal information. In an event of default by the minor, the parent or the guardian will be liable to compensate for whatsoever damages arising out of such wrongful use by the minor.
 
-** ** **3.   WHAT IS THE PURPOSES FOR WHICH THE PERONAL AND SENSITIVE INFORMATION IS COLLECTED**
+** ** **3.   3\. WHAT IS THE PURPOSES FOR WHICH THE PERONAL AND SENSITIVE INFORMATION IS COLLECTED**
 
-FSN may use your Personal Information collected:
+NYKAA may use your Personal Information collected:
 
   * send you or your friends, relatives or associates, products that you have ordered;
   
 
-  * process gift card transaction;
+  * process gift card transaction; 
   
 
   * help us learn more about your shopping preferences; or
   
 
-  * conduct marketing and performance research to assist us in measuring our customer services, benchmarking our performance and to help us improve your shopping experiences and product offerings.
+  * conduct marketing and performance research to assist us in measuring our customer services, benchmarking our performance and to help us improve your shopping experiences and product offerings. 
   
 
 
 
 As provided below under Clause 7, you may always choose not to receive promotional materials or marketing information.
 
-**4.   WITH WHOM WE SHARE THE PERONAL AND SENSITVE INFORMATION**
+**4.   4\. WITH WHOM WE SHARE THE PERONAL AND SENSITVE INFORMATION**
 
 Only the persons authorized by us shall have access to your Personal Information and Sensitive Information. We may share your Personal and Sensitive information with:
 
@@ -85,24 +85,24 @@ You have the following choices with how your information is used:
 ---|---  
 Updating your Personal Information in relation to your Account | You can update or correct your name, e-mail address, security questions, and other preferences by logging into your account and clicking on the "My Account" page, calling Nykaa customer care executive, or visiting a Nykaa store and speaking with a representative.  
 Receiving newsletters and promotional e-mails | You can click on the "unsubscribe" link at the bottom of any promotional e-mail that you receive. Alternatively, you may edit your e-mail preferences on your "My Account" page or call Nykaa customer care executive to discontinue receiving any promotional materials by mail/ e-mail.  
-Behavioral Based Advertising | You can opt-out of some, but not all, online behavioral based advertising by clicking here or by using your browser settings to block cookies or notify you when a cookie is set.  
+Behavioral Based Advertising | You can opt-out of some, but not all, online behavioral based advertising by clicking here or by using your browser settings to block cookies or notify you when a cookie is set.   
 Remove content from user review | You can remove content that you posted on a Nykaa public space, such as part of a Ratings & Review, by e-mailing details to [support@nykaa.com](mailto:support@nykaa.com "support"). Please note that we will endeavor and try to ensure to honor your request to remove information, however, our removal of your information does not completely erase that information from the internet viz. historical copies, or "caches," may remain.  
   
 **8.   WITHDRAWAL OF CONSENT**
 
-If you have consented to the collection, use and/or disclosure of your Personal and Sensitive Information as identified in this Policy, you may withdraw the same at any time by communicating to us at the given below under Clause 10.
+If you have consented to the collection, use and/or disclosure of your Personal and Sensitive Information as identified in this Policy, you may withdraw the same at any time by communicating to us at the given below under Clause 11.
 
 **9.   SECURITY**
 
 We endeavour to keep your Personal and Sensitive information secure, up-to-date, accurate in the best possible manner as it may be necessary for the purpose for which it was collected. We value the importance you attach to your Personal and Sensitive Information given to us and therefore we have (i) taken all reasonable measures and precautions to keep such information safe and secure and to prevent any unauthorized access to or misuse of the same; and (ii) enable you to review and edit the same.
 
-However, we shall not be liable to any user for any loss, damage (whether direct, indirect, consequential or incidental) or harm caused to the user due to the unauthorized access or misuse of the Personal or Sensitive Information by any third party
+However, we shall not be liable to any user for any loss, damage ( _whether direct, indirect, consequential or incidental_ ) or harm caused to the user due to the unauthorized access or misuse of the Personal or Sensitive Information by any third party.
 
 **10.   CONTACT INFORMATION**
 
 **Customer Service Desk**
 
-**Email:**[support@nykaa.com](mailto:support@nykaa.com "support")
+**E-mail id:**[support@nykaa.com](mailto:support@nykaa.com "support")
 
 **Phone:** +91 9222 20 1010
 
