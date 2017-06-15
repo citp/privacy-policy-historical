@@ -1,146 +1,169 @@
-> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2013-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130609022224id_/http%3A//tabtimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabtimes.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615022718id_/http%3A//tabtimes.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TabTimes
+# Privacy Policy - TabTimes
 
-Effective date (updated): February 10, 2013
+_This policy was last updated February 2, 2017._
 
-_2/10/2013 update clarifies that Member information is not shared with third parties, while information collected when requesting a sponsored-content item may be shared with the item's sponsor(s)_
+At TabTimes, we want you to enjoy and benefit from our websites and online services secure in the knowledge that we have implemented fair information practices designed to protect your privacy. Our privacy policy is applicable to TabTimes, and TabTimes’s affiliates and subsidiaries whose websites, mobile applications and other online services are directly linked (the “Sites”). These include TabTimes, VR Source, Sound Guys, and Android Authorith.
 
-TabTimes Inc. operates the TabTimes.com web site and the TabTimes tablet apps, publishes e-mail newsletters and various information documents, and organizes conferences; all these are hereunder collectively referred to as our "Products". 
+The privacy policy describes the kinds of information we may gather during your visit to these Sites, how we use your information, when we might disclose your personally identifiable information, and how you can manage your information.
 
-This Privacy Policy describes the types of information collected about you when you use our Products; how your information may be used and when it may be disclosed; and how you can control the use and disclosure of your information.  
+This privacy policy does not apply to Sites maintained by other companies or organizations to which we may link or who may link to us. We are not responsible for the actions and privacy policies of third party websites.
 
-In this Privacy Policy, we use the following key definitions (other terms are defined in the body of the Policy):
+**By visiting our Sites, you are accepting the practices described in our privacy policy, including our use of cookies and similar online tools. If you do not agree to the terms of this privacy policy, please do not use the Sites.**
 
-“User” or “you” means any person viewing any page of any of the Products.
+We reserve the right to modify or amend the terms of our privacy policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this privacy policy retroactively or to personally identifiable information already in our possession, we will provide you with notice of the modifications or amendments and seek your consent for such use.
 
-"TabTimes", "we" or "us" means TabTimes Corp.
+## What Information Is Collected?
 
-"Site" means the TabTimes.com web site.
+We collect two basic types of information from you in conjunction with your use of the Sites: non-personally identifiable information and personally identifiable information. Non-personally identifiable information does not individually identify you, but it may include tracking and usage information about your general location, demographics, use of the Sites and the Internet. Personally identifiable information is any information that can individually identify you and includes, your name, address, phone number, and email address, or non-personally identifiable information that has been linked to such personally identifiable information.
 
-"Advertiser" means an organization which pays us to promote its own products and services on our Products.
+**Personally Identifiable Information**
 
-“B2B Content” means a white paper, an analyst report, a webinar, a webcast, an e-mail newsletter or other document or media presentation that is linked to or displayed on in our Products.
+As a general matter, you can browse the Sites without submitting your personally identifiable information to us. However, there are a number of circumstances in which you may supply us with your personally identifiable information, including when you subscribe to our publications, newsletters, and other content; place an order; register for a Site or any part thereof; complete a poll or participate in market research; enter a contest; upload content; or when you seek employment at TabTimes.
 
-"Content" means B2B Content and all other content, in text, graphic or video format, which we publish in our Products.
+**Non-Personally Identifiable Information**
 
-“B2B Content Sponsor” means a third party that owns or sponsors B2B Content in our Products.
+When you interact with the Sites, we may collect certain information that does not identify you individually (“non-personally identifiable information” or “non-PII”), such as demographic data; information about your computer, mobile device, or other device that you use to access the Sites, including IP address, general location information, unique device identifiers, browser type, browser language, and other transactional information.
 
-“Sponsored B2B Content” means Content available through the Products and owned or sponsored by a third party. 
+We may also collect information about your use of the Sites, including your search terms and search results, and additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses. Our servers may automatically keep an activity log of your use of our Sites. In addition to non-identifiable individual information, we may collect aggregate data regarding the use of the Sites.
 
- “Member” means a User that (i) registers in our Products to become a TabTimes member or (ii) subscribes to a newsletter in one of our Products.
+**Collection of Personally Identifiable Information From or Through Social Media Sites**
 
-“Member Information” means information which a Member provides to us as well as Clickstream Data (as defined below) which we collect. 
+In addition, when you interact with any TabTimes property page or account on a social media platform, such as Facebook, Twitter, Tumblr, or LinkedIn, we may collect the personally identifiable information that you make available to us on that page or account including your social media account ID. However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personally identifiable information that we are permitted to collect by those social media platforms. If you choose to link or login to your TabTimes account with or through a social networking service, TabTimes and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.
 
-"Personal Information" is the information that identifies you as an individual, such as name, postal address, telephone number, email address, corporate title and name of the employer,  and credit or debit card number.
+**Collection of Your Source IP Address/Location Information**
 
-"Other Information" is any information that does not reveal your specific identity, such as browser information, information collected through cookies and other technologies, demographic information, and aggregated information.
+We collect and store your device’s source IP address which may disclose the general location of your device at the time you access the Sites. Advertisements and certain content may be directed to you as a result of this data.
 
-"Event Registration Information" means the information you provide us through a registration form when you register to attend a TabTimes in person event. 
+**Information From Other Sources:** _We may supplement the information we collect with information from third parties or collected offline and add it to your account information. This information may include, but is not limited to, demographic information, additional contact information, group affiliations, occupational information, and educational background._
 
-“Tracking Technologies” means Cookies, electronic images known as "clear GIFs" (sometimes called "transparent GIFs", "Web bugs", “pixel tags” or "beacons"), serving tracking technologies or other technology solutions performing similar functions that are used by us, by our technology providers and by business partners on our Products.  Tracking Technologies are comprised of small bits of data that often include an anonymous unique identifier. Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that site.
+**How Do We Use Your Information?**
 
-“Clickstream Data” means the data generated, by our server or through Tracking Technologies, in connection with your clickstream activity in our Products.
+We use the information we learn from you to help us personalize and continually improve your experience on the Sites, including to:
 
-This Privacy Policy applies ONLY to our Products, not to third party products and services.
+  * Provide you with the content, products and services you request
+  * Post your user generated content to our Sites as you request
+  * Communicate with you about your account or transactions with us and send you information about features and enhancements on or to our Sites
+  * Communicate with you about changes to our policies
+  * Communicate with you about your comment to a story or topic
+  * Personalize content and experiences on our Sites, including providing you recommendations based on your preferences
+  * Send you newsletters, offers and promotions for our products and services, third party products and services, or special events by e-mail, text, or other another medium
+  * Provide you with advertising including advertising based on your activity on our Sites or activity on third party sites and applications
+  * Administer our loyalty programs
+  * Administer contests, giveaways, promotions, and polls
+  * Optimize or improve our products, services and operations
+  * Detect, investigate, and prevent activities that may violate our policies or be illegal
+  * Perform statistical, demographic, and marketing analyses of users of the Sites and their purchasing patterns
 
-Some Sponsored B2B Content made available through our Products is maintained on the website of a B2B Content Sponsor. When you are on a TabTimes Product and click through to that Sponsored B2B Content, you may be leaving the TabTimes Product and, in some cases, will be redirected to the site or app of the B2B Content Sponsor and subject to the policies of that B2B Content Sponsor.
 
-TabTimes Products also feature ads from Advertisers. When you click on an ad, you will be leaving the TabTimes Products and will be redirected to the Advertiser’s site or app and subject to the policies of that Advertiser. 
 
-This Privacy Policy does not govern the use of, or disclosure of any information you choose to disclose to the Advertiser or B2B Content Sponsor on the Advertiser or B2B Content Sponsor site.
+We may use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by TabTimes, and we may combine information gathered from multiple portions of the Sites into a single user record. We also may use or combine information that we collect offline or we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. Additionally, data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected.
 
-##  4.1. Personal information that we collect
+## Who Can See Your Information?
 
-We collect Personal Information when you submit it to us, including but not limited to when you register for or subscribe to our Products, create a profile, participate in a contest, take a survey, use an interactive feature (such as "Send by email"), participate in a forum, request a Sponsored B2B Content document or register for a conference.
+We will not disclose your personally identifiable information collected from the Sites to any organizations not part of TabTimes or its subsidiaries or related entities, except as described in this privacy policy.
 
-##  4.2. Other information that we collect
+**Third-Party Agents**
 
-###  4.2.1. Other information you submit
+We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, including, but not limited to, hosting, content syndication, content management tools, social media integration, marketing, analytics, billing and customer service. These entities may have access to personally identifiable information if needed to perform their functions. If such access is required, the third parties will be obligated to maintain the confidentiality and security of that personally identifiable information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites.
 
-We collect Other Information when you submit it to us. It may include your gender, education, occupation, professional information (such as the line of business of your employer and the area or department you work in), interests, photos, and comments.
+**Business Partners and Other Third Parties**
 
-###  4.2.2. Other information we collect automatically 
+Through our Digital Properties, you are able to exercise choice with respect to certain data practices of companies participating in the choice tools we provide. When you exercise your choice, we may share some information collected from you, your computer, or your mobile device with these companies so that they may honor your requests concerning their data collection practices. Additionally, we may share information with service providers who may assist us in responding to your inquiries or requests, or otherwise perform some business or operational function for us. We may also disclose personal information about you if required to do so by law, including without limitation, by search warrant, subpoena or court order; to protect our and third party rights; and for purposes disclosed at time of collection.
 
-When you access our Site, we automatically collect certain information about those visits. For example, in order to permit your connection to our Site, our servers receive and record information about your computer and browser, potentially including your IP address, browser type, the time, information about the page you requested, and other software or hardware information. 
+**Links to Third Party Sites**
 
-We also use Tracking Technologies. When you access the Site, a small file called a “cookie” is placed on your hard drive. We may use cookies to track the Clickstream Data of Members on the Site and to obtain non-personally identifiable information from Users, such as the number of visits to the Sites that a certain User has made, the movement of the User through the Sites, and the searches that the User conducts on the Sites. 
+Our Digital Properties may contain links to other websites operated by third parties we do not control and this Privacy Policy applies solely to information collected through our Digital Properties. We encourage you to read the privacy statements of these other websites.
 
-We may use "clear GIFs" to track general user traffic patterns. 
+**Assignment**
 
-###  4.2.3. Third party personal information you submit
+In the event of a corporate change in control resulting from, for example, a sale to, or merger with, another entity, or in the event of a sale of assets or a bankruptcy, TabTimes may transfer your personally identifiable information to the new party in control or the party acquiring assets. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this privacy policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this privacy policy.
 
-Our Products include a “Send by e-mail” feature, which allows you to email Content to a third party; we only use the email address of that person for purposes of emailing that Content to that person.
+**Law Enforcement, Legal Process, and Emergency Situations**
 
-##  4.3. Other information that third parties may collect automatically 
+In some cases, we may use or disclose your personally identifiable information to a third party if we are required to do so by law or if we in good faith believe that such action is necessary to comply with the law or legal process; to protect and defend our rights or to prevent misuse of our Sites; or to protect the personal safety of our employees, agents, partners, the users of the Sites, or the public.
 
-Third parties that support our Products by serving advertisements or providing services, such as promoting our app in their app store, providing users with the ability to comment on content, allowing users to share content, or tracking aggregate site and app usage statistics, may also use Tracking Technologies to collect Other Information. We may not control these third-party suppliers and their use may be governed by the privacy policies of third parties using such technologies. 
+**Use of Non-Personally Identifiable Information**
 
-In general, we use information about you:
+We may disclose or share individual, non-personally identifiable information and aggregate information in any manner other than that described herein that we deem appropriate or necessary. Among other things, we will disclose non-personally identifiable information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose non-personally identifiable information to our partners and other third parties about how our users collectively use the Sites.
 
-  * to provide the services, publications, and information you request and to manage your account with us.
-  * to deliver or display content and advertising that matches your professional interests and responsibilities.
-  * to contact you with information about and invitations for products and services – ours and other companies’ - directed to your professional interests and responsibilities.
-  * to offer you opportunities to connect directly with your peers and with sellers of technology that may be of interest to you.
-  * for any other purpose that we tell you about when you give us the information.
+## How Do the Sites Use Cookies and Other Tracking Technologies?
 
+Like many websites, we use cookies, web beacons and similar technologies to record your preferences, track the use of our Websites and your exposure to our online advertisements. We may also use these technologies to monitor traffic, improve the Sites and make it easier and/or relevant for your use.
 
+Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to disable or reject cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed.
 
-##  5.1. Member Information
+We also use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), on our Websites. Google Analytics uses cookies or other tracking technologies to help us analyze how users interact with and use the Websites, compile reports on the Websites’ activity, and provide other services related to Websites activity and usage.
 
-We use Member Information to deliver email newsletters on topics of interest to Members who have requested those services. We may also send promotional and marketing materials to our Members, including marketing research surveys, as well as promotions for B2B Content items. TabTimes, in some cases utilizing a third party provider, may deploy surveys and incentives. We use Member Information in aggregated form to understand our customer base and to market our services to our customers. **But we do not sell,  rent or give away Member information to third parties.**
+The technologies used by Google may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Websites do not use Google Analytics to gather information that personally identifies you.
 
-##  5.2. Event Registration Information 
+The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies.
 
-When you register to attend a vendor-sponsored in person event, your contact information is used to confirm registrations and send product information and promotional material from us and the event sponsors (information may also be used to compile broad demographic information). We may disclose your Event Registration Information to those vendors sponsoring the event. Such vendor’s use of your Event Registration Information is governed by that vendor’s privacy policy. 
+We may partner with third party advertising companies to better provide advertisements about goods and services that may be of interest to you. These third party advertisers may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Sites. They may collect information about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based advertising or other targeted content.
 
-##  5.3. Information collected when requesting a B2B content-sponsored item
+These online advertising partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information from us, without your consent. They may, however, use persistent identifiers to anonymously track your Internet usage across other websites in their networks beyond these Sites. While we restrict their further use of such information, such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us.
 
-The B2B Content Sponsors make the Sponsored B2B Content available through TabTimes in return for receiving the Member Information of Users who request their Sponsored Content, as well as, in certain cases, Clickstream Data from Users. Accordingly, if you request Sponsored B2B Content, we may disclose your Personal Informationand/or Other information to the B2B Content Sponsor, as set forth in more detail below. 
+Third-party ad serving companies and other unaffiliated advertisers also display advertisements on our site. As part of their service, they may place a separate cookie on your computer or utilize other data collection and tracking technologies, to collect information such as your IP address, browser type, the server your computer is logged onto, the area code and zip code associated with your server, and whether you responded to a particular advertisement. We do not control these third parties’ tracking technologies, how they may be used, or the information they may collect and we are not responsible for the privacy policies or the content of those third parties. Please visit the sites of those businesses at the links above to review their privacy policies. We may add or change the list of third party ad servers from time to time and we encourage you to check this section for changes. **You can learn more about about online advertising at**[ **www.aboutads.info/consumers**](http://www.aboutads.info/consumers) **.**
 
-##  5.4. Cookies and Clickstream Data
+Many of the third party advertisers that place tracking tools on our Websites are members of programs that offer you additional choices regarding the collection and use of your information. You can learn more about the options available to limit these third parties’ collection and use of your information by visiting the websites for the Network Advertising Initiative and the Digital Advertising Alliance, as well as the webpages for Facebook’s ad preferences tool and privacy policy.
 
-We may use also use Cookies to link Members and their activity to their Member Information. 
+Similarly, you can learn about your options to opt-out of mobile app tracking by certain advertising networks through your device settings. For more information about how to change these settings for Apple, Android or Windows devices, see:
 
-Linking Members to their Member Information allows our system to confirm a user's identity on the Product and to save and recognize Member log-in information so that Members do not have to log in each time they use our Products or request Sponsored B2B Content. 
+**Apple:**[ http://support.apple.com/kb/HT4228](http://support.apple.com/kb/HT4228)
 
-If you register as a Member, we will use cookies to authenticate your identity when you visit the Site, and we may collect the data generated in connection with your Clickstream Data to personalize your user experience on the Site, including by serving and managing ads based on your activity on the Site.
+**Android:** <http://www.google.com/policies/technologies/ads/>
 
-We use Tracking Technologies for a variety of purposes, including, but not limited to:
+**Windows:**[ http://choice.microsoft.com/en-US/opt-out](http://choice.microsoft.com/en-US/opt-out)
 
-  * Help us recognize your computer as a previous visitor, and save and remember any preferences that may have been set while you were visiting one of Products.
-  * Track, accumulate and report information on our Products and Content usage to our partners and customers so that they can measure the effectiveness of advertisements and content viewed on the Web Sites;
-  * Help us customize the content and advertisements you are shown while using our Products and potentially other web sites, by displaying relevant content, products, services and advertising; 
-  * Determine which features Users like best to help us improve our Products, personalize your user experience, and measure overall Site effectiveness; and
+Please note that opting-out of advertising networks services does not mean that you will not receive advertising while using our Websites or on other websites, nor will it prevent the receipt of interest-based advertising from third parties that do not participate in these programs. It will, however, exclude you from interest-based advertising conducted through participating networks, as provided by their policies and choice mechanisms.
 
+Your browser or device may include “Do Not Track” functionality. Because a “Do Not Track” compliance protocol has not yet been finalized, TabTimes’s information collection and disclosure practices, and the choices that we provide to customers, will continue to operate as described in this privacy policy, whether or not a Do Not Track signal is received.
 
+**What Are Your Choices?**
 
-##  5.5. Other disclosure of information
+We believe you should have choices about the collection, use and sharing of your information. Although you cannot opt-out of all data collection when you visit our sites, you can limit the collection, use and sharing of your personally identifiable information. For information regarding your choices related to interest-based advertising, please see the “How Do the Sites Use Cookies and Other Tracking Technologies?” section above.
 
-We reserve the right to disclose information about you to third parties in certain circumstances: to suppliers that work on our behalf, to law enforcement or other entities that present valid legal process, to protect human safety or our networks or property, or as part of a sale or our merger of business assets.
+**Collection of personally identifiable information**
 
-If you are a member, you can access the Personal information you have submitted us, and correct it at any time, by logging in your account at http://tabtimes.com/user
+All personally identifiable information is provided on a voluntary basis. If you do not want TabTimes to collect such information, you should not submit it to the Sites. However, doing so will restrict your ability to access some content and use some of the functionality of the sites.
 
-##  7.1. Membership Information and e-mail
+**Emails and Newsletters**
 
-You can avoid having your Member Information and Clickstream Data disclosed to B2B Content Sponsors by not requesting their content or by not registering to attend an event.
+You may always opt-out of receiving future e-mail marketing messages and newsletters from TabTimes by following the instructions contained within the emails and newsletters, or by e-mailing, calling or writing us at the addresses below.
 
-Following the registration process, Users may remove themselves from emailing lists at any time through the edit profile pages or by following the instructions at the end of any email they received from us.
+**Governing Law & Notice to Non-U.S. Users**
 
-If you do not wish to participate in market research surveys, simply opt-out of any survey email you receive.
+These Sites are published in the United States. We attempt to protect the personally identifiable information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to TabTimes’s services, but our family of Sites are located and targeted to United States citizens and our policies are directed at compliance with those laws. If you are uncertain whether this privacy policy conflicts with the applicable local privacy laws where you are located, you should not submit your personally identifiable information to TabTimes.
 
-##  7.2. Clickstream Data
+If you are located outside the United States of America, you should be aware that information about you will be transferred to the United States of America. If you are located in a country outside the United States of America and voluntarily submit personally identifiable information to us, you thereby consent to the general use of such information as provided in this privacy policy and to the transfer of that information to, and/or storage of that information in, the United States of America.
 
-Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies). However, some features and services may not be available to you if your cookies are disabled.
+## Other Important Information
 
-Users can manage the use of Flash technologies, including cookies, with the Flash management tools available at Adobe's website, seehttp://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html
+**How Your Information Is Secured**
 
-Our Products are not targeted to children, and do not knowingly collect personal information from children under 14 years of age.
+We take reasonable security measures to protect your information, including the use of physical, technical and administrative controls. Please understand, however, that while we try our best to safeguard your personally identifiable information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. You need to help protect the privacy of your own information. You must take precautions to protect the security of any personally identifiable information that you may transmit over any home networks, wireless routers, wireless (WiFi) networks or similar devices by using encryption and other techniques to prevent unauthorized persons from intercepting or receiving any of your personally identifiable information. You are responsible for the security of your information when using unencrypted, open access or otherwise unsecured networks.
 
-We may update this Privacy Policy to reflect changes in our practices and service offerings. If we modify our Privacy Policy, we will update the "Effective Date" and such changes will be effective upon posting. Please check here periodically. Your continued use of our products and services covered by this Policy constitutes your acceptance of the terms in place at the time of your use.
+The time period for which we keep information varies according to the purpose for which it is used for. In some cases, there are legal requirements to keep data for a minimum period. Unless there is a specific legal requirement for us to keep the information, we will retain it for no longer than is necessary for the purposes for which the data was collected or for which it is to be further processed.
 
-If you have questions regarding this Privacy policy, or if you think we did not comply with this policy please contact us at privacy (at) tabtimes.com or send us a letter at:
+**Contests, Giveaways or Games**
 
-TabTimes  
-41 Madison Avenue, 31st Floor  
-New York, NY 10010
+When we run a contest or giveaway or game relating to our Sites, it will be accompanied by a set of rules. The rules for each contest, giveaway or game will specify how the information gathered from you for entry will be used and disclosed if it is different than as described in this privacy policy. In conjunction with your entry in such contest or giveaway, personally identifiable information will be collected only if you voluntarily submit it.
+
+**Children’s Information**
+
+The Sites are not intended for children under 13 years of age. TabTimes does not knowingly collect personal information from children under 13 years of age. If you are under 13 years of age, do not provide personal information to TabTimes without providing us with consent from your parents. If TabTimes discovers that a child under the age of 13 has provided TabTimes with personal information and we do not have parental consent, TabTimes will immediately delete that child’s information from the Sites.
+
+If you believe that company has been provided with the personal information of a child under the age of 13 without parental consent, please notify us immediately at admin(at)androidauthority(dot)com.
+
+**Your California Privacy Rights**
+
+TabTimes does not disclose your personal information to third parties for the third parties’ direct marketing purposes unless you affirmatively agree to such disclosures.
+
+**Questions About this Policy or Access to Your Information**
+
+If you have an account with TabTimes, you may review and change your information by logging into your account and editing your account profile. If you have questions about our privacy policy, you may contact us at:
+
+**Email:** admin(at)tabtimes(dot)com
+
+You may also use the contact information provided to request access or changes to your personally identifiable information; however, you will not be permitted to examine the personally identifiable information of any other person or entity and may be required to provide us with personally identifiable information to verify your identity prior to accessing any records containing information about you. We may not accommodate a request to change or delete personally identifiable information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
