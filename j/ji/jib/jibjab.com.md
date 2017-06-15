@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126065614id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615055650id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
 
 # JibJab.com - Holiday eCards, Christmas eCards, Birthdays, Music Videos, and more
 
