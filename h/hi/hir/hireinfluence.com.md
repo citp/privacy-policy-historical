@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hireinfluence.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625191718id_/https%3A//hireinfluence.com/blog/client-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireinfluence.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615043634id_/https%3A//hireinfluence.com/blog/client-privacy-policy) for the most accurate reproduction.*
 
-# Client and Promoters Privacy Policy HireInfluence
+# Client and Promoters Privacy Policy
 
 It is essential that our _Clients_ and our _Advocates_ understand how our Services work. Together, our Client Privacy Policy and our Terms of Use Agreement do just that. Whether you are one of our larger corporate Clients or an individual Client using Hire **Influence** for the first time, these are important documents because they affect your rights and responsibilities. So here it is, in plain English. 
 
