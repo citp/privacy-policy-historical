@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the snapengage.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230171941id_/https%3A//snapengage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapengage.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615052810id_/https%3A//snapengage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SnapEngage Live Chat
 
-[](https://web.archive.org/)
+[](https://web.archive.org/home)
 
 This is a website owned by SnapEngage, LLC.
 
-If you have any comments or questions you may address them to our customer service department at support@snapengage.com, by telephone at +1 (303) 647-9222 or via mail addressed to SnapEngage Customer Service, SnapEngage, LLC, at 1722 14th St., Suite 105, Boulder, CO 80302.
+If you have any comments or questions you may address them to our customer service department at support@snapengage.com, by telephone at +1 (303) 647-9222 or via mail addressed to SnapEngage Customer Service, SnapEngage, LLC, at 1722 14th St., Suite 220, Boulder, CO 80302.
 
 SnapEngage, LLC (“SnapEngage”, “we”) owns and runs SnapEngage.com (the “Website”). A link to this privacy policy is included on the About page of the Website. SnapEngage respects the privacy of its users. This document explains how SnapEngage will use the information that you provide to us via the Website. SnapEngage may amend this privacy policy from time to time. If SnapEngage does so, the revised privacy policy will be posted on the Website.
 
@@ -24,49 +24,38 @@ SnapEngage, LLC (“SnapEngage”, “we”) owns and runs SnapEngage.com (the �
     2. in cases of abusive behavior or suspected violations of the Terms Of Service of either the Website, we may share personal information, including IP address, with that service in order to investigate the violation and to take appropriate action;
     3. to respond to subpoenas, court orders, or legal process, to prevent fraud or imminent harm, or to establish or exercise our legal rights or defend against legal claims; or in response to a lawful request by public authorities, including to meet national security or law enforcement requirements; and/or
     4. in the event that SnapEngage is acquired by or merged with another company, SnapEngage will transfer information about you to that other company.
-    5. in cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, SnapEngage is potentially liable.
-  6. Notification of Changes. From time to time, SnapEngage may use your information for new, unanticipated uses not previously disclosed in our privacy policy. We will post policy changes to our Website at this location to notify you of any future changes prior to when they become in effect and will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+    5. in cases of onward transfer to third parties of data of EU or Swiss individuals received pursuant to the EU-US Privacy Shield, SnapEngage is potentially liable.
+  6. Notification of Changes. From time to time, SnapEngage may use your information for new, unanticipated uses not previously disclosed in our privacy policy. We will post policy changes to our Website at this location to notify you of any future changes prior to when they become in effect and will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Website periodically.
   7. Third-Party Advertisers, Links to Other Sites. The Website may contain links to and media and other content such as advertisements from other companies. In addition, such third-party ads, media and content may also contain external links. Our Site includes links to other Web sites whose privacy practices may differ from those of SnapEngage. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. The third-party companies receive your IP address when serving such content to you and may also utilize other technologies such as cookies or web beacons. We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. While SnapEngage does not provide any personally identifiable information to these third-party companies, we cannot and do not guarantee their privacy policies and practices. SnapEngage’s privacy policy does not apply to and we cannot control the activities, products or services of any third-party Website that may be reached through links from the Website. Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
   8. Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@snapengage.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. To delete personal information from a previous chat, you must go to the website which it originated from and request for your information to be deleted from that site. With your consent we may post your testimonial along with your name. If you want your testimonial removed please contact us.
-  9. SnapEngage complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SnapEngage has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
+  9. SnapEngage complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States, respectively. SnapEngage has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/)
 
 
 
 SnapEngage is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
 
-In compliance with the EU-US Privacy Shield Principles, SnapEngage commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact SnapEngage at:   
+In compliance with the US-EU and Swiss-US Privacy Shield Principles, SnapEngage commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact SnapEngage at:  
   
 [support@snapengage.com](mailto:support@snapengage.com)   
   
 or via mail addressed to:  
+
+
 SnapEngage, LLC  
 ATTN: Customer Service Department  
-1722 14th Street, Suite 105  
+1722 14th Street, Suite 220  
 Boulder, CO 80302  
 USA   
-  
-SnapEngage has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
 
-Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel for EU individuals. 
 
-US-Swiss Safe Harbor: SnapEngage complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. SnapEngage has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
+SnapEngage has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [http://www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. 
 
-In compliance with the US-Swiss Safe Harbor Principles, SnapEngage commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this privacy policy should first contact SnapEngage at:
-
-[support@snapengage.com](mailto:support@snapengage.com)   
-  
-or via mail addressed to:  
-SnapEngage, LLC  
-ATTN: Customer Service Department  
-1722 14th Street, Suite 105  
-Boulder, CO 80302  
-USA 
-
-SnapEngage has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/EU-privacy-shield/bbb-eu-safe-harbor-dispute-resolution/) for more information and to file a complaint.
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel for EU and Swiss individuals. 
 
 Acceptance. This privacy policy is incorporated into and subject to the terms and conditions of SnapEngage Terms of Service, available on the Website. Use of the Website and the services offered thereby is subject to your compliance with the Terms of Service, which constitutes a legal agreement between you and SnapEngage. Each time you use the Website and the services offered thereby you signify and acknowledge that you have read, understood and agree to be bound by the Terms of Service, which incorporates the privacy policy and any applicable posted guidelines. Use of the Website and any services offered thereby signifies the acceptance of the Terms of Service and the Privacy Policy. If you do not agree with the terms of either of these documents, do not provide SnapEngage with any information and do not use the Website or the services offered thereby. Your continued use of the Website and the services offered thereby in light of changes to this privacy policy, the Terms of Service, or to the relevant principles thereof will signify your acceptance of the changes.
 
-Updated as of: August 25, 2016
+  
+Updated as of: May 23, 2017
 
 ## Still not convinced?
 
