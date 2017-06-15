@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecs.com.tw privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231711id_/http%3A//www.ecs.com.tw/ECSWebSite/Privacy_Policy.aspx%3Fmenuid%3D0%26lanid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecs.com.tw privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615151523id_/http%3A//www.ecs.com.tw/ECSWebSite/Privacy_Policy.aspx%3Fmenuid%3D0%26lanid%3D0) for the most accurate reproduction.*
 
 # ECS - Motherboard, Notebook, Tablet PC, System, IPC, LIVA Mini PC
 
