@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyhomeblog.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223184017id_/http%3A//www.moneyhomeblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyhomeblog.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615063404id_/http%3A//www.moneyhomeblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,4 +25,4 @@ The following two tabs change content below.
 
 
 
-I Am Frank Joseph - I work fully online, building businesses online is my passion.
+I Am Frank Joseph - I work fully online, building businesses online is my passion. If you want to learn from me, please read the FREE ebook ‘How to Make Money Online and Get Rich’: (just click my name)
