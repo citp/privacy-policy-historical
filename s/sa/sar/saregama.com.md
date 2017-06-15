@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saregama.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123045520id_/http%3A//www.saregama.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saregama.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615055345id_/http%3A//www.saregama.com/static/privacy_policy) for the most accurate reproduction.*
 
 # Evergreen Hindi Songs, Ghazals & Devotional music from Saregama
 
