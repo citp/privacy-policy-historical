@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordcentral.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211085951id_/http%3A//www.wordcentral.com/inf/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordcentral.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616015758id_/http%3A//www.wordcentral.com/inf/privacypolicy.htm) for the most accurate reproduction.*
 
 # Merriam-Webster's Word Central
 
