@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 411vibes.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224100150id_/http%3A//theinfong.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 411vibes.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615083153id_/http%3A//www.theinfong.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheInfoNG.com
 
@@ -29,3 +29,5 @@ If you wish to disable cookies, you may do so through your individual browser op
   3.  **[PR Services](http://theinfong.com/pr-services/)**
 
 
+
+Use your ← → (arrow) keys to browse
