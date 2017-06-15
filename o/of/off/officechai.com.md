@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officechai.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619183323id_/http%3A//www.officechai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officechai.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615125145id_/http%3A//www.officechai.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OfficeChai
+# Privacy Policy - OfficeChai
 
 This Privacy Policy governs the manner in which OfficeChai collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.officechai.com](http://www.generateprivacypolicy.com/account/policies/edit/www.officechai.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by OfficeChai.
 
