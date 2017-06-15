@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stateofthemedia.org privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206031408id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateofthemedia.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615125029id_/http%3A//www.pewresearch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pew Research Center
 
