@@ -1,0 +1,608 @@
+<!--The following is the downloaded HTML source of the getmymachine.com privacy policy that was archived on 2017-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170615090419id_/http%3A//www.getmymachine.com/index.php/userside/Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+	</head><body><span itemscope="" itemtype="http://schema.org/WebSite">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="name" content="getmymachine">
+	<meta content="http://www.getmymachine.com/" itemprop="url">
+	</span>
+	<meta charset="utf-8">
+		<title>Right Machine at Right Price and Right Time</title>
+		<meta name="description" content="Vertical Machining Center (VMC), Turning Centre, Lathe-CNC, Laser Cutting, Injection Moulding, Injection Molding, Blow Moulding, Blow Molding, Power Presses, Hydraulic Presses, Metalworking fluids, VMC service, Turning Centre Service, Machine Financing, VMC financing, CNC financing, Laser Financing, Coolant, Cutting Oil, best site for Machines, search machines in india any where, BFW, LVD, Jyoti, Micromatic, Ace, LMW, Hass, milacron, makino, mazakusa, okuma, mazakindia">
+		<meta name="keywords" content="Vertical Machining Center (VMC), Turning Center, Lathe-CNC, Laser Cutting, Injection Moulding, Injection Molding, Blow Moulding, Blow Molding, Power Presses, Hydraulic Presses, Metalworking fluids, VMC service, Turning Centre Service, Machine Financing, VMC financing, CNC financing, Laser Financing, Coolant, Cutting Oil, best site for Machines, search machines in india any where, BFW, LVD, Jyoti, Micromatic, Ace, LMW, Hass, milacron, makino, mazakusa, okuma, mazakindia">
+		<meta name="google-site-verification" content="EtrYaNHHGCKZb-XouBAMrd2Sj9-9TZKFuvl9jdU9qZ0">
+		<meta name="revisit-after" content="1 days">
+		<meta name="robots" content="index, follow">
+		<meta name="googlebot" content="index, follow">
+		<meta name="rating" content="general">
+		<meta name="resource-type" content="text/html">
+		<meta name="copyright" content="© 2017 getmymachine.com">
+		<meta name="distribution" content="Global">
+		<meta http-equiv="Content-Language" content="en-us">
+		<meta name="Author" content="getmymachine.com">
+		<meta name="Created By" content="getmymachine.com">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="shortcut icon" href="http://www.getmymachine.com/assets/user/images/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="http://www.getmymachine.com/assets/user/images/favicon.ico" type="image/x-icon">
+		<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WC9MXW4"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="http://www.getmymachine.com/assets/js/jquery-1.11.0.min.js"></script>
+	
+		<script src="http://www.getmymachine.com/assets/js/jquery-ui.js"></script>
+		<link rel="stylesheet" href="http://www.getmymachine.com/assets/user/css/jquery-ui.min.css">
+		<link rel="stylesheet" href="http://www.getmymachine.com/assets/css/bootstrap.min.css">
+						<link rel="stylesheet" href="http://www.getmymachine.com/assets/user/css/style.css">
+				<link rel="stylesheet" href="http://www.getmymachine.com/assets/user/css/footerStyle.css">
+		
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+		
+		<base href=".">
+		<a href="http://www.alexa.com/siteinfo/getmymachine.com" style="display:none;">
+	    <script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/s/a?url=getmymachine.com"></script></a>
+        
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WC9MXW4" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+				<script>
+
+		$(function(){
+
+window.scrollTo(0, 0);
+
+			 var base_url = "http://www.getmymachine.com/";
+			 var cookie_set="0";
+ 			 var ismobile="0";
+var useragent="ia_archiver";
+			 console.log(useragent);
+			var nodata=1;
+			
+			 $("#machine_img").hide();
+					//$("#dialog-box").hide();
+			
+				$("#dialog-box").dialog({
+				autoOpen: false,
+				draggable: false,
+				resizable: false,
+				height: 250,
+				width: 855,
+				modal: true,
+				closeOnEscape: false,
+				position: [107,348],
+				open: function(event, ui) {
+					$(".ui-dialog-titlebar-close", ui.dialog | ui).hide();
+				}
+				
+				});
+				
+					
+				$('[rel=overthrow]').overthrow();	
+				if(cookie_set=='0' && ismobile==0)
+				{
+
+					$("#dialog-box").show();
+					$.ajax({
+
+					  type: "GET",
+					  async: false,
+					  url: base_url+"index.php/user/machineoftheday",
+					  data: "",
+					  cache: false,
+					  beforeSend: function() {
+						 
+					  },
+					  success: function(data) {
+						 if(data!="false")
+						  {
+							var data= $.parseJSON(data);
+							
+							$("#machine_img").show();
+							
+							$("#machine_desc").text(data[0].machine_descr);
+							$("#machine_img").prop("src",base_url+"assets/user/Machineoftheday/"+data[0].machine_img);
+							$('#dialog-box').dialog('option', 'title', 'Product of the Day : '+data[0].Manufacturer+" , "+data[0].Model);
+									
+						
+							$("#visit_vendor").prop("href",data[0].visit_vendor);
+						 
+						  	
+						  link=data[0].visit_vendor;
+$("#dialog-box").dialog("open");
+						  }
+					
+					  }
+					});
+					
+					var counter = 9;
+					var interval = setInterval(function() {
+					counter--;
+					
+					$("#count_down").text(counter);
+					// Display 'counter' wherever you want to display it.
+					if (counter == 0) {
+						// Display a login box
+						clearInterval(interval);
+						 $("#dialog-box").dialog("close");
+					}
+					}, 1000);
+		}
+
+$("#skip_to_site").click(function(){
+				
+				$("#dialog-box").dialog("close");
+				
+			});
+		});
+
+		</script>	
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-55184757-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+		<!-- Google Tag Manager -->
+
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+
+		})(window,document,'script','dataLayer','GTM-WC9MXW4');</script>
+
+		<!-- End Google Tag Manager -->
+		<!-- Google Tag Manager (noscript) -->
+
+
+		<!-- End Google Tag Manager (noscript) -->
+		<style type="text/css"> 
+			@font-face 
+			{
+			font-family: HelveticaNeueLTStd-Cn;
+			src: url("http://www.getmymachine.com//assets/user/helveticaneuelightcondensed/HelveticaNeueLTStd-Cn.otf") format("opentype");  
+			}
+			.dropdown-menu li a:hover
+			
+			{
+				background-color:#5e5656;
+				text-decoration:underline;
+			}
+			.dropdown-menu {
+				left: -16px; 
+				margin: 4px 0 0;
+			}
+			.ui-widget-header
+{
+	background-color:#0570c2;
+	color:white;
+}
+.ui-widget-overlay {
+       opacity: 0.7 !important;
+}
+
+.ui-dialog{
+    position: absolute;
+    left: 8%;
+    top: 52%;
+}
+label
+{
+font-size:12px;
+}
+#sidebar {
+			  position:fixed;
+			  right:0;
+			  z-index:1000;
+			  margin-top:15%;
+			  margin-right:-42px;
+			width:5%;	
+			}
+
+			#sidebar >a{
+				text-decoration:none !important;
+			}
+
+.fade-scale {
+  transform: scale(0);
+  opacity: 0;
+  -webkit-transition: all .25s linear;
+  -o-transition: all .25s linear;
+  transition: all .25s linear;
+}
+
+.fade-scale.in {
+  opacity: 1;
+  transform: scale(1);
+}
+		</style>
+	
+
+	
+	<div id="dialog-box" title="Product of the Day" hidden="">
+		<table id="product_of_the_day">
+			<tbody><tr>
+				<td><img id="machine_img" height="150px" width="150px"></td>	
+				<td style="padding-left:6%;" colspan="4"><label id="machine_desc" style="text-align:justify;"></label></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td style="width:20%;"></td>
+				<td style="width:20%;padding-right:1%;"><button class="btn btn-primary" id="skip_to_site" style="float:right;background-color:#d57531;border:none;">Skip</button></td>
+				<td style="width:10%;"><a id="visit_vendor" target="_Blank"><button class="btn btn-primary" id="visit_product" style="float:right;background-color:#0570c2">Visit Vendor</button></a></td>
+				<td style="width:22%;"><label id="skip_machine" style="float:right;">This will close in <span id="count_down"></span> seconds..</label></td>
+			</tr>
+		</tbody></table>		   
+	</div>
+	 
+<div class="container-fluid" ng-controller="ctrTopBar" id="topbar" style="padding:0px;"> 
+		
+		  <div id="reachus_bar" style="height:30px;background-image: url(http://www.getmymachine.com/assets/user/images/reachus_bar_bg.png);">
+			<span style="font-family:HelveticaNeueLTStd-Cn;font-size: 15px;margin-top:3px; color:#FFFFFF">
+			  <i class="glyphicon glyphicon glyphicon-earphone" style=" padding:5px 8px ;"></i>REACH US ON +91-22-2562 0665 			</span>
+			<span style="font-family:HelveticaNeueLTStd-Cn;font-size: 15px;margin-top:3px;margin-left:300px; color:#FFFFFF">Connected 19,261 Industrial Units to 997  Vendors, so far... 
+			</span>
+			<span class="userAuth" style="float:right; margin-top:6px; margin-right:5px; font-family: HelveticaNeueLTStd-Cn;">
+						<ul style="height: 0px;">
+				<li class="signIn">
+					<a href="http://www.getmymachine.com/index.php/userside/signin" id="signInLinkId" style="font-size: 15px;color:#FFFFFF;" ng-click="setTitle('Sign in')">Sign in</a>
+					<span style="margin-left: 7px;margin-right: 7px;color: #ffffff">|</span>
+				</li>
+				<li class="register" id="registerId" style="display: inline">
+					<a href="http://www.getmymachine.com/index.php/userside/register" id="registerLinkId" style="font-size: 15px;color:#FFFFFF" ng-click="setTitle('Registration')">Register</a>
+				</li>
+			</ul>
+					</span>  
+      </div>
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 noPadding" id="logo_div" style="background-color : white; color:white;">
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+        <!--  <a href="http://www.getmymachine.com/userside/index"> 
+            <img class="img-responsive" src="http://www.getmymachine.com/assets/user/images/GMM_Logo.jpg" style="height:60px;glyphicon glyphicon-pencil"> 
+          </a> -->
+		 <a href="http://www.getmymachine.com/userside/index"> 
+		  	            <img class="img-responsive" src="http://www.getmymachine.com/assets/user/images/GMM_Logo.jpg" style="height:60px;glyphicon glyphicon-pencil"> 
+
+		  </a>  
+		</div>
+		<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9" style="font-family: HelveticaNeueLTStd-Cn;font-size:14px;">
+		<!--Equipment-->
+		   <a href="http://www.getmymachine.com/userside/ViewEquipment" style="margin-top:10px;float:right;width:150px;margin-left:1px;height:35px;margin-right:5px;color:white;" class=" btn btn-sm my-btn-responsive" id="viewEquipmentId" name="viewEquipmentName">
+              View Machine
+           </a>
+							<a href="http://www.getmymachine.com/userside/addequipment" style="margin-top:10px;margin-right:5px;float:right;width:150px;height:35px;padding: 7px 8px;color:white;" class=" btn btn-sm my-btn-responsive" id="postEquipmentIdId" rel="overthrow" name="viewEquipmentNameName">
+					<span class="glyphicon glyphicon-pencil" style="margin-left:1px;"> </span>Post Machine
+				</a>
+						
+			<!--Requirement-->
+			<a href="http://www.getmymachine.com/userside/ViewRequirement" style="margin-top:10px;float:right;width:150px;height:35px;margin-left:1px;margin-right:5px;color:white;" class=" btn btn-sm my-btn-responsive " id="viewRequirementId" name="viewRequirementName">
+				  View Requirement
+			</a>
+						 <a href="http://www.getmymachine.com/userside/addrequirement" style="margin-top:10px;margin-right:5px;float:right;width:150px;height:35px;padding: 7px 8px;color:white;" class=" btn btn-sm my-btn-responsive" id="postRequirementId" rel="overthrow" name="viewRequirementName">
+			  <span class="glyphicon glyphicon-pencil"> </span> Post Requirement
+			</a>
+			<!--Special Offers-->
+			  <a href="http://www.getmymachine.com/userside/specialOffers" style="background-color:#d57531;margin-top:10px;float:right;width:150px;margin-left:1px;height:35px;margin-right:5px;color:white;text-align:center;margin-bottom:10px;" class=" btn btn-sm my-btn-responsive">
+              Special Offers
+           </a> 
+		  		<a href="http://www.getmymachine.com/userside/show_product" style="background-color:#0570C2;margin-top:10px;float:right;width:150px;margin-left:1px;height:35px;margin-right:5px;color:white;text-align:center;margin-bottom:10px;" class=" btn btn-sm my-btn-responsive" id="pod" title="Hardinge/Talent 51 MSY">
+					  <span id="product_label">Hardinge/Talent 5</span>
+					</a>
+				 <div id="sidebar">
+					<a href="http://www.getmymachine.com/userside/newsimages" data-toggle="modal" data-target="#modal_sidebar">
+			<img src="http://www.getmymachine.com/assets/user/images/news_button.jpg" alt="news">
+			</a>
+			</div>
+			<div class="modal fade-scale" id="modal_sidebar" style="overflow:hidden;display:block;width:75%;margin-left:156px;height:90%;padding-bottom:30px;margin-top:39px;">
+				<div class="modal-content" style="padding:0px !important;">
+					<div class="modal-body">
+					</div>
+				</div><!-- /.mod	al-content -->
+			</div> 
+
+		</div>  
+       </div>
+	   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 noPadding" id="logo_div" style="margin-bottom:0.5%;font-family: HelveticaNeueLTStd-Cn;font-size:15px;">
+		 <center>
+
+		 <a href="http://www.getmymachine.com/userside/index" style="width:5%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			 HOME
+
+			</a>
+
+		 <a href="http://www.getmymachine.com/userside/Vertical_Machining_Center_Machine/INDIA" style="width:10%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			 Machining Center
+
+			</a> 
+
+			
+
+			<a href="http://www.getmymachine.com/userside/CNC_Lathe_CNC_Turning_Center_Machine/INDIA" style="width:8%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			Turning Center
+
+			</a> 
+
+
+
+<a href="http://www.getmymachine.com/userside/Laser_Cutting_Machine_EDM_Plasma_Machine/INDIA" style="width:12%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			 Laser-EDM-Plasma
+
+			</a> 
+
+			
+
+			<a href="http://www.getmymachine.com/userside/Injection_Moulding_Machine/INDIA" style="width:11%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			 Injection Moulding 
+
+			</a>   <a href="http://www.getmymachine.com/userside/Blow_Moulding_Machine/INDIA" style="width:13%;height:35px;padding: 5px	8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			  Blow Moulding
+
+			</a> 
+
+			<a href="http://www.getmymachine.com/userside/PRESS_BENDING_OTHER_MACHINES/INDIA" style="width:8%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			OTHERS 
+
+			</a>		
+
+			<a href="http://www.getmymachine.com/userside/Cutting_Oil_Lubricants_MWF_Machine/MAHARASHTRA" style="width:8%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName">
+
+			Lubricants 
+
+			</a>
+
+			  
+
+			<a href="http://www.getmymachine.com/userside/Machine_Financing_VMC_Lathe_Laser_Cutting_Plastic_Machine_Financing_Machine/INDIA" style="width:10%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" name="viewRequirementName" disabled="">
+
+			  Machine Financing
+
+			</a>
+
+<a href="http://www.getmymachine.com/userside/Machine_Servicing/INDIA" style="width:7%;height:35px;padding: 5px 8px;color:white;background-color:#0570c2" class=" btn btn-sm my-btn-responsive" id="postRequirementId" "="" name="viewRequirementName" disabled="">
+
+			  Service
+
+			</a> 
+
+		 </center>
+
+		  
+	  </div>    </div>
+	<style>
+ h3
+ {
+	font-family: HelveticaNeueLTStd-Cn;
+ }
+
+</style>
+
+<div id="dynamic_contents" style="height:auto;min-height:500px">
+        <!-- ngView: undefined --><ng-view>
+<!-- title -->
+<div class="inside-title">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-offset-2 inside-title-text">Privacy Policy</div>
+        </div>
+    </div>
+</div>
+<!-- title -->
+
+<script type="text/javascript">
+    window.scrollTo(0, 0);
+</script>
+<div class="container">
+    <div class="spacer">
+        <div class="row">
+            <div class="col-lg-8  col-lg-offset-2" style="padding: 0px;font-family: HelveticaNeueLTStd-Cn;font-size:16px;">
+			<h3>
+	Privacy Policy of GetMyMachine</h3>
+<p>
+	GetMyMachine (hereinafter referred to as "GMM") is committed to safeguarding its users' privacy. We request all our users to read the following 'Privacy Policy' to understand how their personal and business information will be treated, as they make full use of our services to their benefit. This policy is applicable only to the entire network of marketplaces operated by GMM and not by any other company.</p>
+<h3>
+	Collection of Information</h3>
+<p>
+	GMM collects information from its users when they register to gain access to our services or at other specific instances when they are requested to provide us with their personal and business information. During registration, we ask the users for their name, email address, business information and other personal details. Once a user registers, he/ she is no longer anonymous to GMM and it is deemed that the user has given GMM the right to publish the desired business and personal details throughout its marketplaces, including but not limited to, business directory, trade leads, catalogs etc.</p>
+<p>
+	When you are on our network and are asked for personal information, you are sharing the information with GMM alone, unless it is specifically stated otherwise. Promotions that run on our network may be sponsored by companies other than GMM or may be co-sponsored by GMM and another company. Some or all data collected during a promotion may be shared with the sponsor. However, you can decide not to participate in the promotion if you don't want your data to be shared.</p>
+<p>
+	We also gather usage statistics such as pages viewed, number of unique visitors, browser software, screen resolution etc. for analysis that helps us provide you improved user experience and services.</p>
+<h3>
+	Use of Personal and Business Information</h3>
+<p>
+	GMM's primary goal in collecting personal or public information is to provide the user with a customized experience on our network of site/s. This includes personalized services, interactive communication and other services, most of which are completely free and while some are paid. Business information is used to display the user's business listing or product offerings across our network to fetch maximum business opportunities for the user.</p>
+<p>
+	In order to provide free services, GMM displays advertisements based upon the site usage statistics and visitor trends. GMM uses user's personal &amp; business information to serve targeted advertisements through its websites, newsletters and customized mailers. In addition to it, once the user's personal and business information is displayed on our network, the user may start receiving business enquiries through email, phone calls or SMS notifications, from various buyers and sellers that might or might not be of their interest. GMM does not exercise any control over its users for sending business enquiries to the listed members.</p>
+<p>
+	We record buying and browsing activities of our users including but not limited to their client's contact details and profiles and uses the same to provide value-added services to our users.</p>
+<h3>
+	Sharing of Information</h3>
+<p>
+	As a general rule, GMM will not disclose or share any of the user's personally identifiable information except when GMM has the user's permission or under special circumstances, such as when GMM believes in good faith that the law requires it or as permitted in terms of this policy.</p>
+<p>
+	GMM does not display user email addresses on marketplace to avoid extraction by email extractors.</p>
+<p>
+	GMM may also disclose account information in special cases when GMM has reasons to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating GMM's Terms of Services or may be causing injury to or interference with (either intentionally or unintentionally) GMM's rights or property, other GMM network website users, or if GMM deems it necessary to maintain, service, and improve its products and services. Personal information collected may be transferred and shared in the event of a sale.</p>
+<h3>
+	Distribution of Information</h3>
+<p>
+	GMM may, from time to time, send its users emails regarding its products and services. GMM constantly tries and improves the marketplace tools for better efficiency, more relevancy, innovative business matchmaking and better personal preferences. GMM has many match making tools on the marketplace to be used by its users for making relevant business contacts with each other. &nbsp;GMM may allow direct mails using its own scripts (without disclosing the email address) with respect/ pertaining to the products and services of third parties that it feels may be of interest to the user or if the user has shown interest in your company for business requirement by way of our paid buyers-sellers contact services. Only GMM, its registered members or its agents working under confidentiality agreements will send these direct mailers. Relevancy of the contacts made between users would depend upon the information sought and given by various users.</p>
+<h3>
+	Updation of Information</h3>
+<p>
+	A user may edit his/ her account information and profile by logging onto our website and/ or by sending a request to customercare@getmymachine.com. A user account can be deleted or deactivated, but doing so will result in the user not being able to access any members-only area of the network. Residual information will remain within our archive records.</p>
+<h3>
+	Protection of information</h3>
+<p>
+	As with all information, GMM does not sell any data in bulk to third party that can be misused for telemarketing or bulk mailing or any other wrong purposes. In addition, GMM does not sell any user's personal information or business information until and unless it is permitted by the user. Any user statistics that we may provide to prospective advertisers or partners regarding product or service usage on GMM network is provided in an aggregate form only and does not include any personally identifiable information about any individual user.</p>
+<p>
+	We request our users to sign out of their GMM account and close their browser window when they have finished their work. This is to ensure that others cannot access their personal or business information and correspondence, if the user shares the computer with someone else or is using a computer in a public place.</p>
+<p>
+	GMM takes necessary steps, within its limits of commercial viability and necessity, to ensure that the user's information is treated securely.</p>
+<p>
+	Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while GMM strives to protect the user's personal &amp; business information, it cannot ensure the security of any information transmitted to GMM and you do so at your own risk. Once GMM receives your transmission, it makes best efforts to ensure its security in its systems. Please keep in mind that whenever you post personal and business information online, that is accessible to the public, you may receive unsolicited messages from other parties.</p>
+<h3>
+	Changes in Privacy Policy</h3>
+<p>
+	The policy may change from time to time so please check periodically.</p>
+                
+            </div>
+
+        </div>
+    </div>
+</div>
+</ng-view>
+    </div>
+
+<link href="http://www.getmymachine.com/assets/user/css/overthrow.css" rel="stylesheet">
+				<script src="http://www.getmymachine.com/assets/user/js/jquery.overthrow.js"></script>
+	
+		<style>
+.col-sm-12 a 
+{
+	font-size:15px;
+}
+</style>
+<div class="footer" id="footerDiv" ng-controller="ctrFooterSearch">
+        <div class="container">
+          <div class="row">
+       	 <div class="col-sm-12" style="padding-right: 8px !important;padding-left : 8px !important;">
+		  <div class="col-sm-12" style="padding:0px;">
+		  <div class="col-lg-3 col-sm-3" style="padding-right:0px;">  
+				<h4>About us</h4>	
+				 <div class="col-sm-12"><a href="http://www.getmymachine.com/index.php/userside/aboutus">About GetMyMachine</a></div>			
+				 <div class="col-sm-12"><a href="http://www.getmymachine.com/index.php/userside/Terms">Terms of Use</a></div>			
+				 <div class="col-sm-12"><a href="http://www.getmymachine.com/index.php/userside/Policy">Privacy Policy</a></div>			
+				 <div class="col-sm-12"><a href="http://www.getmymachine.com/index.php/userside/FAQ">Frequently Asked Questions</a></div>			
+				 <div class="col-sm-12"><a href="http://www.getmymachine.com/index.php/userside/careers">Careers @GetMyMachine</a></div>			
+		  </div>
+		  <div class="col-lg-3 col-sm-3" style="padding-right:0px;">  
+				<h4>Contact us</h4>	
+				 <b>GetMyMachine </b><br>
+               <div class="col-sm-12" style="padding:0px;"> <span class="glyphicon glyphicon-envelope"></span>&nbsp;<a href="mailto:customercare@getmymachine.com?Subject=Regarding%20Query" target="_top" style="color:#999">&nbsp;customercare@getmymachine.com</a></div>
+                <!-- customercare@getmymachine.com<br> -->
+                 <div class="col-sm-12" style="padding:0px;"> <span class="glyphicon glyphicon-earphone"></span>&nbsp;+91-22-2562 0665  </div>
+               <div class="col-sm-12" style="padding:0px;"> <span class="glyphicon glyphicon-map-marker"></span>&nbsp; 309, Corporate Center,<br>Nirmal Lifestyle, LBS Marg, Mulund (W)<br>  Mumbai - 400080, India</div>
+               <div class="col-sm-12" style="padding:0px;">&nbsp;<script type="text/javascript" src="https://cdn.ywxi.net/js/1.js" async=""></script></div>			
+						
+		  </div> 
+		  <div class="col-lg-3 col-sm-3" style="padding-right:0px;">  
+				<h4>For Users</h4>	
+				 <div class="col-sm-12" style="padding:0px;"><a href="http://www.getmymachine.com/index.php/userside/gmmBusinessAdvBuyers">GetMyMachine Business Advantage for Buyers</a></div>			
+				 <div class="col-sm-12" style="padding:0px;"><a href="http://www.getmymachine.com/index.php/userside/valueAddedServices">Value Added Services</a></div>			
+				 <div class="col-sm-12" style="padding:0px;"><a href="http://www.getmymachine.com/index.php/userside/buyerManual">Buyer Guide</a></div>			
+				 <div class="col-sm-12" style="padding:0px;"><a href="http://www.getmymachine.com/index.php/userside/gmmBusinessAdvVendors">GetMyMachine Business Advantage for Vendors</a></div>			
+				 <div class="col-sm-12" style="padding:0px;"><a href="http://www.getmymachine.com/index.php/userside/vendorManual">Vendor Guide</a></div>			
+						
+		  </div>
+		  <div class="col-lg-3 col-sm-3" style="padding-right:0px;">  
+		  <h4>Follow us</h4>
+		  <a target="_blank" title="facebook" href="https://www.facebook.com/GetMyMachineOfficial">
+                <img src="http://www.getmymachine.com/assets/user/img/fb.png" alt="facebook" height="40px" width="40px">
+              </a>
+              <a target="_blank" title="linkedIn" href="https://www.linkedin.com/company/getmymachine?trk=company_logo">
+                <img src="http://www.getmymachine.com/assets/user/img/linked.png" alt="linkedin" height="40px" width="40px">
+              </a>
+              <a target="_blank" title="twitter" href="https://twitter.com/GetMyMachine">
+                <img src="http://www.getmymachine.com/assets/user/img/twit.png" alt="twitter" height="40px" width="40px">
+              </a>
+		  </div>
+		  
+		  </div>
+          </div> 
+		  <div class="col-sm-12">
+			 <h4>For Vendors: Machine Requirements</h4>
+			 	 <div class="col-sm-12">
+			  <div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				 <a href="http://www.getmymachine.com/userside/Vertical_Machining_Center/INDIA" target="_blank" style="font-size:15px;">Vertical Machining Center</a>
+				
+			</div>
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+               <a href="http://www.getmymachine.com/userside/CNC_Lathe_CNC_Turning_Center/INDIA" target="_blank" style="font-size:15px;">CNC Lathe-Turning Center</a>
+				
+			  
+			</div>	 
+			
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">   
+			 <a href="http://www.getmymachine.com/userside/Injection_Moulding/INDIA" target="_blank" style="font-size:15px;">Injection Moulding Machine</a>
+			
+			</div>
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">   			
+              <a href="http://www.getmymachine.com/userside/Laser_Cutting_Machine_EDM_Plasma/INDIA" target="_blank" style="font-size:15px;">Laser Cutting - EDM-Plasma</a>
+			</div>
+			</div> 
+			<div class="col-sm-12">
+			  <div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				 <a href="http://www.getmymachine.com/userside/Blow_HDPE_Moulding/INDIA" target="_blank" style="font-size:15px;">Blow Moulding Machine-HDPE</a>
+				
+				</div> 
+				<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				   <a href="http://www.getmymachine.com/userside/Blow_PET_Moulding/INDIA" target="_blank" style="font-size:15px;">Blow Moulding Machine-PET</a>
+			  
+			</div>
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				   <a href="http://www.getmymachine.com/userside/Cutting_Oil_Lubricants_MWF/MAHARASHTRA" target="_blank" style="font-size:15px;">Cutting Oil - Lubricants - MWF</a>
+			  
+			</div>
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				   <a href="http://www.getmymachine.com/userside/Machine_Financing_VMC_Lathe_Laser_Cutting_Plastic_Machine_Financing/INDIA" target="_blank" style="font-size:15px;">Machine Financing</a>
+			  
+			</div>
+			
+			
+			</div>
+			 </div> 
+			
+			
+			 <div class="col-sm-12">
+			 <h4>For Buyers: Machines Available</h4>
+			 <div class="col-sm-12">
+			  <div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				 <a href="http://www.getmymachine.com/userside/Vertical_Machining_Center_Machine/INDIA" target="_blank" style="font-size:15px;">Vertical Machining Center</a>
+				
+			</div>
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+               <a href="http://www.getmymachine.com/userside/CNC_Lathe_CNC_Turning_Center_Machine/INDIA" target="_blank" style="font-size:15px;">CNC Lathe-Turning Center</a>
+			</div>	 
+			
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">   
+			 <a href="http://www.getmymachine.com/userside/Injection_Moulding_Machine/INDIA" target="_blank" style="font-size:15px;">Injection Moulding Machine</a>	
+			</div>
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">      
+              <a href="http://www.getmymachine.com/userside/Laser_Cutting_Machine_EDM_Plasma_Machine/INDIA" target="_blank" style="font-size:15px;">Laser Cutting - EDM-Plasma</a>	
+			</div>
+			</div>
+			<div class="col-sm-12">
+			  <div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				 <a href="http://www.getmymachine.com/userside/Blow_Moulding_HDPE_Machine/INDIA" target="_blank" style="font-size:15px;">Blow Moulding Machine-HDPE </a>
+				
+			</div> 
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				 <a href="http://www.getmymachine.com/userside/Blow_Moulding_PET_Machine/INDIA" target="_blank" style="font-size:15px;">Blow Moulding Machine-PET</a>
+				
+			</div>
+			<!--<div class="col-lg-3 col-sm-3"  style="padding-right: 8px !important;padding-left : 8px !important;">              
+				 <a href="http://www.getmymachine.com/userside/Machine_Financing_VMC_Lathe_Laser_Cutting_Plastic_Machine_Financing_Machine/INDIA"  target="_blank" style="font-size:15px;">Machine Financing</a>
+				
+			</div>-->
+			<div class="col-lg-3 col-sm-3" style="padding-right: 8px !important;padding-left : 8px !important;">              
+				 <a href="http://www.getmymachine.com/userside/Cutting_Oil_Lubricants_MWF_Machine/MAHARASHTRA" target="_blank" style="font-size:15px;">Cutting Oil - Lubricants - MWF</a>
+				
+			</div>
+			
+			</div>
+			 </div>
+          </div>
+        </div>
+    <p class="copyright">Copyright 2015. All rights reserved. </p>
+</div></body></html>
