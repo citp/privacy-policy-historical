@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211175814id_/http%3A//www.mvfglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvfglobal.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616010800id_/http%3A//www.mvfglobal.com/node/92) for the most accurate reproduction.*
 
 # Privacy Policy | MVF
 
@@ -49,3 +49,19 @@ Our site links to other web sites and we are not responsible for the content on 
 ## Data Protection
 
 MVF is a trading name of Marketing V F Limited. which is registered under the 1998 Data Protection Act, ref PZ1995728.
+
+MVF is committed to the fundamental rights and welfare of our employees, and the employees of our suppliers. As such, we're committed to taking appropriate steps to safeguard our business and supply chain from from modern slavery and human trafficking. For more information, please 
+
+read MVF's UK Modern Slavery Act statement.
+
+## Modern Slavery and Human Trafficking Statement
+
+Marketing VF Limited ( **"MVF" / "we"/ "our"** ) is committed to corporate social responsibility, and to understanding and safeguarding its business and supply chain from modern slavery and human trafficking. MVF is an award-winning company that provides a scalable source of new customers to businesses all over the world. MVF's technology and world-class cross-channel marketing teams help connect active customers with businesses looking to scale. 
+
+We procure different services and products from a number of suppliers.   
+The vast majority of our procurement spend is on services, and mainly in the following areas: Online marketing/advertising, IT/cloud-based solutions, and office premises and facilities. Many of the service providers with which we work are large multinational business (e.g. Google, Facebook). Most of the products that we purchase are IT equipment (e.g. laptops, telephones). Again, in the main, we purchase such items from large multinational businesses (e.g. Dell). Given the nature of our business, we believe that the risk of modern slavery or human trafficking in our business or supply chain is very low. This statement is made pursuant to section 54(1) of the Modern Slavery Act 2015. It has been approved by MVF's Board of Directors, and constitutes MVF's modern slavery and human trafficking statement for the financial year ending 31 March 2016. 
+
+**Titus Sharpe  
+CEO   
+Marketing VF Limited   
+23 November 2016 **
