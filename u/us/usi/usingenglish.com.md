@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031159id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usingenglish.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615194858id_/https%3A//www.usingenglish.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Statemant - UsingEnglish.com
+# Privacy Statement - UsingEnglish.com
 
 **Effective from: 26th May 2012**
 
@@ -11,9 +11,9 @@ We have created this privacy statement in order to demonstrate our firm commitme
 We collect personal information from you (such as name, age, email address etc) when you complete registration or enquiry forms, order any products or services, participate in message boards, blogs or any other user generated content facilities or send emails to us. This information is used:
 
   * to provide additional functionality and services (for example newsletters, web discussion forums etc)
-  * to maintain and improve the quality of service
+  * to maintain and improve the quality of service 
   * to help us maintain the security of the Site and its users
-  * to provide general aggregated statistics regarding use of the Site
+  * to provide general aggregated statistics regarding use of the Site 
 
 
 
@@ -30,24 +30,24 @@ Cookies are pieces of information which include a unique reference code that a w
 We use cookies to:
 
   * remember that you have used the Site before; this means we can identify the number of unique visitors we receive to different parts of the Site. This allows us to make sure we have enough capacity for the number of users that we get and make sure that the Site runs fast enough; 
-  * remember your login session so you can move from one page to another within the Site; 
+  * remember your login session so you can move from one page to another within the Site;
   * store your preferences or your user name and password so that you do not need to input these every time you visit the Site; 
-  * customise elements of the layout and/or content of the pages of the Site for you; 
-  * collect statistical information about how you use the Site so that we can improve the Site; and 
-  * gather information about the pages on the Site that you visit, and also other information about other websites that you visit.
+  * customise elements of the layout and/or content of the pages of the Site for you;
+  * collect statistical information about how you use the Site so that we can improve the Site; and
+  * gather information about the pages on the Site that you visit, and also other information about other websites that you visit. 
 
 
 
 Some of the cookies used by the Site are set by us, and some are set by third parties who are delivering services on our behalf such as our advertising partners who serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites (this information is anonymous in that it does not include your name, street address, email address or telephone number). For more information about this type of online behavioural advertising please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/ "www.youronlinechoices.co.uk") or follow the link to the relevant website of our advertising partners shown below.
 
-You can choose to disable cookies from this Site or selectively from any of the 3rd party advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable cookies used on this website, you will be unable to log in to the website or use other features and services provided, but will still be able to access a lot of the site's public content. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. You can learn more about cookies and how to reject cookies using different types of browser by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org").
+You can choose to disable cookies from this Site or selectively from any of the 3rd party advertising vendors (such as Google) by changing your browser settings or using other software tools. If you disable cookies used on this website, you will be unable to log in to the website or use other features and services provided, but will still be able to access a lot of the site's public content. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, you may not be able to use some of the core features of the Site. You can learn more about cookies and how to reject cookies using different types of browser by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org"). 
 
 ### **a) Our cookies**
 
 A description of the main cookies we use and of the general purpose we use these for is provided below. We allocated a category to each cookie so you can decide whether or not you want them to be installed. We have called them; 
 
-  * **Performance Cookies** –Performance Cookies collect information about how you use our website. These cookies do not collect information that identifies you. All information collected is aggregated and therefore anonymous. They are only used to improve the performance of our website.
-  * **Essential Cookies** \- These cookies are essential in order to enable you to move around the website and/or use its features such as accessing secure areas. Without these the services you are requesting such as contact or registration cannot be provided.
+  * **Performance Cookies** –Performance Cookies collect information about how you use our website. These cookies do not collect information that identifies you. All information collected is aggregated and therefore anonymous. They are only used to improve the performance of our website. 
+  * **Essential Cookies** \- These cookies are essential in order to enable you to move around the website and/or use its features such as accessing secure areas. Without these the services you are requesting such as contact or registration cannot be provided. 
 
 
 
@@ -62,32 +62,32 @@ Note:
 
 #### Essential Cookies:
 
-Cookie name | Purpose | Type and duration (i.e. session only or persistent)   
+Cookie name | Purpose | Type and duration (i.e. session only or persistent)  
 ---|---|---  
-PHPSESSID | This is a temporary session cookie that is set whenever you visit the site and is used to record a session/visit to the website. The contents of these cookies is usually a singly unique ID number. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it. | At end of session.  
-AdvancedPoll[] | This cookie used to track votes in our online language polls. It contains a number representing the response ID of the vote cast. | Persistent: 4 days.  
+PHPSESSID | This is a temporary session cookie that is set whenever you visit the site and is used to record a session/visit to the website. The contents of these cookies is usually a singly unique ID number. If you do not intend to ever log in, you may deny this cookie, but you cannot log in without it.  | At end of session.  
+AdvancedPoll[] | This cookie used to track votes in our online language polls. It contains a number representing the response ID of the vote cast.  | Persistent: 4 days.  
 bb_userid | This vBulletin cookie stores your user ID. It is checked every time a page loads. | Persistent: 1 year  
-bb_lastvisit | This vBulletin cookie updates the last visit and last activity times for guests and registered users (differently). Last visit is set to the last activity time (before it's updated). Last activity is always set to the specified time. | Persistent: 1 year  
-bb_lastactivity | This vBulletin cookie checks what you did when you last used the Site. This is a constantly updated cookie. | Persistent: 1 year  
-bb_password | This vBulletin cookie stores an encrypted version of your password, when you are logged into the Site. It's checked every time the page loads. | Persistent: 1 year  
-bb_sessionhash | This vBulletin cookie is needed for maintaining session state and security. It's checked on every page load. | At end of session.  
+bb_lastvisit | This vBulletin cookie updates the last visit and last activity times for guests and registered users (differently). Last visit is set to the last activity time (before it's updated). Last activity is always set to the specified time.  | Persistent: 1 year  
+bb_lastactivity | This vBulletin cookie checks what you did when you last used the Site. This is a constantly updated cookie.  | Persistent: 1 year  
+bb_password | This vBulletin cookie stores an encrypted version of your password, when you are logged into the Site. It's checked every time the page loads.  | Persistent: 1 year  
+bb_sessionhash | This vBulletin cookie is needed for maintaining session state and security. It's checked on every page load.  | At end of session.  
 bb_thread_lastview[] | This vBulletin cookie last visit time of specific thread. |    
-IDStack | Cookie used to store a list of login names used from the same computer. | Persistent: 4 months   
+IDStack | Cookie used to store a list of login names used from the same computer. | Persistent: 4 months  
 skimlinks_enabled | Cookie used by Skimlinks software to determine if functionality is enabled. | At end of session.  
-vbseo_loggedin | This vBulletin plugin cookie tracks whether a user is currently logged in or not.  | Persistent: 60 minutes   
+vbseo_loggedin | This vBulletin plugin cookie tracks whether a user is currently logged in or not. | Persistent: 60 minutes  
   
 #### Performance Cookies:
 
-Cookie name | Purpose | Type and duration (i.e. session only or persistent)  | More Info   
+Cookie name | Purpose | Type and duration (i.e. session only or persistent) | More Info  
 ---|---|---|---  
-_gads | This cookie is used by Google for a variety of purposes (eg, ensuring Frequency Caps work correctly) which include Adsense if you have Adsense enabled. | Persistent: 2 years | [Click Here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880)  
+_gads | This cookie is used by Google for a variety of purposes (eg, ensuring Frequency Caps work correctly) which include Adsense if you have Adsense enabled.  | Persistent: 2 years | [Click Here](http://support.google.com/dfp_sb/bin/answer.py?hl=en&answer=2551880)  
 _utma | This Google Analytics cookie is used to determine the number of unique visitors to our website and it is updated with each page viewed.  | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
 _utmb | This Google Analytics cookie is used to establish and continue a user session with this site | Session: expires after 30 minutes of inactivity. | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
 _utmc | This Google Analytics cookie is a tracking code to determine session status. | At end of session. | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmv | This Google Analytics cookie allows custom variables to be associated with a  |   | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmz | This Google Analytics cookie stores the type of referral used by the visitor to reach your site. | Persistent: 6 months  | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmx | This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site. | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
-_utmxx | This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site. | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmv | This Google Analytics cookie allows custom variables to be associated with a |   | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmz | This Google Analytics cookie stores the type of referral used by the visitor to reach your site. | Persistent: 6 months | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmx | This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site.  | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
+_utmxx | This Google Analytics Website Optimiser cookie stores the variation this visitor is assigned to for each experiment, so the visitor has a consistent experience on this site.  | Persistent: 2 years | [Click Here](http://www.google.com/intl/en/privacypolicy.html)  
   
 ### b) Third party cookies
 
@@ -95,17 +95,17 @@ Cookies are also set by third parties on the Site. More information about cookie
 
 Name | Purpose/typical content | Type and duration | How to reject or delete this cookie  
 ---|---|---|---  
-Addthis | Addthis set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products. | Persistent up to 3 years. | [www.addthis.com/privacy/opt-out](http://www.addthis.com/privacy/opt-out)  
+Addthis | Addthis set cookies to deliver advertisements that are relevant to your interests or behaviour online such as visiting a particular advertisers website and products.  | Persistent up to 3 years. | [www.addthis.com/privacy/opt-out](http://www.addthis.com/privacy/opt-out)  
 Doubleclick (Google) | This cookie is used to serve advertising, deliver and report on ads served on the website. The cookie also tracks what advertisments the user has seen and how often.  | Persistent 2 years. | [www.google.co.uk/privacy/ads/](http://www.google.co.uk/privacy/ads/)  
-Facebook | The facebook cookies are used to let Facebook know you are logged in to Facebook, to help you use social plugins and share buttons. | Persistent up to 2 years. | [www.facebook.com/help/?page=176591669064814](http://www.facebook.com/help/?page=176591669064814)  
-Google Analytics | These cookies collect statistics on visitors to the site, where vistors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site. | Persistent 2 years. | [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
+Facebook | The facebook cookies are used to let Facebook know you are logged in to Facebook, to help you use social plugins and share buttons.  | Persistent up to 2 years. | [www.facebook.com/help/?page=176591669064814](http://www.facebook.com/help/?page=176591669064814)  
+Google Analytics | These cookies collect statistics on visitors to the site, where vistors have come to the site from and the pages they visited. This helps us to understand how people use the site and to make improvements to our site.  | Persistent 2 years. | [tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)  
 Twitter.com |  Twitter use cookies to better understand how you interact with their Services. |  At end of session. | [twitter.com/privacy](http://twitter.com/privacy)  
   
-This Site uses third-party advertising companies (such as Google AdSense) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, IP address, ISP etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") . Please also note that:
+This Site uses third-party advertising companies (such as Google AdSense) to serve ads when you visit our website. These companies may set their own cookies and/or may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. This information includes the user's browser, operating system, IP address, ISP etc. If you would like more information about such practices click [here](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") . Please also note that: 
 
   * Google, as a third party vendor, uses cookies to serve ads on this Site.
-  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "http://www.doubleclick.com/privacy/faq.aspx")  enables it to serve ads to you based on your visit to the Site and other sites on the Internet.
-  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") .
+  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx "http://www.doubleclick.com/privacy/faq.aspx")  enables it to serve ads to you based on your visit to the Site and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html") . 
 
 
 
@@ -145,7 +145,7 @@ MetaPeople | [www.metapeople.com](http://www.metapeople.com/ "www.metapeople.com
 Newtention | [www.newtention.com](http://www.newtention.com/ "www.newtention.com")  
 Optimum Response | [www.optimumresponse.net](http://www.optimumresponse.net/ "www.optimumresponse.net")  
 Quisma Tracker | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
-QuisMatch  | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
+QuisMatch | [www.quisma.com](http://www.quisma.com/ "www.quisma.com")  
 SMART AdServer | [www.smartadserver.com](http://www.smartadserver.com/ "www.smartadserver.com")  
 Tassimo | [media.tassimodirect.com](http://media.tassimodirect.com/ "media.tassimodirect.com")  
 TradeDoubler | [www.tradedoubler.com](http://www.tradedoubler.com/ "www.tradedoubler.com")  
@@ -165,7 +165,7 @@ Whitesmoke | [www.whitesmoke.com](http://www.whitesmoke.com/)
   
 In addition to cookies we use the following similar technologies in respect of your use of the Site:
 
-  * Pixel Gif’s - these are small image files that are placed within the body of our newsletters so we can understand whether these are read and if particular content in the newsletter is of interest. This way we can improve the relevance of the content of our communications to our readers;
+  * Pixel Gif’s - these are small image files that are placed within the body of our newsletters so we can understand whether these are read and if particular content in the newsletter is of interest. This way we can improve the relevance of the content of our communications to our readers; 
   * Flash cookies – We may use Adobe Flash Player to display video or image content. It may not be possible to block or restrict flash cookies using your browser setting, however information on how to control flash privacy and security settings is available from the Adobe website at: [www.adobe.com/products/flashplayer/security](http://www.adobe.com/products/flashplayer/security "www.dmgt.co.uk")
 
 
@@ -174,12 +174,12 @@ In addition to cookies we use the following similar technologies in respect of y
 
 By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which includes (without limitation):
 
-  * personalising your visits to the Site to improve the services provided to you; 
+  * personalising your visits to the Site to improve the services provided to you;
   * informing you about the latest changes to the Site, products, services or promotional offers that you might find interesting; 
-  * customer service and support; 
-  * communicating (and personalising such communication) with you; 
-  * enabling you to share our content with others e.g. using an 'Email a friend' or 'Share this' functionality; 
-  * conducting market research; and/or 
+  * customer service and support;
+  * communicating (and personalising such communication) with you;
+  * enabling you to share our content with others e.g. using an 'Email a friend' or 'Share this' functionality;
+  * conducting market research; and/or
   * carrying out technical and statistical analysis to measure the performance of our services and the Site.
 
 
