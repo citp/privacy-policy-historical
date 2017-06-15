@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dailytekk.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106232347id_/http%3A//dailytekk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytekk.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615083055id_/https%3A//dailytekk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – DailyTekk
+# Privacy Policy - DailyTekk
 
-This Privacy Policy governs the manner in which DailyTekk collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.dailytekk.com website (“Site”). This privacy policy applies to the Site and all products and services offered by DailyTekk.
+This Privacy Policy governs the manner in which DailyTekk collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.dailytekk.com website (“Site”). This privacy policy applies to the Site and all products and services offered by DailyTekk.
 
 ## Personal identification information
 
@@ -71,6 +71,6 @@ Please view Magnetic’s Privacy Policy. Magnetic code may at times be embedded
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 DailyTekk  
-http://www.dailytekk.com
+https://www.dailytekk.com
 
 This document was last updated on May 20, 2015
