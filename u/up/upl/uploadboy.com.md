@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041531id_/http%3A//uploadboy.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615074644id_/https%3A//uploadboy.com/en/privacy.html) for the most accurate reproduction.*
 
-# UploadBoy.com Making Your File Sharing Easy! آپلودبوی,آپلود بوی
+# UploadBoy.com آپلود‌بوی
 
 Privacy Policy for uploadboy.com
 
