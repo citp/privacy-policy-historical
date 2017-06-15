@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivetheenddays.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119231429id_/http%3A//survivetheenddays.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivetheenddays.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616015445id_/http%3A//survivetheenddays.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Survive The End Days
 
@@ -30,6 +30,14 @@ If you decide to opt-in to our mailing list, you will receive emails that may in
 
 
 We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our service agreements or terms of use (for example protect our intellectual property rights), and your compliance with the applicable End User License Agreement(s) contained within the RegEasy software. We may also disclose or use your personal information when we, in good faith, believe that the applicable law may require us to do so. The information you provide will not be used for any other commercial purposes and will not be sold, rented, leased or otherwise forwarded to any third party with the exception of our sales processor ClickBank, who will process your orders and distribute the goods or services that you have requested.
+
+Everyone advertising must NOT include any content that is deceptive, misleading, untruthful, unsubstantiated, or otherwise fails to comply with applicable federal and state consumer protection laws, regulations, and guidelines.
+
+Affiliates are forbidden from creating webpages, social media pages or accounts that falsely represent themselves as the creators or owners of the products promoted and must make it clear that the page is a REVIEW page and you’re being compensated for the review. Therefore, any page and all creative contained therein must include the word ‘REVIEW’ in the title, the url and any graphics used in the cover image or profile image. This includes blogs, webpages, Facebook, Twitter, YouTube or ANY OTHER online entity whether or not it is considered to be “social media”.
+
+All affiliates (regardless of their country of domicile) MUST be in compliance with all applicable laws, regulations, and guidelines, including without limitation the Federal Trade Commission Act (“FTC Act”), the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (“CAN-SPAM Act”), Federal Trade Commission (“FTC”) regulations and guidelines implementing the FTC Act and the CAN-SPAM Act, the FTC’s Guides Concerning the Use of Endorsements and Testimonials in Advertising (“FTC Testimonials Guide”), the National Advertising Division decisions of the Better Business Bureau, and other federal and state consumer protection laws, regulations, and guidelines.
+
+**Anyone caught breaking any of these terms will be banned immediately without hesitation, and will not be eligible for reinstatement. *****
 
 **3\. THE USE OF COOKIES** Our websites does use "cookies" for the sole purpose of tracking affiliate referrals and conversion. We do not save any personally identifiable information in cookies sent to your browser. Cookies are identifiers that a web site can send to your browser to keep on your computer to facilitate your next visit to the site. The use of cookies is an industry standard, and many web sites use them. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. All parts of our website will function correctly if you disable cookies.
 
