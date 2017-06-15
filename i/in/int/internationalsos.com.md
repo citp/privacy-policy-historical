@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalsos.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215195723id_/https%3A//www.internationalsos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalsos.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615200618id_/https%3A//www.internationalsos.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -33,8 +33,7 @@ International SOS is committed to safeguarding our customers' personal data by a
 
 International SOS Binding Corporate Rules were approved by the European Commission in 2010.  For more information please contact us.
 
-The ‘International SOS’ branded Group of Companies consists of independently managed companies in over 70 countries, and includes several entities incorporated in the United States of America such as International SOS Inc, Aspire Lifestyles Inc, MedAire, Inc and International SOS Government Services Inc and International SOS (The Americas) LP (“US Entities”).  These companies are licensed to use the ‘International SOS’ brand, and references to ‘International SOS’ are to the brand and the separate entities which comprise the International SOS Group of Companies.   
-The US Entities also complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from Switzerland. International SOS Assistance, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view International SOS Assistance, Inc.’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+The ‘International SOS’ branded Group of Companies consists of independently managed companies in over 70 countries, and includes several entities incorporated in the United States of America such as International SOS Inc, Aspire Lifestyles Inc, MedAire, Inc and International SOS Government Services Inc and International SOS (The Americas) LP (“US Entities”).  These companies are licensed to use the ‘International SOS’ brand, and references to ‘International SOS’ are to the brand and the separate entities which comprise the International SOS Group of Companies. 
 
 ### 2\. To whom this statement applies
 
@@ -184,4 +183,6 @@ If you receive services from International SOS through an  employer or through 
 
 International SOS reserves the right to change this policy at any time by notifying users through its website of the existence of a new privacy statement prior to the change becoming effective. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights. We encourage you to periodically review this page for the latest information on our privacy practices.
 
- Updated: 8 November 2016
+ Updated: 10 March 2017
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=b87ce291-dfc9-42f6-b864-143a9c337b53)
