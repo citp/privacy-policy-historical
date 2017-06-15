@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124163614id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solutions.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615091924id_/http%3A//solutions.blair.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy and Security | Solutions
 
-Solutions.com Privacy Policy | Customer Service
-
 **SOLUTIONS.COM  
 Online Privacy Policy**
+
+**Effective Date: January 18, 2017**
 
 Welcome to Solutions.com (this "Site").
 
@@ -129,6 +129,8 @@ If you wish to update or correct your personal information, please let us know b
 
 **Information Collected by Third Party Advertising and Marketing Consultants**  
 If you do not wish to receive our advertising or marketing consultants' cookies or similar technologies, you may "opt-out" at either the [Network Advertising Initiative website](http://www.networkadvertising.org/) or [Digital Advertising Alliance website](http://www.aboutads.info/).
+
+We also participate in the Adobe Marketing Cloud Device Co-op to better understand how you use our website and apps across the various devices you use, and to deliver tailored promotions. If you do not wish to participate, you may "opt-out" at [Adobe Marketing Cloud Device Co-op Privacy Control.](https://cross-device-privacy.adobe.com/)
 
 **Do Not Track**  
 Do Not Track signals your opt-out preference with an HTTP header that requests that we disable tracking you on our Site and across sites. At this time, we do not respond to browser "do not track" signals. 
