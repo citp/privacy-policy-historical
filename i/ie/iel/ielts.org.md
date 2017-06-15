@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610120552id_/https%3A//www.ielts.org/policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615201819id_/https%3A//www.ielts.org/policy/privacy-policy) for the most accurate reproduction.*
 
-# IELTS - Privacy policy
+# Privacy policy
 
 ## Privacy Statement
 
