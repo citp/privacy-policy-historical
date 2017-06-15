@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccerbible.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216040103id_/http%3A//soccerbible.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerbible.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615193045id_/http%3A//www.soccerbible.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Soccer Bible
 
