@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the soylent.me privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426121009id_/https%3A//www.soylent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soylent.me privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615101340id_/https%3A//www.soylent.com/privacy) for the most accurate reproduction.*
 
-# Soylent.com - Rose Labs Capital Privacy Policy
+# Soylent.com - Rosa Foods, Inc. Capital Privacy Policy
 
 _Last updated on December 16, 2015_
 
-Meow Global Networks, Inc. d/b/a Rosa Labs (“Rosa Labs,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our web site and online services. This Privacy Policy explains how we collect, use, share and protect your personal information that we collect on our web site and through our Service. By using our Service, you agree to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms/). 
+Meow Global Networks, Inc. d/b/a Rosa Foods, Inc. (“Rosa Foods, Inc.,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our web site and online services. This Privacy Policy explains how we collect, use, share and protect your personal information that we collect on our web site and through our Service. By using our Service, you agree to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms/). 
 
 Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/terms/). 
 
@@ -28,7 +28,7 @@ The categories of information we collect can include:
 
   * #### Information you provide to us directly
 
-We may collect personal information such as a username, first and last name, mailing address, phone number, e-mail address and payment information, when you register for a Rosa Labs account, place and order through the Service, participate in our forums, comment on a blogpost, or if you correspond with us. In time, we may permit you to provide additional personal data in your profile.
+We may collect personal information such as a username, first and last name, mailing address, phone number, e-mail address and payment information, when you register for a Rosa Foods, Inc. account, place and order through the Service, participate in our forums, comment on a blogpost, or if you correspond with us. In time, we may permit you to provide additional personal data in your profile.
 
   * #### Information we collect from third parties
 
@@ -55,12 +55,12 @@ We may share your personal information in the instances described below. For fur
 
 We may share your personal information with:
 
-  * Other companies owned by or under common ownership with Rosa Labs. These companies will use your personal information in the same way as we can under this Privacy Policy;
+  * Other companies owned by or under common ownership with Rosa Foods, Inc. These companies will use your personal information in the same way as we can under this Privacy Policy;
   * Third-party vendors and other service providers that perform services on our behalf, as needed to carry out their work for us, which may include identifying and serving targeted advertisements, billing, payments, payment processing, order fulfillment, or providing analytic services;
   * Our business partners who offer a service to you jointly with us, or who partner with us to provide our Services to you;
   * Other companies whose products or services may be of interest to you (to see how you may opt-out of this sharing, see Your Choices, below);
   * Other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third-party or in the event of a bankruptcy or related or similar proceedings; and
-  * Third parties as required by law or subpoena or to if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://web.archive.org/terms/) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Rosa Labs, our Users, or others. 
+  * Third parties as required by law or subpoena or to if we reasonably believe that such action is necessary to (a) comply with the law and the reasonable requests of law enforcement; (b) to enforce our [Terms of Use](https://web.archive.org/terms/) or to protect the security or integrity of our Service; and/or (c) to exercise or protect the rights, property, or personal safety of Rosa Foods, Inc., our Users, or others. 
 
 
 
@@ -80,21 +80,21 @@ If you have any questions about reviewing, modifying or deleting your account in
 
 #### Terminating or deactivating your account
 
-Following termination or deactivation of your Rosa Labs account, Rosa Labs may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Rosa Labs may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your User account.
+Following termination or deactivation of your Rosa Foods, Inc. account, Rosa Foods, Inc. may retain your profile information and User Content for a commercially reasonable time for backup, archival, or audit purposes. Furthermore, Rosa Foods, Inc. may retain and continue to use indefinitely all information (including User Content) contained in your communications to other Users or posted to public or semi-public areas of the Service after termination or deactivation of your User account.
 
 ### How we store and protect your information
 
 #### Storage and Processing
 
-Your information collected through the Service may be stored and processed in the United States or any other country in which Rosa Labs or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Rosa Labs or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+Your information collected through the Service may be stored and processed in the United States or any other country in which Rosa Foods, Inc. or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Rosa Foods, Inc. or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
 #### Keeping your information safe
 
-Rosa Labs cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Rosa Labs will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+Rosa Foods, Inc. cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Service. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Rosa Foods, Inc. will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
 ### Children's Privacy
 
-Rosa Labs does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [info@soylent.com](mailto:info@soylent.com). 
+Rosa Foods, Inc. does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [info@soylent.com](mailto:info@soylent.com). 
 
 ### Links to other web sites and services
 
@@ -106,4 +106,4 @@ If you have any questions about this Privacy Policy or the Service, please conta
 
 ### Changes to our Privacy Policy
 
-Rosa Labs may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last updated’ date at the top of this page.
+Rosa Foods, Inc. may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically. When we change the policy in a material manner we will let you know and update the ‘last updated’ date at the top of this page.
