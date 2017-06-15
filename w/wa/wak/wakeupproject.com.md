@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeupproject.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205172032id_/http%3A//wakeupproject.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeupproject.com privacy policy that was archived on 2017-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170615213949id_/http%3A//www.wakeupproject.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wake Up Project
 
@@ -6,7 +6,7 @@
 
 Wake Up values your privacy and is committed to protecting the personal information you provide to us.
 
-This privacy policy describes how we handle the personal information you provide to us. The policy applies to Wake Up Project Pty Ltd ACN 096 535 625 (‘Wake Up’ or ‘we’) and each of our websites [www.wakeupproject.com.au](http://www.wakeupproject.com.au/), [www.mindfulleadershipforum.com](http://www.mindfulleadershipforum.com/), [www.searchinsideyourself.com.au](http://www.searchinsideyourself.com.au/) and [www.womenleadingchange.com.au](http://www.womenleadingchange.com.au/) (Websites).
+This privacy policy describes how we handle the personal information you provide to us. The policy applies to Wake Up Project Pty Ltd ACN 096 535 625 (‘Wake Up’ or ‘we’) and each of our websites [www.wakeupproject.com.au](http://www.wakeupproject.com.au/), [www.mindfulleadershipforum.com](http://www.mindfulleadershipforum.com/), [www.searchinsideyourself.com.au](http://www.searchinsideyourself.com.au/), [www.siyengage.com.au](http://siyengage.com.au/) and [www.womenleadingchange.com.au](http://www.womenleadingchange.com.au/) (Websites).
 
 ##### **How we may collect your personal information**
 
