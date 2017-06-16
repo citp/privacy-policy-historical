@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the stateparks.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202212508id_/http%3A//www.stateparks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stateparks.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616154700id_/http%3A//stateparks.com/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# America's Parks: State Parks, National Parks, along with all of the other parks - AmericasParks.com
+# None
+
+_Last updated: April 21, 2016_
 
 **What information do we collect?**
 
@@ -32,7 +34,7 @@ Any of the information we collect from you may be used in one of the following w
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -66,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms.html](https://web.archive.org/terms.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms.html](https://web.archive.org/web/20170616154700id_/http%3A//stateparks.com/legal/terms-conditions.html)
 
  **Your Consent**
 
@@ -76,14 +78,14 @@ By using our site, you consent to our websites privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 7/4/2012
+This policy was last modified on 3/15/2014
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-americasparks.com  
+American Dreams Inc  
 84 East Main Street  
 Logan, Ohio 43138
 
-email: smokey@stateparks.com
+email: legal@amdreams.com
