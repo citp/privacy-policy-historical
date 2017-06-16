@@ -1,0 +1,31 @@
+> *The following text is extracted and transformed from the hubba.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616131044id_/https%3A//hq.hubba.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Hubba
+
+#### Terms & Conditions of Service
+
+  *  _Third Party_ _Advertisements_ :  Advertisements appearing on the Website may be delivered by us or one or more third-party web advertisers. These third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you.  The Privacy Policy applies to cookies placed on your computer by us, but does not cover the use of cookies by any third-party web advertisers.  For the privacy practices of such third-party web advertisers, you should consult the applicable privacy policy for the relevant third-party web advertiser(s).
+
+
+
+If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy.  See further the section of this Privacy Policy entitled ‘Modifications to this Policy’.
+
+ **Disclosures & Transfers:  **We have put in place contractual and other organizational safeguards with our agents (see further below) to ensure a proper level of protection of your Personal Information (see further Security below).  In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further _Important Exceptions_ below).
+
+ ** _Important Exceptions_** :  We need to abide by the law.  Hubba may disclose your information to third parties without your consent if we determine that such disclosure is reasonably necessary to (a) comply with the law; (b) protect any person from death or serious bodily injury; (c) prevent fraud or abuse of Hubba Services or our Users; or (d) protect Hubba’s intellectual property rights.   If Hubba is subject to a reorganization, merger, acquisition or sale of our assets, your information and content may be transferred as part of that deal. We will notify you (via an email message to the email address associated with your account) of any such deal and present your options.
+
+ **Security:** The security of your Personal Information is important to us.  We use commercially reasonable efforts to store and maintain your Personal Information in a secure environment. We use established third party cloud hosting providers and third party CRM providers to store and host your data.  We take technical, contractual, administrative, and physical security steps designed to protect Personal Information that you provide to us.  We have implemented procedures designed to limit the dissemination of your Personal Information to only such designated staff as are reasonably necessary to carry out the stated purposes we have communicated to you. 
+
+You are also responsible for helping to protect the security of your Personal Information.  For instance, you should never give out your email, password and account information for the Services to third parties. 
+
+**Retention:** We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you.  We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy.  If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.
+
+ **Modifications to this Policy** :  We may revise this Privacy Policy from time to time, and will post the most current version on our website. If a revision meaningfully reduces your rights, we will notify you. Hubba cannot ensure or guarantee privacy for Users of the Services. Any use of our Services shall be at your sole risk and Hubba, its affiliates each of their respective directors, officers, employees, agents and suppliers shall be relieved from all liability in connection therewith.
+
+ **Access and Accuracy:** You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information.  Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user.  In such circumstances we will provide reasons for the denial to you upon request.  We will endeavor to deal with all requests for access and modifications in a timely manner.
+
+We will make every reasonable effort to keep your Personal Information accurate and up-to-date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate.  As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information.  Having accurate Personal Information about you enables us to give you the best possible service.
+
+ **Contact Us:  **If you have any questions, comments or suggestions of if you find any errors in our information about you or for any issues or complaints related to privacy concerns, please email us at [feedback@hubba.com](mailto:feedback@hubba.com).  
+
+Last Updated: April 30, 2017
