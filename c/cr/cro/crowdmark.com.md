@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdmark.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407101354id_/https%3A//crowdmark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdmark.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616054546id_/https%3A//crowdmark.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdmark
 
@@ -24,7 +24,7 @@ Crowdmark collects your personal information through the Website when you choose
 
   * your name, date of birth, and e-mail address when you sign-up for a Crowdmark account;
   * information, such as your name, that can be used to identify you every time you upload, post or submit Content to the Website;
-  * your name and e-mail address when you contact Crowdmark with any questions, comments, requests or feedback; 
+  * your name and e-mail address when you contact Crowdmark with any questions, comments, requests or feedback;
   * your credit card information and billing address when you purchase certain of Crowdmark’s services with your credit card where it is necessary to complete the sales transaction on a one-time or re-occurring basis, as the case may be; and
   * your name, which appears on the first page of any of your Content you upload, submit or post to the Website including on your competed assessments, and associated with your Crowdmark account.
 
@@ -35,7 +35,7 @@ Crowdmark collects your personal information through the Website when you choose
 Each time you visit the Website, Crowdmark may collect information, including some of your personal information, through your IP address, and by using cookies and web beacons, as described below.
 
   * An Internet Protocol (“ **IP** ”) address is a number that automatically identifies the computer/machine you have used to access the Internet. Crowdmark uses your IP address to send you the web pages that you want to visit, and it may disclose the server owned by your Internet Service Provider. Crowdmark may use IP addresses to conduct Website analyses and performance reviews and to administer the Website.
-  * A “ **cookie** ” is a piece of information that a website transfers to a user’s computer for purposes of storing information about a user’s preferences. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer and can qualify as personal information. Crowdmark uses cookies to provide useful features when you visit the Website. You can set your browser to refuse cookies, but some portions of the Website may not work properly if you refuse cookies. 
+  * A “ **cookie** ” is a piece of information that a website transfers to a user’s computer for purposes of storing information about a user’s preferences. Cookies in and of themselves do not personally identify users, although they do identify a user’s computer and can qualify as personal information. Crowdmark uses cookies to provide useful features when you visit the Website. You can set your browser to refuse cookies, but some portions of the Website may not work properly if you refuse cookies.
   * A “ **web beacon** ” is an electronic image (also referred to as an “action tag,” “single-pixel,” or “clear GIF”) that is commonly used to track the traffic patterns of users from one web page to another in order to maximize web traffic flow and to otherwise analyze the effectiveness of websites. Some web beacons may be unusable if you elect to reject their associated cookies. Some of the Website’s web pages may use web beacons in conjunction with cookies to compile aggregate statistics about your use of the Website.
 
 
@@ -59,7 +59,7 @@ If you want to know if Crowdmark has obtained any of your Indirect Content, or i
 Crowdmark uses the personal information you voluntarily provide in order to address your requests for information about Crowdmark’s products or services, to maintain your account and your profile, and to offer and deliver a variety of products and services to certain users of the Website and to third parties as set out in this Privacy Policy, as described below. Crowdmark will not use your personal information other than as specified in this Privacy Policy.
 
   * When you contact Crowdmark with questions, comments, requests or feedback, Crowdmark will use your name and e-mail address to communicate with you and respond to you.
-  * When you purchase certain of Crowdmark’s services with your credit card, Crowdmark uses your name, credit card information and billing address to process and complete the sales transaction on a one-time or re-occurring basis, as the case may be, but will not retain this credit card and billing information longer than is necessary to process or complete the transaction. Crowdmark may also use your personal information to contact you to confirm your purchase and provide you access to the services purchased. 
+  * When you purchase certain of Crowdmark’s services with your credit card, Crowdmark uses your name, credit card information and billing address to process and complete the sales transaction on a one-time or re-occurring basis, as the case may be, but will not retain this credit card and billing information longer than is necessary to process or complete the transaction. Crowdmark may also use your personal information to contact you to confirm your purchase and provide you access to the services purchased.
   * If you have created an account, Crowdmark will use your name and e-mail address to identify you and maintain your account in order to provide you with the services you request. To do so, Crowdmark uses your name and e-mail address to link to all of your Content and all Content provided to Crowdmark through your account, all Content from third parties on or in connection with your Content, and any of your Indirect Content. Crowdmark retains all of this information (including your personal information) for as long as you have a Crowdmark account. The following examples explain how Crowdmark will use your personal information address to identify, maintain your account and connect you with Content.
     * Assessment Creators – If you are a teacher, instructor, or facilitator, Crowdmark may link your assessments (in other words, your Content) with your name and account.
     * Assessment Writers – If you are a student, Crowdmark may connect your completed assessment (in other words, your Content) with the grade and marks on your completed assessment provided by a grader (in other words, third party Content) and with the assessment questions provided by a teacher (also third party Content) and link all of this information to your name, e-mail address and account.
@@ -116,7 +116,7 @@ If Crowdmark is to be sold, merged or amalgamated or is to sell or dispose of su
 
 ### Storing your Personal Information
 
-Crowdmark will store and retain your name, e-mail address for as a long as you maintain a Crowdmark account so that Crowdmark can offer you and its other users the services you and they want and expect to receive from Crowdmark. 
+Crowdmark will store and retain your name, e-mail address for as a long as you maintain a Crowdmark account so that Crowdmark can offer you and its other users the services you and they want and expect to receive from Crowdmark.
 
 Crowdmark will only store payment information, if any is collected, for as long as is necessary to process and complete a transaction, whether a one-time transaction on a reoccurring basis.
 
