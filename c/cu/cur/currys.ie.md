@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121181720id_/http%3A//www.currys.ie/content/privacypolicy/932) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currys.ie privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616203555id_/http%3A//www.currys.ie/content/privacypolicy/932) for the most accurate reproduction.*
 
 # Currys | Washing Machines | TVs | Cameras | Laptops
 
@@ -34,7 +34,7 @@ The data we collect will not be excessive.  We will endeavour to ensure the dat
 
 We may deliver marketing messages subject to your consent.  We may contact you for marketing purposes by phone call, text, email or post.  In any contact we will offer you the opportunity to stop (opt out of) receiving further marketing communications.
 
-At any time you can contact us via, our stores, or by phone on 1890400001 or email, [**websale@pcworld.ie**](mailto:websale@pcworld.ie), regarding any communications received.
+At any time you can contact us via, our stores, or by phone on 1890400001 or email, [**websales@currys.ie**](mailto:websales@currys.ie), regarding any communications received.
 
 **Disclosing your data**
 
