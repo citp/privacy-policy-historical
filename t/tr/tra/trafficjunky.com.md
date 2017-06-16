@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficjunky.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229131651id_/http%3A//www.trafficjunky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficjunky.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616184410id_/https%3A//www.trafficjunky.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TrafficJunky
+# Privacy Policy | TrafficJunky
 
 ## 1\. Application of This Policy
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to TrafficJunky only. It will tell you how and why w
 
 ## 2\. Collection and Our Use of Your Information
 
-TrafficJunky collects your name, email address, and other important information provided by you in order to provide any services requested. In addition, we collect credit card, and bank information from purchases made through TrafficJunky. In the course of using our site, we automatically log information such as IP address, browser type, referrer and other technical data for internal use only. This information is used to optimize our website's technical usability and for internal research data. In addition, you hereby agree to receive from us promotional or services related communications which may contain sexually explicit content through emails or other means. We also collect and use your data for the purpose of distributing our opt-in newsletters and to send promotions. Users can remove themselves through the unsubscribe link at the bottom of all emails or [contact us](http://marketplace.trafficjunky.net/contact-us).
+TrafficJunky collects your name, email address, and other important information provided by you in order to provide any services requested. In addition, we collect credit card, and bank information from purchases made through TrafficJunky. In the course of using our site, we automatically log information such as IP address, browser type, referrer and other technical data for internal use only. This information is used to optimize our website's technical usability and for internal research data. In addition, you hereby agree to receive from us promotional or services related communications which may contain sexually explicit content through emails or other means. We also collect and use your data for the purpose of distributing our opt-in newsletters and to send promotions. Users can remove themselves through the unsubscribe link at the bottom of all emails or [contact us](https://web.archive.org/contact-us).
 
 You authorize TrafficJunky, directly or through third parties, to make any inquiries we consider necessary to validate your identity. This may include asking you for further information that will allow us to reasonably identify you, requiring you to take steps to confirm ownership of your email address or financial instruments or verifying your Information against third party databases or through other sources. We may also ask to see your driver’s licence or other government issued picture ID or any other identifying documents at any time. TrafficJunky reserves the right to close, suspend, or limit access to your account in the event we are unable to obtain or verify this information.
 
