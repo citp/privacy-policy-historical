@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvas.net privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414011514id_/http%3A//www.canvaslms.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvas.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616115604id_/http%3A//www.canvaslms.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -52,8 +52,6 @@ We will share your personal information with third parties only in the ways that
 
 **OTHER DISCLOSURES.** Instructure may disclose information about you if it believes such disclosure is necessary to (a) comply with laws or to respond to lawful requests and legal process; or (b) protect or defend the rights, safety, or property of Instructure, users of the Services, or any person including to enforce our agreements, policies, and terms of use, or (c) in an emergency to protect the personal safety of any person (collectively, “a”, “b” and “c”, ENFORCEMENT PURPOSES”).
 
-We may also share information about you in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction or proceeding involving sale, transfer, divestiture or disclosure of all or a portion of our business or assets to another company. In these circumstances, we will only share information with a company that has agreed to data privacy standards no less stringent than our own. In the event that information is shared in this manner, notice will be posted on our Site.
-
 We may also share de-identified and aggregated data with others for their own uses.
 
 **Social Networking Platforms.**
@@ -85,7 +83,7 @@ While we and others give you the choices described in this Privacy Policy, there
 
 **A Special Note About Children**
 
-**NOTE TO PARENTS.** We are required under the Children’s Online Privacy Protection Act (COPPA), with limited exceptions, to obtain verifiable parantal consent in order to collect, use or disclose personal information from Children. COPPA allows the Child’s school, school districts and other educational institutions (collectively, **“SCHOOLS”** ) to obtain consent for the online collection of personal information from Children who are students of the School.
+**NOTE TO PARENTS.** We are required under the Children’s Online Privacy Protection Act (COPPA), with limited exceptions, to obtain verifiable parental consent in order to collect, use or disclose personal information from Children. COPPA allows the Child’s school, school districts and other educational institutions (collectively, **“SCHOOLS”** ) to obtain consent for the online collection of personal information from Children who are students of the School.
 
 If a Child wants to use our Service, he/she must first obtain an account for our Services from the School ( **“Account”** ). Before an Account is provided to a School, we require that the School (on behalf of the Child’s parent or legal guardian ( **“PARENT”)** (a) to consent to the collection, use and disclosure of personal information of the Child, through the Service, in accordance with this Privacy Policy, and (b) agree that the Child’s online activities are subject to our terms of service.
 
@@ -110,4 +108,4 @@ Salt Lake City, UT 84121
 
 Instructure may change this Privacy Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. If such changes are material, a notice of the changes will be posted along with the revised Privacy Policy, prior to the change becoming effective. We encourage you to visit this page from time to time for the latest on our privacy practices.
 
-© 2016 Instructure. All rights reserved.
+© 2017 Instructure. All rights reserved.
