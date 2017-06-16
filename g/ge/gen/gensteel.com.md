@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gensteel.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507093238id_/https%3A//gensteel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gensteel.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616213725id_/https%3A//gensteel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | General Steel Metal Buildings
 
