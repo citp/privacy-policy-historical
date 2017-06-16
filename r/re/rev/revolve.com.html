@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the revolve.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118223634id_/http%3A//www.revolve.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the revolve.com privacy policy that was archived on 2017-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617005714id_/http%3A//www.revolve.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -24,8 +24,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="baidu-site-verification" content="hezA4q7eoG">
 
-
-
 <!-- start hreflang tag-->
 <!-- end hreflang tag-->
 
@@ -38,9 +36,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
 
-
-    <meta name="robots" content="noodp,noydir,index,follow">
-
+<meta name="robots" content="noodp,noydir,index,follow">
 
 <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
@@ -48,28 +44,28 @@
 <!-- IE 8 and IE9 CSS Compatability - Issue to solve IE selector # limitation -->
 <!--[if lt IE 10 ]>
 
-<link rel="stylesheet" href="/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/css/styles_ie_01.css">
-<link rel="stylesheet" href="/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/css/styles_ie_02.css">
+<link rel="stylesheet" href="/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/css/styles_ie_01.css">
+<link rel="stylesheet" href="/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/css/styles_ie_02.css">
 
-<link rel="stylesheet" href="/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/r_src/main/dist/css/ie-min.css">
+<link rel="stylesheet" href="/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/r_src/main/dist/chrome.css">
 <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
 
 
-<link rel="stylesheet" href="https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/css/styles.css">
+<link rel="stylesheet" href="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/css/styles.css">
 
-<link rel="stylesheet" href="https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/r_src/main/dist/css/style-min.css">
+<link rel="stylesheet" href="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/r_src/main/dist/chrome.css">
 <!--<![endif]-->
 
-<script type="text/javascript" async="" src="https://intljs.rmtag.com/112152.ct.js"></script><script src="https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/vendor/fontfaceobserver/fontfaceobserver.js" async=""></script>
-<script src="https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/head.js"></script>
-
+<script type="text/javascript" async="" src="https://intljs.rmtag.com/112152.ct.js"></script><script src="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/vendor/fontfaceobserver/fontfaceobserver.js" async=""></script>
+<script src="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/head.js"></script>
+<script src="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/r_src/main/dist/chrome.js"></script>
 <script>
     // Picture element HTML5 shiv
     document.createElement( "picture" );
 </script>
 
-<script src="https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/picturefill-min.js" async=""></script>
+<script src="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/picturefill-min.js" async=""></script>
 
 
 <script src="//cdn.optimizely.com/js/1014643949.js"></script>
@@ -109,6 +105,16 @@ function heartProductUpdated(element, productCode, callback){
 			container.attr('aria-label', ariaLabel.replace(unLoveVerb, loveVerb));
 		}
 	} else {
+		var isGuest = $('#myFavLimitPopup').data('isGuest');
+		var productSize = eval($("#heart_total_count").html());
+		if (isGuest && productSize > 199) {
+			$.modal({triggerOpen:true, open: "guestLimitPop"});
+			return;
+		} else if (!isGuest && productSize > 1999) {
+			$.modal({triggerOpen:true, open: "userLimitPop"});
+			return;
+		}
+
 		container.addClass(activeHeartClass);
 		submitHeart('product', productCode, 'add');
 		if (ariaLabel) {
@@ -131,6 +137,19 @@ function heartBrandUpdated(elem, bcode){
     }
 }
 
+function clearOldFavItems() {
+	$.ajax({
+		type: 'GET',
+		url: '/r/ajaxHeartProduct.jsp?action_T=clearolditems',
+		success: function (data) {
+			location.reload();
+		}
+	});
+}
+
+function closeLimitLightBox(elemId) {
+	$('#'+elemId).hide();
+}
 
 
 function heartProduct(elem, pcode,size,view){
@@ -142,11 +161,11 @@ function heartProduct(elem, pcode,size,view){
 	if(blueHeart){
 		plpHeartClass = "plp_main_img_heartm";
 // 		plpHeartActiveClass = "activem";
-		
+
 	}
 
 	if(typeof arguments[2] !== "undefined" && arguments[2] === "brand" ) brand = true;
-	
+
 	if(typeof elem.id === "undefined" || (elem.id !== "heart_active_"+pcode && $('div.active', elem).length == 0)){
 		//alert("to add");
 		if(brand)	submitHeart("brand", pcode, "add");
@@ -169,32 +188,32 @@ function heartProduct(elem, pcode,size,view){
 			}
  		}
  		elem.id = "heart_active_"+pcode;
- 
- 		
+
+
  		 if(typeof arguments[3] === "undefined"){
- 		
- 			if(document.getElementById("plp_quickview_wrap_"+pcode)!=null){	
+
+ 			if(document.getElementById("plp_quickview_wrap_"+pcode)!=null){
 	 			var pd = document.getElementById("plp_quickview_wrap_"+pcode);
 	 			heartingUnhearting(pd,pcode,"add",plpHeartActiveClass);
 	 		}
  		}else{
- 		
+
  			if(arguments[3]  === "qv"){
- 			
- 				if(document.getElementById("plp_prod_wrap_"+pcode)!=null){	
+
+ 				if(document.getElementById("plp_prod_wrap_"+pcode)!=null){
  					var pd = document.getElementById("plp_prod_wrap_"+pcode);
  					heartingUnhearting(pd,pcode,"add",plpHeartActiveClass);
- 				}	
- 			
+ 				}
+
  			}
- 		
+
  		}
- 		
+
 	}else{
 		//alert("to remove");
 		if(brand)	submitHeart("brand", pcode, "remove");
-		else{ 
-		
+		else{
+
 			//alert(typeof arguments[2]);
 			if(typeof arguments[2] !== "undefined" && arguments[2] !== ""){
 				//alert(size);
@@ -202,7 +221,7 @@ function heartProduct(elem, pcode,size,view){
 			}else{
 				submitHeart("product", pcode, "remove");
 			}
-		
+
 		}
 		for(var j=0; j< bn.childNodes.length; j++){
  			var bn2 = bn.childNodes[j];
@@ -222,31 +241,31 @@ function heartProduct(elem, pcode,size,view){
 			}
  		}
  		elem.id = "";
- 		
- 		
- 				
+
+
+
  		 if(typeof arguments[3] === "undefined"){
- 		
+
  			if(document.getElementById("plp_quickview_wrap_"+pcode)!=null){
 	 			var pd = document.getElementById("plp_quickview_wrap_"+pcode);
 	 			heartingUnhearting(pd,pcode,"remove",plpHeartClass);
  			}
  		}else{
- 		
+
  			if(arguments[3]  === "qv"){
- 			
- 				if(document.getElementById("plp_prod_wrap_"+pcode)!=null){	
+
+ 				if(document.getElementById("plp_prod_wrap_"+pcode)!=null){
  					var pd = document.getElementById("plp_prod_wrap_"+pcode);
  					heartingUnhearting(pd,pcode,"remove",plpHeartClass);
- 				}	
- 			
+ 				}
+
  			}
- 		
+
  		}
- 		
-		
+
+
 	}
-	
+
 }
 function submitHeart(paramtype, paramvalue){
     if(typeof paramtype ==="undefined" || typeof paramvalue ==="undefined" ) return;
@@ -282,17 +301,17 @@ function submitHeart(paramtype, paramvalue){
 	}
 	dataToSend += "&action_T="+encodeURIComponent(arguments[2]);
 	if(psize !=="")	dataToSend += "&psize="+encodeURIComponent(psize);
-	
+
 // 	alert(dataToSend);
-	
-// 	xhttp2.open(method, URL, async); 
+
+// 	xhttp2.open(method, URL, async);
 	xhttp2.open("POST", URL, false); // async
 	xhttp2.setRequestHeader("Content-type","application/x-www-form-urlencoded"); // this is needed
 	xhttp2.send(dataToSend);
 	var res = xhttp2.responseText;
 
-	
-	
+
+
 		updateHeartCount();
 		*/
     var dataToSend="";
@@ -323,8 +342,14 @@ function submitHeart(paramtype, paramvalue){
             res = res.replace(/^\s+|\s+$/g,"");
             // alert("jsp response="+res);
             */
-			if(paramtype === "product")
-            	updateHeartCount(response);
+			if(paramtype === "product") {
+                updateHeartCount(response);
+                if (response.action === 'add') {
+                    insertCordialUpdateHeartItem('add', paramvalue);
+                } else if (response.action === 'remove') {
+                    insertCordialUpdateHeartItem('remove', paramvalue);
+                }
+            }
 			if (typeof callback === 'function'){
 				callback();
 			}
@@ -358,6 +383,7 @@ function reloadHearts(){
 
 </script>
 
+
 <script>
     // SVG support & Ajax SVG defs sprite
     var supportsSvg = function() {
@@ -370,11 +396,11 @@ function reloadHearts(){
         // document.documentElement.className += " no-svg";
         // It duplicates the SVG test, but that's probably OK because it also tests for Data URI support and loads that stylesheet too.
         (function(e){function t(t,n,r,o){"use strict";function a(){for(var e,n=0;u.length>n;n++)u[n].href&&u[n].href.indexOf(t)>-1&&(e=!0);e?i.media=r||"all":setTimeout(a)}var i=e.document.createElement("link"),l=n||e.document.getElementsByTagName("script")[0],u=e.document.styleSheets;return i.rel="stylesheet",i.href=t,i.media="only x",i.onload=o||null,l.parentNode.insertBefore(i,l),a(),i}var n=function(r,o){"use strict";if(r&&3===r.length){var a=e.navigator,i=e.Image,l=!(!document.createElementNS||!document.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect||!document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image","1.1")||e.opera&&-1===a.userAgent.indexOf("Chrome")||-1!==a.userAgent.indexOf("Series40")),u=new i;u.onerror=function(){n.method="png",n.href=r[2],t(r[2])},u.onload=function(){var e=1===u.width&&1===u.height,a=r[e&&l?0:e?1:2];n.method=e&&l?"svg":e?"datapng":"png",n.href=a,t(a,null,null,o)},u.src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==",document.documentElement.className+=" grunticon"}};n.loadCSS=t,e.grunticon=n})(this);(function(e,t){"use strict";var n=t.document,r="grunticon:",o=function(e){if(n.attachEvent?"complete"===n.readyState:"loading"!==n.readyState)e();else{var t=!1;n.addEventListener("readystatechange",function(){t||(t=!0,e())},!1)}},a=function(e){return t.document.querySelector('link[href$="'+e+'"]')},c=function(e){var t,n,o,a,c,i,u={};if(t=e.sheet,!t)return u;n=t.cssRules?t.cssRules:t.rules;for(var l=0;n.length>l;l++)o=n[l].cssText,a=r+n[l].selectorText,c=o.split(");")[0].match(/US\-ASCII\,([^"']+)/),c&&c[1]&&(i=decodeURIComponent(c[1]),u[a]=i);return u},i=function(e){var t,o,a;o="data-grunticon-embed";for(var c in e)if(a=c.slice(r.length),t=n.querySelectorAll(a+"["+o+"]"),t.length)for(var i=0;t.length>i;i++)t[i].innerHTML=e[c],t[i].style.backgroundImage="none",t[i].removeAttribute(o);return t},u=function(t){"svg"===e.method&&o(function(){i(c(a(e.href))),"function"==typeof t&&t()})};e.embedIcons=i,e.getCSS=a,e.getIcons=c,e.ready=o,e.svgLoadedCallback=u,e.embedSVG=u})(grunticon,this);
-        grunticon(["", "/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/r_src/main/dist/img/svg/fallbacks/icons.data.png.css", "/r/r_src/main/dist/img/svg/fallbacks/icons.fallback.css"]);
+        grunticon(["", "/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/r_src/main/dist/img/svg/fallbacks/icons.data.png.css", "/r/r_src/main/dist/img/svg/fallbacks/icons.fallback.css"]);
     } else {
         // Inline SVG is supported so Ajax for the sprite.
         var ajax = new XMLHttpRequest();
-        ajax.open("GET", "https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/r_src/main/dist/img/svg/processed/svg-defs.svg", true);
+        ajax.open("GET", "https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/r_src/main/styleguide/lib/sprite.svg", true);
         ajax.send();
         ajax.onload = function(e) {
           if(this.getResponseHeader("Content-Type") === "image/svg+xml") {
@@ -396,7 +422,7 @@ function reloadHearts(){
 </script>
 
 <script type="application/ld+json">
-{ "@context" : "http://schema.org", "@type" : "Organization", "name" : "REVOLVE", "url" : "http://www.revolve.com", "sameAs" : [ "https://www.facebook.com/REVOLVEclothing", "https://twitter.com/REVOLVEclothing", "https://www.pinterest.com/revolveclothing/", "https://www.instagram.com/revolveclothing/", "https://plus.google.com/+revolveclothing/videos" ] }
+{ "@context" : "http://schema.org", "@type" : "Organization", "name" : "REVOLVE", "url" : "http://www.revolve.com", "sameAs" : [ "https://www.facebook.com/revolve", "https://twitter.com/REVOLVE", "https://www.pinterest.com/revolve", "https://instagram.com/revolve", "https://plus.google.com/+revolveclothing" ] }
 </script>
 
 <!-- page specific CSS here -->
@@ -410,10 +436,10 @@ function reloadHearts(){
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
 
-	<!-- Add your site or application content here -->
 	<div class="rev_wrapper wrapper">
 
 	
+
 
 
 
@@ -445,33 +471,23 @@ function reloadHearts(){
 
 
 
-
-
 <div class="eagle" id="header-jsp" data-department="Womens">
-	<a href="#main-content" class="btn skip-link">Skip to main content</a>
-	<div class="global-banner"><div id="global-banner__rwrm"><!--Women Banner -->
-<div class="u-full-width" style="background: url(http://is4.revolveassets.com/r/assets/main/banner/110216_holidayshop_globalbanner.jpg) center center;">
-  <div class="container u-margin--center u-padding-t--lg u-padding-b--md u-center">
-    <span class="h5 u-margin-a--none u-padding-t--lg u-margin-r--xl">Welcome to the Holiday Shop</span>
-    <span class="u-padding-b--sm u-margin-r--xl"><a class="link" style="background: transparent;" href="http://www.revolve.com/content/lookbook/The+Holiday+Shop+?navsrc=topglobal">Shop Women's</a></span>
-    <span class="u-padding-b--sm"><a class="link" style="background: transparent;" href="http://www.revolve.com/content/lookbook/Welcome+to+the+Holiday+Shop+?navsrc=topglobal&amp;d=Mens">Shop Men's</a></span>
-  </div>
-</div></div></div>
+	<a href="#main-content" class="btn skip-link u-capitalize">Skip to Main Content</a>
+	<div class="global-banner"><div id="global-banner__rwrm"></div></div>
 	<header role="banner" class="site">
 		<div class="site-search-tray__overlay"></div>
 		<div class="site-header js-fixed-header-wrap">
 			<div class="site-header__content js-fixed-header">
-                
-                <div class="container">
+                                <div class="container">
                     <div class="site-header__block js-head-block-align shame-mb>lg ">
                         <a class="branding icon link" href="/women/?navsrc=main">
-                            <svg class="branding__logo" aria-labelledby="brand-title brand-desc" role="img">
-                                <title id="brand-title">Revolve Clothing</title>
-                                <desc id="brand-desc">Apparel &amp; Fashion</desc>
-                                <use xlink:href="#icon-revolve-logo"></use>
+                            <svg class="branding__logo" focusable="false" aria-hidden="true">
+                              <use xlink:href="#icon-revolve-logo"></use>
                             </svg>
-                                                                                </a><!-- end .branding -->
-                        <!-- end .branding -->
+                            <span class="u-screen-reader">Revolve</span>
+
+                                                                                </a>
+                      <!-- end .branding -->
                         <div class="site-header__block u-float-right js-head-block-hide">
                                                         <div class="u-float-left shame-hide-intl">
                                 <span class="h6">
@@ -483,24 +499,22 @@ function reloadHearts(){
                             </div>
                                                         <!-- end .u-float-left -->
                             <div class="u-float-left">
-                                <div class="dropdown dropdown--center">
+                                <div class="js-dropdown dropdown dropdown--center">
 
                                     <span class="h6">Need Help?</span>
                                     <span class="icon icon--arrow-down dropdown__icon">
-                                        <svg>
-                                            <title>View More</title>
-                                            <desc id="help-desc">Contact Information</desc>
+                                        <svg aria-label="View More Contact Information">
                                             <use xlink:href="#icon-arrow-down"></use>
                                         </svg>
                                     </span>
 
-                                    <div class="dropdown__menu island">
+                                    <div class="js-dropdown__menu dropdown__menu island u-padding-a--xl">
                                         <table class="u-margin-a--none">
                                             <tbody>
                                                 <tr>
                                                     <th class="u-right" scope="row">Chat:</th>
                                                     <td>
-                                                                                                                    <a class="link" onclick="openLiveHelp();return false" href="javascript:;">Let's Chat!</a>
+                                                                                                                    <a class="link" onclick="event.preventDefault();openLiveHelp();return false" href="https://secure.livechatinc.com/">Let's Chat!</a>
                                                                                                             </td>
                                                 </tr>
                                                 <tr>
@@ -515,12 +529,20 @@ function reloadHearts(){
                                                         <a class="link" href="mailto:sales@REVOLVEclothing.com">sales@REVOLVEclothing.com</a>
                                                     </td>
                                                 </tr>
+
+                                                <!-- Start - this should only show in Japan -->
+                                                                                                <!-- End - this should only show in Japan -->
+
                                                 <tr>
                                                     <th class="u-right" scope="row">FAQs:</th>
                                                     <td>
                                                         <a class="link" href="http://www.revolve.com/payment?navsrc=header">View Here</a>
                                                     </td>
                                                 </tr>
+
+                                                <!-- Start - this should only show in Japan -->
+                                                                                                <!-- End - this should only show in Japan -->
+
                                             </tbody>
                                         </table>
                                     </div><!-- end .dropdown__menu -->
@@ -534,16 +556,15 @@ function reloadHearts(){
                             </div>
 
                                                     <div class="u-float-left">
-                                <div class="dropdown dropdown--center js-currency-select" id="tr-currency-select">
+                                <div class="js-dropdown dropdown dropdown--center js-currency-select" id="tr-currency-select">
                                     <span class="h6">$ USD</span>
                                     <span class="icon icon--arrow-down dropdown__icon">
-                                        <svg aria-labelledby="currency-title curreny-desc" role="presentation">
-                                            <title id="currency-title">View More</title>
-                                            <desc id="currency-desc">Select Currency</desc>
+                                        <svg aria-label="View More Select Currency" role="presentation">
                                             <use xlink:href="#icon-arrow-down"></use>
                                         </svg>
                                     </span>
-                                    <div class="dropdown__menu island" id="js-currency-small-menu">
+                                    <div class="js-dropdown__menu dropdown__menu island" id="js-currency-small-menu">
+                                      <div class="island">
                                         <span class="h6">Select Currency</span>
                                         <div class="block--ends">
                                             <ul class="ui-list ui-list--links-block">
@@ -575,74 +596,77 @@ function reloadHearts(){
                                         </div><!-- end .block-ends -->
                                         <span class="h5 more_currency"><a class="link link--noline" href="javascript:;" onclick="showMoreCurrencies()">MORE OPTIONS</a></span>
                                     </div><!-- end .dropdown__menu -->
+                                  </div>
                                     <!-- Currency Dropdown - Start -->
-                                    <div class="dropdown__menu island" id="js-currency-big-menu" style="display:none;">
-                                        <div class="block--ends u-margin-b--none">
-                                        <ul class="ui-list ui-list--inline-block u-margin-r--xxl ui-list--links-block">
-                                            <li id="ars_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ars_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ars"></span>Argentina (ARS)</a></li>
-                                            <li id="aud_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm aud_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag aud"></span>Australia (AU$)</a></li>
-                                            <li id="bsd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm bsd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag bsd"></span>Bahamas (BS$)</a></li>
-                                            <li id="brl_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm brl_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag brl"></span>Brazil (R$)</a></li>
-                                            <li id="cad_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm cad_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag cad"></span>Canada (CA$)</a></li>
-                                            <li id="xaf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm xaf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag xaf"></span>CFA Franc BEAC (XAF)</a></li>
-                                            <!-- <li id="xbf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm xbf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag xbf"></span>CFP Franc (XBF)</a></li> -->
-                                            <li id="clp_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm clp_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag clp"></span>Chile (CLP)</a></li>
-                                            <li id="cny_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm cny_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag cny"></span>China (¥)</a></li>
-                                            <li id="cop_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm cop_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag cop"></span>Colombia (COP)</a></li>
-                                            <!-- <li id="krk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm krk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag krk"></span>Croatia (kn)</a></li> -->
-                                            <!-- <li id="czr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm czr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag czr"></span>Czech Republic (Kč)</a></li> -->
-                                            <li id="dkk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm dkk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag dkk"></span>Denmark (Dkr)</a></li>
-                                            <li id="xcd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm xcd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag xcd"></span>East Caribbean (XC$)</a></li>
-                                            <li id="eur_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm eur_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag eur"></span>Euro (€)</a></li>
-                                            <li id="fjd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm fjd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag fjd"></span>Fiji (FJ$)</a></li>
-                                            <!-- <li id="ghc_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ghc_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ghc"></span>Ghana (C)</a></li> -->
-                                            <li id="gtq_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm gtq_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag gtq"></span>Guatemala (Q)</a></li>
-                                            <li id="hnl_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm hnl_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag hnl"></span>Honduras (L)</a></li>
-                                            <li id="hkd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm hkd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag hkd"></span>Hong Kong (HK$)</a></li>
-                                            <li id="huf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm huf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag huf"></span>Hungary (Ft)</a></li>
-                                            <li id="isk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm isk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag isk"></span>Iceland (kr)</a></li>
-                                        </ul>
-                                        <ul class="ui-list ui-list--links-block ui-list--inline-block u-margin-r--xxl">
-                                            <li id="inr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm inr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag inr"></span>India (₹)</a></li>
-                                            <li id="idr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm idr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag idr"></span>Indonesia (Rp)</a></li>
-                                            <li id="ils_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ils_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ils"></span>Israel (₪)</a></li>
-                                            <li id="jmd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm jmd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag jmd"></span>Jamaica (J$)</a></li>
-                                            <li id="jpy_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm jpy_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag jpy"></span>Japan (¥)</a></li>
-                                            <li id="krw_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm krw_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag krw"></span>Korea, South (₩)</a></li>
-                                            <li id="chf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm chf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag chf"></span>Liechtenstein (CHF)</a></li>
-                                            <li id="myr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm myr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag myr"></span>Malaysia (RM)</a></li>
-                                            <li id="mxn_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm mxn_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag mxn"></span>Mexico (MXN)</a></li>
-                                            <li id="mad_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm mad_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag mad"></span>Morocco (MAD)</a></li>
-                                            <li id="mmk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm mmk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag mmk"></span>Myanmar (K)</a></li>
-                                            <li id="ang_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ang_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ang"></span>Netherlands (ƒ)</a></li>
-                                            <li id="nzd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm nzd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag nzd"></span>New Zealand (NZ$)</a></li>
-                                            <li id="nok_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm nok_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag nok"></span>Norway (kr)</a></li>
-                                            <li id="pkr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pkr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pkr"></span>Pakistan (Rs)</a></li>
-                                            <li id="pab_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pab_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pab"></span>Panama (B/)</a></li>
-                                            <li id="pen_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pen_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pen"></span>Peru (S/)</a></li>
-                                            <li id="php_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm php_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag php"></span>Philippines (₱)</a></li>
-                                        </ul>
-                                        <ul class="ui-list ui-list--links-block ui-list--inline-block">
-                                            <li id="pln_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pln_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pln"></span>Poland (zł)</a></li>
-                                            <li id="ron_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ron_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ron"></span>Romania (RON)</a></li>
-                                            <li id="rub_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm rub_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag rub"></span>Russia (₽)</a></li>
-                                            <li id="rsd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm rsd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag rsd"></span>Serbia (дин)</a></li>
-                                            <li id="sgd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm sgd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag sgd"></span>Singapore (SG$)</a></li>
-                                            <li id="zar_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm zar_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag zar"></span>South Africa (R)</a></li>
-                                            <li id="lkr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm lkr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag lkr"></span>Sri Lanka (Rs)</a></li>
-                                            <li id="sek_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm sek_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag sek"></span>Sweden (kr)</a></li>
-                                            <li id="twd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm twd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag twd"></span>Taiwan (NT$)</a></li>
-                                            <li id="thb_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm thb_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag thb"></span>Thailand (฿)</a></li>
-                                            <li id="ttd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ttd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ttd"></span>Trinidad and Tobago (TT$)</a></li>
-                                            <li id="tnd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm tnd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag tnd"></span>Tunisia (د.ت)</a></li>
-                                            <li id="try_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm try_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag try"></span>Turkey (₺)</a></li>
-                                            <li id="aed_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm aed_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag aed"></span>United Arab Emirates (د.إ)</a></li>
-                                            <li id="gbp_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm gbp_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag gbp"></span>United Kingdom (£)</a></li>
-                                            <li id="usd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm usd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag usd"></span>United States of America (US$)</a></li>
-                                            <li id="vef_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm vef_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag vef"></span>Venezuela (Bs)</a></li>
-                                            <li id="vnd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm vnd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag vnd"></span>Vietnam (₫)</a></li>
-                                        </ul>
-                                        </div>                                    </div>                                </div>
+                                    <div class="js-dropdown__menu dropdown__menu island" id="js-currency-big-menu" style="display:none;">
+                                        <div class="island">
+                                          <div class="block--ends u-margin-b--none">
+                                          <ul class="ui-list ui-list--inline-block u-margin-r--xxl ui-list--links-block">
+                                              <li id="ars_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ars_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ars"></span>Argentina (ARS)</a></li>
+                                              <li id="aud_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm aud_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag aud"></span>Australia (AU$)</a></li>
+                                              <li id="bsd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm bsd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag bsd"></span>Bahamas (BS$)</a></li>
+                                              <li id="brl_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm brl_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag brl"></span>Brazil (R$)</a></li>
+                                              <li id="cad_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm cad_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag cad"></span>Canada (CA$)</a></li>
+                                              <li id="xaf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm xaf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag xaf"></span>CFA Franc BEAC (XAF)</a></li>
+                                              <!-- <li id="xbf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm xbf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag xbf"></span>CFP Franc (XBF)</a></li> -->
+                                              <li id="clp_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm clp_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag clp"></span>Chile (CLP)</a></li>
+                                              <li id="cny_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm cny_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag cny"></span>China (¥)</a></li>
+                                              <li id="cop_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm cop_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag cop"></span>Colombia (COP)</a></li>
+                                              <!-- <li id="krk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm krk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag krk"></span>Croatia (kn)</a></li> -->
+                                              <!-- <li id="czr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm czr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag czr"></span>Czech Republic (Kč)</a></li> -->
+                                              <li id="dkk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm dkk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag dkk"></span>Denmark (Dkr)</a></li>
+                                              <li id="xcd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm xcd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag xcd"></span>East Caribbean (XC$)</a></li>
+                                              <li id="eur_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm eur_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag eur"></span>Euro (€)</a></li>
+                                              <li id="fjd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm fjd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag fjd"></span>Fiji (FJ$)</a></li>
+                                              <!-- <li id="ghc_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ghc_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ghc"></span>Ghana (C)</a></li> -->
+                                              <li id="gtq_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm gtq_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag gtq"></span>Guatemala (Q)</a></li>
+                                              <li id="hnl_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm hnl_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag hnl"></span>Honduras (L)</a></li>
+                                              <li id="hkd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm hkd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag hkd"></span>Hong Kong (HK$)</a></li>
+                                              <li id="huf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm huf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag huf"></span>Hungary (Ft)</a></li>
+                                              <li id="isk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm isk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag isk"></span>Iceland (kr)</a></li>
+                                          </ul>
+                                          <ul class="ui-list ui-list--links-block ui-list--inline-block u-margin-r--xxl">
+                                              <li id="inr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm inr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag inr"></span>India (₹)</a></li>
+                                              <li id="idr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm idr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag idr"></span>Indonesia (Rp)</a></li>
+                                              <li id="ils_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ils_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ils"></span>Israel (₪)</a></li>
+                                              <li id="jmd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm jmd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag jmd"></span>Jamaica (J$)</a></li>
+                                              <li id="jpy_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm jpy_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag jpy"></span>Japan (¥)</a></li>
+                                              <li id="krw_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm krw_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag krw"></span>Korea, South (₩)</a></li>
+                                              <li id="chf_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm chf_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag chf"></span>Liechtenstein (CHF)</a></li>
+                                              <li id="myr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm myr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag myr"></span>Malaysia (RM)</a></li>
+                                              <li id="mxn_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm mxn_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag mxn"></span>Mexico (MXN)</a></li>
+                                              <li id="mad_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm mad_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag mad"></span>Morocco (MAD)</a></li>
+                                              <li id="mmk_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm mmk_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag mmk"></span>Myanmar (K)</a></li>
+                                              <li id="ang_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ang_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ang"></span>Netherlands (ƒ)</a></li>
+                                              <li id="nzd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm nzd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag nzd"></span>New Zealand (NZ$)</a></li>
+                                              <li id="nok_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm nok_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag nok"></span>Norway (kr)</a></li>
+                                              <li id="pkr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pkr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pkr"></span>Pakistan (Rs)</a></li>
+                                              <li id="pab_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pab_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pab"></span>Panama (B/)</a></li>
+                                              <li id="pen_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pen_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pen"></span>Peru (S/)</a></li>
+                                              <li id="php_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm php_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag php"></span>Philippines (₱)</a></li>
+                                          </ul>
+                                          <ul class="ui-list ui-list--links-block ui-list--inline-block">
+                                              <li id="pln_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm pln_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag pln"></span>Poland (zł)</a></li>
+                                              <li id="ron_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ron_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ron"></span>Romania (RON)</a></li>
+                                              <li id="rub_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm rub_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag rub"></span>Russia (₽)</a></li>
+                                              <li id="rsd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm rsd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag rsd"></span>Serbia (дин)</a></li>
+                                              <li id="sgd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm sgd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag sgd"></span>Singapore (SG$)</a></li>
+                                              <li id="zar_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm zar_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag zar"></span>South Africa (R)</a></li>
+                                              <li id="lkr_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm lkr_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag lkr"></span>Sri Lanka (Rs)</a></li>
+                                              <li id="sek_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm sek_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag sek"></span>Sweden (kr)</a></li>
+                                              <li id="twd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm twd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag twd"></span>Taiwan (NT$)</a></li>
+                                              <li id="thb_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm thb_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag thb"></span>Thailand (฿)</a></li>
+                                              <li id="ttd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm ttd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag ttd"></span>Trinidad and Tobago (TT$)</a></li>
+                                              <li id="tnd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm tnd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag tnd"></span>Tunisia (د.ت)</a></li>
+                                              <li id="try_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm try_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag try"></span>Turkey (₺)</a></li>
+                                              <li id="aed_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm aed_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag aed"></span>United Arab Emirates (د.إ)</a></li>
+                                              <li id="gbp_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm gbp_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag gbp"></span>United Kingdom (£)</a></li>
+                                              <li id="usd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm usd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag usd"></span>United States of America (US$)</a></li>
+                                              <li id="vef_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm vef_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag vef"></span>Venezuela (Bs)</a></li>
+                                              <li id="vnd_currency" class="ui-list__item u-padding-t--sm u-padding-b--sm vnd_currency"><a class="js-currency-item" href="javascript:;"><span class="region-flag vnd"></span>Vietnam (₫)</a></li>
+                                          </ul>
+                                          </div>                                    </div>                                  </div>
+                                </div>
                                 <!-- end .dropdown -->
                             </div>
                             <!-- end .u-float-left -->
@@ -653,17 +677,16 @@ function reloadHearts(){
                             <!-- end .u-float-left -->
 
                             <div class="u-float-left">
-                                <div class="dropdown dropdown--center" id="tr-language-select">
+                                <div class="js-dropdown dropdown dropdown--center" id="tr-language-select">
                                     <span class="h6">EN</span>
                                     <span class="icon icon--arrow-down dropdown__icon">
-                                        <svg aria-labelledby="lang-title lang-desc" role="presentation">
-                                            <title id="lang-title">View More</title>
-                                            <desc id="lang-desc">Select Language</desc>
+                                        <svg aria-label="View More Select Language" role="presentation">
                                             <use xlink:href="#icon-arrow-down"></use>
                                         </svg>
                                     </span>
 
-                                    <div class="dropdown__menu island">
+                                    <div class="js-dropdown__menu dropdown__menu island">
+                                      <div class="island">
                                         <span class="h6">Select Language</span>
                                         <div class="block--ends u-margin-b--none">
                                             <ul class="ui-list ui-list--links-block" id="active_languages">
@@ -718,7 +741,8 @@ function reloadHearts(){
                                                         </a>
                                                     </li>
                                                                                             </ul>
-                                        </div>                                    </div>                                </div>
+                                        </div>                                    </div>                                  </div>
+                                </div>
                                 <!-- end .dropdown -->
                             </div>
                             <!-- end .u-float-left -->
@@ -729,9 +753,9 @@ function reloadHearts(){
                             <!-- end .u-float-left -->
 
                             <div class="u-float-left">
-                                                            <div class="dropdown dropdown--right" id="tr-account_signin">
+                                                            <div class="js-dropdown dropdown dropdown--right" id="tr-account_signin">
                                                                         <a class="u-text-decoration-focus-none u-color--black" href="javascript:;" onclick="window.location='/r/SignIn.jsp?page=%2Fr%2FinfoSecurity.jsp';" tabindex="-1">
-                                        <span class="u-font-primary u-text-sm u-color--black">Hey,</span>
+                                        <span class="u-font-primary u-text-xl u-color--black">Hey,</span>
                                       </a>
                                       <a class="link link--hover-bold" href="javascript:;" onclick="window.location='/r/SignIn.jsp?page=%2Fr%2FinfoSecurity.jsp';">
                                         <span class="h6">Sign In</span>
@@ -781,23 +805,21 @@ function reloadHearts(){
                             <!-- Specify customer preference womens/mens here -->
                             <ul class="ui-list ui-list--inline">
                                 <li class="u-float-left">
-                                    <div class="dropdown dropdown--center u-hide shame-toggle-visibility">
+                                    <div class="js-dropdown dropdown dropdown--center u-hide shame-toggle-visibility">
                                       <span class="h6">Need Help?</span>
                                       <span class="icon icon--arrow-down dropdown__icon">
-                                          <svg aria-labelledby="help-2-title help-2-desc" role="presentation">
-                                              <title id="help-2-title">View More</title>
-                                              <desc id="help-2-desc">Contact Information</desc>
+                                          <svg aria-label="View More Contact Information" role="presentation">
                                               <use xlink:href="#icon-arrow-down"></use>
                                           </svg>
                                       </span>
 
-                                      <div class="dropdown__menu island">
+                                      <div class="js-dropdown__menu dropdown__menu island">
                                           <table class="u-margin-a--none">
                                               <tbody>
                                                   <tr>
                                                       <th class="u-right" scope="row">Chat:</th>
                                                       <td>
-                                                                                                                        <a class="link link--light link--underline" onclick="openLiveHelp();return false" href="javascript:;">Let's Chat!</a>
+                                                                                                                        <a class="link link--light link--underline" onclick="event.preventDefault();openLiveHelp();return false" href="https://secure.livechatinc.com/">Let's Chat!</a>
                                                                                                                 </td>
                                                   </tr>
                                                   <tr>
@@ -812,12 +834,20 @@ function reloadHearts(){
                                                           <a class="link link--light link--underline" href="mailto:sales@REVOLVEclothing.com">sales@REVOLVEclothing.com</a>
                                                       </td>
                                                   </tr>
+
+                                                <!-- Start - this should only show in Japan -->
+                                                                                                <!-- End - this should only show in Japan -->
+
                                                   <tr>
                                                       <th class="u-right" scope="row">FAQs:</th>
                                                       <td>
                                                           <a class="link link--light link--underline" href="http://www.revolve.com/payment?navsrc=header">View Here</a>
                                                       </td>
                                                   </tr>
+
+                                                  <!-- Start - this should only show in Japan -->
+                                                                                                    <!-- End - this should only show in Japan -->
+
                                               </tbody>
                                           </table>
                                       </div><!-- end .dropdown__menu -->
@@ -831,8 +861,7 @@ function reloadHearts(){
                                               <use xlink:href="#icon-search"></use>
                                           </svg>
                                       </span>
-                                  </div>
-                                </li><!-- end u-float-left -->
+                                  </div>                                </li><!-- end u-float-left -->
 
                                 <li class="u-float-left">
                                                                     <div class="site-search">
@@ -845,8 +874,12 @@ function reloadHearts(){
                                                     <input type="hidden" name="d" value="Womens">
 
                                                     <button class="site-search__submit u-bg-color--none u-color--black search_submit" type="submit" name="submit" value="Search">
-                                                        <span class="icon icon--search site-search__submit-icon"><svg><use xlink:href="#icon-search"></use></svg></span>
-                                                        <span class="site-search__submit-copy">GO</span>
+                                                        <span class="icon icon--search site-search__submit-icon">
+                                                          <svg focusable="false" aria-hidden="true">
+                                                            <use xlink:href="#icon-search"></use>
+                                                          </svg>
+                                                        </span>
+                                                        <span class="u-screen-reader">Search</span>
                                                     </button>
                                                     <button class="site-search__close u-bg-color--none u-color--black" type="button">
                                                       Cancel
@@ -863,12 +896,16 @@ function reloadHearts(){
 
                                                                 <li class="u-float-left" id="optbc_header_myfav">
                                     <a class="u-text-decoration-focus-none u-color--black" href="/r/MyFavorite.jsp?navsrc=header&amp;d=Womens" onmouseover="$('#wishlist_heart').show();" onmouseout="$('#wishlist_heart').hide()" tabindex="-1">
-                                        <span class="icon icon--md icon--heart-outline"><svg><use xlink:href="#icon-heart-outline"></use></svg></span>
+                                        <span class="icon icon--sm icon--heart-outline">
+                                          <svg>
+                                            <use xlink:href="#icon-heart-outline"></use>
+                                          </svg>
+                                        </span>
                                     </a>
                                     <a class="link link--hover-bold u-margin-l--sm" href="/r/MyFavorite.jsp?navsrc=header&amp;d=Womens" onmouseover="$('#wishlist_heart').show();" onmouseout="$('#wishlist_heart').hide()">
                                         <span class="h6">My Favorites</span>
                                     </a>
-                                    <span id="heart_total_count" class="u-padding-a--sm u-padding-r--none u-text-md u-color--pink-dark">0</span>
+                                    <span id="heart_total_count" class="u-padding-a--sm u-padding-r--none u-text-xl u-color--pink-dark">0</span>
                                 </li><!-- end .u-float-left -->
 
                                 <li class="u-float-left">
@@ -876,114 +913,160 @@ function reloadHearts(){
                                 </li><!-- end .u-float-left -->
 
                                                                 <li class="u-float-left">
-                                    <div class="dropdown dropdown--center dropdown--md" id="tr-mybag">
+                                    <div class="js-dropdown dropdown dropdown--right dropdown--md" id="tr-mybag">
                                         <a class="u-text-decoration-focus-none u-color--black" href="http://www.revolve.com/r/ShoppingBag.jsp?navsrc=header" tabindex="-1">
-                                          <span class="icon icon--md icon--shopping-bag"><svg><use xlink:href="#icon-shopping-bag"></use></svg></span>
+                                          <span class="icon icon--sm icon--shopping-bag">
+                                            <svg>
+                                              <use xlink:href="#icon-shopping-bag"></use>
+                                            </svg>
+                                          </span>
                                         </a>
                                         <a class="link link--hover-bold u-margin-l--sm" href="http://www.revolve.com/r/ShoppingBag.jsp?navsrc=header" id="tr-mybag-link">
                                           <span class="h6">My Bag</span>
                                         </a>
-                                        <span id="my_bag_item_count" class="u-padding-a--sm u-padding-r--none u-text-md u-color--pink-dark">0</span>
+                                        <span id="my_bag_item_count" class="u-padding-a--sm u-padding-r--none u-text-xl u-color--pink-dark">0</span>
                                         <!-- Mini Cart Dropdown - Start -->
-                                        <div class="dropdown__menu island" id="js-mini-cart">
+                                        <div class="js-dropdown__menu dropdown__menu island" id="js-mini-cart">
 
                                             <!-- /////// ITEM ADDED TO CART /////// -->
-                                            <div id="js-mini-cart-added" class="u-center u-hide">
-                                                <div class="h5">Item Added to Bag</div>
-                                                <div class="grid">
-                                                    <div class="grid__col sm-1-of-3">
-                                                        <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" id="js-mini-cart-added__image" alt="">
-                                                    </div>
-                                                    <div class="grid__col sm-2-of-3">
-                                                        <a href="#" id="js-mini-cart-added__designer-link" class="strong u-color--black"></a>
-                                                        <div id="js-mini-cart-added__product-name" class=""></div>
-                                                        <div id="js-mini-cart-added__price" class="prices__retail"></div>
-                                                        <div id="js-mini-cart-added__markdown" class="prices__markdown"></div>
-                                                        <div id="js-mini-cart-added__markdown-original" class="prices__retail-strikethrough"></div>
+                                            <div id="js-mini-cart-added" class="u-hide">
+                                                <div class="u-center">
+                                                    <h2 class="h5 u-padding-b--sm" id="js-mini-cart-added__title" tabindex="-1" aria-label="Item added to bag">Item Added to Bag</h2>
+                                                </div>
+                                                <div class="grid g--collapse-all u-margin-b--xl u-border-b u-border--xs u-border--color-lightest  JOA-WS99 S">
+                                                    <div class="u-text-md u-line-height--sm">
+                                                        <div class="grid__col u-padding-l--none sm-3-of-12">
+                                                            <div><a href="#">
+                                                                <img id="js-mini-cart-added__image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt=""></a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="grid__col sm-9-of-12">
+                                                            <p id="js-mini-cart-added__product-name" class="strong u-margin-a--none u-ellipsis"></p>
+                                                            <p class="u-margin-a--none u-ellipsis">
+                                                                <a id="js-mini-cart-added__designer-link" href="#" class="u-color--black u-ellipsis"></a>
+                                                            </p>
+                                                            <p class="u-margin-a--none">Color: <span id="js-mini-cart-added__color"></span></p>
+                                                            <div class="price">
+                                                                <p id="js-mini-cart-added__price" class="u-margin-a--none prices__retail"></p>
+                                                                <p id="js-mini-cart-added__markdown" class="u-margin-a--none prices__markdown">å</p>
+                                                                <p id="js-mini-cart-added__markdown-original" class="u-margin-a--none prices__retail-strikethrough"></p>
+                                                                <p id="js-mini-cart-added__disclaimer" class="u-color--red u-margin-t--lg u-margin-b--none"></p>
+                                                                <p id="js-mini-cart-added__alert" class="u-color--red u-margin-t--lg u-margin-b--none"></p>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
-                                                <p>
-                                                    <a href="http://www.revolve.com/r/ShoppingBag.jsp?navsrc=header" class="btn btn--lg btn--full" id="tr-minicart-view-bag">View Bag / Checkout</a>
-                                                </p>
-                                                <div>
-                                                    <a href="javascript:void(0);" onclick="closeJustAdded()" class="link link--bold">Continue Shopping</a>
+                                                <div class="u-center">
+                                                    <div>
+                                                        <div id="js-mini-cart-added__addl_msg" class="small u-color--grey" style="">
+                                                        </div>
+                                                        <div id="minicart_item_empty_text" class="h4 u-margin-t--sm">
+                                                            Total: <span id="js-mini-cart-added__cartTotal" class="prices__retail"></span>
+                                                        </div>
+                                                        <div class="u-margin-b--xl">
+                                                            <a href="http://www.revolve.com/r/ShoppingBag.jsp?navsrc=header" id="tr-minicart-view-bag" class="btn btn--lg btn--full">View Bag / Checkout</a>
+                                                        </div>
+                                                        <a href="#" onclick="closeJustAdded()" class="link">Continue Shopping</a>
+                                                    </div>
                                                 </div>
-                                            </div>
+                                            </div><!-- #js-mini-cart-added -->
+
                                             <!-- /////// ALL ITEMS IN CART /////// -->
                                             <div id="js-mini-cart-items">
+                                                <div id="minicart_item_empty" class="u-margin-b--lg u-center ">
+                                                    <h2 class="h5 u-padding-b--sm" tabindex="-1" aria-label="Item added to bag">Your Bag is Empty.</h2>
+                                                </div>
+                                                
+
+
+
+<div id="minicart_item0" class="grid g--collapse-all u-margin-b--xl u-border-b u-border--xs u-border--color-lightest   " style="display:none;">
+    <div class="u-text-md u-line-height--sm">
+        <div class="grid__col u-padding-l--none sm-3-of-12">
+            <div class="js-minicart-item__product-image"><a href=""><img src="https://is4.revolveassets.com/r/i/dot.png" alt=""></a></div>
+        </div>
+        <div class="grid__col sm-9-of-12">
+            <p class="strong u-margin-a--none js-minicart-item__product-name u-ellipsis"></p>
+            <p class="u-margin-a--none u-ellipsis js-minicart-item__designer-name">
+                <a href="" class="u-color--black u-ellipsis"></a>
+            </p>
+            <p class="u-margin-a--none js-minicart-item__product-color"> </p>
+            <div class="price">
+                <p class="u-margin-a--none prices__retail js-minicart-item__retail"></p>
+                <p class="u-margin-a--none prices__markdown js-minicart-item__markdown" style="display:none;"></p>
+                <p class="u-margin-a--none prices__retail-strikethrough js-minicart-item__retail-strikethrough" style="display:none;"></p>
+                <p class="u-color--red u-margin-t--lg u-margin-b--none js-minicart-item__item-message" style="display:none" ;=""></p>
+                <p class="u-color--red u-margin-t--lg u-margin-b--none js-minicart-item__item-disclaimer" style="display:none" ;=""></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div id="minicart_item1" class="grid g--collapse-all u-margin-b--xl u-border-b u-border--xs u-border--color-lightest   " style="display:none;">
+    <div class="u-text-md u-line-height--sm">
+        <div class="grid__col u-padding-l--none sm-3-of-12">
+            <div class="js-minicart-item__product-image"><a href=""><img src="https://is4.revolveassets.com/r/i/dot.png" alt=""></a></div>
+        </div>
+        <div class="grid__col sm-9-of-12">
+            <p class="strong u-margin-a--none js-minicart-item__product-name u-ellipsis"></p>
+            <p class="u-margin-a--none u-ellipsis js-minicart-item__designer-name">
+                <a href="" class="u-color--black u-ellipsis"></a>
+            </p>
+            <p class="u-margin-a--none js-minicart-item__product-color"> </p>
+            <div class="price">
+                <p class="u-margin-a--none prices__retail js-minicart-item__retail"></p>
+                <p class="u-margin-a--none prices__markdown js-minicart-item__markdown" style="display:none;"></p>
+                <p class="u-margin-a--none prices__retail-strikethrough js-minicart-item__retail-strikethrough" style="display:none;"></p>
+                <p class="u-color--red u-margin-t--lg u-margin-b--none js-minicart-item__item-message" style="display:none" ;=""></p>
+                <p class="u-color--red u-margin-t--lg u-margin-b--none js-minicart-item__item-disclaimer" style="display:none" ;=""></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<div id="minicart_item2" class="grid g--collapse-all u-margin-b--xl u-border-b u-border--xs u-border--color-lightest   " style="display:none;">
+    <div class="u-text-md u-line-height--sm">
+        <div class="grid__col u-padding-l--none sm-3-of-12">
+            <div class="js-minicart-item__product-image"><a href=""><img src="https://is4.revolveassets.com/r/i/dot.png" alt=""></a></div>
+        </div>
+        <div class="grid__col sm-9-of-12">
+            <p class="strong u-margin-a--none js-minicart-item__product-name u-ellipsis"></p>
+            <p class="u-margin-a--none u-ellipsis js-minicart-item__designer-name">
+                <a href="" class="u-color--black u-ellipsis"></a>
+            </p>
+            <p class="u-margin-a--none js-minicart-item__product-color"> </p>
+            <div class="price">
+                <p class="u-margin-a--none prices__retail js-minicart-item__retail"></p>
+                <p class="u-margin-a--none prices__markdown js-minicart-item__markdown" style="display:none;"></p>
+                <p class="u-margin-a--none prices__retail-strikethrough js-minicart-item__retail-strikethrough" style="display:none;"></p>
+                <p class="u-color--red u-margin-t--lg u-margin-b--none js-minicart-item__item-message" style="display:none" ;=""></p>
+                <p class="u-color--red u-margin-t--lg u-margin-b--none js-minicart-item__item-disclaimer" style="display:none" ;=""></p>
+            </div>
+        </div>
+    </div>
+</div>
+
                                                 <div class="u-center">
-                                                    <div id="minicart_item_empty" class="u-margin-b--lg">
-                                                        <p class="h5 u-padding-b--sm">Your Bag is Empty.</p>
-                                                    </div>
-                                                    
-
-
-<div id="minicart_item0" class="grid  " style="display:none;">
-    <div class="grid__col sm-1-of-3">
-        <div class="js-minicart-item__product-image"><a href=""><img src="https://is4.revolveassets.com/r/i/dot.png" alt=""></a></div>
-    </div>
-    <div class="grid__col sm-2-of-3">
-        <div class="strong u-ellipsis js-minicart-item__designer-name">
-            <a href="" class="u-color--black"></a>
-        </div>
-        <div class="js-minicart-item__product-name"></div>
-        <div class="prices__retail js-minicart-item__retail"></div>
-        <div class="prices__markdown js-minicart-item__markdown" style="display:none;"></div>
-        <div class="prices__retail-strikethrough js-minicart-item__retail-strikethrough" style="display:none;"></div>
-        <div class="small u-color--grey js-minicart-item__item-message"></div>
-    </div>
-</div>
-
-
-
-<div id="minicart_item1" class="grid  " style="display:none;">
-    <div class="grid__col sm-1-of-3">
-        <div class="js-minicart-item__product-image"><a href=""><img src="https://is4.revolveassets.com/r/i/dot.png" alt=""></a></div>
-    </div>
-    <div class="grid__col sm-2-of-3">
-        <div class="strong u-ellipsis js-minicart-item__designer-name">
-            <a href="" class="u-color--black"></a>
-        </div>
-        <div class="js-minicart-item__product-name"></div>
-        <div class="prices__retail js-minicart-item__retail"></div>
-        <div class="prices__markdown js-minicart-item__markdown" style="display:none;"></div>
-        <div class="prices__retail-strikethrough js-minicart-item__retail-strikethrough" style="display:none;"></div>
-        <div class="small u-color--grey js-minicart-item__item-message"></div>
-    </div>
-</div>
-
-
-
-<div id="minicart_item2" class="grid  " style="display:none;">
-    <div class="grid__col sm-1-of-3">
-        <div class="js-minicart-item__product-image"><a href=""><img src="https://is4.revolveassets.com/r/i/dot.png" alt=""></a></div>
-    </div>
-    <div class="grid__col sm-2-of-3">
-        <div class="strong u-ellipsis js-minicart-item__designer-name">
-            <a href="" class="u-color--black"></a>
-        </div>
-        <div class="js-minicart-item__product-name"></div>
-        <div class="prices__retail js-minicart-item__retail"></div>
-        <div class="prices__markdown js-minicart-item__markdown" style="display:none;"></div>
-        <div class="prices__retail-strikethrough js-minicart-item__retail-strikethrough" style="display:none;"></div>
-        <div class="small u-color--grey js-minicart-item__item-message"></div>
-    </div>
-</div>
-
-                                                    <div>
-                                                                                                                                                                        <div id="my_bag_addl_msg" class="small u-color--grey" style="display:none;">
-                                                            You have <span id="my_bag_addl_item_count">0</span> more item(s) in your bag
+                                                                                                                                                            <div>
+                                                        <div id="my_bag_addl_msg" class="small u-color--grey" style="display:none;">
+                                                            
                                                         </div>
                                                         <div id="minicart_item_empty_text" class="h4 u-margin-t--sm" style="display:none;">
                                                             Total:
                                                             <span id="my_bag_total" class="prices__retail">$0.00</span>
                                                         </div>
-                                                        <div class="u-margin-b--md">
+                                                        <div class="u-margin-b--xl">
                                                             <a href="/r/SignInCheckout.jsp?navsrc=header" class="btn btn--lg btn--full">Checkout</a>
                                                         </div>
-                                                        <a href="http://www.revolve.com/r/ShoppingBag.jsp?navsrc=header" class="link link--bold">View my bag</a>
+                                                        <a href="http://www.revolve.com/r/ShoppingBag.jsp?navsrc=header" class="link">View my bag</a>
                                                     </div>
-                                                </div><!-- .u-center -->
+                                                </div>
                                             </div><!-- #js-mini-cart-items -->
                                         </div> <!-- .dropdown__menu -->
                                     </div> <!-- Mini Cart Dropdown - End -->
@@ -1004,7 +1087,7 @@ function reloadHearts(){
 					
 						<ul class="nav__wrapper container nav--md-height u-margin-b--none">
 						
-							<li class="nav__item nav__item--hotlist"><a href="/content/hotlist" class="nav__link" id="tr-main-nav-hotlist">HOT LIST</a></li>
+							<li class="nav__item nav__item--hotlist"><a href="/content/hotlist" class="nav__link" id="tr-main-nav-hotlist" aria-label="Hot List">Hot List</a></li>
 
 							
 
@@ -1022,15 +1105,14 @@ function reloadHearts(){
 
 
 
-<li class="nav__item nav__item--new dropdown dropdown--full" id="optbc_mainnav_sonew">
-  <a href="/new/20161118/br/8c54a1/?navsrc=main" class="nav__link" id="tr-main-nav-new">
-    NEW
-    
+<li class="nav__item nav__item--new js-dropdown dropdown dropdown--full" id="optbc_mainnav_sonew">
+  <a href="/new/20170616/br/503e1a/?navsrc=main" class="nav__link" id="tr-main-nav-new" aria-label="New">
+    New
   </a>
-    <div class="dropdown__menu u-padding-t--xl u-padding-b--md">
+    <div class="js-dropdown__menu dropdown__menu u-padding-t--xl u-padding-b--md">
         <div class="container u-padding-t--lg">
             <div class="dropdown__thumb this-is-a-test">
-                <a href="/new/all-new-items/br/7f5946/?navsrc=subnew_i1"><img alt="Revolve Clothing" src="https://is4.revolveassets.com/images/wwu/2016/november/womens/new_new111416_dd_f.jpg"></a>
+                <a href="/new/all-new-items/br/7f5946/?navsrc=subnew_i1"><img alt="Revolve Clothing" src="//is4.revolveassets.com/images/wwu/2017/june/061517_dd_Thumbs_new.jpg"></a>
             </div>
             
             <ul class="dropdown__list">
@@ -1158,19 +1240,19 @@ function reloadHearts(){
             <ul class="dropdown__list">
                 <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">New This Season</li>
                  <li>
-                    <a href="/aijek/br/3d5688/?navsrc=subnew">aijek</a>
+                    <a href="/aje/br/1fbb81/?navsrc=subnew">Aje</a>
                 </li>
                  <li>
-                    <a href="/cinq-a-sept/br/fb349d/?navsrc=subnew">Cinq a Sept</a>
+                    <a href="/by-the-way/br/0c0896/?navsrc=subnew">by the way.</a>
                 </li>
                 <li>
                     <a href="/fenty-by-puma/br/99f091/?navsrc=subnew">Fenty by Puma</a>
                 </li>
                 <li>
-                    <a href="/thurley/br/9a29db/?navsrc=subnew">THURLEY</a>
+                    <a href="/fame-and-partners/br/509d31/?navsrc=subnew">FAME AND PARTNERS</a>
                 </li>
                 <li>
-                    <a href="/understated-leather/br/fdc14f/?navsrc=subnew">Understated Leather</a>
+                    <a href="/see-by-chloe/br/b7dc0a/?navsrc=subnew">See By Chloe</a>
                 </li>
             </ul>
         </div>
@@ -1194,12 +1276,14 @@ function reloadHearts(){
 
 
 
-<li class="nav__item nav__item--clothing dropdown dropdown--full">
-    <a href="/clothing/br/3699fc/?navsrc=main" class="nav__link" id="tr-main-nav-clothing">Clothing</a>
-    <div class="dropdown__menu u-padding-t--xl u-padding-b--md">
+<li class="nav__item nav__item--clothing js-dropdown dropdown dropdown--full">
+    <a href="/clothing/br/3699fc/?navsrc=main" class="nav__link" id="tr-main-nav-clothing" aria-label="Clothing">
+      Clothing
+    </a>
+    <div class="js-dropdown__menu dropdown__menu u-padding-t--xl u-padding-b--md">
         <div class="container u-padding-t--lg">
             <div class="dropdown__thumb this-is-a-test">
-                <a href="/clothing/br/3699fc/?navsrc=main?navsrc=subnew_i1"><img alt="Revolve Clothing" src="https://is4.revolveassets.com/images/wwu/2016/november/womens/clothing_clothing111416_dd_f_r.jpg"></a>
+                <a href="/dresses/br/a8e981/?navsrc=subclothing_i1"><img alt="Revolve Clothing" src="//is4.revolveassets.com/images/wwu/2017/june/061517_dd_Thumbs_clothing.jpg"></a>
             </div>
             
             <ul class="dropdown__list">
@@ -1418,17 +1502,17 @@ function reloadHearts(){
             <ul class="dropdown__list">
                 <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">Featured Shops</li>
                 <li>
-                  <a href="/content/lookbook/The+Holiday+Shop?navsrc=subclothing">Holiday</a>
+                  <a href="/content/lookbook/Welcome+to+the+Festival+Shop?navsrc=subclothing">Festival</a>
                 </li>
                 <li>
-                  <a href="/collections/collections/br/0d7946/?navsrc=subclothing">Collections</a>
+                  <a href="/content/lp/collections/?navsrc=subclothing">Collections</a>
                 </li>
                 <li>
-                  <a href="/wedding/?navsrc=subclothing">Wedding</a>
+                  <a href="/wedding/bride/?navsrc=subclothing">Wedding</a>
                 </li>
-                <li>
-                  <a href="/content/lp/active?navsrc=subclothing">Activewear</a>
-                </li>
+                
+                
+                
             </ul>
         </div>
     </div>
@@ -1441,7 +1525,6 @@ function reloadHearts(){
 
 
 
- 
 
 
 
@@ -1449,18 +1532,22 @@ function reloadHearts(){
 
 
 
-<li class="nav__item nav__item--shoes dropdown dropdown--full"><a href="/shoes/br/3f40a9/?navsrc=main" class="nav__link" id="tr-main-nav-shoes">SHOES</a>
-    <div class="dropdown__menu u-padding-t--xl u-padding-b--md">
+
+<li class="nav__item nav__item--shoes js-dropdown dropdown dropdown--full">
+    <a href="/shoes/br/3f40a9/?navsrc=main" class="nav__link" id="tr-main-nav-shoes" aria-label="Shoes">
+      Shoes
+    </a>
+    <div class="js-dropdown__menu dropdown__menu u-padding-t--xl u-padding-b--md">
         <div class="container u-padding-t--lg">
             <div class="dropdown__thumb this-is-a-test">
-                <a href="/shoes/br/3f40a9/?navsrc=main?navsrc=subshoes_i1"><img alt="Revolve Clothing" src="https://is4.revolveassets.com/images/wwu/2016/november/womens/shoes_shoes111416_dd_f.jpg"></a>
+                <a href="/shoes/br/3f40a9/?navsrc=subshoes_i1"><img alt="Revolve Clothing" src="//is4.revolveassets.com/images/wwu/2017/june/053117_wwu_w_shoes.jpg"></a>
             </div>
             
             <ul class="dropdown__list">
                 
 
                     
-                    
+
                     <li>
                         <a href="/shoes/br/3f40a9/?navsrc=subshoes">
                             All Shoes
@@ -1469,7 +1556,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/shoes-boots/br/59da4f/?navsrc=subshoes">
                             Boots
@@ -1478,7 +1565,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/shoes-booties/br/5356e7/?navsrc=subshoes">
                             Booties
@@ -1487,7 +1574,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/shoes-flats/br/f39c40/?navsrc=subshoes">
                             Flats
@@ -1498,7 +1585,7 @@ function reloadHearts(){
                     
                         </ul><ul class="dropdown__list">
                     
-                    
+
                     <li>
                         <a href="/shoes-heels/br/51fd9f/?navsrc=subshoes">
                             Heels
@@ -1507,7 +1594,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/shoes-sandals/br/016eb5/?navsrc=subshoes">
                             Sandals
@@ -1516,7 +1603,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/shoes-sneakers/br/2aec17/?navsrc=subshoes">
                             Sneakers
@@ -1525,7 +1612,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/shoes-wedges/br/1f0dec/?navsrc=subshoes">
                             Wedges
@@ -1537,6 +1624,7 @@ function reloadHearts(){
     </div>
 </li>
 
+
 							
 
 
@@ -1552,15 +1640,203 @@ function reloadHearts(){
 
 
 
-<li class="nav__item nav__item--accessories dropdown dropdown--full">
-    <a href="/jewelry-accessories/br/946fac/?navsrc=main" class="nav__link" id="tr-main-nav-accessories">
+
+<li class="nav__item nav__item--beauty js-dropdown dropdown dropdown--full">
+    <a href="/content/lp/beauty/?navsrc=main" class="nav__link" id="tr-main-nav-clothing" aria-label="Beauty">
+      Beauty
+    </a>
+    <div class="js-dropdown__menu dropdown__menu u-padding-t--xl u-padding-b--md">
+        <div class="container u-padding-t--lg">
+            <div class="dropdown__thumb this-is-a-test">
+                <a href="/beauty/br/114440/?navsrc=subbeauty_i1"><img alt="Revolve Clothing" src="//is4.revolveassets.com/images/wwu/2017/june/061517_dd_Thumbs_beauty.jpg"></a>
+            </div>
+            
+            <ul class="dropdown__list">
+                
+
+                    
+
+                    
+                        <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">
+                            Makeup
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-makeup/br/6e7384/?navsrc=subbeauty">
+                                View All
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-makeup-lip/br/f5bcb8/?navsrc=subbeauty">
+                                Lip
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-makeup-eyes/br/93a357/?navsrc=subbeauty">
+                                Eyes
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-makeup-face/br/81ef06/?navsrc=subbeauty">
+                                Face
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+                        </ul><ul class="dropdown__list">
+                    
+
+                    
+                        <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">
+                            Hair
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-hair/br/4931d1/?navsrc=subbeauty">
+                                View All
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-hair-shampoo-conditioner/br/192173/?navsrc=subbeauty">
+                                Shampoo &amp; Conditioner
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-hair-hair-tools/br/dc253c/?navsrc=subbeauty">
+                                Hair Tools
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+                        </ul><ul class="dropdown__list">
+                    
+
+                    
+                        <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">
+                            Skin Care
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-skincare/br/6cda0a/?navsrc=subbeauty">
+                                View All
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-skincare-treatments/br/1d14e2/?navsrc=subbeauty">
+                                Treatments
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/beauty-skincare-moisturizers/br/f7d1f4/?navsrc=subbeauty">
+                                Moisturizers
+                            </a>
+                        </li>
+                    
+
+                
+            </ul>
+        </div>
+    </div>
+</li>
+
+
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li class="nav__item nav__item--accessories js-dropdown dropdown dropdown--full">
+    <a href="/jewelry-accessories/br/946fac/?navsrc=main" class="nav__link" id="tr-main-nav-accessories" aria-label="Accessories">
         Accessories
     </a>
 
-    <div class="dropdown__menu u-padding-t--xl u-padding-b--md">
+    <div class="js-dropdown__menu dropdown__menu u-padding-t--xl u-padding-b--md">
         <div class="container u-padding-t--lg">
             <div class="dropdown__thumb this-is-a-test">
-                <a href="/jewelry-accessories/br/946fac/?navsrc=main?navsrc=subaccessories_i1"><img alt="Revolve Clothing" src="https://is4.revolveassets.com/images/wwu/2016/november/womens/accessories_accessories111416_dd_f.jpg "></a>
+                <a href="/jewelry-accessories/br/946fac/?navsrc=subaccessories_i1"><img alt="Revolve Clothing" src="//is4.revolveassets.com/images/wwu/2017/june/061517_dd_Thumbs_accessories.jpg"></a>
             </div>
             
             <ul class="dropdown__list">
@@ -1581,7 +1857,7 @@ function reloadHearts(){
                     
                         <li>
                             <a href="/jewelry-accessories/br/946fac/?navsrc=subaccessories">
-                                All Accessories
+                                View All
                             </a>
                         </li>
                     
@@ -1592,8 +1868,8 @@ function reloadHearts(){
 
                     
                         <li>
-                            <a href="/jewelry-accessories-jewelry/br/c7e3a4/?navsrc=subaccessories">
-                                Jewelry
+                            <a href="/jewelry-accessories-hats-hair-accessories-hats/br/0bb621/?navsrc=subaccessories">
+                                Hats
                             </a>
                         </li>
                     
@@ -1616,8 +1892,8 @@ function reloadHearts(){
 
                     
                         <li>
-                            <a href="/jewelry-accessories-hats-hair-accessories/br/dcfd6d/?navsrc=subaccessories">
-                                Hats &amp; Hair Accessories
+                            <a href="/jewelry-accessories-belts/br/ea8542/?navsrc=subaccessories">
+                                Belts
                             </a>
                         </li>
                     
@@ -1628,8 +1904,8 @@ function reloadHearts(){
 
                     
                         <li>
-                            <a href="/jewelry-accessories-watches/br/f1c9fd/?navsrc=subaccessories">
-                                Watches
+                            <a href="/jewelry-accessories-tech-accessories/br/6bbea0/?navsrc=subaccessories">
+                                Tech Accessories
                             </a>
                         </li>
                     
@@ -1653,76 +1929,6 @@ function reloadHearts(){
                     
 
                     
-                    <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">&nbsp;</li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/jewelry-accessories-hosiery-socks/br/c5ef6b/?navsrc=subaccessories">
-                                Hosiery &amp; Socks
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/jewelry-accessories-belts/br/ea8542/?navsrc=subaccessories">
-                                Belts
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/jewelry-accessories-gloves/br/6ddfca/?navsrc=subaccessories">
-                                Gloves
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/jewelry-accessories-tech-accessories/br/6bbea0/?navsrc=subaccessories">
-                                Tech Accessories
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/jewelry-accessories-lifestyle-gifts/br/509195/?navsrc=subaccessories">
-                                Lifestyle &amp; Gifts
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-                        </ul><ul class="dropdown__list">
-                    
-
-                    
                         <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">
                             Bags
                         </li>
@@ -1735,7 +1941,7 @@ function reloadHearts(){
                     
                         <li>
                             <a href="/bags/br/2df9df/?navsrc=subaccessories">
-                                All Bags
+                                View All
                             </a>
                         </li>
                     
@@ -1758,32 +1964,8 @@ function reloadHearts(){
 
                     
                         <li>
-                            <a href="/bags-bucket/br/79fbcd/?navsrc=subaccessories">
-                                Bucket Bags
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/bags-mini-bags/br/1eeb6d/?navsrc=subaccessories">
-                                Mini Bags
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/bags-shoulder-bags/br/276024/?navsrc=subaccessories">
-                                Shoulder Bags
+                            <a href="/bags-backpacks/br/63ac04/?navsrc=subaccessories">
+                                Backpacks
                             </a>
                         </li>
                     
@@ -1798,16 +1980,6 @@ function reloadHearts(){
                                 Totes
                             </a>
                         </li>
-                    
-
-                
-
-                    
-                        </ul><ul class="dropdown__list">
-                    
-
-                    
-                    <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">&nbsp;</li>
                     
 
                 
@@ -1828,44 +2000,92 @@ function reloadHearts(){
 
                     
                         <li>
-                            <a href="/bags-backpacks/br/63ac04/?navsrc=subaccessories">
-                                Backpacks
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/bags-satchels/br/89927a/?navsrc=subaccessories">
-                                Satchels
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
-                            <a href="/bags-wallets/br/c2506c/?navsrc=subaccessories">
-                                Wallets
-                            </a>
-                        </li>
-                    
-
-                
-
-                    
-
-                    
-                        <li>
                             <a href="/bags-travel-bags/br/97907e/?navsrc=subaccessories">
                                 Travel Bags
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+                        </ul><ul class="dropdown__list">
+                    
+
+                    
+                        <li class="dropdown--section-title u-margin-t--none u-margin-b--sm u-block">
+                            Jewelry
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/jewelry-accessories-jewelry/br/c7e3a4/?navsrc=subaccessories">
+                                View All
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/jewelry-accessories-jewelry-necklaces/br/5ee94d/?navsrc=subaccessories">
+                                Necklaces
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/jewelry-accessories-jewelry-chokers/br/a87d62/?navsrc=subaccessories">
+                                Chokers
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/jewelry-accessories-jewelry-earrings/br/0681d0/?navsrc=subaccessories">
+                                Earrings
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/jewelry-accessories-jewelry-rings/br/5d1fc5/?navsrc=subaccessories">
+                                Rings
+                            </a>
+                        </li>
+                    
+
+                
+
+                    
+
+                    
+                        <li>
+                            <a href="/jewelry-accessories-jewelry-bracelets/br/399495/?navsrc=subaccessories">
+                                Bracelets
                             </a>
                         </li>
                     
@@ -1886,17 +2106,17 @@ function reloadHearts(){
 
 
 
-<li class="nav__item nav__item--designers dropdown dropdown--full"><a href="/designers/?orderBy=A-Z&amp;navsrc=main&amp;d=Womens" class="nav__link" id="tr-main-nav-designers">Designers</a>
-    <div class="dropdown__menu u-padding-t--xl u-padding-b--md">
+<li class="nav__item nav__item--designers js-dropdown dropdown dropdown--full"><a href="/designers/?orderBy=A-Z&amp;navsrc=main&amp;d=Womens" class="nav__link" id="tr-main-nav-designers" aria-label="Designers">Designers</a>
+    <div class="js-dropdown__menu dropdown__menu u-padding-t--xl u-padding-b--md">
         <div class="container u-padding-t--lg">
             <div class="grid">
                 <div class="grid__col sm-3-of-12">
                     <a class="btn u-full-width u-margin-b--lg" href="/designers/?orderBy=A-Z&amp;navsrc=subdesigners_all&amp;d=Womens">view designers a to z</a>
-                    <a class="image-badge--relative" href="/house-of-harlow-1960/br/67dcad/?srcType=dp_des2_featured ">
-                        <img src="https://is4.revolveassets.com/images/wwu/2016/november/womens/designer_houseofharlow1111416_dd_f.jpg" alt="HOUSE OF HARLOW 1960">
+                    <a class="image-badge--relative" href="/majorelle/br/e590a8/?navsrc=subdesigner_i1 ">
+                        <img src="//is4.revolveassets.com/images/wwu/2017/june/061517_dd_Thumbs_designer.jpg" alt="Majorelle">
                         <div class="image-badge image-badge--bottom">
                             <div class="image-badge__hed">featured designer:</div>
-                            <div class="image-badge__dek">HOUSE OF HARLOW 1960</div>
+                            <div class="image-badge__dek">Majorelle</div>
                         </div>
                     </a>
                 </div>
@@ -1912,22 +2132,22 @@ function reloadHearts(){
                         <div class="grid__col sm-6-of-12 u-padding-b--none">
                             <ol class="ui-list u-margin-l--xl">
                                                                                             <li>
-                                    <a href="/360-sweater/br/1d2b17/?navsrc=subdesigners_top">360 Sweater</a>
+                                    <a href="/acacia-swimwear/br/548180/?navsrc=subdesigners_top">Acacia Swimwear</a>
+                                </li>
+                                                                                            <li>
+                                    <a href="/ale-by-alessandra/br/9fa0d4/?navsrc=subdesigners_top">ale by alessandra</a>
                                 </li>
                                                                                             <li>
                                     <a href="/bb-dakota/br/32f7fe/?navsrc=subdesigners_top">BB Dakota</a>
                                 </li>
                                                                                             <li>
-                                    <a href="/bcbgmaxazria/br/559320/?navsrc=subdesigners_top">BCBGMAXAZRIA</a>
-                                </li>
-                                                                                            <li>
                                     <a href="/blue-life/br/6ffa2e/?navsrc=subdesigners_top">Blue Life</a>
                                 </li>
                                                                                             <li>
-                                    <a href="/citizens-of-humanity/br/dd7835/?navsrc=subdesigners_top">Citizens of Humanity</a>
+                                    <a href="/faithfull-the-brand/br/934251/?navsrc=subdesigners_top">Faithfull the Brand</a>
                                 </li>
                                                                                             <li>
-                                    <a href="/equipment/br/9fef84/?navsrc=subdesigners_top">Equipment</a>
+                                    <a href="/flynn-skye/br/ec6fd7/?navsrc=subdesigners_top">FLYNN SKYE</a>
                                 </li>
                                                                                             <li>
                                     <a href="/for-love-lemons/br/cec5a0/?navsrc=subdesigners_top">For Love &amp; Lemons</a>
@@ -1950,10 +2170,7 @@ function reloadHearts(){
                                     <a href="/mara-hoffman/br/3d6b1c/?navsrc=subdesigners_top">Mara Hoffman</a>
                                 </li>
                                                             <li>
-                                    <a href="/marc-jacobs/br/a1b27b/?navsrc=subdesigners_top">Marc Jacobs</a>
-                                </li>
-                                                            <li>
-                                    <a href="/minkpink/br/9555a2/?navsrc=subdesigners_top">MINKPINK</a>
+                                    <a href="/marysia-swim/br/e3f6fd/?navsrc=subdesigners_top">Marysia Swim</a>
                                 </li>
                                                             <li>
                                     <a href="/mother/br/52028e/?navsrc=subdesigners_top">MOTHER</a>
@@ -1965,10 +2182,13 @@ function reloadHearts(){
                                     <a href="/parker/br/c6ad5d/?navsrc=subdesigners_top">Parker</a>
                                 </li>
                                                             <li>
-                                    <a href="/rag-bonejean/br/479400/?navsrc=subdesigners_top">rag &amp; bone/JEAN</a>
+                                    <a href="/rag-bone/br/6c9975/?navsrc=subdesigners_top">Rag &amp; Bone</a>
                                 </li>
                                                             <li>
                                     <a href="/raye/br/487a23/?navsrc=subdesigners_top">RAYE</a>
+                                </li>
+                                                            <li>
+                                    <a href="/the-jetset-diaries/br/f2cd75/?navsrc=subdesigners_top">The Jetset Diaries</a>
                                 </li>
                                                             <li>
                                     <a href="/tularosa/br/1bc68b/?navsrc=subdesigners_top">Tularosa</a>
@@ -1990,19 +2210,19 @@ function reloadHearts(){
                                                                                                 <div class="grid">
                             <div class="grid__col sm-12-of-12 u-padding-b--none">
                                 <ol>
-                                    <li class="dropdown--section-title u-block">Brands We <span class="icon icon--sm icon--heart-fill icon--heart-fill"><svg><use xlink:href="#icon-heart-fill"></use></svg></span></li>
+                                    <li class="dropdown--section-title u-block">Brands We <span class="icon icon--sm icon--heart-fill icon--heart-fill"><svg> <use xlink:href="#icon-heart-fill"></use> </svg></span></li>
                                 </ol>
                             </div>
                         </div>
-                        <ol class="ui-list u-margin-l--xl">
+                        <ol class="ui-list u-margin-l--xl ui-list--right-md">
                                                     <li>
                                 <a href="/alexis/br/86ba43/?navsrc=subdesigners_mydes">Alexis</a>
                             </li>
                                                     <li>
-                                <a href="/alice-olivia/br/58278f/?navsrc=subdesigners_mydes">Alice + Olivia</a>
+                                <a href="/amanda-uprichard/br/93e92e/?navsrc=subdesigners_mydes">Amanda Uprichard</a>
                             </li>
                                                     <li>
-                                <a href="/amanda-uprichard/br/93e92e/?navsrc=subdesigners_mydes">Amanda Uprichard</a>
+                                <a href="/endless-rose/br/2cabe9/?navsrc=subdesigners_mydes">Endless Rose</a>
                             </li>
                                                     <li>
                                 <a href="/grlfrnd/br/682a10/?navsrc=subdesigners_mydes">GRLFRND</a>
@@ -2014,6 +2234,9 @@ function reloadHearts(){
                                 <a href="/lacademie/br/f5f5f5/?navsrc=subdesigners_mydes">L'Academie</a>
                             </li>
                                                     <li>
+                                <a href="/lna/br/789193/?navsrc=subdesigners_mydes">LNA</a>
+                            </li>
+                                                    <li>
                                 <a href="/lpa/br/78222c/?navsrc=subdesigners_mydes">LPA</a>
                             </li>
                                                     <li>
@@ -2021,9 +2244,6 @@ function reloadHearts(){
                             </li>
                                                     <li>
                                 <a href="/privacy-please/br/5a96f7/?navsrc=subdesigners_mydes">Privacy Please</a>
-                            </li>
-                                                    <li>
-                                <a href="/the-jetset-diaries/br/51cdde/?navsrc=subdesigners_mydes">THE JETSET DIARIES</a>
                             </li>
                                                 </ol>
                                                         </div>
@@ -2041,7 +2261,6 @@ function reloadHearts(){
 
 
 
- 
 
 
 
@@ -2049,18 +2268,22 @@ function reloadHearts(){
 
 
 
-<li class="nav__item nav__item--sale nav__item dropdown dropdown--full"><a href="/sale/all-sale-items/br/54cc7b/?navsrc=main" class="nav__link nav__link--last" id="tr-main-nav-sale">SALE</a>
-    <div class="dropdown__menu u-padding-t--xl u-padding-b--md">
+
+<li class="nav__item nav__item--sale nav__item js-dropdown dropdown dropdown--full">
+    <a href="/sale/all-sale-items/br/54cc7b/?navsrc=main" class="nav__link nav__link--last" id="tr-main-nav-sale" aria-label="Sale">
+      Sale
+    </a>
+    <div class="js-dropdown__menu dropdown__menu u-padding-t--xl u-padding-b--md">
         <div class="container u-padding-t--lg">
             <div class="dropdown__thumb this-is-a-test">
-                <a href="/sale/all-sale-items/br/54cc7b/?navsrc=subsale_i1"><img alt="Revolve Clothing" src="https://is4.revolveassets.com/images/wwu/2016/september/men/sale_sale091216_dd_m.jpg"></a>
+                <a href="/sale/all-sale-items/br/54cc7b/?navsrc=subsale_i1"><img alt="Revolve Clothing" src="//is4.revolveassets.com/images/wwu/2016/november/womens/sale_sale112916_dd_f.jpg"></a>
             </div>
             
             <ul class="dropdown__list">
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/all-sale-items/br/54cc7b/?navsrc=subsale">
                             All Sale
@@ -2069,7 +2292,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/final-sale/br/d3ef1a/?navsrc=subsale">
                             Final Sale
@@ -2080,7 +2303,7 @@ function reloadHearts(){
                     
                         </ul><ul class="dropdown__list">
                     
-                    
+
                     <li>
                         <a href="/sale/jewelry-accessories/br/b607de/?navsrc=subsale">
                             Accessories
@@ -2089,7 +2312,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/activewear/br/6b9fcc/?navsrc=subsale">
                             Activewear
@@ -2098,7 +2321,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/denim/br/ddcf61/?navsrc=subsale">
                             Denim
@@ -2107,7 +2330,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/dresses/br/28a4b1/?navsrc=subsale">
                             Dresses
@@ -2118,7 +2341,7 @@ function reloadHearts(){
                     
                         </ul><ul class="dropdown__list">
                     
-                    
+
                     <li>
                         <a href="/sale/shoes/br/ba4e3d/?navsrc=subsale">
                             Shoes
@@ -2127,7 +2350,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/skirts/br/827208/?navsrc=subsale">
                             Skirts
@@ -2136,7 +2359,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/swimwear/br/99dd7e/?navsrc=subsale">
                             Swimwear
@@ -2145,7 +2368,7 @@ function reloadHearts(){
                 
 
                     
-                    
+
                     <li>
                         <a href="/sale/tops/br/94dfe5/?navsrc=subsale">
                             Tops
@@ -2156,6 +2379,7 @@ function reloadHearts(){
         </div>
     </div>
 </li>
+
 						
 						</ul>
 					</nav>
@@ -2179,6 +2403,35 @@ function reloadHearts(){
 	</header>
 </div><!-- end .eagle -->
 
+
+<!-- Fav limit popups -->
+<div class="eagle">
+  <div data-is-guest="true" data-product-size="0" id="myFavLimitPopup">
+      <div class="modal" id="guestLimitPop">
+        <div class="modal__hed">
+            Please sign up for a REVOLVE account to add more items to your favorites page
+        </div>
+        <p>
+          Already have an account? <a href="/r/SignIn.jsp?page=%2Fr%2FMyFavorite.jsp">SIGN IN</a>
+        </p>
+        <a href="/r/SignIn.jsp?page=%2Fr%2FMyFavorite.jsp" class="btn btn--full u-padding-a--lg">Create Account</a>
+
+      </div>
+    </div>
+    <div class="modal" id="userLimitPop">
+        <div class="modal__hed">
+            OOPS, YOU'VE EXCEEDED <br>YOUR FAVORITES LIMIT.
+        </div>
+        <p>
+            We noticed you have more than 2,000 hearted items. Would you like to clear 200 of your oldest items, so you can heart more?
+        </p>
+        <a href="javascript:clearOldFavItems();" class="btn btn--full u-padding-a--lg u-margin-b--lg">YES. CLEAR OUT OLDER ITEMS</a>
+
+        <a href="#" class="js-modal-close u-text-xs link link--bold u-letter-space--sm">NO THANKS, MAYBE LATER</a>
+
+    </div>
+</div>
+
 <!-- //////////////////////////// Header - End //////////////////////////// -->
 
 
@@ -2186,7 +2439,7 @@ function reloadHearts(){
             <!-- //////////////////////////// Content Wrap - Start //////////////////////////// -->
 
             <div class="rev_container">
-     
+
 
                 <div class="rev_content rev_info_page"> <!-- SHIPPING & RETURNS -->
                     <!-- //////////////////////////// Content - Start //////////////////////////// -->
@@ -2282,13 +2535,13 @@ function reloadHearts(){
 		===============
 		-->
 
-		<div class="dropdown dropdown--right u-float-right">
+		<div class="js-dropdown dropdown dropdown--right u-float-right">
 			<span id="customercarecontent2" class="u-color__lighter u-inline-block">Country:</span>
-			<span id="region_selected" class="h6 u-inline-block u-margin-r--md u-margin-a--none u-text-xxs">United States</span>
-			<span class="icon icon--arrow-down icon--xs u-margin-r--xs"><svg>
+			<span id="region_selected" class="h6 u-inline-block u-margin-r--md u-margin-a--none u-text-sm">United States</span>
+			<span class="icon icon--arrow-down icon--sm u-margin-r--xs"><svg>
 				<use xlink:href="#icon-arrow-down"></use>
 			</svg></span>
-			<div class="dropdown__menu island">
+			<div class="js-dropdown__menu dropdown__menu island">
 				<div class="block--ends">
 					<ul class="ui-list ui-list--inline-block u-margin-r--xxl">
 						<li style="display:none" id="AR_region" class="ui-list__item view_more_cc"><a class="js-currency-item" href="javascript:;"><span class="region-flag ars"></span>Argentina</a></li>
@@ -2433,7 +2686,6 @@ function reloadHearts(){
 	<div class="info_menu">
 		<h2 id="customercarecontent3">CUSTOMER CARE</h2>
 		<ul>
-			
 			<li><a id="customercarecontent4" href="/contactus">Contact Us</a></li>
 			<li><a id="customercarecontent5" href="/payment">Payment</a></li>
 			<li><a id="customercarecontent6" href="/ordering">Ordering</a></li>
@@ -2475,8 +2727,8 @@ function reloadHearts(){
 			<h6 id="customercarecontent16" class="u-margin-b--none">EMAIL</h6>
 			<p>
 				
-				<a href="mailto:sales@REVOLVEclothing.com" class="link link--light">sales@REVOLVEclothing.com</a><br>
-				<a href="javascript:void(0)" class="js-toggle-modal link link--light" data-modal=".international-email-list-modal" data-full-screen="true"><span id="customercarecontent17">View International Email List</span></a>
+				<a href="mailto:sales@revolve.com" class="link link--light">sales@revolve.com</a><br>
+				<a href="#international-email-list" class="js-modal link link--light"><span id="customercarecontent17">View International Email List</span></a>
 			</p>
 		</div>
 	</div>
@@ -2489,15 +2741,16 @@ function reloadHearts(){
 	
 
 	<div class="eagle">
-		<div class="js-modal modal international-email-list-modal">
 
-			<div class="modal__block modal__block--lg">
-				<div class="h3 u-margin-t--none">CUSTOMER CARE EMAIL</div>
+		<div class="modal" id="international-email-list">
+			<div class="">
+				<div class="h3 u-margin-t--none modal__hed">CUSTOMER CARE EMAIL</div>
 				<p class="u-text-sm">Email us anytime and we will get back to you within 24 hours</p>
+
 				<div class="g g--collapse">
 					<div class="gc u-padding-b--sm sm-2-of-12">English</div>
 					<div class="gc u-padding-b--sm sm-10-of-12">
-						<a href="mailto:sales@REVOLVEclothing.com">sales@REVOLVEclothing.com</a>
+						<a href="mailto:sales@revolve.com">sales@revolve.com</a>
 					</div>
 				</div>
 				<div class="g g--collapse">
@@ -2527,7 +2780,7 @@ function reloadHearts(){
 				<div class="g g--collapse">
 					<div class="gc u-padding-b--sm sm-2-of-12">Portuguese</div>
 					<div class="gc u-padding-b--sm sm-10-of-12">
-						<a href="mailto:sales@REVOLVEclothing.com">sales@REVOLVEclothing.com</a>
+						<a href="mailto:sales@revolve.com">sales@revolve.com</a>
 					</div>
 				</div>
 				<div class="g g--collapse">
@@ -2542,13 +2795,10 @@ function reloadHearts(){
 						<a href="mailto:JPservice@revolveclothing.com">JPservice@revolveclothing.com</a>
 					</div>
 				</div>
-				<div class="js-modal__close modal__close btn">
-					<span class="icon icon--x icon--md u-block"><svg class="modal__close-svg"><use xlink:href="#icon-x"></use></svg></span>
-				</div>
+				
 			</div>
 		</div>
 	</div>
-
 	
 
 </aside> <!-- .rev_left_navigation -->
@@ -2662,7 +2912,7 @@ function reloadHearts(){
                 <p>
 					
 					<span id="customercarecontent38">
-						If for some reason you would prefer not to receive emails from REVOLVE simply email a request to <a href="mailto:sales@revolveclothing.com">sales@revolveclothing.com</a> with the word "UNSUBSCRIBE" in the subject line. Please note that any requests to remove or update your contact information may take seven to ten working days to take effect.
+						If for some reason you would prefer not to receive emails from REVOLVE simply email a request to <a href="mailto:sales@revolve.com">sales@revolve.com</a> with the word "UNSUBSCRIBE" in the subject line. Please note that any requests to remove or update your contact information may take seven to ten working days to take effect.
 					</span>
 				</p>
 
@@ -2730,7 +2980,7 @@ function reloadHearts(){
 						Notice to California Residents:
 					</span>
 					<span id="customercarecontent50">
-						If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by REVOLVE to any third parties, including (i) a list of the categories of personal information about you that REVOLVE has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed sufficient to give you a reasonable indication of the nature of the third parties' business. To submit a request with the subject heading "CALIFORNIA PRIVACY REQUEST" to <a href="mailto:legal@revolveclothing.com">legal@revolveclothing.com</a>.
+						If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by REVOLVE to any third parties, including (i) a list of the categories of personal information about you that REVOLVE has disclosed to third parties for the third parties’ direct marketing purposes during the calendar year preceding your request, (ii) the names and addresses of such third parties, and (iii) if the nature of the third parties’ business cannot reasonably be determined from their names, examples of the products or services marketed sufficient to give you a reasonable indication of the nature of the third parties' business. To submit a request with the subject heading "CALIFORNIA PRIVACY REQUEST" to <a href="mailto:legal@revolve.com">legal@revolve.com</a>.
 					</span>
                 </p>
             </div>
@@ -2757,7 +3007,7 @@ function reloadHearts(){
 
                 <p>
 					<span id="customercarecontent54">
-						As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain REVOLVE and REVOLVE mobile application features. If you do not want to receive e-mail or other mail from us or if you have any questions about how your information is being used, please simply send a request to .
+						As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of certain REVOLVE and REVOLVE mobile application features. If you do not want to receive e-mail or other mail from us please email sales@revolve.com with the word "UNSUBSCRIBE" in the subject line or if you have any questions about how your information is being used, please simply send a request to legal@revolve.com.
 					</span>
                 </p>
             </div>
@@ -2787,8 +3037,8 @@ function reloadHearts(){
                 </p>
 
             </div>
-        
-        </div><!-- .rev_security --> 
+
+        </div><!-- .rev_security -->
             </div><!-- .rev_main -->
                     <!-- //////////////////////////// Content - End //////////////////////////// -->
                 </div><!-- .rev_content -->
@@ -2796,11 +3046,10 @@ function reloadHearts(){
             <!-- //////////////////////////// Content Wrap - End //////////////////////////// -->
         </div><!-- .rev_page -->
 
-     
-    
-    </div> <!-- .rev_wrapper -->
 
+				
     
+
 
 
 
@@ -2815,44 +3064,129 @@ Footer
 
 
 
-<div class="push"></div>
+ <div class="push"></div>
 
-<!-- end .wrapper  -->
+</div><!-- end .wrapper  -->
 
-
-<footer class="eagle" role="contentinfo">
-	<div class="site-footer">
-		<div class="eagle">
+<div class="eagle">
+<footer class="site-footer print-label__no-print" role="contentinfo">
 			<div class="fixed-corner">
 				<!-- START: Back to Top -->
 				<div class="back-to-top u-center u-padding-t--lg">
-					<span class="icon icon--arrow-up--stem icon--md u-color--black">
+					<span class="icon icon--arrow-up--lg icon--sm u-color--black">
 						<svg>
-							<use xlink:href="#icon-arrow-up--stem"></use>
+							<use xlink:href="#icon-arrow-up--lg"></use>
 						</svg>
 					</span>
 				</div>
 				<!--END: Back to Top -->
 				<!--START: Live Chat -->
 				<div class="live-chat">
-					<a onclick="openLiveHelp();return false" class="live-chat__bubble u-weight--bold u-text-xs">
+					<a onclick="openLiveHelp();return false" class="live-chat__bubble u-weight--bold u-text-md">
 					Need <br> help?
 					</a>
 				</div>
 				<!--END: Live Chat-->
 			</div>
+
+
+		<div class="u-bg-color--offwhite">
+			<div class="container u-padding-t--xxl">
+				<div class="g"></div>
+				<div class="gc n-4-of-12">
+					<div class=" u-center">
+						<h2 class="h6 u-margin-b--sm">Get In the Know</h2>
+						<p class="u-margin-rl--xl">Be the first to know about new arrivals, look books, sales &amp; promos!</p>
+						<div class="field">
+							<label for="revolve-subscribe" class="u-hide-visible">
+								Get in The Know
+							</label>
+							<div class="u-relative g">
+								<div class="gc n-8-of-12 lg-9-of-12">
+									<form action="javascript:signUpEmail('Error, please try again!','revolve-subscribe','F', 'en', 'RW_Homepage_bottom', 'Direct Hit');">
+
+										<input id="revolve-subscribe" class="site-footer__text-box" type="text" placeholder="Enter your e-mail." name="email" onclick="resetNewsletter('Enter your e-mail.',false,'revolve-subscribe');" onblur="resetNewsletter('Enter your e-mail.', true,'revolve-subscribe');" autocomplete="off">
+									</form></div>
+									<div class="gc n-4-of-12 lg-3-of-12 u-padding-l--none">
+										<button class="btn site-footer__text-box-submit" type="submit" name="submit" value="Submit">
+											Sign Up
+											<span class="u-hide-visible" type="">Submit</span>
+										</button>
+									</div>
+								
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="gc n-4-of-12">
+					<div class=" u-center">
+						<h2 class="h6 u-margin-b--sm">Help Us Improve</h2>
+						<p>Take a brief survey about today's visit.</p>
+						<a href="/r/nps_postvisit.jsp" class="link--bold u-text-sm" aria-label="Begin Survey">Begin Survey</a>
+					</div>
+				</div>
+				<div class="gc n-4-of-12">
+					<div class="u-center">
+						<h2 class="h6 u-margin-b--sm">Get REVOLVE on the go!</h2>
+						<p>Download our super easy-to-use app available for your iPhone, iPad and Android.</p>
+						<div class="g u-margin-a--none">
+							<div class="gc n-4-of-12 u-padding-l--sm">
+								<button class="app-download-sms-link u-padding-a--none" data-device-type="iphone" aria-label="Download Revolve iPhone app">
+									<span class="icon icon--lg u-full-width icon--dl_iphone"><svg> <use xlink:href="#icon-dl_iphone"></use> </svg></span>
+								</button>
+							</div>
+							<div class="gc n-4-of-12 u-padding-l--sm">
+								<button class="app-download-sms-link u-padding-a--none" data-device-type="ipad" aria-label="Download Revolve iPad app">
+										<span class="icon icon--lg u-full-width icon--dl_ipad"><svg> <use xlink:href="#icon-dl_ipad"></use> </svg></span>
+								</button>
+							</div>
+							<div class="gc n-4-of-12 u-padding-l--sm">
+								<button class="app-download-sms-link u-padding-a--none" data-device-type="android" aria-label="Download Revolve android app">
+									<span class="icon icon--lg u-full-width icon--dl_android"><svg> <use xlink:href="#icon-dl_android"></use> </svg></span>
+								</button>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
-
-
-		<div class="container">
-			<div class="g n-block-grid--3">
-				<div class="gc">
-					<!--
-					Customer Care
-					============
-					-->
-					<div class="h6 u-color--white u-margin-a--none">Customer Care</div>
-					<div class="g n-block-grid--2">
+		<div class="container u-padding-t--xxl">
+			<div class="g">
+				<div class="gc md-6-of-12 n-5-of-12">
+					<h2 class="h6 u-color--white u-margin-a--none">Customer Care</h2>
+					<div class="g n-block-grid--3 u-hide u-show-md">
+						<div class="gc">
+							<ul class="ui-list site-footer__list">
+								<li class="ui-list__item"><a href="/contactus">Contact Us</a></li>
+								<li class="ui-list__item"><a href="tel:1-888-442-5830">1-888-442-5830</a></li>
+								<li class="ui-list__item"><a href="/payment">Payment Options</a></li>
+								<li class="ui-list__item"><a href="/ordering">Ordering</a></li>
+								
+								
+								
+								
+							</ul>
+						</div>
+						<div class="gc">
+							<ul class="ui-list site-footer__list">
+								<li class="ui-list__item"><a href="/shippingdelivery">Shipping &amp; Delivery</a></li>
+								<li class="ui-list__item"><a href="/returnsexchanges">Returns &amp; Exchanges</a></li>
+								<li class="ui-list__item"><a href="/sizeguide">Size Guide</a></li>
+								<li class="ui-list__item"><a href="/gifting">Gifting REVOLVE</a></li>
+								
+							</ul>
+						</div>
+						<div class="gc">
+							<ul class="ui-list site-footer__list">
+								<li class="ui-list__item"><a href="/why">Why REVOLVE</a></li>
+								<li class="ui-list__item"><a href="/feedback">Feedback</a></li>
+								<li class="ui-list__item"><a href="/content/lp/accessibility">Accessibility</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<!-- ///Tablet /////-->
+					<div class="g n-block-grid--2 u-hide-md">
 						<div class="gc">
 							<ul class="ui-list site-footer__list">
 								<li class="ui-list__item"><a href="/contactus">Contact Us</a></li>
@@ -2871,148 +3205,215 @@ Footer
 								<li class="ui-list__item"><a href="/gifting">Gifting REVOLVE</a></li>
 								<li class="ui-list__item"><a href="/why">Why REVOLVE</a></li>
 								<li class="ui-list__item"><a href="/feedback">Feedback</a></li>
+								<li class="ui-list__item"><a href="/content/lp/accessibility">Accessibility</a></li>
 								
+
 							</ul>
 						</div>
 					</div>
+					<!-- /// End Tablet /////-->
 				</div><!--.gc customer care content -->
-                <div class="g n-block-grid--2 site-footer__gc--left-padding">
-                    <div class="gc">
-                        <!--
+        <div class="gc md-2-of-12 n-3-of-12 u-padding-l--none">
+            <div class="gc">
+                <h2 class="h6 u-color--white u-margin-a--none">Information</h2>
+                <ul class="ui-list site-footer__list">
+                    <li class="ui-list__item"><a href="/aboutus">About Us</a></li>
+                    <li class="ui-list__item"><a href="/careers">Careers</a></li>
+                    <li class="ui-list__item"><a href="/affiliate">Affiliates</a></li>
+                    <li class="ui-list__item"><a href="/press">Press</a></li>
+                </ul>
+            </div><!--.gc information content -->
+            
+        </div>
 
-                        Information
-                        =========
-
-                        -->
-                        <div class="h6 u-color--white u-margin-a--none">Information</div>
-                        <ul class="ui-list site-footer__list">
-                            <li class="ui-list__item"><a href="/aboutus">About Us</a></li>
-                            <li class="ui-list__item"><a href="/careers">Careers</a></li>
-                            <li class="ui-list__item"><a href="/affiliate">Affiliates</a></li>
-                            <li class="ui-list__item"><a href="/press">Press</a></li>
-                        </ul>
-                    </div><!--.gc information content -->
-                    <div class="gc">
-                        <div class="h6 u-color--white u-margin-a--none">Our Apps</div>
-                        <ul class="ui-list site-footer__list">
-                            <li class="ui-list__item"><a class="app-download-sms-link site-footer__link" data-device-type="iphone">iPhone App</a></li>
-                            <li class="ui-list__item"><a class="site-footer__link" target="_blank" href="https://225103.measurementapi.com/serve?action=click&amp;publisher_id=225103&amp;site_id=116809&amp;destination_id=360819">iPad App</a></li>
-                            <li class="ui-list__item"><a class="app-download-sms-link site-footer__link" data-device-type="android">Android App</a></li>
-                        </ul>
-&lt;                   </div>
-                </div>
-
-				<div class="gc">
+				<div class="gc n-4-of-12 md-4-of-12">
 					<!--
 
 					Connect
 					=======
 
 					-->
-					<div class="h6 u-color--white u-margin-a--none u-margin-b--md">Connect</div>
+					<h2 class="h6 u-color--white u-margin-a--none u-margin-b--md">Connect</h2>
 					<div class="site-footer__social-icons">
-						<ul class="spread u-margin-l--none">
+						<ul class="spread u-margin-l--none u-hide u-show-md">
 							
 							
 							<li class="spread__item">
 								<a class="btn btn--circle btn--light" href="http://instagram.com/revolve/" target="_blank">
-								<span class="icon icon--lg icon--social-ig">
-									<svg><use xlink:href="#icon-social-ig"></use></svg>
+								<span class="icon icon--sm icon--social-ig" aria-hidden="true">
+									<svg> <use xlink:href="#icon-social-ig"></use> </svg>
 								</span>
-									<span class="u-hide-visible">Instagram</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Instagram</span>
 								</a>
 							</li>
 							
 							<li class="spread__item">
 								<a class="btn btn--circle btn--light" href="http://www.facebook.com/REVOLVE" target="_blank">
-									<span class="icon icon--lg icon--social-fb">
-										<svg><use xlink:href="#icon-social-fb"></use></svg>
+									<span class="icon icon--sm icon--social-fb" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-fb"></use> </svg>
 									</span>
-									<span class="u-hide-visible">Facebook</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Facebook</span>
 								</a>
 							</li>
+							<!-- Need Support -->
+							
+							<li class="spread__item">
+								<a class="btn btn--circle btn--light" href="https://www.snapchat.com/add/revolveclothing" target="_blank">
+								<span class="icon icon--sm icon--social-snapchat" aria-hidden="true">
+									<svg> <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-social-snapchat"></use> </svg>
+								</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve snapchat</span>
+								</a>
+							</li>
+							<!-- End -->
 							
 							<li class="spread__item">
 								<a class="btn btn--circle btn--light" href="http://www.twitter.com/revolve/" target="_blank">
-								<span class="icon icon--lg icon--social-twitter">
-									<svg><use xlink:href="#icon-social-twitter"></use></svg>
+								<span class="icon icon--sm icon--social-twitter" aria-hidden="true">
+									<svg> <use xlink:href="#icon-social-twitter"></use> </svg>
 								</span>
-									<span class="u-hide-visible">Twitter</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Twitter</span>
 								</a>
 							</li>
 							
 							<li class="spread__item">
-								<a class="btn btn--circle btn--light" href="http://pinterest.com/follow/revolveclothing/" target="_blank">
-									<span class="icon icon--lg icon--social-pin">
-										<svg><use xlink:href="#icon-social-pin"></use></svg>
+								<a class="btn btn--circle btn--light" href="https://www.pinterest.com/revolve/" target="_blank">
+									<span class="icon icon--sm icon--social-pin" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-pin"></use> </svg>
 									</span>
-									<span class="u-hide-visible">Pinterest</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Pinterest</span>
 								</a>
 							</li>
 							
 							<li class="spread__item">
 								<a class="btn btn--circle btn--light" href="http://plus.google.com/+revolveclothing" target="_blank">
-									<span class="icon icon--lg icon--social-gp">
-										<svg><use xlink:href="#icon-social-gp"></use></svg>
+									<span class="icon icon--sm icon--social-gp" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-gp"></use> </svg>
 									</span>
-									<span class="u-hide-visible">Google Plus</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Google Plus</span>
 								</a>
 							</li>
 							
 							<li class="spread__item">
 								<a class="btn btn--circle btn--light" href="https://www.youtube.com/RevolveClothing" target="_blank">
-									<span class="icon icon--lg icon--social-youtube">
-										<svg><use xlink:href="#icon-social-youtube"></use></svg>
+									<span class="icon icon--sm icon--social-youtube" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-youtube"></use> </svg>
 									</span>
-									<span class="u-hide-visible">YouTube</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve YouTube</span>
 								</a>
 							</li>
 							
 						</ul>
-					</div>
-					<div class="field">
-						<label for="revolve-subscribe" class="h6 u-color--white u-margin-a--none u-margin-b--md">
-							Get in The Know
-						</label>
-						<div class="u-relative">
-							<form action="javascript:signUpEmail('Error, please try again!','revolve-subscribe','F', 'en', 'RW_Homepage_bottom', 'Direct Hit');">
-
-								<input id="revolve-subscribe" class="site-footer__text-box" type="text" placeholder="Enter your e-mail for the latest in style." name="email" onclick="resetNewsletter('Enter your e-mail for the latest in style.',false,'revolve-subscribe');" onblur="resetNewsletter('Enter your e-mail for the latest in style.', true,'revolve-subscribe');" autocomplete="off">
-
-								<button class="site-footer__text-box-icon text-field-single__button btn--clean u-padding-l--lg u-padding-r--lg" type="submit" name="submit" value="Submit">
-									<span class="u-color--white icon icon--arrow-right icon--md">
-										<svg><use xlink:href="#icon-arrow-right"></use></svg>
+						<!-- Tablet -->
+						<ul class="spread u-margin-l--none u-hide-md g n-block-grid--4">
+							
+							
+							<li class="gc u-padding-a--none">
+								<a class="btn btn--circle btn--light" href="http://instagram.com/revolve/" target="_blank">
+								<span class="icon icon--sm icon--social-ig" aria-hidden="true">
+									<svg> <use xlink:href="#icon-social-ig"></use> </svg>
+								</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Instagram</span>
+								</a>
+							</li>
+							
+							<li class="spread__item gc u-padding-a--none">
+								<a class="btn btn--circle btn--light" href="http://www.facebook.com/REVOLVE" target="_blank">
+									<span class="icon icon--sm icon--social-fb" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-fb"></use> </svg>
 									</span>
-									<span class="u-hide-visible" type="">Submit</span>
-								</button>
-							</form>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Facebook</span>
+								</a>
+							</li>
+							<!-- Need Support -->
+							
+							<li class="spread__item gc u-padding-a--none">
+								<a class="btn btn--circle btn--light" href="http://www.twitter.com/revolve/" target="_blank">
+								<span class="icon icon--sm icon--social-snapchat" aria-hidden="true">
+									<svg> <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-social-snapchat"></use> </svg>
+								</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve snapchat</span>
+								</a>
+							</li>
+							<!-- End -->
+							
+							<li class="spread__item gc u-padding-a--none">
+								<a class="btn btn--circle btn--light" href="http://www.twitter.com/revolve/" target="_blank">
+								<span class="icon icon--sm icon--social-twitter" aria-hidden="true">
+									<svg> <use xlink:href="#icon-social-twitter"></use> </svg>
+								</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Twitter</span>
+								</a>
+							</li>
+							
+							<li class="spread__item gc u-padding-a--none">
+								<a class="btn btn--circle btn--light" href="https://www.pinterest.com/revolve/" target="_blank">
+									<span class="icon icon--sm icon--social-pin" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-pin"></use> </svg>
+									</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Pinterest</span>
+								</a>
+							</li>
+							
+							<li class="spread__item gc u-padding-a--none">
+								<a class="btn btn--circle btn--light" href="http://plus.google.com/+revolveclothing" target="_blank">
+									<span class="icon icon--sm icon--social-gp" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-gp"></use> </svg>
+									</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve Google Plus</span>
+								</a>
+							</li>
+							
+							<li class="spread__item gc u-padding-a--none">
+								<a class="btn btn--circle btn--light" href="https://www.youtube.com/RevolveClothing" target="_blank">
+									<span class="icon icon--sm icon--social-youtube" aria-hidden="true">
+										<svg> <use xlink:href="#icon-social-youtube"></use> </svg>
+									</span>
+									<span class="u-hide-visible u-capitalize">Connect to Revolve YouTube</span>
+								</a>
+							</li>
+							
+						</ul>
+						<!--Tablet -->
+						<div class="u-hide-md u-padding-t--xl">
+							<div class="secure-shopping-badge">
+								<span class="icon icon--sm icon--lock u-margin-r--sm u-color--white" aria-hidden="true">
+									<svg> <use xlink:href="#icon-lock"></use> </svg>
+								</span>
+								<span class="h6">Secure Shopping</span>
+							</div>
 						</div>
 					</div>
+					
 				</div><!--.gc connect content -->
 			</div>
 		</div><!--.container-->
 		<div class="site-footer__bottom-section">
 			<div class="container">
 				<span class="site-footer__copyright">
-					2016 Eminent, Inc. All Rights Reserved.
+					2017 Eminent, Inc. All Rights Reserved.
 				</span>
-				
-				
-				<span class="site-footer__contact">
-					CUSTOMER CARE: 1-888-442-5830
-				</span>
-				<a class="site-footer__bottom-section-links" href="/termsofuse">TERMS</a>
-				<a class="site-footer__bottom-section-links" href="/privacypolicy">PRIVACY</a>
-				<div class="secure-shopping-badge u-float-right">
-					<span class="icon icon--sm icon--lock u-margin-r--sm u-color--white">
-						<svg><use xlink:href="#icon-lock"></use></svg>
-					</span>
-					<span class="h6">Secure Shopping</span>
+				<div class="site-footer__bottom-link-container">
+					
+					
+					<a class="site-footer__bottom-section-links" href="/termsofuse" aria-label="Terms">TERMS</a>
+					<a class="site-footer__bottom-section-links" href="/privacypolicy" aria-label="Privacy">PRIVACY</a>
+					<a class="site-footer__bottom-section-links" href="/supplychainact" aria-label="California Supply Chains">CA Supply Chains</a>
+					
 				</div>
+					<div class="u-hide-md u-show-md u-float-right">
+						<div class="secure-shopping-badge">
+							<span class="icon icon--sm icon--lock u-margin-r--sm u-color--white">
+								<svg> <use xlink:href="#icon-lock"></use> </svg>
+							</span>
+							<span class="h6">Secure Shopping</span>
+						</div>
+					</div>
 			</div>
 		</div><!--.site-footer__bottom-section-->
-	</div><!--.site-footer-->
-</footer><!--.eagle-->
+
+</footer><!-- footer.site-footer-->
+</div><!-- .eagle -->
 
 
 
@@ -3026,17 +3427,21 @@ $(function(){
 	// Script for initializing modal
 	if($("html").hasClass("lt-ie9") && !getCookie("ie8UpgradePopup")) {
 	  $.modal({
-	    url : "/r/dialog/UpgradeIEBrowser.jsp"
+	    url : "/r/dialog/UpgradeIEBrowser.jsp",
+		  triggerOpen: true,
 	  });
 		setCookie("ie8UpgradePopup",true,20);
+	}
+	if($("body").hasClass("eagle")) {
+		//$(".wrapper .push").css("background", "#FF0000");
+		$(".wrapper .push").hide();
 	}
 });
 </script>
 <!--END: Browser Upgrade Notice -->
 
-	
-	
 
+	
 
 
 
@@ -3057,8 +3462,8 @@ $(function(){
 
 <script type="text/javascript">
     // Define custom dimension (variable) to call in google_analytics.js and google_analytics_with_userid.js
-    var global_sessionId_dimension1 = '645373703'; // sessionId (sessionStart)
-    var global_browserId_dimension2 = 'QUexAyWJULVVIsdPti5k6TsoDFISIB'; // browserId
+    var global_sessionId_dimension1 = '149766096353954173351292Nd6GdABrHhIPRewfziggV4UfoAYPz'; // GaSessionId (sessionStart)
+    var global_browserId_dimension2 = '2Nd6GdABrHhIPRewfziggV4UfoAYPz'; // browserId
 </script>
 
 
@@ -3091,7 +3496,7 @@ function showCrawlerDiscoveryLink() {
     $.ajax({
         contentType : 'application/x-www-form-urlencoded; charset=UTF-8',
         type: GET,
-        url: '/r/ajax/crawlerDiscovery.jsp?token=1479508593954',
+        url: '/r/ajax/crawlerDiscovery.jsp?token=1497661034001',
         data: {},
         cache: false,
         success: function (msg) {
@@ -3203,7 +3608,7 @@ $(function(){
         } else if (datum){
             var obj = datum;
             if (obj) {
-                var href = '/content/s/ct?type=' + obj.typeShortCode + '&q=' + obj.searchTerm + '&s=' + obj.suggestion + '&d=Womens';
+                var href = '/content/s/ct?type=' + obj.typeShortCode + '&q=' + obj.searchTerm + '&s=' + encodeURIComponent(obj.suggestion) + '&d=Womens';
                 window.location.href = href;
             }
         }
@@ -3223,7 +3628,8 @@ $(function(){
 });
 </script>
 
-<script src="https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/ready.js"></script>
+<script src="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/ready.js"></script>
+<script src="https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/dropdown.js"></script>
 
 
 
@@ -3231,14 +3637,14 @@ $(function(){
 
 <div style="display:none">
     <!-- Invisible and unreachable for humans.  Used to detect crawlers -->
-    <a id="crawlerDiscoveryLink" href="/r/ajax/crawlerDiscovery.jsp?token=1479508593957">crawler discovery</a>
+    <a id="crawlerDiscoveryLink" href="/r/ajax/crawlerDiscovery.jsp?token=1497661034003">crawler discovery</a>
 </div>
 
 
 
 
 
-<script src="/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/info.js"></script>
+<script src="/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/info.js"></script>
 
 
 
@@ -3246,8 +3652,15 @@ $(function(){
 
 
     function signUpEmail(errorMsg, id, gender, domainFlag, pageType, sectionUrl){
-
         var email = $('#'+id).val();
+
+        try {
+            if(typeof(cordial) != 'undefined' && cordial != null) {
+                cordial.identify(email);
+            }
+        } catch(e) {
+            console.log(e);
+        }
 
         var params = {};
         params['email'] = $('#'+id).val();
@@ -3283,7 +3696,11 @@ $(function(){
                     if(typeof logEmailSignUp === 'function'){
                         logEmailSignUp();
                     }
-                    window.open("/r/email/subscribe_landing.jsp?email="+email+"&homePage=true&gender="+gender+"&d="+dep);
+                   if(obj.cID)
+                    location.href = "/r/email/subscribe_landing.jsp?cID="+obj.cID+"&homePage=true&gender="+gender+"&d="+dep;
+                   else
+                    location.href = "/r/email/subscribe_landing.jsp?email="+email+"&homePage=true&gender="+gender+"&d="+dep;
+
                 }
                 else
                     $('#'+id).toggleClass('error');
@@ -3333,7 +3750,7 @@ $(function(){
         smsParams['subsection'] = '';
         smsParams['subcat'] = '';
         smsParams['subsubcat'] = '';
-        smsParams['sortBy'] = 'newest';
+        smsParams['sortBy'] = 'featured';
         smsParams['maxProducts'] = '100';
         smsParams['pageNum'] = '1';
         smsParams['prevInstockInvoice'] = 'null';
@@ -3342,6 +3759,7 @@ $(function(){
         smsParams['cT'] = '0.0';
         smsParams['u'] = uri;
         smsParams['r'] = referrer;
+        smsParams['fullUri'] = window.location.href; // send the full uri to GA server side (same thing as client side) - match the client side
         
 
         var challengeVar = 3 - 1 % 4 / 1 + 5 * 9 + 2 - (6 - 5) + 3 * 5 + (8 - 9) * 7 - 9  - (3 + 2);
@@ -3376,14 +3794,16 @@ $(function(){
     }
 
     function insertPageTrack(addToCartFlag, productCode, isSearchRedirect, callback, errorCallback, cookiesToPassToPageTrack) {
-        var referrer = 'Direct Hit';
-        var link = "\/r\/infoSecurity.jsp";
+        var referrer = 'null';
+        var link = "http:\/\/www.revolve.com\/r\/infoSecurity.jsp";
         var query =  "";
         var uri = link + query + (window.location.hash != '' ? ('&page=' + window.location.hash.replace('#', '')) : '');
-
+        if (!uri) { // if uri is empty or null
+            uri = encodeURIComponent(window.location.href);
+        }
         if (uri.indexOf("EditorialList.jsp") != -1 || uri.indexOf("HotList.jsp") != -1 || uri.indexOf("HotListMobile.jsp") != -1
           || uri.indexOf("LookBook.jsp") != -1 || uri.indexOf("LookBookMobile.jsp") != -1) {
-            uri = window.location.href
+            uri = encodeURIComponent(window.location.href);
         }
 
         if(typeof(productCode) != 'undefined' && productCode != null) {
@@ -3413,7 +3833,6 @@ $(function(){
             smsParams['revolveCurrencyOverride'] = cookiesToPassToPageTrack['currencyOverride'];
             smsParams['revolveUserLanguagePref'] = cookiesToPassToPageTrack['userLanguagePref'];
         }
-        smsParams['r'] = 'null';
         var submissionType = getSubmissionType(smsParams);
 
         $.ajax({
@@ -3441,7 +3860,7 @@ $(function(){
     function insertPageTrackWithInfo(uriData, dataIsFullURL) {
         var referrer = 'null';
         var uri;
-        var link = "/r/infoSecurity.jsp";
+        var link = "http://www.revolve.com/r/infoSecurity.jsp";
         var query = "";
         if (!dataIsFullURL)
             uri = link + query + (window.location.hash != '' ? ('&page=' + window.location.hash.replace('#', '')) : '') + "&" + uriData;
@@ -3486,7 +3905,7 @@ $(function(){
     function insertPageTrackForProductPosition(row, column, sort) {
         var cartAmount = '0.0';
         var cartContent = 'null';
-        var referrer = 'Direct Hit';
+        var referrer = 'null';
         var link = "/r/infoSecurity.jsp";
         var query = "";
         var uri = link + query + (window.location.hash != '' ? ('&page=' + window.location.hash.replace('#', '')) : '');
@@ -3514,7 +3933,9 @@ $(function(){
 
         var cartAmount = '0.0';
         var cartContent = 'null';
-        var referrer = "null";
+        
+        
+        var referrer = window.location.href;
         var uri = url;
 
         if(uri == null) {
@@ -3601,9 +4022,9 @@ $(function(){
 <script>
 
     function doReady() {
-       // loadJSFile('http://is4.revolveclothing.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/ready.js', true);
+       // loadJSFile('http://is4.revolveclothing.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/ready.js', true);
 
-       // loadJSFile('http://is4.revolveclothing.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/vendor/jquery.rating.pack.js', true);
+       // loadJSFile('http://is4.revolveclothing.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/vendor/jquery.rating.pack.js', true);
 
        
 
@@ -3611,8 +4032,8 @@ $(function(){
                     insertPageTrack();
 
                 
-        insertGoogleAnalytics();
-        
+                insertGoogleAnalytics();
+                
 
         $("#colorbox").addClass("colorbox");
         var link = "/r/infoSecurity.jsp";
@@ -3646,15 +4067,12 @@ $(function(){
             
 		
 
+        insertCordial();
 		
 liveChat();
 
 
-
-		
-
-		
-		insertConvertro();
+        
 		insertYandexMetrika();
 		insertNaver();
 		insertFacebook();
@@ -3665,41 +4083,43 @@ liveChat();
                 
         insertPiwiksPageView();
 		insertFitUtil();
-// 		temporary disable to check FB conversion pixel
-
-        
         insertCriteo();
-        
-
-		insertGooglePlus();
 		insertWeibo();
-		insertNanigans();
         insertTellApart();
-		insertBloomReach();
 		insertVk();  // russian facebook
         insertGoogleRemarketing();
         insertBing();
         insertTwitter();
+
         //insertAdmitadTechPixel();
         
+                    insertBloomReach();
+               
+                    insertNanigans();
+               
+                    insertGooglePlus();
+               
+                    insertStylightPixel();
+               
+                    insertPinterestPageView();
+                
                     insertAdmitadTechPixel();
                 
-        insertGoogleTagManager();
+                    insertGoogleTagManager();
 
-        if(typeof insertGoogleTagManagerForBloomReach == 'function') {
-            insertGoogleTagManagerForBloomReach();
-        }
-        
+                    if(typeof insertGoogleTagManagerForBloomReach == 'function') {
+                        insertGoogleTagManagerForBloomReach();
+                    }
+                
                     insertSkimLinks();
                 
                     insertFacebookLikeButton();
                 
                     realUserMonitoring();
                 
-        loadPdpRevolveMe();
-        
                     loadBamx();
                 
+        loadPdpRevolveMe();
 
 
 }
@@ -3723,29 +4143,70 @@ $(window).load(function() {
 <div id="live-chat-es" data-live-chat-es="true"></div>
 <div id="live-chat-ko" data-live-chat-ko="true"></div>
 <div id="live-chat-ru" data-live-chat-ru="true"></div>
+<div id="live-chat-ja" data-live-chat-ja="true"></div>
 
 <script>
+    // Cordial needs to attach itself to the document.body so it needs to be inside the body tag.
+    
+                (function () {
+                    var t = document.createElement('script');
+                    t.setAttribute("data-cordial-track-key", "revolve");
+                    t.setAttribute("data-cordial-url", "track.cordial.io");
+                    t.setAttribute("data-auto-track", false);
+                    t.src = 'https://track.cordial.io/track.js';
+                    t.async = true;
+                    document.body.appendChild(t);
+                })();
+            
 
-	
+    function insertCordial(code, name, categoryName, retailPrice, imageUrl) {
+        if(typeof(cordial) == 'undefined' || cordial == null) {
+            return;
+        }
+        
+                    var isProductPage = false || code != null;
+                    if(isProductPage) {
+                        var productIDValue = '';
+                        if(typeof(code) != 'undefined') {
+                            productIDValue = code;
+                        }
+                        var productValue = '';
+                        if(typeof(name) != 'undefined') {
+                            productValue = name;
+                        }
+                        var imageUrlValue = '';
+                        if(typeof(imageUrl) != 'undefined') {
+                            imageUrlValue = imageUrl;
+                        }
+
+                        cordial.event('browse',{
+                            'productID': productIDValue,
+                            'product': productValue,
+                            'pageType' : 'Product',
+                            'imageUrl' : imageUrlValue
+                        })
+                    } else if(false) {
+                        cordial.event('browse',{
+                            'category': '',
+                            'pageType' : ''
+                        })
+                    } else {
+                        cordial.event('browse',{'pageType' : ''});
+                    }
+                
+    }
 
     function insertGoogleAnalytics() {
         
         
                     debugOptimize();
                     console.log('debugOptimize before GA');
-                    var GA_JS_filename = 'https://is4.revolveassets.com/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/google_analytics.js';
+                    var GA_JS_filename = 'https://is4.revolveassets.com/r_ad48fbd3445764c23b2e9e00b34b3ce6acb2fa3a/js/google_analytics.js';
 //                     loadJSFile(GA_JS_filename, true);
 						console.log('ga_debug:'+GA_JS_filename);
 						$.getScript(GA_JS_filename);
         
     }
-
-
-	function insertConvertro() {
-
-			/*loadJSFile('/r_5d276d9b4ba60d50ec0420f67077dd306a850fe7/js/convertro.js', true);*/
-
-	}
 
 	function insertYandexMetrika() {
 
@@ -3810,7 +4271,7 @@ $(window).load(function() {
                             document,'script','//connect.facebook.net/en_US/fbevents.js');
                     // Insert Your Facebook Pixel ID below.
                      try {
-                        fbq('init', '506060012855760 ', {
+                        fbq('init', '506060012855760', {
                             em: '',
                             fn: '',
                             ln: '',
@@ -3866,7 +4327,6 @@ $(window).load(function() {
 
 	}
 
-
 	function insertCriteo() {
 
 			var st = document.createElement("script");
@@ -3921,6 +4381,17 @@ $(window).load(function() {
 
     }
 
+    function insertStylightPixel() {
+        
+        <!-- Stylight Analytics Snippet -->
+        (function(w,d,t,u,r,a,m){w['StylightAnalyticsRef']=r;w[r]=w[r]||function(){
+                    (w[r].q=w[r].q||[]).push(arguments)},w[r].s=new Date()/1;a=d.createElement(t),
+                m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//stats-bq.stylight.net/tracking.js?p=f1f8c0525930e6c78aae94360dc8a7ec','sty');
+        <!-- End Stylight Analytics Snippet -->
+        
+    }
+
     function insertAdmitadTechPixel() {
     	
 
@@ -3945,7 +4416,7 @@ $(window).load(function() {
 				    })()
 			 }
     }
-</script>
+</script><script data-cordial-track-key="revolve" data-cordial-url="track.cordial.io" data-auto-track="false" src="https://track.cordial.io/track.js" async=""></script>
 
 
 
@@ -4013,6 +4484,29 @@ $(window).load(function() {
 <noscript><img src="//bat.bing.com/action/0?ti=4003729&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 
 <script>
+    function insertPinterestPageView() {
+            try {
+                // initialization part
+                !function(e){if(!window.pintrk){window.pintrk=function()
+                {window.pintrk.queue.push(Array.prototype.slice.call(arguments))}
+                ;var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+                pintrk('load','2618198115964');
+                pintrk('page',
+                        { page_name: '/r/infoSecurity.jsp', page_category: '/r/infoSecurity.jsp'}
+                );
+                // end initialization
+
+                pintrk('track', 'pagevisit');
+            }
+            catch(err) {
+            }
+    }
+</script>
+<noscript>
+    <img src="https://ct.pinterest.com/v3/?tid=2618198115964=pagevisit&noscript=1" height="1" width="1" style="display:none;" alt="" />
+</noscript>
+
+<script>
     function insertGoogleRemarketing(){
 
 
@@ -4046,11 +4540,6 @@ $(window).load(function() {
 
     function insertFacebookAddToCart(cartTotal, productCode, price){
         
-                    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-                            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-                        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-                        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-                            document,'script','//connect.facebook.net/en_US/fbevents.js');
                     // Insert Your Facebook Pixel ID below.
                     try {
                         fbq('track', 'AddToCart', {
@@ -4067,6 +4556,48 @@ $(window).load(function() {
 
     function insertPiwiksAddToCart(cartItems, totalCartAmount) {
         
+    }
+
+    function insertCordialAddToCart(cartItems, totalCartAmount) {
+        if(typeof(cordial) == 'undefined' || cordial == null) {
+            return;
+        }
+        if(cartItems.length > 0) {
+            var cartItem = cartItems[0];
+            cordial.cartitem('add',{
+                'productID': cartItem.productCode,
+                'sku':cartItem.productCode,
+                'category':cartItem.productCategory,
+                'name':cartItem.productName,
+                'images':[cartItem.imageUrl],
+                'description':cartItem.description,
+                'qty': 1,
+                'itemPrice': cartItem.price,
+                'url':'',
+                'attr': {
+                    'manufacturer': cartItem.brandName,
+                    'size': cartItem.size
+                }
+            });
+
+            cordial.event('cartitem',{
+                'action': 'add',
+                'productID': cartItem.productCode,
+                'qty' : 1
+            });
+        }
+    }
+
+    function insertCordialUpdateHeartItem(action, productCode) {
+        if(typeof(cordial) == 'undefined' || cordial == null) {
+            return;
+        }
+
+        cordial.event('favoriteitem',{
+            'action': action,
+            'productID': productCode,
+            'qty' : 1
+        });
     }
 
 
@@ -4230,12 +4761,16 @@ $(window).load(function() {
     
 
     
+    
 </script>
 
 
 <!-- google tag manager start -->
         <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NGBTWT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- google tag manager end -->
+
+
+
 
 
 
@@ -4394,6 +4929,7 @@ liveChat();
 				keylist[58] = 'US|PRIVACY|CONDITIONS|BODY';
 				
 				var data = $.param({
+					csrf: 'HmFzPCthk9JrCFl5sWiZcfB7JIJhb256',
 					countrycode: cc,
 					language: lang,
 					keys: keylist
