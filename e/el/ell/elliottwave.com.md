@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120195249id_/http%3A//www.elliottwave.com/About/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliottwave.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616162028id_/http%3A//www.elliottwave.com/About/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy: Elliott Wave International
+# Privacy Policy :: Elliott Wave International
 
 Elliott Wave International (EWI) wants to provide you with a rewarding, informative and exciting visit to sites in the Elliott Wave Network as well as safeguard your privacy online. This privacy statement covers the websites of ElliottWave.com, Deflation.com and eWaves.com and is effective as of 7/24/2015. 
 
