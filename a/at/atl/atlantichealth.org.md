@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2015-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150509221911id_/http%3A//www.atlantichealth.org/atlantic/privacy%2Bpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantichealth.org privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616133339id_/http%3A//www.atlantichealth.org/atlantic/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -7,11 +7,11 @@ Atlantic Health System website is maintained by Atlantic Health System, 475 Sout
 **OUR COMMITMENT TO YOUR PRIVACY:**  
 We are dedicated to maintaining the privacy of your medical information. In conducting our services, we will create records regarding you and the treatment and services we provide to you (including records relating to psychiatric treatment, drug and alcohol treatment or abuse or HIV status, if any). These records are our property, however we are required by law to maintain the privacy of medical and health information about you and to provide you with a notice of our legal duties and privacy practices with respect to Protected Health Information.
 
-[Notice of Privacy Practices >](https://web.archive.org/Files/Public/Documents/Notice%20of%20Privacy%20Practices.pdf)  
-[Aviso Sobre Practicas De Privacidad >](https://web.archive.org/Files/Public/Documents/Aviso%20Sobre%20Practicas%20De%20Privacidad.pdf)
+[Notice of Privacy Practices >](https://web.archive.org/content/dam/atlantichealth/Public/Documents/Notice%20of%20Privacy%20Practices.pdf)  
+[Aviso Sobre Practicas De Privacidad >](https://web.archive.org/content/dam/atlantichealth/Public/Documents/Aviso%20Sobre%20Practicas%20De%20Privacidad.pdf)
 
 **HOW Atlantic Health System USES INFORMATION PROVIDED BY YOU:** **  
-**[www.atlantichealth.org](https://web.archive.org/atlantic) or any other Atlantic Health System site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. If you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment.
+**[www.atlantichealth.org](https://web.archive.org/atlantic.html) or any other Atlantic Health System site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals. If you choose to purchase items through our commerce site, we will forward your information to third parties for credit card processing and order fulfillment.
 
 Except for purposes outlined above, Atlantic Health System does not provide, sell or lease your personally identifiable information to any parties, unless otherwise stated at the time of collection. If you have any questions or concerns regarding what Atlantic Health System does with your information on any part of the Atlantic Health System website, send your question(s) to info@atlantichealth.org for answers, and wait for our response before you decide whether to submit any information. Atlantic Health System collects anonymous, aggregated data for internal market research and statistical purposes. You should be aware that when you voluntarily disclose personally identifiable information (e.g., first and last name, address, email address, etc.) in Atlantic Health System's "Online Community" or Guest Book, that information can be collected and used by others and may result in unsolicited messages from other posters or parties.
 
