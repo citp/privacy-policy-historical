@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poshdressup.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219043923id_/http%3A//www.cutezee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poshdressup.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616161321id_/http%3A//www.cutezee.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, TOS | Cutezee.com
 
@@ -35,9 +35,9 @@ All the games published on this portal together with the Intellectual Property b
 
 Pursuant to Section 512(c) of the Copyright Revision Act, as enacted through the Digital Millennium Copyright Act, www.Cutezee.com designates the following individual as its agent for receipt of notifications of claimed copyright infringement. By Email: contact [@] ideastudios.ro 
 
-**The Comment System**
+**Push Notifications**
 
-Cutezee.com uses the Disqus.com comment system. Disqus.com asks for one's email address ( depending on the login method: Facebook, Google, email ) in order to post comments. This data is automatically collected by Disqus.com (email, IP, username on Disqus.com) and is viewable by our moderators. All comments including weblinks are subject to human moderation and the system has bad words filtering enabled. 
+Cutezee.com uses the optional Onesignal.com push notification service to notify our users of new content. Users may opt-in and opt-out at any time via the little bell icon in the lower right corner of the page. For more information about the Privacy Policy of this service, please visit [OneSignal Privacy Policy](https://onesignal.com/privacy_policy/ "OneSignal Privacy Policy")
 
 **How We Use the Information**
 
