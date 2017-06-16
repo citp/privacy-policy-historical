@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytokri.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127193525id_/http%3A//www.mytokri.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytokri.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616020816id_/http%3A//www.mytokri.com/tos) for the most accurate reproduction.*
 
 # Mytokri Privacy Policy | Terms & Condition
 
@@ -73,3 +73,11 @@ Mytokri owns the rights to alter this policy anytime by posting notice of the pr
 Mytokri does not claim to be liable or favouring the information, products or services these sites offer. We are not associated or have any union with any site linked to MyTokri in any way. All material on Mytokri is given only for the purpose of general information.
 
 The policies and the statement summarized here are not proposed to and do not make any legal or contractual rights in or to represent any party.
+
+### Stay Tuned
+
+Stay updated with our new deals and coupons
+
+We respect your privacy
+
+[Scroll To Top]( "Scroll To Top")
