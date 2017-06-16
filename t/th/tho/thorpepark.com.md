@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106230005id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616081228id_/https%3A//www.thorpepark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for THORPEPARK.com Website
 
@@ -74,4 +74,4 @@ Any changes we may make to our privacy policy in the future will be posted on t
 
 **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [comments@merlinentertainmenrts.biz](mailto:comments@merlinentertainmenrts.biz)
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customer.services@thorpe-park.co.uk](mailto:customer.services@thorpe-park.co.uk)
