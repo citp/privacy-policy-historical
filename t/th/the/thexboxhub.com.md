@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thexboxhub.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608010408id_/http%3A//www.thexboxhub.com/thexboxhub-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thexboxhub.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616221138id_/http%3A//www.thexboxhub.com/thexboxhub-privacy-policy) for the most accurate reproduction.*
 
 # TheXboxHub, Privacy Policy | TheXboxHub
 
