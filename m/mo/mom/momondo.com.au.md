@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the momondo.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124062543id_/http%3A//www.momondo.com.au/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momondo.com.au privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616104415id_/http%3A//www.momondo.com.au/content/privacy) for the most accurate reproduction.*
 
-# Momondo.com
+# Privacy | momondo
 
 ### Introduction
 
@@ -12,7 +12,7 @@ This policy applies to the momondo websites and mobile applications (the apps) i
 
 ### Information about us
 
-Momondo A/S is registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Amagertorv 19, 2. 1160 Copenhagen K, Denmark.
+Momondo A/S is registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Løvstræde 1, DK-1152 Copenhagen K, Denmark.
 
 ### Information collection
 
@@ -108,7 +108,7 @@ momondo may update this policy. We will notify you about significant changes in 
 
 ### Owner information
 
-The momondo website is provided by Momondo A/S. We are registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Amagertorv 19, 2. 1160 Copenhagen K, Denmark.
+The momondo website is provided by Momondo A/S. We are registered in Denmark under company number 20181397. The address of our registered office and principal place of business is Løvstræde 1, DK-1152 Copenhagen K, Danmark.
 
 ### Cookies
 
