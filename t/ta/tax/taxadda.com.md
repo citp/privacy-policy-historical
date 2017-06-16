@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxadda.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125191121id_/http%3A//taxadda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxadda.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616172819id_/http%3A//taxadda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxAdda
 
@@ -55,8 +55,3 @@ The web site contains links to other websites not owned by the owner of this web
 If You Have Any Questions, Concerns, Or Comments About Our Privacy Policy Or [Terms And Conditions](http://taxadda.com/terms-use/) You May [Contact Us](http://taxadda.com/contact-us/).
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
-
-  * Something missing? Suggest to make it more helpful!
-  * No   Yes
-
-
