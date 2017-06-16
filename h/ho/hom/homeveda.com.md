@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeveda.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125233832id_/http%3A//www.homeveda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeveda.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616123159id_/http%3A//www.homeveda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Homeveda
 
@@ -48,4 +48,4 @@ We will not disclose any ‘Personal Information’ about you unless you specifi
 
 **How to contact us with questions or concerns**
 
-Please send us an email using the [Contact Us](http://www.homeveda.com//contact# "Click to open in new window") page. 
+Please send us an email using the [Contact Us](http://www.homeveda.com//contact#) page. 
