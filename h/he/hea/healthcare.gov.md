@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221173352id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcare.gov privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616175153id_/https%3A//www.healthcare.gov/privacy) for the most accurate reproduction.*
 
 # Privacy | HealthCare.gov
 
