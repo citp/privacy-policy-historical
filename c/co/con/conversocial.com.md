@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conversocial.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203210814id_/http%3A//www.conversocial.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversocial.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616042841id_/http%3A//www.conversocial.com/privacy-policy) for the most accurate reproduction.*
 
 # Conversocial - Social Customer Service | Privacy Policy
 
-This privacy policy sets out how Conversocial Ltd uses and protects any information that you give Conversocial (UK) Ltd when you use this website. Conversocial Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Conversocial Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from the 1st of February, 2012.
+This privacy policy sets out how we use and protect any information that you give Conversocial (UK) or Conversocial Inc. (together “Conversocial”) when you use this website. Conversocial is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Conversocial may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from the 17th March 2017.
 
 ### What we collect
 
@@ -38,6 +38,16 @@ We require this information to understand your needs and provide you with a bett
 
 
 
+### Sharing of information collected
+
+We will limit disclosure of your Personal Information to any third parties as far as possible – and only disclose such information to third parties and for the purposes as provided for below.
+
+Trusted Third Parties: we may employ other companies and people to perform tasks on our behalf and may need to share your information to facilitate our Services, including for analytics, hosting and to assist us with technical and administrative aspects of the Service (including credit card processing), and for general improvement of the Services.
+
+Law Enforcement: to the extent permitted by applicable law, we may disclose information where it is necessary in order to investigate, prevent, or take action regarding illegal activities and to meet national security and law enforcement requirements (including cooperating with governmental authorities regarding the investigation of illegal activities), suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required by law.
+
+Business Transfers: The only other scenarios in which we may otherwise share your Personal Information is if our company is substantially acquired by a third party, in which case your Personal Information may form part of that transfer.
+
 ### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
@@ -62,3 +72,29 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please [contact us](mailto:support@conversocial.com). If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+### Privacy Shield
+
+Conversocial complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Conversocial has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+### Disputes
+
+In compliance with the Privacy Shield Principles, Conversocial commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact Conversocial at privacy@conversocial.com. If contacting us does not resolve your complaint, you may file a complaint, free of charge, with the [EU Data Protection Authorities (EU DPAs)](http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+
+Conversocial has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
+
+### Binding Arbitration
+
+Further, as explained in the [Privacy Shield Principles](https://www.commerce.gov/sites/commerce.gov/files/media/files/2016/eu_us_privacy_shield_full_text.pdf.pdf), a binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
+
+### Enforcement
+
+Conversocial is subject to the investigatory and enforcement powers of the Federal Trade Commission, Department of Transportation and any other US authorized statutory body.
+
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Conversocial is potentially liable.
+
+### Your Rights
+
+You can contact the email address below to request access to the Personal Information we hold, subject to us validating your identity.You can also contact us if your Personal Information changes or if you no longer wish to be contacted regarding our Services.
+
+To request access to your personal information, correct, update, or delete inaccurate data, or to file a privacy complaint, please email our Privacy Officer at: [privacy@conversocial.com](mailto:privacy@conversocial.com)
