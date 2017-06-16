@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the porntrex.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229073144id_/http%3A//www.porntrex.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porntrex.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617011033id_/https%3A//www.porntrex.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PornTrex | Best Free HD Porn Videos, Premium Porn Tube Movies
-
-[вечернее платье](http://sofiyas.com/shop/category/platia) [женская одежда Казахстан](http://sofiyas.com.ua/)
+# Privacy Policy
 
 This document details important information regarding the use and disclosure of User Data collected on porntrex.com 
 
 The security of your Data is very important to porntrex.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
 
 This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
-
-DATA COLLECTED
 
   * Personal Information:   
 
@@ -22,9 +18,6 @@ DATA COLLECTED
   * Emails: If you contact us, we may keep a record of that correspondence. 
 
 
-
-USES
-
   * Your Personally identifiable information submitted to porntrex.com is used to provide to the user the website's features and special personalized features. 
   * Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the porntrex.com private mail, etc. Other Users can contact you through, private messages. 
   * Any videos that you submit to porntrex.com may be redistributed through the internet and other media channels, and may be viewed by the general public. 
@@ -35,21 +28,14 @@ USES
   * We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the porntrex.com user-experience. 
 
 
-
-DISCLOSURE OF INFORMATION
-
   * if under duty to do so porntrex.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of porntrex.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is porntrex.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
   * Should you deliberately upload any illegal material porntrex.com shall forward all available information to all relevant authorities and this without notice.   
 \- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
 
 
-SECURITY
-
 Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
 
 Unfortunately, the transmission of information via the Internet is not completely secure. porntrex.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to porntrex.com and you do so at your own risk. 
-
-YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section.
