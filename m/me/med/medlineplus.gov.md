@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129224006id_/https%3A//medlineplus.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616111205id_/https%3A//medlineplus.gov/privacy.html) for the most accurate reproduction.*
 
 # MedlinePlus: Privacy Policy
 
@@ -19,7 +19,7 @@ This information is used to measure the number of visitors to the various sectio
 
 If your electronic medical record (EMR), patient health record (PHR) or other system links you to MedlinePlus, your diagnosis codes or other information, such as medications or procedures names, are sent to our site in order to link you to the most appropriate information. No personally identifiable information is collected in this process. We may review information in order to make improvements to our site and better meet user needs, but such information is reviewed at an aggregated level. 
 
-When you visit any Web site, it may place a small text file, known as a "cookie" on your computer. The cookie allows the Web site to "remember" specific information about your visit while you are connected or when you return to that site. The Office of Management and Budget Memo M-10-22, [ Guidance for Online Use of Web Measurement and Customization Technologies](http://www.whitehouse.gov/omb/asset.aspx?AssetId=2774), (PDF*, 1.03MB), 6/25/10, allows Federal agencies to use session and persistent cookies, defined below. 
+When you visit any Web site, it may place a small text file, known as a "cookie" on your computer. The cookie allows the Web site to "remember" specific information about your visit while you are connected or when you return to that site. The Office of Management and Budget Memo M-10-22, [ Guidance for Online Use of Web Measurement and Customization Technologies](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2010/m10-22.pdf), (PDF*, 1.03MB), 6/25/10, allows Federal agencies to use session and persistent cookies, defined below. 
 
 The cookie makes it easier for you to use the dynamic features of Web pages. Cookies from NLM Web pages only collect information about your browser's visit to the site; they do not collect personal information about you. While visiting certain NLM sites, you may occasionally encounter a Web page that automatically employs cookies to make it easier to use the dynamic features of these Web pages. 
 
