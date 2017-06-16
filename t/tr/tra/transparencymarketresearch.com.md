@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transparencymarketresearch.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122173949id_/http%3A//www.transparencymarketresearch.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparencymarketresearch.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616130838id_/http%3A//www.transparencymarketresearch.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy & Statement | Transparency Market Research
 
