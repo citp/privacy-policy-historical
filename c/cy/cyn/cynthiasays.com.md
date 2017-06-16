@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023112108id_/https%3A//www.cryptzone.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cynthiasays.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616111102id_/https%3A//www.cryptzone.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy/Legal
 
 ## Privacy Policy / Terms of Service and License Agreement / Support and Maintenance Agreement
 
   * ****Privacy Policy
-  * ****[Hosting Services General Terms and Conditions](https://web.archive.org/legal/hosting-services-general-terms-and-conditions)
-  * [Software License and Support General Terms and Conditions](https://web.archive.org/legal/software-license-and-support-general-terms-and-conditions)
-  * [Support and Maintenance Terms and Conditions  
-](https://web.archive.org/legal/cryptzone-support-and-maintenance-terms-and-conditions)
+  * [Cryptzone End User License Agreement (EULA)](https://web.archive.org/legal/cryptzone-end-user-license-agreement-eula)
+  * [Cryptzone Support Terms](https://web.archive.org/legal/cryptzone-support-terms) ****
 
 
 
@@ -83,7 +81,7 @@ To assist us in managing the company's security, the security of our on-line ser
 
 ### 8\. Removal of Personal Information
 
-In the event that you wish your personal information to be removed from our web-based databases then please write to us at [info@cryptzone.com](mailto:info@cryptzone.com). 
+In the event that you wish your personal information to be removed from our web-based databases then please write to us at [info@cryptzone.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=info@cryptzone.com). 
 
 In the event that you wish your personal information to be removed from any other of our databases then please write to: 
 
