@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208083546id_/http%3A//www.ontheclock.com/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheclock.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617010532id_/http%3A//www.ontheclock.com/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - OnTheClock.com
 
@@ -61,4 +61,4 @@ If you believe we have not complied with our stated privacy policy concerning ou
 
 **To Sum It Up  
 **   
-Our primary go is to give our customers the best web clock system. We are not interested in collecting or selling your information, only in providing the best online time clock system in the world.
+Our primary goal is to give our customers the best web clock system. We are not interested in collecting or selling your information, only in providing the best online time clock system in the world.
