@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playrustwiki.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121010101id_/http%3A//playrustwiki.com/wiki/Play_Rust_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playrustwiki.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616133035id_/http%3A//playrustwiki.com/wiki/Play_Rust_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Play Rust Wiki:Privacy policy - Play Rust Wiki
 
