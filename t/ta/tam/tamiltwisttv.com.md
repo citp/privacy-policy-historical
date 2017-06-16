@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tamiltwisttv.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728022356id_/http%3A//www.tamiltwisthd.com/2013/01/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiltwisttv.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616023353id_/http%3A//tamiltwistgo.com/2013/01/privacy-policy) for the most accurate reproduction.*
 
-# » Privacy Policy
+# Privacy Policy | Watch Tamil Serials and Tamil TV Shows Online
 
 **_Privacy Policy_**
 
