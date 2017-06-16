@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the actcorp.in privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211090559id_/http%3A//www.actcorp.in/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actcorp.in privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616224704id_/http%3A//www.actcorp.in/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ACT Broadband | ACT CORP
 
-What This Privacy Policy Covers?
+### What This Privacy Policy Covers?
 
 This policy covers how Atria Convergence Technologies Private Limited ("Company") treats personal information that the Company collects and receives, including information related to your past use of the Company's products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number etc.
 
