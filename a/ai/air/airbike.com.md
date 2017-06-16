@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airbike.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063344id_/http%3A//www.airbike.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airbike.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616103321id_/http%3A//www.airbike.com/privacy-policy) for the most accurate reproduction.*
 
-# Air Bike – Offical Site Privacy Policy Air Bike – Offical Site
+# AIRBIKE – Original Airbike Products Privacy Policy
 
-Airbike, does not declare, sell, share or abuse any of the personal information and e-mail addresses of its members and clients under no name, for any reasons and to any third parties.
+Airbike owned by Metem International BV, does not declare, sell, share or abuse any of the personal information and e-mail addresses of its members and clients under no name, for any reasons and to any third parties.
 
-Airbike, does not keep any credit card information and consequently it does not ask or demand such information within the scope of the membership procedures. During the shopping process nobody, including any of the Airbike employees, may be able to see your Credit Card information and the Credit Card information are transmitted to the relevant banks through the most secure dual connection systems.
+Airbik, does not keep any credit card information and consequently it does not ask or demand such information within the scope of the membership procedures. During the shopping process nobody, including any of the Airbike employees, may be able to see your Credit Card information and the Credit Card information are transmitted to the relevant banks through the most secure dual connection systems.
 
 In order to follow the shopping carts and to prevent the consecutive pop up of the same advertisement in our website, it is made benefit of the IP addresses and Cookies. It is made benefit of the Cookies to store the password in order to eliminate the necessity of entering them again and again and also to offer a customized content in accordance with the personal interests of the clients.
 
