@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219032518id_/http%3A//www.jackwills.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackwills.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616154803id_/http%3A//www.jackwills.com/privacy%2Bpolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Jack Wills
 
@@ -18,15 +18,7 @@ When you register, we will provide a link to the Privacy Policy and consent butt
 
 At all times, we will offer you the opportunity to opt-out of any service to which you have subscribed. Any e-mail we send you will contain an easy automated opt-out link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. It is not the Company's current policy to share its customers' personal details with third parties other than as stated herein.
 
-Should you choose to have your name and personal data removed from our database all together, you can do so by sending an email to **[jack@jackwills.com](mailto:jack@jackwills.com)** or by writing to us at:
-
-  * Jack Wills (handbook opt out):
-  * Unit 4 Greenford Park
-  * Ockham Drive
-  * Greenford
-  * UB6 0FD
-
-
+Should you choose to have your name and personal data removed from our database all together, you can do so by sending an email to **[jack@jackwills.com](mailto:jack@jackwills.com)** or by contacting customer services on 0333 014 2020.
 
 ## SECURITY
 
