@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220091433id_/http%3A//deerfield.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deerfield.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616170653id_/http%3A//deerfield.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Deerfield Management > PrivacyPolicy
 
@@ -10,6 +10,7 @@ Collection of Information
 
   1. _Information collected automatically._ Deerfield may collect information about you using automated methods when you visit the Site. That information may include non-personally identifiable information such as your computer's or mobile device’s IP address or other unique identifier, your domain server, your type of computer or mobile device, your type of web browser, and statistical information regarding the pages that you visit, as well as the items viewed on the Site.
   2. _Information collected using “cookies”._ Deerfield may collect information about you through cookies. “Cookies” are pieces of information that the Site sends to your device while you are visiting and using the Site. These pieces of information allow the Site to remember important information that will make your use of the Site more useful and efficient. You can choose to have your device warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Safari, Firefox or Internet Explorer) settings. Each browser is a little different, so look at your browser Help Menu to learn the correct way to modify your cookies.
+  3. _Personally Identifiable Information._ Deerfield may collect Personally Identifiable Information (“PII”) about you. PII is information that identifies you as an individual, such as your name, address, telephone number, email address, etc. Deerfield collects PII from you, for example, when you subscribe to receive newsletters, publications or other materials from Deerfield.
 
 
 
@@ -22,6 +23,8 @@ Use and Disclosure of Information
 Deerfield may use the general information we collect about your through your use of the Site in the aggregate to better understand general usage of the Site and to improve the Site, our products and services.
 
 Deerfield may disclose such Site usage information as follows: (i) to third parties with whom Deerfield works to enhance the Site and services that Deerfield provides; (ii) to respond to a subpoena or court order, judicial process or regulatory inquiry; (iii) to protect or defend against fraud, law suits, claims or other liabilities; (iv) to protect the security of our systems, or to protect our rights or property; (v) in connection with a proposed or actual sale, merger, or transfer of all or a portion of Deerfield’s business; and (vi) to otherwise assist Deerfield in offering products and services.
+
+Deerfield may use your PII to respond to your requests, such as to send you publications or other information, and for other internal business purposes. Deerfield may share PII with affiliated and nonaffiliated third parties as follows: (i) as necessary to provide you with information or materials you request, (ii) to respond to a subpoena or court order, judicial process or regulatory inquiry; (iii) when required by applicable law, including laws outside your country of residence; (iv) to protect or defend against fraud, law suits, claims or other liabilities; (iv) to protect the security of our systems, or to protect our rights or property; (v) in connection with a proposed or actual sale, merger, or transfer of all or a portion of Deerfield’s business; and (vi) to otherwise assist Deerfield in offering products and services. Deerfield has no obligation to notify you of such disclosures, except as required by applicable law.
 
 Security Measures
 
@@ -43,4 +46,4 @@ Questions About This Privacy Policy
 
 If you have any questions about this Privacy Policy, please call Karen Heidelberger at 212-551-1600 or send an email to Karen Heidelberger at kheidelberger@deerfield.com or a letter to Deerfield Management Company, 780 Third Avenue, 37th floor, New York, New York 10017. 
 
-Last Updated: January 19, 2016
+Last Updated: December 27, 2016
