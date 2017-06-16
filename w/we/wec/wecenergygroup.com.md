@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wecenergygroup.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216112909id_/http%3A//www.wecenergygroup.com/home/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wecenergygroup.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616082313id_/https%3A//www.wecenergygroup.com/home/privacy-policy.htm) for the most accurate reproduction.*
 
 # WEC Privacy Policy
 
