@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kasamba.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223032946id_/http%3A//www.kasamba.com/lp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kasamba.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616045401id_/http%3A//www.kasamba.com/lp/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -99,7 +99,7 @@ If you use any message board, community (including any Advisor Services communit
 
   * Your California Privacy Rights. Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address referenced below.
 
-  * Children's Privacy. Kasamba does not encourage participation or visitation by children. Visitors who are known to be under the age of 16 are prohibited from becoming Members or Advisors. Kasamba does not knowingly collect personally identifiable information from children under the age of 16.
+  * Children's Privacy. Kasamba does not encourage participation or visitation by children. Visitors who are known to be under the age of 18 are prohibited from becoming Members or Advisors. Kasamba does not knowingly collect personally identifiable information from children under the age of 18.
 
 
 
