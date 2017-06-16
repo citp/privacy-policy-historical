@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyse.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220162659id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyse.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616140437id_/https%3A//www.intercontinentalexchange.com/privacy-policy) for the most accurate reproduction.*
 
 # Intercontinental Exchange: Privacy Policy
 
@@ -6,7 +6,7 @@ Intercontinental Exchange
 
 Privacy Policy
 
-Last Update: August 9, 2016
+Last Update: January 23, 2017
 
 This Website, (as applicable, www.theice.com, www.nyse.com, or www.intercontinentalexchange.com) is owned and operated by Intercontinental Exchange, Inc., a Delaware corporation. In this privacy policy, "ICE" ("us", "we" or "our") refers to Intercontinental Exchange, Inc. and our affiliates that link to this privacy policy. These affiliates include, but are not limited to Intercontinental Exchange Holdings, Inc., ICE Futures U.S., Inc., ICE Futures Europe, ICE Futures Canada, Inc., ICE Endex Markets B.V., ICE Clear U.S., Inc., ICE Clear Europe, ICE Clear Canada, Inc., ICE OTC, ICE Data Management Group, LLC, ICE Markets, Inc., ICE Markets Corporation, ICE Markets Limited, YellowJacket, Inc., Chatham Energy LLC, Creditex Group, Inc., ICE Benchmark Administration Limited, ICE Endex Holding BV, NYSE Holdings, LLC, NYSE Group, Inc., NYSE Arca, Inc., NYSE MKT LLC, NYSE Technologies, Inc., New York Stock Exchange, LLC, NYSE ARCA, L.L.C., Chicago Climate Exchange, Inc., ICE Data LLP, ICE Credit Hub, LLC, ICE Execution Services, LLC, ICE Processing, LLC, ICE Clear Credit, LLC, The Clearing Corporation, , Liffe Administration and Management, American Stock Exchange, LLC, Securities Industry Automation Corporation, NYBX, LLC, NYSE AMEX LLC, NYSE Board Member, LLC, Whentech LLC, and Corpedia Corporation. ICE respects the privacy of every individual who uses this Website. This privacy policy ("Privacy Policy") outlines the information we collect from the Website (as defined below) and how we use, disclose and otherwise manage that information, as well as the choices you have concerning such information. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE.
 
@@ -94,3 +94,5 @@ Under California's "Shine the Light" law, California residents who provide perso
 To obtain this information, please send an email message to [privacy@theice.com](mailto:privacy@theice.com%22) with "Request for California Privacy Information" on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response.
 
 Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response.
+
+[Click Here](https://web.archive.org/singapore-privacy-policy)
