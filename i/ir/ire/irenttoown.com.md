@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210084207id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irenttoown.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616192443id_/http%3A//www.irenttoown.com/us/privacy) for the most accurate reproduction.*
 
 # iRentToOwn.com Privacy Policy
 
@@ -116,4 +116,4 @@ This Privacy Policy may be updated from time to time, but the changes will not a
 
 We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website (iRentToOwn.com). Please check our website periodically for updates.
 
-© 2016 iRentToOwn.com. All rights reserved. 
+© 2017 iRentToOwn.com. All rights reserved. 
