@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134852id_/https%3A//employment.govt.nz/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.govt.nz privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616054052id_/https%3A//employment.govt.nz/about/privacy) for the most accurate reproduction.*
 
 # Privacy » Employment New Zealand
 
 ### No need to disclose personal information
 
-You can use [www.employment.govt.nz](https://employment.govt.nz/) without disclosing any personal information.
+You can use [www.employment.govt.nz](https://www.employment.govt.nz/) without disclosing any personal information.
 
 ### Voluntary disclosure of personal information
 
@@ -17,6 +17,8 @@ When you subscribe to one of our alerts or newsletters, the details you provide
 ### Collection of personal information
 
 MBIE may ask or require you to provide some personal information when you complete an online form (eg the contact us form). MBIE may require you to register your details with us in order to create or maintain an account or profile (eg Submitting a Record of Settlement to Employment Mediation Services). As part of our online processes there may be other information that is required to be supplied. Failing to provide such information may reduce or make unavailable some services we provide to you. 
+
+We may also ask you to voluntarily provide biographic data. Where you choose to do so, we will use it to understand the customers accessing our services and it may be shared with our team, enabling us to provide better services.
 
 ### Holding of information
 
