@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226102612id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616193937id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Honda Auto Leasing and Financing - Privacy Policy
 
