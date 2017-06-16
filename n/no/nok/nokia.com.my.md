@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nokia.com.my privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021203027id_/http%3A//company.nokia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.my privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616032256id_/http%3A//www.nokia.com/en_int/privacy) for the most accurate reproduction.*
 
 # Privacy | Nokia
 
 Effective as of April 2014
 
-##  We care about your privacy
+#### We care about your privacy
 
 Nokia Corporation, including its affiliates, is committed to respect your privacy and to comply with applicable data protection and privacy laws. This privacy policy (“Policy”) describes how we collect and use personal data where Nokia is the data controller or where we refer to the applicability of this Policy. “Personal data” means information relating to you or another identifiable individual.
 
@@ -14,12 +14,13 @@ Software on your device may access your information. Our products or services ma
 
 **If you do not agree with this Policy, do not use our products and services or provide Nokia with your personal data.**
 
-###  What Information Do We Collect?
+####   
+What Information Do We Collect?
 
 We collect your personal data and other information when you make a purchase, use or register into our products and services, take part in campaigns or research or otherwise interact with us. This includes following categories:
 
   * **Product and service activations** Nokia products and services may require electronic activation, where your device and application type, as well as unique device, application, network and subscription identifiers are sent to Nokia.
-  * **Use of products and services** When you access our services online, our web servers automatically create records of your visit. These records typically include IP-address, access times, the sites linked from, pages visited, the links and features used, the content viewed or requested, browser or application type, language and other such information. See also our [Cookie policy](https://web.archive.org/en/cookies). Our applications may contact our servers periodically, for example to check for updates or to send us information relating to service usage. Additionally, we may invite you to join voluntary product and service improvement or research programs where detailed information is collected. See Supplements to this Policy for more details.
+  * **Use of products and services** When you access our services online, our web servers automatically create records of your visit. These records typically include IP-address, access times, the sites linked from, pages visited, the links and features used, the content viewed or requested, browser or application type, language and other such information. See also our [Cookie policy](https://web.archive.org/web/20170616032256id_/http%3A//www.nokia.com/en_int/node/331). Our applications may contact our servers periodically, for example to check for updates or to send us information relating to service usage. Additionally, we may invite you to join voluntary product and service improvement or research programs where detailed information is collected. See Supplements to this Policy for more details.
   * **Information you provide us with** When you create an account, make a purchase, request services, participate in research or campaigns or otherwise interact with us, we may ask for information such as your name, email address, phone number, street address, user names and passwords, feedback, information relating to your devices, age, gender, and language, bank account number, credit card details and other such financial information.  We also maintain records of your consents, preferences and settings relating to, for example, location data, marketing and sharing of personal data.
   * **Your transactions with us** We maintain records of your purchases, downloads, the content you have provided us with, your requests, agreements between you and Nokia, the products and services provided to you, payment and delivery details, your contacts and communications and other interactions with us. We may, in accordance with applicable law, record your communication with our customer care or with other such contact points.
   * **Positioning and Location data** Location-based services establish location through the use of satellite, mobile, Wi-Fi or other network based positioning methods. These technologies may involve exchanging your location data and unique device and mobile, Wi-Fi or other network related identifiers with Nokia. Our products may operate on multiple device platforms, applications and services which may also collect your location data. We do not use this information to identify you personally without your consent.
@@ -28,7 +29,8 @@ We collect your personal data and other information when you make a purchase, us
 
 When you use our location based services and features, for example location based search, navigation and routing, or request for map data, your location data is sent to Nokia to serve you with the right content, which may also include location based advertising.
 
-###  Why Do We Process Personal Data?
+####   
+Why Do We Process Personal Data?
 
 Nokia may process your personal data for the following purposes. One or more purposes may apply simultaneously.
 
@@ -40,7 +42,8 @@ Nokia may process your personal data for the following purposes. One or more pur
 
 
 
-###  Do We Share Personal Data?
+####   
+Do We Share Personal Data?
 
 We do not sell, lease, rent or otherwise disclose your personal data to third parties unless otherwise stated below.
 
@@ -59,33 +62,39 @@ These authorized third parties are not permitted to use your personal data for a
 
 
 
-###  How Do We Address The Privacy of Children?
+####   
+How Do We Address The Privacy of Children?
 
 Nokia products and services are typically intended for general audiences. Nokia does not knowingly collect information of children without the consent of their parents or guardians. Nokia publishes safety guidelines for using internet services in our websites.
 
-###  How Do We Address Data Quality?
+####   
+How Do We Address Data Quality?
 
 We take reasonable steps to keep the personal data we possess accurate and to delete incorrect or unnecessary personal data.
 
 We encourage you to access your personal data through your account from time to time to ensure that it is up to date.
 
-###  What Steps Are Taken To Safeguard Personal Data?
+####   
+What Steps Are Taken To Safeguard Personal Data?
 
 Privacy and security are key considerations in the creation and delivery of our products and services. We have assigned specific responsibilities to address privacy and security related matters. We enforce our internal policies and guidelines through an appropriate selection of activities, including proactive and reactive risk management, security and privacy engineering, training and assessments. We take appropriate steps to address online security, physical security, risk of data loss and other such risks taking into consideration the risk represented by the processing and the nature of the data being protected. Also, we limit access to our data bases containing personal data to authorized persons having a justified need to access such information.
 
-###  How Do We Use Cookies and Web Beacons?
+####   
+How Do We Use Cookies and Web Beacons?
 
 Nokia uses cookies, web beacons and other similar technologies to operate and improve our websites and offering. We also use cookies for personalization and to display ads. Some Nokia websites use third party advertising technologies, such as DoubleClick, to serve ads.
 
-Our domains may include third party elements that set cookies on behalf of a third party, for example relating to third party social network. Please visit our [Cookie policy](https://web.archive.org/en/cookies) to find out more about how Nokia uses cookies and how you can disable cookies by browser settings or otherwise.
+Our domains may include third party elements that set cookies on behalf of a third party, for example relating to third party social network. Please visit our [Cookie policy](http://company.nokia.com/en/cookies) to find out more about how Nokia uses cookies and how you can disable cookies by browser settings or otherwise.
 
-###  What Are Your Rights?
+####   
+What Are Your Rights?
 
 You have a right to know what personal data we hold about you. You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated. You have a right to unsubscribe from direct marketing messages and to request that we stop processing your personal data for direct marketing purposes or on other compelling legal grounds. However, if you opt-out from marketing and other communications from Nokia, critical alerts may still be sent to you.
 
 You may exercise your rights by contacting us or by managing your account and choices through available profile management tools on your device and our services. In some cases, especially if you wish us to delete or stop processing your personal data, this may also mean that we may not be able to continue to provide the services to you.
 
-###  Who Is The Controller of Your Personal Data?
+####   
+Who Is The Controller of Your Personal Data?
 
 Nokia Corporation of Karaportti 3, 02610 Espoo, Finland is the controller of your personal data.
 
@@ -98,6 +107,7 @@ P.O.Box 226
 FI-00045 Nokia Group  
 Finland
 
-###  Changes to This Privacy Policy
+####   
+Changes to This Privacy Policy
 
 Nokia may from time to time change this Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Policy is changed in a material, adverse way, Nokia will post a notice advising of such change at the beginning of this Policy and on this site's home page for 30 days. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy.
