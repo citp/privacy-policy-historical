@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231000123id_/http%3A//www.dji.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dji.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616135526id_/http%3A//www.dji.com/policy) for the most accurate reproduction.*
 
 # DJI Privacy Policy - Everything You Need To Know
 
@@ -87,7 +87,7 @@ You may update, correct, or delete certain DJI account information and preferenc
 
 If you receive commercial email or text messages from us, you may unsubscribe at any time by following the instructions contained within the email or text message. You may also opt out from receiving commercial email or text messages from us by sending your request to us by email at support@dji.com.
 
-We use Google Analytics to collect and process certain analytics data; Google provides some additional privacy options described at [www.google.com/policies/privacy/partners](https://web.archive.org/web/20161231000123id_/http%3A//www.dji.com/www.google.com/policies/privacy/partners). We use Flurry by Yahoo! to collect and process certain analytics data; Flurry provides some additional privacy options described at <https://info.yahoo.com/privacy/us/yahoo>.
+We use Google Analytics to collect and process certain analytics data; Google provides some additional privacy options described at [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners/). We use Flurry by Yahoo! to collect and process certain analytics data; Flurry provides some additional privacy options described at <https://info.yahoo.com/privacy/us/yahoo>.
 
 ## Third-Party Services
 
