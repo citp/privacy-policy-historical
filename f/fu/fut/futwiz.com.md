@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futwiz.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224090619id_/http%3A//www.futwiz.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futwiz.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616222118id_/http%3A//www.futwiz.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FUTWIZ
 
