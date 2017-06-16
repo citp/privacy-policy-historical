@@ -1,65 +1,62 @@
-> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020194152id_/http%3A//www.mobisitegalore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobisitegalore.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616170345id_/http%3A//sitegalore.com/privacy-policy.html) for the most accurate reproduction.*
 
-# mobiSiteGalore - Build your own mobile website that looks great on all phones!
+# White Labeled Website Builder - Privacy Policy - SiteGalore
 
-This Privacy Statement governs the manner in which mobiSiteGalore ("mobiSiteGalore" or "we") collects, uses, maintains and discloses information collected from customers in connection with mobiSiteGalore web services including web hosting, secure certificates, E-Commerce Solutions, and other internet services. mobiSiteGalore reserves the right to change this Privacy Statement and its policies prospectively at any time, subject to applicable laws and regulations, by posting notice of such changes on its web sites.
+Akmin Technologies Private Limited ("AKMIN") recognizes the importance of protecting the privacy of all information provided by users and customers of our websites, apps and services. We created this policy with a fundamental respect for our user´s right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products, apps and services owned by AKMIN. A current list of web sites can be found at [http://www.akmin.com](http://www.akmin.com/)
 
-**Privacy:**  
-mobiSiteGalore is committed to safeguarding the information its customers entrust to it. mobiSiteGalore believes in the Safe Harbor principles published by the U.S. Department of Commerce. <http://www.export.gov/safeharbor/sh_documents.html>
+There are many different ways you can use our services - to evaluate our service, to use our apps, to read content, to give feedback, to register for our service etc. When you share information with us like your email address, Unique Device identifiers etc, it helps us in the identification of a particular user, so that we can make those services even better - to show you more relevant content, to help the users receive more relevant information etc.
 
-**The Personal Information We Collect:**  
-mobiSiteGalore may collect personally identifiable information from customers in a variety of ways, including online and offline subscription and order forms, paper or telephone submissions, and other instances where customers are invited to volunteer such information. Additionally, contact information may be collected during any correspondence relating to customer support, as well as in connection with products and services offered on mobiSiteGalore sites. We may collect your name, business name and type, address, phone number, email address, domain details, websites url, billing information including credit card number and expiration date. We only use your name, address, billing information/credit card information to process your order. The addresses are used for customer support, required notifications, product and policy updates and marketing releases. Under no circumstances will we use this information for anything else not described in this privacy notice. All users may at any time opt-out of our marketing by clicking the unsubscribe link located at the bottom of all marketing and membership notices.
+#### Information We Collect and How We Use
 
-**Financial Information:**  
-Whenever customers apply for services or sign up for any other product or service through mobiSiteGalore, we may require financial information such as a credit card number and billing address before we will process that application. We will not sell, share or rent any financial information collected except as disclosed in this policy or as necessary to fulfill orders. 
+In this section of our privacy policy, we will describe the type of information we collect and how we use it to provide better services to our customers.
 
-**Internet Protocol (IP) Addresses:**  
-IP addresses are collected from all visitors to the mobiSiteGalore Site. IP addresses are used to administer the daily operations of our site, to help diagnose problems with our servers, and to help prevent fraud.
+**Device information**  
+We collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Akmin may associate your device identifiers or phone number with your Account for the apps or service that you have signed for with Akmin.
 
-**Data Integrity:**  
-We make diligent efforts to maintain accurate information on our customers. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, mobiSiteGalore has put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect. 
+**Registration**  
+When evaluating some of our products online, users must first register. During registration, users are required to give their contact information (such as name, e-mail address, mailing address and phone number). We also may collect demographic information (such as job title and purchasing responsibilities, company information and professional certification). For internal purposes, we use this information to communicate with users and provide requested services, and, for our website visitors, to provide a more personalized experience on our sites. We use aggregate demographic information about our audience to improve our service, for marketing purposes and/or industry reporting purposes.
 
-**Data Security:**  
-mobiSiteGalore has put stringent security procedures in place to protect information collected about our customers. We constantly monitor our systems, which are protected using industry-standard security measures. Secure Sockets Layer ("SSL") connections are used to communicate to our system to protect Customer financial information as well as encrypting vital information that customers input through mobiSiteGalore's web sites. However, mobiSiteGalore cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
+**Communications with Us:**  
+We have features where users can submit information to us (such as our feedback forms). Requests for service, support or information may be forwarded as needed to best respond to a specific request. We may retain e-mails and other information sent to us for our internal administrative purposes, and to help us to serve customers better.
 
-**Data Access:**  
-Customers may access all personal identifiable information that we collect and maintain by contacting customer support 24/7. They can correct factual errors in personally identifiable information by sending us a request to our support department, [helpdesk@mobiSiteGalore.com](mailto:helpdesk@mobisitegalore.com). To protect Customer privacy and security, mobiSiteGalore reserves the right to take reasonable steps to verify Customer identity prior to granting access or processing changes or corrections. 
+**Communications from Us: Service Updates, Special Offers**  
+In order to best serve our customers, we may send updates that contain important information about our sites and services. For example, we send new members a welcoming message, and verify password and username for our password-protected sites. We may also communicate with a user to provide requested services and for account-related issues via e-mail, phone or regular mail. 
 
-**Cookies:**  
-mobiSiteGalore uses "cookie" technology in order to enhance our Clients' online experience and for authentication purposes, associating them with your personally identifiable information. They are also used for measuring certain traffic patterns, and to preclude you from having to re-enter your password during multiple visits to the site. Additionally, cookies can track your progress in online promotions so you receive coupons that may be available to you. Cookies may also be used by advertising service vendors that place ads on our site and to authenticate access to additional services provided by mobiSiteGalore at other web sites. Web browsers may be set to disable cookies, but please note that certain mobiSiteGalore services may not function correctly if cookies are not enabled.
+**Automatic Data Collection**  
+Our web sites have features that automatically collect information from users, to deliver content specific to user´s interests and to honor their preferences. This information assists us in creating sites that will serve the needs of our users. 
 
-**How Information is Used:**  
-mobiSiteGalore may contact customers regarding products and services offered by mobiSiteGalore and its trusted affiliates, business partners, and independent contractors. We may also use information collected through our Web site for research regarding the effectiveness of the Web site and related marketing, advertising and sales efforts. Information will only be made publicly available where mandated by governing agencies or as disclosed in the terms and conditions of our agreements with customers. We will not post any testimonials or comments made by our clients without their explicit permission. 
+For our internal purposes, we gather date, time, browser type, navigation history and IP address of visitors to our site. This information does not contain anything that can identify users personally. We use this information for our internal security audit log, trend analysis and system administration, and to gather broad demographic information about our user base for aggregate use. 
 
-**Electronic Mail:**  
-Electronic communications may be sent by mobiSiteGalore using customers' personal contact information to inform them of important industry news or about general services and upgrades provided by mobiSiteGalore. If customers do not wish to receive these industry notices, they can contact their account manager. However, in order to fulfill our service obligations, mobiSiteGalore will continue to send emails regarding Customers' account administration or service interruptions for system maintenance. 
+We may combine demographic information supplied by a subscriber at registration with site usage data to provide general profiles, in aggregate non-personally identifiable form, about our users and their preferences in the content of the site and advertising. We may share this composite information with our advertisers and business affiliates to help them better understand our services.
 
-**Disclosure:**  
-Information collected from customers may be disclosed to independent contractors and business partners who have agreed to hold this information in confidence, not use it for any purpose except to carry out the service they are providing for mobiSiteGalore, and honor our privacy and security policies in the way this information is handled. mobiSiteGalore may also disclose aggregate, anonymous data based on information collected from customers to actual or prospective investors and partners. Should a sale of mobiSiteGalore's business ever occur, collected Customer information may be transferred along with the sale but the information will be treated in the same manner as this privacy policy.
+#### With whom your Information is Shared
 
-**3rd Party:**  
-If you opt to order third-party products or services made available through our site, we may fill in blanks on the order form for your convenience, using account data that you have previously provided us. This data is displayed for your review before the form is submitted, and you will have the option to delete or modify it before the data is sent. When you click to place your order, the data will be sent those 3rd parties. These 3rd parties have agreed to hold this information in confidence, not use it for any purpose except to carry out the service they are providing us, and honor our organization's privacy and security policies in the way this information is handled. mobiSiteGalore does screen and choose its business partners and affiliates with our privacy goals in mind.
+We do not share personally identifiable information with other companies, apart from those acting as our agents in providing our product(s)/service(s), and which agree to use it only for that purpose and to keep the information secure and confidential. Also, our parent, subsidiary and affiliate companies, entities into which our company may be merged, or entities to which any of our assets, products, sites or operations may be transferred, will be able to use personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency´s request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. 
 
-**Miscellaneous Information:**  
-Certain additional non-personal types of information are collected and stored whenever customers interact with us. This information is collected to better develop and offer those products and services which are most desired within our industry. For example, our servers track the page to which customers link from mobiSiteGalore and the type of Web browser used. No personally identifiable information will be linked to this aggregated information, which may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. 
+We may share aggregate information, which is not personally identifiable, with others. This information may include usage and demographic data, but it will not include personal information. When you contact Akmin, we keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 
-**Protection of mobiSiteGalore and Others:**  
-Account and other personal information may be released when we are required to do so by law, court order, law enforcement authority or regulatory agency. 
+#### Correction/Updating Personal Information
 
-**Sites Other Than mobiSiteGalore:**  
-We strongly recommend that Customers review the privacy statement and policies of any online service prior to submitting personal information. mobiSiteGalore has no control over and is not responsible for the gathering practices of other Web sites, including those to which we may link and those which may link to us. 
+If a user´s personally identifiable information changes (such as zip code), or if a user no longer desires our product(s)/service(s), we provide a way to correct or update that user´s personal data. The user should contact Customer Support for the applicable Product, App or Service.
 
-**Enforcement:**  
-To better protect customer privacy we closely monitor our privacy practices and privacy statements through in-house automated and manual procedures.
+#### Security
 
-**Conditions of Use, Concerns:**  
-By choosing to visit and interact with mobiSiteGalore web sites, customers agree that their visit and any dispute regarding the protection of their privacy during such visit is subject to this Privacy Statement including, but not limited to, the provisions regarding limitations on damages and the application of the law of the city of Chennai, in Tamil Nadu, India. Please note that if customers enter into other contractual agreements with mobiSiteGalore, privacy terms and conditions of such other agreements may supplement or supersede this policy. Questions and concerns about privacy at mobiSiteGalore should be directed to [info@mobiSiteGalore.com](mailto:info@mobisitegalore.com).
+We use reasonable precautions to protect our user´s personal information and to store it securely. Sensitive information that is transmitted online is encoded or encrypted and is transmitted to us securely. We encrypt some of our services using SSL. In addition, access to all of our user´s information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. Finally, the servers on which we store personally identifiable information are kept in a secure environment.
 
-**Revisions or Changes:**  
-Regardless of later updates or changes to our privacy notice, we will never use the information you submit under our current privacy notice in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
+#### Links
 
-**How to Contact Us:**  
-Should questions concerning this privacy policy arise, please send us an email at [info@mobisitegalore.com](mailto:info@mobisitegalore.com). Please specify "Privacy Statement" in the subject line of the e-mail.
+Our web sites contain links to other sites. AKMIN is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site to which we may link that may collect personally identifiable information.
 
-mobiSiteGalore.com   
-Effective Date January 20, 2006
+#### Notification and Changes
+
+If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
+
+For questions about this privacy statement, the practices of this site or any dealings with Akmin Technologies Private Limited, contact us at:
+
+#### CORPORATE COMMUNICATIONS 
+
+**Akmin Technologies Private Limited**  
+No 56, Ramamurthy Avenue,  
+Sakthi Nagar,  
+Porur,  
+Chennai 600116 . INDIA 
