@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211095545id_/http%3A//crossborder.fedex.com/us/assets/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616021624id_/http%3A//crossborder.fedex.com/us/assets/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,7 +59,7 @@ We also use certain information to:
 
 Your browser may give you the ability to control cookies. How you do so depends on your browser and the type of cookie. Certain browsers can be set to reject all browser cookies. If you configure your computer to block all cookies, you may disrupt certain web page features and limit the functionality we can provide when you visit or use our Sites. If you block or delete cookies, not all of the tracking that we have described in this policy will stop. Some browsers have a "Do Not Track" feature that lets you tell websites that you do not want to have your online activities tracked. These browser features are still not uniform, so we are not currently set up to respond to those signals. 
 
-For more information on our tracking tools, please see our [Cookie Policy](https://web.archive.org/web/20161211095545id_/http%3A//crossborder.fedex.com/us/assets/cookie_policy.shtml).
+For more information on our tracking tools, please see our [Cookie Policy](https://web.archive.org/web/20170616021624id_/http%3A//crossborder.fedex.com/us/assets/cookie_policy.shtml).
 
 **Controlling Online Interest-Based Ads**
 
@@ -79,7 +79,7 @@ We use and may disclose Personal Information to:
   * Confirm transactions to the merchant(s) from whom your product(s) originate;
   * Respond to your questions about our product or services;
   * Manage and administer our business;
-  * Send you marketing communications, including newsletters and emails, subject to your consent, if required by law, and you may also follow the instructions in each communication to opt-out of future communications, or update your marketing preferences in your online account here [http://crossborder.fedex.com/company/unsubscribe.shtml](https://web.archive.org/web/20161211095545id_/http%3A//crossborder.fedex.com/us/assets/company/unsubscribe.shtml);
+  * Send you marketing communications, including newsletters and emails, subject to your consent, if required by law, and you may also follow the instructions in each communication to opt-out of future communications, or update your marketing preferences in your online account here [http://crossborder.fedex.com/company/unsubscribe.shtml](https://web.archive.org/web/20170616021624id_/http%3A//crossborder.fedex.com/us/assets/company/unsubscribe.shtml);
   * Comply with judicial orders, cooperate with customs or other law enforcement authorities, prevent any suspected illegal activities, or otherwise comply with applicable law; or
   * Perform product development, administer our Sites, and otherwise perform other legitimate business activities.
 
