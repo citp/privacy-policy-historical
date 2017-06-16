@@ -1,65 +1,57 @@
-> *The following text is extracted and transformed from the dailyentertainments.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231154747id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyentertainments.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616072414id_/http%3A//dailyentertainments.com/privacy) for the most accurate reproduction.*
 
-# Home & Summary | NBCUniversal
+# Privacy - Daily Entertainments
 
-## Home & Summary
+**Privacy**
 
-Last Updated: 19 October 2016
+This privacy policy sets out how Daily Entertainments uses and protects any information that you give Daily Entertainments when you use Daily Entertainments. Daily Entertainments is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Daily Entertainments, then you can be assured that it will only be used in accordance with this privacy statement. Daily Entertainments may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
-In this privacy policy:
+**What we collect  
+**We may collect the following information:
 
-  * We’ve summarized our privacy policy terms so you can find what you need quickly;
-  * We’ve designed one privacy policy to apply across many NBCUniversal online services;
-  * We’ve added more detail about the personal information we use and collect, including through mobile apps;
-  * We explain how we share information with the companies in the NBCUniversal group.
-
-
-
-Highlights of most recent changes – December 2015
-
-### Privacy at NBCUniversal
-
-At NBCUniversal, we respect personal information and take seriously our privacy obligations. This website describes NBCUniversal’s approach to privacy for the NBCUniversal websites and mobile applications that link to this page (“online services”).  We are committed to handling personal information in compliance with the specific provisions of applicable privacy laws worldwide.
-
-### Summary
-
-**What information do we collect and how is it used?**
-
-NBCUniversal may collect the following information:(1) information you provide actively (e.g. through forms, surveys, or similar interactive features on the online services); (2) information from the device that you use to access the online services; (3) information about your use of the online services, including video viewing, which may be collected through [cookies/ tracking technologies](https://web.archive.org/privacy/cookies/) and/or (4) information from third parties.
-
-**How do we share information?**
-
-You understand and agree that NBCUniversal may share information we collect as follows:
-
-  * Within NBCUniversal and with third party suppliers, in order to provide you with the online services;
-  * With other third parties (e.g., law enforcement agencies) where required by law or where required as a part of a corporate transaction (e.g., if a company is sold);
-  * With third parties for marketing and advertising purposes (this may vary across different countries or states in accordance with law). California residents can access a list of these third parties.
-  * With companies in the NBCUniversal family, in order to cross-promote NBCUniversal services or for research purposes. You have choices about this.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**How is information protected?**
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-We provide physical, electronic, and procedural safeguards to protect information. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-**Where is information processed?**
 
-NBCUniversal is a global company with headquarters in the United States. Information may be processed in the United States, as well as at various locations globally.
 
-**Children and Privacy**
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-Except where otherwise indicated, we do not knowingly collect or store any personal information from children under the age of 13. We use an age-gate to make certain features unavailable for use by children under 13, and we do not knowingly collect personal information from children under 13 in connection with those features. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com). As required by law, we will delete such information from our files within a reasonable time.
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Your rights and choices**
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-NBCUniversal provides online service users with access to and choices about their information as required by law. This includes rights to unsubscribe from marketing, opt out of targeted advertising and revoke permissions previously provided (e.g. you may revoke permissions to have a mobile app use your current location). Some online services may not be available or there may be impact on functionality when you make these choices.
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
 
-**Tracking/Cookies and Ads**
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt out of this “targeted advertising”. The effect of opting out is controlled by third parties; they may still collect your usage information for analytic, research or internal operations purposes.
+**Third-party online advertising**
 
-Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt_out).
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
 
-**Contact us**
+Please remember that Daily Entertainments does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy.
 
-If you have questions about the privacy practices of our online services, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com).  Please include specific information about the online service you are using and your question so we can respond as soon as possible.
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
+
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
