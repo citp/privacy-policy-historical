@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starhealth.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021058id_/http%3A//www.starhealth.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starhealth.in privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616093454id_/http%3A//www.starhealth.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Star Health Insurance | Medical Health Insurance | Mediclaim Policy
+# Privacy Policy |StarHealth.in
 
 Any disputes that might be arising as to the interpretation of the terms and conditions under this agreement and/or to the contents stated in this Website and/or as to the determination of the rights and obligations of the users and the owner/associates of this Website herein shall be settled by the way of referring such disputes to arbitration by the sole Arbitrator appointed by the Chairman of the company, The STAR HEALTH & ALLIED INSURANCE COMPANY LIMITED.
 
