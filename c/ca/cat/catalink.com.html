@@ -1,43 +1,23 @@
-<!--The following is the downloaded HTML source of the catalink.com privacy policy that was archived on 2016-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161224173128id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catalink.com privacy policy that was archived on 2017-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170616084235id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<base href="http://www.catalink.com/">
+<base href="https://www.catalink.com/">
 <meta name="description" content="Catalink Privacy Policy">
 <meta name="keywords" content="Catalink Privacy Policy">
 <title>Catalink Privacy Policy</title>
 <link rel="Shortcut Icon" href="/favicon.ico">
   <meta name="viewport" content="initial-scale=1.0,width=device-width">
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.4"></script><script type="text/javascript" async="" src="https://protection.clickguardian.co.uk/cgts.js"></script><script type="text/javascript" src="/javascript/adapt.min.js"></script>
+  <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.4"></script><script type="text/javascript" src="/javascript/adapt.min.js"></script>
   <link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
-  
+      
 <script type="text/javascript" src="/javascript/catalink.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.3.min.js"></script>    
 <link type="text/css" href="https://code.jquery.com/ui/1.11.4/themes/ui-lightness/jquery-ui.css" rel="stylesheet"> 
 <script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
 <script src="/javascript/utilities.js"></script>
 
-<!-- Slidebox Script -->
-<script type="text/javascript">
-$(function() {
-  var slidebox = $('#slidebox');
-  if (slidebox.length>0) {
-    $(window).scroll(function(){
-        var distanceTop = $('#last').offset().top - $(window).height();
-        if  ($(window).scrollTop() > distanceTop){
-            slidebox.animate({'right':'0px'},300);
-        }
-        else{
-            slidebox.stop(true).animate({'right':'-430px'},100);
-        }
-    });
-    $('#slidebox .close').on('click',function(){
-        $(this).parent().remove();
-    });
-  }
-});
-</script>
      
 <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <link rel="stylesheet" type="text/css" href="/css/dropdown_style.css">
@@ -85,34 +65,33 @@ function check_search() {
         jQuery(".selectContainer").removeClass('isActive');;
     });
 </script>
-<!--  ClickGuardian.co.uk Click Fraud Protection -->
-
-    <script type="text/javascript">
-
-    var _cgk = 'ceJxPmh3iDO4R'; 
-    var _cgd = 'catalink.com';
-
-    (function () {
-        var cg = document.createElement('script'); cg.type = 'text/javascript'; cg.async = true;
-        cg.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'protection.clickguardian.co.uk/cgts.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(cg, s);
-    })();
-
-    </script>
-    <noscript>
-	<a href="http://clickguardian.co.uk"><img src="http://protection.clickguardian.co.uk/nojs.php?d=catalink.com&k=ceJxPmh3iDO4R" alt="Click Fraud Protection"/><a/>
-    </noscript>
-
-
-<!-- ClickGuardian.co.uk -->
-
-
 <link rel="stylesheet" type="text/css" href="/css/style-r.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="/css/jquery.auto-complete.css">
+<script type="text/javascript" src="/javascript/autocomplete/jquery.auto-complete.min.js"></script>
+<script>
+	$( document ).ready(function() {
+	$('#mainSearchFull').autoComplete({		
+    minChars: 2,
+    source: function(term, response){
+      try { xhr.abort(); } catch(e){}
+      xhr = $.getJSON('/auto_suggest_json.php', { q: term }, function(data){ response(data); });
+    }
+});
+
+$('#mainSearch').autoComplete({		
+    minChars: 2,
+    source: function(term, response){
+      try { xhr.abort(); } catch(e){}
+      xhr = $.getJSON('/auto_suggest_json.php', { q: term }, function(data){ response(data); });
+    }
+});
+});
+</script>
 </head>
 <body class="catalogues">
   <div class="wrapper">
-<a href="http://www.catalink.com/mytrap.php" title=""></a>
+<a href="https://www.catalink.com/mytrap.php" title=""></a>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -159,16 +138,61 @@ function check_search() {
   <div class="topnav hidden-xs hidden-sm">
   	    <div class="cell" id="check1"><div class="topnavcaton dropdown"><a href="/catalogues.php" id="sub1">CATALOGUES</a></div>
   <ul class="sub_menu" style="margin-top: 41px; margin-left: -118px; width: 188px; display: none; border: rgb(255, 0, 0); background-color: rgb(0, 0, 0);">
-  <li><a href="/activity-catalogues/c/11">Activities</a></li><li><a href="/book-catalogues/c/2">Books</a></li><li><a href="/charity-catalogues/c/24">Charities</a></li><li><a href="/childrens-catalogues/c/4">Children</a></li><li><a href="/christmas-catalogues/c/26">Christmas</a></li><li><a href="/computer-electrical-catalogues/c/5">Computer &amp; Electrical</a></li><li><a href="/fifty-plus-catalogues/c/28">Fifty Plus</a></li><li><a href="/finance-catalogues/c/30">Finance</a></li><li><a href="/food-drink-catalogues/c/6">Food &amp; Drink</a></li><li><a href="/gardening-catalogues/c/7">Gardening</a></li><li><a href="/gift-catalogues/c/8">Gifts</a></li><li><a href="/health-fitness-catalogues/c/9">Health &amp; Fitness</a></li><li><a href="/catalogue-archive.php">CATALOGUE ARCHIVE</a></li></ul>
-        <ul class="sub_menu" style="margin-top: 41px; width: 188px; margin-left: 70px; display: none; border: rgb(255, 0, 0); background-color: rgb(0, 0, 0);"><li><a href="/hobby-catalogues/c/36">Hobbies</a></li><li><a href="/home-improvement-catalogues/c/34">Home Improvement</a></li><li><a href="/homeware-catalogues/c/35">Homewares</a></li><li><a href="/ladies-catalogues/c/16">Ladies</a></li><li><a href="/ladies-clothes-catalogues/c/38">Ladies Clothes</a></li><li><a href="/mens-catalogues/c/17">Mens</a></li><li><a href="/mens-clothes-catalogues/c/39">Mens Clothes</a></li><li><a href="/organics-natural-catalogues/c/25">Organics &amp; Natural</a></li><li><a href="/pet-catalogues/c/20">Pets</a></li><li><a href="/sports-catalogues/c/23">Sports</a></li><li><a href="/travel-catalogues/c/37">Travel</a></li><li><a href="/wedding-catalogues/c/21">Weddings</a></li><li class="spacer">&nbsp;</li>  
+  <li><a href="/activity-catalogues/c/11">Activities</a></li>
+<li><a href="/book-catalogues/c/2">Books</a></li>
+<li><a href="/charity-catalogues/c/24">Charities</a></li>
+<li><a href="/childrens-catalogues/c/4">Children</a></li>
+<li><a href="/christmas-catalogues/c/26">Christmas</a></li>
+<li><a href="/computer-electrical-catalogues/c/5">Computer &amp; Electrical</a></li>
+<li><a href="/fifty-plus-catalogues/c/28">Fifty Plus</a></li>
+<li><a href="/finance-catalogues/c/30">Finance</a></li>
+<li><a href="/food-drink-catalogues/c/6">Food &amp; Drink</a></li>
+<li><a href="/gardening-catalogues/c/7">Gardening</a></li>
+<li><a href="/gift-catalogues/c/8">Gifts</a></li>
+<li><a href="/health-fitness-catalogues/c/9">Health &amp; Fitness</a></li>
+<li><a href="/catalogue-archive.php">CATALOGUE ARCHIVE</a></li></ul>
+        <ul class="sub_menu" style="margin-top: 41px; width: 188px; margin-left: 70px; display: none; border: rgb(255, 0, 0); background-color: rgb(0, 0, 0);"><li><a href="/hobby-catalogues/c/36">Hobbies</a></li>
+<li><a href="/home-improvement-catalogues/c/34">Home Improvement</a></li>
+<li><a href="/homeware-catalogues/c/35">Homewares</a></li>
+<li><a href="/ladies-catalogues/c/16">Ladies</a></li>
+<li><a href="/ladies-clothes-catalogues/c/38">Ladies Clothes</a></li>
+<li><a href="/mens-catalogues/c/17">Mens</a></li>
+<li><a href="/mens-clothes-catalogues/c/39">Mens Clothes</a></li>
+<li><a href="/organics-natural-catalogues/c/25">Organics &amp; Natural</a></li>
+<li><a href="/pet-catalogues/c/20">Pets</a></li>
+<li><a href="/sports-catalogues/c/23">Sports</a></li>
+<li><a href="/travel-catalogues/c/37">Travel</a></li>
+<li><a href="/wedding-catalogues/c/21">Weddings</a></li><li class="spacer">&nbsp;</li>  
 </ul>
 </div>
 
       <div class="cell" id="check2">
         <div style="line-height: 20px;"><div class="topnavbrooff dropdown"><a href="/brochures.php" id="sub2">HOLIDAY<br>BROCHURES</a></div>
   <ul class="sub_menu2" style="margin-top: 41px; margin-left: -112px; width: 300px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);">
-  <li><a href="/activity-adventure-trek-brochures/c/1">Activity, Adventure, Trek</a></li><li><a href="/beach-family-fun-fly-drive-brochures/c/7">Beach &amp; Family Fun</a></li><li><a href="/camp-self-cater-villa-brochures/c/2">Camp, Self Cater, Villa</a></li><li><a href="/christmas-brochures/c/18">Christmas</a></li><li><a href="/city-short-break-cultural-brochures/c/3">City, Short Break &amp; Cultural</a></li><li><a href="/corporate-breaks-brochures/c/5">Corporate Breaks</a></li><li><a href="/cruise-brochures/c/15">Cruise</a></li><li><a href="/exotic-luxury-brochures/c/6">Exotic &amp; Luxury</a></li><li><a href="/miscellaneous-brochures/c/13">Miscellaneous</a></li><li><a href="/singles-groups-brochures/c/9">Singles &amp; Groups</a></li><li><a href="/spas-health-educational-brochures/c/10">Spas, Health &amp; Educational</a></li><li><a href="/sports-outdoor-water-brochures/c/11">Sports, Outdoor, Water</a></li></ul>
-        <ul class="sub_menu2" style="margin-top: 41px; margin-left: 79px; width: 188px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);"><li><a href="/tours-touring-brochures/c/8">Tours &amp; Touring</a></li><li><a href="/uk-visitor-guides.php">UK Travel &amp; Tourism</a></li><li><a href="/winter-sports-brochures/c/12">Winter Sports</a></li><li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li><li><a href="/africa-brochures/c/4/s/49">Africa</a></li><li><a href="/arctic-antarctic-brochures/c/4/s/50">Arctic/Antarctic</a></li><li><a href="/asia-brochures/c/4/s/69">Asia</a></li><li><a href="/australasia-brochures/c/4/s/52">Australasia</a></li><li><a href="/europe-brochures/c/4/s/53">Europe</a></li><li><a href="/south-america-brochures/c/4/s/55">South America</a></li><li><a href="/usa-canada-brochures/c/4/s/54">USA &amp; Canada</a></li><li><a href="/brochure-archive.php">BROCHURE ARCHIVE</a></li></ul>
+  <li><a href="/activity-adventure-trek-brochures/c/1">Activity, Adventure, Trek</a></li>
+<li><a href="/beach-family-fun-fly-drive-brochures/c/7">Beach &amp; Family Fun</a></li>
+<li><a href="/camp-self-cater-villa-brochures/c/2">Camp, Self Cater, Villa</a></li>
+<li><a href="/christmas-brochures/c/18">Christmas</a></li>
+<li><a href="/city-short-break-cultural-brochures/c/3">City, Short Break &amp; Cultural</a></li>
+<li><a href="/corporate-breaks-brochures/c/5">Corporate Breaks</a></li>
+<li><a href="/cruise-brochures/c/15">Cruise</a></li>
+<li><a href="/exotic-luxury-brochures/c/6">Exotic &amp; Luxury</a></li>
+<li><a href="/miscellaneous-brochures/c/13">Miscellaneous</a></li>
+<li><a href="/singles-groups-brochures/c/9">Singles &amp; Groups</a></li>
+<li><a href="/spas-health-educational-brochures/c/10">Spas, Health &amp; Educational</a></li>
+<li><a href="/sports-outdoor-water-brochures/c/11">Sports, Outdoor, Water</a></li></ul>
+        <ul class="sub_menu2" style="margin-top: 41px; margin-left: 79px; width: 188px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);"><li><a href="/tours-touring-brochures/c/8">Tours &amp; Touring</a></li>
+<li><a href="/uk-visitor-guides.php">UK Travel &amp; Tourism</a></li>
+<li><a href="/winter-sports-brochures/c/12">Winter Sports</a></li>
+<li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li>
+<li><a href="/africa-brochures/c/4/s/49">Africa</a></li>
+<li><a href="/arctic-antarctic-brochures/c/4/s/50">Arctic/Antarctic</a></li>
+<li><a href="/asia-brochures/c/4/s/69">Asia</a></li>
+<li><a href="/australasia-brochures/c/4/s/52">Australasia</a></li>
+<li><a href="/europe-brochures/c/4/s/53">Europe</a></li>
+<li><a href="/south-america-brochures/c/4/s/55">South America</a></li>
+<li><a href="/usa-canada-brochures/c/4/s/54">USA &amp; Canada</a></li>
+<li><a href="/brochure-archive.php">BROCHURE ARCHIVE</a></li></ul>
         </div>
       </div>
       	      <div class="cell" id="check3"><div class="topnavretoff dropdown"><a href="/newsletters.php" id="sub3">NEWSLETTERS</a></div>
@@ -184,15 +208,47 @@ function check_search() {
   </ul>
       </div>
           <div class="cell" id="check4"><div class="topnavretoffleisure dropdown"><div style="line-height: 20px;"><a href="/uk-visitor-guides.php" id="sub4">UK VISITOR<br>GUIDES</a></div></div>
-<ul class="sub_menu4" style="margin-top: 41px; margin-left: -108px; width: 188px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);">
-    <li><a href="/north-east-of-england-tourism/c/1">North East of England</a></li><li><a href="/north-west-of-england-tourism/c/2">North West of England</a></li><li><a href="/yorkshire-tourism/c/3">Yorkshire</a></li><li><a href="/east-midlands-tourism/c/4">East Midlands</a></li><li><a href="/west-midlands-tourism/c/5">West Midlands</a></li><li><a href="/east-anglia-tourism/c/6">East Anglia</a></li><li><a href="/south-east-of-england-tourism/c/7">South East of England</a></li><li><a href="/south-west-of-england-tourism/c/8">South West of England</a></li><li><a href="/greater-london-tourism/c/9">Greater London</a></li><li><a href="/wales-tourism/c/10">Wales</a></li><li><a href="/scotland-tourism/c/11">Scotland</a></li>     <li><a href="/search.php?type=ukleisure&amp;query=northern+ireland">Northern Ireland</a></li>
+<ul class="sub_menu4" style="margin-top: 41px; margin-left: -108px; width: 230px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);">
+    <li><a href="/north-east-of-england-tourism/c/1">North East of England</a></li>
+<li><a href="/north-west-of-england-tourism/c/2">North West of England</a></li>
+<li><a href="/yorkshire-tourism/c/3">Yorkshire</a></li>
+<li><a href="/east-midlands-tourism/c/4">East Midlands</a></li>
+<li><a href="/west-midlands-tourism/c/5">West Midlands</a></li>
+<li><a href="/east-anglia-tourism/c/6">East Anglia</a></li>
+<li><a href="/south-east-of-england-tourism/c/7">South East of England</a></li>
+<li><a href="/south-west-of-england-tourism/c/8">South West of England</a></li>
+<li><a href="/greater-london-tourism/c/9">Greater London</a></li>
+<li><a href="/wales-tourism/c/10">Wales</a></li>
+<li><a href="/scotland-tourism/c/11">Scotland</a></li>     <li><a href="/search.php?type=ukleisure&amp;query=northern+ireland">Northern Ireland</a></li>
      <li><a href="search.php?type=ukleisure&amp;query=ireland">Ireland</a></li>
+     <li><a href="/uk-visitor-guides-archive.php">UK VISITOR GUIDES ARCHIVE</a></li>
      </ul>
     </div>
     <div class="cell" id="check5"><div class="topnavretoffpdf dropdown"><a href="/digital-brochures.php" style="line-height: 20px;" id="sub5">DIGITAL<br>BROCHURES</a></div>
     <ul class="sub_menu5" style="margin-top: 41px; margin-left: -113px; width: 300px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);">
-     <li><a href="/activity-adventure-trek-brochures/c/1/src/digital">Activity, Adventure, Trek</a></li><li><a href="/beach-family-fun-fly-drive-brochures/c/7/src/digital">Beach &amp; Family Fun</a></li><li><a href="/camp-self-cater-villa-brochures/c/2/src/digital">Camp, Self Cater, Villa</a></li><li><a href="/christmas-brochures/c/18/src/digital">Christmas</a></li><li><a href="/city-short-break-cultural-brochures/c/3/src/digital">City, Short Break &amp; Cultural</a></li><li><a href="/corporate-breaks-brochures/c/5/src/digital">Corporate Breaks</a></li><li><a href="/cruise-brochures/c/15/src/digital">Cruise</a></li><li><a href="/exotic-luxury-brochures/c/6/src/digital">Exotic &amp; Luxury</a></li><li><a href="/miscellaneous-brochures/c/13/src/digital">Miscellaneous</a></li><li><a href="/singles-groups-brochures/c/9/src/digital">Singles &amp; Groups</a></li><li><a href="/spas-health-educational-brochures/c/10/src/digital">Spas, Health &amp; Educational</a></li><li><a href="/sports-outdoor-water-brochures/c/11/src/digital">Sports, Outdoor, Water</a></li></ul>
-        <ul class="sub_menu5" style="margin-top: 41px; margin-left: 80px; width: 188px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);"><li><a href="/tours-touring-brochures/c/8/src/digital">Tours &amp; Touring</a></li><li><a href="/uk-visitor-guides.php?src=digital">UK Travel &amp; Tourism</a></li><li><a href="/winter-sports-brochures/c/12/src/digital">Winter Sports</a></li><li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li><li><a href="/africa-brochures/c/4/s/49/src/digital">Africa</a></li><li><a href="/arctic-antarctic-brochures/c/4/s/50/src/digital">Arctic/Antarctic</a></li><li><a href="/asia-brochures/c/4/s/69/src/digital">Asia</a></li><li><a href="/australasia-brochures/c/4/s/52/src/digital">Australasia</a></li><li><a href="/europe-brochures/c/4/s/53/src/digital">Europe</a></li><li><a href="/south-america-brochures/c/4/s/55/src/digital">South America</a></li><li><a href="/usa-canada-brochures/c/4/s/54/src/digital">USA &amp; Canada</a></li><li class="spacer">&nbsp;</li>     </ul> 
+     <li><a href="/activity-adventure-trek-brochures/c/1/src/digital">Activity, Adventure, Trek</a></li>
+<li><a href="/beach-family-fun-fly-drive-brochures/c/7/src/digital">Beach &amp; Family Fun</a></li>
+<li><a href="/camp-self-cater-villa-brochures/c/2/src/digital">Camp, Self Cater, Villa</a></li>
+<li><a href="/christmas-brochures/c/18/src/digital">Christmas</a></li>
+<li><a href="/city-short-break-cultural-brochures/c/3/src/digital">City, Short Break &amp; Cultural</a></li>
+<li><a href="/corporate-breaks-brochures/c/5/src/digital">Corporate Breaks</a></li>
+<li><a href="/cruise-brochures/c/15/src/digital">Cruise</a></li>
+<li><a href="/exotic-luxury-brochures/c/6/src/digital">Exotic &amp; Luxury</a></li>
+<li><a href="/miscellaneous-brochures/c/13/src/digital">Miscellaneous</a></li>
+<li><a href="/singles-groups-brochures/c/9/src/digital">Singles &amp; Groups</a></li>
+<li><a href="/spas-health-educational-brochures/c/10/src/digital">Spas, Health &amp; Educational</a></li>
+<li><a href="/sports-outdoor-water-brochures/c/11/src/digital">Sports, Outdoor, Water</a></li></ul>
+        <ul class="sub_menu5" style="margin-top: 41px; margin-left: 80px; width: 188px; z-index: 999999; display: none; border-color: rgb(0, 51, 204); background-color: rgb(0, 0, 0);"><li><a href="/tours-touring-brochures/c/8/src/digital">Tours &amp; Touring</a></li>
+<li><a href="/uk-visitor-guides.php?src=digital">UK Travel &amp; Tourism</a></li>
+<li><a href="/winter-sports-brochures/c/12/src/digital">Winter Sports</a></li>
+<li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li>
+<li><a href="/africa-brochures/c/4/s/49/src/digital">Africa</a></li>
+<li><a href="/arctic-antarctic-brochures/c/4/s/50/src/digital">Arctic/Antarctic</a></li>
+<li><a href="/asia-brochures/c/4/s/69/src/digital">Asia</a></li>
+<li><a href="/australasia-brochures/c/4/s/52/src/digital">Australasia</a></li>
+<li><a href="/europe-brochures/c/4/s/53/src/digital">Europe</a></li>
+<li><a href="/south-america-brochures/c/4/s/55/src/digital">South America</a></li>
+<li><a href="/usa-canada-brochures/c/4/s/54/src/digital">USA &amp; Canada</a></li><li class="spacer">&nbsp;</li>     </ul> 
     </div>
                <div class="searchcell">
                   <div class="searchNav"><form class="searchNavInner" method="get" action="/search.php" onsubmit="return check_search();">
@@ -228,19 +284,64 @@ function check_search() {
 	<li class="catalogues-nav dropdown clearfix">
 <a class="dropdown-toggle active" data-toggle="dropdown" href="/catalogues.php">CATALOGUES <span class="caret visible-xs-inline-block"></span></a>
 <ul class="dropdown-menu">
-<li><a href="/activity-catalogues/c/11">Activities</a></li><li><a href="/book-catalogues/c/2">Books</a></li><li><a href="/charity-catalogues/c/24">Charities</a></li><li><a href="/childrens-catalogues/c/4">Children</a></li><li><a href="/christmas-catalogues/c/26">Christmas</a></li><li><a href="/computer-electrical-catalogues/c/5">Computer &amp; Electrical</a></li><li><a href="/fifty-plus-catalogues/c/28">Fifty Plus</a></li><li><a href="/finance-catalogues/c/30">Finance</a></li><li><a href="/food-drink-catalogues/c/6">Food &amp; Drink</a></li><li><a href="/gardening-catalogues/c/7">Gardening</a></li><li><a href="/gift-catalogues/c/8">Gifts</a></li><li><a href="/health-fitness-catalogues/c/9">Health &amp; Fitness</a></li><li><a href="/catalogue-archive.php">CATALOGUE ARCHIVE</a></li>
+<li><a href="/activity-catalogues/c/11">Activities</a></li>
+<li><a href="/book-catalogues/c/2">Books</a></li>
+<li><a href="/charity-catalogues/c/24">Charities</a></li>
+<li><a href="/childrens-catalogues/c/4">Children</a></li>
+<li><a href="/christmas-catalogues/c/26">Christmas</a></li>
+<li><a href="/computer-electrical-catalogues/c/5">Computer &amp; Electrical</a></li>
+<li><a href="/fifty-plus-catalogues/c/28">Fifty Plus</a></li>
+<li><a href="/finance-catalogues/c/30">Finance</a></li>
+<li><a href="/food-drink-catalogues/c/6">Food &amp; Drink</a></li>
+<li><a href="/gardening-catalogues/c/7">Gardening</a></li>
+<li><a href="/gift-catalogues/c/8">Gifts</a></li>
+<li><a href="/health-fitness-catalogues/c/9">Health &amp; Fitness</a></li>
+<li><a href="/catalogue-archive.php">CATALOGUE ARCHIVE</a></li>
 </ul>
 <ul class="dropdown-menu">
-<li><a href="/hobby-catalogues/c/36">Hobbies</a></li><li><a href="/home-improvement-catalogues/c/34">Home Improvement</a></li><li><a href="/homeware-catalogues/c/35">Homewares</a></li><li><a href="/ladies-catalogues/c/16">Ladies</a></li><li><a href="/ladies-clothes-catalogues/c/38">Ladies Clothes</a></li><li><a href="/mens-catalogues/c/17">Mens</a></li><li><a href="/mens-clothes-catalogues/c/39">Mens Clothes</a></li><li><a href="/organics-natural-catalogues/c/25">Organics &amp; Natural</a></li><li><a href="/pet-catalogues/c/20">Pets</a></li><li><a href="/sports-catalogues/c/23">Sports</a></li><li><a href="/travel-catalogues/c/37">Travel</a></li><li><a href="/wedding-catalogues/c/21">Weddings</a></li><li class="spacer">&nbsp;</li>
+<li><a href="/hobby-catalogues/c/36">Hobbies</a></li>
+<li><a href="/home-improvement-catalogues/c/34">Home Improvement</a></li>
+<li><a href="/homeware-catalogues/c/35">Homewares</a></li>
+<li><a href="/ladies-catalogues/c/16">Ladies</a></li>
+<li><a href="/ladies-clothes-catalogues/c/38">Ladies Clothes</a></li>
+<li><a href="/mens-catalogues/c/17">Mens</a></li>
+<li><a href="/mens-clothes-catalogues/c/39">Mens Clothes</a></li>
+<li><a href="/organics-natural-catalogues/c/25">Organics &amp; Natural</a></li>
+<li><a href="/pet-catalogues/c/20">Pets</a></li>
+<li><a href="/sports-catalogues/c/23">Sports</a></li>
+<li><a href="/travel-catalogues/c/37">Travel</a></li>
+<li><a href="/wedding-catalogues/c/21">Weddings</a></li><li class="spacer">&nbsp;</li>
 </ul>
 </li>
 
 <li class="holidaybrochures-nav dropdown clearfix">
 <a class="dropdown-toggle " data-toggle="dropdown" href="#">HOLIDAY<br>BROCHURES <span class="caret visible-xs-inline-block"></span></a>
 <ul class="dropdown-menu">
-<li><a href="/activity-adventure-trek-brochures/c/1">Activity, Adventure, Trek</a></li><li><a href="/beach-family-fun-fly-drive-brochures/c/7">Beach &amp; Family Fun</a></li><li><a href="/camp-self-cater-villa-brochures/c/2">Camp, Self Cater, Villa</a></li><li><a href="/christmas-brochures/c/18">Christmas</a></li><li><a href="/city-short-break-cultural-brochures/c/3">City, Short Break &amp; Cultural</a></li><li><a href="/corporate-breaks-brochures/c/5">Corporate Breaks</a></li><li><a href="/cruise-brochures/c/15">Cruise</a></li><li><a href="/exotic-luxury-brochures/c/6">Exotic &amp; Luxury</a></li><li><a href="/miscellaneous-brochures/c/13">Miscellaneous</a></li><li><a href="/singles-groups-brochures/c/9">Singles &amp; Groups</a></li><li><a href="/spas-health-educational-brochures/c/10">Spas, Health &amp; Educational</a></li><li><a href="/sports-outdoor-water-brochures/c/11">Sports, Outdoor, Water</a></li></ul>
+<li><a href="/activity-adventure-trek-brochures/c/1">Activity, Adventure, Trek</a></li>
+<li><a href="/beach-family-fun-fly-drive-brochures/c/7">Beach &amp; Family Fun</a></li>
+<li><a href="/camp-self-cater-villa-brochures/c/2">Camp, Self Cater, Villa</a></li>
+<li><a href="/christmas-brochures/c/18">Christmas</a></li>
+<li><a href="/city-short-break-cultural-brochures/c/3">City, Short Break &amp; Cultural</a></li>
+<li><a href="/corporate-breaks-brochures/c/5">Corporate Breaks</a></li>
+<li><a href="/cruise-brochures/c/15">Cruise</a></li>
+<li><a href="/exotic-luxury-brochures/c/6">Exotic &amp; Luxury</a></li>
+<li><a href="/miscellaneous-brochures/c/13">Miscellaneous</a></li>
+<li><a href="/singles-groups-brochures/c/9">Singles &amp; Groups</a></li>
+<li><a href="/spas-health-educational-brochures/c/10">Spas, Health &amp; Educational</a></li>
+<li><a href="/sports-outdoor-water-brochures/c/11">Sports, Outdoor, Water</a></li></ul>
 <ul class="dropdown-menu">
-<li><a href="/tours-touring-brochures/c/8">Tours &amp; Touring</a></li><li><a href="/uk-holidays.php">UK Travel &amp; Tourism</a></li><li><a href="/winter-sports-brochures/c/12">Winter Sports</a></li><li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li><li><a href="/africa-brochures/c/4/s/49">Africa</a></li><li><a href="/arctic-antarctic-brochures/c/4/s/50">Arctic/Antarctic</a></li><li><a href="/asia-brochures/c/4/s/69">Asia</a></li><li><a href="/australasia-brochures/c/4/s/52">Australasia</a></li><li><a href="/europe-brochures/c/4/s/53">Europe</a></li><li><a href="/south-america-brochures/c/4/s/55">South America</a></li><li><a href="/usa-canada-brochures/c/4/s/54">USA &amp; Canada</a></li><li><a href="/brochure-archive.php">BROCHURE ARCHIVE</a></li>
+<li><a href="/tours-touring-brochures/c/8">Tours &amp; Touring</a></li>
+<li><a href="/uk-holidays.php">UK Travel &amp; Tourism</a></li>
+<li><a href="/winter-sports-brochures/c/12">Winter Sports</a></li>
+<li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li>
+<li><a href="/africa-brochures/c/4/s/49">Africa</a></li>
+<li><a href="/arctic-antarctic-brochures/c/4/s/50">Arctic/Antarctic</a></li>
+<li><a href="/asia-brochures/c/4/s/69">Asia</a></li>
+<li><a href="/australasia-brochures/c/4/s/52">Australasia</a></li>
+<li><a href="/europe-brochures/c/4/s/53">Europe</a></li>
+<li><a href="/south-america-brochures/c/4/s/55">South America</a></li>
+<li><a href="/usa-canada-brochures/c/4/s/54">USA &amp; Canada</a></li>
+<li><a href="/brochure-archive.php">BROCHURE ARCHIVE</a></li>
 </ul>
 </li>
 
@@ -261,7 +362,17 @@ function check_search() {
 <li class="dropdown visitors-nav clearfix">
 <a class="dropdown-toggle " data-toggle="dropdown" href="#">UK VISITOR<br>GUIDES <span class="caret visible-xs-inline-block"></span></a>
 <ul class="dropdown-menu">
-<li><a href="/north-east-of-england-tourism/c/1" class="">North East of England</a></li><li><a href="/north-west-of-england-tourism/c/2">North West of England</a></li><li><a href="/yorkshire-tourism/c/3">Yorkshire</a></li><li><a href="/east-midlands-tourism/c/4">East Midlands</a></li><li><a href="/west-midlands-tourism/c/5">West Midlands</a></li><li><a href="/east-anglia-tourism/c/6">East Anglia</a></li><li><a href="/south-east-of-england-tourism/c/7">South East of England</a></li><li><a href="/south-west-of-england-tourism/c/8">South West of England</a></li><li><a href="/greater-london-tourism/c/9">Greater London</a></li><li><a href="/wales-tourism/c/10">Wales</a></li><li><a href="/scotland-tourism/c/11">Scotland</a></li>     <li><a href="/search.php?type=ukleisure&amp;query=northern+ireland">Northern Ireland</a></li>
+<li><a href="/north-east-of-england-tourism/c/1" class="">North East of England</a></li>
+<li><a href="/north-west-of-england-tourism/c/2">North West of England</a></li>
+<li><a href="/yorkshire-tourism/c/3">Yorkshire</a></li>
+<li><a href="/east-midlands-tourism/c/4">East Midlands</a></li>
+<li><a href="/west-midlands-tourism/c/5">West Midlands</a></li>
+<li><a href="/east-anglia-tourism/c/6">East Anglia</a></li>
+<li><a href="/south-east-of-england-tourism/c/7">South East of England</a></li>
+<li><a href="/south-west-of-england-tourism/c/8">South West of England</a></li>
+<li><a href="/greater-london-tourism/c/9">Greater London</a></li>
+<li><a href="/wales-tourism/c/10">Wales</a></li>
+<li><a href="/scotland-tourism/c/11">Scotland</a></li>     <li><a href="/search.php?type=ukleisure&amp;query=northern+ireland">Northern Ireland</a></li>
 <li><a href="search.php?type=ukleisure&amp;query=ireland">Ireland</a></li>
 </ul>
 </li>
@@ -269,9 +380,30 @@ function check_search() {
 <li class="onlinebrochures-nav dropdown clearfix">
 <a class="dropdown-toggle " data-toggle="dropdown" href="#">DIGITAL<br>BROCHURES <span class="caret visible-xs-inline-block"></span></a>
 <ul class="dropdown-menu">
-<li><a href="/activity-adventure-trek-brochures/c/1">Activity, Adventure, Trek</a></li><li><a href="/beach-family-fun-fly-drive-brochures/c/7">Beach &amp; Family Fun</a></li><li><a href="/camp-self-cater-villa-brochures/c/2">Camp, Self Cater, Villa</a></li><li><a href="/christmas-brochures/c/18">Christmas</a></li><li><a href="/city-short-break-cultural-brochures/c/3">City, Short Break &amp; Cultural</a></li><li><a href="/corporate-breaks-brochures/c/5">Corporate Breaks</a></li><li><a href="/cruise-brochures/c/15">Cruise</a></li><li><a href="/exotic-luxury-brochures/c/6">Exotic &amp; Luxury</a></li><li><a href="/miscellaneous-brochures/c/13">Miscellaneous</a></li><li><a href="/singles-groups-brochures/c/9">Singles &amp; Groups</a></li><li><a href="/spas-health-educational-brochures/c/10">Spas, Health &amp; Educational</a></li><li><a href="/sports-outdoor-water-brochures/c/11">Sports, Outdoor, Water</a></li></ul>
+<li><a href="/activity-adventure-trek-brochures/c/1">Activity, Adventure, Trek</a></li>
+<li><a href="/beach-family-fun-fly-drive-brochures/c/7">Beach &amp; Family Fun</a></li>
+<li><a href="/camp-self-cater-villa-brochures/c/2">Camp, Self Cater, Villa</a></li>
+<li><a href="/christmas-brochures/c/18">Christmas</a></li>
+<li><a href="/city-short-break-cultural-brochures/c/3">City, Short Break &amp; Cultural</a></li>
+<li><a href="/corporate-breaks-brochures/c/5">Corporate Breaks</a></li>
+<li><a href="/cruise-brochures/c/15">Cruise</a></li>
+<li><a href="/exotic-luxury-brochures/c/6">Exotic &amp; Luxury</a></li>
+<li><a href="/miscellaneous-brochures/c/13">Miscellaneous</a></li>
+<li><a href="/singles-groups-brochures/c/9">Singles &amp; Groups</a></li>
+<li><a href="/spas-health-educational-brochures/c/10">Spas, Health &amp; Educational</a></li>
+<li><a href="/sports-outdoor-water-brochures/c/11">Sports, Outdoor, Water</a></li></ul>
 <ul class="dropdown-menu">
-<li><a href="/tours-touring-brochures/c/8">Tours &amp; Touring</a></li><li><a href="/uk-visitor-guides.php?src=digital">UK Travel &amp; Tourism</a></li><li><a href="/winter-sports-brochures/c/12">Winter Sports</a></li><li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li><li><a href="/africa-brochures/c/4/s/49">Africa</a></li><li><a href="/arctic-antarctic-brochures/c/4/s/50">Arctic/Antarctic</a></li><li><a href="/asia-brochures/c/4/s/69">Asia</a></li><li><a href="/australasia-brochures/c/4/s/52">Australasia</a></li><li><a href="/europe-brochures/c/4/s/53">Europe</a></li><li><a href="/south-america-brochures/c/4/s/55">South America</a></li><li><a href="/usa-canada-brochures/c/4/s/54">USA &amp; Canada</a></li><li class="spacer">&nbsp;</li>
+<li><a href="/tours-touring-brochures/c/8">Tours &amp; Touring</a></li>
+<li><a href="/uk-visitor-guides.php?src=digital">UK Travel &amp; Tourism</a></li>
+<li><a href="/winter-sports-brochures/c/12">Winter Sports</a></li>
+<li><span style="color: white; padding-left: 4px;">WORLD REGIONS</span></li>
+<li><a href="/africa-brochures/c/4/s/49">Africa</a></li>
+<li><a href="/arctic-antarctic-brochures/c/4/s/50">Arctic/Antarctic</a></li>
+<li><a href="/asia-brochures/c/4/s/69">Asia</a></li>
+<li><a href="/australasia-brochures/c/4/s/52">Australasia</a></li>
+<li><a href="/europe-brochures/c/4/s/53">Europe</a></li>
+<li><a href="/south-america-brochures/c/4/s/55">South America</a></li>
+<li><a href="/usa-canada-brochures/c/4/s/54">USA &amp; Canada</a></li><li class="spacer">&nbsp;</li>
 </ul>
 </li>
 </ul>
@@ -308,8 +440,7 @@ function check_search() {
             &nbsp; <a href="/showcase/organics-catalogues.php" style="color:white;">Organics Catalogues</a> &nbsp; | 
             &nbsp; <a href="/showcase/home-catalogues.php" style="color:white;">Home Catalogues</a> &nbsp; | 
             &nbsp; <a href="/showcase/gardening-catalogues.php" style="color:white;">Gardening Catalogues</a> &nbsp; |  
-            &nbsp; <a href="/showcase/which-catalogues.php" style="color:white">Which? Guides</a> &nbsp; | 
-            &nbsp; <a href="/showcase/christmas-catalogues.php" style="color:white">Christmas Catalogues</a>
+            &nbsp; <a href="/showcase/which-catalogues.php" style="color:white">Which? Guides</a> &nbsp;
           </div>
         </div>
         
@@ -362,14 +493,14 @@ function check_search() {
  <div class="main-content col-md-10" style="background-image: none">
  	<div class="textcontent" style="min-height:915px;">
     	<h1 class="slider_header">CATALINK PRIVACY POLICY</h1>
-    	<p style="padding-top:0;margin-top:0">Catalink is a member of the Lifestyle Media Group Ltd, which is registered under the Data Protection Act and as such is committed to respecting your privacy. By joining Catalink your login and password will work on all sites within Lifestyle Media Group. Details of these sites can be found at <a href="http://www.lifestylemediagroup.co.uk" target="_blank">www.lifestylemediagroup.co.uk</a>. Please read the following information which outlines our privacy policy.</p>
+    	<p style="padding-top:0;margin-top:0">Catalink is part of the Lifestyle Media Group Ltd, which is registered under the Data Protection Act and as such is committed to respecting your privacy. 
     	
-      <h2>UNSUBSCRIBING</h2>
-   	<p style="padding-top:0;margin-top:0">Simply log into your account and then click the <b>My Details</b> link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive information from LMG such as the Catalink and TravelBrochures monthly newsletters. Please visit your <b>My Details</b> page if you wish to change these options. When you request information from one of our clients you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can alter this option by going to the <b>My Details</b> page.</p>
-    <p><b>Please Note:</b> Due to the logistics involved in managing over 3 million members, unsubscribing from all emails can take approximately 30 days.</p>
+      </p><h2>UNSUBSCRIBING</h2>
+   	<p style="padding-top:0;margin-top:0">Simply log into your account and then click the <b>My Details</b> link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive information from LMG such as the Catalink and TravelBrochures monthly newsletters. Please visit your <b>My Details</b> page if you wish to update these options. When you request information from one of our clients you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can update this option by going to the <b>My Details</b> page.</p>
+    <p><b>Please Note:</b> Due to the logistics involved in managing over 3 million members, unsubscribing from all emails can take approximately 7 days.</p>
       
       <h2>OUR POLICY ON PERSONAL DATA</h2>
-    	<p style="padding-top:0;margin-top:0">You will be deemed to have accepted the following terms in relation to any information about yourself which you choose to submit to an LMG website or send to us by any other method ("personal information"). If you do not agree to these terms do not submit any personal information to us. If you wish to discuss our proposed uses of your personal information, or have any comments or complaints please <a href="contact_us.php">click here</a>.</p>
+    	<p style="padding-top:0;margin-top:0">You will be deemed to have accepted the following terms in relation to any information about yourself which you choose to submit to an LMG website or send to us by any other method ("personal information"). If you do not agree to these terms please do not submit any personal information to us. If you wish to discuss our proposed uses of your personal information, or have any comments or complaints please <a href="contact_us.php">contact us</a>.</p>
       
       <h2>COOKIES</h2>
     <p style="padding-top:0;margin-top:0">Cookies are pieces of data that are often created when you visit a website and which are stored in the cookie directory of your computer. We use cookies to make our websites work more efficiently, as well as to provide information to the owners of the website. Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit <a href="http://www.allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.</p>
@@ -393,9 +524,10 @@ function check_search() {
     We use this information to optimise performance of our website and the information in it, diagnose any problems with it, identify you and gather demographic information on you.<br><br>
     Log files do not contain any personal information and they are not used to identify any individual patterns of use of the site.<br><br>
     
-    </p><h4>Types of information we may collect from you: </h4>
-    <ul><li>Aggregated data - ie data from cookies and log files.</li>
-      <li>Personal data - ie data from which you can be personally identified (even without using our website) such as full name postal address financial information or phone number.</li>
+    </p><h2>TYPES OF INFORMATION WE MAY COLLECT FROM YOU:</h2>
+    <ul>
+    	<li>Aggregated data - ie data from cookies and log files.</li>
+      <li>Personal data - ie data from which you can be personally identified (even without using our website) such as full name, postal address or phone number.</li>
     </ul>
 
     <h2>USES AND DISCLOSURES</h2>
@@ -403,24 +535,17 @@ function check_search() {
       
     <blockquote class="textcontent">
     	
-        With employees and suppliers to fulfil requests for services and manage your account<br><br>
+        With employees and suppliers to fulfil requests for services and manage your account.<br><br>
 
-        To carry out market research and tailor our offer to you and inform you of trends we think may be of interest to you<br><br>
-
-        To send you promotional fulfilment and marketing material and otherwise contact you (including by mail, SMS, phone or email) to promote LMG business.<br><br>
+        To send you marketing material and otherwise contact you (including by mail,phone or email) to promote LMG business.<br><br>
         
-        With selected third parties for marketing purposes including sending you brochures, catalogues, promotional fulfilment and other marketing material (and otherwise contacting you including by SMS, phone or email).<br><br>
+        On behalf of carefully selected third parties for marketing purposes including sending you brochures, catalogues and other marketing material (and otherwise contacting you including by phone or email).<br><br>
 
-
-        With suppliers and partners who operate LMG websites, who may contact you in relation to services they run, or literature you request/view on our websites, and with other users to forward messages from other users of LMG websites.<br><br>
-
-        If you would not like to receive marketing information about us or third parties please visit your <b>My Details</b> page.<br><br>
+        If you would not like to receive marketing information from us or third parties please update your preferences on your <b>My Details</b> page.<br><br>
 
         Your details and opt-in status will be sent to any company from whom you request or view literature (to complete the order process), indicating your wish to receive one-off or on-going communication.<br><br>
 
         We may transfer your data strictly in accordance with the terms of the Data Protection Act to any third parties in the event of the sale or a transfer of ownership of LMG business or a substantial transfer of our assets, or our insolvency, or to comply or cooperate (in our opinion) with the law or ensure the safety of users of LMG websites (and which in this event may include your aggregated data as well as personal data).<br><br>
-
-        We may provide your data to database purchasers for the purposes of compilation, maintenance and disposal of databases incorporating your personal information.
     </blockquote>
     
     <p>If you are aged over sixteen but under 18;</p>    
@@ -428,11 +553,11 @@ function check_search() {
       We will not collect personal data about you without the express and verifiable consent of a parent or guardian;
     </blockquote>
     
-    <p>We will always follow strict security procedures in storing, using and sharing the information you give us, in order to prevent unauthorised access to it. These security procedures may mean that proof of your identity may sometimes be required before information can be disclosed to you. </p>
+    <p>We will always follow strict security procedures in storing, using and sharing the information you give us, in order to prevent unauthorised access to it. These security procedures mean that proof of your identity may sometimes be required before information can be disclosed to you. </p>
     <p>
 	    The Catalink website is owned and operated by the <a href="http://www.lifestylemediagroup.co.uk" target="_blank">Lifestyle Media Group Ltd</a><br>
 	    Lifestyle Media Group Ltd is registered under the Data Protection Act number: Z4899775<br>
-	    Lifestyle Media Group Ltd is a member of the Institute of Direct Marketing (IDM) and the Direct Marketing Association (DMA)<br>
+	    Lifestyle Media Group Ltd is a member of the Direct Marketing Association (DMA)<br>
 	    Lifestyle Media Group Ltd is a Private Limited Company registered in England and Wales, company number 3871517<br>
 	    Lifestyle Media Group Ltd trades from Unit D, Copley Hill Business Park, Cambridge Road, Babraham, Cambridge, CB22 3GN, United Kingdom
   	</p>
@@ -447,7 +572,7 @@ function check_search() {
 	<img src="/images/idmlogo2.gif" alt="Institute of Direct Marketing" title="Institute of Direct Marketing" width="74" height="50">
 	</div>
 	<div class="col-md-10 col-sm-12">
-		<p><span class="links-row">Copyright © 1999-2016 - <a href="/aboutus.php">About Catalink</a> - <a href="http://blog.catalink.com" target="_blank">Blog</a> - <a href="/new-client-information.php">Become A Client</a> - <a href="/privacy-policy.php" rel="nofollow">Privacy Policy</a> - <a href="/contact-us.php" rel="nofollow">Contact Us</a> - <a href="/create-affiliate.php">Affiliate Program</a></span><br>
+		<p><span class="links-row">Copyright © 1999-2017 - <a href="/aboutus.php">About Catalink</a> - <a href="http://blog.catalink.com" target="_blank">Blog</a> - <a href="/new-client-information.php">Become A Client</a> - <a href="/privacy-policy.php" rel="nofollow">Privacy Policy</a> - <a href="/contact-us.php" rel="nofollow">Contact Us</a> - <a href="/create-affiliate.php">Affiliate Program</a></span><br>
           <span class="links-row"><b><a href="http://www.lifestylemediagroup.co.uk" target="_blank">Lifestyle Media Group</a>:</b> <a href="http://www.catalink.com" target="_blank">Catalink</a>  | <a href="http://www.travelbrochures.co.uk" target="_blank">Travel Brochures</a> |  <a href="http://www.uktourism.co.uk" target="_blank">UK Tourism</a> | <a href="http://www.enewsletters.co.uk" target="_blank">eNewsletters</a>  | <a href="http://www.cruiseholidaybrochures.co.uk" target="_blank">Cruises</a>             </span>
             <br>
             <span style="color:gray;font-size:11px;font-family:arial;" class="links-row">Lifestyle Media Group Ltd -  Company No: 3871517
@@ -531,9 +656,6 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-184288-2");
 pageTracker._trackPageview();
 </script>
-<div id="dialog" title="Catalink Cookies" style="display: none"><p>Catalink uses cookies.  Some may have been set already.  Read about managing our cookies here: <a href="http://www.catalink.com/privacy_policy.php" target="_blank">Privacy Policy</a>.</p>
-<p>If you continue to use this site, we will asume that you are happy to accept the cookies anyway.</p>
-</div>
 
 <!-- Start Google Catalink Universal Analytics -->
 <script>
