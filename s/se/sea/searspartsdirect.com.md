@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searspartsdirect.com privacy policy that was archived on 2016-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160521063011id_/https%3A//secure.searspartsdirect.com/partsdirect/privacyPolicy.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searspartsdirect.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616165429id_/http%3A//www.searspartsdirect.com/partsdirect/privacyPolicy.pd) for the most accurate reproduction.*
 
 # Privacy Policy - Sears
 
@@ -6,7 +6,7 @@
 
 This website or mobile application ("Site") is owned and operated by a Sears Holdings Corporation entity or licensee (which does not include Sears Hometown and Outlet Stores, Inc.). At Sears Holdings, we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place designed to protect it. This Privacy Policy applies to information collected through this Site.
 
-**Please note that on April 7, 2014 Sears Holdings completed a spinoff of our subsidiary Lands' End, which maintains its own privacy policy. You may view Lands' End's privacy policy by clicking here:**  <http://www.landsend.com/customerservice/services_policies/PS_privacy.html>.
+**Please note that on April 7, 2014 Sears Holdings completed a spinoff of our subsidiary Lands' End, which maintains its own privacy policy. You may view Lands' End's privacy policy by clicking here:**  <http://www.landsend.com/customerservice/legal_policies/privacy/>.
 
 Sears Holdings may update this Privacy Policy from time to time. Please check this Privacy Policy periodically for changes. If we make any changes, the updated policy will be posted to this Site with a revised “last updated” date. We encourage you to periodically review this page for the latest information on our privacy practices.
 
