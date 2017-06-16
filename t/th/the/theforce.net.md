@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120162857id_/http%3A//www.theforce.net/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforce.net privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616133032id_/http%3A//www.theforce.net/privacypolicy.asp) for the most accurate reproduction.*
 
 # TheForce.net: Privacy Policy
 
-[](http://www.shareasale.com/r.cfm?B=277011&U=466835&M=30763)   
 [](http://www.officialpix.com/estore/categories.asp?partner=tfn)   
 [](http://www.entertainmentearth.com/starwars.asp?id=TH-303020150)
 
