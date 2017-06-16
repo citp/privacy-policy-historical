@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231151453id_/http%3A//www.moneycontrol.com/cdata/prystat.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneycontrol.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616042222id_/http%3A//m.moneycontrol.com/cdata/prystat.php) for the most accurate reproduction.*
 
-# 
+# Indian Stock/Share Market: Sensex, Nifty, Stock/Share Prices, Share Market Live, Stock/Share Recommendations, Hot Stocks, Stock Market Investing, BSE, NSE, Derivatives, Best Stocks to Buy, Penny Stocks India
 
-  
 **Our Commitment**  
 _money **control.com**_ is strongly committed to your right to privacy and to keeping your personal and financial information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information. 
 
@@ -24,5 +23,4 @@ The _money **control.com**_ site contains links to other websites. _money **cont
 **Notify Us**  
 If at any time you believe that _money **control.com**_ or its users/members have not adhered to these principles, please notify _money **control.com**_ by e-mail at [privacy@moneycontrol.com](mailto:privacy@moneycontrol.com) and we will use all commercially reasonable efforts to promptly determine and correct the problem. 
 
-  
-
+Copyright e-Eighteen.com Ltd. All rights reserved
