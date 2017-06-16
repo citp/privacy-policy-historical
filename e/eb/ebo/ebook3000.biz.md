@@ -1,45 +1,76 @@
-> *The following text is extracted and transformed from the ebook3000.biz privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007001250id_/http%3A//ebook3000.biz/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebook3000.biz privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616212144id_/http%3A//ebook3000.biz/privacy-policy) for the most accurate reproduction.*
 
-# Terms And Privacy - Free Ebook Download
+# Privacy Policy
 
-Federal law requires that I notify you of my privacy policy. My clients expect their confidential information to be treated with the utmost discretion. I take this responsibility seriously. All information given to me in confidence remains confidential.
+This Privacy Policy governs the manner in which eBook3000 collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://ebook3000.biz website (“Site”).
 
-Customer information: The information you provide is needed so that I can make appropriate insurance and other recommendations. Some of this information is known as nonpublic personal information. I have no need to seek or collect nonpublic personal information from third party sources, since my clients provide this information directly. I strive to maintain accurate, up-to-date records in order to serve my clients. Any inaccuracies that are called to my attention are corrected promptly.
+### Personal identification information
 
-Sharing information: I do not share nonpublic personal information with any outside persons or organizations. However, I cannot rule out the possibility that, at some future date we may need to contract with a third party source of administrative or technical support. In such case, I will require the third party to agree to safeguard such nonpublic information and to use it only for the agreed purpose. I do not sell, rent, or loan my client list to any third party. I do not give prospective clients the names of existing clients unless the client has authorized me to do so.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Access to and protection of information: Only those governmental agencies with a valid reason for doing so have access to my files containing nonpublic personal information. I maintain security standards to protect nonpublic personal information.
+### Non-personal identification information
 
-Disclosure of privacy policy: I provide this privacy notice for informational purposes and I will update it as required by law. If you have any comments, suggestions or questions about my privacy policy, please let me know.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-  
+### Web browser cookies
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+### How we use collected information
+
+eBook3000 may collect and use Users personal information for the following purposes:
+
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly.
+  * _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
 
-### Personally Identifiable Information
 
-Ebook3000 never collect your personally identifiable information except the email address when you register as a user of Ebook3000.
+### How we protect your information
 
-  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
+### Sharing your personal information
 
-### Sharing Information.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Ebook3000 may share certain information regarding our customers and former customers among Ebook3000 affiliates only in accordance with our strict security standards and confidentiality policies, and applicable laws. We hold our employees and agents fully accountable for adhering to these standards, policies and laws.
+### Electronic newsletters
 
-From time to time opportunities arise that we believe will benefit our customers and former customers. On a selective basis, we may share your name, address, telephone number and email address with third parties, such as insurance agencies, home warranty companies and tax service providers, record storage companies, moving companies, and other businesses that provide services to home owners, to market financial and non-financial products and services that may interest you. We will only provide this information to companies making these offers available to you under strict confidentiality agreements. For instance, we may share certain information with our strategic business partners with whom we have agreements to help provide customers with Ebook3000 One Stop Shopping Services, or with other companies which help us to conduct business, such as credit bureaus and businesses which provide account maintenance, analysis and servicing. We may also provide information to regulatory authorities and law enforcement officials in accordance with applicable law. If you do not want to participate in these opportunities, please refer to the Opt-Out Notice Section below to learn about how to opt out.
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-### Usage tracking; Collection of your IP Address.
+### Third party websites
 
-Your IP address is a unique number used to identify your specific computer on a public network. Ebook3000 may collect IP addresses for the purposes of system administration, such as diagnosing problems with our server, to analyze consumer behavior and trends, and to audit the use of our site. IP addresses are not used to personally identify a customer and are kept anonymous. Ebook3000 may use IP addresses to identify a customer when we feel it is necessary to enforce compliance with our site terms of use or terms of service, or to protect our service, site's, customers or others.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-### Use Of Cookies.
+### Advertising
 
-Ebook3000 may use "cookies" to track web site visitors. Cookies are small amounts of data that the visitor retains on their computer, which enables the visitor to go back to saved information from a previous visit. They are also used to tailor the navigation of the web site to be consistent with the visitor's preferences and to enable them to see their sales agent's contact information in some cases as they work their way through the web site.
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-### Links to Other Web Sites.
+### Google Adsense
 
-Please be aware that when you click on links that take you to third-party web sites, you will be subject to their respective privacy policy. While Ebook3000 supports the protection of privacy on the Internet, Ebook3000 cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any web site.
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
-### Legal Disclosure.
+### Compliance with children’s online privacy protection act
 
-Ebook3000 may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Ebook3000's terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any of Ebook3000's rights or property, other Ebook3000 customers, or anyone else Ebook3000 may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+### Changes to this privacy policy
+
+eBook3000 has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on January 04, 2017
