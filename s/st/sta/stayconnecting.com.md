@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stayconnecting.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627054855id_/http%3A//stayconnecting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayconnecting.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616145332id_/http%3A//stayconnecting.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Connect to World
+# Privacy Policy | StayConnecting
 
 This privacy statement discloses the privacy practices for all pages and services offered by **Stayconnecting.com**
 
