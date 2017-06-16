@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210100131id_/http%3A//www.storynory.com/about-storynory/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storynory.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616031827id_/http%3A//storynory.com/about-storynory/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookies - Storynory
 
-This pivacy and cookies statement covers the services provided by Storynory Ltd at Storynory.com
+This privacy and cookies statement covers the services provided by Storynory Ltd at Storynory.com.
 
 ### Cookies
 
@@ -10,17 +10,17 @@ When we provide services, we want to make them easy, useful and reliable. Where 
 
 #### We use our own cookies for the following:
 
-  * To remember your first name if you enter it into one of our comment boxes. We do not ask for your email address, your second name, or other personal information, nor do we record your IP address when you leave a comment. (comment_author cookie)
+  * To remember your first name if you enter it into one of our comment boxes. We do not ask for your email address, your second name, or other personal information. (comment_author cookie)
   * Admin of our site – this should not affect you unless you work with us.
-  * To remember that you have clicked to say that you don’t want to see the pop-up cookie message. Ironically, the laws that make us annoy you with this cookie message actually mean that we have to set another cookie.
+  * To remember that we have shown you our cookie warning message.
 
 
 
 #### We use third party cookies for :
 
-  * Google’s AdSense programme – to serve advertisements – this is how we fund our service and keep our stories free. We have informed Google  that our site is “for Child-Directed Treatment”, so that the ads protect you with a higher privacy level than usual. There are other ways in which Adsense uses cookies, and to find out more, you can read more about [How Google uses data when you use its partners’ sites or apps](http://www.google.com/policies/privacy/partners/).
+  * Google’s AdSense programme – to serve advertisements – this is how we fund our service and keep our stories free. We have informed Google  that our site is “[for Child-Directed Treatment](https://support.google.com/adsense/answer/3248194?hl=en)“, so that the ads protect you with a higher privacy level than usual. This means that Google disables interest-based advertising and remarketing ads for that content.
+  * Ezoic – in some cases our advertisements are optimized by Ezoic – a [certified publishing partner](https://www.ezoic.com/google-certified-publishing-partner/) of Google. We have asked Ezoic to treat Storynory as a site “for Child-Directed Treatment”, and to use higher levels of privacy than usual. 
   * Google Analytics – to inform us in a general way about our visitor stats and help us understand how visitors use our site. We do NOT track interests and demographic profiles such as age, or precise geo-location. You can learn more about [Google Analytics and privacy here](https://www.google.com/intl/en/analytics/learn/privacy.html). You can opt out of Google’s analytics cookies using [Google’s browser add-on.](https://tools.google.com/dlpage/gaoptout)
-  * This website uses Google Custom Search to provide the site’s search functionality. Google may set cookies when you use the search function. You can find out more about how Google uses data [www.google.com/policies/privacy/>here](http://www.google.com/policies/privacy/partners/).
 
 
 
@@ -64,8 +64,8 @@ The Data Controller for Storynory.com is Hugh Fraser, aka Bertie. email: bertie@
 
 ### Updates
 
-This privacy policy was last updated on September 01, 2015. The policy may change from time to time as we add additional services, so we suggest that if you are concerned about privacy, you review it regularly.
+This privacy policy was last updated on May 16 2017. The policy may change from time to time as we add additional services, so we suggest that if you are concerned about privacy, you review it regularly.
 
 ### Thank you
 
-Thank you for using Storynory. We hope that our privacy information is clear and that you feel we have taken reasonable steps to protect the privacy of children.
+Thank you for using Storynory. We hope that our privacy information is clear and that you feel we have taken reasonable steps to protect the privacy of our visitors with special regard to younger people. 
