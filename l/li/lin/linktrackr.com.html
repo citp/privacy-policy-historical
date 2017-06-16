@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the linktrackr.com privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121065612id_/http%3A//www.linktrackr.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linktrackr.com privacy policy that was archived on 2017-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170616064726id_/http%3A//www.linktrackr.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="js"><!--<![endif]--><head>
-	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4&amp;appId=423563804349627"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<!DOCTYPE html><html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec" class="js"><!--<![endif]--><head>
+	<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
 			
 	
 	<link rel="pingback" href="http://www.linktrackr.com/blog/xmlrpc.php">
@@ -19,7 +19,7 @@
 <!-- Jetpack Site Verification Tags -->
 <meta name="google-site-verification" content="Ot3BFHjL0vpoGDnHoh61jZDT2qVXLmhtzTLW9ncyW1o">
 
-<!-- All in One SEO Pack 2.3.9.1 by Michael Torbert of Semper Fi Web Design[623,657] -->
+<!-- All in One SEO Pack 2.3.13.2 by Michael Torbert of Semper Fi Web Design[1027,1061] -->
 <meta name="description" content="LinkTrackr.com is controlled, operated and administered entirely by Kreydle Sdn Bhd (hereafter referred to as Kreydle). Kreydle strives to offer its visitors">
 
 <link rel="canonical" href="http://www.linktrackr.com/privacy/">
@@ -34,6 +34,7 @@
 			ga('send', 'pageview');
 			</script>
 <!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//s7.addthis.com">
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//s.gravatar.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -41,10 +42,10 @@
 <link rel="alternate" type="application/rss+xml" title="LinkTrackr » Feed" href="http://www.linktrackr.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="LinkTrackr » Comments Feed" href="http://www.linktrackr.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.linktrackr.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.linktrackr.com/blog/wp-includes/js/wp-emoji-release.min.js?ver=4.6" type="text/javascript"></script>
-		<meta content="Divi v.2.7.5" name="generator"><style type="text/css">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.linktrackr.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.linktrackr.com/blog/wp-includes/js/wp-emoji-release.min.js?ver=4.7.3" type="text/javascript" defer=""></script>
+		<meta content="Divi v.3.0.34" name="generator"><style type="text/css">
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -58,30 +59,26 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="yarppWidgetCss-css" href="http://www.linktrackr.com/blog/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="prettify-gc-syntax-highlighter-css" href="http://www.linktrackr.com/blog/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.css?ver=4.6" type="text/css" media="all">
-<link rel="stylesheet" id="et-gf-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
-<link rel="stylesheet" id="et_monarch-css-css" href="http://www.linktrackr.com/blog/wp-content/plugins/monarch/css/style.css?ver=1.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="prettify-gc-syntax-highlighter-css" href="http://www.linktrackr.com/blog/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.css?ver=4.7.3" type="text/css" media="all">
 <link rel="stylesheet" id="divi-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="et-gf-droid-serif-css" href="http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic&amp;subset=latin" type="text/css" media="all">
-<link rel="stylesheet" id="divi-style-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/style.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack-top-posts-widget-css" href="http://www.linktrackr.com/blog/wp-content/plugins/jetpack/modules/widgets/top-posts/style.css?ver=20141013" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-css-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=2.7.5" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://www.linktrackr.com/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=4.2.2" type="text/css" media="all">
+<link rel="stylesheet" id="et-gf-roboto-css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese" type="text/css" media="all">
+<link rel="stylesheet" id="et-gf-source-sans-pro-css" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900,900italic&amp;subset=latin,latin-ext" type="text/css" media="all">
+<link rel="stylesheet" id="divi-style-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/style.css?ver=3.0.34" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-css-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0.34" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0.34" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.0.34" type="text/css" media="all">
+<link rel="stylesheet" id="addthis_all_pages-css" href="http://www.linktrackr.com/blog/wp-content/plugins/addthis-smart-layers/frontend/build/addthis_wordpress_public.min.css?ver=4.7.3" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="http://www.linktrackr.com/blog/wp-content/plugins/jetpack/css/jetpack.css?ver=5.0" type="text/css" media="all">
 <script type="text/javascript" src="http://www.linktrackr.com/blog/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.linktrackr.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://www.linktrackr.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.linktrackr.com/blog/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.linktrackr.com/blog/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.6">
+<meta name="generator" content="WordPress 4.7.3">
 <link rel="shortlink" href="http://wp.me/P2ysto-kD">
 <link rel="alternate" type="application/json+oembed" href="http://www.linktrackr.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F">
 <link rel="alternate" type="text/xml+oembed" href="http://www.linktrackr.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;format=xml">
-<style type="text/css" id="et-social-custom-css">
-				 
-			</style><!-- Open Graph from SEOPressor -->
+<!-- Open Graph from SEOPressor -->
 <meta property="og:type" content="article">
 <meta property="og:url" content="http://www.linktrackr.com/privacy/">
 <meta property="og:site_name" content="LinkTrackr">
@@ -117,95 +114,170 @@ Kreydle strives to offer its visitors t(...)"><meta name="DC.Date" content="2015
 <link rel="dns-prefetch" href="//1.gravatar.com">
 <link rel="dns-prefetch" href="//2.gravatar.com">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">		<style id="theme-customizer-css">
-																									#top-header, #et-secondary-nav li ul { background-color: #fcfcfc; }
-								#top-header, #top-header a { color: #999999; }
-															#top-menu li a { font-size: 13px; }
-			body.et_vertical_nav .container.et_search_form_container .et-search-form input { font-size: 13px !important; }
+					@media only screen and ( min-width: 767px ) {
+				body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url, body .et_pb_bg_layout_light .et_pb_post p,  body .et_pb_bg_layout_dark .et_pb_post p { font-size: 16px; }
+				.et_pb_slide_content, .et_pb_best_value { font-size: 18px; }
+			}
+							body { color: #262e32; }
+								h1, h2, h3, h4, h5, h6 { color: #262e32; }
+								body { line-height: 1.8em; }
+							.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #dd3333 !important; }
+			#et_search_icon:hover, .mobile_menu_bar:before, .mobile_menu_bar:after, .et_toggle_slide_menu:after, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in a { color: #dd3333; }
+			.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit .et_pb_button, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button { color: #dd3333; }
+			.footer-widget h4 { color: #dd3333; }
+			.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #dd3333; }
+			.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content, .et_pb_post_slider.et_pb_bg_layout_dark, .et_slide_in_menu_container { background-color: #dd3333; }
+									a { color: #e74c3c; }
+							#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #34495e; }
+									.nav li ul { border-color: #34495e; }
+							#top-header, #et-secondary-nav li ul { background-color: #34495e; }
+													.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu > li > a, .et_nav_text_color_dark #top-menu > li > a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info { color: #ffffff; }
+			.et_search_form_container input::-moz-placeholder { color: #ffffff; }
+			.et_search_form_container input::-webkit-input-placeholder { color: #ffffff; }
+			.et_search_form_container input:-ms-input-placeholder { color: #ffffff; }
+								
+					#top-menu li a, .et_search_form_container input {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+
+			.et_search_form_container input::-moz-placeholder {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+			.et_search_form_container input::-webkit-input-placeholder {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
+			.et_search_form_container input:-ms-input-placeholder {
+									font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; 											}
 		
-		
+					#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a,
+			.et_color_scheme_red #top-menu li.current-menu-ancestor > a, .et_color_scheme_red #top-menu li.current-menu-item > a,
+			.et_color_scheme_pink #top-menu li.current-menu-ancestor > a, .et_color_scheme_pink #top-menu li.current-menu-item > a,
+			.et_color_scheme_orange #top-menu li.current-menu-ancestor > a, .et_color_scheme_orange #top-menu li.current-menu-item > a,
+			.et_color_scheme_green #top-menu li.current-menu-ancestor > a, .et_color_scheme_green #top-menu li.current-menu-item > a { color: rgba(255,255,255,0.9); }
 							#main-footer { background-color: #2c3e50; }
-											#main-footer .footer-widget h4 { color: #ffffff; }
-								.bottom-nav, .bottom-nav a, .bottom-nav li.current-menu-item a { color: #c4c4c4; }#et-footer-nav .bottom-nav li.current-menu-item a { color: #c4c4c4; }#footer-info, #footer-info a { color: #999999; }#footer-info { font-size: 12px ; }#footer-bottom .et-social-icon a { font-size: 16px ; }#footer-bottom .et-social-icon a { color: #cecece; }									body .et_pb_button,
+							#footer-widgets .footer-widget li a { color: #fde3a7; }
+							.footer-widget { color: #c5d3e2; }
+							#main-footer .footer-widget h4 { color: #c5d3e2; }
+							.footer-widget li:before { border-color: #dd3333; }
+						.footer-widget h4 { font-weight: bold; font-style: normal; text-transform: uppercase; text-decoration: none;  }.footer-widget .et_pb_widget div, .footer-widget .et_pb_widget ul, .footer-widget .et_pb_widget ol, .footer-widget .et_pb_widget label { line-height: 1.7em ; }#footer-widgets .footer-widget li:before { top: 10.6px; }#et-footer-nav { background-color: #c0392b; }.bottom-nav, .bottom-nav a, .bottom-nav li.current-menu-item a { color: #e7e7e7; }#et-footer-nav .bottom-nav li.current-menu-item a { color: #e7e7e7; }.bottom-nav, .bottom-nav a { font-size: 13px ; }#footer-bottom { background-color: #2c3e50; }#footer-info, #footer-info a { color: rgba(197,211,226,0.45); }#footer-info { font-size: 12px ; }#footer-bottom .et-social-icon a { font-size: 20px ; }#footer-bottom .et-social-icon a { color: #c0392b; }									body .et_pb_button,
 			.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt,
-			.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button
+			.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message a.button.wc-forward
 			{
-													background: rgba(255,255,255,0);
-																											}
+									 font-size: 18px;
+													background: #c0392b;
+													border-width: 0px !important;
+													border-color: #c0392b;
+													border-radius: 8px;
+													font-weight: normal; font-style: normal; text-transform: uppercase; text-decoration: none; ;
+											}
 			body.et_pb_button_helper_class .et_pb_button,
 			.woocommerce.et_pb_button_helper_class a.button.alt, .woocommerce-page.et_pb_button_helper_class a.button.alt, .woocommerce.et_pb_button_helper_class button.button.alt, .woocommerce-page.et_pb_button_helper_class button.button.alt, .woocommerce.et_pb_button_helper_class input.button.alt, .woocommerce-page.et_pb_button_helper_class input.button.alt, .woocommerce.et_pb_button_helper_class #respond input#submit.alt, .woocommerce-page.et_pb_button_helper_class #respond input#submit.alt, .woocommerce.et_pb_button_helper_class #content input.button.alt, .woocommerce-page.et_pb_button_helper_class #content input.button.alt,
 			.woocommerce.et_pb_button_helper_class a.button, .woocommerce-page.et_pb_button_helper_class a.button, .woocommerce.et_pb_button_helper_class button.button, .woocommerce-page.et_pb_button_helper_class button.button, .woocommerce.et_pb_button_helper_class input.button, .woocommerce-page.et_pb_button_helper_class input.button, .woocommerce.et_pb_button_helper_class #respond input#submit, .woocommerce-page.et_pb_button_helper_class #respond input#submit, .woocommerce.et_pb_button_helper_class #content input.button, .woocommerce-page.et_pb_button_helper_class #content input.button {
+									color: #f4f4f4 !important;
 							}
 							body .et_pb_button:after,
 			.woocommerce a.button.alt:after, .woocommerce-page a.button.alt:after, .woocommerce button.button.alt:after, .woocommerce-page button.button.alt:after, .woocommerce input.button.alt:after, .woocommerce-page input.button.alt:after, .woocommerce #respond input#submit.alt:after, .woocommerce-page #respond input#submit.alt:after, .woocommerce #content input.button.alt:after, .woocommerce-page #content input.button.alt:after,
 			.woocommerce a.button:after, .woocommerce-page a.button:after, .woocommerce button.button:after, .woocommerce-page button.button:after, .woocommerce input.button:after, .woocommerce-page input.button:after, .woocommerce #respond input#submit:after, .woocommerce-page #respond input#submit:after, .woocommerce #content input.button:after, .woocommerce-page #content input.button:after
 			{
 															content: '=';
-										font-size: 20px;
+										font-size: 18px;
 											}
-				
+							body .et_pb_button:hover,
+			.woocommerce a.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page #content input.button.alt:hover,
+			.woocommerce a.button:hover, .woocommerce-page a.button:hover, .woocommerce button.button:hover, .woocommerce-page button.button:hover, .woocommerce input.button:hover, .woocommerce-page input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page #content input.button:hover
+			{
+									 color: #f4f4f4 !important;
+													background: #dd3333 !important;
+													border-color: #dd3333 !important;
+													border-radius: 8px;
+											}
+		
 						h1, h2, h3, h4, h5, h6, .et_quote_content blockquote p, .et_pb_slide_description .et_pb_slide_title {
 										
 											line-height: 1.2em;
 									}
 		
-																														
+		body.home-posts #left-area .et_pb_post .post-meta, body.archive #left-area .et_pb_post .post-meta, body.search #left-area .et_pb_post .post-meta, body.single #left-area .et_pb_post .post-meta { line-height: 2em ; }body.home-posts #left-area .et_pb_post h2, body.archive #left-area .et_pb_post h2, body.search #left-area .et_pb_post h2, body.single .et_post_meta_wrapper h1 { letter-spacing: -1px ; }																												
 		@media only screen and ( min-width: 981px ) {
-																						#logo { max-height: 40%; }
-				.et_pb_svg_logo #logo { height: 40%; }
-																.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container, .et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container { height: 11.88px; }
-										.et_header_style_left .et-fixed-header #et-top-navigation, .et_header_style_split .et-fixed-header #et-top-navigation { padding: 22px 0 0 0; }
-				.et_header_style_left .et-fixed-header #et-top-navigation nav > ul > li > a, .et_header_style_split .et-fixed-header #et-top-navigation nav > ul > li > a  { padding-bottom: 22px; }
-				.et_header_style_centered header#main-header.et-fixed-header .logo_container { height: 44px; }
-				.et_header_style_split .et-fixed-header .centered-inline-logo-wrap { width: 44px; margin: -44px 0;  }
-				.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo { max-height: 44px; }
-				.et_pb_svg_logo.et_header_style_split .et-fixed-header .centered-inline-logo-wrap #logo { height: 44px; }
-				.et_header_style_slide .et-fixed-header #et-top-navigation, .et_header_style_fullscreen .et-fixed-header #et-top-navigation { padding: 13px 0 13px 0 !important; }
-													.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #2c3e50; }
-													.et-fixed-header #top-menu li a { font-size: 13px; }
-																.et-fixed-header#top-header a { color: #999999; }
-			
-					}
-		@media only screen and ( min-width: 1350px) {
-			.et_pb_row { padding: 27px 0; }
-			.et_pb_section { padding: 54px 0; }
-			.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 81px; }
-			.et_pb_section.et_pb_section_first { padding-top: inherit; }
-			.et_pb_fullwidth_section { padding: 0; }
-		}
+																				h1 { font-size: 36px; }
+					h2, .product .related h2, .et_pb_column_1_2 .et_quote_content blockquote p { font-size: 30px; }
+					h3 { font-size: 26px; }
+					h4, .et_pb_circle_counter h3, .et_pb_number_counter h3, .et_pb_column_1_3 .et_pb_post h2, .et_pb_column_1_4 .et_pb_post h2, .et_pb_blog_grid h2, .et_pb_column_1_3 .et_quote_content blockquote p, .et_pb_column_3_8 .et_quote_content blockquote p, .et_pb_column_1_4 .et_quote_content blockquote p, .et_pb_blog_grid .et_quote_content blockquote p, .et_pb_column_1_3 .et_link_content h2, .et_pb_column_3_8 .et_link_content h2, .et_pb_column_1_4 .et_link_content h2, .et_pb_blog_grid .et_link_content h2, .et_pb_column_1_3 .et_audio_content h2, .et_pb_column_3_8 .et_audio_content h2, .et_pb_column_1_4 .et_audio_content h2, .et_pb_blog_grid .et_audio_content h2, .et_pb_column_3_8 .et_pb_audio_module_content h2, .et_pb_column_1_3 .et_pb_audio_module_content h2, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2 { font-size: 21px; }
+					h5 { font-size: 19px; }
+					h6 { font-size: 16px; }
+					.et_pb_slide_description .et_pb_slide_title { font-size: 55px; }
+					.woocommerce ul.products li.product h3, .woocommerce-page ul.products li.product h3, .et_pb_gallery_grid .et_pb_gallery_item h3, .et_pb_portfolio_grid .et_pb_portfolio_item h2, .et_pb_filterable_portfolio_grid .et_pb_portfolio_item h2, .et_pb_column_1_4 .et_pb_audio_module_content h2 { font-size: 19px; }
+														.footer-widget h4 { font-size: 16px; }
+													#logo { max-height: 38%; }
+				.et_pb_svg_logo #logo { height: 38%; }
+																			.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container, .et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container { height: 11.88px; }
+																.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li ul { background-color: #34495e; }
+										.et-fixed-header#main-header, .et-fixed-header#main-header .nav li ul, .et-fixed-header .et-search-form { background-color: #2c3e50; }
+													.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info { color: #ffffff !important; }
+				.et-fixed-header .et_search_form_container input::-moz-placeholder { color: #ffffff !important; }
+				.et-fixed-header .et_search_form_container input::-webkit-input-placeholder { color: #ffffff !important; }
+				.et-fixed-header .et_search_form_container input:-ms-input-placeholder { color: #ffffff !important; }
+										.et-fixed-header #top-menu li.current-menu-ancestor > a,
+				.et-fixed-header #top-menu li.current-menu-item > a { color: rgba(255,255,255,0.9) !important; }
+						
+			body.home-posts #left-area .et_pb_post h2, body.archive #left-area .et_pb_post h2, body.search #left-area .et_pb_post h2 { font-size:36.4px }
+						body.single .et_post_meta_wrapper h1 { font-size:42px; }		}
+					@media only screen and ( min-width: 1350px) {
+				.et_pb_row { padding: 27px 0; }
+				.et_pb_section { padding: 54px 0; }
+				.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper { padding-top: 81px; }
+				.et_pb_section.et_pb_section_first { padding-top: inherit; }
+				.et_pb_fullwidth_section { padding: 0; }
+			}
+		
 		@media only screen and ( max-width: 980px ) {
 																				}
 		@media only screen and ( max-width: 767px ) {
 														}
 	</style>
 
+	
 					<style class="et_heading_font">
 				h1, h2, h3, h4, h5, h6 {
-					font-family: 'Droid Serif', Georgia, "Times New Roman", serif;				}
+					font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif;				}
 				</style>
 							<style class="et_body_font">
 				body, input, textarea, select {
-					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}
+					font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif;				}
 				</style>
 							<style class="et_all_buttons_font">
 				.et_pb_button {
-					font-family: 'Open Sans', Helvetica, Arial, Lucida, sans-serif;				}
+					font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif;				}
+				</style>
+							<style class="et_primary_nav_font">
+				#main-header,
+				#et-top-navigation {
+					font-family: 'Source Sans Pro', Helvetica, Arial, Lucida, sans-serif;				}
 				</style>
 			
 		<style id="theme-customizer-sidebar-width-css">
-		body #page-container #sidebar { width:25%; }
-				body #page-container #left-area { width:75%; }
-				.et_right_sidebar #main-content .container:before { right:25% !important; }
-				.et_left_sidebar #main-content .container:before { left:25% !important; }	</style>
+		body #page-container #sidebar { width:28%; }
+				body #page-container #left-area { width:72%; }
+				.et_right_sidebar #main-content .container:before { right:28% !important; }
+				.et_left_sidebar #main-content .container:before { left:28% !important; }	</style>
 	
 	<style id="module-customizer-css">
-		.et_pb_blurb h4 { font-size: 20px; }
-.et_pb_promo h2 { font-size: 27px; }
-.et_pb_column_1_3 .et_pb_promo h2, .et_pb_column_1_4 .et_pb_promo h2 { font-size: 22.846153842px; }.et_pb_posts .et_pb_post h2 { font-size: 16px; }
-.et_pb_column_1_3 .et_pb_posts .et_pb_post h2, .et_pb_column_1_4 .et_pb_posts .et_pb_post h2 { font-size: 13.538461536px; }	</style>
+		.et_pb_blurb h4 { font-size: 26px; }
+.et_pb_pricing_heading h2 { font-size: 24px; }
+.et_pb_pricing_heading h2 { font-weight: bold; font-style: normal; text-transform: none; text-decoration: none;  }
+.et_pb_best_value { font-size: 18px; }
+.et_pb_best_value { font-weight: normal; font-style: italic; text-transform: none; text-decoration: none;  }
+.et_pb_sum { font-size: 60px; }
+.et_pb_sum { font-weight: bold; font-style: italic; text-transform: none; text-decoration: none;  }
+.et_pb_promo h2 { font-size: 32px; }
+.et_pb_column_1_3 .et_pb_promo h2, .et_pb_column_1_4 .et_pb_promo h2 { font-size: 27.076923072px; }.et_pb_toggle.et_pb_toggle_item h5 { font-size: 18px; }
+.et_pb_toggle.et_pb_toggle_item .et_pb_toggle_title:before { font-size: 23px; }
+.et_pb_toggle.et_pb_toggle_item { padding: 15px; }
+.et_pb_space:before { border-top-style: solid; }
+.et_pb_space:before { border-top-width: 2px; }
+.et_pb_space { height: 40px; }
+	</style>
 
 	<link rel="shortcut icon" href="http://www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #f4f4f4; }
+body.custom-background { background-color: #f7f8fa; }
 </style>
 
 <!-- Jetpack Open Graph Tags -->
@@ -216,17 +288,16 @@ body.custom-background { background-color: #f4f4f4; }
 <meta property="article:published_time" content="2015-09-07T03:25:57+00:00">
 <meta property="article:modified_time" content="2015-09-07T03:28:13+00:00">
 <meta property="og:site_name" content="LinkTrackr">
-<meta property="og:image" content="http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32">
-<meta property="og:image:width" content="512">
-<meta property="og:image:height" content="512">
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg">
 <meta property="og:locale" content="en_US">
+<meta name="twitter:image" content="https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32">
 <meta name="twitter:card" content="summary">
-<link rel="icon" href="http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32" sizes="32x32">
-<link rel="icon" href="http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32">
-<meta name="msapplication-TileImage" content="http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32">
+<link rel="icon" href="https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32" sizes="32x32">
+<link rel="icon" href="https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32">
+<meta name="msapplication-TileImage" content="https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2014/03/favicon.png?fit=32%2C32">
 
-<!-- BEGIN GADWP v4.9.3.1 Classic Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<!-- BEGIN GADWP v4.9.6.2 Classic Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-46466506-1']);
@@ -240,25 +311,21 @@ body.custom-background { background-color: #f4f4f4; }
 </script>
 <!-- END GADWP Classic Tracking -->
 
-<style type="text/css" id="et-custom-css">
-#logo {
-    max-height: 35%;
-}
-.jumbotron {padding-top:150px; padding-bottom:150px;}
-.jumbotron h1 {font-size:60px; word-wrap: normal;}
-.testimonials {padding-top:50px; padding-bottom:50px;}
-.guarantees {padding-top:100px; padding-bottom:100px;}
-.guarantees img {max-height:150px;}
-#footer-widgets {padding-top:150px; padding-bottom:100px;}
-.features-heading {padding-top:100px; padding-bottom:50px; text-align:center;}
-.features-heading h1 {font-size:54px; word-wrap: normal;}
-.features-content {background-color:#fcfcfc; border-top: 1px solid #f4f4f4;}
-.features-content h3 {font-size:38px, 44px; padding: 20px 0px 20px 0px;}
-.features-content h2 {font-size:32px, font-weight:100; line-height:1.7em; padding: 20px 0px 20px 0px;}
+			<style type="text/css" id="wp-custom-css">
+				body {font-weight:300;}
+h1, h2, h3, h4 {font-weight:300;}
+.section {}
+.heading strong {font-weight:400;}
+.border-bottom {border-bottom: 1px solid #d7dce1;}
+.border-top {border-top: 1px solid #d7dce1;}
+.features-blurb img {max-height:150px; max-width:150px; border:none;}
 code, pre {color:#e74c3c; font-family: Consolas; font-size:15px;}
-.features-content img {padding:5px; border: 1px solid #f4f4f4; margin: 20px 0px 20px 0px; background-color: #ffffff;}
-</style></head>
-<body class="page page-id-1279 page-template-default custom-background et_monarch et_bloom et_button_custom_icon et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutters3 et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_flip et_pb_footer_columns3 et_header_style_left et_right_sidebar unknown">
+.entry-content h2, .entry-content h3 {padding-top:20px;}
+#logo {max-height:40%;}
+#footer-widgets {padding-top:100px; padding-bottom:100px;}
+.footer-links {color:#FDE3A7;}			</style>
+		</head>
+<body class="page-template-default page page-id-1279 custom-background et_bloom et_color_scheme_red et_button_custom_icon et_pb_button_helper_class et_fixed_nav et_show_nav et_cover_background et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns3 et_header_style_left et_right_sidebar et_divi_theme unknown">
 	<div id="page-container">
 
 	
@@ -268,15 +335,17 @@ code, pre {color:#e74c3c; font-family: Consolas; font-size:15px;}
 							<div class="logo_container">
 					<span class="logo_helper"></span>
 					<a href="http://www.linktrackr.com/">
-						<img src="http://www.linktrackr.com/blog/wp-content/uploads/2015/08/logo-standard-small.png" alt="LinkTrackr" id="logo" data-height-percentage="40">
+						<img src="http://www.linktrackr.com/blog/wp-content/uploads/2015/08/logo-monotone-white.png" alt="LinkTrackr" id="logo" data-height-percentage="38">
 					</a>
 				</div>
-				<div id="et-top-navigation" data-height="66" data-fixed-height="44">
+				<div id="et-top-navigation" data-height="66" data-fixed-height="40">
 											<nav id="top-menu-nav">
-						<ul id="top-menu" class="nav et_disable_top_tier"><li id="menu-item-1093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1093"><a href="http://www.linktrackr.com/">HOME</a></li>
+						<ul id="top-menu" class="nav"><li id="menu-item-1093" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1093"><a href="http://www.linktrackr.com/">HOME</a></li>
 <li id="menu-item-1275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1275"><a href="http://www.linktrackr.com/features/">FEATURES</a></li>
 <li id="menu-item-1091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1091"><a href="http://www.linktrackr.com/signup/">PRICING</a></li>
+<li id="menu-item-1651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1651"><a href="http://www.linktrackr.com/tutorials/">TUTORIALS</a></li>
 <li id="menu-item-1092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1092"><a href="http://www.linktrackr.com/blog/">BLOG</a></li>
+<li id="menu-item-1409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1409"><a href="http://www.linktrackr.com/contact/">CONTACT</a></li>
 </ul>						</nav>
 					
 					
@@ -318,7 +387,7 @@ code, pre {color:#e74c3c; font-family: Consolas; font-size:15px;}
 				
 				
 					<div class="entry-content">
-					<p><strong>LinkTrackr.com</strong> is controlled, operated and administered entirely by <strong><a rel="nofollow" href="http://www.kreydle.com/" target="_blank">Kreydle Sdn Bhd </a></strong>(hereafter referred to as Kreydle).</p>
+					<div class="at-above-post-page addthis_tool" data-url="http://www.linktrackr.com/privacy/"></div><p><strong>LinkTrackr.com</strong> is controlled, operated and administered entirely by <strong><a rel="nofollow" href="http://www.kreydle.com/" target="_blank">Kreydle Sdn Bhd </a></strong>(hereafter referred to as Kreydle).</p>
 <p>Kreydle strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.</p>
 <p><strong>How we gather information from users</strong></p>
 <p>How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site.</p>
@@ -355,6 +424,13 @@ Governing law</p>
 <p>This policy and the use of this Site are governed by Kuala Lumpur, Malaysia law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Kuala Lumpur, Malaysia. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.</p>
 <p>If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Kuala Lumpur, Malaysia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.</p>
 <p>This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
+<!-- AddThis Advanced Settings above via filter on the_content -->
+<!-- AddThis Advanced Settings below via filter on the_content -->
+<!-- AddThis Advanced Settings generic via filter on the_content -->
+<!-- AddThis Share Buttons above via filter on the_content -->
+<!-- AddThis Share Buttons below via filter on the_content -->
+<div class="at-below-post-page addthis_tool" data-url="http://www.linktrackr.com/privacy/"></div><!-- AddThis Share Buttons generic via filter on the_content -->
+<!-- AddThis Related Posts generic via filter on the_content -->
 <span class="et_bloom_bottom_trigger"></span>					</div> <!-- .entry-content -->
 
 				
@@ -373,7 +449,7 @@ Governing law</p>
 			<div class="et_bloom_form_container_wrapper clearfix">
 				<div class="et_bloom_header_outer">
 					<div class="et_bloom_form_header et_bloom_header_text_dark">
-						<img width="503" height="600" src="http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2016/06/cover-box.png?fit=503%2C600" class="et_bloom_hide_mobile et_bloom_image_bounce et_bloom_image" alt="cover-box" srcset="http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2016/06/cover-box.png?w=503 503w, http://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2016/06/cover-box.png?resize=252%2C300 252w" sizes="(max-width: 503px) 100vw, 503px">
+						<img width="503" height="600" src="https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2016/06/cover-box.png?fit=503%2C600" class="et_bloom_hide_mobile et_bloom_image_bounce et_bloom_image" alt="" srcset="https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2016/06/cover-box.png?w=503 503w, https://i1.wp.com/www.linktrackr.com/blog/wp-content/uploads/2016/06/cover-box.png?resize=252%2C300 252w" sizes="(max-width: 503px) 100vw, 503px">
 						<div class="et_bloom_form_text">
 						<h2>"The 7 Deadliest Affiliate Mistakes"</h2><p>Struggling to make more affiliate commisisons? <em>You</em> could be committing one of these seven deadly mistakes that are eating up your affiliate profits!</p>
 <p>Enter your name and email address to get a free copy of this $37 report for a limited time only!&nbsp;</p>
@@ -425,7 +501,7 @@ Governing law</p>
 				<a href="http://www.linktrackr.com/market-health-review/">Market Health Review – Is MarketHealth a Scam?</a>
 						</li>
 				</ul>
-		</div> <!-- end .et_pb_widget -->		<div id="recent-comments-3" class="et_pb_widget widget_recent_comments"><h4 class="widgettitle">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="http://bestandroid.pro" rel="external nofollow" class="url">kino</a></span> on <a href="http://www.linktrackr.com/peerfly-review/#comment-24470">PeerFly Review: CPA Affiliate Marketing Network</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.gobalakrishnan.com" rel="external nofollow" class="url">Gobala Krishnan</a></span> on <a href="http://www.linktrackr.com/what-is-link-masking/#comment-24436">What Is Link Masking or URL Masking?</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.avidreviews.co" rel="external nofollow" class="url">Elvis Ekoigiawe</a></span> on <a href="http://www.linktrackr.com/jvzoo-review/#comment-24415">JVZoo Review – New ClickBank Killer?</a></li><li class="recentcomments"><span class="comment-author-link">Stanly</span> on <a href="http://www.linktrackr.com/what-is-link-masking/#comment-24411">What Is Link Masking or URL Masking?</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://ivanhoe.io" rel="external nofollow" class="url">Bart Houtman</a></span> on <a href="http://www.linktrackr.com/ppc-click-tracking/#comment-24278">PPC Click Tracking Features in LinkTrackr</a></li></ul></div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
+		</div> <!-- end .et_pb_widget -->		<div id="recent-comments-3" class="et_pb_widget widget_recent_comments"><h4 class="widgettitle">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="http://www.gobalakrishnan.com" rel="external nofollow" class="url">Gobala Krishnan</a></span> on <a href="http://www.linktrackr.com/niche-website-builder-software-nichify/#comment-24639">Niche Website Builder Software – Nichify</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.gobalakrishnan.com" rel="external nofollow" class="url">Gobala Krishnan</a></span> on <a href="http://www.linktrackr.com/ppc-click-tracking/#comment-24638">PPC Click Tracking Features in LinkTrackr</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.manuthief.com" rel="external nofollow" class="url">Man U Thief</a></span> on <a href="http://www.linktrackr.com/ppc-click-tracking/#comment-24637">PPC Click Tracking Features in LinkTrackr</a></li><li class="recentcomments"><span class="comment-author-link"><a href="https://itcrocblog.com/" rel="external nofollow" class="url">ShanonManjur</a></span> on <a href="http://www.linktrackr.com/niche-website-builder-software-nichify/#comment-24636">Niche Website Builder Software – Nichify</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.beautifulpatioandgardens.com" rel="external nofollow" class="url">Charlene Beal</a></span> on <a href="http://www.linktrackr.com/clickbank-hoplink/#comment-24608">What is a ClickBank Hoplink and How Does It Work?</a></li></ul></div> <!-- end .et_pb_widget -->	</div> <!-- end #sidebar -->
 		</div> <!-- #content-area -->
 	</div> <!-- .container -->
 
@@ -466,14 +542,23 @@ Governing law</p>
 					<li>
 				<a href="http://www.linktrackr.com/market-health-review/">Market Health Review – Is MarketHealth a Scam?</a>
 						</li>
+					<li>
+				<a href="http://www.linktrackr.com/ppc-click-tracking/">PPC Click Tracking Features in LinkTrackr</a>
+						</li>
+					<li>
+				<a href="http://www.linktrackr.com/shareasale-review/">Shareasale Review – Scam or Legit?</a>
+						</li>
+					<li>
+				<a href="http://www.linktrackr.com/cookie-stuffing/">Cookie Stuffing or Cookie Dropping – How Does it Work?</a>
+						</li>
 				</ul>
-		</div> <!-- end .fwidget -->		</div> <!-- end .footer-widget --><div class="footer-widget"><div id="recent-comments-4" class="fwidget et_pb_widget widget_recent_comments"><h4 class="title">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="http://bestandroid.pro" rel="external nofollow" class="url">kino</a></span> on <a href="http://www.linktrackr.com/peerfly-review/#comment-24470">PeerFly Review: CPA Affiliate Marketing Network</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.gobalakrishnan.com" rel="external nofollow" class="url">Gobala Krishnan</a></span> on <a href="http://www.linktrackr.com/what-is-link-masking/#comment-24436">What Is Link Masking or URL Masking?</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.avidreviews.co" rel="external nofollow" class="url">Elvis Ekoigiawe</a></span> on <a href="http://www.linktrackr.com/jvzoo-review/#comment-24415">JVZoo Review – New ClickBank Killer?</a></li><li class="recentcomments"><span class="comment-author-link">Stanly</span> on <a href="http://www.linktrackr.com/what-is-link-masking/#comment-24411">What Is Link Masking or URL Masking?</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://ivanhoe.io" rel="external nofollow" class="url">Bart Houtman</a></span> on <a href="http://www.linktrackr.com/ppc-click-tracking/#comment-24278">PPC Click Tracking Features in LinkTrackr</a></li></ul></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+		</div> <!-- end .fwidget -->		</div> <!-- end .footer-widget --><div class="footer-widget"><div id="recent-comments-4" class="fwidget et_pb_widget widget_recent_comments"><h4 class="title">Recent Comments</h4><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href="http://www.gobalakrishnan.com" rel="external nofollow" class="url">Gobala Krishnan</a></span> on <a href="http://www.linktrackr.com/niche-website-builder-software-nichify/#comment-24639">Niche Website Builder Software – Nichify</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.gobalakrishnan.com" rel="external nofollow" class="url">Gobala Krishnan</a></span> on <a href="http://www.linktrackr.com/ppc-click-tracking/#comment-24638">PPC Click Tracking Features in LinkTrackr</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.manuthief.com" rel="external nofollow" class="url">Man U Thief</a></span> on <a href="http://www.linktrackr.com/ppc-click-tracking/#comment-24637">PPC Click Tracking Features in LinkTrackr</a></li><li class="recentcomments"><span class="comment-author-link"><a href="https://itcrocblog.com/" rel="external nofollow" class="url">ShanonManjur</a></span> on <a href="http://www.linktrackr.com/niche-website-builder-software-nichify/#comment-24636">Niche Website Builder Software – Nichify</a></li><li class="recentcomments"><span class="comment-author-link"><a href="http://www.beautifulpatioandgardens.com" rel="external nofollow" class="url">Charlene Beal</a></span> on <a href="http://www.linktrackr.com/clickbank-hoplink/#comment-24608">What is a ClickBank Hoplink and How Does It Work?</a></li></ul></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
 </div>	<!-- .container -->
 
 		
 				<div id="et-footer-nav">
 					<div class="container">
-						<ul id="menu-footer-menu" class="bottom-nav"><li id="menu-item-531" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-531"><a href="http://kreydle.zendesk.com">Contact Us</a></li>
+						<ul id="menu-footer-menu" class="bottom-nav"><li id="menu-item-1408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1408"><a href="http://www.linktrackr.com/contact/">Contact Us</a></li>
 <li id="menu-item-1296" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1279 current_page_item menu-item-1296"><a href="http://www.linktrackr.com/privacy/">Privacy Policy</a></li>
 <li id="menu-item-1297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1297"><a href="http://www.linktrackr.com/terms/">Terms of Service</a></li>
 <li id="menu-item-1295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1295"><a href="http://www.linktrackr.com/affiliates/">Affiliate Program</a></li>
@@ -486,18 +571,13 @@ Governing law</p>
 				<ul class="et-social-icons">
 
 	<li class="et-social-icon et-social-facebook">
-		<a href="http://www.facebook.com/kreydle" class="icon">
+		<a href="http://www.facebook.com/gobala" class="icon">
 			<span>Facebook</span>
 		</a>
 	</li>
 	<li class="et-social-icon et-social-twitter">
-		<a href="https://twitter.com/kreydle" class="icon">
+		<a href="http://www.twitter.com/gobala" class="icon">
 			<span>Twitter</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-google-plus">
-		<a href="https://plus.google.com/+Kreydle" class="icon">
-			<span>Google</span>
 		</a>
 	</li>
 	<li class="et-social-icon et-social-rss">
@@ -506,9 +586,7 @@ Governing law</p>
 		</a>
 	</li>
 
-</ul>
-						<p id="footer-info">Designed by <a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a> | Powered by <a href="http://www.wordpress.org">WordPress</a></p>
-					</div>	<!-- .container -->
+</ul><div id="footer-info">Another masterpiece of Kash Media.</div>					</div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
 		</div> <!-- #et-main-area -->
@@ -516,131 +594,7 @@ Governing law</p>
 
 	</div> <!-- #page-container -->
 
-	<div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_grow et_social_mobile_on">
-					
-					<ul class="et_social_icons_container"><li class="et_social_twitter">
-									<a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;via=kreydle" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_twitter"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_facebook">
-									<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_facebook"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_reddit">
-									<a href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_reddit"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_googleplus">
-									<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_googleplus"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_hackernews">
-									<a href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="hackernews" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_hackernews"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_newsvine">
-									<a href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;h=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="newsvine" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_newsvine"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_gmail">
-									<a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Privacy%20Policy&amp;body=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;ui=2&amp;tf=1" class="et_social_share" rel="nofollow" data-social_name="gmail" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_gmail"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_linkedin">
-									<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_linkedin"></i>
-										
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li></ul>
-					<span class="et_social_hide_sidebar et_social_icon"></span>
-				</div><div class="et_social_mobile_button"></div>
-					<div class="et_social_mobile et_social_fadein">
-						<div class="et_social_heading">Share This</div>
-						<span class="et_social_close"></span>
-						<div class="et_social_networks et_social_simple et_social_rounded et_social_left">
-							<ul class="et_social_icons_container"><li class="et_social_twitter">
-									<a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;via=kreydle" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_twitter"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_facebook">
-									<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_facebook"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_reddit">
-									<a href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_reddit"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_googleplus">
-									<a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_googleplus"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_hackernews">
-									<a href="https://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="hackernews" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_hackernews"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Hacker News</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_newsvine">
-									<a href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;h=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="newsvine" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_newsvine"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Newsvine</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_gmail">
-									<a href="https://mail.google.com/mail/u/0/?view=cm&amp;fs=1&amp;su=Privacy%20Policy&amp;body=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;ui=2&amp;tf=1" class="et_social_share" rel="nofollow" data-social_name="gmail" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_gmail"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Gmail</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li><li class="et_social_linkedin">
-									<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.linktrackr.com%2Fprivacy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="linkedin" data-post_id="1279" data-social_type="share" data-location="sidebar">
-										<i class="et_social_icon et_social_icon_linkedin"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">LinkedIn</div></div>
-										
-										<span class="et_social_overlay"></span>
-									</a>
-								</li></ul>
-						</div>
-					</div>
-					<div class="et_social_mobile_overlay"></div><div class="et_bloom_popup et_bloom_optin et_bloom_resize et_bloom_optin_1 et_bloom_auto_popup et_bloom_trigger_bottom" data-delay="20" data-cookie_duration="1">
+	<div class="et_bloom_popup et_bloom_optin et_bloom_resize et_bloom_optin_1 et_bloom_auto_popup et_bloom_trigger_bottom" data-delay="20" data-cookie_duration="1">
 							<div class="et_bloom_form_container et_bloom_popup_container et_bloom_form_bottom with_edge zigzag_edge et_bloom_rounded et_bloom_form_text_light et_bloom_animation_fadein">
 								
 			<div class="et_bloom_form_container_wrapper clearfix">
@@ -686,60 +640,48 @@ Governing law</p>
 	</div>
 <style type="text/css" id="et-builder-page-custom-style">
 				 .et_pb_section { background-color: ; }
-			</style><div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4&appId=423563804349627";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script><link rel="stylesheet" id="et-gf-roboto-css" href="http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic,greek-ext,greek,vietnamese" type="text/css" media="all">
+			</style><link rel="stylesheet" id="et-gf-open-sans-css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
 <link rel="stylesheet" id="et_bloom-css-css" href="http://www.linktrackr.com/blog/wp-content/plugins/bloom/css/style.css?ver=1.1.8" type="text/css" media="all">
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.js?ver=4.6"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/prettify-gc-syntax-highlighter/launch.js?ver=4.6"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=2.7.5"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/prettify-gc-syntax-highlighter/prettify.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/prettify-gc-syntax-highlighter/launch.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.34"></script>
 <script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.3.2"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"http:\/\/www.linktrackr.com\/blog\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.linktrackr.com\/privacy\/","stats_nonce":"a1e27987c1","share_counts":"a46b0c55c3","follow_counts":"71549d4147","total_counts":"67876ebb30","media_single":"6875ab62a8","media_total":"5fc3fa043a","generate_all_window_nonce":"e3b5e13362","no_img_message":"No images available for sharing on this page"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/monarch/js/custom.js?ver=1.3.2"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201647"></script>
-<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2016Novaa"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-admin/admin-ajax.php?action=addthis_global_options_settings&amp;ver=4.7.3"></script>
+<script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js?ver=4.7.3#pubid=gobala"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201724"></script>
+<script type="text/javascript" src="http://s.gravatar.com/js/gprofiles.js?ver=2017Junaa"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var WPGroHo = {"my_hash":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.6"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/js/custom.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/js/smoothscroll.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=2.7.5"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.7.3"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.0.34"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/js/custom.js?ver=3.0.34"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/js/smoothscroll.js?ver=3.0.34"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.0.34"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.0.34"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.0.34"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var et_pb_custom = {"ajaxurl":"http:\/\/www.linktrackr.com\/blog\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.linktrackr.com\/blog\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/www.linktrackr.com\/blog\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"c2dcb86803","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"c585a51243","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"1279","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_custom = {"ajaxurl":"http:\/\/www.linktrackr.com\/blog\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.linktrackr.com\/blog\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/www.linktrackr.com\/blog\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"7c7a26c967","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"3b93cd2553","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"1279","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=2.7.5"></script>
-<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-includes/js/wp-embed.min.js?ver=4.6"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.0.34"></script>
+<script type="text/javascript" src="http://www.linktrackr.com/blog/wp-includes/js/wp-embed.min.js?ver=4.7.3"></script>
 <script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/bloom/js/jquery.uniform.min.js?ver=1.1.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var bloomSettings = {"ajaxurl":"http:\/\/www.linktrackr.com\/blog\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.linktrackr.com\/privacy\/","stats_nonce":"9c77ab4227","subscribe_nonce":"4b0c6ce756","is_user_logged_in":"not_logged"};
+var bloomSettings = {"ajaxurl":"http:\/\/www.linktrackr.com\/blog\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/www.linktrackr.com\/privacy\/","stats_nonce":"9dcea7ff8b","subscribe_nonce":"34f6c0890b","is_user_logged_in":"not_logged"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/bloom/js/custom.js?ver=1.1.8"></script>
 <script type="text/javascript" src="http://www.linktrackr.com/blog/wp-content/plugins/bloom/js/idle-timer.min.js?ver=1.1.8"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201647.js" async="" defer=""></script>
+<script type="text/javascript" src="https://stats.wp.com/e-201724.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'37765278',post:'1279',tz:'0',srv:'www.linktrackr.com'} ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'37765278',post:'1279',tz:'0',srv:'www.linktrackr.com'} ]);
 	_stq.push([ 'clickTrackerInit', '37765278', '1279' ]);
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6c22f6fe6d","applicationID":"3978348","transactionName":"MQYEYBRQW0RYABcNXAhMJ1cSWFpZFhMCA1Y=","queueTime":0,"applicationTime":1648,"atts":"HUEHFlxKSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6c22f6fe6d","applicationID":"3978348","transactionName":"MQYEYBRQW0RYABcNXAhMJ1cSWFpZFhMCA1Y=","queueTime":0,"applicationTime":3113,"atts":"HUEHFlxKSEo=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
