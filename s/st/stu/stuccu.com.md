@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stuccu.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122153653id_/http%3A//stuccu.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuccu.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616194840id_/http%3A//n.stuccu.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | STUCCU.COM
+# Stuccu: Best Deals on . Up To 70% off!
 
-PRIVACY POLICY 
+Privacy Policy 
 
-This is the privacy policy ("Privacy Policy") that governs how we, , StuccoMedia Ltd, company number: 514733849, registered office: Veizman 2 Tel Aviv, Israel ( "StuccoMedia", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of the website www.Stuccu.com, and any other website that we operate (each, together with its sub-domains, content and services, a "Site"). 
+This is the privacy policy ("Privacy Policy") that governs how we, , StuccoMedia Ltd, company number: 10008044, registered office: 54-56 Camden Lock Place, London, NW1 8AF, England ( "StuccoMedia", "we", "our" or "us"), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of the website Stuccu.com, and any other website that we operate (each, together with its sub-domains, content and services, a "Site"). 
 
 1\. Introduction
 
@@ -12,7 +12,7 @@ We have implemented this Privacy Policy because your privacy, and the privacy of
 
 2\. User Agreement
 
-This Privacy Policy forms part of our User Agreement which is available at [ http://Stuccu.com/privacypolicy ](http://stuccu.com/privacypolicy) ("User Agreement"). Any capitalized but undefined term in this Privacy Policy shall have the meaning given to it in the User Agreement. 
+This Privacy Policy forms part of our User Agreement which is available at [ http://www.Stuccu.com/privacypolicy ](http://www.stuccu.com/privacypolicy) ("User Agreement"). Any capitalized but undefined term in this Privacy Policy shall have the meaning given to it in the User Agreement. 
 
 3\. Consent and Modification
 
@@ -32,7 +32,7 @@ Order Information. If you place an order through the Site, you will be required 
 
 Log Files: We may make use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, clicked pages and any other information your browser may send to us. We may use such information to analyze trends, administer the Site, track user's movement around the Site, and gather demographic information. 
 
-Cookies and Other Tracking Technologies : Our Site may utilize "cookies", anonymous identifiers and other tracking technologies in order to for us to provide our Site and present you with information that is customized for you. A "cookie" is a small text file that may be used, for example, to collect information about activity on the Site. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.For more information on cookies, please visit our page available at [ http://Stuccu.com/useofcookies ](http://stuccu.com/useofcookies)
+Cookies and Other Tracking Technologies : Our Site may utilize "cookies", anonymous identifiers and other tracking technologies in order to for us to provide our Site and present you with information that is customized for you. A "cookie" is a small text file that may be used, for example, to collect information about activity on the Site. Certain cookies and other technologies may serve to recall Personal Information, such as an IP address, previously indicated by a user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser.For more information on cookies, please visit our page available at [ http://www.Stuccu.com/useofcookies ](http://www.stuccu.com/useofcookies)
 
 Google Analytics: The Site may use a tool called “Google Analytics” to collect information about use of the Site. Google Analytics collects information such as how often users visit this Site, what pages they visit when they do so, and what other sites they used prior to coming to this Site. We use the information we get from Google Analytics to maintain and improve the Site and our products. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Google’s ability to use and share information collected by Google Analytics about your visits to this Site is restricted by the Google Analytics Terms of Service, available [www.google.com/analytics/terms/us.html ](http://www.google.com/analytics/terms/us.html), and the Google Privacy Policy,available at [www.google.com/policies/privacy/](http://www.google.com/policies/privacy/). You may learn more about how Google collects and processes data specifically in connection with Google Analytics at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). You may prevent your data from being used by Google Analytics by downloading and installing the Google Analytics Opt-out Browser Add-on, available at [tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/). 
 
@@ -76,7 +76,7 @@ At all times, you may choose whether or not to provide or disclose Personal Info
 
 9\. Access/Accuracy
 
-To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information. If you would like to delete or correct any of your other Personal Information that we may be storing, you may use the tools that we make available on the Site or you may submit an access request by sending an email to [ contact@Stuccu.com](mailto:contact@Stuccu.com). Your email should include adequate details of your request. 
+To the extent that you do provide us with Personal Information, we wish to maintain accurate Personal Information. If you would like to delete or correct any of your other Personal Information that we may be storing, you may use the tools that we make available on the Site or you may submit an access request by sending an email to [contact@Stuccu.com](mailto:contact@Stuccu.com.). Your email should include adequate details of your request. 
 
 10\. Links to and Interaction with Third Party Products
 
