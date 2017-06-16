@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119022220id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-gifts-made-easy.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616065350id_/http%3A//www.homemade-gifts-made-easy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ You can set preferences for how Google advertises to you using the [Google Ad Pr
 
 We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables Homemade-gifts-made-easy.com to recall your specific information on subsequent visits. 
 
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
+You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. [Learn more about cookies here and how to control and disable them](http://cookies.insites.com/). 
 
 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
 
@@ -42,8 +42,7 @@ We may serve third-party advertisements that use cookies and web beacons in the 
 
 Some third-party advertisements may be provided by Google, which uses the DoubleClick cookie to serve ads. This cookie enables Google to serve ads to users based on their visits to sites on the Web. You may opt out of the use of the DoubleClick cookie by visiting the [ Google ad and content network privacy policy ](http://www.google.com/policies/technologies/ads/) . 
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.   
-
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [ http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
 
