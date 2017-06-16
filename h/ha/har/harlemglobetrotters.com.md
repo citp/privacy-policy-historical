@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512132811id_/http%3A//www.harlemglobetrotters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlemglobetrotters.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616111332id_/http%3A//www.harlemglobetrotters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Harlem Globetrotters
 
 This is the Website of Harlem Globetrotters International, Inc., (the “Harlem Globetrotters” or “us” or “we” or “our”) a company that is owned and controlled by Herschend Family Entertainment Corporation (“HFE”).
 
 Harlem Globetrotter Contact:
 
-400 E. Van Buren
+5445 Triangle Parkway
 
-Suite 300  
-Phoenix, AZ 85004
+Suite 300
+
+Peachtree Corners, GA 30092
 
 [info@harlemglobetrotters.com](mailto:info@harlemglobetrotters.com)
 
-602-258-0000
+678-497-1900
 
 HFE Contact:
 
@@ -52,7 +53,7 @@ Our website uses Remarketing with Google Analytics to advertise online.
 Third-party vendors, including Google, show our ads on sites across the Internet.  
 Our website and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on visitors past visits to our website.
 
-Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX "Ads Preferences Manager").
+Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg4VHd0m21adYaAg9yNDxJFQTiTSdorWliAwloVbVUTgmchctwp2GJgAjNVdX5eTnvU_liK7Nw1FGvAO2MinLUps2ts4sc__SSyVF7FCU6gglVus727677iacDuZaJDGl9s2vkWKy9gmbFnJTyVHgeNeMVjqG3WCh_5C10Gqr73KbdwD0__6mf5ax3UV_6tHffg9HzX "Ads Preferences Manager").
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. However, you should be aware that 100% security is not always possible.
 
