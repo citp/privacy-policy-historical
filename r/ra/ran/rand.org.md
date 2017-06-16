@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227185722id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rand.org privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616180425id_/http%3A//www.rand.org/site_info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | RAND
 
@@ -85,4 +85,6 @@ Likewise, use of the RAND mobile app involves tracking of non-personally identif
 
 If you have any questions about this privacy statement, the practices of RAND, or your experience with this website, please contact [feedback](https://web.archive.org/about/feedback.html), call (310) 393-0411, or write to RAND, 1776 Main Street, P.O. Box 2138, Santa Monica, CA 90407-2138.
 
-_Revised February 5, 2013_
+[About This Site](https://web.archive.org/site_info.html) [About RAND](https://web.archive.org/about.html)
+
+ _Revised February 5, 2013_
