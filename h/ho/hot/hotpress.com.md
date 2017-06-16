@@ -1,37 +1,41 @@
-> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627204155id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotpress.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616194348id_/http%3A//www.hotpress.com/1278227.html) for the most accurate reproduction.*
 
-# Hotpress Privacy Policy | Any | Any | Hot Press
+# Hotpress Privacy Policy | Music | News | Hot Press
+
+Music/News: 01 Jan 2010   
+Updated 31 Mar 2015   
+[](https://web.archive.org/authors/author_bio.php?id=0)
+
+[](https://twitter.com/intent/tweet?text=Hotpress%20Privacy%20Policy&url=http://www.hotpress.com/1278227.html&via=@hotpress) [](http://www.facebook.com/sharer/sharer.php?u=http://www.hotpress.com/1278227.html) [](http://www.linkedin.com/shareArticle?url=http://www.hotpress.com/1278227.html&title=Hotpress%20Privacy%20Policy) [](http://pinterest.com/pin/create/button/?url=http://www.hotpress.com/1278227.html) [](https://plus.google.com/share?url=http://www.hotpress.com/1278227.html)
+
+### Hotpress Privacy Policy
 
 hotpress.com and its associated companies respect your right to privacy and this statement sets out hotpress.com's policy towards safeguarding information which you disclose to us.
 
-[](https://web.archive.org/authors/author_bio.php?id=0) 01 Jan 2010   
-Updated 31 Mar 2015 
-
 While hotpress.com will never wilfully disclose information relating to you which could be used to identify you on an individual basis to any third party without first receiving your express permission, you acknowledge that hotpress.com may disclose certain registration information in the aggregate to a third party, or may use this information to direct information relating to topics, goods or services to you which we feel will be of interest to you.
 
-In any case, where hotpress.com asks you for personal information, such as your name and address, from which you can be identified on an individual basis, we will only do this where we require that information for specific purposes, for example registration. In every case, we will let you know what we intend doing with that information before collecting it, so that you can decide whether or not to furnish that information to us. If at any time after giving us this information you decide that you no longer wish us to hold or use this information, or in the case that the information becomes out of date, you are free to notify us, and we will use all reasonable endeavours to remove or rectify the information promptly.
+In any case, where hotpress.com asks you for personal information, such as your name and address, from which you can be identified on an individual basis, we will only do this where we require that information for specific purposes, for example registration. In every case, we will let you know what we intend doing with that information before collecting it, so that you can decide whether or not to furnish that information to us. If at any time after giving us this information you decide that you no longer wish us to hold or use this information, or in the case that the information becomes out of date, you are free to notify us, and we will use all reasonable endeavours to remove or rectify the information promptly. 
 
-You acknowledge and agree that in certain circumstances we may be obliged to disclose personal information relating to you to third parties, for example, in order to conform to any requirements of law or to comply with any legal process, as well as to protect and defend the rights of property of hotpress.com and/or our other customers.
+You acknowledge and agree that in certain circumstances we may be obliged to disclose personal information relating to you to third parties, for example, in order to conform to any requirements of law or to comply with any legal process, as well as to protect and defend the rights of property of hotpress.com and/or our other customers. 
 
-You should be aware that each time you visit a website, general information about your visit is retained. Statistical and other analytical information is collected on an aggregate and non-individual specific basis of all browsers who visit the site. This statistical and analytical information provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page and site at which they exited. This information helps us monitor traffic on our website, so that we can manage the website's capacity and efficiency. It also helps us to understand which parts of this website are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the website. This type of non-personal information and data can be collected through the standard operation of our Internet servers and logs as well as "cookies". One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables you to deny or accept cookies. However, you should realise that cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information.
+You should be aware that each time you visit a website, general information about your visit is retained. Statistical and other analytical information is collected on an aggregate and non-individual specific basis of all browsers who visit the site. This statistical and analytical information provides us with general and not individually specific information about the number of people who visit this website; the number of people who return to this site; the pages that they visit; where they were before they came to this site and the page and site at which they exited. This information helps us monitor traffic on our website, so that we can manage the website's capacity and efficiency. It also helps us to understand which parts of this website are most popular, and generally to assess user behaviour and characteristics in order to measure interest in and use of the various areas of the website. This type of non-personal information and data can be collected through the standard operation of our Internet servers and logs as well as "cookies". One simple way to prevent the use of cookies is to activate the facility which is available in most web browsers that enables you to deny or accept cookies. However, you should realise that cookies may be necessary in order to provide you with certain features such as the customised delivery of certain information. 
 
 What are Cookies? 
 
-Cookies are small pieces of information that are stored in the hard drive of your computer by your browser.
+Cookies are small pieces of information that are stored in the hard drive of your computer by your browser. 
 
-How does the hotpress.com use cookies?
+How does the hotpress.com use cookies? 
 
-When you visit hotpress.com e we send one or more cookies to your computer or device that uniquely identify your browser. Like many website, hotpress.com uses cookies to improve your experience and to provide services and advertising. In particular, cookies are used to keep a record of your preferences and to keep you logged in between visits if you so choose. This permits us to provide you with a more personalised experience. We also use temporary session cookies which enable a visitor’s web browser to remember which pages on this website have already been visited.
+When you visit hotpress.com e we send one or more cookies to your computer or device that uniquely identify your browser. Like many website, hotpress.com uses cookies to improve your experience and to provide services and advertising. In particular, cookies are used to keep a record of your preferences and to keep you logged in between visits if you so choose. This permits us to provide you with a more personalised experience. We also use temporary session cookies which enable a visitor’s web browser to remember which pages on this website have already been visited. 
 
-We specifically use Google Analytics to collect information about Demographics and Interest reporting and to potentially allow Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration.
+We specifically use Google Analytics to collect information about Demographics and Interest reporting and to potentially allow Remarketing, GDN Impression Reporting, and the DoubleClick Campaign Manager integration. 
 
-If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [link]www.youronlinechoices.com/ie/[link]
+If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [link]www.youronlinechoices.com/ie/[link] 
 
-Here is a list of all the cookies that we set and how we use them
+Here is a list of all the cookies that we set and how we use them 
 
 You should also be aware that where you link to another website from the hotpress.com website, that hotpress.com has no control over that other website. Accordingly, hotpress.com cannot guarantee that the controller of that website will respect your privacy in the same manner as hotpress.com. 
 
-Finally, you should be aware that personal information which you disclose by way of message boards or chat rooms can be collected and used by third parties who are unknown to you or to hotpress.com. Therefore, hotpress.com gives no guarantees in relation to the security of information which you disclose on line, and you acknowledge and agree that you do so at your own risk. You also acknowledge and agree that there are certain inherent risks in use of the Internet in respect of which hotpress.com has no liability.
+Finally, you should be aware that personal information which you disclose by way of message boards or chat rooms can be collected and used by third parties who are unknown to you or to hotpress.com. Therefore, hotpress.com gives no guarantees in relation to the security of information which you disclose on line, and you acknowledge and agree that you do so at your own risk. You also acknowledge and agree that there are certain inherent risks in use of the Internet in respect of which hotpress.com has no liability. 
 
-hotpress.com reserves the right in its sole discretion to amend this privacy statement at any time, and we should regularly check this privacy statement for any amendments.   
-
+hotpress.com reserves the right in its sole discretion to amend this privacy statement at any time, and we should regularly check this privacy statement for any amendments. 
