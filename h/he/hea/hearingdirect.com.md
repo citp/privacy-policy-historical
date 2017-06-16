@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001094126id_/http%3A//www.hearingdirect.com/pages/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearingdirect.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616205122id_/http%3A//www.hearingdirect.com/us/pages/cookies-privacy-policy) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy - HearingDirect.com ™
 
