@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersu.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207212453id_/http%3A//www.supersu.com/about%23privacy-policy-supersu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersu.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616203424id_/http%3A//www.supersu.com/about%23privacy-policy-supersu) for the most accurate reproduction.*
 
 # About
 
