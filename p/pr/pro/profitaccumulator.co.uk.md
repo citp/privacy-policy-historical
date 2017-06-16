@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716203029id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616052522id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Profit Accumulator
 
@@ -14,9 +14,13 @@ We use your information to send you marketing communications (from us or from ca
 
 We use Google Analytics to monitor traffic information related to our website. You can find out how Google uses that information here: <http://www.google.com/policies/privacy/partners/>.
 
-We also use Kissmetrics to monitor traffic information related to our website. You can find out how Kissmetrics uses that information here: <https://www.kissmetrics.com/privacy>.
+We use Kissmetrics to monitor traffic information related to our website. You can find out how Kissmetrics uses that information here: <https://www.kissmetrics.com/privacy>.
+
+We use Google Adwords to display adverts based on site usage. AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google. You can opt out of the cookie tracking here: <http://google.com/settings/ads/onweb/optout?hl=en>
 
 If the ownership or control of the Profit Accumulator website changes, we may transfer all of your information to the new owner.
+
+If you post on the Platinum forums, we may quote, screenshot or otherwise refer to your post in marketing communications or as testimonials for our service.
 
 ## Cookies
 
