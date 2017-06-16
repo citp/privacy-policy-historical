@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120041852id_/https%3A//www.iselect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616053001id_/https%3A//www.iselect.com.au/privacy-policy) for the most accurate reproduction.*
 
-# iSelect Privacy Policy
+# iSelect Privacy Policy | iSelect
 
 ## Our privacy commitment
 
@@ -126,9 +126,9 @@ If you wish to unsubscribe from future marketing and promotional material, pleas
 
 ## Does iSelect disclose your personal information to overseas recipients?
 
-Some of our service providers are located overseas. As a result, iSelect may disclose your personal information to overseas recipients, including recipients located in the United States, Singapore, Fiji, South Africa, Ireland, Denmark and Hong Kong. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas.
+Some of our service providers are located overseas. As a result, iSelect may disclose your personal information to overseas recipients, including recipients located in the United States, the United Kingdom, South Africa, Singapore, Fiji, Philippines, Ireland, Denmark and Hong Kong. For example, sometimes we use third party platforms to deliver or store information. These are sites hosted and managed by organisations other than ourselves, and some of these sites are located overseas.
 
-The email platform used by iSelect is maintained overseas by Exact Target Inc which has its principle place of business in the United States of America. Exact target’s privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/ "www.exacttarget.com"). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on iSelect’s behalf).
+The email platform used by iSelect is maintained overseas by Exact Target Inc. which has its principal place of business in the United States of America. Exact Target’s privacy policy is available at [www.exacttarget.com](http://www.exacttarget.com/ "www.exacttarget.com"). Your personal information may be stored in a secure and encrypted form overseas (e.g. in data storage and cloud computing facilities operated by us (or by third parties on iSelect’s behalf).
 
 ## Use of Government Identifiers
 
