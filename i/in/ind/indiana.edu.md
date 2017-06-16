@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiana.edu privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916185218id_/https%3A//www.indiana.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiana.edu privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616084130id_/https%3A//www.indiana.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Notice: Indiana University Bloomington
 
