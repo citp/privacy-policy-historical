@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautyandtips.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223190125id_/http%3A//www.beautyandtips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyandtips.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616080633id_/http%3A//www.beautyandtips.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Beauty And Tips Magazine | Beauty And Tips Magazine – Best beauty tips and life hacks
+# Privacy Policy – Beauty And Tips Magazine
 
 Privacy Policy for www.beautyandtips.com
 
