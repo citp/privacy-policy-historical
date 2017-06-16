@@ -1,97 +1,82 @@
-> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204005610id_/http%3A//www.iskoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskoot.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616220532id_/https%3A//www.qualcomm.com/site/privacy) for the most accurate reproduction.*
 
-# » Privacy Statement
+# Privacy Policy | Qualcomm
 
-This policy explains our privacy practices for our services that link to this policy including the QCE web notification service, and QCE’s website at: www.iskoot.com (the “Website” and collectively: the “Services”). It describes the ways we collect and use your personal information and your rights with respect to our privacy practices. The Services are provided by Qualcomm Connected Experiences, Inc., a company headquartered in California, U.S.A. (“we”, “us”, and “our”).
+In this Privacy Policy (“Policy”), we, Qualcomm Incorporated and our subsidiaries (collectively “we”, “us”, or “our”), provide information about how we collect, use, process, and transfer personal data.  Qualcomm Incorporated and our subsidiaries are a global organization sharing the data we manage across businesses (legal entities), business processes, and information systems around the world.  Therefore, for this Policy, we use the term “personal data” broadly to cover the many privacy and data protection laws applicable to us; “personal data” means information related to an identified natural person or that could reasonably be used (by itself or in combination with other data reasonably available) to identify an natural person.
 
-THE SERVICES ARE NOT INTENDED FOR USE BY PERSONS UNDER THE AGE OF 14. IF YOU ARE UNDER 14 YEARS OLD, YOU MUST NOT USE THE SERVICES, OR PROVIDE US WITH ANY OF YOUR PERSONALLY IDENTIFIABLE INFORMATION.
+### Scope
 
-#### US Safe Harbor Registration:
+This Policy applies to our websites, products, services, software, or apps on which we post a direct link to this Policy or refer to within this Policy (collectively the "Services"). This Policy covers only data collected through the Services and not any other data collection or processing, including, without limitation, data collection practices of other services that maintain their own, separate privacy policies. Occasionally, we refer to this Policy in relation to surveys and special-purpose web pages, for example, our Careers web pages; under such circumstances, this Policy applies as modified in the particular notice or consent request (e.g., with respect to types of data collected or purposes of collection). 
 
-We comply with the U.S. \- E.U. Safe Harbor framework and the U.S. \- Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. We certify that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit http://www.export.gov/safeharbor/.
+### Types of Data and Collection Methods
 
-#### Personally identifiable Information that we may collect:
+We collect a variety of personal data through the means described below.  You have choices about the data we collect.  When you are asked to provide data to us, you may choose not to.  But if you decline to provide data, your ability to use the applicable product or service may be diminished or restricted.  
 
-The web notification service allows you to receive incoming online messages from your personal accounts in web content services, such as web-mail services, RSS feeds and messaging services, to your cellular phone. During the initial setup, after selecting your preferred services you will be asked to provide access information, such as user name and passwords, to your accounts for those services. The Service will retrieve and aggregate Online Content from your preferred services and deliver highlights of the Online Content to your cellular phone. You may then request to receive additional related information. We will store your online content and your access information for the duration of the content delivery session, and then delete the information from our systems. Some of the Services may require registration. In the course of registration we may ask you to provide personal information, such as your name, contact details and e-mail address. We will explicitly indicate the fields designated for mandatory completion. If you do not enter the requisite data in the mandatory fields, you will not be able to register with these Services. We may collect further information when you exchange communications with us, for example, when you submit an inquiry or contact our support team.
+**Data you submit**. We collect your name, email address(es), mailing address(es), telephone number(s), and data related to the business you represent when you request information from us, register, order a product or service, or otherwise intentionally send us such information. In connection with chargeable services, we will also collect payment information (e.g., credit card number and related verification data), phone number, and billing and shipping addresses.   
 
-#### Username and password
+**Data we automatically collect from our websites**.  When you visit one of our websites, we collect general data from your computer or mobile device such as your browser type, operating system, IP address and the domain name from which you accessed the site, and if you are accessing our site with your mobile device, type of mobile device.  In addition, we collect data about how you use our websites, such as the date and time you visit the site, the areas or pages of the site that you visit, the amount of time you spend viewing the site, the number of times you return to the site and other click-stream data.  
 
-Certain Services such as the web notification service will require you to provide a username and set a unique password that will identify you each time you use the Service. From time to time, we may require other or additional means or methods of identification. You agree to maintain your username and password in absolute confidentiality and refrain from disclosing such to others. Make sure that you change your password frequently and at least once every six months.
+**Cookies**. We use cookies, web beacons, or similar technologies to collect data about your use of our websites or web apps. A cookie is a small text file that is stored on the hard drive of your computer or device when you access the site. We use cookies to help operate our sites and services, including to: (1) remember you so you don’t have to enter the same information when you return to the site, (2) provide you with customized content or offers on the site; (3) develop aggregate statistics to help monitor site performance, conduct research, improve our content and services, and (4) help protect the security of our sites and services.
 
-#### What do we do with your personally identifiable information?
+We also allow other companies such as web analytics partners, advertisers, or ad networks to set or access their cookies or web beacons (also referred to as 1x1 pixel.gifs or action tags) on the site. For example, we use third party advertising companies to serve ads on our behalf across the Internet or to display ads for other companies on our site. These third-party advertising companies employ cookies and web beacons to measure and improve the effectiveness of ads for their clients, including us. To do so, these companies use data about your visits to our site and other websites over time. This data may include: date/time of banner ad shown, a unique identifier contained in their cookie, and the IP address of your device. This data can also be used to personalize ads so that you are more likely to see ads about goods and services of interest to you. If you would like more information about this practice and your choices about personalized advertising, visit [this opt out article](http://www.networkadvertising.org/choices/).
 
-We may use personally identifiable information for the following purposes:
+You are free to decline cookies, but by doing so, you may not be able to use some features on the site or take full advantage of all of our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences. For further information, please see our Cookie Policy.  
 
-  * to provide you with the Services and to enable you to use them; to provide you with the Services and to enable you to use them;
-  * to improve and customize your experience with the Services;
-  * to enable the development and improvement of the Services;
-  * to provide you with support, assistance and updates;
-  * to handle inquiries and complaints;
-  * to send you updates, notices, upgrades and new releases;
-  * to provide you with information relating to the Services;
-  * to provide you with further marketing and advertising material, subject to your prior indication of consent. At any time you may opt out of our mailing lists, by contacting us at the ‘Contact us’ page on the Website. In any case, we will not share your personally identifiable information with any advertisers, without your explicit consent;
-  * to facilitate communication between you and us, and between you and others;
-  * to enforce our Services’ end user license agreements;
-  * to contact you when we believe it to be necessary;
-  * to comply with any applicable law and assist law enforcement agencies as required;
-  * to collect fees and debts, and to prevent fraud, misappropriation, infringements, identity theft and any other misuse of the Services;
-  * to take any action in case of any dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;
-  * For any other purpose stipulated in this policy, or in the end user license agreements of the Services.
+**Software and apps** :  Qualcomm Incorporated’s subsidiaries create a variety of software and applications for mobile devices that may help improve mobile device performance, conserve battery power, improve device security, or offer other benefits. Through these software applications, we may collect location data, unique identifiers (such as a chipset serial number or international subscriber ID), data about the applications installed and/or running on the device, configuration data such as the make, model, and wireless carrier, the operating system and version data, software build data, and data about the performance of the device such as performance of the chipset, battery use, and thermal data. [Learn More](https://www.qualcomm.com/site/privacy/services)   
 
+**Third Party Sources** :  We may also obtain personal data from third party sources such as data brokers, social networks, other partners, or public sources.
 
+### Collection Purposes, Use of Data
 
-#### The information we share with others
+We collect and process personal data about you with your consent and/or as necessary to provide the products you use, operate our business, meet our contractual and legal obligations, protect the security of our systems and our customers, or fulfil other legitimate interests.  The purposes for which we collect and use data include:
 
-We do not sell, rent or lease your personally identifiable information to third parties for any of their marketing purposes. We may share personally identifiable information with others in any of the following instances, or subject to your explicit consent:
-
-  * We will share your information with our business partners to the extent necessary to facilitate your use of the Services and the functionality of the Services;
-  * If we reasonably believe that you have breached one of the Services’ end user license agreements, or abused your rights to use any of the Services, or performed any act or omission that we reasonably believe to be violating any applicable law, rules, or regulations. We may share your information in these cases with law enforcement officials, with other competent authorities and with any third party as may be required to handle the results of your wrongdoing;
-  * If we are required, or reasonably believe that we are required by law to share or disclose your information;
-  * In any case of dispute, or legal proceeding of any kind between you and us, or between you and other users or third parties with respect to, or in relation with the Services;
-  * In any case where we may reasonably believe that sharing information is necessary to prevent imminent physical harm or damage to property;
-  * If we organize the operation of the Services within a different framework, or through another legal structure or entity, or if we are acquired by, or merged with another entity, provided however, that those entities agree to be bound by the provisions of this policy;
-  * We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy; except for personal data transferred from the European Economic Area and Switzerland, which we only share with companies affiliated with us that process data on our behalf or if we transfer the personal data using other legal mechanisms (e.g, consent).
+  * To respond to the request that you sent us such as your request for information, or your request to subscribe to a service or purchase a product;
+  * To provide, manage, maintain, and secure the Service(s) you request;
+  * To operate and improve our business, including to administer, protect, and improve our services and our systems, to develop new products and services, and for other internal business purposes;
+  * To better understand the preferences of the users of our Services, compile aggregated statistics about usage of our Services, and help personalize your experience of our website and Services;
+  * To provide you with information about our technologies, product or service releases, news, and other communications; and
+  * Any other use we describe in this Policy or at the point where we collect the data.
 
 
 
-#### Log files and aggregated information
+In order to achieve these purposes, and to the extent permitted by applicable law, we may combine the various types of data that we collect from different sources.
 
-When you use the Services, we may automatically collect further information and store it in web-server log files. For example, we may record the frequency and scope of your use of the Website, the duration of your sessions, the web pages that you visit, advertisements that you view or click on, and the geographic location of the computer system that you are using to sign-in or use the Services. 
+### Where We Store and Process Data
 
-We may use anonymous, statistical or aggregated information, including by posting, disseminating, transmitting or otherwise communicating or making available such information through the Services, and by providing the information to users, suppliers, business partners, affiliates and any other third party, at our sole discretion, provided however, that the information will not identify you personally and that we will not knowingly, or intentionally use such information to reveal your identity without your consent, under the terms of this policy.
+We store and process data in the United States and on servers around in the world, including, without limitation, Asia and the European Economic Area.  Wherever we store or process personal data pursuant to this Policy, we take measures to ensure that the data is processed in accordance with this Policy and in compliance with applicable law.
 
-We may also share personally identifiable information with companies or organizations connected, or affiliated with us, such as subsidiaries, sister-companies and parent companies, with the express provision that their use of such information must comply with this policy
+By using our Services, you agree that your personal data may be transferred from your country to the United States or other countries that may not provide an equivalent level of privacy or data protection law as your country.  When we transfer personal data from the European Economic Area, we use a variety of legal mechanisms to effectuate the transfer (such as your consent or legal contracts).
 
-#### Accessing your personal account
+### Disclosures of Personal Data
 
-At any time, you may contact us at: [privacysupport@qce.qualcomm.com](mailto:privacysupport@qce.qualcomm.com) and request to edit, correct, or amend your personal information. Please keep in mind that providing false, incorrect, incomplete, or out dated information may prevent you from registering with or using the Services, and/or may impair our ability to provide you with the Services.
+We access your personal data within Qualcomm (including its subsidiaries) and share data with third party vendor or service providers who process the data on our behalf for the purposes set forth in this Policy.  We may also offer training or other services to the employees and workers of our business customers.  In such cases, we may share data relating to the use of our training and other services with the identified business customers for their business use. We may also share your data as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings. We may share or transfer your data in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business. Finally, we may also share your personal data where you have granted us permission.
 
-#### Data retention
+### Your Choices
 
-We retain your personal information as necessary to provide our Services as well as support our internal needs. However, by doing so we do not either expressly or impliedly endorse, affirm or in any manner assume any responsibility for such information. If you would like us to delete your personal information from your account, see the section “Deletion of information” below.
+**Opt-In/Out**.  In some circumstances, such as email marketing, we offer you the ability to opt-in or opt-out of some kinds of data collection, use, or sharing.  In such circumstances, we will respect your choice.    
 
-#### Deletion of information
+**Access**. If you would like to access your personal data that we maintain, or the personal data you have submitted is no longer accurate, current, or complete, and you wish to update it, please submit your request or changes using one of the contact methods listed below. Upon appropriate request, we will update or amend your personal data, but we reserve the right to use data obtained previously to verify your identity.  
 
-If you wish to delete your personally identifiable information that is stored in our databases, please use the ‘Contact us’ page on the Website. We will remove the personal information we have about you from our publicly viewable database within a reasonable time but we may retain personal information about you in our non-public databases for a reasonable period of time to support our operational requirements (for example only, reconciling your transactions). Notwithstanding the foregoing, there may be circumstances where we are legally required to retain the information we collect about you (for example, in connection with court proceedings) and despite your request for us to delete your personal information, we will retain what we are legally required to keep. Moreover, we reserve the right to make anonymous the personal information so that it is no longer associated with you rather than deleting it. We also reserve the right to use previously obtained personal information to verify your identity or take other actions that we believe are appropriate. If you close your account, we have no obligation to retain your personal information, and may delete any or all of your personal information without liability.
+**Do Not Track**. We do not currently respond to “Do Not Track” (“DNT”) signals sent by web browsers. A uniform standard has not yet been adopted to determine how DNT signals should be interpreted and what actions should be taken by websites and third parties that receive them. However, you may use a variety of other means of controlling data collection and use, including cookie controls in your browser settings and the personalized advertising controls described in the Cookies section above.
 
-#### Information security
+### Retention
 
-We implement information security systems and procedures to secure the information stored on our servers. Such systems and procedures reduce the risk of security breaches, but they do not provide absolute security. Therefore, we cannot guarantee that our services are immune to unauthorized access to the information stored therein and to other information-security risks. We do not warrant that your personal information will be stored for the required durations, or that your personal information will not be retrieved after being deleted.
+We retain personal data while your account is active, or as needed to provide you services.  We will delete personal data within a reasonable time after the data is no longer necessary for the business purpose for which it was collected. We will, however, retain and use personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
 
-#### Children
+### Security
 
-Our Services are intended for general audiences and are not directed to children under 14. We do not knowingly collect personal information from children under 14. If you become aware that your child has provided us with personal information without your consent, please contact us as set forth in the section “Contact Us” below. If we become aware that a child under 14 has provided us with personal information without parental consent, we will take steps to remove such information and terminate the child’s account.
+Transmissions over the Internet are never 100% secure or error-free. However, we take reasonable steps to protect your data from loss, misuse, and unauthorized access, disclosure, alteration, and destruction. It is your responsibility to safeguard your passwords and User IDs and to notify us using one of the contact methods listed below if you ever suspect that your password or User ID for one of our Services has been compromised. You are solely responsible for any unauthorized use of our Services conducted via your password and User ID.
 
-#### Safe Harbor Dispute Resolution
+### Children's Privacy
 
-As part of our participation in Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet here, fax to 415-520-3420, or mail to TRUSTe Safe Harbor Compliance Dept., click for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with data Protection Authorities.
+Our Services are intended for adults. We do not intentionally or knowingly collect personally-identifiable information from children as defined by applicable law and we request that children not submit any personal data to us.
 
-#### Changes to this Privacy Policy
+### Amendments
 
-We may change and update the terms of this policy from time to time. We therefore recommend that you read it periodically. All substantial changes that we make to this policy will be posted on the Website and take effect 7 days after their initial posting, unless we amend the policy to comply with legal requirements. In the latter cases the amendments will become effective immediately upon their initial posting, or as required. Continuing to use the Services will indicate your consent to the amended policy.
+We reserve the right to change, modify, add, or remove portions of this Policy at any time, but will alert you that changes have been made by indicating on the Policy the date it was last updated. If we change the Policy in a material way, we will provide appropriate online notice to you at least thirty days in advance and/or obtain your express consent as required by law. When you visit our websites or use our Services, you are accepting the current version of this Policy. We recommend that users revisit this Policy on occasion to learn of any changes.
 
-#### Contact us
+### Contact Us
 
-You are welcome to contact us with requests, comments and questions at the Contact us page on the Website write to us at Qualcomm Connected Experiences, Inc., Attn: Legal Department, 5775 Morehouse Drive, San Diego, CA 92121. 
+To contact us, send us an email at privacy[at]qualcomm[dot]com, or write to us at Qualcomm Incorporated, Attn. Privacy Counsel, 5775 Morehouse Drive, San Diego, CA 92121.
 
-Last update: July 1, 2013
+**Effective Date** :  April 6, 2017
