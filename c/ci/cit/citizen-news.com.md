@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the citizen-news.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411074351id_/http%3A//chronicle.augusta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen-news.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616033612id_/http%3A//chronicle.augusta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Augusta Chronicle
+# Privacy Policy
+
+**CONTENTS**
+
+How we gather information from users
+
+What we do with the information we collect
+
+Affiliated sites, linked sites and advertisements
+
+Children
+
+Compliance with legal process
+
+Contact us
 
 **TERMS OF SERVICE (TOS)**
 
