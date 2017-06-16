@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the shiftfrequency.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215231813id_/http%3A//www.shiftfrequency.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiftfrequency.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616223110id_/http%3A//www.shiftfrequency.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Shift Frequency
 
-**Shift Frequency takes your privacy seriously.** The federal government and technology industry have developed [practical tips](http://web.archive.org/web/20151223192725/http://www.onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. **This privacy policy applies only to Shift Frequency** This policy does not apply to the practices of companies that Shift Frequency does not own or control, or to people that Shift Frequency does not employ or manage. **Information We Collect** In operating our website we may collect and process the following data about you:
+**Shift Frequency takes your privacy seriously.** The federal government and technology industry have developed [practical tips](http://web.archive.org/web/20151223192725/http://www.onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information.
+
+**This privacy policy applies only to Shift Frequency**
+
+This policy does not apply to the practices of companies that Shift Frequency does not own or control, or to people that Shift Frequency does not employ or manage.
+
+**Information We Collect**
+
+In operating this website we may collect and process the following data about you:
 
 i. Details of your visits to our website and the resources that you access, including, but not limited to, traffic data, location data, weblogs and other communication data.
 
@@ -49,8 +57,8 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 
 The Copyright Agent for notice of claims of copyright infringement on this site is the Publisher, Shift Frequency,
 
-### **Contacting Us**
+### **Contact Us**
 
 We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to [contact us](mailto:gcgrann@gmail.com).
 
-© 2012 – 2015 Shift Frequency. All rights reserved.
+© 2011 – 2017 Shift Frequency. All rights reserved.
