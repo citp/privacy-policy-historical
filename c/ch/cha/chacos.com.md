@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chacos.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126045150id_/http%3A//www.chacos.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chacos.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616144627id_/http%3A//www.chacos.com/US/en/content%3Fcaid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Chaco Privacy Policy
 
@@ -78,7 +78,7 @@ The Site may contain links to websites of third parties who: (1) are not affilia
 
 Please contact us if you have any questions or concerns about your personal information or require assistance in managing your choices.
 
-To access, change, or delete your personal information, choose not to receive marketing or other promotional communications from us, or otherwise change your choices about how we use your personal information, or for any questions regarding this Policy, please: (1) update your account details online; (2) follow the unsubscribe instructions located at the end of any marketing communication from us; (3) email us at [consumerprivacy@wwwinc.com](https://web.archive.org/web/20161126045150id_/http%3A//www.chacos.com/US/en/consumerprivacy@wwwinc.com); (4) call us at (616) 866-5500; or (5) write us at the following address with your message:
+To access, change, or delete your personal information, choose not to receive marketing or other promotional communications from us, or otherwise change your choices about how we use your personal information, or for any questions regarding this Policy, please: (1) update your account details online; (2) follow the unsubscribe instructions located at the end of any marketing communication from us; (3) email us at [consumerprivacy@wwwinc.com](https://web.archive.org/web/20170616144627id_/http%3A//www.chacos.com/US/en/consumerprivacy@wwwinc.com); (4) call us at (616) 866-5500; or (5) write us at the following address with your message:
 
 Wolverine World Wide, Inc.  
 Attn: Senior Director of Information Technology and Security  
