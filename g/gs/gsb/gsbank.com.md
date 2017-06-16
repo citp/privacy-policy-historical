@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsbank.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210063642id_/http%3A//www.goldmansachs.com/privacy-and-security/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsbank.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616202346id_/http%3A//www.goldmansachs.com/privacy-and-security/index.html) for the most accurate reproduction.*
 
 # Goldman Sachs | Privacy and Security - Goldman Sachs Global Privacy Policy
 
