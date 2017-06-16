@@ -1,63 +1,51 @@
-> *The following text is extracted and transformed from the hogrefe.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920143421id_/http%3A//hogrefe.com/%3Fmod%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hogrefe.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616032847id_/https%3A//us.hogrefe.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Hogrefe - Publishing Excellence
+# Privacy Policy - Hogrefe
 
-for Hogrefe Publishing Corp. and Hogrefe Publishing GmbH ("Hogrefe")   
----  
-   
-   
-**Hogrefe is committed to respecting data protection regulations. This statement informs you of how we intend to protect your rights and your personal data.**  
-   
-**We will maintain appropriate safeguards to ensure the security, integrity and privacy of your personal data. We do not share personal data with other companies for marketing or similar purposes.**  
-   
-Personal data mean (a) the details you provide us using our forms, such as your e-mail address, ordering and billing information, your postal addresses and payment details, and also (b) data captured in authentication and tracking logs on areas of our site such as for online journals.   
-   
-Gathering, Storage, and Use of Personal Data  
-Personal data are only stored when you have provided this information to Hogrefe of your own free will via forms that you have called up. The personal data we gather will be used to provide you with the services and products you order. We may also occasionally use it to inform you of new services and products related to those you have ordered and of changes and activities within the Hogrefe group. By registering for services and products on the Hogrefe website(s), you agree to us using your e-mail address in this way. In order to use or obtain some products and services, it will be necessary for you to register with us. The information you provide (such as your address) will be used to provide these products and services. We do not share personal data with other companies for marketing or similar purposes. By using our site and by registering for any of our services or products, you accept that personal data will be gathered and may be stored in our databases. In addition, in some areas of the site authentication and tracking logs may be used to produce usage statistics. These logs do not contain any personally identifiable information. Hogrefe reserves the right to have them analyzed by external service providers, in which case every effort will be made to protect the security, integrity, and privacy of the data.   
-   
-Encryption and Transmission of Personal Data  
-Hogrefe takes appropriate technical and administrative safeguards to protect your personal data from loss and misuse. For instance, any personal data are stored in a secure environment that is not accessible to the public. In certain cases your personal data will be encrypted before transmission by means of so-called Secure Socket Layer (SSL) technology using a key length of 128 bits. The public key of the owner/registrant is documented by means of a certificate, in our case issued by Thawte. This means that communication between your computer and our server takes place using a widely recognized encryption technology, provided your browser supports SSL. Information and updates can be obtained from the producer of your browser.   
-   
-Use of Cookies  
-Cookies are small text files that a website you visit creates and stores in a directory on your hard drive or in a temporary area of memory. During the process of ordering products or services from Hogrefe, temporary (session) cookies are used. By using the appropriate options in your browser, you can refuse to accept cookies. In this case, you will only be able to order one product or service at a time.   
-   
-Logging of Website Visits  
-Every time our server is accessed, data are logged for statistical and security purposes, such as IP address, date and time at which the page or chatroom was accessed. A statistical analysis of anonymized datasets takes place to allow us to analyze and improve our offerings. No personally identifiable information is analyzed. In the case of severe infringements of our terms of use and of misuse or abuse of our servers, however, we reserve the right have individual data sets analyzed to help arrive at personal data.   
-   
-Protection of Your Personal Data  
-After transmission to us, your personal data are stored on servers to which access is strictly limited. Hogrefe has taken appropriate technical and administrative measures to ensure that only authorized persons can access these servers.   
-   
-Your Right to Information  
-As user, you have the right to request details of any personal data about you that Hogrefe may have stored. Such requests should be sent in writing to Hogrefe Publishing.   
-   
-Correction, Blocking and Deletion of Data  
-Under certain circumstances, you are entitled to ask for correction, blocking (i.e. ban on future use by Hogrefe) or deletion of personal data by request this in writing. After deletion of existing personal data, certain services will not be usable. Your data will be deleted as soon as possible, and at the latest within a 6 month period as provided for by law in some jurisdictions.   
-   
-Links to Other Offerings  
-Links to other internet sites and offerings are included in the Hogrefe site. By means of these links, Hogrefe provides access to use of these contents. Hogrefe is not responsible for these third-party contents nor for their privacy policy. However, when the link to these internet offerings was first created, Hogrefe did check the third-party content as to whether any responsibility according to civil or criminal the third-party content might arise.   
-   
-Our Rights  
-Hogrefe does not guarantee that our offering will be available at any particular time. Disturbances, interruptions, or possible failure of the online service cannot be excluded. Hogrefeï¿½s servers are backed up carefully at regular intervals. It is recommended that you make backup copies of any data, in any form, that are transmitted to Hogrefe. Hogrefe shall not be liable for any loss of data or consequences thereof. Hogrefe reserves the right at any time to change, extend, reduce, limit or cease providing this service and to delete data without prior notice. You have no right to instigate proceedings.   
-   
-Announcement of Changes  
-Should we change our privacy approach or policy, these changes will be announced on our website so that visitors will always be informed what data we gather, how we use them and whether they are transmitted to third parties.   
-   
-Questions or Comments  
-If you have any questions about processing of your personal data or about data protection and privacy policy in general, please contact our Data Protection Officer:   
-   
-Hogrefe Publishing Corp.  
-Data Protection Officer  
-Cambridge Office,  
-875 Massachusetts Avenue, 7th Floor  
-Cambridge, MA 02139  
-USA  
-  
-   
-Hogrefe Publishing GmbH  
-Data Protection Officer  
-Rohnsweg 25  
-D-37085 Gï¿½ttingen  
-Germany  
-  
-   
-Hogrefe Publishing GmbH - January 2008 
+### Privacy Policy for Hogrefe Publishing Corp. and Hogrefe Publishing GmbH ("Hogrefe") 
+
+At Hogrefe we are very conscious of the fact that when you use the Hogrefe website you are entrusting us with your personal data. We greatly value your trust and handle your data with the greatest possible care and confidentiality. This document describes how. 
+
+**Anonymous Data Collection**
+
+Unless otherwise mentioned in the following provisions, we do not collect, process, or use any of your personal data. When you visit our website, some information on your visit will be logged, such as the IP address, the type and version of internet browser, the OS you are using, the referrer URL (the website that linked to ours), and the time of the server request. This information can not be used to identify you. It will be evaluated in an anonymized form for statistical reasons. 
+
+**  
+Usage of Your Personal Data**
+
+Your personal data are only saved if you authorize us to do so of your own free will by completing the relevant online forms or by registering to use our online-shop. We will make every effort to ensure that your data will only be used for their intended purpose and for the services you have selected.  
+If you wish to send us a message via our contact form we need some of your personal data. Fields not marked as mandatory include additional data that you provide voluntarily for a better handling of your request.
+
+  **Application process**
+
+If you send us an application for a job via email, we will use your data solely to work on your application and we will not transfer it to third parties. Please note that applications via email will be transferred to us in an unencrypted form.
+
+ **Use of Cookies**
+
+Cookies are small text files that a website you visit creates and stores in a directory on your hard drive or in a temporary area of memory. They do not cause any damage there and do not contain any of your personal data. The information contained in the cookies enables us to recognize your computer during your next visit and is used during the new session, in particular to make navigation easier and to make the website more user-friendly (e.g., using your regional preferences). Most webbrowsers are set by default so that cookies are accepted automatically. You can, however, deactivate storage of cookies completely or set your browser to inform you as soon as cookies are sent. For details about the way how this works please refer to browser’s user guide. 
+
+  
+
+**Passing on Data to Third Parties**
+
+Your data will not be passed on to other third parties unless we are required by law to share information or when it is necessary in order for us to fulfill the terms of our agreement with you. Personal Data may be disclosed to a third party service provider, if it is necessary. In this case the data we transmit is restricted to the minimum necessary to provide the service. Our external service provider is required by contract and by law to follow all pertinent data protection rules and regulations. 
+
+   **etracker**
+
+This website uses etracker technology (www.etracker.com) to collect data on visitor behavior. The data is collected anonymously for use in marketing and optimization. All visitor data is saved using an anonymous user ID and can be used to aggregate a usage profile. Cookies may be used for this purpose. Cookies are small text files that are stored in the visitor’s local browser cache. It is possible to use these cookies to recognize a visitor’s browser. The data collected by the etracker technology will not be used to determine the personal identity of a website visitor, and will not be compiled with personal data relating to the person referred to by the pseudonym, unless agreed to separately by the person concerned. The collection and storage of data may be revoked at any time with respect to future services.
+
+ **Protection of Your Personal Data**
+
+After being transmitted to us, personal data are stored on servers to which access is restricted. We deploy technical and organizational safety measures to ensure that the data are protected from intentional or unintentional manipulation, loss, destruction, and access by unauthorized persons. Our security procedures are inspected on a regular basis and will be adapted when technological progress means this is appropriate. 
+
+**Data Protection Officer**
+
+Should you have any questions about the processing of your personal data or about data protection in general, you are welcome to contact our Data Protectionn Officer:
+
+CONFIDENTIAL  
+Felix Hudy  
+Consultant Datenschutz und Compliance  
+Rechtsanwalt  
+datenschutz@hogrefe.de  
+
+ Hogrefe Publishing GmbH, January 2016 
