@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themaverickspirit.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215185501id_/http%3A//themaverickspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themaverickspirit.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617011447id_/http%3A//themaverickspirit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Maverick Spirit
 
@@ -22,7 +22,7 @@ Your privacy is very crucial to us. Following are the outlines on how TMS deals 
 
 ### Is Data @TMS Unveil To Any Outside Third Parties? 
 
-No, personal information of user will ever be sold out or shared with any 3rd parties. Any personal information will only be released in comply with the law.
+No personal information of user will ever be sold out or shared with any 3rd parties. Any personal information will only be released in comply with the law.
 
 We can offer or include third party products/services which have separate/individual privacy policies. Therefore, we should not be responsible for any activities of these sites or third party links.
 
