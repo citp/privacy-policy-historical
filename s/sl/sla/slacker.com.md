@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slacker.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130082117id_/http%3A//www.slacker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slacker.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616145426id_/http%3A//www.slacker.com/privacy) for the most accurate reproduction.*
 
 # Slacker Radio | Privacy Policy
 
