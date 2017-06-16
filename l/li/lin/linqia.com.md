@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203153553id_/http%3A//www.linqia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616085530id_/http%3A//www.linqia.com/privacy-policy) for the most accurate reproduction.*
 
-# Linqia Privacy Policy |Linqia
+# Linqia Influencer Marketing Privacy Policy |Linqia
 
 Linqia, Inc. (“Linqia”, “Company” or “We”) respects your privacy and is committed to protecting it through compliance with this policy (“Privacy Policy”). Please review this Privacy Policy before accessing and using the website [www.linqia.com](http://www.linqia.com/) (the “Website”), owned and managed by Linqia, and the Linqia platform and services found thereon (the “Services”).
 
