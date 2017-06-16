@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easymums.co.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127052232id_/http%3A//dating.easymums.co.uk/help/privacy.cfm%3Fwldsite%3D24356) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easymums.co.uk privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616023155id_/http%3A//dating.easymums.co.uk/help/privacy.cfm%3Fwldsite%3D24356) for the most accurate reproduction.*
 
-# EasyMums :: EasyMums Member Privacy Policy
+# Easy Mums :: Easy Mums Member Privacy Policy
 
 _Last updated on 15 March 2016_
 
