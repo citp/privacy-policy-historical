@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essexlive.news privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210045722id_/http%3A//www.essexlive.news/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essexlive.news privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616025941id_/http%3A//www.essexlive.news/privacypolicy.html) for the most accurate reproduction.*
 
 # Essex Live | Privacy Policy
 
