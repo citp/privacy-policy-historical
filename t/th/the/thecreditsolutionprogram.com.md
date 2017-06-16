@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecreditsolutionprogram.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202061030id_/http%3A//www.thecreditsolutionprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecreditsolutionprogram.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616233909id_/http%3A//thecreditsolutionprogram.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,9 +8,9 @@ Effective Date: November 2014
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
-The following Privacy Policy governs the online information collection practices of Smart Consumer Solutions, LLC d/b/a thecreditsoutionsprogram.com. ("we" or "us"). Specifically, it outlines the types of information that we gather about you while you are using the thecreditsoutionsprogram.com website (the "Site"), and the ways in which we use this information. This Privacy Policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+The following Privacy Policy governs the online information collection practices of Smart Consumer Solutions, LLC d/b/a thecreditsoutionsprogram.com. (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the thecreditsoutionsprogram.com website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
 **A.** When accessing our _Website,_ **_The Credit Solution Program_** will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. If you visit our site to read or download information on our pages, we collect and store only the following information about you:
 
@@ -44,14 +44,14 @@ If you take the credit quiz available on our website and enter your email to get
 
 **J. Other Sites; Links** Our _Website_ may link to or contain links to other third party _Website_ s that we do not control or maintain, such as in connection with purchasing products referenced on our _Website_ and banner advertisements. We are not responsible for the privacy practices employed by any third party _Website_. We encourage you to note when you leave our _Website_ and to read the privacy statements of all third party _Website_ s before submitting any personally identifiable information.
 
-**K. Children's Privacy Statement**
+**K. Children’s Privacy Statement**
 
-This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
+This children’s privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information regarding their rights under federal law with respect to such information.
 
   * This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen as part of the Site. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen as part of the Site, we will delete such information from our records. If we change our practices in the future, we will obtain prior, verifiable parental consent before collecting any personally identifiable information from children under the age of thirteen as part of the Site. 
   * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we also do NOT knowingly distribute such information to third parties. 
   * We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information through the Site. 
-  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site's online activities on providing personally identifiable information. 
+  * Because we do not collect any personally identifiable information from children under the age of thirteen as part of the Site, we do NOT condition the participation of a child under thirteen in the Site’s online activities on providing personally identifiable information. 
 
 
 
