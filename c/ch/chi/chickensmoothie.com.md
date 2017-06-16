@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121182049id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616183847id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Chicken Smoothie
 
 This privacy policy describes the kinds of information we collect about users of our website, what uses that information is put to, who has access to the information, and how you can control the use of the information.
 
-This policy may be updated from time to time so please ensure that you check it regularly. The latest version of the permission slip is visible at [http://www.chickensmoothie.com/privacy.php](https://web.archive.org/privacy.php?sid=bff31faad3a744a921827dfe06c70ea2), or by clicking the "privacy policy" link in the footer of our website.
+This policy may be updated from time to time so please ensure that you check it regularly. The latest version of the permission slip is visible at [http://www.chickensmoothie.com/privacy.php](https://web.archive.org/privacy.php), or by clicking the "privacy policy" link in the footer of our website.
 
 ### What information do we collect?
 
