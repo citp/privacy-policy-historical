@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careeranna.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235225id_/http%3A//www.careeranna.com/chome/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careeranna.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616135536id_/http%3A//www.careeranna.com/chome/privacypolicy) for the most accurate reproduction.*
 
 # Chome | Online Exam Preparation, Free Tests, Online Courses and Mentorship
 
