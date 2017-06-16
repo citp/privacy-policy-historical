@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studysync.com privacy policy that was archived on 2016-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160604184218id_/http%3A//www.studysync.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studysync.com privacy policy that was archived on 2017-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170616213051id_/http%3A//www.studysync.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en"><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -9,14 +9,36 @@
 <meta name="description" content="">
 <link rel="canonical" href="http://www.studysync.com/privacy-policy/">
 <link rel="stylesheet" href="/css/style.css">
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://use.typekit.com/dvy2dbq.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="http://use.typekit.com/dvy2dbq.js"></script>
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script src="/js/libs/modernizr-2.5.3.min.js"></script>
 <script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-20663210-1', 'auto');
+	ga('send', 'pageview');
+
+
+/**
 	var _gaq=[['_setAccount','UA-20663210-1'],['_trackPageview']];
 	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
 	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
 	s.parentNode.insertBefore(g,s)}(document,'script'));
+
+
+* Function that tracks a click on an outbound link in Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+* using 'navigator.sendBeacon' in browser that support it.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+}
 </script>
 </head>
 
@@ -132,7 +154,7 @@
 		</div>
 		<div class="col360 left">
 			<h6>Digital Library Demo</h6>
-			<p><a href="http://app.studysync.com/admin/library/demo.cfm" target="_blank">Experience Our Library of 500+ Classic and Modern Texts</a></p>
+			<p><a href="http://app.studysync.com/admin/library/demo.cfm" target="_blank">Experience Our Library of 1,200+ Classic and Modern Texts</a></p>
 		</div>
 	</div>
 	<div class="col140 left">
@@ -152,7 +174,7 @@
 			</div>
 		</div>
 		<ul id="getstudysync" class="navigation">
-			<li><a href="https://app.studysync.com" id="loginbutton">Student/Teacher Login</a></li>
+			<li><a href="https://app.studysync.com" onclick="trackOutboundLink('https://app.studysync.com'); return false;" id="loginbutton">Student/Teacher Login</a></li>
 		</ul>
 		<ul id="nav-sub" class="navigation">
 <li class="first"><a href="http://www.studysync.com/why-studysync/">Why StudySync?</a></li>
@@ -196,7 +218,8 @@
 					<div class="col220 right contactus">
 						<h4>Contact Us</h4>
 						<p>
-							<span class="icon20 phone"></span>(888) 938-3880 <br>
+							<span class="icon20 phone"></span>(800) 437-3715 for ConnectED <br>
+							<span class="icon20 phone"></span>(888) 938-3880 for StudySync <br>
 							<span class="icon20 email"></span><a href="http://www.studysync.com/our-company/contact/">Email Us</a><br>
 							<span class="icon20 pdf"></span><a href="/assets/copy/StudySync_Brochure.pdf">Download Our Brochure (PDF)</a>
 						</p>
@@ -206,7 +229,7 @@
 				</div>
 			</div>
 			<div class="copyrightarea clearfix mt70">
-				<div class="left"><p>© 2016 BookheadEd Learning, LLC.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.studysync.com/privacy-policy">Privacy Policy</a> | <a href="http://www.studysync.com/terms-of-use">Terms of Use</a> | <a href="http://www.studysync.com/sitemap">Sitemap</a></p></div>
+				<div class="left"><p>© 2017 BookheadEd Learning, LLC.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.studysync.com/privacy-policy">Privacy Policy</a> | <a href="http://www.studysync.com/terms-of-use">Terms of Use</a> | <a href="http://www.studysync.com/sitemap">Sitemap</a></p></div>
 				<div class="connect">
 					<h4>Connect</h4>
 					<a target="_blank" href="http://www.facebook.com/StudySync" class="fb"></a>
