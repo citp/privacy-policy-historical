@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225134412id_/http%3A//www.activeyou.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617013816id_/http%3A//www.activeyou.co.uk/privacy) for the most accurate reproduction.*
 
 # Active You - Privacy Policy
 
-This Privacy Policy relates to the ActiveYou.co.uk website (the 'Site') which is owned and operated by NetPerform Limited (trading as Digitalbox Data) a member of the Digitalbox Group of companies), company registration number 09909900, Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. NetPerform Limited is registered under the Data Protection Act 1998 under registration number ZA157045. Any reference to “we” or “us” in this Privacy Policy means NetPerform Limited.
+This Privacy Policy relates to the ActiveYou.co.uk website (the 'Site') which is owned and operated by NetPerform Limited (trading as Digitalbox Data) a member of the Digitalbox Group of companies), company registration number 09909900, Ground Floor, 2 – 4 Henry Street, Bath. BA1 1JT. NetPerform Limited is registered under the Data Protection Act 1998 under registration number ZA157045. Any reference to “we” or “us” in this Privacy Policy means NetPerform Limited.
 
 You do not need to register to browse the Site, but if you want to enter into any competition or to participate in any branded survey appearing on the Site, you will need to join the ActiveYou Scheme. Joining the ActiveYou Scheme means your details will be shared not only with the organisation who provides the competition prize or sponsors the survey in question, but with other organisations who we select, (sometimes based on interests you have shown when browsing the Site, or participating in competitions and surveys on the Site) from our trusted community of data partners ('Participating Data Partners'), for them to contact you about their products, services, promotions, offers and competitions, and/or to update their records for fraud prevention, debt tracing and anti-money laundering purposes. **Section 1** of this Privacy Policy explains this in more detail and what you need to do if you do not want to receive such information - it is important that you read this before you submit your details to join the ActiveYou Scheme. **Section 2** of this Privacy Policy sets out how we will use your Personal Information regardless of whether you join the ActiveYou Scheme ie when you are generally browsing and using the Site.
 
@@ -92,7 +92,7 @@ We may share any of the personal information you provide or we obtain from you f
 
 **How to Unsubscribe**
 
-You can leave the ActiveYou Scheme at any time by visiting [http://www.activeyou.co.uk/unsubscribe](https://web.archive.org/unsubscribe) or by emailing [dataprotection@digitalbox.com](mailto:dataprotection@digitalbox.com) or by writing to us at Studio 2, Monmouth Street Studios, 30 Monmouth Street, Bath. BA1 2AN. If you leave the ActiveYou Scheme your contact details will be placed in a suppression file and you will not receive any further marketing communications from ActiveYou and ActiveYou will cease sharing your details with Participating Data Partners and Digitalbox Group companies for marketing purposes. Please however note that there may be a brief period of time between your unsubscribe request and suppression to allow our systems to update. If you no longer wish to receive information Participating Data Partners or from Digitalbox Group Companies you will need to request this from them directly.
+You can leave the ActiveYou Scheme at any time by visiting [http://www.activeyou.co.uk/unsubscribe](https://web.archive.org/unsubscribe) or by emailing [dataprotection@digitalbox.com](mailto:dataprotection@digitalbox.com) or by writing to us at Ground Floor, 2 – 4 Henry Street, Bath. BA1 1JT. If you leave the ActiveYou Scheme your contact details will be placed in a suppression file and you will not receive any further marketing communications from ActiveYou and ActiveYou will cease sharing your details with Participating Data Partners and Digitalbox Group companies for marketing purposes. Please however note that there may be a brief period of time between your unsubscribe request and suppression to allow our systems to update. If you no longer wish to receive information Participating Data Partners or from Digitalbox Group Companies you will need to request this from them directly.
 
 Please note that ActiveYou and Digitalbox Group companies may still need to retain your details for use for the non-direct marketing purposes described in this Privacy Policy.
 
@@ -150,12 +150,12 @@ How we use your Personal Information is kept under regular review and changes ar
 
 If you have any queries about this Privacy Policy, or you wish to leave the ActiveYou Scheme, or update any of your personal details, or remove your details from the 'Winners' page, you can contact us by writing to us or emailing us at:
 
-Postal Address: | ActiveYou Studio 2  
-Monmouth Street Studios  
-30 Monmouth Street  
+Postal Address: | ActiveYou  
+Ground Floor  
+2 – 4 Henry Street  
 Bath  
-BA1 2AN   
+BA1 1JT   
 ---|---  
 Email: | **hello@netperform.co.uk**  
   
-This Privacy Policy was last updated on 25th July 2016
+This Privacy Policy was last updated on 4th April 2017
