@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicktransportsolutions.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217043809id_/http%3A//www.quicktransportsolutions.com/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicktransportsolutions.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616123444id_/http%3A//www.quicktransportsolutions.com/policy/privacy.php) for the most accurate reproduction.*
 
 # Quick Transport Solutions Inc. Privacy Policy
 
