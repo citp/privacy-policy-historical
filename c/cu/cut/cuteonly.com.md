@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226143754id_/http%3A//cuteonly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteonly.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616033736id_/http%3A//cuteonly.com/privacy.html) for the most accurate reproduction.*
 
 # CuteOnly Privacy Policy
 
-  
 **Privacy Policy**
 
 At CuteOnly, we are firmly committed to protecting your privacy.
@@ -52,8 +51,8 @@ If you have any further questions or concerns about our privacy policy contact u
 B. Novodmitrovskaya 14/2, office 226  
 127015 Moscow, Russia.
 
-  
 **What's Next:**
-* [**CuteOnly Knowledge Base**](https://web.archive.org/contacts.html) \- Still have questions? Check out our FAQ's
+
+* [ **CuteOnly Knowledge Base**](https://web.archive.org/contacts.html) \- Still have questions? Check out our FAQ's
 * [About CuteOnly](https://web.archive.org/about.html)
 * [CuteOnly Front Page](https://web.archive.org/)
