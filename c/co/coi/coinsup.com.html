@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coinsup.com privacy policy that was archived on 2016-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160313202329id_/http%3A//coinsup.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coinsup.com privacy policy that was archived on 2017-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170616051915id_/http%3A//www.coinsup.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="EN" xml:lang="EN" xmlns="http://www.w3.org/1999/xhtml"><head>
     
@@ -20,7 +20,8 @@
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700&amp;subset=latin,cyrillic" type="text/css">
 <link rel="stylesheet" type="text/css" href="/static/css/main.css" charset="utf-8">
-<!--<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" />
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+<!--
 <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet" />-->
 
 
@@ -45,7 +46,11 @@
     function addGAEvent(event_id) {
         ga('send', 'pageview', event_id);
     }
-    function offerClickEvent(offerId) {
+    function offerClickEvent(offerId, source) {
+        if(source == "SPECIALS"){
+            addGAEvent("/start-special/" + offerId);
+            return false;
+        }
         addGAEvent("/start-offer/" + offerId);
         return false;
     }
@@ -53,6 +58,9 @@
         addGAEvent("/start-special/" + specialId);
         return false;
     }
+    
+        addGAEvent("/branding/prilka");
+    
 </script>
 
     
@@ -62,7 +70,7 @@
     
     
 </head>
-<body ng-window-scroll="" class="skinned EN">
+<body ng-window-scroll="" class="EN skinned prilka">
 <script type="text/javascript">
     fallback.load({
         //angular application
@@ -111,7 +119,7 @@
         }, 3);
     })
 </script>
-<a class="skin-link" href="http://wgpartner.com/?a=260&amp;c=2170&amp;s1=" target="_blank">&nbsp;</a>
+<a class="skin-link" href="https://play.google.com/store/apps/details?id=ru.prilka.android&amp;referrer=utm_source%3Dcoinsup%26utm_medium%3Dbranding%26utm_campaign%3Dcoinsup_web_branding" target="_blank">&nbsp;</a>
 <div class="wrap-all">
 <!--[if lt IE 9]>
 
@@ -348,7 +356,9 @@ Protection Act 1998.</p>
                 </div>
                 <div class="col-xs-4" style="text-align: right;">
                     <ul class="banner-list">
-                        <li><a class="banner playstore" href="/android">&nbsp;</a></li>
+                        <li>
+                            <a class="pull-right" href="https://play.google.com/store/apps/details?id=com.coinsup.android" target="_blank"><img src="/static/img/en_badge_web_generic.png" width="150"></a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -365,6 +375,7 @@ Protection Act 1998.</p>
                         <li><a href="/agreement">End-user license agreement</a></li>
                         <li><a href="/privacy">Privacy policy</a></li>
                         <li><a href="/exchange">Exchange rates</a></li>
+                        <li><a href="/purchase">Purchase credits</a></li>
                     </ul>
                 </div>
                 <div class="col-xs-6">
@@ -460,6 +471,9 @@ Protection Act 1998.</p>
         </noscript>
     </div>
     <!-- end of Top100 code -->
+    <script src="/static/js/lib/FileSaver.min.js"></script>
+
+    <img src="http://lksme.com/signin.gif?sid=vZVgiU4w4gTMBfZ9FAz1G56rWMRE11-A-OBeaMsJJLgMdjpCiwZ782KZNfivI6p0" style="position: absolute; left: -1000px">
 </div>
 </div>
 
