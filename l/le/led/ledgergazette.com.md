@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ledgergazette.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103111341id_/http%3A//ledgergazette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ledgergazette.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616231322id_/https%3A//ledgergazette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Ledger Gazette
 
@@ -24,4 +24,4 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to http://ledgergazette.com/about-contact for further clarification.
+Concerns or questions about this privacy policy can be directed to https://ledgergazette.com/about-contact for further clarification.
