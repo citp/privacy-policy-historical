@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the district9movie.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127164906id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the district9movie.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616200056id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Sony Pictures
 
