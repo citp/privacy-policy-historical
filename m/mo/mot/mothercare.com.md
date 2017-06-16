@@ -1,28 +1,20 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530204452id_/http%3A//www.mothercare.com/privacy-policy/services-ms-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616212637id_/http%3A//www.mothercare.com/advice-buying-guides-and-services/services/privacy-policy/services-ms-privacypolicy.html) for the most accurate reproduction.*
 
-# privacy policy
-
-## General
+# Privacy Policy | Mothercare
 
 This privacy statement sets out how mothercare.com will store and use information relating to you. This applies to the entire web site. Any changes to these policies will be posted on Terms and conditions. Mothercare.com is a trading name of Mothercare UK Limited. Mothercare.com is committed to respecting your privacy. We have structured our web site so that, in general, you can visit the website without identifying yourself or revealing any personal information. Once you choose to provide us with any information by which you can be identified, then you can be assured that it will only be used in accordance with this Privacy Statement. For your protection, we are registered under the Data Protection Act 1998 and have given all appropriate notifications to the Information Commissioner.
-
-## Security
 
 Mothercare.com is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality. When you place orders or access account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection laws, we follow strict security procedures in the storage and disclosure of information, which you have given us, to prevent, unauthorised access. Our security procedures mean that we may occasionally require proof of identity before we are able to disclose sensitive or other information to you. If you have any further questions about our credit card security policies, please contact us. Click on the contact us tab at the top of this page. The Customer Care Centre is open from 8am to 8pm Monday to Saturday and from 9am to 5pm on Sunday.
 
 Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at Mothercare.com, call our Customer Care Centre on **0344 875 5222** (International **+44 (0)1923 210 210** ) to place an order.
 
-## What we collect
-
 We collect the following information:
 
   * Where you order products, we will collect your name, contact and billing information, transaction and credit card information.
   * When you register with us to receive our monthly newsletter or details of offers or products we will collect your e-mail address. You can also provide us with more information about you and your family so that the details of offers and products we send you will be more suited to your circumstances.
-  * Our website uses cookies, which are programs which collect additional information. In order to learn more see, How We Use Cookies below.
+  * Our website uses cookies, which are programs which collect additional information. In order to learn more see, how we use cookies below.
 
 
-
-## What do we do with the information we gather?
 
   * We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: Internal record keeping
   * To analyse the use of the mothercare.com website.
@@ -35,8 +27,6 @@ To send promotional e-mail about new products, special offers and services or ot
 
 From time to time, we may also use your information to contact you for market research purposes. We may contact you by e-mail, phone or mail.
 
-## Who we share the information with and your choices
-
 When you use this site and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement.
 
 We will not sell, distribute or lease your personal information to third parties other than our subsidiaries and parent company, subsidiaries of the same parent company, or our successor in business unless we have your permission or are required by law. We may release your personal information to our authorised direct marketing agents unless you tell us that you do not wish this to happen.
@@ -45,11 +35,9 @@ This process may include sending personal information outside of the European Ec
 
 When you provide any information on line, you should look for the box which you can click to say that you do not want the information to be used by anyone for direct marketing purposes. If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us at:
 
-## Email Subscriptions
+If you are opted into Mothercare emails and wish to change your preferences, you can do so by logging into 'my account' at anytime.
 
-If you are opted into mothercare emails and wish to change your preferences, you can do so by logging into 'my account' at anytime.
-
-If you wish to unsubscribe from email communications from mothercare you can do so by clicking on the unsubscribe link at the bottom of any email received, or else, amend your preferences when you log into 'my account.'
+If you wish to unsubscribe from email communications from Mothercare you can do so by clicking on the unsubscribe link at the bottom of any email received, or else, amend your preferences when you log into 'my account.'
 
 #### For information contact:
 
@@ -73,11 +61,7 @@ WD24 6SH
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address. We will correct any information which was found to be incorrect promptly.
 
-## Other web sites
-
 Our web site may contain links to enable you to visit other web sites of interest easily. However, once you have used these links to leave our site you should note that we do not have any control over that other web site. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the web site in question.
-
-## Our Cookies Policy
 
 #### What are cookies?
 
@@ -114,11 +98,10 @@ The table below contains details of the cookies we use and why. The data we coll
 Cookie Name | Purpose  
 ---|---  
 **Coremetrics, Google Analytics** | Collects information about how our visitors use our website. We use this information to help us improve the website. These cookies collect information in an anonymous form such as the number of visitors to our site, where visitors have come to the site from and the pages they visited.  
-**Rich Relevance** | Provides our visitors with recommendations on what other customers have browsed and purchased on our site.   
+**Avail** | Provides our visitors with recommendations on what other customers have browsed and purchased on our site. This also allows our customers to participate in our social community of Mothercare  
 **Reevoo** | Enables our customers to read and write reviews on products.  
 **Tradedoubler** | Shows us how our visitors find our website, which helps us identify which online channels are the most effective. We may reward certain external websites for sending visitors to our website  
-**Adobe** | This cookie allows us to track if our visitors have come to our website through our e-mail channel, allowing us to send better and more relevant e-mails to our customers  
-**Qubit** | This cookie allows us to enable Qubit analytics software. It helps us analyse visitor information such as browser usage, new visitor numbers, response to marketing activity and device usage. Based on the analytics we plan tests to improve the shopping experience for you. The data stored never shows personal details.  
+**Responsys** | This cookie allows us to track if our visitors have come to our website through our e-mail channel, allowing us to send better and more relevant e-mails to our customers  
 **Addthis, Twitter** | Allow our visitors to interface with Facebook and Twitter.  
 **Datacash** | Allows us to take payment for and complete your order.  
 **Scene7** | Allows our visitors to be served product images  
@@ -136,11 +119,9 @@ Most web browsers allow you to control cookies through your browser settings. Yo
 
 [Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
 
-If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20160530204452id_/http%3A//www.mothercare.com/privacy-policy/www.allaboutcookies.org). 
+If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
 Please remember that all of the links above are third party websites. We do not endorse them and are not responsible for their contents.
-
-## What happens if I disable cookies?
 
 If you disable cookies it may affect the service you receive from our website. For example you may not be able to:
 
@@ -153,8 +134,6 @@ If you disable cookies it may affect the service you receive from our website. F
 Please remember that if you wish to disable cookies you will need to do this each time you visit our website.
 
 Our Cookies Policy does not cover any third party websites that are linked to Mothercare. If you click through to these websites, they may set cookies on your computer. To understand which cookies are used by these companies and how they use your data, please read their privacy and cookies policies. We accept no responsibility or liability for these third party websites.
-
-## Contact us
 
 If you have any questions about our cookies policy please contact:
 
