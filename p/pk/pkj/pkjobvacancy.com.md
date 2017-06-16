@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119102154id_/http%3A//pkjobvacancy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkjobvacancy.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616183836id_/http%3A//pkjobvacancy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Jobs Vacancy in Pakistan 2016
+# Privacy Policy - Jobs Vacancy in Pakistan 2017
 
 ## Privacy Policy
 
