@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwumc.edu privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207073640id_/http%3A//www.gwu.edu/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwumc.edu privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616214813id_/http%3A//www.gwu.edu/legal/privacypolicy) for the most accurate reproduction.*
 
 # Website Privacy Policy | The George Washington University
 
@@ -17,7 +17,7 @@ GW collects two types of information from users:
 
 Users may provide GW with non-personally and personally identifiable information in order to utilize certain services and retrieve information. Such instances may not be noticeable to the user and include, but are not limited to: filling out surveys, purchasing goods and services, submitting tests, registering for courses and submitting certain forms.
 
-Should the user choose to provide GW with any personal information, GW will use such information only to conduct official university business and will disclose it only when such disclosure may be appropriate to comply with applicable law, to enforce [GW’s Visitor Agreement](https://web.archive.org/node/8), or to protect the rights, property or the safety of visitors to GW’s websites, the university community or the public. GW does not sell, trade, or rent users’ personal information to others.
+Should the user choose to provide GW with any personal information, GW will use such information only to conduct official university business and will disclose it only when such disclosure may be appropriate to comply with applicable law, to enforce [GW’s Visitor Agreement](https://web.archive.org/terms-use), or to protect the rights, property or the safety of visitors to GW’s websites, the university community or the public. GW does not sell, trade, or rent users’ personal information to others.
 
 GW maintains information collection procedures that comply with The Child Online Privacy Protection Act of 1998. If you believe that GW has collected personally identifiable information about your child, please contact GW immediately at [comply@gwu.edu](mailto:comply@gwu.edu) so that if such information has been collected, GW can take appropriate action.
 
