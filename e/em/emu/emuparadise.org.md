@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emuparadise.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231925id_/http%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emuparadise.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617042205id_/http%3A//www.emuparadise.me/privacy.php) for the most accurate reproduction.*
 
-# NDS ROMS PSP ROMS PSX ROMS NES ROMS SNES ROMS GBA ROMS | Emuparadise
+# Play classic video games on your computer or mobile device | Emuparadise
 
 **Emuparadise Privacy Policy:**
 
