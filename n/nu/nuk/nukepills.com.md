@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nukepills.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118214946id_/https%3A//www.nukepills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nukepills.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617161956id_/http%3A//www.nukepills.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Radiation Biological Chemical Emergency Protection Supplies
 
