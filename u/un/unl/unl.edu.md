@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unl.edu privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220073606id_/http%3A//its.unl.edu/unlprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unl.edu privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617043216id_/http%3A//its.unl.edu/unlprivacypolicy) for the most accurate reproduction.*
 
 # UNL Online Privacy Policy | Information Technology Services | University of Nebraska–Lincoln
 
