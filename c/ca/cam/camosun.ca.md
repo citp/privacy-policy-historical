@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camosun.ca privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122033id_/http%3A//camosun.ca/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camosun.ca privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617093628id_/http%3A//camosun.ca/privacy-statement.html) for the most accurate reproduction.*
 
 # Website Privacy Statement - Camosun College
 
@@ -14,4 +14,6 @@ Our password protocols and encryption software are routinely updated to maximize
 
 This policy is regularly reviewed and updated to reflect our practices.
 
-Last updated: October 14, 2014 1:54 pm
+[See all Camosun College policies](https://web.archive.org/about/policies/)
+
+Last updated: April 4, 2017 10:04 am
