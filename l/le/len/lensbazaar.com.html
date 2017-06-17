@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lensbazaar.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120125359id_/http%3A//www.lensbazaar.com/lensbazaar-Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lensbazaar.com privacy policy that was archived on 2017-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617021057id_/http%3A//www.lensbazaar.com/lensbazaar-Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
@@ -207,6 +207,112 @@ DD_belatedPNG.fix('#logo img');
     <div class="right"><a href="http://www.lensbazaar.com/" class="button">Continue</a></div>
   </div>
   </div>
+<script>
+var runloopuntill=0;
+
+$('.option').each(function(){
+
+var bctext=$(this).find('b').text();
+
+var bcount=0;
+if(bctext=="BASE CURVE:")
+{
+bcount=$(this).find('option').length;
+runloopuntill=(bcount-1)*2;
+}
+    });
+if(runloopuntill>0) {
+var count=0;
+    $('.option').each(function(){
+count++;
+
+$(this).css('display','none');
+if(count==runloopuntill)
+return false;
+    }); 
+
+
+
+
+var classofleftpower;
+var leftpowervalue;
+var classofrightpower;
+var rightpowervalue;
+var bcvalue;
+var classofbc;
+
+$('.option').each(function(){
+var bctext=$(this).find('b').text();
+var bcount=0;
+if(bctext=="LEFT POWER:")
+{
+
+classofleftpower=$(this);
+
+}
+ 
+
+if(bctext=="RIGHT POWER:")
+{
+
+classofrightpower=$(this);
+
+}
+if(bctext=="BASE CURVE:")
+{
+
+classofbc=$(this);
+
+}
+   });
+
+
+
+classofleftpower.find('select').change(function() {
+
+leftpowervalue=$(this).find(":selected").text();
+
+});
+classofbc.find('select').change(function() {
+
+bcvalue=$(this).find(":selected").text();
+
+  $('.option').each(function(){
+var bctext=$(this).find('b').text();
+var bcount=0;
+var leftpwr="LEFT POWER BC "+bcvalue;
+var rightpwr="RIGHT POWER BC "+bcvalue;
+bctext=bctext.replace(/\s+/g,' ').trim();
+leftpwr=leftpwr.replace(/\s+/g,' ').trim();
+rightpwr=rightpwr.replace(/\s+/g,' ').trim();
+leftpwr=leftpwr+":";
+rightpwr=rightpwr+":";
+if(bctext==leftpwr)
+{
+temp=$(this).find('select').find('option:contains('+leftpowervalue+')').val();
+
+$(this).find('select').val(temp);
+}
+if(bctext==rightpwr)
+{
+temp=$(this).find('select').find('option:contains('+rightpowervalue+')').val();
+
+$(this).find('select').val(temp);
+
+}
+ 
+    });
+
+
+
+});
+classofrightpower.find('select').change(function() {
+rightpowervalue=$(this).find(":selected").text();
+
+});
+}</script>
+
+
 <div id="footer">
   <div class="column">
     <h3>Information</h3>
@@ -254,7 +360,7 @@ DD_belatedPNG.fix('#logo img');
 <div id="powered"> <div class="powered1"><div style="float: left;"><span id="cdSiteSeal1"><script type="text/javascript" src="//tracedseals.starfieldtech.com/siteseal/get?scriptId=cdSiteSeal1&amp;cdSealType=Seal1&amp;sealId=55e4ye7y7mb73fd68f303e508bd7d858rny7mb7355e4ye76301fc1b3d3b0db17"></script></span></div>
 <div style="float: right;">
 </div>
-</div>	<br>Powered By <a href="http://www.lensbazaar.com">Lensbazaar.com</a><br> LensBazaar.com © 2016</div>
+</div>	<br>Powered By <a href="http://www.lensbazaar.com">Lensbazaar.com</a><br> LensBazaar.com © 2017</div>
 
 
 
