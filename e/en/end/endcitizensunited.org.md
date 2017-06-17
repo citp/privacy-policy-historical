@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121205241id_/http%3A//endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endcitizensunited.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617124707id_/http%3A//endcitizensunited.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - End Citizens United
 
-_Updated January 8th, 2016_
+_Updated January 18th, 2017_
 
 End Citizens United cares about your privacy rights, and about providing you with the information you need in order to protect them. Accordingly, we’ve created this policy to explain our privacy practices. This applies to  **www.endcitizensunited.org  **only.
 
@@ -56,6 +56,10 @@ We do not knowingly, directly or passively, collect information from children un
 
 Please be aware that we may provide links to third-party Web sites, including those sites maintained by Democratic candidates, other Democratic committees and news media outlets, as a service to our visitors. We are not responsible for the content or information collection practices of those sites. Please note that these sites’ privacy policies may differ from ours. We encourage your to review and understand their privacy practices before providing them with information.
 
+**Unsubscribe Policy**
+
+If you no longer wish to receive emails from End Citizens United, please click the unsubscribe link included in the footer of all of our emails.
+
 **Updating This Policy**
 
 We may revise or update this policy if our practices change, as we change existing or add new features or as we develop better ways to inform you of features we think will be of interest. You should refer back to this page often for the latest information. If we decide to change this policy, we will post a new policy on our sites and change the date at the top of the policy.
@@ -68,4 +72,4 @@ End Citizens United
 PO Box 66005  
 Washington, DC   20035
 
-### Co-sponsor a constitutional amendment to
+### Sign up to receive email updates from
