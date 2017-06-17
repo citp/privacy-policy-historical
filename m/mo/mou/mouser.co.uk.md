@@ -1,72 +1,49 @@
-> *The following text is extracted and transformed from the mouser.co.uk privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113052028id_/http%3A//www.mouser.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.co.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617140014id_/http%3A//www.mouser.co.uk/privacypolicy) for the most accurate reproduction.*
 
-# Mouser Electronics - Electronic Component Distributor
+# Mouser Electronics - Electronic Component Distributor United Kingdom
 
-This statement of privacy (this “ ** _Statement_** ”) explains the data collection of Mouser Electronics, Inc. (including all affiliates and subsidiaries) through our website (including all other related websites we may use and link hereto) and related services and products (collectively the “ ** _Site_** ”) and the use of such data, so please read the entire Statement.  Use of the Site indicates a site user’s acceptance of this Statement.
+## Mouser Electronics Statement of Privacy
 
-**Changes:**  
-We may change this Statement from time to time in our sole discretion.  Accordingly, we encourage site users to review this Statement periodically.  We reserve the right (but are not required) to send a notice via email or any other delivery method of any such change to this Statement.  The most current version of this Statement will be linked on the Site.  If a user continues to use the Site after we change this Statement, then user accepts all such changes.  
- **  
-****Collecting Site User Information:**  
-We collect information about site users in two ways:  (1) when users give the information to us or when users give us permission to obtain the information and (2) when users access and/or use the Site.  All information that we collect about a user is defined as “ ** _Collected Information_**.”  
-The following list, which is not meant to be exhaustive, provides examples of when we obtain Collected Information and the type of Collected Information obtained:  
-            (a)        When establishing and maintaining a user account, which may result in our obtaining user name, email address, and other registration and profile information;  
-            (b)        When establishing and maintaining user purchases, which may result in our obtaining user credit card information, billing address, and other financial records;  
-            (c)        When customizing the content users see, access, and/or use as part of the Site, which may result in our obtaining, with user permission, access to user information in or through other third party services;  
-            (d)        When providing user access to, and use of, the Site through a personal computer or other device, which may result in our obtaining the following automatically recorded information (collectively the “ ** _Log Data_** ”):  (1) user Internet Protocol address, (2) the address of the web page visited before user came to the Site, (3) user browser type and settings, (4) the date and time of any request user makes to the Site, (5) how user used the Site during user’s visit, (6) user type of personal computer or other device, (7) the operating system and other software on a user’s personal computer or other device, (8) the settings on a user’s personal computer or other device, (9) a user’s geo-coordinates and other location data and geo-targeting data, and (10) other information provided by tracking technologies, such as cookies (as described in more detail below);  
-            (e)        When contacting user regarding the Site, when reviewing or processing a questionnaire user submits for or through the Site, or when reviewing or processing a user request for a product or service offered by or through the Site, which, in any such case, may result in our obtaining information that user discloses or submits; or  
-            (f)         When user participates in any survey, sweepstakes, contest, or promotion by or through the Site, which may result in our obtaining user’s name, profile photo, email address, and other registration and profile information.  
-All Collected Information falls into one of two categories:  (1) “ ** _Identifiable Information_** ” or (2) “ ** _Unlimited-Use Information_**.”  Identifiable Information is limited to information that can be used to specifically identify user as a unique person.  Unlimited-Use Information is all Collected Information other than Identifiable Information.  
-            (a)        Examples of 
+At Mouser, we are committed to protecting your privacy and developing technology that gives you the most powerful and secure online experience. You can travel through most of our website without giving us any personal information but sometimes we do need it to provide services that you requested. This statement of privacy explains data collection and the use of it so please read the entire statement.
 
-_Identifiable Information_
-
-include the following information: (1) user name, (2) user mailing addresses, (3) user phone numbers, (4) user email addresses, (5) user IP addresses, (6) user billing information, and (7) unique identifiers for a user’s personal computers and other devices.  
-            (b)        Examples of 
-
-_Unlimited-Use Information_
-
-include the following information:  (1) cookie information, pixel tag information, and other digital behavior about user, (2) the pages user requests or visits, (3) the frequency of user requests or visits, (4) user search terms, (5) user public profile and user public information associated with the Site (whether used on a general portion of the Site or used on a private portion of the Site), (6) user submissions, (7) user geo-coordinates and other location data, (8) user Log Data not included in (1) through (7) above, and (9) all Identifiable Information that has been de-identified (meaning that no single person can be identified by such de-identified information).
+**Collecting your Personal Information:**  
+We will ask you when we need information that personally identifies you or allows us to contact you. Usually this information is requested when you order email newsletters, catalogs or when you purchase our products. We continually monitor our website for errors and if one occurs, information about your web browser may be collected to assist us in correcting the problem.
 
 **Cookies:**  
-In order to make certain parts of the Site function correctly, cookies are utilized.  A cookie is a small data file transferred by a website to user computer’s hard drive.  The Site sends cookies when (among other occasions) user visits, makes a purchase, requests or personalizes information, or registers for the Site.  A cookie cannot read personal data off a user’s hard disk or read cookie files created by other websites; the only Identifiable Information a cookie can contain is information a user supplies.  Although user can still browse and search for products on the Site, user must have cookies enabled in order to add items to user’s shopping cart or to create/log into a My Mouser account.
+In order to make certain parts of mouser.com function correctly, cookies are utilized. Cookies are used to link you to your shopping cart and to session information while logged in. Although you can still browse and search for products, you must have cookies enabled in order to add items to your shopping cart or to create/log into a My Mouser account.
 
-**Use and Sharing of user Identifiable Information:**  
-We may use user Identifiable Information for several purposes, such as:  
-            (a)        To make the Site easier for user to use by not requiring a user to enter user Identifiable Information more than once.  
-            (b)        To help user quickly find services or information on the Site.  
-            (c)        We may use Identifiable Information (including user email addresses, phone numbers, and unique identifiers) to send user updates and promotional/advertising materials, including newsletters, relating to the Site and the products and services of our affiliates or business partners or to otherwise target specific services or offers to user.  If user wants to stop receiving promotional/advertising materials from us, then user should update user’s account settings on the Site.  
-            (d)        We may use Identifiable Information to respond to user questions or comments.  
-            (e)        We may use Identifiable Information to develop, customize, and deliver content on the Site, to make the Site better, to improve the Site’s functionality, to support and maintain the Site, to develop and inform user of new products and updates, and to contact user when user has received an error while using our website so we can help user solve the problem.  
-            (f)         We may use Identifiable Information in combination with Unlimited-Use Information.  
-            (g)        We may use Identifiable Information when we have user consent.  
-We may share user Identifiable Information for several purposes, such as:  
-            (a)        We may share Identifiable Information with our parents, subsidiaries, and sister companies.  
-            (b)        We may share Identifiable Information with third parties that assist with the Site.  These third parties are not authorized to retain, share, store, or use Identifiable Information for any purposes other than as instructed by us.  
-            (c)        We may share Identifiable Information with credit reporting agencies.  
-            (d)        We may share Identifiable Information if we believe that sharing Identifiable Information is reasonably necessary in order to (1) protect or defend the legal rights, property, safety, or security of us, anyone else, or the public, (2) protect or defend against, or otherwise address, fraud, security, or technical issues, (3) risk management purposes, (4) comply with a law, regulation, legal request, legal process, legal requirement, judicial proceeding, or court order, (5) investigate a possible crime, such as fraud or identity theft, or (6) act in urgent circumstances.  We may also share Identifiable Information in connection with the (actual or potential) sale, purchase, acquisition, merger, reorganization, bankruptcy, liquidation, dissolution, or similar transaction or proceeding of or involving us.  
-            (e)        When required to disclose "point of sale" (“ ** _POS_** ”) information to the manufacturer for market research and payment of commission to the manufacturer's sales force.  POS information might also be used by us, TTI, Inc., the manufacturer, or the manufacturer's representatives to provide user with important information or to contact user about potential design activity.  
-We reserve the right to de-identify user Identifiable Information for any and all purposes.  
-Except as described in, or permitted by, this Statement, we will obtain user permission before we share user Identifiable Information with third parties.  
-We are permitted to use and share, without restriction or limitation, all Unlimited-Use Information (including Identifiable Information that has been de-identified) in our sole discretion.  Without limiting the generality of the foregoing sentence, we reserve the right to use, distribute, edit, display, archive, publish, sublicense, perform, reproduce, make available, transmit, broadcast, sell, repurpose, translate, aggregate, and create derivative works of the Unlimited-Use Information for any and all purposes.  In addition, we may use Unlimited-Use Information (1) to monitor, maintain, and improve the functionality of the Site, (2) to make the Site more responsive to the needs of the visitors and users of the Site, (3) to improve user experience on the Site and with respect to the Site, (4) for historical, statistical, scientific, demographic, geographic, and other purposes, (5) responding to surveys or seeking responses to surveys, and (6) for informing others of the use of the Site.
+**Use of your Personal Information:**  
+We may use your personal information for several purposes such as:  
 
-**Site User Disclosures to Third Parties:**  
-We are not responsible for any information that users disclose to any third party by or through the Site.
+
+  1. To make our website easier for you to use by not requiring you to enter your personal information more than once.
+  2. To help you quickly find services or information on Mouser.
+  3. To help us develop and deliver content most relevant to you.
+  4. To inform you of special offers, updated information and new services from Mouser.
+  5. To contact you when you have received an error while using our website so we can help you solve the problem.
+
+
+
+We will disclose your information, without notice, only as follows:  
+
+
+  1. To obey orders of the law or comply with legal process served on Mouser.
+  2. To protect and defend the rights or property of Mouser and its websites.
+  3. To act in urgent circumstances to protect Mouser's websites, its employees or the public.
+  4. When you have an open account with Mouser, credit and payment history is occasionally shared with credit reporting agencies.
+  5. When required to disclose "point of sale" (POS) information to the manufacturer for market research and payment of commission to the manufacturer's sales force. POS information might also be used by Mouser, TTI, the manufacturer or the manufacturer's representatives to provide you with important information or to contact you about potential design activity.
+
+
+
+**Control of your Personal Information:**  
+When you register with our website, Mouser **will not** share your personal information with any third party except as noted above.
 
 **Data Security:**  
-We use a variety of security technologies to protect a user’s Identifiable Information, including secure servers, firewalls, and encryption of credit card information.  Unfortunately, there is always a potential risk in sending information through any channel or retaining information on any storage device, and we cannot guarantee that communications between user and us or information stored on our resources, including Identifiable Information, will be free from unauthorized access by third parties.  We will not be held responsible (1) for any unauthorized access or illegal or unauthorized use of information, including Identifiable Information, or (2) if user information, including Identifiable Information, is accessed through unauthorized or improper use of user account or login information or due to user failure to secure user username, password, or customer ID.
+We aim to protect your personal data. Mouser uses a variety of security technologies to protect your personal data, including secure servers, firewalls and encryption of credit card information.
 
-**Google analytics and social plugins**  
-We reserve the right to collaborate with Google and/or other search engines as well as Facebook and/or other social media companies to the extent necessary or useful to enable us to run, operate and maintain the Site. In case User does not want Google Analytics to be in place, we provide the following link: <https://tools.google.com/dlpage/gaoptout?hl=de>.   We may not be held responsible for any functionality of Google, Facebook or other third party websites.
+**Changes to this Privacy Policy:**  
+We reserve the right to make changes to this privacy policy without notice.
 
-**Children’s Information:**  
-The Site is not directed to children under 13.  If a user learns that user’s minor child has provided us with Identifiable Information without user’s consent, please contact us.
+If you have any questions or comments concerning our privacy statement contact us at [webmaster@mouser.com](mailto:webmaster@mouser.com?subject=Privacy%20Policy).
 
-**Mobile use:**   
-If User decides to enter the site via mobile device and has activated location-based services, we reserve the right to collect information about User’s current location and geo-coordinates and geo-targeting data as well as the kind of mobile device in use. We hereby inform User that most of the mobile devices provide the possibility to disconnect from location-based services or to deactivate those.  In case of any question regarding the setting of User’s mobile device the producer or network provider should be contacted.  We reserve the right to provide applications for mobile devices in the future and might include the privacy statements and consents given by User during the download process into this privacy statement.
-
-**Consent, inquiry, withdrawal:**  
-User consents to have user’s personal data, including user Identifiable Information, used and stored wherever we do business, including countries outside user’s own. User has at any time the right to ask for the information collected without having to present any reason.  User has at any time the right to explicitly withdraw this consent either in writing or via [webmaster@mouser.com](mailto:webmaster@mouser.com) without having to present any reason.  By doing so User accepts that some or all functions and/or services of this website including the shop might not be available for such User anymore.
-
-**Questions or Comments:**  
-If user has any questions or comments concerning this Statement, contact us at [webmaster@mouser.com](mailto:webmaster@mouser.com?subject=Privacy%20Policy).
+**Revised January 10, 2011**
