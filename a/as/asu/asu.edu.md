@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208210445id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asu.edu privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617101557id_/http%3A//www.asu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statements
 
@@ -60,7 +60,7 @@ University and Arizona Board of Regents policies protect the confidentiality of 
 
 **Public Records Laws.** Under the Arizona Public Records Laws, ASU may be required to provide information in university records to a third party. Commercial users may purchase public record information, such as non-confidential lists of students and employees. Confidential information protected by FERPA or by other laws or Board policy will not be disclosed in response to a public records request. Additional information about Arizona public records laws is available at [ogc.asu.edu/public-records/.](https://ogc.asu.edu/public-records/)
 
-Contractors. From time to time, individuals or companies under contract with the university may have access to confidential information in the course of the service they provide to the university, but those entities are not permitted to use or re-disclose that information for unauthorized purposes. No other entities are authorized to collect information through ASU’s sites. 
+**Contractors.** From time to time, individuals or companies under contract with the university may have access to confidential information in the course of the service they provide to the university, but those entities are not permitted to use or re-disclose that information for unauthorized purposes. No other entities are authorized to collect information through ASU’s sites. 
 
 ### Security
 
