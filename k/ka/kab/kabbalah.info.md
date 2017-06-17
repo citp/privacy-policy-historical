@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105101337id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617103751id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kabbalah.info
 
@@ -79,7 +79,7 @@ All user communications made to or through Kabbalah.info or kabalah.info control
 
 **Disclosure of Your Personal Information**
 
-Except as described in this Privacy Policy, personal information you provide to Kabbalah.info through the Website or any of our email subscription or mobile content delivery programs, will not be shared outside of our company and its service providers without your express permission. 
+Except as described in this Privacy Policy, personal information you provide to Kabbalah.info through the Website or any of our email subscription or mobile content delivery programs, will not be shared outside of our company and its service providers without your express permission. "Company" means the Bnei Baruch Kabbalah Education & Research Institute, Bnei Baruch Association, Bnei Baruch America, Kabbalah.info and Bnei Baruch Israel (Kabbalah L'Am). 
 
 **Security**
 
