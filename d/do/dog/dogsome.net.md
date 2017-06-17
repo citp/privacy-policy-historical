@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dogsome.net privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024081101id_/http%3A//dogsome.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogsome.net privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618001928id_/http%3A//dogsome.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Dogsome.net
 
 This privacy policy sets out how Dogsome.net uses and protects any information that you give Dogsome.net when you use this website.
 
