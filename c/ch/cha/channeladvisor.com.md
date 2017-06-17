@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206002221id_/http%3A//www.channeladvisor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channeladvisor.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617033351id_/https%3A//www.channeladvisor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – ChannelAdvisor
+# Privacy Policy - Channel Advisor
 
 **I. OVERVIEW**
 
