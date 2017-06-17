@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the surfline.com privacy policy that was archived on 2016-10-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161014083700id_/http%3A//www.surfline.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the surfline.com privacy policy that was archived on 2017-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617065318id_/http%3A//www.surfline.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="viewport" content="width=device-width, initial-scale=1, maxiumum-scale=1">
 
@@ -77,10 +77,11 @@
 <link href="/rss/surfnews.cfm" type="application/rss+xml" rel="alternate" title="Surfline SurfNews [RSS]">
 <link href="/rss/surfwire.cfm" type="application/rss+xml" rel="alternate" title="Surfline SurfWire [RSS]">
 <link href="/rss/surfalerts.cfm" type="application/rss+xml" rel="alternate" title="Surfline Surf Alerts [RSS]">
-<link href="http://e.cdn-surfline.com/include/header/images/favicon_09142011.ico" rel="shortcut icon" type="image/x-icon">
+<link href="https://wa.cdn-surfline.com/favicons/favicon.ico" rel="shortcut icon" type="image/x-icon">
 
 
-	<script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/549d1efd481064562bb1e58acf417f7a186859d0.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" src="http://e.cdn-surfline.com/scripts/swfobject2/swfobject.js"></script>
+
+	<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/549d1efd481064562bb1e58acf417f7a186859d0.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="https://js-agent.newrelic.com/nr-686.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/Se6IGuzcvUhLx55hLHL0RiXkS6oUTz8L/analytics.min.js"></script><script type="text/javascript" src="http://e.cdn-surfline.com/scripts/swfobject2/swfobject.js"></script>
 
 
 
@@ -105,25 +106,74 @@
 
 <script type="text/javascript" src="http://e.cdn-surfline.com/scripts/jquery.cookie.js"></script>
 
+
+	
+
+ <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body><div style="width:auto;background-color:#42a5fc;text-align:left;color:white;position:relative;height:25px;Z-index:999;" id="newMsg">
+ 	<div style="padding:5px">
+    <div style="text-align:center;" onclick="redirectnewMsg();return false;">
+ 	 We're reimagining the Surfline experience with you in mind. <a href="#" style="color:white"> - TRY SURFLINE BETA</a>
+ 	</div>
+ 	<div style="clear:both;"></div>
+	</div>
+ </div>
+
+ <script>
+ function getCookieValue(a) {
+    var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+    return b ? b.pop() : '';
+ }
+ function redirectnewMsg()
+ {
+     var expdate = new Date;
+     expdate.setMonth(expdate.getMonth() + 6);
+     document.cookie="new_surfline=on;expires="+expdate+";domain=.surfline.com;path=/";
+     var Sexpdate = new Date;
+Sexpdate.setTime(Sexpdate.getTime()+(30*1000));
+Sexpdate=Sexpdate.toGMTString();
+     if(document.cookie.indexOf('access_token=') != -1){
+document.cookie="new_access_token="+getCookieValue('access_token')+";expires="+Sexpdate+";domain=.surfline.com;path=/";}
+	 if(document.cookie.indexOf('refresh_token=') != -1){
+document.cookie="new_refresh_token="+getCookieValue('refresh_token')+";expires="+Sexpdate+";domain=.surfline.com;path=/";
+}
+ 	 window.location.search += '&initial_mvp_opt_in=1';
+ }
+ </script>
+ 
+
 <!-- test blkAs -->
 
-	<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body><img id="testBlk" src="http://e.cdn-surfline.com/ads/VolcomSurflinePlayerHo13.jpg" style="display:none;">
-
+	<img id="testBlk" src="http://e.cdn-surfline.com/ads/VolcomSurflinePlayerHo13.jpg" style="display:none;">
 
 <script>
 var blkAopts = "";
-function testBlk(){
-	if(typeof jQuery('#testBlk').width() == "undefined" || jQuery('#testBlk').width() == 0){
-		blkAopts = true;
-		return true;
-	}else{
-		blkAopts = false;
-		return false;
-	}
-	if(console){
-		console.log('blkAopts:',blkAopts)
-	}
-}
+
+	        // Define a function for showing the message.
+	        // Set a timeout of 2 seconds to give adblocker
+	        // a chance to do its thing
+     			   function testBlk(){
+
+                if(!document.getElementsByClassName) return;
+                var ads = document.getElementsByClassName('afs_ads'),
+                    ad  = ads[ads.length - 1];
+
+                if(!ad
+                    || ad.innerHTML.length == 0
+                    || ad.clientHeight === 0) {
+                    	 blkAopts = true;
+                    	 document.getElementById('afs_ads').style.display = "none";
+                    	 return true;
+
+
+					}
+					else{
+				blkAopts = false;
+				document.getElementById('afs_ads').style.display = "none";
+				return false;
+
+			}
+        }
+
 </script>
 <script type="text/javascript" language="javascript">function c_kW(){return {x:0,y:0}} </script>
 
@@ -151,6 +201,25 @@ function testBlk(){
 
 
 
+	
+
+
+
+	
+		
+		
+			
+			
+		
+	
+
+	
+<script type="text/javascript">
+ 	var segmentKey = 'Se6IGuzcvUhLx55hLHL0RiXkS6oUTz8L'
+    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+    	analytics.load(segmentKey);
+    }}();
+</script>
 
 
 
@@ -252,7 +321,6 @@ var OAS_query = '';
 	
 
 
-
 <div id="top-prefs"><a href="javascript:void(0);" onclick="location.href='/'; ">
 
 
@@ -286,51 +354,46 @@ var OAS_query = '';
                 <div id="memberinfo"></div>
                     <ul class="inner-menu" style="display:none" id="expiredaccountlinks">
                         <li onclick="upgradeAccount(1);">Renew Premium Membership Now</li>
-                        <li onclick="location.href='/myaccount/index.cfm?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=emailprefs&amp;slintcid=NAV-EMAIL&amp;slcmpname=NAV-EMAIL-OFFERS' ">Email Offers</li>
+                        <li onclick="location.href='/account/?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
+                        <li onclick="location.href='/account/?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
+                        <li onclick="location.href='/account/subscription?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
                         <li onclick="location.href='/premium-benefits/index.cfm?action=premiumbenefits&amp;slintcid=NAV-BC&amp;slcmpname=NAV-BENEFITSCENTER' ">Premium Benefits</li>
                         <li onclick="location.href='/site-settings/index.cfm?action=settings&amp;slintcid=NAV-SETTINGS&amp;slcmpname=NAV-SITE-SETTINGS' ">Site Settings</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=helpcenter&amp;slintcid=NAV-HELP&amp;slcmpname=NAV-HELP-CENTER' ">Help Center</li>
+                        <li onclick="location.href='http://support.surfline.com/hc/en-us' ">Help Center</li>
                     </ul>
                     <ul class="inner-menu" style="display:none" id="registeredaccountlinks">
                         <li onclick="upgradeAccount(1);">Try Premium Free Now</li>
-                        <li onclick="location.href='/myaccount/index.cfm?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=emailprefs&amp;slintcid=NAV-EMAIL&amp;slcmpname=NAV-EMAIL-OFFERS' ">Email Offers</li>
+                        <li onclick="location.href='/account/?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
+                        <li onclick="location.href='/account/edit-profile?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
                         <li onclick="location.href='/site-settings/index.cfm?action=settings&amp;slintcid=NAV-SETTINGS&amp;slcmpname=NAV-SITE-SETTINGS' ">Site Settings</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=helpcenter&amp;slintcid=NAV-HELP&amp;slcmpname=NAV-HELP-CENTER' ">Help Center</li>
+                        <li onclick="location.href='http://support.surfline.com/hc/en-us' ">Help Center</li>
                     </ul>
                     <ul class="inner-menu" style="display:none" id="vipaccountlinks">
-                        <li onclick="location.href='/myaccount/index.cfm?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
+                        <li onclick="location.href='/account/?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
+                        <li onclick="location.href='/account/edit-profile?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
+                        <li onclick="location.href='/account/subscription?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
                         <li onclick="location.href='/giftsubscription/?slintcid=NAV-GM&amp;slcmpname=NAV-GIFT-MEMBERSHIPS' ">Gift Memberships</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=emailprefs&amp;slintcid=NAV-EMAIL&amp;slcmpname=NAV-EMAIL-OFFERS' ">Email Offers</li>
                         <li onclick="location.href='/premium-benefits/index.cfm?action=premiumbenefits&amp;slintcid=NAV-BC&amp;slcmpname=NAV-BENEFITSCENTER' ">Premium Benefits</li>
                         <li onclick="location.href='/site-settings/index.cfm?action=settings&amp;slintcid=NAV-SETTINGS&amp;slcmpname=NAV-SITE-SETTINGS' ">Site Settings</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=helpcenter&amp;slintcid=NAV-HELP&amp;slcmpname=NAV-HELP-CENTER' ">Help Center</li>
+                        <li onclick="location.href='http://support.surfline.com/hc/en-us' ">Help Center</li>
                     </ul>
                     <ul class="inner-menu" style="display:none" id="vipadvertiseraccountlinks">
-                        <li onclick="location.href='/myaccount/index.cfm?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
+                        <li onclick="location.href='/account/?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
+                        <li onclick="location.href='/account/edit-profile?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
+                        <li onclick="location.href='/account/subscription?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
                         <li onclick="location.href='/giftsubscription/?slintcid=NAV-GM&amp;slcmpname=NAV-GIFT-MEMBERSHIPS' ">Gift Memberships</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=emailprefs&amp;slintcid=NAV-EMAIL&amp;slcmpname=NAV-EMAIL-OFFERS' ">Email Offers</li>
                         <li onclick="location.href='/premium-benefits/index.cfm?action=premiumbenefits&amp;slintcid=NAV-BC&amp;slcmpname=NAV-BENEFITSCENTER' ">Premium Benefits</li>
                         <li onclick="location.href='/site-settings/index.cfm?action=settings&amp;slintcid=NAV-SETTINGS&amp;slcmpname=NAV-SITE-SETTINGS' ">Site Settings</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=helpcenter&amp;slintcid=NAV-HELP&amp;slcmpname=NAV-HELP-CENTER' ">Help Center</li>
+                        <li onclick="location.href='http://support.surfline.com/hc/en-us' ">Help Center</li>
                     </ul>
                     <ul class="inner-menu" style="display:none" id="premiumaccountlinks">
-                        <li onclick="location.href='/myaccount/index.cfm?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
+                        <li onclick="location.href='/account/?slintcid=NAV-MYACCT&amp;slcmpname=NAV-MYACCOUNT' ">My Account</li>
+                        <li onclick="location.href='/account/edit-profile?action=personalinfo&amp;slintcid=NAV-PERINFO&amp;slcmpname=NAV-PERSONAL-INFO' ">Personal Info &amp; Password</li>
+                        <li onclick="location.href='/account/subscription?action=paymentsettings&amp;slintcid=NAV-PAY&amp;slcmpname=NAV-PAYMENT-SETTINGS' ">Payment &amp; Settings</li>
                         <li onclick="location.href='/giftsubscription/?slintcid=NAV-GM&amp;slcmpname=NAV-GIFT-MEMBERSHIPS' ">Gift Memberships</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=emailprefs&amp;slintcid=NAV-EMAIL&amp;slcmpname=NAV-EMAIL-OFFERS' ">Email Offers</li>
                         <li onclick="location.href='/premium-benefits/index.cfm?action=premiumbenefits&amp;slintcid=NAV-BC&amp;slcmpname=NAV-BENEFITSCENTER' ">Premium Benefits</li>
 						<li onclick="location.href='/site-settings/index.cfm?action=settings&amp;slintcid=NAV-SETTINGS&amp;slcmpname=NAV-SITE-SETTINGS' ">Site Settings</li>
-                        <li onclick="location.href='/myaccount/index.cfm?action=helpcenter&amp;slintcid=NAV-HELP&amp;slcmpname=NAV-HELP-CENTER' ">Help Center</li>
+                        <li onclick="location.href='http://support.surfline.com/hc/en-us' ">Help Center</li>
                     </ul>
                     <ul class="inner-menu">
                         <li onclick="logout();" class="logout-link">Log Out</li>
@@ -612,8 +675,8 @@ var OAS_query = '';
 			<li class="leftpad" onclick="location.href='/video/index.cfm?category_filter=gwo'">Greatest Wipeouts</li>
 			<li class="leftpad" onclick="location.href='/video/index.cfm?category_filter=tas'">Talk Story</li>
 			<li class="leftpad" onclick="location.href='/video/index.cfm?category_filter=wod'">Wave Of The Day</li>
-            <li class="leftpad" onclick="location.href='/wave-of-the-winter/southern-hemi/2016/'">Wave Of The Winter</li>
-            <li class="leftpad" onclick="location.href='/gopro-of-the-world/IV/'">GoPro Of The World</li>
+            <li class="leftpad" onclick="location.href='/wave-of-the-winter/2016-2017/'">Wave Of The Winter</li>
+            <li class="leftpad" onclick="location.href='http://goproworld5.surfline.com/'">GoPro Of The World</li>
             <li class="leftpad" onclick="location.href='/video/index.cfm?category_filter=fps'">1000 Frames Per Second</li>
 		</ul>
 	</div>
@@ -693,11 +756,11 @@ var OAS_query = '';
 			</ul>
 			<div class="title">Buyers Guides:</div>
 			<ul class="inner-menu">
-				<li class="leftpad" onclick="location.href='http://giftguide.surfline.com/'; ">Holiday Gift Guide</li>
+				<li class="leftpad" onclick="location.href='http://summergear2017.surfline.com/'; ">2017 Summer Gear Guide</li>
                 <li class="leftpad" onclick="location.href='http://summergear.surfline.com/'; ">Summer Gear Guide</li>
-                <li class="leftpad" onclick="location.href='/gear/surfboard-buyers-guide/'; ">Surfboard Guide</li>
-                <li class="leftpad" onclick="location.href='http://www.surfline.com/redirect/?url=http%3A//wetsuits.surfline.com/&amp;code=WBG_2015&amp;subcode=NAV_GEAR_LINK'; ">Wetsuit Guide</li>
-            	<li class="leftpad" onclick="location.href='http://boardshorts2016.surfline.com/'; ">Boardshort Guide</li>
+                <li class="leftpad" onclick="location.href='http://2016grovelguide.surfline.com/'; ">2016 Surfboard Guide</li>
+                <li class="leftpad" onclick="location.href='http://2016wetsuits.surfline.com/'; ">2016 Wetsuit Buyers Guide</li>
+            	<li class="leftpad" onclick="location.href='http://boardshorts2017.surfline.com/'; ">2017 Boardshorts Buyers Guide</li>
             	<li class="leftpad" onclick="location.href='/surf-news/2013-sunglass-guide-vision-quest_97945/'; ">Sunglass Guide</li>
          	</ul>
 		</div>
@@ -712,10 +775,9 @@ var OAS_query = '';
 	<div class="left-column">
 		<ul class="inner-menu">
 			<li onclick="location.href='http://www.surfline.com/redirect/?url=http%3A//www.evo.com/shop/surf.aspx%3Ftest-69%3DB&amp;code=slstoremenu&amp;subcode=slstoremenulink';">Surfline Store by evo</li>
-			<li onclick="location.href='/myaccount/index.cfm?action=premiumbenefits&amp;slintcid=BC-NAV&amp;slcmpname=BENEFITSCENTER-NAVLINK'; ">Premium Benefits Center</li>
-			<li onclick="location.href='http://www.surfline.com/giftsubscription/?slintcid=GM-NAV&amp;slcmpname=GIFTMEMBERSHIPS-NAVLINK'; ">Surfline Gift Memberships</li>
-
+			<li onclick="location.href='http://discover.surfline.com/premium/'; ">Premium Benefits Center</li>
 			<li onclick="location.href='http://greatbreaks.surfline.com'; ">Great Breaks Print Gallery</li>
+
 			
 		</ul>
 	</div>
@@ -965,14 +1027,12 @@ span.new{
 <div id="dialog-login" title="Email">
      <a href="javascript:void(0);" onclick="jQuery('#dialog-login').dialog('close');" id="dialog-close">&nbsp;</a>
 
-    
-    <iframe id="loginiframe" src="" width="470" height="300" frameborder="0" scrolling="no"></iframe>
 
     <div class="clear"></div>
 
     <div class="login-footer">
     Not a Premium member?<br>
-    <a href="https://www.surfline.com/subscribe_vindicia/index.cfm?mkt=login&amp;slintcid=LOGIN&amp;slcmpname=LOGIN-MODAL" class="green" target="_parent">Try Premium Free Now</a>
+    <a href="https://www.surfline.com/upgrade/?mkt=login&amp;slintcid=LOGIN&amp;slcmpname=LOGIN-MODAL" class="green" target="_parent">Try Premium Free Now</a>
     </div>
 </div>
 
@@ -997,8 +1057,7 @@ span.new{
         <a class="footer-icon-facebook" href="http://www.facebook.com/Surfline" target="_blank"></a>
         <a class="footer-icon-googleplus" href="https://plus.google.com/100289855836773222088/posts" target="_blank"></a>
         <a class="footer-icon-youtube" href="http://www.youtube.com/surfline" target="_blank"></a>
-        <a class="footer-icon-email" href="/myaccount/index.cfm?action=emailprefs"></a><br><br><br>
-        © 2016 Surfline/Wavetrak, Inc.<br>
+        © 2017 Surfline/Wavetrak, Inc.<br>
         <a href="/terms_conditions.cfm">Terms &amp; Conditions</a> and <a href="/privacy.cfm">Privacy Policy</a>
         <br><span>Partner of USATODAY Lifestyle/Action Sports</span>
     </div>
@@ -1009,7 +1068,7 @@ span.new{
             <li><a href="/surf-cams-and-reports/">Cams &amp; Reports</a></li>
             <li><a href="/surf-forecasts">Forecasts</a></li>
             <li><a href="/surf-news/">Surf News</a></li>
-            <li><a href="http://photos.surfline.com/">Photos</a></li>
+            <li><a href="http://www.surfline.com/photos/">Photos</a></li>
             <li><a href="/video">Videos</a></li>
             <li><a href="/travel">Surf Travel</a></li>
             <li><a href="/hurricanetrak">Hurricane Center</a></li>
@@ -1030,17 +1089,16 @@ span.new{
             <strong>Support</strong>
             <ul>
             <li><a href="http://support.surfline.com/home">FAQ</a></li>
-            <li><a href="/myaccount">My Account</a></li>
-            <li><a href="/myaccount/index.cfm?action=helpcenter">Cam Status List</a></li>
+            <li><a href="/account/">My Account</a></li>
             <li><a href="/company/contact/">Contact Support</a></li>
-            <li><a href="/myaccount/index.cfm?action=premiumbenefits">Why Premium?</a></li>
+            <li><a href="http://discover.surfline.com/premium/">Why Premium?</a></li>
             </ul>
         </div>
         <div class="link-container">
             <strong>Tools</strong>
             <ul>
             <li><a href="/surf-alerts/index.cfm?action=emailprefs&amp;subact=csa">Surf Alert ©</a></li>
-            <li><a href="/widgets">Widgets</a></li>
+            <li><a href="/widgets2/create_widget_a.cfm">Widgets</a></li>
             <li><a href="http://discover.surfline.com/app/?slcid=surfline-app-landing&amp;slcsource=internal&amp;slcmedium=&amp;slcnmpname=site-footer">Surfline App</a></li>
             <li><a href="/find">Search Surfline</a></li>
             <li><a href="http://www.surfline.com/tv" target="_blank">Surfline TV</a></li>
@@ -1168,68 +1226,51 @@ span.new{
 		userType = "free"
 	}
 /* Segment Tracking - Begin*/
-var s = new Object();
 
 
-	s.prop34="";
+	var prop34="";
 
 
-	s.prop46="";
-	s.prop47="";
-	s.prop48="";
+	var prop46="";
+	var prop47="";
+	var prop48="";
 
-s.prop4="";
-s.prop5="";
-
-
-s.pageName="privacy policy";
+var prop4="";
+var prop5="";
 
 
+var pageName="privacy policy";
 
-	
-
-
-
-	
-		
-		
-			
-			
-		
-	
-
-	
- var segmentKey = 'Se6IGuzcvUhLx55hLHL0RiXkS6oUTz8L'
-    !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
-    	analytics.load(segmentKey);
-    }}();
+if(analytics){
 	var propertiesObj = new Object();
 	propertiesObj.category = 'service';
 	propertiesObj.channel = 'service';
 	var pageUrl = window.location.href;
 	if (pageUrl.toLowerCase().indexOf("/surf-report") >= 0){
-		propertiesObj.camType = s.prop34;
-		propertiesObj.areaName = s.prop46;
-		propertiesObj.regionName = s.prop47;
-		propertiesObj.subregionName = s.prop48;
+		propertiesObj.camType = prop34;
+		propertiesObj.areaName = prop46;
+		propertiesObj.regionName = prop47;
+		propertiesObj.subregionName = prop48;
 		
-		propertiesObj.spotName = s.pageName;
+		propertiesObj.spotName = pageName;
 	}
 	else if (pageUrl.toLowerCase().indexOf("/surf-forecasts") >= 0){
-		propertiesObj.camType = s.prop34;
-		propertiesObj.areaName = s.prop46;
-		propertiesObj.regionName = s.prop47;
-		propertiesObj.subregionName = s.prop48;
+		propertiesObj.camType = prop34;
+		propertiesObj.areaName = prop46;
+		propertiesObj.regionName = prop47;
+		propertiesObj.subregionName = prop48;
 		
-		propertiesObj.forecastName = s.prop48;
+		propertiesObj.forecastName = prop48;
 	}
 	else if (pageUrl.toLowerCase().indexOf("/surf-news") >= 0){
-		propertiesObj.author = s.prop4;
-		propertiesObj.title = s.prop5;
+		propertiesObj.author = prop4;
+		propertiesObj.title = prop5;
 		
 	}
 	
-	analytics.page(s.pageName,propertiesObj);
+	analytics.page(pageName,propertiesObj);
+}
+prop31="/privacy.cfm?";
 /* Segment Tracking - End*/
 	</script>
 	
@@ -1631,7 +1672,7 @@ if(currPath.indexOf('photos/') == -1 && currPath.indexOf('photosdev/') == -1 && 
 
     
     
-        <script src="/global_includes/scripts/sluser.js?v=09082016" type="text/javascript"></script>
+        <script src="/global_includes/scripts/sluser.js?v=15062017" type="text/javascript"></script>
         <script type="text/javascript">
         jQuery(function(){
             jQuery(".slmenu").surflineMenu();
