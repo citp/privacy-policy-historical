@@ -1,44 +1,41 @@
-> *The following text is extracted and transformed from the toonfanclub.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123063812id_/http%3A//toonfanclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonfanclub.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617100350id_/http%3A//toonfanclub.com/privacy2.html) for the most accurate reproduction.*
 
-# Toon Fan Club :: Members area!
+# Privacy Policy
 
-Privacy Policy:
+**Correlon LLP** , associated companies and affiliated companies hereinafter to be collectively referred to as "the Company" through its websites hereinafter to be collectively called "the Websites" is committed to providing a secure experience and safeguarding your personal information. This Privacy Policy was created to explain why we collect particular information and how we will protect your personal privacy within our Websites. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Websites or utilizing any of the services we provide there, you acknowledge that you have read and understand and agree to be bound by this Privacy Policy. If you do not agree to be so bound, do not remain on this website. The users of the Websites might be required to provide the following information in order to get access to the contents of these Websites. The section below describes the way such information is used by the Company.
 
-What type information is collected?
+### Contact Information. 
 
-We only collect personal information from our members that is voluntarily provided to us through our registration form. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, username, and password. Upon visiting the website, certain non-personal information may be collected from our visitors including, but not limited to, their browser type (e.g., FireFox or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g., google.com). In addition, we may collect information about visitors' browsing behavior, such as the date and time they visit the Web site, the areas or pages of our Web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use tracking codes to determine the number of Web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our Web site) to collect this information. Information collected through cookies may be combined with visitors' personal information. Third party advertisers may also serve cookies to visitors of our Web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our Web site. The "help" section in most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives.
+Some areas of our Websites request or require you to provide your contact information (such as your name, postal address and email address). Your contact information may be used to communicate with you when necessary with respect to transactions conducted through the Websites and material changes in the Websites' policies. We may also send you information about the Websites and/or promotional materials from the Websites and some of our partners. We will not sell, share or rent any contact information collected from you except as disclosed in this Privacy Policy. All contact information provided to the Websites is maintained on our secure servers. 
 
-In what way do we use your personal and non-personal information?
+### Financial Information. 
 
-We collect personal information in order to provide our site visitors with targetted information to best enrich their surfing experience. By learning about our site visitors, we are able to deliver more relevant content and advertisements which will provide a better service. We may use information collected from visitors to our Web site for any of the following purposes:   
-1\. to send visitors information and promotional materials about our company  
-2\. to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our Web site)  
-3\. to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors)  
-4\. to contact visitors to our Web site when necessary  
-5\. to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, and email (among other things), as provided by that visitor  
-6\. to help diagnose problems with our server  
-7\. to administer our Web site  
-8\. to conduct internal reviews of our site (e.g., to determine the number of visitors to the site)  
-9\. to help us better understand visitors' use of our site  
-10\. to protect the security or integrity of our site.  
-Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors. 
+The Company or the third party billing companies acting as our authorized resellers collect financial information (such as your credit card information) on an as-needed basis to bill you for products and services you purchase through the Websites and to fulfill your orders. If we have trouble processing an order, the contact information discussed above will be used to get in touch with you. We will not sell, share or rent any financial information collected from you except as necessary to fulfill your order. All financial information provided to the Websites is maintained on our secure servers and similar rules are applied to our third party authorized resellers. 
 
-What security measures do we take to protect your data?
+### Internet Protocol Address. 
 
-To help prevent unauthorized access, we use SSL (Secure Socket Layer) encryption technology to protect any information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient.
+We collect an IP address from all visitors to our Websites. We use your IP address for purposes of traffic analysis. 
 
-Corporate changes. 
+### Cookies. 
 
-In the event that we sell our site or another company takes ownership of NewXXXPass, any of our assets may be transferred to a third party, including personal information collected from visitors to our Web site in the past. 
+The Websites use "cookie" technology to enhance your online experience by making it easier for you to navigate through our Websites or to make their features work better. Cookies are pieces of information that some websites transfer to the computer that is browsing them and are used for record-keeping purposes at many websites. We do not extract information about individual users or their computers during this process. It is not necessary to accept a cookie to navigate the Websites, but you must accept a cookie in order to purchase access to the Websites. 
 
-Our Commitment To Data Security 
+### Consumer Research. 
 
-To avoid unlawful entry, sustain data precision, and make certain the accurate use of information, we have put in place coherent and suitable physical, electronic, and administrative measures to preserve and secure the information we collect online. 
+We may monitor your use of the Websites (such as your session time and clickstream data), and use or disclose any such information gathered as part of our evaluation and operation of the Websites and the services we make available. We may develop and use, in our sole discretion, consumer research which may be based on your use of such services. All marketing information shall be subject, in all cases, to compliance with the applicable rules and regulations of the relevant laws and regulations, as the same may be amended from time to time. No personally identifiable information will be shared or is linked to consumer research. 
 
-Acceptance of privacy terms & conditions
+### Security. 
 
-By visiting this Web site, you are agreeing to our Privacy Policy and practices. We may at any time revise these terms and conditions. We have the right to revise our Privacy Policy at any time, therefore you should return to this page to view of any changes. Any of the third-party sites accessible through our Web site (such as our advertisers) may have different privacy practices from our own, we are not responsible for the policies, content, and practices of other companies. 
+We are committed to maintaining the security of your personally identifiable information and have measures in place to protect against the loss, misuse and alteration of the information under our control. All credit transactions occur in secure areas of the Websites using Secure Sockets Layer ("SSL") software to process orders. SSL encrypts the information you input on the Websites. In addition, all user information is stored in a secure location behind a firewall with limited administrative access.
 
-How can you access the information we have collected from you? 
+### Public Communication. 
 
-If at any time you wish to view the information we have collected about you, please visit our customer service page and email us.
+The Websites make available chat rooms, comments forms, message boards, and/or news groups to our users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
+
+### Third Party Links. 
+
+The Websites contain links to other external websites and resources. Selection of an ad banner or link will redirect you off of the Websites to a third party website. The Company is not responsible for the privacy practices of such websites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator of that third party website. 
+
+### Other. 
+
+We may disclose your personal information in special cases if required to do so by law, court order or other government or law enforcement authority; or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact or bring legal action against someone who may be causing injury to or interfering with the rights or property of the Company, another user or anyone else that could be harmed by such activities.
