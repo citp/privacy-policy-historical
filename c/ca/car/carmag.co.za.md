@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmag.co.za privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227060938id_/http%3A//www.carmag.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmag.co.za privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617021118id_/http%3A//www.carmag.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CARmag.co.za
 
@@ -104,7 +104,8 @@ If you ever want to update or correct any of your personal information held by R
 
 
 
-Because RamsayMedia is not responsible for any representations or information or warranties or content on any third party website (including third party websites linked to the Site, websites facilitated by us or websites that serve as social networks like Facebook or Twitter), RamsayMedia does not exercise control over the privacy policies of these third parties and you should refer to the privacy policy of these third parties to see how they protect your privacy.
+Because RamsayMedia is not responsible for any representations or information or warranties or content on any third party website (including third party websites linked to the Site, websites facilitated by us or websites that serve as social networks like Facebook or Twitter), RamsayMedia does not exercise control over the privacy policies of these third parties and you should refer to the privacy policy of these third parties to see how they protect your privacy.  
+
 
   9. **COOKIES**
 
