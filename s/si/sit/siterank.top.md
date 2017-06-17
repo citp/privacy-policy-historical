@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siterank.top privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001409id_/http%3A//siterank.top/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siterank.top privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617074158id_/http%3A//siterank.today/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,4 +50,4 @@ We may update this privacy policy from time-to-time, particularly as technology 
 
 **Contacts**
 
-If you have any questions about this privacy policy or your personal data, please write to us by email to webmaster@siterank.top or by post to MEDIA PARTNERS LTD, Elijas 17, Riga, Latvia, LV-1050.
+If you have any questions about this privacy policy or your personal data, please write to us by email to webmaster@siterank.today or by post to MEDIA PARTNERS LTD, Elijas 17, Riga, Latvia, LV-1050.
