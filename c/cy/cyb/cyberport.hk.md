@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberport.hk privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207224037id_/http%3A//www.cyberport.hk/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberport.hk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617055446id_/http%3A//cyberport.hk/en/privacy_policy) for the most accurate reproduction.*
 
 # Hong Kong Cyberport Management Company Limited - Home 2015
 
