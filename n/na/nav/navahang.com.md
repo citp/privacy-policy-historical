@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the navahang.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529211200id_/https%3A//www.navahang.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navahang.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617195325id_/https%3A//www.navahang.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Navahang.com
+# Privacy Policy - Navahang.com
 
 Last updated: January 03, 2016
 
