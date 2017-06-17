@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128020137id_/http%3A//www.perpetualkid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetualkid.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617070758id_/https%3A//www.perpetualkid.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Perpetual Kid Privacy Policy
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available from each page on our website.
@@ -24,7 +24,7 @@ Phone Number
 (etc.)
 
 **The Way We Use Information**  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order and provide you with order tracking. Such exceptions are for our shipping carrier and PowerReviews. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete your order. Email addresses are not used for any other purpose that corresponding with you, and are not sold to outside parties.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order and provide you with order tracking. Such exceptions are for our shipping carrier and and reviews. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete your order. Email addresses are not used for any other purpose that corresponding with you, and are not sold to outside parties.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
