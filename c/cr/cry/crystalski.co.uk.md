@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122170016id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalski.co.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617093101id_/http%3A//www.crystalski.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Data Protection | Crystal Ski
 
@@ -127,7 +127,7 @@ All recordings and derivative materials are and shall remain our sole property.
 
 ### SECURITY STATEMENT
 
-We take security very seriously. We will never send emails requesting personal details (including your passport details) or payment card details. If you get a suspicious email, don't click on any links or open any attachments. Call **020 8939 0726** and we'll investigate.
+We take security very seriously. We will never send emails requesting personal details (including your passport details) or payment card details. If you get a suspicious email, don't click on any links or open any attachments. Call **020 8610 3123** and we'll investigate.
 
 ### CHANGES TO THIS POLICY
 
