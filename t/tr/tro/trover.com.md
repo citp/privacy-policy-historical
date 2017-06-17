@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119064036id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trover.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617112940id_/http%3A//www.trover.com/privacy) for the most accurate reproduction.*
 
 # Trover Privacy Policy
 
@@ -81,6 +81,6 @@ From time to time, we may need to update our Privacy Policy because of changes i
 If you have any questions, comments, or concerns about this Privacy Policy or personally identifiable information you have provided to us, please email us at admin@trover.com or contact us by mail at:
 
 Trover, Inc.  
-Post Office Box 14329  
-Seattle, WA 98104  
+645 Elliott Ave West, Floor 2  
+Seattle WA, 98119  
 Attention: Privacy Officer
