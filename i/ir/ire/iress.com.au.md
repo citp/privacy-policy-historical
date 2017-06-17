@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iress.com.au privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228160319id_/https%3A//www.iress.com/au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iress.com.au privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617095219id_/http%3A//iress.com.au/global/privacy-policy) for the most accurate reproduction.*
 
 # IRESS :: Privacy policy
 
@@ -61,7 +61,7 @@ By submitting your personal data, you agree to such transfer, storing and proces
 
 ### Use of cookies
 
-Please see our [cookies policy](http://iress.co.za/uk/cookies/).
+Please see our [cookies policy](https://www.iress.com/uk/cookies/).
 
 ### Marketing
 
