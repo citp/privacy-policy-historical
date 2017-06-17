@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052732id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617040938id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | USAFIS - Green Card DV Lottery Program
 
 ### Privacy Protection Commitment by Usafis Organization
 
-Usafis.org is committed to safeguarding your privacy while providing our Secure [Green Card](http://www.usafis.org/) Lottery online application services. We encourage you to periodically review this statement as it may change from time to time at our sole discretion. This Privacy Policy statement explains the personal information gathering and use practices of Usafis Organization. Questions concerning your personal information should be directed to our Privacy Officer by e-mail at [privacy@usafis.org](mailto:privacy@Usafis.org)
+Usafis.org is committed to safeguarding your privacy while providing our Secure [Green Card](https://www.usafis.org/) Lottery online application services. We encourage you to periodically review this statement as it may change from time to time at our sole discretion. This Privacy Policy statement explains the personal information gathering and use practices of Usafis Organization. Questions concerning your personal information should be directed to our Privacy Officer by e-mail at [privacy@usafis.org](mailto:privacy@Usafis.org)
 
 #### **Information Collected**
 
