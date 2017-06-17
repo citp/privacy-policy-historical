@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachfinancialindependence.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205105811id_/http%3A//reachfinancialindependence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachfinancialindependence.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617070625id_/http%3A//reachfinancialindependence.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reach Financial Independence
 
