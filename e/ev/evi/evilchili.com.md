@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilchili.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218113822id_/http%3A//www.evilchili.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilchili.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617095934id_/http%3A//evilchili.com/privacy) for the most accurate reproduction.*
 
 # EvilChili - Funny Clips, Articles and More - Updated Daily
 
