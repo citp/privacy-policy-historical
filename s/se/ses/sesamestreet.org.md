@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119001147id_/http%3A//www.sesamestreet.org/content/privacy-policyyour-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamestreet.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617153421id_/http%3A//www.sesamestreet.org/content/privacy-policyyour-california-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | Sesame Street
 
