@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themodernhouse.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216150430id_/http%3A//www.themodernhouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themodernhouse.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617074734id_/http%3A//www.themodernhouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Modern House
 
