@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seomanualsubmission.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224171050id_/http%3A//seomanualsubmission.com/legal-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomanualsubmission.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617164937id_/http%3A//www.rsseosolution.com/legal-privacy.php) for the most accurate reproduction.*
 
 # Legal & Privacy Policy of RS Seo Solution
 
