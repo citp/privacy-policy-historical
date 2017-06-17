@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219163244id_/http%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617062158id_/http%3A//www.copyright.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Copyright Clearance Center
 
 [](http://privacy.truste.com/privacy-seal/Copyright-Clearance-Center/validation?rid=a670a051-838d-4688-8877-e91e43bbe22d "TRUSTe online privacy certification")
 
-Effective: November 1, 2016
+Effective: January 12, 2017
 
 This privacy policy applies to www.copyright.com owned and operated by Copyright Clearance Center (“CCC”). This privacy policy describes how Copyright Clearance Center collects and uses the personal information you provide on our web site: www.copyright.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -94,11 +94,11 @@ The security of your personally identifiable information is important to us. The
 
 CCC adheres to generally accepted industry standards to protect this information, both during transmission and once we receive it. These standards include the use of leading hardware and software applications. However, no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your applicable information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can e-mail us at [info@copyright.com](mailto:info@copyright.com), or contact our Data Protection Officer at [dpo@copyright.com](mailto:dpo@copyright.com).
+If you have any questions about security on our Web site, you can e-mail us at [info@copyright.com](mailto:info@copyright.com), or contact our Data Privacy Officer at [dpo@copyright.com](mailto:dpo@copyright.com).
 
-You may also contact our Data Protection Officer with any questions or comments about this privacy policy. If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personally identifiable information is being handled, please contact the Data Protection Officer. Disputes under this privacy policy will be resolved by the Data Protection Officer, who will use commercially reasonable efforts to promptly investigate and, if necessary, correct any problem.
+You may also contact our Data Privacy Officer with any questions or comments about this privacy policy. If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personally identifiable information is being handled, please contact the Data Privacy Officer. Disputes under this privacy policy will be resolved by the Data Privacy Officer, who will use commercially reasonable efforts to promptly investigate and, if necessary, correct any problem.
 
-Data Protection Officer  
+Data Privacy Officer  
 Copyright Clearance Center  
 222 Rosewood Drive  
 Danvers, MA 01923 USA  
@@ -108,7 +108,8 @@ Email: [dpo@copyright.com](mailto:dpo@copyright.com)
 
 CCC complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. CCC has certified to the Department of Commerce that it adheres to the Privacy Shield Principles and is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-In compliance with the Privacy Shield Principles, CCC commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact CCC at: [dpo@copyright.com](mailto:dpo@copyright.com). CCC has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. The services of TRUSTe are provided at no cost to you.
+In compliance with the Privacy Shield Principles, CCC commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints regarding our Private Shield policy should first contact CCC at: [dpo@copyright.com](mailto:dpo@copyright.com). CCC has further committed to refer unresolved Privacy Shield complaints to TRUSTe, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit [ https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. The services of TRUSTe are provided at no cost to you. Should TRUSTe be unable to resolve any issues or disputes, you may invoke the option under the Privacy Shield of binding arbitration. For more information, please visit  
+<https://www.privacyshield.gov/article?id=G-Arbitration-Procedures>
 
 ## CHANGES TO THIS PRIVACY POLICY
 
