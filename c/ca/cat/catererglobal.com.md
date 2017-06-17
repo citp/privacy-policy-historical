@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204005619id_/http%3A//www.catererglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catererglobal.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617043309id_/http%3A//www.catererglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Catererglobal.com
 
@@ -6,18 +6,18 @@ At Catererglobal.com, we make every effort to comply with our obligations under 
 
 Additionally, we understand the importance of maintaining the confidentiality of your CV and Profile, and other information you may give us while using the site. You can amend or delete any of the information that catererglobal.com stores about you by logging in to ‘My Account’ or by contacting us at [**customer.support@totaljobsgroup.com**](mailto:customer.support@totaljobsgroup.com) with your request.
 
-Catererglobal.com is part of the Total Jobs Group Ltd group of websites
+Catererglobal.com is part of the Total Jobs Group Ltd group of websites and of the StepStone GmbH group of companies (the "StepStone Group"). StepStone is a global online job board company that operates online job portals to accurately match candidates with companies.
 
 **Profile and CV information**
 
   
 Contact and other details you supply as part of the registration process are stored by us and used to provide you with the information you have requested.
 
-When you complete your catererglobal.com profile, it may be made available for searching, viewing over the Internet and downloading by catererglobal.com’s customers. Customers that request details of candidates with your type of profile, may be sent your profile by email.
+When you complete your catererglobal.com profile, it may be made available for searching, viewing over the Internet, including other company recruitment sites within the StepStone Group, and downloading by catererglobal.com’s or any customer of the StepStone Group. Customers that request details of candidates with your type of profile, may be sent your profile by email.
 
 These may be direct recruiters, employment consultants or other organisations.
 
-Your CV can be uploaded as part of an online application. Therefore this will be sent to the employer that you choose to send it to. The CV will be kept electronically by us, and may be viewed by employers.
+Your CV can be uploaded as part of an online application. Therefore this will be sent to the employer that you choose to send it to. The CV will be kept electronically by us or another company within the StepStone Group, and may be viewed by employers.
 
 When registering your profile, you can choose to prevent our customers from accessing your personal details and profile.
 
@@ -28,6 +28,14 @@ Catererglobal.com will also use the aggregate data to identify trends, such as s
 If you choose to create a profile and upload a CV to our database, we rely on you to ensure that your details are kept up to date. You should update your CV at least every six months, particularly if your contact details have changed. Once your profile and CV are on our database we will contact you every six months using your most recent contact details to ask whether you want it to remain there. If we do not hear from you, your profile and CV will be removed from our database.
 
 Please note that catererglobal.com reserves the right to remove from our database CVs which include any content that we consider to be illegal or offensive. We will also remove a CV if a complaint is upheld, which has been made against it.
+
+**Sharing Your Information**
+
+  
+Personal data which you supply to us may be transferred to third party service providers to be stored or processed on our behalf, including third parties located outside of the European Economic Area in countries where there may be a lower legal level of data protection. However, we will always endeavour to handle your information in accordance with this privacy policy, wherever it is processed.
+
+  
+Personal data which we collect from both public sources and from yourself may also be shared with other companies within the StepStone Group. This may include your job seeker profile and result in your profile being searchable on other company sites within the StepStone Group. At all times, the StepStone Group companies will ensure that your information is adequately protected. Each member of the StepStone Group may use and share your personal information as set out in this privacy policy. In accordance with the type of services you have registered for, requested, and the functionality you use, we will disclose your personal information for a prospective job.
 
 **Cookies**
 
