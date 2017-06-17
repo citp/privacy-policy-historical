@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidwise.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128183025id_/http%3A//www.bidwise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidwise.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617210213id_/http%3A//www.bidwise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - bidwise.com
 
