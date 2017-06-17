@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the popculturemadness.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220125119id_/http%3A//popculturemadness.com/PCM/privacy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popculturemadness.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617051748id_/https%3A//popculturemadness.com/PCM/privacy-copyright) for the most accurate reproduction.*
 
-# Privacy & Copyright - Pop Culture Madness!
+# Privacy & Copyright | Pop Culture Madness!
 
 **Privacy & Copyright**
 
-PopCultureMadness.com respect the principles of copyright. The images on this website, including,  photographs, art,  drawings, paintings, prints, or other two-dimensional work of art, and the copyright for it is most likely owned by either the artist who produced the image, the person who commissioned or bought the work, or the heirs thereof.
+PopCultureMadness.com respects the principles of copyright. The images on this website, including,  photographs, art,  drawings, paintings, prints, or other two-dimensional work of art, and the copyright for it is most likely owned by either the artist who produced the image, the photographer(s), the person who commissioned or bought the work, or the heirs thereof.
 
-It is believed that the use of low-resolution images of works of art and other visual identifiers such as drawing and/or photographs qualifies as fair use under United States copyright law for both critical commentary and educational use, although we use several paid-for sources for photography we use for our websites. If you use any of our pictures for your website, we ask that you give credit to the photographer and a link to the source website.
+It is believed that the use of low-resolution images of works of art and other visual identifiers such as drawing and/or photographs qualifies as fair use under United States copyright law for both critical commentary and educational use, although several paid-for sources for photography are used for our websites, in addition to our own staff. We actively try to give credit when known.  If you use any of our pictures for your website, we ask that you give credit to the photographer and a link to the source website.
 
-If you are the owner(s) of any of these works, we will gladly link to your website or include specific copyright information, or work with you to insure proper credit for the information and creative content included on each page of the website. The websites in the Pop Culture Madness network include: [Pop Culture Madness](http://popculturemadness.com/), [PCM World News](http://www.pcmworldenews.com/) , [World of Pop Culture](http://www.worldofpopculture.com/), [PCM Lifestyle](http://pcmlifestyle.com/) , [PopCulture.us](http://www.pop-culture.us/) , [Hot Pop Songs](http://www.hotpopsongs.com/), [PCM Television](http://www.pcm-tv.com/) , [PCM Reviews](http://www.pcmreviews.com/news/) , [Pop Culture.net](http://www.pop-culture.net/) , [aMyth](http://www.amyth.com/), [unskinnypop.com](http://www.unskinnypop.com/) , [Try It Today](thhp://tryittoday.com)
+If you are the owner(s) of any of these works, we will gladly link to your website or include specific copyright information, or work with you to insure proper credit for the information and creative content included on each page of the website. The websites in the Pop Culture Madness network include: [Pop Culture Madness](https://popculturemadness.com/), [PCM World News](https://www.pcmworldenews.com/) , [World of Pop Culture](https://www.worldofpopculture.com/), [PCM Lifestyle](https://pcmlifestyle.com/) , [PopCulture.us](https://www.pop-culture.us/) , [Hot Pop Songs](https://www.hotpopsongs.com/), [PCM Television](https://www.pcm-tv.com/) , [PCM Reviews](https://www.pcmreviews.com/news/) , [Pop Culture.net](https://www.pop-culture.net/) , [aMyth](https://www.amyth.com/), [unskinnypop.com](https://www.unskinnypop.com/) ,[TheRockRevival](https://therockrevival.com/), [AgeoftheNerd](https://ageofthenerd.com/) and  [Try It Today](thhp://tryittoday.com)
 
-[Fair Use Checklist](http://copyright.columbia.edu/copyright/fair-use/fair-use-checklist/)
+[Fair Use Checklist](https://copyright.columbia.edu/copyright/fair-use/fair-use-checklist/)
 
-Everything else © copyright 1999-2016 Pop Culture Madness, unless stated otherwise.
+Everything else © copyright 1999-2017 Pop Culture Madness, unless stated otherwise.
 
 _Privacy Statement: We will not sell, give or share any personal information, including e-mail addresses, of any of our visitors to anyone outside of Pop Culture Madness. com or our affiliated network sites. We do not accept any stealth or spyware advertisers or third party sponsors of such programs. Pop Culture Madness. com and affiliated sites do not send spam, offer get-rich-quick schemes, offer or suggest “enhancement” devices or medications via e-mail._
 
@@ -20,12 +20,11 @@ _For purposes of Review, we often (usually) get samples, Reviews, get press acce
 
 Take that into account when you read a positive (or negative) Review on PCM or anywhere on the internet. We do not place stories up for payment unless it is a stated sponsor or a link that we believe will be helpful and relevant to our visitors.
 
-PCM does use third-party advertising companies, such as google, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, _[click here](http://www.networkadvertising.org/). _
+PCM does use third-party advertising companies, such as google, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, _[click here](https://www.networkadvertising.org/). _
 
 This Privacy Policy covers all of the sites on the Pop Culture Madness network.
 
-The Privacy Policy governs your access to and use of the PCM, websites, and applications offered by Pop Culture Madness (the “PCM”). Please  
-read this statement carefully before using or proceeding to access PCM. Your use of PCM indicates that you have read and understood this Privacy Policy and indicates your agreement to abide by the Terms of Use in effect and to be subject to this policy.
+The Privacy Policy governs your access to and use of the PCM, websites, and applications offered by Pop Culture Madness (the “PCM”). Please read this statement carefully before using or proceeding to access PCM. Your use of PCM indicates that you have read and understood this Privacy Policy and indicates your agreement to abide by the Terms of Use in effect and to be subject to this policy.
 
 PCM or third parties may collect information from our users at several different websites on PCM.
 
@@ -33,8 +32,7 @@ PCM or third parties may collect information from our users at several different
 
 PCM may launch a mailing list, in order to provide subscribers with relevant information – breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid email address and demographic information such as location and interests. Entering any PCM or affiliated contest may put you on our mailing list.
 
-This information may be used in aggregate form in order to assess general user interest in various internal and third party products  
-and PCM. Your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list may receive regular emails from the site.
+This information may be used in aggregate form in order to assess general user interest in various internal and third party products and PCM. Your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list may receive regular emails from the site.
 
 PCM may from time to time track user email usage in a continued effort to improve our PCM. Most of the time, these communications will consist of content from the site in question, but we may occasionally send out an email from a third party sponsor. Since editorial independence is critical to us, you can be sure that we will always mark sponsored content as such, including in emails. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
 
@@ -75,9 +73,9 @@ PCM does not provide any Personally Identifiable Information to third-party adve
 Opt-out – As part of our commitment to transparency and your privacy, we provide the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:
 
 First Party Opt-out – Please visit this link to opt-out of cookies from  
-our first party ad serving vendor, Google: <http://www.google.com/privacy/ads/>
+our first party ad serving vendor, Google: [//www.google.com/privacy/ads/](https://www.google.com/privacy/ads/)
 
-Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: <http://www.aboutads.info/choices/>
+Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: [//www.aboutads.info/choices/](https://www.aboutads.info/choices/)
 
 **Contests, Sweepstakes, and Promotions**
 
