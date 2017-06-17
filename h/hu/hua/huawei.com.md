@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229052637id_/http%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huawei.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617120707id_/http%3A//www.huawei.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Huawei
 
@@ -54,15 +54,7 @@ Like many other websites or Internet service providers, Huawei uses cookies to i
 
 Huawei will not use cookies for any purposes not stated in this Policy. You can manage or delete cookies at your own preferences. For details, visit[ AboutCookies.org.](http://aboutcookies.org/) You can clear all the cookies stored on your computer since most of the web browsers provide the option of blocking cookies. However, by doing so, you have to change the user settings every time you visit our website. Find out how to manage cookie settings for your browser here:
 
-[Internet Explorer](http://support.microsoft.com/kb/260971)
-
-[Google Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)
-
-[Mozilla Firefox](http://support.mozilla.org/en-US/kb/Cookies)
-
-[Safari](http://support.apple.com/kb/PH5042)
-
-[Opera](http://www.opera.com/browser/tutorials/security/privacy/)
+[Internet Explorer](http://support.microsoft.com/kb/260971)    [Google Chrome](https://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647&p=cpn_cookies)    [Mozilla Firefox](http://support.mozilla.org/en-US/kb/Cookies)    [Safari](http://support.apple.com/kb/PH5042)    [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
 
 ### 2.2 Web Beacons and Pixel Tags
 
