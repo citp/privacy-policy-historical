@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xosara.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122131207id_/http%3A//www.xosara.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xosara.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617035455id_/http%3A//www.xosara.com/privacy) for the most accurate reproduction.*
 
 # About Us, Privacy Policy and Terms of Use on Xosara.com
 
