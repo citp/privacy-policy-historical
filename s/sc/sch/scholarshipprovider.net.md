@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030231007id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipprovider.net privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617033438id_/http%3A//scholarshipprovider.net/privacy) for the most accurate reproduction.*
 
 # Mothers' Scholarship Application Privacy | Scholarship Provider
 
 scholarshipprovider.net ("the site") is owned and operated by Free College Scholarships, LLC. Free College Scholarships, LLC respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Therefore, by registering and using this site, you are agreeing and accepting this policy.
 
-The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=9b9e6b91-c6b5-4213-805b-082d4d9b4645 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=539790f9-7d9f-4772-b187-55445665122e)
 
 ### Information Collected:
 
@@ -29,11 +27,20 @@ Although, it is important to note that ScholarshipProvider reserves the right to
 
 scholarshipprovider.net may also share your information with its service providers such as an email service provider and chat provider, and with your permission, any other entities that we believe are able to provide you with special opportunities and offers. _These companies are authorized to use your personal information only as necessary to provide these services to us._
 
-scholarshipprovider.net may occasionally license, share, or otherwise disclose data we collected to third parties. scholarshipprovider.net does not have control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Policy. As a condition of registration, you must agree that we are allowed to share your information with such entities, or else you may not register.
-
 We will share your personal information with third parties only in the ways that are described in this privacy policy. 
 
-Additionally, scholarshipprovider.net may disclose your information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+Additionally, scholarshipprovider.net may disclose your information as required by law, such as to comply with a subpoena, bankruptcy proceedings, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In certain situations, Free College Scholarships, LLC may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+### User Data Supplementation
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you. This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include: 
+
+  1. Address information about you from third party sources to verify your address. so we can properly ship your order to you and to prevent fraud.
+  2. Purchased marketing data about our customers from third parties that is combined with information we already have about you, to create more tailored advertising and products.
+
+
 
 ### Customer Testimonials/Comments/Reviews:
 
@@ -47,19 +54,13 @@ On some of our sites we have special offers with our partners where another thir
 
 If you click on a link to a third party site, including on an advertisement, you will leave our site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as scholarshipprovider.net. We encourage you to review the privacy policies of any other service provider from whom you request services.
 
-### Cookies and Tracking Technologies:
+### Tracking Technologies:
 
-Technologies such as: cookies, beacons, tags and scripts are used by Free College Scholarships,LLC and our marketing partners, affiliates, analytics or service providers for data verification. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies to remember users’ settings (e.g. your prior registration information, schools you requested information from), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Free College Scholarships, LLC and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ### Log Files:
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality.
-
-### LSOs
-
-We use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
 ### Widgets:
 
@@ -103,7 +104,7 @@ Under California law, site visitors who are residents of California may request 
 
 ### Access to your information:
 
-When you submit your personal information on a form, it is not possible to update, or change this information unless you resubmit it on the form again. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wish to request deletion of your personal information, ask to have it removed from our public forum, directory or testimonial on our site, you can contact us as described below. We will respond to your request within a reasonable time frame.
+Upon request Free College Scholarships, LLC will provide you with information about whether we hold any of your personal information. You can update, or change this information by resubmitting the information on the form. Once you resubmit this new form with your updated information, your old record will be retained in our databases for historical purposes. If you wanted to have your personal information deleted and removed from our public forum, directory or testimonial on our site or deactivate it, you can contact us as described below. We will respond to your request within a reasonable timeframe.
 
 ### Transfer, Sale, or Assign:
 
@@ -117,7 +118,7 @@ We will retain your information for as long as your account is active or as need
 
 We reserve the right to change this policy at any time. If we make a material change regarding how we use your personal information, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site prior to the change becoming effective.
 
-Effective: April 1, 2016
+Effective: June 1, 2017
 
 ### Contact Information
 
