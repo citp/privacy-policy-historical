@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114224251id_/https%3A//logopond.com/PP.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logopond.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617112033id_/https%3A//logopond.com/algae/pp) for the most accurate reproduction.*
 
-# Logopond - Identity Inspiration
+# Logopond - Logo, Brand & Identity Inspiration
 
 Created: June 13, 2010 
-
-## Privacy Policy
 
 At Logopond we recognize that privacy is important. This Privacy Policy applies to all of the products, and websites offered by Logopond collectively, Logopond’s “services.” If you have any questions about this Privacy Policy, please feel free to [contact us](mailto:cd@climaxdesigns.com)
 
@@ -12,14 +10,17 @@ At Logopond we recognize that privacy is important. This Privacy Policy applies 
 
 We may collect the following types of information: 
 
-  * **Information you provide** – When you sign up for a [Logopond Account](http://logopond.com/members/?account) we ask you for personal information (such as your name, email address and an account password).
-  * **Cookies** – When you visit Logopond, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences. 
-  * **Log information** – When you access Logopond, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
-  * **User communications** – When you send email or other communications to Logopond, we may retain those communications in order to process your inquiries, respond to your requests and improve Logopond. 
-  * **Links** – Logopond may present links in a format that enables us to keep track of whether these links have been followed.
-  * **Other sites** – This Privacy Policy applies to Logopond only. We do not exercise control over the sites displayed as advertisments, sites that include Logopond imagery or links from within their various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+**Information you provide** – When you sign up for a [Logopond Account](http://logopond.com/members/?account) we ask you for personal information (such as your name, email address and an account password).
 
+**Cookies** – When you visit Logopond, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences. 
 
+**Log information** – When you access Logopond, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+
+**User communications** – When you send email or other communications to Logopond, we may retain those communications in order to process your inquiries, respond to your requests and improve Logopond. 
+
+**Links** – Logopond may present links in a format that enables us to keep track of whether these links have been followed.
+
+**Other sites** – This Privacy Policy applies to Logopond only. We do not exercise control over the sites displayed as advertisments, sites that include Logopond imagery or links from within their various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
 Logopond only processes personal information - but does not publicly display it - for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include: 
 
