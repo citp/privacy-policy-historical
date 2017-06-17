@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the chattusa.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119092739id_/http%3A//chattusa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chattusa.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617165201id_/http%3A//www.chattusa.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Chattusa
 
 **Privacy Policy**  
-This Privacy Policy governs the manner in which Chattusa collects, uses, maintains and discloses information collected from users (each, a "User") of the [chattusa.com](https://web.archive.org/web/20161119092739id_/http%3A//chattusa.com/chattusa.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Chattusa.
+This Privacy Policy governs the manner in which Chattusa collects, uses, maintains and discloses information collected from users (each, a "User") of the [chattusa.com](https://web.archive.org/web/20170617165201id_/http%3A//www.chattusa.com/chattusa.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by Chattusa.
 
 **Personal identification information**
 
@@ -59,8 +59,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Online USA Chat](https://web.archive.org/web/20161119092739id_/http%3A//chattusa.com/chattusa.com)  
-[chattusa](https://web.archive.org/web/20161119092739id_/http%3A//chattusa.com/chattusa.com)  
+[Online USA Chat](https://web.archive.org/web/20170617165201id_/http%3A//www.chattusa.com/chattusa.com)  
+[chattusa](https://web.archive.org/web/20170617165201id_/http%3A//www.chattusa.com/chattusa.com)  
 Chattusa.com  
 contact@ztuts.com
 
