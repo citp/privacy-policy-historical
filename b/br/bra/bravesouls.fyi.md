@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bravesouls.fyi privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235202id_/http%3A//bravesouls.fyi/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravesouls.fyi privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617191413id_/http%3A//www.bravesouls.fyi/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brave Souls, FYI
-
-**Brave Souls, FYI** is able to survive because of third party advertisements. Please consider whitelisting **bravesouls.fyi** in your ad blocker's settings. 
-
-Show some love for the time, effort and money spent!
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info [at] bravesouls [dot] fyi.
 
