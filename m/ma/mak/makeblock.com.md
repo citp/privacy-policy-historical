@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeblock.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224220655id_/http%3A//makeblock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeblock.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618004744id_/http%3A//makeblock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
