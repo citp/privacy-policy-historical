@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitewizard.co.uk privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108182730id_/http%3A//www.sitewizard.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitewizard.co.uk privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617155454id_/https%3A//www.sitewizard.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
-# affordable website design, ecommerce solutions
+# Privacy Policy | SiteWizard
 
 A consistent, targeted campaign
 
@@ -10,7 +10,7 @@ Our incredible Search Engine optimisation can get your website to the top of Goo
 
 From £149.99 /month
 
-[Learn More](http://www.sitewizard.co.uk/page-seo)
+[Learn More](https://www.sitewizard.co.uk/page-seo)
 
 Professional, high quality
 
@@ -20,7 +20,7 @@ We have the skills and experience to create a responsive, user-friendly website 
 
 From £495
 
-[Learn More](http://www.sitewizard.co.uk/website_design.htm)
+[Learn More](https://www.sitewizard.co.uk/website_design.htm)
 
 Feature packed, scalable
 
@@ -30,7 +30,7 @@ Powerful, easy-to-use ecommerce solutions that can convert your website visitors
 
 From £2,995
 
-[Learn More](http://www.sitewizard.co.uk/ecommerce_solutions.htm)
+[Learn More](https://www.sitewizard.co.uk/ecommerce_solutions.htm)
 
 "Set it & forget it"
 
@@ -38,9 +38,9 @@ From £2,995
 
 Low cost Social Media Marketing Service. We'll tweet and post for you, to boost your site in Google and increase your sales.
 
-From £49.95 /month
+From £74.95 /month
 
-[Learn More](http://www.sitewizard.co.uk/social-media-marketing/)
+[Learn More](https://www.sitewizard.co.uk/social-media-marketing/)
 
 ##  Personal identification information
 
