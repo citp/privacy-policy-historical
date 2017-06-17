@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908035415id_/https%3A//www.creditcardinsider.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardinsider.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617215013id_/https%3A//www.creditcardinsider.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Credit Card Insider
 
