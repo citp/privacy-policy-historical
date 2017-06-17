@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techyv.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206121447id_/http%3A//www.techyv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techyv.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617192126id_/http%3A//www.techyv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Techyv.com
 
