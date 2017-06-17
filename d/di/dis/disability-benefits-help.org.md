@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207015224id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disability-benefits-help.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617064356id_/http%3A//www.disability-benefits-help.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Social Security Disability Help
 
