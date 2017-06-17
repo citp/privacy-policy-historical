@@ -1,37 +1,26 @@
-<!--The following is the downloaded HTML source of the spainexchange.com privacy policy that was archived on 2016-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123181122id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spainexchange.com privacy policy that was archived on 2017-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617091559id_/http%3A//www.spainexchange.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-
-
-    <meta charset="utf-8">
-    
-        <!--Meta Tag-->
+<meta name="google-site-verification" content="rCKGsHTXLYefAVBlzIMxQJso3ao9vaoFbE__31caqQ0">
+<meta charset="utf-8">
+   
 <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="HandheldFriendly" content="True">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<!--Meta Tag-->
-
-<!--Main Menu File-->
-<link rel="stylesheet" type="text/css" media="all" href="/assets/pure-css3-responsive-navigation/css/color-theme.css">
-<link rel="stylesheet" type="text/css" media="all" href="/assets/pure-css3-responsive-navigation/css/webslidemenu.css">
-<!--Main Menu File-->
-
-<link rel="stylesheet" href="/assets/pure-css3-responsive-navigation/bootstrap/css/bootstrap.min.css">
-
-<!-- font awesome -->
-<link rel="stylesheet" href="/assets/pure-css3-responsive-navigation/font-awesome/css/font-awesome.min.css">
-<!-- font awesome -->
+<!--Main Menu File-
+<link rel="stylesheet" type="text/css" media="all" href="/assets/pure-css3-responsive-navigation/css/color-theme.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/assets/pure-css3-responsive-navigation/css/webslidemenu.css" />
+<link rel="stylesheet" href="/assets/pure-css3-responsive-navigation/bootstrap/css/bootstrap.min.css" />
+<link rel="stylesheet" href="/assets/pure-css3-responsive-navigation/font-awesome/css/font-awesome.min.css" />
+ font awesome -->
+<link rel="stylesheet" type="text/css" media="all" href="/assets/css/styles_combined.css">
 
 	<meta name="verifyownership" content="a0ed22c1e77a0e61e8cbd05b4cd04b79">
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
     <title>SpainExchange.com Privacy Statement</title>
-
     <meta name="description" content="This is our privacy statement."> 
-
     <meta name="keywords" content="privacy">
 
     
@@ -40,78 +29,333 @@
     
     
     
-
 <meta property="og:locale" content="en_US">
 
-
 <meta property="og:type" content="website">
-
 <meta property="og:title" content="SpainExchange.com Privacy Statement">
-
 <meta property="og:description" content="This is our privacy statement.">
-
 <meta property="og:url" content="https://www.spainexchange.com">
-
 <meta property="og:site_name" content="SpainExchange">
 
+<link rel="shortcut icon" href="http://www.spainexchange.com/favicon.ico">
+<link rel="apple-touch-icon" href="http://www.spainexchange.com/assets/img/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://www.spainexchange.com/assets/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.spainexchange.com/assets/img/apple-touch-icon-114x114.png">
 
-    <link rel="shortcut icon" href="http://www.spainexchange.com/favicon.ico">
+ 	<script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/jquery-2.0.3.min.js?ver=1"></script>
+    <script type="text/javascript">
+	
+	var host = window.location.hostname;
+if( host == "localhost" ) {
+	var path = window.location.pathname.split("/");
+	var SITE_URL = window.location.protocol + "//" + host + "/" + path[1] + "/";
+} else {
+	var SITE_URL = window.location.protocol + "//" + host + "/";
+}
 
-    <link rel="apple-touch-icon" href="http://www.spainexchange.com/assets/img/apple-touch-icon.png">
+function get_region( val, selectID, showAll, section, language ) {
+	showAll || (showAll = 0);
+	section || (section = '');
+	language || (language = '');
+	$.ajax({
+		type: "POST",
+		url: SITE_URL + "includes/forms/get_region.php",
+		data: "country=" + val + "&showAll=" + showAll + "&section=" + section + "&language=" + language,
+		success: function( msg ) {
+			$( '#' + selectID ).html( msg );
+		}
+	});
+}
 
-    <link rel="apple-touch-icon" sizes="72x72" href="http://www.spainexchange.com/assets/img/apple-touch-icon-72x72.png">
+function get_city_school( val, selectID, showAll ) {
+	if( !showAll ) var showAll = 0; 
+	$.ajax({
+		type: "POST",
+		url: SITE_URL + "includes/forms/get_city_school2.php",
+		data: "country=" + val + "&site_language=" + $('#site_language').val() + "&showAll=" + showAll,
+		success: function( msg ) {
+			$( '#' + selectID ).html( msg );
+		}
+	});
+}
 
-    <link rel="apple-touch-icon" sizes="114x114" href="http://www.spainexchange.com/assets/img/apple-touch-icon-114x114.png">
+function reset_captcha() {
+	document.getElementById("verify_code").value = '';
 
-	<link rel="stylesheet" id="theme-font-css" href="/assets/css/roboto.css" type="text/css" media="all">
+	// loads new captcha image
+	if(document.getElementById)
+	{
+		// extract image name from image source (i.e. cut off ?randomness)
+		thesrc = document.getElementById("imgCaptcha").src;
+		thesrc = thesrc.substring(0,thesrc.lastIndexOf(".")+4);
+		// add ?(random) to prevent browser/isp caching
+		document.getElementById("imgCaptcha").src = thesrc+"?" + (new Date()).getTime();
+	} 
+}
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/bootstrap.min.css?ver=1.0" type="text/css" media="all">
+function reset_captcha_contact( id ) {
+	document.getElementById("verify_code").value = '';
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/forms_structure.css?ver=1.0" type="text/css" media="all">
+	// loads new captcha image
+	if(document.getElementById)
+	{
+		// extract image name from image source (i.e. cut off ?randomness)
+		thesrc = document.getElementById("imgCaptcha"+id).src;
+		thesrc = thesrc.substring(0,thesrc.lastIndexOf(".")+4);
+		// add ?(random) to prevent browser/isp caching
+		document.getElementById("imgCaptcha"+id).src = thesrc+"?" + (new Date()).getTime();
+	} 
+}
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/forms_main.css?ver=1.0" type="text/css" media="all">
+function show_school_contact( id ) {
+	$( '.layer_contact' ).hide();	
+	$( '#validateForm' + id ).show();
+	$( '#validateForm' + id )[0].reset();
+	$( '#success_txt' + id ).html("");
+    $( '#layer' + id ).css("position","fixed");
+	$( '#layer' + id ).css( { "left": ( ( $(window).width() / 2 - $( '#layer' + id ).width() / 2 ) ) + "px", "top": ( ( $(window).height() / 2 - $( '#layer' + id ).height() / 2 ) ) + "px" } );
+	$( '#layer' + id ).show();
+}
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/forms_custom.css?ver=1.0" type="text/css" media="all">
+function hide_school_contact( id ) {
+	$( '.layer_contact' ).hide();	
+}
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/styles_calendar.css?ver=1.0" type="text/css" media="all">
+function get_subjects( language ) {
+	$('#load_subjects').html( "<img src='" + SITE_URL + "assets/img/loading.gif' width='15'>" );
+	var chosen = 0;	
+	var param = "language=" + escape( language );
+	var opts = document.getElementById('main_subject').options;
+	for( i=0; i < opts.length; i++ ) {
+		if( opts[i].selected == true ) {
+			param += "&main_subject" + chosen + "=" + opts[i].value;
+			chosen++;			 
+		}
+	}
+	param += "&chosen=" + escape( chosen );
+	
+	$.ajax({
+		type: "POST",
+		url: SITE_URL + "includes/forms/get_subjects.php",
+		data: param,
+		success: function( msg ) {
+			$('#load_subjects').html( msg );
+		}
+	});
+}
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/flexy-menu.css?ver=1.0" type="text/css" media="all">
+function get_subjects_from_single( language, value, selectID, showAll ) {
+	showAll || (showAll = 0);
+	if( value != "99999" ) {
+		var param = "language=" + escape( language ) + "&main_subject=" + value + "&showAll=" + showAll;
+		$.ajax({
+			type: "POST",
+			url: SITE_URL + "includes/forms/get_subjects_from_single.php",
+			data: param,
+			success: function( msg ) {
+				$('#'+ selectID )[0].options.length = 0;
+				$('#'+ selectID ).append( msg );
+			}
+		});
+	}
+}
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/lightbox.css?ver=1.0" type="text/css" media="all">
+(function(){
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/thickbox_custom.css?ver=1.0" type="text/css" media="all">
+	$(function() {	
+	  	window.app 			 			= {el : {}, fn : {}};
+		app.el['window']     			= $(window);
+		app.el['document']   			= $(document);
+		app.el['button-login']  		= $('#button-login');
+		app.el['button-login-link']  	= $('#button-login a');
+		app.el['login-wrapper'] 		= $('#login-wrapper');
+		app.el['flexy-menu'] 			= $('#flexy-menu');
+	
+		app.el['button-login-link'].click(function() {
+			if( $(this).parent().hasClass('active') ) {
+				$(this).parent().removeClass('active');
+				app.el['login-wrapper'].hide();
+			} else {
+				$(this).parent().addClass('active');
+				app.el['login-wrapper'].show();
+			}
+		});
 
-    <link rel="stylesheet" href="http://www.spainexchange.com/assets/css/style.css?ver=1.0" type="text/css" media="all">
+		app.el['button-login'].hover(function() {
+			$(this).addClass('active');
+			app.el['login-wrapper'].show();
+		}, function() {
+			// on mouse out
+			$(this).removeClass('active');
+			app.el['login-wrapper'].hide();		
+		});
 
+        app.el['flexy-menu'].flexymenu({
+            speed: 400,
+            type: "horizontal",
+            align: "left",
+            indicator: true
+        });
 
+		$('.s_more').bind('click', function(e) {
+			e.preventDefault();
+			var el = $( '#more_' + this.id );
+			if( el.is(":hidden") ) {
+				el.show();
+			} else {
+				el.hide();
+			}
+		});	
 
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=191828204174206"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/jquery-2.0.3.min.js?ver=1"></script>
+		// This add and remove highlight class
+		var elements = $("input[type!='submit'], textarea, select");
+		elements.focus(function(){
+		  $(this).parents('li').addClass('highlight');
+		});
+		elements.blur(function(){
+		  $(this).parents('li').removeClass('highlight');
+		});
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/bootstrap.min.js?ver=1"></script>
+		// This add and remove hover class
+		$("form li:not([class*='nohover'])").mouseover(function() {
+			$(this).addClass("hovering");
+		});
+		$("form li:not([class*='nohover'])").mouseout(function() {
+			$(this).removeClass("hovering");
+		});
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/flexy-menu.js?ver=1"></script>
+		//reset form
+		$('#reset').click(function() {
+		    $('li').removeClass('error');
+		    $('li').removeClass('highlight');
+		    $('li').removeClass('hovering');
+		});
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/jquery.validate.js?v=1"></script>
+		$('.facebook_login').click(function(a) {
+	        var d = $(this);
+	        a.preventDefault();
+	        FB.login(function (a) {
+	            if (a.authResponse) {
+	                var b = window,
+	                    e;
+	                e = d.attr("href");
+	                a = $.param({
+	                    fbsr: a.authResponse.signedRequest
+	                });
+	                e = e.indexOf("?") === -1 ? e + "?" + a : e + "&" + a;
+	                b.location = e
+	            }
+	        }, {
+	            scope: "email, user_location, user_birthday, user_education_history"
+	        });
+	    });
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/jquery.tipsy.js?v=1"></script>
+		// track banner click to sponsor homepage
+		$("a.track_banner").click(function(){
+			var id = $(this).data("id-school");
+			var flag = $(this).data("flag");
+			var lang = $(this).data("language");
+			$.ajax({
+				type 	: "POST",
+				data	: "id=" + id + "&lang=" + lang + "&flag=" + flag,
+				url		: SITE_URL + "includes/forms/insert_track_school.php",
+				success : function(msg)	{   
+				}
+			});
+		});		    
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/calendar_jscal2.js?v=1"></script>
+		$('#toggle-advanced-search').hover(function() {
+			$('.advanced-search').addClass('menu-show').removeClass('menu-hide');
+		}, function() {
+			if( $('#toggle-advanced-search select').is(":focus") ) {
+			// hide panel if mouse out of search form
+			} else {
+				$('.advanced-search').addClass('menu-hide').removeClass('menu-show');
+			}
+		});
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/calendar_en.js?v=1"></script>
+		$('#header_country').change(function() {
+			$.ajax({
+				url: SITE_URL + 'includes/forms/get_header_city_and_subject.php',
+				type: 'POST',
+				dataType: 'json',
+				data: {
+					country: $(this).val(),
+					subject: $('#header_subject').val(),
+					site_language: $('#site_language').val(),
+					showAll: 1 
+				}
+			})
+			.done(function(msg) {
+				$('#header_city' )[0].options.length = 0;
+				$('#header_city' ).append( msg.city );
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/lightbox-2.6.min.js"></script>
+				if( $('#header_subject').val() == '' ) {
+					$('#header_subject' )[0].options.length = 0;
+					$('#header_subject' ).append( msg.subject );
+				}
+			})
+			.fail(function() {
+				alert('An error has occured. Please try again later!');
+			})
+		});
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/en.js?v=1"></script>
+		$('#header_city').change(function() {
+			if( $('#header_subject').val() == '' ) {
+				$.ajax({
+					url: SITE_URL + 'includes/forms/get_header_subject_from_city.php',
+					type: 'POST',
+					dataType: 'json',
+					data: {
+						city: $(this).val(),
+						site_language: $('#site_language').val(),
+						showAll: 1 
+					}
+				})
+				.done(function(msg) {
+					$('#header_subject' )[0].options.length = 0;
+					$('#header_subject' ).append( msg.subject );
+				})
+				.fail(function() {
+					alert('An error has occured. Please try again later!');
+				})
+			}
+		});		
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/jquery.form.js?v=1"></script>
+		$('#header_subject').change(function() {
+			if( $('#header_country').val() == '' && $('#header_city').val() == '' ) {
+				$.ajax({
+					url: SITE_URL + 'includes/forms/get_header_country_and_city.php',
+					type: 'POST',
+					dataType: 'json',
+					data: {
+						subject: $(this).val(),
+						site_language: $('#site_language').val(),
+						showAll: 1 
+					}
+				})
+				.done(function(msg) {
+					$('#header_country' )[0].options.length = 0;
+					$('#header_country' ).append( msg.country );
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/jquery.thickbox_custom.js?v=2"></script>
+					$('#header_city' )[0].options.length = 0;
+					$('#header_city' ).append( msg.city );
+				})
+				.fail(function() {
+					alert('An error has occured. Please try again later!');
+				})
+			}
+		});
 
-    <script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/scripts.js?ver=1"></script>
+	});
 
+})();
+	
+	</script>
 
 
 <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+
 
 <script type="text/javascript">
 
@@ -119,27 +363,25 @@
 
 </script>
 
-<script async="" type="text/javascript" src="http://www.spainexchange.com/assets/js/cookieconsent.min.js"></script>
+
+<script async="" type="text/javascript">
+
+!function(){if(!window.hasCookieConsent){window.hasCookieConsent=!0;var e="cookieconsent_options",t="update_cookieconsent_options",n="cookieconsent_dismissed",i="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/";if(!(document.cookie.indexOf(n)>-1||window.navigator&&window.navigator.CookiesOK)){"function"!=typeof String.prototype.trim&&(String.prototype.trim=function(){return this.replace(/^\s+|\s+$/g,"")});var o,s={isArray:function(e){var t=Object.prototype.toString.call(e);return"[object Array]"==t},isObject:function(e){return"[object Object]"==Object.prototype.toString.call(e)},each:function(e,t,n,i){if(s.isObject(e)&&!i)for(var o in e)e.hasOwnProperty(o)&&t.call(n,e[o],o,e);else for(var r=0,a=e.length;a>r;r++)t.call(n,e[r],r,e)},merge:function(e,t){e&&s.each(t,function(t,n){s.isObject(t)&&s.isObject(e[n])?s.merge(e[n],t):e[n]=t})},bind:function(e,t){return function(){return e.apply(t,arguments)}},queryObject:function(e,t){var n,i=0,o=e;for(t=t.split(".");(n=t[i++])&&o.hasOwnProperty(n)&&(o=o[n]);)if(i===t.length)return o;return null},setCookie:function(e,t,n,i,o){n=n||365;var s=new Date;s.setDate(s.getDate()+n);var r=[e+"="+t,"expires="+s.toUTCString(),"path="+o||"/"];i&&r.push("domain="+i),document.cookie=r.join(";")},addEventListener:function(e,t,n){e.addEventListener?e.addEventListener(t,n):e.attachEvent("on"+t,n)}},r=function(){var e="data-cc-event",t="data-cc-if",n=function(e,t,i){return s.isArray(t)?s.each(t,function(t){n(e,t,i)}):void(e.addEventListener?e.addEventListener(t,i):e.attachEvent("on"+t,i))},i=function(e,t){return e.replace(/\{\{(.*?)\}\}/g,function(e,n){for(var i,o,r=n.split("||");o=r.shift();){if(o=o.trim(),'"'===o[0])return o.slice(1,o.length-1);if(i=s.queryObject(t,o))return i}return""})},o=function(e){var t=document.createElement("div");return t.innerHTML=e,t.children[0]},r=function(e,t,n){var i=e.parentNode.querySelectorAll("["+t+"]");s.each(i,function(e){var i=e.getAttribute(t);n(e,i)},window,!0)},a=function(t,i){r(t,e,function(e,t){var o=t.split(":"),r=s.queryObject(i,o[1]);n(e,o[0],s.bind(r,i))})},c=function(e,n){r(e,t,function(e,t){var i=s.queryObject(n,t);i||e.parentNode.removeChild(e)})};return{build:function(e,t){s.isArray(e)&&(e=e.join("")),e=i(e,t);var n=o(e);return a(n,t),c(n,t),n}}}(),a={options:{message:"This website uses cookies to ensure you get the best experience on our website. ",dismiss:"Got it!",learnMore:"More info",link:null,target:"_self",container:null,theme:"light-floating",domain:null,path:"/",expiryDays:365,markup:['<div class="cc_banner-wrapper {{containerClasses}}">','<div class="cc_banner cc_container cc_container--open">','<a href="#null" data-cc-event="click:dismiss" target="_blank" class="cc_btn cc_btn_accept_all">{{options.dismiss}}</a>','<p class="cc_message">{{options.message}} <a data-cc-if="options.link" target="{{ options.target }}" class="cc_more_info" href="{{options.link || "#null"}}">{{options.learnMore}}</a></p>','<a class="cc_logo" target="_blank" href="http://silktide.com/cookieconsent">Cookie Consent plugin for the EU cookie law</a>',"</div>","</div>"]},init:function(){var t=window[e];t&&this.setOptions(t),this.setContainer(),this.options.theme?this.loadTheme(this.render):this.render()},setOptionsOnTheFly:function(e){this.setOptions(e),this.render()},setOptions:function(e){s.merge(this.options,e)},setContainer:function(){this.options.container?this.container=document.querySelector(this.options.container):this.container=document.body,this.containerClasses="",navigator.appVersion.indexOf("MSIE 8")>-1&&(this.containerClasses+=" cc_ie8")},loadTheme:function(e){var t=this.options.theme;-1===t.indexOf(".css")&&(t=i+t+".css");var n=document.createElement("link");n.rel="stylesheet",n.type="text/css",n.href=t;var o=!1;n.onload=s.bind(function(){!o&&e&&(e.call(this),o=!0)},this),document.getElementsByTagName("head")[0].appendChild(n)},render:function(){this.element&&this.element.parentNode&&(this.element.parentNode.removeChild(this.element),delete this.element),this.element=r.build(this.options.markup,this),this.container.firstChild?this.container.insertBefore(this.element,this.container.firstChild):this.container.appendChild(this.element)},dismiss:function(e){e.preventDefault&&e.preventDefault(),e.returnValue=!1,this.setDismissedCookie(),this.container.removeChild(this.element)},setDismissedCookie:function(){s.setCookie(n,"yes",this.options.expiryDays,this.options.domain,this.options.path)}},c=!1;(o=function(){c||"complete"!=document.readyState||(a.init(),c=!0,window[t]=s.bind(a.setOptionsOnTheFly,a))})(),s.addEventListener(document,"readystatechange",o)}}}();
+
+</script>
 
 <!-- End Cookie Consent plugin -->
-
 
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/ads/bygoogle.js"></script>
 
 <script>
-
   (adsbygoogle = window.adsbygoogle || []).push({
-
     google_ad_client: "ca-pub-6033359828241754",
-
     enable_page_level_ads: true
-
   });
-
 </script>
 
-</head>
-
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/1.0.10/dark-bottom.css"></head>
 <body>
 
 <script>
@@ -147,121 +389,36 @@
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-399430-3', 'auto');
   ga('send', 'pageview');
-
 </script>
 
-     
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=191828204174206";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
     <header>
-
         <div class="wrapper">
-
             <nav role="navigation">
-
                 <ul id="header-nav">
-
-                    <li><a target="_blank" class="twitter text-hide" href="https://twitter.com/studylands">twitter</a></li>
-
-                    <li><a target="_blank" class="facebook text-hide" href="https://www.facebook.com/SpainExchange">facebook</a></li>
-
-
+                    <li><a target="_blank" class="text-hide ico_twitter-icon" href="https://twitter.com/spainexch">twitter</a></li>
+                    <li><a target="_blank" class="text-hide ico_facebook-icon" href="https://www.facebook.com/SpainExchange">facebook</a></li>
+                   
 
                     
-                        <li id="button-login">
-
-                            <a class="button-blue" href="#">Login</a>
-
-                            <div id="login-wrapper">
-
-                                <form id="header-login" class="clearfix" action="http://www.spainexchange.com/login" method="post">
-
-                                    <div class="row">
-
-                                        <div class="col-sm-9">
-
-                                            <div class="form-group">
-
-                                                <input type="text" name="username" class="input" placeholder="username">
-
-                                            </div>
-
-                                            <div class="form-group">
-
-                                                <input type="text" name="password" class="input" placeholder="password">
-
-                                            </div>
-
-
-
-                                            <div class="checkbox">
-
-                                                <label>
-
-                                                    <input type="checkbox" name="remember" value="1">
-
-                                                    Keep me logged in
-                                                </label>
-
-                                            </div>      
-
-                                        </div>              
-
-                                        <div class="col-sm-3">
-
-                                            <input type="submit" name="s_submit_login_slide" class="button btn-login" value="login">
-
-                                        </div>
-
-                                    </div>
-
-                                </form>
-
-                                <div id="header-forgot">
-
-                                    <a href="http://www.spainexchange.com/users/remember.php?user_lang=en">Forgot your password?</a>
-
-                                </div>
-
-                            </div>
-
-                        </li>
+                        <li id="button-login"><a class="button-blue" href="/login">Login</a></li>
 
                         <li><a class="button-blue" href="http://www.spainexchange.com/educator-info/listing.htm">List Your School</a></li>
 
                     
-
-
                     
                             <li><a class="button-grey" href="http://www.spainexchange.com/es/">español</a></li>
 
-                    
-                    
+                        
 
                 </ul>
-
             </nav>
-
-            <div style="float:left; margin-top:8px; margin-bottom:8px;"><a href="http://www.spainexchange.com/"><img src="/assets/img/studylands.png"></a></div><div style="float:left; margin-top:8px; margin-bottom:8px;"><a href="/gotosponsor.php?id=60&amp;tipo=10"><img src="/assets/img/eu.png"></a></div><div style="clear:left;"></div>
-
+				            <a href="http://www.spainexchange.com/"><div class="logos_se ico_studycountry"></div></a><a rel="nofollow" href="http://www.spainexchange.com/gotosponsor.php?id=60&amp;tipo=10"><div class="logos_se ico_eu"></div></a><div class="clear-left"></div>
         </div>
-
     </header>
-
-    <div id="header-bottom">
-    
-     <div class="wrapper row">        
-      
+    <div id="header-bottom">  
+     <div class="wrapper row">             
             <div class="header">
 
      <!--Main Menu HTML Code-->
@@ -272,47 +429,44 @@
 					<a href="#"><i class="fa fa-bars"></i>Menu</a>
 				</li>
                 
-                
                   <li aria-haspopup="true"><a href="/" class="active"><i class="fa fa-home"></i><span class="hometext">&nbsp;&nbsp;Home</span></a></li>
                   
                                      
-                  <li aria-haspopup="true"><a href="/spain/cities-in-spain-to-study-abroad/"><i class="fa fa-flag" aria-hidden="true"></i>&nbsp;&nbsp;Study in Spain</a>
-                    
-                    
+                  <li aria-haspopup="true"><a href="#"><i class="fa fa-flag" aria-hidden="true"></i>&nbsp;&nbsp;Study in Spain</a>
+
                     <ul class="wsdownmenu-submenu">
                     
-                                           	
-                      <li><a href="/spain/cities-in-spain-to-study-abroad/">Spain Schools by City</a></li>
-                      
                                            
-                      <li><a href="/spain/universities-in-spain/">Spain Universities</a></li>
+                      <li><a href="/spain/guide-international-students-coming-spain/">Student guide to Spain</a></li>   
+                      
+                                          
+                                           	
+                      <li><a href="/schools/study-spain/">Spain Schools by City</a></li>
+                      
+                                          
+                      <li><a href="/study-abroad/universities2-ES-en-cu.htm">Spain Universities</a></li>
                       
                                             
-                      <li><a href="/spain/graduate-programs-and-professional-development-in-spain/">Graduate Programs/Masters Degrees in Spain</a></li>
+                      <li><a href="/study-abroad/graduate_programs2-ES-en-px.htm">Graduate Programs/Masters Degrees in Spain</a></li>
                       
                                             
-                      <li><a href="/spain/study-abroad-in-spain-with-american-institutions/">US Based Study Abroad Programs</a></li>
+                      <li><a href="/study-abroad/abroad_programs2-ES-en-usab.htm">US Based Study Abroad Programs</a></li>
                       
                         
                       
-                      <li><a href="/spain/spanish-language-and-culture-programs-in-spain/">Spanish Language and Culture Programs in Spain</a></li>
+                      <li><a href="/study-abroad/language_courses2-ES-en-oi.htm">Spanish Language and Culture Programs in Spain</a></li>
                       
                         
                   
-                      <li><a href="/spain/spanish-language-schools-in-spain/">Spanish Language Schools</a></li>
-                      
-                        
-                  
-                      <li><a href="/spain/career-colleges-and-vocational-schools-in-spain/">Career Colleges and Vocational Schools in Spain</a></li>
+                      <li><a href="/study-abroad/career_vocational2-ES-en-oc.htm">Career Colleges and Vocational Schools in Spain</a></li>
                       
                           
                   
-                      <li><a href="/spain/primary-and-secondary-schools-in-spain/">Primary and Secondary Schools in Spain</a></li>
+                      <li><a href="/study-abroad/primary_secondary2-ES-en-csvp.htm">Primary and Secondary Schools in Spain</a></li>
                       
                           
                   
-                      <li><a href="/spain/online-and-distance-learning-schools-in-spain/">Online and Distance Learning Schools in Spain</a></li>
-                      
+                      <li><a href="/study-abroad/online_courses2-ES-en-dla.htm">Online and Distance Learning Schools in Spain</a></li>      
                       
                                             
                       <li><a href="/spain/exchange-students-host-families-spain/">Exchange Students to Spain</a></li>
@@ -323,20 +477,27 @@
                                             	
                       <li><a href="/spain/">Articles about Spain</a></li>
                       
-                                            
+                                                               
                       <li><a href="/spain/tours/">Spain Educational Tours</a></li>
                       
                                           
                     </ul>
-                    
+                  </li>
+                                 
+                                   
+                  <li aria-haspopup="true"><a href="http://www.spainexchange.com/schools/country/"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;Study Abroad</a>
+                  
+                   	<ul class="wsdownmenu-submenu"> 
+                  	<li><a href="http://www.spainexchange.com/study-abroad/search_schools.php">Search Schools Abroad</a></li>
+                    <li><a href="http://www.spainexchange.com/student-housing/">International Student Housing</a></li>
+                    </ul>
+                  
                   </li>
                   
-                                    
-                                   
-                  <li aria-haspopup="true"><a href="http://www.spainexchange.com/schools/country/"><i class="fa fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;Study Abroad</a></li><a href="http://www.spainexchange.com/schools/country/">
+                
                   
                                     
-                  </a><li aria-haspopup="true"><a href="http://www.spainexchange.com/schools/country/"></a><a href="http://www.spainexchange.com/study-abroad/subjects/"><i class="fa fa-university" aria-hidden="true"></i>&nbsp;&nbsp;Study Programs</a>
+                  <li aria-haspopup="true"><a href="#"><i class="fa fa-university" aria-hidden="true"></i>&nbsp;&nbsp;Study Programs</a>
                   
                                     
                     <ul class="wsdownmenu-submenu"> 
@@ -346,22 +507,28 @@
                     </ul>
                                       
                   </li>
-                  <li aria-haspopup="true"><a href="http://www.spainexchange.com/study-abroad/search_schools.php"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;&nbsp;Search Schools</a></li>
-                      
-         
                   
+                   <li aria-haspopup="true">
+                   
+                                
+<form action="http://www.google.com" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-6033359828241754:5757204511">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="20">
+    <input type="submit" name="sa" value="Search" style="font-size:12px;">
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+           
+          </li>
                  
-                  
                    </ul>
               </nav>
   <!--Menu HTML Code-->
-
-           
-
         </div>
-
-
-
 
     
         <div class="wrapper">
@@ -369,16 +536,8 @@
             <div id="main">  
 
     
-
-
         
-        
-
-
-
-		<div class="guide-text-content"> 
-
-    
+<div class="guide-text-content"> 
 <h1>SpainExchange.com Privacy Statement</h1>
 
 
@@ -396,139 +555,4 @@
 	<p>To change and modify any information previously provided to us, you can send an e-mail to <a href="mailto:web@spainexchange.com">web@spainexchange.com</a></p>
 	<p><b>Contacting the Web Site</b></p>
 	<p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact <a href="mailto:web@spainexchange.com">Dori Kelsey</a>.</p>
-</div> 
-
-
-
-        
-
-     
-
-<br><br>
-
- </div>
-
-
-   
-
-
-
-        
-
-
-    
-            </div>
-
-        </div>  
-
-    
-
-
-    <footer>
-
-        <div class="wrapper row">
-
-            <div class="col-sm-4">
-            
-            
-                <form id="newsletter" class="clearfix" action="/iem/form.php?form=4" method="post" onsubmit="return CheckForm4(this);">
-
-                    <h4>Newsletter</h4>
-
-                    <p>Sign up for our international student newsletter:</p>
-
-                    <div class="form-group">
-
-                        <input type="text" name="CustomFields[14]" id="CustomFields_14_4" class="input" placeholder="Name ...">
-
-                    </div>
-
-                    <div class="form-group">
-
-                        <input type="text" name="email" class="input" placeholder="Email ...">
-
-                    </div>
-
-                    <input type="submit" name="newsletter_submit" class="button btn-navy pull-right" value="Subscribe">
-
-                </form>
-
-            </div>
-
-         
-
-           
-
-            <div class="col-sm-4" style="padding-top:10px;">
-
-            
-
-           <!--
-<a href="/spain/tours/" target="_blank"><img src="/assets/img/spain_tours_bottom.jpg" /></a>-->
-
-
-<div class="fb-page" data-href="https://www.facebook.com/spainexchange/" data-tabs="timeline" data-width="300" data-height="256" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/spainexchange/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/spainexchange/">SpainExchange</a></blockquote></div>
-
-
-             
-
-            </div> 
-            
-               <div id="se-info" class="col-sm-4">
-
-                <p>At SpainExchange you can find schools, study programs and key information for studying in almost every country in the world.</p>
-
-                <p><strong>© 1999-2016 SpainExchange</strong></p>
-
-    
-
-                <nav role="navigation">
-                
-                <div style="float: left;">
-
-                    <!--<ul id="footer-nav">-->
-                    
-                    <ul style="font-size:13px;">
-					
-					
-                        <li style="font-size:13px;"><a rel="nofollow" href="http://www.spainexchange.com/advertise">Advertise</a></li>
-
-                        
-                        <li style="font-size:13px;"><a href="http://www.spainexchange.com/contact.php">Contact</a></li>
-
-                        <li style="font-size:13px;"><a href="http://www.spainexchange.com/disclaimer.php">Disclaimer</a></li>
-
-                        <li style="font-size:13px;"><a href="http://www.spainexchange.com/privacy.php">Privacy</a></li>
-
-                        <li style="font-size:13px;"><a href="http://www.spainexchange.com/about.php">About Us</a></li>
-                        
-            
-                       
-
-                    </ul>   
-                    
-                   </div>
-                   
-                   <div style="clear:left;"></div>
-
-                </nav>       
-
-            </div>
-
-        </div>
-
-    </footer>
-
-
-
-    
-
-
-    
-
-
-    
-
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
-
-</div></body></html>
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></div></div></div></div></div></body></html>
