@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224000710id_/http%3A//www.siriusxm.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusxm.ca privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617121735id_/http%3A//www.siriusxm.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SiriusXM Canada
 
