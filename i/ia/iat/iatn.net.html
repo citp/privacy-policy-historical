@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iatn.net privacy policy that was archived on 2016-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130190334id_/http%3A//www.iatn.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iatn.net privacy policy that was archived on 2017-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617022425id_/http%3A//www.iatn.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Privacy Policy - iATN</title>
@@ -12,12 +12,12 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 	<!-- jquery, fancybox, all.css and sb.css -->
-	<link media="screen" rel="stylesheet" type="text/css" href="/minify/i/v/98/exp/30/pathsid/40/index.aspx">
-	<link media="print" rel="stylesheet" type="text/css" href="/minify/i/v/96/exp/30/f/--css--print.css/index.aspx">
-	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/minify/i/v/96/exp/30/f/--css--ie.css/index.aspx" media="screen"/><![endif]-->
+	<link media="screen" rel="stylesheet" type="text/css" href="/minify/i/v/100/exp/30/pathsid/40/index.aspx">
+	<link media="print" rel="stylesheet" type="text/css" href="/minify/i/v/100/exp/30/f/--css--print.css/index.aspx">
+	<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen"/><![endif]-->
 	<!-- jquery, fancybox, status bar, and main.js -->
-	<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/minify/i/v/96/nomin/1/exp/30/pathsid/41/index.aspx" type="text/javascript"> </script>
-	<script src="/minify/i/v/104/exp/30/f/--includes--js--shared.js/index.aspx" type="text/javascript"> </script>
+	<script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="/minify/i/v/100/nomin/1/exp/30/pathsid/41/index.aspx" type="text/javascript"> </script>
+	<script src="/minify/i/v/108/exp/30/f/--includes--js--shared.js/index.aspx" type="text/javascript"> </script>
 
 	<!-- placeholder plugin -->
 	<script src="/minify/i/v/1/exp/30/f/--includes--jquery.placeholder.js/index.aspx" type="text/javascript"></script>
@@ -31,7 +31,35 @@
 			//$(":input[placeholder]").placeholder({overrideSupport: true});
 			$('input').placeholder();
 			//if($.fn.placeholder.input){ alert('native'); }
+
+			// Light YouTube Embeds by labnol 
+    		// Web: http://labnol.org/?p=27941 
+			var div, n,
+                v = document.getElementsByClassName("youtube-player");
+            for (n = 0; n < v.length; n++) {
+                div = document.createElement("div");
+                div.setAttribute("data-id", $(v[n]).data("id"));
+                div.innerHTML = labnolThumb($(v[n]).data("id"));
+                div.onclick = labnolIframe;
+                v[n].appendChild(div);
+            }
 		});
+
+		// Light YouTube Embeds by labnol 
+    	// Web: http://labnol.org/?p=27941 
+		function labnolThumb(id) {
+	        var thumb = '<img src="//i.ytimg.com/vi/ID/hqdefault.jpg">',
+	            play = '<div class="play"></div>';
+	        return thumb.replace("ID", id) + play;
+	    }
+	    function labnolIframe() {
+	        var iframe = document.createElement("iframe");
+	        var embed = "https://www.youtube-nocookie.com/embed/ID?rel=0&playlist=PLAYLIST&showinfo=0&controls=0&autoplay=1";
+	        iframe.setAttribute("src", embed.replace("ID", $(this).data("id")).replace("PLAYLIST", $(this).data("playlist")));
+	        iframe.setAttribute("frameborder", "0");
+	        iframe.setAttribute("allowfullscreen", "1");
+	        this.parentNode.replaceChild(iframe, this);
+	    }
 
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-11555667-3']);
@@ -54,26 +82,29 @@
 			m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
 		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-		// Facebook Analytics
-		(function ()
-		{
-			var _fbq = window._fbq || (window._fbq = []);
-			if (!_fbq.loaded)
-			{
-				var fbds = document.createElement('script');
-				fbds.async = true;
-				fbds.src = '//connect.facebook.net/en_US/fbds.js';
-				var s = document.getElementsByTagName('script')[0];
-				s.parentNode.insertBefore(fbds, s);
-				_fbq.loaded = true;
-			}
-			_fbq.push(['addPixelId', '846063908798291']);
-		})();
-		window._fbq = window._fbq || [];
-		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
 
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            }; if (!f._fbq) f._fbq = n;
+            n.push = n; n.loaded = !0; n.version = '2.0'; n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s)
+        }(window,
+        document, 'script', '//connect.facebook.net/en_US/fbevents.js');
+        // Insert Your Facebook Pixel ID below.
+        fbq('init', '846063908798291');
+        fbq('track', 'PageView');
+    </script>
+    <!-- Insert Your Facebook Pixel ID below. -->
+    <noscript>
+        <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=846063908798291&amp;ev=PageView&amp;noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
 
-	</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
 
 	<!-- customizable options below -->
 	
@@ -668,7 +699,7 @@
 					<li><a href="/privacy-policy">Privacy</a></li>
 					<li><a href="/faq">FAQ</a></li>
 				</ul>
-				<span class="copyright-text">Copyright ©1995-2016 iATN. All rights reserved.<br>iATN® is a registered trademark of the International Automotive Technicians Network.</span>
+				<span class="copyright-text">Copyright ©1995-2017 iATN. All rights reserved.<br>iATN® is a registered trademark of the International Automotive Technicians Network.</span>
 			</div>
 		</div>
 	</div>
@@ -689,7 +720,7 @@
 			<li><a class="tab3" href="http://members.iatn.net/"><span class="left">&nbsp;</span><span class="c">Members Only</span><span class="right">&nbsp;</span></a></li>
 			<li><a class="tab2" href="https://iatn.net/repair"><span class="left">&nbsp;</span><span class="c">Repair Shops</span><span class="right">&nbsp;</span></a></li>
 			<li><a class="tab4" href="https://iatn.net/careers"><span class="left">&nbsp;</span><span class="c">Auto Pro Careers</span><span class="right">&nbsp;</span></a></li>
-			<li><a class="tab5" href="https://iatn.net/wiki"><span class="left">&nbsp;</span><span class="c">Auto Pro Wiki</span><span class="right">&nbsp;</span></a></li>
+			<li><a class="tab5" href="https://iatn.net/reviews"><span class="left">&nbsp;</span><span class="c">Auto Pro Reviews</span><span class="right">&nbsp;</span></a></li>
 		</ul>
 		<!-- tabcontent -->
 		<ul class="tab-content">
@@ -704,7 +735,7 @@
 
 
 			<!-- navbar -->
-			<div id="memberStatusLoginLinks"><a href="//www.iatn.net/login/">Login</a><a href="https://join.iatn.net">Join</a></div>
+			<div id="memberStatusLoginLinks"></div>
 
 			<!-- add-info -->
 			<div id="memberStatusAddInfo">
@@ -728,4 +759,4 @@
 
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</body></html>
