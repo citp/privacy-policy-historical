@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumhr.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910161257id_/https%3A//www.sumhr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumhr.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617223710id_/https%3A//www.sumhr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for sumHR software
 
@@ -22,4 +22,4 @@ From here on in this document, sumHR may be referred to as “we/us” and Custo
 
 
 
-_If you have any questions or doubts regarding this Privacy Policy, please send an email to support_at_sumhr_com_
+_If you have any questions or doubts regarding this Privacy Policy, please[email us](mailto:mailto:support@sumhr.com) _
