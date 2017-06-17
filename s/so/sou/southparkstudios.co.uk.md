@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southparkstudios.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124023221id_/http%3A//www.southparkstudios.co.uk/about/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southparkstudios.co.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618005859id_/http%3A//www.southparkstudios.co.uk/about/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - South Park Studios UK & Ireland
 
@@ -86,4 +86,4 @@ This Privacy Policy was last modified on September 30, 2009 and is effective imm
 
 Copyright © 2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
 
-This website uses cookies to improve your browsing experience. By using this website, you consent to the use of cookies. [More information.](https://web.archive.org/about/legal/privacy-policy#cookie_policy) X 
+This website uses cookies to improve your browsing experience. By using this website, you consent to the use of cookies. [More information.](https://web.archive.org/about/legal/terms-of-use#cookie_policy) X 
