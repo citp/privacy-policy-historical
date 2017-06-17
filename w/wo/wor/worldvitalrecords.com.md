@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldvitalrecords.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208032729id_/http%3A//www.worldvitalrecords.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldvitalrecords.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617234901id_/http%3A//www.worldvitalrecords.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # WorldVitalRecords - Genealogy Privacy Policy
 
