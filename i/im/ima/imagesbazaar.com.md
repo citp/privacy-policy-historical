@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214120605id_/http%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagesbazaar.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617111656id_/http%3A//www.imagesbazaar.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Privacy Policy
 
 The online Registration Form asks visitors for demographic information (like their PIN code or Telephone No.) . Demographic and profile data is also collected at the site. We use this data to tailor our visitor's experience and services at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
@@ -42,3 +44,24 @@ By using the IMAGESBAZAAR site, you consent to the collection and use of informa
 Please send any questions about IMAGESBAZAAR'S Privacy Policy to **[info@imagesbazaar.com](mailto:info@imagesbazaar.com)**
 
 "We as a merchant shall be under no liability whatsoever in respect of any loss or damage arising directly or indirectly out of the decline of authorization for any Transaction, on Account of the Cardholder having exceeded the preset limit mutually agreed by us with our acquiring bank from time to time"
+
+All India Toll Free: 1800-11-6869
+
+USA/Canada Toll Free: +1-800-406-6254
+
+100% Satisfaction   
+Guaranteed!
+
+Why ImagesBazaar?
+
+\- Over 1.5 Million creative images & videos with Indian faces
+
+\- One of the fastest & most user friendly image search engines in the World
+
+\- All images are colour corrected and retouched as per international standards
+
+\- Super quick turnaround time & extraordinary customer service [Read ](https://web.archive.org/web/20170617111656id_/http%3A//www.imagesbazaar.com/testimonials.aspx) testimonials
+
+World's largest collection of Indian [images](http://www.imagesbazaar.com/) & [videos.](http://videos.imagesbazaar.com/)
+
+Scroll
