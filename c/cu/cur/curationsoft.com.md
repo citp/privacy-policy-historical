@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curationsoft.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042717id_/http%3A//curationsoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curationsoft.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617105418id_/http%3A//curationsoft.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » Content Curation Software
 
