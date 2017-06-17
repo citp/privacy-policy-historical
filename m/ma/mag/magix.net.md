@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magix.net privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616055316id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magix.net privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617125344id_/http%3A//www.magix.com/int/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -39,6 +39,8 @@ Using a corresponding code extension, Google Analytics captures your IP address 
 In addition, we use Google remarketing and Google DoubleClick technology on our website.This technology enables users who have visited our website and are interested in our products to be targeted with specific advertisements. This benefits users in that they will receive advertisements that are in line with their interests. All data collected by this technology is anonymous, so individual users cannot be identified. Users can opt out of targeted advertising within the Google network via the following link: <http://www.google.com/ads/preferences/html/opt-out.html>.
 
 The MAGIX website uses retargeting technology from AdRoll (AdRoll, 972 Mission St, 3rd Floor, San Francisco, CA 94103, United States). This technology enables targeting individual Internet users who have already shown interest in our shop and products with advertising. Naturally, no personal information is requested or saved in the process. The AdRoll privacy statement and privacy policy are found under the following link: <https://www.adroll.com/about/privacy>. Additionally, you can decide to opt out of targeted ads from AdRoll by clicking on the following link: <https://app.adroll.com/optout/safari>.
+
+MAGIX will use "Hotjar" software (Hotjar Ltd, Level 2 St Julians Business Centre, 3, Elia Zammit Street St Julians STJ 1000, Malta, EU) in order to improve user experience on its Internet pages. Hotjar lets us evaluate user behavior (mouse movements, clicks, scroll height) on our web pages. To this end, Hotjar places cookies on the site visitor’s end device in order to save technical information (e.g. browser information, operating system, site retention time). You can learn more about privacy policy and opt-outs from Hotjar here: <https://www.hotjar.com/privacy>.
 
 #### The following applies in other cases:
 
