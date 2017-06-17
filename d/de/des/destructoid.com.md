@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050201id_/https%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617090028id_/https%3A//www.destructoid.com/destructoid-com-privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # Privacy Policy and General Site Support
 
@@ -46,5 +46,3 @@ Your secret's safe with us, batman
 * * *
 
 You are logged out. [Login](https://www.destructoid.com/user_login.phtml) | [Sign up](https://www.destructoid.com/user_signup.phtml)
-
-* * *
