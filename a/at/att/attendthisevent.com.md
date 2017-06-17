@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attendthisevent.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021742id_/http%3A//events.instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attendthisevent.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617075423id_/https%3A//instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Instant Teleseminar
 
