@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moes.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120164722id_/http%3A//www.focusbrands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moes.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617074741id_/http%3A//www.focusbrands.com/privacy-policy) for the most accurate reproduction.*
 
 # Focus Brands | Privacy Policy
 
@@ -112,7 +112,24 @@ California residents may request a list of certain third parties to which we hav
 
 If you download or use any of our Apps, and you agree to share your location information with us and receive push notifications from us, we will use your location information to send you customized notices, offers, and coupons. You can later opt out of push notifications or of sharing your location information. If you use an Apple iOS device, you can disable push notifications by turning them off for App you are using within the “Notifications Center” under the “Settings” menu; you may disable location information for an App by going to “Settings,” “Privacy,” and then “Location Services,” and turning off sharing for the particular App. For Android users, you can turn off these notifications through the Menu settings within our App. 
 
-We invite you to post content to our Sites and Apps, including your comments, pictures, and reviews. Any content you post may be available to all Site visitors and App users, and we cannot prevent such information from being used in a manner that violates this Policy, the law, or your personal privacy. 
+Thank you for considering this request! We invite you to post content to our Sites and Apps, including your comments, pictures, and reviews. Any content you post may be available to all Site visitors and App users, and we cannot prevent such information from being used in a manner that violates this Policy, the law, or your personal privacy. By responding to our request with a hashtag supplied by one of one of our brands or subsidiaries, or by uploading content to our websites, mobile sites, or social media sites (“Website”), you are making a Submission (as defined below) to FOCUS Brands Inc.. and/or its direct and indirect affiliates and subsidiaries (collectively, “Focus”, “Focus Brands”, "Carvel”, “Cinnabon”, “McAlister’s”, “Moe’s”, “Schlotzsky’s”, “Auntie Anne’s”, "we," or "us") and you agree to the following Terms and Conditions. 
+
+The Website allows you or us to upload photographs, posts from social media sites, and other content (“Submission”). If your Submission is selected by Focus Brands, it may be displayed or appear on the Website or in other marketing, advertising or promotions together with your name and other identifying information provided, including without limitation any social media identifier, handle or profile picture. 
+
+You hereby grant us a nonexclusive, royalty-free, worldwide, perpetual, transferable, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, sell, assign, translate, create derivative works from, distribute and display any Submission in whole or in part, as well as your name and other identifying information, including without limitation any social media identifier, handle, profile picture, image, likeness, posts, statements or other information available or provided by you, in any form, media, or technology, whether now known or hereafter developed in connection with Focus Brands marketing, advertising and promotional activities referred to above.
+
+By making or agreeing to a Submission, you promise the following:
+
+  * that if children are depicted in the Submission, you are the parent/guardian with legal responsibility of any minors depicted in the Submission;
+  * that you own or otherwise control the rights to your Submission and any and all elements thereof;
+  * that you have the rights from any and all third parties appearing in such Submission to use their names, images or likenesses and any other third party-owned elements as necessary in and as part of your Submission; and
+  * that your Submission does not infringe or violate the rights of any third parties, including, but not limited to, intellectual property rights, copyrights, trademarks, rights of publicity/privacy, patent, trade secret or confidentiality obligations.
+
+
+
+You acknowledge that Focus Brands is not responsible for, and has no liability for, any use of all or any part of a Submission. You agree to hold harmless and release Focus Brands, along with its respective officers, directors, employees, agents, assigns, affiliates and subsidiaries, licensees and successors, from any and all claims, demands, or causes of action (collectively “claims”) that you or your heirs, representatives, executors, administrators, or any other persons acting on your behalf or on behalf of your estate have or may have, whether now or in in the future, relating to the use of your Submission, including without limitation, any claims of defamation, invasion of privacy, rights of publicity or copyright, or any other right you may have.
+
+Focus Brands reserves the right, at its sole discretion, to edit any Submission and to choose to include, not include or remove such Submission from its Website or in any other materials where the Submission may appear. 
 
 Our Site may include social media features and widgets, such as the Facebook Like button and the “Share this” button, as well as other interactive mini-programs that run on our Site. These features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the feature to function properly. These features are displayed on our Site, but are hosted by third parties, and are subject to their own privacy policies, not this one. Your interactions with these features are governed by the privacy policy of the company providing them. 
 
