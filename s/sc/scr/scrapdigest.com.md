@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scrapdigest.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121002033id_/http%3A//www.scrapdigest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrapdigest.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617093630id_/http%3A//www.scrapdigest.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Scrap Digest
+# Privacy Policy - ScrapDigest.Com
 
 **  
 ****PRIVACY POLICY**
