@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartusa.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222051940id_/http%3A//www.mbusa.com/mercedes/policies/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartusa.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617124153id_/https%3A//www.mbusa.com/mercedes/policies/privacy_statement) for the most accurate reproduction.*
 
 # Mercedes-Benz USA
 
