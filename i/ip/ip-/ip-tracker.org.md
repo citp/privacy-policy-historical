@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the ip-tracker.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013014id_/http%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-tracker.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617095541id_/http%3A//www.ip-tracker.org/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | IP-Tracker.org
+
+At IP-Tracker.org, we recognize that privacy of our visitors and your personal information is very important. Here is information on what types of personal information we receive and collect when you use and visit IP-Tracker.org, and how we safeguard your information. We never share your personal information with anyone and never sell your personal information to third parties. 
+
+## Website Visitors And Log Files, Cookies and Web Beacons
+
+As with most other websites, IP-Tracker.org collect and may use the data from website visitors contained in log files. The information in the log files include your IP address, your ISP, your Organization, language setting, referring website, the web browser you used to visit IP-Tracker.org (such as Chrome, Internet Explorer, Firefox or any other web based browser), the time you visited our site and which pages you visited throughout our site. 
 
 ### Cookies
 
