@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624194559id_/http%3A//www.expresspros.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617235948id_/https%3A//www.expresspros.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,10 +52,12 @@ If you wish to change or delete your registration information or opt-out of any 
 If you have any questions or complaints regarding our personal information handling practices and policies, please contact our Express Employment Professionals International Headquarters.
 
 Express Employment Professionals  
-9701 N Boardwalk Boulevard  
+9701 Boardwalk Blvd.   
 Oklahoma City, OK 73162  
 (405) 840-5000  
-Fax: 1(405) 717-5516  
+Fax: 1 (405) 717-5516  
 [Email the Webmaster](mailto:webmaster@expresspros.com "Email the Webmaster")
 
 We will address your concern and attempt to resolve any problem.
+
+[Website Terms and Conditions](https://www.expresspros.com/Website-Terms-and-Conditions.aspx "Website Terms and Conditions")
