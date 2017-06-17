@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vixendaily.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045917id_/http%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vixendaily.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617125516id_/http%3A//www.vixendaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ Clear GIFs can “work with” existing cookies on a computer if they are both f
 
 ## How do we store your email information?
 
-Your email information (email address, first name) is stored at the list server that delivers Vixen Daily’s newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Vixen Daily’s newsletters.
+Your email information (email address, first name) is stored at the list server that delivers Vixen Daily’s newsletters. Your information can only be accessed by those who help manage those lists in order to deliver email to those who would like to receive Vixen Daily’s newsletters.
 
 All of the newsletters that are sent to you by Vixen Daily include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link.
 
@@ -66,4 +66,4 @@ You may unsubscribe from our email newsletters at any time. You can do so by cli
 
 ## Disclaimer
 
-This policy may be changed at any time at Vixen Daily’s discretion. If we should update this policy, we will post the updates to this page on our website. This policy was revised February 3, 2015.
+This policy may be changed at any time at Vixen Daily’s discretion. If we should update this policy, we will post the updates to this page on our website. This policy was revised January 1, 2017.
