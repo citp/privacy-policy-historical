@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oinkandstuff.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123035805id_/http%3A//www.oinkandstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oinkandstuff.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617113221id_/http%3A//www.oinkandstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OinkAndStuff
 
@@ -6,23 +6,23 @@
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-### **OinkAndStuff Extensions**
+### **OinkAndStuff Apps/Extensions**
 
-OinkAndStuff extensions are free to use.
+OinkAndStuff apps/extensions are free to use.
 
-The premium features and paid Extensions (after trial period) have a priority in developments for bugfixes and so far they remain working after 1 year of deployment. We deploy our best efforts for keeping them working. The in-app, upfront and subscriptions payments are handled by Google™ Wallet and Google™ Identity Service for the best Security and User Experience.
+The premium features and paid Apps/Extensions (after trial period) have a priority in developments for bugfixes and so far they remain working after 1 year of deployment. We deploy our best efforts for keeping them working. The in-app, upfront and subscriptions payments are handled by Google™ Wallet and Google™ Identity Service for the best Security and User Experience.
 
-We are not responsible for any bad behavior that users can make with our Apps. We are not responsible for the content of our Apps and we are not related to any of the company’s for who we provide our Apps. We are independent and don’t have any relation to those company’s. We provide a better experience for users with our Extension.
+We are not responsible for any bad behavior that users can make with our Apps/Extensions. We are not responsible for the content of our Apps/Extensions and we are not related to any of the company’s for who we provide our Apps/Extensions. We are independent and don’t have any relation to those company’s. We provide a better experience for users with our Apps/Extension.
 
-We don’t store or access any private information or payment information or any login data in any of our Extensions.
+We don’t store or access any user private information or payment information or any login data in any of our Apps/Extensions.
 
-We don’t inject Ads or analyse user Web Browsing activity or have any scheme with malicious behaviors of any type in any of our extensions.
+We don’t inject Ads or analyse user Web Browsing activity or have any scheme with malicious behaviors of any type in any of our apps/extensions.
 
-The extensions may collect anonymous non-personal information regarding usage in order to help improve the extensions. It’s not user data or user related/personal information.
+The apps/extensions may collect anonymous non-personal information regarding usage in order to help improve the apps/extensions. It’s not user data or user related/personal information.
 
-Our extensions are connected to Google™ Analytics only for statistics about the number of users that use our extensions.
+Our apps/extensions are connected to Google™ Analytics only for statistics about the number of users that use our apps/extensions.
 
-The extensions with in-app, upfront or subscription payments implement the Google™ Apis and Google™ Payments to interact with the Chrome™ Webstore and Google™ Wallet.
+The apps/extensions with in-app, upfront or subscription payments implement the Google™ Apis and Google™ Payments to interact with the Chrome™ Webstore, Google™ Play and Google™ Wallet.
 
 Any of our extensions block Ads or Inject Ads or interfere with provider Ads.
 
