@@ -1,129 +1,90 @@
-> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123202557id_/http%3A//www.photos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photos.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617090343id_/http%3A//www.photos.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Posters, Prints & Wall Art | Photos.com
+# Privacy and Cookie Policy Photos.com
 
-## GETTY IMAGES PRIVACY POLICY
+This privacy policy sets out how this website (hereafter "the Store") uses and protects any information that you give the Store while using this website. The Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-Last updated: April 2016
+## What we collect
 
-Getty Images is committed to protecting your privacy. This privacy policy tells you about our online collection and use of data. The terms of this policy apply to all Getty Images websites, unless different terms are specified in a form or contract provided to you online or offline.
+We may collect the following information:
 
-By using this site, you understand and agree to the terms of this policy. This site is owned by Getty Images and may be accessed in the United States and abroad. For data protection purposes, Getty Images is the controller and, unless otherwise noted, is also the processor of data. Information collected may be retained, and may be stored, processed, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction.
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-###### Collection of Your Personal Information
 
-Getty Images collects certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times. We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site.
 
-We may combine your visit and navigational information with personal information that you provide. You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you. Personal information (e.g., your username and password, your name, your mailing address, email address, and phone number) is collected when you register. Additional personal information (e.g., your credit card number and billing address) is collected to process transactions or to provide you with products and services.
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-Limited demographic information, such as industry you work in, is sometimes collected and may be linked to your personal information.
+## What we do with the information we gather
 
-###### Use of Your Personal Information
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-Getty Images collects and uses your personal information to operate and improve our sites, to process your transactions, to provide customer service, to perform research and analysis aimed at improving our products, services and technologies, and to display content that is customized to your interests and preferences.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-We also use your personal information to communicate with you. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing emails to inform you of new products or services or other information that may be of interest. If you do not wish to receive marketing emails, you may adjust your “Personal Information Preferences” as described below or follow the “unsubscribe” instructions included within each email communication.
 
-Personal information collected by Getty Images may be stored and processed in the United States or any other country in which Getty Images or its affiliates, subsidiaries, contractors or agents maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country. Getty Images complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Getty Images has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. In addition to the Safe Harbor certification, Getty Images confirms that it has in place alternative mechanisms to allow EU-US data transfers. To learn more about the Safe Harbor program, and to view Getty Images’ certification, please visit <http://www.export.gov/safeharbor/>. If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the “Contact Information” below.
 
-###### Sharing of Your Personal Information
+## Security
 
-Except as disclosed in this privacy policy, Getty Images does not share your personal information with any outside parties.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-We may share your personal information within our corporate group, including with our subsidiaries and divisions, all of whom may use your information for the purposes disclosed herein.
+## How we use cookies
 
-We may share your personal information with service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, to provide data storage, to host websites, to fulfill orders and shipments, to assist in direct marketing, to conduct audits, etc. Those companies will be permitted to obtain only the personal information they need to provide the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company. We will notify you of such an occurrence as described in the “Changes to This Privacy Policy” section below.
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-We reserve the right to disclose your personal information if required to do so by law, or in the good-faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-If you license copyrighted photographs of the National Basketball Association, Women’s National Basketball Association, National Basketball Development league or any of their respective affiliates (collectively, the “NBA Parties”), your personal information may be shared with the NBA Parties, their affiliated entities and business partners, and used for their commercial activities, including marketing. Please see the “Personal Information Preferences” section below for instructions on how you can revoke your consent to have your information shared with the NBA Parties.
+## Links to other websites
 
-###### Accessing Your Personal Information
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-If you would like to review or revise information that you previously provided to us, you may access your information in the “My Account” section of the website. Your Account Executive can also assist you in making any changes, as well as in exercising your right to have your personal information deleted. If you need additional assistance, please contact us at [sales@gettyimages.com](mailto:sales@gettyimages.com). You can expect a response from us within 10 calendar days. Please be advised that you cannot change your username without re-registering.
+## Controlling your personal information
 
-###### Personal Information Preferences
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-Getty Images respects your right to make choices about the use and disclosure of your personal information. If at any time you decide that you do not want to receive marketing emails from us, please let us know by: (1) checking or unchecking the appropriate box on your online registration form or the “My Profile” page of the website; (2) contacting your Account Executive; or (3) sending an email to [sales@gettyimages.com](mailto:sales@gettyimages.com).
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by letting us know using our Contact Us information
 
-If you choose not to receive marketing emails, please be advised that you may continue to receive transactional or account emails (e.g., purchase confirmations and account balance statements).
 
-If you are a licensee of copyrighted photographs of the NBA Parties and would like to revoke your consent to have your information shared with the NBA Parties, you may express that preference by contacting your Account Executive or by sending an email to [sales@gettyimages.com](mailto:sales@gettyimages.com).
 
-###### Use of Cookies and Other Technologies
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-Getty Images uses "cookies" to enable you to sign in to our services and to help personalize and improve your online experience. A cookie is a small text file that is placed on your hard drive or device. Cookies contain information, including personal information that can later be read by a web server in the domain that issued the cookie to you. The information that cookies collect includes the date and time of your visit, your registration information, and your navigational and purchase history.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us this request using our Contact Us information.
 
-Cookies offer you many conveniences:
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-1\. They allow us to identify registered users when they return to the site so that they can retrieve previous image search results, access Lightboxes and shopping carts and view their previous invoices.
+## List of cookies we collect
 
-2\. Cookies save you time by eliminating the need to repeatedly enter the same information.
+The table below lists the cookies we collect and what information they store.
 
-3\. Cookies allow us to deliver personalized content to you, including search results and targeted advertising.
-
-4\. Cookies help to protect your security by checking your login details and may help prevent fraud.
-
-5\. Cookies remember your preferences when using the site.
-
-6\. Cookies also identify particular customers in the event such customer would like assistance from a live, online customer service representative.
-
-We strive to make this site user-friendly and relevant. Our goal is to deliver more personalized products and services to you.
-
-For this purpose, Getty Images also works with third-party partners, who use cookies on our site to:
-
-1\. Measure and analyze aggregate usage and volume statistical information from our users on our site. Information gathered may include, but is not limited to the following: activity of the user browser when the user is visiting the site, the site path of users, general information regarding the visitor’s internet service provider and host, and the time users come to the site.
-
-2\. Remember our users’ previous search of products and services, and dynamically display more relevant content to them.
-
-3\. Record users’ behavior on our site, such as pages visited, emails clicked, forms completed and products and services purchased to create customized advertisements and communications that better meet your needs.
-
-4\. Evaluate user traffic and behavior on the site to compile activity reports for our internal use only.
-
-5\. Conduct research and diagnostics to improve our products and services.
-
-6\. Identify users arriving at the site via a referral from an affiliate website or sponsored link.
-
-This privacy policy covers the use of cookies by Getty Images only, and does not cover the use of cookies by third parties. If you would like more information about Internet advertising companies, including how to opt-out of their information collection, please visit [www.networkadvertising.org](http://www.networkadvertising.org/).
-
-In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in e-mail messages or newsletters. These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters.
-
-You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies. Please be aware that the site is optimally designed to operate with cookies enabled in your internet browser. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies. This may negatively impact your experience of the site.
-
-###### Security of Your Personal Information
-
-The security of your personal information is important to us. We follow generally accepted industry standards to help protect your personal information. For instance, when you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer (SSL) technology. No method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
-
-If a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.
-
-###### Forums & Other Interactive Services
-
-Our websites may include discussion forums or other interactive areas or services, including blogs, chat rooms, bulletin boards, message boards, online hosting or storage services, or other areas or services in which you or third parties create, post or store any content, messages, comments, materials or other items on the sites (“Interactive Areas”). If you use an Interactive Area, you should be aware that these areas are open to the public and any personal information you post or provide at registration may be viewable by others. We are not responsible for personal information you submit in connection with the Interactive Areas, nor are we responsible for how others might use that information, including to send you unsolicited messages. Interactive Area postings may be retained indefinitely. If at any time you would like to remove a posting, please email us at [sales@gettyimages.com](mailto:sales@gettyimages.com). Keep in mind that removal of a posting from an Interactive Area does not mean that the posting will be deleted from our systems.
-
-###### Email Referrals
-
-If you choose to use our email referral services to tell a friend about our products or services (including images in your Lightbox, promotional campaigns, new websites, job postings, etc.), we will ask you for your friend’s name and email address. We will use that information to send your friend a one-time email inviting him or her to visit the site and review the product or service you have selected. We may use a third-party provider to administer this function, but any such third party provider may only use the information submitted to facilitate this one-time email. Neither Getty Images nor any third-party provider stores this information after the email is sent.
-
-###### Children
-
-We do not intend to solicit or collect personal information from anyone under the age of 18. If you are under 18, you should not use or enter information on this site, including without limitation, any Interactive Areas of the site.
-
-###### Links
-
-We may link to websites, including those of our third-party content providers, that have different privacy policies and practices from those disclosed here. We assume no responsibility for the policies or practices of such linked sites, and encourage you to become acquainted with them prior to use.
-
-###### DMA
-
-If you have questions or concerns regarding this privacy policy, you should first contact Getty Images (using the Contact Information below). If you do not receive acknowledgement of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact the Direct Marketing Association by e-mail at "[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)", by mail at "Safe Harbor Line, Direct Marketing Association, 1615 L Street, NW - Suite 1100, Washington, DC 20036", or by phone at 202-861-2410.
-
-###### Changes to This Privacy Policy
-
-We reserve the right to change the terms of this privacy policy at any time. When we make changes, we will revise the “last updated” date at the top of the policy. If there are material changes to this statement or in how Getty Images will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email. We encourage you to review this policy whenever you visit one of our sites.
-
-###### Contact Information
-
-You can contact Getty Images Sales by emailing [sales@gettyimages.com](mailto:sales@gettyimages.com) or by phone at 206-925-5000, or by postal mail at Getty Images, Inc., Sales, 605 5th Avenue South, Suite 400, Seattle, WA 98104.
-
-© 1999-2016 Getty Images, Inc. All rights reserved. Privacy Policy.
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FORM_KEY | Stores form key used by page cache functionality.  
+FRONTEND | Your session ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wish List.  
+WISHLIST_CNT | The number of items in your Wish List.
