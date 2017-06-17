@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osboxes.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128092213id_/http%3A//www.osboxes.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osboxes.org privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617220032id_/http%3A//www.osboxes.org/privacy-policy) for the most accurate reproduction.*
 
 # OSboxes Privacy Policy
 
@@ -26,4 +26,4 @@ However, this step will affect your browser interaction with our website as well
 
 **Commenting Policy:**
 
-Visitor should not abuse anyone or defame any product on our site. We may delete your comment, if found offended. Be nice, polite, respective and so on. 
+Visitor should not abuse anyone or defame any product on our site. We may delete your comment, if found offended. Be nice, polite, respective and so on. 🙂
