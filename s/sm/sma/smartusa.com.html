@@ -1,21 +1,19 @@
-<!--The following is the downloaded HTML source of the smartusa.com privacy policy that was archived on 2016-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161222051940id_/http%3A//www.mbusa.com/mercedes/policies/privacy_statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartusa.com privacy policy that was archived on 2017-06-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170617124153id_/https%3A//www.mbusa.com/mercedes/policies/privacy_statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="Content-Style-Type" content="text/css">
     <meta http-equiv="imagetoolbar" content="no">
     <meta name="format-detection" content="telephone=no">
-    <meta name="Site-Version" content="mbusa-PROD-web-release1697C-2016-12-20-15-19-58.root-r58946">
+    <meta name="Site-Version" content="mbusa-PROD-web-release1737M-2017-06-15-16-38-42.root-r63526">
     <meta name="keywords" content="">
     <meta name="description" content="">
-    <meta name="viewport" content="width=1200">
-
     
+            <meta name="viewport" content="width=1200">
+        
 
-
-	<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//assets.adobedtm.com/55e1e35f18c239832121dd49fa8c21f1b8fb1a68/satelliteLib-54621fba3d84cbaefe309be9701c5c9ff3eb4d71.js"></script>
-
+    <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//assets.adobedtm.com/55e1e35f18c239832121dd49fa8c21f1b8fb1a68/satelliteLib-54621fba3d84cbaefe309be9701c5c9ff3eb4d71.js"></script>
 
     <meta property="og:site_name" content="Mercedes-Benz USA">
 <meta property="og:type" content="product">
@@ -112,14 +110,13 @@
 
 
 
+    
 
 </head>
 
 
 
 <body class="policies ">
-
-
     <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
 
     
@@ -139,18 +136,23 @@
 
 <header>
     <nav id="top">
-        <div class="liquid-wrapper">
+        <div class="liquid-wrapper global-header-wrapper">
             <div class="search-form">
                 <div class="dealers-inventory">
                     <div class="container-dealers-inventory">
                         <span class="error-msg">Invalid city and state.</span>
                         <form name="header-dealer-locator-form" class="dealer-locator-form" action="/mercedes/dealers/locator?radius=25&amp;expandRadius=true&amp;searchType=byZip" method="get">
                             
-                            <a class="dealers_Inventory" href="/mercedes/dealers/locator">Dealers &amp; Inventory</a>
+                            <div class="dealers-input-labels">
+                                <span class="global-svg icon-pin"></span>
+                                <span class="dealers_Inventory">Find Dealers &amp; Inventory</span>
+                            </div>
                             
                             <div class="dealers-input-container">
 								<span class="input-container">
-	                            	<input class="input-zip pie" name="zip" type="text" placeholder="Enter Zip Code or City, State">
+                                    <span class="input-container-inner">
+	                            	    <input class="input-zip pie" name="zip" type="text" placeholder="Enter Zip Code or City, State">
+                                    </span>
 								</span>
 	                            <button class="find-a-dealer-cta" type="submit">›</button>
                             </div>
@@ -158,6 +160,76 @@
                     </div>
                 </div>
             </div>
+            
+
+
+
+
+
+
+
+<script type="text/javascript">
+    function getCookie(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        var i = 0;
+        for (; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) === 0) {
+                return c.substring(name.length,c.length);
+            }
+        }
+        return "";
+    }
+    
+    function getPrefix() {
+        var prefix = '',
+            cookieStr = getCookie('mbusa_profile_info');
+        cookieStr = cookieStr.split(',');
+        if (!!cookieStr) {
+            var obj = {},
+                i = 0,
+                len = cookieStr.length;
+            for (; i < len; i++) {
+                var vals = cookieStr[i].split('|');
+                obj[vals[0]] = decodeURIComponent(vals[1]);
+            }
+            prefix = obj.prefix;
+        }
+        return prefix;
+    }
+    
+    window.profileAuthSettings = {
+        profileLoginUrl         : '/ciam/authenticate/web',
+        profileRegistrationUrl  : '/ciam/register/web',
+        profileLogoutUrl        : 'https://api.secure.mercedes-benz.com/ciam/logout?client_id=ca150b34-a859-4de1-b6a4-54e64413d526&post_logout_redirect_uri=https://www.mbusa.com/mercedes/ciam/logoutSuccess',
+        ciamBaseUrl             : 'https://login.secure.mercedes-benz.com',
+        ciamAppId               : 'MBUSA.MBUSAPRD',
+        mercedesMeBaseUrl       : '../mercedesme/index',
+        googleReCaptchaSiteKey  : '6Le62RUTAAAAANcpQyBA0YkwRe-qqAJsQHkURXNh',
+        contextPath             : '/mercedes',
+        linkPrepend             : ''
+    };
+        
+    window._dtm = {
+        context                 : window.location.host.split('.')[0] + '.mbusa.com',
+        ciam_id                 : getCookie('mbusa_hashed'),
+        preferredDealerId       : getCookie('dealerCode'),
+        name_prefix             : getPrefix()
+    };
+</script>
+<div class="header-profile-wrapper">
+    <div class="logged-in-false">
+        <span class="log-in-links">
+            <a href="/mercedes/ciam/authenticate/web" class="log-in-link" data-action="auth-action" data-action-type="login">Log In</a>
+            <a href="/mercedes/ciam/register/web" class="register-link" data-action="auth-action" data-action-type="register">Register</a>
+        </span>
+    </div>
+</div>
+<script type="text/javascript" src="/mercedes/js/responsive/mb/accountProfileHeaderInit.js"></script>
         </div>
     </nav>
     <nav id="main-faux">
@@ -235,6 +307,7 @@
     				<li><a href="/mercedes/vehicles/model/class-E/model-E300W" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:E_SDN:E300W" class=" track-click ">E300 Sedan</a></li>
     				<li><a href="/mercedes/vehicles/model/class-E/model-E300W4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:E_SDN:E300W4" class=" track-click ">E300 4MATIC Sedan</a></li>
     				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-E/model-E43W4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:E_SDN:E43W4" class=" track-click ">AMG E43 Sedan</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-E/model-E63W4S" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:E_SDN:E63W4S" class=" track-click ">AMG E63 S Sedan</a></li>
     				
     			</ul>
     		</li>
@@ -292,19 +365,18 @@
 
 
 <li class="vehicle-item-container " data-class="E" data-bodystyle="WGN">
-  <a href="/mercedes/vehicles/class/class-E/bodystyle-WGN" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:E_WGN|type-Floodlight/src-3990485/fl_type-model552/cat-mbu_e906" class="header-item  track-click "><img src="" alt="2014-E-CLASS-WAGON-EXTERIRO-ND.jpg" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2014/TopNav/2014-E-CLASS-WAGON-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2014/TopNav/2014-E-CLASS-WAGON-GLOBALNAV-DR.png">
+  <a href="/mercedes/vehicles/class/class-E/bodystyle-WGN" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:E_WGN|type-Floodlight/src-3990485/fl_type-model552/cat-mbu_e906" class="header-item  track-click "><img src="" alt="2017-E-E400-LUXURY-WAGON-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2017/TopNav/2017-E-E400-LUXURY-WAGON-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2017/TopNav/2017-E-E400-LUXURY-WAGON-GLOBALNAV-DR.png">
 		<span class="name-style">E-Class Wagon</span>
-		<span class="starting">Starting at $59,900*</span>
+		<span class="starting">Starting at $62,300*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
-		<a href="/mercedes/vehicles/class/build/class-E/bodystyle-WGN" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Build/label-Global Nav:Vehicles:Build:E_WGN" class=" track-click ">Build</a></li>
+		<a href="/mercedes/vehicles/build/class-E/model-E400S4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Build/label-Global Nav:Vehicles:Build:E_WGN" class=" track-click ">Build</a></li>
 
         
     		<li class="models"><a href="#"><span>Models</span></a>
     			<ul class="sub-models">
-    				<li><a href="/mercedes/vehicles/model/class-E/model-E350S4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:E_WGN:E350S4" class=" track-click ">E350 4MATIC Wagon</a></li>
-    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-E/model-E63S4S" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:E_WGN:E63S4S" class=" track-click ">AMG E63 S Wagon</a></li>
+    				<li><a href="/mercedes/vehicles/model/class-E/model-E400S4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:E_WGN:E400S4" class=" track-click ">E400 4MATIC Wagon</a></li>
     				
     			</ul>
     		</li>
@@ -330,7 +402,7 @@
 <li class="vehicle-item-container " data-class="CLA" data-bodystyle="CPE">
   <a href="/mercedes/vehicles/class/class-CLA/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:CLA_CPE" class="header-item  track-click "><img src="" alt="2014-CLA-CLASS-COUPE-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2014/TopNav/2014-CLA-CLASS-COUPE-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2014/TopNav/2014-CLA-CLASS-COUPE-GLOBALNAV-DR.png">
 		<span class="name-style">CLA Coupe</span>
-		<span class="starting">Starting at $32,400*</span>
+		<span class="starting">Starting at $32,700*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
@@ -339,9 +411,9 @@
         
     		<li class="models"><a href="#"><span>Models</span></a>
     			<ul class="sub-models">
-    				<li><a href="/mercedes/vehicles/model/class-CLA/model-CLA250C" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:CLA_CPE:CLA250C" class=" track-click ">CLA250 Coupe</a></li>
-    				<li><a href="/mercedes/vehicles/model/class-CLA/model-CLA250C4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:CLA_CPE:CLA250C4" class=" track-click ">CLA250 4MATIC Coupe</a></li>
-    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-CLA/model-CLA45C4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:CLA_CPE:CLA45C4" class=" track-click ">AMG CLA45 Coupe</a></li>
+    				<li><a href="/mercedes/vehicles/model/class-CLA/model-CLA250C" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:CLA_CPE:CLA250C" class=" track-click ">CLA 250 Coupe</a></li>
+    				<li><a href="/mercedes/vehicles/model/class-CLA/model-CLA250C4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:CLA_CPE:CLA250C4" class=" track-click ">CLA 250 4MATIC Coupe</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-CLA/model-CLA45C4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:CLA_CPE:CLA45C4" class=" track-click ">AMG CLA 45 Coupe</a></li>
     				
     			</ul>
     		</li>
@@ -401,7 +473,7 @@
 <li class="vehicle-item-container " data-class="CLS" data-bodystyle="CPE">
   <a href="/mercedes/vehicles/class/class-CLS/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:CLS_CPE|type-Floodlight/src-3990485/fl_type-model552/cat-mbu_c485" class="header-item  track-click "><img src="" alt="2015-CLS400-SEDAN-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-CLS400-SEDAN-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-CLS400-SEDAN-GLOBALNAV-DR.png">
 		<span class="name-style">CLS Coupe</span>
-		<span class="starting">Starting at $66,900*</span>
+		<span class="starting">Starting at $67,550*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
@@ -426,7 +498,7 @@
 <li class="vehicle-item-container " data-class="S" data-bodystyle="CPE">
   <a href="/mercedes/vehicles/class/class-S/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:S_CPE" class="header-item  track-click "><img src="" alt="2015-S-CLASS-COUPE-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-S-CLASS-COUPE-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-S-CLASS-COUPE-GLOBALNAV-DR.png">
 		<span class="name-style">S-Class Coupe</span>
-		<span class="starting">Starting at $121,550*</span>
+		<span class="starting">Starting at $122,750*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
@@ -446,20 +518,21 @@
 </li>
 
 
-<li class="vehicle-item-container " data-class="GTS" data-bodystyle="CPE">
-  <a href="/mercedes/vehicles/class/class-GTS/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GTS_CPE" class="header-item  track-click "><img src="" alt="2016-AMG-GTS-CLASS-COUPE-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2016-AMG-GTS-CLASS-COUPE-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2016-AMG-GTS-CLASS-COUPE-GLOBALNAV-DR.png">
+<li class="vehicle-item-container " data-class="GT" data-bodystyle="CPE">
+  <a href="/mercedes/vehicles/class/class-GT/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GT_CPE" class="header-item  track-click "><img src="" alt="2018-AMG-GT-COUPE-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2018/TopNav/2018-AMG-GT-COUPE-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2018/TopNav/2018-AMG-GT-COUPE-GLOBALNAV-DR.png">
 		<span class="name-style">Mercedes-AMG GT</span>
-		<span class="starting">Starting at $111,200*</span>
+		<span class="starting">Starting at $112,400*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
-		<a href="/mercedes/vehicles/class/build/class-GTS/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Build/label-Global Nav:Vehicles:Build:GTS_CPE" class=" track-click ">Build</a></li>
+		<a href="/mercedes/vehicles/class/build/class-GT/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Build/label-Global Nav:Vehicles:Build:GT_CPE" class=" track-click ">Build</a></li>
 
         
     		<li class="models"><a href="#"><span>Models</span></a>
     			<ul class="sub-models">
-    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GTS/model-GT" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GTS_CPE:GT" class=" track-click ">AMG GT</a></li>
-    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GTS/model-GTS" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GTS_CPE:GTS" class=" track-click ">AMG GT S</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GT/model-GT" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GT_CPE:GT" class=" track-click ">AMG GT Coupe</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GT/model-GTS" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GT_CPE:GTS" class=" track-click ">AMG GT S Coupe</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GT/model-GTR" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GT_CPE:GTR" class=" track-click ">AMG GT R Coupe</a></li>
     				
     			</ul>
     		</li>
@@ -483,9 +556,9 @@
                                         
 
 <li class="vehicle-item-container " data-class="GLA" data-bodystyle="SUV">
-  <a href="/mercedes/vehicles/class/class-GLA/bodystyle-SUV" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GLA_SUV" class="header-item  track-click "><img src="" alt="2015-GLA-CLASS-SUV-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-GLA-CLASS-SUV-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-GLA-CLASS-SUV-GLOBALNAV-DR.png">
+  <a href="/mercedes/vehicles/class/class-GLA/bodystyle-SUV" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GLA_SUV" class="header-item  track-click "><img src="" alt="2018-GLA250-SUV-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2018/TopNav/2018-GLA250-SUV-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2018/TopNav/2018-GLA250-SUV-GLOBALNAV-DR.png">
 		<span class="name-style">GLA SUV</span>
-		<span class="starting">Starting at $32,850*</span>
+		<span class="starting">Starting at $33,400*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
@@ -494,9 +567,9 @@
         
     		<li class="models"><a href="#"><span>Models</span></a>
     			<ul class="sub-models">
-    				<li><a href="/mercedes/vehicles/model/class-GLA/model-GLA250W" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLA_SUV:GLA250W" class=" track-click ">GLA250 SUV</a></li>
-    				<li><a href="/mercedes/vehicles/model/class-GLA/model-GLA250W4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLA_SUV:GLA250W4" class=" track-click ">GLA250 4MATIC SUV</a></li>
-    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GLA/model-GLA45W4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLA_SUV:GLA45W4" class=" track-click ">AMG GLA45 SUV</a></li>
+    				<li><a href="/mercedes/vehicles/model/class-GLA/model-GLA250W" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLA_SUV:GLA250W" class=" track-click ">GLA 250 SUV</a></li>
+    				<li><a href="/mercedes/vehicles/model/class-GLA/model-GLA250W4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLA_SUV:GLA250W4" class=" track-click ">GLA 250 4MATIC SUV</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GLA/model-GLA45W4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLA_SUV:GLA45W4" class=" track-click ">AMG GLA 45 SUV</a></li>
     				
     			</ul>
     		</li>
@@ -529,18 +602,19 @@
 
 
 <li class="vehicle-item-container " data-class="GLC" data-bodystyle="CPE">
-  <a href="/mercedes/vehicles/class/class-GLC/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GLC_CPE" class="header-item  track-click "><img src="" alt="2017-GLC300-COUPE-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2017/TopNav/2017-GLC300-COUPE-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2017/TopNav/2017-GLC300-COUPE-GLOBALNAV-DR.png">
+  <a href="/mercedes/vehicles/class/class-GLC/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GLC_CPE" class="header-item  track-click "><img src="" alt="2016-GLE-CLASS-GLE450-COUPE-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2016/TopNav/2016-GLE-CLASS-GLE450-COUPE-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2016/TopNav/2016-GLE-CLASS-GLE450-COUPE-GLOBALNAV-DR.png">
 		<span class="name-style">GLC Coupe</span>
 		<span class="starting">Starting at $45,950*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
-		<a href="/mercedes/vehicles/build/class-GLC/model-GLC300C4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Build/label-Global Nav:Vehicles:Build:GLC_CPE" class=" track-click ">Build</a></li>
+		<a href="/mercedes/vehicles/class/build/class-GLC/bodystyle-CPE" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Build/label-Global Nav:Vehicles:Build:GLC_CPE" class=" track-click ">Build</a></li>
 
         
     		<li class="models"><a href="#"><span>Models</span></a>
     			<ul class="sub-models">
     				<li><a href="/mercedes/vehicles/model/class-GLC/model-GLC300C4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLC_CPE:GLC300C4" class=" track-click ">GLC300 4MATIC Coupe</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GLC/model-GLC43C4" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GLC_CPE:GLC43C4" class=" track-click ">AMG GLC43 Coupe</a></li>
     				
     			</ul>
     		</li>
@@ -600,7 +674,7 @@
 <li class="vehicle-item-container " data-class="GLS" data-bodystyle="SUV">
   <a href="/mercedes/vehicles/class/class-GLS/bodystyle-SUV" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GLS_SUV" class="header-item  track-click "><img src="" alt="2014-GL-CLASS-SUV-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2014/TopNav/2014-GL-CLASS-SUV-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2014/TopNav/2014-GL-CLASS-SUV-GLOBALNAV-DR.png">
 		<span class="name-style">GLS SUV</span>
-		<span class="starting">Starting at $67,050*</span>
+		<span class="starting">Starting at $68,700*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
@@ -772,6 +846,28 @@
 	</ul>
 </li>
 
+
+<li class="vehicle-item-container " data-class="GT" data-bodystyle="RDS">
+  <a href="/mercedes/vehicles/class/class-GT/bodystyle-RDS" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:GT_RDS" class="header-item  track-click "><img src="" alt="2018-AMG-GT-ROADSTER-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2018/TopNav/2018-AMG-GT-ROADSTER-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2018/TopNav/2018-AMG-GT-ROADSTER-GLOBALNAV-DR.png">
+		<span class="name-style">Mercedes-AMG GT</span>
+		<span class="starting">Starting at: $124,400*</span>
+		<span class="explore">Explore</span></a>
+	<ul class="vehicle-nav-links">
+		<li>
+		<a href="/mercedes/vehicles/class/build/class-GT/bodystyle-RDS" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Build/label-Global Nav:Vehicles:Build:GT_RDS" class=" track-click ">Build</a></li>
+
+        
+    		<li class="models"><a href="#"><span>Models</span></a>
+    			<ul class="sub-models">
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GT/model-GTA" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GT_RDS:GTA" class=" track-click ">AMG GT Roadster</a></li>
+    				<li class="model-dropdown-amg"><a href="/mercedes/vehicles/model/class-GT/model-GTCA" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Models:Select/label-Global Nav:Vehicles:Models:Select:GT_RDS:GTCA" class=" track-click ">AMG GT C Roadster</a></li>
+    				
+    			</ul>
+    		</li>
+        
+	</ul>
+</li>
+
                                     </ul>
                                 </div>
                                 <a href="#" class="arrow-prev"><span>Prev</span></a>
@@ -811,7 +907,7 @@
 <li class="vehicle-item-container " data-class="C" data-bodystyle="SDN">
   <a href="/mercedes/vehicles/class/class-C/bodystyle-SDN" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Vehicles:Explore/label-Global Nav:Vehicles:Explore:C_SDN|type-Floodlight/src-3990485/fl_type-model552/cat-mbu_c537" class="header-item  track-click "><img src="" alt="2015-C-CLASS-SEDAN-GLOBALNAV-D.png" class="responsiveImage lazy" data-responsive="w:480,s:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-C-CLASS-SEDAN-GLOBALNAV-D.png,sr:https://assets.mbusa.com/vcm/MB/DigitalAssets/Vehicles/2015/TopNav/2015-C-CLASS-SEDAN-GLOBALNAV-DR.png">
 		<span class="name-style">C-Class Sedan</span>
-		<span class="starting">Starting at $45,490*</span>
+		<span class="starting">Starting at $46,050*</span>
 		<span class="explore">Explore</span></a>
 	<ul class="vehicle-nav-links">
 		<li>
@@ -900,21 +996,15 @@
     
     <ul class="liquid-wrapper shop-tools-subnav">
         
-
                 <li class="estimate"><a href="/mercedes/portfolio/payment_estimators" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Shopping:Estimate Payment" target="_parent" class=" track-click " data-tracking-key="estimate_payment"><span class="icon"></span><span class="text">Estimate a Payment</span></a></li>
             
-
                 <li class="request"><a href="/mercedes/contact_us/request_a_quote" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Shopping:Request Quote" target="_parent" class=" track-click " data-tracking-key="request_a_quote"><span class="icon"></span><span class="text">Request a Quote</span></a></li>
             
-
                 <li class="schedule"><a href="/mercedes/contact_us/dealer_test_drive" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Shopping:Schedule Test Drive" target="_parent" class=" track-click " data-tracking-key="schedule_a_test_drive"><span class="icon"></span><span class="text">Schedule a Test Drive</span></a></li>
             
-
                 <li class="credit"><a href="https://www.mbfs.com/mbfsr/en/apply/applyHome.do?RequestFrom=Regular&amp;utm_campaign=mbusa_sites&amp;utm_source=mbusa.com&amp;utm_medium=referral" rel="type-GA/trackType-_trackEvent/category-Global Nav/action-Global Nav:Shopping:Apply For Credit|type-Floodlight/src-3990485/fl_type-apply259/cat-mbu_a618" target="_blank" class=" track-click " data-tracking-key="apply_for_credit"><span class="icon"></span><span class="text">Apply for Credit</span></a></li>
             
-
                 <li class="trade"><a href="/mercedes/trade_in_value" class=""><span class="icon"></span><span class="text">Trade-In Value</span></a></li>
-
             
 
     </ul>
@@ -975,6 +1065,10 @@
     <div id="content">
         
         
+		<script>
+			var isVariant=false;
+		</script>
+	
 
 
 
@@ -1173,7 +1267,7 @@
             
         ]
     </div>
-    <div class="pp-amg-models">[C63, C63P, C63C, CLA45C4, CLS63, CLS63P, CLS63C4S, E63, E63P, E63SP, E63W4S, E63S4S, GLA45W4, GLE450C4, GLE63C4S, GLE63W4, GLE63W4S, G63, GTS, S63V4, S65V, S63C4, S65C, SL63, SL65, C450W4, C63W, C63WS, G63W4, G65W4, GLS63W4, C63C, C63CS, SLC43R, S63A4, SL63R, SL65R, GT, GLE43C4, S65A, C43C4, GLC43W4, C43W4, C63A, C63AS, C43A4, E43W4, GLE43W4]</div>
+    <div class="pp-amg-models">[C63, C63P, C63C, CLA45C4, CLS63, CLS63P, CLS63C4S, E63, E63P, E63SP, E63W4S, E63S4S, GLA45W4, GLE450C4, GLE63C4S, GLE63W4, GLE63W4S, G63, GTS, S63V4, S65V, S63C4, S65C, SL63, SL65, C450W4, C63W, C63WS, G63W4, G65W4, GLS63W4, C63C, C63CS, SLC43R, S63A4, SL63R, SL65R, GT, GLE43C4, S65A, C43C4, GLC43W4, C43W4, C63A, C63AS, C43A4, E43W4, GLE43W4, GLC43C4, GTR, GTA, GTCA]</div>
     <div class="pp-combine-minify">true</div>
     <div class="pp-mbfinancialUrl">https://www.mbfs.com</div>
     
@@ -1209,7 +1303,7 @@
          
          <li><a href="/mercedes/policies/mercedes_me_app" class="">Mercedes me App</a></li>
          
-         <li><a href="http://mbrace.mbusa.com/legal-page.htm" target="_blank" class="">mbrace</a></li>
+         <li><a href="/mercedes/policies/mbrace" class="">mbrace</a></li>
      </ul>
  </div>
  
@@ -1221,10 +1315,10 @@
 
 
 
-<div id="footer" class="clearer">
-    <div class="ft-wrap">
-   
-        
+	<div id="footer" class="clearer">
+	    <div class="ft-wrap">
+	   
+	        
 
 
 
@@ -2199,14 +2293,14 @@
        </ul>
      
 
-
-    </div>
-    <div class="ft-comp-wrap">
-    
-		<!-- ESM signup module -->
-		<div class="esm-signup-wrapper">
-		    <h3>Stay up to date</h3>
-		    
+	
+	    </div>
+	    <div class="ft-comp-wrap">
+	    
+			<!-- ESM signup module -->
+			<div class="esm-signup-wrapper">
+			    <h3>Stay up to date</h3>
+			    
 <div class="esm-signup">
 	<span class="esm-signup-prompt">Receive the latest news, special offers and exclusives.</span>
 	<div class="esm-form-controls" id="esm-subscribe-start">
@@ -2239,32 +2333,32 @@
 			<div class="esm-category">
 				<input id="newsletterCategories[0].optIn" type="checkbox" checked="true" value="I" name="newsletterCategories[0].optIn">
 				<div class="esm-cat-details">
-					<label for="newsletterCategories[0].optIn">Exclusive Events                        </label>
-					<span>Insider updates on Mercedes-Benz Fashion Week, Sports and more</span>
+					<label for="newsletterCategories[0].optIn">Events &amp; Sweepstakes                    </label>
+					<span>Updates on upcoming auto shows, sweepstakes, and local offerings</span>
 				</div>
 				<a href="https://assets.mbusa.com/vcm/MB/DigitalAssets/esm/sample_EXE.jpg" ga="trackType-_trackEvent/category-virtual page/action-click/label-sample" target="_blank" class="blue-carat faux-view-sample-link  track-ga-event ">View Sample</a>
 			</div>
-			<div class="optin-init" id="EXE" checked="true" value="I">Exclusive Events</div>
+			<div class="optin-init" id="EXE" checked="true" value="I">Events &amp; Sweepstakes</div>
 		
 			<div class="esm-category">
 				<input id="newsletterCategories[1].optIn" type="checkbox" checked="true" value="I" name="newsletterCategories[1].optIn">
 				<div class="esm-cat-details">
-					<label for="newsletterCategories[1].optIn">Newsletters                             </label>
-					<span>InRoads newsletter, vehicle launches, product innovations and more</span>
+					<label for="newsletterCategories[1].optIn">InRoads Newsletter                      </label>
+					<span>Updates on vehicle launches, product innovations, and more</span>
 				</div>
 				<a href="https://assets.mbusa.com/vcm/MB/DigitalAssets/esm/sample_NWS.jpg" ga="trackType-_trackEvent/category-virtual page/action-click/label-sample" target="_blank" class="blue-carat faux-view-sample-link  track-ga-event ">View Sample</a>
 			</div>
-			<div class="optin-init" id="NWS" checked="true" value="I">Newsletters</div>
+			<div class="optin-init" id="NWS" checked="true" value="I">InRoads Newsletter</div>
 		
 			<div class="esm-category">
 				<input id="newsletterCategories[2].optIn" type="checkbox" checked="true" value="I" name="newsletterCategories[2].optIn">
 				<div class="esm-cat-details">
-					<label for="newsletterCategories[2].optIn">Special Offers                          </label>
-					<span>The latest lease and finance offers on Mercedes-Benz vehicles</span>
+					<label for="newsletterCategories[2].optIn">Mercedes-Benz Special Offers            </label>
+					<span>Updates on seasonal sales events, Certified Pre-Owned offers, and more</span>
 				</div>
 				<a href="https://assets.mbusa.com/vcm/MB/DigitalAssets/esm/sample_SPO.jpg" ga="trackType-_trackEvent/category-virtual page/action-click/label-sample" target="_blank" class="blue-carat faux-view-sample-link  track-ga-event ">View Sample</a>
 			</div>
-			<div class="optin-init" id="SPO" checked="true" value="I">Special Offers</div>
+			<div class="optin-init" id="SPO" checked="true" value="I">Mercedes-Benz Special Offers</div>
 		
 </div>
 		<div class="esm-form-controls widget-controls">
@@ -2277,43 +2371,43 @@
 </div>
 
 </div>   
-		</div>
-
-		<div id="mb-footer-social-media">
-			<ul id="mb-footer-social-media-links">
-				<li class="mb-facebook"><a href="http://www.facebook.com/mercedesbenzusa" rel="type-GA/trackType-_trackSocial/network-facebook/action-visit_page/opt_target-http:%2F%2Fwww.facebook.com%2Fmercedesbenzusa/opt_pagePath-" target="_blank" class=" track-click ">Facebook</a></li>
-				<li class="mb-twitter"><a href="https://twitter.com/MBUSA" rel="type-GA/trackType-_trackSocial/network-twitter/action-visit_page/opt_target-https:%2F%2Ftwitter.com%2FMBUSA/opt_pagePath-" target="_blank" class=" track-click ">Twitter</a></li>
-				<li class="mb-gplus"><a href="https://plus.google.com/u/0/110992313421112148128" rel="type-GA/trackType-_trackSocial/network-google%2B/action-visit_page/opt_target-https:%2F%2Fplus.google.com%2Fu%2F0%2F110992313421112148128/opt_pagePath-" target="_blank" class=" track-click ">Google+</a></li>
-				<li class="mb-youtube"><a href="http://www.youtube.com/mbusa" rel="type-GA/trackType-_trackSocial/network-youtube/action-visit_page/opt_target-http:%2F%2Fwww.youtube.com%2Fmbusa/opt_pagePath-" target="_blank" class=" track-click ">YouTube</a></li>
-			</ul>
-		</div>
-		
-		
-		
-		
-    </div>
-</div>
-
-
+			</div>
+	
+			<div id="mb-footer-social-media">
+				<ul id="mb-footer-social-media-links">
+					<li class="mb-facebook"><a href="http://www.facebook.com/mercedesbenzusa" rel="type-GA/trackType-_trackSocial/network-facebook/action-visit_page/opt_target-http:%2F%2Fwww.facebook.com%2Fmercedesbenzusa/opt_pagePath-" target="_blank" class=" track-click ">Facebook</a></li>
+					<li class="mb-twitter"><a href="https://twitter.com/MBUSA" rel="type-GA/trackType-_trackSocial/network-twitter/action-visit_page/opt_target-https:%2F%2Ftwitter.com%2FMBUSA/opt_pagePath-" target="_blank" class=" track-click ">Twitter</a></li>
+					<li class="mb-gplus"><a href="https://plus.google.com/u/0/110992313421112148128" rel="type-GA/trackType-_trackSocial/network-google%2B/action-visit_page/opt_target-https:%2F%2Fplus.google.com%2Fu%2F0%2F110992313421112148128/opt_pagePath-" target="_blank" class=" track-click ">Google+</a></li>
+					<li class="mb-youtube"><a href="http://www.youtube.com/mbusa" rel="type-GA/trackType-_trackSocial/network-youtube/action-visit_page/opt_target-http:%2F%2Fwww.youtube.com%2Fmbusa/opt_pagePath-" target="_blank" class=" track-click ">YouTube</a></li>
+				</ul>
+			</div>
+			
+			
+			
+			
+	    </div>
+	</div>
 
 
 
 
-<div id="disclaimer-wrapper">
-	<div id="disclaimer">
-        
-        <div class="ftrLogo">
-            <ul class="clearer">
-                <li class="copyright">©  2016 Mercedes-Benz USA, LLC</li>
-                <li><a href="/mercedes/site_map" class="">Site Map</a></li>
-                <li><a href="/mercedes/policies/privacy_statement" class="">Policies</a></li>
-                
-                <li><a href="/mercedes/policies/interest_based_ads" class="">Interest-Based Ads</a></li>
-            </ul>
-        </div>
-	    
-    </div>
-</div>
+
+	<div id="disclaimer-wrapper">
+		<div id="disclaimer">
+	        
+	        <div class="ftrLogo">
+	            <ul class="clearer">
+	                <li class="copyright">©  2017 Mercedes-Benz USA, LLC</li>
+	                <li><a href="/mercedes/site_map" class="">Site Map</a></li>
+	                <li><a href="/mercedes/policies/privacy_statement" class="">Policies</a></li>
+	                
+	                <li><a href="/mercedes/policies/interest_based_ads" class="">Interest-Based Ads</a></li>
+	            </ul>
+	        </div>
+		    
+	    </div>
+	</div>
+
 
 
 </div>
