@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210192045id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralthread.com privacy policy that was archived on 2017-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170617023119id_/http%3A//www.viralthread.com/privacy-policy) for the most accurate reproduction.*
 
 # Viral Thread, The Web At Its Best
 
@@ -29,7 +29,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
  **Third Party Vendors**
 
   * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Pulptastic and/or other sites on the Internet.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Viral Thread and/or other sites on the Internet.
   * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (or by visiting [aboutads.info](http://www.aboutads.info/).)
 
 
