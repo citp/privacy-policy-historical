@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getinthemix.co.uk privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515024426id_/http%3A//www.getinthemix.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getinthemix.co.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618111926id_/http%3A//www.getinthemix.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Security | GetInTheMix
 
 getinthemix.co.uk takes your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it.
 
-Any personal information provided to getinthemix.co.uk is used solely by AudioVisual Sound & Light Ltd (getinthemix.co.uk). Unit 8, Easter Park, Axial Way, Colchester, Essex CO4 5WY.
+Any personal information provided to getinthemix.co.uk is used solely by AudioVisual Sound & Light Ltd (getinthemix.co.uk). 1A Altbarn Road (off Hawkins Road), Colchester, Essex, CO2 8LG.
 
 **In order to monitor the performance of our site we collect the following information:**
 
