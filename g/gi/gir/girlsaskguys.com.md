@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232854id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618105233id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # GirlsAskGuys Privacy Policy - GirlsAskGuys
 
@@ -38,7 +38,7 @@ The username, thumbnail image and location may be displayed in various parts of 
 
 We may use profile information based on age, gender and location to promote news updates or products to display relevant advertisements or announcements. 
 
-We allow third party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>. 
+We allow third party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. Third parties may also use pixels to collect non-personally identifiable information from emails that the user opens. To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>. 
 
 We offer links to other websites. Please note: When you click on links to other websites, we encourage you to read their privacy policies. Their standards may differ from ours. GirlsAskGuys is not responsible for the content, terms or policies of any site that we link to. 
 
