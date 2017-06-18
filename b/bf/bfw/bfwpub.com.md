@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bfwpub.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005116id_/http%3A//www.macmillanlearning.com/Catalog/other/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfwpub.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618230330id_/http%3A//macmillanlearning.com/Catalog/other/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Macmillan Learning Privacy Notice  
 
 
-## Modified: July 2016  
+## Modified: March 2017  
 
 
 Macmillan Learning1 (referred to herein as "we" "us" or "our") respects your concerns about security and privacy and values the relationship we have with you. This Privacy Notice ("Notice") applies to any online interface (e.g., website, mobile application or other interactive service) that contains a link authorized by Macmillan Learning to this Notice (each, a "Site", and, collectively, the "Sites").   
@@ -17,7 +17,7 @@ These Site(s) are intended for people 13 years of age and older. If you are unde
 By using or accessing any Site, you confirm your agreement to the terms of this Notice that are in effect at that time. Your use of these Site(s) are further governed by the Terms of Use posted on the respective Site(s).   
 
 
-his Notice does not apply to any offline collection of information.   
+This Notice does not apply to any offline collection of information.   
 
 
 This Notice describes the types of information we collect on the Sites, how we may use the information, with whom we may share it, and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices.   
@@ -28,7 +28,7 @@ This Notice describes the types of information we collect on the Sites, how we m
 ### Information We Collect  
 
 
-We may collect both Personally Identifiable Information and Non-Personally Identifiable Information by and through our Sites. For purposes of this Notice, "Personally Identifiable Information" means any information or combination of information that we collect or use by or through a Site that identifies you personally. "Non-Personally Identifiable Information" means information that we collect or use by or through a Site that does not identify you personally or contain direct personal identifiers about you.   
+We may collect both Personally Identifiable Information and Non-Personally Identifiable Information by and through our Sites. For purposes of this Notice, “Personally Identifiable Information” means any information or combination of information that we collect or use by or through a Site that identifies you personally. “Non-Personally Identifiable Information” means information that we collect or use by or through a Site that does not identify you personally or contain direct personal identifiers about you.   
 
 
 Personally Identifiable Information that we may collect includes:   
@@ -45,17 +45,14 @@ Personally Identifiable Information that we may collect includes:
 
 
 
-"Student Data" is information obtained about a "Student" through the use of our Site(s) that, alone or in combination with other information, is linked or linkable to a specific student by a reasonable person. A "Student" is a student using our Site(s) at the direction of or in connection with a school, educational institution, teacher, school district, or to aid in school administration activities. For example, Student Data includes a student’s name, email address or other online contact information, student number, school test results, school biometric records, such as a video or audio recording, and indirect identifiers such as date of birth, mother’s maiden name, and search activity, when related to use of a Site in connection with or at the direction of a school, educational institution, teacher, school district, or to aid in school administration activities.   
+“Student Data” is information obtained about a “Student” through the use of our Site(s) that, alone or in combination with other information, is linked or linkable to a specific student by a reasonable person. A “Student” is a student using our Site(s) at the direction of or in connection with a school, educational institution, teacher, school district, or to aid in school administration activities. For example, Student Data includes a student’s first name, student’s last name, student’s email address or other online contact information, student number, school test results, school biometric records, such as a video or audio recording, and indirect identifiers such as answers to security questions and search activity when related to use of a Site in connection with or at the direction of a school, educational institution, teacher, school district, or to aid in school administration activities.   
 
 
-Non-Personally Identifiable Information that we may collect includes information about your device or internet browser, information obtained from cookies that have been placed on your device or internet browser at our Site, demographic information, aggregated information, anonymous or de-identified information about how you use our Sites, including the transactions you perform using our Sites, and other information obtained through your access to or use of a Site that does not identify you personally. We may supplement the information we collect from you with information we receive about you from other sources; if we combine this data with Student Data, it will be treated as Student Data.   
+Non-Personally Identifiable Information that we may collect includes information about your device or internet browser, information obtained from cookies that have been placed on your device or internet browser at our Site, demographic information, aggregated information, anonymous or de-identified information about how you use our Sites, including the transactions you perform using our Sites, and other information obtained through your access to or use of a Site that does not identify you personally. We may supplement the information we collect from you with information we receive about you from other sources; if we combine this data with Student Data, it will be treated as Student Data. 
 
+In addition, when you visit our Sites, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preference, referring URLs, information on actions taken on our Sites, and dates and times of website visits. 
 
-In addition, when you visit our Sites, we may collect certain information by automated means, such as cookies and web beacons. The information we collect in this manner includes IP address, browser characteristics, device characteristics, operating system, language preference, referring URLs, information on actions taken on our Sites, and dates and times of website visits.   
-
-
-A "cookie" is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org. Please note, however, that without cookies you may not be able to use all of the features of our Sites. For more information on how we use cookies and other tracking technologies, see the "Online Tracking"section below.   
-
+A “cookie” is a text file that websites send to a visitor’s computer or other Internet-connected device to uniquely identify the visitor’s browser or to store information or settings in the browser. Your browser may tell you how to be notified when you receive certain types of cookies or how to restrict or disable certain types of cookies. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org. Please note, however, that without cookies you may not be able to use all of the features of our Sites. For more information on how we use cookies and other tracking technologies, see the "Online Tracking" section below. 
 
 ### How We Use The Information We Collect  
 
@@ -69,7 +66,7 @@ Except as noted below in this section under NOTE FOR STUDENT DATA, we may use th
   * create and manage your account;
   * offer and provide products, services and information to you, including newsletters;
   * permit you to participate in, and to communicate with you regarding, blogs, forums, and discussion groups;
-  * interact with you or to permit you to interact with our social media accounts;
+  * interact with you or to permit you to interact with our social media accounts
   * communicate with you about, and administer your participation in, special events, programs, surveys, contests, sweepstakes, and other offers or promotions, to the extent permitted by law;
   * display content on our Sites, such as stories, product reviews and photos;
   * respond to and communicate with you about your requests, questions and comments;
@@ -112,7 +109,7 @@ We may use the information we obtain from cookies for the following purposes:
 
 
 
-We also may use "web beacons" on some of our Sites. A web beacon, also known as a pixel tag or clear GIF, may be used to transmit information collected through cookies to our service providers’ servers, such as the server of Google Adwords. These web beacons enable our service providers to compile information about your browsing activity on the Sites. We do not share with third parties (other than our service providers), Personally Identifiable Information we may collect through such web beacons, such as names, e-mail addresses and phone numbers without your express permission.   
+We also may use “web beacons” on some of our Sites. A web beacon, also known as a pixel tag or clear GIF, may be used to transmit information collected through cookies to our service providers’ servers, such as the server of Google Adwords. These web beacons enable our service providers to compile information about your browsing activity on the Sites. We do not share with third parties (other than our service providers), Personally Identifiable Information we may collect through such web beacons, such as names, e-mail addresses and phone numbers without your express permission.   
 
 
 On some of our Sites and where permitted by law, we partner with third party advertising companies who may utilize cookies, web beacons or other technologies to provide advertisements about our goods and services that may be of interest to you, or to serve advertisements about other products on our Sites. The third parties may use these technologies to collect information about you when you use the Sites. They may collect information about your online activities over time and across different websites and other online services, as well as across different devices. They may use this information to provide you with interest-based advertising or other targeted advertising. They may also use persistent identifiers to track your Internet usage across other websites in their networks beyond the Sites. Such third parties may, with sufficient data from other sources, be able to personally identify you, unknown to us.   
@@ -141,22 +138,22 @@ NOTE FOR STUDENT DATA: We do not share Student Data that we collect on the Sites
 Except for Student Data we may, from time to time, acquire and share with third parties information on individuals who may be interested in our products or third party products for their own marketing purposes.   
 
 
-_Related Companies._ We may share the information you provide with companies that are related to Macmillan Learning through common ownership ("related companies"). Related companies are required to maintain Personally Identifiable Information in compliance with all applicable laws as well as this Notice.   
+_Related Companies._ We may share the information you provide with companies that are related to Macmillan Learning through common ownership (“related companies”). Related companies are required to maintain Personally Identifiable Information in compliance with all applicable laws as well as this Notice.   
 
 
-_Service Providers._ We share Personally Identifiable Information with other parties who perform services on our behalf and need Personally Identifiable Information to perform those services. For example, we may retain service providers to manage our customer databases or provide customer or technical support. These service providers will be required to maintain the confidentiality of Personally Identifiable Information and to use it in compliance with this Notice and any applicable service agreements.   
+_Service Providers_. We share Personally Identifiable Information with other parties who perform services on our behalf and need Personally Identifiable Information to perform those services. For example, we may retain service providers to manage our customer databases or provide customer or technical support. These service providers will be required to maintain the confidentiality of Personally Identifiable Information and to use it in compliance with this Notice and any applicable service agreements.   
 
 
-_Third Party Learning Management System ("LMS")._ If you are using our products or services as integrated with a third party’s LMS, depending on the level of integration, we may receive your information through such third party and/or provide your information to such third party. We will maintain any information we receive through such third party in accordance with this Notice. However we are not responsible for the actions of such third party as it pertains to information that is shared with or by such third party which shall be governed by such third party’s own privacy policies.   
+_Third Party Learning Management System (“LMS”)_. If you are using our products or services as integrated with a third party’s LMS, depending on the level of integration, we may receive your information through such third party and/or provide your information to such third party. We will maintain any information we receive through such third party in accordance with this Notice. However we are not responsible for the actions of such third party as it pertains to information that is shared with or by such third party which shall be governed by such third party’s own privacy policies.   
 
 
-_Third Party Applications._ You may be able to purchase third party applications (through our Sites or otherwise) which are compatible and/or packaged with our products or services. Information may be shared between us and the provider of such third party application in order to enable certain functionalities or depending on the settings you choose. We will maintain any information we receive through such third party in accordance with this Notice. However, we are not responsible for the actions of such third party as it pertains to information that is shared with or by such third party which shall be governed by such third party’s own privacy policies.   
+_Third Party Applications_. You may be able to purchase third party applications (through our Sites or otherwise) which are compatible and/or packaged with our products or services. Information may be shared between us and the provider of such third party application in order to enable certain functionalities or depending on the settings you choose. We will maintain any information we receive through such third party in accordance with this Notice. However, we are not responsible for the actions of such third party as it pertains to information that is shared with or by such third party which shall be governed by such third party’s own privacy policies.   
 
 
-_Social Media Other Sites._ When you interact with our Sites on a social media platform, we may collect certain information, including your account ID or username, that you make available to us on that page. If you choose to access the Sites through a social networking service, we may share certain information about you and your activities, including Personally Identifiable Information, with that social networking service. With your permission, we also may share information about your activities, including what you view on the Sites, with that social network’s users.   
+_Social Media Other Sites_. When you interact with our Sites on a social media platform, we may collect certain information, including your account ID or username, that you make available to us on that page. If you choose to access the Sites through a social networking service, we may share certain information about you and your activities, including Personally Identifiable Information, with that social networking service. With your permission, we also may share information about your activities, including what you view on the Sites, with that social network’s users.   
 
 
-_Credit Card Payment Processor._ When you make an online purchase from our websites, your payment information will be processed by a third party payment processor. We require our third party payment processors to comply with the PCI Data Security Standards (PCI DSS) and they (and not us) will have access to your complete credit card information.   
+_Credit Card Payment Processor_. When you make an online purchase from our websites, your payment information will be processed by a third party payment processor. We require our third party payment processors to comply with the PCI Data Security Standards (PCI DSS) and they (and not us) will have access to your complete credit card information.   
 
 
 _Blogs, forums, discussion groups._ Our Sites may feature blogs, forums and discussion groups. Please be aware that some or all of the information you provide (including Personally Identifiable Information) in connection with these activities may be made publicly available.   
@@ -192,22 +189,19 @@ To protect Personally Identifiable Information, we apply administrative, technic
 ### Marketing/Your Choices  
 
 
-NOTE FOR STUDENT DATA: Except for contextual advertising, we do not use Student Data to market to you unless you, or your parent/guardian/authorized legal representative, if applicable, affirmatively agree to allow us to do so with the appropriate consent. Even if you (directly or through your parent/guardian/authorized legal representative, if applicable) consent, you may subsequently withdraw your consent by contacting us through one of the means listed under "How to Contact Us" and specifying that you wish to withdraw your prior consent for use of Student Data for marketing purposes.   
+NOTE FOR STUDENT DATA: Except for contextual advertising, we do not use Student Data to market to you unless you, or your parent/guardian/authorized legal representative, if applicable, affirmatively agree to allow us to do so with the appropriate consent. Even if you (directly or through your parent/guardian/authorized legal representative, if applicable) consent, you may subsequently withdraw your consent by contacting us through one of the means listed under “How to Contact Us” and specifying that you wish to withdraw your prior consent for use of Student Data for marketing purposes.   
 
 
-With respect to non-Student Data, we give you the option of requesting that we not use your information for marketing purposes, or share your information with related companies for their own marketing purposes. Click [here](mailto:privacyisimportant@macmillan.com)to send us an e-mail with your name and e-mail address(es), if you do not want us to use your information for marketing purposes, or share your information with related companies for their own marketing purposes.   
+With respect to non-Student Data, we give you the option of requesting that we not use your information for marketing purposes, or share your information with related companies for their own marketing purposes. Click [here](mailto:privacyisimportant@macmillan.com) to send us an e-mail with your name and e-mail address(es), if you do not want us to use your information for marketing purposes, or share your information with related companies for their own marketing purposes.   
 
 
-Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under "How to Contact Us" below, and we will endeavor to resolve the issue.   
+Please be aware that we are able to process an opt-out request only for a specific e-mail address. So, if you have more than one e-mail address or if you have changed your e-mail address, your opt-out request may not be processed properly. If you believe you have opted out, but continue to receive e-mails from us, please contact us by one of the means listed under “How to Contact Us” below, and we will endeavor to resolve the issue. Please note that the foregoing opt-out covers marketing communications only and you may continue to receive transactional e-mail as it pertains to your purchase of products or services from us and support issues related thereto.   
 
 
-Please note that the foregoing opt-out covers marketing communications only and you may continue to receive transactional e-mail as it pertains to your purchase of products or services from us and support issues related thereto.   
+In some instances, you will be required to opt-in to receiving marketing email communications in order to receive such emails, in which case you consent to receiving such communications from us. You may withdraw your consent to receiving communications from us at any time by clicking “unsubscribe” at the bottom of the e-mail communications, or sending us an email with your name and email address at privacyisimportant@macmillan.com.   
 
 
-In some instances, you will be required to opt-in to receiving marketing email communications in order to receive such emails, in which case you consent to receiving such communications from us. You may withdraw your consent to receiving communications from us at any time by clicking "unsubscribe" at the bottom of the e-mail communications, or sending us an email with your name and email address at [privacyisimportant@macmillan.com](mailto:privacyisimportant@macmillan.com) .   
-
-
-On Sites that contain tracking technologies used for online behavioral advertising2, you may opt out of the collection and/or use of your information for these purposes by visiting the Network Advertising Initiative at <http://www.networkadvertising.org/managing/opt_out.asp>and/or the Digital Advertising Alliance by clicking <http://www.aboutads.info/choices>. You may also be able limit the association of your mobile device with your online activities by resetting the advertiser ID on your Apple or Android device. For more information about how to change these settings go to:   
+On Sites that contain tracking technologies used for online behavioral advertising2, you may opt out of the collection and/or use of your information for these purposes by visiting the Network Advertising Initiative at <http://www.networkadvertising.org/managing/opt_out.asp> and/or the Digital Advertising Alliance by clicking <http://www.aboutads.info/choices>. You may also be able to limit the association of your mobile device with your online activities by resetting the advertiser ID on your Apple or Android device. For more information about how to change these settings go to:   
 
 
   * Apple: <http://support.apple.com/kb/HT4228>
@@ -221,7 +215,7 @@ Please note that while you may opt out of online behavioral advertising served b
 ### Notice to California Residents  
 
 
-California’s "Shine the Light" law, Civil Code Section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes or to provide an opt-out for such sharing of information to third parties for the third parties’ direct marketing purposes. Please see our opt-out mechanism above under MARKETING/YOUR CHOICES above which will enable you to notify us if you would like to opt-out of such sharing of your information with third parties.   
+California’s “Shine the Light” law, Civil Code Section 1798.83, requires certain businesses to respond to requests from California customers asking about the business’ practices related to disclosing personal information to third parties for the third parties’ direct marketing purposes or to provide an opt-out for such sharing of information to third parties for the third parties’ direct marketing purposes. Please see our opt-out mechanism above under MARKETING/YOUR CHOICES that will enable you to notify us if you would like to opt-out of such sharing of your information with third parties.   
 
 
 ### Access and Correction  
@@ -239,7 +233,7 @@ The Sites are designed for and targeted to U.S. audiences and governed by and op
 Please note that any information that you provide to us while using these Sites is being transferred to or collected in the US and US law governs.   
 
 
-**BY CONTINUING TO USE THESE SITES AND/OR SUBMITTING YOUR PERSONALLY IDENTIFIABLE INFORMATION, YOU CERTIFY THAT YOU MEET AGE AND OTHER ELIGIBILITY REQUIREMENTS FOR THE SITE AS SET FORTH IN THIS NOTICE AS WELL AS THE TERMS AND CONDITIONS, AND CONSENT TO COLLECTION, USE, DISCLOSURE, STORAGE AND TRANSFER OF YOUR PERSONNALLY IDENTIFIABLE INFORMATION OUTSIDE THE EEA, SWITZERLAND, CANADA, OR ANY OTHER NON U.S. JURISDICTION IN ACCORDANCE WITH THIS NOTICE**   
+**BY CONTINUING TO USE THESE SITES AND/OR SUBMITTING YOUR PERSONALLY IDENTIFIABLE INFORMATION, YOU CERTIFY THAT YOU MEET AGE AND OTHER ELIGIBILITY REQUIREMENTS FOR THE SITE AS SET FORTH IN THIS NOTICE AS WELL AS THE TERMS AND CONDITIONS, AND CONSENT TO COLLECTION, USE, DISCLOSURE, STORAGE AND TRANSFER OF YOUR PERSONNALLY IDENTIFIABLE INFORMATION OUTSIDE THE EEA, SWITZERLAND, CANADA, OR ANY OTHER NON U.S. JURISDICTION IN ACCORDANCE WITH THIS NOTICE.**   
 
 
 ### Anonymous Registration  
@@ -266,9 +260,6 @@ Changes to this Notice will become effective when those changes are posted to th
 If you have any questions about this Notice, or if you would like us to update information we have about you or your preferences, please contact us by e-mailing us at: Privacyisimportant@macmillan.com   
 
 
-**Copyright © 2016 Bedford, Freeman & Worth Publishing Group, LLC. All rights reserve**   
-
-
 ### _Notice to New Zealand and Australian Residents_  
 
 
@@ -289,18 +280,13 @@ Personal Information
 
 **
 
-"Personally Identifiable Information" means information about an individual who is identified or reasonably identifiable.   
+“Personally Identifiable Information” means information about an individual who is identified or reasonably identifiable.   
 
 
-Non-Personally Identifiable Information means any information about an individual where that individual is not identified or reasonably identifiable.   
+Non-Personally Identifiable Information means any information about an individual where that individual is not identified or reasonably identifiable. 
 
+**Information We Share**   
 
-**
-
-Information We Share  
-
-
-**
 
 You also consent to us providing your personal information to authorized third parties, who may use that information to market products and services to you.   
 
@@ -328,8 +314,11 @@ Failure to Provide Personally Identifiable Information
 In some cases, you may wish not to provide us with Personally Identifiable Information. If however, you fail to do so, in some cases we may not be able to provide you with products, services or assistance, or to respond adequately to you.   
 
 
-1Macmillan Learning is a group name for Bedford, Freeman &Worth Publishing Group, LLC (Bedford St. Martin’s, WH Freeman and Company, and Worth Publishers), Sapling Learning, i >clicker, Hayden-McNeil LLC, and is used herein to refer to each entity individually and collectively.   
+1Macmillan Learning is a group name for Bedford, Freeman &Worth Publishing Group, LLC (Bedford St. Martin’s, WH Freeman and Company, Worth Publishers, Late Nite Labs, i>clicker, Sapling Learning) and Hayden-McNeil LLC, and is used herein to refer to each entity individually and collectively.   
 
 
 2Behavioral advertising is omitted in areas of the Sites which are created for Students.   
+
+
+**Copyright © 2017 Bedford, Freeman & Worth Publishing Group, LLC. All rights reserve**   
 
