@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512114339id_/http%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijanewsplus.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618223757id_/http%3A//www.naijanewsplus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - NaijaNewsPlus
+# Privacy Policy
 
 [](http://www.naijanewsplus.com/privacy-policy/market-research-privacy-policy/)
 
@@ -133,5 +133,3 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 and we will promptly remove you from **ALL** correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
-
-2nd floor, Intern Hostel, Beside Kola Daisi Specialist Clinic, Opp University college hospital Ibadan
