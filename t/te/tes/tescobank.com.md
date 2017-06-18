@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescobank.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012027id_/http%3A//www.tescobank.com/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescobank.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618113312id_/http%3A//www.tescobank.com/help/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Tesco Bank
 
@@ -9,7 +9,7 @@ You are here:
 
 
 
-Find out about our Privacy Policy which summarises how we (Tesco Personal Finance plc., trading as Tesco Bank and part of the Tesco group) use your information. Please note that product specific privacy information is included within our product documentation. This page also outlines our Cookie Policy which explains how we cookies to enhance your experience on our website. The information on this page was last updated on 13th September 2016. 
+Find out about our Privacy Policy which summarises how we (Tesco Personal Finance plc., trading as Tesco Bank and part of the Tesco group) use your information. Please note that product specific privacy information is included within our product documentation. This page also outlines our Cookie Policy which explains how we use cookies to enhance your experience on our website. The information on this page was last updated on 13th September 2016. 
 
 Using your information
 
@@ -128,7 +128,7 @@ They might charge you a fee.
 
 Write to us:
 
-The Data Protection Officer, Interpoint Building, 22 Haymarket Yards, Edinburgh, EH12 5BH
+The Data Protection Officer, Customer Operations, Tesco Bank, Broadway 1199, Renfield Street, Glasgow, G2 3AX
 
 Our panel insurers
 
