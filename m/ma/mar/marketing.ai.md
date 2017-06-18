@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing.ai privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125043408id_/http%3A//www.marketing.ai/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing.ai privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618175112id_/http%3A//marketing.ai/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
