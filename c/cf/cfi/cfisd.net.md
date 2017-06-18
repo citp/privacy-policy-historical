@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfisd.net privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230154545id_/http%3A//www.cfisd.net/en/news-media/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfisd.net privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618070327id_/http%3A//www.cfisd.net/en/news-media/privacy-policy) for the most accurate reproduction.*
 
 # Cypress-Fairbanks Independent School District :: Privacy Policy
 
