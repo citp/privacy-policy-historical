@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218033950id_/http%3A//mychannel957.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618075018id_/http%3A//mychannel957.com/privacy) for the most accurate reproduction.*
 
 # My Channel 95.7FM – Today's Best Mix Without The Rap – Grand Rapids Pop Radio
 
