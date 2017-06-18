@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbs.com.sg privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217003526id_/http%3A//www.dbs.com/privacy/default.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbs.com.sg privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618111734id_/http%3A//www.dbs.com/privacy/default.page) for the most accurate reproduction.*
 
 # DBS Bank Privacy Policy | DBS Group
 
