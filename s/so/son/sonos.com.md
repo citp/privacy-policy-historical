@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230905id_/https%3A//www.sonos.com/en-us/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonos.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618234857id_/http%3A//www.sonos.com/en-us/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Sonos respects your privacy and is committed to protecting the personal information that you decide to share with us. The purpose of this policy statement is to explain the type of information Sonos collects, how we collect it, what we use it for and how consumers can restrict the use or disclosure of personally identifiable information. This privacy policy statement covers two distinct types of information we may collect – (1) when you visit our website, and (2) when you use our products.
 
 ## Privacy policies
 
