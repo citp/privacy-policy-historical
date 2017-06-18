@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mymaths.co.uk privacy policy that was archived on 2015-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151021122109id_/http%3A//www.mymaths.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymaths.co.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618162014id_/https%3A//www.mymaths.co.uk/privacy.html) for the most accurate reproduction.*
 
 # MyMaths - Bringing maths alive - Privacy
 
 **_PRIVACY POLICY_**
 
-Updated on: **23 rd December 2013**
+Updated on: **26 th November 2015**
 
-Effective from: **1 st January 2014**
+Effective from: **27 th November 2015**
 
 This privacy policy is specific to the MyMaths website ("Website") and overrides any other privacy policies appearing elsewhere on Oxford University Press websites. 
 
@@ -50,7 +50,7 @@ By using the Website, you are agreeing to be bound by the terms of our Cookie Po
 
 **How do we use your information?**
 
-We use information held about you in the following ways:
+We may information held about you in the following ways:
 
 ●        To ensure that content from the Website is presented in the most effective manner for you and for your computer. 
 
@@ -86,7 +86,7 @@ If any part of our business (including those of our affiliates) is sold or integ
 
 **Security and Our partners outside Europe**
 
-As a major international publisher, committed to the widest possible dissemination of scholarship and learning, OUP has links with other organisations throughout the world. We exchange information with our overseas branches, associated companies and other parties, including distributors and sales agents.  As such, from time to time, we may transfer, store and/or process information about you at a destination outside of the European Economic Area. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. By using the Website, you consent to these transfers. 
+As a major international publisher, committed to the widest possible dissemination of scholarship and learning, OUP has links with other organisations throughout the world. We exchange information with our overseas branches, associated companies and other parties, including distributors and sales agents.  As such, from time to time, we may transfer, store and/or process information about you at a destination various locations including locations outside of the European Economic Area. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. By using the Website, you consent to these transfers. 
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
