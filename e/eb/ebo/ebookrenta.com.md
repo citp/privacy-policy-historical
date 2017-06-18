@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookrenta.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217111145id_/http%3A//www.ebookrenta.com/renta/sc/frm/page/help/security_1.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookrenta.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618072554id_/http%3A//www.ebookrenta.com/renta/sc/frm/page/help/security_1.htm) for the most accurate reproduction.*
 
 # Renta! - Protection of Personal Information and Security Measures
 
