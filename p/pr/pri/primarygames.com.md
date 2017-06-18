@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228042354id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618034019id_/http%3A//www.primarygames.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PrimaryGames - Play Free Online Games
 
@@ -6,7 +6,7 @@
 
 #### Effective: April 8, 2015
 
-**PrimaryGames.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. PrimaryGames is intended to provide fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.primarygames.com.
+**PrimaryGames.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. PrimaryGames is intended to provide http://www.primarygames.com/science/farmanimals/games/catdragdrop/fun and educational resources for kids and teens to use under the guidance of their parents and teachers. As required by The Children's Online Privacy Protection Act ("COPPA"), we provide this privacy policy to inform parents and legal guardians (collectively, “Parents”) about our privacy practices on our site www.primarygames.com.
 
 #### Information Automatically Logged
 
