@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218064621id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618090933id_/http%3A//www.highcountrygardens.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,5 +33,5 @@ Shelburne, VT 05482
 
 
 (800) 925-9387  
-[www.highcountrygardens.com](http://www.highcountrygardens.com/)  
-[Email Us](http://www.highcountrygardens.com/contact-us)
+[www.highcountrygardens.com](https://web.archive.org/)  
+[Email Us](https://web.archive.org/contact-us)
