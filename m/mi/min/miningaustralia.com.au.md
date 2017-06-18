@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919202119id_/https%3A//www.australianmining.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miningaustralia.com.au privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618121814id_/https%3A//www.australianmining.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Mining
 
