@@ -1,148 +1,88 @@
-> *The following text is extracted and transformed from the karndean.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203113018id_/http%3A//www.karndean.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karndean.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618191908id_/http%3A//www.karndean.com/en-nz/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | USA
+# Privacy Statement | New Zealand
 
-**Karndean International LLC d/b/a Karndean Designflooring (“Karndean”) Privacy Statement  
-Last Updated: March 19, 2012 **
+**Last Updated: 05/08/2014**
 
-Karndean understands how much you care about your personal information and the way it is collected and used.  We are committed to protecting the integrity and confidentiality of all your information and appreciate the trust you place in us to take care of it and ensure that it is secure.  
+This policy sets out how Karndean International manages the personal information we hold about you. We recognise the importance of protecting your personal information and are committed to complying with privacy law obligations. 
 
-We have drawn up this privacy policy, and our website terms of use, to inform you how we collect and use your information in a careful, sensible manner.  By visiting karndean.com and our associated sites, you are consenting to the procedures outlined in this Privacy Policy.  Karndean is a global organization, with business processes, management structures, and technical systems that cross borders, both internal and external to the USA.  This Privacy Policy applies to all Karndean owned websites and domains except where a privacy policy or statement posted on a Karndean website/s specific to a particular Karndean service or location will apply instead of this privacy policy.  
+Collection of information Karndean will only collect personal information under the following circumstances: 
 
-Who controls the information collected? 
+Responses to promotional activities such as showrooms or expos;    
+Completion of the “Contact Us” form available on our website; and   
+Fielding of calls by our call centre.    
+Through these methods, we will only collect and hold details such as name, phone number address and email address where provided. 
 
-All personal information collected is in the control of Karndean Designflooring which is the "data controller" located at: 
+You do have the right to seek to deal with us anonymously or using a pseudonym, but in almost every circumstance it will not be practicable for us to deal with you or provide any services to you except for the most general responses to general enquiries, unless you identify yourself. 
 
-Karndean Designflooring
+On all occasions, your information is collected, held, used and disclosed by us in accordance with this Privacy Policy. On some occasions your data may be sent overseas to secure servers there.
 
-1100 Pontiac Court 
+**Use of the collected information  **
 
-Bushy Run Corporate Park
+We will only use and disclose personal information for the purposes it was disclosed or the disbursement of marketing material. 
 
-Export, PA  15632
+To carry out marketing functions (such as mail outs), we may disclose personal information with an authorised third-party service provider. We have established controls and procedures with these third parties to ensure compliance with our Privacy Policy. When you provide us with your personal information, you consent to us sharing that information with the associated marketing company. 
 
-**What information do we collect?  **
+We never sell your information to other organisations and we comply with the requirements of the privacy law in our marketing communications to you. We may use video surveillance for security purposes and the footage will be used only by Karndean and by the providers of our security services for security purposes. Surveillance videos are not used by Karndean for other purposes and the footage is not publicly available. Surveillance cameras are not located in any bathrooms or change room facilities.
 
-The Karndean website actively collects information from its visitors both by allowing visitors to ask us specific questions and by permitting visitors to communicate directly with us via e-mail and feedback/comment forms.  Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, etc.).  However, we do not collect any personal information that can be traced to a specific individual unless he or she voluntarily and knowingly provides it to us.  
+Managing requests and complaints   
+You may request access to personal information that is held by us. You will be requested to provide evidence of identity before we can grant access to that personal information. You may ask us to correct the personal information if it is not accurate, up-to-date or complete. Although no fee will be charged for accessing your personal information or making a correction, Karndean may charge a fee to retrieve and copy any material. 
 
-In certain sections of the Web Site (e.g., "Order a Brochure", "Request Samples"), we request and collect personal information such as your name, e-mail address and postal address (street, city, state and zip code).  The personal information collected will be used internally, if we need to contact you directly to respond to questions, comments or inquiries you submit.  Otherwise, Karndean will only use your personally identifiable information in accordance with the disclosures made to you at the time of collection or if you otherwise give your specific consent.
+You may also make a complaint about the handling of your personal information, including if you think we have failed to comply with the Australian Privacy Principles (APP) or any binding APP code that has been registered under the Privacy Act. 
 
-By using this site, you consent to the collection and use of this information by Karndean.
+Requests and complaints can be sent by email, or to our postal address as stated in the contact us section of this policy. We undertake to respond to all requests and complaints within 30 days.
 
-We do not store credit card information and we do not share details with any third parties.
+If your complaint is not handled satisfactorily, you may refer your complaint to: 
 
-We collect information from employees and applicants from resumes, applications and employment references.  This includes information such as name, address, zip code, telephone number, email address and social security number.
+The Office of the Australian Information Commissioner 
 
-**What will we do with your information?  **
+GPO Box 2999 
 
-All of the information we request and collect from you is essential to ensure that we continue to offer the best possible service to our customers.  We will not request any information that does not directly relate to how we communicate with you or assist in improving our website and services to continually provide better customer care.  
+CANBERRA ACT 2601 
 
-We may use the information held about you in the following ways:
+AUSTRALIA 
 
-·         To ensure that our website is presented in the most effective manner for you and for your computer.
+P: 1300 363 992 
 
-·         To provide you with information, products or services that your request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+F: 02 9284 9666 
 
-·         To carry out our obligations arising from any contracts entered into between you and us.
+W: www.oaic.gov.au
 
-·         To allow you to participate in interactive features of our service, when you choose to do so.
+**How we protect your Personal Information  **
 
-·         To notify you about changes to our service.  
+We take reasonable steps to maintain the security of personal information within our control. 
 
-We may retain the data collected and store and access it for as long as is reasonably necessary for the purposes listed in this privacy policy.  By providing your personal data you agree to this transfer, storage or processing.  We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
+These steps include:   
+Strict physical access restrictions within our offices;    
+System security controls that are designed to ensure personal information is only available to those who require access. We do use overseas providers of IT services including servers and cloud services; and Mandatory confidentiality guidelines for all staff within the business. 
 
-**Children under 13    
-**  
-We do not knowingly collect personal information from children under 13.  If we learn that we have collected any personal information from a child under the age of 13 without verifiable parental consent, we will delete that information from our database as quickly as possible.  If you believe that we may have collected information from a child under 13, please contact us at privacyofficer@karndean.com.
+Under our destruction and de-identification policies, your personal information that is no longer required will be de-identified or destroyed. In many circumstances, however it will be kept for marketing purposes as you will have consented to that in writing with us. We will be entitled in some circumstances to refuse access and if we do so, we will consider whether a mutually agreed intermediary will allow sufficient access to meet your needs and ours.
 
-**Cookies  **
+**Definition of Cookies**
 
-A small text file ‘Cookie’, is placed on to your computer’s hard drive through your web browser when you visit our website/s.  This file enables us to enhance your current and future visits to the site.  All we can do with the cookie is write data to it.  We can’t influence or control your computer.  
+A small text file ‘Cookie’, is placed on to your computer’s hard drive through your web browser when you visit our Websites. This file enables us to enhance your current and future visits to the site, improve our service to you and obtain information from you about your internet usage. A cookie will enable our systems to recognise your browser and provide features specific to you. Cookies also enable us to identify whether or not all of the pages which you request are successfully received. All we can do with the cookie is write data to it. We can’t influence or control your computer.
 
-It is also a tool we can use to aggregate usage statistics about the site.  This information enables us to recognize popular site features and further develop new ones, adding to the overall visitor experience of the site.  
+It is also a tool we can use to aggregate usage statistics about the site. This information enables us to recognise popular site features and further develop new ones, adding to the overall visitor experience of the site. For this we use a programme called Google Analytics, which is purely statistical data generating and cannot be used to find out the identity of a user. Whilst these cookies are anonymous, they do allow us to improve our websites.
 
-If you choose to delete cookies or do not have your browser set to accept cookies from Karndean, you will still be able to view the site, however you will not experience a personalized visit nor will you be able to benefit from other personalized site offerings.
+**Privacy Policy Updates  **
 
-For more information regarding cookies, please follow this link: http://www.aboutcookies.org.
+We may from time to time make changes and update this Privacy Policy.
 
-**Links  **
+**Contact us  **
 
-All Karndean websites may contain links to other sites for your convenience and information, including links to our partner networks, advertisers and affiliates.  We make every effort to ensure that all links are relevant and only to reputable sites.  Karndean does not control those sites or their privacy practices, which may differ from our policies.  We do not endorse or make any representations about third-party websites.  The personal data you choose to provide to or that is collected by these third parties is not covered by the Karndean privacy policy.  We encourage you to review the privacy policy of any company before submitting your personal information.  
+Karndean Designflooring 
 
-**Do we share your information?  **
+835 Stud Road 
 
-Karndean does not share, sell or rent personal information with third parties without your permission, other than for the limited exceptions listed below.  We may permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you, only if you have consented to this by ticking the relevant box situated on the online form on which we collect your data.  
+KNOXIFLED VIC 3180
 
-In order to conduct our business we may transfer information between Karndean, our group companies, our service providers, independent retail and distribution network that use the information solely for Karndean business.  Karndean will only disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Karndean; (b) protect and defend the rights or property of Karndean, and, (c) act in urgent circumstances to protect the personal safety of the users of Karndean, or the public.  This includes exchanging information with other companies and organizations for the purposes of fraud prevention and credit risk reduction.  
+P: 1800 331 170 
 
-**Security**
+F: 1800 431 048 
 
-We understand how important your personal information is and how essential it is to ensure that it remains safe and secured.  We implement various security measures in accordance with industry standards to protect the security of your personal information both online and offline.  This website takes reasonable steps to protect personally identifiable information as you transmit it to our site and to protect such information from loss, misuse and unauthorized access, disclosure, alteration, or destruction.  You should always keep in mind that no Internet transmission is ever completely secure or error-free.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+E: customerservice@karndean.com.au 
 
-**How to access and update your information    
-**  
-Karndean strives to ensure that your personal information is accurately recorded and stored.  To protect your privacy, security and to avoid inaccuracies, we are happy to provide you with access to information we retain personal to yourself only.  
-
-To request details of your personal data held by Karndean or if you would like to update, correct or remove your information, please write to the following address; 
-
-Privacy Officer
-
-Karndean Designflooring
-
-1100 Pontiac Court
-
-Bushy Run Corporate Park
-
-Export, PA 15632
-
-Phone: 888-266-4343
-
-Fax: 800-887-7043
-
-Email: privacyofficer@karndean.com
-
-Please provide your name, address and telephone number.  We would be grateful if you could also provide brief details of the information required or changes to be made to our records as this will help us to accurately deliver your data requirements.  For the protection of all our customers, we will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you.    
-****
-
-**How to stop receiving information  **
-
-You may request not to receive marketing or other information which Karndean may send to you at any time by sending your request to; 
-
-Privacy Officer
-
-Karndean Designflooring
-
-1100 Pontiac Court
-
-Bushy Run Corporate Park
-
-Export, PA 15632
-
-Phone: 888-266-4343
-
-Fax: 800-887-7043
-
-Email: privacyofficer@karndean.com
-
-**How to make a complaint  **
-
-If you have a complaint about how your personal data has been handled by Karndean, please write to us at:
-
-Privacy Officer
-
-Karndean Designflooring
-
-1100 Pontiac Court
-
-Bushy Run Corporate Park
-
-Export, PA 15632
-
-Your complaint must be in writing and include your return address and contact information.  We will then write to you within 15 days of receiving your complaint explaining what action has been taken and why.  
-
-**Policy Changes    
-**  
-We may make changes to our privacy policy from time to time and encourage you to refer to this document on occasion to ensure that you are fully confident and happy with how we manage your personal information.  
+W: www.karndean.com
 
   
 
