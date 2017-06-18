@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2016-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161216031934id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the our.com privacy policy that was archived on 2017-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170618200617id_/http%3A//www.our.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
         <meta charset="utf-8">
@@ -117,7 +117,7 @@
                     
             // Facebook login
             // Additional JS functions here
-            window.fbAsyncInit=function(){FB.init({appId:'161337093903516',version:'v2.2',channelUrl:'//www.our.com/channel.php',status:true,cookie:true,xfbml:true});FB.Event.subscribe('auth.statusChange',function(response){if(response.status==='connected'){var uid=response.authResponse.userID;var accessToken=response.authResponse.accessToken;}else{}});FB.getLoginStatus(function(response){if(response.status==='connected'){}else if(response.status==='not_authorized'){}else{}});};
+            window.fbAsyncInit=function(){FB.init({appId:'161337093903516',version:'v2.8',channelUrl:'//www.our.com/channel.php',status:true,cookie:true,xfbml:true});FB.Event.subscribe('auth.statusChange',function(response){if(response.status==='connected'){var uid=response.authResponse.userID;var accessToken=response.authResponse.accessToken;}else{}});FB.getLoginStatus(function(response){if(response.status==='connected'){}else if(response.status==='not_authorized'){}else{}});};
             (function(d){var js,id='facebook-jssdk',ref=d.getElementsByTagName('script')[0];if(d.getElementById(id)){return;}js=d.createElement('script');js.id=id;js.async=true;js.src="//connect.facebook.net/en_US/sdk.js";ref.parentNode.insertBefore(js, ref);}(document));
             function fb_login(){FB.login(function(response){if(response.authResponse){fb_validate();}else{}},{scope:'public_profile,email,user_birthday'});}
             function fb_validate(){FB.api('/me',function(response){location.href='http://www.our.com/fb_registration.php';});}            // uiSlideHeader
@@ -234,7 +234,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:3608, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:5873, sessionKeyVarName:sessionVarName} ,function(data) {
                              _loginFormRememberSended(true, data);
                         });
                     }
@@ -486,7 +486,7 @@
                         var fbId_param = '';
                         var fbImage_param = '';
                         var vinculateIdUser_param = '';
-                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:7693, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
+                        $.post('http://www.our.com/usr_create.php',{ login:$('#registerLogin').val(), password:$('#registerPassword').val(), email:$('#registerEmail').val(), birthDate:birthDate, gender:$('[name="registerSex"]:checked').val(), sessionKey:679, from:from, fbId:fbId_param, fbImage:fbImage_param, vinculateIdUser:vinculateIdUser_param} ,function(data) {
                             if (data.indexOf('yes') == -1 && isNaN(data)) {
                                 // Registration failed !!!!
                                 messageError("There was an error registering user");
@@ -563,7 +563,7 @@
                         emailToSend = emailToSend.toLowerCase();
                         // Send email via ajax
                         var sessionVarName = 'loginFormKey2';
-                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:3271, sessionKeyVarName:sessionVarName} ,function(data) {
+                        $.post('http://www.our.com/usr_remember_pwd.php',{ email:emailToSend, sessionKey:5823, sessionKeyVarName:sessionVarName} ,function(data) {
                              _RegisterLoginFormRememberSended(true, data);
                         });
                     }
@@ -671,7 +671,7 @@
                 
                 $('#resendEmail').click(function() {
                     if (id_new_user > 0) {
-                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:6891} ,function(data) {
+                        $.post('http://www.our.com/usr_send_validation_email.php',{ userId:id_new_user, sessionKey:4207} ,function(data) {
                             if (data == 'yes') {
                                 // Email sended
                                 $('#responsenolocate2').html(message_email_sended + ' ' + email_new_user);
@@ -734,13 +734,13 @@
                     </div>
                     <div class="pageContainerContent">
                         <h3>Data Protection and Privacy Policy</h3>
-        <p>THE NETWIZZY COMPANY, SL, (herein, THE NETWIZZY COMPANY) is a registered company whose head office is located in Valencia, Spain on Calle Daniel Balaciart 4, mezzanine, postcode 46020 with the contact email address <span>legal@our.com</span>.</p>
+        <p>THE NETWIZZY COMPANY, SL, (herein, THE NETWIZZY COMPANY) is a registered company whose head office is located in Valencia, Spain on Calle Daniel Balaciart 2, mezzanine, postcode 46020 with the contact email address <span>legal@our.com</span>.</p>
         <p>NETWIZZY THE COMPANY is duly registered in the Mercantile Registry of Valencia, Spain Volume 8497, Book 5787, Folio 212, Section 8, Page V-115519, 1st entry. C.I.F number is B97726913.</p>
         <p>The operator is authorized to store and analyze connection data, especially IP source and destination data and all other access data, to protect the computer itself and those of third parties. The operator is authorized, and the user grants their consent with registration as well as to the processing of usage statistics, provided that they are not specific to any individuals.</p>
         <p>Concerning the treatment of user data, the operator shall comply with the relevant legal provisions for data protection. The data will be processed by an automated security system. In case of abuse, we reserve the right to pass this information on to the competent authorities in the event of a corresponding legal necessity.</p>
         <p>In compliance with the provisions of Law 15/1999 on December 13, Protection of Personal Data, and regulations, THE NETWIZZY COMPANY hereby informs that any communication through the website, as well as the registration and participation in our games, will entail the processing of confidential personal information of the sender, which will be incorporated into a file owned by THE NETWIZZY COMPANY. The collection and processing of this personal data aims to maintain its relationship with THE NETWIZZY COMPANY, sending users information about the activities, products and services of THE NETWIZZY COMPANY.</p>
         <p>Please note that THE NETWIZZY COMPANY has adopted adequate levels of security for the data provided, and has also installed all the resources as well as technical and organizational measures at its disposal to prevent the loss, misuse, alteration, unauthorized access and/or theft of the data provided.</p>
-        <p>Also, please note that you can contact THE NETWIZZY COMPANY at any time to exercise your right to access your data, or for the rectification or opposition to the use of your data thereof, or cancellation, by sending a written communication and enclosing a copy of your ID or official document attesting your identity to THE NETWIZZY COMPANY, in Valencia, Spain on Calle Daniel Balaciart 4, mezzanine, postcode 46020 or by sending an email to THE NETWIZZY COMPANY at: <span>legal@our.com</span>, attaching a copy of your valid ID, national identity card or any other documentation that identifies you.</p>
+        <p>Also, please note that you can contact THE NETWIZZY COMPANY at any time to exercise your right to access your data, or for the rectification or opposition to the use of your data thereof, or cancellation, by sending a written communication and enclosing a copy of your ID or official document attesting your identity to THE NETWIZZY COMPANY, in Valencia, Spain on Calle Daniel Balaciart 2, mezzanine, postcode 46020 or by sending an email to THE NETWIZZY COMPANY at: <span>legal@our.com</span>, attaching a copy of your valid ID, national identity card or any other documentation that identifies you.</p>
         <p>The company is committed to treating your data confidentially, the computers that store personal data follow the provisions of Royal Decree 1720/2007 in Spain, approving the Regulations implemented by law for the protection of personal data.</p>
         <p>The User expressly agrees that THE NETWIZZY COMPANY can transfer your personal data being processed to any company that has signed a partnership agreement in writing with THE NEtWIZZY COMPANY.</p>
         <p>The services offered by THE NETWIZZY COMPANY on its Website are not intended for users under 14.</p>
@@ -835,7 +835,8 @@
                             <div><label class="labelField" for="registerEmail">email</label><input type="text" name="registerEmail" id="registerEmail" value=""><div id="registerEmailCondition" class="condition"></div></div>
                             <div class="birthdayFields">
                                 <div class="selectYear"><select name="registerBirthYear" id="registerBirthYear">
-                                    <option value="2002">2002</option>
+                                    <option value="2003">2003</option>
+<option value="2002">2002</option>
 <option value="2001">2001</option>
 <option value="2000">2000</option>
 <option value="1999">1999</option>
@@ -901,7 +902,6 @@
 <option value="1939">1939</option>
 <option value="1938">1938</option>
 <option value="1937">1937</option>
-<option value="1936">1936</option>
 
                                 </select></div>
                                 <div class="selectMonth"><select name="registerBirthMonth" id="registerBirthMonth">
