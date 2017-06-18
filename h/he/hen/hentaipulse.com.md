@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hentaipulse.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120133831id_/http%3A//hentaipulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hentaipulse.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618105426id_/http%3A//hentaipulse.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Watch Subbed Hentai Online
+# Privacy Policy - Watch The Best Subbed Hentai Online [FREE]
 
 This site expressly and strictly limits its membership and/or viewing privileges to adults 18 years of age and over or having attained the age of majority in their community. All persons who do not meet its criteria are strictly forbidden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
 
