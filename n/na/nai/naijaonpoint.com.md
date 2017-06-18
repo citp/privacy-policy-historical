@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijaonpoint.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217021514id_/http%3A//www.naijaonpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaonpoint.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618065855id_/http%3A//www.naijaonpoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,3 +57,5 @@ Naijaonpoint.com may amend this Privacy Policy from time to time, at its sole d
 Conditions of Use
 
 If you decide to visit Naijaonpoint.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Republic of Ghanaís Laws.
+
+Kindly Click Next To Continue...
