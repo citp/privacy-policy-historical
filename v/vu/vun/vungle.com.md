@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vungle.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220083500id_/https%3A//vungle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vungle.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618024923id_/https%3A//vungle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Vungle: Vungle is the leading mobile in-app video advertising platform for performance marketers. We work with the world's largest advertisers to deliver high-value users through engaging video ads.
 
