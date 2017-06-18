@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canon.co.in privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233937id_/http%3A//www.canon.co.in/personal/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canon.co.in privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619015143id_/http%3A//www.canon.co.in/personal/web/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Canon India - Personal
 
