@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smallseotools.com privacy policy that was archived on 2016-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161211031153id_/http%3A//smallseotools.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smallseotools.com privacy policy that was archived on 2017-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170618040905id_/http%3A//smallseotools.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -48,10 +48,40 @@
 		$(".model-box").hide();
 	}
 	
+</script>
+<script type="text/javascript" src="http://smallseotools.com/js/bioep.js"></script>
+<script type="text/javascript">
+  //var img = "Popup"+Math.floor((Math.random() * 4) + 1);
+  var img = "Popup2";
+  //console.log(img);
+  bioEp.init({
+    width: 800,
+    height: 514,
+    html: '<a href="https://www.grammarly.com/?q=grammar&utm_source=placement&utm_medium=cpc&utm_content=sst_'+img+'&utm_term=smallseotools" title=""><img src="http://smallseotools.com/images/'+img+'.png" alt="" /></a>',
+    cookieExp: 1
+  });
+</script>
+
+<script>var isAdBlockActive=true;</script>
+    
+<script src="http://smallseotools.com/js/ads.js"></script>
+
+<script>
+$(document).ready(function(e) {
+ if (isAdBlockActive) { 
+	$('#img1').show();
+	$('#img2').show();
+	$('#img3').show();
+	$('#img4').show();
+	console.log("The visitor useing blocking ads");
+}else{
+	console.log("The visitor is not useing blocking ads");
+} 
+});
 </script><script src="https://www.google.com/recaptcha/api.js"></script>
 <script>
 																																																			!function(e){var t=document.createElement("script");t.src="//d2yyf02s9xqns0.cloudfront.net/domain.js?"+Date.now(),t.type="text/javascript",window.gPartners={queue:[],id:e,serverUrl:"",show:function(){this.queue.push(arguments)}},document.head.appendChild(t),window.domainCloudFrontCalback=function(e){var t=document,r=t.createElement("script"),n=t.querySelector("script")||t.querySelector("head").firstChild;window.gPartners.serverUrl=e,r.type="text/javascript",r.async=!0,r.src="//"+e+"/index.js",n.parentNode.insertBefore(r,n)}}("smallseotools");
-</script><script src="//d2yyf02s9xqns0.cloudfront.net/domain.js?1580381006050" type="text/javascript"></script>
+</script><script src="//d2yyf02s9xqns0.cloudfront.net/domain.js?1580381011109" type="text/javascript"></script>
 <script>
 $(document).ready(function () {
 	
@@ -59,9 +89,16 @@ $(document).ready(function () {
 	function block_external_url(){
 		var comp = new RegExp(location.host);
 		$('a').each(function(){
-		   if(comp.test($(this).attr('href'))){}
-		   else{
-			$(this).addClass('external');
+		   if( comp.test($(this).attr('href')) || $(this).attr('dofollow')) {
+               if($(this).attr('href') == 'http://smallseotools.com/frontend/advertLink/5' || $(this).attr('href') == 'http://smallseotools.com/frontend/advertLink/15')
+               {
+                $(this).addClass('external');
+                $(this).attr("rel","nofollow");
+               }
+           }
+		   else
+           {
+            $(this).addClass('external');
 			$(this).attr("rel","nofollow");
 		   }
 		});
@@ -164,7 +201,7 @@ $(document).ready(function () {
 	<!-- wrapper -->
     <section class="wrapper">
         <div class="container">
-        	        	<!-- Main Content --->
+        	        	<!-- Main Content -->
         	<div class="main-content">
             	                <div class="col-sm-12 text-center hidden_ads" style="padding:10px;">
                 	<p style="margin:0px;">Advertisement</p> 
@@ -174,8 +211,13 @@ $(document).ready(function () {
                     <script>
                     (adsbygoogle = window.adsbygoogle || []).push({});
                     </script>
-                   <div id="grmr5111"></div>
-      <script>gPartners.show(728, 90, "grmr5111")</script>   
+                    <center id="img1" style="display:none; text-align:center;">
+                        <a href="https://www.grammarly.com/?q=grammar&amp;utm_source=placement&amp;utm_medium=cpc&amp;utm_content=72890_1&amp;utm_term=smallseotools" target="_blank" rel="nofollow">
+                          <img src="http://smallseotools.com/images/1234.png">
+                        </a>
+                    </center>
+                   <!--<div id="grmr5111"></div>
+      <script>gPartners.show(728, 90, "grmr5111")</script>   -->
                       
                       
                     
@@ -229,19 +271,317 @@ $(document).ready(function () {
             		                    					<style>
                     	.show_on_plagiarism_checker{ display:none ;}
                     </style>
-						                     		                     		<div class="ads">
+						                     		                     		<!--<div class="ads">
                             	<a href="http://smallseotools.com/frontend/advertLink/13" target="_blank">
-                                	<img src="http://smallseotools.com/imgs/ads/1463491063.jpeg" width="300px">
+                                	<img src="http://smallseotools.com/imgs/ads/1463491063.jpeg" width="300px" />
                                 </a>
-                            </div>   
+                            </div> -->  
+
+
+ <div class="col-sm-12" id="searchSecbar" style="    padding: 0px; position:relative;">
+                        <div class="form-group">
+                            <div class="input-group green shadow">
+                                <div class="input-group-addon"><i class="fa fa-search"></i></div>
+                                <input type="text" id="searchbar" autocomplete="off" placeholder="Search from seo tools" class="form-control input-lg">
+                            </div>
+                        </div>
+                    
+                    <div class="search-resultsbar">
+                        <span class="match">
+                            <a href="#">Plagiarism checker</a>
+                        </span>
+                        <span class="match">
+                            <a href="#">P<strong>lag</strong>iarism checker</a>
+                        </span>
+                        <span class="match">
+                            <a href="#">Plagiarism checker</a>
+                        </span>
+                        <span class="match">
+                            <a href="#">Plagiarism checker</a>
+                        </span>
+                    </div>
+                    </div> 
                            
                                              		<div class="ads">
-                            	<a href="https://www.plagiarismsoftware.net/" target="_blank">
+                            	<a href="https://www.plagiarismsoftware.net/" target="_blank" dofollow="1">
                                 	<img src="http://smallseotools.com/imgs/ads/1463491302.jpeg" style="width: 300px;">
+</a>
+                            </div> 
+<div class="ads">
+                            	<a href="https://www.linksmanagement.com/5-5/?utm_source=smallseotools&amp;utm_medium=media&amp;utm_campaign=top_right_sidebar_under_plagiarism_checker&amp;utm_content=300x150_DA70_Backlinks_5_Month_Hummingbird" target="_blank">
+                                	<img src="https://www.linksmanagement.com/wp-content/uploads/2017/04/300x150_DA70_Backlinks_5_Month_Hummingbird.gif" style="width: 300px;">
 </a>
                             </div>   
                         
-        		   
+                             
+
+
+        		   <style>
+						.listyle{
+							list-style: none;
+							border-bottom: 1px solid #d4d4d4;
+							overflow: hidden;
+							padding-left: 10px;
+						}
+						.spannumber{
+							float: left;
+							margin-top:10px;
+							margin-right: 3px;
+							color: gray;
+						}
+						.textstyle{
+							float: left;
+							margin-top:10px;
+							color: gray;
+							font-weight: 700;
+						}
+						.anchorstyle{
+							float: left;
+							margin-top: 3px;
+							color: gray;
+						}
+						.divstyle{
+							background: #0e8049;
+							display: inline-block;
+							float: right;
+							border-bottom: 3px solid #193a51;
+						}
+						.iconcolor{
+							padding: 5px 6px 7px 6px;
+							color: #FFF;
+							font-size: 20px;
+						}
+						.topborder{
+							border-top:3px solid #929292;
+							
+						}
+					</style>
+                                         
+                                        <ul style="padding:0px;">
+                        <div class="topborder" style="margin-top: 245px;"></div>
+                                           <h3 style="margin-top: 10px;font-weight: 800; color: #0e8049;">Popular SEO Tools</h3>
+                    	<div class="topborder"></div>
+						<li class="listyle" style="margin-top: 5px !important;">
+							<span class="spannumber">1.</span>
+							<a href="http://smallseotools.com/plagiarism-checker/">
+								<span class="textstyle">Plagiarism Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle">
+									<i class="glyphicon glyphicon-duplicate iconcolor"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">2.</span>
+							<a href="http://smallseotools.com/article-rewriter/">
+								<span class="textstyle">Article Spinner / Rewriter</span>
+							</a>
+							<span>
+                            	<div class="divstyle">
+									<i class="glyphicon glyphicon-pencil iconcolor"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">3.</span>
+							<a href="http://smallseotools.com/keyword-position/">
+								<span class="textstyle">Keyword Position Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle">
+									<i class="fa fa-line-chart iconcolor" style="font-size: 17px !important;padding: 10px 8px 6px 4px !important;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">4.</span>
+							<a href="http://smallseotools.com/grammar-checker/">
+								<span class="textstyle">Grammar Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle">
+									<i class="glyphicon glyphicon-text-background iconcolor"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">5.</span>
+							<a href="http://smallseotools.com/domain-authority-checker/">
+								<span class="textstyle">Domain Authority Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 5px 1px 5px 0 !important;">
+									<i class="icon icon-da iconcolor" style="font-size: 14px !important;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">6.</span>
+							<a href="http://smallseotools.com/google-pagerank-checker/">
+								<span class="textstyle">Google PR Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 5px 1px 5px 0 !important;">
+									<i class="icon icon-pr iconcolor" style="font-size: 14px !important;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">7.</span>
+							<a href="http://smallseotools.com/image-compression/">
+								<span class="textstyle">Image Compression Tool</span>
+							</a>
+							<span>
+                            	<div class="divstyle">
+									<i class="glyphicon glyphicon-compressed iconcolor"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">8.</span>
+							<a href="http://smallseotools.com/reverse-image-search/">
+								<span class="textstyle">Reverse Image Search</span>
+							</a>
+							<span>
+                            	<div class="divstyle">
+									<i class="glyphicon glyphicon-picture iconcolor"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">9.</span>
+							<a href="http://smallseotools.com/page-authority-checker/">
+								<span class="textstyle">Page Authority checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 5px 2px 7px 1px !important;">
+									<i class="icon icon-pa iconcolor" style="font-size: 14px !important;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">10.</span>
+							<a href="http://smallseotools.com/spell-checker/">
+								<span class="textstyle">Spell Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 5px 2px 7px 0 !important;">
+									<i class="icon icon-abc iconcolor" style="font-size: 9px !important;"></i>
+								</div>
+                            </span>
+                    	</li>
+                          <li class="listyle">
+							<span class="spannumber">11.</span>
+							<a href="http://smallseotools.com/backlink-checker/">
+								<span class="textstyle">Backlink Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="glyphicon glyphicon-link iconcolor"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">12.</span>
+							<a href="http://smallseotools.com/alexa-rank-checker/">
+								<span class="textstyle">Alexa Rank Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-area-chart iconcolor" style="font-size: 17px !important;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">13.</span>
+							<a href="http://smallseotools.com/backlink-maker/">
+								<span class="textstyle">Backlink Maker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-link iconcolor" style="padding: 5px 6px 5px 7px;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">14.</span>
+							<a href="http://smallseotools.com/domain-age-checker/">
+								<span class="textstyle">Domain Age Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-history iconcolor" style="padding: 5px 6px 7px 8px;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">15.</span>
+							<a href="http://smallseotools.com/online-ping-website-tool/">
+								<span class="textstyle">Website Ping Tool</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-feed iconcolor" style="padding: 5px 6px 7px 10px;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">16.</span>
+							<a href="http://smallseotools.com/website-seo-score-checker/">
+								<span class="textstyle">Website Seo Score Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-calculator iconcolor" style=""></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">17.</span>
+							<a href="http://smallseotools.com/keyword-density-checker/">
+								<span class="textstyle">Keyword Density Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-file-text-o iconcolor" style="padding: 5px 6px 7px 8px;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">18.</span>
+							<a href="http://smallseotools.com/website-page-size-checker/">
+								<span class="textstyle">Website Page Size Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-balance-scale  iconcolor" style="padding: 8px 6px 8px 6px;font-size: 15px !important;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">19.</span>
+							<a href="http://smallseotools.com/google-cache-checker/">
+								<span class="textstyle">Google Cache Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 2px 0px 1px 0 !important;">
+									<i class="fa fa-undo iconcolor" style="padding: 5px 6px 7px 8px;"></i>
+								</div>
+                            </span>
+                    	</li>
+                        <li class="listyle">
+							<span class="spannumber">20.</span>
+							<a href="http://smallseotools.com/mozrank-checker/">
+								<span class="textstyle">Mozrank Checker</span>
+							</a>
+							<span>
+                            	<div class="divstyle" style="padding: 6px 1px 8px 0 !important;">
+									<i class="icon-moz iconcolor" style="font-size: 10px;"></i>
+								</div>
+                            </span>
+                    	</li>
+                    </ul>
                                        		
  
                         
@@ -253,6 +593,12 @@ $(document).ready(function () {
                                 </div>
 
 <br>
+       		<div class="ads">
+                            	<a href="https://www.linksmanagement.com/5-5/?utm_medium=media&amp;utm_source=smallseotools&amp;utm_campaign=top_right_side_bar&amp;utm_content=250x125_DA_buy_links_from_0_24" target="_blank">
+                                	<img src="http://smallseotools.com/imgs/ads/1486549628.gif">
+                                </a>
+                            </div>   
+                        
 
 
 <script type="text/javascript">
@@ -292,7 +638,74 @@ $(document).ready(function () {
                             <a href="https://plus.google.com/communities/107321644028175464456" target="_blank" class="btn btn-danger btn-xs"><i class="fa fa-google"></i> Google+</a>
                         </div>
                     </div>
-
+<script>
+					function clearText(text)
+    {
+        myStr = text.toLowerCase();
+            myStr = myStr.replace(/ /g,"");
+            myStr = myStr.replace(/[^a-zA-Z0-9]+/g,"");
+            myStr = myStr.replace(/(\s)+/g, "");
+        return myStr;
+    }
+        
+    	
+						$(document).mouseup(function (e)
+						{
+							var container = $("#searchSecbar");
+						
+							if (!container.is(e.target) // if the target of the click isn't the container...
+								&& container.has(e.target).length === 0) // ... nor a descendant of the container
+							{
+								$(".search-resultsbar").hide();
+							}
+						});
+						$("#searchbar").keyup(function(){
+							showResultsbar();
+						});
+						$("#searchbar").click(function(){
+							showResultsbar();
+						});
+						
+						function showResultsbar()
+						{
+							var val = clearText($("#searchbar").val());
+							$(".search-resultsbar").html("");
+							$(".search-resultsbar").hide();
+							if(val.length < 2)
+							{
+								return false;
+							}
+							$(".search-resultsbar").show();
+							$.ajax({
+								url: "http://smallseotools.com/sidebarsearch",
+								data: 'keyword='+val,
+								dataType: 'json',
+								type: 'post',
+								success: function(result) {
+									$(".search-resultsbar").html("");
+									$.each(result, function(i, item) {
+										$(".search-resultsbar").append('<span class="match"><a href="'+item.url+'">'+item.title+ '</a></span>');
+									});
+									
+								}
+							});
+							/*var matches = 0;
+							$(".tool-footer").each(function(){
+								var myVal = clearText($(this).text());
+								if(myVal.match(val)){
+									matches++;
+									var href = $(this).parent().attr("href");
+									var re = new RegExp(val,"gi");
+									var toolName = $(this).text().replace(re, "<strong>"+val+"</strong>");
+									$(".search-resultsbar").append('<span class="match"><a href="'+href+'">'+toolName+ '</a></span>');
+								}
+							});
+							if(matches < 1)
+							{
+								$(".search-resultsbar").html("No result found related to your keyword...");
+							}*/
+						}
+					</script>
 <!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -320,7 +733,7 @@ $(document).ready(function () {
                     	<li>
                         	Small SEO Tools is one of the biggest free SEO tools provider.
                             All tools are of premium quality and totally free. <br>
-                        	Copyright © 2012-2016 by SmallSEOTools.com. All Rights Reserved.
+                        	Copyright © 2012-2017 by SmallSEOTools.com. All Rights Reserved.
                         </li>
                     </ul>
                 </div>
@@ -353,10 +766,12 @@ $(document).ready(function () {
                         </li>
                     </ul>
                 </div>
-                
             </div>
         </div>
         
+<script src="http://smallseotools.com/assets/frontend-new/lib/word-count.js"></script>
+<script src="http://smallseotools.com/assets/frontend-new/lib/word-count.custom.js"></script> 
+	  
 <script>
 $(".close-model").click(function(){
 	hideModel();
@@ -364,7 +779,8 @@ $(".close-model").click(function(){
 $(".model-bg").click(function(){
 	hideModel();
 });
-</script>            </section><!-- ./Footer --->
+</script>
+           </section><!-- ./Footer --->
 </div>
 	
 
