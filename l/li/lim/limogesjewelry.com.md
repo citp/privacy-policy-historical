@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215145237id_/http%3A//www.limogesjewelry.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limogesjewelry.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618195159id_/http%3A//www.limogesjewelry.com/customer-service/privacy) for the most accurate reproduction.*
 
 # Limoges Jewelry Privacy Policy
 
@@ -31,4 +31,4 @@ Chicago, IL 60618
 
 Or Email:
 
-[Click here](http://www.limogesjewelry.com/contactus/ "Contact us") to contact us
+[Click here](https://www.limogesjewelry.com/contactus/ "Contact us") to contact us
