@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216112324id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618211507id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
 
 # Freeflys - Privacy
 
@@ -92,19 +92,15 @@ You further acknowledge that Freeflys operates in the United States. You agree (
 
 Freeflys or its successors and assigns may amend the terms and conditions of the Privacy Policy at any time, or substitute a different Agreement by posting a revised version, on the Freeflys Sites. Please refer to our site periodically for updates. Amendments shall become effective upon posting. As we continue to develop our business, we might sell or buy certain assets. In such transactions, customer information generally is one of the transferred business assets. If Freeflys or its assets are acquired, customer information will of course be one of the transferred assets.
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the Freeflys email list, please [click here](http://www.freeflys.com/unsub.php) or write to us at Freeflys, 303 Ray Street, Pleasanton, CA 94566 and request to be removed.
+If you are not in agreement with the terms of this Policy, please unsubscribe from the Freeflys email list, please [click here](http://www.freeflys.com/unsub.php) or write to us at Freeflys, 4725 First St. Suite 215, Pleasanton, CA 94566 and request to be removed.
 
-If you feel that Freeflys is not abiding by its posted privacy policy, write us at Freeflys, 303 Ray Street, Pleasanton, CA 94566.
+If you feel that Freeflys is not abiding by its posted privacy policy, write us at Freeflys, 4725 First St. Suite 215, Pleasanton, CA 94566.
 
-**Bath and Body Works, Honolulu set Giveaway rules**
+**Bath and Body Works hand soap set, Sephora lip set Giveaway rules**
 
-You must be at least 18-years-old and a resident of the continental United States, including Alaska and Hawaii, to enter. No purchase necessary to enter or win. Contest runs from October 1, 2016 at 12:00 a.m. PST to February 20, 2017 at 11:59 p.m. PST. The winners for each of the prizes will be chosen February 26, 2017 and notified via email. The winners will have 7 days to claim their prize, and must do so by replying to the email they receive from Freeflys. The Giveaway Terms/Rules are subject to change at any time without notice.
+You must be at least 18-years-old and a resident of the continental United States, including Alaska and Hawaii, to enter. No purchase necessary to enter or win. Contest runs from January 1, 2017 at 12:00 a.m. PST to June 15, 2017 at 11:59 p.m. PST. The winners for each of the prizes will be chosen June 20, 2017 and notified via email. The winners will have 7 days to claim their prize, and must do so by replying to the email they receive from Freeflys. The Giveaway Terms/Rules are subject to change at any time without notice.
 
-**Bath and Body Works Holiday set, eos lip balm set, Ghirardelli chocolate bag, Kitchen Aid utensils set Giveaway rules**
-
-You must be at least 18-years-old and a resident of the continental United States, including Alaska and Hawaii, to enter. No purchase necessary to enter or win. Contest runs from November 16, 2016 at 12:00 a.m. PST to February 20, 2017 at 11:59 p.m. PST. The winners for each of the prizes will be chosen February 26, 2017 and notified via email. The winners will have 7 days to claim their prize, and must do so by replying to the email they receive from Freeflys. The Giveaway Terms/Rules are subject to change at any time without notice.
-
-NO PURCHASE IS NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. ALL FEDERAL, STATE, LOCAL, AND MUNICIPAL LAWS AND REGULATIONS APPLY. VOID WHERE PROHIBITED. Participation constitutes entrant's full and unconditional agreement to and acceptance of these Official Rules. Sweepstakes is sponsored by Freeflys, 303 Ray Street, Pleasanton, CA 94566 (the "Sponsors"), who is solely responsible for all aspects of this Sweepstakes.
+NO PURCHASE IS NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. ALL FEDERAL, STATE, LOCAL, AND MUNICIPAL LAWS AND REGULATIONS APPLY. VOID WHERE PROHIBITED. Participation constitutes entrant's full and unconditional agreement to and acceptance of these Official Rules. Sweepstakes is sponsored by Freeflys, 4725 First St. Suite 215, Pleasanton, CA 94566 (the "Sponsors"), who is solely responsible for all aspects of this Sweepstakes.
 
 Eligibility: Sweepstakes is open to all legal residents of the United States and District of Columbia who are 13 years of age or older as of the beginning of the Sweepstakes. Employees, officers, and directors (including immediate family members and members of the same household) of the Sponsors are not eligible to participate. All federal, state and local laws and regulations apply. Void where prohibited.
 
