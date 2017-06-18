@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webtechlearning.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205050949id_/http%3A//www.webtechlearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtechlearning.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618020112id_/http%3A//www.webtechlearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**CHANDIGARH NO.1 - Web Education Academy** \- Admissions on 1st come 1st basis - **Lowest Fee, Learn Unlimited!**
+**CHANDIGARH NO.1 - Web Education Academy** \- Admissions on 1st come 1st basis - **Lowest Fee, Learn Unlimited! -[Book a Free Demo Class](http://www.webtechlearning.com/book-demo-class/) **
 
 ## Webtech Learning
 
