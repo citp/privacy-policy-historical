@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razorpay.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506212922id_/https%3A//razorpay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorpay.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618065456id_/https%3A//razorpay.com/privacy) for the most accurate reproduction.*
 
 # Razorpay · Privacy Policy
 
