@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130031529id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.co.uk privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618021921id_/http%3A//www.ehow.co.uk/privacy.html) for the most accurate reproduction.*
 
 # eHow | How to Videos, Articles, & More - Discover the expert in you. | eHow UK
 
@@ -107,4 +107,4 @@ We utilize the self-assessment approach to assure our compliance with our privac
 
 Leaf Group and eHow are registered trademarks of Leaf Group, Ltd. in the United States and other countries.
 
-Copyright © 2016. Leaf Group, Ltd.
+Copyright © 2017. Leaf Group, Ltd.
