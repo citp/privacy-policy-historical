@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126173227id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsumo.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618085954id_/http%3A//www.appsumo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -87,4 +87,7 @@ Sumo Group Inc. (d/b/a "AppSumo")
 Austin, TX 78702
 
 For Customers  
-Customer Service Inquiries | support@appsumo.com 
+Customer Service Inquiries | support@appsumo.com   
+Terms and Conditions
+
+[Terms](http://www.appsumo.com/terms-of-use/)
