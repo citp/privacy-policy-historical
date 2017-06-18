@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddysgame.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119075839id_/http%3A//daddysgame.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddysgame.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618175100id_/http%3A//www.daddysgame.com/site/privacy) for the most accurate reproduction.*
 
 # privacy policy
 
