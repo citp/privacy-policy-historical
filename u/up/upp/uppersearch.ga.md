@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppersearch.ga privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201034255id_/http%3A//www.uppersearch.ga/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppersearch.ga privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618235854id_/http%3A//uppersearch.ga/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy OF UpperSearch
 
