@@ -1,88 +1,146 @@
-> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424080434id_/http%3A//www.wilko.com/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilkinsonplus.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618071236id_/http%3A//www.wilko.com/privacy-policy/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at wilko.com
 
-**1: Your Privacy**
+## 1: Your Privacy
 
-  * 1.1 Wilko Retail Limited (the "Company", "We" or "Us") is committed to protecting and respecting the privacy of the users of this website www.wilko.com (the "Website"). This privacy policy explains how we collect, store, use and otherwise process any personal data that we collect from you, or that you provide to us. 
-  * 1.2 You must read this privacy policy carefully. By accessing and continuing to use the Website you confirm that you have read, understood and agree to the terms of this privacy policy. 
+Wilko Retail Limited ("Wilko", "We" or "Us") is committed to protecting and respecting your privacy.
 
+This policy together with any documents referred to in it explains how we collect, store, use and otherwise process any personal information. 
 
+Please read this privacy policy carefully. 
 
-**2: Who we are**
+By accessing and continuing to use our website you confirm that you have read, understood and agree to the terms of this privacy policy and our Website [Terms of Use](https://web.archive.org/page/terms-of-use).
 
-Wilko Retail Limited is a company registered in England and Wales with company number 0365335 and whose registered office is at JK House, Roebuck Way, Manton Wood, Worksop S80 3EG. The Company is registered as a data controller with the Information Commissioner's Office (registration number Z6046528). 
+Back to top ￪
 
-**3: Information we may collect from you**
+## 2: Who we are
 
-  * 3.1.1 Information that you provide in using our Website including (without limitation) information at the time of registering and setting up your account, subscribing to our services and email circulars, participating in our customer satisfaction surveys and any other services that we may offer from time to time. We may also ask you for information when you enter into a competition or if you have cause to make a complaint or report a problem with the Website.
-  * 3.1.2 If you contact us in writing or over the phone, we may keep a record of that communication.
-  * 3.1.3 We may also ask you to participate in surveys and other market research. Your participation in any market research is completely voluntary.
-  * 3.1.3 Details of your transactions on our Website and of the fulfilment of your orders.
-  * 3.1.4 Details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access. 
-  * 3.1.5 We make use of Google Analytics Demographics and Interest Reporting. We may also make use of other Google Analytics for Display Advertising features, including Remarketing, Google Display Network Impression Reporting and/or the DoubleClick Campaign Manager integration. We are required by Google to disclose the following information to you in our Privacy Statement in connection with our use of any Google Analytics for Display Advertising features on our site: 
-    * You may opt out of Google Analytics for Display Advertising or customise Google Display Network ads by using the Google Ads Settings page (<https://www.google.com/settings/ads> ). You may also prevent your data from being collected and used by Google Analytics by opting out through the use of the Google Analytics Opt-out Browser Add-on. (<https://tools.google.com/dlpage/gaoptout> )
-    * Where Wilko makes use of the Google Analytics for Display Advertising Remarketing feature, Wilko will use such Remarketing feature to advertise online and third party vendors, including Google, may show Wilko ads on sites across the Internet.
-    * Wilko and third party vendors, including Google, may use first-party cookies (such as the Google Analytics cookies) and third party cookies (such as the DoubleClick cookie) together to (a) inform, optimize and serve ads based on a user’s past visits to the Wilko site, and/or (b) report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to the Wilko sites.
-    * Data from Google Analytics Demographics and Interest Reporting may be utilised by Wilko to help recognise and understand user preferences, to make improvements to the Wilko site, to choose content and advertising to display to you, and for other business purposes that will allow Wilko to better serve you.
+Wilko Retail Limited is a company registered in England and Wales with company number 0365335 and whose registered office is at JK House, Roebuck Way, Manton Wood, Worksop S80 3EG.
 
+For the purposes of the Data Protection Act 1998 Wilko is registered as a data controller with the Information Commissioner's Office (registration number Z6046528).
 
+Back to top ￪
 
-**4: Where we store your information**
+## 3: Information we collect and how we use it
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+**How do we collect information?**  
+Information about you may be:
 
-**5: Uses made of the information**
-
-  * 5.1.1 To ensure that our Website is personalised to your taste, that you are provided with the most suitable content and recommended goods that may be of interest to you and to notify you of our offers, discounts, promotions, and competitions;
-  * 5.1.2 To carry out our obligations arising from any transactions you enter into with us;
-  * 5.1.3 To notify you about changes to our services;
-  * 5.1.4 To maintain and administer any registered account that you hold with us;
-  * 5.1.5 To undertake market research, assessment and analysis so that we can review, develop and improve the services that we offer to you and our other customers.
-
-
-  * 5.2 We will not disclose information that will identify you to our advertisers, but we reserve the right to provide them with aggregate information about the collective users of our Website (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the audience they want to target (for example, women in a certain location). We may make use of the information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience.
+  * • Provided to us by you;
+  * • Collected directly by us;
+  * • Received by us from Wilko branded sources and third parties managed by Wilko.
 
 
 
-**6: Ways to unsubscribe from our newsletters/emails**
+Information is collected through various sources including our website, in store, over the phone, by email, by written correspondence and also via other websites and services we provide. The information is gathered by a variety of means including:
 
-  * 6.1 We will email you from time to time with offers and information you might find useful. If you would prefer not to receive any further correspondence or communications from us in the future please click the link at the bottom of our emails or update your account preferences. You can also write to us at Wilko Retail Ltd, JK House, Roebuck Way, Manton Wood, Worksop, Notts. S80 3EG, call us on 08000 329 329, or email enquiries@wilko.com to unsubscribe from our mailing list.
-
-
-
-**7: IP addresses and cookies**
-
-  * 7.1 This Website uses small data files known as cookies ("Cookies") to collect information about the people that use our Website. When you use the Website, Cookies are transferred to and stored on your computer's hard drive. They collect personal information about you to enable us to record your preferences. This means we can provide you with a more personalised service including offering you goods and services that are more suitable to your taste, speeding up your searches, and recognising you when you return to our Website. 
-  * 7.2 You can reject these Cookies by changing the setting on your website browser but you should be aware this may impair the functionality of the Website. Please note that our advertisers and other Website suppliers may also use Cookies as part of their service to us. Although these Website suppliers are carefully selected and monitored, we do not have control over their use of their Cookies. 
-
-
-
-**8\. Disclosure of your information**
-
-  * 8.1 We may disclose your information:
-  * 8.1.1 to any member of our group of companies and to our third party suppliers who assist us in performing our services (such as our delivery companies and market research); and 
-  * 8.1.2 to third parties in the event that we sell or buy any business or assets (and where it is necessary to disclose your information); and
-  * 8.1.3 if we are under a duty to disclose or share your information in order to comply with any legal obligation or to enforce or apply our terms of use and other agreements that we may have with you, or to protect the rights, property, or safety of the Company, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * • using our website;
+  * • participating in live chat, discussion boards, or other social media functions we operate;
+  * • registering and setting up an account with us;
+  * • subscribing to our services and circulars;
+  * • participating in our customer satisfaction surveys and any other services that we may offer from time to time;
+  * • entering into our competitions;
+  * • contacting us by any means (including making a complaint or reporting a problem to us).
 
 
 
-**9: Your Rights**
+**What information do we collect?**
 
-  * 9.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us on 08000 329 329.
-  * 9.2 Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. You should be aware that if you follow a link to any of these websites they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any information to these websites.
+The information we collect may include:
 
-
-
-**10: Changes to our privacy policy**
-
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you on the e-mail you provide.
-
-**11: Contact**
-
-  * 11.1 If you would like to know what information we have about you please contact customer services and make an access request. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-  * 11.2 Any questions, comments and requests regarding this privacy policy are welcomed and should be addressed to customer services on 08000 329 329.
-
+  * • Your name;
+  * • Your contact details including email, address and/or phone number;
+  * • Age or date of birth;
+  * • Photograph;
+  * • Interests, feedback and survey responses;
+  * • Correspondence - when you contact us either in writing or over the phone;
+  * • Details of your transactions and of the fulfilment of your orders; 
+  * • Financial and/or payment card information;
+  * • Details of your visits to our website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access; and
+  * • Google Analytics Demographics and Interest Reporting (please see our Cookies Policy for more information).
 
 
-Browse
+
+**How do we use the information?**
+
+We may use the information in the following ways:
+
+  * To contact you via email, telephone, SMS, letter, social media, push notification or equivalent (where you have given us consent);
+  * To ensure that our website is personalised to your taste and that you are provided with the most suitable content;
+  * To provide or allow Wilko branded products (provided by third parties acting on behalf of Wilko) to provide you with information about other goods and services and to notify you of our offers, discounts, promotions, and competitions that are similar to those that you have previously purchased or enquired about;
+  * To carry out our obligations arising from any contracts or transactions you enter into with us;
+  * To notify you about changes to our services;
+  * To maintain and administer our website and any registered account that you hold with us;
+  * Where you are approached or asked to participate in a market survey to undertake market research, assessment and analysis so that we can review, develop and improve the services that we offer to you and our other customers.
+
+
+
+**Where do we store the information?**
+
+All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
+
+The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this privacy policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our site and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+
+Back to top ￪
+
+## 4: Disclosure of your information
+
+We may share your information with selected third parties:
+
+  * including any member of our group of companies and our third party suppliers who assist us in performing our services (such as our delivery companies, advertisers and market researchers);
+  * in the event that we sell or buy any business or assets (and where it is necessary to disclose your information);
+  * if Wilko or substantially all of its assets are acquired by a third party;
+  * including analytics and search engine providers that assist in the improvement and optimisation of our website (on an anonymised basis);
+  * including credit reference agencies if your credit score is a condition of entering a contract/transaction with you;
+  * including advertisers and advertising networks that require the information to select and serve relevant promotions, adverts and offers to you. We will not disclose information that will identify you to our advertisers, but we reserve the right to provide them with aggregate information about the collective users of our services (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the audience they want to target (for example, women in a certain location). We may make use of the information we have collected from you to enable us to comply with our advertisers' wishes by displaying their advertisement to that target audience; and
+  * if we are under a duty to disclose or share your information in order to comply with any legal obligation or to enforce or apply our terms of use and other agreements that we may have with you, or to protect the rights, property, or safety of Wilko, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
+
+
+
+Back to top ￪
+
+## 5: IP addresses and cookies
+
+Our website uses small data files known as cookies ("Cookies") to collect information about the people that use our website. When you use the website, Cookies are transferred to and stored on your computer's hard drive. They collect personal information about you to enable us to record your preferences. This means we can provide you with a more personalised service including offering you goods and services that are more suitable to your taste, speeding up your searches, and recognising you when you return to our website.
+
+You can reject these Cookies by changing the setting on your website browser but you should be aware this may impair the functionality of the website. Please note that our advertisers and other website suppliers may also use Cookies as part of their service to us. Although these website suppliers are carefully selected and monitored, we do not have control over their use of Cookies.
+
+For more information about Cookies please see our [Cookies Policy](https://web.archive.org/page/cookie-page). 
+
+Back to top ￪
+
+## 6: Ways to unsubscribe from our correspondence
+
+We may contact you from time to time with offers and information we think you might find useful. If you would prefer not to receive any further correspondence or communications from us in the future please click the link at the bottom of any of our emails, update your account preferences or check certain boxes on the forms we use to collect your information. You can also contact Customer Care at any time to unsubscribe from our mailing list.
+
+Back to top ￪
+
+## 7: Your Rights
+
+You have the right to ask us not to process your personal information for marketing purposes. Where possible, we will inform you (before collecting your information) if we intend to use your information for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your information. You can also exercise the right at any time by contacting Customer Care.
+
+Our website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. You should be aware that if you follow a link to any of these websites they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any information to these websites. 
+
+Back to top ￪
+
+## 8: Changes to our privacy policy
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you on the e-mail you provide. Please check this page frequently to see any updates or changes to our privacy policy.
+
+Back to top ￪
+
+## 9: Contact
+
+If you would like to know what information we have about you please contact Customer Care and make an access request. Any access request may be subject to a fee of £10 towards our costs in providing you with details of the information we hold about you. You also have the right to request that inaccurate personal information is corrected, as well as that personal information is deleted and destroyed when causing damage or distress. 
+
+Wilko will not keep your personal information longer than is necessary in connection with our customer relationship. 
+
+Any questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Care on:  
+Telephone: 08000 329 329  
+Email: [enquiries@wilko.com](mailto:enquiries@wilko.com)  
+Address: Wilko Retail Ltd, JK House, Roebuck Way, Manton Wood, Worksop, Notts. S80 3EG 
+
+Back to top ￪
