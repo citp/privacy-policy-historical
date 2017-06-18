@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123172846id_/http%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inchcalculator.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618111914id_/http%3A//www.inchcalculator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inch Calculator
 
@@ -33,6 +33,8 @@ Please consult these advertising partner’s privacy policies for their sites.
 These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on inchcalculator.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.  
 inchcalculator.com has no access to or control over these cookies that are used by third-party advertisers. 
 
+Inchcalculator.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. 
+
 ## Third Party Privacy Policies
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. inchcalculator.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: Privacy Policy Links.  
@@ -57,4 +59,4 @@ Should we update, amend or make any changes to our privacy policy, those changes
 
 ## Contact
 
-Contact us via email at joe@josephmsexton.com.
+Please [contact us](https://web.archive.org/contact/) with all questions and concerns.
