@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionweek.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117113705id_/http%3A//fashionweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionweek.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619001913id_/http%3A//fashionweek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fashion Week
 
