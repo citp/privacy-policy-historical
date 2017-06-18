@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delawareinc.com privacy policy that was archived on 2015-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150813205310id_/https%3A//www.delawareinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delawareinc.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618143140id_/https%3A//www.delawareinc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvard Business Services, Inc
 
