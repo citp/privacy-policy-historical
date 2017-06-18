@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningjquery.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232514id_/http%3A//www.learningjquery.com/1899-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningjquery.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619000304id_/http%3A//www.learningjquery.com/1899-2) for the most accurate reproduction.*
 
 # Learning jQuery Privacy Policy | Learning jQuery
 
