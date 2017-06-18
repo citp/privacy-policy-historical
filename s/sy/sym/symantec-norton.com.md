@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symantec-norton.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230173004id_/http%3A//www.symantec-norton.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symantec-norton.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618020744id_/http%3A//www.symantec-norton.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Norton Products by Symantec | Privacy Policy
 
