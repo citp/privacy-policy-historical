@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610083525id_/https%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vps.net privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618230555id_/https%3A//www.vps.net/about-vps-net/legal/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - VPS.NET
+# Privacy Policy - VPS.NETVPS.NET
 
-### [](http://www.etrust.org/cert/459221.html)Effective Date: August 29, 2014
+### [](https://www.privacytrust.com/cert/766452.html)Effective Date: August 29, 2014
 
 This Privacy Policy discusses how Hosting Services, Inc. (HSI) collects, uses, maintains and discloses information collected from our customers, visitors to our websites, individuals who contact us and visitors to our customers’ websites (all: “User” or “Users”). Please review our Privacy Policy in conjunction with our Acceptable Use Policy (AUP) and, if applicable, your contract with us. The terms of this Privacy Policy are in addition to the terms of our AUP and contract. The purpose of this Privacy Policy is to provide Users with an understanding of what types of information we collect, how we treat it, and choices they may have related to this information. We reserve the right to change our Privacy Policy at any time. Any changes to this Privacy Policy, other than necessary to remedy typographical errors, will be announced on our home page, as well as in email to the primary address Users have on file with us. 
 
 Upon request, we provide Users with access to all information they have provided to us. Users can access this information by e-mailing us at billing@vps.net. If their personally identifiable information changes, Users may correct, update, or delete inaccuracies through [https://control.vps.net]. If Users are having trouble accessing the contact address above, our customer support team can assist them, and they can be contacted at 1-888-395-0752. Users may also contact us at the address below to correct, amend or delete information we maintain about them.
 
-HSI complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce. These frameworks address the collection, use and retention of personal information from European Union member countries and Switzerland. HSI has certified that it adheres to both Safe Harbor Privacy Principles’ respective provisions addressing notice, choice, onward transfer, security, data integrity, access and enforcement. The EU has recognized the US Safe Harbor as providing adequate data protection. The seven applicable Safe Harbor Principles can be found in this Privacy Policy. This Privacy Policy covers information collected during the pure base process. If Users have questions or complaints regarding our Privacy Policy or practices, please contact us at sales@vps.net or call 1-877-829-2788. If Users are not satisfied with our response, Users can contact eTRUST here.
+HSI complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. [Department of Commerce](https://www.commerce.gov/page/eu-us-privacy-shield) regarding the collection, use, and retention of personal information transferred from the European Union to the United States. HSI has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-HSI's Safe Harbor Certification can be found here: [VPS Safe Harbor Certification](http://www.etrust.org/cert/459221.html)
+Individuals have the right to access their personal data after careful screening of account verification and security protocol. Personal data will not be disclosed to third parties. HSI will be subject to investigatory and enforcement powers of the Federal Trade Commission (FTC) if necessary. HSI will also assume liability in cases of onward transfers to third parties.
 
 ## Information Collection and Use
 
@@ -101,6 +101,8 @@ We will share Users’ personal information with third parties only in the ways 
 
 HSI may aggregate information covered by this Privacy Policy and disclose it outside our business. This information will not identify Users individually.
 
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Uk2Group remains liable.
+
 ### Linked/Advertiser Sites
 
 From time-to-time, we may include links or banners for third-party sites, including sites that advertise. This privacy policy does not govern the information these sites collect when you visit them. These sites will know that you have visited them from our site.
@@ -113,9 +115,13 @@ The security of Users’ personal information is important to us. We use commerc
 
 We will retain User’s information for as long as their account is active or as needed to provide Users services. If Users wish to cancel their account or request that we no longer use their information to provide them services, contact us at billing@vps.net. We will retain and use User information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Following termination of the Users’ agreement with us, Users will have no access to this information, and we may delete it for any reason, at any time.
 
+We retain your information for up to 24 months, and often beyond, following your last transaction with us
+
 ### Dispute Resolution
 
-You can raise any concerns with us, or with PrivacyTrust [(www.privacytrust.org/complaint/raise_privacy_complaint.php)](http://www.privacytrust.org/complaint/raise_privacy_complaint.php).
+If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, you can also submit your complain to Privacy Trust, an independent third party. Visit [(https://www.privacytrust.com/drs/uk2group)](https://www.privacytrust.com/drs/uk2group) to file a complaint.
+
+Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism. 
 
 ### Business Transitions
 
@@ -130,4 +136,4 @@ HSI
 Marketing - Re: Privacy Policy  
 517 W 100 N, Suite 225  
 Providence, UT 84332  
-Last Updated: August 22, 2014
+Last Updated: September 30, 2016
