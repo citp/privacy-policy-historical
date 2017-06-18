@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heybaby.sg privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206234302id_/http%3A//www.heybaby.sg/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heybaby.sg privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618070821id_/http%3A//www.heybaby.sg/privacy_statement.html) for the most accurate reproduction.*
 
 # Hey ♥ Baby - Privacy Statement
 
@@ -15,7 +15,7 @@ Government of Singapore Privacy Statement
     * For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
   5. To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.
   6. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
-  7. Please contact [NPTD_Contact@nptd.gov.sg](mailto:nptd_contact@nptd.gov.sg) if you: 
+  7. Please contact [sg_feedback@pmo.gov.sg](mailto:sg_feedback@pmo.gov.sg) if you: 
     * have any enquires or feedback on our data protection policies and procedures,
     * need more information on or access to data which you have provided to us in the past.
 
