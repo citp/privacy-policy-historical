@@ -1,14 +1,21 @@
-<!--The following is the downloaded HTML source of the valentus.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119002904id_/http%3A//www.valentus.com/corp/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the valentus.com privacy policy that was archived on 2017-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170618171035id_/http%3A//valentus.com/corp/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "HTML5"><html><head>
 <title>Valentus :: Privacy Policy</title>
-<!-- server ip 172.24.16.184 -->
+<!-- 54.165.90.203 hello -->
+
+
+<meta name="viewport" content="width=1200">
+
+
+<!-- server ip 172.24.16.185 -->
 <!-- Valentus is up and running -->
 <link href="/htdocs/favicon.ico" rel="short icon">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"></script>
 <link type="text/css" rel="stylesheet" href="https://fast.fonts.net/cssapi/d6afcaa8-7289-4386-a8f1-72f7701b371a.css">
-<link href="/htdocs/corp.css?1" rel="stylesheet" type="text/css">
+<link href="/htdocs/corp.css?7" rel="stylesheet" type="text/css">
+
 <script type="text/javascript">
 <!--
 function ow (x,y) {
@@ -23,11 +30,23 @@ function ow (x,y) {
 <form name="JOINPAGE" method="post" action="https://www.valentus.com/corp/cjoin" style="margin:0px">
 <input type="hidden" name="enroller" value="">
 <input type="hidden" name="SOURCE" value="">
+<input type="hidden" name="lang" value="en">
+<input type="hidden" name="did" value="">
+</form>
+<form name="LANG" method="post" style="margin:0px">
+<input type="hidden" name="enroller" value="">
+<input type="hidden" name="SOURCE" value="">
+<input type="hidden" name="did" value="">
+<input type="hidden" name="lang">
 </form>
 <script type="text/javascript">
 <!--
 function join() {
       document.forms['JOINPAGE'].submit();
+}
+function changeLang(x) {
+   document.forms['LANG'].elements['lang'].value = x;
+   document.forms['LANG'].submit();
 }
 -->
 </script>
@@ -47,9 +66,9 @@ function join() {
      </script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
     <div id="loginBox">
      <ul>
-      <li><a href="/login" class="login">Sign In</a></li>
+      <li><a href="https://www.valentus.com/login" class="login">Sign In</a></li>
       <li style="padding-right:8px;">/</li>
-      <li><a href="javascript:join()" class="join">Order Now!</a></li>
+            <li><a href="javascript:join()" class="join">Order Now!</a></li>
      </ul>
     </div><!-- login box -->
    </div><!-- top right -->
@@ -59,19 +78,21 @@ function join() {
  <div id="headerColoredLine"></div>
  <div id="nav">
   <div id="navCenter">
-   <div id="navRight"> 
-    <ul>
+   <div id="navRight">
+    <div id="lines"><a href="javascript:navToggle()" id="linesContent">☰ Menu</a></div> 
+    <ul id="navBlock" class="mobileHide">
      <li><a href="/corp/index">Home</a></li>
      <li class="slash">/</li>
      <li><a href="/corp/ourCompany">Company</a></li>
      <li class="slash">/</li>
-     <li><a href="/corp/products">Products</a></li>
+     <li><a href="https://www.valentusproducts.com" target="_blank">Products</a></li>
      <li class="slash">/</li>
      <li><a href="/corp/testimonials">Testimonials</a></li>
      <li class="slash">/</li>
-     <li><a href="/htdocs/CompensationPlan.pdf" target="_blank">Income Opportunity</a></li>
+     <li><a href="/corp/payPlan">Income Opportunity</a></li>
      <li class="slash">/</li>
      <li><a href="javascript:join()" class="join">Order</a></li>
+     <li class="signIn"><a href="https://www.valentus.com/login">Sign In</a></li>
     </ul>
    </div> <!-- nav right -->
   </div><!-- navCenter -->
@@ -104,15 +125,15 @@ When you are on the Valentus site and are asked for personal information, you ar
     <div id="footerRight">
      <div id="footerLinks">
        <a href="/corp/index">Home</a> |
-       <a href="/corp/products">Products</a> |
+       <a href="https://www.valentusproducts.com" target="_blank">Products</a> |
        <a href="/corp/ourCompany">Company</a> |
-       <a href="/htdocs/CompensationPlan.pdf" target="_blank">Income Opportunity</a> |
+       <a href="/corp/payPlan">Income Opportunity</a> |
        <a href="javascript:join()" class="join">Order</a>
      </div><!-- footer LInks -->
      <div id="footerCopy">
-        Copyright © 2016 Valentus.com. All rights reserved.<br>
+        Copyright © 2017 Valentus.com. All rights reserved.<br>
         <a href="/corp/privacyPolicy" class="first">Privacy Policy</a> / 
-        <a href="/htdocs/policiesAndProcedures.pdf">Policies And Procedures</a> / 
+        <a href="/corp/policies">Policies And Procedures</a> / 
         <a href="/corp/contactUs">Contact Us</a>
      </div>
     </div><!-- footer right -->
@@ -121,6 +142,7 @@ When you are on the Valentus site and are asked for personal information, you ar
  </div><!-- footer -->
 
 </div><!-- outermost -->
+
 <script type="text/javascript">
 <!--
 function setHeight () {
@@ -133,10 +155,10 @@ function setHeight () {
  var mainMinHeight = greaterHeight - jQuery('#footer').height() - jQuery('#header').height();
  document.getElementById('content').style.minHeight = mainMinHeight + "px";
 }
-
 setHeight();
 -->
 </script>
+
 <script type="text/javascript">
 <!--
 var docHeight = jQuery(document).height();
@@ -176,6 +198,12 @@ function MakeCenter(elementId)  {
            var _scrollHeight = jQuery(document).scrollTop();
           }
     }
+
+function navToggle() {
+   jQuery('#navBlock').toggleClass('mobileShow');
+   jQuery('#navBlock').toggleClass('mobileHide');
+
+}
 
 -->
 </script>
