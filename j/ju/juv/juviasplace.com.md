@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the juviasplace.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229191645id_/http%3A//www.juviasplace.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juviasplace.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618181834id_/https%3A//www.juviasplace.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Terms: Privacy
-
-**Privacy Policy**
+# Privacy Policy – Juvia’s Place
 
 **What information do we collect?**
 
@@ -13,9 +11,9 @@
 
 
 
- **How do we use your information?**
+**How do we use your information?**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
   * To allow us to better service you in responding to your customer service requests.
@@ -25,7 +23,7 @@ We may use the information we collect from you when you register, purchase produ
 
 
 
- **How do we protect visitor information?**
+**How do we protect visitor information?**
 
 We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
 
@@ -67,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20161229191645id_/http%3A//www.juviasplace.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/pages/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
