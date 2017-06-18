@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the leagueofgraphs.com privacy policy that was archived on 2016-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161228224126id_/http%3A//www.leagueofgraphs.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the leagueofgraphs.com privacy policy that was archived on 2017-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170618114919id_/http%3A//leagueofgraphs.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
         
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css">        <link rel="stylesheet" type="text/css" href="//cdn.leagueofgraphs.com/style.css?v=47446">
-        <link rel="stylesheet" type="text/css" href="//cdn.leagueofgraphs.com/style.sprite.css?v=6.24.1">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css">        <link rel="stylesheet" type="text/css" href="//cdn.leagueofgraphs.com/style.css?v=1497290484">
+        <link rel="stylesheet" type="text/css" href="//cdn.leagueofgraphs.com/style.sprite.css?v=7.12.1">
         <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -48,11 +48,11 @@
             var script = document.createElement('script');
             var tstamp = new Date();
             script.id = 'factorem';
-            script.src = 'http://cdm.cursecdn.com/js/leagueofgraphs/cdmfactorem_min.js?misc=' + tstamp.getTime();
+            script.src = '//cdm.cursecdn.com/js/leagueofgraphs/cdmfactorem_min.js?misc=' + tstamp.getTime();
             script.async = false;
             script.type = 'text/javascript';
             document.head.appendChild(script);
-        </script><script id="factorem" src="http://cdm.cursecdn.com/js/leagueofgraphs/cdmfactorem_min.js?misc=1580362210209" type="text/javascript"></script>
+        </script><script id="factorem" src="//cdm.cursecdn.com/js/leagueofgraphs/cdmfactorem_min.js?misc=1580362208738" type="text/javascript"></script>
     
     <script>
         var mobileAdsSlots = {'02': true, '03': true};
@@ -79,6 +79,21 @@
         <section class="top-bar-section medium-19">
             <ul class="right">
 
+                                    <li class="show-for-small-down" id="searchArea">
+                        <form id="topnavbarform-mobile" verb="search">
+                            <div class="row collapse">
+                                <div class="medium-20 small-18 columns">
+                                    <input class="search_field" type="text" name="wg_q" autocomplete="off" placeholder="Champion, Summoner...">
+                                </div>
+                                <div class="medium-4 small-6 columns">
+                                    <button class="search_button" type="submit">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        </form>
+                    </li>
+                
                                                             <li class="hide-for-medium-up has-dropdown ">
                             <a href="#">Champions</a>
 
@@ -114,6 +129,10 @@
                                                                     <li class="">
                                         <a href="/champions/masteries" data-link-section="champions" data-link-page="masteries" data-filters="champions,ratings,roles">
                                                Masteries                                        </a>
+                                    </li>
+                                                                    <li class="">
+                                        <a href="/champions/other-stats" data-link-section="champions" data-link-page="other-stats" data-filters="">
+                                               More ...                                        </a>
                                     </li>
                                                             </ul>
                         </li>
@@ -225,10 +244,6 @@
                                         <a href="/replays/twitch" data-link-section="replays" data-link-page="twitch" data-filters="champions">
                                                Twitch Replays                                        </a>
                                     </li>
-                                                                    <li class="">
-                                        <a href="/replays/overwolf" target="_blank" data-link-section="replays" data-link-page="overwolf" data-filters="">
-                                               Replays App                                        </a>
-                                    </li>
                                                             </ul>
                         </li>
                                     
@@ -238,7 +253,7 @@
                 </li>
 
                                     <li class="has-form show-for-medium-up" id="searchArea">
-                        <form action="/search" method="POST">
+                        <form id="topnavbarform" verb="search">
                             <div class="row collapse">
                                 <div class="medium-20 small-18 columns">
                                     <input class="search_field" type="text" name="wg_q" autocomplete="off" placeholder="Champion, Summoner...">
@@ -247,7 +262,6 @@
                                     <button class="search_button" type="submit">
                                         <i class="fa fa-search"></i>
                                     </button>
-                                    <input type="hidden" name="wg_qt" value="search">
                                 </div>
                             </div>
                         </form>
@@ -278,22 +292,6 @@
                                                 </ul>
                 </li>
 
-                                    <li class="has-form show-for-small-down" id="searchArea">
-                        <form action="/search" method="POST">
-                            <div class="row collapse">
-                                <div class="medium-20 small-18 columns">
-                                    <input class="search_field" type="text" name="wg_q" autocomplete="off" placeholder="Champion, Summoner...">
-                                </div>
-                                <div class="medium-4 small-6 columns">
-                                    <button class="search_button" type="submit">
-                                        <i class="fa fa-search"></i>
-                                    </button>
-                                    <input type="hidden" name="wg_qt" value="search">
-                                </div>
-                            </div>
-                        </form>
-                    </li>
-                
             </ul>
             <!-- Left Nav Section -->
             <ul class="left hide-for-small-down">
@@ -362,6 +360,11 @@
                                         <a href="/champions/masteries" data-link-section="champions" data-link-page="masteries" data-filters="champions,ratings,roles">
                                             <i class="fa fa-angle-right"></i>
                                             Masteries                                                                                    </a>
+                                    </dd>
+                                                                    <dd class="">
+                                        <a href="/champions/other-stats" data-link-section="champions" data-link-page="other-stats" data-filters="">
+                                            <i class="fa fa-angle-right"></i>
+                                            More ...                                                                                    </a>
                                     </dd>
                                                             </dl>
                         </div>
@@ -505,12 +508,6 @@
                                             <i class="fa fa-angle-right"></i>
                                             Twitch Replays                                                                                    </a>
                                     </dd>
-                                                                    <dd class="">
-                                        <a href="/replays/overwolf" target="_blank" data-link-section="replays" data-link-page="overwolf" data-filters="">
-                                            <i class="fa fa-angle-right"></i>
-                                            Replays App                                                                                            <div class="sidebar_external_link"><i class="fa fa-link-ext"></i></div>
-                                                                                    </a>
-                                    </dd>
                                                             </dl>
                         </div>
                     </dd>
@@ -518,8 +515,8 @@
 
         <div id="sidebar-bottom">
     <div id="site-infos">
-        <div class="patch">Patch: 6.24</div>
-        <div class="hide-for-medium-height-down">Daily updates - 9,134,075 matches</div>
+        <div class="patch">Patch: 7.12</div>
+        <div class="">Daily updates - 6,306,660 matches</div>
     </div>
 
     <div id="site-links">
@@ -532,6 +529,8 @@
         <a href="https://www.facebook.com/pages/League-of-Graphs/814590001962812" target="_blank" onclick="WgHelpers.sendGaEvent('SocialButton', 'Facebook Button Click', '')"><i class="fa f-facebook"></i></a>
         -
         <a href="https://twitter.com/leagueofgraphs" target="_blank" onclick="WgHelpers.sendGaEvent('SocialButton', 'Twitter Button Click', '')"><i class="fa f-twitter"></i></a>
+        -
+        <a href="https://discord.gg/gQAwTrC" target="_blank" onclick="WgHelpers.sendGaEvent('SocialButton', 'Discord Button Click', '')"><i class="fa fa-discord"></i></a>
     </div>
 </div>    </div>
     ... <!-- fix reflow on chrome Oo -->
@@ -636,17 +635,19 @@
                     </div>
 
                     <div id="footer">
-                        © Copyright 2013-2016 www.leagueofgraphs.com. All rights reserved.
+                        © Copyright 2013-2017 www.leagueofgraphs.com. All rights reserved.
                         <br>
                         LeagueOfGraphs.com isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc.
                         Also available on <a href="https://play.google.com/store/apps/details?id=leagueofgraphs.com.leagueofgraphs" target="_blank">Android</a>.
-                        Page generated in 0.001s                        <br>
+                        Page generated in 0.014s                        <br>
                     </div>
                 </div>
             </div>
         </div>
 
         <script type="text/javascript">
+            var urlLanguagePrefix = '';
+
             var ajaxManager;
             $(function () {
                 var basePageStatus = {"lang":"en","page":null,"section":"privacy","regions":null,"champions":"all","ratings":"gold","durations":null,"roles":null,"sortBy":null,"tournaments":"all"};
@@ -656,11 +657,11 @@
         </script>
 
         <script type="text/javascript">
-            var lcsLiveStreamActive = 0;
+            var lcsLiveStreamActive = 1;
             var lcsLiveStreamText = 'Live!';
         </script>
 
-        <script src="//cdn.leagueofgraphs.com/app.js?v=8383"></script>
+        <script src="//cdn.leagueofgraphs.com/app.js?v=1497462755"></script>
             <!-- Google Analytics -->
     <script>
         (function (i, s, o, g, r, a, m) {
@@ -680,6 +681,7 @@
 
         ga('set', 'contentGroup1', 'en');
         ga('set', 'contentGroup2', 'privacy');
+        ga('set', 'contentGroup3', 'privacy');
 
                 ga('send', 'pageview');
         </script>
