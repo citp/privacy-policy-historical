@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zibbo.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220025506id_/http%3A//www.zylom.com/uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zibbo.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618052016id_/http%3A//www.zylom.com/uk/privacy) for the most accurate reproduction.*
 
 # RN Inc Privacy Policy - for the Zylom website, products and services
 
