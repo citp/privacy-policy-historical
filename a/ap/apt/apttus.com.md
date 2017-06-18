@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the apttus.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012003212id_/http%3A//apttus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apttus.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618133319id_/http%3A//apttus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - APTTUS
 
 Welcome to Apttus website. Your privacy on the Internet is of utmost importance to us. The success of our business is based on our ability to maintain the trust of our users. Because we collect certain types of information about the purchasers of our products and the users of our website, we feel you should fully understand the conditions of our collection and use of such information. This privacy statement discloses what information we collect, how we use it, and how to correct or change it. By using this website, you consent to our collection and use of your personal information as described in this privacy statement. We reserve the right to change this privacy statement, along with related procedures, at any time.
 
-If you have any questions regarding this privacy statement, the practices of our website, or your dealings with us, please contact the Webmaster at [info@apttus.com](mailto:info@apttus.com), or by calling us at [(650) 445-7700](tel:6504457700).
+If you have any questions regarding this privacy statement, the practices of our website, or your dealings with us, please contact the Apttus PR at [pr@apttus.com](mailto:pr@apttus.com), or by calling us at [(650) 445-7700](tel:6504457700).
 
 **Information We Collect and How it is Used, and Purposes for Collecting of Information**
 
