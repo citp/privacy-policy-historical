@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210115850id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jollychic.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618032526id_/http%3A//www.jollychic.com/privacy-policy-a11.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy policy
+**Privacy policy  
+**  
+Jollychic.com respects your privacy and secures your online safety seriously ,In order to  provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we’d like to explain our online information practices and the way your information is collected and used.  
 
-Jollychic.com respects your privacy and secures your online safety seriously ,In order to  provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we’d like to explain our online information practices and the way your information is collected and used.
 
-Jollychic Privacy Policy
+ **Jollychic Privacy Policy**
 
 Thank you for accessing the website of Zhejiang Jolly Information Technology Co., Ltd ,(http://www.jollychic.com/). We respect your privacy and want to protect your personalinformation. To learn more, please read our Privacy Notice.This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personalinformation. This Privacy Notice also explains the steps we have taken to secure your personal information.Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non-Jollychic.com website to which this Site links to or that links to our site.
 
-INFORMATION COLLECTION AND USEAGE
+  
+ **INFORMATION COLLECTION AND USEAGE**
 
 1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience.For example, we can use your personal information to:
 
@@ -37,7 +39,7 @@ INFORMATION COLLECTION AND USEAGE
 
 (f) Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpfulreview without disclosing any personal information.
 
-2\. Information Use and Disclosure.  
+ **2\. Information Use and Disclosure.**  
 (a) Internal Use.We use your personal information to process your order and provide you with customer service.We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
 
 (b) Communications with You: We will use your personal information to communicate with you about our site,and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example,if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you when we receive a new brand, new product style, or product;to sign up for our email newsletter and special offers. If you submit your email address, we will use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see opt out section below for more details). Because we have to communicate with you about orders that you choose to place,you cannot opt out of receiving emails related to your orders.
@@ -54,24 +56,24 @@ INFORMATION COLLECTION AND USEAGE
 
 (v) We may share non-personal information (such as the number of daily visitors to a particular web page,or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
-DATA SECURITY
+ **DATA SECURITY**
 
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this      Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
 
 While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-OPT OUT/CORRECTIONS  
+ **OPT OUT/CORRECTIONS**  
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account.You can make these requests at the customer information section, or by telephoning, or emailing your request to Jollychic's Customer Support department at service@Jollychic.com . Please do not email your credit card number or other sensitive information.
 
-OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION  
+ **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**  
 As you might expect from Jollychic.com the majority of information that we collect is obtained through our Site, and this Privacy Policy applies only to that online collection of personal information. We also try to protect the privacy of you personal information that is collected offline. For example, customers may call us to place an order or to ask questions. During the call, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption (See the Data Security section above for more information). There are other ways we could learn of personal information offline (for example,we suppose someone could send us a letter including some return address information), and this Policy does not discuss or try to predict all of those methods or uses. As mentioned, we primarily sell merchandise, not information, and we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
 
-UPDATES TO THIS POLICY
+ **UPDATES TO THIS POLICY**
 
 If we change or update this Privacy Notice, we will post changes and updates on this Site so that you will always be aware of what information we collect, use, and disclose. We encourage you to review this Privacy Notice from time to time so you will know if the Privacy Notice has been changed or updated. If you have any questions about the Privacy Notice, please contact us at (86)571 88334512.www.jollychic.com is aware that the security of your private information from the use of our website is an important concern. We take the protection of your personal data very seriously. Therefore we would like you to know what data we maintain and what data we discard. With this privacy notice, we would like to inform you about our security measures.Collection and processing of personal data We collect personal data only when you provide it to us, through registration, completion of forms or e-mails,as part of an order for products or services, inquiries or requests about materials being ordered and similar situations in which you have chosen to provide the information to us. The database and its contents remain at our company and stay with data processors or servers acting on our behalf and responsible to us. Your personal data will not be passed on by us for use by third parties in any form whatsoever, unless we have obtained your consent or are legally required to do so. We will retain control of and responsibility for the use of any personal data you disclose to us. Some of this data may be stored or processed at computers located in other jurisdictions, such as the United States, whose data protection laws may differ from the jurisdiction in which you live. In such cases, we will ensure that appropriate protections are in place to require the data processor in that country to maintain protections on the data that are equivalent to those that apply in the country in which you live.
 
-Purposes of Use
-
+ **Purposes of Use  
+**  
 The data we collect will only be used for the purpose of supplying you with the requested products or services or for other purposes for which you have given your consent, except where otherwise provided by law.  
 What do we use your information for?
 
@@ -100,3 +102,6 @@ Choice and Opt-Out
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company
 
 at service@Jollychic.com
+
+  
+
