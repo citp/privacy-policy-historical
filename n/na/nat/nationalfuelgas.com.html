@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the nationalfuelgas.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124174220id_/http%3A//www.nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalfuelgas.com privacy policy that was archived on 2017-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170618210152id_/http%3A//www.nationalfuelgas.com/privacy_policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy
-</title><link rel="stylesheet" media="screen" href="/css/main.css"><link rel="stylesheet" media="print" href="/css/print.css">
+</title><link rel="stylesheet" media="screen" href="/css/main.css"><link rel="stylesheet" media="print" href="/css/print.css"><link rel="stylesheet" media="print" href="/css/bootstrap.min.css">
      <!--[if IE]>
         <style type="text/css" media="screen">
             #main_content
@@ -45,37 +45,25 @@
         </style>
     <![endif]-->
     
-   <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+   <script type="text/javascript" async="" src="https://cse.google.com/cse.js?cx=010480737352169176429:jw2alljuzp0"></script><script type="text/javascript" src="/js/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.watermark.min.js"></script>
     	<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
 	<script type="text/javascript" src="/js/swfobject.js"></script>
 	<script type="text/javascript" src="/js/videoplayer.js"></script>
     <script src="//www.google.com/jsapi" type="text/javascript"></script>
     <script type="text/javascript">
-        google.load('search', '1');
+       
+        (function () {
+            var cx = '010480737352169176429:jw2alljuzp0';
+            var gcse = document.createElement('script');
+            gcse.type = 'text/javascript';
+            gcse.async = true;
+            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(gcse, s);
+        })();
 
-        function inputFocus() {
-
-        }
-
-        function inputBlur() {
-            var queryInput = document.getElementById('query-input');
-            if (!queryInput.value) {
-                queryInput.style['background'] = 'transparent';
-            }
-        }
-
-        function init() {
-            google.search.CustomSearchControl.attachAutoCompletion('010480737352169176429:jw2alljuzp0', document.getElementById('query-input'), 'two-page-form');
-            inputBlur();
-        }
-
-        function submitQuery() {
-
-            window.location = '/searchresults.aspx?q=' + encodeURIComponent(document.getElementById('query-input').value);
-            return false;
-        }
-        google.setOnLoadCallback(init);
     </script>
 
 </head>
@@ -97,11 +85,9 @@
         <img src="/images/header.jpg">
         </div>
         <div id="header">
-        
-        
+               
         <div class="search">
-        
-        <input name="searchbox" type="text" class="searchbox" size="15" maxlength="60" value="" id="query-input" onfocus="inputFocus();" onblur="inputBlur();" autocomplete="off"><img src="/images/search_but.png" alt="Search" onclick="submitQuery()">
+<gcse:searchbox-only resultsurl="/searchresults.aspx"></gcse:searchbox-only>
         </div>
   
         <div id="head_log" style="float:left;  margin: 0px 0 0 10px; display: inline-block;">
@@ -187,7 +173,7 @@
             <p>
             <a href="/privacy_policy.aspx">Privacy Policy</a> | <a href="/conditions.aspx">Terms and Conditions</a> | <a href="/disclosures.aspx">Disclosures Regarding Forward Looking Statements</a> | <a href="/default.aspx">Home</a>
             <br><br>
-            © 1996-2016 National Fuel Gas Company
+            © 1996-2017 National Fuel Gas Company
             </p>
        </div>
   </div>
