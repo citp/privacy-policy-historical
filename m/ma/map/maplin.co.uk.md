@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119150805id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619005008id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.*
 
 # Help Centre | Maplin
 
