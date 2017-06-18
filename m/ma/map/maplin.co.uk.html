@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the maplin.co.uk privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119150805id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maplin.co.uk privacy policy that was archived on 2017-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170619005008id_/http%3A//www.maplin.co.uk/help-centre/article/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<title>
 		Help Centre | Maplin</title>
 	
-<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIAUlVWGwYIXVhUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><link rel="dns-prefetch" href="//images.maplinmedia.co.uk">
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwIAUlVWGwYIXVhUAgM="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];n.exports=u;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(m,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><link rel="dns-prefetch" href="//images.maplinmedia.co.uk">
 	<!--[if IE 9]>
    		<link rel="prefetch" href="//images.maplinmedia.co.uk"/>
 	<![endif]-->
@@ -20,11 +20,11 @@
 	<link rel="icon" href="/_ui/desktop/theme-blue/images/favicon.gif" type="image/gif">
 	<link rel="apple-touch-icon" href="/_ui/desktop/theme-blue/images/favicon-apple.png">
 
-	<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/maplin.all.desktop.datauri.2016-10-27-08-28-22.min.css">
+	<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/maplin.all.desktop.datauri.2017-06-01-09-25-01.min.css">
 		
 		<!--[if IE 8]> <link type="text/css" rel="stylesheet" href="/_ui/desktop/common/css/maplin.all.desktop.ie8.css" media="screen, projection" /> <![endif]-->
 		<!--[if IE 7]> 
-			<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/maplin.all.desktop.2016-10-27-08-28-22.min.css" />
+			<link rel="stylesheet" type="text/css" media="all" href="/_ui/desktop/common/css/maplin.all.desktop.2017-06-01-09-25-01.min.css" />
 			<link type="text/css" rel="stylesheet" href="/_ui/desktop/common/css/maplin.all.desktop.ie7.css" media="screen, projection" />
 		<![endif]-->
 	<link rel="stylesheet" type="text/css" media="all" href="/medias/maplin-style.css?context=bWFzdGVyfHJvb3R8MTc3MjF8dGV4dC9jc3N8aDJiL2g4Yy85NDYyMDU2MDI2MTQyLmNzc3wxMDNlNzI4ZDEwODFlZjhhNjdjYWQ0Yzk3OTk5NzFhNWQzZTY1OTk4ODU1MGIzM2MzNzRlYmQ5NjVmYmQ4MzJl">
@@ -145,8 +145,8 @@ window.universal_variable = {
 	  maplinRichRelevenceConfig = {
 		apiKey: "493e4bf19aaf81b5",
 		environment: "recs",
-		sessionId: "CFE39D476F792438B92B15F350D2002C.app1",
-      	userId: "CFE39D476F792438B92B15F350D2002C.app1",
+		sessionId: "74B2F1B61DA1C2CF6938B617C0CA1EA2.app1",
+      	userId: "74B2F1B61DA1C2CF6938B617C0CA1EA2.app1",
       	siteId: "uk"
 	  };
     
@@ -270,11 +270,23 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
 			<div class="col3-4">
 				<h4>Most Popular</h4>
 				<div class="yCmsComponent">
-<div class="content"><ul> <li><a href="/smart-home" class="poptrack">Smart Home</a></li> <li><a href="http://www.maplin.co.uk/c/home-electricals/heating-and-cooling/category/fans-and-coolers" class="poptrack">Fans 		&amp; Cooling</a></li> <li><a href="/search?text=dyson " class="poptrack">Dyson Vacuums, Fans &amp; Heaters</a></li> <li><a href="/search?text=neato+&amp;x=0&amp;y=0 " class="poptrack">Neato Botvac</a></li> <li><a href="/search?text=karcher&amp;x=1&amp;sort=&amp;productsPerPage=" class="poptrack">Karcher</a></li> <li><a href="/c/home-electricals/home-entertainment/media-players" class="poptrack">Media Streaming</a></li> <li><a href="http://www.maplin.co.uk/nowtv" class="poptrack">Now TV</a></li> <li><a href="/google" class="poptrack">Google Chromecast</a></li> <li><a href="/search?text=wireless+speaker" class="poptrack">Wireless Speakers</a></li> <li><a href="/nest" class="poptrack">Nest Home Automation</a></li> <li><a href="/c/clearance/clearance-home-electricals" class="poptrack">Clearance</a></li> <li><a href="/c/new/new-home-electricals" class="poptrack">New</a></li> </ul></div></div></div>
+<div class="content"><ul> 
+    <li><a href="/smart-home" class="poptrack">Smart Home</a></li> 
+    <li><a href="/c/batteries-and-power/lighting" class="poptrack">Lighting</a></li> 
+    <li><a href="/c/home-electricals/heating-and-cooling/category/fans-and-coolers" class="poptrack">Fans &amp; Cooling</a></li> 
+    <li><a href="/search?text=wireless+speaker" class="poptrack">Wireless Speakers</a></li> 
+    <li><a href="/c/home-electricals/home-entertainment/media-players" class="poptrack">Media Streaming</a></li> 
+    <li><a href="/amazon-echo" class="poptrack">Amazon Echo</a></li>
+    <li><a href="/google" class="poptrack">Google Chromecast</a></li> 
+    <li><a href="/nowtv" class="poptrack">Now TV</a></li> 
+    <li><a href="/nest" class="poptrack">Nest Home Automation</a></li> 
+    <li><a href="/c/clearance/clearance-home-electricals" class="poptrack">Clearance</a></li> 
+</ul>
+</div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/hive">
-	<img src="/medias/17P09-Home-Electrical-MegaNav.png?context=bWFzdGVyfHJvb3R8MjQ2MzR8aW1hZ2UvcG5nfGhjYS9oMjMvOTQ3NTc5NTc0Njg0Ni5wbmd8OTVjZWJiYjY2Y2M4YzUzNDRjODcwOWM0Nzg0ZTMyYmQyMjZhOTIwN2RlNGU0OWI0NDJmMzdiMTY2N2MwMTY3MQ" alt="">
+<div class="content"><a href="/p/prod-a29ff">
+	<img src="/medias/18P04-MegaNav-A29FF.jpg?context=bWFzdGVyfHJvb3R8MjUyNzV8aW1hZ2UvanBlZ3xoOGUvaGExLzk1Njc1NjAwMDc3MTAuanBnfGQ1ZWNhNzQ2OGQ3MGY1MDAwMGVkNGE5NmQ0NDk5ZDVkODM4OGQ4ZjA3MjZlN2ZjYzI4MjU3YTBjZjM4NzdlNjI" alt="Fluorescent Magnifying Craft Lamp" title="Fluorescent Magnifying Craft Lamp">
 </a></div></div></div>
 
 		</div>
@@ -286,40 +298,39 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
 				<h4><a href="/c/dj-studio-and-audio" title="DJ, Studio &amp; Audio">DJ, Studio &amp; Audio</a></h4>
 				<ul>
 					<li class="yCmsComponent even">
-<a href="/c/dj-studio-and-audio/headphones" title="Headphones">Headphones</a></li><li class="yCmsComponent ">
-<a href="/c/dj-studio-and-audio/hi-fi-and-speakers" title="Hi-Fi &amp; Speakers">Hi-Fi &amp; Speakers</a></li><li class="yCmsComponent even">
-<a href="/c/dj-studio-and-audio/home-theatre-audio" title="Home Theatre Audio">Home Theatre Audio</a></li><li class="yCmsComponent ">
-<a href="/c/dj-studio-and-audio/radios" title="Radios">Radios</a></li><li class="yCmsComponent even">
-<a href="/c/dj-studio-and-audio/mp3-and-mp4-players" title="MP3 &amp; MP4 Players">MP3 &amp; MP4 Players</a></li><li class="yCmsComponent ">
-<a href="/c/dj-studio-and-audio/media-archiving" title="Media Archiving">Media Archiving</a></li><li class="yCmsComponent even">
-<a href="/c/dj-studio-and-audio/stage-lighting" title="Stage Lighting">Stage Lighting</a></li><li class="yCmsComponent ">
-<a href="/c/dj-studio-and-audio/party-lighting" title="Party Lighting">Party Lighting</a></li><li class="yCmsComponent even">
-<a href="/c/dj-studio-and-audio/smoke-bubble-and-snow-machines" title="Smoke, Bubble &amp; Snow Machines">Smoke, Bubble &amp; Snow Machines</a></li><li class="yCmsComponent ">
-<a href="/c/dj-studio-and-audio/live-sound-and-studio" title="Live Sound &amp; Studio">Live Sound &amp; Studio</a></li><li class="yCmsComponent even">
-<a href="/c/dj-studio-and-audio/turntables-and-dj-decks" title="Turntables &amp; DJ Decks">Turntables &amp; DJ Decks</a></li><li class="yCmsComponent ">
-<a href="/c/dj-studio-and-audio/microphones" title="Microphones">Microphones</a></li><li class="yCmsComponent even">
-<a href="/c/dj-studio-and-audio/musical-instruments" title="Musical Instruments">Musical Instruments</a></li><li class="yCmsComponent ">
-<a href="/c/dj-studio-and-audio/stage-cables" title="Stage Cables">Stage Cables</a></li></ul>
+<a href="/c/dj-studio-and-audio/hi-fi-and-speakers" title="Hi-Fi &amp; Speakers">Hi-Fi &amp; Speakers</a></li><li class="yCmsComponent ">
+<a href="/c/dj-studio-and-audio/home-theatre-audio" title="Home Theatre Audio">Home Theatre Audio</a></li><li class="yCmsComponent even">
+<a href="/c/dj-studio-and-audio/radios" title="Radios">Radios</a></li><li class="yCmsComponent ">
+<a href="/c/dj-studio-and-audio/mp3-and-mp4-players" title="MP3 &amp; MP4 Players">MP3 &amp; MP4 Players</a></li><li class="yCmsComponent even">
+<a href="/c/dj-studio-and-audio/media-archiving" title="Media Archiving">Media Archiving</a></li><li class="yCmsComponent ">
+<a href="/c/dj-studio-and-audio/stage-lighting" title="Stage Lighting">Stage Lighting</a></li><li class="yCmsComponent even">
+<a href="/c/dj-studio-and-audio/party-lighting" title="Party Lighting">Party Lighting</a></li><li class="yCmsComponent ">
+<a href="/c/dj-studio-and-audio/smoke-bubble-and-snow-machines" title="Smoke, Bubble &amp; Snow Machines">Smoke, Bubble &amp; Snow Machines</a></li><li class="yCmsComponent even">
+<a href="/c/dj-studio-and-audio/live-sound-and-studio" title="Live Sound &amp; Studio">Live Sound &amp; Studio</a></li><li class="yCmsComponent ">
+<a href="/c/dj-studio-and-audio/turntables-and-dj-decks" title="Turntables &amp; DJ Decks">Turntables &amp; DJ Decks</a></li><li class="yCmsComponent even">
+<a href="/c/dj-studio-and-audio/microphones" title="Microphones">Microphones</a></li><li class="yCmsComponent ">
+<a href="/c/dj-studio-and-audio/musical-instruments" title="Musical Instruments">Musical Instruments</a></li><li class="yCmsComponent even">
+<a href="/c/dj-studio-and-audio/stage-cables" title="Stage Cables">Stage Cables</a></li><li class="yCmsComponent ">
+<a href="/c/dj-studio-and-audio/headphones" title="Headphones">Headphones</a></li></ul>
 			</div>
 
 			<div class="col3-4">
-				<h4>Most Popular</h4>
+				<h4>Most Popular </h4>
 				<div class="yCmsComponent">
 <div class="content"><ul>
     <li><a href="/livesound" class="poptrack">DJ &amp; Music Shop</a></li>
-    <li><a href="/c/dj-studio-and-audio/live-sound-and-studio#Category:PA Speakers" class="poptrack">PA Speakers</a></li>
-    <li><a href="/c/dj-studio-and-audio/hi-fi-and-speakers#" class="poptrack">Bluetooth Speakers</a></li>
-    <li><a href="/sennheiser" class="poptrack">Sennheiser</a></li>
+    <li><a href="/c/dj-studio-and-audio/live-sound-and-studio/pa-speakers" class="poptrack">PA Speakers</a></li>
+    <li><a href="/c/dj-studio-and-audio/hi-fi-and-speakers/bluetooth-speakers" class="poptrack">Bluetooth Speakers</a></li>
+    <li><a href="/search?text=sennheiser" class="poptrack">Sennheiser</a></li>
     <li><a href="/search?text=prosound&amp;x=0&amp;y=0" class="poptrack">Prosound</a></li>
-    <li><a href="/c/dj-studio-and-audio/headphones#Category:Earphones&amp;sort=&amp;page=1&amp;productsPerPage=12" class="poptrack">In Ear</a></li>
+    <li><a href="/c/dj-studio-and-audio/headphones#Category:Earphones" class="poptrack">In Ear</a></li>
     <li><a href="/search?text=Behringer&amp;x=0&amp;y=0" class="poptrack">Behringer</a></li>
     <li><a href="/c/clearance/clearance-dj-and-audio" class="poptrack">Clearance</a></li>
-   <li><a href="/c/new/new-studio-and-audio" class="poptrack">New</a></li>
 </ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/lights-lasers-and-fx">
-	<img src="/medias/17P09-DJAudio-MegaNav.png?context=bWFzdGVyfHJvb3R8MTczNTF8aW1hZ2UvcG5nfGgyMy9oYjUvOTQ3NTc5ODk1ODExMC5wbmd8MmVkMjU5MWYzMTY1OTg2ODRjYmFjMzJlMDEzN2EwMTE2MzE0NGRlNmNmZGU3ZjAxNWExMDVjYWFlNjQ1NmRjZg" alt="">
+<div class="content"><a href="/p/prod-N47EE">
+	<img src="/medias/18P04-MegaNav-N47EE.jpg?context=bWFzdGVyfHJvb3R8MjY3MjR8aW1hZ2UvanBlZ3xoMGUvaDRhLzk1Njc1NjA2NjMwNzAuanBnfGFhZGI1YWViN2IxN2YzY2VmMGRiZDc2MzllMDc0ODkyZDJmODA2ODAxOGNjYzRiMWY3MzkyYWYwM2QzMzVkMDU" title="Block Rocker Portable PA Speaker" alt="Block Rocker Portable PA Speaker">
 </a></div></div></div>
 
 		</div>
@@ -350,11 +361,11 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
 			<div class="col3-4">
 				<h4>Most Popular</h4>
 				<div class="yCmsComponent">
-<div class="content"><ul> <li><a href="/c/diy/garden-tools" class="poptrack">Garden Tools</a></li> <li><a href="/search?text=Pressure+washers&amp;x=0&amp;y=0" class="poptrack">Pressure Washers</a></li> <li><a href="/c/diy/power-tools" class="poptrack">Power Tools</a></li> <li><a href="/search?text=Tool+kits&amp;x=0&amp;y=0" class="poptrack">Tools &amp; Kits</a></li> <li><a href="/search?text=stanley" class="poptrack">Stanley</a></li> <li><a href="/robomow" class="poptrack">Robomow</a></li> <li><a href="/c/diy/test-and-measurement/oscilloscopes-and-function-generators" class="poptrack">Oscilliscopes</a></li> <li><a href="/c/clearance/clearance-diy" class="poptrack">Clearance</a></li> <li><a href="/c/new/new-diy" class="poptrack">New</a></li> </ul></div></div></div>
+<div class="content"><ul> <li><a href="/c/diy/garden-tools" class="poptrack">Garden Tools</a></li> <li><a href="/search?text=Pressure+washers&amp;x=0&amp;y=0" class="poptrack">Pressure Washers</a></li> <li><a href="/c/diy/power-tools" class="poptrack">Power Tools</a></li> <li><a href="/search?text=Tool+kits&amp;x=0&amp;y=0" class="poptrack">Tools &amp; Kits</a></li> <li><a href="/search?text=stanley" class="poptrack">Stanley</a></li> <li><a href="/robomow" class="poptrack">Robomow</a></li> <li><a href="/c/diy/test-and-measurement/oscilloscopes-and-function-generators" class="poptrack">Oscilliscopes</a></li> <li><a href="/c/clearance/clearance-diy" class="poptrack">Clearance</a></li></ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/c/special-ofers/special-offers-tools">
-	<img src="/medias/17P09-DIY-MegaNav.png?context=bWFzdGVyfHJvb3R8MTYxMzF8aW1hZ2UvcG5nfGg5YS9oZWQvOTQ3NTc5MTI1NzYzMC5wbmd8YzE0ZmIyYjIwYTc2Mjg1NzFkZjhiZWFkZTE1ZDBjYTMxNmUzODAwNDM1MGNhMjUxNzQ5OTJjZTA5NzRkNDM0ZQ" alt="">
+<div class="content"><a href="/p/prod-A51QY" title="Maplin 34-Piece Electrician's Tool Kit">
+	<img src="/medias/18P04-MegaNav-A51QY.jpg?context=bWFzdGVyfHJvb3R8MzA0NzF8aW1hZ2UvanBlZ3xoNjEvaGVhLzk1Njc1NjE1ODA1NzQuanBnfDU3MzRkMjZmYzUxZmVjOWIzYjQzZGNlZjFlNTExNjBlY2JmMWE5OWU3NzEzNjFjZTBkNTBjMGU4N2JiOTU0Y2M" alt="Maplin 34-Piece Electrician's Tool Kit">
 </a></div></div></div>
 
 		</div>
@@ -403,12 +414,11 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
     <li><a href="/seagate-rescue" class="poptrack">Seagate Rescue</a></li>
     <li><a href="/bt-networking" class="poptrack">BT Networking</a></li>
     <li><a href="/c/clearance/clearance-computing-and-office" class="poptrack">Clearance</a></li>
- <li><a href="/c/new/new-computing-and-office" class="poptrack">New</a></li>
 </ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/p/prod-n86kh">
-            <img src="/medias/17P09-Computing-MegaNav.png?context=bWFzdGVyfHJvb3R8MjA4NDB8aW1hZ2UvcG5nfGhlZS9oZWUvOTQ3NTgwMzg0MDU0Mi5wbmd8ODhlYzVjNmZkNGRiNzliZGM5MmIyMWFiMTZlMDhmMzZiNzdjZjM2YzI1YzRlNTc5MDZiNjk5MWI5NDI1MTg5MQ" alt=""></a></div></div></div>
+<div class="content"><a href="/p/prod-a06ut" title="Logitech Wireless Gaming Mouse">
+            <img src="/medias/18P04-MegaNav-A06UT.jpg?context=bWFzdGVyfHJvb3R8MjY5MzN8aW1hZ2UvanBlZ3xoZTcvaGE4Lzk1Njc1NjI2MjkxNTAuanBnfDExYjczZDdiZjI0MTAyMDg4OTczYTcyMDA3M2QyYTE4MDM4NmI1M2UwNWM1YWQ5MmYwZTEyMGQxOWUxYmM0MjY" alt="Logitech Wireless Gaming Mouse"></a></div></div></div>
 
 		</div>
 
@@ -462,12 +472,11 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
     <li><a href="/cctv-installation" class="poptrack">CCTV Installation Service</a></li>
     <li><a href="/in-car" class="poptrack">In Car</a></li>
     <li><a href="/c/clearance/clearance-cctv-and-security" class="poptrack">Clearance</a></li>
-<li><a href="/c/new/new-cctv-and-security" class="poptrack">New</a></li>
 </ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/swann-cctv-world">
-            <img src="/medias/17P09-CCTV-Security-MegaNav.png?context=bWFzdGVyfHJvb3R8MTU2NzF8aW1hZ2UvcG5nfGg5NC9oNDQvOTQ3NTgwNDgyMzU4Mi5wbmd8NWQzNjMzNDNlOTk4OGFjNjUxZjgyZTU0MjkwOGQwZWE4ZDlhMzMyMGJlYWM5OTE3ODE0Nzk4Y2NkNzQ4MWM5Yw" alt=""></a></div></div></div>
+<div class="content"><a href="/cs/p4-yale" title="Up to 25% off Yale Security">
+            <img src="/medias/18P04-MegaNav-A52WB.jpg?context=bWFzdGVyfHJvb3R8MjQ1MzN8aW1hZ2UvanBlZ3xoNzkvaDVjLzk1Njc1NjMyNTE3NDIuanBnfGUwNDVkODAxNmEyOTM3YzVlMzYwY2QyNjZlZWMxYmIyYmI0YmVlNTNjODExZWY2ZDRmNDkwNGZkMTAyMGJhYjc" alt="Up to 25% off Yale Security"></a></div></div></div>
 
 		</div>
 
@@ -508,12 +517,11 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
  	<li><a href="/search?text=surge+protection&amp;x=0&amp;y=0" class="poptrack">Surge Protection</a></li>
  	<li><a href="/eneloop" class="poptrack">Eneloop</a></li>
  	<li><a href="/c/clearance/clearance-batteries-and-power" class="poptrack">Clearance</a></li>
-<li><a href="/c/new/new-power" class="poptrack">New</a></li>
 </ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/maplin-batteries-offer">
-            <img src="/medias/17P09-Batteries-MegaNav.png?context=bWFzdGVyfHJvb3R8MjA2NzN8aW1hZ2UvcG5nfGgwZS9oNGYvOTQ3NTgwNzE1MDExMC5wbmd8OWM1NGZhMTBiZDRkNTgwMGMxNTYyMDFjMGNiZTI3NmNjN2MzYzQwNjgzZjhhNjkzMTU0ODRmYTY1NWM0YTRmNw" alt=""></a></div></div></div>
+<div class="content"><a href="/cs/specialoffersbatteries" title="Maplin Extra Long Life Batteries Combo Pack">
+            <img src="/medias/18P04-MegaNav-N99KQ.jpg?context=bWFzdGVyfHJvb3R8MzA2MDJ8aW1hZ2UvanBlZ3xoODcvaGUwLzk1Njc2NjcxMjYzMDIuanBnfGU1NDMwMTM0MGM3ZmQ5ZDVhNTkxM2ZjMmMwMTViZjY2NzZiYzA4OTc5ZmQwMjRhZjc3YzhjMmY2OWZhMGEzYTI" alt="Maplin Extra Long Life 12 AA and 8 AAA Combo Pack"></a></div></div></div>
 
 		</div>
 
@@ -556,8 +564,8 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
 </ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/c/cables-and-connectors/audio-visual-cables/hdmi-cables">
-	<img src="/medias/17P09-Cables-MegaNav.png?context=bWFzdGVyfHJvb3R8MTQ0NjB8aW1hZ2UvcG5nfGhkOC9oMTMvOTQ3NTgxMDA5OTIzMC5wbmd8Y2I3ZDY5YmQ3NjNhZjA0N2Q3NTMzMGQyMWQ4YjRmYWZmNDNjOWU0ZTMwY2FiNjk0YWI1ZjQ0YzlmNDNkMDc1Mw" alt="">
+<div class="content"><a href="/c/home-electricals/personal-audio/cables-and-chargers-for-apple-products" title="Cables &amp; Chargers for Apple Products">
+	<img src="/medias/18P04-MegaNav-N78GH.jpg?context=bWFzdGVyfHJvb3R8MjUyODV8aW1hZ2UvanBlZ3xoYzgvaGE2Lzk1Njc1NjU5Mzg3MTguanBnfDFlYjA2YTRjNGVlYzQwMjc1NzIwZjY1ZTc3Yjg0NmQ5MWNmOWZiNWVjMjllYTg3Y2M0ZGFjNGMyMmZiMjRhMDU" alt="Cables &amp; Chargers for Apple Products">
 </a></div></div></div>
 
 		</div>
@@ -602,9 +610,8 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
  </ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/c/special-offers/special-offers-gadgets-and-hobbies/special-offers-projects">
-	<img src="/medias/17P09-Components-MegaNav.png?context=bWFzdGVyfHJvb3R8MjQ5ODZ8aW1hZ2UvcG5nfGgxNC9oNGYvOTQ3NTgwMTkwNzIzMC5wbmd8NTI0OTVjMjRmNzM5NmMzYjAwNzA3ZmZjMzkzOGNiOTUyMTBlYjk3MTU4MmYwM2FkNjg4ZDUwODViZjA4M2MxZg" alt="">
-</a></div></div></div>
+<div class="content"><a href="/c/gadgets-toys-and-hobbies/soldering/mains-soldering-irons" title="Soldering irons from £11.99">
+            <img src="/medias/18P04-MegaNav-Soldering-Irons.jpg?context=bWFzdGVyfHJvb3R8MjA3MzV8aW1hZ2UvanBlZ3xoNjYvaDFiLzk1Njc1NzI0OTIzMTguanBnfGFmZGMwOGYyYTFkMTE4ZGQ3NDk0ZDZjNzg1MDYzNmE3MjFhNjZiN2JiOTk4ZDZhOGJiZmVjMzAzZWRhYjYxMDg" alt="Soldering irons from £11.99"></a></div></div></div>
 
 		</div>
 
@@ -633,8 +640,8 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
 <a href="/c/gadgets-toys-and-hobbies/car-security-and-navigation" title="Car Security &amp; Navigation">Car Security &amp; Navigation</a></li><li class="yCmsComponent even">
 <a href="/c/gadgets-toys-and-hobbies/car-audio-and-entertainment" title="Car Audio &amp; Entertainment">Car Audio &amp; Entertainment</a></li><li class="yCmsComponent ">
 <a href="/c/gadgets-toys-and-hobbies/car-power" title="Car Power">Car Power</a></li><li class="yCmsComponent even">
-<a href="/c/gadgets-toys-and-hobbies/car-tools-and-accessories" title="Car Tools &amp; Accessories">Car Tools &amp; Accessories</a></li><li class="yCmsComponent ">
-<a href="/c/gadgets-toys-and-hobbies/trucking-products" title="Trucking Products">Trucking Products</a></li><li class="yCmsComponent even">
+<a href="/c/gadgets-toys-and-hobbies/null" title="</li><li class=" ycmscomponent="" "="">
+</a><a href="/c/gadgets-toys-and-hobbies/trucking-products" title="Trucking Products">Trucking Products</a></li><li class="yCmsComponent even">
 <a href="/c/gadgets-toys-and-hobbies/sports-gps" title="Sports GPS">Sports GPS</a></li><li class="yCmsComponent ">
 <a href="/c/gadgets-toys-and-hobbies/radio-controlled" title="Radio Controlled">Radio Controlled</a></li><li class="yCmsComponent even">
 <a href="/c/gadgets-toys-and-hobbies/gadgets" title="Gadgets">Gadgets</a></li><li class="yCmsComponent ">
@@ -646,10 +653,10 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
 				<div class="yCmsComponent">
 <div class="content"> <ul>
 	<li><a href="/microbit" class="poptrack">Microbit</a></li>
-	<li><a href="/dji-drone-bundles" class="poptrack">Drone Bundles</a></li>
+	<!--<li><a href="/dji-drone-bundles" class="poptrack">Drone Bundles</a></li>-->
 	<li><a href="/3d-printer" class="poptrack">3D Printing</a></li>
 	<li><a href="/maker" class="poptrack">Explore Maplin’s Maker World</a></li>
-	<li><a href="/c/gadgets-toys-and-hobbies/projects-kits-and-modules/raspberry-pi" class="poptrack">Raspberry Pi Kits</a></li>
+	<li><a href="/cs/raspberrypi" class="poptrack">Raspberry Pi Kits</a></li>
 	<li><a href="/c/gadgets-toys-and-hobbies/projects-kits-and-modules/arduino" class="poptrack">Arduino Kits</a></li>
 	<li><a href="/in-car" class="poptrack">In Car</a></li>
 	<li><a href="/travel" class="poptrack">Camping</a></li>
@@ -657,26 +664,38 @@ var refreshMiniCartUrl = '/cart/miniCart/SUBTOTAL/?';
 	<li><a href="/metaldetectors" class="poptrack">Metal Detectors</a></li>
 	<li><a href="/c/home-electricals/personal-health#Category:Fitness Accessories&amp;sort=&amp;page=1&amp;productsPerPage=12" class="poptrack">Fitness Activity Trackers</a></li>
 	<li><a href="/c/clearance/clearance-toys-novelties-and-games" class="poptrack">Clearance</a></li>
-<li><a href="/c/new/new-toys-gadgets-and-hobbies" class="poptrack">New</a></li>
+
 </ul></div></div></div>
 			<div class="col4-4">
 				<div class="yCmsComponent">
-<div class="content"><a href="/toy-shop">
-            <img src="/medias/17P09-TOY-MegaNav.png?context=bWFzdGVyfHJvb3R8MjU1NjZ8aW1hZ2UvcG5nfGhmOC9oNGQvOTQ3NTgxMzY3MDk0Mi5wbmd8ZWQ2Y2Y2NzBmYzNjMzMxMDczMzE4YzQzNTBkOWU4YTc5YjdhZGYxOTkzMjg2OGFjZDg1NmI5Mjk4MmYyOWQ2Ng">
-        </a></div></div></div>
+<div class="content"><a href="/cs/dji-drones" title="DJI Drones New models added">
+            <img src="/medias/18P04-MegaNav-N87EM.jpg?context=bWFzdGVyfHJvb3R8MjE5OTl8aW1hZ2UvanBlZ3xoYjYvaGVmLzk1Njc1NjgwMDMxMDIuanBnfDYxMGVkNTc4NmRjZTUyZWNhOWY4NzZkNTI0ZThmZDQ3N2RmZTE0NzU3ZDM1ZDkwOTE2M2RiMGFhMTM4MjM4YjQ" alt="DJI Drones New models added">
+        </a>
+
+</div></div></div>
 
 		</div>
 
 	</li>
-<div class="content"><ul>
-  <li class="oneline auto nooa nav125 no-right-border right_edge offers offers nav95 "><a href="/christmas" title="Christmas" style="background-color: #D70826 !important;">Christmas</a></li>
-</ul>
-<!-- SPECIAL OFFERS 
+<div class="content">
 <ul>
-  <li class=" nooa nav125 no-right-border right_edge offers offers nav95 "><a href=" /c/special-offers" title="Special Offers" style="background-color: #ed1967 !important;">Special<br>
-    Offers</a></li>
+  <li class="oneline auto nooa nav125 no-right-border right_edge offers offers nav95 "><a href="/specialoffers" title="SALE NOW ON" style="font-size:16px;background-color: #cb1111;
+background: #cb1111; /* Old browsers */
+background: -moz-linear-gradient(top,  #cb1111 34%, #cb1111 34%, #e8600c 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #cb1111 34%,#cb1111 34%,#e8600c 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #cb1111 34%,#cb1111 34%,#e8600c 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */;">SALE</a></li>
 </ul>
--->
+<!-- BAU
+<ul>
+  <li class=" nooa nav125 no-right-border right_edge offers offers nav95 "><a href=" /specialoffers" title="Special Offers" style="
+background-color: #cb1111;
+background: #cb1111; /* Old browsers */
+background: -moz-linear-gradient(top,  #cb1111 34%, #cb1111 34%, #e57272 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #cb1111 34%,#cb1111 34%,#e57272 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #cb1111 34%,#cb1111 34%,#e57272 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */">Special<br>
+    Offers</a></li>
+</ul> //-->
+
 </div></ul><ul id="infodrops" class="yCmsContentSlot clearfix">
 <li><a href="#HelpPageTab1">Challenge the Maplineers<i class="icon-angle-down"></i></a></li>
 </ul><div data-tabhead-id="infodrops" id="infodropdetail" class="yCmsContentSlot clearfix">
@@ -864,7 +883,7 @@ $(document).ready(function() {
 			<input class="lightBlue" id="newsletterSubmit" type="submit" value="Sign up">
 		</div>
 	<div>
-<input type="hidden" name="CSRFToken" value="6263c4e0-29d7-470c-a782-01826a18a948">
+<input type="hidden" name="CSRFToken" value="e19a19e1-eea0-478d-847c-abf4ea530d10">
 </div></form><script type="text/javascript">
 		$(document)
 				.ready(
@@ -897,7 +916,8 @@ $(document).ready(function() {
 <a href="/help-centre/article/jargonbuster" title="Jargon Buster">Jargon Buster</a></li><li class="yCmsComponent Fc right_col">
 <a href="/giftcard/physical" title="Gift Cards">Gift Cards</a></li><li class="yCmsComponent Fc right_col">
 <a href="/leaflet" title="Latest Leaflet">Latest Leaflet</a></li><li class="yCmsComponent Fc right_col">
-<a href="/pressroom" title="Features &amp; Articles">Features &amp; Articles</a></li></ul>
+<a href="/pressroom" title="Features &amp; Articles">Features &amp; Articles</a></li><li class="yCmsComponent Fc right_col">
+<a href="/we-do-more" title="Our Services">Our Services</a></li></ul>
 	<ul class="subnav">
 		<!--mo <h3>Follow Us</h3>-->
 		<li class="yCmsComponent Fc left_col">
@@ -910,7 +930,7 @@ $(document).ready(function() {
 	</div><div class="yCmsComponent right copyright">
 <div class="content"><p>Maplin Electronics is a company<br>
 registered in England No 1264385<br>
-Copyright Maplin © 2016</p>
+Copyright Maplin © 2017</p>
 <p><a href="#">All rights reserved</a> | <a href="/termsandconditions">Terms &amp; conditions</a></p></div></div></div>
 		<div class="row clearfix ">
 	<div class="yCmsComponent left payment options">
@@ -931,13 +951,13 @@ Copyright Maplin © 2016</p>
 	</form>
 	<div id="ariaStatusMsg" class="skip" role="status" aria-relevant="text" aria-live="polite"></div>
 
-	<script type="text/javascript" src="/_ui/desktop/common/js/maplin.all.desktop.2016-10-27-08-28-22.min.js"></script>
+	<script type="text/javascript" src="/_ui/desktop/common/js/maplin.all.desktop.2017-06-01-09-25-01.min.js"></script>
 	<!--[if IE]><script type="text/javascript" src="/_ui/desktop/common/js/excanvas-r3.compiled.js"></script> <![endif]-->
 <!--[if IE 8]><script type="text/javascript" src="/_ui/desktop/common/js/acc.placeholder.js"></script><![endif]-->
 <!--[if IE 7]><script type="text/javascript" src="/_ui/desktop/common/js/acc.placeholder.js"></script><![endif]-->
 <a class="livechat-tab" title="Click for Live Chat" href="" style="display:none;”><hr style=" "=""><i class="icon-comment"></i> <span>Live chat</span></a>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"16597d7f23","agent":"","beacon":"bam.nr-data.net","applicationTime":35,"applicationID":"5899652","transactionName":"NVYBYEZXXkdXUUEIXgwcMERGX15TdV1bFUMNXw9RRhlYUVpCGAJUDEcRURtXQkBfUVkEHhlSEUBdVVxRdV1RBExCGyRxYB8=","queueTime":0}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"16597d7f23","agent":"","beacon":"bam.nr-data.net","applicationTime":107,"applicationID":"5899652","transactionName":"NVYBYEZXXkdXUUEIXgwcMERGX15TdV1bFUMNXw9RRhlYUVpCGAJUDEcRURtXQkBfUVkEHhlSEUBdVVxRdV1RBExCGyRxYB8=","queueTime":0}</script>
 
 
 </body></html>
