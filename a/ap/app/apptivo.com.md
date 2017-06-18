@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apptivo.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225120636id_/http%3A//www.apptivo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptivo.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618172344id_/http%3A//www.apptivo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Apptivo
 
