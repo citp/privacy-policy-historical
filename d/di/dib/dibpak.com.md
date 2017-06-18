@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dibpak.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028134831id_/http%3A//www.dibpak.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dibpak.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618052951id_/https%3A//www.dibpak.com/privacy-policy) for the most accurate reproduction.*
 
-# Home
+# Privacy Policy - Dubai Islamic Bank
 
 Dubai Islamic Bank is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Dubai Islamic Bank Web site and governs data collection and usage. By using the Dubai Islamic Bank website, you consent to the data practices described in this statement.
 
@@ -28,7 +28,7 @@ Dubai Islamic Bank Web sites will disclose your personal information, without no
 
 Use of Cookies
 
-The Dubai Islamic Bank Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The Dubai Islamic Bank Web site use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
 One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Dubai Islamic Bank pages, or register with Dubai Islamic Bank site or services, a cookie helps Dubai Islamic Bank to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Dubai Islamic Bank Web site, the information you previously provided can be retrieved, so you can easily use the Dubai Islamic Bank features that you customized.
 
@@ -36,7 +36,7 @@ You have the ability to accept or decline cookies. Most Web browsers automatical
 
 Security of your Personal Information
 
-Dubai Islamic Bank secures your personal information from unauthorized access, use or disclosure. Dubai Islamic Bank secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Dubai Islamic Bank secures your personal information from unauthorized access, use or disclosure. Dubai Islamic Bank secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as your card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 Changes to this Statement
 
@@ -44,4 +44,4 @@ Dubai Islamic Bank will occasionally update this Statement of Privacy to reflect
 
 Contact Information
 
-Dubai Islamic Bank welcomes your comments regarding this Statement of Privacy. If you believe that Dubai Islamic Bank has not adhered to this Statement, please contact Dubai Islamic Bank at [host@change.me](mailto:host@change.me). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Dubai Islamic Bank welcomes your comments regarding this Statement of Privacy. If you believe that Dubai Islamic Bank has not adhered to this Statement, please contact Dubai Islamic Bank at info@dibpak.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
