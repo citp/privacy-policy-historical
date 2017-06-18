@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banqueaudi.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222131134id_/http%3A//www.bankaudi.com.lb/lebanon/bank-audi-online-banking-privacy-notice-and-information-security-tips) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banqueaudi.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618072824id_/http%3A//www.bankaudi.com.lb/lebanon/bank-audi-online-banking-privacy-notice-and-information-security-tips) for the most accurate reproduction.*
 
 # Bank Audi sal – Bank Audi Online Banking Privacy Notice and Information Security Tips
 
