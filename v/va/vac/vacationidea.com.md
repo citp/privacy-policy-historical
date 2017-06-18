@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123010902id_/http%3A//vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationidea.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618133303id_/http%3A//vacationidea.com/about/privacypolicy.cfm) for the most accurate reproduction.*
 
 # VacationIdea.com Privacy Policy
 
