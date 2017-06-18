@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgeneral.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203192252id_/http%3A//www.nationalgeneral.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgeneral.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618074255id_/http%3A//www.nationalgeneral.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - National General Insurance
 
