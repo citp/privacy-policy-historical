@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clip16.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233607id_/http%3A//www.clip16.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clip16.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618031050id_/http%3A//www.clip16.com/privacy) for the most accurate reproduction.*
 
 # Site Information - Privacy Policy
 
