@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4degreez.com privacy policy that was archived on 2016-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160131060556id_/http%3A//www.4degreez.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4degreez.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619001505id_/http%3A//4degreez.com/privacy.html) for the most accurate reproduction.*
 
 # 4degreez.com Media Kit
 
