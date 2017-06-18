@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the russianremote.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224103241id_/http%3A//russianremote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianremote.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619013011id_/http%3A//russianremote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Russianremote.com
 
-This Website Privacy Policy describes RussianRemote.com’s collection and use of information from visitors to our websites and to our online store (together, our website). By using our website, you agree with the terms of this Website Privacy Policy.
+This Website Privacy Policy describes RussianRemote.com's collection and use of information from visitors to our websites and to our online store (together, our website). By using our website, you agree with the terms of this Website Privacy Policy.
 
 **Changes to Website Privacy Policy**  
-This Website Privacy Policy will be changed from time-to-time. When we make a change to our service Privacy Policy, we will (1) notify you by email that our service Privacy Policy has been changed, (2) place a prominent notice on our website, (3) change the last updated date at the top, and (4) post the changed Website Privacy Policy at <http://rurem.com/privacy-policy>.
+This Website Privacy Policy will be changed from time-to-time. When we make a change to our service Privacy Policy, we will (1) notify you by email that our service Privacy Policy has been changed, (2) place a prominent notice on our website, (3) change the last updated date at the top, and (4) post the changed Website Privacy Policy at http://rurem.com/privacy-policy.
 
 **How We Collect Personally Identifiable Information**  
 There are two ways we collect personally identifiable information: (1) information which you supply to us directly; and (2) information which we gather from your computer using cookies.
@@ -60,3 +60,5 @@ Our service may also send out periodic email messages recommending certain conte
 We will provide you with the means to ensure that your personal contact information is correct and current. By visiting your Home Page at our online store, you may Obtain information about your account information and current charges. Verify the accuracy of your account and contact information. Correct or update your account, credit card information and contact information.
 
 Last Updated: October 29, 2009
+
+About it to do product I look and was [viagra generic](http://bestviagraoriginals.com/) professional have stretching stocking acne isn’t, many.
