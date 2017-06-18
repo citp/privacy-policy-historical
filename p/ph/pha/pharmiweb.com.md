@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003115id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619012751id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | PharmiWeb.com
 
@@ -39,7 +39,7 @@ We recommend that you don’t submit sensitive personal information to the Site,
 
 If you do choose to submit sensitive personal information to the Site, you authorise us to retain and use it in accordance with this Policy.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to�not having this information used by these companies, [click here.](http://www.google.co.uk/privacy_ads.html)
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here.](http://www.google.co.uk/privacy_ads.html)
 
 ## 2 USE OF PERSONAL INFORMATION
 
@@ -89,14 +89,14 @@ Most browsers allow you to turn off cookies. If you want to know how to do this 
 
 We will only disclose personal information to other companies within our group of companies, government bodies and law enforcement agencies (where required to do so) successors in title to our business and suppliers we engage to process data on our behalf.
 
-You have a right to access the personal data held about you. To obtain a copy of the personal information we hold about you, please write to us at PharmiWeb Solutions, Abbey Business Centre, Abbey House, Grenville Place, Bracknell, Berkshire, RG12 1BP.
+You have a right to access the personal data held about you. To obtain a copy of the personal information we hold about you, please write to us at PharmiWeb Solutions, One Station Square, Bracknell, RG12 1QB.
 
 **
 
-This Site is owned and operated by PharmiWeb 2002 Limited trading as PharmiWeb Solutions, a company registered in England whose registered office is at Radius Court, 1st Floor, Eastern Road, Bracknell, RG12 2UP. PharmiWeb Solutions’ company registration number is 4548862 and its VAT number is 819388977.
+This Site is owned and operated by PharmiWeb 2002 Limited trading as PharmiWeb Solutions, a company registered in England whose registered office is at One Station Square, Bracknell, Berkshire, RG12 1QB. PharmiWeb Solutions’ company registration number is 4548862 and its VAT number is 819388977.
 
 If you have any queries please contact [corporate@pharmiweb.com](mailto:corporate@pharmiweb.com)
 
 **
 
-See also [Privacy Policy](https://web.archive.org/web/20161119003115id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20161119003115id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20161119003115id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
+See also [Privacy Policy](https://web.archive.org/web/20170619012751id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20170619012751id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20170619012751id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
