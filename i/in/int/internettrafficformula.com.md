@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internettrafficformula.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210164006id_/http%3A//www.empowernetwork.com/privacy%3Fid%3Ddavidwood) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internettrafficformula.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618045220id_/https%3A//www.empowernetwork.com/privacy.php%3Fid%3Ddavidwood) for the most accurate reproduction.*
 
 # Welcome to Empower Network - Privacy Policy
 
