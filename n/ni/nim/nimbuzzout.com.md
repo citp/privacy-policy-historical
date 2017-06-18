@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126001938id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nimbuzzout.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618150513id_/http%3A//www.nimbuzz.com/en/legal/privacy-statement) for the most accurate reproduction.*
 
 # Nimbuzz: World's Best Instant Messenger
 
