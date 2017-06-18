@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinkhouse.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030034626id_/http%3A//twinkhouse.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkhouse.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618193425id_/http%3A//twinkhouse.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TwinkHouse
 
