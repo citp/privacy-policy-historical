@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the our.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216031934id_/http%3A//www.our.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the our.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618200617id_/http%3A//www.our.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Our.com
 
 ### Data Protection and Privacy Policy
 
-THE NETWIZZY COMPANY, SL, (herein, THE NETWIZZY COMPANY) is a registered company whose head office is located in Valencia, Spain on Calle Daniel Balaciart 4, mezzanine, postcode 46020 with the contact email address legal@our.com.
+THE NETWIZZY COMPANY, SL, (herein, THE NETWIZZY COMPANY) is a registered company whose head office is located in Valencia, Spain on Calle Daniel Balaciart 2, mezzanine, postcode 46020 with the contact email address legal@our.com.
 
 NETWIZZY THE COMPANY is duly registered in the Mercantile Registry of Valencia, Spain Volume 8497, Book 5787, Folio 212, Section 8, Page V-115519, 1st entry. C.I.F number is B97726913.
 
@@ -16,7 +16,7 @@ In compliance with the provisions of Law 15/1999 on December 13, Protection of P
 
 Please note that THE NETWIZZY COMPANY has adopted adequate levels of security for the data provided, and has also installed all the resources as well as technical and organizational measures at its disposal to prevent the loss, misuse, alteration, unauthorized access and/or theft of the data provided.
 
-Also, please note that you can contact THE NETWIZZY COMPANY at any time to exercise your right to access your data, or for the rectification or opposition to the use of your data thereof, or cancellation, by sending a written communication and enclosing a copy of your ID or official document attesting your identity to THE NETWIZZY COMPANY, in Valencia, Spain on Calle Daniel Balaciart 4, mezzanine, postcode 46020 or by sending an email to THE NETWIZZY COMPANY at: legal@our.com, attaching a copy of your valid ID, national identity card or any other documentation that identifies you.
+Also, please note that you can contact THE NETWIZZY COMPANY at any time to exercise your right to access your data, or for the rectification or opposition to the use of your data thereof, or cancellation, by sending a written communication and enclosing a copy of your ID or official document attesting your identity to THE NETWIZZY COMPANY, in Valencia, Spain on Calle Daniel Balaciart 2, mezzanine, postcode 46020 or by sending an email to THE NETWIZZY COMPANY at: legal@our.com, attaching a copy of your valid ID, national identity card or any other documentation that identifies you.
 
 The company is committed to treating your data confidentially, the computers that store personal data follow the provisions of Royal Decree 1720/2007 in Spain, approving the Regulations implemented by law for the protection of personal data.
 
