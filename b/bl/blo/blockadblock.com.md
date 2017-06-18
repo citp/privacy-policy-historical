@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blockadblock.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706210211id_/http%3A//blockadblock.com/adblocking/blockadblock-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blockadblock.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618070024id_/http%3A//blockadblock.com/adblocking/blockadblock-com-privacy-policy) for the most accurate reproduction.*
 
 # BlockAdblock.com Privacy Policy - BlockAdblock
+
+_Last updated: Oct 28, 2016_
 
 This privacy policy discloses the privacy practices for blockadblock.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:
 
@@ -20,7 +22,9 @@ This privacy policy discloses the privacy practices for blockadblock.com. This 
 
 Entering your email address on the website constitutes agreement for blockadblock.com to send periodic email updates.  Your email data is stored using a third-party email list management service.
 
-We do not share email mailing list data.
+We do not share email mailing list data with unaffiliated third parties.  
+
+Affiliated parties shall include BlockAdBlock and any other entity that, directly or indirectly through one or more intermediaries, controls or is controlled by BlockAdBlock, or any successor corporation or other legal entity which succeeds as a going concern to all business presently conducted by BlockAdBlock pursuant to a merger, consolidation or sale of all or substantially all of its assets. 
 
 **Your Access to and Control Over Information**   
 You may opt out of any future contacts from us at any time. You can do the following at any time by using the unsusbscribe or remove from mailing list feature.
