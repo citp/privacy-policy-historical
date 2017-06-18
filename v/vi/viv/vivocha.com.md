@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2016-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160920145016id_/http%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivocha.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618180626id_/http%3A//www.vivocha.com/privacy) for the most accurate reproduction.*
 
-# Vivocha - Privacy
-
-## Personal Data
-
-The Personal Data and Browser Data (hereinafter collectively referred to as “Data”), automatically collected from this website (hereinafter the “Site”), by means of automated systems or freely entered by the User or the Interested Party, are collected for the purposes, and processed, as follows below.
-
-## Parties processing the data
-
-### Owner of the Data Processing System
-
-Vivocha S.p.A. – via Giotto 38 09121 CAGLIARI (CA) - Italy,  
-info@vivocha.com
-
-## Kinds of Data
+# Privacy policy - Vivocha
 
 The Data that may be collected by this Site are name, surname, address, phone number, email, fax, social security number, IP address and other Data relating to the User’s identity or technical access to the Site by the User. When Sensitive Personal Data are transferred (personal data revealing racial or ethnic, religious, philosophical or other beliefs, political opinions, membership of political parties, trade unions, associations or organizations of a religious, philosophical or political nature, and personal data disclosing information about health and sex life), it may be necessary to obtain consent in order to process them.
 
@@ -23,42 +10,21 @@ Failure to process certain Data (e.g. contact details, or addresses, or data con
 
 If the User utilizes the Site to publish or otherwise share Personal Data with third parties, he or she assumes full responsibility: the User states possession of the right to communicate or disclose personal data to third parties, and that they have received prior information thereto, thus relieving the Site of all responsibility for their improper use following disclosure or dissemination.
 
-## Mode and place of processing of the information obtained
-
-### Method of Processing
+#### Method of Processing
 
 The Data Controller processes the Data of the Interested Parties and Users in a lawful and proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data. Processing is carried out using computers and / or telematic means, with organizational methods and logics strictly related to the stated purposes. In addition to the owner, in some cases, access to the Data may be available to personnel involved in the organization of the Site (administrative, commercial, marketing, legal, system administrators) or external parties (such as third party technical service providers, mail carriers , hosting providers, IT companies, communications agencies) appointed, if necessary, as Managers by the Owner of the Processing procedure. The updated list of Managers can be requested from the Owner by contacting the above address at any time.
 
-### Place
+#### Place
 
 The Data are processed at the headquarters of the Data Controller. Any processing of Data outside one of the EU Member States may require the consent of the User or the Interested Party.
 
-### Time
+#### Time
 
 The Data are kept for the time necessary to perform the service requested by the User, and the User can always ask for removal from the servers of the Site for legitimate reasons.
 
-## The use of the collected Data
-
-the provision of the service or delivery of goods for sale purchased on the Site, and more generally, for administrative and accounting or technical purposes;
-
-  * The Provision Of The Service
-  * a response to specific requests for information by the User;
-  * a User update on new products or services provided by the Site or concerning particular business offers;
-  * the User to be informed of any Site maintenance or inconvenience;
-  * any commercial profiling of the User;
-  * to display banners related to User interests (behavioral targeting / advertising);
-  * defense by the Website Owner, in court or in the stages leading to possible legal action, against improper use of the same or related services by the User.
-
-
-
-Some forms of processing (sending promotional information, commercial profiling, behavioral advertising, geolocation, etc.) may require the express consent of the User or the Interested Party.  
-Specific information may be shown on the pages of the Site in connection with particular services or processing of Data provided by the User or by the Interested Party.
-
-## Services provided by this website
-
 The use of Data for additional purposes by the Data Controller, or for services for which it is necessary to collaborate with third parties, listed below, may in some cases require the free and specific consent of the User or the Interested Party.
 
-### Registration
+#### Registration
 
 Registration (This Website)
 
@@ -66,11 +32,11 @@ The registered User consents to provide his/her Personal Data to enable the exec
 
 The personal data collected are: First Name, Last Name, Email, Phone number and Company name.
 
-## Purpose of the information collected and Services utilized on the website
+#### PURPOSE OF THE INFORMATION COLLECTED AND SERVICES UTILIZED ON THE WEBSITE
 
 The purpose of the treatment of the personal information, the personal information collected and any suppliers of third party services involved are mentioned hereinafter.
 
-### Comment services
+#### Comment services
 
 The Comment services allow Users to formulate and share their views on the content of the Site.
 
@@ -78,11 +44,11 @@ The Comment services allow Users to formulate and share their views on the conte
 
 Disqus is a service that allows the display and exchange of Users’ comments on this Site. The Personal Data are collected by Big Heads Labs Inc, USA, a company that adheres to the Safe Harbor Privacy Policy Framework and ensures European safety standards. Personal Data are collected using permanent cookies, session cookies, or provided voluntarily by the User. The Personal Data collected are used to give notice to the User of the comments left on the Website and to provide, directly or indirectly, commercial information, including sending out newsletters. The User is solely liable for the information provided in the discussion windows and no liability is assumed for the use of such information by third parties.
 
-Place of Data Processing: USA More information:[docs.disqus.com/help/30/](http://docs.disqus.com/help/30/)
+Place of Data Processing: USA More information: [docs.disqus.com/help/30/](http://docs.disqus.com/help/30/)
 
 The personal data collected are: Cookie and IP.
 
-### Analytics
+#### Analytics
 
 The services contained in this section, provided by third parties, are used to track User behavior and, in case of profiling, they can require the User’s express consent.
 
@@ -94,7 +60,7 @@ Place of Data Processing: USA More information:[www.google.com/intl/en/analytics
 
 The personal data collected are: Cookie and IP.
 
-### Social Networks
+#### Social Networks
 
 The User can share information and Data supplied to this Site with the social networks with which the User is registered, accepting their privacy policy.
 
@@ -102,7 +68,7 @@ The User can share information and Data supplied to this Site with the social ne
 
 Facebook Social button is a service run by Facebook Inc., a company that complies with the Safe Harbor Privacy Policy Framework initiative, guaranteeing the handling of Personal Data in compliance with European security standards. The service makes it possible to interact with the social network via this Website. Facebook, through the User click, acquires information about his/her/its visit to the Site. Facebook does not share any information or data in its possession with the Site or the Data Controller.
 
-Place of Data Processing: USA More information:[www.facebook.com/privacy/explanation.php](http://www.facebook.com/privacy/explanation.php)
+Place of Data Processing: USA More information: [www.facebook.com/privacy/explanation.php](http://www.facebook.com/privacy/explanation.php)
 
 The personal data collected are: Cookie and IP.
 
@@ -122,21 +88,17 @@ Place of Data Processing: USA More information:[twitter.com/privacy](http://twit
 
 The personal data collected are: Cookie and IP.
 
-## Further data collection
+#### FURTHER DATA COLLECTION
 
-### Vivocha Analytics
+#### Vivocha Analytics
 
 Vivocha Analytics is a web analysis service supplied by Vivocha Business Unit of Reitek S.p.A. (“Vivocha”), which utilizes “cookies” by means of which it collects Personal Information on the User, which is forwarded to, and deposited on, Vivocha’s servers in the United States. Vivocha utilizes this information in order to track and examine your use of the website, to prepare reports on the activities of the website for the website operators and to supply other services relevant to the activities of the website and to the use of the Internet. Vivocha does not associate the user’s IP address with any other information in Vivocha possession. Any refusal to utilize the cookies, by selecting the appropriate setup on your browser, may prevent the use of all the functions of this website.
 
-## The Rights of Interested Parties
+#### Rights of Parties
 
 Those persons to whom the Data refer, have the right, at any time, to obtain confirmation of the existence or otherwise of information by consulting the Data Controller, to learn about their contents and origin, to verify their accuracy or to ask for their integration, cancellation, update or correction, their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Processor at the address cited in the “Data Controller” section.
 
-## Information about this privacy policy
-
-This privacy policy was prepared autonomously and with full assumption of responsibility by the data controller starting from the modules provided by Iubenda and hosted on the Iubenda’s servers.
-
-### Definitions and legal references
+#### Definitions and legal references
 
 #### Personal information
 
