@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militarybenefits.info privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122184219id_/http%3A//militarybenefits.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarybenefits.info privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618041800id_/http%3A//militarybenefits.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Military Benefits
 
