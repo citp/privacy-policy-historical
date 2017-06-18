@@ -1,66 +1,89 @@
-> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208154712id_/http%3A//scour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scour.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618202108id_/http%3A//scour.com/files/policy.html) for the most accurate reproduction.*
 
-# Privacy - Scour.com - Search Socially with Scour
+# 
 
-### Scour.com Privacy Policy
+scour.com ("Scour") is committed to maintain the privacy of your personal information when you visit our website, use our related services (“Services”) and/or download and use any promoted third party applications accessible for download from the Site (“Applications”). This Privacy Policy describes how we treat the information collected from you in connection with your use of our Site, Services and Applications. This Privacy Policy further describes how we use and disclose information collected in connection with providing such services to publishers of Applications. By using the Site or Services, you are consenting to the collection, use, and sharing of information collected from you as described below in this Privacy Policy.
 
-**(SCOUR.COM) EFFECTIVE DATE: The most recent version of this Privacy Policy, as revised, is October 22, 2009.**
+### Collection on Information
 
-This Privacy Policy applies to certain web sites that are owned and/or operated by or on behalf of SCOUR.COM, and/or other affiliated entities controlled by, or under common control with, such parties (each such web site being individually referred to herein as the "Web Site"). If you have arrived at this Privacy Policy by "clicking" on an authorized link from a Web Site, then this Privacy Policy applies to said Web Site, and the individual entity that owns and/or operates the particular Web Site from which you "clicked". This Privacy Policy via an authorized link shall be referred to herein as "Sponsor," "we" or "us." Sponsor respects the privacy of its users, and this Privacy Policy explains what information we collect on our Web Site and how we use said information. 
+#### Registration and Device Syncing
 
-Please read this Privacy Policy carefully, as it acts as an official Terms of Use statement, which governs your use of the Web Site. Your use of our Web Site indicates to us that you have read and accepted our privacy practices, as outlined in this Privacy Policy and our Terms of Use. 
+You can register either using you email or Facebook. Depending on how you choose to register, we may collect and store your email address and/or Facebook access token. We also link your email address or Facebook access token to a unique identifier that we associate with your mobile device. When you register with us and sign in to our services, you are not anonymous to us.
 
-#### Applicability
+#### Device-Specific Information
 
-Please note that this Privacy Policy only applies to Web Sites owned and/or operated by or for Sponsor, and upon which Sponsor has placed a "link" which, when "clicked", transfers you to this Privacy Policy. It is not applicable to the individual web sites owned, sponsored or operated by or for any independent television or radio stations affiliated with Sponsor. While on our Web Site, you may encounter links to these or other web sites or online material. If you "click" on a link to such a third party, the "click" takes you off our Web Site and to a third party's web site, which is beyond Sponsor's control. These other web sites may set their own cookies, collect data, and/or have their own privacy policies. This Privacy Policy only covers information collected at the Web Site, and does not cover any information collected by any other web site or offline by Sponsor (unless otherwise specifically stated or disclosed by Sponsor), its corporate affiliates, broadcast affiliates, licensees or any other company, and we encourage you to review the privacy policy of any other web site you visit. 
+When you interact with one of our Application, we may collect the following information, including, but not limited to: an unique identification number, platform type and version, hardware and processor type, screen resolution, session length, MAC address, country and IP address.
 
-In addition, please note that this Privacy Policy does not apply to any information you may disclose publicly in any chat rooms, message boards, or similar web pages. You should keep in mind that whenever you publicly disclose information about yourself online - for example, via message boards or chat rooms - that information could be collected and used by people that you do not know. In addition, certain message boards and similar user forums may display IP addresses (as defined below) along with the message poster's name and message. Sponsor bears no responsibility for any actions or policies of any third parties who collect any information users may disclose on the message boards, chat areas or other user forums, if any, on the Web Site. 
+#### Information Obtained from Linked Social Networking Sites
 
-#### Information Sponsor Collects
+When you register using Facebook, you allow us to access certain information from your profile. We can access following information, including, but not limited to: your user name, your Facebook User ID number, your profile picture URL, your list of friends, your gender, your birthday or age, your physical location and the location of your device, your occupation and education, your interests and group affiliations, your posts and email addresses and other contact information that is associated with your profile.
 
-Personally Identifiable Information: Personally identifiable information is information that could reasonably be used to identify you personally (such as your name, address, birth date or e-mail address), which we refer to in this Privacy Policy as "PII." Generally, you may browse our Web Site without providing us with PII. However, there may be times when we ask you to provide us with certain PII, such as when you choose to register with our Web Site and/or for newsletters or choose to participate in an online contest, sweepstakes, survey or voting procedure. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. Sponsor reserves the right, at any time, to add features to our Web Site that require you to register or otherwise provide PII, including credit card information, or to require registration to access our Web Site. You can choose not to provide certain information, but then you may not be able to take advantage of or participate in some of the Web Site's features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site. The e-mail addresses you supply us for those activities will be used to send the requested e-mail and will not be used to send you or your friend any other e-mail communications. 
+Scour may store and combine information that we access about you through linked social networks with the unique identifier that we associate with your mobile device, as well as other information that we collect about you or your use of our products and services.
 
-The Web Site does not knowingly collect PII from children under thirteen (13) years of age: This is not a web site directed to children under the age of 13, and Sponsor does not knowingly collect any information from children under 13 years of age at the Web Site. If you are under 13 years of age, do not send any information about yourself to Sponsor. If Sponsor discovers that a child under the age of 13 has provided the Web Site with PII, Sponsor will delete that child's PII from its system. 
+#### App Usage Information
 
-Anonymous Information: When you visit the scour.com Web Site, our web servers automatically collect web site usage information. Web site usage information is anonymous information that describes how our visitors use and navigate our Web Site, and it includes the number and frequency of visitors to each web page and the length and depth of their stays. We collect the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP address. We also may determine what technology is available through your browser in order to serve you with the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. 
+We may collect information about your use of an Application, including the date and number of times that you launched an particular Application, the pages that you viewed, and any third-party apps that you selected for installation. We also collect information about the session ID, user ID, total play time, and session length.
 
-IP Addresses: An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our business partners or to audit the number of visits to different pages on our Web Site. Please note that some services within our Web Site, such as certain message boards, may display IP addresses along with the message poster's name and message. 
+#### Third Party Tools
 
-Cookies: Cookies are information files that our Web Site may place on your computer to provide extended functionality and to personalize your experience at our Web Site. We may use cookies for a number of purposes, including behavioral cookie targeting. For example, we may use cookies to track usage patterns on the Web Site and the Internet and we may use cookies when we conduct polls and sweepstakes to limit multiple responses and registrations. Or, we may use cookies to record registration and personalization information, enabling you to save your user name and password. We do not store any PII in cookies, but we may link the cookie to any information we collect. You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of the Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+Scour website and promoted Applications may also contain third-party tracking tools from our service providers, an example of which includes Google Analytics. Such third parties may use cookies, APIs, and SDKs in our services to enable them to collect and analyze User information on our behalf. While a third party may have access to your personal information in connection with the performance of services for Scour, it may not use such information for any purpose other than providing its services.
 
-#### Sponsor's Use and Disclosure of Collected Information
+#### Anonymous Information
 
-Sponsor: Sponsor may use your PII to provide the information or content you have requested, to contact you or to fulfill prizes in connection with a contest or sweepstakes, to contact you about Sponsor programs, products, features or services, or for other purposes disclosed at the time of collection. We may also use your PII to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Use or other policy or terms that affect you and your use of our Web Site. If you e-mail someone else an article, electronic greeting card or other special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. Sponsor may use information collected about our users to improve the content and navigation of our Web Site, or for other internal purposes. 
+We may create anonymous information records from personal information by excluding information (such as your name) that make the data personally identifiable to you. Scour reserves the right to use anonymous information for any purpose and disclose anonymous information to third parties in its sole discretion.
 
-Third parties providing services on our behalf: Sponsor may employ other companies and individuals to perform functions on its behalf. Examples may include hosting the Web Site, sending communications on our behalf, hosting message boards or other user forums, analyzing data, providing marketing assistance, creating, hosting and/or running contests/sweepstakes/games and providing customer service. These third parties may have access to our users' PII in order to provide these services to us or on our behalf, but they are not permitted to use it for other purposes. 
+We may also disclose personally identifiable information to a successor acquirer or other related entity, in connection with a sale or transfer of some or all of our assets, or when we, in good faith, believe that the law requires us to do so.
 
-Other Third Parties: Sponsor may disclose anonymous, aggregated user statistics to third parties for a variety of purposes. For example, we may disclose how many individuals visited certain areas of our Web Site, or how many men or women receive our newsletter. Sponsor does not rent, sell or otherwise disclose your PII to third parties unless disclosed to you at the time such information is collected or unless you otherwise give consent, other than in the following limited circumstances: 
+### How We Use Your Information
 
-  * Legal action. Sponsor may disclose information about its users, including PII, when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web Site and applicable laws, or to protect against misuse or unauthorized use of our Web Site. Sponsor may also disclose user information whenever we believe disclosure is necessary to limit our legal liability, to protect or defend our rights or property or protect the safety, rights or property of our users. 
-  * Corporate change. Sponsor may sell, transfer or otherwise disclose user information, including PII, to a successor entity in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change respecting the Web Site. 
+#### To enhance Scour website and Service
 
+We may use the information that we collect about you, including anonymous information to analyze request and usage patterns so that we may enhance the content of Scour website and the Service.
 
+#### To Contact You
 
-#### Third Party Advertising and Data Collection
+We may periodically send promotional materials or notifications related to Applications to the email address that you provide to us when registering. If you want to stop receiving promotional materials from us, you can email us at support@giftswall.com.
 
-We work with third party companies to collect data and serve ads when you visit our Web Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to our Web Site in order to provide advertisements on our Web Site, other web sites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/). 
+#### To Send you Money
 
-#### Security
+When you qualify for a money transfer we use the Paypal account associated with you account to send you money.
 
-Sponsor takes steps to secure the data you submit to us, including limiting the number of people who have physical access to our user data. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Therefore, Sponsor cannot ensure or warrant the security of any information you transmit to Sponsor and you do so at your own risk. That said, all financial transactions completed through the Web Site use the most sophisticated e-commerce software and hardware Scour.com can provide, to ensure the utmost security for all users. 
+### Information Sharing and Disclosure
 
-#### Consent to Transfer
+Scour does not rent, sell, or share personal information about you with other people or companies which are not affiliates, except when we have your permission, as described above, or under the following circumstances:
 
-The Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+#### Affiliates
 
-#### Acceptance / Changes to Privacy Policy
+We may share some or all of your personal information with our current and future parent company, any subsidiaries, or other companies under a common control, in which case we will require our affiliates to honor this Privacy Policy.
 
-By using the Web Site, you agree to the terms of this Privacy Policy. Sponsor reserves the right to modify, alter or otherwise update this Privacy Policy at any time in its sole discretion. We will post any changes here, so be sure to check back from time to time. However, we will only use the PII you provide to the Web Site in a manner consistent with this Privacy Policy, unless you give us your consent. 
+#### Developers
 
-#### Contact Us
+We share app-specific information in aggregated form with Developers. Such aggregated information may include, for example, how many unique individuals are logged in to an Application.
 
-If you have any questions, comments or concerns about our Privacy Policy, please contact us at the address provided on the Web Site from which you "clicked" via an authorized link to arrive at this Privacy Policy. 
+### Your Choices
 
-#### Opt-Out of Scour.com Invites
+#### Opting Out of Marketing
 
-If you prefer not to receive invitations from ANY scour.com members, please [click here](https://web.archive.org/unsubscribe) -OR- Write to us at: Scour, Inc., 15303 Ventura Blvd. Suite 220, Sherman Oaks, CA 91403, USA. 
+You can "opt-out" from promotion emails by following the unsubscribe instructions provided in the e-mail you receive or by contacting us at support@giftswall.com.
+
+#### Changes of Your Data
+
+You may change any of your personal information in your account by editing your profile within your account.
+
+### Information Security
+
+We use reasonable efforts to protect your personal information against unauthorized access and unauthorized alteration, disclosure or destruction. However, we cannot guarantee that your personal information will be absolutely protected. For example, your personal information may be affected by actions outside of our control, such as computer "hacking" and physical theft. You acknowledge that you provide your personal information at your own risk.
+
+### Cookies
+
+Cookies are small bits of information sent by a host that is stored on your hard disk by your computer’s browser. Cookies speed up your online usage by remembering your personal information such as your User ID (your e-mail address and/or password), and gather your online activities data for marketing or promotional purposes.
+
+You may disable cookies from the website on your browser. However, each browser has its unique cookies preference setting so please refer to your browser for more information.
+
+### Children under the Age of 13
+
+We do not intentionally collect any information from anyone under 13 years of age. Our Site, products and services are all directed to people who are at least 13 years old or older.
+
+### Contact Information
+
+If you have any questions about this Privacy Policy, you may contact us at: support@giftswall.com.
