@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everycircuit.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010720id_/http%3A//everycircuit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everycircuit.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618180333id_/http%3A//everycircuit.com/privacypolicy) for the most accurate reproduction.*
 
 # EveryCircuit
 
@@ -58,4 +58,4 @@ If you have any questions about this Privacy Policy, please contact us at [legal
 
 Updates to this policy
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. Changes may be retroactive. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at [legal@musemaze.com](mailto:legal@musemaze.com). This Privacy Policy was last updated on January 1st, 2015. 
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. Changes may be retroactive. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at [legal@musemaze.com](mailto:legal@musemaze.com). This Privacy Policy was last updated on January 1st, 2017. 
