@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025012414id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618083208id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
 
 # Slice - Privacy Policy
 
@@ -113,7 +113,7 @@ If you are visiting from the European Union or other regions with laws governing
 
 ### VIII. HOW TO CONTACT US
 
-If you have questions or suggestions, please email Slice at [support@slice.com](mailto:support@slice.com) or call (650) 323-9100. Written communication should be sent to Slice Technologies, Inc., Attn: Customer Affairs, 800 Concar Dr Ste 300, San Mateo, CA 94402.
+If you have questions or suggestions, please email Slice at [support@slice.com](mailto:support@slice.com) or call (650) 323-9100. Written communication should be sent to Slice Technologies, Inc., Attn: Customer Affairs, 800 Concar Dr Ste 175, San Mateo, CA 94402.
 
 ### IX. HOW TO REVIEW OR CORRECT YOUR PERSONAL INFORMATION, OR CLOSE YOUR ACCOUNT.
 
