@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applydirect.com.au privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124015412id_/http%3A//www.applydirect.com.au/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applydirect.com.au privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618213928id_/http%3A//www.applydirect.com.au/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,3 +34,7 @@ Where ApplyDirect discloses your personal information to its agents or sub-contr
 ###### Securing Your Information
 
 ApplyDirect will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+
+###### Communications from ApplyDirect
+
+ApplyDirect may also make registered job seekers aware of additional products and services.  You may opt-out of receiving these materials by clicking "Unsubscribe" at the bottom of emails. 
