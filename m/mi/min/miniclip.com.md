@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231140835id_/http%3A//miniclip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618041306id_/http%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Miniclip, Play Games
 
@@ -79,6 +79,99 @@ This Privacy Policy is part of Miniclip's Terms and Conditions to which you agre
 ### Internet Safety
 
 Miniclip recommends that parents take time to communicate and educate their children about Internet Safety. Please see the Miniclip Internet Safety webpage for information on Internet Safety: <http://www.miniclip.com/games/page/en/internet-safety/>
+
+## Miniclip Cookie Policy
+
+Last updated: 2nd June 2017
+
+Miniclip SA (referred to as us/we/our in this Policy) respects the privacy concerns of all users. This Policy explains how cookies may be downloaded onto your device, when you use the website [www.miniclip.com](https://www.miniclip.com/) (" **Website** "), our apps and any games, products, forums and services we offer through the apps or Website or other dedicated websites (such as [www.agar.io](https://agar.io/), [www.ovar.io](https://ovar.io/), [www.spaceone.io](https://spaceone.io/) and any other .io games which may be offered by us from time to time) or otherwise provided by us (all collectively referred to in this Policy as our " **Services** "). References to “ **Miniclip** ”, “we” or “our” are to Miniclip SA, a company registered in Switzerland whose registered number is CH-645-4103964-1
+
+### What are cookies?
+
+Cookies are small bits of text and numbers that are downloaded onto the devices you use to receive the Services. Your browser makes these cookies available every time you use the Services again, so it can recognise you and your device, and can then tailor what you see. Cookies are an important part of the Internet. They make using devices and accessing online information much smoother and affect lots of the useful features of websites. There are many different uses for cookies, but they fall into the following four main groups: Strictly Necessary, Functionality, Targeting and Analytical.
+
+When we refer to "cookies", we also mean web beacons and other storage technologies used to collect or receive information from our Services and elsewhere on the internet, and which are used to provide measurement services, targeted ads and otherwise as described in this Cookies Policy.
+
+### Does Miniclip use cookies?
+
+The Services use the following cookies:
+
+_Strictly Necessary- permanent first party cookies_
+
+These are cookies which are needed to provide the Services. These cookies are essential to help your device download or stream information, so that you can move around the Services.
+
+Here are a few examples of the ways in which we use Strictly Necessary cookies:
+
+  * keeping you logged in during your visit so that you do not have to log in each time you use the Services; and
+  * allowing you to navigate through Services smoothly. 
+
+
+
+These cookies do not collect your personal information and do not pass any of your information onto third parties.
+
+_Functionality – permanent first party and permanent third party cookies (set by third parties such as Facebook)_
+
+These cookies recognise you when you return to Services and allow us to remember the choices you make. Here are a few examples of some of the ways in which we use Functionality cookies:
+
+  * remembering your preferences and settings, including language, login source, location and marketing preferences (such as choosing whether you wish to receive marketing information); and
+  * remembering if a popup or alert has also been shown to You.
+
+
+
+These cookies do not collect your personal information. These cookies may pass on anonymous information onto third parties.
+
+_Targeting – temporary third party cookies (set by third parties such as Google and PubMatic)_
+
+Our Services allow third party companies to serve adverts and/or collect certain information when you and other users use certain Services. The resulting adverts often contain cookies which are stored onto your device as you visit different sites or pages. Some of these cookies are set by third party ad providers, such as Google "DoubleClick" and PubMatic.
+
+These companies may collect certain information (e.g. click stream information, browser type, time and date, subject of advertisements click or scrolled over) and precise geo location and user device ID during your visits to our Services and other sites to provide adverts about goods and services likely to be of interest to you.
+
+To learn more about interest based advertising practice or to opt-out of this type of advertising, you can visit <http://www.youronlinechoices.com/uk/>.
+
+_Analytical – temporary third party cookies (set by third parties such as Google)_
+
+Some of these cookies are set by third parties such as Google. Google Analytics uses cookies to help the website analyse how users use the site. The information generated by the cookies about your use of our Services, and your current IP address, will be transmitted by your browser to and will be stored by Google on its servers in the United States and other countries. On behalf of us, Google will use this information for the purpose of evaluating your use of the Services, compiling reports on the Services activity and providing other services relating to the Service activity and internet usage to the website operator. The IP address collected through Google Analytics will not be associated with any other data held by Google.
+
+Here are a few examples of some of the other ways in which we use Analytical cookies:
+
+  * to identify trends about how people navigate (find their way through) our information; 
+  * to count the number of times a page has been viewed; and
+  * to improve how our applications, and websites and their pages work.
+
+
+
+You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of the Services. You may also stop the transmission of information generated by the cookies about your use of the Services and of your IP address to Google, by downloading and installing the Google Analytics Opt-out Browser Add on available here: <http://tools.google.com/dlpage/gaoptout>.
+
+_Flash cookies – permanent third party cookies_
+
+A flash cookie is able to handle more complex information and is able to pass information across the different browser types you may have installed on your computer.
+
+Here are a few examples of some of the ways in which we use Flash cookies
+
+  * to store your user preferences;
+  * save data from Flash based games; 
+  * prevent abuse of the Services; and
+  * to enhance your use of the Services.
+
+
+
+### How can I manage my cookie settings?
+
+If you would like to manage, amend or delete any third party cookies, please check the relevant third party website for more information about how to change your cookie settings.
+
+If you would like further information about how to manage your cookie preferences on a wide variety of desktop browsers, please aboutcookies.org.
+
+By following the steps above, you can approve or delete certain cookies. If you wish to disable certain cookies, you'll still be able to use our Services however you may not have access to all of the content and your browsing experience may be limited.
+
+### How can I contact Miniclip?
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+  * email to: [dataprotection@miniclip.com](mailto:dataprotection@miniclip.com)
+  * letter to: Miniclip SA, Case Postale 2671, 2001 Neuchâtel, Switzerland 
+  * phone: +41 32 722 59 19
+
+
 
 Advertisement Feedback
 
