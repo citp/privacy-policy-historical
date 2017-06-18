@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyayurveda.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123040707id_/http%3A//easyayurveda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyayurveda.com privacy policy that was archived on 2017-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170618215157id_/http%3A//easyayurveda.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ayurvedic home remedies, healthy lifestyle, health tips
+# Privacy Policy - Easy Ayurveda: Health - Lifestyle
 
 At easyayurveda.com, we respect every individual’s right to privacy. Our relationship with you is our most valuable asset and is the very basis of our name and reputation.
 
