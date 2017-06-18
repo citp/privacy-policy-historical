@@ -1,29 +1,96 @@
-<!--The following is the downloaded HTML source of the queerty.com privacy policy that was archived on 2016-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107121942id_/https%3A//www.queerty.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the queerty.com privacy policy that was archived on 2017-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170618234215id_/http%3A//www.queerty.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-995.min.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4975.js?439011" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//cdn.taboola.com/libtrc/gaycities-queerty/loader.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQMPWV9aGwcCVlNSDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,x.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,x=document.createTextNode(w);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!p){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function l(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:l,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a};return w}function i(){return new r}function a(){p=!0,u=l.backlog={}}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o(),p=!1;l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!x++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-995.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var x=0},{}]},{},["loader",2,7]);</script>
-<link rel="dns-prefetch" href="https://queerty-prodweb.s3.amazonaws.com">
-<link rel="dns-prefetch" href="https://stats.wordpress.com">
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://feeds.feedburner.com/queerty2">
-<link rel="apple-touch-icon" href="https://queerty-assets.s3.amazonaws.com/assets/icons/apple-touch-icon.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://queerty-assets.s3.amazonaws.com/assets/icons/apple-touch-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://queerty-assets.s3.amazonaws.com/assets/icons/apple-touch-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://queerty-assets.s3.amazonaws.com/assets/icons/apple-touch-icon-144x144.png">
-<meta name="apple-itunes-app" content="app-id=1046987164">
-<meta property="fb:pages" content="33720334139">
-<meta name="viewport" content="width=728">
-<title>Queerty Privacy Policy / Queerty</title>
-<link rel="dns-prefetch" href="//queerty-assets.s3.amazonaws.com">
-<link rel="dns-prefetch" href="//s0.wp.com">
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//cdn.teads.tv/js/all-v1.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KRQPBJR"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<script src="https://use.typekit.net/cdb4vyt.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+</script>
+<script>
+var isHomePage = false;
+var gptAdSlots = [];
+googletag.cmd.push(function() {
+		var wide_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[320,100],[320, 50], [300, 250]]).
+		addSize([729, 480], [[728, 90]]).
+		addSize([1000, 480], [[970, 250],[970, 90]]).
+		build();
+		
+		var wide_top_sticky_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[320,100],[320, 50]]).
+		addSize([729, 480], [[728, 90]]).
+		addSize([1000, 480], [[970, 90],[728, 90]]).
+		build();
+
+		var article_top_sticky_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[1,1], [320,100],[320, 50]]).
+		addSize([729, 480], [[1,1],[728, 90]]).
+		addSize([1000, 480], [[1,1],[970, 90],[728, 90]]).
+		build();
+		
+		var wide_flexible_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[320,100],[320, 50]]).
+		addSize([729, 480], [[728, 90]]).
+		addSize([1000, 480], [[970, 250],[970, 90], [728, 90]]).
+		build();
+				
+		var card_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[300, 250]]).
+		addSize([775, 680], [[300, 600]]).
+		build();
+
+		var medium_card_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[300, 250]]).
+		build();
+		
+		var superwide_card_mapping = googletag.sizeMapping().
+		addSize([0, 0], []).
+		addSize([1355, 480], [[300, 600],[300,250]]).
+		build();
+
+		var sidebar_mapping = googletag.sizeMapping().
+		addSize([0, 0], []).
+		addSize([729, 480], [[300, 1050],[300, 600],[300, 250]]).
+		build();
+
+		var article_inline_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[320,100],[300, 250]]).
+		addSize([729, 480], []).
+		build();
+
+    gptAdSlots.skin = googletag.defineSlot('/4564944/queerty/article', [[1, 1]], 'div-gpt-ad-skin').setTargeting('ad-location',['Skin']).addService(googletag.pubads());
+    gptAdSlots.leader1 = googletag.defineSlot('/4564944/queerty/article', [[1,1], [320, 100], [728, 90], [320, 50], [970, 90]], 'div-gpt-ad-leader1').setTargeting('ad-location',['Leader 1']).defineSizeMapping(wide_top_sticky_mapping).addService(googletag.pubads());
+    gptAdSlots.sponsorship1 = googletag.defineSlot('/4564944/queerty/article', [[300,75]], 'div-gpt-ad-sponsorship1').setTargeting('ad-location',['Sponsorship 1']).addService(googletag.pubads());
+    gptAdSlots.box1 = googletag.defineSlot('/4564944/queerty/article', [[300, 1050], [300, 600], [300, 250]], 'div-gpt-ad-box1').setTargeting('ad-location',['Box 1']).defineSizeMapping(sidebar_mapping).addService(googletag.pubads());
+    gptAdSlots.box2 = googletag.defineSlot('/4564944/queerty/article', [[300, 600], [300, 250]], 'div-gpt-ad-box2').setTargeting('ad-location',['Box 2']).defineSizeMapping(sidebar_mapping).addService(googletag.pubads());
+    gptAdSlots.inarticle1 = googletag.defineSlot('/4564944/queerty/article', [[320, 100], [300, 250]], 'div-gpt-ad-inarticle1').setTargeting('ad-location',['In Article 1']).defineSizeMapping(article_inline_mapping).addService(googletag.pubads());
+    gptAdSlots.inarticle2 = googletag.defineSlot('/4564944/queerty/article', [[320, 100], [300, 250]], 'div-gpt-ad-inarticle2').setTargeting('ad-location',['In Article 2']).defineSizeMapping(article_inline_mapping).addService(googletag.pubads());
+	googletag.pubads().setTargeting('articleid', ['37881']);
+	googletag.pubads().setTargeting('Tag', ['articlepage','privacy policy','queerty']);
+	googletag.pubads().setTargeting('UGC', ['no']);
+	//googletag.pubads().enableSingleRequest(); 
+	googletag.pubads().collapseEmptyDivs(); 
+	googletag.pubads().disableInitialLoad();
+	googletag.enableServices();
+});
+
+</script>	<title>Queerty Privacy Policy / Queerty</title>
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//www.queerty.com">
+<link rel="dns-prefetch" href="//platform.twitter.com">
 <link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Queerty » Feed" href="https://www.queerty.com/feed">
+<link rel="alternate" type="application/rss+xml" title="Queerty » Comments Feed" href="https://www.queerty.com/comments/feed">
 <link rel="alternate" type="application/rss+xml" title="Queerty » Queerty Privacy Policy Comments Feed" href="https://www.queerty.com/privacy-policy/feed">
       <meta name="onesignal" content="wordpress-plugin">
           <link rel="manifest" href="https://www.queerty.com/content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id=977268943693">
           <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>    <script>
 
-      var OneSignal = OneSignal || [];
+      window.OneSignal = window.OneSignal || [];
 
       OneSignal.push( function() {
         OneSignal.SERVICE_WORKER_UPDATER_PATH = "OneSignalSDKUpdaterWorker.js.php";
@@ -40,10 +107,14 @@ oneSignal_options['autoRegister'] = true;
 oneSignal_options['welcomeNotification'] = { };
 oneSignal_options['welcomeNotification']['title'] = "Queerty";
 oneSignal_options['welcomeNotification']['message'] = "Thanks for subscribing!";
-oneSignal_options['welcomeNotification']['url'] = "http://www.queerty.com/";
+oneSignal_options['welcomeNotification']['url'] = "https://www.queerty.com/";
 oneSignal_options['path'] = "https://www.queerty.com/content/plugins/onesignal-free-web-push-notifications/sdk_files/";
 oneSignal_options['safari_web_id'] = "web.onesignal.auto.32a023df-3e37-4c19-843f-3978a63a946e";
 oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['exampleNotificationTitleDesktop'] = 'Queerty';
+oneSignal_options['promptOptions']['exampleNotificationMessageDesktop'] = 'Titles of Breaking Stories Will Appear Here';
+oneSignal_options['promptOptions']['exampleNotificationTitleMobile'] = 'Queerty';
 oneSignal_options['notifyButton'] = { };
 oneSignal_options['notifyButton']['enable'] = true;
 oneSignal_options['notifyButton']['position'] = 'bottom-right';
@@ -53,9 +124,9 @@ oneSignal_options['notifyButton']['prenotify'] = true;
 oneSignal_options['notifyButton']['showCredit'] = false;
 oneSignal_options['notifyButton']['text'] = {};
 oneSignal_options['notifyButton']['colors'] = {};
-oneSignal_options['notifyButton']['colors']['circle.background'] = '#f57e20';
-            OneSignal.init(window._oneSignalInitOptions);
-                });
+oneSignal_options['notifyButton']['colors']['circle.background'] = '#F43700';
+              OneSignal.init(window._oneSignalInitOptions);
+                    });
 
       function documentInitOneSignal() {
         var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
@@ -74,353 +145,377 @@ oneSignal_options['notifyButton']['colors']['circle.background'] = '#f57e20';
       }
     </script>
 
-<link rel="stylesheet" id="neliofp_style_css-css" href="https://www.queerty.com/content/plugins/nelio-featured-posts/assets/style.min.css?version=2.2.1&amp;ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="googlefonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed%3A300%2C700&amp;ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="fontawesome-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="queertystyle-css" href="https://www.queerty.com/content/themes/queerty_August2012_audit/style.css?ver=4.6.1" type="text/css" media="all">
-<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script><script>jQueryWP = jQuery;</script>
+<link rel="stylesheet" id="font-awesome-css-css" href="https://www.queerty.com/content/themes/queerty_2017/fonts/font-awesome-4.7.0/font-awesome.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="queerty_2017-style-css" href="https://www.queerty.com/content/themes/queerty_2017/style.css?ver=20170523a" type="text/css" media="all">
+<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://queerty-assets.s3.amazonaws.com/assets/js/queerty-general.js?ver=20160418"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.slick/1.6.0/slick.min.js?ver=20170107"></script>
 <link rel="canonical" href="https://www.queerty.com/privacy-policy">
-		<meta name="news_keywords" content="">		
-	<link media="screen" type="text/css" href="https://www.queerty.com/content/plugins/reply-w-comment-preview-custom/css/at-reply.css" rel="stylesheet"><script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="988fa000cb411f7ac4bc8721bd62db3cbf05e1e0524d6dc63eeb4344dfadd5d6" async=""></script><meta name="twitter:card" content="summary">
+<script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="988fa000cb411f7ac4bc8721bd62db3cbf05e1e0524d6dc63eeb4344dfadd5d6" async=""></script><!-- WP Tweets PRO -->
+	<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@Queerty">
 <meta name="twitter:url" content="https://www.queerty.com/privacy-policy">
 <meta name="twitter:title" content="Queerty Privacy Policy">
 <meta name="twitter:description" content="Our privacy policy is pretty simple. We respect yours, especially because without it, we wouldn …">
-<script type="text/javascript">var _wdfb_ajaxurl="https://www.queerty.com/wp/wp-admin/admin-ajax.php";var _wdfb_root_url="https://www.queerty.com/content/plugins/wpmu-dev-facebook";</script><meta property="fb:app_id" content="153299894806318">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Queerty Privacy Policy">
-<meta property="og:url" content="https://www.queerty.com/privacy-policy">
-<meta property="og:site_name" content="Queerty">
-<meta property="og:description" content="Our privacy policy is pretty simple. We respect yours, especially because without it, we wouldn't be in business. Listen up.    When visitors come to a Queerty, Inc. site, we collect standard information such as their IP addresses and referra...">
-<meta property="article:publisher" content="http://www.facebook.com/queerty">
-<script type="text/javascript" src="https://www.queerty.com/content/plugins/wpmu-dev-facebook/js/wdfb_facebook_login.js?version=2.8.2"></script>
-<link rel="dns-prefetch" href="//v0.wordpress.com">
-<style type="text/css">img#wpstats{display:none}</style>	<!-- Quantcast Tag, part 1 --> 
-	<script type="text/javascript">
-	  var _qevents = _qevents || [];
-	  (function() {
-	   var elem = document.createElement('script');
-	   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge")
-	               + ".quantserve.com/quant.js";
-	   elem.async = true;
-	   elem.type = "text/javascript";
-	   var scpt = document.getElementsByTagName('script')[0];
-	   scpt.parentNode.insertBefore(elem, scpt);  
-	  })();
-	</script>
-	
-	<script type="text/javascript">
-	  window._taboola = window._taboola || [];
-	  _taboola.push({article:'auto'});
-	  !function (e, f, u) {
-	    e.async = 1;
-	    e.src = u;
-	    f.parentNode.insertBefore(e, f);
-	  }(document.createElement('script'),
-	  document.getElementsByTagName('script')[0],
-	  '//cdn.taboola.com/libtrc/gaycities-queerty/loader.js');
-	</script>
-	
-	<script id="cointent_td" data-publisher-id="1740" type="text/javascript" src="https://connect.cointent.com/gumshoe.0.2.js"></script>
-	
-<!--bump-->
-<script type="text/javascript">
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-(function() {
-var gads = document.createElement('script');
-gads.async = true;
-gads.type = 'text/javascript';
-var useSSL = 'https:' == document.location.protocol;
-gads.src = (useSSL ? 'https:' : 'http:') + 
-'//www.googletagservices.com/tag/js/gpt.js';
-var node = document.getElementsByTagName('script')[0];
-node.parentNode.insertBefore(gads, node);
-})();
-</script>
-<script type="text/javascript">
-googletag.cmd.push(function () {
-	
-		var lb1_mapping = googletag.sizeMapping().
-		addSize([0, 0], [728, 90]).
-		addSize([729, 480], [[970, 250],[970, 90],[728, 90]]).
-		build();
-		
-		var mrec_article_mapping = googletag.sizeMapping().
-		addSize([0, 0], []).
-		addSize([729, 480], [[300, 1050],[300, 600],[300, 250]]).
-		build();	
-
-		var extra_mrec_article_mapping = googletag.sizeMapping().
-		addSize([0, 0], [300, 250]).
-		addSize([729, 480], []).
-		build();
-		
-		var sky_article_mapping = googletag.sizeMapping().
-		addSize([0, 0], []).
-		addSize([729, 480], [[160, 600], [300, 600]]).
-		build();
-
-		var home_half_page_mapping = googletag.sizeMapping().
-		addSize([0, 0], []).
-		addSize([729, 480], [[300, 600]]).
-		build();
-
-		var home_billboard_mapping = googletag.sizeMapping().
-		addSize([0, 0], [728,90]).
-		addSize([730, 480], [[970, 250]]).
-		build();
-				
-	googletag.defineSlot('/4564944/Queerty_LB_1', [[970, 250], [970, 90], [728, 90]], 'div-gpt-ad-queerty-lb-1').defineSizeMapping(lb1_mapping).addService(googletag.pubads());
-	googletag.defineSlot('/4564944/Queerty_MREC', [[300, 1050],[300, 600],[300, 250]], 'div-gpt-ad-queerty-mrec').defineSizeMapping(mrec_article_mapping).addService(googletag.pubads());
-	googletag.defineSlot('/4564944/Queerty_LB_2', [728, 90], 'div-gpt-ad-queerty-lb-2').addService(googletag.pubads());
-	googletag.defineSlot('/4564944/Queerty_Sky', [[160, 600], [300, 600]], 'div-gpt-ad-queerty-sky').defineSizeMapping(sky_article_mapping).addService(googletag.pubads());
-	googletag.defineSlot('/4564944/Queerty_Skin', [1, 1], 'div-gpt-ad-queerty-skin').addService(googletag.pubads());
-
-		googletag.defineSlot('/4564944/Queerty_Extra_MREC', [300, 250], 'div-gpt-ad-queerty-extra-mrec').defineSizeMapping(extra_mrec_article_mapping).addService(googletag.pubads());
-
-googletag.defineSlot('/4564944/Queerty_Article_Sidebar_Fixed', [300, 300], 'div-gpt-ad-queerty-article-sidebar-fixed').addService(googletag.pubads()).setCollapseEmptyDiv(true,true);
-
-	
-	googletag.defineSlot('/4564944/test_1_by_1', [1, 1], 'div-gpt-ad-test_1_by_1').addService(googletag.pubads());
-	
-	googletag.pubads().setTargeting('Year', ['2012']);
-	googletag.pubads().setTargeting('Tag', ['privacy policy']);
-	googletag.pubads().setTargeting('Category', ['queerty']);
-	googletag.pubads().setTargeting('environment', ['live']);
-	googletag.pubads().setTargeting('SignedIn', ['no']);
-	googletag.pubads().setTargeting('UGC', ['no']);
-
-googletag.pubads().addEventListener('slotRenderEnded', function(event) {
-  if (event.slot.G == '/4564944/Queerty_MREC' && event.size[1]==1050) {
-	 console.log('Portrait Rendered');
-	  $('.fb_iframe_widget').hide();
-	  $('#articlelowersky').hide();	
-  }
-});
-
-	googletag.pubads().enableSingleRequest();
-	googletag.pubads().collapseEmptyDivs(); 
-	googletag.enableServices();
-	
-
-});
-</script><script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-1203094-3', 'auto');
-  ga('require', 'linkid', 'linkid.js');
-  ga('require', 'displayfeatures');
-  ga('require', 'autotrack');
-  ga('set', 'dimension1', 'not logged in');
-  		ga('set','dimension8','queerty_August2012_audit');	
-	
-	if (document.location.href.search("fb_ref=")!=-1){
-	// Track traffic from Facebook Like & Send as Campaign traffic
-		if (url_query('fb_ref')) {
-			ga('set', 'campaignSource', 'facebook_'+url_query('fb_ref'));		
-		} else if (url_query('fb_source')) {
-			ga('set', 'campaignSource', 'facebook_'+url_query('fb_source'));
-		}
-		ga('set', 'campaignName', 'FacebookShare');
-		ga('set', 'campaignMedium', 'social');
-		if (url_query('fb_action_ids')) {
-			ga('set', 'campaignContent', url_query('fb_action_ids'));		
-		}
-	} 
-
-  ga('send', 'pageview');
-</script></head>
-<body>
-<nav data-component="global-nav" class="global-nav mobile-hide">
-  <div>
-	<a href="http://www.queerty.com/" onclick="ga('send', 'event', 'QDigitalNav', 'Queerty', 'Queerty Home');" class="middot"><b>Queerty Home</b></a>
-	<a href="http://www.lgbtqnation.com/" onclick="ga('send', 'event', 'QDigitalNav', 'LGBTQ Nation', 'LGBTQ Nation');" class="middot">LGBTQ Nation</a> 
-	<a href="http://www.gaycities.com/" onclick="ga('send', 'event', 'QDigitalNav', 'GayCities', 'GayCities');" class="middot">GayCities</a>
-	<a href="http://q.digital/" onclick="ga('send', 'event', 'QDigitalNav', 'Q.Digital', 'Q.Digital');">Q.Digital</a>	  
-
-
-    <div class="rightMenu">
-	    <a href="mailto:holla@queerty.com" onclick="ga('send', 'event', 'QDigitalNav', 'Holla', 'Story Tips');" class="middot">Story Tips</a>
-		<a href="http://eepurl.com/RrfMf" onclick="ga('send', 'event', 'QDigitalNav', 'Newsletter', 'Join Our Mailing List');">Subscribe to Newsletter</a>
-          </div>
-  </div>
-</nav>	
- 		<div id="div-gpt-ad-queerty-skin" style="height:1px; width:1px;">
-			<script type="text/javascript">
-			googletag.cmd.push(function() { googletag.display('div-gpt-ad-queerty-skin'); });
-			</script>
-		</div>
-	
-	<!-- /4564944/test_1_by_1 -->
-	<div id="div-gpt-ad-test_1_by_1" style="height:1px; width:1px;">
-	<script type="text/javascript">
-	googletag.cmd.push(function() { googletag.display('div-gpt-ad-test_1_by_1'); });
+<!-- WP Tweets PRO --><script type="text/javascript">var _wdfb_ajaxurl="https://www.queerty.com/wp/wp-admin/admin-ajax.php";var _wdfb_root_url="https://www.queerty.com/content/plugins/wpmu-dev-facebook";</script><script type="text/javascript" src="https://www.queerty.com/content/plugins/wpmu-dev-facebook/js/wdfb_facebook_login.js?version=2.8.2"></script>	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-KRQPBJR');</script>
+	<!-- End Google Tag Manager -->
+		<meta property="article:publisher" content="http://www.facebook.com/queerty">	
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@queerty">	
+	<meta name="apple-itunes-app" content="app-id=1046987164">
+<meta property="fb:pages" content="33720334139">
+<meta name="apple-mobile-web-app-title" content="Queerty*">
+<meta name="application-name" content="Queerty*">
+<meta name="msapplication-config" content="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/favicons/browserconfig.xml?v=lkgzj5W5Gl">
+<meta name="theme-color" content="#ffffff">
+<link rel="apple-touch-icon" sizes="180x180" href="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/favicons/apple-touch-icon.png?v=lkgzj5W5Gl">
+<link rel="icon" type="image/png" href="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/favicons/favicon-32x32.png?v=lkgzj5W5Gl" sizes="32x32">
+<link rel="icon" type="image/png" href="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/favicons/favicon-16x16.png?v=lkgzj5W5Gl" sizes="16x16">
+<link rel="manifest" href="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/favicons/manifest.json?v=lkgzj5W5Gl">
+<link rel="mask-icon" href="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/favicons/safari-pinned-tab.svg?v=lkgzj5W5Gl" color="#5bbad5">
+<link rel="shortcut icon" href="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/favicons/favicon.ico?v=lkgzj5W5Gl">
+</head>
+<body class="page-template-default page page-id-37881">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KRQPBJR"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id="div-gpt-ad-skin" style="height:1px;width:1px;">
+	<script>
+	googletag.cmd.push(function() { googletag.display('div-gpt-ad-skin'); });
 	</script>
 </div>
-<a name="top"></a>
-<!-- LB AD Open -->
-<div class="adv_PageTop"><div class="adv_PageTop_inner">
+<div id="page" class="site">
+				<div class="queerty-header-ad" id="div-gpt-ad-leader1">
+				<script>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-leader1'); });
+				</script>
+			</div>
+		
+  <!-- Util to check that we are on phone -->
+  <div id="is-phone"></div>
 
-    		<div id="div-gpt-ad-queerty-lb-1" class="expandable-leaderboard">
-			<script type="text/javascript">
-			googletag.cmd.push(function() { googletag.display('div-gpt-ad-queerty-lb-1'); });
-			</script>
+	<!--Main Header-->
+	<header id="masthead" class="queerty-header">
+		<div class="queerty-header-wrapper">
+			<nav id="site-navigation" class="main-navigation" role="navigation">
+				<ul id="js-header-main-menu" class="queerty-header-menu show">
+				  			      <li class="nav-link "><a href="/">Latest</a>
+
+			       </li>
+			     				     <li class="nav-link navcat-life "><a class="scroll-on-page-link" data-scroll="category-life" href="https://www.queerty.com/life">Life</a></li>
+				  				     <li class="nav-link navcat-entertainment "><a class="scroll-on-page-link" data-scroll="category-entertainment" href="https://www.queerty.com/entertainment">Entertainment</a></li>
+				  				     <li class="nav-link navcat-politics "><a class="scroll-on-page-link" data-scroll="category-politics" href="https://www.queerty.com/politics">Politics</a></li>
+				  				     <li class="nav-link navcat-pride "><a class="scroll-on-page-link" data-scroll="category-pride" href="https://www.queerty.com/pride">Pride</a></li>
+				  				</ul>
+			</nav>
+
+			<div class="logo-area">
+					<a href="/" class="queerty-logo">
+						<img src="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/queerty-logo.svg" width="275" alt="Queerty*" id="queerty-logo-img">
+					</a>
+			</div>
+
+			<nav id="right-navigation" class="secondary-navigation" role="navigation">
+				<ul id="js-header-secondary-menu" class="queerty-header-menu show">
+			        <li class="nav-link">
+			        	<a href="https://www.facebook.com/Queerty/"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+			        </li>
+			        <li class="nav-link">
+			        	<a href="https://twitter.com/queerty"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			        </li>
+			        <li class="nav-link">
+			        	<a href="https://www.instagram.com/queerty/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+			        </li>
+			        <li class="nav-link">
+			        	<a href="http://eepurl.com/RrfMf"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+			        </li>
+			        <li class="nav-link queerty-menu-button" id="more-menu">
+						<i class="fa fa-bars" aria-hidden="true"></i>
+			        </li>
+				</ul>
+			</nav>
 		</div>
-   </div></div>
+	</header><!--end #masthead Main Header -->
 
-<!-- LB AD Close -->
-<div id="pageframe">
-<div id="pageframe2">
+			<nav class="queerty-menu-content">
+				<div class="queerty-menu-close"><i class="fa fa-times" title="Close Menu"></i></div>
+				<div class="queerty-menu-searchbox">
+					<form role="search" method="get" class="search-form" action="https://www.queerty.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search …" value="" name="s">
+				</label>
+				<input type="submit" class="search-submit" value="Search">
+			</form>				</div>
 
-<div id="topbar">
-<div id="topbar_left">
-<a href="https://www.queerty.com/" onclick="ga('send', 'event', 'Header', 'Logo', 'Logo');">
-<!--<img src="//queerty-assets.s3.amazonaws.com/assets/queerty_logo_people_heart_1.png" alt="Queerty" width="437" height="60" id="queerty_logo" style="margin-top:10px;"/>	-->	
-<img src="https://queerty-assets.s3.amazonaws.com/assets/queerty-logo-415-clean.png" alt="Queerty" width="415" height="62" id="queerty_logo" style="margin-top:4px; height:63px; width:auto;">
-<!--<img src="https://queerty-assets.s3.amazonaws.com/assets/promos/spiritday/queerty-spiritday-logo.png" alt="Queerty" width="415" id="queerty_logo" />-->
-</a>
-<!-- div 'topbar_left' close --></div>
-<div id="topbar_right" style="width:490px;">
-        <div class="column_left">
-        <form method="get" id="searchform" action="//www.queerty.com/">
-			<input type="text" id="search-input" value="" name="s" placeholder="Search Queerty">
-			<input type="submit" id="go" class="button" value="Search">
-		</form>
-        </div>
-        <div class="column_right">
-         
-<p class="member_prompt">Queerty is better as a member</p>
-<a href="https://www.queerty.com/wp/wp-login.php?redirect_to=https%3A%2F%2Fwww.queerty.com%2Fprivacy-policy" onclick="ga('send', 'event', 'Header', 'login', 'Log In');">Log in</a> | <a href="https://www.queerty.com/wp/wp-login.php?action=register" onclick="ga('send', 'event', 'Header', 'register', 'Register');">Register</a>
+				         
+				<ul>
+					<li><a href="https://www.queerty.com/wp/wp-login.php?redirect_to=%2F%2Fwww.queerty.com%2Fprivacy-policy" id="menu-login" rel="nofollow">Log in</a></li>
+					<li><a href="https://www.queerty.com/wp/wp-login.php?action=register" id="menu-register" rel="nofollow">Register</a></li>
+				</ul>
+				
 
-        </div>
-<!-- div 'topbar_right' close --></div>
 
-<!-- div 'topbar' close --></div>
-<div id="navbar">
-	<div id="leftnav">
-		<div class="menu-now-on-queerty-container"><ul id="menu-now-on-queerty" class="menu"><span class="popular_now">Now on Queerty</span> <li id="menu-item-420168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420168"><a href="//www.queerty.com/tag/video/">Video</a></li>
-<li id="menu-item-420165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420165"><a href="https://www.queerty.com/ever-after">Queerty Ever After</a></li>
+				<div class="menu-now-on-queerty-container"><ul id="menu-now-on-queerty" class="menu"><li id="menu-item-448047" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-448047"><a href="https://www.queerty.com/pride">Pride 2017</a></li>
+<li id="menu-item-441445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-441445"><a href="https://www.queerty.com/life">Life</a></li>
+<li id="menu-item-441443" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-441443"><a href="https://www.queerty.com/entertainment">Entertainment</a></li>
+<li id="menu-item-441444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-441444"><a href="https://www.queerty.com/goods">Goods</a></li>
+<li id="menu-item-441446" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-441446"><a href="https://www.queerty.com/politics">Politics</a></li>
+<li id="menu-item-420168" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420168"><a href="//www.queerty.com/queerty-tv/">Video (Queerty TV)</a></li>
 <li id="menu-item-420166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420166"><a href="https://www.queerty.com/dragaholic">Dragaholic</a></li>
+<li id="menu-item-420165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-420165"><a href="https://www.queerty.com/ever-after">Queerty Ever After</a></li>
 <li id="menu-item-420352" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-420352"><a title="Now for iOS and Android" href="//www.queerty.com/promos/queerty-app/">Get the Queerty App</a></li>
 </ul></div>
-			</div>
-<div id="rightnav"> 
-<b class="al"><small>FOLLOW US:</small>&nbsp;</b> 
+				<ul>
+					<li><a href="http://www.lgbtqnation.com/">LGBTQ Nation News</a></li>	
+					<li><a href="http://www.gaycities.com/">GayCities Travel Guides</a></li>
+				</ul>
+				<ul>
+				        <li><a href="mailto:holla@queerty.com">Share a Tip</a></li>
+				</ul>   
+			</nav>		
+			<div class="queerty-menu-fade-screen"></div>
+	<div id="content" class="site-content">
 
-<a target="_blank" data-element-name="icon rss" class="al fa fa-rss-square" href="http://feeds.feedburner.com/queerty2" onclick="ga('send', 'event', 'Header', 'RSS', 'RSS');"></a>&nbsp;
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
 
-<a target="_blank" data-element-name="icon youtube" class="al fa fa-youtube-square" href="https://www.youtube.com/user/queertyTV" onclick="ga('send', 'event', 'Header', 'YouTube', 'YouTube Icon');"></a>&nbsp;
+			
+<article id="post-37881" class="post-37881 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Queerty Privacy Policy</h1>	</header><!-- .entry-header -->
 
-<a target="_blank" data-element-name="icon instagram" class="al fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/queerty/" onclick="ga('send', 'event', 'Header', 'Instagram', 'Instagram Icon');"></a>&nbsp;
+	<div class="entry-content">
+		<script type="text/javascript">
+
+var _ttf = _ttf || [];
+  _ttf.push({
+         pid          : 31668
+         ,lang        : "en"
+        ,slot        : '.entry-content .giantquote > p,.entry-content > p'
+         ,format      : "inread"
+        
+         ,components: { mute: { delay: 0} ,skip: {delay: 0} }  
+         ,filter      : function (obj) {
+             return obj['wrappedSizes']['width'] >= (550); 
+         }
+  });
+  (function (d) {
+	          var js, s = d.getElementsByTagName('script')[0];
+	          js = d.createElement('script');
+	          js.async = true;
+	          js.src = '//cdn.teads.tv/js/all-v1.js';
+	          s.parentNode.insertBefore(js, s);
+  })(window.document);
+
+</script><p>Our privacy policy is pretty simple. We respect yours, especially because without it, we wouldn’t be in business. Listen up. 
+							</p><div class="inline-ad" id="div-gpt-ad-inarticle1">
+								<script>
+									googletag.cmd.push(function() { googletag.display("div-gpt-ad-inarticle1"); });
+								</script>
+							</div> 
+<p>When visitors come to a Queerty, Inc. site, we collect standard information such as their IP addresses and referral data. We also collect information visitors voluntarily submit to us, such as their names, email addresses, mailing addresses, phone numbers, interests and preferences about our services, and other personal data. Generally this information is collected when visitors sign up for a user account, comment on our sites, initiative communication with Queerty, Inc, or enter a contest or promotion; none are required to visit or use a Queerty, Inc site. 
+</p><p>We do not rent or sell your personal information. There are no “select third-party marketers” we give your information to without your expressed consent. 
+</p><p>We do place cookies on your computer. Our cookies come may from our publishing system and our advertisers. Cookies help store your name or email address when commenting or logging in to a Queerty, Inc. site. Our advertisers and our ad serving technology may place cookies placed on your computer for tracking purposes. 
+</p><p>We allow third-party companies to serve ads and collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. &nbsp;Look for the AdChoices logo on certain ads and click it to opt-out of these practices. 
+</p><p>We do collect standard usage and tracking data, including IP addresses, page visits and session activity. &nbsp;We collect it on aggregate and sometimes make that aggregate information available to advertisers. 
+</p><p>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.	</p></div><!-- .entry-content -->
+
+	</article><!-- #post-## -->
+
+<div id="comments" class="comments-area">
+
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Add your Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/privacy-policy#respond" style="display:none;">Cancel reply</a></small></h3><p class="nocomments">Please <a href="https://www.queerty.com/wp/wp-login.php?redirect_to=http%3A%2F%2F_%2Fprivacy-policy">log in</a> to add your comment<br>Need an account? <strong><a href="https://www.queerty.com/wp/wp-login.php?action=register">Register</a></strong> *It's free and easy.</p>	</div><!-- #respond -->
+	
+</div><!-- #comments -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<aside id="secondary" class="article-sidebar" role="complementary">
+			<div class="sidebar-ad-1" id="div-gpt-ad-box1">
+			<script>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-box1'); });
+			</script>
+		</div>
+		
+
+
 
 		
-		<div style="width:120px; float:left;"><a href="https://twitter.com/queerty" class="twitter-follow-button al" data-show-count="false" data-show-screen-name="true" data-width="120px" onclick="ga('send', 'event', 'Header', 'Twitter', 'Follow @Queerty');">Follow @queerty</a>&nbsp;</div> <div style="width:90px; float:left;"><div class="fb-like" data-href="https://facebook.com/queerty" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false" data-ref="qty_page_like_top" onclick="ga('send', 'event', 'Header', 'FBLike', 'Like Queerty');"></div>&nbsp;&nbsp;&nbsp;
+			<section class="sidebar-related">			
+			<h3 class="category-heading">
+				Articles you'll enjoy			</h3>
+				<div class="cards-list">
+				
+<article id="post-449469" class="card card-small ">
+	<a href="https://www.queerty.com/joel-simkhai-152-million-grindr-acquisition-means-hooking-20170618">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/Screen-Shot-2017-06-18-at-4.10.52-PM-300x150.png" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
 		
-		</div>  
+				
+		<section class="card-content">
+			<div class="kicker">The Queerty Interview</div>			
+			<h2 class="entry-title">Joel Simhkai on that $152 million Grindr acquisition and what it means for hooking up</h2>			<div class="entry-meta">
+							</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	</a>
+</article><!-- #post-## -->
 
-	<a href="mailto:holla@queerty.com" class="share_tip">Tip to share? Tell us!</a> 
-</div>
-</div>
+<article id="post-450221" class="card card-small ">
+	<a href="https://www.queerty.com/dead-stripper-rough-night-exposed-new-music-carry-nation-look-whos-twerking-20170618">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/Screen-Shot-2017-06-16-at-3.39.50-PM-300x150.png" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
+		
+				
+		<section class="card-content">
+			<div class="kicker">Pop Brownies</div>			
+			<h2 class="entry-title">The dead stripper from “Rough Night” exposed; new music from The Carry Nation; look who’s twerking</h2>			<div class="entry-meta">
+							</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	</a>
+</article><!-- #post-## -->
 
-<div id="singlePageContentWrap" class="singular">
-     <div class="item" id="post-37881">
-	       <h1 class="hed"><a href="https://www.queerty.com/privacy-policy">Queerty Privacy Policy</a></h1> 
-	     
-	        <div class="clear"> </div>
+<article id="post-449954" class="card card-small ">
+	<a href="https://www.queerty.com/keith-harings-greatest-erotic-masterpiece-hidden-old-mens-room-nyc-20170618">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/Screen-Shot-2017-06-14-at-1.29.28-PM-300x150.png" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
+		
+				
+		<section class="card-content">
+			<div class="kicker">Art haus</div>			
+			<h2 class="entry-title">Keith Haring’s greatest erotic masterpiece is hidden in an old men’s room in NYC</h2>			<div class="entry-meta">
+							</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	</a>
+</article><!-- #post-## -->
 
-            <div class="copy">
-                   <p>Our privacy policy is pretty simple. We respect yours, especially because without it, we wouldn’t be in business. Listen up.</p>
-<p>When visitors come to a Queerty, Inc. site, we collect standard information such as their IP addresses and referral data. We also collect information visitors voluntarily submit to us, such as their names, email addresses, mailing addresses, phone numbers, interests and preferences about our services, and other personal data. Generally this information is collected when visitors sign up for a user account, comment on our sites, initiative communication with Queerty, Inc, or enter a contest or promotion; none are required to visit or use a Queerty, Inc site.</p>
-<p>We do not rent or sell your personal information. There are no “select third-party marketers” we give your information to without your expressed consent.</p>
-<p>We do place cookies on your computer. Our cookies come may from our publishing system and our advertisers. Cookies help store your name or email address when commenting or logging in to a Queerty, Inc. site. Our advertisers and our ad serving technology may place cookies placed on your computer for tracking purposes.</p>
-<p>We allow third-party companies to serve ads and collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. &nbsp;Look for the AdChoices logo on certain ads and click it to opt-out of these practices.</p>
-<p>We do collect standard usage and tracking data, including IP addresses, page visits and session activity. &nbsp;We collect it on aggregate and sometimes make that aggregate information available to advertisers.</p>
-<p>Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.</p>
-            </div>
-            <div class="clear"> </div>
-            <br clear="all">
-     </div>
-	 <div class="clear"> </div>
+<article id="post-450237" class="card card-small ">
+	<a href="https://www.queerty.com/pants-optional-love-support-pride-fundamentals-comedian-zach-noe-towers-20170618">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/Screen-Shot-2017-06-16-at-1.42.07-PM-300x150.png" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
+		
+				
+		<section class="card-content">
+			<div class="kicker">Pride 2017</div>			
+			<h2 class="entry-title">Pants are optional, but love and support are Pride fundamentals for comedian Zach Noe Towers</h2>			<div class="entry-meta">
+							</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	</a>
+</article><!-- #post-## -->
 
-    <div id="singlePageContentWrap_Sidebar">
-            <!-- BOX AD Open -->
-<div class="advBox_SidebarRight" align="center">
-	<!-- /4564944/Queerty_MREC -->
-	<div id="div-gpt-ad-queerty-mrec">
-		<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-queerty-mrec'); });
-		</script>
-	</div>
-</div>
-<!-- BOX AD Close -->
+				</div>
 
-<!--using transient-->
-<style>
-.sidebar_follow_box	{ 
-	color:#fff;
+			</section>
 	
-	    background-color: #FF8005 /*#ff7503*/;
-    width: 300px;
-    height: 110px;
-    float: left;
-    color: white;
-    text-align: center;
-    font-size: 16px;
-    margin: 16px auto;
-    padding: 20px 0;
+
+			<div class="sidebar-ad-2" id="div-gpt-ad-box2">
+			<script>
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-box2'); });
+			</script>
+		</div>
+		
 	
-}
-.sidebar_follow_box form {
-	margin-bottom:6px;
-}
-.sidebar_follow_box h4 {
-	font-size:18px; margin-bottom:10px;
-}
-.sidebar_follow_box input[type=email] { 
-	width: 165px;
-    margin: 8px 0;
-    font-size: 18px;
-    height: 34px;
-    display:inline-block;
-    padding:0;
-}
-.sidebar_follow_box  input[type=submit] {
-    height: 36px;
-    display: inline-block;
-    margin: 0 0 0 5px;
-    padding: 5px;
-    font-size: 14px;
-    line-height: 15px;
-    background-color: #ccc;
-    border: 1px solid #ccc;
-    color: #333;
-  }
-  
-  .sidebar_follow_box.dragaholic_follow {
-	  background-color: #c1272d !important;
-  }
-</style>
+		
+			<section class="sidebar-related">			
+			<h3 class="category-heading">
+				Popular on Queerty
+			</h3>
+				<div class="cards-list">
+				
+<article id="post-449999" class="card card-small ">
+	<a href="https://www.queerty.com/christian-facebook-page-banned-rainbow-emojis-known-happen-next-20170614">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/RainbowGods1-300x150.png" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
+		
+				
+		<section class="card-content">
+			<div class="kicker">Flame wars</div>			
+			<div class="card-commentcount">11.4K shares</div><h2 class="entry-title">This Christian Facebook page banned rainbow emojis. They should have known what would happen next.</h2>			<div class="entry-meta">
+							</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	</a>
+</article><!-- #post-## -->
 
+<article id="post-449733" class="card card-small ">
+	<a href="https://www.queerty.com/abercrombie-fitch-tweets-pride-straight-people-internet-goes-berserk-20170612">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/shutterstock_204238285-300x150.jpg" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
+		
+				
+		<section class="card-content">
+			<div class="kicker">Blunders</div>			
+			<div class="card-commentcount">6.8K shares</div><h2 class="entry-title">Abercrombie &amp; Fitch tweets that “Pride is for straight people, too.” Internet goes berserk.</h2>			<div class="entry-meta">
+							</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	</a>
+</article><!-- #post-## -->
 
+<article id="post-449753" class="card card-small ">
+	<a href="https://www.queerty.com/many-people-attended-pride-dressed-babadook-lets-take-look-best-20170612">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/Screen-Shot-2017-06-12-at-12.59.55-PM-300x150.png" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
+		
+				
+		<section class="card-content">
+			<div class="kicker">U Got The Babalook</div>			
+			<div class="card-commentcount">3.9K shares</div><h2 class="entry-title">So many people attended Pride dressed as The Babadook. Let’s take a look at some of the best.</h2>			<div class="entry-meta">
+							</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	</a>
+</article><!-- #post-## -->
 
-<br clear="all">
-	<!-- /4564944/Queerty_Article_Sidebar_Fixed -->
-	<div id="div-gpt-ad-queerty-article-sidebar-fixed" style="max-height:150px;">
-		<script type="text/javascript">
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-queerty-article-sidebar-fixed'); });
-		</script>
-	</div>
-<br>
+<article id="post-449771" class="card card-small ">
+	<a href="https://www.queerty.com/twitter-erupts-trumps-unbelievable-tweet-pulse-massacre-20170612">
+		<section class="card-thumb">
+			<img src="https://queerty-prodweb.s3.amazonaws.com/2017/06/Screen-Shot-2017-06-12-at-3.56.20-PM-300x150.png" height="280" width="140" class="wp-post-image">
+			<div class="card-thumb-gradient"> </div>
+		</section>
+		
+				
+		</a><section class="card-content"><a href="https://www.queerty.com/twitter-erupts-trumps-unbelievable-tweet-pulse-massacre-20170612">
+			<div class="kicker">Twit tweets</div>			
+			<div class="card-commentcount">3.7K shares</div><h2 class="entry-title">Twitter erupts after Trump’s unbelievable tweet about the Pulse massacre</h2>			</a><div class="entry-meta"><a href="https://www.queerty.com/twitter-erupts-trumps-unbelievable-tweet-pulse-massacre-20170612">
+				</a><a href="https://www.queerty.com/twitter-erupts-trumps-unbelievable-tweet-pulse-massacre-20170612" rel="bookmark"><time class="entry-date published updated" datetime="2017-06-12T16:10:55+00:00"></time></a>			</div><!-- .entry-meta -->
+						
+		</section><!-- .entry-header -->
+	
+</article><!-- #post-## -->
 
-    <!-- div 'singlePageContentWrap_Sidebar' close --></div>
-<!-- div 'singlePageContentWrap' close --></div>
-</div>
-<script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script><div id="fb-root"></div><script type="text/javascript">
+				</div>
+
+			</section>
+	
+	
+	
+</aside><!-- #secondary --><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js"></script><div id="fb-root"></div><script type="text/javascript">
 	         FB.init({
 	            appId: '153299894806318',
 	            status: true,
@@ -428,326 +523,59 @@ googletag.pubads().addEventListener('slotRenderEnded', function(event) {
 	            xfbml: true,
 	            oauth: true
 	         });
-	      </script><br clear="all">
-<div class="footer">
-<ul class="footerSections">
-<li id="footerRecentPosts"><div class="blockTitle">Most Recent Posts</div>
-<!--using transient--><ul class="list" id="footerRecentPosts">
-	<li class="hed">
-		<a href="http://www.gaycities.com/photos/343-la-warhol/">PHOTOS: Buenos Aires' Favorite Friday Night Party</a> 
-		<strong><a href="http://www.gaycities.com/photos/343-la-warhol/#comments"></a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/hooked-straight-bff-now-hes-not-sure-20161106">He Hooked Up With His Straight BFF, Now He's Not Sure What To Do</a> 
-		<strong><a href="https://www.queerty.com/hooked-straight-bff-now-hes-not-sure-20161106#comments">(12)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/10-amazing-lgbtq-friendly-headliners-catch-las-vegas-new-year-20161106">10 Amazing LGBTQ-Friendly Headliners To Catch In Las Vegas Before The New Year</a> 
-		<strong><a href="https://www.queerty.com/10-amazing-lgbtq-friendly-headliners-catch-las-vegas-new-year-20161106#comments">(2)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/gays-trump-shirtless-firefighters-barb-gone-wild-wonder-woman-returns-20161106">Gays Do Trump, Shirtless Firefighters, Barb Gone Wild, Wonder Woman Returns</a> 
-		<strong><a href="https://www.queerty.com/gays-trump-shirtless-firefighters-barb-gone-wild-wonder-woman-returns-20161106#comments">(2)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/honest-confessions-drag-queens-20161106">Honest Confessions From Drag Queens</a> 
-		<strong><a href="https://www.queerty.com/honest-confessions-drag-queens-20161106#comments">(2)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/4-candidates-make-congress-less-awful-queer-20161106">4 Candidates Who Could Make Congress Less Awful, More Queer</a> 
-		<strong><a href="https://www.queerty.com/4-candidates-make-congress-less-awful-queer-20161106#comments">(4)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/5-reasons-see-moonlight-20161106">5 Reasons Moonlight Might Just Be The Best Movie Of The Year</a> 
-		<strong><a href="https://www.queerty.com/5-reasons-see-moonlight-20161106#comments">(18)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/not-prep-make-guy-less-desirable-20161105">Does Not Being On PrEP Make A Guy Less Desirable?</a> 
-		<strong><a href="https://www.queerty.com/not-prep-make-guy-less-desirable-20161105#comments">(46)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/ben-cohen-devastated-private-video-surfaced-online-20161105">Ben Cohen Is "Devastated" After A Private Video Surfaced Online</a> 
-		<strong><a href="https://www.queerty.com/ben-cohen-devastated-private-video-surfaced-online-20161105#comments">(25)</a></strong>
-	</li>
-	<li class="hed">
-		<a href="https://www.queerty.com/shawn-mendes-pounded-waves-colton-haynes-collar-steve-grands-halloween-bulge-20161105">Shawn Mendes Pounded By Waves, Colton Haynes In A Collar &amp; Steve Grand's Halloween Bulge</a> 
-		<strong><a href="https://www.queerty.com/shawn-mendes-pounded-waves-colton-haynes-collar-steve-grands-halloween-bulge-20161105#comments">(20)</a></strong>
-	</li>
-</ul>
-</li>
-<li>
-<div class="blockTitle">People in the News</div>
-<a href="//www.queerty.com/tag/Alex-Minsky">Alex Minsky</a> · <a href="//www.queerty.com/tag/Ben-Cohen">Ben Cohen</a> · <a href="//www.queerty.com/tag/Chris-Crocker">Chris Crocker</a> · <a href="//www.queerty.com/tag/Colby-Keller">Colby Keller</a> · <a href="//www.queerty.com/tag/Davey-Wavey">Davey Wavey</a> · <a href="//www.queerty.com/tag/Dustin-Lance-Black">Dustin Lance Black</a> · <a href="//www.queerty.com/tag/James-Franco">James Franco</a> · <a href="//www.queerty.com/tag/Kim-Davis">Kim Davis</a> · <a href="//www.queerty.com/tag/Laverne-Cox">Laverne Cox</a> · <a href="//www.queerty.com/tag/Neil-Patrick-Harris">Neil Patrick Harris</a> · <a href="//www.queerty.com/tag/Nick-Gruber">Nick Gruber</a> · <a href="//www.queerty.com/tag/Nick-Jonas">Nick Jonas</a> · <a href="//www.queerty.com/tag/Noah-Galvin">Noah Galvin</a> · <a href="//www.queerty.com/tag/Steve-Grand">Steve Grand</a> · <a href="//www.queerty.com/tag/Tim-Cook">Tim Cook</a> · <a href="//www.queerty.com/tag/Tom-Daley">Tom Daley</a> · <a href="//www.queerty.com/tag/Tom-Hardy">Tom Hardy</a> · <a href="//www.queerty.com/tag/Troye-Sivan">Troye Sivan</a> · <a href="//www.queerty.com/tag/Zac-Efron">Zac Efron</a> · <a href="//www.queerty.com/tag/Zachary-Quinto">Zachary Quinto</a> · 	
-
-<div class="blockTitle" style="margin-top:10px;">Popular Tags</div>
-<a href="https://www.queerty.com/tag/barack-obama" class="tag-link-450 tag-link-position-1" title="1,665 topics" style="font-size: 13.165048543689pt;">Barack Obama</a>
-<a href="https://www.queerty.com/tag/california" class="tag-link-115 tag-link-position-2" title="936 topics" style="font-size: 9.7669902912621pt;">California</a>
-<a href="https://www.queerty.com/tag/celebs" class="tag-link-2868 tag-link-position-3" title="1,145 topics" style="font-size: 10.990291262136pt;">Celebs / Celebrities</a>
-<a href="https://www.queerty.com/tag/crime" class="tag-link-881 tag-link-position-4" title="1,031 topics" style="font-size: 10.31067961165pt;">Crime</a>
-<a href="https://www.queerty.com/tag/discrimination" class="tag-link-1503 tag-link-position-5" title="1,016 topics" style="font-size: 10.31067961165pt;">Discrimination</a>
-<a href="https://www.queerty.com/tag/entertainment" class="tag-link-2215 tag-link-position-6" title="2,325 topics" style="font-size: 15.203883495146pt;">Entertainment</a>
-<a href="https://www.queerty.com/tag/fashion" class="tag-link-13 tag-link-position-7" title="918 topics" style="font-size: 9.631067961165pt;">Fashion</a>
-<a href="https://www.queerty.com/tag/gay" class="tag-link-2223 tag-link-position-8" title="7,248 topics" style="font-size: 21.864077669903pt;">Gay</a>
-<a href="https://www.queerty.com/tag/gay-marriage" class="tag-link-33488 tag-link-position-9" title="728 topics" style="font-size: 8.2718446601942pt;">Gay Marriage</a>
-<a href="https://www.queerty.com/tag/gossip" class="tag-link-90 tag-link-position-10" title="2,070 topics" style="font-size: 14.52427184466pt;">Gossip</a>
-<a href="https://www.queerty.com/tag/health" class="tag-link-1025 tag-link-position-11" title="783 topics" style="font-size: 8.6796116504854pt;">Health</a>
-<a href="https://www.queerty.com/tag/homophobia" class="tag-link-446 tag-link-position-12" title="1,478 topics" style="font-size: 12.485436893204pt;">Homophobia</a>
-<a href="https://www.queerty.com/tag/humor" class="tag-link-247 tag-link-position-13" title="687 topics" style="font-size: 8pt;">Humor</a>
-<a href="https://www.queerty.com/tag/marriage" class="tag-link-117 tag-link-position-14" title="3,287 topics" style="font-size: 17.242718446602pt;">Marriage</a>
-<a href="https://www.queerty.com/tag/marriage-equality" class="tag-link-9767 tag-link-position-15" title="1,686 topics" style="font-size: 13.300970873786pt;">Marriage Equality</a>
-<a href="https://www.queerty.com/tag/media" class="tag-link-1566 tag-link-position-16" title="1,368 topics" style="font-size: 12.077669902913pt;">Media</a>
-<a href="https://www.queerty.com/tag/military" class="tag-link-393 tag-link-position-17" title="891 topics" style="font-size: 9.495145631068pt;">Military</a>
-<a href="https://www.queerty.com/tag/morning-goods" class="tag-link-1 tag-link-position-18" title="1,407 topics" style="font-size: 12.21359223301pt;">Morning Goods</a>
-<a href="https://www.queerty.com/tag/movies" class="tag-link-80 tag-link-position-19" title="863 topics" style="font-size: 9.3592233009709pt;">Movies</a>
-<a href="https://www.queerty.com/tag/music" class="tag-link-42 tag-link-position-20" title="2,099 topics" style="font-size: 14.52427184466pt;">Music</a>
-<a href="https://www.queerty.com/tag/music-videos" class="tag-link-2691 tag-link-position-21" title="1,159 topics" style="font-size: 10.990291262136pt;">Music Videos</a>
-<a href="https://www.queerty.com/tag/news" class="tag-link-34 tag-link-position-22" title="7,416 topics" style="font-size: 22pt;">News</a>
-<a href="https://www.queerty.com/tag/new-york" class="tag-link-61 tag-link-position-23" title="965 topics" style="font-size: 9.9029126213592pt;">New York</a>
-<a href="https://www.queerty.com/tag/photos" class="tag-link-7718 tag-link-position-24" title="4,587 topics" style="font-size: 19.145631067961pt;">Photos</a>
-<a href="https://www.queerty.com/tag/politics" class="tag-link-114 tag-link-position-25" title="3,732 topics" style="font-size: 17.922330097087pt;">Politics</a>
-<a href="https://www.queerty.com/tag/religion" class="tag-link-264 tag-link-position-26" title="1,795 topics" style="font-size: 13.572815533981pt;">Religion</a>
-<a href="https://www.queerty.com/tag/sports" class="tag-link-167 tag-link-position-27" title="784 topics" style="font-size: 8.6796116504854pt;">Sports</a>
-<a href="https://www.queerty.com/tag/television" class="tag-link-52 tag-link-position-28" title="1,521 topics" style="font-size: 12.621359223301pt;">Television</a>
-<a href="https://www.queerty.com/tag/transgender" class="tag-link-154 tag-link-position-29" title="702 topics" style="font-size: 8.1359223300971pt;">Transgender</a>
-<a href="https://www.queerty.com/tag/video" class="tag-link-2390 tag-link-position-30" title="1,389 topics" style="font-size: 12.077669902913pt;">Video</a>	
-<div class="blockTitle" style="margin-top:10px;">Contact Queerty</div>
-<a href="mailto:holla@queerty.com">Share a tip or link</a>&nbsp; <br><a href="http://queerty.uservoice.com/">Technical Site Bug or Suggestions</a><br>
-<a href="http://www.q.digital/">Advertise With Us</a>
-</li>
-<li>
-<div class="blockTitle">Follow Queerty</div>
-<center>
-<a href="https://www.facebook.com/queerty"> <img src="https://queerty-assets.s3.amazonaws.com/assets/icons/facebook-icon.png" alt="Facebook" width="23" height="23"></a> 
-<a href="https://twitter.com/queerty"> <img src="https://queerty-assets.s3.amazonaws.com/assets/icons/twitter-icon.png" alt="Twitter" width="23" height="23"></a> 
-<a href="https://instagram.com/queerty"> <img src="https://queerty-assets.s3.amazonaws.com/assets/icons/instagram-icon.png" alt="Instagram" width="23" height="23"></a>
-<script src="https://apis.google.com/js/platform.js"></script>
-<div class="g-ytsubscribe" data-channel="queertyTV" data-layout="default" data-count="default" style="height:50px; width:115px;"></div>
-</center>
-
-
-<div class="blockTitle" style="margin-top:10px;">On GayCities</div>
-<ul>
-<li><b><a href="http://www.gaycities.com/">GayCities</a></b> - Uncover the best of what's happening
-</li><li><b><a href="http://www.gaycities.com/iphone/">GayCities iPhone App</a></b> - Find nearby places &amp; events</li>
-<li><br><b>Share your take in these Popular Cities:</b>
-<ul class="list">
-	<li><a href="http://newyork.gaycities.com/">New York</a></li>
-	<li><a href="http://sanfrancisco.gaycities.com/">San Francisco</a></li>
-	<li><a href="http://chicago.gaycities.com/">Chicago</a></li>
-	<li><a href="http://losangeles.gaycities.com/">Los Angeles</a></li>
-	<li><a href="http://washingtondc.gaycities.com/">Washington DC</a></li>
-	<li><a href="http://fortlauderdale.gaycities.com/">Fort Lauderdale</a></li>
-	<li><a href="http://dallas.gaycities.com/">Dallas</a></li>
-	<li><a href="http://london.gaycities.com/">London</a></li>
-	<li><a href="http://www.gaycities.com/places/"><b>See all 225+ cities...</b></a></li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<br clear="all">
-<div id="bottomMenuBar">
-<div class="footer_qdigital_logo">
-		<a href="http://www.q.digital">
-			<img src="https://queerty-assets.s3.amazonaws.com/assets/q-digital-blue.png" alt="Q.digital" width="90">
-		</a> <br>
-		<a href="http://q.digital">Advertise With Us</a>
-	</div>
-<a href="//www.queerty.com/"><img src="https://queerty-assets.s3.amazonaws.com/assets/queerty-no-tagline-small.png" class="queerty-logo"></a>
-Copyright 2016 Queerty, Inc.<br> <a href="//www.queerty.com/queertys-comment-policy/">Comments Policy</a> | <a href="//www.queerty.com/privacy-policy/">Privacy Statement</a> | <a href="//www.queerty.com/terms-of-use/">Terms of Use</a>
-
-
-
-<!-- div 'bottomMenuBar' close -->
+	      </script>
+	</div><!-- #content -->
+<div class="site-footer-holder">
+    <footer id="colophon" class="site-footer" role="contentinfo">
+      <div class="footer-brand">
+        <img src="https://dxepcgbfdydik.cloudfront.net/assets/q-2017/asterisk.png" alt="asterisk" width="47" height="41" align="absmiddle">
+        Free of an agenda (except that gay one)
+      </div>
+      <div class="tags-links">
+	      <a href="//www.queerty.com/tag/Colton-Haynes">Colton Haynes</a> <a href="//www.queerty.com/tag/Gus-Kenworthy">Gus Kenworthy</a> <a href="//www.queerty.com/tag/Nick-Jonas">Nick Jonas</a> <a href="//www.queerty.com/tag/Nico-Tortorella">Nico Tortorella</a> <a href="//www.queerty.com/tag/Nyle-Dimarco">Nyle Dimarco</a> <a href="//www.queerty.com/tag/Pietro-Boselli">Pietro Boselli</a> <a href="//www.queerty.com/tag/Russell-Tovey">Russell Tovey</a> <a href="//www.queerty.com/tag/Zac-Efron">Zac Efron</a> 		      <div class="second-row">
+	      <a href="//www.queerty.com/tag/Donald-Trump">Donald Trump</a> <a href="//www.queerty.com/tag/Homophobia">Homophobia</a> <a href="//www.queerty.com/tag/Coming-Out">Coming Out</a> <a href="//www.queerty.com/tag/Rupaul's-Drag-Race">Rupaul's Drag Race</a> <a href="//www.queerty.com/tag/Marriage-Equality">Marriage Equality</a> <a href="//www.queerty.com/tag/Religion">Religion</a> <a href="//www.queerty.com/tag/Relationships">Relationships</a> <a href="//www.queerty.com/tag/Grindr">Grindr</a> 			      
+		      </div>
+      </div>
+      
+      <div class="footer-links"> 
+        <ul class="main" id="footer-company-links">
+	      <li><a href="http://www.q.digital"><img src="https://dxepcgbfdydik.cloudfront.net/assets/q-digital-blue-90x37.png" alt="Q.digital" width="90"></a></li>
+          <li><b>A Q.Digital Company</b></li>
+          <li>© 2017 Queerty, Inc.</li>
+          <li><a href="http://www.q.digital">Advertise With Us</a></li>
+        </ul>
+        <ul class="main" id="footer-contact-links">
+          <li><h3>Contact</h3></li>
+          <li><a href="mailto:holla@queerty.com">Share a Tip</a></li>
+          <li><a href="http://www.queerty.com/queertys-comment-policy/">Comments Policy</a>
+          </li><li><a href="http://www.queerty.com/privacy-policy/">Privacy Statement</a> 
+          </li><li><a href="http://www.queerty.com/terms-of-use/">Terms of Use</a>
+        </li></ul>
+        <ul class="main" id="footer-follow-links">
+          <li><h3>Follow</h3></li>
+          <li><a href="https://www.facebook.com/Queerty/">Facebook</a></li>
+          <li><a href="https://www.twitter.com/Queerty/">Twitter</a></li>
+          <li><a href="https://www.instagram.com/Queerty/">Instagram</a></li>
+          <li><a href="https://www.youtube.com/user/QueertyTV/">YouTube</a></li>
+        </ul>        
+		<ul class="main double" id="footer-gaycities-links">
+			<li><h3>GayCities: The best of what's happening in:</h3></li>
+			<li><a href="http://newyork.gaycities.com/">New York</a></li>
+			<li><a href="http://sanfrancisco.gaycities.com/">San Francisco</a></li>
+			<li><a href="http://chicago.gaycities.com/">Chicago</a></li>
+			<li><a href="http://losangeles.gaycities.com/">Los Angeles</a></li>
+			<li><a href="http://washingtondc.gaycities.com/">Washington DC</a></li>
+			<li><a href="http://dallas.gaycities.com/">Dallas</a></li>
+			<li><a href="http://london.gaycities.com/">London</a></li>
+			<li><a href="http://www.gaycities.com/places/"><b>See all 225+ cities...</b></a></li>
+		</ul>
+      </div>
+    </footer>
 </div>
 </div>
-<!-- div 'pageframe2' close --></div>
-<!-- div 'pageframe' close -->
-
-<link rel="stylesheet" id="jetpack_css-css" href="https://www.queerty.com/content/plugins/jetpack/css/jetpack.css?ver=4.3.2" type="text/css" media="all">
-<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4"></script>
-<script type="text/javascript" src="https://queerty-assets.s3.amazonaws.com/assets/js/autotrack.js?ver=0.6.5"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201645"></script>
-<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
-	<!--facebook script-->
-	<div id="fb-root"></div>
-	<script>
-	    window.fbAsyncInit = function() {
-	      FB.init({
-			channelUrl : '//www.queerty.com/assets/channel.php',
-			status     : true, 
-			cookie     : true, 
-			appId      : '153299894806318',
-			xfbml      : true,
-			version    : 'v2.8'
-	      });
-	
-	        FB.Event.subscribe('edge.create', function(href, widget) {
-				ga('send', 'social', 'facebook', 'like', 'https://www.queerty.com/privacy-policy');	
-			});
-	
-	    };
-	
-		(function(d, s, id) {
-		  var js, fjs = d.getElementsByTagName(s)[0];
-		  if (d.getElementById(id)) return;
-		  js = d.createElement(s); js.id = id;
-		  js.src = "//connect.facebook.net/en_US/all.js";
-		  fjs.parentNode.insertBefore(js, fjs);
-		}(document, 'script', 'facebook-jssdk'));
-	
-	</script>
-	
-	<!--end facebook-->
-	  <!-- Load Twitter JS-API asynchronously -->
-	  <script type="text/javascript" charset="utf-8">
-	    window.twttr = (function (d,s,id) {
-	      var t, js, fjs = d.getElementsByTagName(s)[0];
-	      if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
-	      js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
-	      return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
-	    }(document, "script", "twitter-wjs"));
-	
-	    // Wait for the asynchronous resources to load
-		twttr.ready(function (twttr) {
-		    twttr.events.bind('tweet', function(event){ ga('send', 'social', 'twitter', 'tweet', 'https://www.queerty.com/privacy-policy');});
-		    twttr.events.bind('follow', function(event){ ga('send', 'social', 'twitter', 'follow', 'https://www.queerty.com/privacy-policy');});
-		});
-	  </script>
-	<!--end twitter-->
-	<!-- Quantcast Tag, part 2 -->
-	<script type="text/javascript">
-	_qevents.push({
-	qacct:"p-3a_FtJ1e9ZPvw"
-	});
-	</script>
-	<noscript>
-	<div style="display:none;">
-	<img src="//pixel.quantserve.com/pixel/p-3a_FtJ1e9ZPvw.gif" border="0" height="1" width="1" alt="Quantcast"/>
-	</div>
-	</noscript>
-	<!-- End Quantcast tag -->
-	
-	<!-- Begin comScore Tag -->
-	<script>
-	  var _comscore = _comscore || [];
-	  _comscore.push({ c1: "2", c2: "10348241" });
-	  (function() {
-	    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-	    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-	    el.parentNode.insertBefore(s, el);
-	  })();
-	</script>
-	<noscript>
-	  <img src="http://b.scorecardresearch.com/p?c1=2&c2=10348241&cv=2.0&cj=1" />
-	</noscript>
-	<!-- End comScore Tag -->
-	<!--pagefair blocker tracking-->
-	<script type="text/javascript">
-	    (function() {
-	        function async_load(script_url){
-	            var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
-	            var s = document.createElement('script'); s.src = protocol + script_url;
-	            var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-	        }
-	        bm_website_code = '836580271F8D41B0';
-	        jQuery(document).ready(function(){async_load('asset.pagefair.com/measure.min.js')});
-	        jQuery(document).ready(function(){async_load('asset.pagefair.net/ads.min.js')});
-	    })();
-	</script>
-	<!--//end pagefair-->
-	<!--compete-->
-	<script type="text/javascript">
-	setTimeout(function(){var a=document.createElement("script");
-	var b=document.getElementsByTagName("script")[0];
-	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4975.js?"+Math.floor(new Date().getTime()/3600000);
-	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-	</script>
-	<script type="text/javascript">
-	__compete_code = '7ea3533ac1fd2202c98ed4f371959b32';
-	/* Set control variables below this line. */
-	</script>
-	<!--//end compete-->
-	<script type="text/javascript" src="//c.compete.com/bootstrap/s/7ea3533ac1fd2202c98ed4f371959b32/queerty-com/bootstrap.js"></script>
-	<noscript>
-	    <img width="1" height="1" src="https://ssl-queerty-com-7ea353.c-col.com"/>
-	</noscript>
-	<!--fb pixel-->
-	<script>(function() {
-	  var _fbq = window._fbq || (window._fbq = []);
-	  if (!_fbq.loaded) {
-	    var fbds = document.createElement('script');
-	    fbds.async = true;
-	    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-	    var s = document.getElementsByTagName('script')[0];
-	    s.parentNode.insertBefore(fbds, s);
-	    _fbq.loaded = true;
-	  }
-	  _fbq.push(['addPixelId', '686853021424163']);
-	})();
-	window._fbq = window._fbq || [];
-	window._fbq.push(['track', 'PixelInitialized', {}]);
-	</script>
-	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=686853021424163&amp;ev=PixelInitialized" /></noscript>
-
-	<script type="application/ld+json">
-	{
-	    "@context": "http://schema.org",
-	    "@type": "WebSite",
-	    "name" : "Queerty",
-	    "url": "http://www.queerty.com/",
-	    "potentialAction": {
-	      "@type": "SearchAction",
-	      "target": "http://www.queerty.com/?s={query}",
-	      "query-input": "required name=query"
-	    }
-	}
-	</script>
-	<script type="application/ld+json">
-	{
-	  "@context": "http://schema.org",
-	  "@type": "Organization",
-	  "url": "http://www.queerty.com",
-	  "logo": "https://queerty-assets.s3.amazonaws.com/assets/queerty_branding.jpg",
-	  "sameAs" : [ "https://www.facebook.com/queerty",
-	    "https://www.twitter.com/queerty",
-	    "https://plus.google.com/+queerty",
-	    "https://www.youtube.com/QueertyTV",
-	    "https://instagram.com/queerty/"
-	    ] 
-	}
-	</script>
-<script type="text/javascript" src="https://stats.wp.com/e-201645.js" async="" defer=""></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'39647146',post:'37881',tz:'-5',srv:'www.queerty.com'} ]);
-	_stq.push([ 'clickTrackerInit', '39647146', '37881' ]);
-</script>
-<script>var pltNewTabURLs = ["http:\/\/www.gaycities.com\/photos\/343-la-warhol\/"];(function(){(function(e){var t;t=e.jQueryWP||e.jQuery;return t(function(e){return typeof e.fn.on=="function"?e("body").on("click","a",function(t){var n;n=e(this);if(e.inArray(n.attr("href"),pltNewTabURLs)>-1)return n.attr("target","_blank")}):typeof console!="undefined"&&console!==null?console.log("Page Links To: Some other code has overridden the WordPress copy of jQuery. This is bad. Because of this, Page Links To cannot open links in a new window."):void 0})})(window)}).call(this);</script>
-
-<div class="printfooter">
-	<b>Copyright 2016 Queerty, Inc.</b><br>
-	Follow Queerty at Queerty.com, twitter.com/queerty and facebook.com/queerty. <br>
-</div>
-
-<script type="text/javascript">
-window.jQuery = jQuery.noConflict(true);
-window.$ = window.jQuery;
-
-$(function() {
-	$( ".footer #footerRecentPosts a" ).click(function(event) {
-		ga('send', 'event', 'Footer', 'RecentPosts', $(this).text());
-		event.stopImmediatePropagation();
-	});		
-
-	$( ".footer a" ).click(function() {
-		ga('send', 'event', 'Footer', $(this).attr("href"), $(this).text());
-	});
-});
-</script>
-
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b33a58a88f","applicationID":"4222096","transactionName":"ZVwEbBBQXhJTVUdQDFwWJ1sWWF8PHUVaVwRHVQdK","queueTime":0,"applicationTime":202,"atts":"SRsHGlhKTRw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://www.queerty.com/content/themes/queerty_2017/js/queerty-main-min.js?ver=20170506"></script>
+<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/comment-reply.min.js?ver=4.8"></script>
+<script type="text/javascript" src="https://platform.twitter.com/widgets.js?ver=20161216"></script>
+<script type="text/javascript" src="https://www.queerty.com/wp/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b33a58a88f","applicationID":"29713822","transactionName":"ZVwEbBBQXhJTVUdQDFwWJ1sWWF8PHUZSXgY=","queueTime":0,"applicationTime":552,"atts":"SRsHGlhKTRw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 </body></html>
