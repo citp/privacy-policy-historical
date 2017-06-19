@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbaskool.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119045004id_/http%3A//www.mbaskool.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbaskool.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619150646id_/http%3A//www.mbaskool.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MBA Skool-Study.Learn.Share.
 
@@ -33,6 +33,10 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 **Google Adsense**
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on mbaskool.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+ **Recommendations**
+
+We use Outbrain for recommendations (including sponsored) on our website. You can visit https://www.outbrain.com/legal/privacy for more details.
 
 mbaskool.com has no access to or control over these cookies that are used by third-party advertisers.
 
