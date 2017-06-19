@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searshc.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016062658id_/http%3A//www.searshc.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searshc.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619163756id_/http%3A//searsholdings.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sears Holdings Corporation
 
