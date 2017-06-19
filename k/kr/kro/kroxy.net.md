@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroxy.net privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219165038id_/https%3A//www.hidemyass.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroxy.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619102004id_/https%3A//www.hidemyass.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hide My Ass!
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 [hidemyass.com](https://www.hidemyass.com/) ("our Site") and the services available through it are operated by Privax Limited, a limited company registered in England under company number 07207304 and with our registered office at 110 High Holborn, London, WC1V 6JS, UK. (referred to as “Privax”, "we", "us" and "our").
 
-The terms of this Privacy Policy cover information and data collected by us only when you access websites or services related to Privax or its brand HideMyAss, including the websites [www.hidemyass.com](https://www.hidemyass.com/) and [www.hidemyphone.com](http://www.hidemyphone.com/), or contact us regarding these services. Privax is part of the AVG Technologies group of companies (“AVG Group”), which includes Privax, any subsidiaries of Privax and Privax’s ultimate holding company, AVG Technologies NV (“AVG NV”), and AVG NV’s subsidiaries. Please see Sections 5 and 7 for further details.
+The terms of this Privacy Policy cover information and data collected by us only when you access websites or services related to Privax or its brand HideMyAss, including the websites [www.hidemyass.com](https://www.hidemyass.com/) and [www.hidemyphone.com](http://www.hidemyphone.com/), or contact us regarding these services. Privax is part of the [Avast](https://www.avast.com/en-gb/index) group of companies (“Avast Group”). Please see Sections 5 and 7 for further details.
 
 This Privacy Policy (together with any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us.
 
@@ -77,7 +77,7 @@ If you use our IP:PORT premium service:
 
 
 
-We will not share any of your personal data with anyone except in the circumstances referred to in section 5 (Disclosure of Your Information). Privax does not direct its Sites or Services to or knowingly collect personal data from persons under the age of 18. Any potential or current user who is under age must immediately cease using the Sites/services and notice should be sent to Privax at [privacy@hidemyass.com](mailto:privacy@hidemyass.com).
+We will not share any of your personal data with anyone except in the circumstances referred to in section 5 (Disclosure of Your Information). Privax does not direct its Sites or Services to or knowingly collect personal data from persons under the age of 18. Any potential or current user who is under age must immediately cease using the Sites/services and notice should be sent to Privax at [info@hidemyass.com](mailto:info@hidemyass.com).
 
 ### 3\. Cookies
 
@@ -89,12 +89,12 @@ All information you provide to us is stored on our secure servers. The data that
 
 ### 5\. Disclosure of your information
 
-We will share your personal data with third parties only in the ways that are described in this privacy policy. We do not sell or rent your personal data to third parties. As described in the introduction to this Privacy Policy, Privax is part of the AVG Group, and we may disclose your data subject to the terms of this Privacy Policy to any member of the AVG Group. While some members of the AVG Group have separate privacy policies, to the extent these privacy policies differ, we will ensure that any personal data collected pursuant to this Privacy Policy and shared with another member of the AVG Group is treated according to terms at least as strict as this Privacy Policy. Please note that the AVG Group is comprised of companies and offices around the world. In order to do business around the globe, we may share your personal data across our offices and companies which may be in countries with different laws regarding the collection and use of personal data than the country we collected it from. Lastly, we may share your personal data:
+We will share your personal data with third parties only in the ways that are described in this privacy policy. We do not sell or rent your personal data to third parties. As described in the introduction to this Privacy Policy, Privax is part of the Avast Group, and we may disclose your data subject to the terms of this Privacy Policy to any member of the Avast Group. While some members of the Avast Group have separate privacy policies, to the extent these privacy policies differ, we will ensure that any personal data collected pursuant to this Privacy Policy and shared with another member of the Avast Group is treated according to terms at least as strict as this Privacy Policy. Please note that the Avast Group is comprised of companies and offices around the world. In order to do business around the globe, we may share your personal data across our offices and companies which may be in countries with different laws regarding the collection and use of personal data than the country we collected it from. Lastly, we may share your personal data:
 
   * when necessary to deliver the product or service you require such as with a payment card provider who we use to process your credit card transaction;
   * when authorized by law or necessary to comply with a valid legal process;
-  * when required to protect and defend the rights or property of the AVG Group, including the security of our products and services;
-  * when necessary to protect the personal safety, property or other rights of the public, the AVG Group or its customers or employees; or
+  * when required to protect and defend the rights or property of the Avast Group, including the security of our products and services;
+  * when necessary to protect the personal safety, property or other rights of the public, the Avast Group or its customers or employees; or
   * in connection with a sale of all or part of our business.
 
 
@@ -105,11 +105,11 @@ If we receive a report from any person or organisation (including law enforcemen
 
 The UK Data Protection Act 1998 gives you the right to access information held about you. Your right of access can be exercised in accordance with the Data Protection Act. You have the right to ask us about the personal data we process about you, the purpose and nature of the processing, and to provide information on who we share it with. You have the right to request that we update, correct, or delete (assuming that this does not impact the services we are providing to you) your personal data at any time by emailing us at [info@hidemyass.com](mailto:info@hidemyass.com). Please note that we may reject requests which risk the privacy of others or are unreasonable or repetitive, or would require disproportionate effort. Unless you request us to delete your data, please note that we may keep your personal data for one year after you stop being a customer (but we typically keep your personal data no longer than is reasonably necessary given the purposes for which the data was collected). You have the right to opt-out of receiving certain emails at any time by following the relevant unsubscribe process outlined in the applicable email. Please be aware that our emails may include important or useful information about our services, and you may not be able to unsubscribe from certain transactional emails.
 
-### 7\. Links to 3rd Party Sites; Other AVG Group Privacy Policies
+### 7\. Links to 3rd Party Sites; Other Avast Group Privacy Policies
 
 Periodically, our site or products may contain links to and from websites or other external destinations managed by third parties. If you follow a link to any of these destinations (like offers on mobile app stores etc.), please note that those sites have their own privacy policy. When you are on those sites you are subject to those policies, and should therefore read and understand them before you submit any personal data to those sites.
 
-Certain other AVG Group companies may have different privacy policies, including the general [AVG Privacy Policy](http://www.avg.com/privacy), that govern information collected using those sites or from the applications those companies provide. We invite you to read those privacy policies before deciding to use those sites and products. This Privacy Policy will control with regard to information you provide us or we collect in connection with the use of the Privax services, regardless of which AVG Company is holding such information.
+Certain other Avast Group companies may have different privacy policies, that govern information collected using those sites or from the applications those companies provide. We invite you to read those privacy policies before deciding to use those sites and products. This Privacy Policy will control with regard to information you provide us or we collect in connection with the use of the Privax services, regardless of which Avast Group Company is holding such information.
 
 ### 8\. Social Media Widgets; Social Media Logins
 
@@ -127,12 +127,11 @@ Under California Civil Code sections 1798.83, California residents may request a
 
 We reserve the right to change this Privacy Policy at any time, and will indicate the date the Privacy Policy was most recently updated. If there have been significant changes, we will highlight any such changes, and will attempt to directly alert you when possible. We will also keep prior versions of this Privacy Policy in an archive for your review. We encourage you to periodically review this page for the latest information on our privacy practices. Significant changes to our privacy policy since the latest version include:
 
-  * Changes due to acquisition by AVG; and
-  * Updated cookie policy.
+  * Changes due to acquisition of our former ultimate holding company by Avast.
 
 
 
-**Last Updated: 19 July 2016**
+**Last Updated: 22 March 2017**
 
 Prior versions can be accessed [here](https://web.archive.org/legal/archive)
 
