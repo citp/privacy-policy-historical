@@ -1,56 +1,62 @@
-> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624002308id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walletpop.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619175227id_/http%3A//privacy.aol.co.uk) for the most accurate reproduction.*
 
-# Zoopla Privacy policy - Zoopla
+# AOL UK Privacy
 
-## Our commitment to you
+The AOL company name has changed to Oath. The way we handle your information hasn't changed, so the Oath Privacy Policy will continue to govern when you are on previously branded AOL products, services, or technologies, including AOL ail, AOL.co.uk, HuffPost UK, Engadget, TechCrunch, Moviefone, and Makers.
 
-Zoopla.co.uk is operated by Zoopla Property Group Plc. Zoopla Property Group Plc respects your privacy and is committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to Zoopla Property Group Plc.
+This notice provides highlights of the [full privacy policy](http://privacy.aol.co.uk/privacy-policy/) and covers the collection and use of information when you use the Oath or HuffPost UK brand websites, services, and software (collectively the "Oath Services") and other content and offerings from Oath (UK) Limited, its subsidiaries and [Affiliates](http://privacy.aol.co.uk/definitions/) (together "AOL") ("AOL", "We" and "Us"), as well as any websites owned by or affiliated with Oath and operating under different names.
 
-## Information we collect
+### Personal Information
 
-When you use the Services you will have the option to provide us with personal information, such as your email address, so that we may keep you informed.
+We or data processors acting under our control may collect information which may identify you or your Oath account ("Personal Information") when you make your information known, such as by registering or logging into AOL Mail or the HuffPost UK, authenticating, making purchases, or interacting with other Oath Services.
 
-When visiting our website, we may place one or more cookies (a small file that is stored by your browser to recognise you and store your preferences) on your computer. This helps us to improve our Services by personalising information you may want. You may adjust the settings on your browser to refuse cookies but some of the Services may not work if you do so. We may also log information from your computer including the existence of cookies, your IP address and information about your browser program in order to allow us to diagnose problems, administer and track your usage of the Services. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
+If you do not make yourself known to us, your use of our content and services is generally anonymous.
 
-## How we use information
+### How we use your Information
 
-We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
+Your Personal Information is used to operate and improve our services, fulfill your requests and communicate with you, conduct research, and personalise the content and advertisements provided to you.
 
-  * When you have consented or directed us to share the information.
-  * With service providers or affiliate companies who perform services on our behalf.
-  * In order to satisfy any requirement under the law or to protect our rights or prevent any concerns relating to fraud or security.
-  * In the event of a merger or sale of all or part of our business whereby personal information may be transferred as an asset of the business.
+### Information Sharing
+
+Oath (or data processors acting on our behalf) do not share, sell or rent your personal information to third parties. Your information is only shared with third parties with your permission, or in response to legal process.
+
+### Internet Advertising
+
+Our ability to provide the Oath Services depends on advertising, including advertising provided by Oath affiliates such as ONE by AOL advertising services. Some of the adverts on our services are displayed based on the page visited and some are targeted to you based on your interests and other information we have about you. We want you to understand how internet advertising works and offer resources and choices. [Learn more](http://privacy.aol.co.uk/advertising-and-privacy/).
+
+### Cookies
+
+Our services rely on the use of cookies. A cookie is a piece of data that a website stores on your device so it can recognize it at a later time.
+
+Please see our [Cookie Policy](http://privacy.aol.co.uk/cookie-information/) for more information.
+
+### NEWSLETTERS
+
+Our newsletters may contain tracking gifs and adverts. If you have subscribed to any Oath or HuffPost UK newsletters you will have consented to this.
+
+### Your Choices
+
+  * You can [opt-out](http://www.youronlinechoices.com/uk/) of the use of your data for interest-based advertising delivered by the ONE by AOL advertising services. You will still receive advertising that is not interest-based.
+  * We give you choices about how we use your personal information. If you have registered with AOL you can set your [Marketing Preferences](http://help.aol.co.uk/help_uk/microsites/microsite.do?cmd=displayKC&docType=kc&externalId=uk_110094634&sliceId=1&docTypeID=DT_AOLPRODUCTHELP_1_1&dialogID=690912081&stateId=0%200%20690908547) to control how we communicate offers to you.
+  * You can manage cookies using [browser controls](http://privacy.aol.co.uk/browser-controls).
+  * Individual products or services may offer additional controls or preferences.
 
 
 
-We may share with third parties aggregate information or information that does not personally identify you.
+### How to Opt-Out
 
-## Communicating with you
+You can [opt-out](http://www.youronlinechoices.com/uk/) of interest-based advertising delivered by the ONE by AOL advertising services. You will still receive advertising that is not interest-based.
 
-If you prefer not to receive emails about our Services, you may opt out of such communications by following the instructions at the bottom of any of our emails, or by amending your preferences in [MyZoopla](https://web.archive.org/myaccount/).
+You can find out more about how we use cookies and opt out by [visiting our Cookie Policy.](http://privacy.aol.co.uk/cookie-information)
 
-## Third parties
+### How to Contact Us
 
-We use third parties to serve advertisements on our website and these third parties may use parties or other means to help measure the effectiveness of their advertisements. Our website may also include links to other unrelated websites and/or contact forms to other unrelated parties which may collect personal information. Our privacy policy does not extend to these third parties or other websites and we recommend that users refer directly to these parties regarding their privacy policies before supplying personal details to these companies. [View our Cookie Policy](https://web.archive.org/privacy/cookies/)
+If you have any questions or concerns, you may contact us at:
 
-We may use your Personal Information to customise or enhance your experience on the Zoopla Property Group Network (including the display of advertisements) and communications related to our products or services or those of third parties. In addition, we may share other information we may have about you and your use of the Zoopla Property Group Network (such as which pages you have visited) with third parties for those purposes and for the purpose of facilitating the serving of targeted ads for the Zoopla Property Group Network on other Web sites.
+**Data Protection Officer**  
+Oath (UK) Limited  
+11-20 Capper Street  
+London  
+WC1E 6JA 
 
-## Opting Out of Collection of Information by Third Parties
-
-Zoopla Property Group's third-party ad servers, ad network providers, and third-party advertisers (the "Zoopla Property Group Ad Providers") may provide you with advertisements that you may see on the Services or on other affiliated websites. To improve the relevancy and help measure the effectiveness of such advertisements, the Zoopla Property Group Ad Providers may use cookies, Web beacons, clear .gifs or similar technologies. These are used to record users' activity, such as the pages visited, and to learn what types of information are of most interest to the users. 
-
-Zoopla Property Group Ad Providers. Use of these technologies by Zoopla Property Group Ad Providers is subject to their own privacy policies and is not covered by our privacy policy. For more information regarding the choices you have about these technologies (such as opting-out), [click here](http://www.networkadvertising.org/participating-networks) to learn about Zoopla Property Group Ad Providers participating in the Network Advertising Initiative, and [click here](http://www.aboutads.info/participating) to learn about the Zoopla Property Group Ad Providers participating in the Digital Advertising Alliance. The Network Advertising Initiative and Digital Advertising Alliance offer some centralized opt-out tools; otherwise you must visit each provider's website individually and opt out.
-
-Zoopla Property Group marketing service providers. If you do not want Zoopla Property Group and its marketing services providers to follow your usage of our Services via cookies and Web beacons, you can opt out of Cookies/Web beacons from: comScore, Google Analytics, Omniture and Yahoo! Opting out of these services does not mean you will no longer receive online advertising. It does mean that the service from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. Please note that, if you opt out and later delete your cookies, use a different browser, or use a different computer or other electronic device, you will need to renew your opt-out choices.
-
-## Safety and security
-
-Personal information is processed and stored in our databases and we have taken reasonable steps to secure and protect the information under our control, including establishing processes to prevent unauthorized access or disclosure of this information. However, whilst we make every effort to ensure the security of your information, we are unable to guarantee the protection of the information from misuse, accidental disclosure or unauthorised acts by others. Information provided by you may be stored or processed outside the United Kingdom.
-
-## Changes to Privacy Policy
-
-We reserve the right to change this privacy policy at any time without prior notice to you. Any changes will be posted on our website and become effective at the time of posting. In the event that material changes are made that affect the use or disclosure of your personal information, we will make reasonable efforts to notify you of these changes.
-
-If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
-
-This policy was last updated on 19th June, 2014
+or **via email to:[datainfouk@aol.com](mailto:datainfouk@aol.com)**
