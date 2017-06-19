@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2015-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151019032244id_/http%3A//support.swap.com/hc/en-us/articles/203331185-Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swap.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619195812id_/http%3A//support.swap.com/hc/en-us/articles/203331185-Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Swap.com Support
 
 LAST UPDATED: 7 May, 2015
 
-## NETCYCLER INC. / SWAP.COM PRIVACY POLICY
+## SWAP.COM, INC. PRIVACY POLICY
 
 ### I. Introduction
 
-Netcycler, Inc. (“we, “us) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [terms of use](https://web.archive.org/entries/21819031) and any other documents referred to in it) applies to swap.com (the “Service”) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be handled by us. In this Privacy Policy, the term “personal data” means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you.
+Swap.com, Inc. (“we, “us) is committed to protecting and respecting your privacy. This Privacy Policy (together with our [terms of use](https://web.archive.org/entries/21819031) and any other documents referred to in it) applies to swap.com (the “Service”) and sets out the basis on which any personal data we collect from you, or that you provide to us, will be handled by us. In this Privacy Policy, the term “personal data” means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you.
 
 We wish to remind you that this Privacy Policy applies to personal data that we process when you use the Service. It does not apply to any links to third parties’ websites and/or services, such as third-party applications, that you may encounter when you use the Service. We encourage you to carefully familiarize yourself with privacy policies applicable to any websites and/or services operated by third parties. Please be aware that we are not responsible for the privacy practices of any third parties.
 
@@ -39,7 +39,7 @@ The Service may automatically collect the following information from that in cer
 
   * The logging technology used in the Service automatically collects the URL of the site from which you came and the site to which you are going when you leave the Service. We also collect the Internet Protocol (IP) address of the device you use to access the Service, information about the operating system of your device, as well as the name of your Internet service provider.
   * We may place a “cookie” on the hard drive of the device that you use to access the Service. Cookies are text files that are saved on the hard drive of your device by means of your browser, enabling us to recognize your browser for purposes such as saving your preferences and directing relevant content to you. Most of the currently available browsers give you the option of managing cookies by, for example, disabling them entirely, accepting them individually, and deleting saved cookies from your hard drive. We would like to remind you that if you completely disable cookies on your browser, you might not be able to use some features of the Service.
-  * Google Analytics is an element of the Service. By using cookies, Google Analytics collects and stores data such as time of visit, pages visited, time spent on each page of the website, the Internet Protocol address, and the type of operating system used in the devices used to access the Service. By using a browser plugin <http://www.google.com/ads/preferences/plugin/> provided by Google, you can opt out of Google Analytics.
+  * Google Analytics is an element of the Service. By using cookies, Google Analytics collects and stores data such as time of visit, pages visited, time spent on each page of the website, the Internet Protocol address, and the type of operating system used in the devices used to access the Service. By using a [browser plugin](http://www.google.com/ads/preferences/plugin/) provided by Google, you can opt out of Google Analytics.
 
 
 
@@ -99,4 +99,4 @@ From time to time we may change this Privacy Policy. You can tell when changes h
 
 ### VIII. Questions or Concerns?
 
-Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us via e-mail at  or by mail at Netcycler Inc., 3 Timber Court, Bolingbrook, IL 60440. We seek to swiftly resolve any concerns you may have.
+Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us via e-mail at  or by mail at Swap.com Inc., 3 Timber Court, Bolingbrook, IL 60440. We seek to swiftly resolve any concerns you may have.
