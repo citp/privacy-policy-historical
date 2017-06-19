@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ukcelebritygossip.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910022133id_/http%3A//www.ukcelebritygossip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukcelebritygossip.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619221032id_/http%3A//www.ukcelebritygossip.com/privacy-policy) for the most accurate reproduction.*
 
-# UK Celebrity Gossip Privacy policy - UK Celebrity Gossip
+# Privacy policy - UK Celebrity Gossip - UK Celebrity Gossip
 
 This privacy policy sets out how UKCelebrityGossip.com uses and protects any information that you give while using www.ukcelebritygossip.com
 
