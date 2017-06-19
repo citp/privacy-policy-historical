@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315010851id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemoneyclub.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619083355id_/http%3A//onlinemoneyclub.co.uk/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Online Money Club
+
+[ ](http://onlinemoneyclub.co.uk/privacy-policy-3/)
 
 This privacy policy sets out how David Henry uses and protects any information that you give David Henry when you use this website.
 
@@ -53,7 +55,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@onlinemoneyclub.co.uk](mailto:support@onlinemoneyclub.co.uk)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at <https://davidjen.supportsystem.com/>
 
 
 
