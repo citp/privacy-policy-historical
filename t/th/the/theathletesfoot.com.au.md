@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127204507id_/http%3A//www.theathletesfoot.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619200554id_/http%3A//www.theathletesfoot.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,4 +84,4 @@ We may vary the terms of this Privacy Policy at any time.  You should check thi
 
 Should you wish to access, update or correct personal information supplied to us, you may email us at [clubfit@taf.com.au](mailto:clubfit@taf.com.au).  There is no cost to request or update your information but we may charge you a reasonable fee to cover our costs in locating and extracting that information to supply it to you.
 
-You have the option to either not identify yourself or to use a pseudonym when you contact us, unless it is impractical for us to communicate with you in that manner or if we are required or authorised under Australian law, or a court or tribunal order, to deal with individuals who have identified themsel
+You have the option to either not identify yourself or to use a pseudonym when you contact us, unless it is impractical for us to communicate with you in that manner or if we are required or authorised under Australian law, or a court or tribunal order, to deal with individuals who have identified themselves.
