@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineustaad.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122001250id_/http%3A//www.onlineustaad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineustaad.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619055503id_/http%3A//www.onlineustaad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Urdu Video Tutorials - Computer Ustaad
 
