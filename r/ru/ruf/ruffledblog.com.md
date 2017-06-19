@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the ruffledblog.com privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615012736id_/http%3A//ruffledblog.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruffledblog.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619092552id_/http%3A//ruffledblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ruffled
-
-Ruffled does not engage in cross-marketing or link-referral programs. If you’re a company or a wedding vendor interested in advertising, please email us at advertise@ruffledblog.com
 
 Limitation of Liability. User agrees to release, defend, indemnify and hold harmless Ruffled, those working on its behalf, and each of their respective officers, directors, representatives, employees, agents, successors and assigns, from any damage, injury, death, loss or other liability, either at law or equity, whether known or unknown, asserted or non-asserted, that may arise from or in any way relate to any do-it-yourself project or story published here.
 
 We reserve the right to remove comments that we find inflammatory, offensive, self-promoting or otherwise inconsistent with Ruffled’s standards of business ethics.
 
-All images are copyright by their authors. In case of a misused image please contact us and we will be happy to properly credit it.
-
-All classified postings are stored in our database, even after deletion and may be archived elsewhere.
-
-Our web logs and other records are stored indefinitely.
+All images, videos, artwork, music are copyright by their authors. Ruffled claims no ownership of content posted by User Content.
 
 Ruffled reserves the right to modify these policies at any time and without prior notice to its Users.
 
@@ -28,7 +22,7 @@ We may collect non-personal identification information about Users whenever they
 
 Web browser cookies
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. This can be periodically reset by your browser’s settings.
 
 How we use collected information
 
