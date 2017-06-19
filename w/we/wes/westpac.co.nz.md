@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127122201id_/http%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619121423id_/http%3A//www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information) for the most accurate reproduction.*
 
 # Westpac NZ - Legal Information
 
@@ -181,6 +181,44 @@ This policy is current as at **20 October 2016**.
 5 December 2013
 
 [Back to top](http://www.westpac.co.nz/who-we-are/about-westpac-new-zealand/westpac-legal-information/#top)
+
+**1 June 2017**
+
+**hotpoints® SpendBack™**
+
+**From 15 June 2017, we’re making some changes to our Conditions of Use that apply to our hotpoints credit cards.**
+
+The changes introduce a new hotpoints redemption function called hotpoints SpendBack.
+
+This function allows customers who use their hotpoints credit card for qualifying purchases (including food and fuel purchases) to redeem their hotpoints to pay back part or all of those purchases, up to three months from the date of the qualifying purchase.
+
+A link to each of our updated conditions of use that apply to hotpoints credit cards and will come into effect on 15 June 2017 are available below.
+
+[Westpac Credit Card Conditions of Use](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/CONDITIONS-OF-USE/72696WP-14-05-17-General-Credit-Cards-Conditions-of-Use-Brochure.pdf)
+
+[Westpac World Mastercard® Account Conditions of Use](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/CONDITIONS-OF-USE/72919WP-9-05-17-World-Conditions-of-Use.pdf)
+
+****9 March 2017****
+
+From 23rd March 2017, we're making some changes to the Conditions of Use that apply to MasterCard BusinessCard/Purchasing Card.
+
+\- The Conditions of Use are being changed remove the Unauthorised transactions insurance policy and the Transit accident insurance policy to reflect that these insurances are no longer a feature of this card. Westpac New Zealand Limited is working with underwriters with a view to reintroducing unauthorised transaction insurance again in due course.
+
+\- The Conditions of Use are also being changed to reflect the changing nature of payment technology in that future payments can be made not only by card by also by way of “other payment instruments” (e.g. paytags, wearable and mobile devices).
+
+The new Conditions of Use will come into effect on 23rd March 2017 and are available below.
+
+[MasterCard Business Card Conditions of Use ](http://www.westpac.co.nz/assets/Business/Lending-and-Credit-Cards/63394WT-5-02-17-MasterCard-BusinessCard-Conditions-of-Use-1.pdf)
+
+**27 January 2017**
+
+With effect from 1 March 2017 we are making changes to Westpac Credit Card Overseas Travel Insurance policies, which includes making them dementia friendly. Find out more about the policy change [here](http://www.westpac.co.nz/assets/Personal/Credit-Card/PDFs/credit-card-travel-insurance-policy-changes.pdf).
+
+##### **18 January 2017**
+
+**Notification of changes to our fees effective 1 February 2017**
+
+From 1 February 2017 we're changing some of our fees on our products and services. A full list of the changes is available [here](https://www.westpac.co.nz/assets/Managing-your-Money/Public-Notices/Changes_to_Fees_1_February_2017.pdf "Fee changes, 1 February 2017").
 
 ##### 6 October 2016
 
