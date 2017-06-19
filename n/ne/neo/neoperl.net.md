@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202013049id_/http%3A//www.neoperl.net/en/oem/legalinformation/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neoperl.net privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620010729id_/http%3A//www.neoperl.net/en/oem/legalinformation/privacypolicy.html) for the most accurate reproduction.*
 
 # NEOPERL: General Terms & Conditions
 
@@ -44,6 +44,25 @@ your use of the website will be stored on the server of the service provider in
 Germany. Your IP address will be anonymized prior to its storage by the use of the  
 plugin “AnonymizeIP”.
 
+**Newsletter**  
+Registration for our newsletter uses the “double opt-in procedure”. This means that,   
+after you have entered your e-mail address, we send a confirmation e-mail to the given   
+e-mail address requesting confirmation that you wish to receive the newsletter. If you do  
+not confirm this within 24 hours, your registration will be deleted automatically. If you   
+confirm that you wish to receive the newsletter, we will store your e-mail address until   
+such time as you cancel your subscription. Your e-mail address will be stored for the sole   
+purpose of allowing us to send you the newsletter. As well as this, we store your IP addresses   
+and the times of registration and confirmation in order to avoid misuse of your personal data.  
+An e-mail address is the sole mandatory piece of personal data required for sending the   
+newsletter. Entering all other personal data is voluntary and is used for the sole purpose   
+of personalizing the newsletter.   
+These data will also be deleted completely on cancellation of your subscription.   
+You can revoke your consent to be sent the newsletter at any time. You can do this by clicking   
+on the link provided in any newsletter e-mail, by sending an e-mail to info@neoperl.de, or by   
+sending a message to the contact address listed in the publishing information.   
+Your data will not be passed on to third parties.
+
+  
 **Changes**  
 If we wish to use your personal data in a manner that deviates from the intended use  
 notified at the time the data was collected we shall inform you of said change in  
