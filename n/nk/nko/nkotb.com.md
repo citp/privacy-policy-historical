@@ -1,159 +1,159 @@
-> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607140126id_/http%3A//www.nkotb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nkotb.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619034223id_/http%3A//nkotb.com/privacy) for the most accurate reproduction.*
 
-# Home : New Kids On The Block
+# New Kids On The Block > Privacy Policy
 
-This policy is effective as of **November 29, 2011** , and reflects only non-material changes and clarifications from the previous version.
+## Live Nation Entertainment Privacy Policy - Your Privacy Rights
 
-**Please read these terms of use carefully as they contain important information regarding your legal rights, remedies and obligations. these include various limitations and exclusions, and a dispute resolution clause that governs how disputes will be resolved.**
+Effective July 20, 2012 (last updated March 14, 2017)
 
-This Privacy Policy, effective November 29, 2011, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service.
+**This Privacy Policy applies to the sites and apps where it appears.**
 
-By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
+This Policy describes how we treat personal information we collect both online and offline. This includes on our websites and in our apps. It also includes at our box offices or in phone or email interactions you have with us. If you live in Canada, please read our Canadian Privacy Policy.
 
-We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at the mailing address, telephone number, or email address at the end of this page.
+## We collect information from and about you.
 
-## About ground(ctrl)™
+**Contact information.** For example, we might collect your name and street address. We might also collect your phone number or email.
 
-Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers.
+**Payment and billing information.** For example, we collect your credit card number and zip code when you buy a ticket.
 
-To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
+**Information you post.** For example, we collect information you post in a public space on our website. We also collect information you post on a third-party social media site.
 
-## The Information We Collect
+**Demographic information.** We may collect information like your age range, race, or gender. We may collect information about events you like or products you buy. We might collect this as part of a survey or from third parties, for example.
 
-When you visit this web site, you provide us with three types of information:
+**Other information.** If you use our website, we may collect information about the browser you're using. We might look at what site you came from, or what site you visit when you leave us. We may collect information about your location, including your precise location. We may collect this using technology such as GPS and Wi-Fi. If you use our mobile app, we may also access your device's location in the background. We may collect your device's unique identifier. We might also collect the type of mobile device you are using, or the version of the operating system your computer or device is running. We might look at how often you use the app and where you downloaded it.
 
-  1. Web site information collected by us through your interaction with this web site;
-  2. Personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and
-  3. Personal information you knowingly and voluntarily disclose to use when using this service.
+## We collect information in different ways.
 
+**We collect information directly from you.** For example, if you register for a promotion or buy tickets. We also collect information if you post a comment on our websites or ask us a question.
 
+**We collect information from you passively.** We use tracking tools like browser cookies and web beacons. To learn more about these tools and to control them, please [click here](http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices). We also collect information from our mobile apps.
 
-First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
+**We get information about you from third parties.** For example, if you use an integrated social media feature on our websites or mobile applications. The third-party social media site will give us certain information about you. This could include your name and email address. Your activities on our sites and apps may be posted to the social media platforms.
 
-Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network. This information includes the following:
+## We use information as disclosed and described here.
 
-Your first and last name
-    For the purpose of addressing you personally
-Your email address and encrypted password
-    To provide you with access to your personal account, and to send notifications about activity on the website
-Street address, city, state, postal code, country
-    To verify billing information for orders you place on the website and/or ship merchandise to you
-Your location
-    So you may optionally share your geographic location with other members of the website
-Birth date
-    So that you may optionally share your age with other members of the website
-AIM, Yahoo screen name, Jabber, ICQ screen names
-    So that you may optionally share your instant message information with other users of the site
-Flickr user id and Twitter user name
-    So that you may optionally display recent photos and twitter posts on your profile page
-Links to your third-party sites
-    So that you may optionally share favorite or other personal websites with other members of the site
-An avatar image
-    So that you may optionally provide a visual representation of yourself next to items you publish on the site
+**We use information to respond to your requests or questions.** For example, we might use your information to confirm your registration for an event or contest. You may give us your friend's information, for example, via our referral service to tell a friend about our website or to purchase a gift card. We will only use your friend's information to provide services you requested. Your friend may contact us at privacy@livenation.com to ask us to delete their information.
 
-We will not collect any more any information that is necessary for you to participate in the Ground(ctrl)™ social networking community.
+**We use information to improve our products and services.** We might use your information to customize your experience with us. This could include displaying content based upon your preferences.
 
-Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
+**We use information to look at site trends and customer interests.** We may use your information to make our website and products better. We may combine information we get from you with information about you we get from third parties.
 
-## Children's Online Privacy Protection Act Of 1998
+**We use information for security purposes.** We may use information to protect our company, our customers, or our websites.
 
-This privacy policy is provided in conformity with the [Children’s Online Privacy Protection Act of 1998](http://www.coppa.org/coppa.htm "COPPA -Children's Online Privacy Protection") (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age.
+**We use information for marketing purposes.** For example, we might send you information about special promotions or offers. We might also tell you about new features or products. These might be our own offers or products, or third-party offers or products we think you might find interesting. Or, for example, if you buy tickets from us we'll enroll you in our newsletter. To learn about your choices for these communications, read the choices section below.
 
-If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact the operator of this website at the following address, phone number or email:
+**We may also use push notifications on our mobile apps.** We may use push notifications and your location information on our mobile apps to send you alerts regarding local events.
 
-120 K. Street Suite 3rd Floor
+**We use information to send you transactional communications.** For example, we might send you emails about your account or a ticket purchase. We might also contact you about this policy or our website terms.
 
-Sacramento, CA 95814
+**We use information as otherwise permitted by law or as we may notify you.**
 
-Toll Free: 1 (877) GND-CTRL
+We keep personal information as long as it is necessary or relevant for our business. We also keep information to resolve disputes, enforce our agreements and as otherwise required by law.
 
-Phone (916) 443-9202
+## We may share information with third parties.
 
-Fax (916) 443-9204
+**We will share information within the Live Nation family of companies.** This may include Ticketmaster and Live Nation-owned or operated venues, for example.
 
-Additional operators maintaining information collected through this website include: New Kids On The Block .
+**We will share information with third parties who perform services on our behalf.** For example, we share information with vendors who help us manage our online registration process or who fulfill your purchases. Some vendors may be located outside of the United States.
 
-The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
+**We will share information with our business partners.** This includes a third party who provides or sponsors an event, or who operates a venue where we hold events. Our partners use the information we give them as described in their privacy policies, which may include sending you marketing communications. You should read those polices to learn how they treat your information.
 
-As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information.
+**We may share information if we think we have to in order to comply with the law or to protect ourselves.** For example, we will share information to respond to a court order or subpoena. We may also share it if a government agency or investigatory body requests. Or, we might also share information when we are investigating potential fraud. This might include fraud we think has happened during a sweepstakes or promotion.
 
-We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the operator address listed above. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you. The parent also has the option to agree to the collection and use of the child’s information without consenting to the disclosure of the information to third parties.
+**We may share information with any successor to all or part of our business.** For example, if part of our business is sold we may give our customer list as part of that transaction.
 
-## Correcting, Updating or Removing Your Information
+**We may share your information for reasons not described in this policy.** We will tell you before we do this.
 
-At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature.
+## You have certain choices about how we use your information.
 
-## How We Use the Information
+**You can opt out of receiving our marketing emails.** To stop receiving our promotional emails, you can click the 'Unsubscribe' link in any promotional message you get from us. Your device settings should provide you with instructions on how to turn off push notifications. It may take about ten days to process your request. Don't worry! Even if you opt out of getting marketing messages, we will still be sure to send you transactional messages. For example, we may still contact you about your orders.
 
-We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
+**You can modify information you have given us.** To correct or delete information or update account settings, log into your account and follow the instructions. We make changes as soon as we can. This information may stay in our backup files. If we cannot make the changes you want, we will let you know and explain why. If you contact us requesting access to your information, we will respond within 30 days.
 
-When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+**You can control cookies and tracking tools.** To learn how to manage how we — and our vendors — use cookies and other tracking tools, please [click here](http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices).
 
-Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—e.g., the distribution of band information that, based on your profile, matters to you.
+**You can control tools on your mobile devices.** For example, you can turn off the GPS locator or push notifications on your phone. Each push notification has an "unsubscribe" link.
 
-## Sharing Your Information with Third Parties
+## Your California Privacy Rights.
 
-This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
+If you live in California and have an established business relationship with us, you can request a list of the personal information we have shared with third parties for their marketing purposes. We will also give you a list of the third parties that have received your information. You can make a request one time each year.
 
-  1. Enforce the network’s Terms and Conditions of Use Agreement;
-  2. Protect the network’s rights;
-  3. Coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards;
-  4. Protect the safety of it’s members; or
-  5. Enhance each member’s promotional and informational-sharing experience.
+To exercise your rights, you can email us or write to us at the address below. Mention in your letter that you are making a "California Shine the Light" inquiry. We will respond within 30 days.
 
+## These sites and apps are not intended for children.
 
+Our sites and apps are meant for adults. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us [here](mailto:privacy@livenation.com). You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request."
 
-The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service.
+Parents, you can also learn more about how to protect children's privacy online [here](http://business.ftc.gov/privacy-and-security/children%E2%80%99s-privacy).
 
-Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
+## We use standard security measures.
 
-Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest.
+We have security measures in place to protect your information. The standard security measures we use will depend on the type of information collected. However, the Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords. If you think that an unauthorized account has been created using your name, contact us at the address below.
 
-## Third-Party Advertising
+[](https://privacy.truste.com/privacy-seal/validation?rid=6ded18c3-447e-4032-94e2-2a8daaee2887)
 
-Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
+  
+Click on the Truste seal to view our current certification status.
 
-## Comments, Blogs, Messages, and Links
+## We store information both in and outside of the United States.
 
-Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites.
+If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection of those in your country.
 
-This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site.
+## We may link to third party sites or services we don't control.
 
-## Security
+If you click on one of those links, you will be taken to websites we do not control. This policy does not apply to the privacy practices of those websites. Read the privacy policy of other websites carefully. We are not responsible for these third party sites. Our site may also serve third-party content that contains their own cookies or tracking technologies. To learn more, [click here](http://concerts.livenation.com/h/privacy.html?tm_link=tm_i_privacy#adchoices). We do not control the use of those technologies.
 
-Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff.
+## Feel free to contact us if you have more questions.
 
-Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information.
+If you have any questions about this Policy or other privacy concerns, you can email us at privacy@livenation.com. Please do not include your credit card number or other sensitive information in your email. You can also write us at:
 
-## Disclaimer of Liability for Unauthorized Viewing of Personal Information
+Live Nation Entertainment, Inc.  
+9348 Civic Center Drive  
+Beverly Hills, CA 90210  
+Attention: Privacy Officer, Legal
 
-You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+If you are not satisfied with our response, you can contact our third party dispute resolution provider [here](https://feedback-form.truste.com/watchdog/request).
 
-## Changes in the Privacy Policy’S Terms of Use, Notices and Revisions
+## What we will do if there is an update to this policy.
 
-We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
+From time to time we may change our privacy practices. We will notify you of any material changes to this policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
 
-Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
+* * *
 
-Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
+## Ad Choices
 
-## European Commission's Directive on Data Protection - Safe Harbor
+**We use common tracking technologies.**
 
-We adhere to the Safe Harbor Principles that were established by the U.S. Department of Commerce in consultation with the European Commission to comply with the European Commission's Directive on Data Protection. For more information on the Safe Harbor framework, visit the Department of Commerce's website located at <http://export.gov/safeharbor/>.
+We or our vendors use several common tracking tools. These may include browser cookies. We may also use web beacons and similar technologies. We use these tools:
 
-## Your California Privacy Rights
+  * To recognize new or past customers.
+  * To store your password if you are registered on our sites.
+  * To improve our website and mobile app.
+  * To serve you with advertising content in which we think you will be interested. To do so, we or our business partners may observe your behaviors over time on this website and across third party websites. We may also collect information about your browsing history.
+  * To better understand the interests of our customers and our website visitors.
 
-Under the California Civil Code, residents of the State of California who have provided any personally-identifiable information to us have the right to request a list of all third parties to whom we have disclosed personally-identifiable information during the preceding year for direct marketing purposes. If you are a California resident and wish to make such a request, please send an email [privacy@groundctrl.com](mailto:privacy@groundctrl.com) or contact us at the address below.
 
-If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at the following mailing address, phone number, or email address:
 
-120 K. Street Suite 3rd Floor
+## You can control tracking tools.
 
-Sacramento, CA 95814
+Your browser may give you the ability to control cookies. How you do so depends on the type of cookie. Certain browsers can be set to reject browser cookies. To control flash cookies, which we may use on certain websites from time to time, you can go [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Why? Because flash cookies cannot be controlled through your browser settings.
 
-Toll Free: 1 (877) GND-CTRL
+If you block cookies on your browser, certain features on our sites may not work.
 
-Phone (916) 443-9202
+## Some ads may be served based on tracking.
 
-Fax (916) 443-9204
-  *[CA]: California
+We may work with online advertising companies to show you relevant and useful ads. This may include ads served on our own websites or apps. This may also include our ads served on other companies' sites. These ads may be based on information collected by us or third parties (for example, when you register for a site). These ads may also be based on your activities on our websites or on third party sites. This second type of advertising is called "interest-based advertising" or "online behavioral advertising." These ads might be served on websites or on apps. They might also be served in emails. We might serve these ads, or third parties may serve ads. They might be about our products or other companies' products.
+
+## How do we gather information about you for interest-based advertising?
+
+To decide what is relevant to you, we use information you make available to us when you interact with us, our affiliates, and other third parties. We gather this information using the tracking tools described above. For example, we or our partners might look at your purchases or browsing behaviors. We might look at these activities on our platforms or the platforms of others.
+
+We work with third parties who help gather this information. These third parties might link your name or email address to other information they collect. That might include past purchases made offline or online. Or, it might include online usage information.
+
+## You can opt-out of interest-based advertising.
+
+To opt out of online behavioral advertising, [click here](http://preferences-mgr.truste.com/?pid=ticketmaster01&aid=ticketmaster01&type=ticketmaster). If you opt out, you may continue to see ads from us, but they will not be tailored to your interests.
+
+The Digital Advertising Alliance also offers a tool for opting out of the collection of cross-app data on a mobile device for interest-based advertising. To exercise choice for companies participating in this tool, download the AppChoices app [here](http://youradchoices.com/appchoices).
+
+©2017 Live Nation Entertainment, Inc. All rights reserved
