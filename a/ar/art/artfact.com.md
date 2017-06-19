@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120120641id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfact.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619050351id_/http%3A//www.invaluable.com/agreements/privacy.cfm) for the most accurate reproduction.*
 
 # Bidder & Subscriber Privacy Policy | Invaluable
 
@@ -62,6 +62,10 @@ Our site offers registered users the ability to forward along objects of interes
 
 As a service to auction houses, we keep track of communications between registered users and auction houses. Not all auction houses permit direct communication with our users.  We may store destination emails sent by users to auction houses with questions or request for more information about an object.  If an auction house requests more information about a user, we may share that information if we determine that is in our interest to do so.  We may disable your capability to communicate with a specific auction house.  We may also revoke your auction house communication privileges at any time without notifying you if we determine that it is in our interest to do so.
 
+_Communications with Our Customers, Customer Support, and Promotional E-mail_
+
+From time to time, it may be necessary to notify subscribers of impending subscription expirations, account or credit card issues, transactions completed, and in the case of registered users terms agreement or policy changes. While such communication will typically be conducted through email, as appropriate, mail or phone may also be used. We may also use your personal information to send you e-mail newsletters and other promotional emails about services and products that we believe may be of interest to you. 
+
 _Subscription Billing_
 
 We charge fees for using our subscription level services. At present, these are Invaluable Basic, Invaluable Premium, Invaluable Professional, Invaluable Institutional, Invaluable Fine Art, Invaluable Collector, Invaluable Enthusiast, Invaluable Dealer, Invaluable Appraiser, Invaluable iFind+, Invaluable Offline Collector Search and Invaluable Offline Professional Search subscriptions. To enable the purchase of these products, Invaluable collects and stores billing and credit card information. This information will be shared only with third parties who perform tasks required to complete the purchase transaction. Examples of such tasks include processing credit card payments for new subscriptions, subscription renewals and subscription upgrades. Please see Protection of Your Information for other relevant information.
@@ -72,15 +76,13 @@ _Access Control_
 
 In order to access paid subscription products, you will be required to enter a user name and password through our secure sign-in on each visit. At that time, the current status of your subscription will be checked, and appropriate access given according to the information on file.
 
-_Communications with Our Customers and Customer Support_
-
-From time to time, it may be necessary to notify subscribers of impending subscription expirations, account or credit card issues, transactions completed, and in the case of registered users terms agreement or policy changes. While such communication will typically be conducted through email, as appropriate, mail or phone may also be used.
-
-While we do not presently, in the future we may use the information you provide to send you e-mail and mail only for products offered by Invaluable or its affiliates, or to determine your interest in programs or services that we believe may be of interest to you. These materials will be offered on an opt-in basis only.
-
 _Compliance with Legal Process_
 
 We may disclose personal information if we are required to do so by law, or in good faith believe that such action is necessary to: 1) comply with the law or with legal process;  2) protect and defend our rights and property; 3) protect against misuse or unauthorized use of Invaluable.com data; or 4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
+
+_Compelled disclosure_
+
+Note: Invaluable may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements
 
 _Sharing Your Personally Identifiable Information_
 
@@ -90,9 +92,13 @@ Invaluable will share some or all of your personal information with another busi
 
 If it is clear from the information that you provide us that you are a member of the antiques, art, auction or related trades we may, in our sole discretion list you in directories, or other areas of our site, and may use the name of your firm and your relationship to us in marketing or advertising on our site, or in our promotional materials, paid advertising, or other media in order to promote our services. We will not display the content of your email submissions about our services as testimonials for promotional purposes without your express permission.
 
+_Onward Data Transfer Liability_
+
+In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US Privacy Shield and Swiss-US Privacy Shield, Invaluable is potentially liable.
+
 **3) HOW YOU CAN CORRECT INFORMATION**
 
-Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your secure My Invaluable page.  
+Except for tracking and aggregated information, or as outlined in the section 5) below on Security and Protection of Your Information, all your information is available to you for review and update through your secure My Invaluable page as prescribed by the Privacy Shield Principles.  
 
 **4) OUR E-MAIL** **POLICIES**
 
@@ -122,9 +128,19 @@ We urge you to keep your password in a safe place and not to divulge it to anyon
 
 As a dynamic and growing Site, Invaluable may contain links to other sites that are not under our control.  Those Web sites have their own policies regarding privacy.  For your own protection, you should review their policies upon visiting these other sites to make sure they meet your expectations of privacy.
 
-Invaluable, LLC complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Invaluable, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.   To learn more about the Safe Harbor program, and to view Invaluable, LLC’s certification, please visit <http://www.export.gov/safeharbor/>. 
+DATA FROM THE EUROPEAN UNION AND SWITZERLAND
 
-Invaluable has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20161120120641id_/http%3A//www.invaluable.com/agreements/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. 
+Invaluable complies with the EU-US and Swiss-US Privacy Shield Frameworks as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland, respectively. Invaluable has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page once it is available, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
+
+Invaluable is subject to the investigatory and enforcement authority of the US Federal Trade Commission (FTC). 
+
+Our participation can be reviewed through the Privacy Shield Participation List on the US Department of Commerce website, at <https://www.privacyshield.gov/list>.
+
+In compliance with the EU-US and Swiss-US Privacy Shield Frameworks, Invaluable commits to resolve complaints about your privacy and our collection or use of your personal information. Persons from the European Union and Switzerland who have inquiries or complaints regarding this privacy policy should first contact us via email at: customercare@invaluable.com.
+
+Invaluable has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
 
 **6) HOW TO CONTACT US**
 
@@ -213,4 +229,4 @@ Sotheby's
 New York, New York 10021  
 Attention: Data Quality Department 
 
-This policy document 2.20 was last revised March 16, 2016.
+This policy document 2.70 was last revised May 22, 2017.
