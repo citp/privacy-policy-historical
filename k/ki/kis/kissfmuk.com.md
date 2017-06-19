@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissfmuk.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119155608id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissfmuk.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619151341id_/http%3A//www.bauerdatapromise.co.uk) for the most accurate reproduction.*
 
 # Bauer Media Group - Privacy Policy
 
@@ -12,7 +12,7 @@ Bauer Radio Ltd, whose registered office is at Media House, Peterborough Busines
 
 **And**
 
-Absolute Radio Ltd, whose registered office is at Media House, Peterborough Business Park, Lynch Wood, Peterborough, PE2 6EA. Registered in England and Wales company number 02674136, VAT no. 918 5617 01. 
+H Bauer Publishing, whose registered office is at Academic House, 24-28 Oval Road, London, NW1 7DT. Registered in England and Wales company number LP003328, VAT no 918 5617 01. 
 
 **Please click on the following links or scroll down to see the details of our Privacy Policy:**
 
@@ -36,7 +36,7 @@ The internet is not a totally secure medium and you acknowledge and agree that B
 
 * ### How do we collect and use your Personal Data?
 
-We collect your details when you register on one of our websites, subscribe to our service; place an order on our website; search for a product; correspond with us by phone, e-mail or otherwise; participate in discussion boards or other social media functions on our website, enter a competition or promotion. 
+We collect your details when you register on one of our websites; subscribe to our service; place an order on our website; search for a product; correspond with us by phone, e-mail or otherwise; participate in discussion boards or other social media functions on our website, enter a competition or promotion. 
 
 With regard to each of your visits to our websites we may automatically collect the following information: 
 
@@ -61,7 +61,7 @@ We use this information for reporting purposes and to advertise online. Third-pa
 
 * ### Do we share that data with any other companies?
 
-Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, or charge your credit card, run our SMS services, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the EEA or outside the EEA, where we require an EU approved model contract to be signed. 
+Except as otherwise stated in this Privacy Policy or in the data collection statements that will always be visible when we collect your information and where we give you the opportunity to select your preferences, we may release your data to external companies that we use to process your orders, or charge your credit card, for instance. Every supplier we use has to go through a rigorous up-front process to ensure that their processes are at least as good as our own, and they are required to sign a contract that defines what their responsibilities and liabilities are. We make site visits regularly whether our suppliers are in the UK, the EEA or outside the EEA, where we require an EU approved model contract to be signed. 
 
 However, you expressly consent to the sharing of your Personal Data with those suppliers with whom we contract in order to provide services to you, otherwise we may not be able to provide the level of service that we know you'll require. 
 
@@ -137,8 +137,8 @@ Complaints will be dealt with by the Data Protection Officer and will be respond
 
 * ### Changes to this Privacy Policy
 
-This Privacy Policy will be amended from time-to-time if we make any important changes in the way that we collect, store and use personal data. We may notify you by sending an email to your last known email address or writing to your last known postal address to direct you to the Privacy Policy if the changes are material. Our despatch of a communication to you will, in any event, constitute notification. 
+This Privacy Policy will be amended from time-to-time if we make any important changes in the way that we collect, store and use personal data. We may notify you by sending an email to your last known email address or writing to your last known postal address to direct you to the Privacy Policy if the changes are material. Our dispatch of a communication to you will, in any event, constitute notification. 
 
 Any changes will be effective immediately. 
 
-This Privacy Policy was last revised in October 2016. 
+This Privacy Policy was last revised in June 2017. 
