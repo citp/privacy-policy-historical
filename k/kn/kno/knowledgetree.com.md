@@ -1,16 +1,28 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008194812id_/http%3A//www.knowledgetree.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619111706id_/http%3A//www.knowledgetree.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | KnowledgeTree
 
-Last updated: 4/08/2016
+Last updated: 12/8/2016
 
 KnowledgeTree, Inc. (“KT”) is committed to protecting the privacy and security of personal information that we collect. This Privacy Policy discloses our information gathering and dissemination practices for our publicly available website at [www.knowledgetree.com](http://www.knowledgetree.com/ "www.knowledgetree.com") for our commercial KnowledgeTree on-demand document management service, which is accessed through the internet (the “Service”). The Service is available only to users authorized by organizations and individuals that have entered into an online or written signed agreement with KT for the Service (“Service Agreement”). Nothing in this Privacy Policy should be interpreted to modify, delete or add terms to the Service Agreement.
 
+In compliance with the Privacy Shield Principles, KnowledgeTree commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Private Shield policy should first contact KnowledgeTree at:
+
+[privacy@knowledgetree.com](mailto:privacy@knowledgetree.com)
+
+or  +1 919-747-8270
+
+KnowledgeTree has further committed to refer unresolved Privacy Shield complaints to **American Arbitration Association,** an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit **American Arbitration Association** for more information or to file a complaint.  The services of **American Arbitration Association** are provided at no cost to you.
+
+You can submit an arbitration case [from here](https://www.adr.org/aaa/faces/services/fileacase).
+
 If you have questions or complaints regarding our privacy policy or practices, please contact us at the contact information set forth below.
 
-KT complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. KT has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view KT’s certification, please visit <http://www.export.gov/safeharbor/>
+Individuals may, under certain circumstances, invoke binding arbitration.
 
-If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided below).
+KT complies with the EU / US Privacy Shield Framework (pending approval of self-certification) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. KT has certified that it adheres to the Privacy Shield principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Privacy Shield program, and to view KT’s certification (pending approval), please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/)
+
+If you have any complaints regarding our compliance with the Privacy Shield you should first contact us (as provided below).
 
 Information Collected
 
@@ -42,9 +54,11 @@ We may release personally identifiable information and/or non-personally-identif
 
 KT also reserves the right to disclose personally identifiable information and/or other information about users that KT believes, in good faith, is appropriate or necessary to enforce its agreements, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our Service, and to protect the rights, property, or personal safety of KT, our users or others.
 
-KT will not disclose any personally identifiable information to a third party unless (i) the individual has consented to such disclosure and (ii) KT has ascertained that the third party either subscribes to the Safe Harbor principles or has entered into an agreement with KT that is consistent with the Safe Harbor principles.
+KT will not disclose any personally identifiable information to a third party unless (i) the individual has consented to such disclosure and (ii) KT has ascertained that the third party either subscribes to the Privacy Shield principles or has entered into an agreement with KT that is consistent with the Privacy Shield principles.
 
 Aggregate information of KT client data, not containing any personally identifiable information, may be provided to KT clients or prospects or disclosed in KT materials.
+
+Knowledge Tree remains responsible and liable under the Privacy Shield Principles if third parties engaged by Knowledge Tree process the personal information in a manner inconsistent with the Principles, unless Knowledge Tree proves that it is not responsible for the event giving rise to the damage.
 
 Access
 
@@ -71,6 +85,8 @@ Enforcement
 
 KT will periodically review its privacy and security practices to verify that KT is meeting its obligations under this Privacy Policy. Please contact KT at the e-mail below if you have any concerns or complaints regarding KT’s compliance with this Privacy Policy. KT will investigate and attempt to resolve your concern or complaint.
 
+Our organization may be subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
 Children
 
 The Service and Site are not intended for use by children under the age of 18 without parental supervision.
@@ -88,6 +104,10 @@ You agree that we may transfer your information to the purchaser of the portion 
 You acknowledge and agree that KT may transfer personally identifiable information across state and country borders for the purposes of data consolidation, storage, and simplified information management.  
 Upon request, KT will correct any of your personally identifiable information held by us that you state is incorrect.  
 You acknowledge and agree that KT cannot verify or guarantee that all of its privacy and security practices will be foolproof.
+
+We may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+We may provide personally identifiable information to our subsidiaries, affiliated companies, and contractors for the purpose of providing and maintaining the Service and for responding to your requests. We require that these parties agree to use such information solely for this purpose, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
 
 Updates to Privacy Policy
 
