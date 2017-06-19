@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snobessentials.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227050004id_/http%3A//www.snobessentials.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snobessentials.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620015901id_/http%3A//www.snobessentials.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Snob Essentials
 
