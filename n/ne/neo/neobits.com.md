@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2014-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141128153151id_/http%3A//www.neobits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neobits.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619172430id_/http%3A//www.neobits.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Neobits Inc.
+# Neobits.com is where business goes shopping. Offers the largest B2B catalog on the internet. Provides technology products, laboratory equipment, industrial and wireless infrastructure, software, audio-visual systems, materials and supplies from more than 10,000 manufacturers in 40,000+ categories. With over 5 million products and over $100 billion in inventory, we have what your business needs.
 
 Our Internet store allows you to buy products and services, receive special discounts, apply for credit, fill out surveys, and receive newsletters, e-mails or other promotional information from us. We use the information that we collect about you to fulfill your product and service purchases and to create a more personalized online experience.
 
@@ -50,8 +50,8 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
   * Neobits, Inc.
   * Attn: Privacy
-  * 505 W. Olive Ave., STE 315
-  * Sunnyvale, CA 94086
+  * 3350 Scott Blvd., STE 4601
+  * Santa Clara, CA 95054
   * USA
 
 
