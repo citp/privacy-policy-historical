@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2014-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141204142914id_/http%3A//virginmoney.com.au/money/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619151829id_/http%3A//virginmoney.com.au/money/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security | Virgin Money
+
+  
+[ Download](http://virginmoney.com.au/downloads/VMA_Privacy-and-security_2016.pdf) a PDF version.
 
 ## Privacy
 
@@ -13,10 +16,11 @@ Do you ever send me advertising materials?
 What if I don't want to receive advertising materials?   
 How do we collect personal information?   
 Online links to Third Party and Co-Branded sites?   
-Do we use cookies on out website?   
+Do we use cookies on our website?   
 How do we store personal information?   
 Why do we exchange personal information with third parties?   
 Exchange of information within the group   
+Exchange of information with overseas parties    
 Access and correction to your personal information   
 Dealing with us anonymously or using a fake name   
 What happens if our privacy policy changes in the future?   
@@ -78,8 +82,8 @@ Yes, we may also collect your personal information to comply with legislative an
 **Do you ever send me advertising materials?**   
 From time to time, we may also use your personal information to let you know about other products and services from Virgin Money that you might be interested in. We might also want to let you know about products and services from Virgin Group Companies, partners and other companies.
 
-**What if i don't want to recieve advertising materials?**   
-That's fine. Just let us know by calling us on +61 2 8249 8000 or email us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au). You can choose either to hear only about Virgin Money products, or to not receive any marketing material at all.
+**What if i don't want to receive advertising materials?**   
+That's fine. Forward the email you have received with the subject line “unsubscribe” to us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au) or call us on 13 81 51. You can choose either to hear only about Virgin Money products, or to not receive any marketing material at all.
 
 If you apply for any Virgin Money products and your application is declined, we may keep your details on file to let you know about future Virgin Money products.
 
@@ -160,14 +164,17 @@ We may also disclose your personal information to third parties where you reques
 **Exchange of information within the group**   
 We may also exchange information between members of the Virgin Money group including Virgin Money (Australia) Pty Ltd, Virgin Money Financial Services Pty Ltd, Virgin Money Home Loans Pty Ltd and our parent company Bank of Queensland Limited.
 
+**Exchange of information with overseas parties**   
+Some of the parties with which we exchange your personal information, including our partners, service providers and other third parties listed above, may be located outside Australia in countries including New Zealand, Philippines, India, Singapore, the United States of America, United Kingdom, Spain and Israel.
+
 **Access and correction to your personal information**   
 We take reasonable steps to ensure that your personal information is accurate, complete and up-to-date.
 
-You may request access to the information we hold about you at any time by calling our Privacy Officer on +61 2 8249 8000 or emailing us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au).
+You may request access to the information we hold about you at any time by calling our Privacy Officer on +61 2 8222 8000 or emailing us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au).
 
 Under certain circumstances, we may not tell you what personal information we hold about you or allow you to access that information, for example where the information relates to legal proceedings with you or where we are prevented by law from disclosing the information, or providing access would prejudice certain investigations. If one of the exceptions applies, we will consider whether the use of an intermediary is appropriate and would allow sufficient access to meet the needs of both parties. Where we do grant access to your information, we may charge you a fee for accessing your personal information.
 
-Under the Privacy Act, you also have a right to request that we correct information that you believe to be inaccurate, out of date, incomplete, irrelevant or misleading. If at any time you believe that personal information that we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please advise us by calling our Privacy Officer on +61 2 8249 8000 or emailing us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au) and we will take all reasonable steps to correct the information. You can ask us to associate with the information held, a statement from you claiming that the information is not correct.
+Under the Privacy Act, you also have a right to request that we correct information that you believe to be inaccurate, out of date, incomplete, irrelevant or misleading. If at any time you believe that personal information that we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please advise us by calling our Privacy Officer on +61 2 8222 8000 or emailing us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au) and we will take all reasonable steps to correct the information. You can ask us to associate with the information held, a statement from you claiming that the information is not correct.
 
 If there is a denial of access to your personal information or a dispute as to the correctness of any personal information held, we will provide you with reasons for the denial or its refusal to correct the personal information. If you disagree with our decision for the denial or refusal to correct the personal information, you may request that we review the decision via our complaints handling procedures which are outlined below.
 
@@ -188,12 +195,12 @@ We listen to the feedback our customers give us, and also what the broader publi
 We encourage you to periodically review our Privacy Policy for any changes. 
 
 **Contacting us**   
-We take privacy concerns seriously, and we'll work to address any problems we become aware of. If you have any further questions or concerns about the way we manage your personal information, including if you think we have breached the Australian Privacy Principles, please call our Privacy Officer on +61 2 8249 8000 or email us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au).
+We take privacy concerns seriously, and we'll work to address any problems we become aware of. If you have any further questions or concerns about the way we manage your personal information, including if you think we have breached the Australian Privacy Principles, please call our Privacy Officer on +61 2 8222 8000 or email us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au).
 
 **How will a complaint be handled?**   
 We absolutely, positively cannot bear the thought of any of our customers not being completely happy with what we do. So if you do have any complaints, you can be sure they’ll be dealt with as fast as possible.
 
-If you feel you need to make a complaint about privacy, please call our Privacy Officer on +61 2 8249 8000 or email us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au).
+If you feel you need to make a complaint about privacy, please call our Privacy Officer on +61 2 8222 8000 or email us at [privacy@virginmoney.com.au](mailto:privacy@virginmoney.com.au).
 
 We are committed to resolving your complaint internally and as quickly as possible.   We aim to respond to all complaints within 5 business days, however timeframes may be longer depending on the nature of the complaint.
 
@@ -202,7 +209,7 @@ If your complaint is not resolved to your satisfaction through the internal proc
 Financial Ombudsman Service  
 GPO Box 3  
 Melbourne VIC 3001  
-Phone: 1300 78 08 08
+Phone: [1300 78 08 08](tel:1300780808)
 
 **For more information go to**[ **www.fos.org.au**](http://www.fos.org.au/)
 
