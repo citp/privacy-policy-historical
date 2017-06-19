@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cntraveller.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020636id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cntraveller.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620000150id_/http%3A//www.condenast.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookie Statement - The Condé Nast Publications Ltd.
 
@@ -111,36 +111,49 @@ We are committed to safeguarding your privacy online. We appreciate that you do 
     * Persistent cookies. These cookies stay on your computer until they expire or are deleted. We set automatic deletion dates so that we don't keep your information for longer than we need to.
   * 8.5. Our Websites also use cookies, for example, to: 
     * Gather customer journey information across our sites and fulfil any of your requests;
+    * Gain insight into the nature of our audience so we can tailor our content accordingly;
     * Ensure your privacy when you visit our secure sites;
     * Store login details for our secure sites;
     * Store details of your marketing preferences to improve and enhance your visit to our sites;
     * Evaluate our sites' advertising and promotional effectiveness - all information is anonymised and we don't share it with anyone;
+    * Provide advertising on our sites and on other sites which are tailored to your interests and preferences;
     * Remember settings you have applied to a Website such as layout, font size, preferences, colours etc;
     * Detect if a service has already been offered to you so that we don't ask you again.
 
-
-
-### Third Party Cookies
-
 Cookie | Domain | Description  
 ---|---|---  
-__utm  
-__utmb  
-__utmc  
-__utmz  
-|  Condé Nast Website  | 
+Analytics cookies  
+(__utm, __utma, __utmb, __utmc, __utmz, _ga, _gid, _gat)  |  Condé Nast Website  | 
 
-Condé Nast uses Google Analytics, which sets a cookie in order to anonymously identify when users return to specific websites.
+Condé Nast uses Google Analytics, which sets a first-party cookie in order to anonymously identify when users return to specific websites.
 
 Google uses the information sent with this cookie to store a history of website pages visited in a user's session. This data will not be used to associate any part of your identity, anonymous or not, with any other data held by Google.
 
-Further information about how to opt-out of this cookie can be found at
+Further information about how to opt-out of this cookie can be found at <https://www.google.com/intl/en/policies/privacy/partners/>  
+  
+Advertisement cookies | Any | 
 
-<http://www.google.com/intl/en/privacypolicy.html>  
+From time to time, advertisers may include digital assets which set cookies on an advertiser's domain or on the domain of our Website. These cookies will only store anonymous information about your interaction with a specific advert and will not be used to personally identify you.
+
+We may also share anonymised behavioural data with advertising partners, to improve the quality and relevance of our advertising. This means that when you are on other websites, you might be shown advertising based on your behaviour on our Website. We may also show you advertising on our site based on your behaviour on other sites.
+
+You may find out more information, including how to opt-out of these cookies being set in your browser by visiting <http://www.youronlinechoices.com/uk/your-ad-choices>  
+  
+Google Advertising cookies | google.com, doubleclick.net, invitemedia.com, admeld.com, googlesyndication.com, or googleadservices.com | 
+
+Condé Nast uses Google Double Click to serve advertisements. Advertisements are received from Google Double Click servers to your browser along with a cookie to anonymously identify you as you visit websites which serve advertising from Google Double Click servers.
+
+In addition to providing website usage data as described above, Google Analytics may also collect anonymous demographic data such as age, gender and interests by placing a Google DoubleClick cookie in your browser. This data is aggregated and anonymised and helps us understand the types of users who visit our site. This cookie may also help us serve advertising tailored to your interests and preferences when you visit our sites or other sites that we advertise on.
+
+More information about this cookie, including how to opt-out of receiving the cookie can be found at <http://www.google.com/settings/ads/onweb/>
+
+If you opt out of this cookie, you will still see advertising when you visit our sites, but the content of the ads may not be as relevant to you.  
   
 Facebook Like Button cookies | facebook.com | 
 
-When you create or log in to an account on [http://www.facebook.com](http://www.facebook.com/) cookies are stored on your computer in order to remain logged-in to your facebook account when visiting [http://www.facebook.com](http://www.facebook.com/) again. The Facebook Like Button used on our Website is hosted by Facebook and your browser therefore sends this cookie data to Facebook when creating the button inside your browser. This data is used by Facebook in order to associate the Facebook Like Button with your Facebook account. This information is not accessible to us, and is not sent to us by Facebook.
+When you create or log in to an account on [http://www.facebook.com](http://www.facebook.com/) cookies are stored on your computer in order to remain logged-in to your facebook account when visiting [http://www.facebook.com](http://www.facebook.com/) again.
+
+The Facebook Like Button used on our Website is hosted by Facebook and your browser therefore sends this cookie data to Facebook when creating the button inside your browser. This data is used by Facebook in order to associate the Facebook Like Button with your Facebook account. This information is not accessible to us, and is not sent to us by Facebook.
 
 More information about this cookie and Facebook's Privacy Policy can be found at <https://www.facebook.com/about/privacy/your-info-on-other#socialplugin>  
   
@@ -155,18 +168,6 @@ Google +1 Button | google.com |
 When you create or log in to an account on [http://www.google.com](http://www.google.com/) cookies are stored on your computer in order to remain logged-in to your Google account when visiting [http://www.google.com](http://www.google.com/) again. The Google +1 Button used on our Website is hosted by [http://www.google.com](http://www.google.com/) and your browser therefore sends this cookie data to Google when creating the button inside your browser. This data is used by Google in order to associate the Google +1 Button with your Google account. This data is not accessible to us, and is not sent to us by Google.
 
 More information about this cookie and Google's Privacy Policy can be found at <https://www.google.com/policies/privacy/>  
-  
-*.ad.uk.doubleclick.net | ad.uk.doubleclick.net | 
-
-Condé Nast uses Google Double Click to serve advertisements. Advertisements are received from Google Double Click servers to your browser along with a cookie to anonymously identify you as you visit websites which serve advertising from Google Double Click servers.
-
-More information about this cookie, including how to opt-out of receiving the cookie can be found at <http://www.google.com/settings/ads/onweb/>  
-  
-Advertisement Cookie | Any | 
-
-From time to time, advertisers may include digital assets which set cookies on an advertiser's domain or on the domain of our Website. These cookies will only store anonymous information about your interaction with a specific advert and will not be used to personally identify you.
-
-You may find out more information, including how to opt-out of these cookies being set in your browser by visiting <http://www.youronlinechoices.com/uk/your-ad-choices>  
   
   * 9.1. Social networking sites, such as Facebook, among others, work with us as trusted third party partners. We also work with application developers who specialise in social media, so that we can connect with your social networks. We provide access to our Websites for third parties and business partners so that we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
   * 9.2. We do not control how your personal information is collected, stored or used by such third party sites or to whom it is disclosed. You should review the privacy policies and settings on any social networking site that you subscribe to so that you understand the information they may be sharing. If you do not want your networking sites to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. Condé Nast is not responsible for how these third party sites may use information collected from or about you.
