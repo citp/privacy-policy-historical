@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120054717id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titansonline.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620011821id_/http%3A//www.titansonline.com/footer/terms-of-use-privacy-policy.html) for the most accurate reproduction.*
 
 # Tennessee Titans | Terms of Use / Privacy Policy
 
@@ -187,3 +187,5 @@ Saint Thomas Sports Park
 460 Great Circle Rd.   
 Nashville, TN, 37228  
 ATTN: Website Privacy Policy/Director of Internet Operations**
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=2e274805-f0cc-4f8b-8dee-cdee564960c6)
