@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dunhillvacations.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326101002id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhillvacations.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619165234id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
 
 # Dunhill Travel Deals Privacy Policy for Top Travel Deals Newsletter
 
@@ -33,6 +33,8 @@ We do not rent, share, sell, or trade your personal information with third parti
 We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 If Dunhill Travel Deals is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choice you may have regarding your personal information.
+
+From time to time, Dunhill Travel Deals may share your personal information within our family of brands. This sharing enables us to provide you with additional travel related products which might interest you. All brands follow practices that are at least as restrictive as those described in this Privacy Policy. There is an option to unsubscribe or modify your information within every brand’s newsletters and on each website.
 
 **Refer a Friend Program:**
 
