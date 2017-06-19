@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenorthernecho.co.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121021715id_/http%3A//www.thenorthernecho.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenorthernecho.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619173531id_/http%3A//www.thenorthernecho.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
