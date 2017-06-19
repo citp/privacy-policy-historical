@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211040802id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619130529id_/http%3A//hsionline.com/privacy-policy-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer - Health Sciences Institute - Official Site
 
