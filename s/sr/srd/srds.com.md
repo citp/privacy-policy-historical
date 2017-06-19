@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121122914id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619174342id_/http%3A//next.srds.com/privacy) for the most accurate reproduction.*
 
-# Kantar Media SRDS Privacy Policy
+# Contact SRDS
 
-* * *
-
-### Updated and Effective October 14, 2013
+### Updated and Effective June 12, 2017
 
 * * *
 
@@ -14,11 +12,11 @@
 
 Our registration, ordering and comment forms request that users provide contact information such as name, company name, address, phone number and e-mail. Some of the requested information is required, some is optional. Kantar Media SRDS may contact users via any of the contact information they provide. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements.
 
-We may share your personally identifiable information with other companies who are in the same corporate family as Kantar Media N.A., provided that they observe privacy practices that are similar to those observed by Kantar Media SRDS. Kantar Media N.A. corporate site may be visited here: [www.kantarmediana.com](http://www.kantarmediana.com/).
+We may share your personally identifiable information with other companies who are in the same corporate family as Kantar Media N.A., provided that they observe privacy practices that are similar to those observed by Kantar Media SRDS. Kantar Media N.A. corporate site may be visited here: [www.kantarmedia.com](http://www.kantarmedia.com/).
 
 When you contact Kantar Media SRDS, we may keep a record of your communication to help solve any issues you might face or in connection with responding to your inquiry. 
 
-We may share aggregated, non-personally identifiable information publicly and with our partners – like publishers, advertisers, subscribers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+We may share non-personally identifiable information publicly and with our partners – like publishers, advertisers, subscribers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
 
 ### If You Use or Subscribe to Kantar Media SRDS Services
 
@@ -33,8 +31,8 @@ We collect information in two ways:
 ### How we use it:
 
   * Kantar Media SRDS gathers information about subscriber online usage to help us continually improve our services and the media planning and buying experience. 
-  * Kantar Media SRDS provides current and prospective advertisers with aggregate reports of usage of SRDS databases, categories or markets, and samplings of companies that subscribe to and use SRDS databases, categories and markets. These reports will not specifically identify you as an individual.
-  * Except as specifically set forth in this privacy policy, Kantar Media SRDS does not share product usage of individual users with third parties in a manner that specifically identifies an individual user. Kantar Media SRDS does not share product usage of individual subscribing companies with third parties beyond the aggregate and sample levels noted immediately above. 
+  * Kantar Media SRDS provides current and prospective advertisers with aggregate reports of usage of SRDS databases, categories or markets, and samplings of companies that subscribe to and use SRDS databases, categories and markets. In certain instances reports may be provided that identify a subscribing company by name.
+  * Except as specifically set forth in this privacy policy, Kantar Media SRDS does not share product usage of individual users with third parties in a manner that specifically identifies an individual user.
 
 
 
@@ -57,7 +55,7 @@ Kantar Media SRDS will retain your information for as long as necessary to compl
 
 "Cookies" are small files that may be placed on your computer for the purpose of facilitating and enhancing your interaction with our service. We place cookies on your computer from us and third parties who provide services to us, such as analytics providers that help us manage and analyze service usage. You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your web browser preferences, in which case you may still use our service, but it may interfere with some of its functionality. 
 
-As you browse SRDS.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partners such as AdRoll, Bizo and others then enable us to present you with retargeting advertising on other sites based on your previous interaction with SRDS.com. The techniques our partners employ _do not collect personal information_ such as your name, email address, postal address or telephone number. [You can visit this page to opt out](http://www.networkadvertising.org/choices/ "Opt-out of partner advertising") of our partners' targeted advertising.
+As you browse SRDS.com, advertising cookies will be placed on your computer so that we can understand your interests. Our display advertising partners then enable us to present you with retargeting advertising on other sites based on your previous interaction with SRDS.com. The techniques our partners employ _do not collect personal information_ such as your name, email address, postal address or telephone number. [You can visit this page to opt out](http://www.networkadvertising.org/choices/ "Opt-out of partner advertising") of our partners' targeted advertising.
 
 ### Links
 
@@ -81,15 +79,33 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 ### Opt-Out Process
 
-To opt-out of any future promotional messages from us, you should send an unsubscribe request to us at [contact@srds.com](mailto:contact@srds.com). We will process your request within a reasonable time after receipt, a period not to exceed thirty (30) days. However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided with your information in accordance with this Privacy Policy or your consent.
+To opt-out of any future promotional messages from us, you should send an unsubscribe request to us at [next@kantarmedia.com](mailto:next@kantarmedia.com.com). We will process your request within a reasonable time after receipt, a period not to exceed thirty (30) days. However, we are not responsible for removing your personally identifiable information from the lists of any third party who has previously been provided with your information in accordance with this Privacy Policy or your consent.
 
 ### Contact Us
 
 If you have any questions about this privacy policy, please contact us through the means listed below.
 
-  * _E-Mail:_ [contact@srds.com](mailto:contact@srds.com)
+  * _E-Mail:_ [next@kantarmedia.com](mailto:next@kantarmedia.com)
   * _Phone:_ 800.851.7737 
   * _Fax:_ 847.268.1180
   * _Write:_ SRDS, 5600 N. River Road, Rosemont, IL 60018
 
 
+
+### Find us!
+
+**Chicago Headquarters**  
+5600 N. River Road  
+Suite 900  
+Rosemont, IL 60018  
+800.851.7737
+
+**New York Office**  
+11 Madison Avenue  
+12th Floor  
+New York, NY 10010  
+212.991.6000 
+
+### Call Us 800.851.7737
+
+The SRDS Service Center is open Monday–Friday 8am to 5pm. (Central Time). We’ll respond as quickly as possible, usually within a few hours! You can email us any time at [next@kantarmedia.com](mailto:next@kantarmedia.com).
