@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fromthetrenchesworldreport.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217065607id_/http%3A//www.fromthetrenchesworldreport.com/authors-contact/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromthetrenchesworldreport.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619111523id_/http%3A//fromthetrenchesworldreport.com/authors-contact/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | From the Trenches World Report
+# Privacy Notice | From the Trenches World ReportFrom the Trenches World Report
 
 This privacy notice discloses the privacy practices for  _From the Trenches World_ _Report_. This privacy notice applies solely to information collected by this web site.
 
