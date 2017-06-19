@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nextflowers.co.uk privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202220012id_/http%3A//www.nextflowers.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextflowers.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619140102id_/http%3A//www.nextflowers.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Next – Flowers and Gift Cards delivered next day
 
-## Security
+## SECURITY
 
 Next Directory take on-line security very seriously and are a registered secure site under [Verisign Certificate Authority](http://www.verisign.co.uk/index.html).
 
@@ -113,4 +113,4 @@ As part of our efforts to make further improvements to the service we provide to
 
 If you have any questions relating to this policy or the use by Next of personal data please write to the Group Data Protection Manager at [Head Office](http://help.next.co.uk/Section.aspx?ItemId=10415 "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
-[](http://www.dma.org.uk/)
+[ ](http://www.dma.org.uk/)
