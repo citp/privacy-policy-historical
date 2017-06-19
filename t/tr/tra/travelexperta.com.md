@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218210443id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620015720id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
 
 # Reviews for Travel Products, Hotels, Restaurants and Tours
 
