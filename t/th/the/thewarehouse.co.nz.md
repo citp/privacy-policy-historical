@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121124041id_/http%3A//www.thewarehouse.co.nz/privacy-security/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewarehouse.co.nz privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619221445id_/http%3A//www.thewarehouse.co.nz/privacy-security/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -122,7 +122,7 @@ We may use the information we collect to help us to provide products and service
 
 We may send you marketing communications and information about products and services that we consider may be of interest to you. These communications may be sent in various forms, including but not limited to, mail, SMS or email, in accordance with applicable marketing laws.
 
-If at any stage you no longer wish to receive these notifications you may opt-out of receiving marketing communications from us by using the opt-out facilities provided (e.g. an unsubscribe link in a promotional email) or contacting us at [customerserviceteam@thewarehouse.co.nz](mailto:customerserviceteam@thewarehouse.co.nz) or 0800 422 274.
+If at any stage you no longer wish to receive these notifications you may opt-out of receiving marketing communications from us by using the opt-out facilities provided (e.g. an unsubscribe link in a promotional email) or contacting us via [_our online form_](https://www.thewarehouse.co.nz/customer-services/contact-us.html) or 0800 422 274.
 
 If you receive communications from us that you believe have been sent to you other than in accordance with this policy, or in breach of any law, please contact us.
 
@@ -181,7 +181,7 @@ Beyond the above, we release personal information only when it is permitted unde
 
 **11\. HOW CAN YOU ACCESS OR CORRECT YOUR PERSONAL INFORMATION?**
 
-You may request access to any personal information we hold about you at any time by contacting us at [customerserviceteam@thewarehouse.co.nz](mailto:customerserviceteam@thewarehouse.co.nz) or 0800 422 274.
+You may request access to any personal information we hold about you at any time by contacting us via [_our online form_](https://www.thewarehouse.co.nz/customer-services/contact-us.html) or 0800 422 274.
 
 Your request will be processed in accordance with the Privacy Act 1993.
 
@@ -211,4 +211,4 @@ We will take all reasonable steps to protect the personal information that we ho
 
 **15\. HAVE THERE BEEN ANY RECENT CHANGES TO THE PRIVACY POLICY?**
 
-We may change this privacy policy from time to time. Updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in June 2016. For additional information about your relationship with The Warehouse, please review our [Terms and Conditions.](http://www.thewarehouse.co.nz/privacy-security/terms-conditions.html)
+We may change this privacy policy from time to time. Updated versions of this privacy policy will be posted on our website. This privacy policy was last updated in June 2016. For additional information about your relationship with The Warehouse, please review our [Terms and Conditions.](https://www.thewarehouse.co.nz/privacy-security/terms-conditions.html)
