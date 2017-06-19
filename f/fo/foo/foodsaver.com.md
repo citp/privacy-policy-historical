@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225065555id_/http%3A//www.foodsaver.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodsaver.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619061705id_/http%3A//www.foodsaver.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy at FoodSaver.com.
 
