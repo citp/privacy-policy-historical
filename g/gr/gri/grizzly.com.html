@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grizzly.com privacy policy that was archived on 2016-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122033514id_/http%3A//www.grizzly.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grizzly.com privacy policy that was archived on 2017-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170619050823id_/http%3A//www.grizzly.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -15,36 +15,47 @@
     
     <link href="/content/themes/grizzly2/yamm.css" rel="stylesheet" type="text/css">
     
+   <link href="https://fonts.googleapis.com/css?family=Montserrat:500" rel="stylesheet">
     <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MM6KBV"></script><script type="text/javascript" src="//script.i-parcel.com/JavaScript?h=JlSmkemC"></script>
    
     
 <link rel="stylesheet" type="text/css" href="//script.i-parcel.com/CSS?h=JlSmkemC">
 
-    <link href="/content/themes/grizzly2/site.css?v=636153628164360978" rel="stylesheet" type="text/css">
-    <link rel="Stylesheet" type="text/css" href="http://cdn1.grizzly.com/styles/griz-jquery-ui.20140723.gz.css">
-    <link href="/content/themes/grizzly2/categorymenu.css?v=636153628164360978" rel="stylesheet">
+    <link href="/content/themes/grizzly2/site.css?v=1.0.6376.16086" rel="stylesheet" type="text/css">
+    <link rel="Stylesheet" type="text/css" href="http://cdn1.grizzly.com/styles/griz-jquery-ui.20140723.css">
+    <link href="/content/themes/grizzly2/categorymenu.css?v=1.0.6376.16086" rel="stylesheet">
     <script>
-        //CATCH-ALL JS ERROR HANDLER
+        "use strict";
+        window.jsErrorCache = [];
+        ////CATCH-ALL JS ERROR HANDLER
         window.onerror = function (errorMsg, url, lineNumber, column, errorObj) {
-            reportJavascriptError(navigator.userAgent, errorMsg, url, lineNumber, column, errorObj);
-        }
-        function reportJavascriptError(userAgent, errorMsg, url, lineNumber, column, errorObj) {
-            //Using XHR request so we don't yet have to load jQuery
-            var xhr = new XMLHttpRequest();
-            xhr.open('GET', '/service/ReportJavascriptError?userAgent=' + encodeURIComponent(userAgent) + '&msg=' + encodeURIComponent(errorMsg) + '&url=' + encodeURIComponent(url) + '&lineNumber=' + lineNumber + '&columnNumber=' + column + '&errorObj=' + encodeURIComponent(errorObj));
-            xhr.send(null);
-            xhr.onreadystatechange = function () {
-                var DONE = 4;
-                var OK = 200;
-                if (xhr.readyState === DONE) {
-                    if (xhr.status === OK) {
-                        console.log('Error Reported Successfully:' + xhr.responseText);
-                    } else {
-                        console.log('Error: ' + xhr.status);
-                    }
-                }
-            };
-        }
+            window.jsErrorCache.push({
+                errorMsg: errorMsg,
+                url: url,
+                lineNumber: lineNumber,
+                column: column,
+                errorObj: errorObj
+            });
+
+            //reportJavascriptError(navigator.userAgent, errorMsg, url, lineNumber, column, errorObj);
+        } 
+        //function reportJavascriptError(userAgent, errorMsg, url, lineNumber, column, errorObj) {
+        //    //Using XHR request so we don't yet have to load jQuery
+        //    var xhr = new XMLHttpRequest();
+        //    xhr.open('GET', '/service/ReportJavascriptError?userAgent=' + encodeURIComponent(userAgent) + '&msg=' + encodeURIComponent(errorMsg) + '&url=' + encodeURIComponent(url) + '&lineNumber=' + lineNumber + '&columnNumber=' + column + '&errorObj=' + encodeURIComponent(errorObj));
+        //    xhr.send(null);
+        //    xhr.onreadystatechange = function () {
+        //        var DONE = 4;
+        //        var OK = 200;
+        //        if (xhr.readyState === DONE) {
+        //            if (xhr.status === OK) {
+        //                console.log('Error Reported Successfully:' + xhr.responseText);
+        //            } else {
+        //                console.log('Error: ' + xhr.status);
+        //            }
+        //        }
+        //    };
+        //}
 
          
     </script>
@@ -390,6 +401,197 @@ overflow-y: visible;
         z-index: 99999;
         color: #fff;
     }
+
+@-webkit-keyframes clockfall {
+  0%   { -webkit-transform: translateY(0) scale(1.05); }
+  100% { -webkit-transform: translateY(0) scale(1); }
+}
+@-moz-keyframes clockfall {
+  0%   { -moz-transform: translateY(0) scale(1.05); }
+  100% { -moz-transform: translateY(0) scale(1); }
+}
+ 
+@keyframes clockfall {
+  0%   { transform: translateY(0) scale(1.05); }
+  100% { transform: translateY(0) scale(1); }
+}
+
+
+       
+        div.countdown {
+           -webkit-animation: clockfall 1250ms 1 forwards ease-in-out; /* Safari 4+ */
+  -moz-animation:    clockfall 1250ms 1 forwards ease-in-out; /* Fx 5+ */
+  
+  animation:         clockfall 1250ms 1 forwards ease-in-out; /* IE 10+, Fx 29+ */
+
+    height: 80px;
+    z-index: 111111111111111111111;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#860900+1,b00c00+19,d60e00+37,d60e00+63,b00c00+83,860900+100 */
+background: #860900; /* Old browsers */
+background: -moz-linear-gradient(left,  #860900 1%, #b00c00 19%, #d60e00 37%, #d60e00 63%, #b00c00 83%, #860900 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #860900 1%,#b00c00 19%,#d60e00 37%,#d60e00 63%,#b00c00 83%,#860900 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #860900 1%,#b00c00 19%,#d60e00 37%,#d60e00 63%,#b00c00 83%,#860900 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#860900', endColorstr='#860900',GradientType=1 ); /* IE6-9 */
+overflow:hidden;
+  
+}
+        .countdown-logo{
+            font-family: 'serpentinebold';   
+            height:80px;
+             width:400px;
+            padding:13px 20px;
+            font-size:32px;
+            color:gold;
+            text-transform:uppercase;
+            letter-spacing:2px;
+            float:left;
+            line-height:28px;
+            white-space:nowrap;
+            text-align:center;
+           
+        }
+        .countdown-date{
+
+            color:#fff;
+            display:block;
+            font-size: 23px;
+            letter-spacing:7px;
+            margin-left:6px;
+            margin-top:2px;
+            display:block;
+            border-top:1px solid rgba(255,255,255,0.4);
+        }
+        .countdown-link{
+            font-size: 18px;
+    width: 400px;
+    text-align: right;
+    float: right;
+    height: 80px;
+    line-height: 85px;
+    padding: 0 40px;
+    color: #fff;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none !important;
+    color: #fff;
+        }
+        .countdown-link:hover{
+            color:gold;
+          
+        }
+        .countdown-clock{
+               
+    height: 80px;
+    line-height: 80px;
+    color: #fff;
+    font-size: 32px; 
+    letter-spacing: 2px;
+    text-align:center;
+    text-transform:capitalize;
+    white-space:nowrap;
+    margin-top: -4px;
+    text-shadow: 0 1px 4px #3f0d0a;
+        }
+        .countdown-clock strong {
+             font-family: 'serpentinebold';   
+    display: inline-block;
+    font-weight:normal;
+    font-size:19px;
+    text-align:right;
+ 
+    padding: 0 15px;
+ letter-spacing: 3px;
+       margin: -6px -4.5px 0 !important;
+}
+        .countdown-clock strong:nth-child(1){
+            width: 136px;
+        }
+        .countdown-clock strong:nth-child(2){
+            width: 147px;
+        }
+        .countdown-clock strong:nth-child(3){
+            width: 183px;
+           
+        }
+        .countdown-clock strong:nth-child(4){
+            width: 196px;
+             
+        }
+
+        @media (max-width: 1460px){
+            .countdown-logo{
+                font-size:24px;
+                width: auto;
+            }
+            .countdown-link{
+                width: auto;
+            }
+            .countdown-date{
+                font-size:16px;
+            }
+            .countdown-clock strong{
+                font-size: 16px;
+            }
+            .countdown-clock strong:nth-child(1) {
+                width: 131px;
+            }
+            .countdown-clock strong:nth-child(2) {
+                width: 138px;
+            }
+            .countdown-clock strong:nth-child(3){
+                 width: 171px;
+            }
+            .countdown-clock strong:nth-child(4){
+                width: 167px;
+            }
+        }
+        @media (max-width: 1170px){
+            .countdown-logo{
+                font-size:20px;
+                width: auto;
+            }
+            .countdown-logo img{
+                width: 45px;
+                height: auto;
+            }
+            .countdown-link{
+                width: auto;
+                font-size: 15px;
+            }
+            .countdown-date{ 
+                letter-spacing: 4px;
+                margin-left: 0;
+            }
+            .countdown-clock strong{
+                font-size: 14px;
+            }
+            .countdown-clock strong:nth-child(1) {
+                width: 118px;
+            }
+            .countdown-clock strong:nth-child(2) {
+                width: 129px;
+            }
+            .countdown-clock strong:nth-child(3){
+                 width: 157px;
+            }
+            .countdown-clock strong:nth-child(4){
+                width: 153px;
+            }
+        }
+        @media (max-width: 1055px) {
+            .countdown-clock strong{
+                letter-spacing:0;
+                text-align:center;
+                width: auto !important;
+            }
+        }
+         @media (max-width: 991px) {
+            .countdown {
+              display:none;
+            }
+        }
     </style>
 
     
@@ -404,8 +606,8 @@ overflow-y: visible;
     
     
 </head>
-<body>
-
+<body lang="en-US" text="#000000" dir="LTR">
+   
     
     <!-- Google Tag Manager -->
     <noscript>
@@ -484,6 +686,7 @@ overflow-y: visible;
                 <div id="top-links" class="hidden-xs clearfix text-right">
 
                     <div class="main-submenu">
+                        <div style="display: inline-block" id="grizzly-tracking"><a href="/orderinquiry">Tracking</a> </div>
                         <div style="display: inline-block"><a href="/customerservice" id="support-link">Support</a> </div>
                         <a href="#" id="lang-change" data-changeto="es">Español</a>
                         <div style="display: inline-block" class="dropdown">
@@ -493,6 +696,7 @@ overflow-y: visible;
                                 <li><a href="/account"><i class="fa fa-key"></i> My Account</a></li>
                                 <li><a href="/wishlist"><i class="fa fa-gift"></i> Wish List</a></li>
                                 <li><a href="/multiitem"><i class="fa fa-th-list"></i> Quick Order</a></li>
+                                <li><a href="/orderinquiry"><i class="fa fa-truck"></i> Orders &amp; Returns</a></li>
                             </ul>
                         </div>
 
@@ -528,8 +732,7 @@ overflow-y: visible;
         <div id="main-nav" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li class="hidden-sm hidden-md hidden-lg"><a class="mobile-top-menu-item foobar" href="/"><i class="fa fa-home"></i>Home</a></li>
-                <li id="account-dropdown" class="dropdown hidden-sm hidden-md hidden-lg">
-                 
+                <li id="account-dropdown" class="dropdown hidden-sm hidden-md hidden-lg">                 
                     <a class="mobile-top-menu-item foobar mobile-account-menu-expand" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user"></i>Account <span class="caret hidden-xs"></span><span class="mobile-toggle-icon fa fa-plus-circle pull-right visible-xs-inline"></span></a>
                     <ul class="dropdown-menu mobile-submenu main-submenu" role="menu" aria-labelledby="dLabel">
                         <li class="hidden-sm hidden-md hidden-lg"><a class="mobile-top-menu-item foobar foobar-2" href="/auth/sign-in">&nbsp;<i class="fa fa-sign-in"></i> Sign In</a></li>
@@ -547,16 +750,16 @@ overflow-y: visible;
                             <ul>
                                 
                                  
-                                    <li class="category-item" data-target="sub-menu-0" role="presentation"><a href="/Christmas-Sale" role="menuitem">Christmas Sale</a></li>
+                                    <li class="category-item" data-target="sub-menu-0" role="presentation"><a href="/Father's-Day-Specials" role="menuitem">Father's Day Specials</a></li>
                                 
                                  
-                                    <li class="category-item" data-target="sub-menu-1" role="presentation"><a href="/Black-Friday" role="menuitem">Black Friday Sale</a></li>
+                                    <li class="category-item" data-target="sub-menu-1" role="presentation"><a href="/Spring-Summer-Sale" role="menuitem">Spring/Summer Sale</a></li>
                                 
                                  
                                     <li class="category-item" data-target="sub-menu-2" role="presentation"><a href="/President's-Specials" role="menuitem">President's Specials</a></li>
                                 
                                  
-                                    <li class="category-item" data-target="sub-menu-3" role="presentation"><a href="/New-Items-For-2016" role="menuitem">New Items for 2016</a></li>
+                                    <li class="category-item" data-target="sub-menu-3" role="presentation"><a href="/New-Items-For-2017" role="menuitem">New Items for 2017</a></li>
                                 
                                  
                                     <li class="category-item" data-target="sub-menu-4" role="presentation"><a href="/best-sellers" role="menuitem">Best Sellers</a></li>
@@ -868,11 +1071,7 @@ overflow-y: visible;
                                     
                                         <li><a href="/restraint-devices">Restraint Devices</a></li>
                                     
-                                        <li><a href="/rests-and-bags">Rests &amp; Bags</a></li>
-                                    
                                         <li><a href="/rifle-barrels">Rifle Barrels</a></li>
-                                    
-                                        <li><a href="/rifle-cases-and-range-bags">Rifle Cases &amp; Range Bags</a></li>
                                     
                                         <li><a href="/shooting-glasses">Shooting Glasses</a></li>
                                     
@@ -1069,6 +1268,8 @@ overflow-y: visible;
                                     
                                         <li><a href="/batteries-and-chargers">Batteries &amp; Chargers</a></li>
                                     
+                                        <li><a href="/circular-saws">Circular Saws</a></li>
+                                    
                                         <li><a href="/cordless-tools">Cordless Tools</a></li>
                                     
                                         <li><a href="/cut-off-saws">Cut Off Saws</a></li>
@@ -1083,7 +1284,7 @@ overflow-y: visible;
                                     
                                         <li><a href="/kreg-jig">Kreg Jig</a></li>
                                     
-                                        <li><a href="/multi-tools-accessories">Multi-Tools Accessories</a></li>
+                                        <li><a href="/multitools-accessories">Multi-Tools Accessories</a></li>
                                     
                                         <li><a href="/oscillating-multi-tools">Oscillating Multi-Tools</a></li>
                                     
@@ -1196,17 +1397,17 @@ overflow-y: visible;
                             </li>
                         
                             <li role="presentation" class="visible-xs-block">
-                                <a class="mobile-submenu-expand foobar foobar-2 clearfix" data-target="mobile-submenu-0" role="menuitem">&nbsp;&nbsp;Christmas Sale<span class="mobile-toggle-icon fa fa-plus-circle pull-right"></span></a>
+                                <a class="mobile-submenu-expand foobar foobar-2 clearfix" data-target="mobile-submenu-0" role="menuitem">&nbsp;&nbsp;Father's Day Specials<span class="mobile-toggle-icon fa fa-plus-circle pull-right"></span></a>
                                 <ul id="mobile-submenu-0" class="mobile-submenu" role="menu" style="display: none;">
-                                    <a class="foobar foobar-3 clearfix" role="menuitem" href="/Christmas-Sale">&nbsp;&nbsp;&nbsp;&nbsp;All Christmas Sale</a>
+                                    <a class="foobar foobar-3 clearfix" role="menuitem" href="/Father's-Day-Specials">&nbsp;&nbsp;&nbsp;&nbsp;All Father's Day Specials</a>
                                     
                             </ul>
                         </li>
                         
                             <li role="presentation" class="visible-xs-block">
-                                <a class="mobile-submenu-expand foobar foobar-2 clearfix" data-target="mobile-submenu-1" role="menuitem">&nbsp;&nbsp;Black Friday Sale<span class="mobile-toggle-icon fa fa-plus-circle pull-right"></span></a>
+                                <a class="mobile-submenu-expand foobar foobar-2 clearfix" data-target="mobile-submenu-1" role="menuitem">&nbsp;&nbsp;Spring/Summer Sale<span class="mobile-toggle-icon fa fa-plus-circle pull-right"></span></a>
                                 <ul id="mobile-submenu-1" class="mobile-submenu" role="menu" style="display: none;">
-                                    <a class="foobar foobar-3 clearfix" role="menuitem" href="/Black-Friday">&nbsp;&nbsp;&nbsp;&nbsp;All Black Friday Sale</a>
+                                    <a class="foobar foobar-3 clearfix" role="menuitem" href="/Spring-Summer-Sale">&nbsp;&nbsp;&nbsp;&nbsp;All Spring/Summer Sale</a>
                                     
                             </ul>
                         </li>
@@ -1220,9 +1421,9 @@ overflow-y: visible;
                         </li>
                         
                             <li role="presentation" class="visible-xs-block">
-                                <a class="mobile-submenu-expand foobar foobar-2 clearfix" data-target="mobile-submenu-3" role="menuitem">&nbsp;&nbsp;New Items for 2016<span class="mobile-toggle-icon fa fa-plus-circle pull-right"></span></a>
+                                <a class="mobile-submenu-expand foobar foobar-2 clearfix" data-target="mobile-submenu-3" role="menuitem">&nbsp;&nbsp;New Items for 2017<span class="mobile-toggle-icon fa fa-plus-circle pull-right"></span></a>
                                 <ul id="mobile-submenu-3" class="mobile-submenu" role="menu" style="display: none;">
-                                    <a class="foobar foobar-3 clearfix" role="menuitem" href="/New-Items-For-2016">&nbsp;&nbsp;&nbsp;&nbsp;All New Items for 2016</a>
+                                    <a class="foobar foobar-3 clearfix" role="menuitem" href="/New-Items-For-2017">&nbsp;&nbsp;&nbsp;&nbsp;All New Items for 2017</a>
                                     
                             </ul>
                         </li>
@@ -1460,11 +1661,7 @@ overflow-y: visible;
                                     
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/restraint-devices">&nbsp;&nbsp;&nbsp;&nbsp;Restraint Devices</a></li>
                                     
-                                        <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/rests-and-bags">&nbsp;&nbsp;&nbsp;&nbsp;Rests &amp; Bags</a></li>
-                                    
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/rifle-barrels">&nbsp;&nbsp;&nbsp;&nbsp;Rifle Barrels</a></li>
-                                    
-                                        <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/rifle-cases-and-range-bags">&nbsp;&nbsp;&nbsp;&nbsp;Rifle Cases &amp; Range Bags</a></li>
                                     
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/shooting-glasses">&nbsp;&nbsp;&nbsp;&nbsp;Shooting Glasses</a></li>
                                     
@@ -1668,6 +1865,8 @@ overflow-y: visible;
                                     
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/batteries-and-chargers">&nbsp;&nbsp;&nbsp;&nbsp;Batteries &amp; Chargers</a></li>
                                     
+                                        <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/circular-saws">&nbsp;&nbsp;&nbsp;&nbsp;Circular Saws</a></li>
+                                    
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/cordless-tools">&nbsp;&nbsp;&nbsp;&nbsp;Cordless Tools</a></li>
                                     
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/cut-off-saws">&nbsp;&nbsp;&nbsp;&nbsp;Cut Off Saws</a></li>
@@ -1682,7 +1881,7 @@ overflow-y: visible;
                                     
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/kreg-jig">&nbsp;&nbsp;&nbsp;&nbsp;Kreg Jig</a></li>
                                     
-                                        <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/multi-tools-accessories">&nbsp;&nbsp;&nbsp;&nbsp;Multi-Tools Accessories</a></li>
+                                        <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/multitools-accessories">&nbsp;&nbsp;&nbsp;&nbsp;Multi-Tools Accessories</a></li>
                                     
                                         <li role="presentation" class="visible-xs-block"><a class="foobar foobar-3 clearfix" role="menuitem" href="/oscillating-multi-tools">&nbsp;&nbsp;&nbsp;&nbsp;Oscillating Multi-Tools</a></li>
                                     
@@ -1930,43 +2129,320 @@ overflow-y: visible;
         
 <div align="left" id="bread"><ul><li class="first"><a href="/">Home</a> </li><li><span class="separator">»</span> <a href="http://www.grizzly.com/privacy">Privacy</a></li></ul></div>
     <div id="categorytitle">PRIVACY POLICY STATEMENT</div>
-    <table width="95%">
-    <tbody><tr>
-        <td align="left">
-            <p align="center"><b><u>Privacy Statement of Grizzly Industrial®, Inc.</u></b></p>
-            <p><b>Information about our Organization and Web site</b><br>Modem information and communication technologies play a fundamental role in the activities of an organization like Grizzly Industrial®, Inc. We are based in the United States of America.</p>
-            <p>Our principal activity is: The sale of Woodworking and Metalworking Machinery and accessories.</p>
-            <p>Our privacy policy covers Grizzly Industrial®, Inc. and its Web site:</p>
-            <blockquote>
-                <b>Organization Name: Grizzly Industrial®, Inc.<br>
-                Address: P.O. Box 2069<br>
-                City, Zip: Bellingham, 98227<br>
-                State: WA<br>
-                Country: USA<br>
-                Web Site(s): grizzly.com</b>
-            </blockquote>
-            <p><b>Providing Visitors with Anonymous Access</b><br>You can access our Web site home page and browse our site without disclosing your personal data.</p>
-            <p><b>The services and links of our Web site</b><br>Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others. Our Web site does not include links to third party Web service providers.</p>
-            <p><b>Automatic Collection of Information</b><br>We use cookies to improve the quality of service we provide and to make your shopping experience with us more enjoyable.</p>
-            <p><b>Children's Privacy<br></b>We do not knowingly collect personal data from children. We take reasonable precautions to ensure that we do not collect data from children.</p>
-            <p><b>Disclosure and Visitor Choice<br></b>We do not disclose your personal data to other organizations.</p>
-            <p><b>Confidentiality / Security<br></b>We give you the option of using a secure transmission method to send us the following types of personal data:</p>
-            <ul>
-                <li>Primary personal data (such as name and contact details)</li>
-                <li>Identifiers (such as credit card details, Web site password)</li>
-            </ul>
-            <p>We have implemented security policies, firewalls, rules and technical measures to protect the personal data that we have under our control from:</p>
-            <ul>
-                <li>Unauthorized access</li>
-                <li>Improper use or disclosure</li>
-                <li>Unauthorized modification</li>
-                <li>Unlawful destruction or accidental loss</li>
-            </ul>
-            <p>All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.<br>We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.</p>
-            <p><b>Privacy Compliance<br></b>We comply with all privacy regulations applicable to our Website.</p>
-        </td>
-    </tr>
-</tbody></table>
+    
+<!-- saved from url=(0095)http://dw.convertfiles.com/files/0531465001487954398/privacy%20notice_grizzlyindustrialinc.html -->
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+    <title></title>
+    <meta name="GENERATOR" content="OpenOffice 4.1.1  (FreeBSD/amd64)">
+    <meta name="CREATED" content="20170224;8400800">
+    <meta name="CHANGED" content="0;0">
+    <meta name="AppVersion" content="15.0000">
+    <meta name="DocSecurity" content="0">
+    <meta name="HyperlinksChanged" content="false">
+    <meta name="LinksUpToDate" content="false">
+    <meta name="ScaleCrop" content="false">
+    <meta name="ShareDoc" content="false">
+    <style type="text/css"><!--
+    @page { margin: 1in }
+    P { margin-bottom: 0.08in; direction: ltr; color: #000000; widows: 2; orphans: 2 }
+    H2 { margin-top: 0.25in; margin-bottom: 0.08in; direction: ltr; color: #000000; page-break-inside: avoid; widows: 2; orphans: 2 }
+    H2.western { font-family: "Arial", serif; font-size: 16pt; font-weight: normal }
+    H2.cjk { font-family: "Arial"; font-size: 16pt; font-weight: normal }
+    H2.ctl { font-family: "Arial"; font-size: 16pt; font-weight: normal }
+    A:link { so-language: zxx }
+    --></style>
+
+
+    <p style="margin-bottom: 0in"><font size="5"><b>Grizzly Industrial Inc.
+    Privacy Notice</b></font></p>
+    <p style="margin-bottom: 0in"><br>
+    </p>
+    <p style="margin-bottom: 0in">Last updated October 17th, 2016.</p>
+    <p style="margin-bottom: 0in"><br>
+    </p>
+    <p style="margin-bottom: 0in">This notice describes our privacy
+        policy. By visiting Grizzly.com, you are accepting the practices
+    described in this Privacy Notice.</p>
+    <p style="margin-bottom: 0in"><br>
+    </p>
+    <p style="margin-bottom: 0in"><font size="4"><b>What Personal
+    Information About Customers Does Grizzly.com Gather?</b></font></p>
+    <p style="margin-bottom: 0in"><br>
+    </p>
+    <ul>
+        <li><p style="margin-bottom: 0in"><b>Information You Give Us</b>:
+            We receive and store any information you enter on our Web site or
+            give us in any other way. You can choose not to provide certain
+            information, but then you might not be able to take advantage of
+            many of our features. We use the information that you provide for
+            such purposes as responding to your requests, customizing future
+        shopping for you, improving our stores, and communicating with you.</p>
+    </li><li><p style="margin-bottom: 0in"><b>Automatic Information</b>: We
+    receive and store certain types of information whenever you interact
+    with us. For example, like many Web sites, we use “cookies,”
+    and we obtain certain types of information when your Web browser
+accesses Grizzly.com</p>
+</li><li><p style="margin-bottom: 0in"><b>E-mail Communication</b>: To
+help us make e-mails more useful and interesting, we often receive a
+confirmation when you open e-mail from Grizzly.com if your computer
+supports such capabilities. If you do not want to receive e-mail or
+other mail from us, please <a href="/unsubscribe"><font color="#1155cc"><u>unsubscribe
+from our list</u></font></a>.</p>
+</li></ul>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><font size="4"><b>What About Cookies?</b></font></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<ul>
+<li><p style="margin-bottom: 0in">Cookies are unique identifiers
+that we transfer to your device to enable our systems to recognize
+your device and to provide features such as the storage of items in
+your shopping cart between visits.</p>
+</li><li><p style="margin-bottom: 0in">The Help features on most browsers
+will tell you how to prevent your browser from accepting cookies,
+how to have the browser notify you when you receive a new cookie, or
+how to disable cookies altogether. Additionally, you can disable or
+delete similar data used by browser add-ons, such as Flash cookies,
+by changing the add-on’s settings or visiting the Website of
+its manufacturer. Because cookies allow you to take advantage of
+some of Grizzly.com’s essential features, we recommend that
+you leave them turned on. For instance, if you block or otherwise
+reject our cookies, you will not be able to add items to your
+Shopping Cart, proceed to Checkout, or use any Grizzly.com products
+and services that require you to Sign In.</p>
+</li></ul>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><font size="4"><b>Does Grizzly.com Share
+the Information It Receives?</b></font></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Information about our customers is an
+important part of our business and we are not in the business of
+selling it to others. We share customer information only as
+described below and with subsidiaries Grizzly.com controls that are
+either subject to this Privacy Notice or follow practices at least as
+protective as those described in this Privacy Notice.</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<ul>
+<li><p style="margin-bottom: 0in"><b>Third-Party Service Providers</b>:
+We employ other companies and individuals to perform functions on
+our behalf. Examples include delivering packages, providing
+marketing assistance, processing credit card payments, and providing
+customer service. They have access to personal information needed
+to perform their functions, but may not use it for other purposes.</p>
+</li><li><p style="margin-bottom: 0in"><b>Business Transfers</b>: As we
+continue to develop our business, we might sell or buy stores,
+subsidiaries, or business units. In such transactions, customer
+information generally is one of the transferred business assets but
+remains subject to the promises made in any pre-existing Privacy
+Notice (unless, of course, the customer consents otherwise). Also,
+in the unlikely event that Grizzly.com or substantially all of its
+assets are acquired, customer information will of course be one of
+the transferred assets.</p>
+</li><li><p style="margin-bottom: 0in"><b>Protection of Grizzly.com and
+Others</b>: We release account and other personal information when
+we believe release is appropriate to comply with the law; enforce or
+apply our <a href="/conditions-of-use"><font color="#1155cc"><u>Conditions
+of Use</u></font></a> and other agreements; or protect the rights,
+property, or safety of Grizzly.com, our users, or others. This
+includes exchanging information with other companies for fraud
+protection and credit risk reduction. Obviously, however, this does
+not include selling, renting, sharing, or otherwise disclosing
+personally identifiable information from customers for commercial
+purposes in violation of the commitments set forth in this Privacy
+Notice.</p>
+</li></ul>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><font size="4"><b>How Secure Is
+Information About Me?</b></font></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<ul>
+<li><p style="margin-bottom: 0in">We work to protect the security of
+your information during transmission by using Secure Sockets Layer
+(SSL) software, which encrypts information you input.</p>
+</li><li><p style="margin-bottom: 0in">We reveal only the last four
+digits of your credit card numbers when confirming and order. Of
+course, we transmit the entire credit card number to the appropriate
+credit card company during order processing.</p>
+</li><li><p style="margin-bottom: 0in">It is important for you to protect
+against unauthorized access to your password and to your computer.
+Be sure to sign off when finished using a shared computer.</p>
+</li></ul>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><font size="4"><b>Which Information Can I
+Access?</b></font></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Grizzly.com gives you access to a broad
+range of information about your account and your interactions with
+Grizzly.com for the limited purpose of viewing and, in certain cases,
+updating that information.
+</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><b>What Choices Do I Have?</b></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<ul>
+<li><p style="margin-bottom: 0in">As discussed above, you can always
+choose not to provide information, even though it might be needed to
+make a purchase or to take advantage of such Grizzly.com features as
+Your Profile, Wish List, or Customer Reviews.</p>
+</li><li><p style="margin-bottom: 0in">You can add or update certain
+information on pages such as those referenced in the Which
+Information Can I Access? Section. When you update information, we
+usually keep a copy of the prior version for our records.</p>
+</li> </ul>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><font size="4"><b>Are Children Allowed to
+Use Grizzly.com?</b></font></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Grizzly.com does not sell products for
+purchase by children. We sell some children’s products for
+purchase by adults. If you are under 13, you may not have an account
+or purchase products from us.</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in">Conditions of Use, Notices, and
+Revisions</p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<p style="margin-bottom: 0in"><font color="#111111"><span style="background: #ffffff">If
+you choose to visit Grizzly.com, your visit and any dispute over
+privacy is subject to this Notice and our </span></font><a href="/conditions-of-use"><font color="#1155cc"><u><span style="background: #ffffff">Conditions
+of Use</span></u></font></a><font color="#111111"><span style="background: #ffffff">,
+including limitations on damages, resolution of disputes, and
+application of the law of the state of Washington. If you have any
+concern about privacy at Grizzly.com, please contact us with a
+thorough description, and we will try to resolve it. Our business
+changes constantly, and our Privacy Notice and the </span></font><a href="/conditions-of-use"><font color="#1155cc"><u><span style="background: #ffffff">Conditions
+of Use</span></u></font></a><font color="#111111"><span style="background: #ffffff">
+will change also. We may e-mail periodic reminders of our notices and
+conditions, but you should check our Web site frequently to see
+recent changes. Unless stated otherwise, our current Privacy Notice
+applies to all information that we have about you and your account.
+We stand behind the promises we make, however, and will never
+materially change our policies and practices to make them less
+protective of customer information collected in the past without the
+consent of affected customers.</span></font></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+<h2 class="western" style="margin-top: 0in; margin-bottom: 0in; line-height: 130%; page-break-inside: auto; page-break-after: auto"><a name="_rjeh3lh1nh79"></a>
+<font color="#111111"><b><span style="background: #ffffff">Examples
+of Information Collected</span></b></font></h2>
+<p style="margin-bottom: 0.15in"><font color="#111111"><font size="2"><b><span style="background: #ffffff">Information
+You Give Us</span></b></font></font></p>
+<p style="margin-top: 0.02in; margin-bottom: 0.15in"><a name="_GoBack"></a>
+<font color="#111111"><span style="background: #ffffff">You provide
+most such information when you search, buy, post, participate in a
+contest or questionnaire, or communicate with customer service. For
+example, you provide information when you search for a product; or
+place an order through Grizzly.com; provide information in </span></font><a href="/account"><font color="#1155cc"><u><span style="background: #ffffff">Your
+Account</span></u></font></a><font color="#111111"><span style="background: #ffffff">
+(and you might have more than one if you have used more than one
+e-mail address when shopping with us) ; communicate with us by phone,
+e-mail, or otherwise; complete a questionnaire or a contest entry
+form; <a href="/wishlists">compile </a></span></font><a href="/wishlists"><font color="#00000a"><span style="background: #ffffff">Wish
+Lists</span></font></a>;
+
+
+ <a data-toggle="modal" data-target="#reviews-modal" href="#">provide and rate Reviews </a>
+</p><div class="modal fade" tabindex="-1" role="dialog" id="reviews-modal">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title">Grizzly wants to hear from you!</h4>
+      </div>
+      <div class="modal-body">
+        <p>We love receiving feedback
+        from our customers and value your input.  In order to review
+        an item, just sign into your account then search for the item
+        you wish to review by using the model number in the search box
+        above. Click on the “Write a review” link and then hit “Submit”
+        when you finish.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+
+
+
+
+<font color="#111111"><span style="background: #ffffff">;
+and employ </span></font><font color="#00000a"><span style="background: #ffffff">Product
+Availability Alerts,</span></font><font color="#111111"><span style="background: #ffffff">
+such as Available to Order Notifications. As a result of those
+actions, you might supply us with such information as your name,
+address, and phone numbers; credit card information; people to whom
+purchases have been shipped, including addresses and phone number;
+e-mail addresses of your friends and other people; content of reviews
+and e-mails to us; and financial information.</span></font><p></p>
+<p style="margin-top: 0.02in; margin-bottom: 0.15in"><font color="#111111"><font size="2"><b><span style="background: #ffffff">Automatic
+Information</span></b></font></font></p>
+<p style="margin-top: 0.02in; margin-bottom: 0.15in"><font color="#111111"><span style="background: #ffffff">Examples
+of the information we collect and analyze include the Internet
+protocol (IP) address used to connect your computer to the Internet;
+login; e-mail address; password; computer and connection information
+such as browser type, version, and time zone setting, browser plug-in
+types and versions, operating system, and platform; purchase history,
+which we sometimes aggregate with similar information from other
+customers; the full Uniform Resource Locator (URL) clickstream to,
+through, and from our Web site, including date and time; cookie
+number; products you viewed or searched for; and the phone number you
+used to call our 800 number. We may also use browser data such as
+cookies, Flash cookies (also known as Flash Local Shared Objects), or
+similar data on certain parts of our Web site for fraud prevention
+and other purposes. During some visits we may use software tools such
+as JavaScript to measure and collect session information, including
+page response times, download errors, length of visits to certain
+pages, page interaction information (such as scrolling, clicks, and
+mouse-overs), and methods used to browse away from the page. We may
+also collect technical information to help us identify your device
+for fraud prevention and diagnostic purposes.</span></font></p>
+<p style="margin-top: 0.02in; margin-bottom: 0.15in"><font color="#111111"><font size="2"><b><span style="background: #ffffff">Information
+from Other Sources</span></b></font></font></p>
+<p style="margin-top: 0.02in; margin-bottom: 0.15in"><font color="#111111"><span style="background: #ffffff">Examples
+of information we receive from other sources include updated delivery
+and address information from our carriers or other third parties,
+which we use to correct our records and deliver your next purchase or
+communication more easily; account information, purchase or
+redemption information, and page-view information from some merchants
+with which we operate co-branded businesses or for which we provide
+technical, fulfillment, advertising, or other services; search term
+and search result information from some searches conducted through
+the Web search features offered by our subsidiary, search results and
+links, including paid listings (such as Sponsored Links); and credit
+history information from credit bureaus, which we use to help prevent
+and detect fraud and to offer certain credit or financial services to
+some customers.</span></font></p>
+<p style="margin-top: 0.02in; margin-bottom: 0.15in"><font color="#111111"><font size="2"><b><span style="background: #ffffff">Information
+You Can Access</span></b></font></font></p>
+<p style="margin-top: 0.02in; margin-bottom: 0.15in"><font color="#111111"><span style="background: #ffffff">Examples
+of information you can access easily at Grizzly.com include
+up-to-date information regarding recent orders; personally
+identifiable information (including name, e-mail, password,
+communications and personalized advertising preferences, address
+book); payment settings (including credit card information); e-mail
+notification settings (including Product Availability Alerts);
+shopping lists and gift registries (including Wish List); Seller
+accounts; and Your Profile (including your product Reviews, and Wish
+List).</span></font></p>
+<p style="margin-bottom: 0in"><br>
+</p>
+
 
     </div>
     <div id="footer" class="container">
@@ -1993,7 +2469,7 @@ overflow-y: visible;
             <div class="col-sm-6">
                 <div class="row">
                     <div class="col-sm-12">
-                        <div id="perveyortop">1983-2016</div>
+                        <div id="perveyortop">1983-2017</div>
                         <div id="perveyorbottom">Purveyors of Fine Machinery<span style="font-family:Verdana,serif"><sup>®</sup></span></div>
                     </div>
                 </div>
@@ -2026,33 +2502,126 @@ overflow-y: visible;
                 </div>
             </div>
             <div class="col-sm-3">
-                <a class="catalog-link-footer" href="http://www.grizzly.com/catalog/2016/main" target="_blank">
-                    <img class="img-responsive" src="http://cdn1.grizzly.com/grizzly2/images/catalogfooter-2016.png" alt=""></a>
+                <a class="catalog-link-footer" href="http://www.grizzly.com/catalog/2017/main" target="_blank">
+                    <img class="img-responsive" src="http://cdn1.grizzly.com/grizzly2/images/catalogfooter-2017.png" alt=""></a>
                 <span style="width: 100%; display: block;"><a style="color: #F3CC72; font-size: 11px; text-align: center; width: 100%; display: block;" href="/secureforms/catalog-request">CLICK HERE FOR A COPY</a></span>
             </div>
         </div>
         <div class="row">
             <div id="footer-copyright">
-                <span id="copyright">© Copyright 2016 Grizzly Industrial®, Inc.</span>
+                <span id="copyright">© Copyright 2017 Grizzly Industrial®, Inc.</span>
             </div>
         </div>
     </div>
-    <script type="text/javascript" src="http://cdn2.grizzly.com/js/jquery.20150401.js.min.gz.js"></script>
-    <script type="text/javascript" src="http://cdn0.grizzly.com/js/jquery-ui.20150401.js.min.gz.js"></script>
-    <script type="text/javascript" src="http://cdn1.grizzly.com/js/bootstrap.20150401.js.min.gz.js"></script>
-    <script type="text/javascript" src="http://cdn2.grizzly.com/js/uadatalayer.20150424a.min.gz.js"></script>
+    <script type="text/javascript" src="http://cdn2.grizzly.com/js/jquery.20150401.js.min.js"></script>
+    <script type="text/javascript" src="http://cdn0.grizzly.com/js/jquery-ui.20150401.js.min.js"></script>
+    <script type="text/javascript" src="http://cdn1.grizzly.com/js/bootstrap.20150401.js.min.js"></script>
+    <script type="text/javascript" src="http://cdn2.grizzly.com/js/uadatalayer.20150424a.min.js"></script>
 
     <script type="text/javascript" src="/content/script/lazyload.js"></script>
 
     
     
-    <script type="text/javascript" src="/content/script/common.js?v=636153628164360978"></script>
+    <script type="text/javascript" src="/content/script/common.js?v=1.0.6376.16086"></script>
     
-    <script type="text/javascript" src="/content/script/categorymenu.js?v=636153628164360978"></script>
+    <script type="text/javascript" src="/content/script/categorymenu.js?v=1.0.6376.16086"></script>
+    <script type="text/javascript" src="/content/script/webEvents.js?v=1.0.6376.16086"></script>
     <script src="/Content/script/responsive-image-map.js"></script>
     <script src="https://cdn.ravenjs.com/3.8.0/raven.min.js"></script>
+
+
+
+
+        <script type="text/template" id="stock-status-template">
+        <div class="stockcheck-wrapper stock-checker">
+            <div id="stockStatus" class="clearfix">
+                 #RESULT#
+                <div id="stock-zip-form">
+                    <label for="txtZip">Enter zip to check availabilty for shipment </label>
+                    <input type="text" size="5" name="textbox" id="txtZip" value="" autocomplete=off style=" width: 100%; margin-bottom: 15px;" /> 
+                </div> 
+            </div>   
+        </div> 
+    </script>
+    <script type="text/template" id="stock-result-template">
+        <div id="divStockCheckResult" class="#STOCKCLASS#">  
+                    <meta itemprop="availability" content="http://schema.org/#META#">  
+                    <div class="#STOCKCLASS#">
+                        <a id="addToCartButton" data-itemnumber="#ITEMNUMBER#" class="btn btn-lg btn-red" style="margin-top: 0px; float: right; margin-left: 5px; display: inline;" type="button">
+                            Add to Cart 
+                        </a> 
+                        <div class="ship-avail-wrapper #STOCKCLASS#">
+                            <div class="ship-avail"> 
+                               #AVAILABILITY_MESSAGE#
+                            </div> 
+                            <div class="ship-icon-wrapper">
+                                <div class="ship-icon #STOCKCLASS#" style="text-align:center; font-size:15px; margin-top:5px;">
+                                    <div class="stock-zip">
+                                        #ZIP#
+                                    </div> 
+                                </div> 
+                            </div> 
+                        </div> 
+                        <div class="stock-notify-wrapper">
+                            <label class="btn btn-light-blue notify-btn out-stock-notify">
+                                Notify Me When Available
+                                <input type="checkbox">
+                                <span class="notify-email">
+                                    <span class="pull-left" style="width: 80%;">
+                                        <input type="text" value="" placeholder="Email" id="stockEmail" class="stock-request-email">
+                                        <input type="text" value="" maxlength="5" id="txtZip" placeholder="Zip" >
+                                    </span>
+                                    <a class="stock-request-btn">Submit</a>
+                                </span> 
+                            </label>
+                        </div>   
+                        <div class="clearfix availability-table" style="background: rgba(0,0,0,0.1);  padding: 7px; position: relative;">
+                            <h4 class="avail-label">
+                                Store Pickup Availability
+                                <span class="store-pickup-message">Current availability shown – please call 800-523-4777 to secure your order before traveling.</span>  
+                                <a class="stock-status-more-info" href="/customerservice/#showrooms">More Info</a>
+                            </h4>
+                         
+                            <div class="clearfix stock-icon-table">  
+                                <i class="griz-stock-icon #MOSTOCK#"></i>  
+                                <i class="griz-stock-icon #WASTOCK#"></i>  
+                            </div>
+                        </div>
+                    </div> 
+                </div>
+    </script>
+    <script type="text/template" id="coming-soon-template">
+        <span class="more-soon">More Coming Soon!</span><br><br>
+    </script>
+    <script type="text/template" id="expected-template">
+        <span class="expected-arrival">More on the way and expected to arrive on #EXPECTED_DATE#<br><br></span>
+    </script>
+     <script type="text/template" id="in-stock-availability-template">
+         Immediate Shipment <span class="avail-tag">Available</span>
+     </script>
+     <script type="text/template" id="out-of-stock-availability-template">
+        <span class="sorry-box">
+            We’re sorry, this popular product is in high demand and temporarily backordered. 
+            <br> <br> 
+        </span> 
+
+        #AVAIL_MESSAGE#  
+
+        <span class="order-today-message">
+            <strong style="color:#c00; text-transform: uppercase;">Order today</strong> to 
+            secure your spot in line and 
+            <strong style="color:#c00; text-transform: uppercase;">lock in this price</strong>.  
+            Your credit card will not be charged until we ship your product 
+            and you may cancel at any time.   
+        </span> 
+     </script>
+
+
+
     <script type="text/javascript">
-        Raven.config('https://4c2af078a08840c193b75ce7e1f893aa@sentry.io/115237').install();
+        Raven.config('https://4c2af078a08840c193b75ce7e1f893aa@sentry.io/115237', {
+            release: '1.0.6376.16086'
+        }).install();
 
         var dragging = false;
         $(document).ready(function(e) {
@@ -2087,6 +2656,7 @@ overflow-y: visible;
         });
 
         function submitSearch(searchTerms) {
+            searchTerms = searchTerms.trim();
             if (encodeURIComponent(searchTerms.trim()).split("%20").length > 1) {
                 window.location.href = "/search?q=(" + encodeURIComponent(searchTerms.trim()).split("%20").join("+AND+") + ")+OR+(" + encodeURIComponent(searchTerms.trim()).split("%20").join("+OR+") + ")";
             }
@@ -2210,7 +2780,7 @@ overflow-y: visible;
             $('.nav .dropdown').on('mouseenter touchend', function () {
                 if (dragging)
                     return;
-                console.log("tapped")
+          
                 var $thisMenu = $(this);
                 if (isUsingMenu) {
                     $thisMenu.find('.main-dd-menu').stop().show();
@@ -2345,7 +2915,7 @@ overflow-y: visible;
 
             e.preventDefault();
             if (e.keyCode === 40) {
-                console.log($(".search-item:focus").parent());
+     
                 if ($('.search-item:focus').length == 0) { $('.search-item').last().focus(); } else {
                     if ($(".search-item:focus").next(".search-item").length > 0) {
                         $(".search-item:focus").next(".search-item").focus();
@@ -2442,6 +3012,1399 @@ overflow-y: visible;
         };
 
 
+    </script>
+     <script id="countdown-script">
+        /*
+ countdown.js v2.6.0 http://countdownjs.org
+ Copyright (c)2006-2014 Stephen M. McKamey.
+ Licensed under The MIT License.
+*/
+        /*global window */
+        /**
+         * @license countdown.js v2.6.0 http://countdownjs.org
+         * Copyright (c)2006-2014 Stephen M. McKamey.
+         * Licensed under The MIT License.
+         */
+        /*jshint bitwise:false */
+
+        /**
+         * @public
+         * @type {Object|null}
+         */
+        var module;
+
+        /**
+         * API entry
+         * @public
+         * @param {function(Object)|Date|number} start the starting date
+         * @param {function(Object)|Date|number} end the ending date
+         * @param {number} units the units to populate
+         * @return {Object|number}
+         */
+        var countdown = (
+
+        /**
+         * @param {Object} module CommonJS Module
+         */
+        function (module) {
+            /*jshint smarttabs:true */
+
+            'use strict';
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MILLISECONDS = 0x001;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var SECONDS = 0x002;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MINUTES = 0x004;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var HOURS = 0x008;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var DAYS = 0x010;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var WEEKS = 0x020;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MONTHS = 0x040;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var YEARS = 0x080;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var DECADES = 0x100;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var CENTURIES = 0x200;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MILLENNIA = 0x400;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var DEFAULTS = YEARS | MONTHS | DAYS | HOURS | MINUTES | SECONDS;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MILLISECONDS_PER_SECOND = 1000;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var SECONDS_PER_MINUTE = 60;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MINUTES_PER_HOUR = 60;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var HOURS_PER_DAY = 24;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MILLISECONDS_PER_DAY = HOURS_PER_DAY * MINUTES_PER_HOUR * SECONDS_PER_MINUTE * MILLISECONDS_PER_SECOND;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var DAYS_PER_WEEK = 7;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var MONTHS_PER_YEAR = 12;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var YEARS_PER_DECADE = 10;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var DECADES_PER_CENTURY = 10;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var CENTURIES_PER_MILLENNIUM = 10;
+
+            /**
+             * @private
+             * @param {number} x number
+             * @return {number}
+             */
+            var ceil = Math.ceil;
+
+            /**
+             * @private
+             * @param {number} x number
+             * @return {number}
+             */
+            var floor = Math.floor;
+
+            /**
+             * @private
+             * @param {Date} ref reference date
+             * @param {number} shift number of months to shift
+             * @return {number} number of days shifted
+             */
+            function borrowMonths(ref, shift) {
+                var prevTime = ref.getTime();
+
+                // increment month by shift
+                ref.setMonth(ref.getMonth() + shift);
+
+                // this is the trickiest since months vary in length
+                return Math.round((ref.getTime() - prevTime) / MILLISECONDS_PER_DAY);
+            }
+
+            /**
+             * @private
+             * @param {Date} ref reference date
+             * @return {number} number of days
+             */
+            function daysPerMonth(ref) {
+                var a = ref.getTime();
+
+                // increment month by 1
+                var b = new Date(a);
+                b.setMonth(ref.getMonth() + 1);
+
+                // this is the trickiest since months vary in length
+                return Math.round((b.getTime() - a) / MILLISECONDS_PER_DAY);
+            }
+
+            /**
+             * @private
+             * @param {Date} ref reference date
+             * @return {number} number of days
+             */
+            function daysPerYear(ref) {
+                var a = ref.getTime();
+
+                // increment year by 1
+                var b = new Date(a);
+                b.setFullYear(ref.getFullYear() + 1);
+
+                // this is the trickiest since years (periodically) vary in length
+                return Math.round((b.getTime() - a) / MILLISECONDS_PER_DAY);
+            }
+
+            /**
+             * Applies the Timespan to the given date.
+             * 
+             * @private
+             * @param {Timespan} ts
+             * @param {Date=} date
+             * @return {Date}
+             */
+            function addToDate(ts, date) {
+                date = (date instanceof Date) || ((date !== null) && isFinite(date)) ? new Date(+date) : new Date();
+                if (!ts) {
+                    return date;
+                }
+
+                // if there is a value field, use it directly
+                var value = +ts.value || 0;
+                if (value) {
+                    date.setTime(date.getTime() + value);
+                    return date;
+                }
+
+                value = +ts.milliseconds || 0;
+                if (value) {
+                    date.setMilliseconds(date.getMilliseconds() + value);
+                }
+
+                value = +ts.seconds || 0;
+                if (value) {
+                    date.setSeconds(date.getSeconds() + value);
+                }
+
+                value = +ts.minutes || 0;
+                if (value) {
+                    date.setMinutes(date.getMinutes() + value);
+                }
+
+                value = +ts.hours || 0;
+                if (value) {
+                    date.setHours(date.getHours() + value);
+                }
+
+                value = +ts.weeks || 0;
+                if (value) {
+                    value *= DAYS_PER_WEEK;
+                }
+
+                value += +ts.days || 0;
+                if (value) {
+                    date.setDate(date.getDate() + value);
+                }
+
+                value = +ts.months || 0;
+                if (value) {
+                    date.setMonth(date.getMonth() + value);
+                }
+
+                value = +ts.millennia || 0;
+                if (value) {
+                    value *= CENTURIES_PER_MILLENNIUM;
+                }
+
+                value += +ts.centuries || 0;
+                if (value) {
+                    value *= DECADES_PER_CENTURY;
+                }
+
+                value += +ts.decades || 0;
+                if (value) {
+                    value *= YEARS_PER_DECADE;
+                }
+
+                value += +ts.years || 0;
+                if (value) {
+                    date.setFullYear(date.getFullYear() + value);
+                }
+
+                return date;
+            }
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_MILLISECONDS = 0;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_SECONDS = 1;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_MINUTES = 2;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_HOURS = 3;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_DAYS = 4;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_WEEKS = 5;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_MONTHS = 6;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_YEARS = 7;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_DECADES = 8;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_CENTURIES = 9;
+
+            /**
+             * @private
+             * @const
+             * @type {number}
+             */
+            var LABEL_MILLENNIA = 10;
+
+            /**
+             * @private
+             * @type {Array}
+             */
+            var LABELS_SINGLUAR;
+
+            /**
+             * @private
+             * @type {Array}
+             */
+            var LABELS_PLURAL;
+
+            /**
+             * @private
+             * @type {string}
+             */
+            var LABEL_LAST;
+
+            /**
+             * @private
+             * @type {string}
+             */
+            var LABEL_DELIM;
+
+            /**
+             * @private
+             * @type {string}
+             */
+            var LABEL_NOW;
+
+            /**
+             * Formats a number & unit as a string
+             * 
+             * @param {number} value
+             * @param {number} unit
+             * @return {string}
+             */
+            var formatter;
+
+            /**
+             * Formats a number as a string
+             * 
+             * @private
+             * @param {number} value
+             * @return {string}
+             */
+            var formatNumber;
+
+            /**
+             * @private
+             * @param {number} value
+             * @param {number} unit unit index into label list
+             * @return {string}
+             */
+            function plurality(value, unit) {
+                return formatNumber(value) + ((value === 1) ? LABELS_SINGLUAR[unit] : LABELS_PLURAL[unit]);
+            }
+
+            /**
+             * Formats the entries with singular or plural labels
+             * 
+             * @private
+             * @param {Timespan} ts
+             * @return {Array}
+             */
+            var formatList;
+
+            /**
+             * Timespan representation of a duration of time
+             * 
+             * @private
+             * @this {Timespan}
+             * @constructor
+             */
+            function Timespan() { }
+
+            /**
+             * Formats the Timespan as a sentence
+             * 
+             * @param {string=} emptyLabel the string to use when no values returned
+             * @return {string}
+             */
+            Timespan.prototype.toString = function (emptyLabel) {
+                var label = formatList(this);
+
+                var count = label.length;
+                if (!count) {
+                    return emptyLabel ? '' + emptyLabel : LABEL_NOW;
+                }
+                if (count === 1) {
+                    return label[0];
+                }
+
+                var last = LABEL_LAST + label.pop();
+                return label.join(LABEL_DELIM) + last;
+            };
+
+            /**
+             * Formats the Timespan as a sentence in HTML
+             * 
+             * @param {string=} tag HTML tag name to wrap each value
+             * @param {string=} emptyLabel the string to use when no values returned
+             * @return {string}
+             */
+            Timespan.prototype.toHTML = function (tag, emptyLabel) {
+                
+                tag = tag || 'span';
+                var label = formatList(this);
+
+                var count = label.length;
+                if (!count) {
+                    emptyLabel = emptyLabel || LABEL_NOW;
+                    return emptyLabel ? '<' + tag + '>' + emptyLabel + '</' + tag + '>' : emptyLabel;
+                }
+                for (var i = 0; i < count; i++) {
+                    // wrap each unit in tag
+                    label[i] = '<' + tag + '>' + label[i] + '</' + tag + '>';
+                }
+                if (count === 1) {
+                    return label[0];
+                }
+
+                var last = LABEL_LAST + label.pop();
+                return label.join(LABEL_DELIM) + last;
+            };
+
+            /**
+             * Applies the Timespan to the given date
+             * 
+             * @param {Date=} date the date to which the timespan is added.
+             * @return {Date}
+             */
+            Timespan.prototype.addTo = function (date) {
+                return addToDate(this, date);
+            };
+
+            /**
+             * Formats the entries as English labels
+             * 
+             * @private
+             * @param {Timespan} ts
+             * @return {Array}
+             */
+            formatList = function (ts) {
+                var list = [];
+
+                var value = ts.millennia;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_MILLENNIA));
+                }
+
+                value = ts.centuries;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_CENTURIES));
+                }
+
+                value = ts.decades;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_DECADES));
+                }
+
+                value = ts.years;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_YEARS));
+                }
+
+                value = ts.months;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_MONTHS));
+                }
+
+                value = ts.weeks;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_WEEKS));
+                }
+
+                value = ts.days;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_DAYS));
+                }
+
+                value = ts.hours;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_HOURS));
+                }
+
+                value = ts.minutes;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_MINUTES));
+                }
+
+                value = ts.seconds;
+                if (value || value === 0) { 
+                    list.push(formatter(value, LABEL_SECONDS));
+                }
+
+                value = ts.milliseconds;
+                if (value || value === 0) {
+                    list.push(formatter(value, LABEL_MILLISECONDS));
+                }
+
+                return list;
+            };
+
+            /**
+             * Borrow any underflow units, carry any overflow units
+             * 
+             * @private
+             * @param {Timespan} ts
+             * @param {string} toUnit
+             */
+            function rippleRounded(ts, toUnit) {
+                switch (toUnit) {
+                    case 'seconds':
+                        if (ts.seconds !== SECONDS_PER_MINUTE || isNaN(ts.minutes)) {
+                            return;
+                        }
+                        // ripple seconds up to minutes
+                        ts.minutes++;
+                        ts.seconds = 0;
+
+                        /* falls through */
+                    case 'minutes':
+                        if (ts.minutes !== MINUTES_PER_HOUR || isNaN(ts.hours)) {
+                            return;
+                        }
+                        // ripple minutes up to hours
+                        ts.hours++;
+                        ts.minutes = 0;
+
+                        /* falls through */
+                    case 'hours':
+                        if (ts.hours !== HOURS_PER_DAY || isNaN(ts.days)) {
+                            return;
+                        }
+                        // ripple hours up to days
+                        ts.days++;
+                        ts.hours = 0;
+
+                        /* falls through */
+                    case 'days':
+                        if (ts.days !== DAYS_PER_WEEK || isNaN(ts.weeks)) {
+                            return;
+                        }
+                        // ripple days up to weeks
+                        ts.weeks++;
+                        ts.days = 0;
+
+                        /* falls through */
+                    case 'weeks':
+                        if (ts.weeks !== daysPerMonth(ts.refMonth) / DAYS_PER_WEEK || isNaN(ts.months)) {
+                            return;
+                        }
+                        // ripple weeks up to months
+                        ts.months++;
+                        ts.weeks = 0;
+
+                        /* falls through */
+                    case 'months':
+                        if (ts.months !== MONTHS_PER_YEAR || isNaN(ts.years)) {
+                            return;
+                        }
+                        // ripple months up to years
+                        ts.years++;
+                        ts.months = 0;
+
+                        /* falls through */
+                    case 'years':
+                        if (ts.years !== YEARS_PER_DECADE || isNaN(ts.decades)) {
+                            return;
+                        }
+                        // ripple years up to decades
+                        ts.decades++;
+                        ts.years = 0;
+
+                        /* falls through */
+                    case 'decades':
+                        if (ts.decades !== DECADES_PER_CENTURY || isNaN(ts.centuries)) {
+                            return;
+                        }
+                        // ripple decades up to centuries
+                        ts.centuries++;
+                        ts.decades = 0;
+
+                        /* falls through */
+                    case 'centuries':
+                        if (ts.centuries !== CENTURIES_PER_MILLENNIUM || isNaN(ts.millennia)) {
+                            return;
+                        }
+                        // ripple centuries up to millennia
+                        ts.millennia++;
+                        ts.centuries = 0;
+                        /* falls through */
+                }
+            }
+
+            /**
+             * Ripple up partial units one place
+             * 
+             * @private
+             * @param {Timespan} ts timespan
+             * @param {number} frac accumulated fractional value
+             * @param {string} fromUnit source unit name
+             * @param {string} toUnit target unit name
+             * @param {number} conversion multiplier between units
+             * @param {number} digits max number of decimal digits to output
+             * @return {number} new fractional value
+             */
+            function fraction(ts, frac, fromUnit, toUnit, conversion, digits) {
+                if (ts[fromUnit] >= 0) {
+                    frac += ts[fromUnit];
+                    delete ts[fromUnit];
+                }
+
+                frac /= conversion;
+                if (frac + 1 <= 1) {
+                    // drop if below machine epsilon
+                    return 0;
+                }
+
+                if (ts[toUnit] >= 0) {
+                    // ensure does not have more than specified number of digits
+                    ts[toUnit] = +(ts[toUnit] + frac).toFixed(digits);
+                    rippleRounded(ts, toUnit);
+                    return 0;
+                }
+
+                return frac;
+            }
+
+            /**
+             * Ripple up partial units to next existing
+             * 
+             * @private
+             * @param {Timespan} ts
+             * @param {number} digits max number of decimal digits to output
+             */
+            function fractional(ts, digits) {
+                var frac = fraction(ts, 0, 'milliseconds', 'seconds', MILLISECONDS_PER_SECOND, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'seconds', 'minutes', SECONDS_PER_MINUTE, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'minutes', 'hours', MINUTES_PER_HOUR, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'hours', 'days', HOURS_PER_DAY, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'days', 'weeks', DAYS_PER_WEEK, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'weeks', 'months', daysPerMonth(ts.refMonth) / DAYS_PER_WEEK, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'months', 'years', daysPerYear(ts.refMonth) / daysPerMonth(ts.refMonth), digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'years', 'decades', YEARS_PER_DECADE, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'decades', 'centuries', DECADES_PER_CENTURY, digits);
+                if (!frac) { return; }
+
+                frac = fraction(ts, frac, 'centuries', 'millennia', CENTURIES_PER_MILLENNIUM, digits);
+
+                // should never reach this with remaining fractional value
+                if (frac) { throw new Error('Fractional unit overflow'); }
+            }
+
+            /**
+             * Borrow any underflow units, carry any overflow units
+             * 
+             * @private
+             * @param {Timespan} ts
+             */
+            function ripple(ts) {
+                var x;
+
+                if (ts.milliseconds < 0) {
+                    // ripple seconds down to milliseconds
+                    x = ceil(-ts.milliseconds / MILLISECONDS_PER_SECOND);
+                    ts.seconds -= x;
+                    ts.milliseconds += x * MILLISECONDS_PER_SECOND;
+
+                } else if (ts.milliseconds >= MILLISECONDS_PER_SECOND) {
+                    // ripple milliseconds up to seconds
+                    ts.seconds += floor(ts.milliseconds / MILLISECONDS_PER_SECOND);
+                    ts.milliseconds %= MILLISECONDS_PER_SECOND;
+                }
+
+                if (ts.seconds < 0) {
+                    // ripple minutes down to seconds
+                    x = ceil(-ts.seconds / SECONDS_PER_MINUTE);
+                    ts.minutes -= x;
+                    ts.seconds += x * SECONDS_PER_MINUTE;
+
+                } else if (ts.seconds >= SECONDS_PER_MINUTE) {
+                    // ripple seconds up to minutes
+                    ts.minutes += floor(ts.seconds / SECONDS_PER_MINUTE);
+                    ts.seconds %= SECONDS_PER_MINUTE;
+                }
+
+                if (ts.minutes < 0) {
+                    // ripple hours down to minutes
+                    x = ceil(-ts.minutes / MINUTES_PER_HOUR);
+                    ts.hours -= x;
+                    ts.minutes += x * MINUTES_PER_HOUR;
+
+                } else if (ts.minutes >= MINUTES_PER_HOUR) {
+                    // ripple minutes up to hours
+                    ts.hours += floor(ts.minutes / MINUTES_PER_HOUR);
+                    ts.minutes %= MINUTES_PER_HOUR;
+                }
+
+                if (ts.hours < 0) {
+                    // ripple days down to hours
+                    x = ceil(-ts.hours / HOURS_PER_DAY);
+                    ts.days -= x;
+                    ts.hours += x * HOURS_PER_DAY;
+
+                } else if (ts.hours >= HOURS_PER_DAY) {
+                    // ripple hours up to days
+                    ts.days += floor(ts.hours / HOURS_PER_DAY);
+                    ts.hours %= HOURS_PER_DAY;
+                }
+
+                while (ts.days < 0) {
+                    // NOTE: never actually seen this loop more than once
+
+                    // ripple months down to days
+                    ts.months--;
+                    ts.days += borrowMonths(ts.refMonth, 1);
+                }
+
+                // weeks is always zero here
+
+                if (ts.days >= DAYS_PER_WEEK) {
+                    // ripple days up to weeks
+                    ts.weeks += floor(ts.days / DAYS_PER_WEEK);
+                    ts.days %= DAYS_PER_WEEK;
+                }
+
+                if (ts.months < 0) {
+                    // ripple years down to months
+                    x = ceil(-ts.months / MONTHS_PER_YEAR);
+                    ts.years -= x;
+                    ts.months += x * MONTHS_PER_YEAR;
+
+                } else if (ts.months >= MONTHS_PER_YEAR) {
+                    // ripple months up to years
+                    ts.years += floor(ts.months / MONTHS_PER_YEAR);
+                    ts.months %= MONTHS_PER_YEAR;
+                }
+
+                // years is always non-negative here
+                // decades, centuries and millennia are always zero here
+
+                if (ts.years >= YEARS_PER_DECADE) {
+                    // ripple years up to decades
+                    ts.decades += floor(ts.years / YEARS_PER_DECADE);
+                    ts.years %= YEARS_PER_DECADE;
+
+                    if (ts.decades >= DECADES_PER_CENTURY) {
+                        // ripple decades up to centuries
+                        ts.centuries += floor(ts.decades / DECADES_PER_CENTURY);
+                        ts.decades %= DECADES_PER_CENTURY;
+
+                        if (ts.centuries >= CENTURIES_PER_MILLENNIUM) {
+                            // ripple centuries up to millennia
+                            ts.millennia += floor(ts.centuries / CENTURIES_PER_MILLENNIUM);
+                            ts.centuries %= CENTURIES_PER_MILLENNIUM;
+                        }
+                    }
+                }
+            }
+
+            /**
+             * Remove any units not requested
+             * 
+             * @private
+             * @param {Timespan} ts
+             * @param {number} units the units to populate
+             * @param {number} max number of labels to output
+             * @param {number} digits max number of decimal digits to output
+             */
+            function pruneUnits(ts, units, max, digits) {
+                var count = 0;
+
+                // Calc from largest unit to smallest to prevent underflow
+                if (!(units & MILLENNIA) || (count >= max)) {
+                    // ripple millennia down to centuries
+                    ts.centuries += ts.millennia * CENTURIES_PER_MILLENNIUM;
+                    delete ts.millennia;
+
+                } else if (ts.millennia) {
+                    count++;
+                }
+
+                if (!(units & CENTURIES) || (count >= max)) {
+                    // ripple centuries down to decades
+                    ts.decades += ts.centuries * DECADES_PER_CENTURY;
+                    delete ts.centuries;
+
+                } else if (ts.centuries) {
+                    count++;
+                }
+
+                if (!(units & DECADES) || (count >= max)) {
+                    // ripple decades down to years
+                    ts.years += ts.decades * YEARS_PER_DECADE;
+                    delete ts.decades;
+
+                } else if (ts.decades) {
+                    count++;
+                }
+
+                if (!(units & YEARS) || (count >= max)) {
+                    // ripple years down to months
+                    ts.months += ts.years * MONTHS_PER_YEAR;
+                    delete ts.years;
+
+                } else if (ts.years) {
+                    count++;
+                }
+
+                if (!(units & MONTHS) || (count >= max)) {
+                    // ripple months down to days
+                    if (ts.months) {
+                        ts.days += borrowMonths(ts.refMonth, ts.months);
+                    }
+                    delete ts.months;
+
+                    if (ts.days >= DAYS_PER_WEEK) {
+                        // ripple day overflow back up to weeks
+                        ts.weeks += floor(ts.days / DAYS_PER_WEEK);
+                        ts.days %= DAYS_PER_WEEK;
+                    }
+
+                } else if (ts.months) {
+                    count++;
+                }
+
+                if (!(units & WEEKS) || (count >= max)) {
+                    // ripple weeks down to days
+                    ts.days += ts.weeks * DAYS_PER_WEEK;
+                    delete ts.weeks;
+
+                } else if (ts.weeks) {
+                    count++;
+                }
+
+                if (!(units & DAYS) || (count >= max)) {
+                    //ripple days down to hours
+                    ts.hours += ts.days * HOURS_PER_DAY;
+                    delete ts.days;
+
+                } else if (ts.days) {
+                    count++;
+                }
+
+                if (!(units & HOURS) || (count >= max)) {
+                    // ripple hours down to minutes
+                    ts.minutes += ts.hours * MINUTES_PER_HOUR;
+                    delete ts.hours;
+
+                } else if (ts.hours) {
+                    count++;
+                }
+
+                if (!(units & MINUTES) || (count >= max)) {
+                    // ripple minutes down to seconds
+                    ts.seconds += ts.minutes * SECONDS_PER_MINUTE;
+                    delete ts.minutes;
+
+                } else if (ts.minutes) {
+                    count++;
+                }
+
+                if (!(units & SECONDS) || (count >= max)) {
+                    // ripple seconds down to milliseconds
+                    ts.milliseconds += ts.seconds * MILLISECONDS_PER_SECOND;
+                    delete ts.seconds;
+
+                } else if (ts.seconds) {
+                    count++;
+                }
+
+                // nothing to ripple milliseconds down to
+                // so ripple back up to smallest existing unit as a fractional value
+                if (!(units & MILLISECONDS) || (count >= max)) {
+                    fractional(ts, digits);
+                }
+            }
+
+            /**
+             * Populates the Timespan object
+             * 
+             * @private
+             * @param {Timespan} ts
+             * @param {?Date} start the starting date
+             * @param {?Date} end the ending date
+             * @param {number} units the units to populate
+             * @param {number} max number of labels to output
+             * @param {number} digits max number of decimal digits to output
+             */
+            function populate(ts, start, end, units, max, digits) {
+                var now = new Date();
+
+                ts.start = start = start || now;
+                ts.end = end = end || now;
+                ts.units = units;
+
+                ts.value = end.getTime() - start.getTime();
+                if (ts.value < 0) {
+                    // swap if reversed
+                    var tmp = end;
+                    end = start;
+                    start = tmp;
+                }
+
+                // reference month for determining days in month
+                ts.refMonth = new Date(start.getFullYear(), start.getMonth(), 15, 12, 0, 0);
+                try {
+                    // reset to initial deltas
+                    ts.millennia = 0;
+                    ts.centuries = 0;
+                    ts.decades = 0;
+                    ts.years = end.getFullYear() - start.getFullYear();
+                    ts.months = end.getMonth() - start.getMonth();
+                    ts.weeks = 0;
+                    ts.days = end.getDate() - start.getDate();
+                    ts.hours = end.getHours() - start.getHours();
+                    ts.minutes = end.getMinutes() - start.getMinutes();
+                    ts.seconds = end.getSeconds() - start.getSeconds();
+                    ts.milliseconds = end.getMilliseconds() - start.getMilliseconds();
+
+                    ripple(ts);
+                    pruneUnits(ts, units, max, digits);
+
+                } finally {
+                    delete ts.refMonth;
+                }
+
+                return ts;
+            }
+
+            /**
+             * Determine an appropriate refresh rate based upon units
+             * 
+             * @private
+             * @param {number} units the units to populate
+             * @return {number} milliseconds to delay
+             */
+            function getDelay(units) {
+                if (units & MILLISECONDS) {
+                    // refresh very quickly
+                    return MILLISECONDS_PER_SECOND / 30; //30Hz
+                }
+
+                if (units & SECONDS) {
+                    // refresh every second
+                    return MILLISECONDS_PER_SECOND; //1Hz
+                }
+
+                if (units & MINUTES) {
+                    // refresh every minute
+                    return MILLISECONDS_PER_SECOND * SECONDS_PER_MINUTE;
+                }
+
+                if (units & HOURS) {
+                    // refresh hourly
+                    return MILLISECONDS_PER_SECOND * SECONDS_PER_MINUTE * MINUTES_PER_HOUR;
+                }
+
+                if (units & DAYS) {
+                    // refresh daily
+                    return MILLISECONDS_PER_SECOND * SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY;
+                }
+
+                // refresh the rest weekly
+                return MILLISECONDS_PER_SECOND * SECONDS_PER_MINUTE * MINUTES_PER_HOUR * HOURS_PER_DAY * DAYS_PER_WEEK;
+            }
+
+            /**
+             * API entry point
+             * 
+             * @public
+             * @param {Date|number|Timespan|null|function(Timespan,number)} start the starting date
+             * @param {Date|number|Timespan|null|function(Timespan,number)} end the ending date
+             * @param {number=} units the units to populate
+             * @param {number=} max number of labels to output
+             * @param {number=} digits max number of decimal digits to output
+             * @return {Timespan|number}
+             */
+            function countdown(start, end, units, max, digits) {
+                var callback;
+
+                // ensure some units or use defaults
+                units = +units || DEFAULTS;
+                // max must be positive
+                max = (max > 0) ? max : NaN;
+                // clamp digits to an integer between [0, 20]
+                digits = (digits > 0) ? (digits < 20) ? Math.round(digits) : 20 : 0;
+
+                // ensure start date
+                var startTS = null;
+                if ('function' === typeof start) {
+                    callback = start;
+                    start = null;
+
+                } else if (!(start instanceof Date)) {
+                    if ((start !== null) && isFinite(start)) {
+                        start = new Date(+start);
+                    } else {
+                        if ('object' === typeof startTS) {
+                            startTS = /** @type{Timespan} */(start);
+                        }
+                        start = null;
+                    }
+                }
+
+                // ensure end date
+                var endTS = null;
+                if ('function' === typeof end) {
+                    callback = end;
+                    end = null;
+
+                } else if (!(end instanceof Date)) {
+                    if ((end !== null) && isFinite(end)) {
+                        end = new Date(+end);
+                    } else {
+                        if ('object' === typeof end) {
+                            endTS = /** @type{Timespan} */(end);
+                        }
+                        end = null;
+                    }
+                }
+
+                // must wait to interpret timespans until after resolving dates
+                if (startTS) {
+                    start = addToDate(startTS, end);
+                }
+                if (endTS) {
+                    end = addToDate(endTS, start);
+                }
+
+                if (!start && !end) {
+                    // used for unit testing
+                    return new Timespan();
+                }
+
+                if (!callback) {
+                    return populate(new Timespan(), /** @type{Date} */(start), /** @type{Date} */(end), /** @type{number} */(units), /** @type{number} */(max), /** @type{number} */(digits));
+                }
+
+                // base delay off units
+                var delay = getDelay(units),
+                    timerId,
+                    fn = function () {
+                        callback(
+                            populate(new Timespan(), /** @type{Date} */(start), /** @type{Date} */(end), /** @type{number} */(units), /** @type{number} */(max), /** @type{number} */(digits)),
+                            timerId
+                        );
+                    };
+
+                fn();
+                return (timerId = setInterval(fn, delay));
+            }
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.MILLISECONDS = MILLISECONDS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.SECONDS = SECONDS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.MINUTES = MINUTES;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.HOURS = HOURS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.DAYS = DAYS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.WEEKS = WEEKS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.MONTHS = MONTHS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.YEARS = YEARS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.DECADES = DECADES;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.CENTURIES = CENTURIES;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.MILLENNIA = MILLENNIA;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.DEFAULTS = DEFAULTS;
+
+            /**
+             * @public
+             * @const
+             * @type {number}
+             */
+            countdown.ALL = MILLENNIA | CENTURIES | DECADES | YEARS | MONTHS | WEEKS | DAYS | HOURS | MINUTES | SECONDS | MILLISECONDS;
+
+            /**
+             * Customize the format settings.
+             * @public
+             * @param {Object} format settings object
+             */
+            var setFormat = countdown.setFormat = function (format) {
+                if (!format) { return; }
+
+                if ('singular' in format || 'plural' in format) {
+                    var singular = format.singular || [];
+                    if (singular.split) {
+                        singular = singular.split('|');
+                    }
+                    var plural = format.plural || [];
+                    if (plural.split) {
+                        plural = plural.split('|');
+                    }
+
+                    for (var i = LABEL_MILLISECONDS; i <= LABEL_MILLENNIA; i++) {
+                        // override any specified units
+                        LABELS_SINGLUAR[i] = singular[i] || LABELS_SINGLUAR[i];
+                        LABELS_PLURAL[i] = plural[i] || LABELS_PLURAL[i];
+                    }
+                }
+
+                if ('string' === typeof format.last) {
+                    LABEL_LAST = format.last;
+                }
+                if ('string' === typeof format.delim) {
+                    LABEL_DELIM = format.delim;
+                }
+                if ('string' === typeof format.empty) {
+                    LABEL_NOW = format.empty;
+                }
+                if ('function' === typeof format.formatNumber) {
+                    formatNumber = format.formatNumber;
+                }
+                if ('function' === typeof format.formatter) {
+                    formatter = format.formatter;
+                }
+            };
+
+            /**
+             * Revert to the default formatting.
+             * @public
+             */
+            var resetFormat = countdown.resetFormat = function () {
+                LABELS_SINGLUAR = " <span>milliseconds</span>; <span>seconds</span>; <span>minutes</span>; <span>hours</span>; <span>days</span>; <span>weeks</span>; <span>months</span>; <span>years</span>; <span>decades</span>; <span>centuries</span>; <span>millennia</span>".split(';');
+                LABELS_PLURAL = " <span>milliseconds</span>; <span>seconds</span>; <span>minutes</span>; <span>hours</span>; <span>days</span>; <span>weeks</span>; <span>months</span>; <span>years</span>; <span>decades</span>; <span>centuries</span>; <span>millennia</span>".split(';');
+                LABEL_LAST = ' ';
+                LABEL_DELIM = ' ';
+                LABEL_NOW = '';
+                formatNumber = function (value) { return pad(value, 2); };
+                formatter = plurality;
+            };
+            function pad(n, width, z) {
+                z = z || '0';
+                n = n + '';
+                return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+            }
+            /**
+             * Override the unit labels.
+             * @public
+             * @param {string|Array=} singular a pipe ('|') delimited list of singular unit name overrides
+             * @param {string|Array=} plural a pipe ('|') delimited list of plural unit name overrides
+             * @param {string=} last a delimiter before the last unit (default: ' and ')
+             * @param {string=} delim a delimiter to use between all other units (default: ', ')
+             * @param {string=} empty a label to use when all units are zero (default: '')
+             * @param {function(number):string=} formatNumber a function which formats numbers as a string
+             * @param {function(number,number):string=} formatter a function which formats a number/unit pair as a string
+             * @deprecated since version 2.6.0
+             */
+            countdown.setLabels = function (singular, plural, last, delim, empty, formatNumber, formatter) {
+                setFormat({
+                    singular: singular,
+                    plural: plural,
+                    last: last,
+                    delim: delim,
+                    empty: empty,
+                    formatNumber: formatNumber,
+                    formatter: formatter
+                });
+            };
+
+            /**
+             * Revert to the default unit labels.
+             * @public
+             * @deprecated since version 2.6.0
+             */
+            countdown.resetLabels = resetFormat;
+
+            resetFormat();
+
+            if (module && module.exports) {
+                module.exports = countdown;
+
+            } else if (typeof window.define === 'function' && typeof window.define.amd !== 'undefined') {
+                window.define('countdown', [], function () {
+                    return countdown;
+                });
+            }
+
+            return countdown;
+
+        })(module);
+    </script>
+    <script>
+      //  var tentsaleDate = new Date('06/03/2017 00:00');
+      //  if (new Date() < tentsaleDate) {
+      //      var timerId =
+      //countdown(
+      //  tentsaleDate,
+      //  function (ts) {
+      //      document.getElementById('counter').innerHTML = ts.toHTML("strong");
+      //  },
+      //  countdown.DAYS | countdown.HOURS | countdown.MINUTES | countdown.SECONDS);
+
+      //  } else {
+      //      document.getElementById('counter').innerHTML = '<div class="countdown-clock"><strong style="width:100%;     text-align: center;">Tent Sale today in MO. 8:00 AM to 2:00 PM</strong></div>';
+      //  }
     </script>
     
 
