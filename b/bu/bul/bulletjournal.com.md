@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bulletjournal.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014554id_/http%3A//bulletjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletjournal.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619062513id_/http%3A//bulletjournal.com/privacy) for the most accurate reproduction.*
 
-# Privacy – Bullet Journal
+# Privacy - Bullet Journal
 
 **Website Privacy Policy**
 
