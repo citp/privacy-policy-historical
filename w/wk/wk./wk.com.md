@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the wk.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119031240id_/http%3A//www.wk.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wk.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619231411id_/http%3A//www.wk.com/legal/privacy) for the most accurate reproduction.*
 
 # Wieden+Kennedy | Full Service Integrated Advertising Agency
 
 WIEDEN + KENNEDY PRIVACY POLICY
 
-Welcome to the Wieden+Kennedy web site ("Site"). Wieden+Kennedy("WK") knows how our clients and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personally identifiable information you must provide if you wish to use the Site and, ultimately, just how we use such personally identifiable information. 
+Welcome to the Wieden+Kennedy web site ("Site"). Wieden+Kennedy ("WK") knows how our clients and visitors like you value your privacy, and we have created this privacy policy to ensure that you understand our policies and procedures, what personally identifiable information you must provide if you wish to use the Site and, ultimately, just how we use such personally identifiable information. 
 
-This policy applies only to the web site located at [www.wk.com](http://www.wk.com/), and not to any other web site or service.  If you do not agree with this policy, then you should not use the Site.
+This policy applies only to the web site located at [www.wk.com](http://www.wk.com/), and not to any other web site or service.  If you do not agree with this policy, then you should not use the Site.
 
 **Personally Identifiable Information Collected By WK**
 
-WK may collect and store personally identifiable information about you if you voluntarily submit such information to WK. Personally identifiable information may include your name, email address, physical address and other information that specifically identifies you. 
+WK may collect and store personally identifiable information about you if you voluntarily submit such information to WK. Personally identifiable information may include your name, email address, physical address and other information that specifically identifies you. 
 
-**Non-Personally Identifiable Information Collected by WK**   
-WK may also automatically collect (through cookies, described below, and other methods) and store aggregate or anonymous information about user contact with and use of the Site.  Examples of this type of information include demographic information, the type of internet browser you are using, the type of computer operating system application software and peripherals you are using, the domain name of the web site from which you linked to our Site and your browsing habits on and usage of the Site.  Non-Personally identifiable information may also include personally identifiable information that has been aggregated so that no one individual is specifically identifiable (such as, how many users in a particular city access the Site).
+**Non-Personally Identifiable Information Collected by WK**
+
+WK may also automatically collect (through cookies, described below, and other methods) and store aggregate or anonymous information about user contact with and use of the Site.  Examples of this type of information include demographic information, the type of internet browser you are using, the type of computer operating system application software and peripherals you are using, the domain name of the web site from which you linked to our Site and your browsing habits on and usage of the Site.  Non-Personally identifiable information may also include personally identifiable information that has been aggregated so that no one individual is specifically identifiable (such as, how many users in a particular city access the Site).
 
 **How We Use Your Personally Identifiable Information**
 
 WK will only use your personally identifiable information as described in this policy.
 
-When you register on our web site, WK may use the personally identifiable information we collect to contact you about our products and services or those of our clients or other third parties from time to time. Except for the parties described below, we do not sell or share your personally identifiable information with third parties without your consent. We may share your personally identifiable information with our clients (if they have agreed to comply with privacy protections similar to those set forth in this policy), companies that are affiliates of WK, technical consultants and other third parties who make our Site available, enhance its functionality, or provide associated services (but only for the purpose of providing such services to WK). 
+When you register on our web site, WK may use the personally identifiable information we collect to contact you about our products and services or those of our clients or other third parties from time to time. Except for the parties described below, we do not sell or share your personally identifiable information with third parties without your consent. We may share your personally identifiable information with our clients (if they have agreed to comply with privacy protections similar to those set forth in this policy), companies that are affiliates of WK, technical consultants and other third parties who make our Site available, enhance its functionality, or provide associated services (but only for the purpose of providing such services to WK).
 
 Information obtained in connection with the Site may be intermingled with and used by us in conjunction with information obtained through sources other than the Site, including both offline and online sources.
 
@@ -33,7 +34,7 @@ We may share non-personally identifiable information with third parties for any 
 
 **Cookies**
 
-We may use cookies and similar technologies to collect non-personally identifiable information from you and to customize your use of the Site. A cookie is a small data file that certain web sites write to your hard drive when you visit them. We may also use web bugs, clear gifs and similar technologies that collect data similar to that collected by a cookie.  A cookie file can contain various types of information, including a user ID that the site uses to track the pages you have visited. 
+We may use cookies and similar technologies to collect non-personally identifiable information from you and to customize your use of the Site. A cookie is a small data file that certain web sites write to your hard drive when you visit them. We may also use web bugs, clear gifs and similar technologies that collect data similar to that collected by a cookie.  A cookie file can contain various types of information, including a user ID that the site uses to track the pages you have visited.
 
 Most browsers are initially set up to accept cookies; however, you can reset your browser to refuse all cookies or indicate when a cookie is being sent or you can flush your browser of cookies from time to time. (Note: you may need to consult the help area of your browser application for instructions.) If you choose to disable cookies or refuse to accept a cookie, you may not be able to utilize all features of the Site.
 
@@ -41,11 +42,11 @@ At times, some of our advertisers and their ad service providers set cookies whe
 
 **Links**
 
-The Site may contain links to web sites maintained by third parties.  WK is not responsible for the privacy practices of such third party sites.  You should carefully read their own privacy policies before providing any information to such third parties.
+The Site may contain links to web sites maintained by third parties.  WK is not responsible for the privacy practices of such third party sites.  You should carefully read their own privacy policies before providing any information to such third parties.
 
 **Opt Out Procedures**
 
-You have the option to opt out of receiving information from WK. This opt out messaging will appear at the bottom of every promotional email that is sent out to you by WK in relation to this Site. WK also gives you the option to remove your information from its database of active users. If you no longer wish to take advantage of this Site or to receive any form of direct contact from WK, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personally identifiable information from our database of active users, send us a request marked "Privacy-Urgent", address as follows: **contact@wk.com**
+You have the option to opt out of receiving information from WK. This opt out messaging will appear at the bottom of every promotional email that is sent out to you by WK in relation to this Site. WK also gives you the option to remove your information from its database of active users. If you no longer wish to take advantage of this Site or to receive any form of direct contact from WK, whether it is email, discounts, newsletters, or other promotional offers or materials, or wish us to delete your personally identifiable information from our database of active users, send us a request marked "Privacy-Urgent", address as follows: privacy@wk.com
 
 However, WK is not responsible for removing information from third party lists or databases of any kind if we have shared your information with such third parties as permitted by this policy.
 
@@ -53,7 +54,7 @@ Please note that, notwithstanding the fact that we may have removed your informa
 
 **Reviewing or changing your information**
 
-In order to ensure that the information we maintain is accurate, WK gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us at **contact@wk.com.**
+In order to ensure that the information we maintain is accurate, WK gives users the option to change or modify their information previously provided. If you would like to change your information currently in our database, please contact us at privacy@wk.com.
 
 WK is not responsible for updating information contained in third party lists or databases.
 
@@ -67,7 +68,7 @@ This Site is not intended for users under the age of 13, and we have no intentio
 
 **United States of America**
 
-Our Site is maintained in the United States of America.  By using the Site, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this policy.
+Our Site is maintained in the United States of America.  By using the Site, you freely and specifically give us your consent to export your personally identifiable information to the USA and to store and use it in the USA as specified in this policy.
 
 **Your Consent**
 
@@ -75,13 +76,14 @@ We may amend our privacy policy at any time and will post those changes on this 
 
 **Contacting Us**
 
-If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at **contact@wk.com.**
+If you have any questions about this privacy policy, the practices of this Site, or your dealings with this Site, you can contact us at [privacy@wk.com](mailto:privacy@wk.com).
 
-In addition, our mailing address is:  
+In addition, our mailing address is:
+
 224 NW 13th Avenue  
 Portland, OR 97209  
 USA
 
 **Effective Date**
 
-This privacy policy was last updated on March 8, 2010.
+This privacy policy was last updated January, 2017.
