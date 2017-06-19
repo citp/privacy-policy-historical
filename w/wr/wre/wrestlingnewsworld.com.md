@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224173435id_/http%3A//www.wrestlingnewsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlingnewsworld.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619225339id_/http%3A//www.wrestlingnewsworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -70,10 +70,15 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.wrestlingnewsworld.com  
-PO Box 2476  
-Beckley, West Virginia 25802  
-USA  
-richard@grayinternet.com
+> [Home](http://www.wrestlingnewsworld.com/)
+
+10068144 Canada Inc  
+3347 Bould Des Sources, Box 38022  
+DDO, QC  
+H9B1Z0  
+Canada
+
+1.877.725.3416  
+M-F 9am-5pm E.S.T
 
 This policy is powered by Trust Guard [website security](http://www.trust-guard.com/Website-Security-s/89.htm).
