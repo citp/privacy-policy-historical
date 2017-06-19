@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the akahitutors.org privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213112134id_/http%3A//www.akahitutors.org/akahi-tutors-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the akahitutors.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619145546id_/http%3A//www.akahitutors.org/akahi-tutors-privacy-policy) for the most accurate reproduction.*
 
-# Akahi Tutors Privacy Policy | Akahi Tutors Latest And Breaking News
+# Akahi Tutors Privacy Policy | Latest News, Star Gist, Crime, School News
 
 Effective: February, 2015 | Last Modified: July, 2015 
 
