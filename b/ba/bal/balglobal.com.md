@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212152126id_/http%3A//www.balglobal.com/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balglobal.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619235544id_/https%3A//www.balglobal.com/terms-of-use-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms of use and privacy policy | B A L | Berry Appleman & Leiden LLP
 
-* service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+* customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
   * As permitted or required by law. For example, BAL may provide the information in response to a subpoena, bankruptcy proceedings, a law enforcement or governmental agency request, or a court order or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud.
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
