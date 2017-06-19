@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the star2.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120054024id_/http%3A//www.star2.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star2.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619103456id_/http%3A//www.thestar.com.my/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Star2.com
+# Privacy Policy | The Star Online
 
-Star Media Group Berhad (Co. No. 10894-D) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 (“Act”), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, Star2.com.
+Star Media Group Berhad (ROC 10894D) respects the privacy of individuals with regard to personal data and is committed to protecting the privacy of our users, and strives to provide a safe, secure user experience. This privacy policy is formulated in accordance with the Personal Data Protection Act 2010 ("Act"), which describes how your information is collected and used and your choices with respect to your Personal Data. The following discloses our information gathering and dissemination practices for this website, The Star Online.
 
-* ## Information collected by Star2.com
+* ## Information collected by The Star Online
 
-Our Web servers do not automatically recognise specific information about individual users on our site. In addition, our servers do not automatically record information regarding a user’s e- mail address unless the user supplies it.
+Our Web servers do not automatically recognise specific information about individual users on our site. In addition, our servers do not automatically record information regarding a user's e- mail address unless the user supplies it.
 
 We collect information about users during the registration process for certain parts of our site; through their participation in certain activities, including contests, forums, and polls; and through the use of cookies. When you request pages from our server, it automatically collects some information about your preferences, including your IP address. We use this to help diagnose problems with our server, and to administer our site.
 
@@ -14,7 +14,7 @@ The user-supplied information collected through the registration process, survey
 
 * ## Purpose of Personal Data collected
 
-Personal Data that you provide to us voluntarily on our website and its other related channels will be processed for the following purposes (“Purposes”):
+Personal Data that you provide to us voluntarily on our website and its other related channels will be processed for the following purposes ("Purposes"):
 
   * to complete transactions with you, manage and verify your membership of our customer loyalty scheme where applicable;
   * to direct market to you;
@@ -42,11 +42,11 @@ Although the precise details of the Personal Data collected will vary according 
 
 We may disclose your Personal Data to other subsidiaries within our group. These subsidiaries will treat your Personal Data as confidential, in accordance with this Privacy Policy and with all applicable Data Protection legislation and will process such Personal Data only for the Purposes and within the terms set out herein.
 
-We are responsible for the Personal Data under our control, including Personal Data disclosed by us to a Vendor (often referred to as the data processor). “Vendor” in this Privacy Policy means in relation to Personal Data any person or entity (other than an employee of Star Media Group Berhad) who processes the Personal Data on behalf of us. “Processing”, in relation to Personal Data means for example obtaining, recording, holding or using the Personal Data in carrying out any operation or set of operations on the Personal Data including organisation, compilation, retrieval disclosure of the Personal Data for verification Purposes.
+We are responsible for the Personal Data under our control, including Personal Data disclosed by us to a Vendor (often referred to as the data processor). "Vendor" in this Privacy Policy means in relation to Personal Data any person or entity (other than an employee of Star Media Group Berhad (ROC 10894D)) who processes the Personal Data on behalf of us. "Processing", in relation to Personal Data means for example obtaining, recording, holding or using the Personal Data in carrying out any operation or set of operations on the Personal Data including organisation, compilation, retrieval disclosure of the Personal Data for verification Purposes.
 
 We take every measure to provide a comparable level of protection for Personal Data should the information be Processed by a Vendor.
 
-We use and disclose aggregated non-personally identifying information collected through this Website as part of our organisation’s process of constantly improving this Website and/or business.
+We use and disclose aggregated non-personally identifying information collected through this Website as part of our organisation's process of constantly improving this Website and/or business.
 
 * ## Impact of Non Provision of Personal Data
 
@@ -60,9 +60,9 @@ Any Personal Data supplied by you will be retained by our organisation as long a
 
 We do not offer any online facilities for you to delete your Personal Data held by us.
 
-* ## How Email and ‘Contact Us’ messages are being handled
+* ## How Email and 'Contact Us' messages are being handled
 
-We may preserve the content of any email or “Contact Us” or other electronic message that we receive.
+We may preserve the content of any email or "Contact Us" or other electronic message that we receive.
 
 Any personal data contained in those messages will only be used or disclosed in ways set out in this Privacy Policy.
 
@@ -82,11 +82,11 @@ We may use this data and share it with rest of the Group to monitor the attracti
 
 * ## Cookies
 
-When you view this Website, we may store some data on your computer in the form of a “cookie” to automatically recognise your personal computer next time you visit.
+When you view this Website, we may store some data on your computer in the form of a "cookie" to automatically recognise your personal computer next time you visit.
 
 Cookies can help us in many ways, for example, by allowing us to tailor a website to better match your interests or to store your password to save you having to re-enter it each time.
 
-If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer’s hard drive, block all cookies or to receive a warning before a cookie is stored.
+If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer's hard drive, block all cookies or to receive a warning before a cookie is stored.
 
 * ## Public Forums
 
@@ -96,7 +96,7 @@ This site makes information sharing, feedback, forums, and/or message boards ava
 
 Personal Data provided in connection with an application for employment will be used to determine your suitability for a position with Star Media Group Berhad, MyStarJob Network Sdn Bhd or StarProperty Sdn Bhd and, if applicable, your terms of employment or engagement.
 
-Your information may also be used to monitor our group’s recruitment initiatives and equal opportunities policies.
+Your information may also be used to monitor our group's recruitment initiatives and equal opportunities policies.
 
 Your details may be disclosed to third parties to verify or obtain additional information including education institutions, current/previous employers and credit reference agencies. Credit reference agencies record these searches and you can contact us to find out which agencies we used. Unsuccessful applications may be retained to match your skills to future job opportunities.
 
@@ -110,7 +110,7 @@ We reserve the right to use, reproduce, disclose, transmit, publish, broadcast a
 
 * ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When a user is asked to provide his/her credit card information, we provide a secure environment through our partners’ systems (using industry standard SSL or SET protocols) for this purpose.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. When a user is asked to provide his/her credit card information, we provide a secure environment through our partners' systems (using industry standard SSL or SET protocols) for this purpose.
 
 For the internet, unfortunately, no data transmission over the internet can be guaranteed as completely secure. So while we strive to protect such Personal Data, we cannot ensure or warrant the security of any Personal Data transmitted to us and individuals do so at their own risk. Once any Personal Data comes into our possession, we will take reasonable steps to protect that information from misuse and loss and from unauthorised access, modification or disclosure.
 
@@ -118,7 +118,7 @@ A username and password may be essential for you to use some sections of this We
 
 * ## Links
 
-This site contains links to other sites. Star2.com is not responsible for the privacy practices or the content of such sites. Star2.com has also established relationships with partners but such relationships are generally technical in nature, or content collaborations. If any partner has access to any information entered by users in our database, this fact shall be disclosed to the user upon initiating the registration process. Users who feel they do not wish their information to be shared by anyone other than Star2.com may then opt out of completing the registration.
+This site contains links to other sites. The Star Online is not responsible for the privacy practices or the content of such sites. The Star Online has also established relationships with partners but such relationships are generally technical in nature, or content collaborations. If any partner has access to any information entered by users in our database, this fact shall be disclosed to the user upon initiating the registration process. Users who feel they do not wish their information to be shared by anyone other than The Star Online may then opt out of completing the registration.
 
 * ## Right of Access to Personal Data
 
