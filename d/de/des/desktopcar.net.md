@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopcar.net privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224001027id_/http%3A//www.desktopcar.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopcar.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619231231id_/http%3A//www.desktopcar.net/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
