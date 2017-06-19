@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chiccoshop.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229223501id_/http%3A//www.chiccoshop.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiccoshop.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619172240id_/http%3A//www.chiccoshop.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
 
-# Chicco | eCommerce Solutions On-Demand | Demandware Privacy Policy
+# eCommerce Solutions On-Demand | Demandware Privacy Policy
 
 Your privacy is extremely important to us, and, as such, we will strive to keep your personal information confidential and avoid unwanted solicitations. This Privacy Policy explains the type of personal information we collect and how we intend to use it. Please take a moment to read the following policy to learn how we collect and safeguard your personal information.
 
