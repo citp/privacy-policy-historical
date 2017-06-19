@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrm.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120121439id_/http%3A//www.pcrm.org/articles/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrm.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619131657id_/http%3A//www.pcrm.org/articles/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Physicians Committee
 
@@ -39,17 +39,19 @@ The information that we gather from subscribers or anyone else who provides thei
 
 All e-mail messages sent to e-mail newsletter subscribers contain a link that allows you to unsubscribe or to modify your profile. You may subscribe or unsubscribe to e-mail communication from PCRM at any time.
 
+To unsubscribe from receiving postal mail, please submit your request by phone ( 202-527-7374), e-mail ([info@PCRM.org](mailto:info@PCRM.org)), or in writing to: PCRM Membership Department, 5100 Wisconsin Ave., Suite 400, Washington, DC 20016. Please be sure to provide the full name and address information so that we may honor your request.
+
 If you have any questions about PCRM e-mail communications, please e-mail [info@pcrm.org](mailto:info@pcrm.org).
 
 ### How does PCRM protect my information?
 
 PCRM is extremely protective of the information gathered through its membership and websites. Our websites have security measures in place to protect against the loss, misuse, or alteration of the information under our control. Our Web server is located in a locked, secure environment.
 
-When you contribute to PCRM online or make a purchase through the PCRM Marketplace, we use a secure server and encryption to protect your financial and other personal information during transmission. 
+When you contribute to PCRM online or make a purchase through the PCRM Marketplace, we use a secure server and encryption to protect your financial and other personal information during transmission.
 
 ### Does PCRM rent, sell, or trade my information?
 
-PCRM occasionally makes the names and postal addresses of donors available to reputable advocacy and nonprofit organizations and commercial companies. That information is sent to mail processors, and those organizations do not actually receive that information unless you respond.
+PCRM occasionally makes the names and postal addresses of donors (gathered on-line or off-line) available to reputable advocacy and nonprofit organizations and commercial companies. That information is sent to mail processors, and those organizations do not actually receive that information unless you respond.
 
 If you are a PCRM donor and you don't want to your information exchanged with other organizations and companies, please e-mail us at [membership@PCRM.org](mailto:membership@PCRM.org) or call us at 202-527-7304 to speak to our membership staff. 
 
