@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222050533id_/https%3A//www.ocado.com/webshop/scontent/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocado.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619222842id_/https%3A//www.ocado.com/webshop/scontent/privacyPolicy) for the most accurate reproduction.*
 
 # Ocado: devoted to your shopping
 
 We know that by choosing to shop with us, you've placed a great deal of trust in us. We also understand that you want the personal information you give us to be kept private as well as secure. To reassure you that we feel the same way, here's how we will and, more importantly, will not use the personal information you give us. 
 
-This Privacy Policy was most recently updated on 26th April 2016. 
+This Privacy Policy was most recently updated on 9th May 2017. 
 
 ###  Information Collection 
 
@@ -14,14 +14,15 @@ By entering your personal information in our web site you accept that we may ret
 
 ###  What we collect and why 
 
-The information we gather from customers helps us to continually improve the service we offer to our customers. 
+The information we gather from customers, through our website, products and services, or receive in any other way, helps us to continually improve the service we offer to our customers. 
 
 When you shop with us, there are different ways we gather information about you: 
 
   * When you register with us, we ask for information such as your name, e-mail address, delivery address and contact details. We keep a record of this information. All this is necessary for us to recognise you as a registered customer and to fulfil the orders you place with us. Storing this information means you do not need to re-enter these details each time you shop. If you place an order, we also ask you for your debit or credit card details but we don't store these; we only store an encrypted token that represents your payment card. 
   * We keep a record of your purchases with us, which means we can create lists of your favourite items to make your shopping experience quicker and more convenient. It also means we can deal a lot quicker with any problems you may experience with your order. 
-  * We keep a record of your use of our website so that we can understand your online experience to improve our services. Our use of cookies helps us collect this information. You can visit our cookies policy webpage at [https://www.ocado.com/webshop/content/ws5/customerServices/policies/cookie#](https://www.ocado.com/webshop/content/ws5/customerServices/policies/cookie?ad=79372|1196653||#) for more information. 
+  * We keep a record of your use of our website so that we can understand your online experience to improve our services. Our use of cookies helps us collect this information. You can visit our cookies policy webpage at [https://www.ocado.com/webshop/content/ws5/customerServices/policies/cookie#](https://www.ocado.com/webshop/content/ws5/customerServices/policies/cookie?ad=79372|1258706||#) for more information. 
   * We keep a record of any e-mail correspondence you send us. This helps us keep track of your likes and dislikes and any problems or concerns you've had with our products or services. 
+  * We keep a record of your voice input and other information passed to us by voice assistant services so that we can fulfil the orders you place with us, understand your shopping experience and improve our related services. 
   * Telephone calls made to our Customer Service Helpline may be recorded for monitoring and quality control purposes. 
 
 
@@ -30,10 +31,10 @@ We may collect information received from third parties about you. We work with t
 
 ###  How we use your personal information 
 
-All the information we collect via our website or through correspondence with you is used by members of the Ocado Group to operate and improve the service we offer you. We are committed to using your personal information only for: 
+All the information we collect via our website, products and services, or through correspondence with you is used by members of the Ocado Group to operate and improve the service we offer you. We are committed to using your personal information only for: 
 
   * Dealing with orders and accounts for the supply of our goods and services. 
-  * Monitoring and improving any of our websites and our services. 
+  * Monitoring and improving any of our websites and our products and services. 
   * Planning and managing our business activities, including analysing customers' shopping habits and preferences. 
   * Enabling third parties to carry out technical, logistical or other functions on our behalf. 
   * Conducting market research including statistical analysis of customer behaviour that we may disclose to third parties in depersonalised, aggregated form. 
@@ -50,7 +51,7 @@ By opening an account with us you agree to us collecting and using your informat
 
 ###  Unsubscribing from our marketing communications 
 
-You may opt out of receiving our marketing communications when you open your account or anytime after that by 1) going to Account Settings/Marketing Communications and unticking the appropriate boxes or 2) sending an email from your Ocado registered email address to [unsubscribe@ocado.com](mailto:unsubscribe@ocado.com?ad=79372|1196653||) with the word "unsubscribe" in the subject line. 
+You may opt out of receiving our marketing communications when you open your account or anytime after that by 1) going to Account Settings/Marketing Communications and unticking the appropriate boxes or 2) sending an email from your Ocado registered email address to [unsubscribe@ocado.com](mailto:unsubscribe@ocado.com?ad=79372|1258706||) with the word "unsubscribe" in the subject line. 
 
 ###  When we share your personal information 
 
@@ -91,9 +92,9 @@ Fraudsters create authentic looking, but false or "spoof" websites. Their purpos
 
 If you get any email containing an embedded link and a request for you to enter any personal details, treat it as suspicious and do not input any personal information, even if the page appears legitimate. No reputable company ever sends emails of this type. 
 
-###  International data transfers 
+###  Data over the internet 
 
-Ocado is based in the UK, but in order to offer you the best service we can provide, we work with service providers from other parts of the world. This means that the data we collect sometimes needs to be transferred, stored and used outside the European Economic Area. We want you to know that we have taken steps to ensure there is an appropriate level of security for the processing carried out in these countries. 
+The internet is a global network - therefore there are cases where your data travels internationally, which may include places outside the European Union. We want you to know that if you visit or shop with Ocado, you're agreeing and authorising us to process data this way. 
 
 ###  Updates 
 
@@ -111,7 +112,7 @@ Please note that this type of request will be subject to a fee of £10 to meet o
 
 ###  Further information 
 
-If you have questions about your personal information or our privacy policy, please contact us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372|1196653||). To see all the information we have about you, and to correct any inaccuracies, write to: 
+If you have questions about your personal information or our privacy policy, please contact us at [privacy@ocado.com](mailto:privacy@ocado.com?ad=79372|1258706||). To see all the information we have about you, and to correct any inaccuracies, write to: 
 
 **The Company Secretary  
 Ocado Group plc   
