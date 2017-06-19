@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202110747id_/http%3A//www.amway.in/store/amway/en/INR/static-pages/ABO_PCPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.in privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619021648id_/http%3A//www.amway.in/store/amway/en/INR/static-pages/ABO_PCPrivacyPolicy) for the most accurate reproduction.*
 
 # AmwayPrivacyPolicy
 
