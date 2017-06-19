@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227165156id_/http%3A//www.havasmedia.com/utilites/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the havasmedia.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619025530id_/http%3A//www.havasmedia.com/utilites/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Havas Media
 
-##  27 December 2016
+##  19 June 2017
 
 ## PRIVACY AND PERSONAL DATA  
 
 
-We inform you that the website [www.havasmedia.com](http://www.havasmedia.com/) (the “Website”) is operated by Media Planning Group, S.A.U.. (hereinafter, “MPG”, “we”, “us” or “our”), with Tax I.D. Code (“C.I.F.”) A–78.809.662, entered at the Commercial Registry of Barcelona on volume 37.673, folio 220, page B-221.687, and registered office at Barcelona C/ Doctor Fleming, 17. MPG is adhered to Confianza On-line. You may obtain further information on MPG in the section “Who we are” and “What we do” of the Website or by sending an e-mail to the following e-mail address [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com) “You” and “Your” means you as the user of our Website.
+We inform you that the website [www.havasmedia.com](http://www.havasmedia.com/) (the “Website”) is operated by Havas Media Group Spain, S.A.U.. (hereinafter, “HMGS”, “we”, “us” or “our”), with Tax I.D. Code (“C.I.F.”) A–78.809.662, entered at the Commercial Registry of Barcelona on volume 37.673, folio 220, page B-221.687, and registered office at Barcelona, Avda Diagonal, 575, Edificio L’Illa. HMGS is adhered to Confianza On-line. You may obtain further information on HMGS in the section “Who we are” and “What we do” of the Website or by sending an e-mail to the following e-mail address [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com) “You” and “Your” means you as the user of our Website.
 
 This privacy policy ("Privacy Policy") is intended to inform You how we gather, define, and use Your Information (as defined below). This Privacy Policy, and our separate Terms of Use and our Cookies Policy, make up our Website “Terms and Conditions”.
 
 Access to and use of the Website by You implies Your full acceptance of the Website Terms and Conditions. In this regard, if You access and use the Website You agree to comply with the provisions indicated in the mentioned legal documents. The provision of the Website service is limited to the period during which You are connected to the Website or to any of the services provided via same. Therefore, You must read this Privacy Policy carefully each time You intend to use the Website, since it may undergo changes.  
 All Your personal Information shall be held and used in accordance with the Personal Data Protection Law (the "Legislation"). If You want to know what information we collect and hold about You, please write to us at [privacy.hvm@havasmedia.com](mailto:privacy.hvm@havasmedia.com).
 
-MPG is the data controller of the personal data that we will collect from You.  
+HMGS is the data controller of the personal data that we will collect from You.  
 
 
 ## WHAT INFORMATION DO WE COLLECT  
@@ -34,12 +34,12 @@ Furthermore, by accessing the Website we may also collect information about Your
 ## HOW DO WE USE THE INFORMATION THAT YOU PROVIDE TO US?  
 
 
-In compliance with the legislation, we inform You that the personal data collected through Your access to the Website or through any data collection forms of the Website will be included in a personal data filing system of which Havas Media is the data controller.
+In compliance with the legislation, we inform You that the personal data collected through Your access to the Website or through any data collection forms of the Website will be included in a personal data filing system of which HMGS is the data controller.
 
 We use Your information with the purposes to (i) manage Your navigation through the Website and (ii) for the purposes indicated in each data collection forms. Please note that when You click the button “submit” included in each data collection form, You declare that the information and personal data provided are accurate and updated.  
 
 
-With Your consent, we may disclose Your personal information to the entities of the group of companies to which MPG belongs, the group includes, but is not limited, the following companies: ARCHIBALD INGALL STRETTON, S.L.; ARENA MEDIA COMMUNICATIONS ESPAÑA, S.A.U.; ARENA COMMUNICATIONS NETWORK, S.L.; ARTEMIS ALLIANCE, S.L.U.; ELISA INTERACTIVE, S.L.U.; HAVAS, S.A.; HAVAS MANAGEMENT ESPAÑA, S.L.U.; HAVAS MEDIA, S.L.U.; HAVAS MEDIA ALLIANCE, S.L.U.; HAVAS MEDIA ALLIANCE WW, S.L.U. ;HAVAS MEDIA CONSULTING, S.L.U.; HAVAS SPORTS, S.A.U.; IGLUE MEDIA, S.L.U.; INNOVATION RESEARCH MANAGEMENT LAB, S.L.U.; FORWARD HOLDING SPAIN, S.L.U.; FORWARD MEDIA COMMUNICATION; MEDIA ADVISORS, S.A.U.; MEDIA CONTACTS, S.A.U.; MEDIA CONTACTS MOBILE, S.L.U.; MEDIA PLANNING GROUP, S.A.U; MEDIA PLANNING LEVANTE, S.L.U.; METRICS IN MARKETING, S.A.U.; PROXIMIA BALEARS, S.L.; PROXIMIA HAVAS, S.L.U.; RESEARCH AND DEVELOPPEMENT CONSULTING LAB; RESEARCH AND DEVELOPPEMENT MARKETING LAB, S.L.U. UNCOMMON HOLDING SPAIN, S.A.U.
+With Your consent, we may disclose Your personal information to the entities of the group of companies to which HMGS belongs, the group includes, but is not limited, the following companies: ARCHIBALD INGALL STRETTON, S.L.; ARENA MEDIA COMMUNICATIONS ESPAÑA, S.A.U.; ARENA COMMUNICATIONS NETWORK, S.L.; ARTEMIS ALLIANCE, S.L.U.; ELISA INTERACTIVE, S.L.U.; HAVAS, S.A.; HAVAS MANAGEMENT ESPAÑA, S.L.U.; HAVAS MEDIA, S.L.U.; HAVAS MEDIA ALLIANCE, S.L.U.; HAVAS MEDIA ALLIANCE WW, S.L.U. ;HAVAS MEDIA CONSULTING, S.L.U.; HAVAS SPORTS, S.A.U.; IGLUE MEDIA, S.L.U.; INNOVATION RESEARCH MANAGEMENT LAB, S.L.U.; FORWARD HOLDING SPAIN, S.L.U.; FORWARD MEDIA COMMUNICATION; MEDIA ADVISORS, S.A.U.; MEDIA CONTACTS, S.A.U.; MEDIA CONTACTS MOBILE, S.L.U.; HAVAS MEDIA  GROUP SPAIN, S.A.U; MEDIA PLANNING LEVANTE, S.L.U.; METRICS IN MARKETING, S.A.U.; PROXIMIA BALEARS, S.L.; PROXIMIA HAVAS, S.L.U.; RESEARCH AND DEVELOPPEMENT CONSULTING LAB; RESEARCH AND DEVELOPPEMENT MARKETING LAB, S.L.U. UNCOMMON HOLDING SPAIN, S.A.U.
 
 In limited circumstances we may pass Your Information to other third party organisations if we are under a duty to disclose or share Your Information to comply with any legal obligation or in order to enforce or apply our Terms and Conditions and other agreements or protect the rights, property, or safety of our clients, or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction.  
 
@@ -61,7 +61,7 @@ Similar to other commercial websites, our Website uses a technology called "cook
 By using our Website You consent to our collection and use of certain data as described in this Privacy Policy and our Cookie Policy. If we change our privacy policies and procedures, we will post those changes on our Website to keep You aware of what information we collect, how we use it and under what circumstances we may disclose it.  
 
 
-We also inform You that You may revoke the consent given for the processing of Your data, whenever this is legally appropriate, by sending a notice to MPG as provided below.
+We also inform You that You may revoke the consent given for the processing of Your data, whenever this is legally appropriate, by sending a notice to HMGS as provided below.
 
 ## HOW CAN YOU ACCESS YOUR INFORMATION  
 
