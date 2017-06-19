@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910233806id_/http%3A//sxswedu.com/privacy-policy-2017) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619045926id_/http%3A//sxswedu.com/privacy-policy-2017) for the most accurate reproduction.*
 
 # Privacy Policy 2017 | SXSWedu.com
 
 Last modified: June 15, 2016
 
-This privacy policy ("Privacy Policy") identifies what information is collected by SXSW, LLC, its agents, subsidiaries, and affiliates (collectively referred to herein as “SXSW”, “we”, “our”, or “us”) about you and your use of our website, http://www.sxsw.com, and related websites (“Site”). SXSW is committed to respecting your privacy, and we urge you to read this Privacy Policy carefully. Your use of this Site constitutes an agreement to be bound by the terms and conditions set forth herein, and in our Terms of Use. If you do not agree to be bound by such terms, please leave the Site immediately. This Privacy Policy may change from time to time, and changes are effective upon posting, so it is your responsibility to check back and review this Privacy Policy. This Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States, and you agree to such transfer.
+This privacy policy ("Privacy Policy") identifies what information is collected by SXSW, LLC, its agents, subsidiaries, and affiliates (collectively referred to herein as “SXSWedu”, “SXSW”, “we”, “our”, or “us”) about you and your use of our website, [http://www.sxswedu.com](http://www.sxswedu.com/), and related websites (“Site”). SXSW is committed to respecting your privacy, and we urge you to read this Privacy Policy carefully. Your use of this Site constitutes an agreement to be bound by the terms and conditions set forth herein, and in our [Terms of Use](https://web.archive.org/terms-of-use). If you do not agree to be bound by such terms, please leave the Site immediately. This Privacy Policy may change from time to time, and changes are effective upon posting, so it is your responsibility to check back and review this Privacy Policy. This Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States, and you agree to such transfer.
 
 **This Privacy Policy details the following information:**
 
@@ -18,7 +18,7 @@ This privacy policy ("Privacy Policy") identifies what information is collected 
 
 
 
-### I. WHAT & HOW WE COLLECT PII
+## I. WHAT & HOW WE COLLECT PII
 
 **A. PII Generally.**  
 PII is information that can be used to identify or contact you. We collect the PII that you provide to us in two general and distinct ways: (1) when you choose to purchase various services or products offered by SXSW and/or its affiliated business partners, including but not limited to the purchase of SXSW badges; or (2) when you choose to participate in surveys, apply to participate in SXSW, or send e-mails to SXSW. If you access a third party site from a link on the SXSW website, any information you reveal on that site is not subject to this Privacy Policy and, SXSW is not responsible for the privacy practices or the content of those sites. Please be sure to review the privacy policies of such third party websites before providing any personal information.
@@ -31,7 +31,7 @@ You may view or use our Site without registering or submitting any PII. In that 
 
 If you connect to our Site or sign up for promotions using your Facebook or other third party credentials, you authorize us to collect your authentication information, such as your username, access credentials, and other information that may be available through your Facebook or other third party account, including but not limited to your name, profile picture, country, hometown, e-mail address, date of birth, and gender.
 
-If you purchase [SXSW registration](http://sxswedu.com/attend) credentials (“Badge”) through the Site, the RFID Policy available [ere](https://web.archive.org/rfid) applies. Please carefully review the RFID Policy before proceeding with the purchase of any Badge. Purchase of a Badge acknowledges your agreement to the RFID Policy.
+If you purchase [SXSWedu registration](https://web.archive.org/attend) credentials (“Badge”) through the Site, the RFID Policy available [here](https://web.archive.org/rfid) applies. Please carefully review the RFID Policy before proceeding with the purchase of any Badge. Purchase of a Badge acknowledges your agreement to the RFID Policy.
 
 When you wish to purchase a Badge you will be directed to the PayPal website to enter payment information, including but not limited to your name, address, and certain financial information. SXSW cannot guarantee the security of any information provided to PayPal or any third party service provider. Please review and agree to the PayPal Privacy Policy, available here, before providing it with your PII.
 
@@ -44,12 +44,14 @@ We also collect demographic information using Google Analytics Demographics & In
 **F. Web Beacons**  
 In limited circumstances we also may use "web beacons" to collect anonymous, non-personal information about your use of our Site, and your use of emails, special promotions or newsletters we may send to you from time to time. Web beacons are tiny graphic image files imbedded in a web page or e-mail that provide a presence on the web page or e-mail and send back to its home server information from the users' browser. The information collected by web beacons allow us to statistically monitor how many people are using our Site, or are opening our emails, and for what purposes. It may be possible to link non-personal web beacon information to PII collected.
 
-**G. E-mails and Newsletters** As noted in the discussions of cookies and web beacons (see above), we collect anonymous, non-personal information about your use of e-mails and newsletters that we may send to you from time to time. In some cases, when you click on a link or an advertisement in an e-mail or newsletter, your browser may be momentarily directed to the site of a third party which, acting on SXSW's behalf (see Disclosure to Website Service and Content Contractors, below), notes or "counts" your response to the e-mail or newsletter before re-directing your browser to its proper destination. This re-direction process will not be apparent to you.
+**G. E-mails and Newsletters**  
+As noted in the discussions of cookies and web beacons (see above), we collect anonymous, non-personal information about your use of e-mails and newsletters that we may send to you from time to time. In some cases, when you click on a link or an advertisement in an e-mail or newsletter, your browser may be momentarily directed to the site of a third party which, acting on SXSW's behalf (see Disclosure to Website Service and Content Contractors, below), notes or "counts" your response to the e-mail or newsletter before re-directing your browser to its proper destination. This re-direction process will not be apparent to you.
 
 **H. Information Collected by Third Parties Not Acting on SXSW's Behalf**  
 Sponsors, business partners or advertisers on the Site or in emails, special promotions or newsletters we may send to you from time to time may also use their own cookies or web beacons when you click on their advertisement or link to their site or service, or even if the advertisement simply appears on a page or in an e-mail that you are viewing. Some advertisers use companies other than SXSW to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect non-personal information through the use of cookies or web beacons on our Site. In certain situations, information collection may be facilitated by momentarily directing your browser to the site of an Ad Server or other third party acting on behalf of the sponsor, business partner, or advertiser before re-directing your browser to its proper destination (e.g., back to SXSW to show the ad, or to the advertiser's Web site); this re-direction process will not be apparent to you. We do not control these third parties' use of cookies or web beacons, or how they manage the non-personal information they gather through them. However, you should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites.
 
-**I. Public Forums** This Privacy Policy does not apply when you use SXSW's public forums if and when they become available. As a service to our users, SXSW may feature chat rooms and bulletin boards where users can share information and support one another or where users can post questions for other users to answer. You should be aware that any information shared in a chat room, bulletin board, or other type of posting is public information and may be seen, disclosed to or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any PII in any public forum.
+**I. Public Forums**  
+This Privacy Policy does not apply when you use SXSW's public forums if and when they become available. As a service to our users, SXSW may feature chat rooms and bulletin boards where users can share information and support one another or where users can post questions for other users to answer. You should be aware that any information shared in a chat room, bulletin board, or other type of posting is public information and may be seen, disclosed to or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any PII in any public forum.
 
 **J. E-mails to SXSW**  
 If you want to keep business information, resumes, ideas, concepts or inventions private or proprietary, do not send them in an e-mail to SXSW. We try to answer every email in a timely manner, but are not always able to do so.
@@ -57,7 +59,7 @@ If you want to keep business information, resumes, ideas, concepts or inventions
 **K. Location Services**  
 You will have the opportunity to opt-in to Location Services, which will enable SXSW to communicate with you about the SXSW event.
 
-### II. DISCLOSURE OF YOUR PII
+## II. DISCLOSURE OF YOUR PII
 
 **A. Generally**  
 Except as set forth in this Section II, or as specifically agreed to by you, SXSW will employ best efforts to not use or disclose any PII it gathers from you unless reasonably required in order to answer your questions, provide products and/or services you may request or purchase from SXSW (such as, information we need to share with our credit card internet gateway), or to comply with governmental, legal, or internal record-keeping requirements as reasonably required. We may release PII to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; (2) in special cases, such as a financial or physical threat to you or others. In the event that we are legally compelled to disclose your PII to a third party, we will notify you unless doing so would violate the law or court order. SXSW has never received an order under Section 215 of the USA Patriot Act; or (3) to third-parties solely for the purposes of analysis, marketing, research, and other business reasons in order to improve the Event and the Site.
@@ -89,27 +91,29 @@ If you use this Site from countries outside of the U.S., the information SXSW co
 **J. Other Disclosures**  
 While on our Site, you may have the opportunity to sign up or opt in to receive information and/or marketing offers from SXSW’s sponsors or partners or to otherwise consent to the sharing of your PII with a third party. If you agree to have your PII shared, your PII will be disclosed to the third party and the PII you disclose will be subject to the privacy policy and business practices of that third party. If you no longer wish to have your PII shared with third-parties, you will have the opportunity to opt-out by sending an email to subscriptions at sxsw.com.
 
-### III. SECURITY
+## III. SECURITY
 
 SXSW has put in place appropriate safeguards to prevent unauthorized access to your PII. Although we take such efforts to protect your PII from loss, misuse, or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. SXSW cannot assure you that the PII SXSW may collect in the future will never be disclosed in a manner inconsistent with this Privacy Policy.
 
-### IV. YOUR PRIVACY CHOICES
+## IV. YOUR PRIVACY CHOICES
 
-You will be given the option to opt in or sign up for recurring informational/promotional emails from SXSW and/or third parties. You may opt out of receiving emails from or on behalf of SXSW either. You may opt out of receiving these e-mails and newsletters at any time. When you have received a newsletter you wish to stop, follow the steps to unsubscribe, and SXSW's Customer Service will unsubscribe you. You may also unsubscribe by contacting us at subscriptions at sxsw.com. You may also have the option of receiving e-mails or newsletters from third parties, participating in research or marketing surveys and participating in other activities. You may exercise these options by placing a checkmark beside a statement that expresses a preference for receiving these communications or participating in these activities. You may change your decision at any time by following the directions regarding how to unsubscribe from these e-mails or newsletters.
+You will be given the option to opt in or sign up for recurring informational/promotional emails from SXSW and/or third parties. You may opt out of receiving emails from or on behalf of SXSW either. You may opt out of receiving these e-mails and newsletters at any time. When you have received a newsletter you wish to stop, follow the steps to unsubscribe, and SXSW's Customer Service will unsubscribe you. You may also unsubscribe by contacting us at subscriptions at sxsw.com.
 
-### V. UPDATING YOUR PII & CONTACTING SXSW
+You may also have the option of receiving e-mails or newsletters from third parties, participating in research or marketing surveys and participating in other activities. You may exercise these options by placing a checkmark beside a statement that expresses a preference for receiving these communications or participating in these activities. You may change your decision at any time by following the directions regarding how to unsubscribe from these e-mails or newsletters.
+
+## V. UPDATING YOUR PII & CONTACTING SXSW
 
 You can always contact us in order to (1) delete your PII from our systems, (2) update the PII that you have provided to us, and (3) change your preferences with respect to marketing contacts or other activities, by e-mailing us at subscriptions at sxsw.com or by clicking the link entitled “Update Preferences”, which is available at the bottom of a newsletter you received. Such changes will not have any effect on other information that SXSW maintains. If you have a complaint or problem you may e-mail us at support at sxsw.com and the customer service department will forward your complaint to the appropriate internal SXSW department for a response or resolution. We try to answer every email in a timely manner but are not always able to do so.
 
 You should be aware that it may not be technologically possible to remove each and every record of the information you have provided to SXSW from our servers. The need to back-up our systems to protect information from inadvertent loss means that a copy of your PII may exist in a non-erasable form that may be difficult or impossible for us to locate. Nevertheless, upon receiving your request, we will endeavor to delete all PII stored in the databases we actively use for research and daily business activities, as well as other readily searchable media.
 
-### VI. NOTICE TO CALIFORNIA RESIDENTS & DO NOT TRACK DISCLOSURE
+## VI. NOTICE TO CALIFORNIA RESIDENTS & DO NOT TRACK DISCLOSURE
 
 Residents of California have a right to request a detailed list of any third-party entities with which SXSW shares PII for their own marketing purposes. You may opt-out of having your PII shared with third parties by sending your request including your full name, email address, and postal address to: SXSW, LLC, P.O. Box 685289, Austin, TX, 78768 ATTN: Privacy Officer.
 
 SXSW does not respond to “do not track” signals from users of the Site regarding the collection of PII. California residents using the Site are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814, by phone at 916-445-1254 or 800-952-5210, or by email to dca at dca.ca.gov.
 
-### VII. CONTACT
+## VII. CONTACT
 
 You may contact us by U.S. mail with any questions about this Privacy Policy at: SXSW, LLC, P.O. Box 685289, Austin, TX, 78768 ATTN: Privacy Officer.
 
