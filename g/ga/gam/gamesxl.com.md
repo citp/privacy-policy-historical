@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesxl.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216064952id_/http%3A//www.gamesxl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesxl.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620013305id_/http%3A//www.gamesxl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games XL .com
 
@@ -33,7 +33,7 @@ By offering advertisements on Website that generate income for Website, we are a
     * Google Analytics Demographics and Interest Reporting
     * Integrated services that require Google Analytics to collect data via advertising cookies and identifiers
 
-By doing so, advertisements are more attractive for you as user and we are able to improve our campaigns for instance to make sure you’re not seeing the same advertisement twice.
+By doing so, advertisements are more attractive for you as user and we are able to improve our campaigns for instance to make sure you're not seeing the same advertisement twice.
 
 If you click on our advertisement on a website, we are able to adjust the content of Website to make sure the Website contains the content of the advertisement (that particular popular game for example)
 
@@ -46,7 +46,7 @@ If you wish to opt-out: [tools.google.com/dlpage/gaoptout/](https://tools.google
 | Google | [link](https://www.google.com/intl/en/policies/privacy/partners/ "Google Partners Privacy Policy")  
 Log in with your Facebook account on Website;  
 To facilitate a Like on Facebook if you push the LIKE button and to monitor your visit to our Website.  
-When logged in on Facebook and visiting Website, Facebook knows you’ve visited Website. Facebook keeps records of every website that displays the LIKE button. | For this information we refer to the privacy statement of Facebook. | Facebook | [link](https://www.facebook.com/full_data_use_policy "Facebook Privacy Policy")  
+When logged in on Facebook and visiting Website, Facebook knows you've visited Website. Facebook keeps records of every website that displays the LIKE button. | For this information we refer to the privacy statement of Facebook. | Facebook | [link](https://www.facebook.com/full_data_use_policy "Facebook Privacy Policy")  
 Log in with your Google account on Website;  
 To facilitate a +1 on Google+ if you push the G+1 button. | For this information we refer to the privacy statement of Google. | Google | [link](https://www.google.com/intl/policies/policies/privacy/ "Google Privacy Policy")  
 Log in with your Twitter account on Website. | For this information we refer to the privacy statement of Twitter. | Twitter | [link](https://twitter.com/privacy "Twitter Privacy Policy")  
@@ -56,9 +56,9 @@ Day of birth;
 IP address;  
 Registration and login date;  
 If you have provided these: your first and last name;  
-The same data as stated under ‘Making sure the website functions as it should function’. | Website  
+The same data as stated under 'Making sure the website functions as it should function'. | Website  
 We are saving this in our database (this information is not stored in a cookie). | This privacy statement.  
-Assuring that the games of our partner function as they should. It seems you’re playing a game on our Website, but it is loaded from a partner website. Think of the game as a painting that is hosted elsewhere, while you see it through our Website that functions as the frame for the painting. They are given space on our Website to make it possible for you to play their game. It is up to the third party to inform you about their processing activities. That’s the reason you might bump into another cookie bar. | As explained we don’t exactly know which personal data third parties are processing. Nevertheless we’ve displayed our most important partners and their privacy statements at the right, to make sure you are informed about their processing activities. | CoolGames  
+Assuring that the games of our partner function as they should. It seems you're playing a game on our Website, but it is loaded from a partner website. Think of the game as a painting that is hosted elsewhere, while you see it through our Website that functions as the frame for the painting. They are given space on our Website to make it possible for you to play their game. It is up to the third party to inform you about their processing activities. That's the reason you might bump into another cookie bar. | As explained we don't exactly know which personal data third parties are processing. Nevertheless we've displayed our most important partners and their privacy statements at the right, to make sure you are informed about their processing activities. | CoolGames  
 Famobi  
 OrangeGames  
 Poki | [link](http://www.coolgames.com/en/static/privacy-policy "CoolGames Privacy Policy")  
@@ -133,11 +133,11 @@ Because of these cookies we can show you which games you have played, which game
 
 Because of these cookies we can display advertisements tuned to your interests.
 
-These cookies are stored after your consent. You do so by pressing ‘‘I agree’’ in the cookie bar or if you decide to click on the Website after the cookie bar has popped up.
+These cookies are stored after your consent. You do so by pressing "I agree" in the cookie bar or if you decide to click on the Website after the cookie bar has popped up.
 
 **Deleting cookies**
 
-Got objections against cookies? If you want to delete cookies, you should do this in the settings of your browser. We can not help you do this, because the cookies are stored in your browser. Consult the ‘‘help’’ function of your browser if needed. On [www.youronlinechoices.com](http://www.youronlinechoices.com/ "Your Online Choices") third party cookies can be deleted in such a manner that these cookies are not restored on other websites.
+Got objections against cookies? If you want to delete cookies, you should do this in the settings of your browser. We can not help you do this, because the cookies are stored in your browser. Consult the "help" function of your browser if needed. On [www.youronlinechoices.com](http://www.youronlinechoices.com/ "Your Online Choices") third party cookies can be deleted in such a manner that these cookies are not restored on other websites.
 
     3. ### Google
 
@@ -152,7 +152,7 @@ The following Google Analytics advertising features are implemented on Website:
       * Google Analytics Demographics and Interest Reporting
       * Integrated services that require Google Analytics to collect data via advertising cookies and identifiers
 
-You can opt-out for Google Analytics advertising features with the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on") or through ‘[Ad Settings](https://www.google.com/settings/u/0/ads "Google Ad Settings")’.
+You can opt-out for Google Analytics advertising features with the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout/ "Google Analytics Opt-out Browser Add-on") or through '[Ad Settings](https://www.google.com/settings/u/0/ads "Google Ad Settings")'.
 
     4. ### Other external advertising companies
 
@@ -177,7 +177,7 @@ You may amend and/or delete your personal data provided actively on your profile
 You may at all times communicate all your questions about our privacy policy or questions regarding access and amendments to (or removal of) your personal data to Website. You are requested to use our [contact form](http://admeen.com/contact/?ref=http://www.gamesxl.com "Contact form") for that purpose.
 
 **Admeen B.V.**  
-Attn GamesXL.com  
+Attn Gamesxl.com  
 Hanzeplein 11-27  
 8017 JD Zwolle  
 the Netherlands 
