@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203052757id_/https%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksillustrated.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620005516id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Cook's Illustrated
+# Privacy Policy - America's Test Kitchen
 
 Effective: March, 2014 
 
@@ -56,11 +56,11 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ATK’s sites are not intended for children under the age of 13. We will not knowingly collect personally identifiable information via any ATK site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. 
 
-##  Contacting Cook's Illustrated 
+##  Contacting America's Test Kitchen 
 
 We are committed to privacy, and we support current industry initiatives to preserve individual privacy rights on the Internet. If you have any comments or questions regarding our privacy policy, please contact us at [customerservice@americastestkitchen.com](mailto:customerservice@americastestkitchen.com) or: 
 
-Cook's Illustrated   
+America's Test Kitchen   
 Customer Service   
 17 Station St.   
 Brookline, MA 02445   
