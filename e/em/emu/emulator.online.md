@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emulator.online privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019182249id_/http%3A//emulator.online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emulator.online privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619050245id_/http%3A//emulator.online/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 Emulator.online may collect and use Users personal information for the following purposes:
 
   * To run and operate our Site
-  * We may need your information display content on the Site correctly.
+  * We may need your information to display content on the Site correctly.
   * To improve customer service
   * Information you provide helps us respond to your customer service requests and support needs more efficiently.
   * To personalize user experience
@@ -51,6 +51,22 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
 
+## Measuring our visitors
+
+We measure visitors to our website using Google Analytics. This records what pages you view within our site, how you arrived at our site and some basic information about your computer. All of that information is anonymous – so we don’t know who you are; just that somebody visited our site.
+
+The information we collect from analytics helps us understand what parts of our sites are doing well, how people arrive at our site and so on. Like most websites, we use this information to make our website better.
+
+You can learn more about [Google Analytics](http://www.google.com/analytics/learn/privacy.html) or [opt out if you wish](https://tools.google.com/dlpage/gaoptout).
+
+## Facebook and other social networks
+
+These services provide social buttons and similar features which we use on our website – such as the “Like” button.
+
+To do so we embed code that they provide and we do not control ourselves. To function their buttons generally know if you’re logged in; for example Facebook use this to say “x of your friends like this”. We do not have any access to that information, nor can we control how those networks use it.
+
+Social networks therefore could know that you’re viewing this website, if you use their services (that isn’t to say they do, but their policies may change). As our website is remarkably inoffensive we imagine this is not a concern for most users.
+
 ## Changes to this privacy policy
 
 Emulator.online has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -65,6 +81,13 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 
 
-## Update
+## Updates
 
-This document was last updated on November 12, 2015
+This document was created on November 12, 2015
+
+Last updated on February 19, 2017
+
+  * Add “ _Measuring our visitors_ ” section
+  * Add “ _Facebook and other social networks_ ” section
+
+
