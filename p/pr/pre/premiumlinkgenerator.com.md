@@ -1,100 +1,73 @@
-> *The following text is extracted and transformed from the premiumlinkgenerator.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumlinkgenerator.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619093917id_/https%3A//premiumlinkgenerator.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# ▷ Privacy Policy || Premium Link Generator ⇒ 1 Account for 50+ Hosts
 
-**Go Daddy Respects Your Privacy**
+**Premium Link Generator Privacy Policy**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Here in [http://premiumlinkgenerator.com](http://premiumlinkgenerator.com/), we recognize and respect the privacy of our users over the internet. This page is dedicated to providing information about the privacy and process of collecting data for the site: [http://premiumlinkgenerator.com](http://premiumlinkgenerator.com/)
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**The Premium Link Generator Site and Third Party Sites**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+This Privacy Policy only applies to Premium Link Generator Site. The links to third party sites that Premium Link Generator may contain are not owned or control by us and we assume no responsibility for its content, privacy policies, or practices. Users agree that they are responsible for reviewing and understanding the privacy policy (if any) of any third party sites that users may access through this Site. When you use this Site, you will not hold Premium Link Generator from any and all liability that may arise from using any third-party site to which this Site may be linked.
 
-**Information Collection and Use**
+Based on the information that we collect, we use it to provide and improve the Service, the Site, and the related features, to administer users subscription and to enable them to enjoy and easily navigate the Site. Below is the list of types and categories of information that our Site collects. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**Our Site collects the personal information using:**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * Registration
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+You are required to create an account on our Site to become a user. You need to provide contact information including e-mail address and a password, which you recognize and clearly acknowledge as personal information used to identify you. Your account's password will be sent through the e-mail you provided, which can be changed anytime by logging into your account and editing your My Details section. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * Log Data
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Simply browsing our server automatically records information about your use of the Site. The Log Data may contain information, such as your IP address, browser type, the software you were using, pages of the Site that you visited, the time spent on those pages, the information you searched on the Site, access times and dates, and other statistics. The information we collect is used to monitor and analyze the use of the Site and the Service, for the Site technical administration, to improve Site functionality and accessibility, and to customize it depending on our users needs. 
 
-**Updating Your Information**
+  * Cookies
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Premium Link Generator uses cookies and web log files like other websites in order to track site usage. One type of cookie that we are using is known as persistent cookie, which allows the Site to recognize you as a user when you return using the same computer and web browser. Thus, you wont need to log in before using the service. If your browser settings don't allow cookies, then you won't be able to login to your Premium Link Generator Premium account. The cookie and log file data is also used to customize your experience on our Site, which is similar to the information that you enter at the registration. 
 
-      iii.      You may call us at: (480) 505-8800
+**Log files, IP addresses, and information about your computer**
 
-       iv.      You may fax us at: (480) 505-8844
+When users visit Premium Link Generator site, we automatically receive information from them due to the communications standards on the internet. The information that we receive includes the URL of the site from which users came and the site to which users are going when they leave the Site, IP address of their computer or the proxy server they use to access the internet, their computers operating system and the type of browser they are using, e-mail patterns, and the name of their ISP. The information we received will help us improve the Site service by analyzing overall trends. Third parties won't get any access to users IP address and personally identifiable information without their permission unless it is required by the law. 
 
-**Sending Emails**
+**Premium Link Generator Communications**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Communication between the Site administrators and users will be through e-mail, notices on the forum site, and other means of services like text and other forms of messaging. To change your e-mail and contact preferences, simply log in to your account and edit My Details section. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Sharing Information with Third Parties**
 
-**Compliance with Laws and Law Enforcement**
+The Site gives importance to the privacy of our users. Thus, we do not sell, rent, or provide your personally identifiable information to third parties for marketing purposes. We will only do such thing based on your instructions or to provide specific services or information. For example, we use credit card processing companies to charge users for premium accounts. However, these third parties do not retain, share, or store any personally identifiable information except to provide these services. They are obliged by confidentiality agreements that limit their use of such information. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Phishing**
 
-**Third Party Service Providers**
+Phishing and identity theft are major concerns on our Site. Thus, protecting our users information is our top priority. We do not and will not, at any time, ask for your personal information including credit card information, your account ID, login password using a non-secure or unsolicited e-mail or via phone call. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**Links to Other Sites**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+You will find third party links in our site but we do not endorse, authorize, or represent any affiliation to these third party websites nor endorse their privacy or information security policies, or practices. We do not control these third party websites. Thus, we encourage our users to read the privacy policies or statements of the other websites you visit. These third party sites may place their own cookies or other files on your computer, collect data or ask personal information from you. They follow different rules regarding the use or disclosure of the personal information you submit to them. 
 
-**Supplementation of Information**
+**Accessing and Changing your Account Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+The information that users provided on our Site can be reviewed and changed anytime by simply logging into the user's account on the Premium Link Generator site. However, even after the user requested for a change is processed, the Site may for a time retain residual information in its backup and or archival copies of its database 
 
-**Contests/Surveys**
+**Deleting your Account**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+Users can easily request to delete their account at any time. Note that Premium Link Generator site may retain certain data contributed by the user, which we believe can be used to prevent fraud or future abuse, legitimate business purposes like analysis of aggregated, non-personally identifiable data, and account recovery, or if required by the law. To delete your account, please send us a request at [support@premiumlinkgenerator.com](mailto:support@premiumlinkgenerator.com) and it will be deleted as soon as possible.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+ **Your Obligations**
 
-**Tell-A-Friend**
+Users also have certain obligations that are imposed by applicable law and regulations:Users must all the time respect the Terms and Conditions of the then-current Privacy Policy and the Terms of Use including all intellectual property rights which may belong to third parties.Users must not download or distribute any information which can be considered to be injurious, violent, offensive, racist, or xenophobic.We take these principles very seriously and consider these to be the basis on which our users follow to the Premium Link Generator Site and the services we offer. Thus, any violation of these guidelines may lead to the restriction, suspension, or termination of user's account. 
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+**Changes to This Policy**
 
-**What Happens to my Personal Information if I Opt Out?**
+From time to time, we may revise our privacy policy. Thus, we encourage our users to periodically visit this page to be aware of any such revisions. However, we will not use our users existing information in a method not previously disclosed. Users will be advised and given the choice to opt out of any new use of their information. 
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+**How to Contact Us**
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+For any queries or concerns regarding this page, do not hesitate to contact our site coordinator at [support@premiumlinkgenerator.com](mailto:support@premiumlinkgenerator.com).
