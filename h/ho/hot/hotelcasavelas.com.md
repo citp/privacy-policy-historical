@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130115753id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelcasavelas.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619162426id_/http%3A//www.hotelcasavelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://www.hotelcasavelas.com/ "Casa Velas - Puerto Vallarta, Jalisco") Live Chat [Reviews](http://www.hotelcasavelas.com/reviews.aspx "Reviews")
+[](http://www.hotelcasavelas.com/ "Casa Velas - Puerto Vallarta, Jalisco")
 
   * Virtual Tour
   * [Contact us](http://www.hotelcasavelas.com/contact-us.aspx "Contact us")
@@ -16,7 +16,7 @@
 
 
   * [ Dining ](http://www.hotelcasavelas.com/dining/dining.aspx "Dining")
-  * [ things to do ](http://www.hotelcasavelas.com/things-to-do/puerto-vallarta-attractions.aspx "Things to Do")
+  * [ things to do ](http://www.hotelcasavelas.com/things-to-do "Things to Do")
   * [ Services ](http://www.hotelcasavelas.com/services.aspx "Services")
   * [ Accommodations ](http://www.hotelcasavelas.com/suites/rooms.aspx "Accommodations")
   * [ Location ](http://www.hotelcasavelas.com/location.aspx "Location")
