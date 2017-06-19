@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the busybeavers.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124150809id_/http%3A//busybeavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busybeavers.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619171952id_/http%3A//busybeavers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learning is fun at BusyBeavers.com!
 
