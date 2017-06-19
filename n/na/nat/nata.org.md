@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nata.org privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208103304id_/http%3A//www.nata.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nata.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619160042id_/http%3A//www.nata.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | National Athletic Trainers' Association
+# Privacy Policy | NATA
 
 The National Athletic Trainers' Association ("NATA") is the sponsor and provider of [www.NATA.org](http://www.nata.org/). NATA.org provides information and resources designed to enhance the quality of health care for athletes and those engaged in physical activity, and to advance the profession of athletic training through education and research in the prevention, evaluation, management and rehabilitation of injuries.
 
