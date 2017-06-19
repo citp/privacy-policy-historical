@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817101901id_/http%3A//www.gamingunion.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingunion.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619170651id_/http%3A//www.gamingunion.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | GamingUnion.net
-
-  * [Home](http://www.gamingunion.net/) /
-  * Privacy Policy
-
-
+# Privacy Policy | Gaming Union
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We believe that a strong guarantee of privacy is essential to our success and to your ongoing patronage. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be voluntarily supplied or requested. This notice applies to all information collected or submitted on this website.
 
-## The Way We Use Information
+## The Way We Use Information 
 
 * * *
 
@@ -21,8 +16,8 @@ We use return email addresses to answer the email we receive. Such addresses are
 
 
 
-## Online Behavioral Advertising (OBA)
+## Online Behavioral Advertising (OBA) 
 
 * * *
 
-We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We partner with ValueClick Media to serve ads and/or collect certain information when you visit our website. ValueClick Media may use cookies or web beacons to collect non-personally identifiable information (e.g. visits to this site, responses to ads) during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
