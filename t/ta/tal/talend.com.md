@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123015050id_/http%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talend.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619132824id_/https%3A//www.talend.com/privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policy - Talend
+# Talend Website Privacy Policy - Talend Real-Time Open Source Data Integration Software
 
 ### Your Privacy Matters
 
@@ -41,7 +41,7 @@ Talend reserves the right to call or send registrants email communications from 
 
 ### How to Opt-Out
 
-When you provide personally identifiable information through a form on a Talend website, you have the option to opt-in to receiving communication from Talend. If you opt-in and change your mind at any time, you may tell the company that you do not wish to receive these messages by sending an email at [unsubscribe@talend.com](mailto:unsubscribe@talend.com), by clearly following the "unsubscribe" instructions at the bottom of any email you receive, or by contacting the privacy department at the address above to unsubscribe to mailing lists.
+When you provide personally identifiable information through a form on a Talend website, you have the option to opt-in to receiving communication from Talend. If you opt-in and change your mind at any time, you may tell the company that you do not wish to receive these messages by sending an email at [unsubscribe@talend.com](mailto:unsubscribe@talend.com), by clearly following the “unsubscribe” instructions at the bottom of any email you receive, or by contacting the privacy department at the address above to unsubscribe to mailing lists.
 
 ### What Information is Shared
 
@@ -57,7 +57,7 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 ### Legal Requirements and Investigations
 
-Talend will disclose your personal information to a third party if required to do so by law or if, in good faith, Talend believes that such action is necessary to: (1) comply with the law or with legal process; (2) protect and defend the company’s rights and property or prevent fraud; (3) protect the company against abuse, misuse or unauthorized use of Talend's products or services; or (4) protect the personal safety or property of personnel, users or the public (among other things, this means that if you provide false or deceptive registration information or attempt to pose as someone else, information about you including your computer's IP address - may be disclosed to a third party (including the recipient of an email) as part of any type of investigation into your actions.
+Talend will disclose your personal information to a third party if required to do so by law or if, in good faith, Talend believes that such action is necessary to: (1) comply with the law or with legal process; (2) protect and defend the company’s rights and property or prevent fraud; (3) protect the company against abuse, misuse or unauthorized use of Talend’s products or services; or (4) protect the personal safety or property of personnel, users or the public (among other things, this means that if you provide false or deceptive registration information or attempt to pose as someone else, information about you including your computer’s IP address – may be disclosed to a third party (including the recipient of an email) as part of any type of investigation into your actions.
 
 ### IP Addresses
 
@@ -65,10 +65,10 @@ An IP address is a number that is assigned to your computer when you are using y
 
 ### Cookies
 
-A "cookie" is a small piece of data stored on a user's browser, and contains non-personally identifiable information about the user. When you visit the website, Talend may place a "cookie" on your browser in order to improve your experience by recognizing you when you visit the website and in order to allow the company to optimize the information presented based on your demonstrated areas of interest. Cookies may also be used to compile information about website usage. This information can be used to enhance the content of the website and make your experience more informative. If you subsequently provide us with personal information such as your email address, we will associate any cookies on your browser with that information such that you will no longer be an anonymous visitor to the site.  
-If you've set your browser to reject cookies, you can still use this website, but you may need to re-enter information that would normally be obtained from the cookie (for example, your email address). You can also set your browser to warn you before accepting cookies. If you do, you will receive a warning message each time the website attempts to place a cookie on your computer.
+A “cookie” is a small piece of data stored on a user’s browser, and contains non-personally identifiable information about the user. When you visit the website, Talend may place a “cookie” on your browser in order to improve your experience by recognizing you when you visit the website and in order to allow the company to optimize the information presented based on your demonstrated areas of interest. Cookies may also be used to compile information about website usage. This information can be used to enhance the content of the website and make your experience more informative. If you subsequently provide us with personal information such as your email address, we will associate any cookies on your browser with that information such that you will no longer be an anonymous visitor to the site.  
+If you’ve set your browser to reject cookies, you can still use this website, but you may need to re-enter information that would normally be obtained from the cookie (for example, your email address). You can also set your browser to warn you before accepting cookies. If you do, you will receive a warning message each time the website attempts to place a cookie on your computer.
 
-In addition, Talend employs certain advertising features enabled by Google Analytics in order to optimize the customer’s uer experience on our website and provide you with the most relevant content. Google Analytics may collect data about our website traffic via Google advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation. You may opt-out of the Google Analytics Advertising Features by reviewing your Ads Settings, Ad Settings for mobile apps, or by using the Google Analytics' currently available opt-outs for the web available here.
+In addition, Talend employs certain advertising features enabled by Google Analytics in order to optimize the customer’s uer experience on our website and provide you with the most relevant content. Google Analytics may collect data about our website traffic via Google advertising cookies and anonymous identifiers, in addition to data collected through a standard Google Analytics implementation. You may opt-out of the Google Analytics Advertising Features by reviewing your Ads Settings, Ad Settings for mobile apps, or by using the Google Analytics’ currently available opt-outs for the web available here.
 
 By using our website and you hereby consent to (i) any data collection, sharing and usage that takes place on any site, app, email publication or other property as a consequence of your use of Google Analytics; and (ii) the storing and accessing of cookies or other information on your device where such activity occurs in connection with a product to which this policy applies.
 
@@ -82,9 +82,9 @@ Talend may transfer its database, including personal information contained there
 
 ### Security
 
-Talend employs industry-standard security procedures and processes to safeguard the confidentiality of users' personal information. Talend, or agents and partners on behalf of Talend, do everything in their reasonable control to protect your information. Where one of Talend’s partners or agents has access to or maintains sensitive personal information, the company enters into confidentiality agreements in order to ensure the privacy of such user information priori to sharing that information. Internally, access to all users' and registrants' personally identifiable information is restricted to those employees who need access in order to fulfill their job responsibilities. Furthermore, Talend employees who deal with user information are kept up to date on various security and privacy practice issues as they arise.
+Talend employs industry-standard security procedures and processes to safeguard the confidentiality of users’ personal information. Talend, or agents and partners on behalf of Talend, do everything in their reasonable control to protect your information. Where one of Talend’s partners or agents has access to or maintains sensitive personal information, the company enters into confidentiality agreements in order to ensure the privacy of such user information priori to sharing that information. Internally, access to all users’ and registrants’ personally identifiable information is restricted to those employees who need access in order to fulfill their job responsibilities. Furthermore, Talend employees who deal with user information are kept up to date on various security and privacy practice issues as they arise.
 
-Finally, the servers for the website are stored in a physically secured, offsite facility. Beyond the physical security of your information, Talend also backs up servers regularly to prevent loss of data. While the goal is to safeguard users' and members' personal information, Talend cannot ensure or warrant the security of any transmission and your information is submitted at your own risk.
+Finally, the servers for the website are stored in a physically secured, offsite facility. Beyond the physical security of your information, Talend also backs up servers regularly to prevent loss of data. While the goal is to safeguard users’ and members’ personal information, Talend cannot ensure or warrant the security of any transmission and your information is submitted at your own risk.
 
 ### Acceptance of Privacy Policy and Notification of Changes
 
