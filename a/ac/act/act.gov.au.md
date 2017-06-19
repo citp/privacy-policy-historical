@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211093656id_/http%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619064221id_/http%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - ACT Government Information Portal
 
