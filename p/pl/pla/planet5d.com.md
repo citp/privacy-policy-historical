@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planet5d.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123531id_/http%3A//blog.planet5d.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planet5d.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619031023id_/http%3A//blog.planet5d.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | planet5D curated digital image news
 
@@ -32,7 +32,7 @@ Additionally, 3rd party advertisers on our site may use cookies for tracking pur
 
 Google, as a third party vendor, uses cookies to serve ads.
 
-Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
+Google's use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
