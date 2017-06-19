@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toboc.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217141756id_/http%3A//www.toboc.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toboc.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619154001id_/http%3A//www.toboc.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Toboc.com Privacy Policy, Global B2B Portal, International Business Directory Services
 
