@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126123323id_/http%3A//www.pepperdine.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperdine.edu privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619191703id_/https%3A//www.pepperdine.edu/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pepperdine University | Seaver College
 
