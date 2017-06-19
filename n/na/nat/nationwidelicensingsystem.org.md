@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwidelicensingsystem.org privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119120307id_/http%3A//nationwidelicensingsystem.org/about/policies/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwidelicensingsystem.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619083135id_/http%3A//nationwidelicensingsystem.org/about/policies/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
