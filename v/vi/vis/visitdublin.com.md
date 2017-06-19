@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229182137id_/http%3A//www.visitdublin.com/Pages/Privacy-Cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdublin.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619064009id_/http%3A//www.visitdublin.com/Pages/Privacy-Cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Dublin Travel & Tourism Official Website | Visit Dublin
 
