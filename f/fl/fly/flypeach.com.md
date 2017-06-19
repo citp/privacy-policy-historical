@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flypeach.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123103728id_/http%3A//www.flypeach.com/pc/en/fm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flypeach.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619161641id_/http%3A//www.flypeach.com/pc/en/fm/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Peach Aviation
 
