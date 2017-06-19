@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231083828id_/https%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619064436id_/https%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
 
-# Privacy Policy - White House | Black Market
+# Privacy Policy - White House Black Market
 
 Revision Date: February 26, 2016
 
@@ -93,7 +93,7 @@ For the purposes set out in this Privacy Policy, we, one of our affiliates, or a
 
 If you reside or are located outside of the United States, please note that this site is hosted on our computer servers in the United States. Your use of this site or submission of personal information will constitute your consent to the transfer of personal information outside of your home country. For more information about our policies and practices related to the use of foreign service providers, please contact our Privacy Officer at [privacy@whitehouseblackmarket.com](mailto:privacy@whitehouseblackmarket.com).
 
-To order and have products shipped internationally, you will need to share your personal information with our third party provider, Borderfree, Inc. Click here to view [Borderfree’s privacy policy](http://www.borderfree.com/privacy-policy).
+To order and have products shipped internationally, you will need to share your personal information with our third party provider, Borderfree, Inc. Click here to view [Borderfree’s privacy policy](https://www.borderfree.com/#/privacy/).
 
 ## Policy changes
 
