@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulse.com.ng privacy policy that was archived on 2015-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151214040827id_/http%3A//pulse.ng/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulse.com.ng privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620000011id_/http%3A//pulse.ng/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - How We Respect Your Privacy | Pulse.ng
 
