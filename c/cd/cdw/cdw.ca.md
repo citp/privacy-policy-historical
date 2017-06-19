@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdw.ca privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321015056id_/https%3A//www.cdw.ca/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdw.ca privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619075929id_/https%3A//www.cdw.ca/content/terms-conditions/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Terms and Conditions - Privacy Policy
 
