@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the ratemyteachers.com privacy policy that was archived on 2014-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141212193001id_/http%3A//www.ratemyteachers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyteachers.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619220652id_/http%3A//www.ratemyteachers.com/privacy) for the most accurate reproduction.*
 
 # Privacy | RateMyTeachers.com
 
-#### 
-
-RateMyTeachers.com helps students, parents and teachers make informed decisions by promoting transparency within education.
-
-High School and College Students use RateMyTeachers.com to review everything from school quality to the most renowned teachers and college professors. What will your school reveal?
+#### RateMyTeachers.com helps students, parents and faculty make informed decisions by promoting transparency within education.
 
 ## Information Collection and Use
 
