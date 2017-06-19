@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120223809id_/http%3A//www.xcite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcite.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619221304id_/http%3A//www.xcite.com/privacy) for the most accurate reproduction.*
 
 # Xcite by Alghanim Electronics | Xcite's Privacy Policy
 
 #### (Updated 18 December 2011)
 
-Yusuf Ahmed Alghanim & Sons Co. W.L.L. (“ **Alghanim** ”), owner of www.xcite.com website (“ **Website** ”), respects your privacy, and seeks to comply with applicable legal requirements in respect of data collection, processing and transfer. By using www.xcite.com or the Services offered through www.xcite.com (and thus accepting the **Terms of Use** ), you expressly consent to Alghanim using your Information, as outlined in this Privacy Policy. Your use of the Website is subject to your acceptance of the Terms of Use of www.xcite.com and this Privacy Policy. If you do not accept the Terms and this Privacy Policy, then you must discontinue your use of [www.xcite.com](http://www.xcite.com/).
+**_X-cite General Trading Co. S.P.C_**  (“ **Alghanim** ”), owner of www.xcite.com website (“ **Website** ”), respects your privacy, and seeks to comply with applicable legal requirements in respect of data collection, processing and transfer. By using www.xcite.com or the Services offered through www.xcite.com (and thus accepting the **Terms of Use** ), you expressly consent to Alghanim using your Information, as outlined in this Privacy Policy. Your use of the Website is subject to your acceptance of the Terms of Use of www.xcite.com and this Privacy Policy. If you do not accept the Terms and this Privacy Policy, then you must discontinue your use of [www.xcite.com](http://www.xcite.com/).
 
 We are committed to safeguarding the privacy of Registered Users and visitors who use or visit www.xcite.com. The purpose of this Privacy Policy is to detail the manner in which we use your information, including your personal information that we may obtain about you, during your use of [www.xcite.com](http://www.xcite.com/ "xcite.com").
 
@@ -111,4 +111,4 @@ If you require any further information on this service or wish to have your revi
 
 #### Contact Us
 
-If you have any comments or queries in connection with our Terms and/or Privacy Policy, you can contact us by sending an email on [info@xcite.com](https://web.archive.org/cdn-cgi/l/email-protection#30595e565f7048535944551e535f5d) or call our customer service at 180-3535. Address: Yusuf Ahmad Al Ghanim, Shuwaikh Industrial Area # 3, Road 55, Opposite Keifan Telecom. PO Box 223, Safat 13003, Kuwait
+If you have any comments or queries in connection with our Terms and/or Privacy Policy, you can contact us by sending an email on [[email protected] ](https://web.archive.org/cdn-cgi/l/email-protection#30595e565f7048535944551e535f5d) or call our customer service at 180-3535. Address: **_X-cite General Trading Co. S.P.C  _**,Sharq, Shuhada st., Al Hamra Tower, Floor 71.
