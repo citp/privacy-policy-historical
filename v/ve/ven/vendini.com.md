@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vendini.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208091951id_/https%3A//www.vendini.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendini.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619152127id_/https%3A//vendini.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Vendini
+# Privacy -
 
 Vendini, Inc. (“Vendini”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of our ticketing, patron management, marketing and fund raising services (each a “Vendini Service”), our website located at www.vendini.com and its subdomains (“Site”) and any other services offered by Vendini in connection with a Vendini Service or the Site (any and all of the foregoing the “Services”). This Privacy Policy applies only to information that you provide to us through the Services.
 
