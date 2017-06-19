@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5kpcsoft.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210183457id_/http%3A//5kpcsoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5kpcsoft.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619172935id_/http%3A//5kpcsoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 5k Pc Soft
 
