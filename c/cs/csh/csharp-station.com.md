@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csharp-station.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128224920id_/http%3A//csharp-station.com/csharp-station-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csharp-station.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619100203id_/http%3A//csharp-station.com/csharp-station-privacy-policy) for the most accurate reproduction.*
 
 # CSharp Station Privacy Policy – C# Station
 
