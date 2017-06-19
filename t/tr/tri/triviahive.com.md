@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003122id_/http%3A//triviahive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triviahive.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619121533id_/http%3A//triviahive.com/privacy) for the most accurate reproduction.*
 
 # TriviaHive | Privacy Policy
 
-#### Updated April 5, 2011
+#### Updated December 27, 2016
 
-TriviaHive.com ("TriviaHive") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact TriviaHive at 14102 Red Hill Ave, Suite #132, Tustin, CA 92780 or via our [contact form](https://web.archive.org/contact).
+TriviaHive.com ("TriviaHive") takes your privacy very seriously and has created this Privacy Policy in order to disclose its use of consumer data collected about you. You may contact TriviaHive at 14252 Culver Drive, Suite A197, Irvine, CA 92604 or via our [contact form](https://web.archive.org/contact).
 
 By using the TriviaHive website, or submitting information to us by other means, you are subjecting your information to the practices outlined in this Privacy Policy. This Privacy Policy covers TriviaHive's treatment of personal information that we collect when you are on TriviaHive's website and when you use TriviaHive's services. This policy does not apply to the practices of third parties that TriviaHive does not own or control, including websites that we may link to, or to individuals that TriviaHive does not employ or manage.
 
@@ -68,6 +68,6 @@ If you would like to read more about your ad preferences, please [click here](ht
 
 #### Contact Information
 
-14102 Red Hill Ave., Suite   
-#132   
-Tustin, CA 92780 
+14252 Culver Drive, Suite   
+A197   
+Irvine, CA 92604 
