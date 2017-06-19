@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124015128id_/http%3A//www.easterseals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easterseals.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619033727id_/http%3A//www.easterseals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Easterseals | Easterseals Online Network Privacy Policy
 
@@ -23,7 +23,7 @@ Because Easterseals values the privacy of constituents visiting the Easterseals 
 
 You can contact Easterseals for more information related to the privacy of the information you provide online:
 
-**Mail:** 233 South Wacker Drive, Suite 2400, Chicago, IL 60606.  
+**Mail:** 141 W Jackson Blvd, Suite 1400A, Chicago, IL 60604  
 **Phone:** 312-726-6200  
 **Online:** [Click here to contact Easterseals via email.](http://www.easterseals.com/who-we-are/contact-us/ "Link to Easterseals contact form") Your request will be answered within 2-3 business days.
 
