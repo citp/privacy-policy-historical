@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021172125id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%26jumpto%3Dcoupp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bat.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619164712id_/http%3A//www.bat.com/group/sites/UK__9D9KCY.nsf/vwPagesWebLive/DO52GBWX%3Fopendocument%23coupp) for the most accurate reproduction.*
 
 # British American Tobacco - Conditions of use
 
