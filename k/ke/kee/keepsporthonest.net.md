@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepsporthonest.net privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221201806id_/http%3A//www.keepsporthonest.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsporthonest.net privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619130915id_/http%3A//www.keepsporthonest.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Watch Live EPL Football Streaming Online for free
 
