@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huffingtonpost.co.za privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123114051id_/http%3A//www.huffingtonpost.co.za/p/huffpost-south-africa-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.co.za privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619204245id_/http%3A//www.huffingtonpost.co.za/p/huffpost-south-africa-privacy-policy) for the most accurate reproduction.*
 
 # The Huffington Post South Africa Privacy Policy
 
@@ -106,7 +106,7 @@ Some of the advertisements you see on the Site are selected and delivered by thi
 
 **Huffington Post is not liable for processing of personal information by third parties arising from third party advertising. You accept that there may be risks arising from such processing, and you accept these at your own risk.**
 
-These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative ("NAI"), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI's website at <http://www.networkadvertising.org/choices>. For more information about disabling cookies completely, please visit the "[Your choices](http://www.huffingtonpost.com/privacy/index.html#your-choices)" section of the privacy policy.
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative ("NAI") or the European Interactive Digital Advertising Initiative (EDAA), which provide a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI's website at <http://www.networkadvertising.org/choices> and the EDAA's website at <http://www.youronlinechoices.eu/>. For more information about disabling cookies completely, please visit the "[Your choices](http://www.huffingtonpost.com/privacy/index.html#your-choices)" section of the privacy policy.
 
 Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
 
@@ -184,14 +184,14 @@ You can deactivate your account at any time by visiting the preferences page for
 
 As discussed in the sections on [cookies and other technologies](http://www.huffingtonpost.co.za/p/cookie-information), some information is collected about you automatically through cookies and other technologies, and you consent to the processing of such information as set out below and in the linked sections.
 
-  * . You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the Network Advertising Initiative ("NAI"). To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit <http://www.networkadvertising.org/choices>.
+  * . You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser. In addition, many third-party advertising networks are members of the NAI or EDAA. To opt out of having information collected by NAI and EDAA member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please visit <http://www.networkadvertising.org/choices> and <http://www.youronlinechoices.eu/>.
   * _Flash Cookies_. You can control how Flash cookies are used by visiting the [Adobe Macromedia site](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the [BetterPrivacy add-on](https://addons.mozilla.org/en-US/firefox/addon/6623) to automatically delete your Flash cookies every time you close your browser.
 
 
 
 If you opt out of these technologies, you will continue to see advertising displayed on the Site, but the advertising may not be targeted to your interests.
 
-Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on Advertising and visit the [NAI's website](http://www.networkadvertising.org/managing/opt_out.asp).
+Please remember that we do not have access to, or control over, advertisers' or service providers' cookies, and the information practices of third parties are not covered by this privacy policy. For more information on the use of cookies in online advertising, please see the section on Advertising and visit the [NAI's website](http://www.networkadvertising.org/choices) and the [EDAA's website](http://www.youronlinechoices.eu/).
 
 **7\. Access**
 
