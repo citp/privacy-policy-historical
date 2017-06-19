@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626055011id_/http%3A//cs.mycommerce.com/privacy-policy/regnow) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regnow.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619092248id_/http%3A//cs.mycommerce.com/privacy-policy/regnow) for the most accurate reproduction.*
 
 # None
 
