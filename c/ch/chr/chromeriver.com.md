@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109030353id_/https%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeriver.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619102130id_/http%3A//www.chromeriver.com/privacy_policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Travel Expense Management
 
@@ -8,9 +8,17 @@ This privacy policy covers only our collection, use and disclosure of informatio
 
 In compliance with the EU-US Privacy Shield Principles, Chrome River commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss  individuals with inquiries or complaints regarding this privacy policy should first contact our Privacy Officer at: Email address: [privacy@chromeriver.com](mailto:privacy@chromeriver.com)
 
-Chrome River  has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit JAMS [here](https://www.jamsadr.com/eu-us-privacy-shield).
+Chrome River  has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS EU PRIVACY SHIELD, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit JAMS [here](https://www.jamsadr.com/eu-us-privacy-shield).
 
 Chrome River Technologies complies with the EU-US Privacy Shield Framework and the U.S. – Swiss Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Chrome River has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+### Arbitration
+
+You may also be able to invoke binding arbitration for unresolved complaints but prior to initiating such arbitration, a resident of a European country participating in the Privacy Shield must first: (1) contact us and afford us the opportunity to resolve the issue; (2) seek assistance from [JAMS](https://www.jamsadr.com/); and (3) contact the U.S. Department of Commerce (either directly or through a European Data Protection Authority) and afford the Department of Commerce time to attempt to resolve the issue. If such a resident invokes binding arbitration, each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the Privacy Shield, the arbitrator(s) may only impose individual-specific, non-monetary, equitable relief necessary to remedy any violation of the Privacy Shield Principles with respect to the resident.
+
+### U.S. Federal Trade Commission Enforcement
+
+Our Privacy Shield compliance is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
 ### Internet Security Policy
 
@@ -46,7 +54,7 @@ as required by law, such as to comply with a subpoena, or similar legal process 
 
 ### User Access and Choice
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete/remove or request to deactivate it by emailing our Customer Support at [support@chromeriver.com](mailto:support@chromeriver.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe. We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.opt
+If your personal information changes, or if you no longer desire our service, you may correct, update, delete/remove or request to deactivate it by emailing our Customer Support at [support@chromeriver.com](mailto:support@chromeriver.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ###### **Opt-out Preferences**
 
