@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the obittree.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207005131id_/http%3A//www.obittree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obittree.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619170543id_/http%3A//obittree.com/privacy.php) for the most accurate reproduction.*
 
-# ObitTree®
+# ObitTree™
 
 Obittree.com is a leading technology solutions provider in the death care space. We highly value our relationship with our online partners and visitors, respecting the privacy of all parties involved. To that end, all personal information will always be protected and will never be sold to third parties.
 
@@ -38,7 +38,7 @@ A cookie is a small file which asks permission to be placed on your computer's h
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-##### HOW WE USE SERVICE AND OBITUARY INFORMATION
+##### How We Use Service And Obituary Information
 
 We allow service and obituary information to be shared across our trusted networks and affiliated websites such as affiliated newspapers and funeral homes, to help reach further in helping extended family and friends to be notified. Our goal is to enhance your searching, information and fulfillment experience with us through convenient and timely services. By submitting this personal information to us, you are consenting to its use and disclosure for the following purposes: 
 
