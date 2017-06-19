@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the follo.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005012id_/http%3A//www.follo.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the follo.in privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619112319id_/http%3A//www.follo.in/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - follo.in
 
-Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [www.follo.in](https://web.archive.org/web/20161119005012id_/http%3A//www.follo.in/www.follo.in)
+Times Internet Limited, (“TIL”) is a wholly owned subsidiary of Bennett Coleman & Co. Limited and powers / manages the website [www.follo.in](https://web.archive.org/web/20170619112319id_/http%3A//www.follo.in/www.follo.in)
 
 TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).
 
@@ -49,7 +49,7 @@ Redressal Mechanism: Any complaints, abuse or concerns with regards to content a
 
 Jyoti Kumar (Grievance Officer)  
 Times Internet Limited  
-[www.follo.in](https://web.archive.org/web/20161119005012id_/http%3A//www.follo.in/www.follo.in)  
+[www.follo.in](https://web.archive.org/web/20170619112319id_/http%3A//www.follo.in/www.follo.in)  
 Times Internet Limited  
 Times Centre, FC - 6, First Floor, Sector 16-A,  
 Film City, Noida - 201301, Uttar Pradesh, India  
