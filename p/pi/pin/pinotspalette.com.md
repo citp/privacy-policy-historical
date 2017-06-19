@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinotspalette.com privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716073816id_/https%3A//www.pinotspalette.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinotspalette.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619235327id_/https%3A//www.pinotspalette.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
