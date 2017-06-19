@@ -1,63 +1,75 @@
-<!--The following is the downloaded HTML source of the last.fm privacy policy that was archived on 2016-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160621103447id_/http%3A//www.last.fm/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the last.fm privacy policy that was archived on 2017-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170619122318id_/https%3A//www.last.fm/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="js"><head>
+<!DOCTYPE html><html lang="en" class="js playbar-masthead-release-shim"><head>
         <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-952.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYPV15QGwYFXFlXDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;d>r;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||10>p)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;d>a;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(15),a=t(16);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-952.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"licenseKey":"0ed0ce50b0","applicationID":"5588594","applicationTime":256,"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","transactionName":"Y1BRbUUFWkMEWxYMV1oadUxZB0BZClZNCV5ZG0RcVUpDRxIWFAxdQ0YdSkMFQFkGAhIXUUJUUEA=","agent":"","queueTime":0}</script>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwYPV15QGwYFXFlXDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":39,"transactionName":"Y1BRbUUFWkMEWxYMV1oadUxZB0BZClZNCV5ZG0RcVUpDRxIWFAxdQ0YdSkMFQFkGAhIXUUJUUEA=","licenseKey":"0ed0ce50b0","queueTime":0,"errorBeacon":"bam.nr-data.net","agent":"","beacon":"bam.nr-data.net","applicationID":"5588594"}</script>
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title aria-live="assertive">Privacy Policy — Last.fm</title>
         <meta name="description" content="The world’s largest online music catalogue, powered by your scrobbles. Free listening, videos, photos, stats, charts, biographies and concerts.">
 
+        <link rel="canonical" href="https://www.last.fm/legal/privacy">
         
-    
-        <link rel="alternate" hreflang="en" href="http://www.last.fm/legal/privacy">
-    
-        <link rel="alternate" hreflang="de" href="http://www.last.fm/de/legal/privacy">
-    
-        <link rel="alternate" hreflang="es" href="http://www.last.fm/es/legal/privacy">
-    
-        <link rel="alternate" hreflang="fr" href="http://www.last.fm/fr/legal/privacy">
-    
-        <link rel="alternate" hreflang="it" href="http://www.last.fm/it/legal/privacy">
-    
-        <link rel="alternate" hreflang="ja" href="http://www.last.fm/ja/legal/privacy">
-    
-        <link rel="alternate" hreflang="pl" href="http://www.last.fm/pl/legal/privacy">
-    
-        <link rel="alternate" hreflang="pt" href="http://www.last.fm/pt/legal/privacy">
-    
-        <link rel="alternate" hreflang="ru" href="http://www.last.fm/ru/legal/privacy">
-    
-        <link rel="alternate" hreflang="sv" href="http://www.last.fm/sv/legal/privacy">
-    
-        <link rel="alternate" hreflang="tr" href="http://www.last.fm/tr/legal/privacy">
-    
-        <link rel="alternate" hreflang="zh" href="http://www.last.fm/zh/legal/privacy">
-    
+            <link rel="alternate" hreflang="en" href="https://www.last.fm/legal/privacy">
+        
+            <link rel="alternate" hreflang="de" href="https://www.last.fm/de/legal/privacy">
+        
+            <link rel="alternate" hreflang="es" href="https://www.last.fm/es/legal/privacy">
+        
+            <link rel="alternate" hreflang="fr" href="https://www.last.fm/fr/legal/privacy">
+        
+            <link rel="alternate" hreflang="it" href="https://www.last.fm/it/legal/privacy">
+        
+            <link rel="alternate" hreflang="ja" href="https://www.last.fm/ja/legal/privacy">
+        
+            <link rel="alternate" hreflang="pl" href="https://www.last.fm/pl/legal/privacy">
+        
+            <link rel="alternate" hreflang="pt" href="https://www.last.fm/pt/legal/privacy">
+        
+            <link rel="alternate" hreflang="ru" href="https://www.last.fm/ru/legal/privacy">
+        
+            <link rel="alternate" hreflang="sv" href="https://www.last.fm/sv/legal/privacy">
+        
+            <link rel="alternate" hreflang="tr" href="https://www.last.fm/tr/legal/privacy">
+        
+            <link rel="alternate" hreflang="zh" href="https://www.last.fm/zh/legal/privacy">
+        
+        <link rel="alternate" hreflang="x-default" href="https://www.last.fm/legal/privacy">
+
+        <meta property="og:url" content="https://www.last.fm/legal/privacy">
+        <meta property="og:image" content="https://www.last.fm/static/images/lastfm_logo_facebook.1b63d4451dcc.png">
+        <meta property="og:image:width" content="1200">
+        <meta property="og:image:height" content="630">
+        <meta property="fb:app_id" content="192959324047861">
+
+        <meta name="twitter:image" content="https://www.last.fm/static/images/lastfm_avatar_twitter.66cd2c48ce03.png">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@lastfm">
+
+        
 
         <script>(function(e) { e.className = e.className.replace(/\bno-js\b/,'js'); })(document.documentElement)</script>
 
         
 
         
-        <script id="initial-tealium-data" data-tealium-data="{&quot;user_type&quot;: &quot;anon&quot;, &quot;deviceType&quot;: &quot;desktop&quot;, &quot;pageType&quot;: &quot;legal_privacy&quot;, &quot;siteSection&quot;: &quot;legal&quot;, &quot;pageViewGuid&quot;: &quot;55dcc0be-5b73-44aa-a6d4-074c49a9af56&quot;, &quot;ipGeo&quot;: &quot;US&quot;, &quot;nativeEventTracking&quot;: true, &quot;userState&quot;: &quot;not authenticated&quot;, &quot;pageName&quot;: &quot;legal/privacy&quot;}"></script>
+        <script id="initial-tealium-data" data-tealium-data="{&quot;userType&quot;: &quot;anon&quot;, &quot;userState&quot;: &quot;not authenticated&quot;, &quot;pageViewGuid&quot;: &quot;5abfb0f9-e3cb-46f0-8d19-f91df7fb212c&quot;, &quot;ipGeo&quot;: &quot;US&quot;, &quot;pageType&quot;: &quot;legal_privacy&quot;, &quot;siteSection&quot;: &quot;legal&quot;, &quot;pageName&quot;: &quot;legal/privacy&quot;, &quot;nativeEventTracking&quot;: true, &quot;deviceType&quot;: &quot;desktop&quot;}"></script>
         <script>
             var initialTealiumElement = document.getElementById('initial-tealium-data');
             window.utag_data = JSON.parse(initialTealiumElement.getAttribute('data-tealium-data'));
         </script>
 
-        <script async="" src="//tags.tiqcdn.com/utag/cbsi/lastfmsite/prod/utag.js"></script>
+        <script async="" src="https://tags.tiqcdn.com/utag/cbsi/lastfmsite/prod/utag.js"></script>
 
-        <link rel="icon" href="//static-web.last.fm/static/images/favicon.702b239b6194.ico">
+        <link rel="icon" href="/static/images/favicon.702b239b6194.ico">
 
-        <link rel="stylesheet" href="/static/CACHE/css/deaa3ce41be6.css" type="text/css" data-stylesheet-name="app">
-
+        <link rel="stylesheet" href="/static/styles/build/a1806af201.a1806af20127.css" data-stylesheet-name="app" charset="utf-8">
         
 
         
     
-    <script data-main="//static-web.last.fm/static/js-build/init.edcd3d089cd9" src="//static-web.last.fm/static/js-build/lib/require/require.df447417ad50.js"></script>
+    <script async="" data-main="/static/js-build/init.3b046398092e" src="/static/js-build/lib/require/require.081d9a52ad77.js"></script>
 
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -70,119 +82,120 @@
     <body class="
             two-column-layout
             namespace--legal_privacy
-        " data-require="ads/page-ads,ads/netseer-ads,player/playlink-handler,dev/grid-overlay,dev/debug-log,dev/js-log,components/link-block,components/ajax-form,core/media-size-events" data-player-supported="true" data-country-code="US" data-initial-view-guid="55dcc0be-5b73-44aa-a6d4-074c49a9af56" data-cbsi-player-config="//static-web.last.fm/static/config/video-player.93ba255faed0.xml">
-        <div data-require="components/open-modal,components/show-alert,shim/remove-focus"></div>
+        " data-require="ads/page-ads,ads/netseer-ads,player/playlink-handler,dev/grid-overlay,dev/debug-log,dev/js-log,components/link-block,components/ajax-form,core/media-size-events" data-player-supported="true" data-country-code="US" data-initial-view-guid="5abfb0f9-e3cb-46f0-8d19-f91df7fb212c" data-cbsi-player-config="/static/config/video-player.e3cf7ee0c17f.xml" data-sensitive-path-regex="^/(../)?(googlec3ea1b252774e1ab\.html|account_deleted|join|login|lostpassword(/confirm)?|staff|subscribe|support(?!/images|/shouts|/shout)|settings/(account|website|subscription|password|lostpassword)|user/.+?/support)(/.*)?/?$" data-facebook-app-id="192959324047861">
+        <div data-require="components/loading-indicator" data-loading-indicator-copy="Loading…"></div>
+        <div data-require="components/open-modal,components/submit-to-modal,components/show-alert,shim/remove-focus"></div>
         
 
     
         <div class="top-bar">
-            <div class="semi-fluid-container js-loading-indicator-container">
+            
                 
                     
-                        
     <section data-require="player/controls,player/status,player/tracking" data-player-status-ad-playing="Ad playing" data-player-status-inactive="&nbsp;" data-player-status-loading-spotify="Connecting Spotify…" data-player-status-communication-error-spotify="Spotify error. Try reloading the page." data-player-status-spotify-signup="Could not find Spotify. Starting installation…" data-player-error-cannot-play-item="Cannot play that item." data-player-error-track-unavailable="Track unavailable." class="
             player-bar
             inactive
         " aria-label="audio player" aria-disabled="true">
+        <div class="player-bar-inner-wrap">
+            <a class="player-bar-artwork js-artwork">
+                <img class="" src="/static/images/defaults/player_default_album.430223706b14.png" alt="">
+            </a>
 
-        
+            <div class="source-info">
+                <a class="
+                        js-source
+                        player-bar-source
+                        player-bar-source--spotify
+                    " href="#" target="_blank">Playing via Spotify</a>
 
-        <div class="player-bar-controls">
+                <a class="
+                        js-source
+                        player-bar-source
+                        player-bar-source--youtube
+                    " href="#" target="_blank">Playing via YouTube</a>
 
-            <ul aria-label="controls" class="media-controls">
-                <li>
-                    <button disabled="" class="
-                            js-previous
-                            player-bar-btn
-                            player-bar-btn--previous
-                        " data-analytics-action="PlaybarBackTrack">
-                        Previous
-                    </button>
-                </li>
-                <li>
-                    <button disabled="" class="
-                            js-play-pause
-                            player-bar-btn
-                            player-bar-btn--play
-                        " data-string-pause="Pause" data-analytics-action="PlaybarResumeTrack" data-analytics-action-pause="PlaybarPauseTrack">
-                        Play
-                    </button>
-                </li>
-                <li>
-                    <button disabled="" class="
-                            js-next
-                            player-bar-btn
-                            player-bar-btn--next
-                        " data-analytics-action="PlaybarSkipTrack">
-                        Next
-                    </button>
-                </li>
                 
-            </ul>
+                    <a href="https://secure.last.fm/login?next=/settings/website" class="player-bar-settings">
+                       Playback settings
+                    </a>
+                
+            </div>
 
-            <a class="
-                    player-bar-skiplink
-                    player-bar-skiplink--youtube
-                " href="#youtube-video">Skip to <br> YouTube video</a>
+            
 
+            <div class="player-bar-controls">
+
+                <ul aria-label="controls" class="media-controls">
+                    <li>
+                        <button disabled="" class="
+                                js-previous
+                                player-bar-btn
+                                player-bar-btn--previous
+                            " data-analytics-action="PlaybarBackTrack">
+                            Previous
+                        </button>
+                    </li>
+                    <li>
+                        <button disabled="" class="
+                                js-play-pause
+                                player-bar-btn
+                                player-bar-btn--play
+                            " data-string-pause="Pause" data-analytics-action="PlaybarResumeTrack" data-analytics-action-pause="PlaybarPauseTrack">
+                            Play
+                        </button>
+                    </li>
+                    <li>
+                        <button disabled="" class="
+                                js-next
+                                player-bar-btn
+                                player-bar-btn--next
+                            " data-analytics-action="PlaybarSkipTrack">
+                            Next
+                        </button>
+                    </li>
+                    
+                </ul>
+
+                <a class="
+                        player-bar-skiplink
+                        player-bar-skiplink--youtube
+                    " href="#youtube-video">Skip to YouTube video</a>
+
+            </div>
+
+            <div class="player-bar-now-playing">
+                <div class="player-bar-now-playing-inner-wrap">
+                    <p class="player-bar-track js-player-status" aria-label="now playing" aria-live="polite" aria-atomic="true">
+                        Loading player…
+                    </p>
+
+                    <p class="player-bar-error js-player-error player-bar-status--hide">
+                        <span class="player-bar-error-message js-player-error-message"></span>
+                    </p>
+                </div>
+            </div>
         </div>
 
-        <div class="player-bar-now-playing">
-
-            
-
-            <p class="player-bar-track js-player-status" aria-label="now playing" aria-live="polite" aria-atomic="true">
-                Loading player…
-            </p>
-
-            <p class="player-bar-error js-player-error">
-                <span class="player-bar-error-message js-player-error-message"></span>
-            </p>
-
-            
-
+        
+        <div class="player-bar-progress-wrap">
             <div class="player-bar-progress" aria-label="progress" role="timer">
                 <div class="
                         js-progress-slug
                         player-bar-progress-slug
-                    "></div>
-                <span class="
-                        js-progress-elapsed
-                        player-bar-progress-elapsed
-                    " aria-label="elapsed"></span>
-                <span class="
-                        js-progress-remaining
-                        player-bar-progress-remaining
-                    " aria-label="remaining"></span>
+                    ">
+                    <span class="
+                            js-progress-remaining
+                            player-bar-progress-remaining
+                        " aria-label="remaining"></span>
+                </div>
             </div>
-        </div>
-
-        <div class="source-info">
-            <a class="
-                    js-source
-                    player-bar-source
-                    player-bar-source--spotify
-                " href="#" target="_blank">Playing via Spotify</a>
-
-            <a class="
-                    js-source
-                    player-bar-source
-                    player-bar-source--youtube
-                " href="#" target="_blank">Playing via YouTube</a>
-
-            
-                <a href="https://secure.last.fm/login?next=/settings/website" class="player-bar-btn player-bar-btn--settings">
-                   Playback settings
-                </a>
-            
         </div>
 
         <div data-require="player/scrobble-client"></div>
     </section>
 
-                    
                 
-            </div>
+            
         </div>
     
 
@@ -190,185 +203,90 @@
         
     
 
-    <div id="tlmdata" hidden="" class="hidden" data-tealium-data="{&quot;pageType&quot;: &quot;legal_privacy&quot;, &quot;ipGeo&quot;: &quot;US&quot;, &quot;deviceType&quot;: &quot;desktop&quot;, &quot;nativeEventTracking&quot;: true, &quot;userState&quot;: &quot;not authenticated&quot;, &quot;pageName&quot;: &quot;legal/privacy&quot;, &quot;userType&quot;: &quot;anon&quot;, &quot;siteSection&quot;: &quot;legal&quot;}">
+    <div id="tlmdata" hidden="" class="hidden" data-tealium-data="{&quot;userType&quot;: &quot;anon&quot;, &quot;userState&quot;: &quot;not authenticated&quot;, &quot;ipGeo&quot;: &quot;US&quot;, &quot;pageType&quot;: &quot;legal_privacy&quot;, &quot;siteSection&quot;: &quot;legal&quot;, &quot;pageName&quot;: &quot;legal/privacy&quot;, &quot;nativeEventTracking&quot;: true, &quot;deviceType&quot;: &quot;desktop&quot;}">
      </div>
 
-        
-    <div data-require="components/disclose-base,components/disclose-autoclose-v2,components/disclose-dropdown,components/disclose-dropdown-location-picker,components/disclose-secondary-nav,components/disclose-artwork,components/disclose-remove,components/lazy-buylinks,components/lazy-buylinks-show-on-focus" data-lazy-buylinks-loading-text="Loading"></div>
+        <div>
+            
+    <div data-require="components/disclose-base,components/disclose-autoclose-v2,components/disclose-dropdown,components/disclose-dropdown-location-picker,components/disclose-collapsing-nav,components/disclose-artwork,components/disclose-remove,components/disclose-search,components/disclose-hover,components/lazy-buylinks,components/focus-controls,components/prevent-resubmit-v2" data-lazy-buylinks-loading-text="Loading"></div>
 
     
         
-    <div class="top-bar-overlay">
-        <div class="semi-fluid-container js-loading-indicator-container">
-            <h1 class="masthead-logo">
-                <a href="/">Last.fm</a>
-            </h1>
-            
-                
+
+    <nav class="masthead"><div class="masthead-inner-wrap"><h1 class="masthead-logo"><span class="masthead-logo-loading"></span><a href="/"> Last.fm</a></h1><a class="masthead-search-toggle" href="/search" data-disclose-search="" aria-controls="masthead-search">Search</a><form class=" masthead-search-form disclose-hide disclose-hide--js-only " id="masthead-search" action="/search" method="get"><div class="masthead-search-inner-wrap"><label for="masthead-search-field" class="sr-only">Search</label><input id="masthead-search-field" class="masthead-search-field" type="text" name="q" placeholder="Search for music…"><button class="masthead-search-submit" type="submit">Search</button></div></form><div class="visible-xs"><button class=" masthead-hamburger-toggle " data-disclose-autoclose="" aria-controls="masthead-nav">Toggle navigation</button><ul class=" masthead-nav disclose-hide disclose-hide--js-only " aria-label="Primary navigation" id="masthead-nav"><li class="masthead-nav-item"><a class="masthead-nav-control" href="/dashboard" data-analytics-action="NavigationLink" data-analytics-label="live">Live</a></li><li class="masthead-nav-item"><a class="masthead-nav-control" href="/music" data-analytics-action="NavigationLink" data-analytics-label="music">Music</a></li><li class="masthead-nav-item"><a class="masthead-nav-control" href="/events" data-analytics-action="NavigationLink" data-analytics-label="events">Events</a></li><li class="masthead-nav-item"><a class="masthead-nav-control" href="/features" data-analytics-action="NavigationLink" data-analytics-label="features">Features</a></li>
     
-       <ul class="site-auth">
-            
-    
-        <li class="auth-hide-show auth-menu-item">
-            <a class="auth-link" href="https://secure.last.fm/join" data-analytics-action="SignUpClick">
-                Join
-            </a>
+        
+            <li class="masthead-nav-item">
+                <a class="masthead-nav-control" href="/subscribe">Subscribe</a>
+            </li>
+        
+        <li class="masthead-nav-item">
+            <a class="masthead-nav-control" href="/join" data-analytics-action="SignUpClick">Join</a>
+        </li>
+        <li class="masthead-nav-item">
+            <a class="masthead-nav-control" href="https://secure.last.fm/login">Login</a>
         </li>
     
+</ul></div><div class=" navlist navlist--more masthead-nav hidden-xs " data-require="components/primary-nav" data-more-string="More…"><ul class="js-navlist-items navlist-items" aria-label="Primary navigation"><li class="masthead-nav-item"><a class="masthead-nav-control" href="/dashboard" data-analytics-action="NavigationLink" data-analytics-label="live">Live</a></li><li class="masthead-nav-item"><a class="masthead-nav-control" href="/music" data-analytics-action="NavigationLink" data-analytics-label="music">Music</a></li><li class="masthead-nav-item"><a class="masthead-nav-control" href="/events" data-analytics-action="NavigationLink" data-analytics-label="events">Events</a></li><li class="masthead-nav-item"><a class="masthead-nav-control" href="/features" data-analytics-action="NavigationLink" data-analytics-label="features">Features</a></li></ul></div><ul class=" site-auth site-auth--anon hidden-xs "><li class="site-auth-item"><a class="site-auth-control" href="/join" data-analytics-action="SignUpClick">Join</a></li><li class="site-auth-item"><a class="site-auth-control" href="https://secure.last.fm/login">Login</a></li></ul></div></nav>
 
-            
-    
-        <li class="auth-hide-show auth-menu-item">
-            <a class="auth-link auth-login-link" href="https://secure.last.fm/login">
-                Login
-            </a>
-        </li>
     
 
-        </ul>
-    
-
-            
-        </div>
-    </div>
-
-
-        
-
-        
-    
-
-
-        
-
-        
     
 
     
 
-        
-
-<nav class="masthead" data-require="components/masthead" aria-label="Primary navigation">
-    <div class="container">
-
-        <div class="masthead-content">
-            <button class="
-                    masthead-hamburger-toggle
-                    
-                " data-toggle="collapse" data-target=".masthead-nav-links">
-                Toggle navigation
-            </button>
-
-            
-    
-
-
-            <div class="collapse masthead-nav-links js-nav-links">
-                <ul>
-                    
-                    
-                    <li><a href="/dashboard" data-analytics-action="NavigationLink" data-analytics-label="live">Live</a></li>
-                    <li><a href="/music" data-analytics-action="NavigationLink" data-analytics-label="music">Music</a></li>
-                    <li><a href="/events" data-analytics-action="NavigationLink" data-analytics-label="events">Events</a></li>
-                    <li><a href="/features" data-analytics-action="NavigationLink" data-analytics-label="features">Features</a></li>
-                    
-                        
-                            <li class="auth-hide-show"><a href="/subscribe">Subscribe</a></li>
-                        
-                        
-    
-        <li class="auth-hide-show auth-menu-item">
-            <a class="auth-link auth-login-link" href="https://secure.last.fm/login">
-                Login
-            </a>
-        </li>
-    
-
-                        
-    
-        <li class="auth-hide-show auth-menu-item">
-            <a class="auth-link" href="https://secure.last.fm/join" data-analytics-action="SignUpClick">
-                Join
-            </a>
-        </li>
-    
-
-                    
-                </ul>
-            </div>
-
-            <a class="masthead-search-link" href="/search">Search</a>
-        </div>
-
-        
-    
-        
-    
-    <form class="search-form" action="/search" method="get">
-        <label for="site-search" class="sr-only">Search</label>
-        <input id="site-search" class="search-field" type="text" name="q" placeholder="Search for music…" value="">
-        <button class="search-submit" type="submit">Search</button>
-    </form>
-
-    </div>
-</nav>
-
-
-        
-            
-    
-    
-    
     
 
     
     
 
-    <header class="
-        header
-        
-        
-        
-        
-    ">
-        
-            <div class="header-background"></div>
-        
 
+    
+
+    
+    
+    
+    <div class="nag-bar nag-bar--plybar-masthead-release-warning" role="status">
         <div class="container">
-            <div class="header-inner-wrap">
+            
+            <p class="nag-bar-message">
                 
-                <div class="header-info">
-                    
-                </div>
-            </div>
+        
+        A new version of Last.fm is available, to keep everything running smoothly, please <a href="javascript:window.location.reload()">reload</a> the site.
+    
+    
+            </p>
         </div>
-    </header>
+    </div>
 
+
+
+    
+
+    
+
+    
+    <div id="mantle_skin" class="adaptive-skin-container">
+        <div class="adaptive-skin-wrapper">
+            <div id="adSkinLeft" class="adaptive-skin-left"></div>
+            <div id="adSkinRight" class="adaptive-skin-right"></div>
+        </div>
         
 
         
-        <div id="mantle_skin" class="adaptive-skin-container">
-            <div class="adaptive-skin-wrapper">
-                <div id="adSkinLeft" class="adaptive-skin-left"></div>
-                <div id="adSkinRight" class="adaptive-skin-right"></div>
-            </div>
-            
+        
+            <div class="content-top">
+                <div class="content-top-inner-wrap">
+                    
 
-            
-            
-                <div class="content-top">
-                    <div class="content-top-inner-wrap">
+                    <div class="container content-top-lower">
+                        
+                            
+
+
                         
 
-                        <div class="container content-top-lower">
-                            
-                                
-
-
-                            
-
-                            
+                        
     
 
     
@@ -376,33 +294,33 @@
     
 
 
-                            
+                        
 
+                        
                             
-                                
-                                    <h1 class="content-top-header">
-                                        
+                                <h1 class="content-top-header">
+                                    
     Privacy Policy
 
-                                    </h1>
-                                
+                                </h1>
                             
+                        
 
+                        
                             
-                                
     
 
-                            
+                        
 
-                            
-                        </div>
+                        
                     </div>
                 </div>
-            
+            </div>
+        
 
-            
-                <div class="container page-content">
-                    
+        
+            <div class="container page-content">
+                
     <div class="row">
         <div class="col-main">
             <p>
@@ -571,169 +489,274 @@
        </div>
     </div>
 
-                </div>
-            
+            </div>
+        
 
-            
-        </div>
-    
+        
+    </div>
 
     <div id="qa-page-load"></div>
 
     
-    <footer class="footer-wrapper">
-        <div class="container">
-            <div class="footer row">
-                <div class="col-xs-12">
-                    <ul class="site-links">
-                        <li><a href="/about">About</a></li>
-                        <li><a href="/about/contact">Contact</a></li>
-                        <li><a href="/subscribe">Subscribe</a></li>
-                        <li><a href="http://www.last.fm/api">Developer API</a></li>
-                        
-                            <li><a href="https://getsatisfaction.com/lastfm" target="_BLANK">Community Support</a></li>
-                        
-                        
-                            <li><a href="http://cbsi.force.com/CBSi/lastfm" target="_BLANK">Help</a></li>
-                        
-                        
-                        <li><a href="/help/guidelines">Community Guidelines</a></li>
-                        <li><a href="/music/+free-music-downloads">Free Music Downloads</a></li>
-                    </ul>
+
+    
+    <footer class="footer" itemscope="" itemtype="http://schema.org/Organization">
+        <link itemprop="url" href="https://www.last.fm">
+
+        <div class="footer-top">
+            <div class="container">
+                <div class="footer-top-row">
+                    <div class="footer-top-col">
+                        <h2 class="footer-heading">Company</h2>
+                        <ul class="footer-links">
+                            <li><a href="/about">About</a></li>
+                            <li><a href="/about/contact">Contact</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="footer-top-col">
+                        <h2 class="footer-heading">Help</h2>
+                        <ul class="footer-links">
+                            <li><a href="/about/trackmymusic">Track My Music</a></li>
+                            
+                                <li><a href="https://getsatisfaction.com/lastfm" target="_BLANK">Community Support</a></li>
+                            
+                            <li><a href="/help/guidelines">Community Guidelines</a></li>
+                            
+                                <li><a href="http://cbsi.force.com/CBSi/lastfm" target="_BLANK">Help</a></li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="footer-top-col">
+                        <h2 class="footer-heading">Goodies</h2>
+                        <ul class="footer-links">
+                            <li><a href="/about/trackmymusic">Download Scrobbler</a></li>
+                            <li><a href="/api">Developer API</a></li>
+                            <li><a href="/music/+free-music-downloads">Free Music Downloads</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="footer-top-col">
+                        <h2 class="footer-heading">Account</h2>
+                        <ul class="footer-links">
+                            
+                                <li><a href="/join">Join</a></li>
+                                <li><a href="https://secure.last.fm/login">Login</a></li>
+                                <li><a href="/subscribe">Subscribe</a></li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="footer-top-col">
+                        <h2 class="footer-heading">Follow Us</h2>
+                        <ul class="footer-links">
+                            <li><a itemprop="sameAs" target="_blank" href="https://www.facebook.com/lastfm">Facebook</a></li>
+                            <li><a itemprop="sameAs" target="_blank" href="https://twitter.com/lastfm">Twitter</a></li>
+                            <li><a itemprop="sameAs" target="_blank" href="https://www.instagram.com/last_fm">Instagram</a></li>
+                            <li><a itemprop="sameAs" target="_blank" href="https://www.youtube.com/user/lastfm">YouTube</a></li>
+                        </ul>
+                    </div>
                 </div>
-                <div class="col-xs-10">
-                    <ul class="language-selector" id="language-selector">
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-10">
+                        <ul id="language-selector">
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                            footer-language--active
+                                        
+                                    ">
+                                    
+                                        <strong>English</strong><span class="sr-only">current language</span>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="de">
+                                            <button class="mimic-link" name="de" type="submit">Deutsch</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="es">
+                                            <button class="mimic-link" name="es" type="submit">Español</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="fr">
+                                            <button class="mimic-link" name="fr" type="submit">Français</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="it">
+                                            <button class="mimic-link" name="it" type="submit">Italiano</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="ja">
+                                            <button class="mimic-link" name="ja" type="submit">日本語</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="pl">
+                                            <button class="mimic-link" name="pl" type="submit">Polski</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="pt">
+                                            <button class="mimic-link" name="pt" type="submit">Português</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="ru">
+                                            <button class="mimic-link" name="ru" type="submit">Русский</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="sv">
+                                            <button class="mimic-link" name="sv" type="submit">Svenska</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="tr">
+                                            <button class="mimic-link" name="tr" type="submit">Türkçe</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                                
+                                <li class="
+                                        footer-language
+                                        
+                                    ">
+                                    
+                                        <form class="footer-language-form" action="/i18n/setlang/" method="post">
+                                            <input type="hidden" name="csrfmiddlewaretoken" value="bhdl5ZJsyHUMWXHpWeNhhEWQ3FftwmFz">
+                                            <input type="hidden" name="language" value="zh">
+                                            <button class="mimic-link" name="zh" type="submit">简体中文</button>
+                                        </form>
+                                    
+                                </li>
+                            
+                        </ul>
                         
-                            <li>
-                                
-                                    <strong class="active">English</strong><span class="sr-only">current language</span>
-                                
-                            </li>
+                        <p class="footer-timezone">
+                            
+                                Time zone: <strong>America/Los_Angeles</strong>
+                            
+                        </p>
+                    </div>
+
+                    <div class="logo col-xs-2">
+                        <img src="/static/images/footer_logo@2x.49ca51948b0a.png" width="37" height="20" alt="Last.fm 'as' logo">
+                    </div>
+
+                    <div class="footer-legal col-xs-12">
+                        <ul>
+                            <li class="footer-legal-item"><a rel="nofollow" href="http://www.cbsinteractive.com/">CBS Interactive</a> © 2017 <span itemprop="name">Last.fm</span> Ltd. All rights reserved</li>
+                            <li class="footer-legal-item"><a href="/legal/terms">Terms of Use</a></li>
+                            <li class="footer-legal-item"><a href="/legal/privacy">Privacy Policy</a></li>
+                            <li class="footer-legal-item"><a href="/legal">Legal Policies</a></li>
+                            <li class="footer-legal-item"><a target="_blank" href="http://www.cbsinteractive.com/careers">Jobs at CBSi</a></li>
+                            <li class="footer-legal-item"><a rel="nofollow" href="http://www.gamespot.com">Gamespot</a></li>
+                        </ul>
                         
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="de">
-                                        <button class="mimic-link" name="de" type="submit">Deutsch</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="es">
-                                        <button class="mimic-link" name="es" type="submit">Español</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="fr">
-                                        <button class="mimic-link" name="fr" type="submit">Français</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="it">
-                                        <button class="mimic-link" name="it" type="submit">Italiano</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="ja">
-                                        <button class="mimic-link" name="ja" type="submit">日本語</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="pl">
-                                        <button class="mimic-link" name="pl" type="submit">Polski</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="pt">
-                                        <button class="mimic-link" name="pt" type="submit">Português</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="ru">
-                                        <button class="mimic-link" name="ru" type="submit">Русский</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="sv">
-                                        <button class="mimic-link" name="sv" type="submit">Svenska</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="tr">
-                                        <button class="mimic-link" name="tr" type="submit">Türkçe</button>
-                                    </form>
-                                
-                            </li>
-                        
-                            <li>
-                                
-                                    <form action="/i18n/setlang/" method="post">
-                                        <input type="hidden" name="csrfmiddlewaretoken" value="8nm1LE2dL4hXtUwCuBBA28QTNGXE4Wtd">
-                                        <input type="hidden" name="language" value="zh">
-                                        <button class="mimic-link" name="zh" type="submit">简体中文</button>
-                                    </form>
-                                
-                            </li>
-                        
-                    </ul>
-                </div>
-                <div class="logo col-xs-2">
-                    <img src="//static-web.last.fm/static/images/footer_logo.ddcfd65712a6.png" alt="Last.fm 'as' logo">
-                </div>
-                <div class="copyright col-xs-12">
-                    <ul class="list-inline legal">
-                        <li><a rel="nofollow" href="http://www.cbsinteractive.com/">CBS Interactive</a> © 2016 Last.fm Ltd. All rights reserved</li>
-                        <li><a href="/legal/terms">Terms of Use</a></li>
-                        <li><a href="/legal/privacy">Privacy Policy</a></li>
-                        <li><a href="/legal">Legal Policies</a></li>
-                        <li><a rel="nofollow" href="http://www.gamespot.com">Gamespot</a></li>
-                    </ul>
-                    
+                    </div>
                 </div>
             </div>
         </div>
@@ -742,7 +765,7 @@
     <div class="feedback-message-inner">
         <p>
             <span class="hidden-xs">
-                You’re viewing a beta version of the new Last.fm website.
+                Let us know what you think of the Last.fm website.
             </span>
             <a href="http://cbsi.force.com/CBSi/template_lfmfbk?p_userid=" target="_blank">Leave feedback</a>
         </p>
@@ -752,11 +775,12 @@
 
 
     <section class="debug-log">
-    <h2>API Calls</h2>
+    <h2 class="debug-log-heading">API Calls</h2>
     
 </section>
 
 
+        </div>
         
     </div>
 
@@ -764,13 +788,43 @@
         <div data-require="player/providers/spotify/spotify-provider" data-spotify-modal="/player/modal/spotify"></div>
 
         <div data-require="player/providers/youtube/youtube-provider" class="video-player" aria-hidden="true" id="youtube-video">
-            <div class="container">
+            <div class="video-player-inner-wrap">
                 <div class="video-player-embed js-player"></div>
             </div>
         </div>
     
 
+    
+
 
         
+            
+                <div class="
+                        lazy-recs-bar-full-width-wrapper
+                        lazy-recs-bar--hidden
+                    " data-require="components/lazy-recs-bar" data-url="/recommendations/anon_bar">
+                </div>
+            
+        
+        
+
+        <script class="js-modal-template" type="text/template">
+            <div class="modal-dialog" role="dialog" aria-labelledby="modal-label">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button class="modal-dismiss js-close">Close</button>
+                        <h2
+                            id="modal-label"
+                            class="modal-title js-modal-title"
+                        ></h2>
+                    </div>
+                    <div class="modal-body js-modal-body"></div>
+                </div>
+            </div>
+        </script>
+        <script>
+            window.lfmDomReadyCallback && window.lfmDomReadyCallback();
+            window.lfmDomReady = true;
+        </script>
     
 </body></html>
