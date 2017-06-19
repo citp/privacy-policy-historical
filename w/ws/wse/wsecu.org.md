@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wsecu.org privacy policy that was archived on 2016-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160724015751id_/https%3A//wsecu.org/Documents/Help%2520and%2520Resources/Privacy%2520Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsecu.org privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619045244id_/https%3A//wsecu.org/Documents/Help%2520and%2520Resources/Privacy%2520Notice.pdf) for the most accurate reproduction.*
 
 # FACTSWHAT DOES WASHINGTON STATE EMPLOYEES CREDIT UNION (WSECU) AND WSECU SERVICE COMPANY, LLC, QCASH FINANCIAL, LLC AND ONE WASHINGTON FINANCIAL, LLC DO WITH YOUR PERSONAL INFORMATION?
 
