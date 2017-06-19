@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606065729id_/http%3A//www.yodel.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619233927id_/http%3A//yodel.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | Privacy & Cookies Policy | Yodel
 
@@ -109,6 +109,10 @@ Yodel takes all reasonable measures to ensure that the personal data you provide
 #### Policy Review
 
 This policy is regularly reviewed or when legislation, practice, risk or change triggers review.
+
+#### Fraud
+
+We pride ourselves on our website security and we would like to give you some tips to keep your personal details safe, [visit here](https://web.archive.org/privacy-and-cookies/fraud/ "Fraud") for some simple steps that you can take to stay protected.
 
 #### Contact Us
 
