@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the payentry.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904023153id_/http%3A//info.payentry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payentry.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619061302id_/http%3A//info.payentry.com/privacy) for the most accurate reproduction.*
 
-# Payentry Privacy
-
-## **Privacy**
+# Privacy | Payentry
 
 ### Introduction
 
-At Payentry or MPAY, we are committed to your privacy. This statement describes the information we collect from our online visitors and how we use this information. Our Privacy Policy pertains to all the Payentry or MPAY family of websites including our hosted application sites, such as the Payentry.com family (referred to collectively in this Privacy Policy as the "Service").
+At Payentry or MPAY, we are committed to your privacy. This statement describes the information we collect from our online visitors and how we use this information. Our Privacy Policy pertains to all the Payentry or MPAY family of websites including our hosted application sites, such as the Payentry.com family (referred to collectively in this Privacy Policy as the “Service”).
 
 ### The Information We Collect
 
 Unless stated otherwise in this Privacy Policy, we only collect personally identifiable information from you if you provide this information to us. Personally identifiable information is information that could be used to identify you, such as your name, address, company name, e-mail address, and user ID.
 
-Some of our websites, like many commercial websites, utilize "cookies" for the purpose of enhancing your customer experience while using our websites. Cookies are small files that websites put on your computer when you visit that website. Cookies are designed to remember user preferences that have been set during a visit so when a user returns, the next visit will be more efficient. Some of our application websites may use cookies to remember and customize application settings and preferences associated with a customer's user ID.
+Some of our websites, like many commercial websites, utilize “cookies” for the purpose of enhancing your customer experience while using our websites. Cookies are small files that websites put on your computer when you visit that website. Cookies are designed to remember user preferences that have been set during a visit so when a user returns, the next visit will be more efficient. Some of our application websites may use cookies to remember and customize application settings and preferences associated with a customer’s user ID.
 
 We also collect non-personally identifiable information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Service.
 
@@ -49,15 +47,15 @@ We may provide to third parties information about you that does not allow you to
 
 _**Outside Contractors**_
 
-We may employ independent contractors, vendors, and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service and e-mail services. In the course of providing products or services to us, these Outside Contractors may sometimes have limited access to information collected on the Service, including your personally identifiable information. We also require that these contractors (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted.
+We may employ independent contractors, vendors, and suppliers (collectively, “Outside Contractors”) to provide specific services and products related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service and e-mail services. In the course of providing products or services to us, these Outside Contractors may sometimes have limited access to information collected on the Service, including your personally identifiable information. We also require that these contractors (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted.
 
 _**Integrated Third Party Services**_
 
-In some cases, our products and services may be integrated with the products and services of third parties for the purpose of providing further benefits and features to our clients. Information, including personally identifiable information, may be passed back and forth between our Service and the third party's products and services. By submitting the requested information, you affirmatively consent to have that information shared with such third parties. While we seek only to work with partners that employ similar techniques for data privacy as we do, we are not responsible for their privacy practices. Accordingly, we encourage you to ask your provider for details on their privacy practices, to be aware when the Service links to such third parties' sites and to read the privacy policies or statements of each and every such third party. This Privacy Policy applies solely to information collected by the Service.
+In some cases, our products and services may be integrated with the products and services of third parties for the purpose of providing further benefits and features to our clients. Information, including personally identifiable information, may be passed back and forth between our Service and the third party’s products and services. By submitting the requested information, you affirmatively consent to have that information shared with such third parties. While we seek only to work with partners that employ similar techniques for data privacy as we do, we are not responsible for their privacy practices. Accordingly, we encourage you to ask your provider for details on their privacy practices, to be aware when the Service links to such third parties’ sites and to read the privacy policies or statements of each and every such third party. This Privacy Policy applies solely to information collected by the Service.
 
 _**Third Party Sellers**_
 
-In addition, through the Service, you may be given the opportunity to purchase (or to obtain more information regarding) certain content, products or services that are sold by parties other than us (collectively, "Merchants"). We will attempt to make it clear to you when you are dealing with a Merchant by opening a new browser or otherwise notifying you that you are leaving the Service. For example, if you see a phrase such as "powered by" or "brought to you by" followed by the name of a person or company other than the Service, then you are likely on, or about to enter, a Web site hosted or operated by a person or company other than us. Merchants may request that you submit certain information to them in order to purchase their products or services or to obtain additional information from them. By submitting the requested information, you affirmatively consent to have that information shared with the Merchant. This information is used by the Merchant and may be subject to a different privacy policy. We are not responsible for the privacy practices of Merchants. We encourage you to be aware when the Service links to Merchants' Web sites and to read the privacy policies or statements of each and every Merchant Web site. This Privacy Policy applies solely to information collected by the Service. We do not otherwise share or disclose your personally identifiable information to Merchants.
+In addition, through the Service, you may be given the opportunity to purchase (or to obtain more information regarding) certain content, products or services that are sold by parties other than us (collectively, “Merchants”). We will attempt to make it clear to you when you are dealing with a Merchant by opening a new browser or otherwise notifying you that you are leaving the Service. For example, if you see a phrase such as “powered by” or “brought to you by” followed by the name of a person or company other than the Service, then you are likely on, or about to enter, a Web site hosted or operated by a person or company other than us. Merchants may request that you submit certain information to them in order to purchase their products or services or to obtain additional information from them. By submitting the requested information, you affirmatively consent to have that information shared with the Merchant. This information is used by the Merchant and may be subject to a different privacy policy. We are not responsible for the privacy practices of Merchants. We encourage you to be aware when the Service links to Merchants’ Web sites and to read the privacy policies or statements of each and every Merchant Web site. This Privacy Policy applies solely to information collected by the Service. We do not otherwise share or disclose your personally identifiable information to Merchants.
 
 _**Employee Data**_
 
@@ -69,7 +67,7 @@ We reserve the right to transfer information to a third party in the event of a 
 
 _**Affiliates**_
 
-We may disclose information (including personally identifiable information) about you to our Affiliates. For purposes of this Privacy Policy, "Affiliates" means any person or entity which directly or indirectly controls, is controlled by or is under common control with Payentry or MPAY, whether by ownership or otherwise. Any information relating to you that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this Privacy Policy.
+We may disclose information (including personally identifiable information) about you to our Affiliates. For purposes of this Privacy Policy, “Affiliates” means any person or entity which directly or indirectly controls, is controlled by or is under common control with Payentry or MPAY, whether by ownership or otherwise. Any information relating to you that we provide to our Affiliates will be treated by those Affiliates in accordance with the terms of this Privacy Policy.
 
 ### Changes to the Privacy Policy
 
@@ -89,6 +87,6 @@ Attn. Customer Care – Privacy Policy
 Roanoke, VA  24018
 
 Phone:  (781) 810-9000  
-Email:  [publicrelations@Payentry or MPAY.com](mailto:publicrelations@mpay.com) (Not for technical support) 
+Email:  [publicrelations@Payentry or MPAY.com](mailto:publicrelations@mpay.com) (Not for technical support)
 
 **For login assistance or technical support, please contact your employer or payroll administrator** **.**
