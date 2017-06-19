@@ -1,16 +1,23 @@
-> *The following text is extracted and transformed from the thecustomizewindows.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818044257id_/https%3A//thecustomizewindows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecustomizewindows.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619195931id_/https%3A//thecustomizewindows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
+If you are looking for Cookie Policy, then [you should also read this webpage about our cookies](https://thecustomizewindows.com/cookie-policy/ "Cookie Policiy").
+
 ## Your Privacy
 
-**** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+ **** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ### Google Adsense and the DoubleClick DART Cookie
 
-Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html>Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, The Customize Windows has no access or control over these cookies that may be used by third party advertisers.
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html>Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, The Customize Windows has no access or control over these cookies that may be used by third party advertisers.  
+ 
 
 ### Our Commitment To Childrens Privacy
+
+Advertisement
+
+\---
 
 Protecting the privacy of the very young is especially important. For that reason, The Customize Windows will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Under our Terms of Service, children under 18 are not allowed to access our service.
 
@@ -26,4 +33,4 @@ We have included links on this site for your use and reference. We are not respo
 
 The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of The Customize Windows then [you may contact us through our Contact Us form](https://thecustomizewindows.com/contact-us/ "Contact The Customize Windows").
 
-Last updated Fri, 30 Oct 2012 01:02
+Last updated Mon, 3rd Oct 2016 03:32
