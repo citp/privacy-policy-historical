@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentalhomesplus.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015184253id_/http%3A//advertise.apartments.com/disclaimers/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalhomesplus.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619190042id_/https%3A//www.apartments.com/advertise/disclaimers/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
