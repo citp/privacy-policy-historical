@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liondesk.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126025300id_/http%3A//liondesk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liondesk.com privacy policy that was archived on 2017-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170619182937id_/http%3A//www.liondesk.com/privacy.html) for the most accurate reproduction.*
 
 # LionDesk: Privacy Policy Real Estate Agent CRM and Sales & Marketing Tools
 
@@ -145,5 +145,9 @@ If you have any questions or concerns about (a) access to PII, (b) the collectio
 ##### XV. Your California Privacy Rights
 
 Under California Law, California residents have the right to request in writing from a business, (a) a list of the categories of personal information, such as name, address, e–mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including Independent Affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (b) the names and addresses of all such third parties. To request the above information, please contact us by contacting our Chief Privacy Officer via our Customer Care department via e–mail: [Contact@LionDesk.com](mailto:Contact@LionDesk.com) We will respond to such written requests within 30 days following receipt at the e–mail or mailing address stated above. If we receive your request at a different e–mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+
+##### XVI. Anti-Spam Texting Policy
+
+View our policy [here](https://web.archive.org/web/20170619182937id_/http%3A//www.liondesk.com/anti-spam-policy-texting.html).
 
 [Contact@LionDesk.com](mailto:Contact@LionDesk.com)
