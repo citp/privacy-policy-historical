@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212235110id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapd.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620104848id_/http%3A//www.aapd.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The American Academy of Pediatric Dentistry
 
@@ -11,7 +11,7 @@ Chicago, IL 60611 
   
 
 
-By e-mail:         [oed@aapd.org](mailto:oed@aapd.org)
+By e-mail:         [slitch@aapd.org](mailto:slitch@aapd.org)
 
 Although we are committed to insuring your privacy, we may be required to disclose personal information when required by law and necessary to comply with a court order or legal process.
 
@@ -27,7 +27,7 @@ To gain access to members-only resources and personalization features on the web
 
 The AAPD and its affiliates may use your contact information to alert you to new information, products and services, events, and other opportunities. From time to time, we may also make your contact information available to other reputable organizations whose products or services we think you might find interesting.
 
-######  The AAPD uses information voluntarily submitted by AAPD members and others to provide members with personalized service tailored to your needs and to enable us to continually improve the convenience and functionality of this site. For example, we maintain a directory of pediatric dentists that may include information that an AAPD member submitted via our website. 
+###### The AAPD uses information voluntarily submitted by AAPD members and others to provide members with personalized service tailored to your needs and to enable us to continually improve the convenience and functionality of this site. For example, we maintain a directory of pediatric dentists that may include information that an AAPD member submitted via our website. 
 
 The AAPD has instituted stringent reviews and opt-out capabilities to ensure that you do not receive unwanted e-mail from the AAPD. 
 
