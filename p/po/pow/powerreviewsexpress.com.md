@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the powerreviewsexpress.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017170714id_/http%3A//www.powerreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerreviewsexpress.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620173159id_/http%3A//www.powerreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • PowerReviews
 
-#### **PRIVACY POLICY (PRIVACY SHIELD AND US-SWISS SAFE HARBOR)** **  
-****Last Updated 09/29/2016**
+#### **PRIVACY POLICY  ** **  
+****Last Updated 04/12/2017**
 
 This Privacy Policy (this “Policy”) describes how personal information is collected from users of the PowerReviews and PowerReviews Express websites at [http://www.PowerReviews.com](http://www.powerreviews.com/) and [http://www.PowerReviewsExpress.com](http://www.powerreviewsexpress.com/) (collectively, the “Site”) and the PowerReviews and PowerReviews Express product reviews and ratings service (“Review Service”), operated by PowerReviews, Inc. (“PowerReviews,” “we,” or “us”) and how that information is used and disclosed. The Review Service is provided both through the Site and through third party sites via framing techniques as described below (“Third Party Sites”). We encourage you to read this Policy carefully before providing any personal information on the Site or Review Service.
 
 * * *
 
-**EU-U.S. PRIVACY SHIELD**
+**EU-U.S. PRIVACY SHIELD AND SWISS-U.S. PRIVACY SHIELD**
 
-PowerReviews complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  PowerReviews has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome).  The Federal Trade Commission has jurisdiction over our compliance with the Privacy Shield.
+PowerReviews complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union  and Switzerland to the United States, respectively.  PowerReviews has certified to the Department of Commerce that it adheres to the Privacy Shield Principles.  If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome).  The Federal Trade Commission has jurisdiction over our compliance with the Privacy Shield.
 
 * * *
 
@@ -92,8 +92,8 @@ PowerReviews recognizes the individual’s right to access their personal data. 
 
 Attn. Privacy  
 PowerReviews, Inc.  
-180 N. LaSalle, 5th Floor  
-Chicago, IL 60601
+1 N. Dearborn, 8th Floor  
+Chicago, IL 60602
 
 * * *
 
@@ -117,31 +117,15 @@ We will modify this Policy if our privacy practices materially change in the fut
 
 **DISPUTE RESOLUTION**
 
-In compliance with the EU-US Privacy Shield Principles, PowerReviews commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact PowerReviews by mail as follows:
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, PowerReviews commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact PowerReviews by mail as follows:
 
 Attn. Privacy  
 PowerReviews, Inc.  
-180 N. LaSalle, 5th Floor  
-Chicago, IL 60601
+1 N. Dearborn, 8th Floor  
+Chicago, IL 60602
 
-PowerReviews has further committed to refer unresolved complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. 
-
-Under certain limited conditions and if your complaint is not resolved by PowerReviews or the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a binding arbitration option may be made available to you through the Privacy Shield Panel.
-
-* * *
-
-**US-SWISS SAFE HARBOR**
-
-PowerReviews also complies with the Swiss-U.S. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. PowerReviews certifies that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern To learn more about the Safe Harbor program, and to view our certification, please visit [http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/).
-
-In compliance with the US-Swiss Safe Harbor Principles, PowerReviews commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact PowerReviews at:
-
-Attn. Privacy  
-PowerReviews, Inc.  
-180 N. LaSalle, 5th Floor  
-Chicago, IL 60601 
-
-PowerReviews has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/EU-privacy-shield/bbb-eu-safe-harbor-dispute-resolution/) for more information and to file a complaint.
+PowerReviews has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.   
+Under certain limited conditions and if your complaint is not resolved by PowerReviews or the BBB EU PRIVACY SHIELD, a binding arbitration option may be made available to you through the Privacy Shield Panel.
 
 * * *
 
@@ -150,5 +134,5 @@ PowerReviews has further committed to refer unresolved privacy complaints under 
 If you have any questions inquiries or complaints about this Policy, or the practices of or your dealings with the Site or Review Service, please contact us at the following address:
 
 PowerReviews, Inc.  
-180 N LaSalle, 5th Floor  
-Chicago IL 60601
+1 N. Dearborn, 8th Floor  
+Chicago IL 60602
