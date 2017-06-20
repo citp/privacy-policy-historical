@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118215539id_/http%3A//www.jpopasia.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpopasia.com privacy policy that was archived on 2017-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170621015900id_/http%3A//www.jpopasia.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class=""><head>
 			<meta charset="utf-8">
@@ -45,7 +45,7 @@
 
 			<!-- CSS -->
 			<link rel="stylesheet" href="/css/plugins.css?v=1.1.08">
-			<link rel="stylesheet" href="/css/core.css?v=1.2.04">
+			<link rel="stylesheet" href="/css/core.css?v=1.2.07">
 
 			<!-- CSS -->
 			<!-- <link href="/libs/bootstrap/3.3.0/css/bootstrap.css" rel="stylesheet"> -->
@@ -64,6 +64,7 @@
 				<!--<script src="/libs/bootstrap/3.3.0/js/bootstrap.min.js"></script>-->
 			
 
+			<!-- <script src="/js/showads.js?v=1.0.01"></script> -->
 			<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/core.js?v=1.1.10"></script>
 			<!--<script src="http://d2i28j241y5rqn.cloudfront.net/v4/js/core-3.3.1.js"></script>-->
 
@@ -109,7 +110,9 @@
 						$('.col-md-8 .panel.panel-default').css({ 'width':'' });
 						$('.container .col-md-8').css({ 'overflow-x':'auto' });
 						$('.bottom-menu').css({ 'visibility':'visible' });
-					} else { // collapse
+
+													$('#left-sidebar-ad').css({ 'top':'10px' });
+											} else { // collapse
 						$this.addClass('mobileLeftSidebarCollapsed');
 						var docHeight = $(document).height();
 						var docWidth = $(document).width();
@@ -120,7 +123,10 @@
 						$('.col-md-8').css({ 'marginLeft':'190px' }).addClass('opacity');
 						$('.col-md-8 .panel.panel-default').css({ 'width':''+docWidth+'px' });
 						$('.container .col-md-8').css({ 'overflow-x':'hidden' });
-					}
+
+													var sidebarContentHeight = parseFloat($('.ul-sidebar-left.mobile-only').height()) + 20;
+							$('#left-sidebar-ad').css({ 'top':sidebarContentHeight+'px' });
+											}
 				});
 
 				var width = $(document).width();
@@ -299,7 +305,6 @@
 			  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 			<![endif]-->
 
-
 											<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<script>
 				(adsbygoogle = window.adsbygoogle || []).push({
@@ -407,11 +412,7 @@
 
 
 		
-
-
-
-
-
+		
 		<div id="notification" class="container center global-notification hidden inverse">
 			<div class="alert margin-m position-relative">
 				<div class="clearfix global-notification-content"></div>
@@ -432,12 +433,7 @@
 		<div id="leftSidebarScrollWrapper" class="nano" style="font-size:13px; padding-bottom:20px; height:85%;">
 			<div id="leftSidebarScroll" class="nano-content position-relative" style="list-style-type:none; width:100%; outline:none; height:100%; padding-bottom:30px; right:0px !important; margin-right:0px !important;">
 
-				<!-- <span class="registerExternal">
-					<a class="a-black bold display-inline line-height-1-2" href="https://www.candyjapan.com/?utm_source=jpopasia" data-source="candyjapan.com" rel="nofollow">Candy Japan</a><br/>
-				</span> -->
-
-
-
+				
 				<ul class="ul-sidebar-left position-relative mobile-only" style="">
 					<a href="/" class="a-black"><li class="size-s"><i class="fa fa-home fa-fw"></i> Home</li></a>
 					<a href="/charts/jpop/oricon/" class="a-black"><li class="size-s"><i class="fa fa-list-ol fa-fw"></i> Charts</li></a>
@@ -548,7 +544,7 @@
 				<div class="col-sm-8 col-sm-offset-2">
 					<!-- <a href="//www.facebook.com/jpopasia/" class="fa fa-facebook-official"></a> &nbsp;
 					<a href="//twitter.com/jpopasia/" class="fa fa-twitter"></a> -->
-					<a href="/">JpopAsia</a> &nbsp; © 2016 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+					<a href="/">JpopAsia</a> &nbsp; © 2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 					<a href="/about/privacy/">Privacy</a>
 					&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 					<a href="/about/terms/">Terms</a>
@@ -591,6 +587,34 @@
 
 
 
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+	if( window.canRunAds === undefined ){
+    // adblocker detected, show fallback
+    function displayAdBlockerModal() {
+		var backdrop = $(this).data('backdrop');
+		var $globalModal = $('#globalModal');
+		$('.popover').remove();
+		var errorText = $globalModal.data('error-text');
+		$globalModal.addClass('dark-backdrop');
+
+		$modalBody = $('#globalModal .modal-body').removeClass('post-preview-modal');
+		$modalBody.html('<div class="text-center margin-y-l">'+loading+'</div>');
+
+		$('[data-dismiss=modal]').remove();
+		$('[data-toggle=tooltip]').tooltip({'animation':false});
+		$modalBody.html('<div class="text-center margin-l"><h2>Please turn off your Ad Blocker to make use of JpopAsia.</h2>JpopAsia is a non-profit organization run by volunteers. Please help us by turning off your ad blocker. Thank you :)</div>');
+		$globalModal.modal({
+			keyboard: false,
+			backdrop: 'static'
+		});
+	}
+	//displayAdBlockerModal();
+  }
+});
+</script>
 
 
 
