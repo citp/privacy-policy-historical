@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the tnhonline.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023145136id_/http%3A//www.tnhonline.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnhonline.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620021329id_/https%3A//www.tnhonline.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TNH Online
 
+By · On September 15, 2016
+
 ## Introduction
 
-This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of [http://www.tnhonline.com](http://www.tnhonline.com/) and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
+This privacy policy (“Policy”) and this site’s Terms of Service (together the “Terms”) govern all use of <http://45.56.125.220:8080/tnhonline.com> and that site’s services (together the “Site” or “Services”). The owners and contributors to the Site will be referred to as “we,” “us,” or “our” in this Policy. By using the Site or its Services, and/or by clicking anywhere on this Site to agree to the Terms and this Policy, you are deemed to be a “user” for purposes of this Policy. You and every other user (“you” or “User” as applicable) are subject to this Policy. You and each user also agree to the Terms by using the Services. In these Terms, the word “Site” includes the site referenced above, its owner(s), contributors, suppliers, licensors, and other related parties.
 
 We provide this privacy statement explaining our online information practices, so that you can decide whether and how to interact with the Site and the Services.
 
@@ -42,7 +44,7 @@ We are based in Kota Bharu, Kelantan and you are contracting to use our Site. Th
 
 ## No Users Under the Age of 13
 
-The Site is not intended for children under the age of 13. Children under the age of 13 should not use the Site at any time. We do not knowingly collect personal information from children under the age of 13. If we obtain actual knowledge that we have collected information from anyone under the age of 13, we will erase that information from our servers. It is a violation of our Terms of Service for children under the age of 13 to use the Site. 
+The Site is not intended for children under the age of 13. Children under the age of 13 should not use the Site at any time. We do not knowingly collect personal information from children under the age of 13. If we obtain actual knowledge that we have collected information from anyone under the age of 13, we will erase that information from our servers. It is a violation of our Terms of Service for children under the age of 13 to use the Site.
 
 ## Terms Contact
 
