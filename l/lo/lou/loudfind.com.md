@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudfind.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113073454id_/http%3A//loudfind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudfind.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620220752id_/http%3A//loudfind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Loudfind
 
@@ -12,3 +12,5 @@ We do not ask for private information like Credit Card information or Bank accou
 #### This site content is copy protected and using our content explicitly for selling or commercial use is prohibited.
 
 [Loudfind.com](http://loudfind.com/)
+
+* * *
