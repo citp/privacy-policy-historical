@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the craft.co privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826072455id_/https%3A//craft.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craft.co privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620104530id_/https%3A//craft.co/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Policy | Craft
+# Privacy and Security Policy - Craft
 
 Date Last Revised:  **15 January 2015**
 
@@ -15,43 +15,21 @@ This Privacy & Security Policy explains how we protect personal information prov
 
 Simply put, we do not and will not sell or rent your personal information to anyone, for any reason, at any time. Craft uses and discloses your personal information only as follows:
 
-  
-
   * to fulfill your requests for certain products and services;
-  
-
   * to analyze site usage and improve the Service;
-  
-
   * to deliver to you any notices and communications relevant to your use of the Service;
-  
-
   * for research, planning, troubleshooting problems;
-  
-
   * to third-party contractors that provide services (e.g. email notifications) to Craft and are bound by these same privacy restrictions;
-  
-
   * to enforce Craft’s Terms of Use; and
-  
-
   * as otherwise set forth in this Privacy and Security Policy.
-  
 
 
 
 Craft may make anonymous or aggregate personal information and disclose such data only in a non-personally identifiable manner to:
 
-  
-
   * Users of the Service for purposes of comparison to the broader community;
-  
-
   * Organizations approved by Craft that conduct research into career management and development; and
-  
-
   * Advertisers and other third parties for their marketing and promotional purposes.
-  
 
 
 
@@ -75,16 +53,9 @@ We may use third party service providers to help us analyze certain online activ
 
 Notwithstanding the foregoing, Craft reserves the right (and you authorize Craft) to share or disclose your personal information when Craft determines, in its sole discretion, that the disclosure of such information is necessary or appropriate:
 
-  
-
   * To enforce our rights against you or in connection with a breach by you of this Privacy and Security Policy or the Craft.co Terms of Use;
-  
-
   * To prevent prohibited or illegal activities; or
-  
-
   * When required by any applicable law, rule regulation, subpoena or other legal process.
-  
 
   
 
