@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106110206id_/https%3A//www.headspace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsomeheadspace.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620145037id_/https%3A//www.headspace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Headspace
 
-Headspace, Inc. and our wholly owned subsidiary, Headspace Meditation Limited (together, “Headspace,” “us” or "we") are committed to protecting and respecting your privacy in connection with your use of our website, www.headspace.com (the “Website(s)”), applications (“Apps”) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information.
+Headspace, Inc. and our wholly owned subsidiary, Headspace Meditation Limited (together, “Headspace,” “us” or "we") are committed to protecting and respecting your privacy in connection with your use of our website, www.headspace.com (the “Website(s)”), applications (“Apps”) and other products, services and features thereof (the Website, the Apps and such other products, services and features are collectively referred to herein as the “Product” or “Products”, which may be updated from time-to-time at the sole discretion of Headspace). This privacy policy (“Privacy Policy”) and any other documents referred to herein set forth the basis on which any personal information we collect from you, or that you provide to us, in connection with the Products will be processed by us. Please read the following carefully to understand our practices regarding your personal information and how we will collect, use and disclose your personal information.
 
 ## 1\. INFORMATION WE MAY COLLECT FROM YOU
 
@@ -27,23 +27,25 @@ If you sign up to receive email newsletters or promotional materials from us we 
 
 If you inform us that you wish to cancel email newsletters or promotional materials by selecting unsubscribe at the bottom of such communication or by emailing us at help@headspace.com, we will remove you from our mailing list. If you no longer wish to receive push notifications, you may turn them off at the device level.
 
+If you provide your phone number through the website in order to receive an SMS message with a link to our Apps, you will receive such SMS message (the “SMS Service”). Standard text message rates will apply. 
+
 ## 4\. TRACKING TECHNOLOGIES
 
 Headspace and our analytics partners, use technologies such as cookies, beacons, tags, and scripts to enable a service to recognize your device so you don't have to provide the same information several times during one task, recognize that you may have already given a username and password so you don't need to do it for every web page requested, and measuring how many people are using services.
 
 We use local storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on the Products also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5.
 
-We partner with third parties, such as Facebook, to manage our advertising of the Products on other sites or platforms. Our third party partners may use technologies such as cookies to gather information about your activities within the Products to deliver such advertising to you, such as retargeting ads. We currently do not respond to do-not-track signals. For more information about interest-based ads, including how to opt-out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms.
+We partner with third parties, such as Facebook and Google, to manage our advertising of the Products on other sites or platforms as well as across your other devices based on your past visits to our website. Our third party partners may use technologies such as cookies to gather information about your activities within the Products to deliver such advertising to you, such as retargeting ads. We currently do not respond to do-not-track signals. For more information about interest-based ads, including how to opt-out of having your web-browsing information used for behavioral advertising purposes, please visit www.aboutads.info/choices. Please note that this does not opt you out of being served ads. You may continue to receive generic ads on these third party platforms. You may also opt out of receiving ads across devices by adjusting your ad preference in your Google account.
 
 We use third party trackers to let us know when users have visited the Products by “clicking-through” our sponsored advertising or content hosted on third party platforms.
 
 The Products use Google Analytics code to gather statistical information. Google Analytics sets cookies to help us accurately estimate the number of visitors to the Products and the volumes of usage of the Products. This is done to ensure that the Products are available when you want them and are fast. For more information on how Google Analytics processes this information, visit www.google.com/analytics.
 
-### Mobile Analytics
+### MOBILE ANALYTICS
 
 We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often you use the Products, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We may link the information we store within the analytics software to any personal information you submit within the mobile application.
 
-### Log Files
+### LOG FILES
 
 As true of most websites, we gather certain information and automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
@@ -83,7 +85,8 @@ We use information held about you in the following ways:
   * To notify you about changes to the Products.
   * To understand your broad, non-specific geographic location to help us identify groups of users by general geographic market (such as zip code, state or country).
   * To inform your Community about your registration and use of the Products as described under Corporate and Other Community Sharing in section 6 above.
-  * To serve our advertisements to you through third party platforms, such as Facebook.
+  * To serve our advertisements to you through third party platforms, such as Facebook or Google, on other sites and apps or across your devices.
+  * To provide you with the SMS Service. 
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out through the Products and of the fulfillment of your Product orders.
   * Details of your visits to and interactions with the Products including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
@@ -100,7 +103,7 @@ We may disclose your personal information to any member of our group, which mean
 
 We may also disclose your personal information to third parties as follows:
 
-  * In some circumstances, based on your specific requests, we may need to disclose your personal information to a third party so that they can provide a service you have requested from such party, or fulfill a request for information from such party. It is the responsibility of any third party that you authorize to receive data to protect that information in accordance with applicable laws, and use it only to provide the services or information you have requested.
+  * In some circumstances, based on your specific requests, we may need to disclose your personal information to a third party so that they can provide a service you have requested from such party, or fulfill a request for information from such party. An example of this is the SMS Service. It is the responsibility of any third party that you authorize to receive data to protect that information in accordance with applicable laws, and use it only to provide the services or information you have requested.
   * In some circumstances, we may disclose the personal information that you have provided to Headspace to a third party that offers and/or provides goods or services complementary to our own for the purpose of enhancing our users’ experiences by offering you integrated or complementary functionality, or bundled pricing options.
   * If Headspace’s service providers (like hosting, market analytics, and payment service providers) require this information to provide services to Headspace. Headspace requires each of its service providers to agree to maintain the confidentiality of your personal information disclosed.
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets.
@@ -114,8 +117,6 @@ We may also disclose your personal information to third parties as follows:
 ## 11\. LINKS TO THIRD PARTY SITES
 
 The Products may, from time to time, contain links to and from the Products of our partner networks, advertisers and affiliates. If you follow a link to any of these external websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these websites or their policies. Please check these policies before you submit any personal information to these external websites.
-
-## 12\. SOCIAL MEDIA WIDGETS
 
 Our Products include social media features, such as the Facebook Like button, and widgets, such as the “Share This” button, or interactive mini-programs. These features may collect your Internet protocol address, which page you are visiting on or Products, and may set a cookie to enable the feature to function properly. Social media features and widgets are hosted by a third party or hosted directly on our Products. Your interactions with these features are governed by the privacy statement of the company providing it.
 
@@ -135,10 +136,8 @@ Headspace users may have the ability to post content to one or more Headspace fo
 
 We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by in-Product message, email (sent to the e-mail address specified in your account) or by means of a notice in the Products prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-## 17\. CONTACT
-
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to help@headspace.com. In the alternative, you may reach Headspace customer support at 855-432-3822.
 
-This Privacy Policy is effective and was last updated on October 25, 2016.
+This Privacy Policy is effective and was last updated on June 13, 2017.
 
 Headspace’s physical address is 2415 Michigan Avenue, Santa Monica, CA 90404.
