@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205070719id_/https%3A//www.epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620110228id_/https%3A//www.epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
 
 # EPIC - Privacy Policy
 
@@ -7,6 +7,14 @@
 If you are interested in receiving the EPIC Alert newsletter, we ask for your email address so that we can send it to you. You can also read the EPIC Alert by visiting the [EPIC Alert archive](http://www.epic.org/alert/) at our web site. The EPIC Alert mailing list is used only to mail the EPIC Alert and to send notices about EPIC activities. We do not sell, rent or share our mailing list. We also intend to challenge any subpoena or other legal process seeking access to our mailing list. We do not enhance (link to other databases) our mailing list or require your actual name. We will also use this list for our annual contribution drive during the holiday season.
 
 In the event you wish to update or delete an email address in our possession at any time for any reason, please contact [epic-info@epic.org](mailto:epic-info@epic.org) to make those changes.
+
+### Donor Privacy
+
+EPIC keeps the minimal amount of personal information necessary to process donations to EPIC and to comply with applicable laws. We do not rent, sell, or share our donor lists.
+
+EPIC also routinely advocates for donor privacy. For example, in Americans for Prosperity Foundation v. Becerra (Ninth Circuit 2017) EPIC argued the tradition of donor privacy is deeply rooted in religious tradition and that the right to contribute anonymously is protected by the First Amendment.
+
+You can read more about EPIC's work to defend donor privacy [here](https://web.archive.org/privacy/donor/).
 
 ### EPIC Web Site
 
