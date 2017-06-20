@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122182647id_/http%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-medium-maria.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620062449id_/http%3A//www.the-medium-maria.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Legal Terms | Maria
 
