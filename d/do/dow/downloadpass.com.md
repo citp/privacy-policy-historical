@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310132623id_/http%3A//www.downloadpass.com/cimages/legal/privacy.html%3Fsite%3Ddownloadpass) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpass.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620115607id_/http%3A//www.downloadpass.com/cimages/legal/privacy.html%3Fsite%3Ddownloadpass) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -22,7 +22,7 @@ If you post information or content, such as by posting photos, videos, commentin
 
 **_Information collected from mobile devices._** If you access this Website through a mobile device (e.g., smartphone, tablet, etc.), we may also collect your unique device identifier and mobile device IP address, as well as information about your mobile device's operating system, mobile carrier, mobile Internet browsers, your precise geographic location information, and other information described in this privacy policy. If you do not want your location known, you can turn off location services on your mobile device by going to "(1) settings, (2) location services, (3) off" for iOS devices; and "(1) profile, (2) privacy, (3) on" for Android devices.
 
-**_DMCA infringement notices, notices of violations of terms, and other communications directed to us._** By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of terms or other communications (but not DMCA infringement notices), on request we will edit out your name and contact information. However, we will forward DMCA infringement notices (including any personally identifying information contained in the notices)as submitted to us without any deletions. 
+**_Copyright infringement notices, notices of violations of terms, and other communications directed to us._** By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, in order to facilitate a prompt resolution. For notices of violations of terms or other communications (but not copyright infringement notices), on request we will edit out your name and contact information. However, we will forward copyright infringement notices (including any personally identifying information contained in the notices)as submitted to us without any deletions. 
 
 **_Providing requested information._** In some cases, only persons who provide us with the requested personally identifiable information will be able to order products and services, or otherwise participate in the Website's activities and offerings.
 
@@ -103,10 +103,6 @@ Third parties are under no obligation to comply with this privacy policy concern
 * **What is "Do Not Track" and does the Website follow it?**
 
 Do Not Track ("DNT") is a privacy preference that you can set in your Web browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect and that is why we provide you the ability to opt-out. However, we do not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. 
-
-* **Do California residents have special privacy rights?**
-
-If you are a California resident, you have the right to receive (1) information identifying any third-party company to whom we may have disclosed, within the past calendar year, personal information concerning you and your family for our direct marketing purposes; and (2) a description of the categories of personal information disclosed. If you want to exercise this right, you must make a request in writing to us to obtain this information. We will not process your request unless it includes your full name, email address, postal address, the URL for the website you visited, and the subject lined labeled "Your California Privacy Rights." Please email your request to [privacy@customerhelponline.com](mailto:privacy@customerhelponline.com). We will only honor one request per calendar year. 
 
 * **Do Canadian citizens have special privacy rights?**
 
