@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolmathgames.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118214524id_/http%3A//www.coolmath-games.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolmathgames.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620174016id_/http%3A//coolmath-games.com/privacyp) for the most accurate reproduction.*
 
 # Privacy Policy for Coolmath-Games.com
 
@@ -40,7 +40,8 @@ We may share information for other reasons we may describe to you.
 
 You can control certain cookies and tracking tools. To learn how to manage how we - and our vendors - use cookies and other tracking tools, please [click here](https://web.archive.org/aboutourads).
 
-This site and children. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at
+This site and children. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or legal guardian and think your child under 13 has given us information, you can email us at  
+[privacy@coolmath.com](mailto:privacy@coolmath.com)
 
 You can also write to us at the address listed at the end of this policy. Please mark your inquiries "COPPA Information Request." Parents, to learn more about how to protect children's privacy on-line, [click here](http://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online).
 
@@ -54,9 +55,11 @@ If you click on a link to a third party site, you will be taken to websites we d
 
 **Questions or Concerns**
 
-If you have any questions or concerns about this policy, please email us at
+If you have any questions or concerns about this policy, please email us at  
+[privacy@coolmath.com](mailto:privacy@coolmath.com)
 
-You can also write to us or call at: Coolmath-games.com, LLC, Attn: Legal Department, 122 East 42nd Street, Suite 1611, New York, NY 10168, or call us at
+You can also write to us or call at: Coolmath-games.com, LLC, Attn: Legal Department, 122 East 42nd Street, Suite 1611, New York, NY 10168, or call us at  
+(646) 762 5605
 
 **Policy Changes**
 
