@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehendonmob.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120055719id_/http%3A//www.thehendonmob.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehendonmob.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620082203id_/http%3A//www.thehendonmob.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Poker Hendon Mob
 
