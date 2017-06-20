@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the d4go.com privacy policy that was archived on 2016-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160321102447id_/http%3A//developernotes.d4go.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the d4go.com privacy policy that was archived on 2017-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620090523id_/http%3A//developernotes.d4go.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 		<title>Privacy Policy - Web Developer Tools</title><meta property="og:site_name" content="Web Developer Tools">
@@ -9,7 +9,7 @@
 
 
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://www.realtimewebsite.com/js/rtws.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/files/theme/jquery.js"></script>
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//cdn2.editmysite.com/js/wsnbn/snowday262.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://www.realtimewebsite.com/js/rtws.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/files/theme/jquery.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="msvalidate.01" content="5DB828A61CA86120026C2C244737A858">
 
@@ -1101,6 +1101,62 @@ $(document).ready(function() {
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wGA = '_gaq';
+
+</script>
+
+<script type="text/javascript" async="1">
+	;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+			p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+			};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+			n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,'script','//cdn2.editmysite.com/js/wsnbn/snowday262.js','snowday'));
+
+	var r = [99, 104, 101, 99, 107, 111, 117, 116, 46, 40, 119, 101, 101, 98, 108, 121, 124, 101, 100, 105, 116, 109, 121, 115, 105, 116, 101, 41, 46, 99, 111, 109];
+	var snPlObR = function(arr) {
+		var s = '';
+		for (var i = 0 ; i < arr.length ; i++){
+			s = s + String.fromCharCode(arr[i]);
+		}
+		return s;
+	};
+	var s = snPlObR(r);
+
+	var regEx = new RegExp(s);
+
+	_W.Analytics = _W.Analytics || {'trackers': {}};
+	_W.Analytics.trackers.wSP = 'snowday';
+	_W.Analytics.user_id = '11336187';
+	_W.Analytics.site_id = '732011967580000185';
+
+
+	(function(app_id, ec_hostname, discover_root_domain) {
+		var track = window[_W.Analytics.trackers.wSP];
+		if (!track) return;
+		track('newTracker', app_id, ec_hostname, {
+			appId: app_id,
+			post: true,
+			platform: 'web',
+			discoverRootDomain: discover_root_domain,
+			cookieName: '_snow_',
+			contexts: {
+				webPage: true,
+				performanceTiming: true,
+				gaCookies: true
+			},
+			crossDomainLinker: function (linkElement) {
+				return regEx.test(linkElement.href);
+			}
+		});
+		track('trackPageView', _W.Analytics.user_id+':'+_W.Analytics.site_id);
+		track('crossDomainLinker', function (linkElement) {
+			return regEx.test(linkElement.href);
+		});
+	})(
+		'_wn',
+		'ec.editmysite.com',
+		true
+	);
 </script>
 
 <!-- Quantcast Tag -->
@@ -1109,7 +1165,7 @@ var _qevents = _qevents || [];
 
 (function() {
 var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.src = "https://secure.quantserve.com/quant.js";
 elem.async = true;
 elem.type = "text/javascript";
 var scpt = document.getElementsByTagName('script')[0];
@@ -1178,21 +1234,22 @@ labels:"l10,u11336187.u11336187s732011967580000185"
 
 <script type="text/javascript">
 	(function($) {
-		var cookie_location = '';
-
+		window.cookie_location = '';
 		// this cookie_content should already be pre-encoded from CookieSettingView.js
-		var cookie_content = '' || _W.stl('templates.publish.virtual-includes.footerCode_1');
+		window.cookie_content = '' || _W.stl('templates.publish.virtual-includes.footerCode_1');
+		window.cookie_policy_key = '732011967580000185_cookie_policy';
+		window.cookie_content_hash = '';
 
-		if (!_W.getCookie('732011967580000185_cookie_policy') || (_W.getCookie('732011967580000185_cookie_policy') !== cookie_content)){
-			if (cookie_location === 'top' || cookie_location === 'bottom'){
-				$('#eu-cookie-content').text(decodeURIComponent(cookie_content));
-				(cookie_location === 'top') ? animateFromTop() : animateFromBottom();
+		if (!_W.getCookie(window.cookie_policy_key) || _W.getCookie(window.cookie_policy_key) !== window.cookie_content_hash){
+			if (window.cookie_location === 'top' || window.cookie_location === 'bottom'){
+				$('#eu-cookie-content').text(decodeURIComponent(window.cookie_content));
+				(window.cookie_location === 'top') ? animateFromTop() : animateFromBottom();
 				$('#eu-cookie').show();
 			}
 		}
 
 		$('#eu-cookie-close').click(function(){
-			_W.setCookie('732011967580000185_cookie_policy', cookie_content, 100000);
+			_W.setCookie(window.cookie_policy_key, window.cookie_content_hash, 100000);
 			$('#eu-cookie').hide();
 		});
 
@@ -1210,9 +1267,7 @@ labels:"l10,u11336187.u11336187s732011967580000185"
 			});
 		}
 	})(window._W && _W.jQuery);
-
 </script>
-
 
 		
 	
