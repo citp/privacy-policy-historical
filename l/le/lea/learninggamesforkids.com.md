@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224190734id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620021755id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Learning Games For Kids
 
@@ -18,12 +18,11 @@ Our web site contains links to web sites not maintained by Learninggamesforkids.
 
 ***What is a cookie?**
 
-A cookie is information a web site puts on your computer’s hard drive so that the site can remember your preferences or which pages you visited on that site.  
-
+A cookie is information a web site puts on your computer’s hard drive so that the site can remember your preferences or which pages you visited on that site.
 
 ## Children’s Privacy Guidelines
 
-Learninggamesforkids.com exists to serve educators, parents and students and strives to provide a safe, positive experience for children. To ensure this, we adhere to the following policies: 
+Learninggamesforkids.com exists to serve educators, parents and students and strives to provide a safe, positive experience for children. To ensure this, we adhere to the following policies:
 
   1. We do not collect online contact information directly from children ages 13 and younger.
   2. We do not distribute any personally identifiable information about children to third parties.
