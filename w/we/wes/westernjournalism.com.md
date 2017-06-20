@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the westernjournalism.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233329id_/http%3A//www.westernjournalism.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westernjournalism.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620080337id_/http%3A//www.westernjournalism.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Last Updated 3/08/2016  
-Version 1.2**
+**Last Updated 3/14/2017  
+Version 1.3**
 
 If you require additional information or have any questions about our privacy policy, please feel free to contact us by email at contactus@liftablemedia.com.
 
@@ -38,6 +38,6 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 **Subscription to our Email List**  
-After signing up to receive regular updates from LMI by e-mail, depending on which website you subscribe to, users will begin to receive a brief synopsis of current news events, or other digital content, available on Western Journalism (<http://www.westernjournalism.com/>), Liftable (<http://www.liftable.com/>), Thoughtful Women (<http://thoughtfulwomen.org/>), Conservative Tribune (<http://conservativetribune.com/>), TPNN (<http://tpnn.com/>) and USA Radio Network (<http://www.usaradio.com/>) delivered on a daily or weekly basis. Additionally, users may receive other announcements from LMI. We collect subscriber’s e-mail addresses in order to distribute our updates and announcements and do not otherwise share them with other companies or partners. LMI respects your right to privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and LMI. This policy is intended to explain how your personal information is collected and how it will be treated.
+After signing up to receive regular updates from LMI by e-mail, depending on which website you subscribe to, users will begin to receive a brief synopsis of current news events, or other digital content, available on Western Journalism (<http://www.westernjournalism.com/>), Liftable (<http://www.liftable.com/>), Conservative Tribune (<http://conservativetribune.com/>), The Wildcard (<http://www.thewildcard.com/>), and USA Radio Network (<http://www.usaradio.com/>) delivered on a daily or weekly basis. Additionally, users may receive other announcements from LMI. We collect subscriber’s e-mail addresses in order to distribute our updates and announcements and do not otherwise share them with other companies or partners. LMI respects your right to privacy of the personal information you provide us on our site. Unless you designate otherwise or we state otherwise in this policy or at the time information is collected, any personal information you provide will not be known to any other party except you and LMI. This policy is intended to explain how your personal information is collected and how it will be treated.
 
 Users can choose to unsubscribe from any of LMI’s email lists at any time by following the unsubscribe procedures found at the bottom of each e-mail.
