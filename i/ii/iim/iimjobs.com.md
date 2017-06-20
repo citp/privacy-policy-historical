@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iimjobs.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025185602id_/http%3A//www.iimjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimjobs.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620044941id_/http%3A//www.iimjobs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iimjobs.com
 
