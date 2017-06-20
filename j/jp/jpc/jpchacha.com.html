@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jpchacha.com privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125183229id_/http%3A//www.jpchacha.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpchacha.com privacy policy that was archived on 2017-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620165141id_/http%3A//www.jpchacha.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>John Paul Chacha's Lab - Privacy Policy</title>
@@ -73,15 +73,15 @@
 		var timeout;
 		var identifier;
 		
-		if (window.ActiveXObject)
-		{// code for IE6, IE5
-			xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-		}
-		else if (window.XMLHttpRequest)
+		if (window.XMLHttpRequest)
 		{// code for IE7+, Firefox, Chrome, Opera, Safari
 			xmlhttp=new XMLHttpRequest();
 		}
-		else
+		else if (window.ActiveXObject)
+		{// code for IE6, IE5
+			xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		else 
 		{
 			;
 		}
@@ -92,7 +92,7 @@
 		xmlhttp.send(null);
 		xmlhttp.onreadystatechange=function()
 		{
-			if(xmlhttp.readyState==4)
+			if((xmlhttp.readyState==4))//&&(this.status==200))
 			{
 				if( (!jp_floatbar_object.innerHTML.match("form_login"))||
 					(!xmlhttp.responseText.match("form_login")))
@@ -213,7 +213,7 @@
 <!-- footer begin -->
 </div>	
 <div id="footer">
-	<p>Copyright © John Paul Chacha's Lab, 2016</p>
+	<p>Copyright © John Paul Chacha's Lab, 2017</p>
 	<p>
 	<a href="terms.php">Terms of Use</a> | 
 	<a href="privacy.php">Privacy Policy</a>
