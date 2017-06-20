@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefitindian.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218014503id_/http%3A//www.thefitindian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefitindian.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620091950id_/http%3A//www.thefitindian.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
