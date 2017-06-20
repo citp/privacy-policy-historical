@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextonemedia.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223181040id_/http%3A//www.nextonemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextonemedia.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620032100id_/http%3A//nextonemedia.com/privacy.html) for the most accurate reproduction.*
 
 # Nextone Media - Corporate
 
