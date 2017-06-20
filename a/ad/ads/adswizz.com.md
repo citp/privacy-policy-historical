@@ -1,58 +1,19 @@
-> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121185244id_/http%3A//www.adswizz.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswizz.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620113757id_/http%3A//www.adswizz.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Adswizz
 
-##### Privacy Policy:
+##### **Privacy Policy:**
 
-AdsWizz (“AdsWizz, ” “we” or “us”) is an audio and video ad serving tech company. We enable online radio and video publishers and advertisers to get to know their audience by providing precise session-based measurements.  Our customers use our solutions to deliver relevant online advertisements into their streams.
+AdsWizz Inc. (“AdsWizz,” “we”, or “us”) is an audio and video ad serving tech company. We enable online radio and video publishers and advertisers to get to know their audience by providing precise session-based measurements. Our customers use our solutions to deliver relevant online advertisements into their streams.
 
-The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate. It covers all data on website visitors/listeners that we collect for the purpose of delivering and enhancing our services.  We are committed to protecting consumer privacy by informing you what information we collect, how we use it, and with whom we may share it.We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).
+The following sets forth the privacy practices and policy (“Privacy Policy”) related to the business we operate. It covers all data on website visitors/listeners that we collect for the purpose of delivering and enhancing our services. We are committed to protecting consumer privacy by informing you of what information we collect, how we use it, and with whom we may share it. We adhere to the Privacy Principles adopted by the Interactive Advertising Bureau (IAB).
 
-##### **What information do we collect to perform our services?**
+##### What information do we collect to perform our services?
 
-We collect or receive data from our customers (publishers/advertisers) in order to learn about the ads you might be interested in. This data includes but is not limited to browser identifier, wireless carrier, IP address, device type (website player, smartphone apps, Winamp media player…) and browsing information.
+We collect or receive data from our customers (publishers/advertisers) in order to learn about the ads you might be interested in. This data includes but is not limited to browser identifier, wireless carrier, IP address, device type (website player, smartphone apps, media player, etc.) and browsing information. We may collect information about your mobile device, including, for example, the hardware model, operating system and version, type of mobile browser, software and file names, versions, preferred language, advertising identifiers, device motion and accelerometer information, real-time location (based on information provided by your device OS), and mobile network information.
 
-We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by Adswizz.
+We receive information about consumers from third parties to enable targeted advertising on the website(s) and application(s) that we support. The collection and use of that data is governed by the privacy policy and legal terms of the data collector and the website using the data; it is not governed by AdsWizz.
 
-We also measure the exposure to online advertising campaign: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played. We retain information on the ads that we served to you on a website and we reuse that information to deliver new ads when you visit another website on which we also serve ads. We do not collect information about your interests and insofar we collect information as to your reaction to the ad (skip the ad, click on the ad), we use it for statistic reporting purposes or for preventing ads to be served to you more often than foreseen.
+We also measure the exposure to online advertising campaign: number of impressions, number of clicks, numbers of users exposed, percentage of ad content played. We retain information on the ads that we served to you on a website and we reuse that information to deliver new ads when you visit another website on which we may also serve ads. We collect information such as your reaction to the ad (skip the ad, click on the ad) for statistical reporting purposes or to limit serving you additional ads.
 
-Furthermore, none of the information we collect to provide our services can be traced back to a specific individual. We have no idea who you are. To us, you are just “user123” for example. You may also be “user234” if you use two different devices or browsers (IE and Firefox, for example) on the same device. And if you share your device with a family member or friend, we can’t tell who is who, so “user123” may in fact be a mixture of several people.
-
-##### How do we use this informations
-
-We process the data to find elements that will help us determine which products/services could be relevant to you and to improve the quality of the ads you’ll be served. For example, we may use the geo-location data to determine potential likelihood to listen to an ad or we may use the data collected to prevent the same ads to be served to you repeatedly.
-
-We also use the information we collect to maintain, improve and develop new services.  We finally deliver a list of anonymous user identifiers and produce reports and analytics for our business partners.
-
-##### Disclosure of information
-
-We share anonymous user identifiers and aggregated information with established 3rd party publishers/advertisers such as the number of users who visited a publisher site, or the number of users who listened to a particular ad, strictly for serving advertisements. We do not share users data between different publishers/advertisers.
-
-We may share information with companies, organizations or individuals outside of AdsWizz if we have a good-faith belief that we are obligated to do so by law or as necessary to protect ourselves or others.
-
-Finally, we may transfer information in our possession to a successor entity in connection with a corporate change in control such as a merger or acquisition or the sale of company assets. In this case, your information will remain subject to this/an equivalent privacy policy.
-
-##### Buy across all formats:
-
-Buy advertising inventories on any kind of content such as: live streams, simulcast streams, podcasts, catch-up & on-demand thus creating broader reach.
-
-##### Other Website
-
-Through our services, we may link to other websites operated by other companies. This Privacy Policy does not apply to these linked websites. Each website should be checked for its own privacy policy.
-
-##### Data security
-
-We take all reasonable measures to protect the information we collect and store. All data is stored in a secure facility and we strictly control access to the data.
-
-##### Changes to This Policy
-
-This Privacy Policy is subject to change. We will post the updated version on our Website. Whenever a change is significant, we will place a prominent notice on this Website. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-##### Questions or Comments
-
-If you have questions or comments regarding our Privacy Policy, please contact us at contact.us@adswizz.com
-
-Ads based on your interests:
-
-If you wish to opt out the ads based on user interest and demographic categories, please move the switch on the left to “disabled”. This applies only for this browser. In case you use multiple browsers (e.g Chrome, Safari, …),  
-do this procedure for each. If you clear you cache, you’ll need to do this procedure again.
+Furthermore, we collect and use only non-PII that does not directly or in combination with other information identify you as an individual. We may also obtain non-PII from third party data vendors that receive such non-PII pursuant to their own privacy policies. We do not collect PII via our advertising technology. None of the information we collect to provide our services is meant to be traced back to a specific individual.
