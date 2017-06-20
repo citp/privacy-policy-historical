@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uspspostalone.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629230743id_/http%3A//about.usps.com/who-we-are/privacy-policy/privacy-policy-highlights.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspspostalone.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620104325id_/http%3A//about.usps.com/who-we-are/privacy-policy/privacy-policy-highlights.htm) for the most accurate reproduction.*
 
-# Privacy Policy Highlights
+# Privacy Policy Highlights - Who We Are - USPS
 
 Scope  
 This statement applies to USPS® customers and usps.com visitors, unless a separate privacy notice is prominently displayed.
