@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the time.com.my privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012127id_/http%3A//www.time.com.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time.com.my privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620105743id_/http%3A//www1.time.com.my/privacy-policy) for the most accurate reproduction.*
 
 # TIME dotCom | Privacy Policy
 
