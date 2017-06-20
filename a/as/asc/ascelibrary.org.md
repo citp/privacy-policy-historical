@@ -1,54 +1,53 @@
-> *The following text is extracted and transformed from the ascelibrary.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622122610id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascelibrary.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620185638id_/http%3A//www.asce.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - American Institute of Physics
+# Privacy Policy | ASCE
 
-The American Institute of Physics (AIP) is committed to the value of privacy. As you use our web sites, you may be prompted to enter information when you
+ASCE respects the privacy of our members and other visitors to our web site. To protect online privacy, ASCE has implemented the following policy, which may be amended at any time by posted amendments to this page. 
 
-  1. Create a user name and password
-  2. Use personalization features
-  3. Purchase a product or service
-  4. Sign up for a free product or service
-  5. Participate in online forums or discussions
-  6. Provide feedback 
+**What Information Does ASCE Collect?**
 
+ASCE collects data to better serve our members and the engineering profession. It is our policy to collect and store only personal information that our members and visitors knowingly provide. 
 
+**How Does ASCE Use Cookies?**
 
-The data collected online from an AIP user is voluntary, although some services are only accessible by registering user details. Information collected may include your name, e-mail address, street address, job title, society membership, or other related demographic information. Except as described in this Privacy Policy, AIP will endeavor to keep your information confidential. We focus on using the information as part of AIP's service to you and its mission to advance and diffuse the knowledge of physics and its application to human welfare.
+Cookies are small text files that may be stored on your computer, smart phone, or tablet when you access an ASCE website.  This information can be read by the ASCE website when you return to this site. ASCE uses cookies to speed up your future visits by storing preferences and log-in information you provide, and to support a better experience through tailored content. In addition, cookies provide statistical and other information to ASCE about how the website is used in order for ASCE to monitor access and use of the site, assess the effectiveness of particular content, and suggest areas for improvement.
 
-Notice to EU Users: The server for www.aip.org is located in the United States. By entering information on this site, you are consenting to the transfer of that information to the United States. Your information will be handled in accordance with AIP's Privacy Policy. 
+While these cookies alone do not allow ASCE to personally identify visitors to the website, information collected by ASCE cookies may be used to streamline communications with members and customers by facilitating targeted content consistent with users’ email preferences and ASCE’s privacy policy. No information collected by ASCE through cookies will be shared with third parties, except as required by law.
 
-## How collected information is used 
+For more information about cookies, visit: <http://www.aboutcookies.org/>
 
-The primary purpose of gathering information is to allow AIP to link a name and contact information to a user ID or browsing experience. Once you have provided appropriate information, you will be enabled to use a variety of products or personalized services, and to access online help or support. AIP has a policy to use or sell its customer lists only for the delivery of information deemed of potential relevance or interest to members of the physics community. AIP offers an option to remove your information from any list that might be sold or given to another organization. To do so, please contact the appropriate [AIP department](http://www.aip.org/aip/staff.jsp) with which the list is associated.
+**Anonymous Information from General Users**. ASCE does not collect personal information from users browsing our web site. Users to the public areas of ASCE's web site browse anonymously. ASCE collects aggregate data from users browsing our web site. ASCE uses this information for purposes of statistical analysis of web site traffic. Aggregate data are only used for internal and marketing purposes, and ASCE does not provide any personal identification information. 
 
-## How we work to keep information secure
+**Information from ASCE Members, Conference Registrants, and Other Customers.** There are a number of areas in the ASCE web site where we ask for and collect information about you, including personally identifiable information. Where we do, it is in order to serve you better, or is necessary to accomplish the service you are requesting. Examples include membership information (which may include name, address, email, telephone number and educational and professional experience information), conference and seminar registrations, security identifiers, shipping information, and product purchase information stored in online shopping carts. 
 
-AIP takes precautions to protect your information. When you submit sensitive information via the website, we make commercially reasonable efforts to protect your information both online and off-line. When our registration/order form asks for sensitive information (such as a credit card number), we use dedicated software designed to encrypt the information and protect it. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about our encryption software, [follow this link](https://web.archive.org/aip/securitystate.html).
+Membership information is used in the ASCE database, which is used to generate ASCE mailing lists. This includes lists provided to technical and geographical units of ASCE, for example, institutes and sections. The mailing list may be used in connection with informing you about ASCE services, products, conferences, meetings and events. 
 
-## Opt-out for European Union and other users 
+**Third Party Disclosure**. ASCE does not sell or rent email addresses to anyone outside of ASCE and its organizational entities. From time to time, to better serve our members and to supplement member dues, the ASCE mailing list, in part or as a whole, is released to other engineering and carefully selected third party organizations to provide you with information on technical products and services related to your profession, or that we otherwise believe is useful to our members. You may instruct us not to share information about you in the ASCE mailing list with third parties by indicating this preference on your membership application when you join ASCE, on your renewal form when you renew your membership, or by notifying us at [member@asce.org](mailto:member@asce.org?subject=Mailing%20List), or by calling us at 1-800-548-ASCE (2723). 
 
-In accordance with EU and other guidelines, you may decline to provide the information requested by AIP. Please be advised, however, that AIP may be unable to provide certain services unless such information is provided for security and identification purposes.
+ **General ASCE Web Server Security.**
 
-## Cookies 
+All of the ASCE web servers are registered as secure servers using industry-standard certificate techniques. This enables all communication between our servers to be verified when services are requested between computers. 
 
-A cookie is a piece of data stored on the user's hard drive that sometimes links to personally identifiable information about the user. AIP uses session cookies which are designed not to be permanent or persistent. The session cookie is designed so that, once you close your browser, the cookie will simply terminate. If you configure your browser to reject cookies, you may still use some, but not all, portions of our site. For example, accessing our online journals requires that your browser accept cookies. We recommend closing browsers on publicly available machines (such as those in libraries) after use.
+All the personal information collected from you on our site, including names and addresses, is stored behind a "firewall," and defenses have been erected to seek to enhance the protection of your information from outside attack by hackers and curious visitors.
 
-## Disclosure of aggregated and other information
+ **Secure Transactions**. For your protection, we have taken a number of steps to maximize the security of financial transactions that are accepted on the ASCE web site. Credit Card processing is accomplished using secure processing services. Your entry of credit card information is encrypted when transmitted in secure mode. If for any reason you still feel uncomfortable submitting your credit card over the Internet, you can mail your information to us. 
 
-We use IP addresses and other user information to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. We may share aggregated (i.e., non-individual) demographic information with our partners and advertisers. We use one or more outside credit card processing companies to bill users for goods and services and we will disclose your personally identifiable information to these companies as needed to process your orders and to respond to your requests.
+**REGARDLESS OF THE PRECAUTIONS TAKEN BY YOU OR BY ASCE, "PERFECT SECURITY" DOES NOT EXIST ON THE INTERNET. ASCE CANNOT ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO THIS SITE OR ASCE, AND YOU TRANSMIT SUCH INFORMATION AT YOUR OWN RISK.**
 
-## Links
+ **What Privacy Issues Arise With Links To Other Sites?**
 
-AIP sites contain links to other sites, and other sites have links to AIP. Please be aware that AIP is not responsible for the privacy practices (or other practices, goods, services, or content) of other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by AIP. 
+This web site contains links to other web sites, including third party organizations that provide ASCE member benefit programs. ASCE is not responsible for the privacy policies or content of such sites and you should read their terms and privacy policies before using them. 
 
-##  Discussion forums 
+**Legal Compliance**
 
-Users who participate in AIP online forums or discussions may have their messages or postings edited for size and/or content. Submissions to such forums explicitly grant such editorial rights to AIP staff who reserve the right to remove inappropriate submissions. By participating in an online forum or discussion, you consent to our use or disclosure of any content you submit.
+ASCE cooperates with law enforcement and other third parties to enforce laws. You authorize and recognize ASCE's right and intention to disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is or may be illegal or may expose us, service or content providers we work with, or you to possible legal liability. 
 
-## Protection of Children's Personal Information
+**What Means Of Redress Are Available?**
 
-AIP sites are general audience sites and do not knowingly collect any personal information from children. 
+If any user suspects ASCE has handled its personal information in a manner that does not comply with this Privacy Statement, please notify us by email at [member@asce.org](mailto:member@asce.org) or by calling 1-800-548-ASCE (2723). 
 
-##  Notification of changes 
-
-If we make material changes to our privacy policy, these changes will be posted to our privacy policy page. You should review this page regularly for updates.
+American Society of Civil Engineers  
+1801 Alexander Bell Drive  
+Reston, VA 20191  
+Phone: 1-800-548-ASCE (2723)  
+Fax: 1-703-295-6333
