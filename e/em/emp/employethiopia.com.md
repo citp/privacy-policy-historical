@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the employethiopia.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222250id_/http%3A//www.employethiopia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the employethiopia.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620113555id_/http%3A//employethiopia.com/privacy_policy) for the most accurate reproduction.*
 
 # Jobs in Ethiopia, Vacancies in Ethiopia, Search Ethiopian jobs online: Privacy Policy
 
