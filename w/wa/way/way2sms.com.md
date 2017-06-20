@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126090922id_/http%3A//site21.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2sms.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620073009id_/http%3A//site24.way2sms.com/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Way2SMS - Privacy Policy
 
@@ -65,6 +65,7 @@ We use your personal information to:
   * help us provide personalized features 
   * tailor our sites to your interest 
   * to get in touch with you in the case of password retrieval and policy changes 
+  * to share it with our partners, advertisers, vendors as per the requirement 
   * to provide the services requested by you 
   * to preserve social history as governed by existing law or policy 
 
@@ -105,7 +106,7 @@ Way2SMS will send personally identifiable information about you to other compani
 
 
 
-We share your information with advertisers on an aggregate basis only.
+Please note that only anonymous and personally non identifiable information will be shared with our partners/advertisers/vendors most of the times. 
 
 **Terms and Conditions for using the "Connect to Facebook and Facebook Chat" application:**
 
