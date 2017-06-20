@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastereports.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210111217id_/http%3A//tastereports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastereports.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620213736id_/http%3A//www.tastereports.com/privacy.html) for the most accurate reproduction.*
 
 # Taste Reports - Privacy Policy
 
