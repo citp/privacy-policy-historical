@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012071112id_/https%3A//www.blissworld.com/customer-service/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blissworld.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620214758id_/https%3A//www.blissworld.com/customer-service/privacy-security) for the most accurate reproduction.*
 
-# privacy policy Blissworld
+# privacy policy | Blissworld
 
 ### our privacy commitment
 
@@ -18,7 +18,7 @@ There may be times (such as when you purchase or order a product, subscribe to a
 
 Your personally identifiable information is not shared with other organizations for commercial purposes. We use the personally identifiable information you provide for internal purposes, such as confirming and tracking your order, subscription or registration, analyzing tends and statistics, informing you of our new products, services and offers, and providing you with information from and about Bliss brands. To serve you better, we may combine information you give us online, in our spas or through our catalogs.
 
-If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, [contacting us online](https://web.archive.org/customer-service/contact), writing to us at Bliss Direct Inc, 200 Vesey Street, 25th Floor New York, NY 10281 Attention: Customer Service,.
+If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at 888-243-8825, [contacting us online](https://web.archive.org/customer-service/contact), writing to us at Bliss Direct Inc, 145 S. Fairfax, Suite 400 Los Angeles, CA 90036 Attention: Customer Service,.
 
 We may contract with companies or persons to provide certain services including credit card processing, spa service booking, shipping, data management, product fulfillment, warranty service, promotional services, etc. We call them our Service Providers, which may be located in the United States or other countries. We provide our Service Providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours.
 
@@ -36,9 +36,9 @@ Phone: 888 243 8825
 
 Mail:  
 Bliss Direct Inc  
-200 Vesey Street  
-25th Floor  
-New York, NY 10281  
+145 S. Fairfax  
+Suite 400   
+Los Angeles, CA 90036  
 Attention: Customer Service
 
 ### cookies
@@ -57,7 +57,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 ### your feedback
 
-To help us improve our privacy policy and practice, please give us your feedback. You may [send us an email ](https://web.archive.org/customer-service/contact)or write to us at Bliss Direct Inc, 200 Vesey Street, 25th Floor New York, NY 10281, Attention: Direct Marketing Dept.
+To help us improve our privacy policy and practice, please give us your feedback. You may [send us an email ](https://web.archive.org/customer-service/contact)or write to us at Bliss Direct Inc, 145 S. Fairfax, Suite 400 Los Angeles, CA 90036, Attention: Direct Marketing Dept.
 
 ### credit card information
 
