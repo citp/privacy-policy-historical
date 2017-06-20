@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119081627id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620093911id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | University of Nevada, Reno
 
 The following policy describes the information gathering and dissemination practices for the [University of Nevada, Reno's main website](http://www.unr.edu/), all sites in the unr.edu domain, and other affiliated University websites/domains:
 
