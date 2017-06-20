@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tankix.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211044531id_/http%3A//tankix.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tankix.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620062530id_/http%3A//www.tankix.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy — Tanki X — free-to-play online game
+# Privacy and Cookies Policy
 
 Last Updated: November 1,2016
 
