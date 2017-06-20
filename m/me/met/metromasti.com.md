@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003559id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metromasti.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620141948id_/http%3A//www.metromasti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MetroMasti
 
-Welcome to metromasti.com. We value your privacy, and want you to know what information we collect and what we do with it.
+Welcome to metromasti.com. We value your privacy, and want you to know what information we collect and what we do with it. From time to time, we may make changes to this Policy. We will endeavor to post the changes before they become effective. The effective date of the most recent version of the privacy policy will appear at the top of this page. This consumer privacy policy applies to any information we collect or receive about you, from any source.
 
-From time to time, we may make changes to this Policy. We will endeavor to post the changes before they become effective. The effective date of the most recent version of the privacy policy will appear at the top of this page. This consumer privacy policy applies to any information we collect or receive about you, from any source.
-
-**WHAT INFORMATION WE COLLECT**
+ **WHAT INFORMATION WE COLLECT**
 
 We have several areas where members can submit information to us, and we also have features that automatically collect information from our members and other users.
 
@@ -42,11 +40,11 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 **WITH WHOM WE SHARE YOUR INFORMATION**
 
-We do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, all of which agree to use it only for that purpose and to keep the information secure and confidential. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred, will be able to use your personal information under the terms of this privacy policy. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. 
+We do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, all of which agree to use it only for that purpose and to keep the information secure and confidential. Also, entities into which our company is merged, or to which our assets, site or operations have been transferred, will be able to use your personal information under the terms of this privacy policy. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission.
 
 We may share (provide and receive) with others certain aggregate service information, which is not personally identifiable. This information may include usage and demographic data, but it will not include personal information (such as your email address). We may use aggregate demographic information about our audience in order to improve our service, for marketing purposes and/or industry reporting purposes.
 
-We partner with third-party advertising companies to serve ads and/or collect certain information when you visit our website. These companies may use cookies or web beacons to collect non-personally identifiable information [not including your name, address, email address or telephone number] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. 
+We partner with third-party advertising companies to serve ads and/or collect certain information when you visit our website. These companies may use cookies or web beacons to collect non-personally identifiable information [not including your name, address, email address or telephone number] during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you.
 
 **SECURITY**
 
