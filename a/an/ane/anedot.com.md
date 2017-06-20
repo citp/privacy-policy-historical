@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107080125id_/https%3A//anedot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anedot.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620031006id_/https%3A//anedot.com/privacy) for the most accurate reproduction.*
 
-# None
+# Anedot
 
 Last Modified on May 5, 2016
 
