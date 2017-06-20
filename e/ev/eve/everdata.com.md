@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everdata.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406224707id_/https%3A//www.everdata.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everdata.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620054316id_/https%3A//www.everdata.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EVERDATA
 
