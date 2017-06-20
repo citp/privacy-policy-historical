@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jewishbusinessnews.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410004659id_/http%3A//jewishbusinessnews.com/hidden/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishbusinessnews.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620201053id_/http%3A//jewishbusinessnews.com/hidden/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Jewish Business News
+# Privacy Policy - Jewish Business NewsJewish Business News
 
 **Jewish Business News Privacy Policy**
 
-Thank you (“ **You** ,” “ **Your** ,” or “ **Yourself** ”) for visiting the Jewish Business News website (the “ **Site** ”), a website owned and operated by Jewish Business News Ltd. (“ **JBN** ,” “ **We** ,” “ **Us** ” or “ **Our** ”), a company registered under the laws of the State of Israel. Your privacy is important to Us. This privacy policy (the “ **Policy** ”) explains Our policy regarding the collection, use, disclosure and protection of Your information. This Policy applies to information provided or collected through the Site and in connection with any features of the Site (the “ **Services** ”). If You have any questions about this Policy, please feel free to contact Us at [editor@jewishbusinessnews.com](mailto:editor@jewishbusinessnews.com)
+Thank you (“ **You** , ” “ **Your** , ” or “ **Yourself** ”) for visiting the Jewish Business News website (the “ **Site** ”), a website owned and operated by Jewish Business News Ltd. (“ **JBN** , ” “ **We** , ” “ **Us** ” or “ **Our** ”), a company registered under the laws of the State of Israel. Your privacy is important to Us. This privacy policy (the “ **Policy** ”) explains Our policy regarding the collection, use, disclosure and protection of Your information. This Policy applies to information provided or collected through the Site and in connection with any features of the Site (the “ **Services** ”). If You have any questions about this Policy, please feel free to contact Us at [editor@jewishbusinessnews.com](mailto:editor@jewishbusinessnews.com)
 
 JBN respects Your privacy as a User of the Site as set forth in the Policy and as amended from time to time with or without notice to You. JBN may amend the Policy at any time by posting a revised version on the Site and, as such, You should check frequently to see if the Policy has been amended.
 
