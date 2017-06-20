@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathwaytohappiness.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221212322id_/http%3A//pathwaytohappiness.com/happiness/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathwaytohappiness.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621015439id_/http%3A//www.pathwaytohappiness.com/happiness/privacy-policy) for the most accurate reproduction.*
 
 # » Happiness
 
