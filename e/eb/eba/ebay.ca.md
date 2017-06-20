@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202030749id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620054423id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # User Privacy Notice
 
 This Privacy Notice was posted on **May 1, 2015**. It is effective upon acceptance for new users, and from **June 15** **, 2015** for all other users. [See previous version of this Privacy Notice](http://pages.ebay.ca/help/pp_previous.html).
+
+eBay has received TRUSTe's privacy seal signifying that this Privacy Notice and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please use the [TRUSTe Watchdog Dispute Resolution Process](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this site and the eBay mobile site, and does not cover information that may be collected through software downloaded from the site.
+
+[](http://privacy.truste.com/privacy-seal/validation?rid=504d461a-a7db-4e6d-864e-0fcee6b0e89d)
 
 ## Summary & Contents
 
@@ -107,6 +111,10 @@ If you reside in the United States, you are contracting with eBay Inc., 2065 Ham
   * If you reside in a country within the European Union you are contracting with eBay Europe S.à.r.l., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg
 
   * If you reside in India, you are contracting with eBay India Private Limited, 14th Floor, North Block, R-Tech Park, Western Express Highway, Goregaon (East), Mumbai 400063, Maharashtra, India
+
+  * Starting on July 1, 2017, you are contracting with eBay Canada Limited, 500 King Street West, Suite 200, Toronto, ON M5V 1L9, Canada, if you reside in Canada
+
+  * Starting on August 1, 2017, you are contracting with eBay (UK) Limited, 5 New Street Square, London, EC4A 3TW, United Kingdom, if you reside in the United Kingdom
 
   * If you reside in any other country, you are contracting with eBay International AG, Helvetiastrasse 15/17, 3005 Bern, Switzerland
 
@@ -222,7 +230,7 @@ We use the personal information we collect to: provide and improve our Services,
 
   * Personalize, measure, and improve our advertising based on your advertising customization preferences
 
-  * Contact you, either via email, telephone, text messages, and postal mail in order to: offer you coupons, discounts and special promotions, and inform you about our Services and those of our eBay Inc. corporate family. We will use the contact information you have provided to contact you by e-mail, SMS text and/or telephone if you have consented to such contact. Message and data rates may apply
+  * Contact you, including via email, telephone, text messages, and postal mail in order to: offer you coupons, discounts and special promotions, and inform you about our Services and those of our eBay Inc. corporate family, or to provide you with other information we think may be of interest to you. We will use the contact information you have provided to contact you by e-mail, SMS text and/or telephone if you have consented to such contact, for example, by expressly agreeing to our terms of use. Your consent may be inferred from your activities on the site in accordance with applicable law. You may always opt-out from our commercial messages, learn more below in the ‘Choice’ section. Message and data rates may apply
 
   * Deliver targeted marketing, service updates, and promotional offers based on your communication preferences
 
