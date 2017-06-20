@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918132916id_/http%3A//www.flasharcadegamessite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621013247id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | FAQ
-
-  
-
+# Privacy & Cookie Policy
 
 ## Information Collection and Use
 
@@ -13,41 +10,27 @@ FlashArcadeGamesSite is the sole owner of the information collected on this site
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-## Tracking, Logs & Cookies
+## Tracking Logs
 
-Flasharcadegamessite.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring entry/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable. We also use cookies to track when games are rated by individuals to ensure they do not rate the game repeatedly
+Flasharcadegamessite.com makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring entry/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.
+
+## Cookies
+
+Our website uses cookies (not the yummy chocolate kind) to ensure you get the best experience on our web portal. You consent to our use of cookies in accordance with the terms of this policy. Cookies consist of small itsy bitsy files, often including unique identifiers, that are sent by web servers to web browsers, and which may then be sent back to the server each time the browser requests a page from the server. We also use persistent cookies to track when games are rated by individuals to ensure they do not rate the game repeatedly. We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users devices. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
 
 ## Advertising & Third Party Cookies
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to you based on your visits to flasharcadegamessite and other portals on the Internet. You may opt out of the use of the DART cookie by visiting http://www.google.co.uk/privacy_ads.html 
-
-Flasharcadegamessite.com supports the efforts of the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. More information about the NAI can be found at http://www.networkadvertising.org. The NAI offers an Opt-out Tool developed in conjunction with its members for the express purpose of allowing consumers to "opt out" of the behavioural advertising delivered by its member companies. To use the NAIs opt-out visit: http://www.networkadvertising.org/managing/opt_out.asp. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third-party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to you based on your visits to flasharcadegamessite and other portals on the Internet. You may opt out of the use of the DART cookie by visiting http://www.google.co.uk/privacy_ads.html
 
 ## FAQ
 
-1\. Why a game does not display and I see a blank screen?
+Why a game does not display and I see a blank screen?
 
 The size of some games can be more than 2 MB, therefore the loading time will be longer than average, but please be patient! Because in general those games come with better graphic quality! If the loading time remains too long, please refresh the current page.
 
-2\. What should I do if a game does not work correctly?
+What should I do if a game does not work correctly?
 
-First of all, please try to refresh the page, if this cannot resolve the problem, please check to see if you have the latest flash player installed you can get the latest flash player from here http://www.adobe.com/products/flashplayer/
-
-3\. How to submit my high scores?
-
-You have to be logged in to submit to the high score system
-
-4\. Why doesn't my comment appear?
-
-All comments are moderated on a daily basis, comments will be deleted if they contain bad language, duplicate comments, really bad grandma (we try to correct grammar but if the comment makes no sense we just delete it) and fictitious or improper names.
-
-Copyright
-
-All flash games on FlashArcadeGamesSite are copyrighted or trademarked by their respective owners or authors. FlashArcadeGamesSite is not responsible for the contents of the third party games present on this site. Flash games were submitted to FlashArcadeGamesSite by their author or their owner. If you note that your game is published on FlashArcadeGamesSite without your agreement, you can contact us by email to remove your game from our site.
-
-Copyright © 2007-2014 flasharcadegamessite.com. All Rights Reserved. All gaming content are copyright and trademarked by their owners, authors.
-
-[privacy policy](https://web.archive.org/privacy-policy.html) \- [terms of use](https://web.archive.org/terms-of-use.html) \- [contact us](https://web.archive.org/contact-us.php) \- [free games for your site](https://web.archive.org/free-games-for-your-website.html)
+First of all, please try to refresh the page, if this cannot resolve the problem, please check to see if you have the latest (flash, shockwave, unity) plugin installed
 
   
 
