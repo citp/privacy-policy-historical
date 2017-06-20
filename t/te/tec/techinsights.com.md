@@ -1,92 +1,120 @@
-> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201050954id_/http%3A//www.techinsights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techinsights.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620051841id_/http%3A//techinsights.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# TechInsights Privacy Policy
+# Privacy Policy
 
-_Effective April   8, 2013_
+TechInsights Inc. and its affiliates (“TechInsights”, “we” or “us”) are committed to protecting the privacy of all individuals who: 
 
-Welcome to our website, www.techinsights.com.
-
-TechInsights (“we”) provide sophisticated  technical intelligence and intellectual property management services to companies with commercial interests in technology-related industries. 
-
-This Privacy Notice explains how we collect, use and protect information about you, a technology or legal professional, as you visit the public pages of our websites or use the website to access restricted areas available only to registered clients.  It also covers information we collect about you as you attend any of our face to face events, subscribe for a newsletter or other content, or participate in online seminars and events which we may organize.  We will post a link to the Notice or print its url on web pages and registration forms to which it applies.
-
-#### Information We Collect About You
-
-You may visit a number of pages throughout our websites without registration.  We may collect information about you:
-
-  * When you order any of our services or information.
-  * When you register for our websites or subscribe to any of our content or services or become a client.
-  * When you contact us with questions or comments.
-  * If you make your identity public, for example in a blog or comment.
-  * When a client company that you represent or work for authorizes you or contacts us about you.
+  * visit any websites or mobile sites offered by TechInsights, including without limitation techinsights.com, chipworks.com, or teardown.com, and including all subdomains thereof, present and future (the “ _Websites_ ”);
+  * purchase, inquire about, or view reports and other items from the Websites, or other TechInsights services or libraries (collectively, the “Libraries”); 
+  * contact us with questions or comments via an online portal, telephone or otherwise (“Portals”);
+  * post information, material, or commentary to our Websites, our Portals, or other publicly accessible online sites (the “Uploads”) and
+  * are or have registered with us to receive information, including marketing information, newsletters, or any other information, on the Websites, or with a TechInsights’ representative by email, at an event, web seminar, telephone or other in-person meeting (the “Registrations”).
 
 
 
-On occasion, we may obtain your name and professional contact details from a public source, including the internet, if the context indicates that you would be interested in our services.
+To make this policy easier to read, we call the Website, the Libraries, the Portals, the Uploads, and the Registrations together, the " _Services_ ". When we talk about “Personal Information”, we mean information relating to you or other identifiable individuals, and which may include but is not limited to your name, mailing address, telephone number, e-mail address, business facsimile number, and credit card information. Personal Information, however, does not include certain business contact information used for the purpose of communicating or facilitating communication with you, as an individual, in relation to your employment, business or profession. 
 
-_**Non obvious Data Collection**_
+It is TechInsights’ policy to respect your privacy and the privacy of all users of the Services. This Privacy Policy has been established to help you understand our commitment to protecting your privacy and personal data, and the steps we take to ensure it. By continuing to visit and/or use any of the Services, you agree to be bound by the terms of the present Privacy Policy (the “ _Privacy Policy_ ”). 
 
-A cookie is a small text file placed on a personal computer as a person visits a website.  We associate a cookie with information that identifies you if you are a registered user of our websites.  We may use the resulting information in the ways described below.  We may also use cookies and associated web beacons to measure and analyze responses to our email campaigns.    
+TechInsights reserves the right, at any time, to modify or replace the Privacy Policy. The most recent version of the Privacy Policy is available at [techinsights.com/legal/privacy](https://web.archive.org/legal/privacy). Please check the Privacy Policy periodically for changes, though we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Services or the treatment of your Personal Information. Your use of the Services following the posting of any changes to the Privacy Policy constitutes acceptance of those changes. 
 
-Our server logs collect information about visits and system capabilities as you access and use the websites and pages covered by this Notice.  We do not routinely associate such data with your profile except for investigative purposes as specifically described below.
+## Personal Information Collected by TechInsights
 
-#### How We Use Information About You
+We will always collect your Personal Information by fair and lawful means (for example, when you purchase a report on our web site; register to receive general information or marketing information such as our newsletter or product information; or attend an event or web seminar). We may collect Personal Information from you directly and/or from third parties, where we have obtained your consent to do so or as otherwise required or permitted by law. 
 
-We may use information about you in any of the following ways:
+Personal Information that we collect may include: 
 
-  * To provide the services or information you or a client company you represent requests.
-  * To manage accounts and billings.
-  * To understand how you and the company you represent use our websites and respond to our email campaigns.
-  * To evaluate and improve our websites and services.
-  * To contact you directly about your use of an account or service.
-  * To let you know about offerings, primarily ours, but occasionally the offerings of other companies, that may be of interest to you.
-  * To protect the integrity of our services and the secured areas of our websites.
-  * For any other purpose we tell you about when we you submit information to us. **  **
-
-
-
-#### Choice and Access
-
-You may disable or block any cookies (and so, any associated web beacons) by using the tools available in most browsers. 
-
-If you are registering for our websites, you may choose whether to activate automatic recognition of your pc based on the placement of a persistent cookie that identifies your pc.  If you choose not to accept that persistent cookie, or to delete it at any time, you will simply be asked to re-enter your log on credentials each time you access the website. 
-
-You may choose not to receive marketing emails from us by following the directions at the bottom of marketing emails we send you.  If you would like to have your name and contact details removed from our mailing lists, you may contact us at unsubscribe@techinsights.com. 
-
-We value the accuracy of the information we have about you.  You may update your information at any time by updating your profile on our website.
-
-If you request that your name be removed from all our data bases, we may not be able to do so completely for legal and records management reasons.
-
-#### Disclosure to Third Parties
-
-We reserve the right to disclose your name and information about you.
-
-  * To investigate potential unauthorized access or misuse of our services.
-  * To protect our assets or rights.
-  * To the client company you represent if that company requests that we do so.
-  * In response to valid legal process. 
-  * As part of a merger or acquisition by or transfer to a third party of some or all of our business assets.
+  * your full name, username, email address, and other contact details
+  * the geographic area where you use your computer and mobile devices
+  * your IP Address and, when applicable, timestamp related to your consent and confirmation of consent
+  * other information submitted by you or your organizational representatives via various methods (phone, email, online forms, surveys, in-person meetings, etc.)
+  * your billing address and any necessary other information to complete any financial transaction, and when making purchases through the Services, we may also collect your credit card or PayPal information
+  * content generated by you and communicated to us via the Services (such as messages, posts, comments, pages, profiles, images, feeds or communications exchanged on the Services)
+  * information we may receive relating to communications you send us, such as queries or comments concerning our Services
 
 
 
-We may associate log data with information that identifies you if necessary for any of these purposes except a transfer of our business assets.
+We generally obtain your consent prior to collecting, and in any case, prior to using or disclosing your Personal Information for any purpose. You may provide your consent to us either orally, electronically or in writing. In some cases, your consent may be implied based on our existing business relationship or when your conduct provides a reasonable basis for a belief that consent has been given. 
 
-#### Children
+## Purposes and Uses of Personal Information
 
-Our services are directed to technology professionals and not intended for children 13 or under.
+We will generally identify the purposes for which we use your Personal Information at the time we collect such information from you and obtain your consent, in any case, prior to such use. We may use your Personal Information for the following purposes (the “Purposes”): 
 
-#### Security
+  * to register you for, and facilitate your participation in, certain areas of the Websites;
+  * to respond to your inquiries;
+  * to process product orders, to deliver products and to satisfy on-going service requirements;
+  * to respond to product or service complaints, product claims or product information requests;
+  * to collect your Personal Information in aggregate form to develop consumer profiles, perform sales analysis and identify marketing opportunities and strategies;
+  * to advise you about new products and services that may be of interest to you;
+  * to collect opinions and comments in regard to TechInsights’ operations;
+  * to enrol you in TechInsights’ contests or promotional programs; 
+  * to include you on TechInsights’ mailing list(s) and/or to send you newsletters, marketing information, or other information relating to TechInsights’ products and services; 
+  * to recruit for positions at TechInsights and to process your application for employment and resume; 
+  * to administer our website;
+  * to investigate legal claims;
+  * such purposes for which TechInsights may obtain consent from time to time; and 
+  * such other uses as may be permitted or required by applicable law.
 
-We use reasonable administrative, technical and physical safeguards to protect personal information from unauthorized access, disclosure, or use and we require third parties that process personal information on our behalf to do so as well.  No transmission over the Internet or electronic storage can be guaranteed completely.  As a result, while we strive to protect personal information we make no warranty or guarantee.
 
-You can help protect the security of your personal information.  Please keep your passwords secure and do not share the use of your account with other individuals.
 
-#### Important Information
+## Disclosure of Information
 
-We collect and process information on servers around the world.
+We may transfer your Personal Information to third party service providers with whom we have a contractual agreement that includes appropriate privacy, confidentiality or security standards, where such third parties are assisting us with the Purposes – such as service providers that provide billing or payment support, telephone support, or data storage or processing. 
 
-We will post and date any changes to this Notice.  Please check here periodically.  Your continued use of the websites and activities covered by this Notice constitutes your acceptance of the practices in place at the time of your use.
+Generally, we will only make disclosures of Personal Information to such persons for which you provide your consent. Notwithstanding the foregoing, we may also make disclosures of Personal Information to a potential acquirer in connection with a transaction involving the sale of some or all of the business of TechInsights (in which case the use of your personal information by the new entity would continue to be limited by applicable law), or as otherwise permitted or required by law. 
 
-#### How To Contact Us
+Notwithstanding anything in the Privacy Policy to the contrary, we may share any information we have collected about you: 
 
-For questions or comments about this Notice, please [contact us](https://web.archive.org/company/contact-us/).
+  1. When you explicitly consent to the disclosure of such information.
+  2. Where we are legally required to do so, such as in response to court orders or legal process, or to establish, protect, or exercise our legal rights or to defend against legal claims or demands.
+  3. If we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the rights, property, or personal safety of any person, or other exigent circumstances.
+  4. If we believe it is necessary to investigate, prevent, or take action regarding situations that involve abuse of the Services infrastructure or the Internet in general (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of the Website infrastructure or the Services generally), or to otherwise protect our assets or rights.
+  5. To a parent company, subsidiaries, joint ventures, or other companies controlling, controlled by, or under common control with TechInsights.
+  6. If we are acquired by or merged with another entity (in which case we will require such entity to assume our obligations under this Privacy Policy or inform you that you are covered by a new privacy policy complying with Canadian law); and
+  7. If information has been made public, is aggregated or is otherwise non-Personal Information or anonymized.
+
+
+
+Subject to obligations consistent with this Privacy Policy, we may also disclose information to our affiliates, agents, contractors, and service providers in order to facilitate the functioning of the Services or to perform tasks that are integral to the Services, such as processing transactions, fulfilling requests for information, or providing support services or other tasks, from time to time. 
+
+In addition, we may send Personal Information outside of the country for the Purposes, including for processing and storage by service providers in connection with such Purposes. However, you should note that to the extent that any Personal Information is out of the country, it is subject to the laws of the country in which it is held, and may be subject to disclosure to the governments, courts or law enforcement or regulatory agencies of such other country, pursuant to the laws of such country. 
+
+## Safeguards, Accuracy, and Compliance
+
+We have implemented reasonable physical, organizational, contractual and technological security measures to protect your Personal Information from loss or theft, unauthorized access, disclosure, copying, use or modification. The only TechInsights representatives who are granted access to your Personal Information are those with a business ‘need-to-know’ or whose duties reasonably require such information. No transmission over the Internet or electronic storage can be guaranteed completely. As a result, while we strive to protect personal information we make no warranty or guarantee. You can help protect the security of your personal information. TechInsights requires as a condition of the use of the Services that you keep your passwords secure and do not share the use of your account with other individuals. Should we become aware of a breach of our security involving your personal information, we will take reasonable steps to notify you in a timely manner and shall comply with all other legal requirements. 
+
+We will keep the Personal Information that we collect at the TechInsights offices or at the offices of our third party service providers, as applicable and as permitted. We may keep a record of your Personal Information, correspondence or comments, in a file specific to you. We will utilize, disclose or retain your Personal Information for as long as necessary to fulfill the purposes for which that Personal Information was collected and as permitted or required by law. 
+
+If you make a written request to review any Personal Information about you that we have collected, utilized or disclosed, we will provide you with any such Personal Information to the extent required by law. We assume that your Personal Information provided by you is accurate, complete and up-to-date. While we will not routinely update your Personal Information, unless such a process is necessary, you may request access to your information at any time and notify us if you discover that the information is not correct. We expect you, from time to time, to supply us with written updates to your Personal Information, when required. 
+
+At any time, you can challenge the accuracy or completeness of your Personal Information in our records. If you successfully demonstrate that your Personal Information in our records is inaccurate or incomplete, we will amend the Personal Information as required. We will not charge any costs for you to access your Personal Information in our records or to access our privacy practices without first providing you with an estimate of the approximate costs, if any. We may request that you provide sufficient identification to permit access to your Personal Information. Any such identifying information shall be used only for this purpose. 
+
+## Email preferences
+
+You may opt out of marketing communications sent by TechInsights by following the unsubscribe instructions included in each marketing email or by contacting us via email. 
+
+## Children
+
+Our services are directed to technology professionals and not intended for children 13 or under. 
+
+## Cookies 
+
+A cookie is a small text file placed on a personal computer as a person visits a website. We associate a cookie with information that identifies you if you are a registered user of our websites. We may use the resulting information in the ways described below. We may also use cookies and associated web beacons to improve and customize your experience with the Services, to help us recognize you across the Services, as well as to measure and analyze use of the Services and responses to our email campaigns. 
+
+Our server logs collect information about visits and system capabilities as you access and use the Services. We do not routinely associate such data with your profile except for investigative purposes as specifically described below. You may disable or block any cookies (and so, any associated web beacons) by using the tools available in most browsers. 
+
+If you are registering for our websites, you may choose whether to activate automatic recognition of your computer based on the placement of a persistent cookie that identifies your computer. If you choose not to accept that persistent cookie, or to delete it at any time, you may be asked to re-enter your log on credentials each time you access the website and or other information affecting your use of the Websites, for example, language and location. 
+
+## Contacting TechInsights’ Privacy Officer
+
+All comments, questions, concerns or complaints regarding your Personal Information, this Privacy Statement or our privacy practices, should be forwarded to our Privacy Officer as follows. 
+
+E-mail: [privacy@techinsights.com](mailto:privacy@techinsights.com)
+
+Or 
+
+Privacy Officer  
+1891 Robertson Rd. Suite 500  
+Ottawa, Ontario  
+Canada  
+K2H 5B7 
