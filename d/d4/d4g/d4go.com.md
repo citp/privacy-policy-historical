@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d4go.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321102447id_/http%3A//developernotes.d4go.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d4go.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620090523id_/http%3A//developernotes.d4go.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Web Developer Tools
 
