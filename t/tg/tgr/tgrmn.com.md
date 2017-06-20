@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119185539id_/http%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgrmn.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620162512id_/http%3A//www.tgrmn.com/web/popup/definitions.htm%23privacypolicy) for the most accurate reproduction.*
 
 # TGRMN Software
 
@@ -38,11 +38,6 @@ No need to worry about credit card safety. All of your personal information incl
 **Sales** : sales@tgrmn.com 
 
 _We will respond to your e-mail within a few hours of receipt during business days. Do not hesitate to contact us with any queries._
-
-**Our address:**  
-TGRMN Software   
-PO BOX 568, Fullarton SA 5063   
-Australia
 
 **User Forum:**  
 <http://www.tgrmn.com/web/forum/>
