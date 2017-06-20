@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221131033id_/https%3A//www.williamsauction.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamsauction.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620105806id_/https%3A//www.williamsauction.com/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -60,6 +60,6 @@ Further, the only means to participate in an auction is through the Williams & W
 
 If you have any questions about this Privacy Policy or about our information-collection practices, please contact us at legal@williamsauction.com Alternatively, you can contact us at Williams & Williams Marketing Services, Inc., 7140 South Lewis, Suite 200, Tulsa, Oklahoma 74136, USA.
 
-Copyright 2016 Williams & Williams Marketing Services, Inc. * All rights reserved
+Copyright 2017 Williams & Williams Marketing Services, Inc. * All rights reserved
 
 Use of this website constitutes acceptance of the Williams & Williams’ Terms of Use and Privacy Policy
