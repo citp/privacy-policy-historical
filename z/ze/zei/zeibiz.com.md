@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120201318id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeibiz.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620221818id_/http%3A//www.zeibiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Zeibiz
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
