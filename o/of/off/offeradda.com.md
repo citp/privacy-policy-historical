@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offeradda.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604193445id_/http%3A//www.offeradda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offeradda.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620201835id_/http%3A//www.offeradda.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy | Offeradda
+# privacy-policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **info[at]offeradda.com**
 
