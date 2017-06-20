@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518215718id_/http%3A//embark.com/%3Fpage_id%3D813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embark.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620052914id_/http%3A//embark.com/privacy-policy) for the most accurate reproduction.*
 
-# EmbarkPrivacy Policy - Embark
+# Embark – Privacy Policy
 
 **Effective Date: April 23, 2014**
 
