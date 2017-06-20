@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonesiamatters.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107140555id_/http%3A//www.indonesiamatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesiamatters.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620090958id_/http%3A//www.indonesiamatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
