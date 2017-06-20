@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearheads.in privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203224601id_/http%3A//gearheads.in/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearheads.in privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620154913id_/http%3A//gearheads.in/policy.php) for the most accurate reproduction.*
 
 # 
 
