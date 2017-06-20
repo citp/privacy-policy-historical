@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thegrindstone.com privacy policy that was archived on 2016-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160414042231id_/http%3A//www.thegrindstone.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thegrindstone.com privacy policy that was archived on 2017-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620114413id_/http%3A//www.thegrindstone.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-US"><!--<![endif]--><!-- the "no-js" class is for Modernizr. --><head>
 	<meta charset="UTF-8">
@@ -25,10 +25,10 @@
 	<!-- <meta property="fb:admins" content="100000997673474"/> -->
 	<meta property="fb:app_id" content="260046027351117">
 	<meta property="og:url" content="http://www.thegrindstone.com/privacy/">
-		<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
+		<script type="text/javascript" async="" src="//assets.pinterest.com/js/pinit.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-53RK73"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">ord = Math.random()*10000000000000000;</script>
 	<script type="text/javascript" src="http://c.jsrdn.com/s/cs.js?p=22195"> </script>
 
-	<meta name="description" content="Tips on career, business &amp; work place for women, including interview advice, resume help and strategy and office style."><meta name="DC.date.issued" content="2016-04-14T4:22:31-0:00"><meta name="robots" content="index,follow">
+	<meta name="description" content="Tips on career, business &amp; work place for women, including interview advice, resume help and strategy and office style."><meta name="DC.date.issued" content="2017-06-20T10:49:47-0:00"><meta name="robots" content="index,follow">
 
 	<script type="text/javascript">
 var siteGlobals = {
@@ -221,15 +221,24 @@ if(document.location.protocol=='http:'){
 </script>
 <!-- END Tynt Script -->			<!-- BEGIN GPT -->
 <script type="text/javascript">
-    var googletag = googletag || {};
+    var GTM_TIMEOUT = 3000; //Wait 3 seconds
+	
+	var googletag = googletag || {};
     googletag.cmd = googletag.cmd || [];
-    (function() {var gads = document.createElement("script");
-        gads.async = true;gads.type = "text/javascript";
-        var useSSL = "https:" == document.location.protocol;
-        gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-        var node = document.getElementsByTagName("script")[0];
-        node.parentNode.insertBefore(gads, node);
-    })();
+    setTimeout(function(){
+		if(!googletag.apiReady) { //Check if GPT API is already loaded (by GTM)
+			(function() {var gads = document.createElement("script");
+				gads.async = true;gads.type = "text/javascript";
+				var useSSL = "https:" == document.location.protocol;
+				gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+				var node = document.getElementsByTagName("script")[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		}
+		else {
+			//GPT already loaded
+		}
+	}, GTM_TIMEOUT);
 </script>
 
 <script type="text/javascript">
@@ -347,7 +356,11 @@ siteGlobals.category = 'legal';
                 .setTargeting('pageviews',adGlobal.target.pageviews)
                 .setTargeting('tags', adGlobal.target.tags);
 
-            googletag.enableServices();
+            if(typeof pbjs_setTargeting === 'function') {
+				pbjs_setTargeting(); //Set targeting for header bidding
+			}
+			
+			googletag.enableServices();
 
             //Wait for ad slots to render
             googletag.pubads().addEventListener('slotRenderEnded', function(event) {
@@ -366,8 +379,18 @@ siteGlobals.category = 'legal';
         });
     }
 </script>
-<!-- END GPT --></head>
+<!-- END GPT -->
+
+<!-- Google Tag Manager <script> part -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-53RK73');
+</script>
+<!-- End Google Tag Manager --></head>
 <body class="page page-id-592 page-template-default singular two-column right-sidebar">
+<!-- Google Tag Manager <noscript> -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-53RK73" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+	
 	<div id="skin-wrapper">
 	<div class="b5-ad-pushdown">
 		<div id="b5_ad_pushdown"></div>
@@ -715,7 +738,7 @@ E-mail: <a href="mailto:privacy@thegrindstone.com">privacy@thegrindstone.com</a>
     <div class="footer-disclaimer clearfix">
         <h3><a href="http://www.defymedia.com/" target="_blank">Defy Media</a></h3>
 
-        <p>©2016 Defy Media, LLC, All rights reserved. Use of the web site constitues acceptance of the Defy Media Terms of Use and Privacy Policy. The Gloss and all related sites and logos are trademarks of Defy Media.</p>
+        <p>©2017 Defy Media, LLC, All rights reserved. Use of the web site constitues acceptance of the Defy Media Terms of Use and Privacy Policy. The Gloss and all related sites and logos are trademarks of Defy Media.</p>
     </div>
 </footer>
 </div><!-- #wrapper -->
@@ -785,7 +808,7 @@ jQuery(document).ready(function() {        jQuery(".adminbar-quick-backup-run a"
             jQuery.ajax({
                 type: 'post', success: function(json) { alert(json.message); },
                 dataType: 'json', data: { runquick: {id: 1, type: code, control: 0} },
-                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=30def6c0f6'
+                url: gdpt_ajax_url + '?action=presstools_backup_quick&_ajax_nonce=62f05d7afb'
             });
         });
     });</script>
@@ -804,8 +827,8 @@ var countVars = {"disqusShortname":"thegrindstonecom"};
 </script>
 <script type="text/javascript" src="http://cdn2.thegrindstone.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=3.8"></script>
 
-<!-- Max memory: 14229248-->
-<!-- time: 0.277 -->
+<!-- Max memory: 14229016-->
+<!-- time: 0.250 -->
 
 <div class="share-tip-window" id="share-tip-window">
 	<div class="share-tip-dialog">
@@ -823,7 +846,7 @@ var countVars = {"disqusShortname":"thegrindstonecom"};
 			<input type="hidden" name="tip_post" id="tip_post" value="http://www.thegrindstone.com/privacy/">
 			<input type="hidden" name="tip_submit" id="tip_submit" value="0">
 			<input type="submit" value="Share" onclick="el = document.getElementById('tip_submit'); el.value = 1;"> &nbsp; or &nbsp; <a href="" onclick="close_modal_window('share-tip-window'); return false;">Cancel</a>
-			<input type="hidden" name="wp_nonce" value="9671339fe8"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="e4ffafba1e54f9a7f4c49f10bd1f7a7fc225d361d41a552b519c40ccba1328f3"></form>		</div>
+			<input type="hidden" name="wp_nonce" value="add2bb12dc"><input type="hidden" name="form_id" value="submit-tip-v2"><input type="hidden" name="b5_form_hash" value="e4ffafba1e54f9a7f4c49f10bd1f7a7fc225d361d41a552b519c40ccba1328f3"></form>		</div>
 	</div>
 </div>
 <!-- BEGIN Defy Media O and O Skater Unit -->
@@ -905,8 +928,8 @@ var countVars = {"disqusShortname":"thegrindstonecom"};
 
 Minified using memcached
 Page Caching using memcached
-Database Caching using memcached
-Object Caching 1555/1568 objects using memcached
+Database Caching 10/13 queries in 0.009 seconds using memcached
+Object Caching 1556/1566 objects using memcached
 Content Delivery Network via cdn2.thegrindstone.com
 
- Served from: www.thegrindstone.com @ 2016-04-14 00:22:31 by W3 Total Cache --></body></html>
+ Served from: www.thegrindstone.com @ 2017-06-20 06:49:47 by W3 Total Cache --></body></html>
