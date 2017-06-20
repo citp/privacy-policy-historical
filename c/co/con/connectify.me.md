@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035826id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectify.me privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620151059id_/http%3A//www.connectify.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Connectify
 
 **EFFECTIVE DATE 10/18/2009; UPDATED 1/28/2015**
 
-Connectify (“Connectify,” “we,” “us”) respects your privacy, including the privacy of your information and your pictures. This Privacy Policy explains the type of information we collect through our website at www.connectify.com (the “Site”) and our Connectify software, and how we use this information to provide outstanding service to you.
+Connectify Inc (“Connectify,” “we,” “us”) respects your privacy, including the privacy of your information and your pictures. This Privacy Policy explains the type of information we collect through our website at www.connectify.com (the “Site”) and our Connectify software, and how we use this information to provide outstanding service to you.
 
 By accessing and using the Site or other software or services owned or operated by Connectify (collectively, the “Services”), you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Services.
 
@@ -58,7 +58,7 @@ By using the Services, you consent to our Privacy Policy.
 
 7\. Correcting and Updating Your Personal Information
 
-To review and update your personal information to ensure it is accurate, log into your Connectify account here: <http://www.connectify.me/login>
+To review and update your personal information to ensure it is accurate, log into your Connectify account here: [//www.connectify.me/login](https://www.connectify.me/login)
 
 8\. Protecting the Privacy of Children
 
