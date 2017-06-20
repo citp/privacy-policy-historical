@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playmonopoly.us privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120081453id_/http%3A//www.albertsons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playmonopoly.us privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620101743id_/http%3A//www.albertsons.com/privacy-policy) for the most accurate reproduction.*
 
 # Albertsons » Privacy Policy
 
