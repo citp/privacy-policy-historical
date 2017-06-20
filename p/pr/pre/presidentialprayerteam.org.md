@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225031125id_/http%3A//www.presidentialprayerteam.org/Privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialprayerteam.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620113956id_/http%3A//www.presidentialprayerteam.org/Privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,7 +103,7 @@ By using the PPT Sites, you signify your acceptance of this policy. If you do no
 If you have any questions about this Privacy Policy, the practices of this PPT Sites, or your dealings with this PPT Sites, please contact us at:
 
 The Presidential Prayer Team  
-[www.PresidentialPrayerTeam.com](https://web.archive.org/web/20161225031125id_/http%3A//www.presidentialprayerteam.org/www.PresidentialPrayerTeam.com)  
+[www.PresidentialPrayerTeam.com](https://web.archive.org/web/20170620113956id_/http%3A//www.presidentialprayerteam.org/www.PresidentialPrayerTeam.com)  
 The Presidential Prayer Team   
 PO Box 4140  
 Scottsdale, AZ 85261
