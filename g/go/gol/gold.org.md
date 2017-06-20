@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119152206id_/http%3A//www.gold.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold.org privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620153826id_/http%3A//www.gold.org/privacy) for the most accurate reproduction.*
 
 # Privacy | World Gold Council
 
