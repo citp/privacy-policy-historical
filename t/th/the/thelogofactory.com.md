@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelogofactory.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127133126id_/http%3A//www.thelogofactory.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelogofactory.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621003027id_/http%3A//www.thelogofactory.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies | The Logo Factory
 
@@ -30,4 +30,4 @@ The Logo Factory Inc. does not store ANY credit card or billing information on o
 
 The Logo Factory Inc. may use portions of the design work created in any project in our logo design gallery or rejected design concepts as downloadable material in our Morgue Files. Such use is in strict accordance with our terms and conditions. We will not share any client contact information about such artwork, other than any identifying features already contained in the artwork. Additional information from third parties regarding any project or client featured on our web site will be denied.
 
-Please review the site periodically to see any updates to the information provided here. 
+Please review the site periodically to see any updates to the information provided here.
