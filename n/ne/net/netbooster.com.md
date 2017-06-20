@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netbooster.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013140100id_/http%3A//www.netbooster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbooster.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620114754id_/http%3A//www.netbooster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NetBooster - Your Digital Performance Architects
 
@@ -20,7 +20,8 @@ Phone: 01 40 40 27 00
 E-mail:  [info-group@netbooster.com ** **](mailto:info-group@netbooster.com "Group Contact Email ")
 
  **Legal representative and publishing director:  
-** Mr. Tim Ringel
+** M. François de la Villardière  
+
 
  **Person in charge of the Website and content:  
 ** Secrétaire Générale Groupe - Miss Natalie Dusey
@@ -28,7 +29,7 @@ E-mail:  [info-group@netbooster.com ** **](mailto:info-group@netbooster.com "G
  **Hosting** **| this Website is hosted by:**
 
 OVH SAS  
-Social capital: 10.000.000 €  
+Social capital: 1 911 030,00€  
 Head office: 2 rue Kellermann - 59100 Roubaix - FRANCE  
 Registered in the Lille Metropole Corporate Register under number B 424 761 419  
 APE code: 6202A  
