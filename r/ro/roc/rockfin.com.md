@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockfin.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417123611id_/http%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockfin.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620065935id_/https%3A//www.quickenloans.com/about/legal/security-privacy) for the most accurate reproduction.*
 
 # Security and Privacy Statement | Quicken Loans
 
@@ -106,7 +106,7 @@ Additionally, Quicken Loans service providers that serve ads on affiliate and/or
 
 If you simply want to browse, you do not have to accept cookies from our site. Should you decide, however, that you would like to register and sign in to special areas of the website and you have modified your browser settings not to accept cookies, you will need to re-set your browser to accept the cookies that we send. Otherwise, you won't be able to participate in certain areas of the website. Most browsers are defaulted to accept and maintain cookies. 
 
-If you wish to remove cookies provided by Quicken Loans, from your browser, you may learn how to do so by [clicking here](https://web.archive.org/about/legal/delete-browser-cookies). Since most browsers are defaulted to accept and maintain cookies, you will most likely have to set your browser to reject new cookies or to disable them altogether, in order to avoid receiving future cookies from the Quicken Loans website. Please note that if you choose to reject or disable cookies, your access to certain areas within the Quicken Loans website may be limited. 
+If you wish to remove cookies provided by Quicken Loans, please check your browser's settings and Help section for instructions for removing cookies from your browser. 
 
 **Behavioral Advertising:** Please be aware that we use third party advertising companies to collect non-personally identifiable information for online behavioral advertising to provide targeted display advertisements, likely to be of greater interest to you, through participating publishers and advertisers. Such information may include non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) through the use of Cookies and other technology. To learn more about online behavioral advertising or to opt-out of this type of advertising, please click on the following link: [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
