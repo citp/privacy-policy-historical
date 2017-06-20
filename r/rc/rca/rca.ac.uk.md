@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811033949id_/http%3A//www.rca.ac.uk/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rca.ac.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620032528id_/https%3A//www.rca.ac.uk/contact-us/about-this-website/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Royal College of Art
 
@@ -46,6 +46,12 @@ Online purchases through our websites will always be made through WorldPay, a se
 #### Direct Marketing
 
 Subscribers to newsletters or email lists may be contacted when we promote programmes of study or events that may be of interest. Anyone may at any time request us to stop using their personal data for direct marketing purposes by contacting: [media@rca.ac.uk](mailto:media@rca.ac.uk).
+
+#### Applications
+
+By submitting an enquiry or application, you are consenting to your data being held by Hobsons plc, on behalf of the Royal College of Art. Your data will be used for the purposes of dealing with your enquiry, and sending you relevant information about the College.
+
+Neither Hobsons plc nor the Royal College of Art will pass your details on to any third party. If you wish to remove yourself from the Royal College of Art database please contact Hobsons plc, IDT House, 44 Featherstone Street, London EC1Y 8RN or email [admissions@rca.ac.uk](mailto:admissions@rca.ac.uk).
 
 #### Alumni Engagement Programme
 
