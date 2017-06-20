@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailybeautyhack.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015042202id_/http%3A//www.dailybeautyhack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailybeautyhack.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620152028id_/http%3A//beautyhacked.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Daily Beauty Hack
+# Privacy Policy
 
 **What information do we collect?**
 
@@ -79,9 +79,8 @@ This policy was last modified on April 17, 2014
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-301 Digital Media, LLC  
-1616 Westgate Circle  
-Suite 311  
-Brentwood, TN 37027  
-United States  
-help@301digitalmedia.com
+301Brands, LLC  
+Attn: DMCA Compliance  
+4149A Mallory Ln  
+Franklin, TN 37067  
+dmca@301brands.com
