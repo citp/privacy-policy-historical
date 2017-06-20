@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgamesfree.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231070630id_/http%3A//www.allgamesfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgamesfree.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620123631id_/http%3A//www.allgamesfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Games Free
 
