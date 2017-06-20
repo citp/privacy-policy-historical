@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theatlanticcities.com privacy policy that was archived on 2016-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231162425id_/http%3A//www.citylab.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theatlanticcities.com privacy policy that was archived on 2017-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170621004140id_/http%3A//www.citylab.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js no-ie"><!--<![endif]--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
         
@@ -28,7 +28,7 @@
         <link rel="alternate" type="application/rss+xml" title="CityLab RSS" href="/feeds/posts/">
 
     
-        <link rel="canonical" href="http://www.citylab.com/privacy-policy/">
+        <link rel="canonical" href="https://www.citylab.com/privacy-policy/">
     
         <link rel="image_src" href="https://cdn.citylab.com/static/b/citylab/img/logos/logo_social_600x315.png">
         <meta name="description" content="Through original reporting, sharp analysis, and visual storytelling, CityLab informs and inspires the people who are creating the cities of the future—and those who want to live there.">
@@ -39,10 +39,10 @@
         <meta property="og:site_name" content="CityLab">
         <meta property="og:title" content="Privacy Policy">
         <meta property="og:type" content="website">
-        <meta property="og:url" content="http://www.citylab.com/privacy-policy/">
+        <meta property="og:url" content="https://www.citylab.com/privacy-policy/">
         
 
-        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag/qrixug7rm.js"></script><script type="application/ld+json">
+        <script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag/qrixug7rm.js"></script><script type="application/ld+json">
         {
               "@context": "http://schema.org",
               "@type": "Organization",
@@ -72,9 +72,19 @@
         // Chartbeat head
         var _sf_async_config = _sf_async_config || {};
         _sf_async_config.uid = 17396; // ACCOUNT NUMBER
-        _sf_async_config.domain = window.location.host; // DOMAIN 
+        _sf_async_config.domain = (function() {
+            // Paid Facebook traffic will have a UTM code in the form of
+            // fbMMDD_VERSION. When this happens, we send traffic to the
+            // a different site in Chartbeat to differentiate the traffic
+            var domain = window.location.host;
+            var is_paid = location.search.match(/utm_(?:campaign|source)=fb\d{4}_\d+/i);
+            if (is_paid !== null) {
+                domain = domain.replace('www.', 'paid.');
+            }
+            return domain;
+        })();
         _sf_async_config.flickerControl = false;
-        _sf_async_config.path = "" || window.location.pathname; 
+        _sf_async_config.path = "" || window.location.pathname;
         var _sf_startpt = (new Date()).getTime();
     </script>
     
@@ -83,7 +93,7 @@
             
         
 
-        <link href="https://cdn.citylab.com/static/b/citylab/css/site.f1137a59a797.css" rel="stylesheet" type="text/css">
+        <link href="https://cdn.citylab.com/static/b/citylab/css/site.eee680dfa66e.css" rel="stylesheet" type="text/css">
 
         
 
@@ -101,7 +111,7 @@
   "is_freelance": false, 
   "original_url": "", 
   "seo_title": "", 
-  "site_url": "http://www.citylab.com", 
+  "site_url": "https://www.citylab.com", 
   "primary_channel": "", 
   "share_dek": "", 
   "is_instant": false, 
@@ -115,7 +125,7 @@
   "path": "/privacy-policy/", 
   "article_id": "", 
   "share_text": "", 
-  "url": "http://www.citylab.com/privacy-policy/", 
+  "url": "https://www.citylab.com/privacy-policy/", 
   "is_sponsored": false, 
   "title": "Privacy Policy", 
   "og_type": "website", 
@@ -136,7 +146,7 @@
         <!--Optimizely-->
         
 
-        <script type="text/javascript" src="https://cdn.citylab.com/static/b/citylab/js/head.a6b4f5464a29.js" charset="utf-8"></script>
+        <script type="text/javascript" src="https://cdn.citylab.com/static/b/citylab/js/head.59ad9b7e5358.js" charset="utf-8"></script>
 
         
             <script type="text/javascript">
@@ -231,19 +241,19 @@ height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
             <a href="#" class="toggle-nav" onclick="$(&quot;#main-nav-wrapper&quot;).toggleClass(&quot;active&quot;); return false;" data-omni-click="r'nav',r'menu',l.pathname">Menu</a>
             <nav class="main-nav" data-omni-click="r'nav',t">
                 <ul class="channel-nav">
-                    <li><a href="/commute/" data-omni-click="inherit">Commute</a></li>
-                    <li><a href="/work/" data-omni-click="inherit">Work</a></li>
-                    <li><a href="/housing/" data-omni-click="inherit">Housing</a></li>
-                    <li><a href="/weather/" data-omni-click="inherit">Weather</a></li>
-                    <li><a href="/crime/" data-omni-click="inherit">Crime</a></li>
+                    <li><a href="/transportation/" data-omni-click="inherit">Commute</a></li>
+                    <li><a href="/life/" data-omni-click="inherit">Work</a></li>
+                    <li><a href="/equity/" data-omni-click="inherit">Housing</a></li>
+                    <li><a href="/environment/" data-omni-click="inherit">Weather</a></li>
+                    <li><a href="/equity/" data-omni-click="inherit">Crime</a></li>
                     <li><a href="/politics/" data-omni-click="inherit">Politics</a></li>
                     <li><a href="/design/" data-omni-click="inherit">Design</a></li>
-                    <li><a href="/tech/" data-omni-click="inherit">Tech</a></li>
+                    <li><a href="/life/" data-omni-click="inherit">Tech</a></li>
                 </ul>
                 <div class="secondary-nav-wrapper">
                     <ul class="secondary-nav">
                         <li><a href="/navigator/" data-omni-click="inherit">Navigator</a></li>
-                        <li><a href="/cityfixer/" data-omni-click="inherit">CityFixer</a></li>
+                        <li><a href="/solutions/" data-omni-click="inherit">CityFixer</a></li>
                         <li><a href="/posts/maps/" data-omni-click="inherit">Maps</a></li>
                         <li><a href="/posts/photos/" data-omni-click="inherit">Photos</a></li>
                         <li><a href="/posts/videos/" data-omni-click="inherit">Videos</a></li>
@@ -381,7 +391,6 @@ Washington, DC 20037</p>
 
 
 
-
 <div class="rail">
     
 
@@ -405,25 +414,25 @@ Washington, DC 20037</p>
 
     <ol>
         
-        <li><a href="/commute/2016/12/mapping-the-history-of-the-second-ave-subway/511790/">New York's Second Ave Subway: A Century in Maps</a></li>
+        <li><a href="/tech/2017/06/wheres-the-real-next-silicon-valley/530352/">Where's the Real 'Next Silicon Valley'? </a></li>
         
-        <li><a href="/navigator/2016/05/why-some-people-find-urban-hustle-invigorating/484412/">​​​​​​​Why Some People Find Crowded Cities Relaxing—And Others Don't</a></li>
+        <li><a href="/design/2017/06/oregons-hb-2007-would-preempt-cities-zoning-rights/528612/">Oregon May Strip Portland of Its NIMBY Powers</a></li>
         
-        <li><a href="/politics/2016/12/did-jane-jacobs-predict-the-rise-of-trump/509987/">Did Jane Jacobs Predict the Rise of Trump?</a></li>
+        <li><a href="/equity/2017/06/upper-middle-class-economic-mobility/530619/">The Hoarding of the American Dream</a></li>
         
-        <li><a href="/housing/2016/12/us-population-growth-rate-sun-belt-states/511844/">The Rise of the Sun Belt</a></li>
+        <li><a href="/solutions/2017/06/why-cant-america-solve-the-hunger-problem/530151/">Why Can't America Solve the Hunger Problem? </a></li>
         
-        <li><a href="/housing/2016/12/the-urban-density-differential-us-mexico-border-map/511709/">America’s Love of Sprawl Starts Right at the Border</a></li>
+        <li><a href="/environment/2017/06/why-its-too-hot-to-fly-in-phoenix/531033/">Why It's Too Hot to Fly in Phoenix</a></li>
         
-        <li><a href="/housing/2016/12/julian-castro-hud-secretary-housing-desegregation-department-housing-urban-development/511664/">Julián Castro, Leveling the Playing Field</a></li>
+        <li><a href="/transportation/2017/06/in-new-york-city-bikeshare-is-faster-than-cabs-when-it-matters-most/530469/">In New York City, Bike Share Is Faster Than Cabs When It Matters </a></li>
         
-        <li><a href="/politics/2015/06/incredibly-detailed-map-europes-population-shifts/396497/">An Incredibly Detailed Map of Europe's Population Shifts</a></li>
+        <li><a href="/transportation/2017/06/cities-cant-afford-to-let-rogue-bike-shares-run-wild/530664/">Cities Can’t Afford to Let ‘Rogue’ Bike Shares Run Wild</a></li>
         
-        <li><a href="/commute/2016/12/when-manhattan-had-elevated-trains/508670/">When Manhattan Had Elevated Trains</a></li>
+        <li><a href="/crime/2017/06/london-terror-attack-elections-turmoil/530796/">London's Summer of Discontent</a></li>
         
-        <li><a href="/housing/2016/12/historic-preservation-neighborhood-character-maps-us-cities/511640/">Mapping the Value of Neighborhood 'Character'</a></li>
+        <li><a href="/equity/2017/06/how-asian-americans-remade-suburbia/529995/">How Asian Americans Remade Suburbia</a></li>
         
-        <li><a href="/design/2016/12/how-to-support-mental-health-through-urban-planning/510833/">How to Support Mental Health Through Urban Planning</a></li>
+        <li><a href="/transportation/2017/06/nepal-india-train-janakpur/530601/">A Look Inside Nepal's Abandoned Railway to India</a></li>
         
     </ol>
 
@@ -477,6 +486,8 @@ Washington, DC 20037</p>
             <form id="footer-newsletter" action="" method="POST">
                 <input type="email" name="email">
                 <input type="submit" value="Go">
+                <p class="message"></p>
+
                 <fieldset>
                     <p>
                         <label>
@@ -500,7 +511,6 @@ Washington, DC 20037</p>
                     </p>
                 </fieldset>
             </form>
-            <p class="message"></p>
             </div>
         </section>
         <section class="about">
@@ -535,11 +545,11 @@ Washington, DC 20037</p>
                             <a href="http://theatlantic.com/"><h3>The Atlantic</h3></a>
                             <ul>
                             
-                                <li><a href="http://www.theatlantic.com/liveblogs/2016/12/news-today/511970/?utm_source=feed">Today's News: Dec. 31, 2016</a></li>
+                                <li><a href="https://www.theatlantic.com/news/archive/2017/06/al-shabab-kills-15-in-latest-car-bomb-attack/531051/?utm_source=feed">Al-Shabaab Kills 15 in Latest Car Bomb Attack</a></li>
                             
-                                <li><a href="http://www.theatlantic.com/entertainment/archive/2016/12/george-michael-carrie-fisher-pop-culture-writing/511775/?utm_source=feed">George Michael and Carrie Fisher: The Week in Pop-Culture Writing</a></li>
+                                <li><a href="https://www.theatlantic.com/newsletters/archive/2017/06/the-atlantic-daily-june-20-2017/531003/?utm_source=feed">The Atlantic Daily: Dems' Vital Vote</a></li>
                             
-                                <li><a href="http://www.theatlantic.com/international/archive/2016/12/obama-israel-kerry-allies/511796/?utm_source=feed">Obama: Reaching Out to Adversaries, Alienating Allies</a></li>
+                                <li><a href="https://www.theatlantic.com/politics/archive/2017/06/what-is-the-point-of-sean-spicer/530988/?utm_source=feed">What Is the Point of Sean Spicer's Briefings?</a></li>
                             
                             </ul>
                         </div>
@@ -550,11 +560,11 @@ Washington, DC 20037</p>
                             <a href="http://www.qz.com/"><h3>Quartz</h3></a>
                             <ul>
                             
-                                <li><a href="http://qz.com/875880/should-you-serve-champagne-in-flutes/">Why it’s a bad idea to serve champagne in a flute</a></li>
+                                <li><a href="https://qz.com/1010670/dave-pells-next-draft-june-20-2017/">World Refugee Day, Georgia’s special election, and eight other stories you might have missed</a></li>
                             
-                                <li><a href="http://qz.com/875921/narendra-modi-ends-2016-with-a-spirited-defence-of-demonetisation-and-some-new-schemes/">Narendra Modi ends 2016 with a spirited defence of demonetisation (and some new schemes)</a></li>
+                                <li><a href="https://qz.com/1010525/mcdonalds-mcd-fresh-beef-burgers-are-good-but-take-too-long-to-make/">Americans won’t wait more than four minutes for a slightly less disgusting hamburger</a></li>
                             
-                                <li><a href="http://qz.com/875911/its-up-to-us-whether-2016-is-remembered-as-the-beginning-of-the-darkness-or-the-darkness-before-the-dawn/">It’s up to us whether 2016 is remembered as the beginning of the darkness, or the darkness before the dawn</a></li>
+                                <li><a href="https://qz.com/1010539/uber-will-pay-drivers-more-if-they-give-rides-to-teenagers/">Uber will pay drivers extra to shuttle teenagers</a></li>
                             
                             </ul>
                         </div>
@@ -568,7 +578,7 @@ Washington, DC 20037</p>
         </section>
     </div>
     <div id="copyright">
-        Copyright 2016  The Atlantic Monthly Group.
+        Copyright 2017  The Atlantic Monthly Group.
     </div>
 </footer>
 
@@ -656,18 +666,9 @@ Washington, DC 20037</p>
     }
 </script>
 
-        
-<script type="text/javascript" src="//c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
-<script type="text/javascript">
-    if (/adtest\=1/.test(window.location.search) || /adtest\./.test(window.location.hostname)) {
-        amznads.debug_mode = true;
-    }
-</script>
-
-
 
         <!-- Footer Javascript -->
-        <script type="text/javascript" src="https://cdn.citylab.com/static/b/citylab/js/footer.rollup.a073920d5010.js" charset="utf-8"></script>
+        <script type="text/javascript" src="https://cdn.citylab.com/static/b/citylab/js/footer.rollup.09e3a58489a2.js" charset="utf-8"></script>
 
         
 
@@ -748,9 +749,19 @@ var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
     }
 
     window._sf_endpt=(new Date()).getTime();
+
+    
+    // Chartbeat YouTube Integration
+    _sf_async_config.ytApikey = "AIzaSyDP5dqEZLyedSSUKle2MCEtXyN6ppCmx8Y"
+    var _cbv = window._cbv || (window._cbv = []);
+    _cbv.push(["autoDetectYouTubeIframes"]);
+    
 </script>
 
-<script src="//static.chartbeat.com/js/chartbeat.js" async="async"></script>
+
+<script src="//static.chartbeat.com/js/chartbeat_video.js" async="async"></script>
+
+
 
 
         <!-- Begin comScore Tag -->
@@ -796,6 +807,24 @@ ga('send', 'pageview');
 <script type="text/javascript" src="//www.google-analytics.com/analytics.js" async="async"></script>
 <!-- End Google Analytics -->
 
+        <!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function()
+{n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}
+console.log("consequences")
+;if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1839927239564266'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1839927239564266&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
         
 
 
@@ -805,11 +834,11 @@ __reach_config = {
   "channels": [], 
   "date": "1857-01-01T00:00:00", 
   "title": "Privacy Policy", 
-  "url": "http://www.citylab.com/privacy-policy/", 
+  "url": "https://www.citylab.com/privacy-policy/", 
   "authors": [], 
   "pid": "516eed884240cfbf3000002c", 
   "tags": [], 
-  "page_url": "http://www.citylab.com/privacy-policy/"
+  "page_url": "https://www.citylab.com/privacy-policy/"
 }
 </script>
 <script type="text/javascript" src="//d8rk54i4mohrb.cloudfront.net/gz/js/reach.js.gz" async="async"></script>
@@ -860,7 +889,7 @@ __reach_config = {
 
 
     
-<!-- 2016-12-31T11:24:26.036103 -->
+<!-- 2017-06-20T20:41:40.475937 -->
 <!-- PAGE_COMPLETED -->
 
 </body></html>
