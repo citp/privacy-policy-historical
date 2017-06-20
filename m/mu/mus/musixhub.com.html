@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119021539id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixhub.com privacy policy that was archived on 2017-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620021727id_/http%3A//www.musixhub.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <title>Free albums music - Listen free at MusixHub</title>
@@ -79,6 +79,15 @@ MusixHub give you better YouTube music experience.
 <script type="text/javascript">
 
 </script>
+<!-- offerpop -->
+<link rel="stylesheet" href="/offerpop/style.css?v=1.0">
+
+<!--[if lt IE 9]>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+<![endif]-->
+
+<script src="/offerpop/script.js"></script>
+
 
 <script>
 
@@ -879,6 +888,8 @@ MusixHub give you better YouTube music experience.
                 .append("<a>" + item.label + "</a>")
                 .appendTo(ul);
         };
+
+
     });
 
 
@@ -1024,7 +1035,7 @@ function loginStatusUpdated()
     cookie     : true,  // enable cookies to allow the server to access 
                         // the session
     xfbml      : true,  // parse social plugins on this page
-    version    : 'v2.1' // use version 2.1
+    version    : 'v2.8' // use version 2.8
   });
 
    
@@ -1114,7 +1125,13 @@ function loginStatusUpdated()
                     </div>
                 </div>
                 <div class="soc-icons">
+                    <!--<div class="twitter-tooltip">
+                        Follow us on Twitter to get the latest music news and recommendations.
+                        <a class="twitter-button" target="_blank" href="https://twitter.com/yrmusixhub">Follow</a>
+                    </div>-->
+
                     <ul>
+                        <li><a class="twitter-icon" target="_blank" href="https://twitter.com/yrmusixhub"><img src="images/twitter.png"></a></li>
                         <li><a target="_blank" href="https://www.facebook.com/musixhub"><img src="images/facebook.png"></a></li>
 
                         <li title="Login to MusixHub">
@@ -1138,6 +1155,48 @@ function loginStatusUpdated()
 
 
                     </ul>
+                    <script>
+                       /* var twitter_open = false;
+                        var twitterevent = null;
+                        $(".twitter-icon").on("mouseover", function () {
+                            twitter_open = true;
+                            twitterevent = window.setInterval(twitter_tooltip_check, 1000);
+                            $(".twitter-tooltip").show();
+                        });
+                        $(".twitter-icon").on("mouseout", function () {
+                            twitter_open = false;
+                        });
+                        $(".twitter-tooltip").on("mouseover", function () {
+                            twitter_open = true;
+                        });
+                        $(".twitter-tooltip").on("mouseover", function () {
+                            twitter_open = false;
+                        });
+                        function twitter_tooltip_check () {
+                            if (!twitter_open) {
+                                window.clearInterval(twitterevent);
+                                //$(".twitter-tooltip").hide();
+                            }
+                        }*/
+                    </script>
+                    <style>
+                        .twitter-tooltip {
+                            background: white;
+                            padding:  20px;
+                            position: fixed;
+                            top: 60px;
+                            left: 1360px;
+                            width: 200px;
+                            z-index: 1;
+                        }
+
+                        a.twitter-button {
+                            background: #7b97e8;
+                            width: 60px;
+                            text-align: center;
+                            padding: 10px;
+                        }
+                    </style>
                 </div>
                 <div class="clear"></div>
 
@@ -1157,6 +1216,116 @@ function loginStatusUpdated()
                 </div>
             </div>
         </div>
+
+
+        <!-- offerpop -->
+        <style>
+        .tooltipme {
+
+        }
+
+      .tooltiptext {
+            visibility: hidden;
+            width: 120px;
+            background-color: #555;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px;
+            position: absolute;
+            z-index: 1;
+            bottom: 105%;
+            left: 50%;
+            margin-left: -65px;
+            opacity: 0;
+            transition: opacity 1s;
+        }
+        .comment-block-home .bx-wrapper .bx-next {
+            background: none;
+            width: 15px;
+            height: 15px;
+            top: 50%;
+            -webkit-transform: translateY(-50%) rotate(45deg);
+            -moz-transform: translateY(-50%) rotate(45deg);
+            -ms-transform: translateY(-50%) rotate(45deg);
+            -o-transform: translateY(-50%) rotate(45deg);
+            transform: translateY(-50%) rotate(45deg);
+            border-top: 3px solid #6b9fc5;
+            border-right: 3px solid #6b9fc5;
+            overflow: hidden;
+        }
+
+        .tooltiptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: #555 transparent transparent transparent;
+        }
+
+        .tooltipme:hover .tooltiptext {
+            visibility: visible;
+            opacity: 1;
+        }
+
+
+    </style>
+
+        <div id="fix-me" class="fixed-element position-right
+            ">
+
+            <div id="close-offer" class="close-offer-btn"></div>
+            <div class="refresh-offer">
+                <div class="refresh-tooltip">show me another artist</div>
+            </div>
+            
+            <!--design-5 items -->
+
+            <div class="  d-image "></div>
+
+               <div class="marquee">Random Artist</div>
+               <div class="player-buttons">
+                   <div></div>
+                   <div></div>
+                   <div></div>
+                   <div></div>
+                   <div></div>
+                   <div class="progres-line">
+                       <span class="caret"></span>
+                   </div>
+
+
+               </div>
+            <!--design-5 items end-->
+
+            <!--design-8 items -->
+                <div class="d-8-img-wrap">
+                      <div class="d-image d-8-image">
+                      </div>
+                </div>
+                <div class="tooltiptext"></div>
+            <!--design-8 items ends-->
+        </div>
+                   <div class="drag-overlay"></div>
+                   <div id="delete-fixed"></div>
+                   <div class="m-overlay"></div>
+                   <div class="m-dialog">
+                       <div class="dialog-close"></div>
+                       <div class="dialog-content">
+                           <p>Are you sure you want to hide this?</p>
+                           <div class="d-footer">
+                               <label><input id="d-check" type="checkbox" name="checkbox" value="value">Don't display this message again</label>
+                               <div class="d-btn-wrap">
+                                   <div id="c-del" class="d-btn">Yes</div>
+                                   <div id="u-del" class="d-btn">No</div>
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+                   <!-- offerpop -->
         
  <div class="content-bg">
 <div class="wrap">
