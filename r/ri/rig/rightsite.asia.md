@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightsite.asia privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201164926id_/http%3A//www.mingtiandi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightsite.asia privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621013818id_/http%3A//www.mingtiandi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mingtiandi
 
