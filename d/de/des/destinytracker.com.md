@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the destinytracker.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217011124id_/http%3A//destinytracker.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinytracker.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620212612id_/http%3A//destinytracker.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Destiny Tracker Privacy Policy
 
-We are currently investigating issues causing players to encounter BABOON and NIGHTINGALE errors.
+We will be conducting general server maintenance today. Players should not be removed from any activities they are currently in.
 
 ## Privacy Policy
 
