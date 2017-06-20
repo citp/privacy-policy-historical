@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thewatchgallery.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018075952id_/https%3A//www.thewatchgallery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewatchgallery.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620024413id_/https%3A//www.thewatchgallery.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### Introduction
 
-As keen users of other internet sites, we fully appreciate the importance of privacy on the internet. In common with all shopping websites, we collect personal data when you shop or interact with [www.thewatchgallery.com](https://web.archive.org/web/20161018075952id_/https%3A//www.thewatchgallery.com/\[sitetree_link%20id=413\]). We use this information to make your experience of our site as enjoyable as possible. We use it to process your orders, advise you of any problems or delays and to occasionally, when we have your consent, send you new product alerts, offers and promotions.
+As keen users of other internet sites, we fully appreciate the importance of privacy on the internet. In common with all shopping websites, we collect personal data when you shop or interact with [www.thewatchgallery.com](https://web.archive.org/web/20170620024413id_/https%3A//www.thewatchgallery.com/\[sitetree_link%20id=413\]). We use this information to make your experience of our site as enjoyable as possible. We use it to process your orders, advise you of any problems or delays and to occasionally, when we have your consent, send you new product alerts, offers and promotions. Our website may also use a website recording service which may record mouse clicks, mouse movements, page scrolling and any text keyed into website forms. Data collected by this service is used to improve our website usability. The information collected is stored and is used for aggregated and statistical reporting, and is not shared with anybody else.
 
 We collect information for the following purposes:
 
@@ -28,7 +28,7 @@ We are a registered data user under the Data Protection Act. We will never pass 
 
 
 
-If you have any questions about your personal data or our privacy policy contact us at [help@thewatchgallery.com](mailto:help@thewatchgallery.com) or write to: The Data Protection Officer - DM London Ltd. 16 Dufour's Place. London. W1F 7SP
+If you have any questions about your personal data or our privacy policy contact us at [help@thewatchgallery.com](mailto:help@thewatchgallery.com) or write to: The Data Protection Officer - The Watch Gallery Ltd. 16 Dufour's Place. London. W1F 7SP
 
 ### Your Contact Preferences
 
@@ -49,8 +49,6 @@ In addition to encrypting your information and using the latest SSL technology, 
 ### Verified by Visa
 
 Verified by Visa provides an additional password-protected level of security when using your Visa card for online purchases. You can sign up for Verified by Visa next time you place an order with us or alternatively, contact your payment card provider directly to set up the service. Once signed up, your internet purchases on 1000’s of websites will be protected by an additional level of authentication. When using Verified by Visa you’ll be asked to enter a password, known only to yourself, in addition to the normal payment card details asked for when making a purchase.
-
-To find out more information about these services visit the [Verified by Visa website](http://www.visaeurope.com/personal/onlineshopping/verifiedbyvisa/main.jsp).
 
 ### MasterCard SecureCode
 
