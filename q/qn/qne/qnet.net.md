@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113042716id_/http%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qnet.net privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620025024id_/http%3A//www.qnet.net/en/footer/privacy_policy) for the most accurate reproduction.*
 
 # QNET Direct Selling Company | Privacy Policy
 
