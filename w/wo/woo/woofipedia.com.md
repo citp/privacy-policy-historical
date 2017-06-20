@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woofipedia.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109160116id_/http%3A//www.woofipedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woofipedia.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620210143id_/http%3A//www.woofipedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | WOOFipedia by The American Kennel Club
 
