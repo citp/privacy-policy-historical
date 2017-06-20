@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwoodvacationnetwork.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013203255id_/https%3A//www.vistana.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwoodvacationnetwork.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620030042id_/https%3A//www.vistana.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Vistana Signature Experiences
 
@@ -182,12 +182,12 @@ Attention: Privacy Office
 Orlando, Florida 32819
 
 **By calling a customer service representative at:**  
-[(888) 786-9637](tel:1-800-786-9637)
+[(800) 847-8262](tel:1-800-847-8262)
 
 **To opt out of receiving communications from Vistana by telephone and be placed on the Vistana do not call list:**  
 [(800) 611-5701](tel:1-800-611-5701)
 
 **To Delete your Personal Online Profile:**  
-Please click [here](mailto:onlnineaccountdeletion@vistana.com?subject=Online%20Account%20Deletion%20Request) to send an email with your request. 
+Please click [here](mailto:onlineaccountdeletionrequests@vistana.com?subject=Online%20Account%20Deletion%20Request) to send an email with your request. 
 
 ^ TOP OF PAGE
