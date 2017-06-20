@@ -1,235 +1,69 @@
-> *The following text is extracted and transformed from the fusion.net privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213195351id_/http%3A//fusion.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusion.net privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620154100id_/http%3A//legal.kinja.com/privacy-policy-1793094625) for the most accurate reproduction.*
 
-# Privacy Policy | Fusion
+# Privacy Policy
 
-  
-**Privacy Policy**
+This Privacy Policy covers all of the sites on the Kinja platform (“Kinja”), which is created and owned by Gizmodo Media Group, LLC (“GMG”, “us” or “we”). The Privacy Policy governs your access to and use of the services, websites, and applications offered through Kinja (the “Services”). Please read this statement carefully before using or proceeding to access Kinja. Your use of Kinja indicates that you have read and understood this Privacy Policy and indicates your agreement to abide by the [Terms of Use](https://legal.kinja.com/kinja-terms-of-use-1793094100) in effect and to be subject to this policy.
 
-[](https://privacy.truste.com/privacy-seal/Fusion-Media-Network,-LLC/validation?rid=227bc72b-18f2-4897-8e44-5e980db57383 "TRUSTe online privacy certification")
+ **1\. Information Collection**
 
-**Last Modified:** December 14, 2015.
+GMG or third parties may collect information from our users at several different points on Kinja.
 
-This privacy policy applies to http://fusion.net owned and operated by Fusion Media Network, LLC (“Fusion”). This privacy policy describes the treatment of information provided or collected on the site. It also explains the treatment of information provided or collected on applications we make available on third-party sites or platforms if disclosed to you in connection with use of the application. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. We follow this privacy policy in accordance with local law in the places where we operate.
+  * Mailing Lists & Service Emails - GMG may launch a mailing list in order to provide subscribers with relevant information or content - breaking news, or weekly or daily round-ups, for example. In order to sign up to receive regular emails from a site’s mailing list, users must submit information including a valid Kinja username and/or email address and may submit demographic information such as location and interests. This information may be used in aggregate form by GMG or its third party service providers in order to assess general user interest in various internal and third party products and services. Your personal and contact information may be passed to GMG’s third party service providers. GMG and its third party service providers may from time to time track how users interact with the emails we send in a continued effort to improve our services. Users who choose to sign up for a mailing list may receive regular emails from the site, consisting of content from the site in question and/or content from third party sponsors. Since editorial independence is critical to us, you can be sure that we will always mark sponsored content as such, including in emails. If you do not wish to receive emails from third party advertisers, please do not sign up for the mailing list.
+  * Comment Service and Account Information – In order to further enhance the user experience, GMG allows users to comment on some or all of Kinja sites, enabling users to discuss and contribute to topics posted to those sites. Users have the option of signing up for this service, and to do so must either submit some valid information or set up an anonymous account. GMG uses this information to screen out users who leave comments prohibited by our[ Terms of Use](https://legal.kinja.com/kinja-terms-of-use-1793094100), to make notifications to users when necessary, to pick out topics of interest to commenters, and in certain circumstances to create a Kinja “page” for each such user where such user’s contributions are collected. You may link your account to certain third party services and to do so, may be required to provide your login information for those services. If you login via a third party service, we will receive an identifying token from that service, which will allow us to access some information from your account on that service, so that we can, for example, send you a message through that service. GMG does not receive or store passwords from your third party service and will not pass information provided when you register via a third party service to any other organization except to GMG’s third party service providers or in aggregate form.
+  * Cookies – GMG or third parties may use cookies, web beacons, HTML5 local storage, JavaScript, and other similar technologies to help us understand how you use the Services and help us provide the Services and advertising to you.
+  * A cookie is a piece of data stored on the user’s computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once the user closes the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following the user’s internet browser help file directions. We store a cookie on each user’s machine that contains user specific information. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Services that require you to “sign in,” and you may not be able to take full advantage of all offerings. However, not all Services require that you accept cookies. Use of the Services and emails we send may execute code known as a “web beacon.” This code allows us to understand the time and date of when a user has opened an email. Our web beacons do not collect personally identifiable information. Users wishing to disable our web beacons should do so by turning images “off” in their email client (e.g. Outlook, Outlook Express). Please see your email client for more information.
+  * Links – Kinja contains links to other sites, including third party payment processors, like Stripe (see “Payments” section below) and affiliate marketing links encoded by third parties. Such third parties do not collect any personally identifiable information unless you visit the referenced site. Please be aware that GMG is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to information collected by GMG through Kinja.  
 
-Fusion has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this Web site, http://fusion.net.
+  * Payments –If you choose to purchase a product via our site’s green “buy (powered by Stripe)” buttons, some special terms apply. Payments are handled by a third party payment processor, Stripe (Stripe Financial Services) and Stripe’s own terms and privacy policy [<https://stripe.com/us/privacy>] will govern your transaction. We do not process, record or maintain your credit card, bank account or payment information, though Stripe and/or the merchant may provide us with some data relating to your order, such as what you purchased and how much you spent, etc. We expressly disclaim any and all liability related to your use of the Stripe system, including its privacy practices. We are not responsible for any fulfillment of product that you purchase from merchants or any issues relating to such product(s) or customer service.  
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+  * Embedded Content — You should also be aware that some content delivered through Kinja originates with another content provider. Such other content providers may place “cookies” on your computer, or otherwise gather information about you, including by asking you to provide information through the content player itself. Again, it is up to you to review the terms of use and privacy policy of the originators of such content.
+  * Data that we collect may be shared with our prospective and actual business partners, advertisers, and other third parties for business purposes. Other than names and email addresses provided at your discretion, we don’t generally collect any “Personally Identifying Information” about our users (such as social security number, telephone number, street address, drivers license number, etc.). However, we may offer you the opportunity to submit other information about yourself (such as gender, age, occupation, hobbies, interests, zip code, etc.), which would then also be covered by this Privacy Policy.
+  * Log Files – Like most standard website servers we use log files to log certain information about how you use Kinja. This information may be stored on third party servers, and may be used by GMG or its third party service providers in order to provide site personalization and assess general user interest in various internal and third party products and services. We do not, however, collect IP addresses or log IP address information.
+  * We do not respond to web browser “do not track” or other related mechanisms at this time.
 
-  1. Types of Information We Collect
-  2. How We Collect Your Information
-  3. Use of Your Information by Fusion
-  4. Sharing Your Information with Other Companies
-  5. Legal Disclaimer
-  6. Your Controls and Choices
-  7. Online Tracking Technologies
-  8. Advertising
-  9. Data Security and Integrity
-  10. Links to 3rd Party Sites
-  11. Blog/Forum
-  12. Social Media Widgets
-  13. Changes to this Privacy Policy
-  14. Comments and Questions
 
 
-  1. ******Types of Information We Collect**
+ **2\. Advertising  
+**
 
+  * Ad Serving – The ads appearing on these websites are delivered to you by a web advertising vendor and/or by GMG’s own proprietary advertising delivery software. In order to serve ads to you, we may use information collected during your searches or visits to our websites and information that we specifically acquire from third parties.
+  * Advertising and Cookies – Some of our third party advertising partners may distribute cookies to users in advertisements that are provided to us. GMG has no access to or control over these cookies once we have received the advertisements. Some of these advertisers and services we use to deliver advertising may be engaging in online behavioral advertising as defined by the Digital Advertising Alliance and FTC.
+  * Affiliate Advertising – We participate in affiliate advertising and allow affiliate links to be encoded on some of our pages. This means that we may earn a commission when you click on or make purchases via affiliate links and affiliate partners may use cookies to understand your use of the Services.
+  * GMG does not provide any Personally Identifiable Information to third-party advertising companies. Note, however, that if an advertiser asks GMG to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach.
+  * Opt-out – As part of our commitment to transparency and your privacy, we provide the following links to opt-out of cookies provided by both our first party ad server and many third party advertising partners who may be engaging in online behavioral advertising:
+  * First Party Opt-out – Please visit this link to opt-out of cookies from our first party ad serving vendor, Google: <http://www.google.com/privacy/ads/>; Third Party and Online Behavioral Advertising Opt-out – Please visit this link to opt-out of cookies from over 50+ major third party behavioral advertising providers: <http://www.aboutads.info/choices/>.  
 
 
-We collect two basic types of information – personal information and anonymous information – and we may use personal and anonymous information to create a third type of information, aggregate information . We collect the following categories of information:
 
-  * Registration information you provide when you sign up to receive Fusion Updates / Newsletter, including your first name and surname, and email address
-  * Information you provide in public forums on our sites and applications
-  * Information sent through comments, postings or similar functionality, where we are permitted by law to collect this information
-  * Information you provide to us when you use our sites and applications, our applications on third-party sites or platforms such as social networking sites
-  * Location information when you visit our sites or use our applications, including location information either provided by a mobile device interacting with one of our sites or applications, or associated with your IP address , where we are permitted by law to process this information
-  * _Usage, viewing and technical data, including your device identifier or IP address, when you visit our sites, use our applications on third-party sites or platforms or open emails we send_
 
+ **3\. Business Transitions**
 
-  2. ******How We Collect Your Information**
+In the event GMG goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
+ **4\. Contests, Sweepstakes, and Promotions**
 
-  * We collect information you provide to us when you request products, services or information from us, register to receive Fusion updates/newsletters, participate in public forums or other activities on our sites and applications , respond to customer surveys, or otherwise interact with us. Please keep in mind that when you provide information to us on a third-party site or platform (for example, via our applications), the information you provide may be separately collected by the third-party site or platform. The information we collect is covered by this privacy policy and the information the third-party site or platform collects is subject to the third-party site or platform’s privacy practices. Privacy choices you have made on the third-party site or platform will not apply to our use of the information we have collected directly through our applications.
-  * We collect information through technology when you visit our sites and applications or use our applications on third-party sites or platforms. Please visit [Online Tracking and Advertising](http://www.fusion.net/advertising-choices/) __ for further information.
-  * We acquire information from other trusted sources to update or supplement the information you provided or we collected automatically. Local law may require that you authorize the third party to share your information with us before we can acquire it.
+From time to time you may be able to participate in contests, giveaways, sweepstakes or other similar promotions that we or third parties may sponsor. Participation may require sharing your personal information with us or third parties sponsoring the contest, giveaway, sweepstakes or promotion, and you should check the rules to determine how your information will be used and shared with others. GMG may announce specific rules in connection with any such opportunity, but regardless of whether specific rules are announced, all such opportunities will be controlled by GMG’s “Contest Guidelines” set forth at [Contest Guidelines](http://legal-supplemental.kinja.com/contest-guidelines-effective-february-3-2016-1750917548#_ga=1.226289881.290498954.1479140661). Any rules announced at the time of a contest will be in addition to the Contest Guidelines. In addition, as a condition to receiving any awards or prizes, you may be required to provide additional information, to sign a release, or to authorize the use of certain information about you in marketing materials. If a third party administers the contest, your participation may be subject to additional terms and conditions and that third party’s privacy policy. We are not responsible for such third parties. You should carefully review the Contest Guidelines and these third parties’ terms and conditions before deciding whether to participate in a contest publicized through the Service.
 
+ **5\. Legal Disclaimer**
 
-  3. ******Use of Your Information by Fusion**
+Though we make every effort to preserve user privacy, GMG may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on GMG or affiliates. If we’re going to turn over information related to you, we will use commercially reasonable efforts to provide you with advance notice, unless we are prohibited from doing so by law or court order.
 
+ **6\. Information Security**
 
+GMG has technical, administrative and physical safeguards in place to help protect against unauthorized access to, use or disclosure of user information we maintain. Under our security practices and , access to personally identifiable information is authorized only for those who have a business need for such access, and sensitive records are to be retained only as long as necessary for business or legal needs and destroyed before disposal. Although we work hard to protect personal information that we collect and store, no program is one hundred percent secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use or disclose personal information.
 
-Fusion will be the data controller for your information. Along with Fusion, other Fusion Entities, which include ABC News Ventures LLC and Univision Networks & Studios, Inc., will have access to your information, unless prohibited under applicable law, for the following purposes:
+If you become aware of a security issue, please email us at legal [at] gizmodomedia [dot] com. We will work with you to address any problems.
 
-  * Provide you with the products and services you request
-  * Communicate with you about your newsletter subscription with us and send you information about features on our sites and applications or changes to our policies
-  * Consistent with local law and choices and controls that may be available to you: 
-    * Send you offers and promotions for our products and services or third-party products and services
-    * Personalize content and experiences on our sites and applications
-    * Provide you with advertising based on your activity on our sites and applications and on third-party sites and applications. To learn more about how we use your information for personalization and tracking, please visit Online Tracking and Advertising _[link to Online Tracking and Advertising page]_.
-  * Optimize or improve our products, services and operations
-  * Detect, investigate and prevent activities that may violate our policies or be illegal
+ **7\. Notification of Changes**
 
+Whenever GMG changes its privacy policy, we will post those changes to this Privacy Policy page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The prior version of our Privacy Policy is found [here](https://legal-supplemental.kinja.com/privacy-policy-1750920278) (the version before that is found [here](https://legal-supplemental.kinja.com/privacy-policy-90190742)) and more on why we’ve made the most recent changes [here](https://legal.kinja.com/privacy-policy-update-explainer-1793095053). You are responsible for reviewing and becoming familiar with any changes to this agreement.
 
-  4. ******Sharing Your Information with Other Companies**
+ **8\. Contact Information**
 
+If you have any questions or suggestions regarding our privacy policy, please contact legal [at] gizmodomedia [dot] com, or by mail to Legal Department, 114 Fifth Avenue, 2nd Floor, New York, NY, 10011.
 
+ **9\. Last Update**
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. We will not share your personal information __ outside the Fusion Entities except in limited circumstances, including:
+This Privacy Policy was most recently updated on March 24, 2017, to reflect changes to our contact information, as well as the use of Stripe as a payment processor. Previously, it was edited on September 14, 2016 and September 16, 2016 to reflect changes to our ownership.
 
-  * When you allow us to share your personal information with another company, such as: 
-    * Directing us to share your personal information with third-party sites or platforms, such as social networking sites
-
-
-
-Please note that once we share your personal information with another company, the information received by the other company becomes subject to the other company’s privacy practices.
-
-  * When companies perform services on our behalf, like sending newsletters and customer service; however, these companies are prohibited from using your personal information for purposes other than those requested by us or required by law and are authorized to use your personal information only as necessary to provide these services to us.
-  * Some of our pages utilize framing techniques to serve content to you from our partners while preserving the look and feel of our site. Please be aware that you are providing your personal information to these third parties and not to [http://fusion.net](http://fusion.net/).
-
-
-  5. ******Legal Disclaimer**
-
-
-
-We may also disclose your personal information:
-
-  * as required by law, such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
-  * if Fusion is involved in a merger, acquisition, or sale of all or a portion of its assets, in which case you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information
-  * to any other third party with your prior consent to do so.
-
-
-  6. **** **Your Controls and Choices**
-
-
-
-We provide you the ability to exercise certain controls and choices regarding our collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
-
-  * You may change your choices for subscriptions, newsletters and alerts
-  * You may choose whether to receive from us offers and promotions for our products and services, or products and services that we think may be of interest to you
-  * You may choose whether we share your personal information __ with other companies so they can send you offers and promotions about their products and services
-  * You may choose whether to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers [here](http://www.aboutads.info/)
-  * You may request access to the personal information we hold about you and that we amend or delete it and we request third parties with whom we have shared the information do the same
-
-
-
-You may exercise your controls and choices, or request access to your personal information. If your: (i) personal information changes, (ii) if you no longer desire to receive our newsletters, or (iii) if you want to correct, update, amend, delete, or asked to be removed from a public forum, directory or testimonial, if applicable, on our site, you can do so by contacting Website Services ([website.services@fusion.net](mailto:website.services@fusion.net)). We will respond to your request to access within 30 days.
-
-We will retain your information for the length of time needed to fulfill the purposes outlined in this privacy policy unless a longer retention period is required by law. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please be aware that, if you do not allow us to collect personal information from you, we may not be able to deliver certain products and services to you, and some of our services may not be able to take into account your interests and preferences. If you have questions regarding the specific personal information about you that we process or retain, please contact Website Services .
-
-If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at Website Services .
-
-  7. ******Online Tracking Technologies**
-
-
-  * Technologies such as: cookies, first and third party identifiers, beacons, tags and scripts are used by Fusion and our partners (e.g. marketing partners, advertising partners), affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. For example, certain Google Analytics Advertising Features are implemented on our site.
-
-
-
-******** We use cookies to remember users’ settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
-
-  * We may use Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 or Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
-
-
-  * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
-
-
-
-******** We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, and/or site functionality.
-
-  8. ******Advertising**
-
-
-
-We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
-
-  9. ******Data Security and Integrity**
-
-
-
-The security, integrity and confidentiality of your information are extremely important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. We have implemented technical, administrative and physical security measures that are designed to protect user information from unauthorized access, disclosure, use and modification. From time to time, we review our security procedures to consider appropriate new technology and methods. Please be aware that, despite our best efforts, no security measures are perfect or impenetrable, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
-
-  10. ******Links to 3** **rd** **Party Sites**
-
-
-
-Our site and applications __ may contain links to other sites not owned or controlled by us and we are not responsible for the privacy practices of those sites. We encourage you to be aware when you leave our sites or applications and to read the privacy policies of other sites that may collect your personal information .
-
-  11. ******Blog/Forum**
-
-
-
-Our blog is managed by a third party application that may require you to register to post a comment. We do not have access to or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy.
-
-  12. ******Social Media Features Widgets**
-
-
-
-Our Web site includes social media features, such as the Facebook Like button and widgets, the Share this button or interactive mini-programs that run on our Web site (“Features”). These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
-
-If you choose to use our “Share the Wealth” feature, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Fusion does not store this information.
-
-  13. **** **Changes to this Privacy Policy**
-
-
-
-From time to time, we may change this privacy policy to accommodate new technologies, industry practices, regulatory requirements or for other purposes. We will provide notice to you if these changes are material and, where required by applicable law, we will obtain your consent prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-  14. **** **Comments and Questions**
-
-
-
-If you have a comment or question about this privacy policy, please contact Website Services .
-
-Notice to California Residents:
-
-If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Fusion to third parties for the third parties’ direct marketing purposes. To make such a request, please send an email to [privacy@fusion.net](mailto:privacy@fusion.net) or write us:
-
-CA Privacy Rights  
-Fusion  
-8551 NW 30th Terrace
-
-Doral, FL 33122
-
-  
-**Definitions**
-
-Aggregate Information. Aggregate information means information about groups or categories of users, which does not identify and cannot reasonably be used to identify an individual user.
-
-Anonymous Information. Anonymous information means information that does not directly or indirectly identify, and cannot reasonably be used to identify, an individual user.
-
-Application. Application means a program or service operated by us (or on our behalf) that may be displayed on various online, mobile or other platforms and environments, including those operated by third parties, which permits us to interact directly with our users.
-
-Data Controller. The data controller is Fusion Media Network, LLC 8551 NW 30th Terrace, Doral, FL 33122 [website.services@fusion.net](mailto:website.services@fusion.net)
-
-Data Processor. A data processor is a person or entity that processes personal information on behalf of a data controller (or data controllers) and is permitted to perform data processing only as directed by the data controller(s).
-
-Fusion Entities. The Fusion Entities refers to: Fusion Media Network, LLC; ABC News Ventures LLC; and Univision Networks & Studios, Inc.
-
-IP address. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. We may use IP addresses to collect information regarding the frequency with which our users visit various parts of our sites and applications, and we may combine IP addresses with personal information.
-
-Notice. Notice may be by email to you at the last email address you provided us, by posting notice of such changes on our sites and applications, or by other means, consistent with applicable law.
-
-Parents. Parents means a parent or legal guardian.
-
-Personal information. Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When anonymous information is directly or indirectly associated with personal information, this anonymous information also is treated as personal information.
-
-Public Forums. Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social community environments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by us or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact Website Services.
-
-`  
-**Website Services Contact Information**
-
-Website Services
-
-Fusion
-
-8551 NW 30th Terrace, Doral, FL 33122
-
-United States of America
-
-Send an email to Website Services at [website.services@fusion.net](mailto:website.services@fusion.net)
-
-If you believe that Fusion not responded to your inquiry or your inquiry has not been satisfactorily addressed, you may contact the United States Federal Trade Commission through its online consumer complaint form available [here](https://www.ftccomplaintassistant.gov/).
-
-(Back)
-
-This Privacy Policy was last modified on the date indicated above and is effective immediately.
+This discussion is closed
