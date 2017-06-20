@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prizeo.com privacy policy that was archived on 2016-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108022908id_/https%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prizeo.com privacy policy that was archived on 2017-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170620123017id_/https%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="js"><!--<![endif]--><head>
     
@@ -19,7 +19,6 @@
 	<link rel="dns-prefetch" href="//seal.verisign.com">
 	<link rel="dns-prefetch" href="//twitter.com">
 	<link rel="dns-prefetch" href="//pinterest.com">
-	<link rel="dns-prefetch" href="//blog.prizeo.com">
 	<link rel="dns-prefetch" href="//cdn.mxpnl.com">
 	<link rel="dns-prefetch" href="//mixpanel.com">
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -46,7 +45,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta id="viewport" name="viewport" content="width=1100">
 <meta name="author" content="Prizeo">
-<meta name="keywords" content="raffle, charity, celebrity, donation, prize, winner, once-in-a-lifetime experience, prizeo">
+<meta name="keywords" content="raffle, charity, celebrity, donation, prize, winner, once-in-a-lifetime experience, prizeo, ">
+
 
 
     
@@ -62,8 +62,8 @@
 
 
 
-<link rel="shortcut icon" type="image/png" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/favicon.png?v=273306">
-<link rel="apple-touch-icon" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/apple-touch-icon.png?v=273306">
+<link rel="shortcut icon" type="image/png" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/favicon.png?v=637535">
+<link rel="apple-touch-icon" href="//d1oc2d5bw2auvq.cloudfront.net/assets/images/apple-touch-icon.png?v=637535">
 
 
 <link href="//fonts.googleapis.com/css?family=Oswald:700,400,300&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
@@ -71,11 +71,12 @@
 
 
 
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/plugins/ladda.css?v=273306">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/normalize.css?v=273306">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/bootstrap/bootstrap.css?v=273306">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/main.min.css?v=273306">
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/font-awesome.min.css?v=273306" "="">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/plugins/ladda.css?v=637535">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/normalize.css?v=637535">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/bootstrap/bootstrap.css?v=637535">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/plugins/selectize.bootstrap3.css?v=637535">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/main.min.css?v=637535">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/font-awesome.min.css?v=637535">
 
 
 
@@ -101,15 +102,24 @@
     };
 
     var cfg = {
+            organization: 'Prizeo',
+
+            isTest : false,
             origin : "www.prizeo.com/privacy-policy",
             page : "privacy-policy",
             url : {
                 assets : "//d1oc2d5bw2auvq.cloudfront.net/assets/",
-                assetsVersion : "?v=273306",
+                assetsVersion : "?v=637535",
                 signIn : "https://www.prizeo.com/sign-in/email?originUrl=%2Fprivacy-policy",
                 signOut : "/sign-out?originUrl=%2Fprivacy-policy",
-                timelineTail: "/prizes/tail",
-                failedPaymentAttempt: "/api/v1/logFailedPaymentAttempt"
+                timelineTail: "/past-campaigns/tail",
+                failedPaymentAttempt: "/api/v1/logFailedPaymentAttempt",
+
+                legal: {
+                    tos: "/terms-of-service",
+                    privacy: "/privacy-policy",
+                    sweepstakes: "/sweepstakes-official-rules"
+                }
             },
             app : {
                 analytics : {
@@ -131,7 +141,7 @@
                 linkUrl : "https://www.prizeo.com/facebook/connect?originUrl=%2Fprivacy-policy",
                 callbackLinkUrl : "https://www.prizeo.com/facebook/callback-connect?originUrl=%2Fprivacy-policy",
                 facebookTokenInBackend:  null ,
-                facebookGraph: 'https://graph.facebook.com/v2.2'
+                facebookGraph: 'https://graph.facebook.com/v2.8'
             },
             whitelabel : {
                 companyName: 'Prizeo'
@@ -149,8 +159,8 @@
                 signInSubmit: "https://www.prizeo.com/sign-in/email"
             },
             images: {
-                paypal: "//d1oc2d5bw2auvq.cloudfront.net/assets/images/ico/icon-paypal.png?v=273306",
-                cards: "//d1oc2d5bw2auvq.cloudfront.net/assets/images/ico/icon-cards.svg?v=273306"
+                paypal: "//d1oc2d5bw2auvq.cloudfront.net/assets/images/ico/icon-paypal.png?v=637535",
+                cards: "//d1oc2d5bw2auvq.cloudfront.net/assets/images/ico/icon-cards.svg?v=637535"
             },
             api: {
                 v1_users_me: 'https://www.prizeo.com/api/v1/users/me'
@@ -264,6 +274,18 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <style>
 
     
+
+        .wl-bg-secondary-color {
+            background-color: #00aaee;
+        }
+
+        .wl-secondary-color {
+            color: #00aaee;
+        }
+
+        .wl-secondary-text-color {
+            color: #fff;
+        }
 
         .wl-header-color {
             background: #313030;
@@ -618,10 +640,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
             background: #454545;
         }
 
-        div.legal-footer {
-            background-color: #f6f6f6;
-        }
-
         div.time-left-indicator {
             background-color: #ffffff;
         }
@@ -641,6 +659,14 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
         .checkout .payment-terms,  .checkout .page-bottom-filler {
             background-color: #fff;
+        }
+
+        .pager {
+            border-bottom-color: #008ec3;
+        }
+
+        .pager:hover {
+            box-shadow: 0px 0px 25px rgba(0,170,238,0.8);
         }
 
     
@@ -674,6 +700,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 <div class="modal-inner-content">
                     
 
+
+
 <script>
     cfg.origin = "/privacy-policy";
 
@@ -681,16 +709,18 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
     var twitterConnectUrl = "https://www.prizeo.com/twitter/connect?originUrl=%2Fprivacy-policy";
     cfg.twitter ? cfg.twitter.connect = twitterConnectUrl : cfg.twitter = {connect: twitterConnectUrl};
+
+    cfg.connectEmail = false;
 </script>
 
 <div class="row-old row-main auth-forms">
 
     <div class="form-login">
 
-        <section id="connect" class="grid-5 to-center collapsible active" style="display: none;">
+        <section class="js-connect grid-5 to-center collapsible active" style="display: none;">
 
             <h2 id="form-login-heading" class="title-with-lines">
-                <span class="js-signup-only hidden">Sign up to Prizeo</span>
+                <span class="js-signup-only hidden">Create your account</span>
                 <span class="js-signin-only ">Sign in to Prizeo</span>
             </h2>
 
@@ -707,8 +737,10 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
     
 
-                <p class="center js-signup-only hidden">or <a class="pointer" data-toggle="collapsible" data-target="#emailSignUp">with your email address.</a></p>
-                <p class="center js-signin-only ">or use <a data-toggle="collapsible" data-target="#email-section" id="email-sign-in">your email address</a></p>
+                <p class="center js-signup-only hidden">or <a class="pointer js-email-sign-up" data-toggle="collapsible" data-target=".js-emailSignUp">with your email address.</a></p>
+                <p class="center js-signin-only ">
+                    or use <a class="js-email-sign-in" data-toggle="collapsible" data-target=".js-email-section">your email address</a>
+                </p>
             
 </div>
 
@@ -726,10 +758,10 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 
             </p>
         </section>
-        <section id="email-section" class="collapsible" style="display: none;">
+        <section class="js-email-section collapsible" style="display: none;">
 
             <h2 id="form-login-heading" class="title-with-lines">
-				Sign in using email
+                Sign in using email
             </h2>
 
             <form action="https://www.prizeo.com/sign-in/email" method="post" class="grid-5" id="email-form-signin">
@@ -743,27 +775,29 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 <p>
                     <label for="sign-email">Your e-mail address</label>
                     <span class="inp-fix">
-                        <input type="email" placeholder="E-mail" id="sign-email" name="email" value="" class="inp-text email-check-spelling">
+                        <input type="email" placeholder="E-mail" name="email" value="" class="inp-text email-check-spelling js-sign-email">
                     </span>
                     <span class="email-validation-result"></span>
                     <span class="inp-error small hidden"></span>
                 </p>
                 <p>
                     <label for="sign-pass">Your password</label>
-                    <input type="password" placeholder="Password" id="sign-pass" name="password" class="inp-text">
+                    <span class="inp-fix">
+                        <input type="password" placeholder="Password" name="password" class="inp-text js-sign-pass">
+                    </span>
                     <span class="inp-error small hidden"></span>
                 </p>
                 </div>
 
                 <p>
-                    <button id="email-signin-submit" disabled="" class="btn btn-secondary btn-auth js-email-signin-button ladda-button js-enable-onload" data-style="slide-down"><span class="ladda-label">Sign in</span></button>
+                    <button disabled="" class="btn btn-secondary btn-auth js-email-signin-button ladda-button js-enable-onload" data-style="slide-down"><span class="ladda-label">Sign in</span></button>
                 </p>
                 <p class="center mt20">
-                    <a class="pointer" data-toggle="collapsible" data-target="#connect">Go back</a>
+                    <a class="pointer" data-toggle="collapsible" data-target=".js-connect">Go back</a>
                 </p>
                 <hr>
                 <p class="center">
-                    Don't have an account yet? <a id="sign-in-join" class="pointer" data-toggle="collapsible" data-target="#emailSignUp">Join</a>
+                    Don't have an account yet? <a id="sign-in-join" class="pointer" data-toggle="collapsible" data-target=".js-emailSignUp">Join</a>
                 </p>
                 <hr>
                 <p class="center smaller mt20">
@@ -771,9 +805,9 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 </p>
             </form>
         </section>
-        <section id="emailSignUp" class="collapsible" style="display: none;">
+        <section class="collapsible js-emailSignUp" style="display: none;">
             <h2 class="title-with-lines">
-            Create your account
+                Create your account
             </h2>
 
             <form class="form-signup form-login grid-5" method="post" action="https://www.prizeo.com/sign-up/email" id="email-form-signup">
@@ -783,20 +817,17 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                 <input type="hidden" name="originUrl" value="/privacy-policy">
 
                 <div class="std-box-form">
-                    
-                    <p class="form-row firstname l">
+                    <p class="form-row firstname">
                         <label for="sign-firstNames">First name</label>
                         <span class="inp-fix">
-                            
                             <input type="text" placeholder="First name" id="sign-firstNames" name="firstNames" value="" class="inp-text">
                         </span>
                         <span class="inp-error small hidden"></span>
                     </p>
 
-                    <p class="form-row surname r">
+                    <p class="form-row surname">
                         <label for="sign-surname">Last name</label>
                         <span class="inp-fix">
-                            
                             <input type="text" placeholder="Last name" id="sign-surname" name="surname" value="" class="inp-text">
                         </span>
                         <span class="inp-error small hidden"></span>
@@ -808,13 +839,13 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                         <label for="sign-email">E-mail</label>
 
                         <span class="inp-fix">
-                            
                             <input type="email" placeholder="E-mail" id="sign-email" name="email" value="" class="inp-text email-check-spelling">
                         </span>
                         <span class="email-validation-result"></span>
                         <span class="inp-error small hidden"></span>
+
+                        
                     </p>
-                    
 
                     <p class="form-row">
                         <label for="sign-password">Password</label>
@@ -838,8 +869,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                     <button type="submit" id="email-signup-submit" class="btn btn-secondary btn-auth js-email-signup-button ladda-button js-enable-onload" disabled="" data-style="slide-down"><span class="ladda-label">Create account</span></button>
                 </p>
                 <hr>
-                <p class="center mt20 js-signup-only hidden"><a class="pointer" data-toggle="collapsible" data-target="#connect">Go back</a></p>
-                <p class="center mt20 js-signin-only "><a class="pointer" data-toggle="collapsible" data-target="#email-section">Go back</a></p>
+                <p class="center mt20 js-signup-only hidden"><a class="pointer" data-toggle="collapsible" data-target=".js-connect">Go back</a></p>
+                <p class="center mt20 js-signin-only "><a class="pointer" data-toggle="collapsible" data-target=".js-email-section">Go back</a></p>
                 <hr>
                 <p class="terms">
                 
@@ -852,6 +883,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         </section>
     </div>
 </div>
+
+
 
                 </div>
             </div>
@@ -872,8 +905,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
             <p id="logo">
                 <a href="/">
                     
-                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-symbol.png?v=273306" alt="prizeo logo" width="71" height="79" class="logo">
-                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-prizeo.png?v=273306" alt="Win lifetime experiences with prizeo" width="105" height="50" class="text">
+                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-symbol.png?v=637535" alt="prizeo logo" width="71" height="79" class="logo">
+                        <img src="//d1oc2d5bw2auvq.cloudfront.net/assets/images/logo-prizeo.png?v=637535" alt="Win lifetime experiences with prizeo" width="105" height="50" class="text">
                     
                 </a>
             </p>
@@ -897,9 +930,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                             <li><a href="/" ""="">Home</a></li>
                         
                         
-                            <li><a href="/prizes" ""="">Campaigns</a></li>
-                        
-                        
                             <li><a href="/about" ""="">How it works</a></li>
                         
                     </ul>
@@ -911,9 +941,6 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         <ul class="reset">
             
                 <li><a href="/" ""="">Home</a></li>
-            
-            
-                <li><a href="/prizes" ""="">Campaigns</a></li>
             
 
             
@@ -982,18 +1009,31 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
                     <a title="How it works" href="/about">How it works</a>
                 </li>
                 
+                
+                <li>
+                    <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
+                    <a href="/past-campaigns">Past campaigns</a>
+                </li>
+                
                 <li>
                     <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
                     <a title="FAQ" href="/faq">FAQ</a>
                 </li>
                 <li>
                     <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
-                    <a title="Blog" href="http://blog.prizeo.com" target="_blank">Blog</a>
+                    <a title="Contact Us" href="/contact-us">Contact Us</a>
+                </li>
+
+                
+                <li>
+                    <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
+                    <a title="Launch a Campaign" href="/partners">Launch a Campaign</a>
                 </li>
                 <li>
                     <div class="arrow-wrap wl-footer-arrow"><div class="horizontal"></div><div class="top"></div><div class="bottom"></div></div>
-                    <a title="Contact us" href="/contact-us">Contact us</a>
+                    <a title="Job postings" target="_blank" href="https://charitynetwork.com/jobs/?utm_medium=prizeo-footer">Jobs</a>
                 </li>
+                
             </ul>
         </div>
     </div>
@@ -1004,7 +1044,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
         
 
-            <p>Copyright © 2016 Prizeo | Once-in-a-lifetime experiences and sweepstakes for cause</p>
+            <p>Copyright © 2016 Prizeo. All rights reserved.  | Once-in-a-lifetime experiences and sweepstakes for cause</p>
         
     </div>
 
@@ -1018,11 +1058,11 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
     
 
-<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="7dcf2ac1413e2d3925d50ee1b3d61328" data-appversion="2.0-c97abed8b1aacafcfff75ae145fa4c6c651cca2c-1478273306"></script>
+<script src="//d2wy8f7a9ursnm.cloudfront.net/bugsnag-2.min.js" data-apikey="7dcf2ac1413e2d3925d50ee1b3d61328" data-appversion="2.0-8c56e417cbb4e8160a94d18bd1e3e01d13f4eb81-1497637535"></script>
 
 <script>
 	Bugsnag.releaseStage = "production";
-	Bugsnag.metaData = {request: {sessionId: "7e14adee-326b-4db3-be34-66d9dfdaa3e5"}};
+	Bugsnag.metaData = {request: {sessionId: "6c3b73ed-4778-4e16-aa3f-6c3b93ddf7d6"}};
 </script>
 
 
@@ -1056,11 +1096,13 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
     }
 
     cfg.mixpanel_options = {
+		
         "Campaign Name": cfg.raffle ? cfg.raffle.name : '',
         campaign: '',
         url: window.location.pathname,
         mobile: cfg.mobile,
-        'Page Title': document.title
+        'Page Title': document.title,
+        loggedIn: cfg.app.isUserSignedIn
     };
 
     cfg.mixpanelTrackWithOptions = function (event, extra_options, callback) {
@@ -1157,8 +1199,8 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 
 
-<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/polyglot.js?v=273306"></script>
-<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/messages.en.js?v=273306" type="text/javascript"></script>
+<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/polyglot.js?v=637535"></script>
+<script src="//d1oc2d5bw2auvq.cloudfront.net/assets/javascripts/messages.en.js?v=637535" type="text/javascript"></script>
 
 
 
@@ -1167,7 +1209,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 <script>
     require = {
-        urlArgs: 'v=273306',
+        urlArgs: 'v=637535',
         waitSeconds: 180
     };
 </script>
@@ -1206,7 +1248,7 @@ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 
 
 
-<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/jquery.fancybox.css?v=273306">
+<link rel="stylesheet" type="text/css" href="//d1oc2d5bw2auvq.cloudfront.net/assets/stylesheets/jquery.fancybox.css?v=637535">
 
 
 
