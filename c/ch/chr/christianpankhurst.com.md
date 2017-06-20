@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpankhurst.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629033655id_/http%3A//heartiq.com/node/36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpankhurst.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621003102id_/http%3A//heartiq.com/node/36) for the most accurate reproduction.*
 
 # Privacy Policy | Heart IQ Network
 
