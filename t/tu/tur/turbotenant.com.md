@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the turbotenant.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106124412id_/https%3A//www.turbotenant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotenant.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620143240id_/https%3A//www.turbotenant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Last modified: October 1, 2015
+Last modified: March 9, 2017
 
  **Introduction**
 
@@ -144,7 +144,7 @@ We may also disclose your personal information:
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   *  **Tracking Technologies and Advertising.** You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  *  **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing s. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to[optout@turbotenant.com](mailto:%20optout@turbotenant.com).
+  *  **Disclosure of Your Information for Third-Party Advertising.** If you do not want us to share your personal information with unaffiliated or non-agent third parties for promotional purposes, you can opt-out by emailing s. You can also always opt-out by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes or by sending us an e-mail stating your request to [optout@turbotenant.com](mailto:%20optout@turbotenant.com).
   *   **Promotional Offers from the Company.** If you do not wish to have your e-mail address and/or other contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by emailing optout@turbotenant.com If we have sent you a promotional e-mail, you may send us a return e-mail asking to be omitted from future e-mail distributions. This opt out does not apply to information provided to the Company through its Interactive Services provided on its platform.
   *   **Targeted Advertising.** If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our actual or potential advertisers’ target-audience preferences, you can opt-out by emailing [optout@turbotenant.com](mailto:optout@turbotenant.com)
 
@@ -158,7 +158,7 @@ If you live or access this site in California, California Civil Code Section § 
 
  **Data Security**
 
-Most if not all of the information you provide is provided to third party providers using the Interactive Services contained on our Website in a platform.  As we are not collecting the data, we DO NOT implement measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure.
+Most if not all of the information you provide is provided to third party providers using the Interactive Services contained on our Website in a platform.  As we are not collecting the data, we DO NOT implement measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
 
 The safety and security of your information also depends on you. Where we have given you or where you have chosen a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website through User Contributions. The information you share in public areas may be viewed by any user of the Website.
 
@@ -174,5 +174,5 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 TurboTenant, LLC  
 Attn: Legal Department  
-242 Linden St.  
+236 Linden St., Suite B  
 Fort Collins, CO 80524
