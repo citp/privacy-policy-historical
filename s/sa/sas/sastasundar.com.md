@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121003826id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620033259id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy-policy) for the most accurate reproduction.*
 
-# SastaSundar: Online Pharmacy | Order Medicine Online | Genuine Medicine
+# Order Genuine Medicine, Best Online Pharmacy in India - SastaSundar.com
 
-This Privacy Policy relates solely to the user information collected by us and how that information is treated on our website, www.sastasundar.com. We recognize that many visitors and users of “SastaSundar.com” are concerned about the information they provide to us and how we use that information. This Privacy Policy has been developed to address those concerns. At www.sastasundar.com, we respect your privacy and take reasonable measures to protect your personal information and other details that you share with us.
+This Privacy Policy relates solely to the user information collected by us and how that information is treated on our website, www.sastasundar.com. We recognize that many visitors and users of “Sastasundar.com” are concerned about the information they provide to us and how we use that information. This Privacy Policy has been developed to address those concerns. At www.sastasundar.com, we respect your privacy and take reasonable measures to protect your personal information and other details that you share with us.
 
 ANY ACCESS OR USE OF THIS WEBSITE (WWW.SASTASUNDAR.COM) WOULD MEAN THAT YOU HAVE READ, UNDERSTOOD AND AGREED TO ADHERE TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS AND CONDITIONS.
 
@@ -103,7 +103,7 @@ We may disclose your personal, medical and other information if required to do s
 
 We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law.
 
-We will transfer information about you if  **Microsec Health Buddy Limited**  is acquired by or merged with another company.
+We will transfer information about you if  **Sasta Sundar Shop Private Limited**  is acquired by or merged with another company.
 
 **c)** Business Transfers
 
@@ -175,7 +175,7 @@ If you would like to have some or all of your Personally Identifiable Informatio
 
 
 
-Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website, SastaSundar.com that are placed by third parties.
+Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website, Sastasundar.com that are placed by third parties.
 
 WE DO NOT CONTROL THE USE OF COOKIES BY THIRD PARTIES.
 
@@ -183,27 +183,27 @@ WE DO NOT CONTROL THE USE OF COOKIES BY THIRD PARTIES.
 
 A "web beacon" is an electronic image placed in the code of a web page. We use web beacons to monitor the traffic patterns of users from one page to another and to improve site performance.
 
-Periodically, SastaSundar.com may, at random, record user sessions to help improve the onsite experience of our visitors. We do not record your personal information during these sessions.
+Periodically, Sastasundar.com may, at random, record user sessions to help improve the onsite experience of our visitors. We do not record your personal information during these sessions.
 
   
 
 
 ## SECURITY OF PERSONALLY IDENTIFIABLE INFORMATION
 
-SastaSundar.com has rigorous security measures in place to protect the loss, misuse and modification of your Personally Identifiable Information. We always provide you the use of a secure server that only selected personnel and contractors can access and thus, track all your account accesses and modifications.
+Sastasundar.com has rigorous security measures in place to protect the loss, misuse and modification of your Personally Identifiable Information. We always provide you the use of a secure server that only selected personnel and contractors can access and thus, track all your account accesses and modifications.
 
 However, no data transmission over the Internet is absolutely safe and secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us. You transmit any information over the Internet solely at your own risk.
 
 We would also like to request you to keep your user name, password and other personal information confidential to protect your account against unauthorized access.
 
-Always remember, SastaSundar.com customer service representatives will never request you for your password.
+Always remember, Sastasundar.com customer service representatives will never request you for your password.
 
   
 
 
 ## PRIVACY POLICY FOR THIRD PARTY SERVICE PROVIDERS
 
-At present, we use third-party advertising companies or service providers to serve advertisements on our website, www.sastasundar.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to SastaSundar.com and other websites in order to provide advertisements about goods and services that you may find interesting and rewarding.
+At present, we use third-party advertising companies or service providers to serve advertisements on our website, www.sastasundar.com. These companies may use information (not including your name, address, email address, or telephone number) about your visits to Sastasundar.com and other websites in order to provide advertisements about goods and services that you may find interesting and rewarding.
 
 We may work with other companies in the future who may also place cookies or web beacons on our website. These companies will help us operate our website and also provide you additional information on varied products and services.
 
