@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bevhillsmd.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022114456id_/http%3A//beverlyhillsmd.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevhillsmd.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620165800id_/http%3A//beverlyhillsmd.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Beverly Hills MD
 
-Thank you for visiting the Beverly Hills MD website (the “Site”). Please review the this Privacy Policy (the “Policy” or “Policies”) carefully. We value the importance of your trust and therefore have set forth these policies to better explain how Beverly Hills MD, LLC. (collectively, “Beverly Hills MD, LLC.”, “Us”, “We”, or “Our”) collect, protect, and use your information. The information that we collect may be used as part by us including but not limited to, our Company websites, web pages, advertisements, social media, and the Site. 
+Thank you for visiting the Beverly Hills MD website (the “Site”). Please review the this Privacy Policy (the “Policy” or “Policies”) carefully. We value the importance of your trust and therefore have set forth these policies to better explain how Beverly Hills MD, LLC. (collectively, “Beverly Hills MD”, “Us”, “We”, or “Our”) collect, protect, and use your information. The information that we collect may be used as part by us including but not limited to, our Company websites, web pages, advertisements, social media, and the Site. 
 
 By using the Site you irrevocably accept these Policies. If you do not agree with the Policies address herein, then you do not have the right to access, view, download, purchase products, or use the Site and therefore, should not do so. 
 
@@ -34,11 +34,15 @@ If you do not wish to receive our newsletters, product promotions, or any relate
 
 \- SECURITY - 
 
-We value your security concerns and appreciate the importance of your trust. We strive to maintain reasonable safeguards to protect user’s Personal Information against loss, unauthorized use and or disclosure or Personal information, and when transferring information when processing your order. 
+We value your security concerns and appreciate the importance of your trust. We strive to maintain reasonable safeguards to protect your personal Information against loss, unauthorized use and or disclosure or personal information, and when transferring information when processing your order. 
 
-All orders are processed through Network Merchants, LLC. The personally identifiable information Network Merchants, LLC acquires in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using their payment services. It may include, for example, the amount of the transaction, the consumer's name, credit card number and expiration date, checking account number, billing address, and shipping address
+We do not sell, trade, or otherwise transfer to outside parties your Personal Information unless we provide you with advance notice. This does not include website hosting partners and other third parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when its release is appropriate to comply with the law, enforce our website policies, or protect ours or others' rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
 
-Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personally identifiable consumer information is used to process payment transactions and for no other purpose.
+Our Site’s payment gateway is hosted by 1ShoppingCart.com. 1ShoppingCart.com has access to aggregate data about our customers in order to assist 1ShoppingCart.com in analyzing Site performance and making improvements to 1ShoppingCart.com products. 
+
+In addition, all orders are processed through Network Merchants, LLC. The personally identifiable information Network Merchants, LLC acquires in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using their payment services. It may include, for example, the amount of the transaction, the consumer's name, credit card number and expiration date, checking account number, billing address, and shipping address.
+
+Network Merchants, LLC uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. Personal consumer information is used to process payment transactions and for no other purpose. 
 
 Network Merchants, LLC stores transaction information on secure computers located in a locked data center. Only a small number of employees involved in the management of the data center have physical access to these computers. Where possible, Network Merchants, LLC encrypts information stored on their computers as a further measure of protection. Network Merchants, LLC uses state-of-the-art firewalls and other security technology to prevent their computers from being accessed by unauthorized persons. Information security is critical to our business. Nevertheless, nothing can be 100% secure. We cannot ensure or warrant the security of any information you transmit to us.
 
@@ -57,12 +61,24 @@ You consent to receive e-mails, pre-recorded voice messages and/or autodialed ca
 Beverly Hills MD may obtain, and you expressly agree to be contacted at, e-mail addresses, mailing or shipping addresses and phone numbers provided by you directly or obtained through other lawful means, such as skip tracing. You agree to provide Beverly Hills MD notice within 30 days of any change to your contact information by writing to 
 
 Attention: Beverly Hills MD Customer Service  
-436 N Bedford Dr. STE 308  
-Beverly Hills, CA 90210
+8383 Wilshire Blvd #800  
+Beverly Hills, CA 90211 
 
 or emailing customersupport@beverlyhillsmd.com. 
 
 Your consent to this communications provision is not required to make any purchase with Beverly Hills MD.
+
+\- CALIFORNIA RESIDENTS -
+
+Many browsers have a “Do Not Track” feature that allows you to tell websites that you do not want to have your online activities tracked. These browser features are not uniform, so we are not currently set up to respond to those features.
+
+Individuals who reside in California and have provided their personal information may request data regarding disclosures of this information to third parties for direct marketing purposes. Such requests may be submitted to us by email at customersupport@beverlyhillsmd.com or at the following mailing address: Attention: Beverly Hills MD Customer Service, 8383 Wilshire Blvd #800, Beverly Hills, CA 90211 
+
+Please outline in your letter or email that you are making a “California Shine the Light” inquiry and we will respond to your inquiry within 30 days.
+
+\- CHILDREN'S PRIVACY -
+
+This Site is not directed to children under the age of thirteen (13). Children may not use our services, and we do not knowingly collect any personal information from children under the age of thirteen (13). We have no way of distinguishing the age of individuals who address our Website. If a child has provided us with personal information, the parent or guardian should contact us to remove the information and opt out of promotional opportunities.
 
 \- NOTICE TO CHANGE OF POLICY - 
 
@@ -77,5 +93,8 @@ To reach us by phone:
 
 customersupport@beverlyhillsmd.com
 
-Beverly Hills Plastic Surgery Group  
-Beverly Hills, CA 90210
+Beverly Hills MD  
+8383 Wilshire Blvd #800  
+Beverly Hills, CA 90211
+
+Effective: 3/14/17
