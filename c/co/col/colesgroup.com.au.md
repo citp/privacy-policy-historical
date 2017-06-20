@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627092637id_/http%3A//www.wesfarmers.com.au/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620074440id_/http%3A//www.wesfarmers.com.au/security-privacy) for the most accurate reproduction.*
 
-# Security & privacy - Wesfarmers
+# Security & privacy
 
 ## Introduction
 
@@ -12,7 +12,7 @@ If we decide to change our Privacy Policy, we will post changes on this page.
 
 ## What types of personal information do we collect?
 
-We only collect personal information if it is necessary for one of our functions or activities. The types of personal information we collect will depend on the reason for collection.  Generally the types of personal information we collect will include name, contact details and records of communications with us. In addition we collect personal information relating to:
+We only collect personal information if it is necessary for one of our functions or activities. The types of personal information we collect will depend on the reason for collection. Generally the types of personal information we collect will include name, contact details and records of communications with us. In addition we collect personal information relating to:
 
   * shareholders: information about the shareholding, banking details and tax file numbers for payment of dividends and other amounts;
   * group company employees where we are providing services for our group companies. The information collected will depend on the services being provided, but may include birthdates and working conditions; health and workers compensation claims information (where we are proving workers compensation self-insurance services); banking and tax file number details (where we are administering our employee group share plan);and, in some limited cases, voluntarily provided ethnic background information (for functions related to our Reconciliation Action Plan);
@@ -74,21 +74,21 @@ We may use cloud computing solutions or data storage located overseas in which c
 
 ## Accessing and correcting your personal information, and complaints and questions
 
-You can request access to your personal information held by us, or request that it be corrected, by contacting us at the address below.  To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. A fee will not be charged for an access request, but you may be charged the reasonable expenses we incur (such as search and copying costs). If we refuse to provide you with access or correct the personal information held about you by us (in accordance with the Privacy Act), then we will provide reasons for such refusal.
+You can request access to your personal information held by us, or request that it be corrected, by contacting us at the address below. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you. A fee will not be charged for an access request, but you may be charged the reasonable expenses we incur (such as search and copying costs). If we refuse to provide you with access or correct the personal information held about you by us (in accordance with the Privacy Act), then we will provide reasons for such refusal.
 
 If you have a question about our Privacy Policy or wish to make a complaint about the way we have collected, used, held or disclosed your personal information, please contact us at the address below. We may need to contact you for further details.
 
 If you wish to make a formal complaint, please make your complaint in writing to our Privacy Officer. We will consider your complaint promptly and contact you to seek to resolve the matter. If we have not responded to you within a reasonable time or if your concerns are not resolved to your satisfaction, you are entitled under the Privacy Act to make a complaint to the Office of the Australian Information Commissioner.
 
-### **Contact:**
+###  **Contact:**
 
-**Wesfarmers Privacy Officer**  
+ **Wesfarmers Privacy Officer**  
 Wesfarmers Limited  
-Level 11, 40 The Esplanade, Perth  WA  6000  
+Level 14, 123 St Georges Terrace, Perth  WA  6000  
 Email: [privacy@wesfarmers.com.au](mailto:privacy@wesfarmers.com.au)   
 Phone: (+61) 8 9327 4211
 
-**Office of the Australian Information Commissioner**  
+ **Office of the Australian Information Commissioner**  
 Website: [www.oaic.gov.au](http://www.oaic.gov.au/)  
 Phone: 1300 363 992.  
 Last updated: March 2014  
