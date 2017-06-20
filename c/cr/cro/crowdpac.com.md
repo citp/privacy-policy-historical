@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the crowdpac.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110140448id_/https%3A//www.crowdpac.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdpac.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621002914id_/https%3A//www.crowdpac.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Crowdpac
 
 We are committed to respecting your privacy and protecting your personal information. We aim to provide you with useful information, not to provide others with your information. We’ve tried to keep this Privacy Policy as simple as possible to explain what information we collect and what we do with that information. Please note, when we refer to our Site, we mean the website [http://www.crowdpac.com](http://www.crowdpac.com/) which is operated by Crowdpac Inc. 
 
-## Personal Information
+**Personal Information**
 
 First of all, Personal Information means information you provide to us that specifically identifies you (such as your name, address, email address, or billing information) and your political positions that is directly linked to personally identifiable information. 
 
 Personal Information does not include aggregate information, which is data we collect about the use of our Site or about a group or category of services or users, from which individual identities or other personal information has been removed. 
 
-## What information we collect
+**What information we collect**
 
 Active Collection: Personal Information may be collected in a number of ways when you visit Crowdpac. We collect certain information you voluntarily provide to us, such as when you fill out a form, create an account or a profile, send us an email, sign-up to receive email or updates, connect through a social feed, make a donation, or request information. Such information may include Personal Information. 
 
@@ -24,7 +24,7 @@ We may also automatically collect certain information through the use of cookies
 
 The Site may contain links to other web sites. Crowdpac is not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our Site and to read the privacy statements of each and every web site that collects personally identifiable information. This Policy applies solely to information collected by our Site. 
 
-## What we do with your information
+**What we do with your information**
 
 We use your Personal Information to give you relevant information. For example, we use your questionnaire responses to give you ‘best matches’ to candidates. Another example is that we use your zip code or your full address to locate the correct electoral districts for you, so we can give you an accurate personalized voting guide. We also use your email address to send you a link to your voting guide and a gentle reminder to vote. We may over time use your email address to let you know about new services on our Site, or information about political issues, candidates and elections that may be of interest to you. 
 
@@ -38,26 +38,26 @@ We do not sell, rent or otherwise share your Personal Information with any third
 
 
 
-## Changing your Personal Information
+**Changing your Personal Information**
 
 Once you are a registered user of our Site, we will provide you with tools and account settings to access, modify and delete the Personal Information you provide to us and which is associated with your account. 
 
-## Minors
+**Minors**
 
 Crowdpac does not knowingly ask for or collect personally identifying information from children under the age of 13. If you become aware that your child has provided Crowdpac with personal information without your consent, please contact us at [feedback@crowdpac.com](mailto:feedback@crowdpac.com). If we become aware that a child under 13 has provided us with personal information, we will take steps to remove such information and terminate the child’s account. 
 
-## Feedback
+**Feedback**
 
 We value your opinions to make our site more useful and relevant. Our feedback link is for you to provide us with feedback, testimonials, suggestions and ideas about our products and services - or you may also provide such content through other means which we’ll call “Responses”. We may use any of your Responses in any way, without obligation to you. 
 
-## Enforcement
+**Enforcement**
 
 The Crowdpac Site is presently limited to users based in the United States, so the privacy laws of the United States govern the use of our Site. 
 
-## Changes to this policy
+**Changes to this policy**
 
 We reserve the right to change the provisions of this Policy at any time. We will make clear that changes have been made by indicating on the Policy the date it was last updated. Unless otherwise stated in the amendment, the amended Policy will automatically be effective seven days after it is initially posted on the Site. We encourage you to review this Policy from time to time to make sure that you understand how any Personal Information you provide will be used. 
 
 Questions or comments regarding your privacy or this Policy should be sent to [feedback@crowdpac.com](mailto:feedback@crowdpac.com). 
 
-Effective date of this version: September 8, 2016 
+_Effective date of this version: September 8, 2016_
