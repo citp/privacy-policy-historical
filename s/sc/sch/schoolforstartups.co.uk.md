@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schoolforstartups.co.uk privacy policy that was archived on 2015-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151125234701id_/http%3A//www.schoolforstartups.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolforstartups.co.uk privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620153811id_/http%3A//schoolforstartups.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | School for Startups
 
@@ -18,7 +18,7 @@ This website and it’s owners use any information submitted to provide you with
 
 ## Use of Cookies
 
-This website uses cookies to better the users experience while visiting the website. You can read our cookie policy [here](http://www.schoolforstartups.co.uk/cookie-policy/)
+This website uses cookies to better the users experience while visiting the website. You can read our cookie policy [here](http://schoolforstartups.dev/cookie-policy/)
 
 Cookies are small files saved to the users computers hard drive that track, save and store  
 information about the users interactions and usage of the website. This allows the website, through it’s server to provide the users with a tailored experience within this website. Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and it’s external serving vendors.
