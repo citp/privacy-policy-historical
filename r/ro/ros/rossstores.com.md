@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rossstores.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809214506id_/https%3A//www.rossstores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rossstores.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620221724id_/https%3A//www.rossstores.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy
 
 Ross Stores, Inc. (" **Ross** ," " **we** ," " **us** ") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your Personally Identifiable Information (as defined below). This Privacy Policy (the " **Policy** ") describes our practices in connection with Personally Identifiable Information that we collect through our web site located at <https://www.rossstores.com/> (the **"Site"** ). This Policy does not address our practices regarding information that we collect through any web site, or by any other means, other than through the Site; nor does this Policy govern the collection, use or disclosure of information by any of our affiliates (collectively, **"Affiliated Entities"** ) or by third parties. 
 
