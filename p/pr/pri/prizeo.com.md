@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizeo.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108022908id_/https%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizeo.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620123017id_/https%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
