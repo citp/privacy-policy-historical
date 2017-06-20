@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xiwz.com privacy policy that was archived on 2016-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160626155652id_/http%3A//buxup.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xiwz.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621010638id_/http%3A//buxup.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # BuxUp | Privacy Policy
 
@@ -102,4 +102,4 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
 If you have questions, comments and requests regarding our privacy policy, please do not hesitate to contact us at info(at)buxup.com.
 
-Last Updated 12.12.2012
+Last Updated 12.01.2017
