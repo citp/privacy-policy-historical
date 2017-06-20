@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wunderkit.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205232802id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wunderkit.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621002308id_/https%3A//www.wunderlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
