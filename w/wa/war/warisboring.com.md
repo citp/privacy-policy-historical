@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warisboring.com privacy policy that was archived on 2015-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151201145352id_/http%3A//warisboring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warisboring.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620235542id_/http%3A//warisboring.com/privacy) for the most accurate reproduction.*
 
 # WAR IS BORING PRIVACY POLICY | War Is Boring
 
