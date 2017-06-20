@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monitis.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228010100id_/http%3A//www.monitis.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monitis.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620113118id_/http%3A//www.monitis.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy – Monitis
 
@@ -178,7 +178,7 @@ The Act gives you the right to access information held about you. Your right of 
 
 ### Changes to our privacy policy
 
-It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes.The date the privacy policy was last revised is identified at the top of the page. 
+It is our policy to post any changes we make to our privacy policy on this page. It is your responsibility to check this page from time to time to check for any change. Your continued use of the Website or our services shall be deemed to be your consent to such changes. The date the privacy policy was last revised is identified at the top of the page. 
 
 ### Contact information
 
