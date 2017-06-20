@@ -1,67 +1,55 @@
-> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224084840id_/http%3A//www.tamaracinc.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamaracinc.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620233826id_/http%3A//tamaracinc.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Tamarac - Legal Notice
 
-Tamarac Inc. ("Tamarac," "we," or "us") takes your right to privacy seriously, and we want you to feel comfortable using the tamaracinc.com and tamaracservices.com websites (the "Sites"). This Privacy Policy deals with personally-identifiable information (referred to as "data" below) that may be collected by or through the Sites or Tamarac. This policy does not apply to other entities that are not owned or controlled by Tamarac, nor does it apply to people that are not employees or agents of Tamarac or that are not under Tamarac's control. In addition to this Privacy Policy, you should read the general [Terms of Use](https://web.archive.org/Legal.aspx) for the Sites. 
+Privacy Policy
 
-Please note that certain details of this Privacy Policy may depend on whether you deal with us through an investment professional or directly as an individual investor. 
+## We Respect Your Privacy
 
-* **Collection of Data**
+Envestnet Asset Management, Inc. and its affiliates including, Envestnet Portfolio Solutions, Inc., Portfolio Management Consultants, Inc., Portfolio Brokerage Services, Inc., Envestnet Retirement Solutions, LLC, Envestnet Financial Technologies, Inc., Oltis Software LLC, Envestnet Institute, Inc. and Tamarac, Inc. (hereinafter collectively known as Envestnet) understand the value you place on maintaining your privacy when it comes to financial matters. That’s why we limit access to customer information to individuals in our organization who need it in order to perform their jobs. Employees who have access to customer information are required to safeguard personal information and keep it confidential. 
 
-We may collect and use personal information about you to service and maintain your account; process transactions in your account; respond to inquiries from you or your investment professional; develop, offer and deliver products and services; or to fulfill legal and regulatory requirements. We may collect public and non-public personal information about you from any of the following sources: 
+You do not have to contact us to benefit from Envestnet’s privacy protections; they apply automatically to all of our current and former customers. 
 
-  * Your investment professional through account databases (for example, name, address, Social Security number, birth date, assets and income); 
-  * Transactional activity in your account (for example, trading history and balances); 
-  * Your or your investment professional's interactions with Tamarac (for example, discussions with our customer service staff or information you post on the Sites); 
-  * You or your investment professional regarding your preferences (for example, your choice of electronic statement delivery or the screen layout you specify); and 
-  * Other sources with your consent or with the consent of your investment professional. 
+#### Security Standards
 
-  
-We will use anonymous log file information to (a) make the Sites better, faster and more robust; (b) monitor statistics relating to the Sites; and (c) police the Sites and enforce the Terms of Use and any other guidelines for usage. 
+We safeguard customer information in accordance with established security procedures. We have implemented physical and electronic safeguards to help protect private information from being intercepted over the Internet. We make extensive use of transmission encryption, firewall barriers and authentication procedures to maintain the security of your online session and to protect Envestnet accounts and systems from unauthorized access. 
 
-The Sites may allow you to leave comments and reviews of your experiences. You choose what information you put in your comments or reviews, if any. You should assume that any personal information or other content that you voluntarily post to any Site will become publicly available and can be accessed and viewed by others. IF YOU CHOOSE TO MAKE ANY OF YOUR PERSONALLY IDENTIFIABLE OR OTHER INFORMATION PUBLICLY AVAILABLE THROUGH THE SITES, YOU DO SO AT YOUR OWN RISK. 
+#### Collecting Information to Serve You
 
-* **Use of Data**
+Envestnet collects information about you to help us provide better customer service, better serve your financial needs, offer new products or services, and fulfill legal and regulatory requirements. The type of information that we collect varies according to the products or services you request, and may include: 
 
-We collect personal information to provide the products and services offered through the Sites and to protect us from harm and our services from loss, theft, misappropriation or other misuse. For example, we may use personal information in the following situations: 
+  * Information included on your Client Profile and related forms (such as name, address, Social Security number, date of birth, assets and income);
+  * Information we receive from you through our Web site or in telephone conversations with you;
+  * Personal information about your account activity, including your transactions, balances, positions and history. This information allows us to administer your account and provide the services that you have requested;
+  * Information from your employer, benefit plan sponsor, or association (such as name, address, Social Security number, age and marital status); and
+  * Placing “cookies” and similar files on your hard drive for security purposes, to facilitate site navigation, and to personalize your experience on our site. We do not use them to pull data from your hard drive, to learn your e-mail address, or view data in cookies created by other websites. We may also collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Web site.
 
-  * Providing the services you request and related customer support; 
-  * Improving and customizing our products and services, including the usability features of the Sites; 
-  * Protecting Tamarac and other users of the Sites against actual or potential fraud, unauthorized claims, loss, theft, misuse and other liabilities; 
-  * Enforcing our Terms of Use and other policies; and 
-  * Providing you with opportunities to provide us with feedback. 
 
-  
-We may retain information collected from closed accounts to comply with law and our agreements with third parties, such as your investment professionals. 
 
-In addition, we may develop, use, distribute and publish information and statistics derived from your data and the content that you contribute to any Site for use on a masked, aggregate basis. This particular use of your data and content will not result in the distribution or publication of any personally identifiable information. 
+In addition to personal information that you provide to us, we may receive information about you that you authorize third parties to provide us. We may also obtain personal information from third parties in order to verify your identity, prevent fraud or to help us identify products and services that may benefit you. 
 
-* **Protection of Data**
+We may use anonymous log file information to (a) make the websites better, faster and more robust; (b) monitor statistics relating to the web-sites; and (c) police the web-sites and enforce the terms of use and any other guidelines for usage. 
 
-We safeguard personal information in accordance with commercially reasonable security measures. We have implemented physical and electronic safeguards to help protect personal information against loss, misuse and interception. We make extensive use of firewall barriers and authentication procedures to maintain the security of your online session and to protect customer accounts and systems from unauthorized access. We also restrict access to personal information to those who require it to develop, support, offer and deliver products and services to you. 
+#### Sharing Information
 
-We will take commercially reasonable steps to prevent your data from being made available to third parties, unless (a) you post the data to a public portion of the Sites or include the data in a public profile; (b) provided for otherwise in this Privacy Policy; (c) your consent is obtained, such as opting-in or opting-out for the sharing of data; (d) a service provided on the Sites requires interaction with a third party or is provided by a third party, such as your investment professional; (e) provided pursuant to legal action or law enforcement; (f) to the extent reasonably necessary to protect Tamarac’s or another user’s legal rights and/or property; or (g) the Sites are purchased by a third party, in which case that third party will be restricted in the use of the data in the same manner as set forth in this Privacy Policy 
+We do not sell personally identifiable information about current or former clients to third parties. We may share customer information with Envestnet corporate affiliates in order to properly service your account. In compliance with federal and state laws, we may disclose some or all of the information we collect about our customers and former customers, as described above, to nonaffiliated businesses such as: 
 
-* **Website Usage**
+  * Companies that perform services for us or on your behalf, including the sub-managers who manage your assets;
+  * Companies that participate in joint marketing activities with us;
+  * Financial services companies (such as your custodian and brokers or dealers) who effect transactions on your behalf;
+  * Other organizations, with your consent or as directed by your representative; and
+  * Companies participating with us in a proposed or actual sale, merger, transfer, or business exchange.
 
-We may use devices known as "cookies," graphic interchange format files (GIFs) or other similar web tools. This allows us to personalize your use of the Sites. These web tools do not identify you by name as an individual or by account number. In order to maximize the functionality and usability of the Sites, you must set your browser’s preferences to allow both permanent and temporary cookies. The Sites also use session (temporary) cookies, which are deleted when you log out of the Sites or browse to a different site. If you do not want to accept these session cookies, you should refer to the instructions for your specific Internet browser. If you do not accept cookies from the Sites, we may not be able to deliver certain services to you. 
 
-We may use third-party service providers to help us analyze the Sites. These third-parties may use cookies to help the Sites analyze how users use the Sites. The information generated by these cookies about your use of the Sites (including your IP address) may be transmitted to and stored by the third party on its servers. This information will be used to evaluate your use of the Sites, compile reports on activity for the Sites and provide other services relating to activity for the Sites and Internet usage. 
 
-The Sites do not respond to web browser “do-not-track” signals and similar mechanisms. 
+These companies are required to treat your private information with the same high degree of confidentiality that we do and only for the services for which they are engaged. 
 
-* **Changes to this Privacy Policy**
+We may also disclose information to non-affiliated parties as allowed by law, such as in responding to a subpoena, preventing fraud, or complying with an inquiry by a government agency or regulator. 
 
-Changes may be made to this Privacy Policy from time to time. You will be notified of substantial changes to this policy either by a posting of an announcement on the Sites or by a message sent to the email address you have provided to us and is stored in connection with your user account. 
+In addition, we may develop, use, distribute and publish information and statistics derived from your data and the content that you contribute for use on a masked, aggregate basis. This particular use of your data and content will not result in the distribution or publication of any personally identifiable information. 
 
-* **Compliance with Laws and Law Enforcement**
+For financial professionals utilizing our technology platform, Envestnet may make available your business contact information and information regarding the use of their investment strategies to third-party investment managers and, exchange traded funds mutual funds and similar investment vehicles. 
 
-We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect our rights and the rights of third parties, to protect the safety of the public or any person, to prevent or stop illegal, unethical or legally actionable activity or to otherwise comply with the law. 
+#### Keeping You Informed
 
-* **No Guarantees**
-
-While this Privacy Policy states standards for the maintenance of data, and while efforts will be made to meet these standards, we do not guarantee that we will comply with these standards. There may be factors beyond our control that may result in disclosure of data. Consequently, we offer no warranty or representation regarding the maintenance or non-disclosure of data. 
-
-* **Contact Information**
-
-If you have any questions about this Privacy Policy or about the Sites, please contact us at [TamaracSupport@envestnet.com](mailto:TamaracSupport@envestnet.com). 
+As required by federal law, we will notify you of our Privacy Policy annually. We reserve the right to modify this policy at any time, but we will promptly alert you if we do make any material changes. 
