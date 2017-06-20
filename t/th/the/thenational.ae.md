@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125185103id_/http%3A//www.thenational.ae/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620160054id_/http%3A//www.thenational.ae/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The National
 
