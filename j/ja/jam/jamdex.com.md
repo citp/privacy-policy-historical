@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamdex.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515091032id_/http%3A//www.jamdex.com/privacy-policy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamdex.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620140400id_/http%3A//www.jamdex.com/privacy-policy/default.htm) for the most accurate reproduction.*
 
 # Privacy Policy » Jamdex
 
@@ -62,4 +62,4 @@ Target advertising to users is provided by the information collected about users
 
 Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
 
-We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20160515091032id_/http%3A//www.networkadvertising.org/choices/default.htm)
+We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20170620140400id_/http%3A//www.networkadvertising.org/choices/default.htm)
