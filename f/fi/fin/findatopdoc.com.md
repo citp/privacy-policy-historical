@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findatopdoc.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124221742id_/https%3A//www.findatopdoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findatopdoc.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620230608id_/https%3A//www.findatopdoc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy FindATopDoc | Best Local Doctor Reviews | Search and Book Appointments
 
@@ -12,13 +12,13 @@ This Privacy Policy has been developed in accordance with our legal obligations.
 
 “Anonymous Information” means information that is not associated with or linked to your Personal Information. Anonymous Information does not allow the identification of individual persons. We may create Anonymous Information from (i) automatically gathered information, or (ii) Personal Information by excluding information (such as names) that make the information personally identifiable to you.
 
-Please read this Privacy Policy carefully so that you will understand how your Personal Information will be treated as you make use of our Site. By using the iahcp.com site, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy.
+Please read this Privacy Policy carefully so that you will understand how your Personal Information will be treated as you make use of our Site. By using the findatopdoc.com site, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Information according to this Privacy Policy.
 
 **INFORMATION FINDATOPDOC GATHERS**
 
 **Registration/Enroll**
 
-When you browse www.iahcp.com and do not interact with the Site for any online service or product from the IAHCP, you browse anonymously. Personally identifiable information such as your name, address, phone number and email address, etc., is not collected as you browse.
+When you browse www.findatopdoc.com and do not interact with the Site for any online service or product from the FATD, you browse anonymously. Personally identifiable information such as your name, address, phone number and email address, etc., is not collected as you browse.
 
 If you register or enroll to use FindaTopDoc services, we collect and store Personal Information that specifically identifies you or your account. At this time, the most information you would be required to submit is your first name, middle name, last name, User ID, password, street address, city, state, zip/postal code, country, phone number, email address, date of birth, and gender.
 
@@ -106,7 +106,7 @@ We will retain your information for as long as your account is active or as need
 
 **THIS SITE CONTAINS LINKS TO OTHER SITES**
 
-IAHCP is not responsible for the privacy practices or the content of any other websites to which the Site links or to which link to the Site. By clicking on a link, logo or other item, or using certain services available on the Site, including the online communication services, please note that you may no longer be on the Site. To check what Internet location you are on, note the URL at the top and/or bottom of your browser. We encourage you to read the posted privacy statement of that website whenever interacting with any website.
+FATD is not responsible for the privacy practices or the content of any other websites to which the Site links or to which link to the Site. By clicking on a link, logo or other item, or using certain services available on the Site, including the online communication services, please note that you may no longer be on the Site. To check what Internet location you are on, note the URL at the top and/or bottom of your browser. We encourage you to read the posted privacy statement of that website whenever interacting with any website.
 
 **OPTING OUT**
 
@@ -118,8 +118,8 @@ We may update this Privacy Policy from time to time as Site services change or e
 
 **MODIFYING YOUR PERSONAL INFORMATION**
 
-If you are a registered user of the FindaTopDoc website, subscriber to FindaTopDoc publications, purchaser of FindaTopDoc products or a FindaTopDoc member, you may review and update/correct your information by using your user name and password or by contacting FindaTopDoc Customer Service at 1-888-962-3621.
+If you are a registered user of the FindaTopDoc website, subscriber to FindaTopDoc publications, purchaser of FindaTopDoc products or a FindaTopDoc member, you may review and update/correct your information by using your user name and password or by contacting FindaTopDoc Customer Service at 1-844-664-DOCS.
 
 **CONTACT US**
 
-We welcome your feedback. If you have any questions about the IAHCP online Privacy Policy, please feel free to contact us at 1-888-962-3621. 
+We welcome your feedback. If you have any questions about the FATD online Privacy Policy, please feel free to contact us at 1-844-664-DOCS. 
