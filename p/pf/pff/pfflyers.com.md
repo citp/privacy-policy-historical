@@ -1,101 +1,141 @@
-> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128195003id_/http%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfflyers.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620055530id_/http%3A//www.pfflyers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Last Updated: December 19, 2011
+### Last Updated: August 30, 2016 
 
-Thank you for placing your trust in PF Flyers. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. The Privacy Policy applies to "www.pfflyers.com" (the "Service") operated by New Balance Athletic Shoe, Inc.a and its affiliates ("PF Flyers", "we", "us", or "our"), whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time.
+Thank you for placing your trust in PF Flyers. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. 
 
-## What information does PF Flyers collect about me?
+This Privacy Policy applies to the following services operated by New Balance Athletics, Inc. and its affiliates (“PF Flyers”, “we”, “us”, or “our”): 
 
-Like most websites, every time you visit our Service, we automatically collect information from you that is not personally identifiable. Examples of this type of information include:
-
-  * The type of Internet browser you are using
-  * The type of computer operating system you are using
-  * The domain name of your Internet service provider
-  * The Web page from which you came
-  * The pages you visit on our website
+  * [www.pfflyers.com](https://web.archive.org/web/20170620055530id_/http%3A//www.pfflyers.com/http//www.pfflyers.com) (the "Website"); 
+  * all mobile applications (each, an "App") that contain a link to this Privacy Policy; and 
+  * all services made available by PF Flyers through the Website and the Apps. 
 
 
 
-In general, you can visit many of our Web pages without providing us with any personally identifiable information, such as name, email address, postal address, phone number, gender, and, when necessary, credit card information or other information necessary to process your order or send you special announcements (collectively, "Personal Information"). When you visit the Service, we may track your visit and, as described below in the section concerning "cookies", collect certain data regarding your use of the Service and your activity on the Service, but we will not collect any Personal Information from you unless you choose to provide it to us.
+For the purpose of this Privacy Policy, the foregoing are referred to, collectively, as the "Service”. 
 
-When you make a purchase from PF Flyers, request to sign up for email, direct mail or SMS Text notices, we collect Personal Information that you have volunteered. Your submission of this Personal Information is entirely voluntary; however, if you elect not to provide this Personal Information, some of the services and/or features available on and/or through the Service may not be available for your use.
+This Privacy Policy applies whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By accessing or using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. 
 
-We also collect Personal Information when you elect to submit such information to us when you register for "My Account", participate in a contest, event or sweepstakes promotion, fill out a survey, or contact us (for example via email or by selecting "Ask the Expert" from the Service). We may also obtain data through your Internet browser, such as your IP Address, which is a number that is automatically assigned to your computer when you use the Internet.
+## WHAT INFORMATION DOES PF FLYERS COLLECT ABOUT ME? 
 
-## How do you use my Personal Information?
+### Non-Individually Identifiable Data: 
 
-The Personal Information we receive allows us to personalize our product offering and improve your online shopping experience, making it more convenient, efficient and enjoyable. We may use the Personal Information that you submit to us through the Service to:
+As is the case with most online services, every time you visit our Website or use one of our Apps, we automatically collect certain data and information from you and/or your computer that is not personally identifiable. Examples of this type of information include: 
 
-  * Customize your communications and shopping experience
-  * Process your purchase, confirm your orders and communicate to you about account information or customer service needs
-  * Adapt the content and layout of our pages tailored to your needs and so you do not have to enter information more than once
-  * Notify you about new products and services, special offerings and other promotions
-  * Coordinate contests, promotions, surveys or other website features
-  * Improve our business and better respond to your needs
-
-
-
-## How do you share my information?
-
-For the purpose of operating our business, we may transfer your Personal Information to our third party service providers who use that information only to conduct PF Flyers business. For example, these third party service providers may handle PF Flyers credit card processing, shipping, data management, email distribution, information analysis, and promotions management. We provide our preferred service providers with the Personal Information they need to perform their services and work with them to respect and protect your Personal Information. If you do not want PF Flyers to transmit your Personal Information to our third party service providers in accordance with this Privacy Policy, please follow the procedures described under the Opt-Out/Unsubscribe section below.
-
-We may use your Personal Information in the aggregate for purposes such as reporting and marketing. Such use of Personal Information in the aggregate is not personally identifiable.
-
-On rare occasions, we may disclose Personal Information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property, or safety. We may also share Personal Information with companies assisting in fraud protection or investigation. We do not provide Personal Information to these agencies or companies for marketing or commercial purposes.
-
-Except as otherwise disclosed in this Privacy Policy or with your prior consent, we will not sell, trade or rent Personal Information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your Personal Information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
-
-## What about information that I post to blogs and other public areas of the Service?
-
-This Privacy Policy does not apply to any Personal Information collected by PF Flyers through means other than the Service. This Privacy Policy shall not apply to any unsolicited information you provide through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, such as the PF Flyers blog, any ideas for new products or modifications to existing products, and/or other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and PF Flyers shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. You should exercise caution before you post Personal Information that you post in public forums, such as the PF Flyers blog. Once you release your Personal Information for posting on public forums, PF Flyers cannot and will not be responsible for the privacy and/or security of such information.
-
-## How do I know my information is secure?
-
-We have a variety of security measures to protect against the loss, misuse or alteration of your Personal Information that we have collected from you from the Service. To ensure the information you provide online is secure during transmission, we use leading edge encryption technology and Secure Socket Layers (SSL) while processing any Personal Information you supply.
-
-These controls are certified by VeriSign®, a leading Internet security company. You can review our security certificate using your browser by clicking on the closed lock or solid key image at the bottom of your browser on any of the secure pages on our site. This will display our Service security information.
-
-For security purposes, your full credit card number is not permanently stored within our system. On occasion, we may temporarily store the entire encrypted credit card number when it is necessary to manually contact a credit card company for verification.
-
-## What are cookies, Web beacons and pixel tags? How does PF Flyers use them?
-
-A cookie is a small removable data file stored by your Web browser on your computer. Cookies allow you to browse and place an order on our site and let us make shopping more convenient for you. We place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database.
-
-Some examples of how we use cookies are to:
-
-  * Enable you to select products, place them in your shopping cart and make a purchase
-  * Recognize you when you come back to our website
-  * Alert you to new areas that may be of interest to you
-  * Customize Web page content that may be helpful to you
-  * Cookies do not contain any Personal Information and they do not give us access to your computer.
-  * You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your Internet browser (such as Internet Explorer or Firefox) settings. Most browsers are initially set to accept cookies. Each browser is a little different, so check your browser Help menu to learn the correct way to modify your cookie settings. However, if you choose to turn cookies off, you won't be able to purchase on our site or have access to many features that make your site experience more efficient and convenient. However, you can still place orders over the telephone by calling our Customer Care Center toll-free at 1-866-355-6227 .
+  * The type of Internet browser you are using. 
+  * The type of computer operating system and device you are using to access the Service. 
+  * The domain name of your Internet service provider. 
+  * The Web page from which you came. 
+  * The pages and features you visit and access on our Service. 
 
 
 
-Pixel tags and Web beacons are tiny graphic images that allow us or preferred service providers to track non-personally identifiable analytic information about your visit to our Service (such as pages viewed or links clicked). Pixel tags and Web beacons also let us know when you have opened an HTML email from us. Using this information we are able to understand how Visitors and Members use our service. This allows us to learn what pages are most attractive to our Visitors, which parts of the Service are the most interesting and what kind of offers our Members like to see.
+When you access, visit and/or use our Website or one or more of our Apps, we may track your visit and, as described below in the section concerning "cookies", collect certain data regarding your use of the Service and your activity on the Service, but we will not collect any Personal Information from you unless you choose to provide it to us. 
 
-## What is the PF Flyers Children's Privacy Policy?
+We use third party analytics tools, including those offered by Google, Inc. (“Google”) and Adobe Systems Incorporated (“Adobe”). These third party services use cookies to help us analyze how users use our Website and our Apps. The information generated by the cookie about your use of our Website and our Apps (including your IP address) will be transmitted to and stored by Google and Adobe, respectively. Google and Adobe will use this information for the purpose of evaluating your use of our Website and our Apps, compiling reports on activity for website and application operators and providing other services relating to online activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on behalf of Google or Adobe. We also use Adobe Analytics. To opt-out of the use of Adobe cookies on our Services for analytics purposes, please visit Adobe's opt-out page: <http://www.adobe.com/privacy/opt-out.html>. To opt-out of Google analytics, please see: <https://tools.google.com/dlpage/gaoptout>. PF Flyers may collect your geolocation data through the Services for purposes of offering relevant content and services. Geolocation data consists of general location information based on latitude and longitude (if you have enabled location services for a PF Flyers application on your mobile device), or PF Flyers may approximate your location based on the IP address of your computer or mobile device. 
 
-We do not knowingly ask for Personal Information from anyone under the age of 13 (a "Child"). If a Child submits Personal Information to us and we know that the person providing the information is a Child, we will not use it for any purpose. We will use commercially reasonable efforts to delete the information as soon as we discover it and we will not disclose it to third parties. If you become aware that a Child has provided Personal Information to our site, please contact us or call our Customer Care Center toll-free at 1-866-355-6227 .
+### Personal Information: 
 
-While PF Flyers's policy prohibits children under 13 from registering with the Service, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address and other Personal Information without parental permission.
+In general, you can visit our Service without providing us with any personally identifiable information, such as your name, email address, postal address, phone number, gender, credit card information or other information necessary to process your order (all such personally identifiable information, collectively, "Personal Information"). However, in order to place an order, register for or use certain services and features made available through our Service, you will be required to provide certain Personal Information. 
 
-## How do links from PF Flyers to other sites affect me?
+When you make a purchase from PF Flyers, request to sign up for email, direct mail or SMS Text notices, we collect Personal Information that you elect to provide to us. Your submission of this Personal Information is entirely voluntary; however, if you elect not to provide this Personal Information, some of the services and/or features available on and/or through the Service may not be available for your use. 
 
-At times, we may provide links from our Service to other websites operated by third parties. These links are provided only for your convenience and intended to add value to your visit. However, by including these links, even if affiliated with PF Flyers, we do not have control over these sites, which are independent from PF Flyers and have separate privacy policies and terms and conditions. When leaving our Service, you need to be aware that our policies no longer apply. Therefore, we will not be responsible for the accuracy, relevancy, availability, reliability, copyright compliance, legality or decency of material contained in third party sites linked to our Service. We strongly encourage you to review the terms and privacy policies of any third-party sites before using their sites.
+We also collect Personal Information when you register for "My Account", participate in a contest, event or sweepstakes promotion, fill out a survey or contact us (for example via email) or by selecting "Ask the Expert" from the Service. We may also obtain data through your Internet browser, such as your IP Address, which is a number that is automatically assigned to your computer when you use the Internet. 
 
-## How can I opt-out/unsubscribe from PF Flyers email or transmissions to third party service providers?
+If you elect to register for "My Account", you will have the option to store your credit card information with our Service. This feature, which is entirely optional, is provided as a convenience for you so that you will not need to re-enter your full credit card information each time you make a purchase through the Service. If you elect to take advantage of this feature, please be aware that, as a security precaution, we will not store your CCV number. You will be required to input this information prior to placing an order. If you elect to store your credit card number in the "My Account" feature, you will have the ability to change your mind and remove your credit card number from storage at any time by logging into "My Account" and making the appropriate change. 
 
-If for any reason you would like to be taken off the email list that notifies you of upcoming events, offers and sales sent by PF Flyers or to opt-out of having your Personal Information transmitted to our third party service providers, simply click the unsubscribe link provided at the bottom of every email and every page of our Service. This will direct you to an unsubscribe page where you can remove your name from the email sign-up.
+By using the Service or by providing us with Personal Information, you are consenting to this Privacy Policy and to our use of your Personal Information in accordance with this Privacy Policy. If you provide Personal Information to us through the Service, you acknowledge and agree that your Personal Information is stored on servers hosted in the United States of America and/or in other third countries. Your Personal Information is subject to the laws of the countries in which it is stored and used, and the privacy legislation of these countries may differ from those applicable to your country of residence. Under the applicable laws, the courts, organizations responsible for applying the legislation, regulatory agencies or safety authorities may under some circumstances be authorized to access your Personal Information. By giving us your Personal Information, you agree to allow it to be transferred to the United States of America and third countries, and you acknowledge and agree that the country in which your Personal Information is stored and process may have a different legal regime for protecting Personal Information than that of your country of residence. 
 
-Please note that if you decide to opt-out of all third-party transmissions of your Personal Information, we may not be able to process your order.
+## HOW DO YOU USE THE DATA THAT IS COLLECTED FROM OR ABOUT ME? 
 
-## How can I access, update or delete "My Account" information?
+The Personal Information we receive allows us to process your order, create an account for you through the “My Account” service and update the information in the “My Account” service, personalize our product offering and improve your shopping experience, making it more convenient, efficient and enjoyable. We may use the non individually identifiable data information and Personal Information that you submit to us or that is otherwise collected from you through the Service to: 
 
-Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.pfflyers.com/terms.html), you will be responsible for all activity occurring through the use of your user name and password.
+  * Customize your communications and shopping experience. 
+  * Process your purchase, confirm your orders and communicate to you about account information or customer service needs. 
+  * Provide you with a print catalog via postal mail. 
+  * Adapt the content and layout of our Website and Apps tailored to your needs and so you do not have to enter information more than once.
+  * Notify you about new products and services, special offerings and other promotions. 
+  * Coordinate contests, promotions, surveys or other features of our Service. 
+  * Improve our business to better respond to your needs. 
 
-## What if I have more questions about the PF Flyers Privacy Policy?
 
-If you have any questions or concerns including a request to be added to or taken off a list, please contact us at Customer Care Center toll-free at 1-866-355-6227 or email Customer Care at [CustomerCare@pfflyers.com](mailto:customercare@pfflyers.com?subject=Question%20about%20Privacy%20Policy).
+
+## HOW DO YOU SHARE MY INFORMATION? 
+
+**Third Party Service Providers:** For the purpose of operating our business, we may transfer your Personal Information to our third party service providers who use that information only to conduct PF Flyers business. For example, these third party service providers may handle PF Flyers credit card processing, shipping, data management, email distribution, information analysis, promotions management and other services for PF Flyers. We provide our preferred service providers with the Personal Information they need to perform their services and work with them to respect and protect your Personal Information. 
+
+**Aggregated Data:** We may use your Personal Information that is aggregated and no longer personally identifiable for purposes such as reporting and marketing and we may disclose aggregated information to various third parties. 
+
+**Legal Requirements:** We may disclose Personal Information upon governmental request, in response to a court order, when required by law, to enforce our website policies, or to protect our or others' rights, property or safety. We may also share Personal Information with companies assisting in fraud protection or investigation. We do not provide Personal Information to these agencies or companies for marketing or commercial purposes. 
+
+**Cooperative Databases:** In connection with the distribution of our print catalogs and other marketing materials, we participate in cooperative data sharing databases. The participants of these databases provide customer names, mailing addresses and information about their customers' purchasing history to the database vendor which allows the database participants to segment and/or obtain access to potentially interested parties to which they may wish to target their own promotions. If you prefer not to have your name, email address and mailing address released to these cooperative databases, please let us know by sending an e-mail to [CustomerCare@pfflyers.com](mailto:customercare@pfflyers.com).
+
+**Targeted Product Recommendations and Other Communications:** We use third-party companies to help serve targeted product recommendations and other communications. To enable these companies to provide you with targeted recommendations and other communications, we may provide these companies with certain Personal Information about you, such as your name, address and email address, as well as your transaction history. These companies may use data about you in order to provide recommendations for products and services that might be of interest to you. If you wish to opt-out of this program, please let us know by sending an e-mail to [CustomerCare@pfflyers.com](mailto:customercare@pfflyers.com).
+
+Except as otherwise disclosed in this Privacy Policy or with your prior consent, we will not sell, trade or rent Personal Information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your Personal Information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect. 
+
+## WHAT ABOUT INFORMATION THAT I POST TO BLOGS AND OTHER PUBLIC AREAS OF THE SERVICE? 
+
+This Privacy Policy does not apply to any Personal Information collected by PF Flyers through means other than the Service. This Privacy Policy shall not apply to any unsolicited information you provide through the Service or through any other means. This includes, but is not limited to, information posted to any public areas of the Service, any ideas for new products or modifications to existing products, and/or other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and PF Flyers shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. You should exercise caution before you post Personal Information that you post in public forums. Once you release your Personal Information for posting on public forums, PF Flyers cannot and will not be responsible for the privacy and/or security of such information. 
+
+## HOW DO I KNOW MY PERSONAL INFORMATION IS SECURE? 
+
+We have a variety of security measures to protect against the loss, misuse or alteration of your Personal Information that we have collected from you from the Service. To ensure the information you provide online is secure during transmission, we use encryption technology and Secure Socket Layers (SSL) while processing any Personal Information you supply. 
+
+These controls are certified by DigiCert®. You can review our security certificate using your browser by clicking on the closed lock or solid key image at the bottom of your browser on any of the secure pages on our site. This will display our Service security information. Our Service provides you the ability to store your credit card number in the "My Account" section of our Service. To protect your security, we encrypt all stored credit card numbers and we do not store your card's CCV number. For others, we may temporarily store the entire encrypted credit card number when it is necessary to manually contact a credit card company for verification. 
+
+## WHAT ARE COOKIES, WEB BEACONS AND PIXEL TAGS? HOW DOES PF FLYERS USE THEM? 
+
+A cookie is a small removable data file stored by your Web browser on your computer. Cookies allow you to browse and place an order on our site and let us make shopping more convenient for you. We place a unique identifier in the cookie and use the cookie to connect your computer with the information we store for you in our database. 
+
+Some examples of how we use cookies are to: 
+
+  * Enable you to select products, place them in your shopping cart and make a purchase. 
+  * Recognize you when you come back to our site(s). 
+  * Alert you to new areas that may be of interest to you. 
+  * Customize content that may be helpful to you. 
+  * Cookies do not contain any Personal Information and they do not give us access to your computer. 
+
+
+
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your Internet browser (such as Internet Explorer or Firefox) settings. Most browsers are initially set to accept cookies. Each browser is a little different, so check your browser Help menu to learn the correct way to modify your cookie settings. However, if you choose to turn cookies off, you won't be able to purchase on our site or have access to many features that make your site experience more efficient and convenient. However, you can still place orders over the telephone by calling Customer Care toll-free at 1-866-355-6227. 
+
+Pixel tags and Web beacons are tiny graphic images that allow us or preferred service providers to track non-personally identifiable analytic information about your visit to our Service (such as pages viewed or links clicked). Pixel tags and Web beacons also let us know when you have opened an HTML email from us. Using this information we are able to understand how Visitors and Members use our service. This allows us to learn what pages are most attractive to our Visitors, which parts of the Service are the most interesting and what kind of offers our Members like to see. 
+
+At present, PF Flyers does not respond to "Do Not Track" (DNT) signals and operates as described in this Privacy Policy whether or not a DNT signal is received. If we do so in the future, we will describe how we do so in this Privacy Policy. 
+
+## WHAT IS THE PF FLYERS CHILDREN'S PRIVACY POLICY? 
+
+We do not knowingly ask for Personal Information from anyone under the age of 13 (a "Child"). If a Child submits Personal Information to us and we know that the person providing the information is a Child, we will not use it for any purpose. We will use commercially reasonable efforts to delete the information as soon as we discover it and we will not disclose it to third parties. If you become aware that a Child has provided Personal Information to our site, please email us [CustomerCare@pfflyers.com](mailto:customercare@pfflyers.com) or call Customer Care toll-free at 1-866-355-6227 While PF Flyers’ policy prohibits children under 13 from registering with the Service, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address and other Personal Information without parental permission. 
+
+## PHOTO SHARING 
+
+Simply use the hashtags referred to by PF Flyers to tag your photos on Instagram or Twitter. By participating, you acknowledge and give your consent that your photos may be featured on our Website, and be used to link through to the products you're wearing. 
+
+By tagging and sharing your pictures, you are granting PF Flyers a license to use your photos and post them on our Website. 
+
+To remove a photo, please remove the hashtag you have used to have the photo feed onto the Website and your photo will be automatically removed from the feed. 
+
+When you submit a photo (via Instagram or Twitter) using a hashtag set forth by PF Flyers, your use of Instagram and Twitter is governed by the terms and conditions of those sites. 
+
+## HOW DO LINKS FROM PF FLYERS TO OTHER SITES AFFECT ME? 
+
+At times, we may provide links from our Website and Apps to other websites and applications operated by third parties. These links are provided only for your convenience and intended to add value to your visit. However, by including these links, even if affiliated with PF Flyers, we do not have control over these websites and applications, which are independent from PF Flyers and have separate privacy policies and terms and conditions. When leaving our Website and Apps, you need to be aware that our policies no longer apply. Therefore, we will not be responsible for the accuracy, relevancy, availability, reliability, copyright compliance, legality or decency of material contained in third party websites and applications linked to our Website and Apps. We strongly encourage you to review the terms and privacy policies of any third-party websites and applications before using their sites. 
+
+## HOW CAN I OPT-OUT/UNSUBSCRIBE FROM PF FLYERS EMAIL, DIRECT MAIL, SMS TEXT OR TRANSMISSIONS TO THIRD PARTY SERVICE PROVIDERS? 
+
+If for any reason you would like to stop receiving any emails sent by PF Flyers that notify you of upcoming events, promotions, sales, new products or contain other commercial communications, simply click the unsubscribe link provided at the bottom of every email and every page of our Website. This will direct you to an unsubscribe page where you can remove your name from either the email or direct mail sign-up. 
+
+To opt-out of SMS Text messages you will need to use your mobile device. Simply text "STOP" to 746762 or send a request to [CustomerCare@newbalance.com](mailto:customercare@newbalance.com). 
+
+Please note that if you decide to opt-out of all third-party transmissions of your Personal Information, we may not be able to process your order. 
+
+## HOW CAN I ACCESS, UPDATE OR DELETE "MY ACCOUNT" INFORMATION? 
+
+Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.pfflyers.com/terms.html), you will be responsible for all activity occurring through the use of your user name and password. 
+
+## What if I have more questions about the PF Flyers Privacy Policy? 
+
+If you have any questions or concerns including a request to be added to or taken off a list, please contact Customer Care toll-free at 1-866-355-6227 or email [CustomerCare@pfflyers.com](mailto:customercare@pfflyers.com?subject=Question%20about%20Privacy%20Policy). 
