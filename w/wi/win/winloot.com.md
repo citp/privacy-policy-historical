@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winloot.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119100432id_/http%3A//www.winloot.com/Site/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winloot.com privacy policy that was archived on 2017-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170620030734id_/http%3A//www.winloot.com/Site/Privacypolicy) for the most accurate reproduction.*
 
 # Winloot Free Sweepstakes Privacy Policy
 
@@ -14,9 +14,9 @@ While the word "privacy" may mean different things to different people, we belie
 
 Your Privacy Rights
 
-If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please contact us by clicking here or send us correspondence to Globalizer, LLC, Attn: Winloot Member Services (Privacy), 55 Lumber Road, Suite 3, Roslyn, NY 11576. 
+If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared with third parties, what categories of personal information that we have shared with third parties in the preceding year, as well as the names and addresses of those third parties, please contact us by clicking here or send us correspondence to Globalizer, LLC, Attn: Winloot Member Services (Privacy), 100 Duffy Ave, Suite 510, Hicksville, NY 11801. 
 
-Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please contact us by clicking here or send us correspondence to Globalizer, LLC, Attn: Winloot Member Services (Privacy), 55 Lumber Road, Suite 3, Roslyn, NY 11576. Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law. 
+Further, if you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please contact us by clicking here or send us correspondence to Globalizer, LLC, Attn: Winloot Member Services (Privacy), 100 Duffy Ave, Suite 510, Hicksville, NY 11801. Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law. 
 
 1\. Collection of Information 
 
@@ -158,4 +158,4 @@ In the event Winloot® goes through a business transition, such as a merger, bei
 
 16\. Contact Us 
 
-If you have any questions or suggestions regarding this Privacy Policy, please contact us by clicking here or at either: Globalizer, LLC, Attn: Winloot Member Services (Privacy), 55 Lumber Road, Suite 3, Roslyn, NY 11576. 
+If you have any questions or suggestions regarding this Privacy Policy, please contact us by clicking here or at either: Globalizer, LLC, Attn: Winloot Member Services (Privacy), 100 Duffy Ave, Suite 510, Hicksville, NY 11801. 
