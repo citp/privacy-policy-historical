@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the urbandictionary.com privacy policy that was archived on 2016-07-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160719062247id_/http%3A//tos.urbandictionary.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urbandictionary.com privacy policy that was archived on 2017-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170621233955id_/http%3A//tos.urbandictionary.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta charset="utf-8">
@@ -7,18 +7,201 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>Privacy Policy</title>
-  <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  <meta name="description" content="About Urban Dictionary
 ">
 
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://yourdomain.com/privacy">
-  <link rel="alternate" type="application/rss+xml" title="Your awesome title" href="http://yourdomain.com/feed.xml">
+  <link rel="canonical" href="http://about.urbandictionary.com/privacy">
+  <link rel="alternate" type="application/rss+xml" title="About Urban Dictionary" href="http://about.urbandictionary.com/feed.xml">
+  <script>
+    window.WebFontConfig = {
+      google: {
+        families: ['Source Sans Pro:400,700', 'Lora:400,700']
+      }
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/g/jquery@2.2.4,autocomplete.js@0.21.1,webfontloader@1.5.14,foundation@5.5.3(js/foundation.min.js+js/foundation/foundation.topbar.js)"></script>
+  <script>
+    $(function() {
+      var entityMap = {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': '&quot;',
+        "'": '&#39;',
+      };
+
+      function escapeHtml(string) {
+        return String(string).replace(/[&<>"'\/]/g, function (s) {
+          return entityMap[s];
+        });
+      }
+
+      function autocompleteSource(query, cb) {
+        $.ajax(
+          'https://urban-api-clj.herokuapp.com/v0/autocomplete?key=ab71d33b15d36506acf1e379b0ed07ee&term=' + query,
+          {
+            dataType: 'json',
+            type: 'GET',
+            success: function(data) {
+              cb(data);
+            }
+          }
+        )
+      }
+
+      $('#term').keypress(function(event) {
+        if (event.which == 13) {
+          this.closest('form').submit();
+        }
+      });
+
+      $('.autocomplete')
+        .autocomplete({openOnFocus: true}, {
+          name: 'urbancompleter',
+          displayKey: function(k) { return k },
+          source: autocompleteSource,
+          templates: {
+            suggestion: function(k) { return "<p class='needsclick'>" + escapeHtml(k) + "</p>" }
+          }
+        })
+        .on('autocomplete:selected', function(event) {
+          this.closest('form').submit();
+        });
+    });
+  </script>
 </head>
 
   <body>
-    <div class="page-content">
-      <div class="wrapper">
-        <h1 id="privacy-policy">Privacy Policy</h1>
+    <div id="urban-top-bar">
+    <div class="row">
+        <nav class="top-bar" data-options="mobile_show_parent_link: false" data-topbar="true" role="navigation">
+            <ul class="title-area">
+                <li class="name">
+                    <a href="http://www.urbandictionary.com/" id="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 949 310" xml:space="preserve">
+  <defs>
+    <clipPath id="clipPath3974">
+      <path d="M0 612 792 612 792 0 0 0 0 612z"></path>
+    </clipPath>
+  </defs>
+  <g transform="matrix(1.25,0,0,-1.25,-15.352375,533.71165)">
+    <g clip-path="url(#clipPath3974)">
+      <g id="logo-urban" fill-rule="evenodd">
+        <g transform="translate(35.5879,334.2124)">
+          <path d="M0 0C0 0 5-5 6-10 6-15 6-19 6-24 6-28 4-35 4-40c0-6 1-8 2-11 1-3 1-3 1-8 0-5-1-24-1-24l-1-15 3-7 4 4c0 0 1-3 3-6 2-3 10-6 10-6l10-3 32 13c0 0 4-3 7-4 3-1 13-6 18-7 5-1 8-2 12-2 4 0 8 1 12 3 4 1 9 3 9 3l2 12-24 16-5-4c0 0-2 17-3 26-1 9-3 21-3 21l3 2c0 0-2 16-3 20 0 4 2 14 2 16 0 2 1 8 1 8L95 12 88 15 80 12 66 18 53 11 54 3 76 3l9-6 0-6-3-3c0 0-1-10-1-17-1-7-1-15-2-23-1-10-3-19-6-27 0 0-12-7-18-10-9-3-17-3-17-3l-14 6c-2 13-4 24-5 33-1 3-1 4 0 8 0 3 2 14 2 14l-3 3c0 0 2 12 3 16 1 4 1 8 2 11 0 3 1 6 1 6l-2 7c0 0-8 3-12 4-3 1-8 2-8 2 0 0-6 0-8 0-3 0-8-1-8-1l-6-6c0 0 1-3 2-4 1-2 1-2 1-2l3-1 4-5c0 0 4 0 7 1C-3-1 0 0 0 0"></path>
+        </g>
+        <g transform="translate(172.6914,351.0322)">
+          <path d="m0 0c0 0 6 1 10 2 4 0 8 1 14 1 6 0 23-2 23-2l3 4 4-5c0 0 5 1 10 0 5-1 18-5 18-5L96-21c0 0 0-2 0-7 0-5 2-11 1-13 0-2-4-15-4-15L76-71c0 0 7-13 9-23 1-10-2-20-2-20l4-5c0 0 4 0 7 1 2 1 3 2 3 2l8-3-4-13c-5 0-8 1-10 2l-3-2-4 4-3-3c0 0-5 6-8 16-4 12 1 18 1 18l-3 15-12 11-22 5-2-3 1-11 1 1c0 0 0-4 0-4 0 0 0-1 0-1l0-5-1 0 0-2-1 0c0 0 0-14 0-16 0-2 0-7 0-7l3-3c0 0 7-1 10-1 3 0 8 0 8 0l0-3 3-3-6-6c0 0-2 0-5 1-3 0-5 1-5 1l-2-2c0 0-5 1-10 1-6 0-23-3-23-3l-7 5 0 9 21 6 3 30-3 6c0 0 1 2 1 9 0 6-3 25-3 25l4 8c0 0-1 4-1 9-1 5-1 10-1 10l-2 0-2-3-18 5c0 0-1 2-2 6-1 4 0 7 0 7L0 0zm37-20c0 0 7 1 9 1 3 0 10 1 10 1l2-1 9 1 10-9c0 0-1-3-1-4 0-1-1-3-1-3l2-2 0-5-5-10c0 0-11-3-14-4-3-1-4-1-6-2-2 0-3 0-3 0l-1-3-5 6-6 0c0 0-1 12-1 18 0 7-1 15-1 15"></path>
+        </g>
+        <g transform="translate(285.5859,414.8105)">
+          <path d="m0 0c0 0 3-6 8-9 5-3 7-4 10-5 3-1 8-2 8-2 0 0 3-12 4-18 1-6 2-9 2-12 0-4-1-16-2-26-1-10-1-14-1-21 0-7 1-13 2-18 1-5 2-8 2-13 1-5 0-12-1-18 0-6-2-21-2-21 0 0 11 0 11 0l5 5 9 0 4-6 36 0c0 0 8 5 13 12 5 6 7 10 10 17 3 7 5 14 7 21 1 7 3 18 3 18l-2 2c0 0-1 8-1 13-1 5-1 9-1 9l-10 13c0 0-2 2-4 6-2 4-5 12-5 12l-9 3c0 0-2 0-4 0-2 0-4 1-7 1-3 0-4 0-5 0-1-1-2 0-4-1-2 0-6-2-10-4-4-2-8-7-10-8-1-1-3-4-3-4l-6 0-2 4 5 26-3 9 3 13c0 0-2 4-3 6-1 2-2 5-2 5 0 0-10 1-17 1C17 11 10 13 8 12 5 11 4 9 2 6 1 3 0 0 0 0m67-59c0 0-4-4-10-15-6-10-7-14-9-22-2-8-2-10-2-14 0-4 1-3 1-7 0-4-1-6-1-6 0 0 5-9 13-14 7-6 13-9 16-11 3-2 7-2 7-2 0 0 1 2 4 4 3 3 6 4 6 4 0 0 2 4 5 8 3 4 5 6 5 6 0 0 1 6 2 11 1 5 1 9 1 9 0 0-1 4-2 8-1 4-2 7-2 7 0 0 1 2 1 3 0 1-1 5-1 9-1 4-1 6-1 6 0 0-3 5-6 8-3 4-6 9-6 9 0 0 0-1-5 0-5 0-3 1-6 1-3 0-3-1-5-1-2 0-1 0-3 0-1 0-2 0-2 0"></path>
+        </g>
+        <g transform="translate(474.7412,344.7549)">
+          <path d="m0 0c0 0-3-3-3-4-1-1-2-1-3-2-1-1-1-1-3-2l-6-5-9 0-5 12c-1 2-2 3-2 5 0 2 0 8 1 14 1 6 2 9 2 9 0 0 4 3 8 6 4 2 10 6 13 7 3 1 4 1 5 2 1 0 2 0 2 0 0 0 0 0 0 1 0 1 1 1 3 1 2 0 5 0 7 0 3 0 3-1 6-1 3 0 7 0 9 0 1 0 2 0 3 0 2-1 6-2 8-3 2-1 16-5 16-5 0 0 2-2 4-6 3-4 5-6 5-6 0 0 1-12 1-15 0-2 1-17 1-18 0-1 0 0 0-2 0-2 0-4 0-6 0-2 0-11 0-11l-2 0c0 0 1-5 1-8 0-4 1-8 1-8 0 0 0-1-1-2-1-1-1-2-1-2 0 0 3-3 5-5 1-2 4-5 4-5 0 0 3 0 5 1 3 0 8 1 9 1 1 0 3 0 3 0 0 0 0-8 1-12 0-4 1-9 1-9l-9-10c0 0-4 0-7-1-3 0-9-1-9-1 0 0-6 4-9 6-3 2-8 6-8 6L32-88 17-93c0 0-10 0-17 0-6 0-10 0-14 1-4 0-11 1-11 1 0 0-5 6-7 8-2 2-5 6-5 6 0 0-2 10-3 18-1 8 0 16 0 16 0 0 2 4 4 7 2 3 5 8 5 8 0 0 15 5 19 6 4 1 6 2 9 2 3 0 2 0 7 1 4 1 10 4 14 6 3 2 5 3 6 4 1 1 2 2 2 2 0 0 1 0 3 0 2 0 5 2 8 3 2 1 4 1 4 1 0 0 1 1 3 3 2 1 3 2 3 2l0 9c0 0-5 4-12 7-7 3-11 5-14 6-4 1-5 2-8 2C9 26 6 25 5 24 3 24 1 23-1 22c-1-1-2-1-3-3-1-2-2-3-2-4 0-1-1-1-1-1 0 0 0-3 1-6 1-3 4-6 4-7C-1 1 0 0 0 0m-6-38-15-10 1-15 6-9c0 0 19 0 22 0 3 0 5 0 5 0 0 0 5 1 8 3 3 1 8 3 9 3 1 0 1 0 1 0l9 15c0 0-1 5-1 10 0 4 0 10 0 10l-8 0c0 0-6-2-11-3-5-1-4-2-8-3-4-1-6 0-9 0-3 0-5 0-8 0-2 0-3 0-3 0"></path>
+        </g>
+        <g transform="translate(582.1514,389.7217)">
+          <path d="m0 0-13-11 2-7 0 0c0 0 4-1 6-2 3-1 5-1 7-2 1 0 3-1 3-1l3-3c0 0-2-6-2-7 0-1 0-1 0-1l3-8 3-7-7 0 0-9 6-8c0 0 0-6-2-12-2-6-4-8-4-8l2-2c0 0-3-11-3-12 0-1 0-1 0-1l3-5c0 0-1-5-1-7 0-2 0-4 0-4l-12-6-6-12c0 0 4-2 8-3 4-1 5-2 10-2 5 1 7 3 7 3 0 0 4-1 7-2 3-1 7-2 7-2l0 1 2-2 3 5c0 0 0 0 2 0 2-1 10-2 10-2l6 5 0 6c0 0 0 0-2 2-2 2-3 5-3 5 0 0-3-1-5 0-2 0-11 4-11 4 0 0-2 28-2 33 0 5-2 25-2 25l2 2c0 0-1 12-2 14 0 2 0 3 0 4 0 2 1 3 1 3 0 0 6-8 9-13 3-5 8-16 9-20 2-4 4-8 5-11 2-3 6-10 6-10 0 0 0 11-1 18 0 7-3 13-4 17-1 4-6 14-6 14l2 7-10 10 4 12-7 7c0 0-1 0-4 0-3 0-5 1-7 1-2 1-4 1-4 1l-2-2c0 0-5 1-9 2C5-1 0 0 0 0"></path>
+        </g>
+        <g transform="translate(639.1406,301.7031)">
+          <path d="m0 0c0 0 6-3 8-3 2 0 7 0 7 0l0-1 9 0 0-9 4-6-2-2c0 0 0 0 0-1 0 0 1 0 1 0l1-20c0 0-2-2-3-4-1-2-3-5-3-5 0 0-4 0-8 2-4 2-6 6-6 6l0 6-4 5-4 0 0 11 4 4c0 0-2 3-3 5-1 2-2 4-2 4 0 0 1 5 2 7C0-1 0 0 0 0"></path>
+        </g>
+        <g transform="translate(654.9531,302.5469)">
+          <path d="m0 0 7 0c0 0 0 4 0 8 0 5 1 10 1 13 0 3-1 4-1 6 0 2 0 2 0 5 1 3 2 9 3 11C10 46 10 48 10 48l-2 0 2 1c0 0 0 3-1 7-1 3-1 6-1 6 0 0 1 1 2 2 1 1 2 2 2 2l9-2c0 0 3 2 5 5 2 3 3 5 4 6 1 1 1 3 1 3 0 0-4 3-6 4-2 1-5 4-5 4 0 0-1 0-5 0-4-1-8-1-12-2-4 0-5-1-8 0-3 1-6 2-6 2 0 0-6-2-8-3-2 0-5-2-5-2l-2-8 4-6c0 0 3-1 7-2 3-1 6-2 7-2 0 0 1 1 1 1 0 0 1-1 2-2 1-1 2-2 2-2 0 0 1-6 1-12 1-6 2-12 2-15 0-3 1-3 0-6C-2 26-4 15-4 15c0 0 1-3 2-7C-1 4 0 0 0 0"></path>
+        </g>
+      </g>
+      <g id="logo-dictionary-background" transform="translate(271.3555,255.4404)">
+        <path d="m0 0 501-17 0-60L0-60 0 0z"></path>
+      </g>
+      <g id="logo-dictionary" fill-rule="evenodd">
+        <g transform="translate(411.3711,229.9551)">
+          <path d="m0 0c0 3 2 5 5 5l18 0c3 0 5-2 5-5l0-4-7-1 0 5-14 0 0-14 14 0 0 5 7-2 0-4c0-3-2-5-5-5L5-20c-3 0-5 2-5 5L0 0z"></path>
+        </g>
+        <g transform="translate(377.2852,235.9395)">
+          <path d="M0 0 7 0 7-25 0-25 0 0z"></path>
+        </g>
+        <g transform="translate(500.7227,233.7773)">
+          <path d="M0 0 7 0 7-25 0-25 0 0z"></path>
+        </g>
+        <g transform="translate(467.3145,234.3633)">
+          <path d="M0 0 7 0 7-25 0-25 0 0z"></path>
+        </g>
+        <g transform="translate(456.7441,234.5479)">
+          <path d="M0 0 29-1 29-6 0-6 0 0z"></path>
+        </g>
+        <g transform="translate(588.0039,230.9922)">
+          <path d="m0 0 18-15 0 14 7 0 0-25-4 0-2 0L2-10 1-25-6-25-5 0 0 0z"></path>
+        </g>
+        <g transform="translate(529.4346,227.582)">
+          <path d="M0 0C0 3 2 5 5 5L27 4c3 0 5-2 5-5l0-15c0-3-2-5-5-5l-22 0c-3 0-5 2-5 5L0 0zM7-1 24-1 24-15 7-14 7-1z"></path>
+        </g>
+        <g transform="translate(647.8594,229.9482)">
+          <path d="m0 0 14-25-8 0-3 5-14 0-3-5-7 0L-6 0 0 0 0 0zm1-14-4 8-4-7 8 0z"></path>
+        </g>
+        <g transform="translate(676.4063,228.8828)">
+          <path d="m0 0 6 0 1 0 17 0c2 0 4-2 4-4l0-7c0-2-2-4-4-4l-3 0 11-9-10 0-10 9-4 0 0-9-7 0L0 0zm7-5 0-5 13 0c1 0 1 0 1 1l0 3c0 1 0 1-1 1L7-5z"></path>
+        </g>
+        <g transform="translate(715.5215,228.1328)">
+          <path d="m0 0 10 0 8-9 8 8 9 0-14-13 0-11-7 0 0 11L0 0z"></path>
+        </g>
+        <g transform="translate(331.832,236.7314)">
+          <path d="m0 0 16 0c7 0 12-6 12-12L28-13c0-7-6-12-12-12l-12 0-4 0-3 0L-3 0 0 0zm4-19 10 0c3 0 6 3 6 6l0 1c0 3-3 6-6 6L4-5 4-19z"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
+</a>
+                </li>
+                <li class="toggle-topbar">
+                  <a class="svgicon svgicon-ud_menu" href="#">
+                    <svg viewBox="0 0 20 17" xmlns="http://www.w3.org/2000/svg"><rect width="20" height="3" rx="2"></rect><rect y="7" width="20" height="3" rx="2"></rect><rect y="14" width="20" height="3" rx="2"></rect></svg>
+
+                  </a>
+                  <a class="svgicon svgicon-ud_x" href="#">
+                    <svg viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg"><path d="M8.142 5.704L3.022.584c-.674-.674-1.277-.186-1.95.487-.674.674-1.162 1.277-.489 1.95l5.12 5.121-5.12 5.12c-.673.674-.185 1.278.488 1.951s1.277 1.161 1.95.488l5.121-5.12 5.12 5.12c.674.673 1.278.186 1.951-.488.674-.673 1.161-1.277.488-1.95l-5.12-5.12 5.12-5.121c.673-.674.185-1.278-.488-1.95-.673-.674-1.277-1.162-1.95-.489l-5.12 5.12z"></path></svg>
+
+                  </a>
+                </li>
+            </ul>
+
+            <section class="top-bar-section">
+                <ul class="left" id="main_nav">
+                    <li>
+                        
+                          <a href="/tos">Terms of Service</a>
+                        
+                    </li>
+                    <li>
+                        
+                          <span>Privacy Policy</span>
+                        
+                    </li>
+                    <li>
+                        
+                          <a href="/dmca">DMCA</a>
+                        
+                    </li>
+                </ul>
+            </section>
+        </nav>
+    </div>
+    <div class="row">
+      <div class="columns search-and-actions">
+          <div class="main-search">
+              <form action="http://www.urbandictionary.com/search.php" accept-charset="UTF-8" method="post">
+                  <input type="text" name="term" id="term" tabindex="1" class="autocomplete form-control" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Type any word here..." aria-label="Search for a word">
+              </form>
+          </div>
+      </div>
+  </div>
+</div>
+
+
+    <div id="outer">
+      <div class="row">
+        <div class="large-12 columns">
+          <div class="panel">
+            <h1 id="privacy-policy">Privacy Policy</h1>
 
 <p>Urban Dictionary, LLC (“Urban Dictionary”, “we” or “us”) collects (a) the e-mail addresses of those who communicate with us via e-mail, (b) aggregate information concerning what pages users access or visit, (c) information volunteered by the user (such as survey information and/or site registrations) and (d) information related to your use of the site, including IP address, geographic location and date and time of your request. The information we collect is used to improve the content of our Website and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:</p>
 
@@ -82,8 +265,11 @@ San Francisco, CA 94120</p>
 
 <p>Copyright © 2008 Urban Dictionary, LLC</p>
 
+          </div>
+        </div>
       </div>
     </div>
   
+  <script>$(function() { $(document).foundation(); })</script>
 
 </body></html>
