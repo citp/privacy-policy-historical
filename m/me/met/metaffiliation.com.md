@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metaffiliation.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124044135id_/http%3A//en.netaffiliation.com/privacy/netaffiliation-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metaffiliation.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621160854id_/http%3A//en.netaffiliation.com/privacy/netaffiliation-privacy-policy) for the most accurate reproduction.*
 
 # Contact us - Netaffiliation
 
@@ -91,9 +91,7 @@ Warszawa
 Poland Kwanko Portugal  
 Av. da Liberdade 225, 6º Esq.  
 1250-142 Lisboa  
-Portugal Kwanko Istanbul Caferağa Mahallesi  
-Sakız Sokak No:2B/4 Kadıköy   
-İstanbul - Turkey
+Portugal
 
 Give us a call  
-+33 (0)1 70 68 97 20 +32 23 18 23 60 +55 11 2362 5041 +49 (0)40 63 86 94 33 +34 910 086 100 +39 02 56 56 64 75 +212 522 219 851 +52 4746 3861 +48 22 241 46 95 +351 214 218 094 +90 0216 349 99 75
++33 (0)1 70 68 97 20 +32 23 18 23 60 +55 11 2362 5041 +49 (0)40 63 86 94 33 +34 910 086 100 +39 02 56 56 64 75 +212 522 219 851 +52 4746 3861 +48 22 241 46 95 +351 214 218 094
