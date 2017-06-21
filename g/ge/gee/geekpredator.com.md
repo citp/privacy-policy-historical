@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekpredator.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229194106id_/http%3A//geekpredator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekpredator.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621221506id_/http%3A//geekpredator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Geek Predator
 
@@ -52,6 +52,4 @@ In geekpredator.com  you can update any kind of the information provided by you
 
 Your acceptance
 
-By using this site, you signify your acceptance of this policy. 
-
-45 total views, 6 views today
+By using this site, you signify your acceptance of this policy.
