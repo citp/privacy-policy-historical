@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604020651id_/https%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbaby.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621204411id_/https%3A//www.bookbaby.com/privacy) for the most accurate reproduction.*
 
 # BookBaby Privacy Policy
 
-We care about how your personal information is used and shared. We take your privacy seriously.
+## We care about how your personal information is used and shared. We take your privacy seriously.
 
 Please read the following to learn more about our privacy policy. By visiting the BookBaby managed domains (including, but not limited to, www.bookbaby.com) and websites or domain name, or any other linked pages, features, content, or application services offered from time to time by BookBaby in connection therewith (collectively, the "Website"), submitting information, or using any of our services, you acknowledge that you accept the practices and policies outlined in this privacy policy (the "Privacy Policy").
 
