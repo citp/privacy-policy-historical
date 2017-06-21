@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224052545id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmnation.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622014449id_/http%3A//www.gsmnation.com/privacy-policy) for the most accurate reproduction.*
 
 # GSM Nation - Privacy Policy
 
@@ -108,7 +108,5 @@ To request a correction or deletion of your private information, or if you have 
 
 **Address**  
 GSM Nation LLC  
-1625 Eye ST NW  
-Suite 600  
-Washington, DC, 20006  
+Oregon  
 USA.
