@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227094943id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolframalpha.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621075001id_/http%3A//www.wolframalpha.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wolfram|Alpha Privacy Policy
 
@@ -18,7 +18,7 @@ When you use any Wolfram|Alpha application associated with a Third-Party Site ("
 
 By authorizing Wolfram|Alpha to access your TPS profile, you are authorizing Wolfram|Alpha to collect, store, and use in accordance with this Privacy Policy any and all information that your privacy settings at the TPS allow Wolfram|Alpha to access through the TPS Application Programming Interface ("API").
 
-The personally identifiable information Wolfram|Alpha is allowed to access is affected by the privacy settings you have established at the TPS. Because the linkage between any TPS and Wolfram|Alpha is completely voluntary, and our ability to access your information at the TPS requires that linkage, you have a choice whether or not to disclose such information. 
+The personally identifiable information Wolfram|Alpha is allowed to access is affected by the privacy settings you have established at the TPS. Because the linkage between any TPS and Wolfram|Alpha is completely voluntary, and our ability to access your information at the TPS requires that linkage, you have a choice whether or not to disclose such information.
 
 ## How Is Your Information Used?
 
@@ -34,21 +34,20 @@ Your IP address is used to determine, when possible, your approximate geographic
 
 We may release personally identifying information when we believe release is necessary to comply with lawful court orders. Any collected information associated with your use of the website (personal and non-personal) will be disclosed to government authorities or third parties only pursuant to a lawful request, subpoena, or other process that legally compels disclosure of that information.
 
-We may also preserve, use, or disclose your information if necessary to enforce our [Terms of Use](https://web.archive.org/termsofuse/) and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.
+We may also preserve, use, or disclose your information if necessary to enforce our [Terms of Use](https://web.archive.org/termsofuse/general/) and related agreements; to detect, prevent, or otherwise address fraud, security or technical issues, including high-volume use of the website; to respond to support requests; or to protect the rights, property, or safety of Wolfram|Alpha, our users, or others.
 
 ## Cookies
 
 When you visit our website, we, like most websites, send one or more cookies—small anonymous identifiers—to your computer that uniquely identify you to our servers. While we do use cookies for security and fraud investigation purposes, our primary purpose is to enhance your user experience by understanding and remembering your preferences, and by general tracking of our user trends. Most browsers are initially set up to accept cookies, but you can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Please be aware that Wolfram|Alpha may not have full functionality if your browser refuses cookies. We utilize the following types of cookies:
 
-1) Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website.
+  * Strictly Necessary Cookies: These cookies are strictly necessary to provide services that you have requested on our website
+  * Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.
+  * Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.
+  * Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
 
-2) Functional Cookies: These cookies support and facilitate your use of our website by enabling enhanced and personalized features.
 
-3) Performance Cookies: These cookies collect information that we utilize to support the measurement of this website.
 
-4) Targeting Cookies: These cookies are used by social sharing services (such as Facebook), and also by various third parties to deliver messaging that may be of value or interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
-
-## Links to Third-Party Websites
+##  Links to Third-Party Websites
 
 From time to time, Wolfram|Alpha may contain links to other websites. We do not exercise any control over these websites, and we are not responsible for their privacy practices or content. We encourage all users to read the privacy policies of each and every website visited when following links from the Wolfram|Alpha website. This privacy policy applies solely to information collected by Wolfram|Alpha.
 
@@ -68,8 +67,4 @@ We may update or modify this Privacy Policy from time to time in the future. Any
 
 ## Questions and Concerns
 
-If you have any questions or concerns about this Privacy Policy, you may email us or contact us by U.S. mail at Wolfram Alpha LLC, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
-
-Effective as of March 5, 2009.
-
-Sign Up for Wolfram|Alpha News 
+If you have any questions or concerns about this Privacy Policy, you may [email us](https://web.archive.org/contact.html) or contact us by U.S. mail at Wolfram Alpha LLC, Attn: Legal Department, 100 Trade Center Drive, Champaign, IL 61820-7237 USA.
