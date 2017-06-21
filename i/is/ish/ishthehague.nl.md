@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishthehague.nl privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909185042id_/http%3A//www.ishthehague.nl/page.cfm%3Fp%3D272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishthehague.nl privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621140853id_/http%3A//www.ishthehague.nl/page.cfm%3Fp%3D272) for the most accurate reproduction.*
 
 # The International School of The Hague: Privacy Policy
 
