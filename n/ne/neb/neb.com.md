@@ -1,93 +1,66 @@
-> *The following text is extracted and transformed from the neb.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113104854id_/https%3A//www.neb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neb.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621153750id_/https%3A//www.neb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NEB
 
-* [Email](https://web.archive.org/account/email-page)
-* My NEB
-* Print
-* PDF
+Effective as of 3/6/2017.
 
-## New England Biolabs, Inc. Privacy Policy
+The purpose of this Privacy Policy is to provide information about how New England Biolabs, Inc. (“NEB”) collects, uses, and transfers personal information when you visit our website, [www.neb.com](https://www.neb.com/), our mobile applications, and other websites that we control that include a direct link to this Privacy Policy (collectively, the “Sites”). Carefully review this document, as your use of the Sites is subject to this Privacy Policy. 
 
-Welcome to neb.com. 
+## Scope
 
-At New England Biolabs, Inc. (“NEB”), we take your privacy seriously. We provide this Privacy Policy to make you aware of our privacy practices and of the choices you can make about the way your information is collected and used. Your use of this site is subject to the NEB Terms of Use, the NEB Terms and Conditions of Sale, and this Privacy Policy. 
+This Privacy Policy covers only information collected through the Sites. It does not cover any other data collection or processing, including, without limitation, collection conducted offline, through other products or services that do not display a direct link to this Privacy Policy, or by other companies at third party sites that do not display a direct link to this Privacy Policy.
 
-## What We Collect
+## Information Collected
 
-In general, the types of personal information we collect include your full name, contact details and billing information (including shipping addresses and any end-user information for the products purchased), transaction, and credit card information. Additionally, in order to tailor our communications to you and to continuously improve our products and services, we may also ask you to voluntarily provide us with information regarding your scientific areas of interest, experience with our products, contact preferences, and other information that helps us serve you.
+In general, the types of personal information we collect include your contact information (such as name, company name, address, phone number and email address), and where relevant to fulfill a transaction or request, additional information such as billing or payment information, shipping addresses, end-user information, and credit card information. Additionally, in order to tailor our communications to you, we may ask you to voluntarily provide us with information regarding your scientific areas of interest, experience with our products, contact preferences, and other information. You provide us your personal information when you register on or submit information via the Sites, or otherwise provide us with or make available your personal information through other registration and data capturing processes, including other public sources of such data. In general, when you visit the Sites or interact with us in other ways you can refuse to supply personal information, with the caveat that it may prevent you from engaging in certain website-related activities. By providing your personal information, you agree that we may collect, use, share and/or transfer that information in accordance with the terms and conditions of this Privacy Policy.  
 
-## How We Collect It
+We also collect information during your use and navigation of the Sites, such as the URL of the site you came from, the browser software you use, your Internet Protocol (IP) address, IP ports, date/time of access, data transferred, pages visited, amount of time you spend on the Sites, information about transactions conducted on the Sites, and other “clickstream” data. If you use our mobile app or access the Sites from a mobile device, then we also collect your device information (such as device OS version and device hardware), unique device identifiers (including device IP address), and geolocation data. This data is generated and collected automatically, as part of the standard operation of the Sites.
 
-You provide us your personal information when you (a) register on our website or with our Customer Service team; (b) place orders with us online, via phone, fax, or other electronic methods; (c) participate in trade shows; (d) interact with our sales and marketing teams; or (e) otherwise provide us with or make available your personal information through other registration and data capturing processes, including other public sources of such data. 
+We use cookies, web beacons, tracking pixels, and other technologies (collectively, “Tools”) to collect information during your use and navigation of the Sites. A cookie is a text file that may be stored on your computer’s hard drive when you visit certain websites. With cookies in place, our system will recognize you whenever you use your web browser to connect to our page. Disabling cookies may prevent you from using certain features of the site. If you choose not to take advantage of these interactive features, you can set your browser to reject cookies or to alert you when a cookie has been sent. 
 
-In general, when you visit NEB at neb.com or when you interact with us in other ways, you can choose how much information you share. You can refuse to supply personal information, with the caveat that it may prevent you from engaging in certain website-related activities.
+## Use of Information
 
-By giving us your personal information, you agree that we may collect and use such personal information in accordance with the terms and conditions of this Privacy Policy. 
+NEB uses your information to better understand your needs, fulfill orders, complete transactions, provide requested services and information, and update you on products, services and benefits, which may include marketing materials. If you order products through our Sites, we may contact you by email to provide information about your order (e.g., order confirmations, shipment notifications). If you have an account with the Sites, we may also send you email regarding your account status or changes to relevant agreements or policies.
 
-Additionally, third parties, or affiliates owned by NEB, may provide information to us about you, and if and to the extent they do, we will treat such combined information in accordance with this Privacy Policy. 
+We use information passively submitted by you to personalize features and your experience of the Sites, and otherwise to generally improve the content, design, and navigation of the Sites. To the extent permitted by applicable law, we may combine the various types of data we collect. We may conduct marketing analysis and similar research to assist us in making business decisions. Such analysis and research activities may be conducted through third party services, using anonymous data and aggregate statistics generated by our information collection.
 
-## How We Use It
+In compliance with applicable law, we may use contact information that you have provided to send you information regarding products and services, as well as other information that we think may be useful to you. If you do not wish to receive marketing information from us, you may opt out (see “[Opting Out](http://authoring.neb.com/sitecore/shell/Controls/Rich%20Text%20Editor/EditorPage.aspx?da=core&id=%7b50F1DB87-81C0-49CC-A00C-1578927D9638%7d&ed=FIELD4460281970&vs&la=en&fld=%7bF882B32F-D62C-4EF3-94F6-A0FD134FD247%7d&so=%2fsitecore%2fsystem%2fSettings%2fHtml+Editor+Profiles%2fMultiline+Rich+Text+No+Notes+and+Refs&di=0&hdl=H4460282319&us=sitecore%5clewandowski&mo&pe=0#optout)” below).
 
-NEB uses your information to better understand your needs and to provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate with you (when you have not expressed an interest otherwise), to update you on services and benefits, to improve website navigation, to personalize features and other services for you, to conduct market and research analysis, and for other purposes identified to you. 
+## Sharing/Transferring Personal Information
 
-## With Whom We Share Your Personal Information
+In general, we share and/or transfer your personal information to affiliates, agents, vendors or service providers who assist us in the process of providing products or services to you, or otherwise perform functions on our behalf. We will not rent, sell or otherwise transfer your data to a third party for monetary consideration. We reserve the right to disclose personal information to third parties where we believe in good faith that disclosure is required by law, to cooperate with regulators or law enforcement authorities, to comply with a judicial proceeding or legal process, or to protect the safety, rights, or property of our customers, the public, or NEB. If we sell or transfer a business unit or asset to another company, we may share or transfer your personal information pursuant to the terms of the transaction. In addition, we may disclose information about you to a third party at your request, or if you consent to the disclosure.
 
-In general, we provide access to your personal information only to affiliates, agents, vendors or service providers, who help us to provide products or services to you, or otherwise perform functions on our behalf. We will not sell or otherwise transfer your data to a third party for monetary consideration.
+## International Data Transfer 
 
-We reserve the right to disclose personal information to non-affiliated third parties in limited circumstances, where we believe in good faith that disclosure is required under law, to cooperate with regulators or law enforcement authorities, or to protect the safety, rights, or property of our customers, the public, or NEB.
+Any personal information you provide to NEB, its affiliates, agents, vendors and service providers may be stored and processed, transferred between and accessed from the United States and other countries, which may not guarantee the same level of protection of personal information as the country in which you reside. However, NEB will handle personal information collected through a Site in accordance with the Site’s linked Privacy Policy.
 
-If we sell or transfer a business unit (such as a subsidiary or division) or an asset (such as a product line) to another company, we may share your personal information with such company under those circumstances. 
+## Other Web Sites
 
-In addition, we may disclose information about you to a non-affiliated third party at your request or if you consent in writing to the disclosure.
-
-## Cookies and Other Tools
-
-Like many websites, NEB uses cookies, web beacons, tracking pixels, and other technologies (collectively, “Tools”) to improve your neb.com experience. A cookie is a file containing text that is placed on your computer’s hard drive when you visit certain websites. With cookies in place, our system will recognize you whenever you use your web browser (such as Internet Explorer or Firefox) to connect to our page. This enables us to present you with custom web pages and otherwise improve your user experience.
-
-Disabling cookies may prevent you from using certain features of the site such as registering or placing orders. If you choose not to take advantage of these interactive features, you can set up your browser to reject cookies or to alert you when a cookie has been sent. The “Help” section of your browser will tell you how to prevent your browser from accepting cookies. To find out more about cookies, including how to see what cookies have been set and how to manage or delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
-
-Do Not Track (DNT) is a privacy preference that users can set in their web browsers. When a user turns on DNT, the browser sends a message to websites requesting that they don’t track the user. Standard DNT technology is not yet finalized, and not all browsers support DNT, so neb.com information collection and disclosure practices, and the choices that it provides to consumers, may continue to operate as described in this Privacy Policy, whether or not a DNT signal is received. For more information about DNT see <http://donottrack.us/>.
-
-## Transfer of Data to Other Countries
-
-Any information you provide to NEB may be stored and processed, transferred between and accessed from the United States and other countries, which may not guarantee the same level of protection of personal information as the one in which you reside. However, NEB will handle your personal information in accordance with this Privacy Policy, regardless of where your personal information is stored.
-
-## Other web sites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Our Sites may contain links to other websites of interest. However, once you have used these links to leave our Sites, you should note that we do not have any control over other websites. Therefore, we cannot be responsible for the protection of any information provided while visiting such sites, and such sites are not governed by this Privacy Policy. You should exercise caution and carefully review the privacy statement applicable to the website in question.
 
 ## Security
 
-We use administrative, physical and technical measures to safeguard your personal information and help protect it from unauthorized access. All of our website communications are HTTPS based, and provide end to end encryption for any data flowing between NEB and the browser.  We also use both passwords and usernames to authenticate users (i.e. to verify the identity of each registered user). Users are responsible for maintaining the secrecy of their own passwords.
-
-However, no security can be 100% effective, so we cannot guarantee the security of your information. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us by contacting us at the email address listed below.
+We use commercially reasonable administrative, physical and technical measures intended to safeguard your personal information and help protect it from unauthorized access or loss. Users are responsible for maintaining the confidentiality of their own passwords to access the Sites. However, no security can be 100% effective, and you should not expect that your information will remain private under all circumstances. If you have reason to believe that the security of your personal information has been compromised, please immediately notify us by contacting us at [ITinfo@neb.com](mailto:ITinfo@neb.com).
 
 ## Opting Out
 
-If you do not wish to receive certain communications from us, you may opt out by: (1) declining the service offered when registering or at other information gathering points on our website, or (2) informing us that you no longer wish to receive such communications by emailing us at:  [NEBUnsubscribe@neb.com](mailto:NEBUnsubscribe@neb.com). We will comply with such requests unless such communications from us are required by law or contract or do not require your consent under applicable laws. If you opt out of certain communications, you may not be able to access certain of our products or services. If you would like to opt-out of receiving communications from affiliates or other third parties with whom we shared data in accordance with this policy, please contact such third parties directly. 
+If you do not wish to receive marketing information from us, you may opt out by: (1) declining marketing information when registering or at other information gathering points on the Sites, or (2) informing us that you no longer wish to receive marketing communications by emailing us at [NEBUnsubscribe@neb.com](http://authoring.neb.com/sitecore/shell/Controls/Rich%20Text%20Editor/NEBUnsubscribe@neb.com). We will comply with these requests unless such communications are required by law or contract or do not require your consent under applicable laws. If you would like to opt-out of receiving communications from affiliates or other third parties with whom we shared data in accordance with this Privacy Policy, please contact such third parties directly.
 
 ## Children's Privacy
 
-We do not knowingly collect personal information from children under the age of 18. 
+We do not knowingly collect personal information from children under the age of 18. 
 
-## Data Integrity
+## Data Retention and Access
 
-We will use personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by you. We will take reasonable steps to ensure that your personal information is relevant to its intended use, accurate, complete, and current. 
+We retain data for at least as long as required by applicable law. You may access, correct, and/or update your information by accessing your accounts or profiles, where relevant, on the Sites. You may request a summary of information we hold about you, as well as corrections, updates or deletion of your information, by contacting us at [ITinfo@neb.com](http://authoring.neb.com/sitecore/shell/Controls/Rich%20Text%20Editor/NEBUnsubscribe@neb.com). Our response to such requests will be limited to information under our direct control. We will make reasonable efforts to respond promptly to such requests in accordance with applicable laws.
 
-## Access and Correction of Information
+## Changes to Privacy Policy
 
-You may at any times request access to a summary of your personal information held by us, and request corrections or updates to that information. We will make reasonable efforts to respond promptly to such requests for information in accordance with local laws. Our response to such requests will be limited to information under our direct control. 
+We reserve the right to change this Privacy Policy from time to time and in our sole discretion. Changes will be effective upon the date the revised Privacy Policy is posted on the [neb.com](https://www.neb.com/) website, with the effective date noted in the Policy header at the top of this page. When you visit the Sites, you accept the version of this Privacy Policy in effect at that time. We recommend that you periodically revisit and review this page to obtain the latest information on our privacy practices.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the below address. We will promptly correct any information found to be incorrect.
+## Contact Information
 
-## Changes to This Privacy Policy
-
-From time to time, we may update and timely post revisions to this Privacy Policy. Any changes will be effective immediately upon the posting of the revised Privacy Policy. If the Privacy Policy changes in a way that materially affects how we handle personal information, we will not use the personal information we previously gathered in the manner described in the new policy without providing notice and/or obtaining your consent, as appropriate. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-## Contact Details
-
-If you have any questions or concerns about his policy, please contact NEB via email at [info@neb.com](mailto:info@neb.com).
+If you have any questions or concerns about this Privacy Policy, please contact NEB via email at [ITinfo@neb.com](mailto:ITinfo@neb.com).
 
 ##  My NEB 
 
