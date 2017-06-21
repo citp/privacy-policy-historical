@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026222606id_/https%3A//www.alarm.com//privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alarm.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622001514id_/https%3A//www.alarm.com//privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,19 +13,20 @@ Alarm.com collects and stores certain information from or about you that can be 
 
 Alarm.com may collect information regarding your use of the Alarm.com User Interfaces and Services, including but not limited to: performance of any security or other device monitored by Alarm.com, electrical usage or consumption, heating and cooling information, light or other fixture settings, and usage and alert logs. We receive this type of information from your devices that are monitored or controlled by Alarm.com and your computer or other electronic device through which you may access, browse, download, receive, or otherwise use the Alarm.com User Interfaces or Services (each a “Personal Device”), and we may also receive and collect such information from third parties.
 
-Some features of our Services, such as location-activated arming reminders, thermostat adjustments, and other location-based Services (collectively, “GeoServices”), use location information. Before GeoServices information can be used or collected, you must first opt-in to activate these Services. If you enable these features, we will automatically collect and store location information from your Personal Device or vehicle you designate which is capable of producing location data (e.g., mobile device, GPS device, or vehicle). This location information may include your current location or places you have recently visited. We also may aggregate this information, but this information will only be used for Alarm.com's internal purposes and to provide information requested by you. If you do not wish for us to collect and store this information, do not enable these features.
+Some features of our Services, such as location-activated arming reminders, thermostat adjustments, vehicle diagnostics, and other location-based Services (collectively, “GeoServices”), use location information. Before GeoServices information can be used, you must first opt-in to activate these Services. If you enable these features, we will automatically collect and store location information from your Personal Device or vehicle you designate which is capable of producing location data (e.g., mobile device, GPS device, or vehicle). This location information may include your current location or places you have recently visited. We also may aggregate this information, but this information will only be used for Alarm.com's internal purposes and to provide information requested by you. If you do not wish for us to collect and store this information, do not enable these features.
 
   
 
 
-When you subscribe to Alarm.com’s video monitoring Service, use a connected doorbell, camera, or other connected device or wearable, you may enable us to record, store and process video and/or audio recordings from your monitoring equipment, subject to your configuration and settings. This may include capturing and emailing to you portions of this data as part of a notification or analyzing the data to identify motion or other events. We may process information from your monitoring equipment so that we can send you alerts. In addition, if you have the recording features enabled, we will capture, process and store video and audio data recordings from your device and you may be able to access those recordings. 
+When you subscribe to Alarm.com’s video monitoring or video monitoring add-on Services such as the Visual Verification services, use a connected doorbell, camera, image sensor, or other connected device or wearable or subscribe to two-way voice, you may enable us, our service providers, or your Central Station, to record, store, view and process video and/or audio recordings from your monitoring equipment. This may include capturing and sending to you portions of this data as part of a notification or analyzing the data to identify motion or other events. We may process information from your monitoring equipment so that we can send you alerts. In addition, if you have the recording features enabled, we will capture, process and store video and audio data recordings from your device and you may be able to access those recordings. 
 
-Data protection and privacy laws in your country may impose certain responsibilities on you and your use of security cameras, connected doorbells and other devices with recording capabilities. You (not Alarm.com) are responsible for ensuring that you comply with any applicable laws. For example, you may need to display a notice that alerts visitors to your home or office that they may be recorded using security cameras and other devices with recording capabilities. Alarm.com takes no responsibility for your compliance with applicable law.
+Data protection and privacy laws in your country may impose certain responsibilities on you and your use of security cameras, connected doorbells and other devices with recording capabilities. You (not Alarm.com) are responsible for ensuring that you comply with any applicable laws. For example, you may need to display a notice that alerts visitors to your home or business that they may be recorded using security cameras and other devices with recording capabilities. Alarm.com takes no responsibility for your compliance with these laws.
 
 Alarm.com will not disclose your Personal Information to any other entity except:
 
   * as is necessary to provide the Alarm.com User Interfaces and Services to you;
   * to your service provider (also referred to as your Alarm.com Dealer), the company through which you subscribed to our Services;
+  * to the central station selected by your service provider to receive alarm signals and coordinate emergency response;
   * when you have opted in to share the information;
   * when we need to share the information with an entity who works on our behalf to provide the Services (these entities do not have any right to use the Personal Information we provide to them beyond what is necessary to assist us);
   * if you are an existing customer, to promote additional Alarm.com-supported products and Services to you, either directly or through a third party;
@@ -34,13 +35,13 @@ Alarm.com will not disclose your Personal Information to any other entity except
 
 
 
-In addition, we may disclose your information when the information has been converted to a form that cannot be used to identify you. It may also be necessary for us to disclose your Personal Information in case of a merger or combination with, or acquisition of a portion of its business by, another company or entity, in which case Personal Information collected by Alarm.com would be expected to be one of the transferred business assets.
+In addition, we may disclose your information when the information has been converted to a form that cannot be used to identify you. It may also be necessary for us to disclose your Personal Information in case of a merger or combination with, or acquisition of a portion of our business by, another company or entity, in which case Personal Information collected by Alarm.com would be expected to be one of the transferred business assets.
 
-Alarm.com has security measures in place to protect against the loss, misuse, and alteration of your information. For example, we protect your information through a unique username and password, and we protect certain sensitive communications with our website through server authentication and secure connections. However, no method of data transmission is completely secure.
+Alarm.com has security measures in place to protect against the loss, misuse, and alteration of your Personal Information. For example, we protect your information through a unique username and password, and we protect certain sensitive communications with our website through server authentication and secure connections. However, no method of data transmission is completely secure.
 
 You may view, update, or delete your Personal Information at any time by following the links at www.alarm.com to your profile and address book pages. These changes will be immediately made to our records. If you wish to stop notifications, you may do so through the User Interfaces.
 
-Customers of Alarm.com Dealers: Changes to your user profile on the Alarm.com User Interfaces may not affect the records of your Alarm.com Dealer. You should contact your Alarm.com Dealer directly to make changes to its records.
+Customers of Alarm.com Dealers: Changes to your user profile on the Alarm.com User Interfaces may not automatically change the records of your Alarm.com Dealer. You should contact your Alarm.com Dealer directly to make changes to its records.
 
 We employ “cookie” technology and “web beacons” to help you move faster through the User Interfaces, to help improve the functionality of the User Interfaces, to collect information for advertising of our Services and to optimize your use of our User Interfaces. A cookie is a string of information sent by a User Interface and stored on your hard drive or temporarily in your Personal Device’s memory. A “web beacon” is an electronic image placed in the code of a web page. Our third party service providers may employ cookies and web beacons to tailor Alarm.com's advertising to your interests, monitor the traffic patterns of users from one Alarm.com page to another or to improve site performance. We also use cookies to identify you on future visits to our site and to other sites. When you access the Alarm.com User Interfaces, we place a cookie on your computer. This allows the user interfaces to recognize you as you navigate through the User Interfaces. At your discretion, Alarm.com may store and access cookies on your Personal Device to allow you to bypass the process of re-entering certain information each time you access the Alarm.com website. You can also delete cookies from your website browser at any time.
 
@@ -64,11 +65,11 @@ If you have any questions, concerns, or suggestions regarding this Privacy Polic
 or  
 Alarm.com Incorporated – Privacy  
 8281 Greensboro Drive, Suite 100  
-Tysons Corner, VA 22102  
+Tysons, VA 22102  
 USA  
 
 
-Last updated: March 25, 2016
+Last updated: October 31, 2016
 
   
 
