@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the debshops.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120233829id_/http%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the debshops.com privacy policy that was archived on 2017-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170621100432id_/http%3A//www.debshops.com/SiteInfo/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"><title>
 	Plus Size Clothing | DebShops
-</title><link rel="icon" href="../Images/logo.ico" type="image/x-icon"><link rel="shortcut icon" href="../Images/logo.ico" type="image/x-icon"><meta name="description" content="Shop Latest Trendy Plus Size Clothing including Plus Size Dresses, Plus Size Tops, Plus Size Bottoms, Plus Size Intimates, Cute Shoes and Many More."><meta name="keywords" content="Plus Size Clothing, Plus Size Dresses, Plus Size Tops, Plus Size Bottoms, Plus Size Intimates"><link href="../css/bootstrap.css" rel="stylesheet"><link href="../css/bootstrap-custom.css" rel="stylesheet"><link href="../Styles/buttons.css" rel="stylesheet"><link href="../Styles/Catalog.css" rel="stylesheet"><link href="../Styles/Site.css" rel="stylesheet"><link href="../Scripts/jquery-ui-1.11.0.custom/jquery-ui.min.css" rel="stylesheet"><link rel="stylesheet" type="text/css" href="../Html/css/styles2.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/superfish-master/src/css/superfish.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/ResponsiveSlides/responsiveslides.css" media="all"><link rel="stylesheet" type="text/css" href="../Html/css/easytabs.css" media="all">
+</title><link rel="icon" href="../Images/favicon.ico?112920164" type="image/x-icon"><link rel="shortcut icon" href="../Images/favicon.ico?112920164" type="image/x-icon"><meta name="description" content="Shop Latest Trendy Plus Size Clothing including Plus Size Dresses, Plus Size Tops, Plus Size Bottoms, Plus Size Intimates, Cute Shoes and Many More."><meta name="keywords" content="Plus Size Clothing, Plus Size Dresses, Plus Size Tops, Plus Size Bottoms, Plus Size Intimates"><link href="../css/bootstrap.css?06152017" rel="stylesheet"><link href="../css/bootstrap-custom.css?06152017" rel="stylesheet"><link href="../Styles/buttons.css?06152017" rel="stylesheet"><link href="../Styles/Catalog.css?06152017" rel="stylesheet"><link href="../Styles/Site.css?06152017" rel="stylesheet"><link href="../Scripts/jquery-ui-1.11.0.custom/jquery-ui.min.css?06152017" rel="stylesheet"><link rel="stylesheet" type="text/css" href="../Html/css/styles2.css?06192017" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/superfish-master/src/css/superfish.css?06152017" media="all"><link rel="stylesheet" type="text/css" href="../Html/script/ResponsiveSlides/responsiveslides.css?06152017" media="all"><link rel="stylesheet" type="text/css" href="../Html/css/easytabs.css?06152017" media="all">
 
     <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script src="https://bat.bing.com/bat.js" async=""></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/Html/script/jquery-1.11.2.js"></script>
     <script type="text/javascript" src="/js/bootstrap.min.js"></script>
@@ -94,6 +94,10 @@
                 color: #111010;
                 line-height: 40px;
                 font-size: 13px;
+            }
+
+            .navbar {
+                margin-bottom: 1px;
             }
         }
 
@@ -240,7 +244,7 @@
         }
 
         .top-shopping-promo-wrapper{
-            background: #000000;
+            background: #596E6C;
             color: #ffffff;
             padding: 10px;
             text-align: center;
@@ -252,17 +256,18 @@
         }
 
         .top-shopping-promo{
-            background: #000000;
+            background: #000;
             color: #ffffff;
-            padding: 10px;
+            padding: 0px;
             text-align: center;
-            line-height: 11px;
+            /*line-height: 11px;
             font-size: 11px;
-            letter-spacing: 0.5px;
+            letter-spacing: 0.5px;*/
             font-weight: normal;
             position:fixed;
             width:100%;
             z-index:110;
+            
         }
 
         .top-font{            
@@ -346,7 +351,19 @@
             margin-top: -13px;
             float: left;
         }
+
+        #m-shopcart{
+            cursor:pointer;
+        }
+
+        .cart-btn{
+            cursor:pointer;
+        }
     </style>
+
+    <!--Start of Zendesk Chat Script-->
+    
+    <!--End of Zendesk Chat Script-->
 
     
     
@@ -395,10 +412,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <input type="text" class="header-search-mobile" style="width: 5px; border: 0; background-color: #000; padding-top: 20px;" maxlength="50">
                         </div>
                     </div>
-
-                    <div class="navbar-brand pull-right" style="margin: 0px 0px 0px 0px; padding-top: 0px; background-image: url(/images/bag.png); background-size: 34px 34px; background-repeat: no-repeat; background-position-x: 3px; background-position-y: 10px; background-color: #000;">
-                        <div style="float: left; color: #000; width: 10px; height: 33px; margin: 0 auto; margin-top: 10px;"><a href="/ShoppingCart/Default.aspx"><span class="cartCnt" style="font-size: 0.7em; line-height: 40px; margin-left: -3px;">0</span></a></div>
+                                        
+                    <div class="navbar-brand pull-right" id="m-shopcart" style="margin: 0px 0px 0px 0px; padding-top: 0px; background-image: url(/images/bag.png); background-size: 34px 34px; background-repeat: no-repeat; background-position-x: 3px; background-position-y: 10px; background-color: #000;">
+                        <div style="float: left; color: #000; width: 10px; height: 33px; margin: 0 auto; margin-top: 10px;"><a href="/ShoppingCart/Default.aspx"><span class="cartCnt" style="color:#000;font-size: 0.7em; line-height: 40px; margin-left: -3px;">0</span></a></div>
                     </div>
+                    
 
                     <div class="navbar-brand pull-right" style="margin: 0px 0px 0px 0px; padding: 0px; background-color: #000;">
                         <img src="/Html/image/bar.png" style="height: 54px;">
@@ -436,9 +454,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         </div>
                                     </div>
 
+                                    
                                     <div class="cart-btn row">
                                         <a href="http://www.debshops.com/ShoppingCart/Default.aspx" class="text-uppercase btn-cart" style="color: #fff;">View My Bag</a>
                                     </div>
+                                    
+
                                 </div>
 
                             </div>
@@ -462,19 +483,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 <div class="collapse navbar-collapse text-center" id="bs-example-navbar-collapse-1" aria-expanded="true">
                     <ul class="nav navbar-nav">
                         
-                        <li class="menufont"><a class="divmenu modile-category uppercase" href="/category/newarrival">New Arrivals</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/best-seller';"><a href="/category/newarrival/best-seller">Best Seller</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/back-in-stock';"><a href="/category/newarrival/back-in-stock">Back In Stock</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/plusclothes';"><a href="/category/newarrival/plusclothes">Plus Clothing</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/accessories';"><a href="/category/newarrival/accessories">Accessories</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/shoes-bags';"><a href="/category/newarrival/shoes-bags">Shoes &amp; Bags</a></li></ul><a class="divmenu modile-category uppercase" href="/category/plusclothes">Plus Clothing</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/dresses';"><a href="/category/plusclothes/dresses">Dresses</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/tops';"><a href="/category/plusclothes/tops">Tops</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/denim';"><a href="/category/plusclothes/denim">Denim</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/rompers-jumpsuits';"><a href="/category/plusclothes/rompers-jumpsuits">Rompers + Jumpsuits</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/bottom';"><a href="/category/plusclothes/bottom">Bottom</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/outerwear';"><a href="/category/plusclothes/outerwear">Outerwear</a></li></ul><a class="divmenu modile-category uppercase" href="/category/accessories">Accessories</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/jewelry';"><a href="/category/accessories/jewelry">Jewelry</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/hats-headwear';"><a href="/category/accessories/hats-headwear">Hats + Headwear</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/tights-socks';"><a href="/category/accessories/tights-socks">Tights + Socks</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/scarves-gloves';"><a href="/category/accessories/scarves-gloves">Scarves + Gloves</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/novelty';"><a href="/category/accessories/novelty">Novelty</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/eyewear';"><a href="/category/accessories/eyewear">Eyewear</a></li></ul><a class="divmenu modile-category uppercase" href="/category/shoes-bags">Shoes &amp; Bags</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/shoes-bags/shoes';"><a href="/category/shoes-bags/shoes">Shoes</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/shoes-bags/bags';"><a href="/category/shoes-bags/bags">Bags</a></li></ul><a class="divmenu modile-category uppercase" href="/category/trends">Trends</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/cozy';"><a href="/category/trends/cozy">Cozy</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/gifting-page';"><a href="/category/trends/gifting-page">Gifts</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/all-black-items';"><a href="/category/trends/all-black-items">Better in Black</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/anything-green';"><a href="/category/trends/anything-green">Green Goddess</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/work-wear';"><a href="/category/trends/work-wear">Work Wear</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/street-chic';"><a href="/category/trends/street-chic">Street Chic</a></li></ul><a class="divmenu modile-category uppercase" href="/category/sale">Sale</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/sale/plusclothes';"><a href="/category/sale/plusclothes">Plus Clothing</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/sale/accessories';"><a href="/category/sale/accessories">Accessories</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/sale/shoes-bags';"><a href="/category/sale/shoes-bags">Shoes &amp; Bags</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/sale/best-of-sale';"><a href="/category/sale/best-of-sale">Best Of Sale</a></li></ul></li>
+                        <li class="menufont"><a class="divmenu modile-category uppercase" href="/products/preorder.aspx">PRE-ORDER</a><ul><li class="divider"></li></ul><a class="divmenu modile-category uppercase" href="/category/trends/swim">SWIM</a><ul><li class="divider"></li></ul><a class="divmenu modile-category uppercase" href="/category/newarrival">New Arrivals</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/style-steals';"><a href="/category/newarrival/style-steals">Style Steals</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/back-in-stock';"><a href="/category/newarrival/back-in-stock">Back In Stock</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/best-seller';"><a href="/category/newarrival/best-seller">Best Seller</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/plusclothes';"><a href="/category/newarrival/plusclothes">Plus Clothing</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/accessories';"><a href="/category/newarrival/accessories">Accessories</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/newarrival/shoes-bags';"><a href="/category/newarrival/shoes-bags">Shoes &amp; Bags</a></li></ul><a class="divmenu modile-category uppercase" href="/category/plusclothes">Plus Clothing</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/dresses';"><a href="/category/plusclothes/dresses">Dresses</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/tops';"><a href="/category/plusclothes/tops">Tops</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/denim';"><a href="/category/plusclothes/denim">Denim</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/rompers-jumpsuits';"><a href="/category/plusclothes/rompers-jumpsuits">Rompers + Jumpsuits</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/bottom';"><a href="/category/plusclothes/bottom">Bottom</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/outerwear';"><a href="/category/plusclothes/outerwear">Outerwear</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/intimates';"><a href="/category/plusclothes/intimates">Lingerie</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/activewear';"><a href="/category/plusclothes/activewear">Activewear</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/plusclothes/THE-B-WORD-X-DEB';"><a href="/category/plusclothes/THE-B-WORD-X-DEB">THE B WORD X DEB</a></li></ul><a class="divmenu modile-category uppercase" href="/category/accessories">Accessories</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/jewelry';"><a href="/category/accessories/jewelry">Jewelry</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/hats-headwear';"><a href="/category/accessories/hats-headwear">Hats + Headwear</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/tights-socks';"><a href="/category/accessories/tights-socks">Tights + Socks</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/scarves-gloves';"><a href="/category/accessories/scarves-gloves">Scarves + Gloves</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/novelty';"><a href="/category/accessories/novelty">Novelty</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/eyewear';"><a href="/category/accessories/eyewear">Eyewear</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/accessories/beauty';"><a href="/category/accessories/beauty">Beauty</a></li></ul><a class="divmenu modile-category uppercase" href="/category/shoes-bags">Shoes &amp; Bags</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/shoes-bags/shoes';"><a href="/category/shoes-bags/shoes">Shoes</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/shoes-bags/bags';"><a href="/category/shoes-bags/bags">Bags</a></li></ul><a class="divmenu modile-category uppercase" href="/category/trends">Trends</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/4th-of-july';"><a href="/category/trends/4th-of-july">4th of July</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/white-hot';"><a href="/category/trends/white-hot">White Hot</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/the-flower-shop';"><a href="/category/trends/the-flower-shop">The Print Shop</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/bridal';"><a href="/category/trends/bridal">Bridal</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/Jetsetter';"><a href="/category/trends/Jetsetter">Jetsetter</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/lace-up';"><a href="/category/trends/lace-up">Lace Up</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/work-wear';"><a href="/category/trends/work-wear">Work Wear</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/athleisure';"><a href="/category/trends/athleisure">Athleisure</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/wrap';"><a href="/category/trends/wrap">Wrap</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/deb-basics';"><a href="/category/trends/deb-basics">Deb Basics</a></li></ul><a class="divmenu modile-category uppercase" href="/category/sale">Sale</a><ul><li class="divider"></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/sale/plusclothes';"><a href="/category/sale/plusclothes">Plus Clothing</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/sale/accessories';"><a href="/category/sale/accessories">Accessories</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/sale/shoes-bags';"><a href="/category/sale/shoes-bags">Shoes &amp; Bags</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/under-$5';"><a href="/category/trends/under-$5">Shop by Price</a></li><li class="divider"></li><li class="divmenu" onclick="location.href='/category/trends/bundle-deals';"><a href="/category/trends/bundle-deals">Bundle Price</a></li></ul></li>
                         
                         
 
                         <li class="divider"></li>
 
                         <li class="divmenu menufont" onclick="location.href='http://www.debshops.com/Customer/WishList.aspx';">
-                            <a href="http://www.debshops.com/Customer/WishList.aspx">Fitting Room</a>
+                            <a href="http://www.debshops.com/Customer/WishList.aspx" style="font-weight: bold;">Fitting Room</a>
                         </li>
 
                         <li class="divider"></li>
 
-                        <li class="divmenu menufont">
+                        <li class="divmenu menufont" style="font-weight: bold;">
                             
                             <a href="http://www.debshops.com/Customer/Login.aspx">Log In / Join</a>
                             
@@ -483,7 +504,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                         <li class="divider"></li>
 
                         <li class="divmenu menufont" onclick="location.href='http://www.debshops.com/ShoppingCart/Default.aspx';">
-                            <a href="http://www.debshops.com/ShoppingCart/Default.aspx">My Bag <span id="cartCnt-mini">0</span></a>
+                            <a href="http://www.debshops.com/ShoppingCart/Default.aspx" style="font-weight: bold;">My Bag <span id="cartCnt-mini">0</span></a>
                         </li>
 
                         <li class="divider"></li>
@@ -504,109 +525,172 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
         <!-- desktop header -->
-        <div class="top-shopping-promo uppercase hidden-xs" style="z-index:1000">Free standard shipping on orders over $50 within the 48 contiguous United States. We ship to CAN, AUS, MEX!</div>
-        <div class="top-shopping-promo-wrapper uppercase hidden-xs">&nbsp;</div>
-        
-        <div class="cushion-site">
+        <!-- new Header -->
+        <style type="text/css">
+            .mGnb.tFixedTheme{position:fixed; top:0; width:100%; z-index:100; background:#fff;}
+            .mGnb.tFixedTheme .gnbWrap{*zoom: 1; max-width:1600px; margin:16px auto 0; padding:0 0 25px; position:relative; background:#fff;}
+            .mGnb.tFixedTheme .gnbWrap:after{content: ""; display: block; clear: both;}
 
-            <div id="center">
+            .mGnb.tFixedTheme .gnbLogo,
+            .mGnb.tFixedTheme .gnbMenu,
+            .mGnb.tFixedTheme .gnbMore {*zoom: 1; }
 
-            <div class="header">
-                <div class="toolbar hidden-xs">
-                
-                    <div class="contents">
-                                        
-                        <div class="header-search-wrapper"></div>
+            .mGnb.tFixedTheme .gnbLogo:after,
+            .mGnb.tFixedTheme .gnbMenu:after,
+            .mGnb.tFixedTheme .gnbMore:after{content: ""; display: block; clear: both;}
 
-                        <div class="header-tool-wrapper">
+            .mGnb.tFixedTheme .gnbLogo{position:absolute; top:0; left:16px;}
+            .mGnb.tFixedTheme .gnbLogo .logoRow img{height:45px;}
 
-                            <div class="search-ico-org">
-                                <button class="header-search-button uppercase" style="background-color: #FFF;background-size:70%;"><span id="btnSearch"></span></button>&nbsp;
-                                <input type="text" class="header-search" style="color: #000; background-color: #FFF; border: 0; border-bottom: 1px solid #000;" placeholder="SEARCH" maxlength="50">                            
+            .mGnb.tFixedTheme .gnbMenu{padding-right:240px;padding-top:3px;}
+            .mGnb.tFixedTheme .gnbMenu .gnbInner{*zoom: 1; padding:11px 0 0 232px;}
+            .mGnb.tFixedTheme .gnbMenu .gnbInner:after{content: ""; display: block; clear: both;}
+            .mGnb.tFixedTheme .gnbMenu .gnbInner > .wmenu{width:auto !important;}
+            .mGnb.tFixedTheme .gnbMenu .gnbInner .wmenu > .topmenulink{font-size:12px; margin-right:40px; border:0 !important;}
+
+            .mGnb.tFixedTheme .gnbMore{position:absolute; right:0; top:0; padding:3px 16px 0 0;}
+            .mGnb.tFixedTheme .gnbMore .moreInner{*zoom:1; padding:11px 0 0 0;}
+            .mGnb.tFixedTheme .gnbMore .moreInner:after{content:""; display:block; clear:both;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li{float:left;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.loginRow{margin-top:-1px;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.loginRow a{font-size:12px;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li .hideTxt{display:none; font-size:0; line-height:0;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li .iconType{display:inline-block; vertical-align:top;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li .iconType.iconSearch{width:22px; height:20px; background:url(/images/btn_search.png) no-repeat 0 0;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li .iconType.iconWish{width:17px; height:17px; background:url(/images/wishlist.png) no-repeat 0 0;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li .iconType.iconCartBag{width:17px; height:17px; background:url(/images/cart-bag.png) no-repeat 0 0;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li .iconType.iconCartBag .cartCnt{display:inline-block; vertical-align:top; line-height:17px; margin-top:1px;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.searchRow{position:relative; margin-left:22px;}
+            
+            .mGnb.tFixedTheme .gnbMore .moreInner li.searchRow .searchBox{display:none; position:absolute; right:0; top:0; width:221px;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.searchRow .searchBox .header-search{float:left;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.searchRow .searchBox .header-search-button{float:left;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.searchRow .searchBox.selectShow{display:block;}
+
+            .mGnb.tFixedTheme .gnbMore .moreInner li.wishRow{margin-left:12px;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.cartRow{margin-left:16px;}
+            .mGnb.tFixedTheme .gnbMore .moreInner li.cartRow .cartbox-wrapper{position:absolute !important; right:-16px; top:35px;}
+
+            .mGnb.tFixedTheme .top-shopping-promo{position:static;}
+            .mGnb.tFixedTheme .top-shopping-promo-wrapper{display:none; height:0;}
+
+            .mPromo.tBnrTop{margin:22px 0 0; width:100%;}
+            .mPromo.tBnrTop img{width:100%;}
+
+            .newFixedTheme{padding-top:147px;}
+
+            @media (max-width: 1370px) {
+                .newFixedTheme{padding-top:147px;}
+            }
+
+            @media (max-width: 967px){                
+                .newFixedTheme{padding-top:141px;}
+            }
+
+            @media (max-width: 945px){                
+                .newFixedTheme{padding-top:141px;}
+            }
+
+            @media (max-width: 767px){
+                .mGnb.tFixedTheme{display:none;}
+                .newFixedTheme{padding-top:0;}
+            }
+
+        </style>
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $('.fSearch').click(function(e){
+                    $('.searchBox').addClass('selectShow');
+                    e.preventDefault();
+                });
+            });
+        </script>
+        <!-- mGnb tFixedTheme -->
+        <div class="mGnb tFixedTheme">
+            
+            <div class="gnbTopWrap">
+                <div class="gnbTop">
+                    <ul class="pageCheck">
+                        <li><a href="https://www.loveculture.com/" target="_blank">LOVE CULTURE</a></li>
+                        <li class="selected"><a href="http://www.debshops.com/">DEBSHOPS</a></li>
+                    </ul>
+                    <div class="topShippingTxt">
+                        FREE STANDARD SHIPPING ON ORDERS OVER $50 WITHIN THE 48 CONTIGUOUS UNITED STATES. <font style="color:#ccc">WE SHIP TO CAN, AUS, MEX!</font>
+                    </div>
+                    <ul class="signMore">
+                        <li class="loginRow">
+                            <div>
+                                
+                                <a href="http://www.debshops.com/Customer/Login.aspx">SIGN IN / JOIN</a>
+                                
                             </div>
-
-
-                            <div class="pull-right text-capitalize" style="position: relative;">                            
-                                <div class="cart-bag cart-wrapper"><a href="http://www.debshops.com/ShoppingCart/Default.aspx" class="top-font">MY BAG&nbsp;&nbsp;<span class="cartCnt">0</span></a></div>
-
+                        </li>
+                        <li class="wishRow">
+                            <a href="http://www.debshops.com/Customer/WishList.aspx"><div class="hideTxt iconType iconWish">WISHLIST</div></a>
+                        </li>
+                        <li class="cartRow">
+                            <div class="pull-right text-capitalize" style="position: relative;">
+                                <div class="cart-wrapper"><a href="http://www.debshops.com/ShoppingCart/Default.aspx" class="hideTxt iconType iconCartBag">MY BAG&nbsp;&nbsp;<span class="cartCnt">0</span></a></div>
                                 <div class="cartbox-wrapper">
                                     <div class="cart-product-wrap">
                                         <div class="cartbox row">
                                         </div>
                                     </div>
-
                                     <div class="cart-total-wrapper row">
                                         <div class="col-md-12">
                                             <div class="cartb cart-subtotal">
                                             </div>
                                         </div>
                                     </div>
-
                                     <div class="cart-btn row">
                                         <a href="http://www.debshops.com/ShoppingCart/Default.aspx" class="text-uppercase btn-cart">View My Bag</a>
                                     </div>
                                 </div>
                             </div>
-
-                            <a href="http://www.debshops.com/Customer/WishList.aspx"><div class="pull-right tool-fitting top-font">WISHLIST</div></a>
-
-                            <div class="pull-right">
-                                
-                                <a href="http://www.debshops.com/Customer/Login.aspx" class="top-font">SIGN IN / JOIN</a>
-                                
-                            </div>
-
-                        </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="gnbWrap">
+                <div class="gnbLogo">
+                    <div class="logoRow">
+                        <a href="/Index.aspx"><img src="/Html/image/logo.jpg" style="height:45px;background-color:transparent"></a>
+                        
                     </div>
                 </div>
-
-                <div class="header-contents" style="background-color:#fff;display:block;float:left;width:100%;">
-                    <div class="header-title container-fluid" style="background-color: #fff;height:55px;">
-                        <div class="row" style="background-color: #fff;position:relative;margin-top:0;padding-top:0;">
-
-                            <div class="topthings" style="margin-bottom: 0px; margin-top: 0px; background-color:transparent; z-index: 100;position:absolute;top:-15px;left: 50%;margin-left: -84px;">
-                                <a class="top-logo" href="/Index.aspx"><img src="/Html/image/logo.png" style="height:45px;background-color:transparent"></a>
-                            </div>
-
-                            
-                        </div>
-                    </div>
-
-                    <div class="header-navi hidden-xs" style="margin-top:0px;padding-bottom:3px; padding-top:3px;">
-
-                        <div class="search-ico wmenu" style="display:none;">
-                            <button class="header-search-button uppercase" style="border: 0;background-size:70%;"><span id="btnSearch2"></span></button>
-                            <input type="text" id="search-movebar" class="header-search3" style="color: #000; background-color: #fff; border: 0; border-bottom: 1px solid #000;width:70px;margin-left:10px;" placeholder="SEARCH" maxlength="50">
-                        </div>
-
-                        <div class="wmenu wmenu-active m1" id="wmenu_001" style="width:12%;"><a href="/category/newarrival" class="topmenulink">NEW ARRIVALS</a>
-                            <div class="wmenu-content" id="wmenu-content_001" style="width:700px;height:400px;">
+                <div class="gnbMenu">
+                    <div class="gnbInner">
+                        <div class="wmenu wmenu-active m1" id="wmenu_001" style="width:9%;"><a href="/category/newarrival" class="topmenulink">NEW</a>
+                            <div class="wmenu-content" id="wmenu-content_001" style="width:550px;height:400px;">
                                 <table>
                                     <tbody><tr>
-                                        <td class="th-padding" style="padding-right:10px;vertical-align:top"><a href="/category/newarrival/best-seller"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/1.jpg"></a></td>
-                                        <td class="th-padding" style="padding-right:20px;vertical-align:top"><a href="/category/trends/anything-green"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/2.jpg"></a></td>
+                                        <td class="th-padding" style="padding-right:10px;vertical-align:top"><a href="/category/newarrival/style-steals"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/stylesteal.jpg?05022017"></a></td>
+                                        
 
                                         <td class="th-padding" style="width:130px; vertical-align:top">
                                             <p><b><a href="/category/newarrival" class="topmenulinkbig">WHAT'S NEW</a></b></p>
                                             
-                                            <p><a href="/category/newarrival/best-seller" class="topmenulink">Best Seller</a></p>
+                                            <p><a href="/category/newarrival/style-steals" class="topmenulink">Style Steals</a></p>
+                                            <p><a href="/category/newarrival/best-seller" class="topmenulink">Best Sellers</a></p>
                                             <p><a href="/category/newarrival/back-in-stock" class="topmenulink">Back In Stock</a></p>
                                             <p><a href="/category/newarrival/plusclothes" class="topmenulink">Clothing</a></p>
                                             <p><a href="/category/newarrival/accessories" class="topmenulink">Accessories</a></p>
                                             <p><a href="/category/newarrival/shoes-bags" class="topmenulink">Shoes &amp; Bags</a></p>                                            
+                                            
 
                                         </td>
                                         <td class="th-padding" style="width:150px; vertical-align:top">
                                             <p><b><a href="/category/trends" class="topmenulinkbig">TRENDING</a></b></p> 
-                                            <p><a href="/category/trends/cozy" class="topmenulink">Cozy</a></p>  
-                                            <p><a href="/category/trends/gifting-page" class="topmenulink">Gifts</a></p> 
-                                            <p><a href="/category/trends/all-black-items " class="topmenulink">Better in Black</a></p> 
-                                            <p><a href="/category/trends/work-wear " class="topmenulink">Work Wear</a></p> 
-                                            <p><a href="/category/trends/anything-green " class="topmenulink">Geen Goddess</a></p> 
-                                            <p><a href="/category/trends/street-chic" class="topmenulink">Street Chic</a></p>
-                                            <p><a href="/category/trends/wrap" class="topmenulink">Wrap</a></p>                                            
-                                            <p><a href="/category/trends/prints" class="topmenulink">Prints</a></p>                                            
-                                            <p><a href="/category/trends/show-some-shoulder" class="topmenulink">Show Some Shoulder</a></p>
+                                            
+                                            <p><a href="/category/trends/4th-of-july" class="topmenulink">4th of July</a></p>
+                                            <p><a href="/category/trends/white-hot" class="topmenulink">White Hot</a></p>
+                                            <p><a href="/category/trends/the-flower-shop" class="topmenulink">The Print Shop</a></p>
+                                            <p><a href="/category/trends/Bridal" class="topmenulink">Bridal</a></p>
+                                            <p><a href="/category/trends/Jetsetter" class="topmenulink">Jetsetter</a></p>
+                                            <p><a href="/category/trends/lace-up" class="topmenulink">Lace Up</a></p>                                            
+                                            <p><a href="/category/trends/work-wear " class="topmenulink">Work Wear</a></p>                                             
+                                            <p><a href="/category/trends/athleisure" class="topmenulink">Athleisure</a></p>
+                                            <p><a href="/category/trends/wrap" class="topmenulink">Wrap</a></p>                                      
                                             <p><a href="/category/trends/deb-basics" class="topmenulink">Deb Basics</a></p>
 
                                         </td>
@@ -614,6 +698,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 </tbody></table>
                             </div>
                         </div>
+
+                        
+                        
 
                         <div class="wmenu wmenu-active m2" id="wmenu_002" style="width:12%;"><a href="/category/plusclothes/plus-size-dresses" class="topmenulink" title="plus size dresses">DRESSES</a>
                             <div class="wmenu-content" id="wmenu-content_002" style="width:590px;height:350px;">
@@ -632,15 +719,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                             <p><a href="/category/plusclothes/plus-size-dresses/plus-size-basic-dresses" class="topmenulink" title="plus size basic dresses">Basic dresses</a></p>
 
                                         </td>
-                                        <td class="th-padding"><a href="/category/plusclothes/plus-size-dresses/plus-size-party-dresses"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/3.jpg"></a></td>
-                                        <td class="th-padding"><a href="/category/plusclothes/plus-size-dresses/fit-flare"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/4.jpg"></a></td>                                        
+                                        <td class="th-padding"><a href="/category/plusclothes/plus-size-dresses/plus-size-bodycon-dresses"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/3.jpg?05172017"></a></td>
+                                        <td class="th-padding"><a href="/category/plusclothes/plus-size-dresses/plus-size-day-dresses"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/4.jpg?05172017"></a></td>                                        
                                     </tr>
                                 </tbody></table>
                             </div>
                         </div>
 
                         <div class="wmenu wmenu-active m3" id="wmenu_003" style="width:12%;"><a href="/category/plusclothes" class="topmenulink" title="plus size clothing">CLOTHES</a>
-                            <div class="wmenu-content" id="wmenu-content_003" style="width:800px;height:600px;">
+                            <div class="wmenu-content" id="wmenu-content_003" style="width:800px;height:710px;">
                                 <table>
                                     <tbody><tr>
                                         <td class="th-padding" style="width:200px; vertical-align:top">
@@ -655,7 +742,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                             <p><a href="/category/plusclothes/tops/basics" class="topmenulink">Basics</a></p>
                                             <p><a href="/category/plusclothes/tops/hoodies-sweatshirts" class="topmenulink">Hoodies+Sweatshirts</a></p>                        
                                             <p><a href="/category/plusclothes/tops/sweaters-cardigans" class="topmenulink">Sweaters+Cardigans</a></p>
-                                            <p><a href="/category/plusclothes/tops/sweaters-cardigans"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/11.jpg"></a></p>
+                                            <p><a href="/category/plusclothes/tops/basics"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/11.jpg?05172017"></a></p>
                                             
                                         </td>
                                         <td class="th-padding" style="width:180px; vertical-align:top">
@@ -692,18 +779,25 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                             <p><a href="/category/plusclothes/outerwear/kimonos" class="topmenulink">Kimonos</a></p>
 
                                             <br>
+                                            
+
+                                            <p><b><a href="/category/plusclothes/activewear" class="topmenulinkbig">ACTIVEWEAR</a></b></p>
+                                            
+                                            <p><a href="/category/plusclothes/activewear/top" class="topmenulink">Tops</a></p>                                            
+                                            <p><a href="/category/plusclothes/activewear/bottoms" class="topmenulink">Bottoms</a></p>
+
+                                            <br>
 
                                             <p><b><a href="/category/trends" class="topmenulinkbig">SHOP BY TREND</a></b></p>
-                                            
-                                            <p><a href="/category/trends/cozy" class="topmenulink">Cozy</a></p> 
-                                            <p><a href="/category/trends/gifting-page" class="topmenulink">Gifts</a></p> 
-                                            <p><a href="/category/trends/all-black-items " class="topmenulink">Better in Black</a></p> 
-                                            <p><a href="/category/trends/work-wear " class="topmenulink">Work Wear</a></p> 
-                                            <p><a href="/category/trends/anything-green " class="topmenulink">Green Goddess</a></p>                                             
-                                            <p><a href="/category/trends/street-chic" class="topmenulink">Street Chic</a></p>
-                                            <p><a href="/category/trends/wrap" class="topmenulink">Wrap</a></p>                                            
-                                            <p><a href="/category/trends/prints" class="topmenulink">Prints</a></p>                                            
-                                            <p><a href="/category/trends/show-some-shoulder" class="topmenulink">Show Some Shoulder</a></p>                                            
+                                            <p><a href="/category/trends/4th-of-july" class="topmenulink">4th of July</a></p>
+                                            <p><a href="/category/trends/white-hot" class="topmenulink">White Hot</a></p>
+                                            <p><a href="/category/trends/the-flower-shop" class="topmenulink">The Print Shop</a></p>
+                                            <p><a href="/category/trends/Bridal" class="topmenulink">Bridal</a></p>
+                                            <p><a href="/category/trends/Jetsetter" class="topmenulink">Jetsetter</a></p>
+                                            <p><a href="/category/trends/lace-up" class="topmenulink">Lace Up</a></p>
+                                            <p><a href="/category/trends/work-wear " class="topmenulink">Work Wear</a></p>                                           
+                                            <p><a href="/category/trends/athleisure" class="topmenulink">Athleisure</a></p>
+                                            <p><a href="/category/trends/wrap" class="topmenulink">Wrap</a></p>                                    
                                             <p><a href="/category/trends/deb-basics" class="topmenulink">Deb Basics</a></p>                                            
                     
                                         </td>
@@ -721,21 +815,39 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                                             <p><b><a href="/category/plusclothes/rompers-jumpsuits" class="topmenulinkbig">ROMPERS+JUMPSUITS</a></b></p>
                                             
-                                            <p><b><a href="/category/plusclothes/Intimates" class="topmenulinkbig">INTIMATES</a></b></p>
+                                            <p><b><a href="/category/plusclothes/Intimates" class="topmenulinkbig">LINGERIE</a></b></p>
                                             
-                                            <p><a href="/category/plusclothes/intimates/bras-bralettes" class="topmenulink">Bras-Bralettes</a></p>
-                                            <p><a href="/category/plusclothes/intimates/panties" class="topmenulink">Panties</a></p>
+                                            <p><a href="/category/plusclothes/intimates/bras-bralettes" class="topmenulink">Bras, Bralettes, and Bodysuits</a></p>
+                                            <p><a href="/category/plusclothes/intimates/panties" class="topmenulink">Panties and Bottoms</a></p>
+                                            <p><a href="/category/plusclothes/intimates/lingerie-accessories" class="topmenulink">Lingerie Accessories</a></p>
 
                                             <br>
-                                            <p><a href="/category/plusclothes/outerwear"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/5.jpg"></a></p>
+                                            <p><a href="/category/plusclothes/intimates"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/5.jpg?05172017"></a></p>
                                         </td>
                                     </tr>
                                 </tbody></table>
                             </div>
                         </div>
+                        
+                        <div class="wmenu wmenu-active m4" id="wmenu_004" style="width:9%;"><a href="/category/trends/swim/" class="topmenulink" title="plus size dresses">SWIM</a>
+                            <div class="wmenu-content" id="wmenu-content_004" style="width:400px;height:350px;">
+                                <table>
+                                    <tbody><tr>
+                                        <td class="th-padding" style="width:250px; vertical-align:top">
+                                            <p><b><a href="/category/trends/swim" class="topmenulinkbig" title="plus size dresses">SWIM</a></b></p>
+                            
+                                            <p><a href="/category/trends/swim/swimwear" class="topmenulink" title="plus size day dresses">Swimwear</a></p>
+                                            <p><a href="/category/trends/swim/swim-accessories" class="topmenulink" title="plus size party dresses">Swim Accessories</a></p>
 
-                        <div class="wmenu wmenu-active m4" id="wmenu_004" style="width:12%;"><a href="/category/shoes-bags" class="topmenulink">SHOES &amp; BAGS</a>
-                            <div class="wmenu-content" id="wmenu-content_004" style="width:500px;height:350px;">
+                                        </td>
+                                        <td class="th-padding"><a href="/category/trends/swim"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/SWIM.jpg"></a></td>                                        
+                                    </tr>
+                                </tbody></table>
+                            </div>
+                        </div>
+
+                        <div class="wmenu wmenu-active m5" id="wmenu_005" style="width:13%;"><a href="/category/shoes-bags" class="topmenulink">SHOES &amp; BAGS</a>
+                            <div class="wmenu-content" id="wmenu-content_005" style="width:500px;height:350px;">
 
                                 <table>
                                     <tbody><tr>
@@ -768,12 +880,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             </div>
                         </div>
 
-                        <div class="wmenu wmenu-active m5" id="wmenu_005" style="width:12%;"><a href="/category/accessories" class="topmenulink">ACCESSORIES</a>
-                            <div class="wmenu-content" id="wmenu-content_005" style="width:600px;height:350px;">
+                        <div class="wmenu wmenu-active m6" id="wmenu_006" style="width:13%;"><a href="/category/accessories" class="topmenulink">ACCESSORIES</a>
+                            <div class="wmenu-content" id="wmenu-content_006" style="width:600px;height:350px;">
 
                                 <table>
                                     <tbody><tr>
-                                        <td class="th-padding" style="padding-right:10px; vertical-align:top"><a href="/category/accessories/hats-headwear"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/7.jpg"></a></td>
+                                        <td class="th-padding" style="padding-right:10px; vertical-align:top"><a href="/category/accessories/beauty"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/7.jpg?02242017"></a></td>
                                         
                                         <td class="th-padding" style="width:130px; vertical-align:top">
                                             <p><b><a href="/category/accessories/jewelry" class="topmenulinkbig">JEWELRY</a></b></p>
@@ -782,7 +894,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                             <p><a href="/category/accessories/jewelry/earrings" class="topmenulink">Earrings</a></p>
                                             <p><a href="/category/accessories/jewelry/necklaces" class="topmenulink">Necklaces</a></p>
                                             <p><a href="/category/accessories/jewelry/bracelets" class="topmenulink">Bracelets</a></p>
-                                            <p><a href="/category/accessories/jewelry/body-chains" class="topmenulink">Body Chains</a></p>
+                                            
+                                            <p><a href="/category/accessories/jewelry/watches" class="topmenulink">Watches</a></p>
+                                            
                                         </td>
                                         <td class="th-padding" style="width:150px; vertical-align:top">
                                             <p><b><a href="/category/accessories/hats-headwear" class="topmenulinkbig">HATS + HEADWEAR</a></b></p>
@@ -790,7 +904,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                             <p><b><a href="/category/accessories/scarves-gloves" class="topmenulinkbig">SCARVES + GLOVES</a></b></p>
                                             <p><b><a href="/category/accessories/novelty" class="topmenulinkbig">NOVELTY</a></b></p>
                                             <p><b><a href="/category/accessories/eyewear" class="topmenulinkbig">EYEWEAR</a></b></p>
-                                            <p><b><a href="/category/accessories/tech" class="topmenulinkbig">TECH</a></b></p>
+                                            
                                             <p><b><a href="/category/accessories/beauty" class="topmenulinkbig">BEAUTY</a></b></p>
                                             <br>
                                             <p><b><a href="/category/sale/accessories" class="topmenulinkbig" style="color:Red">SALE</a></b></p>
@@ -801,45 +915,55 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             </div>
                         </div>
                         
-                        <div class="wmenu wmenu-active m6" id="wmenu_006" style="width:12%;"><a href="/category/trends" class="topmenulink">TRENDS</a>
-                            <div class="wmenu-content" id="wmenu-content_006" style="width:600px;height:400px;">
+                        <div class="wmenu wmenu-active m7" id="wmenu_007" style="width:11%;"><a href="/category/trends" class="topmenulink">TRENDS</a>
+                            <div class="wmenu-content" id="wmenu-content_007" style="width:600px;height:400px;">
 
                                 <table>
                                     <tbody><tr>
                                         <td class="th-padding" style="width:150px; vertical-align:top">
                                             <p><b><a href="/category/trends" class="topmenulinkbig">TRENDS</a></b></p>
-                                            
-                                            <p><a href="/category/trends/cozy" class="topmenulink">Cozy</a></p> 
-                                            <p><a href="/category/trends/gifting-page" class="topmenulink">Gifts</a></p> 
-                                            <p><a href="/category/trends/all-black-items " class="topmenulink">Better in Black</a></p> 
+                                            <p><a href="/category/trends/4th-of-july" class="topmenulink">4th of July</a></p>
+                                            <p><a href="/category/trends/white-hot" class="topmenulink">White Hot</a></p>
+                                            <p><a href="/category/trends/the-flower-shop" class="topmenulink">The Print Shop</a></p>
+                                            <p><a href="/category/trends/Bridal" class="topmenulink">Bridal</a></p>
+                                            <p><a href="/category/trends/Jetsetter" class="topmenulink">Jetsetter</a></p>
+                                            <p><a href="/category/trends/lace-up" class="topmenulink">Lace Up</a></p>
                                             <p><a href="/category/trends/work-wear " class="topmenulink">Work Wear</a></p> 
-                                            <p><a href="/category/trends/anything-green " class="topmenulink">Green Goddess</a></p>                                             
-                                            <p><a href="/category/trends/street-chic" class="topmenulink">Street Chic</a></p>
-                                            <p><a href="/category/trends/wrap" class="topmenulink">Wrap</a></p>                                            
-                                            <p><a href="/category/trends/prints" class="topmenulink">Prints</a></p>                                            
-                                            <p><a href="/category/trends/show-some-shoulder" class="topmenulink">Show Some Shoulder</a></p>                                            
+                                            <p><a href="/category/trends/athleisure" class="topmenulink">Athleisure</a></p>
+                                            <p><a href="/category/trends/wrap" class="topmenulink">Wrap</a></p>                                    
                                             <p><a href="/category/trends/deb-basics" class="topmenulink">Deb Basics</a></p>
                                                                 
                                         </td>
-                                        <td class="th-padding"><a href="/category/trends/work-wear"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/8.jpg?11012016"></a></td>
-                                        <td class="th-padding"><a href="/category/trends/all-black-items"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/9.jpg?11012016"></a></td>
+                                        <td class="th-padding"><a href="/category/trends/bridal"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/8.jpg?05172017"></a></td>
+                                        <td class="th-padding"><a href="/category/trends/lace-up"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/9.jpg?05172017"></a></td>
                                     </tr>
                                 </tbody></table>
 
                             </div>
                         </div>
 
-                        <div class="wmenu wmenu-active m7" id="wmenu_007" style="width:12%;position:relative"><a href="/category/sale" class="topmenulink">SALE</a>
-                            <div class="wmenu-content" id="wmenu-content_007" style="width:700px;height:300px;position:absolute;left:-400px;">
+                        <div class="wmenu wmenu-active m8" id="wmenu_008" style="width:9%;position:relative"><a href="/category/sale" class="topmenulink">SALE</a>
+                            <div class="wmenu-content" id="wmenu-content_008" style="width:750px;height:300px;position:absolute;left:-400px;">
 
                                 <table>
                                     
                                     <tbody><tr>
-                                        <td class="th-padding" style="vertical-align:top;padding-right:20px;"><a href="/category/sale/best-of-sale"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/10.png?10132016"></a></td>
+                                        <td class="th-padding" style="vertical-align:top;padding-right:20px;"><a href="/category/sale"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Menu/newmarkdowns-menu.jpg"></a></td>
                                         
+                                        <td class="th-padding" style="width:250px; vertical-align:top">
 
-                                        <td class="th-padding" style="width:200px; vertical-align:top">
-                                            
+                                            <p><b><a href="/category/trends/bundle-deals" class="topmenulinkbig">Bundle Deals</a></b></p>
+                                            <p><a href="/category/trends/2for7" class="topmenulink">2 For $7</a></p>
+                                            <p><a href="/category/trends/2for9" class="topmenulink">2 For $9</a></p>
+                                            <p><a href="/category/trends/2for10" class="topmenulink">2 For $10</a></p>
+                                            <p><a href="/category/trends/2for12" class="topmenulink">2 For $12</a></p>
+                                            <p><a href="/category/trends/2for17" class="topmenulink">2 For $17</a></p>
+                                            <p><a href="/category/trends/2for18" class="topmenulink">2 For $18</a></p>
+                                            <p><a href="/category/trends/5for10" class="topmenulink">5 For $10</a></p>
+                                        </td>
+
+                                        <td class="th-padding" style="width:250px; vertical-align:top">
+
                                             <p><b><a href="/category/sale/plusclothes" class="topmenulinkbig">Plus Clothing</a></b></p>
                                             <p><a href="/category/sale/plusclothes/tops" class="topmenulink">Tops</a></p>
                                             <p><a href="/category/sale/plusclothes/dresses" class="topmenulink">Dresses</a></p>
@@ -852,7 +976,16 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         <td class="th-padding" style="width:150px;vertical-align:top;text-align:left;">
                                             <p><b><a href="/category/sale/accessories" class="topmenulinkbig">Accessories</a></b></p>
                                             <p><b><a href="/category/sale/shoes-bags" class="topmenulinkbig">Shoes &amp; Bags</a></b></p>
-                                            <p><b><a href="/category/sale/best-of-sale" class="topmenulinkbig" style="color:red">Best Of Sale</a></b></p>
+                                            <p><b><a href="/category/trends/under-$5" class="topmenulinkbig">Shop by Price</a></b></p>
+
+                                            <p><a href="/category/trends/under-$5" class="topmenulink">Under $5</a></p> 
+                                            <p><a href="/category/trends/under-$10" class="topmenulink">Under $10</a></p> 
+                                            <p><a href="/category/trends/under-$15" class="topmenulink">Under $15</a></p> 
+                                            <p><a href="/category/trends/under-$20" class="topmenulink">Under $20</a></p>
+
+                                            
+
+                                            
                                         </td>
                                         
                                     </tr>
@@ -861,48 +994,60 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             </div>
                         </div>
 
-                        <div class="wmenu m8" style="width:12%;"><a href="https://www.loveculture.com" target="_blank" class="topmenulink">STRAIGHT SIZES</a></div>
-
-                        <div class="cart-bag-blk cart-wrapper2 wmenu cart-bag-ico" style="display:none;margin:0px;padding:0px;background-color:#fff;float:right;width:22px;height:20px;margin-right:20px;">
-                            <a href="http://www.debshops.com/ShoppingCart/Default.aspx" class="cart-wrapper2" style="padding:0px;margin:0px;color:#fff;"><span class="cartCnt">0</span></a>
-                        </div>
-
-                        <div class="wishlist-blk wmenu wishlist-ico" style="display:none;margin:0px;padding:0px;width:22px;height:20px;float:right;margin-right:10px;"><a href="http://www.debshops.com/Customer/WishList.aspx" style="border:1px solid transparent;padding:0px;margin:0px;">&nbsp;</a></div>
                         
 
-                        
-
+                        <div class="wmenu m9" style="width:12%;"><a href="/SiteInfo/GiftCard.aspx" class="topmenulink">GIFT CARD</a></div>
                     </div>
-
-                    <div class="heightdiv"></div>
-                
-
-                    <div class="topSpot hidden-xs clearfix">
-                    
-                        <!-- Top Promotion Banners -->
-                    
-                        <table style="width:100%;">
-                            <tbody><tr>
-                                <td style="width:100%;padding:0px 0px 15px 0px;"><a href="/category/newarrival"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Banners/earlythanksgiving-promo.gif" style="width:100%;"></a></td>
-                            </tr>
-                        </tbody></table>
-                    </div>
-
-                    <div class="topSpot visible-xs  clearfix">
-                    
-                        <!-- Top Promotion Banners -->
-                    
-                        <table style="width:100%;">
-                            <tbody><tr>
-                                <td style="width:100%;padding:0px 0px 15px 0px;"><a href="/category/newarrival"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Banners/earlythanksgiving-promo-mobile.gif" style="width:100%;"></a></td>
-                            </tr>
-                        </tbody></table>
-                    </div>
-
+                </div>
+                <div class="gnbMore">
+                    <ul class="moreInner">
+                        <li class="searchRow">
+                            <a href="#" class="hideTxt iconType iconSearch fSearch">Search</a>
+                            <div class="searchBox">
+                                <input type="text" class="header-search" placeholder="SEARCH" maxlength="50"> 
+                                <button class="header-search-button uppercase iconType iconSearch"><span id="btnSearch"></span></button>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
+        </div>
+        <!-- //mGnb tFixedTheme -->
+        
+        
+        <div class="cushion-site newFixedTheme newMenu"><!-- 12/03/2016 Add Class : newFixedTheme -->
 
-            <div style="width:100%;margin:0 auto;">
+            <div id="center">
+                <div class="topWebBnr">
+                    
+                    <!-- Top Promotion Banners -->
+                    <table style="width:100%; margin:0 auto;">
+                        <tbody><tr>
+                            <td style="width:100%;padding:0px 5px 0px 5px;"><a href="/category/trends/4th-of-july"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Banners/july4-promo.jpg" style="width:100%;"></a></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+
+            <div style="width:100%;margin:0 auto;"><!-- 12/03/2016 위치 옮기기 -->
+               <!-- Pormo Section -->
+                <div class="topSpot hidden-xs clearfix">
+                    
+                    
+                </div>
+
+                <div class="topSpot visible-xs  clearfix"><!-- 12/03/2016 위치 옮기기 -->
+                    
+                    <!-- Top Promotion Banners -->
+                    
+                    <table style="width:100%;">
+                        <tbody><tr>
+                            <td style="width:100%;padding:0px 0px 15px 0px;"><a href="/category/trends/4th-of-july"><img src="https://s3-us-west-2.amazonaws.com/msrealness/Banners/july4-promo-mobile.jpg" style="width:100%;"></a></td>
+                        </tr>
+                    </tbody></table>
+                </div>
+                <!-- Pormo Section -->
+
+
 
             
     <div class="content-wrapper container">
@@ -1157,7 +1302,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     </div>
 
                     <div class="col-md-12 col-sm-12 col-lg-12 clearfix" style="vertical-align:bottom;padding-top:30px;">
-                        © 2016 Debshops.com All Rights Reserved
+                        © 2017 Debshops.com All Rights Reserved
                     </div>
 
                 </div>
@@ -1207,10 +1352,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <div class="link pull-left" style="border: 0;width:15%;text-align:left;padding-top:20px;">
                         <h4 class="uppercase footer-title">Trending</h4>
                         <a href="/category/plusclothes/dresses" class="footer-sub-title">Dresses</a><br>
-                        <a href="/category/plusclothes/denim" class="footer-sub-title">Denim</a><br>
-                        <a href="/category/plusclothes/outerwear/cardigans" class="footer-sub-title">Cardigans</a><br>
-                        <a href="/category/shoes-bags/shoes/sandals" class="footer-sub-title">Sandals</a><br>
+                        <a href="/category/plusclothes/rompers" class="footer-sub-title">Rompers</a><br>
                         <a href="/category/plusclothes/INTIMATES" class="footer-sub-title">Intimates</a><br>
+                        <a href="/category/plusclothes/denim" class="footer-sub-title">Denim</a><br>
+                        <a href="/category/trends/athleisure" class="footer-sub-title">Athleisure</a><br>
+                        
                     </div>
 
                     <div class="link pull-left" style="border: 0;width:26%;text-align:left;padding-top:20px;">
@@ -1225,7 +1371,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
                         <h4 class="uppercase footer-title">SIGN UP FOR SPECIAL PROMOTIONS!</h4>
                         <br>
-                        <input type="text" name="mailinglist" style="border: 0; border: 1px solid #ccc; background-color: #fff; width: 150px; height: 28px;margin-bottom:10px;" placeholder="Email Address">
+                        <input type="text" name="mailinglist2" style="border: 0; border: 1px solid #ccc; background-color: #fff; width: 150px; height: 28px;margin-bottom:10px;" placeholder="Email Address">
                         <a href="javascript:AddMailingList();" style="background-color: #000; color: #fff; padding: 5px; border-radius: 1px;">SUBSCRIBE</a>
                         <br>
                         <br>
@@ -1233,7 +1379,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
                     <div class="col-md-12 col-sm-12 col-lg-12 clearfix" style="vertical-align:bottom;padding-top:30px;font-size:11px">
-                        © 2016 Debshops.com All Rights Reserved
+                        © 2017 Debshops.com All Rights Reserved
                     </div>
 
                 </div>
@@ -1376,7 +1522,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 'width': '12%'
             });
 
-            $('.m8').hide();
+            //$('.m8').hide();
 
             $('a.sf-with-ul > ul').css({
                 'width': '200px',
@@ -1439,7 +1585,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             $('.m7').css({
                 'width': '12%'
             });
-            $('.m8').show();
+            //$('.m8').show();
 
             $('a.sf-with-ul').css({
                 'border': '',
@@ -1544,7 +1690,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                 dataType: "json",
                 data: [],
                 success: function (data, textStatus) {
-
+                    
                     if (textStatus == "success") {
                         
                         //styleid | image | title | color | size | price | qty | Total {nextline}
@@ -1616,36 +1762,45 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         function AddMailingList() {
 
             var email = $("input[name='mailinglist']").val();
-            if (email == '') {
+            var email2 = $("input[name='mailinglist2']").val();
+            var emailval = '';
+
+            if (email == '' && email2 == '') {
                 alert('Please enter your email address.');
             } else {
-
-                var params = new Object();
-                params.Email = email;
-
-                $.ajax({
-                    type: "POST",
-                    contentType: "application/json; charset=utf-8",
-                    url: '/Product.asmx/AddMailingList',
-                    data: JSON.stringify(params),
-                    dataType: "json",
-                    success: function (data, textStatus) {
-
-                        if (textStatus == "success") {
-
-                            if (data.d == "{exist}") {
-                                alert("Email address already has in our mailing list.");
-                            } else if (data.d == "1") {
-                                alert("Thank You!\nyour email has been added to our mailing list.");
-                            }
-                        }
-                    },
-                    error: function (xhr, ajaxOptions, thrownError) {
-                        //xhr.responseText + ' ' 
-                        //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
-                    }
-                });
+                if (email == '') {
+                    emailval = email2;
+                } else if (email2 == '') {
+                    emailval = email;
+                }
             }
+
+            var params = new Object();
+            params.Email = emailval;
+
+            $.ajax({
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                url: '/Product.asmx/AddMailingList',
+                data: JSON.stringify(params),
+                dataType: "json",
+                success: function (data, textStatus) {
+
+                    if (textStatus == "success") {
+
+                        if (data.d == "{exist}") {
+                            alert("Email address already has in our mailing list.");
+                        } else if (data.d == "1") {
+                            alert("Thank You!\nyour email has been added to our mailing list.");
+                        }
+                    }
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    //xhr.responseText + ' ' 
+                    //alert(xhr.responseText + ' ' + xhr.status + ' ' + thrownError);
+                }
+            });
+            
         }
     
 
@@ -1700,6 +1855,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         $('#top-header-edit').show();
         $('.header-search-mobile-edit').focus();
     });
+
+    $('#m-shopcart').click(function (e) {
+        location.replace('/ShoppingCart/Default.aspx');
+    });
+    
+    $('.cart-btn').click(function (e) {        
+        location.replace('/ShoppingCart/Default.aspx');
+    });
+    
 
     // Search keypress event
     $('.header-search-mobile-edit').keypress(function (e) {
@@ -1765,11 +1929,11 @@ Remarketing tags may not be associated with personally identifiable information 
     var google_remarketing_only = true;
     /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/951757919/?value=0&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/951757919/?guid=ON&amp;script=0"/>
 </div>
 </noscript>
 
@@ -1777,7 +1941,11 @@ Remarketing tags may not be associated with personally identifiable information 
 <script>(function (w, d, t, r, u) { var f, n, i; w[u] = w[u] || [], f = function () { var o = { ti: "5283425" }; o.q = w[u], w[u] = new UET(o), w[u].push("pageLoad") }, n = d.createElement(t), n.src = r, n.async = 1, n.onload = n.onreadystatechange = function () { var s = this.readyState; s && s !== "loaded" && s !== "complete" || (f(), n.onload = n.onreadystatechange = null) }, i = d.getElementsByTagName(t)[0], i.parentNode.insertBefore(n, i) })(window, document, "script", "https://bat.bing.com/bat.js", "uetq");</script><noscript><img src="https://bat.bing.com/action/0?ti=5283425&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" /></noscript>
 
 
+
+
 <!-- BEGIN: Google Trusted Stores -->
+
+
 <script type="text/javascript">
     var gts = gts || [];
 
@@ -1796,4 +1964,12 @@ Remarketing tags may not be associated with personally identifiable information 
         s.parentNode.insertBefore(gts, s);
     })();
 </script>
-<!-- END: Google Trusted Stores --></body></html>
+
+
+
+
+<!-- END: Google Trusted Stores -->
+
+
+
+</body></html>
