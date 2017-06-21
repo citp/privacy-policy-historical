@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nikebetterworld.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125050702id_/http%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebetterworld.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621083257id_/http%3A//www.nike.com/us/en_us/c/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Nike.com
 
