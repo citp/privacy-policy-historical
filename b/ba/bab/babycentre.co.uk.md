@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051023id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621030125id_/http%3A//www.babycentre.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy & Security - BabyCentre
 
@@ -64,14 +64,14 @@ This site may contain links or references to other Web sites to which this Priva
 
 ### How to Contact Us
 
-To keep your personally identifiable information accurate, current, and complete, please visit our member center at [http://www.babycentre.co.uk/ukaccount](https://web.archive.org/ukaccount), or contact us as follows: 
+To keep your personally identifiable information accurate, current, and complete, please visit our member center at [https://www.babycentre.co.uk/ukaccount](https://web.archive.org/ukaccount), or contact us as follows: 
 
 BabyCenter, L.L.C.   
 Attention: Customer Service   
 163 Freelon St.   
 San Francisco, CA 94107   
 U.S.A.   
-[http://www.babycentre.co.uk/about/contact](https://web.archive.org/e536987/contact-us)
+[https://www.babycentre.co.uk/about/contact](https://web.archive.org/e536987/contact-us)
 
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, please contact us as follows: 
 
@@ -80,7 +80,7 @@ Attention: Chief Privacy Officer
 163 Freelon St.   
 San Francisco, CA 94107   
 U.S.A.   
-[http://www.babycentre.co.uk/about/contact](https://web.archive.org/e536987/contact-us)
+[https://www.babycentre.co.uk/about/contact](https://web.archive.org/e536987/contact-us)
 
 ### Changes to This Privacy Policy
 
