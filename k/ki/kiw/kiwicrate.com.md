@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216005827id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiwicrate.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621182513id_/http%3A//www.kiwicrate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy by Kiwi Crate | Get STEAM & STEM Projects
 
@@ -60,7 +60,7 @@ Registered Users may access their Registration Profiles at any time to update Pe
 
 You may request deletion of your Personal Information by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements).  When we delete any information, it will be deleted from the active database, but may remain in our archives.
 
-The Site has security measures in place to protect against the loss, misuse and unauthorized alteration of Personal Information in Company's possession and control.  For example, whenever the Service requests that Registered Users provide sensitive information, that information is encrypted with industry standard encryption techniques.  When you are viewing a secure page within the Site, such as our checkout form, an icon of a padlock will appear as “locked” at the bottom of web browsers such as Microsoft Internet Explorer, but the same icon will appear as "un-locked" when the user is merely “surfing.” We currently use an encryption program known as “SSL,” or “Secure Sockets Layer.”  To learn more about SSL, go to <http://www.ssl.com/>. Credit card authorization requests are sent using the same encryption technology.
+The Site has security measures in place to protect against the loss, misuse and unauthorized alteration of Personal Information in Company's possession and control.  For example, whenever the Service requests that Registered Users provide sensitive information, that information is encrypted with industry standard encryption techniques.  When you are viewing a secure page within the Site, such as our checkout form, an icon of a padlock will appear as “locked” at the bottom of web browsers such as Microsoft Internet Explorer, but the same icon will appear as "un-locked" when the user is merely “surfing.” We currently use an encryption program known as “SSL,” or “Secure Sockets Layer.”  To learn more about SSL, go to <https://www.ssl.com/>. Credit card authorization requests are sent using the same encryption technology.
 
 Furthermore, access to Personal Information is physically restricted within our own offices, so that only certain of our employees are granted access to information as appropriate to perform specific jobs and tasks (e.g., performing customer service).
 
@@ -74,4 +74,4 @@ If we change our privacy policy, we will post those changes on the Site so that 
 
 ## Contacting Company
 
-If you have any questions about this privacy policy, please contact us at [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com). If you feel that we are not abiding by our posted privacy policy, you should first contact us at 140 E Dana St. Mountain View, CA 94041, or [click here to contact us](http://www.kiwicrate.com/contact-us/) or send an e-mail to [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com).
+If you have any questions about this privacy policy, please contact us at [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com). If you feel that we are not abiding by our posted privacy policy, you should first contact us at 170 State St. Suite 1B, Los Altos, CA 94022, or [click here to contact us](http://www.kiwicrate.com/contact-us/) or send an e-mail to [customercare@kiwicrate.com](mailto:customercare@kiwicrate.com).
