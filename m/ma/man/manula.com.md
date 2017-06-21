@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manula.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027074931id_/http%3A//www.manula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manula.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621175421id_/https%3A//www.manula.com/privacy) for the most accurate reproduction.*
 
 # Manula: Privacy Policy
 
@@ -39,4 +39,4 @@ Yes, cookies (small files sent to your browser from a website and stored on your
 
 ## What if I have a question?
 
-We'd love to answer any questions you may have about our privacy policy. You may contact us through our [Contact Form](https://web.archive.org/web/20161027074931id_/http%3A//www.manula.com/contact).
+We'd love to answer any questions you may have about our privacy policy. You may contact us through our [Contact Form](https://web.archive.org/web/20170621175421id_/https%3A//www.manula.com/contact).
