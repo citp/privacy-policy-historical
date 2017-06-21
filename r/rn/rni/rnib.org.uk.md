@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128214431id_/http%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621200930id_/https%3A//www.rnib.org.uk/about-rnib/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | RNIB | Supporting people with sight loss
-
-
-
+# Privacy policy - RNIB - Supporting people with sight loss
 
 At RNIB we are committed to protecting your privacy online. We protect any personal information you give us while you use our websites. 
 
@@ -43,7 +40,7 @@ Unfortunately, no data transmission over the Internet is 100 per cent secure. As
 
 ### Cookies
 
-RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/about-rnib/cookies).
+RNIB uses "cookies" to give you a better website. For more information, read about [cookies on RNIB's website](https://web.archive.org/cy/about-rnib/cookies).
 
 ### Privacy and comments on our blogs
 
@@ -75,8 +72,8 @@ Fax: 020 7388 2034 
 
 We may change our privacy policy from time to time, so please check back periodically.
 
-## Donate now
+## **Privacy Notice for Supporters**
 
-Right now we can only reach one in three of the people who need our help most. Please make a donation and help us support more blind and partially sighted people.
+If you want to find out more about how we use information and data, our privacy notice contains all the information you need.
 
-[Donate now](https://donate.rnib.org.uk/publicnew/doncc.aspx?rnib_source=website&rnib_medium=donate-promo)
+[How we use your information](https://web.archive.org/cy/privacy-notice)
