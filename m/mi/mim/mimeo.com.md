@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913200438id_/https%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimeo.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621200118id_/https%3A//www.mimeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mimeo.com
 
 [](https://privacy.truste.com/privacy-seal/Mimeo-com,-Inc-/validation?rid=b6a8bdae-ac77-4ac2-b273-5c037ca03e96 "TRUSTe European Safe Harbor certification")
 
-Mimeo.com, Inc. (“Mimeo”) recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. This Privacy Policy describes the measures taken by us to protect your privacy in connection with your use of www.mimeo.com (our “Site”). This Privacy Statement discloses our collection, use and storage practices surrounding the personal information we collect from you. “Personal Information” is defined as the information such as your name, and email that can be used to identify you.
+Mimeo.com, Inc. (“Mimeo”, “We”, “Our”, “Us”) recognizes that your privacy and the protection of your personal information is important to you and is committed to protecting your privacy. This Privacy Policy describes the measures taken by us to protect your privacy in connection with your use of www.mimeo.com (our “Site”). This Privacy Statement discloses our collection, use and storage practices surrounding the personal information we collect from you. “Personal Information” is defined as the information such as your name, and email that can be used to identify you.
 
-This policy was last modified on January 27, 2016.
+This policy was last modified on December 14, 2016.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY USING OUR SITE AND THE RELATED SERVICES PROVIDED BY MIMEO OR ITS DESIGNEES (THE “SERVICES”), YOU SIGNIFY YOUR AGREEMENT TO THIS POLICY.
 
@@ -19,39 +19,25 @@ Our full Privacy Policy is given below, but here are a few key points:
 
 
 
-Mimeo.com, Inc. has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[ TRUSTe’s program requirements](https://www.truste.com/privacy-program-requirements/ "TRUSTe") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our privacy policy or practices, please contact us at _[customercare@mimeo.com](mailto:customercare@mimeo.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request "TRUSTe Feedback").
+Mimeo.com, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List, <https://www.privacyshield.gov/list>.
 
-Mimeo.com, Inc. complies with the U.S. – E.U.  Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union member countries.  Mimeo.com, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Mimeo.com, Inc.’s certification, please visit <https://www.export.gov/safeharbor/>.
+We are responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-By displaying the TRUSTe Trustmark, we have agreed to notify you of:
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-  * What personal information of yours or third party personal information is collected from you through the Site
-  * The organization collecting the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Mimeo control
-  * How you can correct any inaccuracies in the information
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-
-
-The TRUSTe program covers only information that is collected through this Site, and does not cover information that may be collected through software downloaded from this Site.
+Under certain conditions, more fully described on the Privacy Shield website, <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 **What information is collected by Mimeo:**
 
 In order to use the Services, you are required to provide us with an e-mail address and a unique password. In addition, when placing an order with our Site, you are required to provide personally identifying and other information such as your name, phone number, address, payment information (including credit card information), and shipping information (such as third party shipping addresses and shipping preferences).  We may use your e-mail address from time to time send you e-mails regarding events and promotions.  You always have the option to opt out of said e-mails as described below.
 
-Cookies and other tracking technologies: We and our partners, affiliates and analytics providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users’ movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis.
-
-We use cookies throughout or application, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
+Cookies and other tracking technologies: We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 Analytics / Log Files: As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
-
-Flash LSOs: We use local storage objects such as HTML5 to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs such as Flash and HTML5 to collect and store information.
-
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click [here](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html).
 
 Behavioral Targeting / Re-Targeting: We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites.  Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests.  If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](https://preferences-mgr.truste.com/).  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.
 
@@ -95,7 +81,7 @@ We display personal testimonials of satisfied customers on our site in addition 
 
 **How you may access & update your information:**
 
-If you would like to change, update or delete your personal information in our databases, you may do so through your Account Profile, or by contacting our customer care team. We will make reasonable efforts to comply with your request. We shall respond to your inquiry within 30 days of receiving it. Keep in mind, however, that there will be residual information that will remain within Mimeo databases, access logs, and other records, which may or may not contain inaccurate or outdated personal information. The residual information will not be used for commercial purposes; however Mimeo reserves the right, from time to time, to re-contact former users of the Services for the purpose of informing them of changes in our service or hours of service. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customercare@mimeo.com](mailto:customercare@mimeo.com).
+Upon request we will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  If you would like to change, update or delete your personal information in our databases, you may do so through your Account Profile, or by contacting our customer care team. We will make reasonable efforts to comply with your request. We shall respond to your inquiry within 30 days of receiving it. Keep in mind, however, that there will be residual information that will remain within Mimeo databases, access logs, and other records, which may or may not contain inaccurate or outdated personal information. The residual information will not be used for commercial purposes; however Mimeo reserves the right, from time to time, to re-contact former users of the Services for the purpose of informing them of changes in our service or hours of service. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [customercare@mimeo.com](mailto:customercare@mimeo.com).
 
 **How your information is protected:**
 
