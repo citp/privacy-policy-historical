@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegtaplace.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610042231id_/http%3A//www.thegtaplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegtaplace.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621215748id_/http%3A//thegtaplace.com/privacy) for the most accurate reproduction.*
 
 # The GTA Place - Privacy Policy
 
