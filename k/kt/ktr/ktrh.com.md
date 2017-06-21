@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktrh.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122124722id_/http%3A//ktrh.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktrh.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621091901id_/http%3A//ktrh.iheart.com/articles/legal-477363/privacy-and-cookie-notice-11584630) for the most accurate reproduction.*
 
 # Privacy and Cookie Notice | KTRH
 
