@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charmingwp.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227092416id_/https%3A//envato.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charmingwp.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621205904id_/https%3A//envato.com/privacy) for the most accurate reproduction.*
 
 # Envato - Top digital assets and services
 
