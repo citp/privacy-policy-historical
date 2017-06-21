@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenny-bird.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806063823id_/http%3A//jenny-bird.com/pages/terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenny-bird.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621232438id_/http%3A//jenny-bird.com/pages/terms-of-use) for the most accurate reproduction.*
 
 # Terms of Use | Jenny Bird
 
