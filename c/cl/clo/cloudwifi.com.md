@@ -1,56 +1,53 @@
-> *The following text is extracted and transformed from the cloudwifi.com privacy policy that was archived on 2016-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160205113000id_/http%3A//www.airtightnetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudwifi.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621050952id_/http%3A//www.mojonetworks.com/privacy-policy) for the most accurate reproduction.*
 
-# Mojo Networks - Leaders In Scalable Secure Cloud Managed WiFi Privacy Policy
+# Privacy Policy - Mojo Networks Cloud-Managed WiFi
 
-Mojo Networks respects your privacy and understands your need to protect the personal information that you share with us. This policy describes how we collect and use your personal information.
+Mojo Networks, Inc., (“Mojo”) understands that privacy is important to our customers. This policy describes how we collect information about visitors to our website, how we use it and with whom we share it. By visiting our website, you agree to the terms of this Privacy Policy. If you do not agree with the terms of this Privacy Policy, do not visit the Mojo website.
 
-## Information Collected
+## Information Collected.
 
-Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, or birth date. Generally, you can browse through our website without giving us your personal information. We don't automatically collect personal information, including your email address. We do collect your Internet related information, such as, your Internet Protocol (IP) address (the Internet address of your computer), the domain you use to access the Internet, the web site you came from and the web site you visit next. If you have previously given us your personal information, then we may link your IP address to that information and therefore, when you browse our website, you may not be anonymous. In addition, like many other commercial websites, the Mojo website may use a standard technology called a "cookie" to collect information about how you use the site. Cookies are small files that your web browser places on your computer’s hard drive. It functions as an identification card and helps identify returning users. A cookie cannot read information off of your hard drive. You can set your browser to alert you of cookies and you can accept or reject them at that time. Mojo may request personal information from you, and from time to time, we may receive personal information from business partners and vendors. At the time we request it, you have the option to not give it to us, but we may not be able to process your request without it.
+Personal Information You Provide. Personal information means any information that may be used to identify an individual, including, but not limited to, a person’s name, email address, physical address or birthdate. Generally, you can browse through our website without giving us your personal information, and we don't automatically collect personal information. However, if you interact with our website by engaging in actions such as requesting a demo, enrolling for a free trial or registering for a demo, you may be asked to provide personal information. If Mojo requests personal information from you, you have the option to not give it to us, but we may not be able to process your request without it.
 
-## How We Use Collected Information
+Cookies and Other Tracking Technology. Like many other websites, the Mojo website uses technology called a "cookie" to collect information about how visitors use the Mojo website. Cookies are small files that a website places in browsers to track browsing history. Cookies cannot read information off of your computer, and unless a person has provided personal information as described above, are not used to identify the person who is browsing. Browsing history patterns collected using cookies are used to enhance navigation workflow of the Mojo website. You can set your browser to alert you of cookies and you can accept or reject them at that time.
 
-We use non-personal information gathered from users of our website for several purposes, for example, monitoring website performance, improving the user experience and marketing. We use your personal information for several purposes in connection with our business, for example, providing products or services, answering your questions, personalizing your experience on our website, and keeping you up to date on the latest product announcements, software updates, special offers or other information from us or from our business partners. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research. If you or your company enters into a business relationship or contract with us, we may collect other types of information from you and use that information for reasons other than described in this Privacy Policy. For example, your personal information may be retained or used by Mojo to verify compliance with the agreement, log software licenses granted, to track software downloaded from those pages, or track usage of other services or applications available on our website or portals.
+## How We May Use Personal Information.
 
-## Information Sharing and Disclosure
+We may use personal information that you provide for several purposes. Such purposes will be related to our business; for example, providing a webinar or free trial, answering your questions, and keeping you up to date on the latest product announcements, software updates, special offers or other information from us.
 
-Because Mojo Networks is a global company and we have customers around the world, your personal information may be shared with other Mojo offices, Mojo affiliates, or agents and service providers around the world. All Mojo companies are governed by this Privacy Policy. Mojo may send your personal information to other companies or people under a variety of circumstances in connection with our business, for example:
+## Information Sharing and Disclosure.
 
-  * when we have your consent
-  * in order to provide the product or service you have requested
-  * to companies who work on behalf of Mojo to provide a product or service to you (we will only provide those companies the information they need to fulfill the need, and in general, we ask that they use it only for such purpose)
-  * in an aggregate anonymous manner and in a personal manner for Mojo marketing
-  * if we have a good faith belief we are required or permitted to do so under the law, to respond to claims or in connection with a transfer of our business
-  * to protect our rights, property or the safety of others, or take action regarding illegal activities or suspected fraud
+We may share your personal information in the instances described below:
+
+  * when we have your consent;
+  * in order to provide the product or service(s) you have requested;
+  * to companies who work on behalf of Mojo to provide a product or service to you (we will only provide those companies the information they need and if they are under obligations to maintain such information in confidence;
+  * in an aggregate anonymous manner;
+  * if we have a good faith belief we are required or permitted to do so under the law, to respond to claims or in connection with a transfer of our business;
+  * other parties in connection with a company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by another company or third party or in the event of a bankruptcy or related or similar proceedings; and
+  * to protect our rights, property or the safety of others, or take action regarding illegal activities or suspected fraud.
 
 
 
-If we are going to send your personal information to other companies or people in connection with their direct marketing, we will ask you for your permission to do so.
+## Opting Out.
 
-## Opting Out
+We assume you have given us your consent to collect and use your information in accordance with this Privacy Policy. If we request personal information from you and you provide such information but later do not wish us to use such information, you must take affirmative action to indicate that you no longer consent to our use. In general, we will give you an option to opt-out of receiving direct marketing or market research at the time we send it to you. If you wish to withdraw your consent, you should email us at [privacy@mojonetworks.com](mailto:privacy@mojonetworks.com) and specify your request.
 
-We assume you have given us your consent to collect and use your information in accordance with this Privacy Policy unless you take affirmative action to indicate that you do not consent. In general, we will give you an option to opt-out of receiving direct marketing or market research at the time we send it to you. If you wish to withdraw your consent, you should email us at [privacy@mojonetworks.com](mailto:privacy@mojonetworks.com) and specify your request.
+## Security.
 
-## Security
+Mojo stores data in controlled servers with limited access. When your data is stored outside of Mojo on Mojo’s behalf, we expect our service providers to use reasonable and appropriate steps to protect your data. Your information may be stored and processed in the United States or in any other country where Mojo operates.
 
-Inside Mojo Networks, data is stored in controlled servers with limited access. When your data is stored outside of Mojo on Mojo’s behalf, we expect our service providers to use reasonable and appropriate steps to protect your data. Your information may be stored and processed in the United States or any other country where Mojo, its subsidiaries, affiliates or agents are located.
+## Third Party Sites.
 
-## Third Party Sites
+Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a Mojo logo, even though they are not operated or maintained by Mojo. Although we choose our business partners carefully, Mojo is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
 
-Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with an Mojo logo, even though they are not operated or maintained by Mojo. Although we choose our business partners carefully, Mojo is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
+## Applicable Law.
 
-## Advertising
+Our information collection and use practices are subject to the laws of the United States. The laws in the United States may not provide the degree of protection for personal information that is available in other countries. You acknowledge that your have read this Privacy Policy, understand it, agree to its terms and consent to the transfer and storage of such information outside your resident jurisdiction. If you do not consent to the terms of this Privacy Policy, please do not use this website. If you have already provided us with personal information, please send us a written request to [privacy@mojonetworks.com](mailto:privacy@mojonetworks.com) and let us know how you would like us to handle such information.
 
-As you browse Mojonetworks.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with Mojonetworks.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit AdRoll.com to opt out of AdRoll and their partners’ targeted advertising.
-
-## Applicable Law
-
-Our information collection and use practices are subject to the laws of the United States. The laws in the United States may not provide the degree of protection for personal information that is available in other countries. By providing us with your personal information, you acknowledge that your have read this Privacy Policy, understand it, agree to its terms and consent to the transfer and storage of such information outside your resident jurisdiction. If you do not consent to the terms of this Privacy Policy, please do not use this website. If you have already provided us with personal information, please send us a written request to [privacy@mojonetworks.com](mailto:privacy@mojonetworks.com) and let us know how you would like us to handle such information.
-
-## Changes to this Privacy Policy
+## Changes to this Privacy Policy.
 
 Mojo Networks will amend this policy from time to time. Please check this Privacy Policy periodically for the latest version.
 
-## Questions or Suggestions
+## Questions or Suggestions.
 
-If you have questions or concerns about our collection, use, or disclosure of your personal information, or wish to correct or change your information, please email us at [privacy@mojonetworks.com](mailto:privacy@mojonetworks.com).
+If you have questions or concerns about our collection, use, or disclosure of your personal information, or wish to correct or change your information, please email us at [[privacy@mojonetworks.com](mailto:privacy@mojonetworks.com).](mailto:privacy@mojonetworks.com.)
