@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerforums.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202021111id_/http%3A//www.consumerforums.in/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerforums.in privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621031449id_/http%3A//www.consumerforums.in/Privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
