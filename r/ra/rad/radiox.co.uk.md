@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiox.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119152101id_/http%3A//www.radiox.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiox.co.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621112806id_/http%3A//www.radiox.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Radio X
 
@@ -8,11 +8,11 @@ Any information you provide about yourself to Radio X will only be used in accor
 
 **We are Global!**
 
-We are part of “This is Global Limited” and we are obsessive about respecting the privacy of our listeners and customers.
+We are part of "Global Media & Entertainment Ltd" and we are obsessive about respecting the privacy of our listeners and customers.
 
 This policy explains how we will collect information about you through interaction with us over the radio, on the TV, our charity activities or through any sales channel and what we will use it for. 
 
-Any personal information you provide about yourself to us, may be shared across our “This is Global” Group but will only be used in accordance with this Privacy Policy.
+Any personal information you provide about yourself to us, may be shared across our "Global Media & Entertainment Ltd" Group but will only be used in accordance with this Privacy Policy.
 
 Firstly, please be aware that we do not aim to collect any personal information from individuals under the age of 13.
 
@@ -22,11 +22,11 @@ Please note, this Privacy Policy does not apply to websites or text services ope
 
 When we first collect your personal information, we will tell you that we want to keep in contact with you to keep you informed about things that we believe you will be interested in.
 
-You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
+You have the right to request that we cease sending marketing communications, whether by e-mail or otherwise, to you. You can do this by checking certain boxes when we collect your personal information or by clicking the unsubscribe link in the marketing e-mails you receive from us. You can also do this by contacting us at [privacy@global.com](mailto:privacy@thisisglobal.com).
 
 ## **2 Collection of Information**
 
-We collect personal information from you through your interaction via our websites, text services or other media such as giving your information to one of our roaming “street teams”. This may occur when you participate in, or sign up to, any of  This is Global’s services, such as competitions, research panels, or if you use any of our apps, register an account with one of our websites.
+We collect personal information from you through your interaction via our websites, text services or other media such as giving your information to one of our roaming “street teams”. This may occur when you participate in, or sign up to, any of  Global’s services, such as competitions, research panels, or if you use any of our apps, register an account with one of our websites.
 
 The information we collect will vary depending on the service you request but could include name, address, phone number, email address, user name, password, age, gender, date of birth, household composition, comments, competition answers. We may also ask for additional information depending on the nature of the service provided. We will not normally collect any sensitive personal information from you, and in any event, will request your express consent to do so.
 
@@ -100,7 +100,7 @@ We may transfer the personal information we collect about you to countries other
 If you are registered for an account with one of our websites you may update your personal information at any time via the "My Details" page for web users, where registration is available on the site. You can access the "My Details Page" from most pages on the website if you are logged-on. If you are a text message user of one of our services then, where appropriate, the text messages you receive from us will alert you to options for un-subscription and/or change of details – please follow these messages.
 
 You have certain rights to the personal information we process about you.   
-You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com).
+You may request access to the personal information we hold about you. If you would like to submit a request please contact us at [privacy@global.com](mailto:privacy@global.com).
 
 ##   
 **8\. Changes to our Privacy Policy**
@@ -110,6 +110,6 @@ We reserve the right to change our Privacy Policy and all changes will be posted
 ##   
 **9\. Contact Us**
 
-If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, please contact us at: [privacy@thisisglobal.com](mailto:privacy@thisisglobal.com)
+If you have any questions or comments about this Privacy Policy or if you would like to exercise your rights, please contact us at: [privacy@global.com](mailto:privacy@global.com)
 
 **May 2016**
