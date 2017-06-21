@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegefactual.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223090745id_/http%3A//www.collegefactual.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegefactual.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621210045id_/http%3A//www.collegefactual.com/about/privacy) for the most accurate reproduction.*
 
 # College Factual Privacy Policy
 
@@ -121,7 +121,7 @@ You can accept or decline cookies. Most browsers automatically accept cookies. T
 
  **Browser plug-ins/add-ons.** Additional web components that may need to be installed to enable certain web features on our Sites. You have the option not to install these components.
 
-Third-Party Advertising. We may allow third parties, including business partners and ad networks, to display advertising on our Sites. Some of these companies may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you, or others who are using your computer, saw their advertisement and deliver ads that they believe are of interest to you. We do not control these companies' use of cookies. Some of these companies are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the Network Advertising Initiative's website at: http://www.networkadvertising.org/optout_nonppii.asp. To manage Google settings visit its website at: http://www.google.com/analytics/learn/privacy.html.
+Third-Party Advertising. We may allow third parties, including business partners and ad networks, to display advertising on our Sites. Some of these companies may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you, or others who are using your computer, saw their advertisement and deliver ads that they believe are of interest to you. We do not control these companies' use of cookies. Some of these companies are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the Network Advertising Initiative's website at: http://www.networkadvertising.org/optout_nonppii.asp.%20To%20manage%20Google%20settings%20visit%20its website at: http://www.google.com/analytics/learn/privacy.html.
 
 How we use Cookies, Web Beacons and other Technologies. We use these technologies to provide you a richer and more personalized consumer experience, and to do so, we store your user name in cookies to personalize your experience. For more detail see "How We Use and Share Information".
 
