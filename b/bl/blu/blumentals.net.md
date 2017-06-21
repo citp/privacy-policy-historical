@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032330id_/http%3A//www.blumentals.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621220246id_/https%3A//www.blumentals.net/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Privacy Policy
 
@@ -74,4 +74,4 @@ Blumentals Software may periodically update this policy. When we do, we will pos
 
 ## Questions
 
-If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20161119032330id_/http%3A//www.blumentals.net/contact.php).
+If you have any questions about this privacy policy, please [contact us](https://web.archive.org/web/20170621220246id_/https%3A//www.blumentals.net/contact.php).
