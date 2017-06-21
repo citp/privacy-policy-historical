@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heforshe.org privacy policy that was archived on 2016-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108213259id_/http%3A//www.heforshe.org/en/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heforshe.org privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622010831id_/http%3A//www.heforshe.org/en/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
 
@@ -11,15 +11,20 @@
     <meta name="description" content="We take your privacy seriously. See our #HeForShe privacy policy for details.">
     <meta name="keywords" content="HeForShe, Commitment, Gender Equality, United Nations Entity for Gender Equality and the Empowerment of Women, UN Women, Girls">
 
-    <meta property="og:title" content="Privacy Policy">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="HeForShe">
+    <meta name="twitter:description" content="We take your privacy seriously. See our privacy policy for details">
+    <meta name="twitter:image" content="http://www.heforshe.org/~/media/heforshe/images/share_images/heforshe_shareasset_fb_png.png">
+    
+
+    <meta property="og:title" name="og:title" id="ogtitle" content="Privacy Policy">
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://www.heforshe.org/~/media/heforshe/images/share_images/heforshe_shareasset_fb_png.png">
     <meta property="og:site_name" content="HeforShe">
     <meta property="og:description" content="We take your privacy seriously. See our #HeForShe privacy policy for details.">
     <meta property="fb:app_id" content="839555492743592">
 
-    <meta property="tw-message" content="We take your privacy seriously. See our privacy policy for details">
-    <meta property="tw-hashtags" content="HeForShe">
+   
 
     <link rel="canonical" href="http://www.heforshe.org/en/privacy-notice">
     <link rel="shortcut icon" type="image/png" href="/heforshe/favicon.png">
@@ -29,7 +34,9 @@
     <link rel="icon" type="image/icon" href="/heforshe/favicon.ico">
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700&amp;subset=latin,greek,greek-ext,cyrillic-ext,latin-ext,cyrillic" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="/heforshe/dist/css/heforshe.css">
+        <link rel="stylesheet" href="/heforshe/dist/css/heforshe.css">
+    
+    
     
     <link rel="stylesheet" href="/Styles/fonts/font-awesome/css/font-awesome.css">
     <!--[if IE 8]>
@@ -78,7 +85,7 @@
                 <div class="commitment-headline">
                     <h3 class="banner-head">Are you #HeForShe?</h3>
                 </div>
-                <span class="start-committment button">Count Me In</span>
+                <a href="/en/commit" target="_self" class="button">Count Me In</a>
             </div>
             <img class="un-women-logo-img" src="/heforshe/dist/img/logo/unlogogray.png" alt="U.N. Women">
         </div>
@@ -146,9 +153,14 @@
     </div>
 </section>
 <!-- /Rendering: ArticleContentModule --><!-- Rendering: CommitmentFlowModule -->
-<section class="module mfp-hide commitment-flow within-viewport" id="commitment-flow" data-module="COMMITMENT-FLOW" data-commitment-id="">
+
+
+
+<section class="module commitment-flow" id="commitment-flow" data-module="COMMITMENT-FLOW" data-commitment-id="">
     <div class="module-content">
-        <div class="form-section personal-details">
+        <input id="hdnCommitRequired" name="hdnCommitRequired" type="hidden" value="">
+        <input id="hdnFacebookTitlePrefix" name="hdnFacebookTitlePrefix" type="hidden" value="I am HeForShe #">
+        <div class="form-section personal-details" style="opacity: 1; display: none;">
             <header class="module-head">
                 <h4 class="module-eyebrow commitment-subheader">
                     The <strong class="emphasis">HeForShe</strong> Commitment
@@ -415,12 +427,13 @@
 <option value="ZMB">Zambia</option>
 <option value="ZWE">Zimbabwe</option>
 </select>
-                        
+
                         <small class="error-message">Please select a country</small>
                     </li>
+
                 </ul>
 
-                <div class="gender-selection">
+                <div class="gender-selection gender-selection-full-width">
                     <p class="gender-selection-title">HeForShe believes gender isn’t binary. How would you like to be counted?</p>
                     <div class="gender-selection-radio-container">
                         <label for="gender-selection-he" class="gender-selection-item">
@@ -450,6 +463,8 @@
                     </div>
                 </div>
 
+
+                <div class="clearfix"></div>
                 <button class="button submit-personal-details">I am HeForShe</button>
 
                 <div class="spinner-container"></div>
@@ -457,14 +472,14 @@
                 <div class="ally-info-copy">By submitting your email address, you agree to receive news, stories and ideas for action from HeForShe.<br></div>
             </form>
         </div>
-        <div class="form-section confirmation-screen">
+        <div class="form-section confirmation-screen" style="opacity: 0; display: none;">
             <header class="module-head">
                 <h2 class="module-header">
                     <span class="commitment-name"></span>, you are #<span class="commitment-total"></span> <p class="brand-emphasis">to make the HeForShe commitment.</p>
                 </h2>
             </header>
         </div>
-        <div class="form-section survey-questions">
+        <div class="form-section survey-questions" style="opacity: 0; display: none;">
             <header class="module-head">
                 <h4 class="module-eyebrow commitment-subheader returning-user-msg">Welcome back, <strong class="emphasis committer-name"></strong></h4>
 <h2 class="module-header">Your Voice <strong class="brand-emphasis">Matters</strong></h2>
@@ -602,11 +617,20 @@
                 </p>
             </form>
         </div>
-        <div class="form-section share-commitment">
+        <div class="form-section share-commitment" style="opacity: 0; display: none;">
             <header class="module-head">
-                <h4 class="module-eyebrow commitment-subheader returning-user-msg">Welcome back, <strong class="emphasis committer-name"></strong></h4>
+                <p class="module-body-copy share-copy">
+                    </p><h4 class="module-eyebrow commitment-subheader returning-user-msg">Welcome back, <strong class="emphasis committer-name"></strong></h4>
 <h2 class="module-header">Your Actions <strong class="brand-emphasis">Make It Real</strong></h2>
-<p class="module-body-copy">Here are the gender equality priorities for HeForShe advocates in <span class="committer-country"></span>.</p>
+<p class="module-body-copy">Share <strong class="brand-emphasis">#HeForShe</strong> with your friend and followers.</p>
+                <p></p>
+
+                <div class="share-buttons survey-share" data-module="SHARE">
+                    <i data-share="facebook" data-title="" data-description="Join the movement at: www.HeForShe.org" data-image="http://origin.heforshe.org/~/media/heforshe/images/share_images/heforshe_shareasset_fb_png.Image" class="survey-share-icon icon-facebook"></i>
+                    <i data-share="twitter" data-message="I am @HeForShe. Join the movement today at:" data-hashtags="#CountMeIn" data-image="http://origin.heforshe.org/~/media/heforshe/images/share_images/heforshe_shareasset_fb_png.Image" class="survey-share-icon icon-twitter"></i>
+                </div>
+
+                <p class="module-body-copy">Here are the gender equality priorities for HeForShe advocates in <span class="committer-country"></span>.</p>
 <p class="module-body-copy">Now discover how you can make a difference.</p>
             </header>
             <div class="survey-results content-block-group six-columns">
@@ -648,16 +672,6 @@
                         </div>
 
             </div>
-
-            <p class="module-body-copy share-copy">
-                Share <strong class="brand-emphasis">#HeForShe</strong> with your friends and followers.
-            </p>
-
-            
-
-                <div class="share-container" data-module="SHARE">
-                </div>
-
             <p class="module-body-copy returning-user-msg">
                 Not the person named above? Join the movement for a gender equal world by making
 <a href="#" class="make-new-commitment-link">the HeForShe commitment.</a>
@@ -695,6 +709,12 @@
                                 <a href="/en/impact" class=" footer-nav-link">IMPACT 10×10×10</a>
                             </li>
                             <li class="footer-link-list-item">
+                                <a href="/en/thematic" class=" footer-nav-link">Thematic Initiative</a>
+                            </li>
+                            <li class="footer-link-list-item">
+                                <a href="/en/barbershop" class=" footer-nav-link">Barbershop Toolbox</a>
+                            </li>
+                            <li class="footer-link-list-item">
                                 <a href="/en/your-events-upload" class=" footer-nav-link">Submit Your Event</a>
                             </li>
                     </ul>
@@ -703,14 +723,12 @@
                     <h4 class="link-heading">Get Involved</h4>
                     <ul class="footer-link-list">
                             <li class="footer-link-list-item">
-                                <a href="#" class="start-committment footer-nav-link">Make the Commitment</a>
+                                    <a href="/en/commit" class="footer-nav-link">commit</a>
                             </li>
                             <li class="footer-link-list-item">
-                                <a href="/en/take-action/education" class=" footer-nav-link">Take Action</a>
-                            </li>
+<a href="/en/take-action/education" class=" footer-nav-link">Take Action</a>                            </li>
                             <li class="footer-link-list-item">
-                                <a href="https://donate.unwomen.org/HeforShe" class=" footer-nav-link" target="_blank">Donate</a>
-                            </li>
+<a href="https://donate.unwomen.org/HeforShe" class=" footer-nav-link" target="_blank">Donate</a>                            </li>
                     </ul>
                 </div>
                 <div class="links">
