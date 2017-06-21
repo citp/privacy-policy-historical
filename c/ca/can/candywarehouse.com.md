@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123114955id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621145810id_/http%3A//www.candywarehouse.com/service/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | CandyWarehouse.com Online Candy Store
+# Privacy Policy | CandyWarehouse.com
 
 This privacy policy applies to www.candywarehouse.com owned and operated by CandyWarehouse.com. This privacy policy describes how CandyWarehouse.com collects and uses the personally identifiable information you provide on our web site: www.candywarehouse.com. It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information.
 
