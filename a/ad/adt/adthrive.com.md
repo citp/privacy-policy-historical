@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adthrive.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203163154id_/http%3A//www.adthrive.com/adthrive-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adthrive.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621141313id_/http%3A//www.adthrive.com/adthrive-privacy-statement) for the most accurate reproduction.*
 
 # AdThrive Privacy Statement
 
