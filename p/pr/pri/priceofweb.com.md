@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceofweb.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730130734id_/http%3A//www.thedomainvalue.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceofweb.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621082446id_/http%3A//www.thedomainvalue.com/privacy-policy.php) for the most accurate reproduction.*
 
 # TheDomainValue Terms and conditions
 
