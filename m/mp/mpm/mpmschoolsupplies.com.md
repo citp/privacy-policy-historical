@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the mpmschoolsupplies.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015015956id_/http%3A//www.mpmschoolsupplies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpmschoolsupplies.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622010553id_/http%3A//www.mpmschoolsupplies.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Document Updated: October 28, 2014
+Document Updated: June 1, 2017
 
-We are committed to protecting your privacy. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. 
+**In a nutshell:** Our goal is to collect as little information as possible to process your orders and only use the information we collect for that purpose. 
 
-By accessing or using our Sites, you acknowledge that you have read and understand this Privacy Policy. Further, you agree to be bound by this Privacy Policy. If you do not agree to be bound by this Privacy Policy, please discontinue use. 
+We are committed to protecting your privacy and securing your personal information. So committed, in fact, that we worked with our payment processor to ensure that we **never** have access to your full credit card information, including credit card number and security code. In addition, we do not require a password to create an account or to login. 
+
+Please take a moment to read the details of our Privacy Policy below to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. By accessing or using our Sites, you acknowledge that you have read and understand this Privacy Policy. Further, you agree to be bound by this Privacy Policy. If you do not agree to be bound by this Privacy Policy, please discontinue use. 
 
 ## Why we collect personal information
 
@@ -18,7 +20,7 @@ We collect your personal information for the purpose of filling orders you place
 
 In order to provide you with a quick, convenient, personalized shopping experience, we collect and store the following information: 
 
-  * **Personal information** , such as your name, address, telephone number, e-mail address, and billing information when you register for a Tristro Account or otherwise voluntarily provide such information, such as when making payments or corresponding with us. 
+  * **Personal information** , such as your name, address, telephone number, e-mail address, and billing information when you register for a MPM School Supplies Account or otherwise voluntarily provide such information, such as when making payments or corresponding with us. 
   * **Cookies** and other technologies to enhance your online experience and to learn about how you use our Sites in order to improve the quality of our services. 
   * **Usage information** , including the URL, IP address, browser type and language, and the date and time of your request is automatically recorded by our servers when you visit our Sites. 
 
@@ -38,7 +40,7 @@ Our Sites market to visitors through the use of remarketing. Third-party vendors
 
 We also use your personal information to communicate with you. We may send certain mandatory service communications, such as welcome letters, invoices, shipping notifications, billing reminders, information on technical service issues, and security announcements. All non-mandatory communication is opt-in and will include a method to unsubscribe. 
 
-All personal information provided to us shall remain the property of Tristro. The information collected, managed and stored by us may be retained indefinitely for the above-mentioned purposes. 
+All personal information provided to us shall remain the property of MPM School Supplies. The information collected, managed and stored by us may be retained indefinitely for the above-mentioned purposes. 
 
 **Back To Top **
 
@@ -54,13 +56,11 @@ We reserve the right to disclose your personally identifiable information as req
 
 ## How we protect your personal information
 
-In an effort to protect your information, we **NEVER** have access to your full credit card information, including credit card number and security code. We also don't require passwords to create an account or to login. 
+In an effort to protect your information, we **never** have access to your full credit card information, including credit card number and security code. We also don't require passwords to create an account or to login. 
 
-On all web pages where personal information is required, we use Secure Sockets Layer (SSL) encryption to encrypt your information while in transit over the internet. To make purchases from our Sites, you must use an SSL-enabled browser, such as Internet Explorer, Chrome, Firefox, Safari, or Netscape Navigator 3.0 or later. Doing so protects the confidentiality of your personal and credit card information while it’s transmitted over the Internet. 
+On all web pages where personal information is required, we use Secure Sockets Layer (SSL) encryption to encrypt your information while in transit over the internet. To make purchases from our Sites, you must use an SSL-enabled browser, such as Chrome, Internet Explorer, Edge, Firefox, or Safari. Doing so protects the confidentiality of your personal and credit card information while it’s transmitted over the Internet. 
 
-Please be aware that payments may be made using a third party company. As such, personal financial information may be collected by this third party company. If such payment methods are used, please take time to review these third party company policies as well, since we are not responsible for the privacy policies of these third party companies. 
-
-For more information about how we protect your personal information, please see our [Security Policy](http://www.mpmschoolsupplies.com/security/). 
+Please be aware that payments may be made using a third party company. As such, personal financial information may be collected and stored by this third party company. If such payment methods are used, please take time to review these third party company policies as well, since we are not responsible for the privacy policies of these third party companies. 
 
 **Back To Top **
 
