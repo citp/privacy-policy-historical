@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the trafficandfunnels.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129081506id_/http%3A//trafficandfunnels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficandfunnels.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621123355id_/http%3A//trafficandfunnels.com/privacy) for the most accurate reproduction.*
 
-# 
+# PRIVACY POLICY » Traffic and Funnels
 
 ## **Privacy Policy**
 
 Effective Date: July, 2016
 
-The following Privacy Policy governs the online information collection practices of **TRAFFIC AND FUNNELS LLC** (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the **www.trafficandfunnels.com** website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
+The following Privacy Policy governs the online information collection practices of **TRAFFIC AND FUNNELS TM LLC** (“we” or “us”). Specifically, it outlines the types of information that we gather about you while you are using the **www.trafficandfunnels.com** website (the “Site”), and the ways in which we use this information. This Privacy Policy, including our children’s privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
 Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over privacy, is governed by this Privacy Policy. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we’ll post the changes to this Privacy Policy on this website and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
@@ -81,4 +81,6 @@ Although it is highly unlikely, this policy may be changed at any time at our di
 
 If you have any questions or concerns regarding our privacy policy please direct them to:
 
-assistant@trafficandfunnels.com
+info@trafficandfunnels.com
+
+This site is not a part of the Facebook website or Facebook Inc. Additionally, This site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.
