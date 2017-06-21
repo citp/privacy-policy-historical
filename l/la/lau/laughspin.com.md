@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laughspin.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112002548id_/http%3A//www.laughspin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laughspin.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622012117id_/http%3A//www.laughspin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
