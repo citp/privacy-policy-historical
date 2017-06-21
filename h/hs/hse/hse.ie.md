@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110428id_/http%3A//hse.ie/eng/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hse.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621201750id_/http%3A//www.hse.ie/eng/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Statement - HSE.ie
 
