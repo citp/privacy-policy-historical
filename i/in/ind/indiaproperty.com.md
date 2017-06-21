@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129194443id_/http%3A//www.indiaproperty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621215957id_/http%3A//www.indiaproperty.com/privacy.php) for the most accurate reproduction.*
 
 # Property - Real Estate - India Property - Properties India - Property Sites
 
@@ -25,3 +25,5 @@ If the Builder, Agent/Broker or any individual has provided their contact inform
 Notice
 
 We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. If you have any questions regarding our Privacy Statement, please write in to [privacy@indiaproperty.com.](mailto:privacy@indiaproperty.com)
+
+__TOP
