@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124184817id_/http%3A//www.apnapaisa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnapaisa.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621235437id_/http%3A//www.apnapaisa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ApnaPaisa
+# ApnaPaisa.com Privacy Policy
 
-Apnaloan.com respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by apnapaisa.com you agree to the collection and use of your data by apnapaisa.com in the manner provided in this Privacy Policy.
+Apnapaisa.com respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Apnapaisa.com you agree to the collection and use of your data by Apnapaisa.com in the manner provided in this Privacy Policy.
 
 **What data is collected from you automatically?**  
 We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from “cookies,” sent to your browser from a:
