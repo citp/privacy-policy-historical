@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mit.edu.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123073037id_/http%3A//www.mit.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mit.edu.au privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621084858id_/http%3A//www.mit.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Statement for MIT Students | Melbourne Institute of Technology, Melbourne, Sydney Australia
 
@@ -10,17 +10,17 @@ This document describes the policy of Melbourne Institute of Technology Pty Ltd 
 
 Personal information is information or an opinion (including information or an opinion forming part of a database) about an identified individual, or an individual who is reasonably identifiable, whether true or not, and whether recorded in material form or not.
 
-Sensitive information is information or an opinion about an individual’s: racial or ethnic origin; political opinions; membership of a political association; religious beliefs or affiliations; philosophical beliefs; membership of a professional or trade association; membership of a trade union; sexual orientation or practices; or criminal record, that is also personal information; health information or genetic information or biometric information or biometric templates.
+Sensitive information includes information or an opinion about an individual’s racial or ethnic origin, or criminal record, that is also personal information; and health information about an individual.
 
-Health information is information or an opinion about: physical, mental or psychological health of an individual at any time; a disability of an individual at any time; an individual’s expressed wishes about the future provision of health services to him/her; or a health service provided, or to be provided, to an individual, that is also personal information; or other personal information collected to provide or in providing a health service; or other personal information about an individual collected in connection with the donation, or intended donation by the individual of his or her body parts, organs or body substances; or genetic information about an individual in a form which is or could be predicative of the health of the individual or a genetic relative of the individual.
+Health information includes information or an opinion about the health, including an illness, disability or injury (at any time) of an individual that is also personal information.  We ask for information about the status of your health in accordance with the Health Privacy Principles and in consideration of your wellbeing whilst studying at MIT.
 
 ##  Australian Privacy Principles
 
-MIT is bound by the Australian Privacy Principles (APPs) in Schedule 1 of the Privacy Act 1988 (Cth) (see [www.comlaw.gov.au](http://www.comlaw.gov.au/)).The APPs provide standards, rights and obligations in respect of how personal information is handled from collection, to use, disclosure, storage and access.
+MIT is bound by the _Australian Privacy Principles_ (APPs) in Schedule 1 of the _Privacy Act 1988 (Cth)_ (see <http://www.austlii.edu.au/au/legis/cth/consol_act/pa1988108/>).The APPs provide standards, rights and obligations in respect of how personal information is handled from collection, to use, disclosure, storage and access.  We are also bound by the requirements of the Health Privacy Principles under the _Health Records Act 2001 (Vic_ ) and _Health Records and Information Privacy Act 2002 (NSW)_
 
 ##  Collection of information
 
-##  What kind of information does MIT collect and why?
+###  What kind of information does MIT collect and why?
 
 MIT collects personal information for the primary purpose of providing its higher education services and for purposes related to the primary purpose to you. This includes:
 
@@ -29,7 +29,7 @@ MIT collects personal information for the primary purpose of providing its highe
   * student relations, including alumni;
   * conducting surveys;
   * compliance with reporting requirements and administration of government programs such as the Higher Education Loan Program;
-  * compliance with reporting requirements and administration of applicable laws and regulations of international students including under the Education Services for Overseas Students Act 2000, the Migration Act 1958 and the Migration Regulations 1994.
+  * compliance with reporting requirements and administration of applicable laws and regulations of international students including under the _Education Services for Overseas Students Act 2000, Migration Act 1958_ and the _Migration Regulations 1994._
   * internal planning; and
   * marketing the services of MIT and the promotion of MIT.
 
@@ -37,11 +37,17 @@ MIT collects personal information for the primary purpose of providing its highe
 
 The personal information typically includes (but is not limited to): your name, age, gender, place of birth, nationality, contact details in Australia and other prescribed details; information about your course, financial arrangements and payments in relation to the course, health insurance, English language proficiency, passport, student visa, breach or suspected breach of visa conditions and academic progress and performance; and information that MIT is obliged by law to collect or report.
 
-If you do not provide the information requested, MIT may not be able to enrol you or provide you with our services.
+If you do not provide the information as and when requested this may affect your enrolment at MIT.
 
-##  Use and disclosure of information
+###  How MIT collects information
 
-MIT will only use or disclose personal information for the primary purpose for which it was collected, for any related secondary purpose that you would reasonably expect, or with your consent, or as permitted or required by law or as authorised by the APPs. MIT may use or disclose personal information (other than sensitive information) for the purpose of direct marketing, but must only do so in accordance with the APPs. MIT will only disclose health information in accordance with the APPs.
+MIT collects information by lawful and fair means, which are not unreasonably intrusive. MIT collects information that is reasonably necessary to perform its functions and activities or to comply with the law.
+
+MIT generally collects information about you directly from you (eg. forms filled out by you, both paper and on-line or from meetings and interviews with you).   MIT maintains records on each student which may include attendance data, reports, marks and grades information.   There may also be times when MIT is provided with your personal information from a third party, such as through our partner institutions and from education agents who provide services to us.  MIT will take reasonable steps to let you know, generally, what personal information it holds. MIT will seek your consent before collecting sensitive information unless collection is otherwise authorized or required by law.
+
+###  Use and disclosure of information
+
+MIT will only use or disclose personal information for the primary purpose for which it was collected, for any related secondary purpose that you would reasonably expect, or with your consent, or as permitted or required by law or as authorised by the APPs. MIT may use or disclose personal information (other than sensitive information) for the purpose of direct marketing, but must only do so in accordance with the APPs. MIT will only disclose health information in accordance with the Health Privacy Principles.
 
 The following are examples where MIT discloses personal information for legitimate purposes:
 
@@ -63,28 +69,30 @@ MIT may also use and disclose information where required or authorized by law (m
 
 ##  Disclosure to overseas recipients
 
-MIT may disclose personal information to overseas recipients, such as education agents who are based overseas. These education agents are located in various countries including China, India, Indonesia, Malaysia, Nepal, Pakistan and Vietnam. MIT shall comply with the APP’s in respect of any disclosure of personal information to overseas recipients.
+MIT may disclose your personal information to your nominated overseas education agent. These overseas recipients may be located in various countries including China, India, Indonesia, Malaysia, Nepal, Pakistan and Vietnam.  MIT shall comply with the APP’s in respect of any disclosure of personal information to overseas recipients.
 
 ##  Protection of information
 
-MIT holds personal information which may be stored in electronic or hardcopy form. MIT takes reasonable precautions to ensure that information is stored securely, is accurate and protected from misuse, loss, unauthorized access, modification or disclosure. MIT staff are bound by confidentiality on the use of personal information and are required to respect the privacy of individuals and MIT has in place ways to protect personal information including controlling access to MIT premises, security access to MIT’s computer networks and other security technology. MIT may hold information about you while you are a student, and before and after you are a student. Where information is no longer needed, MIT either destroys records containing personal information by reasonably secure means or de-identifies the personal information.
+MIT holds personal information which may be stored in electronic and/or hardcopy form. MIT takes reasonable precautions to ensure that information is stored securely, is accurate and protected from misuse, loss, unauthorized access, modification or disclosure. MIT staff are bound by confidentiality on the use of personal information and are required to respect the privacy of individuals and MIT has in place ways to protect personal information including controlling access to MIT premises, security access to MIT’s computer networks and other security technology. MIT may hold information about you while you are a student, and before and after you are a student. Where information is no longer needed and no longer required to be retained under legislation, MIT either destroys records containing personal information by reasonably secure means or de-identifies the personal information.
 
 ##  Data quality
 
-MIT takes reasonable steps to confirm the accuracy of information it holds about you. From time to time, MIT asks for updated information. MIT is not obliged to update information it holds about you after you have ceased your studies.
+MIT takes reasonable steps to confirm the accuracy of information it holds about you. From time to time, MIT asks for updated information including that required by legislation. MIT is not obliged to update information it holds about you after you have ceased your studies.
 
 ##  Access to information
 
-You may request access to information that MIT holds about you by lodging a written request with MIT. MIT may permit either inspection, note taking, copying or provide a print out of information, as it considers appropriate. Any request for access to personal information will be dealt within a reasonable period after the request is made and MIT may charge a fee for the cost of accessing and supplying the requested information. In limited circumstances MIT may refuse you access (see MIT’s Terms and Conditions of Enrolment, Fee Payment and Refund Policy and as permitted under the APPs). In those cases, you will be notified of the reason MIT is relying on to refuse access.
+You may request access to information that MIT holds about you by lodging a written request with MIT.  The request must be made by your personally or by another person that you have authorised to make the request on your behalf.  MIT may permit either inspection, note taking, copying or provide a print out of information, as it considers appropriate. Any request for access to personal information will be dealt within a reasonable period after the request is made and MIT may charge a fee for the cost of accessing and supplying the requested information. In limited circumstances MIT may refuse you access (see MIT’s Terms and Conditions of Enrolment, Fee Payment and Refund Policy and as permitted under the APPs). In those cases, you will be notified of the reason MIT is relying on to refuse access.
 
 ##  Queries or concerns and contacting us
 
 Questions or concerns about the privacy of information we hold about you, and requests for access to and correction of personal information, and if you wish to make a complaint about a possible breach of privacy, may be directed to:
 
 Melbourne Institute of Technology  
-284-294 La Trobe Street  
-Melbourne Victoria 3000  
-E: [admin@mit.edu.au](mailto:admin@mit.edu.au).  
-Tel: 03 8600 6700  
-Fax: 03 8600 6761  
+288 La Trobe Street  
+Melbourne, Victoria 3000  
+E: _[privacy@mit.edu.au](mailto:privacy@mit.edu.au)_.  
+Tel:  03 8600 6700  
+Fax: 03 9010 0999  
 Complaints may also be directed to the Office of the Australian Information Commissioner ([http://www.oaic.gov.au](http://www.oaic.gov.au/)) if you think that MIT has interfered with your privacy.
+
+Dowload a copy [here](https://web.archive.org/node/6124)
