@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stewmac.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204004108id_/http%3A//www.stewmac.com/PrivacyAndSecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewmac.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621182806id_/http%3A//www.stewmac.com/PrivacyAndSecurity.html) for the most accurate reproduction.*
 
 # Privacy & Security | stewmac.com
 
@@ -15,7 +15,7 @@ However, being a modern website, we do collect information from you in several d
 
 
 
-Stewart-MacDonald uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the stewmac.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.
+Stewart-MacDonald uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven't completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone's past visits to the stewmac.com website. Of course, any data collected will be used in accordance with our own privacy policy and Google's privacy policy.
 
 You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt-out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/), or [permanently using a browser plugin](https://tools.google.com/dlpage/gaoptout/).
 
