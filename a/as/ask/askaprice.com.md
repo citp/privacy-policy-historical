@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206043855id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621234943id_/http%3A//www.askaprice.com/about/privacy-cookies) for the most accurate reproduction.*
 
 # Askaprice.com Privacy Statement & Cookie Policy
 
@@ -11,6 +11,22 @@ We may collect personal identification information from Users in a variety of wa
 We may collect non-personal identification information about Users whenever they interact with our Website. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Website, such as the operating system and the Internet service providers utilised and other similar information. 
 
 The Website uses "cookies" for tracking traffic to it. The User's web browser will place cookies on their hard drive for record-keeping purposes and sometimes to track information about them. The user may choose to set their web browser to refuse cookies, or to alert them when cookies are being sent. 
+
+**How do I disable/enable cookies?**
+
+There are a number of ways to manage cookies. By modifying your browser settings, you can opt to disable cookies or receive a notification before accepting them. You can also erase all cookies installed in your browser’s cookie folder. Keep in mind that each browser has a different procedure for managing and configuring cookies. Here’s how you manage cookies in the various major browsers:
+
+[MICROSOFT WINDOWS EXPLORER](https://support.microsoft.com/en-us/kb/278835)
+
+[GOOGLE CHROME](https://support.google.com/chrome/answer/95647?hl=en-GB)
+
+[MOZILLA FIREFOX](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?redirectlocale=en-US&redirectslug=Enabling+and+disabling+cookies)
+
+[APPLE SAFARI](http://www.apple.com/support/?path=Safari/5.0/en/9277.html)
+
+If you use another browser, please read its help menu for more information.
+
+If you would like information about managing cookies on your tablet or smartphone, please read the related documentation or help archives online.
 
 ### How we use collected information
 
@@ -60,23 +76,4 @@ L3 9AG
 
 [info@askaprice.com](mailto:info@askaprice.com)
 
-This document was last updated on August 10th, 2015 
-
-The following lists the levels of cookie use you can select for the Askaprice.com website. This Website uses cookies to track your visit to the site for the purpose of monitoring its success and to guide improvements and to allow for integration with social media such as Facebook etc. 
-
-You do, however, have a choice regarding the type of cookies we can use so please select a level below. Please note that you may not switch off all cookies as the website requires some use of cookies in order to function. 
-
-##  Cookie Settings
-
-The following lists the levels of cookie use you can select for the Askaprice website. This website uses cookies to track your visit to the site for the purpose of monitoring its success and to guide improvements and to allow for integration with social media such as Facebook etc.
-
-You do, however, have a choice regarding the type of cookies we can use so please select a level below. Please note that you may not switch off all cookies as the website requires some use of cookies in order to function.
-
-**Please specify the level of cookie use you are willing to permit:**
-
-Strictly Necessary These cookies are strictly necessary to enable you to move about the site or to provide certain features you have requested.  
-Functional These cookies are required for the standard operation of our site, e.g. tracking your shopping basket.  
-Experiencial These cookies allow us to ensure content is applicable to you by remembering items you've already looked at. These cookies also track which pages you visit in order to help us improve our overall website experience.  
-Targeted These cookies allow integration with social media such as Facebook. These cookies also allow us to target applicable advertising to you.
-
-Save Settings 
+This document was last updated on February 6th, 2017 
