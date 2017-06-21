@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209185903id_/http%3A//www.skipton.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skipton.co.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621085059id_/http%3A//www.skipton.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Skipton Building Society
 
@@ -26,7 +26,7 @@ If any information is inaccurate or incorrect, please inform us and we will corr
 
 ## How do I unsubscribe from email marketing?
 
-If you no longer wish to receive our marketing emails, please select the unsubscribe link included in the footer of these emails.
+If you no longer wish to receive our marketing emails, please select the unsubscribe link included in the footer of these emails. Alternatively, you can change these preferences any time. Either log on to Skipton Online and go to "My Account", call us on 0345 702 5026 or visit your local branch.
 
 ## Are my calls recorded?
 
