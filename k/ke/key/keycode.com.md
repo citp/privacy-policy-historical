@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keycode.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210025240id_/http%3A//www.keycode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycode.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621140504id_/http%3A//www.keycode.com/privacy) for the most accurate reproduction.*
 
 # Keycode: Our Privacy Policy
 
