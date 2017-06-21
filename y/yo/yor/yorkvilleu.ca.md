@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorkvilleu.ca privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221033735id_/http%3A//www.yorkvilleu.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkvilleu.ca privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621040200id_/http%3A//www.yorkvilleu.ca/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Yorkville University
 
@@ -10,7 +10,7 @@ When using Yorkville University’s website for program or services purposes, su
 
 Users can modify or delete the personal information collected on our websites by emailing [feedback@yorkvilleu.ca](mailto:feedback@yorkvilleu.ca).
 
-Users can opt out of further communications from the school at any time by unsubscribing [here](http://email.leadcentre.ca/MailService/Modules/Email/optout.aspx).
+Users can opt out of further communications from the school at any time by unsubscribing [here](http://lp.yorkvilleu.ca/YU-Unsubscribe.html).
 
 The personal information collected on this site – including any other information deemed part of a student’s record – will be used for the purpose of admission, registration, issuing income tax receipts, sending educational material and information and for university research and planning. Certain personal information will also be disclosed to Statistics Canada, as required by the Statistics Act (Canada). This information will be protected by the New Brunswick Protection of Personal Information Act. If you have any questions about the collection and use of this information, contact our offices.
 
