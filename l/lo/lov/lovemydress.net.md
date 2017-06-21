@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemydress.net privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223194655id_/http%3A//www.lovemydress.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemydress.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621124154id_/http%3A//www.lovemydress.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Love My Dress® UK Wedding Blog
 
@@ -80,5 +80,3 @@ Any changes we may make to our privacy policy in the future will be posted on th
 #### CONTACT
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@lovemydress.net](mailto:info@lovemydress.net).
-
-Leave a Comment!
