@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movies.com.pk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126055355id_/http%3A//www.movies.com.pk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies.com.pk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621120350id_/http%3A//movies.com.pk/corp/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Home of Indian Movies - CineBasti.com
+# Privacy Policy
 
 Movies.com.pk ("Movies.com.pk") is committed to protecting its users' privacy. This Privacy Policy (the "Privacy Policy"), as set forth below, covers movies.com.pk ("Movies.com.pk" or the "website") and applies solely to information collected on Movies.com.pk . Please read this Privacy Policy to understand how we will treat personally and non-personally identifiable information we collect on Movies.com.pk. This Privacy Policy may change from time to time, so please check back periodically. 
 
@@ -93,5 +93,3 @@ We will occasionally update this Privacy Policy. When we do, we will also revise
 If you have any questions or comments about this Privacy Policy, please contact us at:
 
 E-mail: cinebasticom at gmail dot com (without spaces) 
-
-_Last Updated on November 17th, 2008_
