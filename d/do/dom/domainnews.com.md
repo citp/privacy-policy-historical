@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainnews.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227004919id_/http%3A//www.domainnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainnews.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621155346id_/http%3A//www.domainnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at DomainNews.com – Domain & SEO News
 
