@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the use-in-a-sentence.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103154638id_/http%3A//use-in-a-sentence.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the use-in-a-sentence.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621233342id_/http%3A//use-in-a-sentence.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy-policy
 
