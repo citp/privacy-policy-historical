@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the thedailypolls.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220034654id_/http%3A//thedailypolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailypolls.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621234507id_/http%3A//thedailypolls.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies | The Daily Polls
+
+Cookies help us deliver our services. By using our services, you agree to our use of [cookies](https://web.archive.org/privacy).This website is using [cookies](https://web.archive.org/privacy)
+
+Got it
+
+[ ](http://thedailypolls.com/)
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -35,7 +41,7 @@ Examples of data collected from visitors to this site include:
 
 
 
-No personally identifiable information is collected by these services (i.e., no names or other personal information). 
+No personally identifiable information is collected by these services (i.e., no names or other personal information).
 
 2\. THEDAILYPOLLS.COM uses several services to serve advertisements. These services may use cookies to help them tailor ads to individual user interests. We have no access to or control over these cookies as they are served by a third party.
 
