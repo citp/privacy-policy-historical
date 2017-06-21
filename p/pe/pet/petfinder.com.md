@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petfinder.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812005508id_/https%3A//www.petfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petfinder.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621054904id_/https%3A//www.petfinder.com/privacy-policy) for the most accurate reproduction.*
 
 # Petfinder Privacy Policy - Petfinder
 
