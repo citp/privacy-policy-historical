@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familystylefood.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112231107id_/http%3A//familystylefood.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familystylefood.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621233208id_/http%3A//familystylefood.com/about/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | familystyle food
 
