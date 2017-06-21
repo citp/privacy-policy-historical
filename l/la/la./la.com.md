@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225145818id_/http%3A//www.tronc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621021815id_/http%3A//www.tronc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - tronc, Inc.
 
@@ -181,4 +181,4 @@ This Privacy Policy does not create rights enforceable by third parties.
 
 tronc, Inc. reserves the right to change this Privacy Policy at any time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. Please check this page periodically for changes. Your continued use of the Services following the posting of changes to this Privacy Policy will mean you accept those changes.
 
-Copyright © 2016 tronc, Inc.
+Copyright © 2017 tronc, Inc.
