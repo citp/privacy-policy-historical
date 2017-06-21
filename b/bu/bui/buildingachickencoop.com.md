@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the buildingachickencoop.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313214044id_/http%3A//www.buildingachickencoop.com/private.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingachickencoop.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621162648id_/http%3A//www.buildingachickencoop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Building A Chicken Coop
+# Privacy - Building A Chicken Coop
 
-## **Privacy Policy**
+**Our Commitment To Privacy:**
 
- **Our Commitment To Privacy:**
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
-
-This notice applies to all information collected or submitted on BuildingAChickenCoop.com. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on BuildingAChickenCoop.com. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name:  
 Email address:  
-Location: 
+Location:
 
 **The Way We Use Information:**
 
-We use the information for identification and communication purposes only. The information will not be sold to any third party. 
+We use the information for identification and communication purposes only. The information will not be sold to any third party.
 
 **Our Commitment To Data Security:**
 
