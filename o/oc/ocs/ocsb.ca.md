@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocsb.ca privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201085708id_/http%3A//www.ocsb.ca/board/admin/committees/pim) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocsb.ca privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621142217id_/http%3A//www.ocsb.ca/board/admin/committees/pim) for the most accurate reproduction.*
 
 # Privacy Information Management (PIM) - Ottawa Catholic School Board
 
