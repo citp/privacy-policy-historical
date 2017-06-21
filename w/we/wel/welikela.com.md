@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welikela.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122062952id_/http%3A//www.welikela.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welikela.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622003358id_/http%3A//www.welikela.com/privacy-policy) for the most accurate reproduction.*
 
 # We Like L.A. Privacy Policy and Legal Terms of Service -
 
