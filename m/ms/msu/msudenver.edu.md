@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msudenver.edu privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226192637id_/http%3A//www.msudenver.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msudenver.edu privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621051050id_/http%3A//msudenver.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Privacy Statement | MSU Denver
 
