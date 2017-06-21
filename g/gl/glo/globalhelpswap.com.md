@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205200844id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalhelpswap.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621070312id_/http%3A//globalhelpswap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - globalhelpswap - free and low cost volunteering opportunities around the globe
 
@@ -11,7 +11,7 @@ Our Privacy Policy is contained below and provides a detailed explanation as to 
 
 Updates of our Privacy Policy are completed frequently, thus you should peruse this Policy habitually.
 
-**1.  Information We Collect from You**
+ **1.  Information We Collect from You**
 
 Data can be collected and processed when our website is in operation by you. The following are approved methods of collection:
 
@@ -21,7 +21,7 @@ Data can be collected and processed when our website is in operation by you. The
 
 1.3 Any communication on our website or to personnel allows us to collect information.
 
-**2.  Use of Cookies**
+ **2.  Use of Cookies**
 
 Circumstances may arise when we may need to gather information about your computer to help provide appropriate services or products to you.  The data gathered is solely statistical data, which may be shared with advertisers.
 
@@ -33,7 +33,7 @@ Any computer has the option to decline cookies.  Your web browser options inclu
 
 If our advertisers use cookies it will result from a click on their advertisement, and we do not have control over their cookies if used.
 
-**3.  Use of Your Information**
+ **3.  Use of Your Information**
 
 Information stored and collected about you allows us to improve our services or products for you.  Added to this parameter, we may use your information for the following purposes:
 
@@ -53,7 +53,7 @@ Information stored and collected about you allows us to improve our services or 
 
 3.8 Identifiable data, which could be used to disclose who you are, is never shared.  We only provide statistical related data about our visitors to third parties like advertisers to ensure your privacy.
 
-**4.  Storing Your Personal Data**
+ **4.  Storing Your Personal Data**
 
 4.1 Outside of the European Economic Area are places for storing and processing data we collect from you.  We may take advantage of these outside areas, allowing a staff to process data collected from you.  These processors may work for our suppliers.  The transfer of this data may include processing and completing your order on our site, such as utilising your payment information or offering support services.  We take all reasonable processes to ensure your data is secure and in agreement with our Privacy Policy as outlined here.
 
@@ -61,7 +61,7 @@ Information stored and collected about you allows us to improve our services or 
 
 4.3 Transmission of data on the internet can never be ultimately secure.  We do not and cannot guarantee security of information collected electronically or transmitted; however, we take all necessary steps to provide the best security available.  As a result of our inability to guarantee safety, you are submitting information to us at your own risk.  Where needed a password may be necessary to access areas of our site. You are responsible for the safety and confidentiality of the password you generate.
 
-**5.  Disclosing Your Information**
+ **5.  Disclosing Your Information**
 
 5.1 Personal information to third parties may be disclosed:
 
@@ -73,14 +73,14 @@ Information stored and collected about you allows us to improve our services or 
 
 5.2.3 Lowering credit risk and fraud protection may result in information disclosure.
 
-**6.  Third Party Links**
+ **6.  Third Party Links**
 
 Links might be discovered on our site that belongs to third parties.  Any third party website on our site has a privacy policy. You should check their terms.  We do not accept liability or responsibility for their privacy policies, based on our lack of control over these third party links.
 
-**7.  Access to Information**
+ **7.  Access to Information**
 
 The Data Protection Act 1998 was established to govern online electronic communications.  The act gives you access to any data we have about you.  To gain access to this information a small fee of £10 is needed.  This fee allows us to process your request by covering our costs.  Contact information is given below, which should be used to gain details about information we hold on you.
 
-**8.  Contacting Us**
+ **8.  Contacting Us**
 
 We welcome and hope you do not hesitate to make any queries, comments or requests you may have regarding this Privacy Policy.   Please contact us at [paul@globalhelpswap.com](mailto:paul@globalhelpswap.com)
