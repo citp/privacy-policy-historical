@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229044428id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideacellular.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621081550id_/http%3A//www.ideacellular.com/idea/privacy-policy) for the most accurate reproduction.*
 
 # Idea Cellular – Cell Phone Services |3G, Prepaid, Postpaid & Wireless Internet
 
-**Last Updated: - 14/07/2016**
+**Last Updated:08/05/2017**
 
 ## Introduction
 
@@ -16,7 +16,7 @@ This Privacy Policy explains the collection, use, protection, disclosure, sharin
 
 **Personally Identifiable Information (hereinafter referred to as PII)** :- Personally Identifiable information is information that is about, or can be related to, an identifiable individual. It includes any information that can be linked to an already identified individual or used to directly or indirectly identify an individual.  Personal information does not include information that is anonymous, aggregated, or is no longer identifiable to a specific person. 
 
-**Sensitive Personal Data or Information (hereinafter referred to as SPDI)** :- “Sensitive Personal data or Information” means personal information which is more sensitive in nature viz. financial information such as Bank account or credit card or debit card or other payment instrument details, Proof of Identity (POI), Proof of Address (POA) details, etc.
+**Sensitive Personal Data or Information (hereinafter referred to as SPDI)** :-“Sensitive Personal data or Information” means personal information which is more sensitive in nature viz. financial information such as Bank account or credit card or debit card or other payment instrument details, Proof of Identity (POI), Proof of Address (POA) details, etc.
 
 This Privacy Statement shall be equally applicable to PII, SPDI, and information that is anonymous, aggregated, or is no longer identifiable to a specific person. 
 
@@ -40,7 +40,7 @@ This Privacy Statement is provided for your information and is not intended to l
 
 ICL and its authorized third parties will collect information pertaining to your identity, demographics, and related evidentiary documentation. For the purposes of this document, a ‘Third Party’ is a service provider who associates with ICL and is involved in handling, managing, storing, processing, protecting and transmitting information of ICL. This definition also includes all sub-contractors, consultants and/or representatives of the Third party.   
 The information we collect about you will depend on our products and services you use and subscribe to. We may hold information relating to you that you have provided to us on Customer Acquisition/Application form (CAF) or that we may have obtained from another source such as our suppliers or from marketing organizations and credit agencies. We may also collect your personal information when you use our services, websites, and applications or otherwise interact with us during the course of our relationship.  
-The information we may collect includes, but is not limited to, the following:
+The information we may collect includes, but is not limited to, the following::
 
   * Your name, father’s name, mother’s name, spouse’s name, date of birth, current and previous addresses, telephone number, mobile phone number, email address, occupation and any such information contained in the documents used as proof of identity and proof of address.
   * Your Call data records, your traffic data such as the phone numbers that you call and send messages to (and the phone numbers that you receive calls and messages from) and the date, time, duration and cost of your communications including your phone location at the time these communications are made. We collect your spend, your device details, your phone usage (including voice, messaging, web/ WAP use, application use), your purchasing habits, your location, your search and browsing history (including the date, time and duration of your internet session) and your preferences (i.e. tracking our website usage information and other information that you may provide to us from time to time for the services that you receive from IDEA. 
@@ -48,7 +48,6 @@ The information we may collect includes, but is not limited to, the following:
   * Your preferences for particular products, services or lifestyle activities when you tell us what they are or when we assume what they are based on how you use our products and services.
   * Your contact with us, such as: a note or recording of a call you make to one of our contact centers, an email or letter you send to us and other records of any contact you have with us.
   * Device Identifiers which are used to identify your mobile device for interest-based targeted advertising.
-  * Sensitive Personal Data or Information (SPDI) such as your payment instruments information. For example:- bank account details, cheque details, Debit and Credit card numbers that you may share with us for bill payments and standing instructions.
   * As per India IT Act, 2008 (IT Rules, 2011) we shall seek explicit consent from you while we collect your Sensitive Personal Data or Information (SPDI).
 
 
@@ -90,9 +89,8 @@ We adopt reasonable security practices and procedures, in line with internationa
 
 
 
-### Use of Cookies, Device Identifiers and other similar technologies
+### Cookies are tiny text files that are stored on your computer, tablet or mobile phone when you visit a website.
 
-Cookies are tiny text files that are stored on your computer, tablet or mobile phone when you visit a website.   
 We may use cookies and other interactive techniques to collect personal and non-personal information about you. The cookies mean that our website platforms may remember you to personalize the content and how you've used the site every time you come back; understand what you like and use about our website; understand what you do not like and do not use on our website; provide a more enjoyable, customized service and experience, and help us develop and deliver better products and services tailored to our customers’ interests and needs.  
 We may sometimes use a persistent cookie to record details such as a unique user identity and general registration details on your PC. This helps us recognize you on subsequent visits to this website so that you don't have to re-enter your registration details each time you visit us and allows us to carry out the activities mentioned above.  
 During the usage of our mobile apps platforms, we may collect and use Device Identifiers (unique random number) called Advertising/Device ID typically assigned by the mobile operating system software. Device Identifiers are typically used to track your device uniquely by the mobile advertisement networks for sending you marketing communications or advertisements.   
@@ -106,7 +104,7 @@ Most of the mobile operating systems allow users to reset the Advertising/Device
 Location Based Services (LBS) refer to a broad range of services that utilize the knowledge of the geographical position of a mobile device, in order to provide services based on the location information. It allows our customers to receive services and advertising based on their geographic location. Such services can be provided in response to a customer’s manual input of his or her location information into the mobile device or by using a technology (such as mobile apps leveraging location tracking technology, Cell-site location, etc.) to track the location of the customer automatically. In addition, LBS can also help in law enforcement and emergency services.  
 We may use location information in all kinds of ways that enhance our customer’s experience. For any specific location based services that may be of use to you and where we may require to share the location details with one of our carefully selected 3rd parties to provide you such services, a specific opt-in will be taken before any such information is shared. ****  
 **Disclosure, Sharing and Transfer of Personal Information**  
-**Authorized Third Parties:** ICL may at its discretion employ, contract or include third parties external to itself for strategic, tactical and operational purposes. We may disclose and/or transfer your personal information or other information collected (as defined in section 1: Collection of personal information), stored and processed by us to such third parties. Such third parties though external to ICL, will always be entities which are covered _by contractual agreements_. These agreements in turn include ICL’s guidelines to the management, treatment and secrecy of personal information. This may also include:-
+**Authorized Third Parties:** ICL may at its discretion employ, contract or include third parties external to itself for strategic, tactical and operational purposes. We may disclose and/or transfer your personal information or other information collected (as defined in section 1: Collection of personal information), stored and processed by us to such third parties. Such third parties though external to ICL, will always be entities which are covered by contractual agreements. These agreements in turn include ICL’s guidelines to the management, treatment and secrecy of personal information. This may also include:--
 
   * Sharing your Sensitive Personal Data or Information (SPDI). However, as per India IT Act, 2008 (IT Rules, 2011) we shall seek explicit consent from you at the time of collection if we intend to share your Sensitive Personal Data or Information (SPDI) with third parties.
   * Sharing of aggregated information with them in order for them to understand our environment and consequently, provide you with better services. We will further anonymize your aggregated information if in case, it is transferred outside India to comply with DOT guidelines.
@@ -126,12 +124,14 @@ Authorized third-parties include our subsidiaries, divisions, and third-party bu
 
 
 
-**Government Agencies:** ICL may also share your personal information with Government agencies or other authorized law enforcement agencies (LEAs) mandated under law to obtain such information for the purpose of verification of identity or for prevention, detection, investigation including but not limited to cyber incidents, prosecution, and punishment of offences. This may also include sharing your Sensitive Personal Data or Information (SPDI). ****  
-**Marketing Agencies:** If you have opted to receive marketing material from us, we may also provide your personal information to carefully selected third parties who we reasonably believe provide products or services that may be of interest to you and who have been contracted with ICL to keep the information confidential, or who are subject to obligations to protect your personal information _._  
+**Government Agencies:** ICL may also share your personal information with Government agencies or other authorized law enforcement agencies (LEAs) mandated under law to obtain such information for the purpose of verification of identity or for prevention, detection, investigation including but not limited to cyber incidents, prosecution, and punishment of offences. This may also include sharing your Sensitive Personal Data or Information (SPDI) ****  
+**Marketing Agencies:** If you have opted to receive marketing material from us, we may also provide your personal or anonymized information to carefully selected third parties who we reasonably believe provide products or services that may be of interest to you and who have been contracted with ICL to keep the information confidential, or who are subject to obligations to protect your personal information. _._  
 We will never share your Sensitive Personal Data or Information (SPDI) with any Marketing agencies.  
 For completeness we note that where such contact is via electronic means, our terms and conditions record our agreement with you that the SMS marketing messages we and our selected third parties send need not include an unsubscribe facility.  
-If you would like to opt-out of receiving marketing materials, please SMS ‘Start <option>’ on 1909 (toll free) for preference based communication.   
-The options are ‘0’ – For fully blocked category. ‘1’ – For Banking / Financial products / credit cards. ‘2’ – For Real Estate, ‘3’ – For education, ‘4’ – For Health, ‘5’ – For consumer goods & automobiles, ‘6’ – For Communication / Entertainment / Broadcasting / IT, ‘7’ - For tourism and Leisure. Please note that registration or change of preference shall be effective after 7 days from the date of request.   
+If you would like to opt-out of receiving marketing materials, please SMS ‘Start ’ on 1909 (toll free) for preference based communication.   
+The options are ‘0’ – For fully blocked category. ‘1’ – For Banking / Financial products / credit cards. ‘2’ – For Real Estate, ‘3’ – For education, ‘4’ – For Health, ‘5’ – For consumer goods & automobiles, ‘6’ – For Communication / Entertainment / Broadcasting / IT, ‘7’ - For tourism and Leisure. Please note that registration or change of preference shall be effective after 7 days from the date of request. 
+
+If you want to opt-out of sharing anonymized information with authorized third-party companies, sms“OPTOUT DS” to 12345 from your mobile   
 Please note that ICL will still need to send you essential information about your account or changes to your service which will not be restricted by opting for DND  
 **Data Analytics:** We may permit certain trusted third parties to track your usage, and analyze your personal data. Data Analytics is performed in order to better understand our products and services usage, and enhance them by helping us make better decisions. These include, but not limited to:
 
@@ -155,4 +155,4 @@ ICL reserves the right to change this Privacy Statement from time to time at its
 
 ### Contact Us
 
-We are committed to safeguarding your personal information collected and handled by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you may reach us by contacting the IDEA Appellate Authority for your circle whose contact details are available on our website under customer care section for each circle.
+We are committed to safeguarding your personal information collected and handled by us and look forward to your continued support for the same. In case of any feedback or concern regarding protection of your personal information, you may reach us by contacting the IDEA Appellate Authority for your circle whose contact details are available on our website under customer care section for each circle
