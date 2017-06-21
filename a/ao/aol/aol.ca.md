@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030027id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aol.ca privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622002954id_/http%3A//privacy.aol.ca/full_policy) for the most accurate reproduction.*
 
 # Privacy Policy - AOL Privacy CA
 
@@ -8,17 +8,17 @@ Print
 
  
 
-**Last updated:   **October 07, 2016
+**Last updated:   **June 19, 2017
 
-  At AOL, it’s our mission to provide users with rich, interactive online experiences.  From the latest technology news, to up-to-the-minute traffic information, our websites, apps, and other services are designed to keep you informed, entertained and delighted.  We also operate some of the industry’s best-known advertising services, including Adap.tv and Advertising.com. 
+  At Oath, it’s our mission to provide users with rich, interactive online experiences.  Our websites, apps, and other services are designed to keep you informed, entertained and delighted.  We also operate some of the industry’s best-known advertising services, including ONE by AOL advertising services. 
 
 We’re always working to make our services even better.  One of the ways we do that is by analyzing information we collect and receive about users in order to figure out what they might be interested in.  This helps us develop more engaging content and to provide more effective advertising, which enables us to keep most of our services free. 
 
 This Privacy Policy describes how we handle the information we collect and receive about users.  There are three things you should keep in mind as you read it: 
 
-  * _First_ , the Privacy Policy applies to AOL services that link to or refer to this Privacy Policy.  These services include websites, mobile apps, other online services and anything else that links to or refers to this policy.  To keep things simple, we refer to all these services as “our Services.” 
+  * _First_ , the Privacy Policy applies to Oath services that link to or refer to this Privacy Policy.  These services include websites, mobile apps, other online services and anything else that links to or refers to this policy.  To keep things simple, we refer to all these services as “our Services.” 
   * _Second_ , the Privacy Policy applies no matter what computer or device you use to access our Services. 
-  * _Third_ , we may provide additional information about the privacy practices of some of our Services.  Although this Privacy Policy applies to all AOL services that refer or link to it, you should read the additional information, too.  Some of this information is linked from various places in the Privacy Policy, and some is available through the individual Services that you use. 
+  * _Third_ , we may provide additional information about the privacy practices of some of our Services.  Although this Privacy Policy applies to all Oath services that refer or link to it, you should read the additional information, too.  Some of this information is linked from various places in the Privacy Policy, and some is available through the individual Services that you use. 
 
 
 
@@ -32,15 +32,15 @@ We collect and receive information about users in a few different ways: 
     * When you purchase one of our paid services, you give us your billing information, which may include your credit card data;
     * When you post comments in response to a story or video on any of our Services, we—and other users—receive that information; and
     *   * **_Information we collect or receive when you use our Services_**.  We also collect or receive information about how you use our Services.  We collect some of this information using [cookies, web beacons, and similar technologies](https://web.archive.org/cookies/).  Depending on how you access and use our Services, we may receive: 
-    * _Log information_.  This is information we automatically collect and store when you use our Services or other companies’ websites and apps in the [**AOL Advertising Network**](https://web.archive.org/definitions/).  It includes, for example: 
+    * _Log information_.  This is information we automatically collect and store when you use our Services or other companies’ websites and apps in the [ONE by AOL advertising services](https://web.archive.org/definitions/).  It includes, for example: 
       * Information about your interactions with the websites, apps, and other online services you use, the content you view, the search queries you submit, and information in [cookies and similar technologies](https://web.archive.org/cookies/);
       * Information about how you access those websites, apps, and other online services, your browser or operating system, your Internet Protocol (“IP”) address, and the website you visited before visiting our Services. 
-    * _Device information_.  This is information we automatically collect and store about the device you use when you access our Services or the services in the [**AOL Advertising Network**](https://web.archive.org/definitions/). (Note that by “device,” we mean anything you use to access our Services.  For more information about our privacy practices in connection with mobile devices, please review our [Supplemental Mobile Terms of Service and Privacy Policy](https://web.archive.org/mobile/).)  Device information includes, for example: 
+    * _Device information_.  This is information we automatically collect and store about the device you use when you access our Services or the services in the [ONE by AOL advertising services](https://web.archive.org/definitions/). (Note that by “device,” we mean anything you use to access our Services.  For more information about our privacy practices in connection with mobile devices, please review our [Supplemental Mobile Terms of Service and Privacy Policy](https://web.archive.org/mobile/).)  Device information includes, for example: 
       * The type of device you’re using (e.g., an iPhone);
       * Certain [device identifiers](https://web.archive.org/definitions/) which may be unique to your device; and
       * Your Internet access provider. 
-    * _Location information_.  This information can include, for example, your device’s GPS signal and information about nearby WiFi networks and cell towers.  We get this information when you use location-enabled services like MapQuest, which can give you driving directions based on your current location. 
-    * _Other information_.  Please note that AOL may use information about your use of certain AOL communication tools (for example, AOL Mail and AOL Instant Messenger); however, when you use AOL communication tools, AOL does not read your private online communications without your consent.
+    * _Location information_.  This information can include, for example, your device’s GPS signal and information about nearby WiFi networks and cell towers.  We get this information when you use location-enabled services which can give you driving directions based on your current location. 
+    * _Other information_.  Please note that Oath may use information about your use of certain Oath communication tools (for example, AOL Mail and AOL Instant Messenger); however, when you use Oath communication tools, Oath does not read your private online communications without your consent.
   * **_Information from third-party sources_**.  We may receive additional information about you that is publicly or commercially available and combine that with the information we have collected or received about you in other ways.  Also, we receive information about you when you choose to connect with social networking services while using our Services. 
 
 
@@ -51,11 +51,11 @@ Additionally, when you download the AOL client software, we may collect informat
 We use the information we collect and receive for the following general purposes: 
 
   * **_To provide our Services._**   Our ability to provide you with most of our Services depends on the information we collect and receive.  For example: 
-    * If you sign up to receive the daily headlines from Huffington Post, we’ll use your email address to deliver them to you; and
-    * If you ask us to remember your login information for AOL websites, we’ll use information stored in [cookies](https://web.archive.org/cookies/) when you return to those websites. 
+    * If you sign up to receive the daily headlines from HuffPost, we’ll use your email address to deliver them to you; and
+    * If you ask us to remember your login information for Oath websites, we’ll use information stored in [cookies](https://web.archive.org/cookies/) when you return to those websites. 
   * **_To improve our Services_**.  We collect information about how people use our Services so that we can provide content and advertising that people are likely to find relevant and engaging.  For example: 
     * If we notice that AOL.ca users in general prefer national political commentary, we might put that content in a special place on the website or in the app;
-    * If we notice that a user is searching for sports cars on AOL Autos, we might show the user an ad for a sports car on AOL.ca or on other sites in the [**AOL Advertising Network**](https://web.archive.org/definitions/); and
+    * If we notice that a user is searching for sports cars on AOL Autos, we might show the user an ad for a sports car on AOL.ca or on other sites including [ONE by AOL advertising services](https://web.archive.org/definitions/); and
     * If we receive information from users that a Service isn’t working properly, we may use that information to address any problem. 
   * **_To provide effective advertising_**.  Many of our Services are supported by advertising, and some of our Services provide advertising on our websites and apps, and on third-party websites and apps.  We use the information we collect and receive to make the advertising we provide more effective.  Some of the ways we do this are: 
     * Showing you ads based on your online activities, such as the websites and applications you use, the content you view, and the searches you submit on those applications
@@ -71,18 +71,18 @@ We don’t rent or sell [personal information](https://web.archive.org/definitio
 
 We may share information with: 
 
-  * [**Affiliates**](https://web.archive.org/definitions/).  The information one AOL [affiliate](https://web.archive.org/definitions/) receives can be shared among other AOL affiliates.
+  * [**Affiliates**](https://web.archive.org/definitions/).  The information one Oath [affiliate](https://web.archive.org/definitions/) receives can be shared among other Oath affiliates.
   * **_Business partners_**.  We may share information with select business partners, who may use the information for a variety of purposes, including to provide you with relevant advertising. 
   * **_Other parties in response to legal process or when necessary to protect our Services_**.  We may disclose your information—including the contents of your communications with other parties—to other parties, such as when we have a reasonable good faith belief that: 
     * It is necessary to respond to lawful governmental requests or legal process (for example, a court order, search warrant, or subpoena); 
     * The information is relevant to a crime that has been or is being committed; 
     * An emergency exists that poses a threat to your safety or the safety of another person; or
-    * It is necessary to protect the rights or property of AOL. 
-  * **_Other parties in connection with certain business transactions_**.  In the event that the ownership of AOL Canada Corp. or an [affiliate](https://web.archive.org/definitions/) changes as a result of a merger, acquisition, or in the unlikely event of a bankruptcy, your information may be transferred to another company.  If a transfer results in a material change in the use of the information we’ve collected or received about you, you will be given the opportunity to opt out of the transfer.
+    * It is necessary to protect the rights or property of Oath. 
+  * **_Other parties in connection with certain business transactions_**.  In the event that the ownership of Oath (Canada) Corp. or an [affiliate](https://web.archive.org/definitions/) changes as a result of a merger, acquisition, or in the unlikely event of a bankruptcy, your information may be transferred to another company.  If a transfer results in a material change in the use of the information we’ve collected or received about you, you will be given the opportunity to opt out of the transfer.
 
 
 
-**_Companies that Provide Services to AOL_**  
+**_Companies that Provide Services to Oath_**  
 Companies that provide services to us or act on our behalf may have access to information about you.  These companies include, but are not limited to, analytics providers, which are companies that help us understand how our Services are being used.  These companies are limited in their ability to use information they receive in the course of providing services to us.  [Learn more](https://web.archive.org/advertising_analytics/) about advertising and privacy on our Services.
 
   **_Third Parties that Provide Content, Advertising Services, or Functionality on Our Services_**  
@@ -103,14 +103,14 @@ If you choose to connect with a social networking service, like Facebook, we may
 It’s important to remember that we don’t control the privacy practices of these (or any other) third-party services.  So we encourage you to read the privacy policies of the services before connecting to them. 
 
 **_“Do Not Track” Signals_**  
-Some web browsers may transmit “do not track” signals to the websites and other online services with which the browser communicates.  There is no standard that governs what, if anything, websites should do when they receive these signals.  AOL currently does not take action in response to these signals.  If and when a standard for responding is established, AOL may revisit its policy on responding to these signals. 
+Some web browsers may transmit “do not track” signals to the websites and other online services with which the browser communicates.  There is no standard that governs what, if anything, websites should do when they receive these signals.  Oath currently does not take action in response to these signals.  If and when a standard for responding is established, Oath may revisit its policy on responding to these signals. 
 
 **_Choices_**  
 You have a number of choices about how we handle your information: 
 
   * If you’re a registered AOL user, you can access your registration information and any billing or shipping information and edit this information by visiting “My Account.”
   * If you’re a registered AOL user, you can visit AOL Marketing Preferences to review your marketing preferences and make choices about how your information may be used to provide marketing offers to you. Note that these preferences do not apply to communications that are directly related to your registration with AOL or the fulfillment of a specific transaction you have requested (for example, a service advisory from AOL or an acknowledgment of a purchase order).
-  * Visit our [Advertising, Analytics and Privacy](https://web.archive.org/advertising_analytics/) page to learn more about your choices related to use of your information for online advertising.  You may [opt out](http://youradchoices.ca/choices) of receiving targeted ads from AOL.
+  * Visit our [Advertising, Analytics and Privacy](https://web.archive.org/advertising_analytics/) page to learn more about your choices related to use of your information for online advertising.  You may [opt out](http://youradchoices.ca/choices) of receiving targeted ads from ONE by AOL.
   * Some of our Services (AOL Search and Netscape ISP, for example) may also offer you the ability to manage and control information collected or used when you use these services. 
   *  If you’re using a mobile device, please visit our [Mobile Device Choices](http://privacy.aol.ca/mobile_choices) page for information about the choices we provide to mobile users. 
 
@@ -135,7 +135,7 @@ If you have questions concerning our information practices with respect to child
 
  By mail:  
  AOL Children's Online Privacy  
- ATT: H2A:H09  
+ ATT: H4A:G10  
  22000 AOL Way  
  Dulles, VA 20166-9302
 
@@ -146,12 +146,12 @@ If you have questions concerning our information practices with respect to child
 Regardless of where you use our Services or otherwise provide information to us, the information may be transferred to and maintained on servers located in other countries, including in the U.S. Please note that any information we obtain about you will be stored in accordance with Canadian privacy laws, regulations, and standards, which may not be equivalent to the laws in your country of residence. By using our Services or by providing us with your information, you consent to this collection, transfer, storage, and processing of information.
 
 **_How to Contact Us_**  
-If you have questions or concerns about this Privacy Policy or about AOL’s privacy practices in general, please [contact us](mailto:CAPrivacyinfo@aol.com).
+If you have questions or concerns about this Privacy Policy or about Oath's privacy practices in general, please [contact us](mailto:CAPrivacyinfo@aol.com).
 
-**AOL Global Privacy Leader    **  
+**Oath Global Privacy Leader    **  
 22000 AOL Way  
 Dulles, VA 20166  
 CAPrivacyinfo@aol.com
 
   **_Changes to This Privacy Policy and Additional Information_**  
-We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to AOL’s information practices, we will place a prominent notice on our site, or send a notice to the primary email address specified in your AOL account, as applicable.  
+We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to Oath's information practices, we will place a prominent notice on our site, or send a notice to the primary email address specified in your registered account, as applicable.  
