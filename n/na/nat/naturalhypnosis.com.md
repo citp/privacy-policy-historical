@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhypnosis.com privacy policy that was archived on 2016-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160105095957id_/https%3A//www.naturalhypnosis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhypnosis.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621152410id_/https%3A//www.naturalhypnosis.com/privacy-policy) for the most accurate reproduction.*
 
 # Natural Hypnosis - Privacy Policy
 
@@ -18,7 +18,7 @@ This Application collects some Personal Data from its Users.
 
 ## Data Controller and Owner
 
-Natural Hypnosis Ltd, Natural Hypnosis, 67 The Mead, Darlington, Co Durham, DL1 1EU
+Natural Hypnosis Ltd, Natural Hypnosis, 1037 NE 65th St #80241, Seattle, WA 98115, (888) 856-8671
 
 ## Types of Data collected
 
