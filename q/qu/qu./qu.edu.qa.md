@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225121238id_/http%3A//www.qu.edu.qa/legal_notice.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qu.edu.qa privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621042031id_/http%3A//www.qu.edu.qa/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Legal Disclaimer
-
-Last modified: November 09, 2013 10:35:16.
-
-## Privacy Policy
+# Privacy Policy | Qatar University
 
 ### Information about the Website
 
@@ -50,7 +46,7 @@ We do not disclose your personal data to any other individual or organization.
 
 ### Privacy Support
 
-If you have an enquiry or concern about the Websites Unit privacy policy, please contact us on: [webadmin@qu.edu.qa](mailto:webadmin@qu.edu.qa)
+If you have an enquiry or concern about the Websites Unit privacy policy, please contact us on: [webadmin@qu.edu.qa](mailto:webadmin@qu.edu.qa)
 
 ### Change of this policy
 
@@ -58,7 +54,7 @@ Qatar University reserves the right to change, adapt, and adjust this privacy po
 
 ## Legal Disclaimer
 
-### IMPORTANT
+### Important
 
 The QU Website (the Website) is an information portal provided by Qatar University. QU welcomes you on this Website. Please read the present legal disclaimer. By continuing to view the pages of this Website, you do acknowledge that you did read and accept the present disclaimer. If you do not want to accept the legal disclaimer and/or the privacy policy, you should leave the Website. You also acknowledge and agree that you only are allowed to visit and use the Website by strictly following the rules described in this legal disclaimer.
 
@@ -66,20 +62,23 @@ If you do not respect the legal disclaimer and/or the privacy policy, Qatar Univ
 
 All trademarks used in the design of the Website are the sole property of Qatar University.
 
-### INFORMATION
+### Information
 
 The contents of the Qatar University Website are protected by law. Unless otherwise stated, you are not free to distribute any text or photos without prior permission from the University.
 
 The information presented on the Qatar University Website comes from a variety of sources. It includes information about official Qatar University departments and colleges, as well as affiliated pages from various sources and individuals. Every effort is made to present current and accurate information, yet the Websites Unit does not author or edit all of the pages on this website and cannot assume responsibility for all information. The author of each web page is responsible for the content of that page and is expected to abide by QU policies. Feedback or issues submitted to the site will be sent to the respective author.
 
-### INTELLECTUAL PROPERTY
+### Intellectual property
 
 Qatar University is the sole owner of all copyright and other intellectual property rights (Trademarks, patents, etc.) of every element of the Website. Every element of the Website is protected by copyright, unless expressively stated. No copy of any element of the website may be reproduced or distributed for any purpose without QU's express authorization.
 
-### LINK TO OTHER WEBSITES
+### Link to other websites
 
 Hyperlinks to third-party websites may exist on the Website for information only. Qatar University is and will be not responsible for any content of these websites. The presence of any hyperlink does not constitute any endorsement of the content of the website, and does not mean that Qatar University made any audit, verification, or investigation of the content of these websites.
 
-### APPLICABLE LAW
+### Applicable law
 
 The Website is governed only by the laws of Qatar.
+
+  
+
