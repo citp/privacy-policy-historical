@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125233235id_/http%3A//www.idateasia.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idateasia.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621100419id_/http%3A//www.idateasia.com/help/privacy.php) for the most accurate reproduction.*
 
 # iDateAsia Club -- Thai girls and Vietnamese women seeking single men for dating, romance, marriage , long-term relationship!
 
