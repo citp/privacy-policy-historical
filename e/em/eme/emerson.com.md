@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emerson.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223224158id_/http%3A//www.emerson.com/en-us/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emerson.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621234444id_/http%3A//www.emerson.com/en-us/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Emerson
+# Privacy Notice
 
 **_Effective Date: October 1, 2016_**  
 
@@ -106,7 +106,7 @@ We maintain appropriate technical and organizational measures to protect your Pe
 
 
   
-However, no method of Internet transmission or electronic storage is 100% secure or error-free, so it is not possible to guarantee absolute security. You must protect against unauthorized access to your password and to your computer, and be sure to sign off when finished using a shared computer. If you have reason to believe that your interaction with us is no longer secure (e.g., if you feel that the security of any account you might have with us has been compromised), please immediately notify us by email [inquiries@emerson.com](mailto:inquiries@emerson.com) or by calling us at [+1.314.553.2000](tel: 13145532000).  
+However, no method of Internet transmission or electronic storage is 100% secure or error-free, so it is not possible to guarantee absolute security. You must protect against unauthorized access to your password and to your computer, and be sure to sign off when finished using a shared computer. If you have reason to believe that your interaction with us is no longer secure (e.g., if you feel that the security of any account you might have with us has been compromised), please immediately notify us by email [inquiries@emerson.com](mailto:inquiries@emerson.com) or by calling us at [+1.314.679.8984](tel:+13146798984).  
 
 
   
@@ -133,7 +133,7 @@ The options/settings section of most internet browsers will tell you how to mana
 Instructions for blocking or allowing cookies in common internet browsers are provided at the links below for your convenience. However, we are not in control of the location of the instructions and information provided by the browsers below and, therefore, you may have to locate the particular instructions and information for the respective browser if these links are no longer current.
 
   * [Internet Explorer 7 and 8](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
-  * [Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&s=blocking%20cookies&r=2&as=s)
+  * [Firefox](https://support.mozilla.org/en-US/kb/block-websites-storing-site-preferences?esab=a&s=blocking+cookies&r=2&as=s)
   * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
   * [Apple Safari](http://support.apple.com/kb/ph5042)
   * [AboutCookies.org](http://www.aboutcookies.org/default.aspx)
@@ -190,7 +190,7 @@ Some internet browsers incorporate a “Do Not Track” feature that signals to 
 We only share your Personal Information with companies, organizations and individuals outside of Emerson as described below.  
 
 
-  *  **Affiliates and Third Parties**. We may share your Personal Information with Emerson’s affiliates and other companies worldwide, including our unaffiliated dealers, manufacturers, and suppliers in order for these companies to contact you about their products, services or other offerings that may be of interest to you. By accessing our websites, registering for an account or service with us, or otherwise providing us with your Personal Information, you consent to this transfer of your Personal Information worldwide as provided in this Privacy Notice. To choose to opt out of such disclosures, please email us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or call us at [+1.314.553.2000](tel: 13145532000). This Privacy Notice does not govern unaffiliated third-party websites or any other website that does not link to this Privacy Notice.
+  *  **Affiliates and Third Parties**. We may share your Personal Information with Emerson’s affiliates and other companies worldwide, including our unaffiliated dealers, manufacturers, and suppliers in order for these companies to contact you about their products, services or other offerings that may be of interest to you. By accessing our websites, registering for an account or service with us, or otherwise providing us with your Personal Information, you consent to this transfer of your Personal Information worldwide as provided in this Privacy Notice. To choose to opt out of such disclosures, please email us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or call us at [+1.314.679.8984](tel:+13146798984). This Privacy Notice does not govern unaffiliated third-party websites or any other website that does not link to this Privacy Notice.
   *  **Service Providers**. We may share your Personal Information with affiliated and unaffiliated companies that perform tasks on our behalf related to our business. Such tasks include processing payments, fulfilling orders, delivering packages, locational services, analyzing website or mobile application usage data, customer service, electronic and postal mail service, contests/surveys/sweepstakes administration, marketing services, social commerce and media services (e.g., Facebook, ratings, reviews, forums), and calculating, managing and reporting sales tax. Third-party service providers receive your Personal Information as necessary to perform their role, and we instruct them not to use your Personal Information for any other purposes.
   *  **As Required or Appropriate by Law**. We will use and disclose your Personal Information as necessary or appropriate, including without limitation:
     * Under applicable law, including laws outside your country of residence, to comply with legal processes and to respond to requests from public and government authorities, including public and government authorities outside your country of residence;
@@ -206,7 +206,7 @@ We may share aggregated data that has been anonymized (so that you are not ident
 
 
  **Public Forums**  
-Our websites may offer publicly accessible blogs, message boards, or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. You may request removal of your Personal Information from our blog, message board, or community forum by contacting us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or calling us at [+1.314.553.2000](tel: 13145532000). We will make commercially reasonable efforts to remove your Personal Information from the identified blog, message board, or community forum. If we are unable to remove such Personal Information, we will notify you and provide the reason we are unable to take such action.  
+Our websites may offer publicly accessible blogs, message boards, or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. You may request removal of your Personal Information from our blog, message board, or community forum by contacting us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or calling us at [+1.314.679.8984](tel:+13146798984). We will make commercially reasonable efforts to remove your Personal Information from the identified blog, message board, or community forum. If we are unable to remove such Personal Information, we will notify you and provide the reason we are unable to take such action.  
 
 
  **Links to Social Networking and other Third-Party Websites**  
@@ -215,26 +215,26 @@ Our Services may contain links to social networking and other websites and mobil
 
   
  **Accessing the Services from Outside the United States**  
-Personal Information collected through the Services may be stored on servers inside the United States or in countries outside the United States. By using any of our Services, you consent to the collection, use, and disclosure of your information as described in this Privacy Notice, including the transfer of your information to Emerson in the United States and other countries where Emerson and its affiliates and subsidiaries operate. You may withdraw your consent at any time by contacting us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or calling us at [+1.314.553.2000](tel: 13145532000). Prior uses and disclosures will not be affected unless required by applicable law, and we may otherwise continue to process your Personal Information in accordance with our statutory obligations and internal policies and procedures.  
+Personal Information collected through the Services may be stored on servers inside the United States or in countries outside the United States. By using any of our Services, you consent to the collection, use, and disclosure of your information as described in this Privacy Notice, including the transfer of your information to Emerson in the United States and other countries where Emerson and its affiliates and subsidiaries operate. You may withdraw your consent at any time by contacting us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or calling us at [+1.314.679.8984](tel:+13146798984). Prior uses and disclosures will not be affected unless required by applicable law, and we may otherwise continue to process your Personal Information in accordance with our statutory obligations and internal policies and procedures.  
 
 
  **Your Choices**  
 If you have created an online account with Emerson or one of its subsidiaries or companies and would like to update the information you have provided in your online account, you can access your account on this website to view and make changes or corrections to your information. If you do not want to receive marketing or other communications from us, please use the unsubscribe method provided in our communications. We will retain your Personal Information for as long as necessary to fulfill the purposes outlined in this Privacy Notice, unless a longer period is required or allowed by law.
 
  **Access to your Personal Information**  
-If you are a resident of the EU, you have the right to access information held about you. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.  You can make such a request by emailing us at  [inquiries@emerson.com](mailto:inquiries@emerson.com) or calling us at [+1.314.553.2000](tel: 13145532000). 
+If you are a resident of the EU, you have the right to access information held about you. Any access request may be subject to a fee to meet our costs in providing you with details of the information we hold about you.  You can make such a request by emailing us at  [inquiries@emerson.com](mailto:inquiries@emerson.com) or calling us at [+1.314.679.8984](tel:+13146798984). 
 
  **Children**  
 In compliance with the Children's Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, our website does not permit children under 13 years of age to become users, and we do not intentionally collect information from children. By using our website, you represent that you are 13 years of age or older.  
 
 
  **Contacting Us**  
-If you have any questions about this Privacy Notice, please write to us by mail at Emerson Electric Co., Attn: Website Inquiries, 8000 W. Florissant Avenue, Building AA, St. Louis, MO 63136, or email us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or call us at [+1.314.553.2000](tel: 13145532000). 
+If you have any questions about this Privacy Notice, please write to us by mail at Emerson Electric Co., Attn: Website Inquiries, 8000 W. Florissant Avenue, Building AA, St. Louis, MO 63136, or email us at [inquiries@emerson.com](mailto:inquiries@emerson.com) or call us at [+1.314.679.8984](tel:+13146798984). 
 
  **Changes**  
 We may update this Privacy Notice from time to time. Please check the “Effective Date” at the top of this page to see when this Privacy Notice was last revised. Unless otherwise noted, any changes we make to this Privacy Notice will become effective immediately once posted on this page. Your continued use of the Services following any changes to this Privacy Notice indicates your consent to the practices described in the revised Privacy Notice. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.  
 
 
- **[Prior Version](https://web.archive.org/resource/blob/156040/d5385e5d3d45fdce58159067719b1cd7/privacy-policy-emerson-prior-version-data.pdf)**
+ **[Prior Version](https://www.emerson.com/documents/corporate/156040.pdf)**
 
 Please enable JavaScript to use this website. 
