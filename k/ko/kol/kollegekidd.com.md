@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kollegekidd.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202153420id_/http%3A//kollegekidd.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kollegekidd.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621104652id_/http%3A//kollegekidd.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy | Welcome To KollegeKidd.com
 
