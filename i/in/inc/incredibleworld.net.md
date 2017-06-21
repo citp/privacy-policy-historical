@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021102946id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredibleworld.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621214628id_/http%3A//incredibleworld.net/about) for the most accurate reproduction.*
 
 # Privacy – Incredible World
+
+Last updated on February 20th, 2016 at 01:17 am
 
 **Incredibleworld.net** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
