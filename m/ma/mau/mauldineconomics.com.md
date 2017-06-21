@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123034128id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mauldineconomics.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621103452id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mauldin Economics
 
@@ -91,7 +91,7 @@ PO Box 192495 | Dallas, Texas 75219
 
 ## This rest of this notice is in regards to MauldinCircle.com which can be linked to from this site.
 
-Millennium Wave Investments, Millennium Wave Securities LLC, and Mauldin Solutions, LLC are providing this notice to explain our information collection practices and other important information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information.
+Millennium Wave Investments, Mauldin Securities LLC, and Mauldin Solutions, LLC are providing this notice to explain our information collection practices and other important information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information.
 
 ### Information We Collect
 
