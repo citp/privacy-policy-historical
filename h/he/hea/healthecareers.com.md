@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018061459id_/https%3A//www.healthecareers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622010234id_/https%3A//www.healthecareers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health eCareers
 
-##### **Effective Date: September 27, 2016**
+##### **Effective Date: January 13, 2017**
 
 OnTargetJobs, Inc. (“Health eCareers”) and DHI Group, Inc. (“DHI”) are committed to safeguarding the privacy of our users while providing personalized career management services on our websites.  This Privacy Policy for healthecareers.com describes our practices on the collection, use and disclosure of your information in connection with our parent entity, DHI Group, Inc., and subsidiaries and affiliates acting on our behalf (collectively, “HEC”). 
 
-Note: Any reference to “we,” “us,” “our website,” or HEC are references to the [www.healthecareers.com](http://www.healthecareers.com/) site (the “Website”) and all of our [partner career centers]. HEC provides links to the websites of many other companies to which this policy does not apply. We cannot, and do not, assume responsibility for the privacy or information policies, practices or actions of any third parties.
+Note: Any reference to “we,” “us,” “our website,” or HEC are references to the [www.healthecareers.com](http://www.healthecareers.com/) site (the “Website”) and all of our partner career centers. HEC provides links to the websites of many other companies to which this policy does not apply. Other than the requirements to which we adhere under the Privacy Shield framework and its accountability for onward transfer of personal information principle, we cannot, and do not, assume responsibility for the privacy or information policies, practices or actions of any third parties.
 
 We at HEC are committed to good privacy practices regarding your personally identifiable information. Your loyalty as a jobseeker, customer or visitor is important, and we hope that our concerns regarding your privacy, as described in this policy (the “Privacy Policy” or “Policy”), demonstrate our commitment to making your experience with HEC an enjoyable and satisfying one.
 
-DHI and its subsidiaries (Dice, ClearanceJobs, eFinancialCareers, Rigzone, Health eCareers, BioSpace, Hcareers, WorkDigital) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework.  DHI is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. [<https://www.privacyshield.gov/list>]
+DHI and its subsidiaries (Dice, ClearanceJobs, eFinancialCareers, Rigzone, Health eCareers, BioSpace, Hcareers, WorkDigital) participate in and have certified their compliance with the EU-U.S. Privacy Shield Framework.  DHI is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <https://www.privacyshield.gov/list>
 
 DHI is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  DHI complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
@@ -19,7 +19,7 @@ With respect to personal data received or transferred pursuant to the Privacy Sh
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
 
   
-Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 DHI Group, Inc. complies with the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. DHI Group, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view DHI’s certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -41,7 +41,7 @@ G. Social Media Features
 
 H. Facebook Connect
 
-I. Correcting personally Identifiable Information
+I. Choice and correction of personally Identifiable Information
 
 J. Changes to this Privacy Policy
 
@@ -67,7 +67,7 @@ Please note that we cannot control the acts of users of the Services. All member
 
 #### **B. How we use the information we gather**
 
-Please take some time to familiarize yourself with the different ways we use the information we gather. Keep in mind that, while HEC encourages all third parties involved, including but not limited to its advertisers, to adhere to our policies regarding the privacy of our visitors and users and to otherwise handle personally identifiable information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from HEC or independently. Nevertheless, in the event you encounter any third party associated with, or who claims association with, HEC who you feel is improperly collecting or using information about you, please contact [info@healthecareers.com](mailto:info@healthecareers.com).  
+Please take some time to familiarize yourself with the different ways we use the information we gather. HEC encourages all third parties involved, including but not limited to its advertisers, to adhere to our policies regarding the privacy of our visitors and users and to otherwise handle personally identifiable information in a responsible manner. In the event you encounter any third party associated with, or who claims association with, HEC who you feel is improperly collecting or using information about you, please contact [info@healthecareers.com](mailto:info@healthecareers.com). 
 
   1. **How we use non-personally identifiable information:** We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our visitors and users, and by measuring demographics and interests regarding specific areas of the Services. We may provide statistical information based on this data to advertisers, users, and other current and potential business partners. We may also use the aggregate data to inform these third parties as to the number of people who have seen and clicked through links to their sites.
   2. **How we use personally identifiable information:** We may use the personally identifiable information a user submits for any purposes related to HEC business, including, but not limited: 
@@ -137,7 +137,7 @@ The ads appearing on the Sites may be delivered to visitors by third parties, su
 
 ###### Log files
 
-HEC web servers may automatically log aggregate information, such as a user’s IP address, domain name, browser type, date and time of access, and other log file data. [This information may be used to analyze trends or administer the Sites.]
+HEC web servers may automatically log aggregate information, such as a user’s IP address, domain name, browser type, date and time of access, and other log file data. This information may be used to analyze trends or administer the Sites.
 
 ###### Links to third party web sites
 
@@ -167,11 +167,11 @@ The Sites include social media features, such as the Facebook like button and wi
 
 You may be able to log in to our Sites using sign-in services such as Facebook Connect. These services will authenticate your identity and provide you the option to share certain personally identifiable information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on the Sites to your profile page to share with others within your network.
 
-#### **I** **. Correcting personally identifiable information**
+#### **I. Choice and correction of personally identifiable information**
 
 If you would like to have your personally identifiable information removed from HEC’s database, or would like to correct an error in such information, please contact us at [info@healthecareers.com](mailto:info@healthecareers.com), and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within HEC databases, access logs, and other records, which may or may not contain such personally identifiable information. If you have provided more than one email address to our service, you may continue to be contacted, unless you request to unsubscribe each email address you have provided.
 
-  1. **Access** : If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on your account page or by emailing our Customer Support at [info@healthecareers.com](mailto:info@healthecareers.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to all access requests within 30 days.
+  1. **Choice and Access** : Upon request HEC will provide you with information about whether we hold any of your personal information.  If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on your account page or by emailing our Customer Support at [info@healthecareers.com](mailto:info@healthecareers.com) or by contacting us by telephone or postal mail at the contact information listed below.  We will respond to all access requests within 30 days.
   2. Data Retention: We will retain your information for as long as your account is active or as needed to provide you Services. If you wish to cancel your account or request that we no longer use your information to provide you Services, contact us at [info@healthecareers.com](mailto:info@healthecareers.com) We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
   3. Blogs: The Sites may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personally identifiable information from our blog or community forum, contact us at [info@healthecareers.com](mailto:info@healthecareers.com). In some cases, we may not be able to remove your personally identifiable information, in which case we will let you know if we are unable to do so and why.
   4. Testimonials: We post testimonials on the Sites which may contain personally identifiable information. We do obtain consent by email or a release agreement prior to posting the testimonial to post their name along with their testimonial.
@@ -188,6 +188,6 @@ Note that, by using the Services, you signify your agreement to this Privacy Pol
 
 Questions regarding this Privacy Policy should be directed to [info@healthecareers.com](mailto:info@healthecareers.com). You may also contact us at Health eCareers, 6465 S. Greenwood Plaza Blvd., Suite 400, Centennial, CO 80111, or 888-884-8242.
 
-This policy has been updated as of September 27, 2016.  For your reference, the previous version of our policy is available [here](https://web.archive.org/binaries/content/assets/healthecareers-us-en/pdf/legal/reference-privacy-policy-2008.pdf).
+This policy has been updated as of January 13, 2017.  For your reference, the previous version of our policy is available [here](https://web.archive.org/binaries/content/assets/healthecareers-us-en/pdf/legal/privacy-policy-_-health-ecareers-2016.09.27.pdf).  
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=e0619609-2aa7-413a-88b2-20553e8fbc6b)
