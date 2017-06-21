@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051358id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuvutu.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621020342id_/http%3A//www.yuvutu.com/modules.php%3Fname%3DYuSubscribe%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy On Yuvutu Homemade Amateur Porn Movies And XXX Sex Videos
 
