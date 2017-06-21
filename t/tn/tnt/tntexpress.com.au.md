@@ -1,229 +1,64 @@
-> *The following text is extracted and transformed from the tntexpress.com.au privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315184202id_/https%3A//tntexpress.com.au/interaction/asps/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tntexpress.com.au privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621215341id_/http%3A//www.tnt.com/express/en_au/site/home/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-                                      TNT Australia Pty Limited
-                                    Privacy Policy & Guidelines
-Background to TNT Australia Pty Limited’s Privacy Policy and Guidelines
-On 21 December 2001 the Privacy (Public Sector) Amendment Act 2000 (“Privacy Act”) came into
-force in Australia to regulate the way in which corporations deal with personal information. TNT
-Australia Pty Limited (“TNT”) is required to comply with the Privacy Act.
-TNT has established this Privacy Policy & Guidelines to implement a system for TNT and its staff to
-manage personal information.
-Please feel free to call the TNT Legal Department on (02) 8304 8016 or tie line 628016 if you have
-any queries or are uncertain of any issues that are contained in this document.
-What is personal information?
-“Personal information” is any information that can identify an individual or allow someone to make
-enquiries to identify an individual. Some examples of personal information such as names, addresses,
-telephone and fax numbers, email addresses and so on.
-The Privacy Act excludes our employees’ personal information but does not exclude information on
-past and prospective employees or any contractors or sub-contractors.
-TNT’s Policy based on the Privacy Principles outlined in the Privacy Act is outlined
-below:
-1.          Collection
-            TNT may collect personal information needed to fulfil its legitimate functions
-            (“TNT’s Functions”). TNT will only collect personal information by lawful and
-            fair means and not in an unreasonably intrusive way.
-            We may collect information which is necessary for us to fulfil the TNT Functions, for
-            example, contact names and addresses for the efficient and timely delivery of freight in our
-            express freight, logistics and mail businesses.
-            We will only collect this information lawfully and during the course of our normal business
-            transactions.
-2.          Use and Disclosure
-            TNT may use and disclose personal information for activities associated with the
-            TNT Functions (“secondary purpose”).
-            TNT will only collect personal information for a purpose other than for TNT’s Functions if:
-            (a)    the secondary purpose is related to the TNT Functions and if individuals would
-                   reasonably expect us to collect that information; or
-AU-LEG (L) – RG – 002                             1 of 6                                         Version: 1.0
-Approved by: Chris Stannage                                                              Issue Date: 13/07/07
-Title: Director Legal Services
+To view TNT Australia Pty Limited Privacy Policy & Guidelines [click here](https://web.archive.org/content/dam/tnt_express_media/en_au/download_documents/home_page/TNT%20Privacy%20Policy%20July%202017.pdf)
 
+**Personal Information  
+**  
+Examples of customer information that we collect include names, information on your shipment, addresses, e-mail addresses and telephone numbers. Some of the information collected by TNT is data which relates to an identifiable person ("Personal Information").
 
-                                       TNT Australia Pty Limited
-                                      Privacy Policy & Guidelines
-            (b)    if the individual has consented; or
-            (c)    if we use that information for direct marketing and it has not been practicable for us to
-                   get your consent before using that information.
-            Usually, we will not use or disclose personal information unless it is part of TNT’s Functions.
-            For example, we need to disclose this information to contract drivers or agents when they
-            deliver freight to a contact name and address.
-            Sometimes, however, we will need to disclose personal information to a third party for a
-            purpose directly related to the TNT Functions. For example, we provide all of our
-            consignment notes to a third party for imaging. In instances such as this, we will ensure that
-            a confidentiality agreement is in place with all of our suppliers and will request an
-            acknowledgment from them that they will comply with the Privacy Act and National Privacy
-            Principles.
-            In some instances, we will attempt to obtain consent to use or disclose personal information
-            for secondary purposes such as direct marketing activities, however, sometimes this may not
-            be practicable. In these circumstances, we recognise that some customers may not want us
-            to use or disclose their personal information for this purpose and they should be free to
-            inform us of this fact. Once a customer has notified us in writing that they wish to be
-            removed from our direct marketing database, we will remove them from our database as
-            soon as possible.
-            We recognise that an individual may wish to be removed from our direct marketing database
-            or have his or her personal information deleted from our systems at any time.
-3.          Data Quality
-            We will take reasonable steps to make sure that the personal information we
-            collect, use or disclose is accurate, complete and up to date.
-            TNT updates much of the information we hold on the request of a customer. We rely
-            heavily upon our customers notifying us when their information changes. However, from
-            time to time we will “wash” our database to ensure the information we hold is correct.
-            Some information is held on systems that are no longer in use but are still maintained by
-            TNT. We will endeavour to assess these systems periodically and delete old or inaccurate
-            information from these systems where possible.
-4.          Data Security
-            We will take reasonable steps to protect the personal information we hold from
-            misuse and loss and from unauthorised access, modification, or disclosure.
-            We have a secure computer and information management system and will do our utmost to
-            ensure it is safe from unauthorised use. This means disabling access to former employees
-            and having systems in place to protect personal information from unauthorised use.
-AU-LEG (L) – RG – 002                              2 of 6                                            Version: 1.0
-Approved by: Chris Stannage                                                                  Issue Date: 13/07/07
-Title: Director Legal Services
+**Collection of Personal Information and purpose thereof** TNT collects and stores information about every package it handles in order to enable efficient provision of package delivery services demanded by its customers. TNT uses information about its customers, their packages, and their shipping activity to provide or enhance the services it makes available to its customers, communicate with its customers about additional services they may find of value, satisfy our legitimate business interests (including performing trend analysis and market studies), set prices, establish credit, accomplish the billing function, and comply with government regulations applicable to us or our subsidiaries.
 
+Any Personal Information which we collect will be used solely for the purpose of providing our services, and we will not store it for any longer period than is legally permissible and required for this purpose.
 
-                                    TNT Australia Pty Limited
-                                   Privacy Policy & Guidelines
-            We back up all electronic information on a regular basis and keep copies of this information
-            on tapes and disks which are securely held.
-            Only employees who need access to personal information are authorised to do so.
-            We will ensure that all existing and new employees are given a copy of our Privacy Policy
-            Statement, these Policy Guidelines and Policy Procedures.
-            We will provide resources to all our employees to enable them to understand their
-            obligations under the Privacy Act.
-            We will ask our suppliers or contractors that have access to personal information held by
-            TNT to execute a confidentiality agreement which will contain an acknowledgment that they
-            are fully compliant with the Privacy Act.
-            TNT’s existing policy on lost personal information will apply if such circumstances arise.
-            We will take reasonable steps to destroy or permanently de-identify personal
-            information if it is no longer needed.
-            TNT updates much of the information we hold on the request of a customer. We rely
-            heavily upon our customers notifying us when their information changes. From time to time
-            we will continue to “wash” our database to ensure the information we hold is correct. We
-            will delete or destroy information that is no longer needed for TNT Functions or secondary
-            purposes.
-            Some information is held on systems that are no longer used but still maintained by TNT.
-            We will assess these systems periodically and delete old or inaccurate information where
-            possible.
-5.          Openness
-            We will maintain a Privacy Policy Statement and these Privacy Guidelines
-            setting out how we will manage personal information.
-            We will provide a copy of our Privacy Policy Statement and Privacy Policy Guidelines to
-            anyone who asks for a copy of them.
-            If requested, we will take reasonable steps to let any individual know, generally,
-            what sort of personal information we hold, for what purpose, and how we collect,
-            hold, use and disclose that information.
-            All requests should be made to us in writing, setting out what the individual would like to
-            know about what personal information we are holding. This request must be referred to
-            Susan Davies, Director Administration, Customer Service and Human Resources. Once she
-            receives this written request, she will arrange to let the individual know, generally what sort
-AU-LEG (L) – RG – 002                            3 of 6                                             Version: 1.0
-Approved by: Chris Stannage                                                                 Issue Date: 13/07/07
-Title: Director Legal Services
+**Third Parties  
+**  
+As we collect and use information about our customers, we may contract with vendors to assist us in processing that information for those purposes listed in the previous paragraph. In addition, we may ask our subsidiaries to process information, for those purposes, on our behalf. These vendors and/or subsidiaries are required to maintain the confidentiality of the information and are restricted from using the information for any other purpose. In addition, as we continue to develop our business, we may buy or sell subsidiaries or business units. As part of these transactions, customer information of the subsidiaries or business units may be one of the transferred assets.
 
+We will monitor on an ongoing basis compliance with the provisions of the applicable local legislation and regulations by third party processors, such as suppliers and contractors, of Personal Information held by us.  
+**  
+Fair and Secure Processing of Your Personal Information** It is our policy to take all necessary steps to ensure that all your Personal Information held by us is processed fairly and lawfully. We will take all necessary steps to implement and maintain this Privacy Policy. All our employees and data processors that have access to Personal Information are obliged to respect the confidentiality of your Personal Information.
 
-                                        TNT Australia Pty Limited
-                                      Privacy Policy & Guidelines
-            of personal information we hold, for what purpose and how we collect, hold, use and
-            disclose that information.
-            We will aim to answer all requests within one month of receipt of the request. However, in
-            some circumstances, it may not be practicable to do so. If this is the case, we will indicate
-            how long it might take us to furnish the request.
-            TNT may charge a reasonable fee for the provision of this service or may pass on to the
-            individual requesting the information any fee charged to TNT for this service.
-6.         Access and Correction
-           We will provide an individual with access to their personal information upon
-           written request. Exceptions to this are outlined below.
-           The exceptions to this are where:
-            (a)        providing access to the information will threaten the life, health or privacy of
-                       another individual;
-            (b)        the request is frivolous or vexatious;
-            (c)        the information relates to existing or anticipated legal proceedings between us and
-                       the individual and the information would not normally be discoverable;
-            (d)        providing access would reveal our intentions in negotiations with the individual and
-                       might prejudice those negotiations;
-            (e)        providing access would be unlawful;
-            (f)        denying access is required by law; or
-            (g)        providing access could threaten the privacy of other individuals;
-            (h)        providing access may prejudice a lawful investigation, the enforcement of laws,
-                       protection of public revenue or the preparation for court proceedings; or
-            (i)        if the provision of this information threatens the security of Australia.
-            Once we receive a written request for access to or copies of personal information held by
-            us, it must be directed to Susan Davies, Director Administration, Customer Service and
-            Human Resources. Susan Davies will then arrange to assess the request, subject to the
-            provisions of the Privacy Act.
-            Susan Davies will arrange to advise the requesting party what information we are holding and
-            how much, if anything, it will cost to retrieve the information. Any charges for access to or
-            copies of information will not be excessive. We may merely pass on costs charged to us by
-            a supplier. For example, our supplier of imaging services may charge us to retrieve
-            information. In these circumstances, we will pass on this cost to the individual requesting
-            the information.
-            Once we have provided an individual with access to or copies of their personal information
-            and that individual is able to establish that the information is inaccurate, incomplete or out of
-            date, or they object to it in some other way, we will correct the information. If we disagree
-AU-LEG (L) – RG – 002                                 4 of 6                                             Version: 1.0
-Approved by: Chris Stannage                                                                      Issue Date: 13/07/07
-Title: Director Legal Services
+**Transfer of Personal Information** Your Personal Information may be transferred to countries outside the European Economic Area, which do not provide an adequate level of protection, in order to perform our services. In addition, if you put your Personal Information on publicly available parts of the website, this may be accessed by persons in countries outside the European Economic Area, which may not offer an adequate level of protection.
 
+TNT may need to transfer your information to local or national (foreign) governments, in order to comply with the applicable law or in order to expedite the delivery of your package to its destination.
 
-                                    TNT Australia Pty Limited
-                                   Privacy Policy & Guidelines
-            with the individual about whether the information is accurate or the basis upon which they
-            object to us holding the information, we will try to resolve the matter directly with them.
-            If we cannot resolve the matter we will refer it to the Privacy Commissioner for a
-            determination.
-            TNT will give written reasons for our refusal to provide correction or access to the personal
-            information.
-7.         Identifiers
-            TNT will not require or use any identifying information.
-            “Identifying information” includes Medicare numbers, tax file numbers, pension numbers or
-            other identifiers as defined in the Privacy Act. Although TNT does not collect and store
-            identifying information we may transport such information for our customers.
-            Any identifying information being transported for our customers must be sealed in an
-            envelope or appropriate container by the customer and must not be opened by TNT staff
-            except where it is necessary to facilitate delivery of the consignment. If it is necessary to
-            open the sealed container the TNT staff member must reseal the container and keep the
-            information confidential.
-            One exception to this policy is where TNT as required by law, may collect the tax file
-            number of contracted staff and pass it on to TNT Group Retirement Fund or the Australian
-            Tax Office.
-8.          Anonymity
-            Where lawful and practicable, individuals may enter into transactions with us
-            anonymously.
-            Where we are able to, we will allow customers to deal with us anonymously. In most cases
-            where we are delivering freight, we will need contact names, addresses and telephone
-            numbers, so often this may not be possible. However, if a potential customer wants a quote
-            and does not want to be identified, we may ask for a written request for a quote on the
-            letterhead of the company requesting the quote and will not need any personal information
-            from that individual.
-9.          Transborder data flows
-            We will not disclose your personal information except as required to perform TNT
-            Functions or if required to do so by any other Commonwealth, State or Territory law.
-AU-LEG (L) – RG – 002                            5 of 6                                             Version: 1.0
-Approved by: Chris Stannage                                                                 Issue Date: 13/07/07
-Title: Director Legal Services
+**Access and correction** You can find out which of your Personal Information is held by TNT by contacting your local TNT office. We will acknowledge your request within 4 weeks. Should we be prevented from disclosing your personal information we will give reasons for any such refusal.
 
+To keep your Personal Information accurate, current, and complete, please contact us as about any incorrect information. We will update or correct Personal Information in our possession.
 
-                                     TNT Australia Pty Limited
-                                   Privacy Policy & Guidelines
-10.        Sensitive information
-           TNT does not collect and store any sensitive information but it may transport such
-           information for its customers. Any sensitive information must be sealed in an envelope or
-           appropriate container by the customer and must not be opened by TNT staff except where
-           it is necessary to facilitate delivery of the consignment. If it is necessary to open the sealed
-           container the TNT staff member must reseal the container and keep the information
-           confidential.
-           If a TNT staff member opens or misplaces, whether accidentally or on purpose, a container
-           of sensitive information this must be reported immediately to the TNT Legal Department.
-            TNT’s existing policy on lost personal information will apply if such circumstances arise.
-           Complaints or disputes to the Privacy Commissioner
-            If anyone has a complaint regarding TNT’s use of their personal information they must be
-            directed to Susan Davies, Director Administration, Customer Service and Human Resources
-            on (02) 8304 8410.
-            Susan Davies will attempt to resolve any complaints regarding privacy issues directly with the
-            complainant but if unsuccessful Susan Davies will arrange to refer the complaint to the
-            Privacy Commissioner for a determination.
-AU-LEG (L) – RG – 002                              6 of 6                                            Version: 1.0
-Approved by: Chris Stannage                                                                  Issue Date: 13/07/07
-Title: Director Legal Services
+**TNT websites** The following paragraphs describe our commitment to the protection of Personal Information as it applies to the TNT websites.
+
+Except as otherwise stated, we may use your information to improve the content of our website, to customize the website to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for other purposes specified in this Privacy Policy.  
+We may disclose your Personal Information where required by applicable laws, court orders, or government regulations.
+
+**Collection of Personal Information on TNT websites** Users can visit most areas of this website without revealing who they are or without providing any information about themselves. However, some of our interactive services require that users identify themselves in order to enable the interactive function. On this website TNT may ask users to provide Personal Information. We may share such information with our subsidiaries.
+
+_Active collection of Personal Information and purpose thereof_ During your visit of this website, TNT actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail. Some of the information that you submit may be Personal Information.
+
+Some areas of this website may require you to submit Personal Information in order for you to benefit from the specified features (such as e-mail alerts or newsletter subscriptions). You will be informed at each information collection point which information is required and for which purpose.
+
+_Passive collection of Personal Information and purpose thereof_ As you navigate through a website, certain information can be passively collected (that is, gathered without your actively providing the information) using various technologies and means, such as Internet Protocol addresses, cookies (see next paragraph), Internet tags and navigational data collection.
+
+This website uses Internet Protocol (IP) addresses. An IP Address is a number assigned to your computer by your Internet service provider so you can access the Internet. We use your IP address to diagnose problems with our server, report aggregate information, determine the fastest route for your computer to use in connecting to our site, and administer and improve the site.
+
+**Cookies** Cookies are small text files that a website can send to a user's browser for storage on the hard drive. Cookies can make use of the web easier by saving and administering status, application, preferences and other user information. Most browsers are initially set to accept cookies but users can change the setting to refuse cookies or to be alerted when cookies are being sent.
+
+When you view this website, TNT may store some information on your computer. This will be in the form of a cookie file. We use cookies to store information which we may use to improve the content of our site and to customise the site to your preferences. TNT also uses cookies to gather statistics on the use of [www.tnt.com](http://www.tnt.com/). No information is passed to TNT from any tnt.com cookie or its use. The cookie can only be accessed by [www.tnt.com](http://www.tnt.com/).
+
+We consider your browser settings to reflect your consent to, or refusal of, the cookies we use on our website. If you prefer not to accept cookies or if you prefer to be warned when one is being used, you can update the settings of your Internet browser. If you or your site administrator have cookies disabled, the website will continue to work; however, no parts of the website (inclusive of shipping tools, tracking and tracing of packages) will not work if cookies are disabled.
+
+We also use third-party services (such as Google Analytics) to collect aggregate information about the visitors to our website. These third-party services use cookies to provide us with non-personally identifiable information about your visit to this website (e.g. the number visits, location from which you visited this website and the number of pages you visited on this website). We use this information to improve the presentation and content of this website. Please note that data that is collected by these third-party services outside [www.tnt.com](http://www.tnt.com/) – if any – will not be governed by this privacy policy, but by the privacy policies of the respective third party.
+
+More information about the way Google processes your information is available at <http://www.google.com/intl/en/policies/privacy/>. If you wish to disable Google Analytics on your browser please visit <http://tools.google.com/dlpage/gaoptout>.
+
+**E-mail address (only when subscription is relevant)** If you subscribe to our e-mail alerts, we collect your e-mail address. This address will only be used for keeping you informed as indicated. If you wish to unsubscribe from our e-mail alert list, you can do so at any moment as indicated in every e-mail you receive or by contacting us through [websitemanagement@tnt.com](mailto:websitemanagement@tnt.com).
+
+**Security** TNT takes all steps reasonably possible to protect your Personal Information as collected by TNT in using this website and to protect such Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that internet transmission is not 100% secure or error-free. In particular, e-mail sent to or from this website may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.
+
+**Links to other websites** This website may contain links or references to other websites as a convenience to the user. Please be aware that TNT is not responsible for the privacy practices or the content of such other websites and that, in any case, this Privacy Policy does not apply to those websites. We encourage you to read the privacy policy of every web site you visit.
+
+**Changes  
+**  
+TNT may revise this Privacy Policy at its sole discretion. Prior to revising this Privacy Policy TNT will inform the users of this website.
