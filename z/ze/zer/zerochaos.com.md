@@ -1,41 +1,59 @@
-> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122050226id_/http%3A//www.zerochaos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerochaos.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621130759id_/http%3A//www.zerochaos.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy - ZeroChaos
 
-ZeroChaos is committed to maintaining the privacy and integrity of all information gathered for its users. We adhere to the following guidelines in the collection, storage, tracking, usage, and dissemination of your personal information.
+Effective Date: November 1, 2016
 
-ZeroChaos complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. ZeroChaos has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view ZeroChaos’ certification, please visit <http://www.export.gov/safeharbor/>
+This Online Privacy Notice applies to information about you that ZeroChaos ("we" or "us") may obtain when you visit zerochaos.com (the "Site"). This Privacy Notice also describes how we may collect, use, or share information about you; your choices regarding our use of your information; how we safeguard such information; and how you may contact us regarding our privacy practices.
 
-#### Personal Information
+#### Information Collection
 
-You may visit the ZeroChaos web site and not be required to provide any personal information. However for our suppliers, client managers, and client workers we do collect, store, and use personal information for legitimate business purposes only. We limit the information collected to that which we believe is appropriate and necessary to conduct business, provide our services, meet client contractual terms, and comply with applicable law.
+We may collect, store, and use information that you provide directly to us through the Site, including personal information such as names, postal addresses, email addresses, dates of birth, resume information submitted for workforce applications, and other details relevant to the services we provide. We collect information as appropriate and necessary to conduct business, provide our services, and comply with applicable legal requirements.
 
-#### Use Of Personal Information For Employees
+#### Information Collected Automatically
 
-We require our employees provide personal information as required by law. We will only share that information with state and federal regulatory agencies and ZeroChaos approved banking relationships. If elected by the employee, information can be sent to ZeroChaos approved benefits providers. We may also use third parties that provide service required by law or at the request of our client. ZeroChaos will not release personal information to nonessential third parties. ZeroChaos is required by law to maintain certain personal information even after you terminate your relationship with ZeroChaos.
+In addition to information that you submit to us, we may collect certain information automatically using various tools and technologies such as cookies and web server logs. The types of information we collect may include IP addresses, device identifiers, browser characteristics, operating system details, language preferences, referring URLs, length of visits, and pages viewed. A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Many web browsers are set to accept cookies by default, but you may be able to set your browser to notify you before you receive a cookie, or to remove or reject cookies. Please note that if you disable cookies, you may not be able to use certain features of this Site or other websites, and disabling cookies may invalidate opt outs that rely on cookies to function.
 
-#### Use Of Personal Information For Suppliers
+#### Data Analytics
 
-If you represent a ZeroChaos supplier our primary contact with you will be through our supplier portal. We may use the information provided on that site in connection with entering into or performing business with you. For example, this may include sharing information with other parts of ZeroChaos to work with other customers, financial institutions, or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other ZeroChaos suppliers generally.
+ZeroChaos may use third-party web analytics services, such as Google Analytics, to help us analyze how visitors use the Site. To learn more about opting out of data collection through Google Analytics, [click here](https://tools.google.com/dlpage/gaoptout).
 
-#### Use Of Personal Information For Employment Candidates
+Your web browser may have settings that allow you to transmit at "Do Not Track" signal when you visit various websites or use online services. Like many websites, this Site is not designed to respond to "Do Not Track" signals received from browsers. To learn more about "Do Not Track" signals, you may wish to visit http://www.allaboutdnt.com/.
 
-In connection with a job application or inquiry, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout ZeroChaos and its related entities for the purpose of employment consideration on any job opening. We will retain this information for future job openings and will remove your profile upon written notice.
+#### Information Sharing
 
-#### General Use Of Personal Information
+We may permit our agents, vendors, consultants, and other service providers to access information we collect about you through the Site to carry out work on our behalf. These third party service providers are prohibited from using such personal information other than to provide the services we have engaged them to perform for us.
 
-ZeroChaos is a global organization, with legal entities, business processes, clients, and systems that cross international borders. Our privacy practices are designed to provide protection for your personal information, across the globe.
+We also may share your personal information: (1) if we are required to do so by law, regulation, or legal process (such as in response to a court order or subpoena); (2) to fulfill requests by government agencies, such as law enforcement authorities; (3) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual illegal activity; (4) to enforce our policies, or protect ours or others’ rights, property, or safety; (5) in connection with, or during the negotiations of, any proposed or actual merger, purchase, sale, or other type of acquisition of all or a portion of our business,  or collaboration with another organization; (6) with our affiliates or other business partners for internal business purposes; (7) for a purpose described elsewhere in this Privacy Notice, or at the time you provide the information to us; or (8) with your consent, or at your direction.
 
-We also reserve the right to provide any of your information as required by law, court order, or other valid legal processes.
+#### Information Security
 
-Other than specified within ZeroChaos does not sell, trade or rent your personal information to others without your prior consent.
+ZeroChaos maintains appropriate physical, electronic, and managerial safeguards to protect personal information collected through the Site from loss, theft, misuse, or other unauthorized access, disclosures, alteration, or destruction. Although we are committed to maintaining accurate information and we use reasonable efforts to safeguard information, transmission via the Internet is not completely secure and we cannot guarantee the security of your information collected through the Site.
 
-#### Data Protection
+#### Children's Privacy
 
-Our employees are committed to maintaining accurate information and are responsible for its protecting. Your information is safe guarded by multiple layers of access, use of encryption, and control systems including firewalls. ZeroChaos has undertaken appropriate physical, electronic and managerial procedures to protect information we collect online.
+This Site is not intended for and not targeted to children under 13, and we do not knowingly or intentionally collect information about children under 13. If we learn that we have received information from a user of the Site who is under the age of 13, we will delete the information.
 
-You can change your personal information on-line or by calling Customer Service at (407) 770-6161.
+#### Links to Other Websites
 
-#### Use Of Cookies
+This Site may include links to other websites for your convenience and information. Those websites may be operated by entities not affiliated with ZeroChaos, and may have their own privacy policies or notices, which we strongly suggest your review. ZeroChaos is not responsible for the content or privacy practices of any linked websites that we do not control.
 
-We sometimes collect non-identifiable information from visits to our Web sites to help us provide a better web experience. We collect the information through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some ZeroChaos pages use cookies for tracking of anonymous users and to remember registered users. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly.
+#### Information for Users Outside the United States
+
+ZeroChaos is a global organization based in the United States. If you are visiting this Site from outside the United States, please be aware that information we collect through the Site may be transferred to the United States. The data protection laws and regulations applicable to your personal data transferred to the United States may be different from the laws in your country of residence.
+
+ZeroChaos has self-certified to the [EU-U.S. Privacy Shield](http://www.privacyshield.gov/). EU data subjects may click here to view our [EU-U.S. Privacy Shield Notice](http://www.zerochaos.com/privacy-eu.php), which applies to EU personal data transferred to the United States.
+
+#### Changes to this Privacy Notice
+
+We may change this Privacy Notice from time to time. If we make changes, we will notify you by revising the date at the top of this Privacy Notice. We encourage you to review this Privacy Notice whenever you visit the Site to stay informed about our information practices. This Notice was last modified on November 1, 2016.
+
+#### Your Choices
+
+You may request that we update, correct, or delete your information collected through the Site by contacting us using the information listed below. To help protect your privacy and security, we may take reasonable steps to verify your identity prior to honoring any such requests.
+
+You may unsubscribe from receiving promotional emails from us by following the instructions provided in those email communications, or by emailing us at service@zerochaos.com. Please note that even if you opt out of receiving promotional communications from us, we may continue to send you non-promotional emails, such as communications regarding our ongoing relationship with you.
+
+#### Contact Us
+
+If you have questions regarding this Privacy Notice you may contact us by calling Customer Service at (407) 770-6161, or by email at service@zerochaos.com.
