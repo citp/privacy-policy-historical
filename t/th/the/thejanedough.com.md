@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thejanedough.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223010603id_/http%3A//runwayriot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejanedough.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621212414id_/http%3A//runwayriot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RunwayRiot
+# Privacy Policy
 
 **INTRODUCTION**  
 Welcome! The following privacy policy (the “Privacy Policy”) outlines the types of personal information that RunwayRiot, LLC (“we,” “our,” or “us”) collects when operating services through our website http://www.runwayriot.com(the “Site” or “RunwayRiot”). 
