@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221070636id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatexchange.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621130755id_/http%3A//www.expatexchange.com/ee.cfm%3Fpageid%3D56%26networkid%3D159) for the most accurate reproduction.*
 
 # Expat Exchange Privacy Policy - Expats - Moving Overseas - International Living - International Jobs - Expatriate
 
-[ ](http://www.expatexchange.com/click.cfm?bannerid=832)
+[ ](http://www.expatexchange.com/click.cfm?bannerid=840)
 
 At ExpatExchange.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by ExpatExchange.com and how it is used. If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [help@expatexchange.com](mailto:help@expatexchange.com). 
 
