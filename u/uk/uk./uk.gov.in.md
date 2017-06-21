@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208075526id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uk.gov.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622010052id_/http%3A//www.uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.*
 
-# गोपनीयता नीति: Uttarakhand Government Portal, India
+# Privacy Policy: Uttarakhand Government Portal, India
 
 ## Privacy Policy
 
-प्रिंट
+Print
 
 As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
