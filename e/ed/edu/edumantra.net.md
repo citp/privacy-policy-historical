@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edumantra.net privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130175957id_/http%3A//edumantra.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edumantra.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621171952id_/http%3A//edumantra.net/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Mantra of Education
 
 **[www.edumantera.net-](http://www.edumantera.net-/) Privacy Policy**
 
