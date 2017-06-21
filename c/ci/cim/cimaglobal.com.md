@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119032201id_/http%3A//www.cimaglobal.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimaglobal.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621082802id_/http%3A//www.cimaglobal.com/Privacy-Policy) for the most accurate reproduction.*
 
 # CIMA - Chartered Institute of Management Accountants
 
@@ -10,11 +10,11 @@ This online privacy policy (the 'policy') describes the ways in which we collect
 
 This Policy applies solely to information collected by the Websites. The Websites may contain links to other sites.
 
-CIMA is not responsible for the content or practices of other sites and we recommend that you check their own privacy policies. Use of the Websites by you constitutes acceptance of this policy. If you do not agree to this policy then please refrain from using the Websites. For the purpose of the Data Protection Act 1998 (the Act), the data controller is the Chartered Institute of Management Accountants (CIMA) of The Helicon, One South Place, London, EC2M 2RB, United Kingdom , , United Kingdom.
+CIMA is not responsible for the content or practices of other sites and we recommend that you check their own privacy policies. Use of the Websites by you constitutes acceptance of this policy. If you do not agree to this policy then please refrain from using the Websites. For the purpose of the Data Protection Act 1998 (the Act), the data controller is the Chartered Institute of Management Accountants (CIMA) of The Helicon, One South Place, London, EC2M 2RB, United Kingdom.
 
 ## 2\. Confidentiality
 
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We will maintain the confidentiality of and protect your personal data in accordance with this policy and to the extent required by English law (including the Act).
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We will maintain the confidentiality of and protect your personal data in accordance with this policy and to the extent required by English law (including the Data Protection Act).
 
 ## 3\. Collection of information
 
@@ -22,9 +22,18 @@ We collect data from you in various ways: when you register on any of the Websit
 
 ## 4\. How your personal data is used
 
-We may use personal data you provide to us solely for the following purposes: Providing our products and services to you;
+We may use personal data you provide to us solely for the following purposes:
 
-To improve our services to you, for example, to notify you of any updates and changes to our products and services; To process payments from you, including registration fees, subscription payments and exam fees; Internal purposes, including Websites and system administration; Internal research, analysis and reporting for the purposes of improving our services; From time to time we may provide statistics about the usage levels of the Websites and other related information to reputable third parties, but these statistics will not include information which will allow you to be identified; We may use your information in accordance with CIMA's Royal Charter bylaws and regulations for the purposes of processing registration and exam entries; and To provide access to restricted parts of the Websites.
+  * Providing our products and services to you
+  * To improve our services to you, for example, to notify you of any updates and changes to our products and services
+  * To process payments from you, including registration fees, subscription payments and exam fees
+  * Internal purposes, including Websites and system administration
+  * Internal research, analysis and reporting for the purposes of improving our services
+  * From time to time we may provide statistics about the usage levels of the Websites and other related information to reputable third parties, but these statistics will not include information which will allow you to be identified
+  * We may use your information in accordance with CIMA's Royal Charter bylaws and regulations for the purposes of processing registration and exam entries
+  * To provide access to restricted parts of the Websites.
+
+
 
 ## 5\. Monitoring
 
@@ -64,15 +73,15 @@ This information is collected for our internal purposes only and shall not be di
 
 You have the right to access and the right to amend your personal data by changing the details online or by sending us a written request to the address given below or by email to:
 
-Gail Stirling, Executive Director, Governance & Professional Standards  
-Interim Data Protection Officer  
+Baljeet Basra  
+Data Protection Officer  
 CIMA   
 The Helicon  
 One South Place  
 London  
 EC2M 2RB  
 United Kingdom   
-Email: [gail.stirling@cimaglobal.com](mailto:gail.stirling@cimaglobal.com "gail.stirling@cimaglobal.com")
+Email: [baljeet.basra@cimaglobal.com](mailto:baljeet.basra@cimaglobal.com "baljeet.basra@cimaglobal.com")
 
 ## 11\. Use of third party services
 
@@ -82,9 +91,7 @@ Please note that third parties may require access to your personal data where su
 
 This privacy statement forms part of CIMA’s commitment to the principles of the Data Protection Act 1998.
 
-You can get a full copy of our data protection policy from the CIMA’s Data Protection Officer, Gail Stirling by email on [gail.stirling@cimaglobal.com](mailto:gail.stirling@cimaglobal.com "gail.stirling@cimaglobal.com") or in writing at the address above.
-
-You can also [download the policy](https://web.archive.org/Documents/About-us/data-protection-policy-ip2-july2012.pdf) (PDF 64KB).
+You can get a full copy of our data protection policy from CIMA’s Data Protection Officer, Baljeet Basra, by email on [](mailto:gail.stirling@cimaglobal.com "gail.stirling@cimaglobal.com")[baljeet.basra@cimaglobal.com](mailto:baljeet.basra@cimaglobal.com "baljeet.basra@cimaglobal.com"), or in writing at the address above.
 
 ## 13\. Questions
 
