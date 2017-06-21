@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132904id_/http%3A//www.arirang.com/Help/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arirang.co.kr privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621124442id_/http%3A//www.arirang.com/Help/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | The World On Arirang
 
@@ -6,7 +6,7 @@ Go to the Contents Go to the menu
 
 ## arirang help
 
-### 
+### PRIVACY POLICY
 
 ## Privacy Policy for Members of Arirang’s Web Site
 
@@ -14,31 +14,11 @@ The Korea International Broadcasting Foundation (hereinafter referred to as “F
 
   * #### Article 1 (Purpose of collecting personal information)
 
-① The Foundation collects personal information for the following purposes. The collected personal information is not used for purposes that are not specified below. Should the purposes of using personal information be changed, the Foundation will obtain consent from users according to Article 18 of the Act on the Protection of Personal Information. 
-
-1\. Website management  
-Arirang collects users’ personal information for personal identification, prevention of fraudulent and unauthorized use, compilation of records for dispute arbitration, complaint processing, and notifications. 
-
-2\. Statistical data on Website use  
-Arirang collects personal information to collect statistical data on users’ gender, age, nationality and city (region) of residence. 
-
-② The Foundation registers and discloses personal information files according to Article 32 of the Act on the Protection of Personal Information as follows. 
-
-No.  | Name of Personal Information File | Grounds for Management | Purpose of Collection  
----|---|---|---  
-1 | List of Website users | User consent | Management of Website  
-members and collection of   
-statistics  
+① The Foundation collects personal information for the following purposes. The collected personal information is not used for purposes that are not specified below. Should the purposes of using personal information be changed, the Foundation will obtain consent from users according to Article 18 of the Act on the Protection of Personal Information.   
 ※ For more information on personal information files registered at the Foundation, visit the Ministry of the Interior’s personal information protection portal (privacy.go.kr) → Personal Information Services → View Personal Information → List of Personal Information Files. 
   * #### Article 2 (Duration of Collection and Retention of Personal Information)
 
 ① The Foundation collects and retains personal information in line with the relevant laws as well as according to the period that users have agreed upon when submitting their personal information. 
-
-② The duration of collection and retention of personal information is as follows. 
-
-No. | Name of Personal Information File | Grounds for Management | Retention Period  
----|---|---|---  
-1 | List of Website users | User consent | Upon membership termination   
   * #### Article 3 (Provision of personal information to a third party)
 
 The Foundation collects and uses personal information provided by members only according to Article 1 (Purposes of Collecting Personal Information) and only provides personal information to a third party at users’ consent and in line with the relevant laws according to Article 17 of the Act on the Protection of Personal Information. 
@@ -55,12 +35,7 @@ The Foundation collects and uses personal information provided by members only a
 ④ Users can exercise their rights specified in Paragraph 1 via their legal representatives. However, they must submit a letter of attorney according to Article 11 of the Addendum of the Act on the Protection of Personal Information.   
 ⑤ Users must not infringe on their own privacy or the privacy of other people collected by the Foundation by violating the Act on the Protection of Personal Information.   
 
-  * #### Article 5 (Collected Personal Information Items) 
-
-① The Foundation collects and uses the following personal information items.  No.  | Name of Personal Information File | Personal Information Items Recorded in Personal Information Files  
----|---|---  
-1 | List of Website members | Name, ID, password, gender, date of birth, email address, nationality, city (region)  
-  * #### Article 6 (Destruction of Personal Information) 
+  * #### Article 5 (Destruction of Personal Information) 
 
 ① The Foundation immediately destroys users’ personal information as soon as the retention period is over and after achieving the purpose of its collection.   
 ② If the Foundation needs to retain the provided information in line with the relevant laws even when the agreed retention period is over or after achieving the purpose of its collection, it shall move the personal information in question (or personal information file) to a separate database or another storage space.   
@@ -70,30 +45,24 @@ The Foundation destroys personal information (or personal information files) acc
 2\. Destruction method  
 The Foundation destroys personal information stored in the form of electronic files using the low level format, which cannot be revived. Personal information stored in the form of paper documents is destroyed by shredding or incineration  
 
-  * #### Article 7 (Ensuring the Safety of Personal Information) 
+  * #### Article 6 (Ensuring the Safety of Personal Information) 
 
 ① The Foundation takes the following measures to ensure the safety of personal information.   
 1\. Handling measures: Devising and executing management plans, and regular employee training  
 2\. Technical measures: Control of access to the personal information processing system, installation of access control systems, encryption of passwords, and installation of security programs  
 3\. Physical measures: Access control in computer and materials storage rooms 
-  * #### Article 8 (Staff in Charge of Personal Information Protection) 
+  * #### Article 7 (Staff in Charge of Personal Information Protection) 
 
 ① The Foundation designates special personnel to oversee users’ personal information and process complaints and disputes regarding the collection of personal information.   
 ▶ Staff in charge of personal information protection  Category | Field/position | Name  | Contact Numbers  
 ---|---|---|---  
-Personal information protection superintendent | Management HQ | Kim, Ki-Choon | Phone: 02-3475-5155  
+Personal information protection superintendent | Management HQ | Kim, Ki-Choon | Phone: 02-3475-5000  
 Personal information manager | Management Support Team, Deputy Chief | Bang Seok-chul | Phone: 02-3475-5262  
 Email: privacy@arirang.com  
 Fax: 02-3475-5059  
   
-▶ Staff in charge of Website personal information protection by field  Category | Field/position | Name | Contact numbers  
----|---|---|---  
-Management chief | Viewers Satisfaction Team/Team Manager | Choi Tae-do | Phone: 02-3475-5155  
-Management director | Viewers Satisfaction Team / Deputy Chief | Lee Taek-soo | Phone: 02-3475-5260  
-Email: tslee@arirang.com  
-Fax: 02-3475-5115  
 ② Users can inquire the staff in charge of personal information protection about any matters, complaints and disputes related to personal information that they have submitted to use the Foundation’s services. The Foundation shall respond to users’ inquiries without delay. 
-  * #### Article 9 (Demand to View Users’ Personal Information)
+  * #### Article 8 (Demand to View Users’ Personal Information)
 
 ① Users can demand from the following staff to view their personal information according to Article 35 of the Act on the Protection of Personal Information. The Foundation shall try to process the request as soon as possible.   
 ▶ Department in charge of personal information viewing   
@@ -104,7 +73,7 @@ Phone: 02-3475-5260, email: tslee@arirang.com, fax: 02-3475-5115
 ② Users can also view their personal information by visiting the Ministry of Interior’s personal information protection portal (privacy.go.kr).   
 ▶ Ministry of Interior personal information protection portal (privacy.go.kr) → Personal Information Services → View Personal Information (authorization required) 
 
-  * #### Article 10 (Remedies for Infringement of Rights and Interests)
+  * #### Article 9 (Remedies for Infringement of Rights and Interests)
 
 ① Users can file complaints when their privacy has been infringed.   
 ▶ Complaints regarding privacy violations   
@@ -138,7 +107,7 @@ Ministry of Culture, Sports and Tourism, Sejong Government Complex
 ③ Users whose rights or interests were violated by the chiefs of public agencies processing users’ complaints can request an administrative trial according to the Administrative Appeals Act.   
 ※ For more information on administrative trials, visit the Website of the Administrative Appeals Commission (simpan.go.kr). 
 
-  * #### Article 11 (Modified Personal Information Collection Agreement)
+  * #### Article 10 (Modified Personal Information Collection Agreement)
 
 The modified personal information collection agreement takes effect on July 26, 2016. 
 
