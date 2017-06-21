@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smutcam.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122075506id_/http%3A//smutcam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smutcam.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621055827id_/http%3A//smutcam.com/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - smutcam.com
 
