@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auvik.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531233406id_/https%3A//www.auvik.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auvik.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621114725id_/https%3A//www.auvik.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Auvik Networks
 
@@ -104,3 +104,5 @@ Auvik reserves the right to make changes to this Privacy Policy. As such, we enc
 If you have any questions or concerns about our privacy policy or privacy practices, you may [contact Auvik directly](https://www.auvik.com/about/contact/ "Contact").
 
 This version of this Privacy Policy is effective as of June 18, 2014.
+
+Hi! Looks like you have JavaScript disabled. Please turn it on so you can see and interact with everything on our site.
