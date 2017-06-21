@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918110423id_/http%3A//www.stbotanica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stbotanica.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621230738id_/http%3A//www.stbotanica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | St.Botanica.com
 
