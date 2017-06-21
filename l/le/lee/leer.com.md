@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leer.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122114216id_/http%3A//www.leer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leer.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621050757id_/http%3A//www.leer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
