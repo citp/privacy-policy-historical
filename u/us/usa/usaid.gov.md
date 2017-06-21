@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209004851id_/https%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622003809id_/https%3A//www.usaid.gov/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | U.S. Agency for International Development
 
@@ -119,7 +119,7 @@ The Bureau for Legislative and Public Affairs manages the overall content, desig
 
 ## Accessibility
 
-USAID is committed to providing access to all individuals seeking information on USAID.gov. To provide this information, this site has been built to comply with [**Section 508**](http://www.section508.gov/) of the Rehabilitation Act (as amended). Section 508 requires that all individuals with disabilities (whether federal employees or members of the general public) have access to and use of information and data, comparable to that provided to individuals without disabilities, unless an undue burden would be imposed on us. If you use assistive technology (such as a screen reader, Braille reader, etc.) and have trouble accessing information on this site, please [**contact us**](https://web.archive.org/comment) with the nature of the problem, the URL (web address) of the information you tried to access, and your contact information. We will contact you as soon as possible, and do what we can to provide you with the information you need.
+USAID is committed to providing access to all individuals seeking information on USAID.gov. To provide this information, this site has been built to comply with [**Section 508**](http://www.section508.gov/) of the Rehabilitation Act (as amended). Section 508 requires that all individuals with disabilities (whether federal employees or members of the general public) have access to and use of information and data, comparable to that provided to individuals without disabilities, unless an undue burden would be imposed on us. If you use assistive technology (such as a screen reader, Braille reader, etc.) and have trouble accessing information on this site, please [**contact us**](https://web.archive.org/contact-us) with the nature of the problem, the URL (web address) of the information you tried to access, and your contact information. We will contact you as soon as possible, and do what we can to provide you with the information you need.
 
 ## Accessing Documents in Different File Formats
 
@@ -135,8 +135,8 @@ Washington, D.C. 20523-1000
 Phone: 202-712-4810  
 Fax: 202-216-3035_
 
-[**http://www.usaid.gov/comment**](https://web.archive.org/comment)
+[**http://www.usaid.gov/contact-us**](https://web.archive.org/contact-us)
 
 ## **For More Information**
 
-If you have any questions or comments about the information presented here, please contact USAID at the address or phone or fax numbers listed above or [**e-mail us**](http://www.usaid.gov/comment).
+If you have any questions or comments about the information presented here, please contact USAID at the address or phone or fax numbers listed above or [**e-mail us**](http://www.usaid.gov/contact-us).
