@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235904id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621144938id_/http%3A//www.irishrail.ie/legal/privacy-statement) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
@@ -70,7 +70,7 @@ To opt-out of receiving communications you have expressly requested (such as e-m
 
   * Select the e-mail "opt-out" or "unsubscribe" link, or follow the opt-out instructions included in each subscription communication
   * Return to the Web page(s) where you originally registered your preferences and follow the opt-out instructions
-  * Write to the CIÉ Webmaster - be sure to provide your name, e-mail and postal address, and relevant information about your CIÉ registrations.
+  * Write to the Digital Channels Department - be sure to provide your name, e-mail and postal address, and relevant information about your CIÉ registrations.
 
 
 
@@ -93,19 +93,19 @@ If there are updates to the terms of CIÉ's Privacy Statement, we will post thos
 
 ### Contacting Us
 
-CIÉ values your opinions. If you have comments or questions about our Privacy Policy, please send them to the CIÉ Webmaster or write to us at the following address:
+CIÉ values your opinions. If you have comments or questions about our Privacy Policy, please send them to the Digital Channels Department or write to us at the following address:
 
-CIÉ Webmaster  
-Córas Iompair Éireann  
-Heuston Station  
-Dublin 7  
+Digital Channels Department  
+Iarnród Éireann Irish Rail  
+Connolly Station  
+Dublin 1  
 Ireland
 
-E - Mail [webmaster@cie.ie](mailto:webmaster@cie.ie)
+E - Mail digital[@irishrail.ie](mailto:online@irishrail.ie)
 
 **Revision: October 2004**
 
-1\. A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, [http://www.CIE.ie](http://www.cie.ie/) is the URL for CIÉ's home page.
+1\. A URL (Uniform Resource Locator) is the global address of documents and other resources on the World Wide Web. For example, https://www.cie.ie is the URL for CIÉ's home page.
 
 2\. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol (TCP/IP) network, such as the World Wide Web. Networks use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web, allowing Web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
 
