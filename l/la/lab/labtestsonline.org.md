@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009174639id_/https%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621112528id_/https%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
 
 # Policies
 
@@ -48,3 +48,6 @@ This Website is operated, in whole or in part, from the United States. By using 
 
 _Third Party Links_  
 The Website may also contain links to other third party websites that are not under our control. These websites may have their own policies or no policies at all, regarding privacy. You should seek and review these policies before providing information to these websites. AACC has no responsibility for linked websites and provides these links solely for the convenience and information of our visitors. AACC also maintains a strict "no-spam" policy and fully complies with CAN-SPAM Act regulations.
+
+_Google Analytics_  
+Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please [go here](https://support.google.com/analytics/answer/6004245?hl=en).
