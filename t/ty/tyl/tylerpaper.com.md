@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330190600id_/http%3A//www.tylerpaper.com/cp/fbc-71/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621172944id_/http%3A//www.tylerpaper.com/cp/fbc-71/privacy-policy) for the most accurate reproduction.*
 
 # Tyler Morning Telegraph - Privacy Policy
 
