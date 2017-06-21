@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107074743id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621035414id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | ICO
 
@@ -10,6 +10,7 @@ This privacy notice tells you what to expect when the Information Commissioner�
   * complainants and other individuals in relation to a data protection or freedom of information complaint or enquiry;
   * people who use our services, eg who subscribe to our newsletter or request a publication from us;
   * people who notify under the Data Protection Act;
+  * people who apply for a grant under the ICO Grants Programme;
   * people who register their household CCTV camera; and
   * job applicants and our current and former employees.
 
@@ -42,6 +43,12 @@ The ICO uses a third party service to help maintain the security and performance
 ### WordPress
 
 We use a third party service, WordPress.com, to publish [our blog](http://iconewsblog.wordpress.com/ "ICO blog"), and some of our conference microsites. These sites are hosted at WordPress.com, which is run by Automattic Inc. We use a standard WordPress service to collect anonymous information about users' activity on the site, for example the number of users viewing pages on the site, to monitor and report on the effectiveness of the site and help us improve it. WordPress requires visitors that want to post a comment to enter a name and email address. For more information about how WordPress processes data, please [see Automattic's privacy notice](http://automattic.com/privacy "External site").
+
+## People who contact us via social media
+
+We use a third party provider, Hootsuite to manage our social media interactions.
+
+If you send us a private or direct message via social media the message will be stored by Hootsuite for three months. It will not be shared with any other organisations.
 
 ## People who call our helpline
 
@@ -88,6 +95,12 @@ Many businesses are required by law to ‘notify’ certain specified informatio
 When businesses fill in their registration forms, they are asked to provide the contact details of a relevant member of staff. ICO will use this for its own purposes, for example where we have a query about a registration, but will not put it on the public register.
 
 When we request information as part of the registration process, we make it clear where the provision of information is required by law and where it is voluntary.
+
+## Individuals applying for a grant under the ICO Grants Programme and undertaking research
+
+When individuals apply for a research grant under the ICO’s Grants Programme, they submit their information in an application form, provide details of their proposal and an outline of the research’s potential cost. Those who are awarded grants are asked to provide progress reports, a final report and final expenses. Any personal information that is provided in the application and during any research that has been awarded a grant, are used only for the purpose of reviewing the grant application and the ongoing administration and management of any grants that are awarded. We may also publish information about projects on our own website, including the amount of grant awarded and the recipient of the grant.
+
+Some information regarding grants that are awarded are also published on the Government grants register. The information that will be made public on the Government grants register includes the name of the grant programme (for us the ICO Grants Programme) and the funder’s name (the ICO), a description of the grant’s aims and objectives, the value and currency of the grant, the date it was awarded and the name of recipient of the grant and their recipient ID. More information on the Government grants register can be found [here](https://www.gov.uk/government/publications/government-grants-register).
 
 ## People who are required to register (notify) their household CCTV camera
 
