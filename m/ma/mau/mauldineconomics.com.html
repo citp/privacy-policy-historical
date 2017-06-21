@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mauldineconomics.com privacy policy that was archived on 2016-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161123034128id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mauldineconomics.com privacy policy that was archived on 2017-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170621103452id_/http%3A//www.mauldineconomics.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" lang="en" class=" scriptable"><head>
 	<meta charset="UTF-8">
@@ -30,13 +30,13 @@
  	<link rel="icon" type="image/png" href="/favicon.png">
 	<link rel="alternate" type="application/rss+xml" title="Newsletters" href="http://feeds.feedburner.com/johnmauldin/newsletters">
     
-        <link rel="stylesheet" type="text/css" href="http://www.mauldineconomics.com/?css=site_css/shared.v.1479299733">
+        <link rel="stylesheet" type="text/css" href="http://www.mauldineconomics.com/?css=site_css/shared.v.1489756198">
     
     
 	
 	<link rel="stylesheet" type="text/css" href="http://www.mauldineconomics.com/?css=site_css/shared-print.v.1380713082" media="print">
 
-<script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WZXVW7"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>    
+<script async="" src="//static.ads-twitter.com/uwt.js"></script><script async="" src="http://m.mauldineconomics.com/mtc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WZXVW7"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>    
 <script src="https://cdnjs.cloudflare.com/ajax/libs/ouibounce/0.0.10/ouibounce.min.js"></script>
 
        
@@ -98,6 +98,64 @@
 		top: 20px !important;
 	}
 </style>
+	<script type="text/javascript">
+    if(typeof(validateEmail) == 'undefined') {
+    	function validateEmail(email) {
+          var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+          return re.test(email);
+        }
+    }
+	var renderGoogleInvisibleRecaptcha = function() {
+      for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.recaptcha-holder');
+        if (null === holder){
+          holder = form.querySelector('.g-recaptcha');
+          if(null != holder) {
+          	holder.setAttribute('id', 'recaptcha' + i);
+            grecaptcha.render('recaptcha' + i, {
+              'sitekey' : '6Lc9LA0UAAAAAFl5Da8mz2cW7KdSs4ta_6Tjioqj', 
+              'theme' : (holder.getAttribute('data-theme') ? holder.getAttribute('data-theme') : 'light'),
+              'size' : (holder.getAttribute('data-size') ? holder.getAttribute('data-size') : 'normal'),
+            });
+            }
+
+        } else {
+
+          (function(frm){
+
+            var holderId = grecaptcha.render(holder,{
+              'sitekey': '6LcxIBsUAAAAAG6g2GjL1QKNwA65fhRdwRFNuqL-',
+              'size': 'invisible',
+              'badge' : 'bottomright', // possible values: bottomright, bottomleft, inline
+              'callback' : function (recaptchaToken) {HTMLFormElement.prototype.submit.call(frm);}
+            });
+            
+            
+            
+            var newEl = document.createElement('input');
+            newEl.setAttribute('name', 'g-recaptcha-invisible');
+            newEl.setAttribute('type', 'hidden');
+            newEl.setAttribute('value', '1');
+
+			holder.parentNode.insertBefore(newEl, holder.nextSibling);
+
+            frm.onsubmit = function (evt){
+              evt.preventDefault();
+              if(typeof(this.email.value) != 'undefined' && this.email.value && validateEmail(this.email.value))
+                  grecaptcha.execute(holderId);
+            };
+
+          })(form);
+        }
+      }
+    };
+
+
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=renderGoogleInvisibleRecaptcha&amp;render=explicit" async="" defer=""></script>
+
+
 </head>
 
 <body id="general-page" class="language-en has-background">
@@ -169,7 +227,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <ul>
 				  <li>
                   
-                   <a href="/order/sku/SU-000YS/1col">
+                   <a href="/order/plan/16133302/1col">
                    
                    Yield Shark</a></li>
 				 <li>
@@ -183,7 +241,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                    
                    Street Freak</a></li>
 				     <li>
-                   <a href="/order/plan/15220901/1col">
+                   <a href="/order/plan/17103901/1col">
                    The Daily Dirtnap</a></li>
 				     
                   
@@ -195,15 +253,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                    Transformational Technology Alert</a></li>
 				    <li>
                   
-                   <a href="/order/plan/14224501">
+                   <a href="/order/plan/16133301/1col">
                    
                    Rational Bear</a></li>
 				   
 				    <li>
                   
-                   <a href="/order/plan/16211602/1col">
+                   <a href="/order/plan/16132702/1col">
                    
                    Macro Growth &amp; Income Alert</a></li>
+                   
+                    <li>
+                  
+                   <a href="https://www.mauldineconomics.com/order/plan/16132401/1col">
+                   
+                   ETF Master Class</a></li>
 				   
                  <!-- <li><a href="/landing/full-spectrum-investing">Mauldin Economics VIP</a></li> -->
                 </ul>   
@@ -219,7 +283,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     <li><a href="/tech/tech-digest">Patrick Cox's Tech Digest</a></li>
                     <li><a href="/subscribe">The 10th Man</a></li>   
 					<li><a href="/subscribe-twig">This Week in Geopolitics</a></li>
-                    <li><a href="http://go.ggcpublishing.com/subscribe-ctd" target="_blank">Connecting the Dots</a></li>
+                    <li><a href="/subscribe-connecting-the-dots" target="_blank">Connecting the Dots</a></li>
                 </ul>   
                  
             </div>
@@ -232,7 +296,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                   <li><a href="/about-us/books/code-red">Code Red</a></li>
                     <li><a href="/about-us/books/the-little-book-of-bulls-eye-investing">The Little Book of Bull's Eye Investing</a></li>
                 	<li><a href="/about-us/books/endgame">Endgame</a></li>
-                	<li><a href="/about-us/books/the-millennium-wave">The Millennium Wave</a></li>
                 	<li><a href="/about-us/books/just-one-thing">Just One Thing</a></li>
                 	<li><a href="/about-us/books/bulls-eye-investing">Bull's Eye Investing</a></li>
                 </ul>   
@@ -255,6 +318,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <li><a href="/about-us/kevin-brekke">Kevin Brekke</a></li>
                             <li><a href="/about-us/olivier-garret">Olivier Garret</a></li>
                             <li><a href="/about-us/edward-dagostino">Edward D'Agostino</a></li>
+
+
                             <li><a href="/about-us/david-galland">David Galland</a></li>
                             <li><a href="/about-us/patrick-cox">Patrick Cox</a></li>
                             <li><a href="/about-us/george-friedman">George Friedman</a></li>
@@ -274,7 +339,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li class="parent"><a href="http://www.mauldineconomics.com/tech">Technology</a></li>
                 
 				 
-					<li class="last members"><a href="https://www.mauldineconomics.com/members">My Account.</a></li>
+					<li class="last members"><a href="https://www.mauldineconomics.com/members">My Account</a></li>
 				
 				
 			</ul>
@@ -282,7 +347,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<section class="search">
 			<h3><a href="/search/">Search Our Site</a></h3>
 			<!--<form action="/search/" method="post">
-				<input type="hidden" name="XID" value="83482cf9d8298f5bacf7c56b3c7010003374b018" />
+				<input type="hidden" name="XID" value="11e42c50e884dd6aa8c7733f0741d7fe83e630d3" />
 				<p>
 					<label>
 						<span>Keywords</span><br />
@@ -426,7 +491,7 @@ PO Box 192495 | Dallas, Texas 75219<br>
 <section>
 <h2>This rest of this notice is in regards to MauldinCircle.com which can be linked to from this site.</h2>
 
-<p>Millennium Wave Investments, Millennium Wave Securities LLC, and Mauldin Solutions, LLC&nbsp;are providing this notice to explain our information collection practices and other important information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information.</p>
+<p>Millennium Wave Investments, Mauldin Securities LLC, and Mauldin Solutions, LLC&nbsp;are providing this notice to explain our information collection practices and other important information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share and protect your personal information.</p>
 
 <section>
 <h3>Information We Collect</h3>
@@ -469,258 +534,316 @@ PO Box 192495 | Dallas, Texas 75219<br>
 
 	
 		
-			<style type="text/css">
-#subscriber-popup-field {
-    background-color: #efefef;
-    border-radius: 8px;
-    margin: 1em auto;
-    padding: 10px;
-	clear:right;
+			
+             	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.1/css/font-awesome.css" rel="stylesheet">
+<style> center {
+ display: block;
+ text-align: -webkit-center;
 }
-
-.brown {color:#993C00;}
-
-#subscriber-popup-field input#email {
-    background: url("/images/inn/images/field-bg.gif") repeat-x scroll 0 0 #ffffff;
-    border: 1px solid #fff;
-    border-radius: 10px;
-    font-size: 18px;
-	color:#777;
-    padding: 5px;
-    width: 62%;
-	height:35px;
-}
-
-#subscriber-popup-field #submit {
-    background-color: #993c00;
-    border: 0 none;
-    border-radius: 6px;
-    color: #fff;
-    cursor: pointer;
-    font-size: 0.7em;
-    margin: 0 0 0 10px;
-    padding: 10px;
-	font-weight:bold;
-	display:inline-block;
-	width:30%;
-}
-
 #ouibounce-modal {
-	display:none;
-    font-family: "Open Sans",sans-serif;
-    height: 100%;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
+	display: none;
+	font-family: 'Roboto', Arial, Helvetica, sans-serif;
+	height: 100%;
+	left: 0;
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
 #ouibounce-modal .underlay {
-    animation: 0.5s ease 0s normal none 1 running fadein;
-    background-color: rgba(0, 0, 0, 0.5);
-    cursor: pointer;
-    height: 100%;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100%;
+	animation: 0.5s ease 0s normal none 1 running fadein;
+	background-color: #000;
+	cursor: pointer;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	font-family: 'Roboto';
+	opacity: .7
 }
-#ouibounce-modal .modal2 {
-    animation: 0.3s ease 0s normal none 1 running popin;
-    background-color: #fff;
-    border-radius: 4px;
-    bottom: 0;
-    height: 390px;
-    left: 0;
-    margin: auto;
-    position: absolute;
-    right: 0;
-    top: 0;
-    width:745px;
-    z-index: 99;
-}
-#ouibounce-modal .modal-title {
-	background:url('/images/uploads/tftf/exit-modal-header.png') no-repeat #a8d2db;
-    border-radius: 4px 4px 0 0;
-    color: #fff;
-    font-size: 16px;
-    margin: 0;
-    padding: 5px;
-	height:80px;
-    text-align: center;
-}
-#ouibounce-modal .modal-title h3 {
-    color: #fff;
-    font-size: 2em;
-    font-weight: 800;
-    margin: 0.1em;
-    text-transform: uppercase;
-	text-shadow: 1px 1px 2px rgba(30, 30, 30, 0.5);
-}
-#ouibounce-modal .modal-title p {
-    color: #181a2c;
-    font-size: 1em;
-    font-weight: 500;
-    margin: 0 0 0 70px;
-}
-
-#ouibounce-modal .modal-body {
-    font-size: 1.2em;
-    padding: 0px 35px 0 200px;
-}
-#ouibounce-modal-body p {
-    color: #344a5f;
-    line-height: 1.4em;
-	margin-top:1.5em;
-
-}
-#ouibounce-modal form {
-    margin-top: 35px;
-    text-align: center;
-}
-#ouibounce-modal form input[type="text"] {
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    font-size: 1.2em;
-    padding: 12px;
-}
-#ouibounce-modal form input[type="submit"] {
-    background-color: #993C00;
-    border: medium none;
-    border-radius: 4px;
-    color: #fff;
-    cursor: pointer;
-    font-size: 1.1em;
-    font-weight: bold;
-    text-transform: uppercase;
-}
-#ouibounce-modal form p {
-    font-size: 0.9em;
-    margin-left: 35px;
-    margin-top: 1px;
-    opacity: 0.8;
-    padding-top: 1px;
-    text-align: left;
-}
-#ouibounce-modal .modal-footer {
-    bottom: 10px;
-    position: absolute;
-    text-align: center;
-    width: 100%;
-}
-#ouibounce-modal .modal-footer p {
-    border-bottom: 1px solid #344a5f;
-    cursor: pointer;
-    display: inline;
-    text-transform: capitalize;
-}
-
-#ouibounce-modal div#thanks {
-	display:none;	
-	text-align:center;
-	font-weight:bold;
-}
-
-
-@keyframes fadein {
-0% {
-    opacity: 0;
-}
-100% {
-    opacity: 1;
-}
-}
-@keyframes popin {
-0% {
-    opacity: 0;
-    transform: scale(0);
-}
-85% {
-    opacity: 1;
-    transform: scale(1.05);
-}
-100% {
-    opacity: 1;
-    transform: scale(1);
-}
-}
-
-@media only screen and (max-device-width: 480px) {
 #ouibounce-modal .modal {
-
-    height: 100%;
-    width: 100%;
-    z-index: 1;
-} 
-	 	 
+	animation: 0.3s ease 0s normal none 1 running slideup;
+	border-radius: 4px;
+	left: 0;
+	margin: 40px auto 0;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 840px;
+	z-index: 99;
+	color: #000;
+	font-size: 16px;
+	line-height: 1.4em;
+	background: #fff;
+	padding: 0px 20px 10px;
+	border: 5px solid #d8a807
+}
+#ouibounce-modal .modal p {
+	color: #000;
+	line-height: 1.3em;
+	font-size: 16px;
+	margin-bottom: 20px;
+	margin-top: 0px
+}
+#ouibounce-modal .modal p.mar {
+	margin-bottom: 0;
+	margin-top: 10px
+}
+#ouibounce-modal .modal .urgency {
+	font-size: 30px;
+	font-weight: 700;
+	text-align: center;
+	color: #d8a807;
+	position: relative;
+	margin-top: -12px;
+	line-height: .4
+}
+#ouibounce-modal .modal .urgency span {
+	position: relative;
+	z-index: 1;
+	padding: 3px 30px;
+	background: #fff;
+	background: #d8a807;
+    color: #fff;
+    border-radius: 6px;
+}
+.modal .urgency:before{
+		position: absolute;
+bottom: -45px;
+left: 50%;
+transform: translateX(-50%);
+font-family: FontAwesome;
+font-size: 50px;
+line-height: 1;
+font-weight: normal;
+font-style: normal;
+display: inline-block;
+content: "\f0d7";
+color: #d8a807;
+  }
+#ouibounce-modal .modal h1 {
+	font-size: 34px;
+	line-height: 1.25em;
+	font-weight: 800;
+	letter-spacing: -0.03em;
+	text-align: center;
+	padding: 0;
+	margin: 45px 0 25px;
+	color: #000
+}
+#ouibounce-modal .modal h3 {
+	color: #000;
+	font-size: 20px;
+	font-weight: 900;
+	letter-spacing: -0.03em;
+	text-align: center;
+	text-transform: none;
+	margin: 20px 0 20px;
+	line-height: 1.45em;
+}
+#ouibounce-modal .modal .body-holder {
+	position: relative
+}
+#ouibounce-modal .modal .modal-body {
+	font-size: 16px;
+}
+#ouibounce-modal .modal ul {
+	list-style: none;
+	margin: 0;
+	padding: 0
+}
+#ouibounce-modal .modal ul li {
+	margin: 0 0 0 35px;
+	padding: 0 0 8px 0;
+	position: relative
+}
+#ouibounce-modal .modal ul li:before {
+	position: absolute;
+	content: "\f00c";
+	font-size: 16px;
+	font-weight: 700;
+	top: 0;
+	left: -25px;
+	font-family: FontAwesome;
+}
+#ouibounce-modal .modal .footer-text {
+	cursor: pointer;
+	color: #666;
+	text-decoration: underline;
+	text-align: center;
+	display: block
+}
+#ouibounce-modal .modal .btn {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: 'Roboto', Arial, sans-serif;
+	padding: 17px 40px;
+	font-size: 18px;
+	font-weight: 600;
+	border-radius: 60px;
+	text-decoration: none;
+	margin-bottom: 25px;
+	display: inline-block;
+}
+#ouibounce-modal .modal .btn-primary {
+	background: #d8a807;
+	border-color: #d8a807;
+	color: #fff
+}
+#ouibounce-modal .modal .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+	color: #fff;
+	background-color: #000;
+	border-color: #000; /*set the color you want here*/
+}
+#ouibounce-modal .modal .vertical-align {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	-ms-flex-direction: row;
+	flex-direction: row;
+}
+#ouibounce-modal .modal .col-left {
+	float: left;
+	width: 52%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+#ouibounce-modal .modal .col-right {
+	float: left;
+	width: 48%;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+ @keyframes fadein {
+ 0% {
+ opacity: 0;
+}
+ 100% {
+ opacity: .7;
+}
+}
+ @keyframes slideup {
+ 0% {
+ opacity: 0;
+ top: 40%;
+}
+ 100% {
+ opacity: 1;
+ top:0%;
+}
 }
 
-/* Large screens ----------- */
-@media only screen 
-and (min-width : 1300px) {
-	#ouibounce-modal .modal2 {
-		width:875px !important;
-		font-size:1.1em !important;
-		height:400px !important;
-	} 
+@media (max-width: 992px) {
+#ouibounce-modal .modal .modal-body {
+	width: auto
+}
+#ouibounce-modal .modal .padd-adjust {
+	padding-left: 0px
+}
 }
 
+@media (min-width: 992px) {
+#ouibounce-modal .modal .padd-adjust {
+	padding-left: 30px
+}
+}
+
+@media (min-width: 1200px) {
+#ouibounce-modal .modal .padd-adjust {
+	padding-left: 30px
+}
+}
+.row-b::after {
+	clear: both;
+}
+.row-b::after, .row::before, center:before, center:after {
+	content: " ";
+	display: table;
+}
+.row-b {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+.container-b::after, center:before {
+	clear: both;
+}
+.container-b::after, .container-b::before {
+	content: " ";
+	display: table;
+}
+.container-b {
+	margin-right: 0 auto;
+	margin-left: 0 auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.img-responsive {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+#ouibounce-modal .modal .modal-close-btn {
+	display: block;
+	position: absolute;
+	color: #000;
+	text-decoration: underline;
+	content: "";
+	font-size: 50px;
+	top: 15px;
+	right: 15px;
+	text-decoration: none;
+	opacity: .4;
+}
 </style>
 
-<!-- Ouibounce Modal -->
-    <div id="ouibounce-modal">
-      <div class="underlay"></div>
-      <div class="modal2">
-        <div class="modal-title">
-          <h3>Before you go...</h3>
-          <p><strong>Want to receive exclusive economic commentary from John Mauldin? </strong></p>
-        </div>
+<div id="ouibounce-modal">
+	<div class="underlay"></div>
+	<div class="modal">
+	<div class="container-b">	
+					  <div class="row-b">
+						  <div class="col-full">
+							   <div class="urgency"><span>WAIT</span></div>
+							   <a href="#" class="modal-close-btn text-center" data-ouibounce-hide=""><span aria-hidden="true">×</span>
+          </a>
+							   <h1>Are You Ready For the Death of<br> the 36-Year-Old Bond Bull Market?</h1>
+						 </div>			
+						</div>
+     
+		<div class="modal-body">		
+							 <div class="row-b vertical-align">
+									   <div class="col-left">
+									   <div class="padd-adjust"><p><strong>Contrarian analyst and former Wall Street trader Jared Dillian believes that: </strong></p>
+									   <ul><li>President Trump is the biggest inflationary catalyst in 40 years</li>
+										<li>Once inflation gets going, it will be impossible to slow down. </li>								
+										</ul>
+										<p class="mar">Many investors haven’t lived through a bond bear market. <strong>Is your portfolio correctly positioned?</strong> </p>
+										</div>
+									   </div>
+										<div class="col-right"><img src="//d1v8wrjcw5hdn6.cloudfront.net/landing/inflation/roi-exit-thumb2.png" class="img-responsive"></div>
+							 </div>
+				 <h3>Find out with your free copy of Jared Dillian’s<br><em> The Return of Inflation: How to Play the Bond Bear Market</em> </h3>
+				
+				 <center><a class="btn btn-primary" href="https://www.mauldineconomics.com/landing/the-return-of-inflation"><i class="fa fa-check-circle-o" aria-hidden="true"></i> YES, SEND ME A COPY NOW</a></center>
+		
+				 <p class="small text-center footer-text">No thanks</p>
 
-        <div class="modal-body">
-         <img src="/images/uploads/tftf/exit-modal-john.png" width="168" height="345" alt="John Mauldin" style="position:absolute; bottom:0; left:5px;">
-           <img src="/images/uploads/tftf/frontline-ipad-exit.png" width="133" height="164" alt="John Mauldin" style="display:block; float:right; margin:0em 0 0 0.5em;">
-           <p>Subscribe to John Mauldin's free weekly publication, <span class="brown"><em>Thoughts from the Frontline</em></span>, to receive John's commentary on current events, the global economy, and investment opportunities. </p>
-<form id="subscribe_form0" class="subscribe_form_ajax" name="subscribe_form0" method="post" action="http://www.mauldineconomics.com/">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="161">
-<input type="hidden" name="RET" value="">
-<input type="hidden" name="charset" value="">
-<input type="hidden" name="redirect" value="">
-<input type="hidden" name="subscribe" value="yes">
-<input type="hidden" name="codes" value="frt">
-<input type="hidden" name="email_template" value="">
-<input type="hidden" name="email_subject" value="">
-<input type="hidden" name="campaign_id" value="">
-<input type="hidden" name="skus" value="">
-<input type="hidden" name="skus_email_template" value="">
-<input type="hidden" name="skus_email_subject" value="">
-<input type="hidden" name="form_url" value="http://www.mauldineconomics.com/privacy-policy">
-<input type="hidden" name="optin_confirm_url" value="">
-<input type="hidden" name="site_id" value="1">
-<input type="hidden" name="csrf_token" value="83482cf9d8298f5bacf7c56b3c7010003374b018">
-</div>
-
-
-		<div id="subscriber-popup-field">
-        
-           <input name="email" type="email" required="required" id="email" value="Enter your email address" onblur="if (this.value=='') this.value = 'Enter your email address'" onfocus="if (this.value=='Enter your email address') this.value = ''"> <input type="submit" name="submit" id="submit" value="Subscribe Now">
-          </div>
-		<div id="thanks">
-			<p>Thank you for subscribing to <em>Thoughts from the Frontline</em>. We will send you a confirmation email shortly.</p>
 		</div>
-      </form>
-
-			<!--<form>
-       		 <input type="text" placeholder="you@email.com">
-            <input type="submit" value="Subscribe Now">
-            <p class="form-notice">*this is a fake form</p>
-          </form>-->
-        </div>
-
-        <div id="roundtable-modal-footer" class="modal-footer">
-          <p>no thanks</p>
-        </div>
-      </div>
-    </div>
+		</div>
+	</div>
+</div>
+             
 		
 		
 	
@@ -739,7 +862,7 @@ function showControlModal() {
 $(document).ready(function(){
 
       showControlModal();
-      $('#ouibounce-modal .modal-footer, #ouibounce-modal-rt .modal-title-roundtable').on('click', function(e) {
+           $('#ouibounce-modal .modal-footer, #ouibounce-modal-rt .modal-title-roundtable,#ouibounce-modal .footer-text,#ouibounce-modal .modal-close-btn').on('click', function(e) {
         $('#ouibounce-modal, #ouibounce-modal-rt').hide();
       });
 
@@ -786,7 +909,9 @@ $(document).ready(function(){
                 }
                 else
                 {
-                    $("#bad-email").prependTo($(form).find(".input-group")).fadeIn('fast', function () {$(this).delay(1600).fadeOut('slow');});
+                	if($("#bad-email").length && $(form).find(".input-group").length) {
+                        $("#bad-email").prependTo($(form).find(".input-group")).fadeIn('fast', function () {$(this).delay(1600).fadeOut('slow');});
+                    } else {alert(res.message);}
 
                 }
             }, error: function(XMLHttpRequest, textStatus, errorThrown)
@@ -797,7 +922,14 @@ $(document).ready(function(){
         return false;
     }
 </script>
+<script>
+    (function(w,d,t,u,n,a,m){w['MauticTrackingObject']=n;
+        w[n]=w[n]||function(){(w[n].q=w[n].q||[]).push(arguments)},a=d.createElement(t),
+        m=d.getElementsByTagName(t)[0];a.async=1;a.src=u;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','http://m.mauldineconomics.com/mtc.js','mt');
 
+    mt('send', 'pageview');
+</script>
 <!-- Footer  -->
 <div style="clear:both;"></div>
 <div class="row" id="footer">
@@ -818,7 +950,7 @@ of continuing education programs for CFA Institute members.</p>
           <li><a href="http://www.mauldineconomics.com/site-map">Site Map</a></li>
         </ul>
       </nav>
-      <p>© 2016 Mauldin Economics, LLC. All rights reserved.</p>
+      <p>© 2017 Mauldin Economics, LLC. All rights reserved.</p>
     </section>
     <section class="social">
       <h2>Connect with Mauldin</h2>
@@ -838,13 +970,12 @@ of continuing education programs for CFA Institute members.</p>
 
 
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-578f945b9be2b56f"></script>
+
 
 <!-- START call to set session page to preserve affid when session did not start on a link --> 
 <iframe src="/check_session.php" height="0" width="0" style="visibility:hidden;display:none"></iframe>
 <!-- END call to set session page to preserve affid when session did not start on a link -->   
-<!-- i-afa205b9 : ec2-52-55-113-180.compute-1.amazonaws.com -->
+<!-- i-e81fb8fe : ec2-52-6-19-252.compute-1.amazonaws.com -->
 
 <!-- Twitter universal website tag code -->
 <script>
