@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012114730id_/http%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2paragraphs.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621180434id_/http%3A//2paragraphs.com/privacy-policy) for the most accurate reproduction.*
 
 # 2paragraphs Privacy Policy
 
@@ -9,7 +9,7 @@ We collect information from you when you subscribe to our newsletter or fill out
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or other information. You may, however, visit our site anonymously.
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.  
+Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 **What do we use your information for?**
@@ -87,4 +87,4 @@ Nyack, NY 10960
 USA  
 team at 2paragraphs.com
 
-This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/). 
+This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
