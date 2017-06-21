@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122035541id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621223631id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,48 +52,15 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## GrabCar 100% Ride Guarantee Promotion
+## UBER Standard Chartered Credit Card Promotion
 
-](http://www.offerstation.com/offers-promotions/180655/grabcar-100-percent-ride-guarantee-promotion.htm)
-
-[
-
-## Bosch Year End Bargain
-
-](http://www.offerstation.com/warehouse-sales/180171/bosch-year-end-bargain.htm)
+](http://www.offerstation.com/offers-promotions/180577/uber-standard-chartered-credit-card-promotion.htm)
 
 [
 
-## New Naughty Nuri's Warung at Atria Shopping Gallery
+## Sakae Sushi Standard Chartered Promotion
 
-](http://www.offerstation.com/dining-food-offers/178505/new-naughty-nuris-warung-at-atria-shopping-gallery.htm)
+](http://www.offerstation.com/dining-food-offers/174727/sakae-sushi-standard-chartered-promotion.htm)
 
-[
+  
 
-## Uncle Tetsu Cheesecake Festive Promotion
-
-](http://www.offerstation.com/dining-food-offers/180523/uncle-tetsu-cheesecake-festive-promotion.htm)
-
-[
-
-## Perfect Lifestyle '16 Home & Living Exhibition
-
-](http://www.offerstation.com/happenings-events/180787/perfect-lifestyle-16-home-and-living-exhibition.htm)
-
-[
-
-## Olive Garden Lobster Fettuccine Promotion
-
-](http://www.offerstation.com/dining-food-offers/180849/olive-garden-lobster-fettuccine-promotion.htm)
-
-[
-
-## New Hokkaido Baked Cheese Tart Outlet at Mahkota Parade
-
-](http://www.offerstation.com/dining-food-offers/178748/new-hokkaido-baked-cheese-tart-outlet-at-mahkota-parade.htm)
-
-[
-
-## Philips Warehouse Clearance
-
-](http://www.offerstation.com/warehouse-sales/180878/philips-warehouse-clearance.htm)
