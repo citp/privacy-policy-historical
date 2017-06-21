@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the touropia.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208034248id_/http%3A//www.touropia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touropia.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621041810id_/http%3A//www.touropia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Touropia Travel Experts
+# Privacy Policy - Touropia
 
 **Introduction**  
 This Site collects non-personally identifiable data (your IP address, how often you visit our site, which pages you visit, etc.) each time you visit touropia.com. We use this information to make the site better and easier to use.
