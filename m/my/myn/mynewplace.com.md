@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128190937id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynewplace.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621093033id_/http%3A//www.mynewplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyNewPlace
 
@@ -80,5 +80,5 @@ If you have any questions or concerns about the RealPage Privacy Policy or its i
 
 RealPage, Inc.  
 Attn: Privacy (Legal)  
-4000 International Parkway  
-Carrollton, Texas 75007-1913
+2201 Lakeside Blvd.  
+Richardson, TX 75082
