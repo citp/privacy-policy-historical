@@ -1,41 +1,81 @@
-> *The following text is extracted and transformed from the dietlast.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201210214id_/http%3A//www.dietlast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietlast.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621040132id_/http%3A//www.dietlast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DietLast.com
 
-## Privacy Policy:
+**_CORTEX MEDIA GROUP LTD_** ** _PRIVACY POLICY_**
 
-DietLast (" **DietLast** ") operates DietLast.com and may operate other websites. It is DietLast's policy to respect your privacy regarding any information we may collect while operating our websites.
+_(Last modified:_ _  8_ _May, 2017)_
 
-### Website Visitors
+This privacy policy (“ **Privacy Policy** “) governs the data collection practices by us, Cortex Media Group LTD (“ **Company** ” or “ **we** ”), while you (“ **you** ” or “ **user** ”) access and use our website currently located at  www.dietlast.com (“ **Website** ”).
 
-Like most website operators, DietLast collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. DietLast's purpose in collecting non-personally identifying information is to better understand how DietLast's visitors use its website. From time to time, DietLast may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+This Privacy Policy provides important and transparent disclosures on **how** or **why** we collect, **share** and **use** our users’ data. Our users’ privacy is important to us therefore we encourage you to read the Privacy Policy carefully prior to accessing or using our Website and use it to make informed decisions. By using or accessing the Website, you hereby agree to the terms of this Privacy Policy. Any use or continued use of the Website constitutes your agreement and consent to this Privacy Policy. This Privacy Policy is part of our [Terms of Use](http://www.dietlast.com/terms-of-use/). Definitions herein shall have the same meaning as defined therein. ** _ _**
 
-DietLast also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on DietLast.com blogs/sites. DietLast only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
+IF YOU DO NOT AGREE TO THESE TERMS, PLEASE DO NOT ACCESS THE WEBSITE OR OTHERWISE USE COMPANY’S CONTENT.
 
-### Gathering of Personally-Identifying Information
+**INFORMATION COLLECTED AND STORED**
 
-Certain visitors to DietLast's websites choose to interact with DietLast in ways that require DietLast to gather personally-identifying information. The amount and type of information that DietLast gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [DietLast.com](http://www.dietlast.com/) to provide a username and email address. Those who engage in transactions with DietLast are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, DietLast collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with DietLast. DietLast does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+**_Non-Personal Information:_**
 
-### Aggregated Statistics
+The information we collect is aggregated, non-personal non-identifiable information which may be made available or gathered via the users’ use of the Website (“ **Non-Personal Information** “). We are not aware of the identity of the user from which the Non-Personal Information is collected. We may disclose or share this information with third parties as specified below and solely if applicable. We collect the following Non-Personal Information from you when you access or use the Website:
 
-DietLast may collect statistics about the behavior of visitors to its websites. DietLast may display this information publicly or provide it to others. However, DietLast does not disclose personally-identifying information other than as described below.
+  * Country GEO and IP address*.  
+_*We do not consider IP address as_ _personally identifiable information based on definitions in many jurisdictions. However, in some jurisdictions (such as California, U.S.A. and the EU), IP addresses or any identifier which allows an individual to be contacted electronically may be considered personal information;_
+  * The type of device, operating system and browsers you use;
+  * Date and time stamp;
+  * Browsing usage, including visited web pages, referring site, clickstream data or web address accessed;
+  * Browser identifier and user ID;
+  * Language preferences;
 
-### Protection of Certain Personally-Identifying Information
 
-DietLast discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on DietLast's behalf or to provide services available at DietLast's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using DietLast's websites, you consent to the transfer of such information to them. DietLast will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, DietLast discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when DietLast believes in good faith that disclosure is reasonably necessary to protect the property or rights of DietLast, third parties or the public at large. If you are a registered user of an DietLast website and have supplied your email address, DietLast may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with DietLast and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. DietLast takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-### Cookies
+We use this information, which does not identify individual users, to track users’ movements around in order to ensure that our any content, displayed through the Website is presented as effectively as possible, and according to users’ preferences as well as to perform research, analytics or for statistical purposes.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. DietLast uses cookies to help DietLast identify and track visitors, their usage of DietLast website, and their website access preferences. DietLast visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using DietLast's websites, with the drawback that certain features of DietLast's websites may not function properly without the aid of cookies.
+**_Personal Information:_**
 
-### Business Transfers
+We do **not** collect from you or share any individually identifiable information, namely information that identifies an individual or may with reasonable effort be used to identify an individual (“ **Personal Information** “). However, we might collect Personal Information solely in the event in which Personal Information was voluntarily provided by you when you leave a comment on the Website or when contact us, such as your name and email address, provided that such information will be used solely to communicate with and support you, and will not be shared with any third parties; ** **
 
-If DietLast, or substantially all of its assets, were acquired, or in the unlikely event that DietLast goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of DietLast may continue to use your personal information as set forth in this policy.
+**SHARING DATA WITH THIRD PARTIES**
 
-### Ads
+We do **not** share any **_Personal Information_** collected from you with third parties or any of our partners except in the following events:
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by DietLast and does not cover the use of cookies by any advertisers.
+  * _Law Requirement_ : we will share your information, solely to the extent needed to comply with any applicable law, regulation, legal process or governmental request (i.e., to comply with courts injunction, comply with tax authorities, etc.)
+  * _Policy Enforcement:_ we will share your information, solely to the extent needed to enforce our policies (including our policies and agreements), including investigations of potential violations thereof, including without limitations, investigate, detect, prevent, or take action regarding illegal activities or other wrongdoing, suspected fraud or security issues;
+  * _Company’s Rights:_ we will share your information, solely to the extent needed to establish or exercise our rights to defend against legal claims;
+  * _Third Party Rights:_ we will share your information, solely to the extent needed to prevent harm to the rights, property or safety of us, our users, yourself or any third party; or (vi) for the purpose of collaborating with law enforcement agencies or in case we find it necessary in order to enforce intellectual property or other legal rights.
+  * _Affiliated Companies:_ We may share your data with our parent company, any subsidiaries, joint ventures, or other companies under common control ( **“Affiliated Companies** “) solely if and when applicable or necessary for the purposes described in this Privacy Policy.
+  * _Other third parties:_ we may share your data to other third parties (such as ad networks, advertising companies, service providers, media and other interested parties) for the purpose of developing or delivering advertising.
+  * _Corporate Transaction:_ We may share Information, including Personal Information, in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, consolidation or asset sale). In the event of the above, our Affiliated Companies or acquiring company will assume the rights and obligations as described in this Privacy Policy.
 
-### Privacy Policy Changes
 
-Although most changes are likely to be minor, DietLast may change its Privacy Policy from time to time, and in DietLast's sole discretion. DietLast encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a DietLast.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+We always strive to serve you better and improve our performance, therefore, we may combine information you give us through the Website with publicly available information and information we receive from or cross-reference with select partners and others. By combining the different information, we are able to enhance your experience by providing you more relevant content and promotions which we believe you will find interesting, as well as to communicate with you better. If we combine Personal Information with non-personal Information, the combined information will be treated as personal information for as long as it remains combined.
+
+**COOKIE AND THIRD PARTY COOKIE**
+
+When you use the Website we may use “Cookies” that enable us to identify you. The use of Cookies is a standard practice, a “Cookie” is a small piece of information that a website assigns and stores on your computer while you are viewing a website. Cookies are very helpful and can be used for various different purposes. These purposes include allowing you to navigate between pages efficiently, enable automatic activation of certain features, remembering your preferences and making the interaction between you and our services quicker and easier. Cookies are also used to help customize your experience. You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) . You may remove our cookie by following the instructions of your device preferences. However, if you choose to disable cookies, some features of the Website may not operate properly and your online experience may be limited.
+
+Ads appearing on our Website may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by us and does not cover the use of cookies by any advertisers.
+
+Third parties (i.e., Google Analytics) may also use cookies, scripts or web beacons for the purpose of tracking and analyzing your use, this information does not include Personal Information. To learn more how Google uses data from our use of Google Analytics Cookie we recommend you review Google’s policies located at: [www.google.com/policies/privacy/partners](http://www.google.com/policies/privacy/partners). We also encourage you to review the Google Analytics’ currently available opt-outs for the web tool available at: <https://tools.google.com/dlpage/gaoptout/>
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**DELETING DATA**
+
+Unless you instruct us otherwise, we retain the information we collect for as long as needed to provide the Services and to comply with our legal obligations, resolve disputes and enforce our agreements if applicable.
+
+In the event, you do not agree to the aforesaid collection, use and share of data, please cease any usage or access to the Website. If you have provided us with Personal Information by contacting us, such as name and email address, and you wish to remove such information please contact us immediately at: websites@cortexmg.com.
+
+**SECURITY**
+
+We make best efforts to use security methods and encryptions when handling sensitive data (i.e., handle the user data securely, including transmitting it via modern cryptography). Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. While we make best efforts to protect your information, you understand and acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through the Website cannot be 100% guaranteed.
+
+**MINORS**
+
+If you are under 18, please be sure to read this policy with your parents or legal guardians and ask questions about things you do not understand. In the event that we become aware that a user under the age of 13 has shared any information, we will discard such information. If you have any reason to believe that a child under the age of 13 has shared any information with us, please contact us at: websites@cortexmg.com.
+
+**AMENDMENTS**
+
+We reserve the right to periodically amend or revise the Privacy Policy; material changes will be effective immediately upon the display of the revised Privacy Policy. The last revision date will be reflected in the “Last modified” heading. Your continued use and access of the Website or any part thereof, following the notification of such amendments on our website, constitutes your acknowledgement and consent of such amendments to the Privacy Policy and your agreement to be bound by the terms of such amendments.
+
+__**CONTACT US:** If you have any questions about these terms, please contact us at: websites@cortexmg.com.
