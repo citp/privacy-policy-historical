@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeflowerbulbs.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflowerbulbs.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/privacy.php) for the most accurate reproduction.*
 
-# Free Flower Bulbs Worldwide
+# Free Flower Bulbs Worldwide - Privacy Policy
 
-[A](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=a) [B](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=b) [C](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=c) [D](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=d) [E](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=e) [F](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=f) [G](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=g) [H](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=h) [I](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=i) [J](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=j) [L](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=l) [O](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=o) [P](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=p) [R](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=r) [S](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=s) [T](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=t) [W](https://web.archive.org/web/20161201041944id_/http%3A//freeflowerbulbs.com/filter.php?key=w)
+[A](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=a) [B](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=b) [C](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=c) [D](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=d) [E](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=e) [F](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=f) [G](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=g) [H](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=h) [I](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=i) [J](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=j) [L](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=l) [O](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=o) [P](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=p) [R](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=r) [S](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=s) [T](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=t) [W](https://web.archive.org/web/20170622013220id_/http%3A//www.freeflowerbulbs.com/filter.php?key=w)
 
 * * *
 
@@ -16,11 +16,13 @@ By using this Website to give us your information you accept the terms of and co
 
 For the purpose of the Data Protection Act 1998 the data controller is Free Flower Bulbs Worldwide. We will use the information we collect about you lawfully and to process your order and to provide you with the best possible service.
 
-If you use the Services or if you contact us with an inquiry we will collect personal information such as your name, contact details, phone number, e-mail address and address and only use them to respond to your inquiry.
+If you use the Services or if you contact us with an inquiry we will collect personal information such as your name, contact details, phone number, e-mail address and address and only use them to respond to your inquiry. You can to order [termite services](http://www.termiteboys.com/our-service/) nowadays
 
 We will never collect sensitive information about you without your consent. We may contact you by telephone, post or email.
 
 **Use of Information**
+
+Our [general pest treatments](http://www.bbpest.com/services/) need your orders.
 
 The information you provide will be held on a database in the USA and may be accessed by our staff and by those who provide support services to us. We may also share it with third parties such as banking / merchant services and third party suppliers where necessary to provide services to you. We use third party suppliers to provide some of our products and your order contact details shall be passed to those relevant third party suppliers for the purpose of delivery of your order.
 
@@ -36,7 +38,7 @@ Unless you have indicated your objection when disclosing your information to us,
 
 **Security**
 
-We employ security measures to protect your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage, however, transmission of information via the internet is not completely secure. We will use reasonable endeavors to protect your personal data but we cannot guarantee the security of it.
+We employ security measures to protect your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage, however, transmission of information via the internet is not completely secure. We will use reasonable endeavors to protect your personal data but we cannot guarantee the security of it. [Chocolate Slim](http://chocolateslim-review.com/)
 
 We will retain your information for a reasonable period or as long as the law requires. We will only disclose your personal data in the event that we sell any or all of our business or assets, if we are acquired by a third party or where we are required or permitted to by law.
 
@@ -45,8 +47,6 @@ You are entitled to receive a copy of your personal data and we are entitled to 
 We may amend this Privacy Policy at any time. If we make any substantial changes in the way we use your Personal Information we will notify you by posting them on the Website.
 
 All comments, queries and requests relating to our use of your information are welcomed and should be emailed to us.
-
-0216 367 26 78 - 0532 606 84 18 vinç kiralama alanında her zaman öncü olan tt vinç sizlere bu numalardan 7 / 24 saat hizmet vermektedir. En uygun fiyatlar ile vinç kiralama alanında hizmet vermektedir. Her zaman bünyesinde kaliteli ve tecrübeli [kiralık vinç, vinç kiralama, sepetli vinç kiralama, mobil vinç kiralama, sepetli vinç, İstanbul vinç](http://www.ttvinc.com.tr/) kişiler çalışmaktadır. Sizler de sorunsuz bir hizmet almak için bizimle iletişime geçebilirsiniz. Sepetli vinç, mobil vinç kiralama, hiyap vinç, kiralık vinç tüm gruplar da hizmetimiz bulunmaktadır. Kiralık vinç alanında her zaman kesin çözümler. 
 
 A website like [www.drlocksmithatlantaga.com](http://www.drlocksmithatlantaga.com/) will provide you with the highest quality in the industry.
 
