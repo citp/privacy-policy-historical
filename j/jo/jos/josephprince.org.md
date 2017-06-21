@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the josephprince.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003151id_/http%3A//www.josephprince.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the josephprince.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621085815id_/http%3A//www.josephprince.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Joseph Prince Ministries
 
@@ -30,6 +30,18 @@ If you choose to provide us with any PII by sending an email to Joseph Prince Mi
 
 We do not collect PII for other purposes. The information you provide is not released to any third party for commercial marketing and gains or otherwise, without your permission except where required by law to do so (such as in the investigation of fraud or other inappropriate activity).
 
+## **ACCESS TO AND UPDATING OF INFORMATION**
+
+We endeavor to maintain the accuracy of your PII and rely on you to ensure it is complete and accurate. You may verify, correct, or remove your PII through your website-specific registration, through your profile, or by contacting us with a request for change. We may take steps to verify your identity before making changes to your PII.
+
+## **HOW WE RESPOND TO "DO NOT TRACK" SIGNALS**
+
+California Law requires us to disclose how we respond to "Do Not Track" signals. At this time, we do not respond to browser ‘Do Not Track’ signals.
+
+## **CHILDREN’S PRIVACY**
+
+Our activities are not directed to individuals under 13. We do not knowingly collect PII from children under 13. If we become aware that a child under 13 has provided us with PII, we will take steps to delete such information. If you become aware that a child under 13 has provided us with PII, please contact us.
+
 ## **EMAILS FROM JOSEPH PRINCE MINISTRIES, INC.**
 
 Joseph Prince Ministries, Inc. has found that attractive, graphics-rich emails are a quick and effective way to inform our registered users and subscribers of new resources, clearance and sale items, projects and events to provide them opportunities to support our ministry. We maintain an opt-out, user-customizable subscription database of users who have requested to receive these emails. Every email provides an option for you to unsubscribe to such information.
@@ -49,3 +61,11 @@ Our website may contain links to other websites. Joseph Prince Ministries, Inc. 
 ## **VARIATION**
 
 Joseph Prince Ministries, Inc. may amend this Privacy Policy from time to time. We encourage you to visit our website regularly to stay updated of these changes as your continued use of our website indicates your acceptance of these changes.
+
+## **FUTURE CHANGES TO PRIVACY POLICY**
+
+We regularly review this Privacy Policy and may change, modify, add, or remove portions as needed. If we change this Privacy Policy in ways that affect how we use your PII, we will notify you here or in a notice on our home page. We will also update the revision date at the bottom of the Privacy Policy. We encourage you to check this Privacy Policy from time to time to remain informed of any changes.
+
+## **EFFECTIVE DATE**
+
+This version of the Privacy Policy became effective on 19 June 2017.
