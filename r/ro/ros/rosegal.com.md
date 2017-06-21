@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosegal.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221203109id_/http%3A//www.rosegal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosegal.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621182000id_/http%3A//www.rosegal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RoseGal.com
 
@@ -26,5 +26,3 @@ Transaction mail, Shipping notification, Weekly deal, Promotion, Activity.
 We use email to communicate news and special promotions to our members. If you'd rather not receive these messages, you can click the unsubscribe link on the email and you will be unsubscribed from the mail list immediately and without cost.   
 **How do I unsubscribe?**  
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in.
-
-Email: support@rosegal.com 
