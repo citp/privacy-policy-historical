@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101090247id_/http%3A//frontrange.8z.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cohomefinder.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621151917id_/http%3A//frontrange.8z.com/privacy) for the most accurate reproduction.*
 
 # Front Range Real Estate :: 8z Real Estate
 
