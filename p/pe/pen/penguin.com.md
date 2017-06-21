@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217043950id_/http%3A//www.penguin.com/aboutus/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621100236id_/http%3A//www.penguin.com/aboutus/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Books USA
 
@@ -180,7 +180,7 @@ Our Sites may contain content hosted or served by third parties or link to websi
 
 #### Public Areas, Forums, Reviews, and Community Areas
 
-Please remember that any information you share in public areas, such as forums, message boards or feedback sections, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any personal information that you expect to keep private. Please consult our [Terms of Use](https://web.archive.org/web/20161217043950id_/http://www.penguin.com/aboutus/privacypolicy/termsofuse/) and the applicable guidelines, if any, for use of our forums and other community areas for more information.
+Please remember that any information you share in public areas, such as forums, message boards or feedback sections, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any personal information that you expect to keep private. Please consult our [Terms of Use](https://web.archive.org/web/20170621100236id_/http://www.penguin.com/aboutus/privacypolicy/termsofuse/) and the applicable guidelines, if any, for use of our forums and other community areas for more information.
 
 #### Governing Law
 
