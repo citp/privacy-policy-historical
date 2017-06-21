@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allwrestling.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232156id_/http%3A//www.allwrestling.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwrestling.net privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621123239id_/http%3A//www.allwrestling.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- Watch Free Wrestling Shows Online - WWE, RAW, Smackdown, TNA, UFC, ROH, NJPW
+# Privacy Policy - Watch Free Wrestling Shows Online - WWE, RAW, Smackdown, TNA, UFC, ROH, NJPW
 
 on 30th June 2015
 
@@ -57,6 +57,4 @@ Bryan William
 
 United Kingdom (HA3 7PJ)
 
-07714642078  – Publisher@allwrestling.net
-
-[happy wheels 2 demo](http://happy-wheels-2-full.com/)
+07714642078  – Publisher@allwrestling.org
