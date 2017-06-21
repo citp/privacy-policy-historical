@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegedunia.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224070455id_/http%3A//collegedunia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegedunia.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621174802id_/http%3A//collegedunia.com/privacy-policy) for the most accurate reproduction.*
 
 # Collegedunia: Privacy Policy
 
@@ -16,7 +16,7 @@ The website also stores data other than the content which provides information o
 
  **4\. Information Collected by the Website:**
 
-The website also collects and stores the data submitted by users. As we allow users to request data from educational institutions listed on the website, so we share the data to respective institutes to fulfill the request and the privacy of such kind of data is under the mutual agreement between institutes and users. Means of data collection on Collegedunia Contact Forms: The contact forms on the website are made to simplify the process of data presentation by collecting the user interests, educational qualification and age. Login/Signup- By creating a user account visitor agrees the terms of conditions of the website and we can use the data collected through our channel in the analysis of trends and can also be forwarded to the educational service providers depending upon the usage history. Testimonials: The users providing testimonials are entitled to public display and can also be shared with our clients Forums: Views posted on forums and our comment section are sole property of Collegedunia.com as it provides a crucial insight of consumer thought process
+The website also collects and stores the data submitted by users. As we allow users to request data from educational institutions listed on the website, so we share the data to respective institutes to fulfill the request and the privacy of such kind of data is under the mutual agreement between institutes and users. Means of data collection on Collegedunia Contact Forms: The contact forms on the website are made to simplify the process of data presentation by collecting the user interests, educational qualification and age. Login/Signup- By creating a user account visitor agrees the terms of conditions of the website and we can use the data collected through our channel in the analysis of trends and can also be forwarded to the educational service providers depending upon the usage history. User also agrees to receive SMS and Emails containing the information of the college and course he/she applies in and also of related colleges and courses. Testimonials: The users providing testimonials are entitled to public display and can also be shared with our clients Forums: Views posted on forums and our comment section are sole property of Collegedunia.com as it provides a crucial insight of consumer thought process
 
  **5\. Opt-in Mails and Other ways to Use data by the Company**
 
@@ -27,8 +27,8 @@ The company can use data collected through the website in various ways a. Opt-in
 Any queries related to Privacy Policy, Please contact on following address:
 
 Collegedunia Web Pvt. Ltd.  
-A1/17 First Floor Prashant Vihar,  
+D-15 first floor, Prashant Vihar,  
 Rohini Sector - 14,  
-Near Indian Overseas Bank & back side of Pitampura RU Block Bus Stand  
+Near Federal bank  
 Pin Code - 110085  
 Or Send a Mail at [privacy@collegedunia.com](mailto:privacy@collegedunia.com)
