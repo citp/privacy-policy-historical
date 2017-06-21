@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventurequiz.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115053724id_/http%3A//www.adventurequiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventurequiz.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622011701id_/http%3A//adventurequiz.com/privacy-policy) for the most accurate reproduction.*
 
 # AdventureQuiz - Privacy Policy
 
@@ -41,7 +41,7 @@ If you do not want us to collect your PII as described above or to use and share
 
 **Updating Your Personally Identifiable Information.**
 
-If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support at support@AdventureQuiz.com or by contacting us using our [Contact Us](http://adventurequiz.com/contact) page.
+If your PII changes, or if you no longer desire our service, you may correct, update, amend, or remove it by emailing our Customer Support by contacting us using our [Contact Us](http://adventurequiz.com/contact) page.
 
 We will retain your information for as long as your account is active or as needed to provide you services. In addition, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -113,10 +113,10 @@ Premium Users who have downloaded the Software and who do not want their NPII co
 
 **Your California Privacy Rights**
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to [legal@AdventureQuiz.com](mailto:legal@AdventureQuiz.com). Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request by email to . Please allow 30 days for a response.
 
 **QUESTIONS AND CONCERNS**
 
-If you have any questions or concerns about this Policy or its implementation, or any general questions, please email us at [support@AdventureQuiz.com](mailto:support@AdventureQuiz.com).
+If you have any questions or concerns about this Policy or its implementation, or any general questions, please email us at .
 
 Last Updated: March 21, 2016 
