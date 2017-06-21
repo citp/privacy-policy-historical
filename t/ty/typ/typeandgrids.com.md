@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typeandgrids.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109065111id_/http%3A//www.typeandgrids.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeandgrids.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621092345id_/http%3A//www.typeandgrids.com/privacy) for the most accurate reproduction.*
 
 # Type & Grids — Privacy Policy
 
