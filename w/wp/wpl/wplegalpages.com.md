@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wplegalpages.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222092958id_/http%3A//wplegalpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wplegalpages.com privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621020105id_/http%3A//wplegalpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Pages Plugin
 
