@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purebarre.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125163221id_/http%3A//purebarre.com/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purebarre.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622012310id_/http%3A//purebarre.com/shop/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy from Pure Barre
+# Privacy Policy
 
 At Pure Barre, we respect your privacy. We recognize your need for appropriate protection and management of any personally identifiable information you may share with us. Your use of this site is subject to this Privacy Policy. Therefore, it is important that you fully understand the conditions of our collection and use of such information. Please take a moment and read our policy before using and/or submitting information on our website. 
 
