@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018045149id_/https%3A//www.bridgespan.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgespan.org privacy policy that was archived on 2017-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170621094128id_/https%3A//www.bridgespan.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bridgespan
 
@@ -67,3 +67,8 @@ The Sites provide hypertext links to and framed content from other websites that
 As the Sites grow and new features are added, or legal requirements change, this Privacy Policy may be amended by posting the amended Privacy Policy on the Sites. The amended Privacy Policy, which will apply to all NPI held by Bridgespan, will automatically be effective 30 days after it is initially posted on the Sites.
 
 _Effective Date of Privacy Policy: August 12, 2008._
+
+[ ](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).   
+Permissions beyond the scope of this license are available in our [Terms and Conditions](https://www.bridgespan.org/about-us/terms-and-conditions). 
