@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tafeqld.edu.au privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128234750id_/http%3A//tafeqld.edu.au/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafeqld.edu.au privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622033809id_/http%3A//tafeqld.edu.au/about-us/privacy.html) for the most accurate reproduction.*
 
 # Tafe Queensland Privacy Policy - TAFE Queensland
 
-## 1    PURPOSE
+**1     PURPOSE**
 
 TAFE Queensland (ABN 72 898 805 093) is a provider of further education and training in Queensland offering practical, industry-relevant training to students across six regions; TAFE Queensland Brisbane, TAFE Queensland Gold Coast; TAFE Queensland East Coast, TAFE Queensland North, TAFE Queensland South West and TAFE Queensland SkillsTech. On 1 July 2013, TAFE Queensland was established as an independent statutory body under the TAFE Queensland Act 2013.
 
@@ -14,30 +14,30 @@ If you wish to make any inquiries regarding this Privacy Policy, you should cont
 
 We respect your privacy and are committed to protecting your personal information. This document sets out our policy on how we will manage your personal information.
 
-## 2    SCOPE
+**2     SCOPE**
 
 This policy applies to all TAFE Queensland employees, associates, students and stakeholders.
 
-## 3    DEFINITIONS
+**3     DEFINITIONS**
 
 Personal information is information or an opinion, whether true or not, and whether recorded in a material form or not, about an identified individual or an individual who is reasonably identifiable.
 
 Examples of personal information include your name, postal address, telephone number and email address.
 
-## 4    POLICY DETAIL
+**4     POLICY DETAIL**
 
 **4.1     How do we collect your personal information?**
 
 We collect personal information about you in a number of ways, including:
 
-  * Directly from you, for example, when you: 
+  * Directly from you, for example, when you:
     * enrol to complete a course at TAFE Queensland;
-    * provide information to us in person or by phone, email, in an application form or competition entry form;
-    * submit information through our web sites (including without limitation <http://tafeqld.edu.au/>; [http://tafebrisbane.edu.au/](http://tafeqld.edu.au/); <http://tafegoldcoast.edu.au/>; <http://tafeeastcoast.edu.au/>; <http://tafesouthwest.edu.au/>; <http://tafenorth.edu.au/>; [http://tafeskillstech.edu.au](http://tafeskillstech.edu.au/));and
-  * From third parties, such as: 
+    * provide information to us in person or by phone, email, in an application form, request for VET FEE-HELP or VET Student loan form, or competition entry form;
+    * submit information through our web sites (including without limitation <http://tafeqld.edu.au/>; [http://tafebrisbane.edu.au/](http://tafeqld.edu.au/); <http://tafegoldcoast.edu.au/>; <http://tafeeastcoast.edu.au/>; <http://tafesouthwest.edu.au/>; <http://tafenorth.edu.au/>; [http://tafeskillstech.edu.au](http://tafeskillstech.edu.au/)); and
+  * From third parties, such as:
     * TAFE Queensland's commercial partners;
-    * social media sites such as Facebook and Twitter when you contact TAFE Queensland through these social media sites; and
-    * third party service providers, to provide or facilitate your enrolment atTAFE Queensland.
+    * social media sites such as Facebook and Twitter when you contact or otherwise engage with TAFE Queensland through these social media sites; and
+    * third party service providers, to provide or facilitate your enrolment at TAFE Queensland.
 
 
 
@@ -45,7 +45,7 @@ Where we engage with you multiple times over a short period in relation to the s
 
 The personal information collected and held about you includes but is not limited to:
 
-  * your name, address, email address, age, gender, occupation, contact information;
+  * your name, address, email address, age, gender, tax file number, citizenship, unique student identifier, occupation, contact information;
   * information about your education history and other related information if you are a student registered with us;
   * payment details, such as your credit card details;
   * details of courses undertaken with us;
@@ -59,12 +59,13 @@ The personal information collected and held about you includes but is not limite
 
 TAFE Queensland may use your personal information for the primary purpose for which it was collected and secondary purposes either related to the primary purpose, or as otherwise set out in this Privacy Policy. Such primary and secondary purposes may include, without limitation, use of your personal information to:
 
-  * Process any application for enrolment you might submit to us,
+  * Process any application for enrolment you might submit to us;
+  * Process a VET FEE-HELP or VET Student loan request and submit information to the Australian Government - Department of Education and Training;
   * Verify your identity;
   * Develop student registers to enable us to communicate with you and any nominated parent/guardian;
   * Process any job application you might submit to us;
-  * Develop, run, administer and market competitions, programs, activities and other events relating to education services;
-  * Market products, services, merchandise and special offers made available by us or our respective corporate partners;
+  * Develop, run, administer and promote competitions, programs, activities and other events run by us, including promotion on social media;
+  * Market and promote products, services, merchandise and special offers made available by us or our respective corporate partners;
   * Administer and manage our respective web sites and provide you with access to those web sites;
   * Share your personal information with our respective commercial partners;
   * Administer and manage any account you may hold with us;
@@ -112,16 +113,15 @@ De-identified information is information which has been aggregated or otherwise 
 
 **4.4     When do we disclose your personal information?**
 
-We may disclose your personal information to: **  
-**
+We may disclose your personal information to:
 
-  * If you are a school based apprentice or VET in Schools student - your school, the Queensland Studies Authority and the Queensland Tertiary Admissions Centre;
+  * If you are a school based apprentice or VET in Schools student - your school, the Queensland Curriculum and Assessment Authority and the Queensland Tertiary Admissions Centre;
   * If you are enrolled in training paid for by your employer - to your employer;
   * If you are enrolled with TAFE Queensland and undertaking training with another organisation (including other training providers, community organisations, or schools) - the organisation with which you are undertaking training;
   * If you are enrolled with TAFE Queensland in a program eligible for articulation through a higher education delivery partner (for example the University of Canberra), and/or intend to continue study via a pre-arranged articulation pathway (for example you are studying a dual qualification with TAFE Queensland and a higher education provider) - the higher education provider;
-  * If you are under the age of 18- your parent/guardian (unless you have formally advised TAFE Queensland not to provide this information);
+  * If you are under the age of 18 - your parent/guardian (unless you have formally advised TAFE Queensland not to provide this information);
   * If you are an international student - the parties outlined in the terms and conditions agreed upon accepting a place with TAFE Queensland;
-  * Government Authorities and Agencies including but not limited to the National Centre for Vocational Education;
+  * Government Authorities and Agencies including but not limited to the National Centre for Vocational Education and for VET FEE-HELP and VET Student Loans purposes the Department of Education and Training and the Tuition Assurance Scheme;
   * Third parties that we have engaged to carry out functions and activities on our behalf (such as other education providers, our website hosts, trade suppliers, independent contractors and other third party service providers) or that we otherwise work with to provide our education programs;
   * Our commercial partners;
   * Our professional advisers, including our accountants, auditors and lawyers;
@@ -138,7 +138,7 @@ In particular, your personal information may be disclosed to third party service
 
 When you visit our web sites, our systems may record certain information about your use of those web sites (such as which web pages you visit and the time and date of your visit). We use this information to help analyse and improve the performance of our web sites.
 
-In addition, we may use "cookies"; on our web sites. Cookies are small text files that help a web site to remember your preferences and improve your experience of using that web site. Using cookies is standard practice for most large web sites. In some cases, the cookies that we use may collect some personal information about you. We will treat this information in the same way as other personal information we collect about you. If you prefer, you may be able to disable cookies on your internet browser. However, if you do so, you will not be able to enjoy the enhanced user experience that our cookies offer.
+In addition, we may use "cookies" on our web sites. Cookies are small text files that help a web site to remember your preferences and improve your experience of using that web site. Using cookies is standard practice for most large web sites. In some cases, the cookies that we use may collect some personal information about you. We will treat this information in the same way as other personal information we collect about you. If you prefer, you may be able to disable cookies on your internet browser. However, if you do so, you will not be able to enjoy the enhanced user experience that our cookies offer.
 
 We may engage third parties, to help analyse how our web sites are used. This analysis is performed using data collected from the web sites, including by using cookies which are stored on your computer. The information generated is used to create reports about the use of our web sites, and these third parties may store this information. However, this information is not intended to and will generally not include any personal information. If you would prefer that these third parties do not collect even any anonymous data about how you use our web sites, you may be able to opt-out. Please contact us using the contact details specified in section 4.8 for more information.
 
@@ -154,9 +154,13 @@ We take all reasonable precautions to ensure that the personal information we co
 
 If you find that the personal information we hold about you is inaccurate, incomplete or out-of-date, please contact us immediately (our contact details are set out in section 4.8 below) and we will take reasonable steps to ensure that it is corrected.
 
+Current TAFE Queensland students have access to view their personal details though the TAFE Queensland Student Self Service website.
+
 **4.7     How can you access the personal information we hold about you?**
 
 Please refer to the Right to Information section of our website located at <http://tafeqld.edu.au/about-us/rti.html>.
+
+Current TAFE Queensland students have access to update their personal details though the TAFE Queensland Student Self Service website.
 
 **4.8     How to contact us**
 
@@ -181,4 +185,4 @@ We take all privacy complaints seriously and will investigate your complaint in 
 
 From time to time, we may need to change this Privacy Policy to reflect our changing business practices. We will notify you of any amendments by posting an updated version of this Privacy Policy on the TAFE Queensland website (<http://tafeqld.edu.au/>).
 
-_Last Updated: 29 October 2015_
+_Last Updated: June 2017_
