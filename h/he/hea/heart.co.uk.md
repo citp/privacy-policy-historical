@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110745id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heart.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622104520id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Global Radio Privacy Policy - - Heart Radio
 
-Any information you provide about yourself (“personal information”) to This Is Global Limited (“Global Radio”) will only be used in accordance with our Privacy Policy, detailed below. 
+Any information you provide about yourself (“personal information”) to Global Media & Entertainment Ltd’ (“Global Radio”) will only be used in accordance with our Privacy Policy, detailed below. 
 
 **About this Policy**
 
@@ -11,11 +11,13 @@ This Privacy Policy outlines the kinds of personal information we collect, how w
 
 **We are Global!**
 
-We are part of “This is Global Limited” and we are obsessive about respecting the privacy of our listeners and customers.
+We are part of “Global Media & Entertainment Ltd" and we are obsessive about respecting the privacy of our listeners and customers.
 
 This policy explains how we will collect information about you through interaction with us over the [radio](https://web.archive.org/), on the TV, our charity activities or through any sales channel and what we will use it for. 
 
-Any personal information you provide about yourself to us, may be shared across our “This is Global” Group but will only be used in accordance with this Privacy Policy.
+Any personal information you provide about yourself to us, may be shared across our "Global Media & Entertainment Ltd’
+
+” Group but will only be used in accordance with this Privacy Policy.
 
 Firstly, please be aware that we do not aim to collect any personal information from individuals under the age of 13.
 
