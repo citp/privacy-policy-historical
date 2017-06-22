@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204183600id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623014839id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy
 
@@ -55,94 +55,94 @@ An intelligent freeware to fix common PC...
 
 ####  New Downloads
 
-  * [PresenTense Time Client 5.1](https://web.archive.org/details/presentense-time-client.html)
+  * [PDF-XChange Editor 6.0.322.4](https://web.archive.org/details/pdf-xchange-editor.html)
 
-PresenTense Time Client is a time client for...
+Comprehensive PDF Viewing File manipulation,...
 
-  * [ImageConverter Plus 9.0.756.141029](https://web.archive.org/details/imageconverter-plus.html)
+  * [DipTrace 3.1](https://web.archive.org/details/diptrace.html)
 
-Image Converter Plus is the quick and easy way...
+DipTrace is an advanced PCB design software...
 
-  * [pdfMachine 14.95](https://web.archive.org/details/pdfmachine.html)
+  * [CAD VCL: 2D/3D CAD in Delphi/C++Builder 12](https://web.archive.org/details/cad-vcl--2d-3d-cad-in-delphi-c--builder.html)
 
-Convert to PDF the quick and easy way....
+SDK for developing software in Delphi and...
 
-  * [ACDSee 20.1.587](https://web.archive.org/details/acdsee.html)
+  * [AnyStock Stock and Financial JS Charts 7.14.0](https://web.archive.org/details/anystock-stock-and-financial-js-charts.html)
 
-As the choice software for the practical...
+AnyStock Stock and Financial JS Charts is a...
 
-  * [GSA URL Redirect PRO 1.65](https://web.archive.org/details/gsa-url-redirect-pro.html)
+  * [Blasting Fax Server 4.0.02.30](https://web.archive.org/details/blasting-fax-server.html)
 
-You can now create a lot smaller URLs with your...
+Blasting Fax Server is a cost-effective and...
 
-  * [Tipard PDF Converter for Mac 3.1.42](https://web.archive.org/details/tipard-pdf-converter-for-mac.html)
+  * [Mytoolsoft File Renamer 1.8.1](https://web.archive.org/details/mytoolsoft-file-renamer.html)
 
-Tipard PDF Converter for Mac can help you...
+Mytoolsoft File Renamer is a rename files...
 
-  * [Free Hide IP 4.1.5.6](https://web.archive.org/details/free-hide-ip.html)
+  * [Mgosoft XPS To PS SDK 7.2.8](https://web.archive.org/details/mgosoft-xps-to-ps-sdk.html)
 
-Free Hide IP, the best free privacy protection...
+Mgosoft XPS To PS Converter is a fast,...
 
-  * [Tipard HD Converter for Mac 5.0.26](https://web.archive.org/details/tipard-hd-converter-for-mac.html)
+  * [Mgosoft XPS To PS Command Line 7.2.8](https://web.archive.org/details/mgosoft-xps-to-ps-command-line.html)
 
-Tipard HD Converter for Mac can convert among...
+Mgosoft XPS To PS Converter is a fast,...
 
-  * [GSA Search Engine Ranker 11.37](https://web.archive.org/details/gsa-search-engine-ranker.html)
+  * [Mgosoft PCL To PS SDK 7.2.5](https://web.archive.org/details/mgosoft-pcl-to-ps-sdk.html)
 
-You will never have to worry about backlinks...
+Mgosoft PCL To PS Converter is a fast,...
 
-  * [Rank Tracker Professional 8.5.3](https://web.archive.org/details/rank-tracker-professional.html)
+  * [Mgosoft XPS To PS Converter 7.2.8](https://web.archive.org/details/mgosoft-xps-to-ps-converter.html)
 
-19 keyword suggestion techniques, 314 search...
+Mgosoft XPS To PS Converter is a fast,...
 
 
 
 
 ####  Recent Searches
 
-[Hallmark Card Studio 2007 Download](https://web.archive.org/programs/hallmark/card-studio-2007-download), [New Bible Commentary](https://web.archive.org/programs/new/bible-commentary), [Adobe Air Quiz Maker Output In Flash Exe](https://web.archive.org/programs/adobe/air-quiz-maker-output-in-flash-exe), [A Linda Rosa](https://web.archive.org/programs/a/linda-rosa), [Download Techno Beats](https://web.archive.org/programs/download/techno-beats), [Silversoft Talent](https://web.archive.org/programs/silversoft/talent), [Pdf Reader Plugin For Maxthon Browser](https://web.archive.org/programs/pdf/reader-plugin-for-maxthon-browser), [Ntfs Mft Recovery](https://web.archive.org/programs/ntfs/mft-recovery), [Fingers And Toes Numb](https://web.archive.org/programs/fingers/and-toes-numb), [Toshiba U2m Driver](https://web.archive.org/programs/toshiba/u2m-driver), [Tbil Convertor](https://web.archive.org/programs/tbil/convertor), [Downloads Pic App](https://web.archive.org/programs/downloads/pic-app), [Network Scan Gear](https://web.archive.org/programs/network/scan-gear), [Broadband Daily Usage Meter](https://web.archive.org/programs/broadband/daily-usage-meter), [Foxconn N15235 Vga](https://web.archive.org/programs/foxconn/n15235-vga)
+[Asus P5ql Pro Acpi Bios Update Revision 1004](https://web.archive.org/programs/asus/p5ql-pro-acpi-bios-update-revision-1004), [Realistic Drive Gta San Andreas](https://web.archive.org/programs/realistic/drive-gta-san-andreas), [Pradis Niv Commentary](https://web.archive.org/programs/pradis/niv-commentary), [Jungle Heart](https://web.archive.org/programs/jungle/heart), [Virtual Vault](https://web.archive.org/programs/virtual/vault), [Music Matching](https://web.archive.org/programs/music/matching), [Lorry Traders](https://web.archive.org/programs/lorry/traders), [Ascendis Caller Id For Windows 7 Phone](https://web.archive.org/programs/ascendis/caller-id-for-windows-7-phone), [Sirial Harmony Engine Vst](https://web.archive.org/programs/sirial/harmony-engine-vst), [Iran Gps Map](https://web.archive.org/programs/iran/gps-map), [Fortec Lifetime Ultra](https://web.archive.org/programs/fortec/lifetime-ultra), [Ship Control Games](https://web.archive.org/programs/ship/control-games), [Free Download Winamp Dvd Player](https://web.archive.org/programs/free/download-winamp-dvd-player), [Developmental Disability Administration Maryland](https://web.archive.org/programs/developmental/disability-administration-maryland), [Spain Email Id](https://web.archive.org/programs/spain/email-id)
 
 #### Latest Reviews
 
-  * [CCleaner ](https://web.archive.org/details/ccleaner.html)   (Dan Eliasi)
+  * [FolderMill ](https://web.archive.org/details/foldermill.html)   (Fairyn)
 
-CCleaner has helped me a lot. For cleaning your computer it does what it claims to do, as it says it will, unlike some... 
+FolderMill is an automation software which looks for incoming files and send them to printer by filtering as per your... 
 
-  * [Chameleon Startup Manager Lite ](https://web.archive.org/details/chameleon-startup-manager-lite.html)   (Bryan Wenzel)
+  * [DocuVieware ](https://web.archive.org/details/docuvieware.html)   (Sigfrid)
 
-Using this software I removed many start menu items I wasn't even aware of. It seems now my computer boots a lot faster... 
+Fully featured document viewer which can be added in your page to load and read almost any type files, the software can... 
 
-  * [Text to Speech Maker ](https://web.archive.org/details/text-to-speech-maker.html)   (Adiel)
+  * [Kiosk Software ](https://web.archive.org/details/kiosk-software.html)   (Emmerentiana)
 
-Software is usable for basic text to speech making but I wish it had some more voices and a intuitive using interface. 
+Restricts access to the public computers and kiosks to prevent changes or viruses from affecting it, hence you need no... 
 
-  * [iCash ](https://web.archive.org/details/icash.html)   (Hassan Saleem)
+  * [Vrode Script Editor ](https://web.archive.org/details/vrode-script-editor.html)   (Brochan)
 
-I use this software every day to manage my expenses and incomes. It is easy to use and exactly what I wanted with... 
+If you are a script coder you must have gone through some of the popular editors for writing new scripts or editing the... 
 
-  * [Sublight ](https://web.archive.org/details/sublight.html)   (Bishnu)
+  * [Print Inspector ](https://web.archive.org/details/print-inspector.html)   (simpson)
 
-Never thought there was a program like this until referred from a friend. Works really great. Has some waiting time before... 
+Maintains a log of printing job, can see what is being printed and the user who are printing with document name and date etc. 
 
-  * [Bus Driver ](https://web.archive.org/details/bus-driver.html)   (Abir)
+  * [Emsisoft Internet Security ](https://web.archive.org/details/emsisoft-internet-security.html)   (Shino)
 
-The game control is a bit sensitive on my computer but still nice one. Would love to see more levels and routes. 
+We all experience some mischievous things takes place while accessing internet, its due to the unsafe website we visit and... 
 
-  * [Audials Tunebite Platinum ](https://web.archive.org/details/audials-tunebite-platinum.html)   (Serena Miller)
+  * [CompactSections ](https://web.archive.org/details/compactsections.html)   (Tyler)
 
-If you are looking for a legal way to capture online streams from sites like netflix, amazon or music from spotify this... 
+Calculates the cross sections for the engineers using the any of existing database either it is excel or matlab, can be... 
 
-  * [Retail Man POS ](https://web.archive.org/details/retail-man-pos.html)   (Tim Nilsson)
+  * [Proposal Pack Wizard Software ](https://web.archive.org/details/proposal-pack-wizard-software.html)   (Consuelo)
 
-Excellent POS software. User friendly, powerful and feature rich. Support staffs are very experienced and ready to help. I... 
+We usually prepare the business proposals and the contract papers using the popular word processor Microsoft word which... 
 
-  * [EDB Recovery Utility ](https://web.archive.org/details/edb-recovery-utility.html)   (Steven)
+  * [UNFORMAT ](https://web.archive.org/details/unformat.html)   (nayel)
 
-Fantastic tool to access data from your inaccessible Exchange Server mailboxes. I am so impressed with the software's... 
+We often loose data due to unwanted drive crash and ending up with formatting them, those partition data can be easily... 
 
-  * [GlassWire Free Firewall ](https://web.archive.org/details/glasswire-free-firewall.html)   (Chris Hong)
+  * [DB AppMaker ](https://web.archive.org/details/db-appmaker.html)   (Reliabet)
 
-This firewall software is very reliable and user friendly to use. constantly monitors my network activity and instantly... 
+Can easily make apps for android and iOS even if you are not experienced, most of commonly used database can be utilized. 
 
 
   
