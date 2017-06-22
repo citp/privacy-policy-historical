@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214161737id_/http%3A//bucknell.edu/x362.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucknell.edu privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622140514id_/http%3A//bucknell.edu/x362.xml) for the most accurate reproduction.*
 
 # Bucknell University Internet Privacy Statement || Bucknell University
 
@@ -16,7 +16,7 @@ When a user contacts a representative of Bucknell using electronic mail (email) 
 
 ### **Cookies**
 
-Some of our sites create a "cookie", a record on your computer's own hard disk, which makes it possible for our sites to recognize that a specific computer has made previous requests. Our cookies are used exclusively for providing services requiring such a record. Bucknell does not track cookies for any purpose other than the needs of such Web-based applications.
+Some of our sites create a "cookie," a record on your device's own hard disk, which makes it possible for our sites to recognize that a specific device has made previous requests. Doing so facilitates your future access to the site.
 
 ### **Surveys**
 
@@ -33,6 +33,14 @@ Much of Bucknell's Web content includes links to content on Internet servers bel
 ### **Circumstances beyond our control**
 
 This Statement explains how information collected from users is used by Bucknell. However, it is not a guarantee of privacy. It is possible for collected information to be disclosed without the university's permission or knowledge (for example, if an Internet host is "attacked", or is compromised by a virus). For this reason Bucknell disclaims any warranty or representation of privacy or non-disclosure of information collected through the use of our Internet sites.
+
+### Changes to this Policy
+
+This Privacy Policy may be amended from time to time. Any such changes will be posted on this page.
+
+### How to Contact Us
+
+Should you have other questions or concerns about this Privacy Policy, please send us an e-mail at: [digitalcommunications@bucknell.edu](mailto:digitalcommunications@bucknell.edu).
 
 Close
 
