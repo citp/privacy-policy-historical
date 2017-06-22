@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the ungloryhole.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004110533id_/http%3A//ungloryhole.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ungloryhole.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622153130id_/http%3A//ungloryhole.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
 Privacy Policy   
 
 
-Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site ungloryhole.com and all other sites owned or controlled by ADFAIRX CONSULTANTS, LTD. ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of the utmost importance to us. This Privacy Policy (the "Policy") applies to the site ungloryhole.com and all other sites owned or controlled by EFTZ Investments Limited ("the Company") and in which this policy appears. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
