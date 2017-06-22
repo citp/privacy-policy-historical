@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2016-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160705122144id_/http%3A//assets.legal.web.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622102104id_/http%3A//assets.legal.web.com/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
