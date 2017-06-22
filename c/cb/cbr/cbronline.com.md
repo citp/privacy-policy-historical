@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121220831id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbronline.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622055019id_/http%3A//www.cbronline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Computer Business Review
 
