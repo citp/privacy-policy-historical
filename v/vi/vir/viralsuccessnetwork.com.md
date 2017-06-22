@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralsuccessnetwork.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506165944id_/http%3A//viralsuccessnetwork.com/privacypolicy.php%3Fuser%3DDesmond) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralsuccessnetwork.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622205002id_/http%3A//www.viralsuccessnetwork.com/privacypolicy.php%3Fuser%3DDesmond) for the most accurate reproduction.*
 
 # Privacy Policy
 
