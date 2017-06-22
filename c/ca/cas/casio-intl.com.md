@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casio-intl.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222225926id_/http%3A//world.casio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casio-intl.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622133356id_/http%3A//world.casio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Home | CASIO
 
@@ -141,4 +141,4 @@ Customers may disable "cookies" in browsers; however this may restrict the use o
 
 Most recent amendment: May 9, 2016
 
-[](http://privacymark.org/)
+[](https://privacymark.org/)
