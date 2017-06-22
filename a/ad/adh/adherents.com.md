@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adherents.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121134846id_/http%3A//www.adherents.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adherents.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622030205id_/http%3A//www.adherents.com/privacy.html) for the most accurate reproduction.*
 
 # Adherents.com Privacy Policy
 
