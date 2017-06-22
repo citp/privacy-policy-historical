@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondtherack.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227104616id_/http%3A//www.beyondtherack.com/info/privacy/simple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondtherack.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623004834id_/http%3A//www.beyondtherack.com/info/privacy/simple) for the most accurate reproduction.*
 
 # Privacy - Beyond the Rack
 
@@ -6,23 +6,23 @@ PRIVACY POLICY
 
 _Effective Date: 07/08/2014
 
-Last Updated on 07/08/2014 
+Last Updated on 03/02/2017 
 
 _
 
 Your privacy is important to Beyond the Rack . So we’ve developed a Privacy Policy that covers how we collect, use, disclose, transfer, and store your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions by either: 
 
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET or
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET or
   * Mailing to:
 
 
 
 Privacy Matters  
 c/o Beyond the Rack   
-905 Hodge  
-Saint-Laurent, Quebec  
-H4N 2B3, Canada  
+5440 Rue Pare,  
+Mont-Royal, Quebec  
+H4P 1R3, Canada  
 
 
 This privacy policy describes how Beyond the Rack (“BTR”) collects and uses the personal information you provide on our Website: [www.beyondtherack.com](http://www.beyondtherack.com/) (“the Website”) for your use of the services or when you purchase products from BTR, features and content offered by Beyond the Rack (collectively referred to as the “BTR Services”). It also describes the choices available to you regarding the use of your personal information and how you can access and update your personal information. For the purposes of this Privacy Policy, unless otherwise noted, all references to "Beyond the Rack" include beyondtherack.com and BTR. 
@@ -37,28 +37,25 @@ To prevent unauthorized access, maintain data accuracy and ensure the appropriat
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. Please note, however, that no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on the Website, you can contact us at [security@beyondtherack.com](mailto:security@beyondtherack.com). 
 
-Beyond the Rack has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. 
+If you have questions or concerns regarding this privacy policy, you should first contact Customer Service. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at :   
+https://feedback-form.truste.com/watchdog/request 
 
 [](https://privacy.truste.com/privacy-seal/Beyond-the-Rack/validation?rid=9beb606c-c7d9-4c2c-b460-21b63cfc196b "TRUSTe online privacy certification")
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us either by: 
+If you have questions or complaints regarding our privacy policy or practices, please contact us either by: 
 
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET or
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET, or
   * Mailing to:
 
 
 
 Privacy Matters  
 c/o Beyond the Rack  
-905 Hodge  
-Saint-Laurent, Quebec  
-H4N 2B3, Canada  
+5440 Rue Pare,  
+Mont-Royal, Quebec  
+H4P 1R3, Canada  
 
-
-If you have questions or concerns regarding this privacy policy, you should first contact Customer Service. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). TRUSTe will then serve as a liaison with Beyond the Rack to address your concerns. 
-
-The TRUSTe program covers only information that is collected through the Website. 
 
 The information Beyond the Rack gathers falls into two categories: 
 
@@ -82,7 +79,7 @@ At any time, you can notify us that you wish to stop receiving these emails or t
   * Making the appropriate selections in your account management center, or
   * Following the "unsubscribe" instructions located near the bottom of each email, or
   * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email and/or telephone number from our database. To do so please include your email and/or telephone number in the body of your email, and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET.
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET.
 
 
 
@@ -102,16 +99,16 @@ If your personal identifiable information changes, or if you no longer desire ou
 
   * Making the necessary changes in your member information page, or
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET, or
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET or
   * Mailing to:
 
 
 
 Privacy Matters  
 c/o Beyond the Rack   
-905 Hodge  
-Saint-Laurent, Quebec  
-H4N 2B3, Canada  
+5440 Rue Pare,  
+Mont-Royal, Quebec  
+H4P 1R3, Canada  
 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
@@ -130,15 +127,15 @@ Making the necessary changes in your member information page, or
 
 Emailing our Customer Service team at [service@beyondtherack.com](mailto:service@beyondtherack.com), or 
 
-Calling our toll-free number at 1-844-400-4287 Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET, or 
+Calling our toll-free number at 1-844-400-4287 Monday - Friday from 9AM - 5PM ET or, 
 
 Mailing to: 
 
 Privacy Matters  
 c/o Beyond the Rack  
-905 Hodge  
-Saint-Laurent, Quebec  
-H4N 2B3, Canada  
+5440 Rue Pare,  
+Mont-Royal, Quebec  
+H4P 1R3, Canada  
 
 
 Furthermore you can prevent any future referral emails from BTR by clicking the unsubscribe link in any invitation email you received. 
@@ -169,7 +166,7 @@ Please note that cookies stored on your computer through the Website or BTR emai
 
 For example, Google is one of the companies that serve advertisements for beyondtherack.com. The [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the Website and across the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/ads/preferences)
 
-You may opt out of the use of the DoubleClick DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you may opt out of third-party vendors use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) and by visiting Your Privacy Settings managed by [TRUSTe](http://preferences-mgr.truste.com/)
+You may opt out of the use of the DoubleClick DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you may opt out of third-party vendors use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp) and by visiting [TRUSTe](http://preferences-mgr.truste.com/)
 
 We also use Google conversion tracking to measure the conversion rate related to our Google AdWords campaigns. This allows Google to tell us how users find the Website using Google. To protect the user's privacy Google’s cookie is not personally-identifiable and expires in 30 days. If you want to disable conversion tracking cookies, you can set your browser to block cookies from the googleadservices.com domain. Please refer to the [Google Advertising and Privacy](http://www.google.com/privacy/ads/) for more information about Google Conversion Tracking and the ability to opt out. 
 
@@ -195,7 +192,7 @@ We use web beacons in our HTML-based emails to know which emails have been opene
   * Making the appropriate selections in your account management center, or
   * Following the "unsubscribe" instructions located near the bottom of each email, or
   * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET.
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET.
 
 
 
@@ -236,7 +233,7 @@ We reserve the right to disclose your unsubscribe information to third parties s
   * Making the appropriate selections in your account management center, or
   * Following the "unsubscribe" instructions located near the bottom of each email, or
   * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email and/or telephone number from our database. To do so please include your email in the body of your email, and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET.
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET.
 
 
 
@@ -254,15 +251,15 @@ If, at any time, you prefer not to receive promotional emails, traditional mail 
 
 Privacy Matters  
 c/o Beyond the Rack  
-905 Hodge  
-Saint-Laurent, Quebec  
-H4N 2B3, Canada  
+5440 Rue Pare,  
+Mont-Royal, Quebec  
+H4P 1R3, Canada  
 
 
   
 
   * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
-  * By Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET.
+  * By Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET.
 
 
 
@@ -270,11 +267,11 @@ BTR automatically logs certain usage information about your use of the Website. 
 
 In an effort to make the Website as effective and enjoyable as possible, the computers that operate the Website use third party tracking services to collect certain information each time you visit the Website. We store these statistics in log files. Once again, these statistics do not identify you personally, but provide us information regarding the type of users who are accessing the Website and certain browsing activities of those users. This data may include: the IP address of the user accessing the Website (i.e. the unique I.D. number of the user's computer), the type of browser (Internet Explorer, Firefox, Safari, etc.), the operating system (Windows, Mac OS, etc.), the Website the user last visited before linking to the Website, how long the user accessed the Website in any given session, and the date and time of access. We may make extensive use of this data at an aggregated level in order to understand how the Website is being used. We may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow our business. 
 
-**BTR Web Account:** You may update and/or edit your BTR account information online on the Website. Should you require assistance, please call us toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET. 
+**BTR Web Account:** You may update and/or edit your BTR account information online on the Website. Should you require assistance, please call us toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET. 
 
 **Manage Your beyondtherack.com Account at Member Center:** You may review and update your beyondtherack.com account information and access your transaction history in the Member Center by logging at [www.beyondtherack.com](http://www.beyondtherack.com/). 
 
-To gain access to the Member Center, you will be asked to enter your password. If you do not remember your password, you can request it by using the “Forgot Password” functionality. If you need further assistance, please contact Customer Service by email at [service@beyondtherack.com](mailto:service@beyondtherack.com) or By Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET. 
+To gain access to the Member Center, you will be asked to enter your password. If you do not remember your password, you can request it by using the “Forgot Password” functionality. If you need further assistance, please contact Customer Service by email at [service@beyondtherack.com](mailto:service@beyondtherack.com) or By Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET. 
 
 There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. 
 
@@ -295,15 +292,15 @@ If, at any time, you prefer not to receive email marketing information and/or te
 
 Privacy Matters  
 c/o Beyond the Rack   
-905 Hodge  
-Saint-Laurent, Quebec  
-H4N 2B3, Canada  
+5440 Rue Pare,  
+Mont-Royal, Quebec  
+H4P 1R3, Canada  
 
 
   
 
   * Contacting us at [unsubscribe@beyondtherack.com](mailto:unsubscribe@beyondtherack.com) requesting that we remove your email and/or telephone number from our database. To do so please include your email in the body of your email and put "Unsubscribe" in the subject line, or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET.
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET.
 
 
 
@@ -332,14 +329,14 @@ You acknowledge that this Privacy Policy is part of the Terms of Use and you unc
 If you have any questions or suggestions regarding our privacy policy please let us know by either: 
 
   * Emailing our Customer Service team at [privacy@beyondtherack.com](mailto:privacy@beyondtherack.com), or
-  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 6PM ET, Saturday - Sunday from 10AM - 2PM ET, or
+  * Calling our toll-free number at **1-844-400-4287** Monday - Friday from 9AM - 5PM ET.
   * Mailing to:
 
 
 
 Privacy Matters  
 c/o Beyond the Rack  
-905 Hodge  
-Saint-Laurent, Quebec  
-H4N 2B3, Canada  
+5440 Rue Pare,  
+Mont-Royal, Quebec  
+H4P 1R3, Canada  
 
