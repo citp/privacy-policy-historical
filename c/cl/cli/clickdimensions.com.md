@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickdimensions.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203105313id_/http%3A//clickdimensions.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdimensions.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622150053id_/http%3A//clickdimensions.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ClickDimensions
+# Privacy Policy | ClickDimensions
 
 The information contained in this Privacy Policy (this “Policy”) refers to both the ClickDimensions’ websites (this site and our blog) as well as the ClickDimensions marketing automation solution which is in use on this site. ClickDimensions takes privacy very seriously and is committed to the following:
 
@@ -28,6 +28,8 @@ ClickDimensions never uses visitor identification techniques that involve sharin
 
 
 
+Our customers have the option to connect their accounts to various supported platforms (“Third-Party Platforms”) such as Facebook, Twitter, and Instagram. This Policy does not cover any information or other content you can view via the use of our services on Third-Party Platforms (but which was not posted there using our Services) or information you provide to Third-Party Platforms accessed via the ClickDimensions’ services. We cannot take responsibility for the content or privacy policies of any Third-Party Platforms. We encourage you to carefully review the privacy policies of any Third-Party Platforms you access via our site or services.
+
 ### Only Emailing You If You Have Opted-In to Receive Our Emails
 
 ClickDimensions employs a 100% permission based email program. You may opt-in to our monthly newsletter by going to [http://www.clickdimensions.com/newsletter/](http://www.clickdimensions.com/resources/newsletter). Each edition of our newsletter contains a clearly marked unsubscribe link so you may request to be permanently removed from future mailings.
@@ -43,6 +45,7 @@ Each email sent from ClickDimensions using our email marketing solution provides
   * If you are a Subscriber and no longer want to be contacted by one of our customers, please unsubscribe directly from that customer’s email or contact the customer directly to update or delete your data.
   * ClickDimensions will not share, distribute, or reference any such Subscriber Data except as provided in the Terms of Service, or as may be required by law.
   * ClickDimensions will retain data we process on behalf of our customers for as long as needed to provide services to our customer or to comply with our legal obligations, resolve disputes, prevent abuse, and enforce our agreements.
+  * ClickDimensions will retain security tokens and the associated profile/page IDs. For example, in the case of Facebook, we will retain the user token, page token, page ID, and the Facebook page name.
 
 
 
@@ -51,6 +54,10 @@ Each email sent from ClickDimensions using our email marketing solution provides
 ClickDimensions is certified under the EU-U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. We hereby certify that we adhere to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the terms in this Policy and the Privacy Shield Principles, the Privacy Shield Principles govern.  To view a description of how ClickDimensions complies with these Privacy Shield Principles, please visit <http://clickdimensions.com/about/privacy-shield/>. For more information on the EU-U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website at <https://www.privacyshield.gov/welcome>.
 
 ClickDimensions has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to JAMS International, an alternative dispute resolution provider headquartered in London with additional locations in Amsterdam, Milan, New York and Rome. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information and to file a complaint.
+
+### Updates
+
+ClickDimensions reserves the right, at any time, to modify or replace this Policy. The most recent version of this Policy is available at <http://clickdimensions.com/about/privacy-policy/>. Please check the Privacy Policy periodically for changes; however, we will also notify you via email or other direct electronic communication method of any changes that, in our sole discretion, materially impact your use of the Site or the ClickDimensions solution or the treatment of your Personal Information. Your use of the solution following the posting of any changes to this Policy constitutes acceptance of those changes.
 
 ### How to Contact Us
 
