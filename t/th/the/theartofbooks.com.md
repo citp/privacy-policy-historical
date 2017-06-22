@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartofbooks.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227212113id_/http%3A//www.theartofbooks.com/images/ZOOBILEE_PRIVACY.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartofbooks.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622120018id_/http%3A//www.theartofbooks.com/images/ZOOBILEE_PRIVACY.pdf) for the most accurate reproduction.*
 
 # ZOOBILEE collects information about your transactions with us and with some of our business partners and affiliates, including information about your use of the products and services that we offer.
 
