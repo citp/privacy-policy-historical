@@ -1,25 +1,12 @@
-> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124114419id_/http%3A//www.eurostemcell.org/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurostemcell.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622191348id_/http%3A//www.eurostemcell.org/privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy & cookies | Europe's stem cell hub | EuroStemCell
-
-#### We are committed to protecting your privacy and keeping you informed of how your information is used.
-
-## Quick links to information on this page
-
-  * #### Our privacy policy: The information we collect, our security agreement and your rights.
-
-  * #### How we use your information: How we store and use your information, how you can change it and the circumstances under which we disclose data.
-
-  * #### Our use of cookies: We use several types of cookies for a range of reasons across the site. Some are essential, while others you can opt out of or block.
-
-
-
+# Privacy and Cookies | Eurostemcell
 
 ## Our privacy policy
 
- **The information we collect about you, our security agreement and your rights.**
+**The information we collect about you, our security agreement and your rights.**
 
-The University of Edinburgh ( **the “University** ”, “us” or “we”) is committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information obtained from those visiting and using the EuroStemCell website [www.eurostemcell.org](http://www.eurostemcell.org/ "www.eurostemcell.org") and its subdomains (the “website”).
+The University of Edinburgh ( **the “University** ”, “us” or “we”) is committed to preserving your privacy. Please read the following privacy policy to understand how we use and protect the information obtained from those visiting and using the EuroStemCell website [www.eurostemcell.org](http://www.eurostemcell.org/) and its subdomains (the “website”).
 
 By using the EuroStemCell website you consent to the collection, retention and use of your personal information in accordance with the terms of this policy.
 
@@ -34,7 +21,7 @@ By using the EuroStemCell website you consent to the collection, retention and u
 ### Cookies
 
 Our website uses cookies to distinguish you from other users of the website. A cookie is a small file of letters and numbers that is stored on your device. The cookies set may obtain information about you, your computer, your use of our website and your general internet usage.   
-More about cookies.
+[More about cookies](http://www.eurostemcell.org/privacy-cookies#cookies).
 
 ### IP addresses
 
@@ -52,7 +39,7 @@ You have the right to ask for a copy of the information held by us in our record
 
 If any information held by us is incorrect, you have the right to ask for this to be corrected and updated.  Please help us keep our records updated by informing us of any changes to your email address and other contact details. 
 
-You have the right to ask us not to process your personal data for marketing purposes.  We will usually inform you (before collecting your personal data) if we intend to use your personal data for such purposes or if we intend to disclose your information to any third party for such purposes.  You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your personal data.  You can also exercise the right at any time by [contacting us](http://www.eurostemcell.org/contact "contact form").
+You have the right to ask us not to process your personal data for marketing purposes.  We will usually inform you (before collecting your personal data) if we intend to use your personal data for such purposes or if we intend to disclose your information to any third party for such purposes.  You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your personal data.  You can also exercise the right at any time by [contacting us](http://www.eurostemcell.org/contact).
 
 ### Third party websites
 
@@ -64,11 +51,11 @@ We may amend this policy from time to time.  If we make any substantial changes
 
 ### Make an enquiry
 
-If you have any queries concerning the information we hold about you or this privacy policy, or any questions on our use of your information then please [contact us](http://www.eurostemcell.org/contact "contact form").
+If you have any queries concerning the information we hold about you or this privacy policy, or any questions on our use of your information then please [contact us](http://www.eurostemcell.org/contact).
 
 ## How we use your information
 
- **How we use your information, how it is stored and the circumstances under which we disclose data.**
+**How we use your information, how it is stored and the circumstances under which we disclose data.**
 
 We use your information to:
 
@@ -80,7 +67,7 @@ We use your information to:
 
 
 
-We may contact you by post, telephone or fax as well as by email and text message. If you change your mind about being contacted in the future by any of these means then please let us know by [getting in touch with us](http://www.eurostemcell.org/contact "contact form").
+We may contact you by post, telephone or fax as well as by email and text message. If you change your mind about being contacted in the future by any of these means then please let us know by [getting in touch with us](http://www.eurostemcell.org/contact).
 
 ### Storage of your information
 
@@ -94,7 +81,7 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 We will not share, sell or distribute any of the information you provide to us without your consent, except where disclosure is:
 
-  * necessary to enforce our rights, including under our website [Terms and Conditions](https://web.archive.org/terms-and-conditions "terms and conditions") of use; or
+  * necessary to enforce our rights, including under our website [Terms and Conditions](http://www.eurostemcell.org/terms-and-conditions) of use; or
   * required or permitted by law.
 
 
@@ -109,7 +96,7 @@ Please note that countries outside the European Economic Area do not always have
 
 ## Our use of cookies
 
- **We use several types of cookies for a range of reasons across the website.  Some are essential, while others you can opt out of or block.  Opting out or blocking some cookies may affect the functionality of the website.**
+**We use several types of cookies for a range of reasons across the website.  Some are essential, while others you can opt out of or block.  Opting out or blocking some cookies may affect the functionality of the website.**
 
 ### Why and how we use cookies
 
@@ -131,41 +118,43 @@ Some cookies are retained in your browser for only as long as you visit our webs
 
 You can restrict or block cookies which are set during your use of the website by changing your browser’s settings.  Some pages may not work if you completely disable cookies, but many third party cookies can be safely blocked.
 
-Check information in your browser’s help section for specific instructions on how to manage cookies.  Alternatively, websites such as [All About Cookies](http://www.allaboutcookies.org/ "Guide to managing cookies – All About Cookies website") provide comprehensive guidance.
+Check information in your browser’s help section for specific instructions on how to manage cookies.  Alternatively, websites such as [All About Cookies](http://www.allaboutcookies.org/) provide comprehensive guidance.
 
 ### Strictly necessary cookies
 
 Some cookies we place on your browser ensure that the website delivers you information and services securely and optimally. You must accept these cookies to be able to make use of our online systems.
 
-Name| Purpose| Typical content| Expires  
+Name | Purpose | Typical content | Expires  
 ---|---|---|---  
-SESSxxxID| Authentication session to prevent having to login multiple times in one browser session.| A unique id that ties the current session to a database settings table| One week  
-has_js| This helps the website understand browser Javascript functionality| An on/off flag that denotes whether or not the browser supports Javascript| On site exit  
+SESSxxxID | Authentication session to prevent having to login multiple times in one browser session. | A unique id that ties the current session to a database settings table | One week  
+has_js | This helps the website understand browser Javascript functionality | An on/off flag that denotes whether or not the browser supports Javascript | On site exit  
+   
   
 ### Performance cookies
 
 We use Google Analytics to monitor visitor behaviour on our website and help us improve our information and services. Anonymous data about your visit is collected and amalgamated with that of other visitors so we can better understand how people use our website.
 
-You can opt out of providing us with this information if you wish, with no impact on your experience of our website - [opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout "Visit the Google website")
+You can opt out of providing us with this information if you wish, with no impact on your experience of our website - [opt out of Google Analytics](http://tools.google.com/dlpage/gaoptout)
 
-Provider| Name| Purpose| More info  
+Provider | Name | Purpose | More info  
 ---|---|---|---  
-Google Analytics| _utma  
+Google Analytics | _utma  
 _utmb  
 _utmc  
-_utmz| These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.| [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)  
+_utmz | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Google Privacy policy](http://www.google.com/intl/en_uk/policies/privacy/)  
+   
   
 ### Third party cookies
 
 Some website pages use third party services or software such as maps, online videos or social networking features. Many of these services may set cookies on your device. Here are some examples, with links to find out more about their privacy policies:
 
-Provider| Name| Purpose| More info  
+Provider | Name | Purpose | More info  
 ---|---|---|---  
-Facebook| datr  
+Facebook | datr  
 lu  
-csm| Used by Facebook to managing the Facebook content display on this site, ie the Like button| [Facebook cookies information](https://www.facebook.com/help/?page=176591669064814 "Facebook cookies page")  
-[Facebook privacy policy](http://www.facebook.com/about/privacy/ "Facebook privacy policy")  
-YouTube| SID, LOGIN_INFO, use_hotbox, PREF, SSID, HSID, watched_video_id_list, __utma, __utmz, demographics, VISITOR_INFO1_LIVE| Google sets a number of cookies on any page that includes a Youtube video. While we have no control over the cookies set by Google, they appear to include a mixture of pieces of information to measure the number and behaviour of Youtube users, including information that links your visits to our website with your Google account if you are signed in to one. Information about your use of our website, including your IP address, may be transmitted to Google and stored on servers in the United States.This cookie does not identify you personally unless you are logged into Google, in which case it is linked to your Google account.| [Google's Privacy Policy](http://www.google.com/policies/privacy/ "Visit the Google website")[  
-](http://storify.com/tos)  
+csm | Used by Facebook to managing the Facebook content display on this site, ie the Like button | [Facebook cookies information](https://www.facebook.com/help/?page=176591669064814)  
+[Facebook privacy policy](http://www.facebook.com/about/privacy/)  
+   
+YouTube | SID, LOGIN_INFO, use_hotbox, PREF, SSID, HSID, watched_video_id_list, __utma, __utmz, demographics, VISITOR_INFO1_LIVE | Google sets a number of cookies on any page that includes a Youtube video. While we have no control over the cookies set by Google, they appear to include a mixture of pieces of information to measure the number and behaviour of Youtube users, including information that links your visits to our website with your Google account if you are signed in to one. Information about your use of our website, including your IP address, may be transmitted to Google and stored on servers in the United States.This cookie does not identify you personally unless you are logged into Google, in which case it is linked to your Google account. | [Google's Privacy Policy](http://www.google.com/policies/privacy/)  
   
-You can block or remove these third party cookies by altering the settings of your browser.  Blocking these cookies is unlikely to impact on your experience of our website.
+You can block or remove these third party cookies by altering the settings of your browser. Blocking these cookies is unlikely to impact on your experience of our website.
