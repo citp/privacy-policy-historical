@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228224640id_/https%3A//www.narrpr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narrpr.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622113220id_/https%3A//www.narrpr.com/privacy-policy) for the most accurate reproduction.*
 
 # Realtors Property Resource
 
@@ -37,4 +37,4 @@ RPR may include links to the Web sites of other entities. These third-party Web 
 
 ## Contacting RPR
 
-If you have any questions about this RPR Privacy Policy, or the privacy practices of RPR, please contact us at [info@narrpr.com](mailto:info@narrpr.com).
+If you have any questions about this RPR Privacy Policy, or the privacy practices of RPR, please contact us at [support@narrpr.com](mailto:support@narrpr.com).
