@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookieandkate.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120025846id_/http%3A//cookieandkate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookieandkate.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623004935id_/http%3A//cookieandkate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cookie and Kate
 
@@ -8,7 +8,7 @@ We collect information from you when you subscribe to our newsletter, respond to
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
-**Notice Regarding Online Behavioural Advertising**
+**Notice Regarding Online Behavioral Advertising**
 
 We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>. 
 
