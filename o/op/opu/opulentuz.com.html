@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the opulentuz.com privacy policy that was archived on 2016-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160527130203id_/https%3A//www.opulentuz.com/immigration/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opulentuz.com privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622170435id_/https%3A//www.opulentuz.com/immigration/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta name="robots" content="noodp">
@@ -71,7 +71,7 @@
     <!--for news and testimonials canonicalization-->
  	<!--for end news,FAQs and testimonials canonicalization-->
      
-	<link rel="stylesheet" type="text/css" href="/css/default.css">	<link rel="stylesheet" type="text/css" href="/css/accordion.css">
+	<link rel="stylesheet" type="text/css" href="/css/default.css?v=1.2">	<link rel="stylesheet" type="text/css" href="/css/accordion.css">
 	<!--[if IE 6]>
 	    
 <script>
@@ -208,9 +208,9 @@ function validate(a)
 		var plength = frm.phone.value;
 		var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
 		var re = /^[A-Za-z ]+$/;
-		var day = 27;
-		var month = 05;						
-		var year = 2016;
+		var day = 22;
+		var month = 06;						
+		var year = 2017;
 		if(frm.p_name.value == 'Person Name'){
 			alert('Enter your name');
 			frm.p_name.focus();
@@ -339,7 +339,7 @@ else if(frm.code.value.length>8){
 					frm.timetocallto1.focus();
 					return false;
 				}else if(frm.timetocall1.value && frm.timetocallto1.value){
-					var hours = 18;
+					var hours = 22;
 					var time1 = frm.timetocall1.value;
 					var time2 = frm.timetocall1to.value;
 					var t1 = time1.split('.');
@@ -370,7 +370,7 @@ else if(frm.code.value.length>8){
 					frm.timetocallto1.focus();
 					return false;
 				}else if(frm.timetocall1.value && frm.timetocallto1.value){
-					var hours = 18;
+					var hours = 22;
 					var time1 = frm.timetocall1.value;
 					var time2 = frm.timetocallto1.value;
 					var t1 = time1.split('.');
@@ -426,7 +426,7 @@ else if(frm.code.value.length>8){
 					frm.timetocallto.focus();
 					return false;
 				}else if(frm.timetocall.value && frm.timetocallto.value){
-					var hours = 18;
+					var hours = 22;
 					var time1 = frm.timetocall.value;
 					var time2 = frm.timetocallto.value;
 					var t1 = time1.split('.');
@@ -458,7 +458,7 @@ else if(frm.code.value.length>8){
 					return false;
 				}else if(frm.timetocall.value && frm.timetocallto.value)
 					{
-					var hours = 18;
+					var hours = 22;
 					var time1 = frm.timetocall.value;
 					var time2 = frm.timetocallto.value;
 					var t1 = time1.split('.');
@@ -647,13 +647,27 @@ var x =setInterval(function() {
 </script>
 
 <!--<script type="text/javascript" src="https://www.opulentuz.com/js/jquery.innerfade.js"></script>-->
+ <style type="text/css" media="print">
+@media print {
+  html, body {
+    display: none;  /* hide whole page */
+  }
+}
+</style>   
 </head>
 
 		
-<body onload="autoScroll('newsslider','newssection',5,true);">
+<body onload="autoScroll('newsslider','newssection',5,true);" ondragstart="return false" onselectstart="return false" oncontextmenu="return false">
  	
 
-
+<div id="branch_popup" style="display:none;">
+  <div id="branch_data">
+     <img src="https://www.opulentuz.com/promos/home/canada_aus_20170602.jpg" id="home_banner_img">
+      <div class="close-image-div" id="closeImageDiv"><img class="close-image" id="closeImage" onclick="parent.pushNotificationObject.closeCustomOptin()" src="https://www.opulentuz.com/promos/home/Close.png"></div>
+  </div>
+ 
+  <div class="mask1"></div>
+</div>
 
 <!-- Start Alexa Certify Javascript -->
 <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "PH9Ig1asOv00U+", domain:"opulentuz.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=PH9Ig1asOv00U+" style="display:none" height="1" width="1" alt="Opulentuz" title="Opulentuz"/></noscript>
@@ -794,6 +808,16 @@ $(document).ready(function(){
    if(isMobile()){
 	  window.location.replace("http://m.opulentuz.com");
 	  }
+   if(localStorage.getItem('popState_20170505') != 'shown'){
+        $("#branch_popup").delay(2000).fadeIn();
+        localStorage.setItem('popState_20170505','shown')
+    }
+
+    $('#closeImage').click(function(e) // You are clicking the close button
+    {
+    $('#branch_popup').fadeOut(); // Now the pop up is hiden.
+    });
+    	  
 });
 
 	</script>
@@ -1141,54 +1165,56 @@ var tz = 'userset';
  <div class="newsslider" style="height:128px; border:0px solid #000; margin-top:10px;">
     <div class="newsslidercontent" id="newsslider">
                <div id="newssection-1" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_9162.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->Thanks for the support...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Uxxxx xxxxx  <br>
-Australia<br><br>AUSTRALIAN SKILLED NOMINATED VISA...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->This has been a perfect service. Vamsi has ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Axxxxx xxxxx  <br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-2" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_8925.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"Thanks a lot for your services."...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Sxxxxxx xxxxxxxxxxxx  <br>
-Belgium<br><br>BUSINESS VISA...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->Processing visa through Opulentus has been an awesome ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Sxxxxxxx xxxxxxxxxxxxI<br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-3" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_889.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"Thanks for Opulentus for the prompt service hoping ...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Sxxxxxx xxxxxxx  <br>
-Canada<br><br>CANADA 1st STAGE FILE ...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_52609.png" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->The process at Opulentus is smooth, transparent and ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Vxxxxxx xxxxxxx  <br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-4" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_866.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"The service has been really great, case officer ...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Rxxxxxx   <br>
-UK<br><br>UK TIER 1 VISA...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->It was a good experience with opulentus team, ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Sxxxxxxx xxxxxxA<br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-5" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_7948.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"Thank you for your support."...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Vxxxxxxx xxxxxxxL<br>
-Australia<br><br>JOB...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->It had been very good journey and experience ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Jxxxxxx xxxxxxA<br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-6" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_794.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->Thanks a lot for overall services, provided by ...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Mxxxxxxxx   <br>
-Denmark<br><br>DENMARK VISA...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->PR process along with Opulentus was very smooth. ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Pxxxxxxxxx xxxxxA<br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-7" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_7871.png" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"Glad to receive the visa. Thanks for your ...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Axxxxxx xxxxxxxxxx  <br>
-Germany<br><br>EU Blue Card - ...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->From the first day of me walking in ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Nxxxxxxxxx xxxxxxxx  <br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-8" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_785.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"Thank you. We could not have done this ...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Rxxxxxx xxxxxxxxxxxxx  <br>
-UK<br><br>UK TIER 1 VISA...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_31528.gif" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->I would like to thank OPULENTUS and Mrs.Ashwini ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Vxxxxxxx xxxxxxxxxxx  <br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-9" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_723.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"Thanks your for your support." ...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Bxxxxxxxxxxx xxxxxxxx  <br>
-Denmark<br><br>DENMARK VISA...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->Hi,
+
+The journey of getting the VISA was smooth ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Dxxxxxx xxxxxxxxI<br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			                <div id="newssection-10" class="newssection upper" style="width:200px; height:auto; ">
-			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentian.com/intranet/applicant_uploads/photos/imgs/photo_6921.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->"My ACS result is positive. I am happy ...<br clear="all"></div>
-                <p align="right" style="text-align:right; color:#eada27;">Mxxxxxx xxxxxxxxxxA<br>
-Australia<br><br>ACS RESULT...<br><br></p>
+			                  <div style=" height:55px;"><!--<img style="float:left; margin-right:5px; border:2px solid #ccc;" src="https://www.opulentuz.com/img/thumb-testimonials.jpg" width="60" height="60" alt="Opulentus Reviews" title="Opulentus Reviews" rel="nofollow" /><a href="https://www.opulentuz.com/immigration/testimonials" style="color:#fff;">-->I would like to take this opportunity to ...<br clear="all"></div>
+                <p align="right" style="text-align:right; color:#eada27;">Hxxxxxxxxx xxxxxxxxxN<br>
+Australia<br><br>AUSTRALIAN VISA...<br><br></p>
  </div>
 			              
 			</div>
@@ -1208,13 +1234,11 @@ Australia<br><br>ACS RESULT...<br><br></p>
         <div class="news-box">
           <h4>News &amp; Events</h4>
           <ul>
-                        <li><a href="https://www.opulentuz.com/immigration/news-details/Indian-Skilled-Workers-Group-Largest-in-the-United-Kingdom/3380">Indian Skilled Workers Group Largest in the United ...</a>
-							  <span><a style=" color:#ff0000;" href="https://www.opulentuz.com/immigration/news-details/indian-skilled-workers-group-largest-in-the-united-kingdom/3380">New</a></span>
-				  			<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 27 May 2016 </p>
+                        <li><a href="https://www.opulentuz.com/immigration/news-details/Federal-Immgration-Canada-Wants-To-Bring-Back-IIP-From-Its-Grave/3722">Federal Immgration Canada Wants To Bring Back IIP ...</a>
+						<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 09 Jun 2017 </p>
             </li>
-			            <li><a href="https://www.opulentuz.com/immigration/news-details/The-US--to-Introduce-New-Visa-Program-for-Skilled-Workers/3379">The US  to Introduce New Visa Program ...</a>
-							  <span><a style=" color:#ff0000;" href="https://www.opulentuz.com/immigration/news-details/the-us-to-introduce-new-visa-program-for-skilled-workers/3379">New</a></span>
-				  			<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 26 May 2016 </p>
+			            <li><a href="https://www.opulentuz.com/immigration/news-details/Sharp-Decline-In-The-Number-Of-H1B-Issued-By-Major-IT-Giants/3721">Sharp Decline In The Number Of H1B Issued ...</a>
+						<p style="color:#333;text-align:center;  display:block; width:255px; margin-bottom:0px;">Posted On 08 Jun 2017 </p>
             </li>
 			          </ul>
           <p align="right" style="float: right;"><a href="https://www.opulentuz.com/immigration/news" title="View All" style="background:#222;color:white;text-align:center;padding:4px;font-size: 10px;"><!--<img height="26" width="108" src="https://www.opulentuz.com/img/viewall.png" alt="Immigration News" title="Immigration News" />-->View All</a></p>
@@ -1358,6 +1382,7 @@ var base = "https://www.opulentuz.com/immigration/get_country/";
        </ul> 
     </div>
 		 <div class="agents_cntnr">
+         <!--<img src="https://www.opulentuz.com/img/mara_iccrc_icon.png" alt="Visas"  title="Visas"/>-->
          <img src="https://www.opulentuz.com/img/mara_icon.png" alt="Visas" title="Visas">
        <!--  <ul>
           <li><div class="agnt"> <span class="agnt_head">Australia</span> Our partner company in australia employs MARA registered agents. </div></li>
@@ -1391,7 +1416,7 @@ var base = "https://www.opulentuz.com/immigration/get_country/";
         <a href="https://www.opulentuz.com/immigration/testimonials" title="Testimonials">Testimonials</a> |
         <a href="https://www.opulentuz.com/immigration/success-list" title="Success List">Success List</a> -->
         
-        <br>Copyright @ 2016 Opulentus Overseas Careers Pvt Ltd. <a href="https://www.opulentuz.com/immigration/privacy-policy" title="Privacy Policy">Privacy Policy</a> |  <a href="https://www.opulentuz.com/immigration/fraudpolicy" title="Privacy Policy">Anti Fraud Privacy Policy</a>  | <a href="https://www.opulentuz.com/immigration/disclaimer" title="Disclaimer">Disclaimer</a> | <a href="https://www.opulentuz.com/sitemap.html" title=">HTML Sitemap">HTML Sitemap</a>  </p></div>
+        <br>Copyright @ 2017 Opulentus Overseas Careers Pvt Ltd. <a href="https://www.opulentuz.com/immigration/privacy-policy" title="Privacy Policy">Privacy Policy</a> |  <a href="https://www.opulentuz.com/immigration/fraudpolicy" title="Privacy Policy">Anti Fraud Privacy Policy</a>  | <a href="https://www.opulentuz.com/immigration/disclaimer" title="Disclaimer">Disclaimer</a> | <a href="https://www.opulentuz.com/sitemap.html" title=">HTML Sitemap">HTML Sitemap</a>  </p></div>
      
       <div class="clear"></div>
     </div>
