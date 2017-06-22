@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230930id_/http%3A//www.pbs.org/about/pbs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbs.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622222122id_/http%3A//www.pbs.org/about/pbs-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PBS About
 
-**Effective Date: September 7, 2016  (Update)**
+**Effective Date: May 12, 2017  (Update)**
 
 As a not-for-profit institution, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement PBS’s [mission](http://www.pbs.org/about/corporate-information/mission/).
 
-This Privacy Policy describes how we use, share, and protect information that we collect from you online through pbs.org and any other non-commercial websites or online services that PBS operates and that link to this Privacy Policy (collectively, the “Services”).  This Privacy Policy applies only to the Services. Please read it carefully. 
+This Privacy Policy describes how we use, share, and protect information that we collect from you online through pbs.org and any other websites, applications or online services that PBS operates and that link to this Privacy Policy (collectively, the “Services”).  This Privacy Policy applies only to the Services. Please read it carefully. 
 
  ** _Collection of Information_**
 
@@ -110,7 +110,7 @@ We may use cookies, web beacons, local shared objects, and other similar technol
 
 We use these technologies, for example, to help us recognize your browser as a previous user and save and remember any preferences that may have been set; to help us customize the content shown while you use the Services; to provide you with content customized to your interests and to understand whether users read e-mail messages and click on links contained within those messages so that we can deliver relevant content and offers; and to help measure and research the effectiveness of our Services, interactive online content, features, and other communications.
 
-We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services.  These third parties may collect information about a user’s online activities over time and across sites and services to, for example, help us with traffic measurement, research, and analytics and serve you more relevant advertising on third party sites. These third parties may participate in programs that allow you to opt out of targeted advertising. To learn more and opt out, visit the [Network Advertising Initiative](http://www.networkadvertising.org/choices/#completed) and [Digital Advertising Alliance](http://www.aboutads.info/choices/).
+We may allow third parties to place and read their own cookies, web beacons, and similar technologies to collect information through the Services. These third parties may collect information about a user’s online activities over time and across sites, services, and devices to, for example, help us with traffic measurement, research, and analytics and serve you more relevant advertising on third party sites and services. These third parties may participate in programs that allow you to opt out of targeted advertising. To learn more and opt out, visit the [Network Advertising Initiative](http://www.networkadvertising.org/choices/#completed) and [Digital Advertising Alliance](http://www.aboutads.info/choices/).
 
 You may be able to refuse or disable cookies by adjusting your web browser settings.  Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section).  Please note that you may need to take additional steps to refuse or disable some technologies including local shared objects.  For example, local shared objects may be controlled through the instructions on Adobe’s Setting Manager page.  If you choose to refuse, disable, or delete these technologies, some of the functionality of our Services may no longer be available to you.  
 
