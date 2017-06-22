@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004145658id_/http%3A//www.travelweekly.co.uk/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623001501id_/http%3A//www.travelweekly.co.uk/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Weekly
 
