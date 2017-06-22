@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403000658id_/http%3A//www.studentcity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622044937id_/https%3A//www.studentcity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | StudentCity
 
@@ -24,7 +24,7 @@ We will not share your personal information with third-parties unless:
 •    it is to your trip organizer, if you are part of a group trip;  
 •    it is necessary to allow our service providers or agents to provide services for us;  
 •    it is necessary in order to provide our products or services to you or to contact you;  
-•    it is to other subsidiaries of TUI Travel PLC;  
+•    it is to other members of the Travelopia Group of companies;  
 •    subject to applicable contractual or legal restrictions, it is disclosed to entities that perform marketing services on our behalf or to other entities with whom we have joint marketing agreements;  
 •    in connection with the sale of our business;  
 •    it is necessary to process payments from you;  
