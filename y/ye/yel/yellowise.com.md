@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yellowise.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124054634id_/http%3A//inuvo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowise.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622082844id_/http%3A//inuvo.com/privacy-policy) for the most accurate reproduction.*
 
-# Inuvo | Privacy Policy
+# Privacy Policy - Inuvo.com
+
+           
 
 Inuvo®, Inc. takes consumer privacy seriously. We are committed to following industry standards, best practices and guidelines relating to the use of consumer information and privacy. Inuvo recognizes and complies with the self regulatory policies of the Network Advertising Initiative (NAI).
 
@@ -10,9 +12,9 @@ Inuvo reserves the right to modify this privacy statement at any time, so please
 
 If you have questions about our privacy policy, please contact us at privacy@inuvo.com or by mail at:
 
-Inuvo, Inc. Attn: Marketing and Communications 1111 Main Street, Suite 201 Conway, AR 72032 501-205-8508 
+Inuvo, Inc. Attn: Marketing and Communications 1111 Main Street, Suite 201 Conway, AR 72032 501-205-8508
 
-INFORMATION COLLECTION AND USE
+###### INFORMATION COLLECTION AND USE
 
 We collect Personally Identifiable Information (“PII”) from Inuvo websites when you choose to provide it to us via an information request form or contact us email. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to, name, postal address, telephone number, email address, gender, birth date and information about your interests in and use of various products, programs and services. For example, you may choose to send us PII about yourself in an email or by completing an online form on an Inuvo website. We use this information to contact you to respond to an inquiry, and in some instances, certain parts of our Inuvo websites require requested PII for you to participate in programs and services. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.
 
@@ -36,19 +38,19 @@ Inuvo websites may contain links to other websites, including Advertiser offers 
 
 Such websites may use cookies and/or other data collection tools. Inuvo is not responsible for the privacy practices, policies or content of such other websites. Inuvo encourages everyone to read the posted privacy policies whenever interacting with any website to learn more about the privacy practices of that website. Inuvo has no control over the use of information by third-party websites, and you should exercise caution when deciding to disclose any PII to those websites.
 
-INFORMATION SECURITY AND STORAGE • STORAGE OF PII
+###### INFORMATION SECURITY AND STORAGE • STORAGE OF PII
 
 All information collected via information request forms or contact us emails is only used to respond to that inquiry. Once collected, we will store your PII for a reasonable time for record-keeping purposes and promotional marketing efforts.
 
 All Account Holder information collected is maintained in a password-protected environment. This information is used for client/customer service, media delivery, contact, billing-payables and receivables and/or other reporting purposes.
 
-INFORMATION SECURITY AND STORAGE • STORAGE OF NON-PII
+###### INFORMATION SECURITY AND STORAGE • STORAGE OF NON-PII
 
 We maintain Non-PII collected by our technology for up to 180 days. This data includes, but is not limited to, IP address, content viewed, ad interaction, interaction with other advertiser websites, browser type, Internet Service Provider, the time/date of your visit to our websites, your computer’s operating system (e.g., Windows XP), search terms used and other click and browsing behavior.
 
 Inuvo uses industry standard practices to safeguard the confidentiality of information and treats data as an asset that must be protected against loss and unauthorized access. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company.
 
-INFORMATION SHARING AND DISCLOSURE
+###### INFORMATION SHARING AND DISCLOSURE
 
 We do not sell, rent or share PII collected on Inuvo websites with non-affiliated third parties without your consent.
 
@@ -58,11 +60,11 @@ We may disclose information to third parties when we reasonably believe we are o
 
 Finally, we may transfer information, including any PII collected via Inuvo websites, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change.
 
-INUVO OPT-OUT • OPT-OUT OF NON-PII DATA COLLECTION
+###### INUVO OPT-OUT • OPT-OUT OF NON-PII DATA COLLECTION
 
 If you’d like to opt-out from having Inuvo collect your anonymous Non-PII information in connection with our Technology Platforms, click the link below. In doing so, Inuvo will place an opt-out cookie on your browser. The opt-out cookie means information will not be collected. If you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. Please note that by clicking on the link below you will be immediately opted out. Click here to opt-out of Non-PII data collection.
 
-OPT-OUT OR UPDATE YOUR PII
+###### OPT-OUT OR UPDATE YOUR PII
 
 As an Account Holder across our websites, you will only receive email communications from Inuvo for business administration purposes, including website and platform service updates. Any promotional emails you may receive will have an opt-out option within the footer of the email. If you opt-out, you will be removed from the promotional email list, however, as an Account Holder, you will still receive any/all business administration emails applicable to your account. As an Account Holder, you can update your PII through most of our websites yourself by simply logging into your account and modifying your account profile.
 
@@ -72,4 +74,6 @@ At any time, you can unsubscribe directly from any of these communications by fo
 
 Should you have any further questions about how to opt out or modify your information, please contact us at privacy@inuvo.com and we will process your request within a reasonable period of time after receipt. You can also contact us by mail by writing us at:
 
-Inuvo, Inc. Attn: Marketing and Communications 1111 Main Street, Suite 201 Conway, AR 72032 501-205-8508 Updated October 2013 
+Inuvo, Inc. Attn: Marketing and Communications 1111 Main Street, Suite 201 Conway, AR 72032 501-205-8508 Updated October 2013
+
+            
