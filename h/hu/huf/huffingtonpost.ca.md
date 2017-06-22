@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the huffingtonpost.ca privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231100740id_/http%3A//www.huffingtonpost.com/p/huffingtonpostca-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.ca privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622114446id_/http%3A//www.huffingtonpost.com/p/huffingtonpostca-privacy-policy.html) for the most accurate reproduction.*
 
-# Huffington Post Canada Privacy Policy
+# HuffPost Canada Privacy Policy
 
-This privacy policy applies to users of The Huffington Post Canada website (the "Site") which is a part of AOL Canada Inc. and the family of companies owned and operated by AOL Inc. (collectively "AOL"). This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
+This privacy policy applies to users of HuffPost Canada website (the "Site") which is a part of Oath (Canada) Corp. and the family of companies owned and operated by Oath Inc. (collectively "Oath"). This privacy policy is intended to inform you about the information that is collected from you when you visit the Site; how this information may be used and disclosed; how you can control the use and disclosure of your information; and how your information is protected.
 
 **1\. Scope**
 
-This privacy policy applies only to the Site. It does not apply to information collected through any other website or to the practices of companies that AOL does not control. Please note that the Site may contain links to other websites. If you click on a link to another website, this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. 
+This privacy policy applies only to the Site. It does not apply to information collected through any other website or to the practices of companies that Oath does not control. Please note that the Site may contain links to other websites. If you click on a link to another website, this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. 
 
 **2\. What information the Site collects**
 
@@ -72,7 +72,7 @@ In order to provide our readers with free access to our content, we display adve
 
 Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests. 
 
-Please remember that the Huffington Post Canada does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy. 
+Please remember that the HuffPost Canada does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy. 
 
 These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Digital Advertising Alliance of Canada ("DAAC"), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the DAAC's [website](http://youradchoices.ca/). 
 
@@ -97,7 +97,7 @@ We may use the information that we collect to meet legal and regulatory requirem
 
 **4\. Information Sharing**
 
-The Huffington Post Canada values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
+HuffPost Canada values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
 
 • We may share aggregated information or information that does not directly identify you with third parties to help us develop content, services, and advertising that we hope you will find of interest. Please note that we do not share contact information with third parties that advertise on the Site.   
 • We may employ third parties to perform Site-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.  
@@ -166,7 +166,7 @@ Please note that no data transmission or storage can be guaranteed to be 100% se
 **  
 10\. Information May Be Collected, Transferred, Stored, or Processed Outside of Canada**
 
-The Huffington Post Canada and its third party partners to whom we disclose information under this policy may perform activities outside of Canada and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries. 
+HuffPost Canada and its third party partners to whom we disclose information under this policy may perform activities outside of Canada and potentially collect, transfer, store, and process your personal information in other countries. As a result, your information may be subject to the laws of those countries. These laws may not be equivalent to the privacy and data protection laws in Canada. Information may be disclosed in response to valid demands or requests from government authorities, courts, or law enforcement in these countries. By using this Site or providing us with your information, you consent to the potential collection, transfer, storage, and processing of information in other countries. 
 
 **11\. Children's Guidelines**
 
@@ -185,7 +185,7 @@ CAPrivacyInfo@aol.com
 
 **In Writing:**   
 Chief Privacy Officer  
-AOL Inc.  
+Oath Inc.  
 22000 AOL Way  
 Dulles, VA 20166  
-Effective Date: October 07, 2016
+Effective Date: June 19, 2017
