@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the ugc.edu.hk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622111833id_/http%3A//www.ugc.edu.hk/eng/ugc/privacy_policy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+The UGC pledges to meet fully internationally recognised standards of personal data privacy protection, in complying with the requirements of the [Personal Data (Privacy) Ordinance](https://www.pcpd.org.hk/english/files/pdpo.pdf) (PDPO). In doing so, we will ensure compliance by our staff with the strictest standards of security and confidentiality.
+
+_Personal Information Collection:_
+
+The UGC does not collect any personally identifiable information from the visitors to our website. The Office of Government Chief Information Officer, our hosting service provider, creates webserver logs which contain the IP address of visitors to each webpage, which may identify the location of visitors who have a fixed IP address on their machine. These addresses are collected solely for the purpose of identifying the type of visitors that different webpages attract and are only made available to UGC in the form of statistical tables. 
+
+The UGC has also made an effort to make the personal data information listed on our website as accurate as possible. If you wish to request access to or correction of your personal data, you may send in the [Data Access Request Form](http://www.pcpd.org.hk/english/publications/files/Dforme.pdf) (No.OPS003 issued by the Privacy Commissioner for Personal Data) and send it by mail to us at UGC, 7/F., Shui On Centre, 6-8 Harbour Road, Wanchai, Hong Kong. 
+
+When you visit certain services of our website (e.g. the Higher Education Forum), we collect general information about your visits by means of "cookies". This information is only used for analysing your preferences in relation to the service we provide on our server. You have a choice not to accept the cookie if you have set up your browser to alert you in the event that a cookie is being sent to your computer.
+
+If you want to post a message or a reply on the Higher Education Forum, you have to register as a user with an e-mail address in order for us to authenticate your identity. Unless permitted or required by law, the UGC will not disclose your personal data to any third parties without your prior consent. The UGC retains personal data so long as the data are still required for the purpose of authentication as mentioned above.  
+
+
+If you have any queries about our Privacy Policy and Practices, please e-mail them to [ugc@ugc.edu.hk](mailto:%20ugc@ugc.edu.hk).  
+
