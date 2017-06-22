@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2016-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160926004025id_/http%3A//christianscience.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622020959id_/http%3A//www.christianscience.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Christian Science
 
-**Last Updated: September 8, 2016**
+**Last Updated: May 15, 2017**
 
-This Privacy Policy is part of the [Terms of Service](https://web.archive.org/terms-of-service "Terms of Service") for ChristianScience.com (the “Site”), owned and operated by The First Church of Christ, Scientist in Boston and its affiliate The Christian Science Publishing Society (“TFCCS”). By using the Site, you consent to the collection and usage of information as described in this Privacy Policy.
+This Privacy Policy is part of the [Terms of Service](https://web.archive.org/legal/terms-of-service "Terms of Service") for ChristianScience.com (the “Site”), owned and operated by The First Church of Christ, Scientist in Boston and its affiliate The Christian Science Publishing Society (“TFCCS”). By using the Site, you consent to the collection and usage of information as described in this Privacy Policy.
 
 Your privacy is important to us. Therefore, we are committed to respecting your privacy and the confidentiality of your personal data. This Privacy Policy is designed to assist you in understanding how we use and safeguard the information you provide in using the Site.
 
-In this Privacy Policy, “Terms” means our [Terms of Service](https://web.archive.org/terms-of-service "Terms of Service"). Other capitalized terms have the meanings given them in the Terms or in this Privacy Policy.
+In this Privacy Policy, “Terms” means our [Terms of Service](https://web.archive.org/legal/terms-of-service "Terms of Service"). Other capitalized terms have the meanings given them in the Terms or in this Privacy Policy.
 
 #### What information do we collect?
 
 “Personal Data” means the following types of information that we may gather, store, and use relating to you in order to provide you with access to the Site:
 
-  * “Registration Information” means any information provided when you voluntarily subscribe through the Site to email newsletters, bulletins and other communications, including, but not limited to, username, password, and email address, or register for use of the Site if applicable.
+  * “Registration Information” means any information provided when you voluntarily subscribe through the Site to email newsletters, bulletins and other communications, including, but not limited to, username, password, and email address, or register for use of the Site or one of the online shops if applicable.
   * “Customer Service Communications” means any information that you report to us about the operation of the Site, including bug reports or requests for enhancements.
   * “Log Information” means information that your browser sends when you use the Site. Our servers automatically record basic information that your browser sends. These server logs may include information such as your message, Internet Protocol address, other addressing information, the date and time of your request and an authentication token used to validate your identity and that of your computer.
 
@@ -22,15 +22,16 @@ In this Privacy Policy, “Terms” means our [Terms of Service](https://web.arc
 
 #### How do we use this information and for what purpose?
 
-Our primary purpose in collecting information is to provide you with an efficient user experience. We may use the information defined in this Privacy Policy to:
+Our primary purpose in collecting information is to provide you with an efficient user experience. We may also use the information defined in this Privacy Policy to:
 
   * inform you about Site updates
-  * inform you about online events, promotional offers, activities, and products (When you provide TFCCS your email address, such as when you subscribe to a newsletter, you agree that TFCCS may use your email to send you messages about online events, promotional offers, activities, and products of this Site, TFCCS, and its affiliates. Such emails include a link to unsubscribe. You can also revoke your consent at any time by email to [info@christianscience.com](mailto:info@ChristianScience.com ":info@christianscience.com").)
-  * provide the services and any customer support you request or other services as described when we collect information
+  * inform you about online events, promotional offers, activities, and products (When you provide TFCCS your email address, such as when you subscribe to a newsletter, you agree that TFCCS may use your email to send you messages about online events, promotional offers, activities, and products of this Site, TFCCS, and its affiliates. Such emails include a link to unsubscribe. You can also revoke your consent at any time by email to [info@christianscience.com](mailto:info@christianscience.com ":info@christianscience.com").)
+  * provide the services, receipts, and any customer support you request or other services as described when we collect information
   * resolve disputes, and troubleshoot problems
-  * enforce our [Terms](https://web.archive.org/terms-of-service "Terms of Service")
+  * enforce our [Terms](https://web.archive.org/legal/terms-of-service "Terms of Service")
   * customize, measure, and improve the Site, content and layout
   * compare information for accuracy, and verify your identity.
+  * combine with other information, including personal information, obtained from your other interactions with TFCCS and its service providers, including your subscriptions, product purchases, website visits, or other communications. We may use this information to personalize the content and advertising that you see on the Site or our other sites, and to share your information with any of our affiliates or service providers in order to provide the Site or advertising or to communicate with you on our behalf.
 
 
 
@@ -38,13 +39,13 @@ Additionally we may use your information as described below.
 
 #### Registration information
 
-Generally, we do not ask users to register to use the Site. However, for some of the activities and services available on the Site, we do ask for Registration Information in order to verify your identity and to enable your use of those aspects of the Site. If you choose to purchase a product or service available through the Site, we use third-party banking organizations and other providers of payment services to bill you, and in that case, you are providing the necessary billing information directly to such provider(s).
+Generally, we do not ask users to register to use the Site. However, for some of the activities and services available on the Site, including the ability to shop, we do ask for Registration Information in order to verify your identity and to enable your use of those aspects of the Site. We use third-party banking organizations and other providers of payment services to process any payments, and in that case, you are providing the necessary billing information directly to such provider(s).
 
 We respect the privacy of personal email accounts, and we will store your email addresses just as securely as other Personal Data. Your Registration Information will not be passed to third parties for their marketing purposes without your express permission. We may use email to keep you up to date with news about the Site and other products we offer. You may opt-out of receiving promotional email messages through the link provided in such communications. However, we reserve the right to use email to notify you of any Site issues or of any legal assertions of rights violations related to your use of the Site.
 
 #### User submissions
 
-You agree to TFCCS's use of your username and other identifying information included with your submissions of content for publication (e.g., testimonies submitted to the Wednesday Online Church service), as provided by you, according to our [Terms](https://web.archive.org/terms-of-service "Terms of Service").
+You agree to TFCCS's use of your username and other identifying information included with your submissions of content for publication (e.g., testimonies submitted to the Wednesday Online Church service), as provided by you, according to our [Terms](https://web.archive.org/legal/terms-of-service "Terms of Service").
 
 #### Customer service communications
 
@@ -58,7 +59,7 @@ We will use this server information to assist us in providing you with a quality
 
 Except as provided below, we shall not sell, rent, trade or otherwise transfer any Registration Information to any third party without your express permission, unless we are obliged to do so in order to comply with applicable laws, regulatory requests, and orders from competent authorities.
 
-TFCCS may supply products, subscriptions, services, and other Content appearing on or through this Site through third party service providers. Subscriptions and product sales are processed by third parties on behalf of TFCCS, and such third parties collect and store billing and credit card information solely to process these purchases. This information will not be used for any other reason except as instructed by TFCCS. Registration Information that you provide to TFCCS may be sent to service providers in order to deliver the service(s) provided by them; similarly, personal information (except credit card information) that you provide to those sites may be sent to us in order to operate the Site or otherwise use according to this Privacy Policy and our Terms.
+TFCCS may supply products, subscriptions, services, and other Content appearing on or through this Site through third party service providers. Subscriptions, product sales, and donations are processed by third parties on behalf of TFCCS, and such third parties collect and store billing and credit card information solely to process these transactions. This information will not be used for any other reason except as instructed by TFCCS. Registration Information that you provide to TFCCS may be sent to service providers in order to deliver the service(s) provided by them; similarly, personal information (except credit card information) that you provide to those sites may be sent to us in order to operate the Site or otherwise use according to this Privacy Policy and our Terms.
 
 We may collect anonymous, aggregated data from our Site and provide it to our service providers to help us with market research and statistical purposes. TFCCS may use such information to help determine ways to improve the Site. TFCCS reserves the right to publish non-personally identifiable, summary information regarding Site visitors for informational and promotional purposes. Please note that this is not personal information, only general summaries of the activities of our visitors and customers.
 
@@ -75,7 +76,7 @@ Notwithstanding anything to the contrary in this Privacy Policy or the Terms, we
 
 #### How do we protect your personal information?
 
-We take reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information, and do not retain it any longer than permitted in order to perform our services or as required under relevant law. You should be aware that Internet communications are not always secure. Despite our best efforts, no security measures are completely impenetrable. Therefore, we cannot promise you that third parties cannot access your Registration Information, and you agree we are not liable for any such disclosure(s).
+We take reasonable administrative, technical, and physical security measures to protect against the unauthorized access, destruction or alteration of your information, and do not retain it any longer than permitted in order to perform our services or as required under relevant law. You should be aware that Internet communications are not always secure. Despite our best efforts, no security measures are completely effective. Therefore, we cannot promise you that third parties cannot access your Registration Information, and you agree we are not liable for any such disclosure(s).
 
 Where you are required to use a password or you are given access to an account for any service on our Site, you are responsible for maintaining the confidentiality of such password and account designation. You should not share your Registration Information (such as your username or password) and should exit from your account after each session. You are responsible for all activities that occur under your account.
 
@@ -125,4 +126,4 @@ TFCCS reserves the right to change this Privacy Policy at any time. Please check
 
 #### What rights do you have and how can you contact us?
 
-If you would like to exercise your right to view, correct, complete, or remove your Personal Data, please contact us at [info@christianscience.com](mailto:info@ChristianScience.com "info@christianscience.com"). Upon verification of your identity, we will attempt to quickly fulfill your request.
+If you would like to exercise your right to view, correct, complete, or remove your Personal Data, please contact us at [info@christianscience.com](mailto:info@christianscience.com "info@christianscience.com"). Upon verification of your identity, we will attempt to quickly fulfill your request.
