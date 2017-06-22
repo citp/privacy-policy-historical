@@ -1,57 +1,26 @@
-> *The following text is extracted and transformed from the nabard.org privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505134725id_/http%3A//nabard.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabard.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622120535id_/https%3A//www.nabard.org/ftrcontent.aspx%3Fid%3D537) for the most accurate reproduction.*
 
-# National Bank for Agriculture and Rural Development
+# NABARD - National Bank For Agriculture And Rural Development
 
-   
----  
-   
-The information which we collect and store during normal use of the site is used to monitor use of the site and to help its further development. Such use does not result in any personally identifiable data being collected or stored. 
+**PRIVACY POLICY**
 
-A number of pages in this website give you the option to submit personal information to the Company. All such communications are not confidential. Any application, request or enquiry you make, may be passed or made available to Group affiliates, some of which may be based in countries that do not have data protection laws. All Group affiliates are required to comply with an internal Privacy Policy which requires that steps are taken to protect your personal information and for it only to be used for the purpose(s) for which it was submitted. 
+As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.
 
-By submitting your personal information through this website, you shall be consenting to it being processed in the manner described above by Group affiliates. 
+ **SITE VISIT DATA**
 
-If you have submitted personal information through this website and wish us to cease using it for the purposes submitted, please email us.  
-  
-   
-   
-   
-**Use of cookies**  
-   
-  
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. 
+This website records your visit and logs the following information for statistical purposes – your server’s address; the name of the top-level domain from which you access the Internet (for example, .gov, .com, .in, etc.); the type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site.  
+We will not identify users or their browsing activities, except when a law enforcement agency may exercise a warrant to inspect the service provider’s logs.
 
-A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
+ **COOKIES**
 
-When you visit our website we send you a cookie. Cookies may be used in the following ways: 
+A cookie is a piece of software code that an Internet website sends to your browser when you access information at that site. This site does not use cookies.
 
-To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly.  
+ **E-MAIL MANAGEMENT**
 
-To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way. 
+Your e-mail address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your e-mail address will not be used for any other purpose, and will not be disclosed, without your consent.
 
-Two types of cookies may be used on this website; "session cookies", which are temporary cookies that remain in the cookie file of your browser until you leave the site, and "persistent cookies", which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie).   
-  
-   
-**Disabling/Enabling Cookies**  
-   
-  
-You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. 
+ **COLLECTION OF PERSONAL INFORMATION**
 
-There are a number of ways to manage cookies. If you use different computers in different locations you will need to ensure that each browser is adjusted to suit your cookie preferences. 
+If you are asked for any other Personal information, you will be informed how it will be used if you choose to give it. If any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.
 
-Some modern browsers have a feature that will analyse website privacy policies and allow a user to control their privacy needs. These are known as "P3P" features (Privacy Preferences Platform). 
-
-You can easily delete any cookies that have been installed in the cookie folder of your browser. For example, if you are using Microsoft Windows Explorer: 
-
-Open 'Windows Explorer'   
-Click on the 'Search' button on the tool bar    
-Type "cookie" into the search box for 'Folders and Files'    
-Select 'My Computer' in the 'Look In' box    
-Click 'Search Now' Double click on the folders that are found    
-'Select' any cookie file    
-Hit the 'Delete' button on your keyboard    
-If you are not using Microsoft Windows Explorer, then you should select "cookies" in the "Help" function for information on where to find your cookie folder. 
-
-The Interactive Advertising Bureau is an industry body, which develops standards and guidelines to support online business processes.  Its website at www.allaboutcookies.org gives further details about cookie, web beacons and suchlike, and explains how they be managed and disabled.   
-  
- 
+Note: The use of the term “Personal Information” in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
