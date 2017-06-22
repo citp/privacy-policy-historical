@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222021102id_/http%3A//www.rubiconproject.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubiconproject.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623014653id_/http%3A//rubiconproject.com/privacy) for the most accurate reproduction.*
 
 # Rubicon Project Privacy Dashboard and Opt-Out - Rubicon Project
 
