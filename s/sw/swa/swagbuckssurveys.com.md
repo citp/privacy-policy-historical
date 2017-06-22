@@ -1,220 +1,164 @@
-> *The following text is extracted and transformed from the swagbuckssurveys.com privacy policy that was archived on 2015-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150623161020id_/http%3A//swagbucks.com/%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagbuckssurveys.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622161951id_/https%3A//www.swagbucks.com%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Swagbucks
+# Prodege Privacy Policy - Prodege.com
 
-Last revised: February 06, 2013 
+**Prodege Privacy Policy**
 
-Prodege LLC (the "Company") owns and operates a number of different sites on the Web, including without limitation Swagbucks.com (each one or all together referred to as "Swagbucks.com Sites"). The Company is strongly committed to protecting the privacy of its user community. The intent of this privacy policy ("Privacy Policy") is to detail the information the Company might gather about individuals who visit Swagbucks.com Sites, how that information is used, and our disclosure practices. Please note that this Privacy Policy applies only to websites owned and operated by the Company, and not to the sites of other companies or organizations to which we provide links. By using any Swagbucks.com Sites, you signify that you have read, understand and agree to be bound by this Privacy Policy as well as our [Terms of Use](https://web.archive.org/g/terms), which are incorporated by reference herein to this Privacy Policy.
+This Privacy Policy was last updated on: July 1, 2016
 
-  
+**NOTICE OF ARBITRATION PROVISIONS:  
+Your use of the Prodege Sites and Features and our Services (as defined below) is subject to binding individual arbitration of any disputes which may arise, as provided in Paragraph 11 of our **[ **Terms of Use**](http://www.prodege.com/terms) **  (**[ **http://www.prodege.com/terms**](http://www.prodege.com/terms) **). Please read the arbitration provisions carefully and do not use any of the Prodege Sites and Features or our Services if you are unwilling to arbitrate any disputes you may have with us (including without limitation any disputes relating to this Privacy Policy or our privacy practices) as provided in the Terms of Use.**
 
+Prodege, LLC (together with its affiliates, the “Company”) owns and operates a number of different websites, mobile apps, and interactive services, including without limitation Swagbucks.com, MyPoints.com, MyGiftCardsPlus.com, SodaHead.com, and others (collectively, the “Prodege Sites”). This privacy policy (“Privacy Policy”) applies to the Prodege Sites and to all of the features, mobile applications, emails, online services and other functionalities (collectively, the “Features”) available via or related to the Prodege Sites, whether accessed via a computer, mobile device, or otherwise (collectively, the “Prodege Sites and Features”) and the services available on or through the Prodege Sites and Features (the “Services”). This Privacy Policy only covers information collected by the Company through the Prodege Sites and Features and our Services, and does not cover any information received or collected offline by the Company (unless specifically stated) or collected by any unrelated websites or companies to which we may provide links.
 
-## Your Consent for Our Collection, Use and Disclosure
+We are concerned about your privacy and want you to be familiar with how we collect, use and share your information. This Privacy Policy outlines the type of information that we collect and receive from you while you are using our Services. Additionally, this Privacy Policy identifies the ways in which we process, and sometimes share, such information and what control and choices you have with regard to the collection and use of your personal information. Please review this Privacy Policy carefully, especially before providing any personal information through the Prodege Sites and Features. Our Prodege Sites and Features are operated in and controlled from the United States of America unless otherwise stated. If you do not wish to have us collect, use and share information as described in this Privacy Policy, please do not use the Prodege Sites and Features or our Services.
 
-Typically, we will seek consent for the collection, use or disclosure of your personal information at the time of collection. In certain circumstances, consent may be sought after the information has been collected but before use (for example, when we want to use information for a purpose not previously identified). The form of consent that we seek, including whether it is express or implied, will largely depend on the sensitivity of the personal information and the reasonable expectations of the individual in the circumstances.
+By using any of the Prodege Sites and Features or our Services, and/or clicking to “Accept” or otherwise acknowledging or consenting to this Privacy Policy where that option is made available to you, you agree to be bound by this Privacy Policy, as well as our [Terms of Use](http://www.prodege.com/terms) (<http://www.prodege.com/terms>). If you do not agree to this Privacy Policy or our Terms, please do not use any Prodege Sites or Features or our Services.
 
-You may withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. If you wish to withdraw your consent at any time, please contact us as set out below. We will inform you of the implications of withdrawing consent.
+Please don’t hesitate to contact us with any questions regarding our Privacy Policy as provided in the “Contact Us” section below.
 
-We will not, as a condition of the supply of a product or service, require you to consent to the collection, use or disclosure of information beyond that required to fulfill the explicitly specified and legitimate purposes for which the information is being provided.
+TABLE OF CONTENTS:
 
-  
+  * Personal Information We Collect
+  * Other User Information We Collect
+  * Information We Receive from Third Parties
+  * Friend Referrals
+  * Community Features and User Content
+  * Third-Party Links
+  * Advertising Networks and Analytics Companies
+  * Cookies and Similar Technologies
+  * Social Features
+  * Sharing
+  * Business Transitions
+  * Updating Your Information; Choice/Opt-out
+  * Notification of Changes
+  * Children’s Privacy
+  * Security
+  * Location of Processing and Applicable Law
+  * Your California Privacy Rights (California Residents only)
 
 
-## What Personal Information We Collect
 
-When you sign up for the Swagbucks.com Sites you will be required to share information that identifies you personally. "Personal Information" refers to any information that lets us know the specifics of who you are and which can be used to identify, contact or locate you. Examples of Personal Information include, without limitation, your first name together with your last name, your credit card number, your mailing address and/or email address, and your phone number.
+_Personal Information We Collect_
 
-  
+When you visit or use any of the Prodege Sites and Features or our Services, you may be required to share information that identifies you personally. “Personal Information” refers to any information that can reasonably be used to identify, contact or locate you. Examples of Personal Information may include, without limitation, your name, your location, your credit card number, your email address, your mailing address, and your phone number.
 
+Generally, we collect Personal Information when you provide it to us by visiting the Prodege Sites and Features or using our Services. This may include registering for any account with us, filling out surveys, joining a mailing list, corresponding with us, entering one of our sweepstakes or contests, choosing to submit testimonials, stories, photos or the like, or otherwise volunteering or providing information about yourself.
 
-## When We Collect Personal Information
+We may use your Personal Information and other information we collect about you in order to provide you with our Services, to improve the Prodege Sites and Features, to provide advertising, content, surveys, offers, promotions, and rewards, and for other marketing, administrative and general business purposes as described in this Privacy Policy.
 
-Generally, we collect Personal Information when you provide it to us by signing up on Swagbucks.com Sites, filling out surveys or questionnaires, joining our mailing list, corresponding with us, entering one of our sweepstakes or contests, choosing to submit testimonials, stories, photos or the like to the Swagbucks.com Sites, or otherwise volunteering information about yourself.
+If you don’t provide us with your Personal Information, we will generally be unable to provide you with our Services and you will be unable to use the Prodege Sites and Features.
 
-The Company usually collects Personal Information so that it can provide you with the Company's goods or services. The Company may also use your Personal Information for other reasons, including updating you on the Company's services, news and special offers (unless you choose to "opt-out" as described in the "Choice/Opt-out" section below).
+_Other User Information We Collect_
 
-If you don't provide some of the Personal Information the Company asks for (e.g. your name, your mailing address and/or email address), it may be unable to provide you with the Company's goods or services.
+We may collect certain other information each time you visit Prodege Sites and Features or use our Services so we can improve the overall quality of your online experience. This kind of information is not ordinarily considered personally identifying information. For example, we collect or may collect your IP address, device ID, referrer data, and browser and platform type. You do not have to register on any of the Prodege Sites and Features or provide any Personal Information to us before we can collect this information. We may assign an ID number to your registration and link additional data to that ID number, such as the date and time you visited, the information you provide, and the links you choose to click. Like most standard website servers, we use log files to collect and store this user information. We may analyze and use this information for a variety of purposes, including operating and improving the Prodege Sites and Features or our Services, collecting further information about and learning from user behavior and trends, and gathering demographic information. Furthermore, we may combine or link information we collect from or about you offline with information we collect from or about you online through the Prodege Sites and Features or your use of our Services.
 
-  
+You may choose to install and use optional browser extensions, add-ons or similar plug-in technologies (the “Extensions”) which may also collect and use your information in a variety of ways. For example, the Swagbucks Swagbutton and MyPoints Score! Features are Extensions that allows you to shop directly with our merchant partners and earn rewards. If you install Extensions, we may be able to determine automatically when you are visiting one of our merchant partners’ websites where our rewards may apply. In addition, to assist in rewarding you for purchases made through our shopping-rewards features, third-party affiliate or ad network cookies or other similar technologies (discussed below) may be placed on your computer when you install and use an Extension or when you click on an affiliate or ad network link within a shopping-rewards feature, your browsing activity on our merchant partners’ websites (and, with your consent, other websites) may be tracked, and that information may be shared with our advertisers, merchant and survey partners, or others in order to provide you with advertising, content, surveys, offers, promotions, and rewards, or for other marketing, administrative and general business purposes.
 
+We may also use GPS or similar geo-location technology to determine the city and/or geo-coordinates of where you are located, including when you are using a mobile device. As noted in the section on “Sharing” below, we may use and share your location information with our advertisers, merchant and survey partners, or others in order to provide you with advertising, content, surveys, offers, promotions, and rewards, or for other marketing, administrative and general business purposes, based on your location.
 
-## Anonymous User Information
+In addition, our mobile applications may collect, among other things, certain information automatically, including, but not limited to the type of mobile device you use, your mobile device’s unique device identifier (UDID), the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the mobile application.
 
-The Company collects or may collect some information each time you visit Swagbucks.com Sites so we can improve the overall quality of your online experience. We collect or may collect your IP address, referral data, and browser and platform type. You do not have to register on the Swagbucks.com Sites or provide any Personal Information to us before we can collect this anonymous information. The Company assigns an anonymous ID number to your requests and links the following additional data to that anonymous ID number: the date and time you visited, your search terms, and the links you choose to click. Like most standard Web site servers, we use log files to collect and store this anonymous user information. The Company analyzes the information to determine trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
+_Information We Receive from Third Parties_
 
-Such aggregated anonymous information is used in our market research surveys, to record statistics behind special offers, our "shop & earn" promotions, electronic recycling and our polls.
+We may also receive and supplement the information we directly collect from or about you with information from third parties. If you are on a third party website or service and you opt-in to receive information from us, the third party may forward to us your e-mail address and other information about you so that we may contact you as requested. In addition, we may receive information from advertisers, merchant or survey partners, and others to ensure that you properly receive any earned rewards or for other marketing, administrative or general business purposes. We may also supplement and combine the information we collect about you with outside records from third parties in order to enhance our ability to provide you with advertising, content, surveys, offers, promotions and rewards, and for other business purposes.
 
-  
+_Friend Referrals_
 
+We may provide you with an opportunity to invite your friends, family and acquaintances (“Friends”) to use various Prodege Sites and Features. If you elect to use our referral service for informing a Friend about any of the Prodege Sites and Features, you will provide us with your Friend’s name and email address. Using our referral service permits us to automatically send the Friend one or more emails or other communications, on your behalf, inviting them to visit or register for the Prodege Sites and Features (which invite may include additional subsequent reminders and communications). You warrant and represent that you have your Friend’s consent to provide us with his or her information for this purpose, and that you will not give us referral information for any person not permitted to use the Prodege Sites and Features, including, without limitation a child under the age of 13, a person whose account has previously been suspended or deactivated, or a person residing or located in a territory where use of the Prodege Sites and Features is not authorized.
 
-## Tell-A-Friend
+_Community Features and User Content_
 
-If you elect to use our referral service for informing a friend about any of the Swagbucks.com Sites, we ask you for your friend's name and email address. The Company will automatically send the friend a one-time email inviting them to visit the Swagbucks.com Sites. The Company does not store the information related to your friends and the one-time email sent pursuant to your input will be our only contact with that person for such input.
+The Prodege Sites and Features may provide you the opportunity to participate in and post text (including questions, comments, and suggestions), images, audio, videos, or other content (collectively, “User Content”) publicly through our blogs, chat rooms, forums, interactive features, third-party social networking services or other communication functionality (“Community Features”). Please note that certain information, such as your username and profile picture, may be publicly displayed on the Prodege Sites and Features along with your User Content. Your User Content may also contain metadata, which may contain information about or relating to you, that we may also collect, share and use.
 
-  
+Note that anything you post through Community Features is public — others will have access to that User Content and may use it or share it with third parties. If you choose to voluntarily disclose Personal Information in the User Content, that information will be considered public information and the protections of this Privacy Policy will no longer apply to that information. In addition, by posting through our Community Features, you are agreeing that we may use your User Content and excerpts from your User Content in connection with our advertising, marketing, and promotional activities.
 
+_Third-Party Links_
 
-## Correspondence
+The Prodege Sites and Features contain links to other websites that we do not own. In addition, because aspects of the Prodege Sites and Features include third-party offers for goods, services and the like, third parties may collect your information based on your interaction with those offers. Third-party privacy practices are not covered by this Privacy Policy, and we are not responsible for the privacy practices of such third parties. We encourage our users to be aware of and to read the privacy statements and similar disclosures of any third-party website that collects personally identifiable information before using or disclosing any personally identifiable information to such website.
 
-If you contact the Company, we may keep a record of that correspondence and we may collect your email address for archival purposes but will not use, transfer or sell your email address except as set forth in this Privacy Policy.
+_Advertising Networks and Analytics Companies_
 
-  
+We may allow other companies, commonly called third-party ad servers or advertising networks (collectively, “ad networks”), to display advertisements on the Prodege Sites and Features. These advertisements may be based on your interests as reflected in your use of the Prodege Sites and Features or our Services, as well as your use of other websites and services. Some of these ad networks may place a persistent cookie or other similar technology on your computer, allowing them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you see their advertisements online and determine which ads you click on, so that they may provide you with advertising, content, surveys, offers, promotions, and rewards that they believe will be of most interest to you. We do not have access to or control over the cookies or other similar technologies that may be placed by these parties on your computer, nor do we have responsibility for these parties’ privacy policies or information collection practices. Likewise, we may also work with consumer data resellers that buy and/or sell information to other companies for multiple purposes including offering products and services that may interest you, and we use certain third-party analytics providers to help us understand how you use the Prodege Sites and Features or our Services, and these companies may set their own cookies and similar technologies on your computer or mobile device. These and other third parties may collect information about you, including but not limited to your online activities over time and across different websites and services, when you use the Prodege Sites and Features or our Services, or other online websites and services. Each of these third parties has its own privacy policy that may differ from this Privacy Policy.
 
+We may share your Personal Information and other information with our advertisers, merchant and survey partners, and others for the purpose of making it easier for you to sign up for their surveys, promotions and offers, validating your communications or transactions with them, authenticating and/or validating your identification, crediting you with any earned rewards, and other business purposes. Additionally, we may share information with our service providers and other third parties to assist us in delivering content, advertising, surveys, offers, promotions and rewards to you, both on the Prodege Sites and Features and elsewhere online, and for other marketing, administrative and general business purposes.
 
-## Third Party Links
+_Cookies and Similar Technologies_
 
-The Swagbucks.com Sites contain links to other sites on the Web. Please be aware that the Company is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave the Swagbucks.com Sites and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies solely to information collected by Swagbucks.com Sites.
+In addition to the ad networks, we may set (or allow third parties to set) and access cookies and other similar technologies, such as web beacons and embedded scripts, on your computer. A cookie is a small data file that a website may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed or disabled by following the web browser help-file directions for your particular browser. We also use Flash cookies, which are data files placed on a computer or mobile device via the Adobe Flash plug-in (or other compatible Flash plugin) that may be built-in to or downloaded by you. Flash cookies may be used for various purposes, including, without limitation, enabling a Flash feature and remembering your preferences. For more information about Flash and the privacy choices Adobe offers, visit <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>. Web beacons and embedded script are invisible images or other programming code, which may be used on the Prodege Sites and Features for a variety of analytical purposes and to help us provide a better and more customized user experience, including, without limitation, providing personalized features and preferences to you within the Prodege Sites and Features; in doing so, we may link the information we collect from cookies and other similar technologies with your Personal Information and may track your browsing activity on our merchant partners’ websites in order to provide you with advertising, content, surveys, offers, promotions and rewards, and for other marketing, administrative and general business purposes.
 
-  
+Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. To opt-out of certain cookies and for more information, please visit <http://www.aboutads.info/choices> and/or <http://www.networkadvertising.org/managing/opt_out.asp>. Not accepting or opting out of our cookies may make certain features of the Prodege Sites and Features and our Services unavailable to you.
 
+Note that your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. At present, we do not believe that there is a consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, we currently do not alter our practices when we receive a “Do Not Track” signal from a user’s browser. To find out more about “Do Not Track,” you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
-## Third Party Advertisements
+_Social Features_
 
-The Swagbucks.com Sites may contain links to various other sites that are not owned by the Company. While the Company makes every effort to ensure that its advertisers post clear and complete privacy policies and observe appropriate data practices, each of these sites has a privacy policy that may differ from that of the Company. The privacy practices of other websites and companies are not covered by this Privacy Policy. Please be aware that the Company is not responsible for the privacy practices of such other sites. The Company encourages you to be aware when you leave the Swagbucks.com Sites and to read the privacy statements of each and every website that collect personally identifiable information.
+Certain functionality on the Prodege Sites and Features may permit interactions that you initiate between the Prodege Sites and Features and a third-party website or service, such as Facebook and Twitter (“Social Features”). Examples of Social Features include enabling you to “like” or “share” content from the Prodege Sites and Features with other websites or services; to log-in to the Prodege Sites and Features using your username and password for a third-party website or service; to transmit content to the Prodege Sites and Features from your account on a third-party website or service; and to otherwise connect the Prodege Sites and Features to a third-party website or service.
 
-The Company may allow other companies, called third party ad servers or ad networks, to display advertisements on the Swagbucks.com Sites or in Swagbucks.com emails to you. Some of these ad networks may place a persistent cookie on your computer. Doing this allows them to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. The Company does not have access to or control over the cookies that may be placed by these parties on your computer, and has no control over these parties' privacy policies or information collection practices.
+If you choose to use Social Features, information you post or provide access to will be shared with that third-party website or service and others, and may be publicly displayed on the Prodege Sites and Features or by the provider of the Social Feature that you use. Similarly, if you post information on a third-party platform that references any of the Prodege Sites and Features (e.g., by using a hashtag associated with any of the Prodege Sites and Features in a tweet or status update), your post may be published on the Prodege Sites and Features in accordance with the terms of the third-party website or service. Also, both we and the third party may have access to certain information about you and your use of the Prodege Sites and Features and the third-party website or service. In addition, we may receive information about you if other users of a third-party website give us access to their profiles and you are one of their “connections,” or information about you is otherwise accessible through your connections’ web pages, profile pages, or similar pages on a social networking or other third-party website or service.
 
-Except as specifically set forth in this Privacy Policy, the Company does not to provide your Personal Information to its advertisers unless you make the choice to share it with them. The Company occasionally passes Personally Identifiable Information via a secure interface to certain of its advertisers for the purpose of making it easier for you to sign up for their offers. However, this information is only to be used by the advertiser if you agree to submit the information to the advertiser for the purposes of completing an offer.
+The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third-party website or service via Social Features remains subject to the third party’s privacy practices, including whether the third party continues to share information with us, the types of information shared, and your choices with regard to what is visible to others on that third-party website or service.
 
-In the event that the Company is unable to capture your transaction detail, the Company may need to validate your transaction with an advertiser or merchant partner to ensure that your account is credited. The validation information shared is used solely for this purpose and may include your first name, last name, email address, mailing address or date of birth. The Company will require that these third parties comply with the information practices set forth in this Privacy Policy and that the information not be shared or used for any other purpose.
+_Sharing_
 
-The Company may share non-personally identifiable information collected via the service in aggregate, anonymous form with advertisers or other third parties so that they may better evaluate what products and services are most appealing to different segments of the Company's user base. The Company does not disclose your first name, last name, address, email address, or any other Personal Information to these third parties unless you give your express consent.
+In addition to the types of sharing described throughout this Privacy Policy, we may disclose your Personal Information and other information as described in this section.
 
-  
+We may disclose your Personal Information when required by law, or where we have a good-faith belief that such action is necessary to comply with a judicial or administrative proceeding, a criminal investigation, a court order, or legal process served on us. We may also share your Personal Information at the request of governmental authorities conducting an investigation, or if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of the Terms of Use or Privacy Policy for any of the Prodege Sites and Features or our Services. We may also use IP addresses or other device identifiers to identify users, and we may do so in cooperation with copyright owners, Internet service providers, wireless service providers, or law enforcement agencies in our discretion. These transfers and disclosures may occur without notice to you.
 
+We may also share your Personal Information with our affiliates for administrative, marketing and other business purposes, and with third-party service providers in connection with the service providers’ performance of services to, or on behalf of, the Prodege Sites and Features or our Services. Such services include, for example, customer support, collecting and analyzing information about usage of the Prodege Sites and Features or our Services, delivering advertising, content, surveys, offers, promotions and rewards to you on the Prodege Sites and Features or elsewhere online, processing payments, and performing other administrative, marketing and other business services.
 
-## Cookies
+In addition, if you use our mobile applications, we may share your current location with our partners so that we or our partners may provide you with advertising, content, surveys, offers, promotions, and rewards, and for other business purposes, based on your location. Please see the section on “Updating Your Information; Choice/Opt-Out” below for information about how you can opt out of such sharing.
 
-The Company may set and access cookies on your computer. A cookie is a small data file that a Web site may send to your browser and which may then be stored on your system. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. We use cookie and web beacon technology to track which pages on the Swagbucks.com Sites our visitors view and which Web browsers our visitors use. We may also use cookies to help us provide personalized features and preferences to you within the various Swagbucks.com Sites in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. We then track where that number shows up on our site.
+We may share aggregate or individualized information that may include your use of the Prodege Sites and Features or our Services and our merchant partners’ websites, with our advertisers, merchant and survey partners, and others for the purpose of providing you with advertising, content, surveys, offers, promotions, and rewards, and for other marketing, administrative and general business purposes, and we may also receive from ad networks information about third-party websites that you have visited.
 
-Cookies help us track your responses to our market research surveys, to record statistics behind special offers, our "shop & earn" promotions, electronic recycling and our polls, however, we will never share such personally identifiable information with third parties except as set forth below under "Sharing."
+The information about you that we share with or receive from third parties may generally be used for marketing, administrative and other business purposes.
 
-Most web browsers automatically accept cookies, but you can usually configure your browser to prevent this. Not accepting cookies may make certain features of the Swagbucks.com Sites unavailable to you, though we will make every effort to ensure that users who have disabled cookies are denied access only to those portions of the website that legitimately require cookies for their functionality.
+_Business Transitions_
 
-Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these cookies and for more information, please visit [aboutads.info/choices](http://www.aboutads.info/choices) and/or [networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+In the event the Company (or any of its affiliates) goes through a business transition, such as a merger, consolidation, restructuring, acquisition by another company, sale or assignment of rights or assets or a portion thereof, or other company change, we may transfer users’ information, including Personal Information, and other business data in connection with that business transition (e.g., to a subsequent owner, co-owner, or operator of any of the Prodege Sites and Features, or any affiliates and trusted agents, service providers, or partners of the foregoing), including during the course of any due diligence process.
 
-  
+_Updating Your Information; Choice/Opt-out_
 
+You are responsible for maintaining the accuracy of any information you submit to us, such as your contact information.
 
-## Sharing
+You may opt out of receiving marketing e-mails by following the opt-out instructions provided to you in those e-mails, by visiting “My Settings”, “Settings” or similar link on the relevant Prodege Site, or by contacting us as provided in the “Contact Us” section below. Please note that as long as you remain registered with or a user of any of the Prodege Sites and Features or our Services, even if you opt-out of marketing emails, you may still receive administrative emails, such as notices about service and status changes and changes to our Terms of Use or Privacy Policy.
 
-  
+If you sign up to receive SMS or MMS messages from the Prodege Sites and Features, you may unsubscribe from any SMS or MMS messages received by replying “STOP”.
 
+If you do not wish to receive advertisements, content, surveys, promotions, offers, or rewards from us which would be sent to you by virtue of your having installed the Extensions, you should not install or should un-install such Extensions. In addition, you may remove or disable cookies as described above in the section on “Cookies and Similar Technologies” and you may clear your browser history in accordance with the system settings of your web browser.
 
-Though we make every effort to preserve your privacy, we may need to disclose Personal Information when required by law, where we have a good-faith belief that such action is necessary to comply with a judicial proceeding or administrative legal, a criminal investigation, a court order, or legal process served on Swagbucks.com Sites. We may also share your Personal Information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Swagbucks.com Sites' terms of use, or as otherwise required by law.  
-Personal Information collected by the Company may be disclosed to third parties to whom the Company contracts out specialized goods or services (such as IT service providers). If the Company does disclose Personal Information to third party contractors, the Company takes steps to ensure that those contractors:
+Certain advertising networks and exchanges may participate in the Digital Advertising Alliance (“DAA”) AdChoices Program and may display an Advertising Option Icon for interest-based ads. You can learn more about the DAA AdChoices Program here: [http://www.youradchoices.com](http://www.youradchoices.com/). In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative (NAI). The NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members’ ad networks. To learn more about opting out of targeted advertising or to use the tool, click here: <http://www.networkadvertising.org/choices>.
 
-  •  Comply with their obligations under applicable privacy laws; and  
-  •  Are authorized only to use Personal Information in order to provide the goods and services required by the Company.
+You may opt-out of providing your location information to us when you are using mobile devices. If you do not want us to use your location information as described in this Privacy Policy, you should turn off the location services for the mobile application located in your account settings (if available) or in your mobile device settings.
 
-The Company may also disclose your Personal Information to third parties where it has your express permission to do so, or where it can reasonably be inferred from the circumstances that you consent to the disclosure to the third parties. The Company tries to limit the information it provides to third parties to the information they need to help the Company provide goods and services to you.
+If you do not want our mobile applications to collect any information from you, you should uninstall the application using the standard uninstall procedures that may be available as part of your mobile device or via the mobile application marketplace or network where you obtained the mobile application.
 
-  
+_Notification of Changes_
 
+We reserve the right to make changes to this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will provide notice of such changes by sending you an administrative email and/or posting those changes in places on the Prodege Sites and Features deemed appropriate by us so our users are always aware of what information we collect, how we use it, and under what circumstances it may be shared with others. Your continued use of any of the Prodege Sites and Features or our Services after delivery of the administrative email to you or after the changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of such Prodege Sites and Features and our Services. To the extent that an arbitrator or court of applicable jurisdiction determines that applying any changes to this Privacy Policy to any prior events or circumstances would render this an illusory or unenforceable contract, such changes shall be applicable on a prospective basis only, with respect to events or circumstances occurring after the date of such changes, to the extent necessary to avoid this Privacy Policy being deemed illusory or unenforceable. In any event, if any Personal Information was previously submitted to or collected by us pursuant to an earlier version of this Privacy Policy that required a certain notice period prior to any changes being effective, any changes under this Privacy Policy will not be effective as to you or such previously-collected Personal Information until the previously-specified notice period has passed after the date of this Privacy Policy.
 
-## Mergers; Business Transitions
+_Children’s Privacy_
 
-In the event the Company goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' Personal Information will, in most instances, be part of the assets transferred, unless such a transfer will violate any applicable law.
+The Prodege Sites and Features and our Services are general audience websites and services and we do not knowingly collect any Personal Information from children younger than the age of 13. If you are under 18, you should use the Prodege Sites and Features and our Services only with involvement of a parent or guardian. If you are under 13, you should not submit any Personal Information to us. If we learn that we have inadvertently collected Personal Information from a child younger than 13, we will take commercially reasonable efforts to delete such Personal Information from our databases.
 
-  
+_Security_
 
+We maintain security measures in place in order to attempt to protect against the loss, misuse and alteration of the Personal Information under our control. Please be advised, however, that the Internet and other various networking communication media are not entirely secure, and your information may therefore be subject to interception or loss which is beyond our reasonable control. While we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information you transmit to us, and any transmission is done at your own risk. Accordingly, we assume no responsibility or liability for disclosure of your Personal Information or other information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
 
-## Choice/Opt-out
+_Location of Processing and Applicable Law_
 
-Our goal is to keep you in control of the Personal Information you provide to us. Accordingly, you can review, correct, change or remove any personal registration information you provide to the Company. In order to "opt-out" and elect not to receive future communications from us, please email us at support@swagbucks.com. You can request access to, and correction of, your Personal Information by contacting the Company as follows:
+Although we generally maintain our user data in the United States, it is possible that some of the data processing may occur outside of the United States, carried out by companies or individuals under contract with us. While the data protection laws of these countries may vary, we will make every reasonable effort to protect your Personal Information under this Privacy Policy. By using the Prodege Sites and Features and our Services, you consent to this transfer of your personal data to any server used by the Company or its service providers from time to time.
 
-  
+If you are not a resident of the United States, please be aware that data protection laws in the United States and other countries (as well as the legal procedures for courts, governmental authorities, and parties in civil litigation to obtain access to our user data) may differ substantially from the laws and procedures in your country of residence. If you are located in a country outside the United States and submit Personal Information to us, you are consenting to the transfer, processing, storage and use of that information in the United States as provided in this Privacy Policy.
 
+The interpretation and application of this Privacy Policy shall be governed by the laws of the United States and the State of California without regard to its conflict of law provisions. Your use of the Prodege Sites and Features or our Services are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States.
 
-## Swagbucks.com
+_Your California Privacy Rights (California Residents)_
 
-P.O. Box 578  
-Manhattan Beach, Ca 90267  
-[support@swagbucks.com](mailto:support@swagbucks.com)  
-Phone: 1-877-748-2714
+When California residents provide certain personal information to a business, they have the right under California Civil Code Section 1798.83 to request certain disclosures if that business shares that personal information with third parties, and in some cases affiliates, for the third parties’ or affiliates’ direct marketing purposes. Once per calendar year California residents may request that the business provide a list of companies with which it shares such personal information for the third parties’ or affiliates’ direct marketing purposes, and a list of the categories of such personal information that the business shares.
 
-Please note that as long as you remain a Swagbucks.com user, opting not to receive email does not exempt you from receiving administrative emails, which include, but are not limited to, notices about vital service and status changes or alterations to the Company's Terms.
+California residents may request further information about our compliance with this law by e-mailing [CaliforniaPrivacy@Prodege.com](mailto:CaliforniaPrivacy@Prodege.com). Please include “California Privacy Rights Request” in the first line of the description and your California mailing or street address. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address, or made by non-California residents.
 
-  
+_Contact Us_
 
-
-## Notification of Changes
-
-We do reserve the right to make changes to this Privacy Policy from time to time. If we decide to change this Privacy Policy, we will post those changes in places on the Swagbucks.com Sites deemed appropriate by us so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we would disclose it. If, however, we are going to use Personal Information in a manner different from that stated at the time of collection we will notify users by posting a notice on Swagbucks.com Sites for at least 30 days. Your continued use of Swagbucks.com Sites after the changes are posted constitutes your agreement to the changes. If you do not agree to the changes, please discontinue your use of Swagbucks.com Sites.
-
-  
-
-
-## Special Notification with respect to Children's Privacy (Users under the age of 13)
-
-  
-
-
-In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with the Company policy and COPPA regulations, we DO NOT:
-
-  1.  Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or  
-  2.  Knowingly use or share personal information from users under 13 years of age with third parties;
-
-We request that children under the age of 13 not submit any Personal Information to us via the Swagbucks.com Sites. It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.   
-Questions regarding children's privacy should be directed to: 
-
-  
-
-
-## Swagbucks.com
-
-P.O. Box 578  
-Manhattan Beach, Ca 90267  
-[support@swagbucks.com](mailto:support@swagbucks.com)  
-Phone: 1-877-748-2714 
-
-  
-
-
-## Security
-
-We use SSL (Secure Sockets Layer) encryption technology to safeguard the security of your Personal Information; however transmissions made on or through the Internet are vulnerable to attack and cannot be guaranteed to be secure. You hereby acknowledge that the Company is not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. 
-
-  
-
-
-## Transfers of your Personal Information
-
-Although the Company houses its data in the United States, it is possible that some of data processing may occur outside of the United States. While the data protection laws of these countries may vary, the Company will make every reasonable effort to protect your information based upon the express terms of this Privacy Policy. By enrolling in the service, you consent to this transfer of your personal data to any server used by the Company. 
-
-  
-
-
-## Swagbucks.com / Conduit Toolbar
-
-  
-
-
-The Swagbucks.com Sites include a software application ("Application") that was created by the Company using the Conduit Platform (<http://www.conduit.com/>). The Application includes various features and content that are offered and delivered to you by the Company, including without limitation news, messages, games, and more as well as features and content that you may choose to add.
-
-Conduit, the creator of the Application, has its own privacy policy, which, together with the Company's Privacy Policy, governs your use of the Application. We encourage you to review Conduit's privacy policy, which may be found here: <http://www.conduit.com/privacy>. You understand and agree that while the Company endeavors to maintain an accurate and current version of the privacy policies and terms binding upon you as a user of the Application, its statement of these terms contained herein may become outdated despite its best efforts. Consequently, by your continued use of the Swagbucks.com Sites, you hereby affirm and agree that prior to each use of the the Application, you have reviewed the Conduit Privacy Policy, as is current at that time, and have agreed to its terms.
-
-Conduit does require the Company and third parties that may provide you with content, to protect your privacy rights and maintain the following privacy practices:
-
-  1.  No Spyware Policy - the Application does NOT collect or transmit Personal Information and does not monitor your personal use of the Application.  
-The Application sends unidentifiable and non-personal statistical data to enable quality assurance and improve support processes. Such non-personal data includes unidentifiable and general usage of the Application (for example; statistical usage data can be sent if you open or close the Application but not personal information you may share via the Application) but does not include Personal Information, other than as specifically described herein. You may choose not to send such statistical data at any time from the Options dialog box of the Application.
-
-  2.  Third Party Features and Content - the Company or you may choose to add features or content to the Application. In the event that such features or content may require the collection of your Personal Information (for example: your login credentials to Swagbucks.com Sites, information about content you use on the web, etc.) the Company or the third parties providing the content must present to you a clear disclosure of the information that will be collected and you should have the opportunity to decide whether or not to share such information or alternatively not use or remove the content.
-
-You may choose to add additional content and features to the Application as part of your ongoing usage. We encourage you to read the terms of service and the privacy policy of any such content before you choose to add it to the Application.
-
-You may also choose to activate additional features that provide you with the ability to update and use your favorite social networks. During such activation you will be asked to grant Conduit permission to collect certain information from such social network systems. If you elect to permit Conduit to access this information, Conduit will be able to see and to use such information regardless of your privacy settings with such social network service. Such information may include friends or contacts lists, notes and updates and photos. Such information may be used by Conduit to help you personalize your Application or suggest new features and content that may be relevant to you. Such information will be protected by Conduit in accordance with its strict privacy policies [as can be seen here - http://www.conduit.com/privacy] We urge you to read this policy in its entirety.
-
-  3.  No Adware Policy - You will not be required to view obtrusive ads in order to use the Application.
-
-  4.  Unobtrusive - the Application does not enable other software applications to access data stored on your computer's hard drive or in your personal online accounts. Changing your web search preferences, modifying web pages that you visit or accepting third party offers is not required in order to use the Application. You may voluntarily opt to change your search preferences (if applicable), add components or accept notifications, offers or other features from your Publisher.
-
-  5.  Easy uninstall - you can easily uninstall the Application at any time by using standard uninstall processes as may be available as part of your operating system, your internet browser or similar software uninstall options (for example: add/remove programs in Windows, Add-on removal in Firefox, etc.).
-
-  6.  Easy deactivation - you can easily deactivate your Application at any time by using the standard deactivation features available in your internet browser (for example: by clicking the "View" menu in your browser selecting the name of the Application and then clicking on it).
-
-  7.  Full control - you have full control over the Application and can modify your preferences at any time (including the components and features you have added to the Application), from the Options dialog box of the Application.
-
-  8.  Report - The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have a reason to believe that your rights have been infringed upon while using the Application, please contact Conduit via email at Privacy@conduit.com . Once your e-mail is received, Conduit will review it to ensure that the privacy practices provided herein are enforced.
-
-  9.  Shopping on the Toolbar - The "Shop" button on the toolbar will take you to the Swagbucks.com Shop & Earn section containing affiliated stores and affiliate links. By clicking the "Shop" toolbar button, an affiliate cookie will not be placed on your computer. When clicking on an affiliate link within the Swagbucks.com Shop & Earn section, an affiliate cookie will be placed on your computer to assist in rewarding you for purchases made through the Swagbucks.com Shop & Earn. 
+If you have any questions or concerns regarding this Privacy Policy or your use of any Prodege Sites and Features or our Services, please contact us by using the “Contact Us”, “Contact Member Services” or similar contact link in the footer of any of the Prodege Sites, or by mail to: Prodege, LLC, P.O. Box 70, Manhattan Beach, CA 90267; Attention: Customer Service.
