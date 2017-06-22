@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roalddahl.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128222905id_/http%3A//www.roalddahl.com/global/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roalddahl.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622124310id_/http%3A//www.roalddahl.com/global/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RoaldDahl.com
 
@@ -10,7 +10,7 @@ Please read the following information carefully to understand our views and prac
 
 Your right to privacy is important to us. We take the security of your personal information seriously and we have strict policies and processes in place to ensure it remains safe.
 
-In this Privacy Policy, " **we** ", " **us** " and " **our** " means The Roald Dahl Literary Estate LLP. We are a limited company incorporated in England and Wales with company no 05251018 and our registered address is 5 New Street Square, London, EC4A 3TW, United Kingdom. If you provide us with personal information via or through using our website, www.roalddahl.com (" **our site** ") or by otherwise communicating with us, we will act as the 'data controller' of your personal information. Under the Data Protection Act 1998, the 'data controller' is responsible for ensuring that your personal information is lawfully and properly processed.
+In this Privacy Policy, " **we** ", " **us** " and " **our** " means The Roald Dahl Literary Estate LLP. We are a limited company incorporated in England and Wales with company no OC393071 and our registered address is 5 New Street Square, London, EC4A 3TW, United Kingdom. If you provide us with personal information via or through using our website, www.roalddahl.com (" **our site** ") or by otherwise communicating with us, we will act as the 'data controller' of your personal information. Under the Data Protection Act 1998, the 'data controller' is responsible for ensuring that your personal information is lawfully and properly processed.
 
 Our site brings together the work of various entities committed to protecting and furthering the works of Roald Dahl and his legacy. For example, our site allows you to:
 
@@ -47,7 +47,7 @@ With regard to each of your visits to our site we may automatically collect the 
 
 **INFORMATION THIRD PARTIES MAY COLLECT FROM YOU**
 
-  * **Cookies.** Our website uses cookies to distinguish you from other users of our site. This includes third party cookies.These third party cookies help us to provide you with a good experience when you browse our site, to provide you with content that is most relevant to you (e.g. when you have told us whether you are a parent/guardian, teacher, child or other type of user), to process and analyse your navigation and use of our site and to allow us to improve our site. For detailed information on the cookies we use and the purposes for which we use them, please read our _[Cookie Policy](https://web.archive.org/global/cookie-policy)_.
+  * **Cookies.** Our website uses cookies to distinguish you from other users of our site. This includes third party cookies.These third party cookies help us to provide you with a good experience when you browse our site, to provide you with content that is most relevant to you (e.g. when you have told us whether you are a parent/guardian, teacher, child or other type of user), to process and analyse your navigation and use of our site, to understand your interests and demographic and to target certain marketing and to allow us to improve our site. For detailed information on the cookies we use and the purposes for which we use them, please read our _[Cookie Policy](https://web.archive.org/global/cookie-policy)_.
 
 
   * **Purchasing products from Trading via our site.** If you use our site to purchase products from Trading via the online shop on our site, we use a third party, Gardners Books Limited, to fulfil delivery of your order (see above "information we receive from other sources"). Gardners will collect information about you (i.e. your name, address, invoice address, delivery address, details of the products you have ordered from Trading via our site and any personal messages you wish to send to recipients of products you have ordered from Trading via our site) in order to deliver the products your order from Trading via our online store. Gardners will also collect information about the despatch of products to you (i.e. the address that the products were sent to and the date and time the products were despatched to that address);
@@ -130,6 +130,10 @@ Our site may, from time to time, contain links to and from the websites of our p
 **CHANGES TO OUR PRIVACY POLICY**
 
 This policy is effective from March 2014. We may need to change our Privacy Policy from time to time to keep it up to date. Any changes we may make to our Privacy Policy in the future will be posted on this page. Please check back frequently to see any updates or changes to our Privacy Policy.
+
+This Privacy Policy was last updated 29th March 2017
+
+**CONTACT**
 
 If you have any questions about the way in which we collect or process your information, please contact us. Similarly, if the information we hold about you is incorrect or out of date, please let us know and we will investigate further to correct any inaccuracies. You can also find out more about your rights under the Data Protection Act 1998 by visiting the Information Commissioner's Office website at [www.ico.org.uk](http://www.ico.org.uk/) or by writing to: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, SK9 5AF.
 
