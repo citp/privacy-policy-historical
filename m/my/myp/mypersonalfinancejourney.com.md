@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422094958id_/http%3A//www.mypersonalfinancejourney.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypersonalfinancejourney.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622040938id_/http%3A//www.mypersonalfinancejourney.com/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer — My Personal Finance Journey
 
@@ -20,7 +20,7 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-Kontera Double Underlined Ads – These links are part of a pay per click advertising program called Kontera. Kontera is an In Text advertising service: they take my text and create links within it. If you hover with your mouse over these double underlined links, you will see a small dialog box containing advertisement related to the text marked. You can choose to either move the mouse away and go on with your browsing, or to press on the box and go to the ad page which is relevant to the text. [Click here to learn more about Kontera Double Underline Link Ads](http://www.kontera.com/about-us).
+Kontera Double Underlined Ads – These links are part of a pay per click advertising program called Kontera. Kontera is an In Text advertising service: they take my text and create links within it. If you hover with your mouse over these double underlined links, you will see a small dialog box containing advertisement related to the text marked. You can choose to either move the mouse away and go on with your browsing, or to press on the box and go to the ad page which is relevant to the text. Click here to learn more about Kontera Double Underline Link Ads.
 
 RSS Subscriptions – This website records information about how people access our RSS feeds, but does not collect any personally identifying information from or about our RSS subscribers.
 
