@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807210121id_/https%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcspecialist.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622041352id_/https%3A//www.pcspecialist.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# PCSPECIALIST - Privacy-policy
-
-Privacy Policy
+# PCSPECIALIST - Privacy Policy
 
 Definitions:
 
-The word "Company", "Company's" refers to the registered company PC Specialist Ltd, no. 4777867 in England and Wales.  
-"Website" refers to the domain name http://www.pcspecialist.co.uk and all content hosted here.
+The word "Company", "Company's" refers to the registered company PC Specialist Ltd , no. 4777867 in England and Wales.   
+"Website" refers to the domain name https://www.pcspecialist.co.uk and all content hosted here. 
 
 PC Specialist Ltd, hereafter the Company, agrees not to disclose to anyone the terms, conditions, subject matter, or identity of the parties involved in any paid transaction to any other party. The Company collects personally identifiable information, such as your e-mail address, name, home or work address or home, work or mobile telephone number. The Company does not associate sensitive data, such as your race, religion, or political affiliations, with personally identifiable information. The Company takes precautions to segregate any sensitive data you may provide on the Company's sites that reference your race, religion, sexual orientation, ethnicity or political affiliations. 
 
@@ -33,6 +31,6 @@ The Company uses cookies for collecting user information from the website. Cooki
 
 The Company uses Google Analytics for the purposes of remarketing online. Third-party vendors, including Google, show our ads on sites across the Internet. The Company and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise, and serve ads based on your past visits to our website. If you do not wish for your data to be collected and used by Google Analytics, you can opt-out [here](https://tools.google.com/dlpage/gaoptout/). 
 
-PC Specialist Ltd
+PC Specialist Ltd 
 
 enquiries@pcspecialist.co.uk 
