@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coxandkings.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221005258id_/http%3A//www.coxandkings.com/static/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxandkings.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622032515id_/http%3A//www.coxandkings.com/static/privacy.shtml) for the most accurate reproduction.*
 
 # Cox & Kings | Privacy Policy
 
