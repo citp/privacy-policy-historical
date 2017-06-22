@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123081639id_/http%3A//www.spicejet.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicejet.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622054703id_/http%3A//www.spicejet.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | SpiceJet Airlines
 
