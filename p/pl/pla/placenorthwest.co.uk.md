@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2016-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160306101445id_/https%3A//www.placenorthwest.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placenorthwest.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622032500id_/https%3A//www.placenorthwest.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Place North West | Privacy Policy
 
@@ -69,6 +69,8 @@ If you are a new customer, and where we permit selected third parties to use you
 If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the registration form).
 
 We do not disclose information about identifiable individuals to our advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day). We may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in L1). We may make use of the personal data we have collected from you to enable us to comply with our advertisers’ wishes by displaying their advertisement to that target audience.
+
+As a registered delegate at a Place North West event, your name and contact details will be placed on the attendee list which may be passed on to sponsoring companies. You may be contacted with information about products and services, such as future events, in the form of direct marketing by phone or email.
 
 ## Registration and Newsletters
 
