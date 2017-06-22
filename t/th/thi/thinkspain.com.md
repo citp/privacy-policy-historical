@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123163333id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkspain.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622173213id_/http%3A//www.thinkspain.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies
 
