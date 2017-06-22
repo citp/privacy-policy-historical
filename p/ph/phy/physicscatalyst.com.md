@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physicscatalyst.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121220926id_/http%3A//physicscatalyst.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physicscatalyst.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622220456id_/http%3A//physicscatalyst.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Class 8 Science study Material for CBSE and Other Board Examination
 
