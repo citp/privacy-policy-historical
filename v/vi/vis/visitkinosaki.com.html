@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visitkinosaki.com privacy policy that was archived on 2016-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161027221953id_/http%3A//visitkinosaki.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visitkinosaki.com privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622122248id_/http%3A//visitkinosaki.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29,10 +29,15 @@
 		$(document).ready(function() {$().UItoTop({ easingType: 'easeOutQuart' });});
 		$(function(){
 			$('a[href^=#]').click(function() {
+
 				var speed = 500;
 				var href= $(this).attr("href");
 				var target = $(href == "#" || href == "" ? 'html' : href);
 				var position = target.offset().top;
+				var sp_header = $('.sp #header').outerHeight();
+				if(sp_header != null){
+					position = position - sp_header;
+				}
 				$('body,html').animate({scrollTop:position}, speed, 'swing');
 				return false;
 			});
@@ -41,6 +46,7 @@
 	</script>
 
 	<script type="text/javascript" src="/lightbox_plus/lightbox_plus.js"></script>
+<!--GoogleAnalytics-start-->
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -63,10 +69,28 @@
 	fbq('init', '1706245066327006');
 	fbq('track', "PageView");</script>
 	<noscript><img height="1" width="1" style="display:none"src="https://www.facebook.com/tr?id=1706245066327006&ev=PageView&noscript=1"/></noscript>
+
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '230646314024083');
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=230646314024083&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+<!--GoogleAnalytics-end-->
 </head>
 <body id="pm-" class="pc pm-C10 second">
 		<a name="top"></a>
 			<div id="header">
+<!--header-start-->
 <div class="header-inner">
 	<div id="header-top" class="clearfix">
 		<div id="logo">
@@ -75,7 +99,11 @@
 		</div>
 		<div id="social-media">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr><!--
+				<tbody><tr>
+					<td rowspan="2">
+					<a href="/info/help/wi-fi/"><img src="/img/bnr_wifi_header.png" alt="free wifi with online booking" onclick="ga('send','event','img','click','header-wifi');"></a>
+					</td>
+				<!--
 					<td><a href="https://www.facebook.com/visitkinosaki" target="_blank"><img src="/img/fb_icon.png" alt="kinosaki onsen hot spring facebook" /></a></td>
 					<td><a href="https://twitter.com/VisitKinosaki" target="_blank"><img src="/img/twitter_icon.png" alt="kinosaki onsen hot spring twitter" /></a></td>
 					<td><a href="http://instagram.com/visitkinosaki/" target="_blank"><img src="/img/instagram_icon.png" alt="kinosaki onsen hot spring instagram" /></a></td>
@@ -228,7 +256,7 @@ $(function() {
 						if(StayNights < 1){
 							alert('The dates entered are invalid.');
 						}else{
-							ga('send','event','button','click','inn search');
+							ga('send','event','inn search','click',CheckIn_Year+'.'+CheckIn_Month+'.'+CheckIn_Day);
 							var url = '/lodging/inn/?CheckIn_Month='+CheckIn_Month+'&CheckIn_Day='+CheckIn_Day+'&CheckIn_Year='+CheckIn_Year+'&StayNights='+StayNights+'&StayNinzu='+StayNinzu+'&StayRooms=1';
 							window.location.href = url;
 
@@ -244,10 +272,7 @@ $(function() {
 	});
 });
 </script>
-
-
-
-			</div>
+<!--header-end-->			</div>
 
 
 
@@ -370,27 +395,27 @@ We reserve the right, at our discretion, to update or revise this privacy policy
 					<ul>
 						<li>
 							<a href="/hot-springs/yukata/">
-								<img src="/upimg/banner/5ed87fb6d4e8cc24e0697755500eb72d.jpg?071954" alt="How to wear a yukata">
+								<img src="/upimg/banner/5ed87fb6d4e8cc24e0697755500eb72d.jpg?212247" alt="How to wear a yukata">
 							</a>
 						</li>
 						<li>
 							<a href="/hot-springs/how-to/">
-								<img src="/upimg/banner/3bce8b98c2979f59e8cc8e457b327f9e.jpg?071954" alt="How to use a Japanese bath">
+								<img src="/upimg/banner/3bce8b98c2979f59e8cc8e457b327f9e.jpg?212247" alt="How to use a Japanese bath">
 							</a>
 						</li>
 						<li>
 							<a href="/lodging/etiquette/">
-								<img src="/upimg/banner/f58ff6ca87617abefc3eb47aabced9fb.jpg?071954" alt="Ryokan Etiquette">
+								<img src="/upimg/banner/f58ff6ca87617abefc3eb47aabced9fb.jpg?212247" alt="Ryokan Etiquette">
 							</a>
 						</li>
 						<li>
 							<a href="/dining/tips/">
-								<img src="/upimg/banner/9a10788e686b8256d0973b91520aecbd.jpg?071954" alt="Japanese dinning tips">
+								<img src="/upimg/banner/9a10788e686b8256d0973b91520aecbd.jpg?212247" alt="Japanese dinning tips">
 							</a>
 						</li>
 						<li>
 							<a href="https://smatra.jp/dy/act/visit-kinosaki/search-result/?lang=en">
-								<img src="/upimg/banner/5866c233e9beeebcf42a4d61b6c182c3.jpg?071954" alt="smatra tours">
+								<img src="/upimg/banner/5866c233e9beeebcf42a4d61b6c182c3.jpg?212247" alt="smatra tours">
 							</a>
 						</li>
 					</ul>
@@ -428,6 +453,7 @@ We reserve the right, at our discretion, to update or revise this privacy policy
 			</div>
 		</div>
 	</div>
+<!--footer-start-->
 
 	<div id="footer">
 		<div id="pm-pankuzu">
@@ -549,7 +575,7 @@ We reserve the right, at our discretion, to update or revise this privacy policy
 		</div>
 		<div id="footer-sec03">
 			<div class="footer-inner">
-				Copyright © 2016. Toyooka City Hall, All Rights Reserved.
+				Copyright © 2017. Toyooka City Hall, All Rights Reserved.
 			</div>
 		</div>
 	</div>
@@ -647,8 +673,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 			s.parentNode.insertBefore(atag, s);s.parentNode.insertBefore(stag, s);
 		})();
 	</script>
-
-
+<!--footer-end-->
 
 
 <div id="overlay" style="display: none; position: fixed; top: 0px; left: 0px; z-index: 50; width: 100%; height: 100%;"></div><div id="lightbox" style="display: none; position: absolute; z-index: 60;"><img id="lightboxImage" width="200" height="200" style="cursor: pointer;"><img id="prevLink" src="/lightbox_plus/prev.gif" style="display: none; position: absolute; left: 9px; z-index: 70;"><img id="nextLink" src="/lightbox_plus/next.gif" style="display: none; position: absolute; right: 9px; z-index: 70;"><img id="actionImage" src="/lightbox_plus/expand.gif" style="display: none; position: absolute; top: 15px; left: 15px; z-index: 70; cursor: pointer;"><img id="closeButton" src="/lightbox_plus/close.gif" style="display: inline; position: absolute; right: 9px; top: 10px; z-index: 80; cursor: pointer;"><span id="lightboxCaption" style="display: none; position: absolute; z-index: 80;"></span></div></body></html>
