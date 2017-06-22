@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sms-receive.net privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211185543id_/http%3A//sms-receive.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sms-receive.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622094943id_/http%3A//sms-receive.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Receive sms-receive.net
 
