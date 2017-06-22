@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystartsearch.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127103200id_/http%3A//www.mystartsearch.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystartsearch.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622070133id_/http%3A//www.mystartsearch.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
