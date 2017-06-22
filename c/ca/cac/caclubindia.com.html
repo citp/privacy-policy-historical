@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the caclubindia.com privacy policy that was archived on 2016-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226231019id_/http%3A//www.caclubindia.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the caclubindia.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623001830id_/http%3A//www.caclubindia.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 <meta name="theme-color" content="#1f5885">
 <link rel="manifest" href="/manifest.json">
 <title>CAclubindia : PRIVACY POLICY</title>
@@ -34,20 +34,6 @@
 <meta content="CAclubindia" property="og:site_name">
 
 
-<meta name="twitter:app:country" content="IN">
-<meta name="twitter:app:name:googleplay" content="CAclubindia">
-<meta name="twitter:app:id:googleplay" content="com.interactivemedia.caclubindia">
-<meta name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.interactivemedia.caclubindia">
-
-
-<meta name="twitter:app:name:iphone" content="CAclubindia">
-<meta name="twitter:app:id:iphone" content="891671199">
-<meta name="twitter:app:url:iphone" content="CAclubindia://">
-
-<meta name="twitter:app:name:ipad" content="CAclubindia">
-<meta name="twitter:app:id:ipad" content="891671199">
-<meta name="twitter:app:url:ipad" content="CAclubindia://">
-
 
 <meta name="apple-itunes-app" content="app-id=891671199">
 <meta name="google-play-app" content="app-id=com.interactivemedia.caclubindia">
@@ -62,7 +48,7 @@
 
 <link href="//caclubindia.s3.amazonaws.com/static/styles_rp/offcanvas_all.min.css?v=2" rel="stylesheet">-->
 
-<link rel="stylesheet" href="//caclubindia.s3.amazonaws.com/static/styles_rp/offcanvas_all.min.css?v=2">
+<link rel="stylesheet" href="//caclubindia.s3.amazonaws.com/static/styles_rp/offcanvas_all.min.css?v=4">
 
 <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
  <!--[if lt IE 9]>
@@ -183,51 +169,65 @@ color: #333
 }
 }
 
-.sidenav {
-    height: 100%;
-    width: 0;
+.overlay {
+    height: 0%;
+    width: 100%;
     position: fixed;
     z-index: 10000;
     top: 0;
     left: 0;
-    background-color: #19466a;
-    overflow-x: hidden;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0, 0.9);
+    overflow-y: hidden;
     transition: 0.5s;
-    padding-top: 60px;
 }
 
-.sidenav a {
-    padding: 8px 8px 8px 32px;
+.overlay-content {
+    position: relative;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.overlay a {
+    padding: 8px;
     text-decoration: none;
-    /*font-size: 25px;*/
-    color: #ffffff;
+    font-size: 16px;
+    color: #818181;
+    text-align: left;
     display: block;
-    transition: 0.3s
+    transition: 0.3s;
 }
 
-.sidenav a:hover, .offcanvas a:focus{
+.overlay a:hover, .overlay a:focus {
     color: #f1f1f1;
 }
 
-.sidenav .closebtn {
+.overlay .closebtn {
     position: absolute;
-    top: 0;
+    /*top: 10px;*/
     right: 25px;
-    font-size: 30px;
-    margin-left: 50px;
-}
-
-#main {
-    transition: margin-left .5s;
-    padding: 16px;
+    font-size: 50px;
+    z-index: 1000
 }
 
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .overlay {overflow-y: auto;}
+  .overlay a {font-size: 20px}
+  .overlay .closebtn {
+    font-size: 40px;
+    top: 15px;
+    right: 35px;
+  }
 }
 
-
+@media print {
+    .no-print {display: none;}
+    a[href]:after {
+    content: none !important;
+  }
+}
 </style>
 </head>
 <body>
@@ -239,30 +239,24 @@ color: #333
 
 <!--include file="../campaign/topmost_ad_rp.asp"-->
 
+<!-- include file="../includes/app_promo_rp.asp"-->
 <!--include file="../includes/mobile_popup.asp"-->
 
 
-<!-- <nav  id="slide-nav" class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom:20px">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" id="menu_colp" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button> -->
+<div id="wrapper">
 <nav id="slide-nav" class="navbar navbar-default navbar-fixed-top" role="navigation" style="margin-bottom:20px">
     <div class="container-fluid">
           <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="" aria-expanded="false">
-            <span class="sr-only">Toggle navigation</span>
-            <a style="cursor:pointer" onclick="openNav()">
-              <span class="sr-only">Toggle navigation</span>
+            <a style="cursor:pointer; color:#f1f1f1" onclick="openNav()">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="" aria-expanded="false">
+              <!-- <span class="sr-only">Toggle navigation</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </a>
+              <span class="icon-bar"></span> -->
+              ☰
+
             </button>
+            </a>
 
 	  <button type="button" class="navbar-toggle navbar-toggle_b pull-right dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" data-target=".navbar-ex2-collapse"> <span class="sr-only">Toggle navigation</span>
 		<a style="color:white; font-size:20px"><i class="fa fa-user"></i></a>
@@ -295,7 +289,7 @@ color: #333
 
 	 <!-- <a class="navbar-brand" href="/" style="font-size: 16px;"><div style="float:left; padding-right:5px">
 	  <img src="/img/cci_logo_white.png"  align="left"></div>CAclubindia</a>-->
-          <a class="navbar-brand" href="/" style="font-size: 16px;"> <object id="svgObject" data="/img/cci_logo_white.svg" type="image/svg+xml" height="19" width="23" align="left"> </object>CAclubindia</a>
+          <a class="navbar-brand" href="/" style="font-size: 16px"> <object id="svgObject" data="/img/cci_logo_white.svg" type="image/svg+xml" height="19" width="23" align="left"> </object>CAclubindia</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -311,10 +305,13 @@ color: #333
               <li><a href="/forum/" title="Discussion Forum - Discuss any topic related to ca finance tax students"><img src="/img/forum_ico16.png" style="width:16px;height:16px">&nbsp;Forum</a></li>
               <li class="hidden-md"><a href="/ccc/" title="Find jobs or post vacancy">Jobs</a></li>
               <li class="visible-lg"><a href="/category/students.asp" title="Resources for ca cpt final ipcc students">Students</a></li>
-              <!-- <li class="visible-lg"><a href="/budget16" title="Budget16"><i class="fa fa-inr" style="color:#ffd200"></i>&nbsp;Budget16</a></li> -->
-              <li class="visible-lg"><a href="/stream/" title="CCI Feed" style="color:#fed400">Feed</a></li>
-              <!-- <li><a href="#collapsible2" id="collapsible0">More<b class="caret" style="border-top-color: #fff!important; border-bottom-color: #fff!important;"></b></a></li> -->
-              <li><a style="cursor:pointer" onclick="openNav()">☰ More</a></li>
+              <!-- <li class="visible-lg"><a href="/budget17" title="Budget17"><i class="fa fa-inr" style="color:#ffd200"></i>&nbsp;Budget</a></li>  -->
+              
+              <li class="visible-lg"><a href="/gst" title="GST" style="color:#fed400">GST</a></li>
+              
+              <li>
+                <a style="cursor:pointer" onclick="openNav()">☰ More</a>
+              </li>
 
               
           </ul>
@@ -347,7 +344,7 @@ $( document ).ready(function() {
   </div><!-- /.container-fluid -->
 </nav>
 
-<div class="row" style=" background:url(/img/christmas_header16.png); background-repeat:no-repeat; background-position:top center">
+<div class="row">
 <div style="padding-top:20px">
 	<div class="header hidden-xs hidden-sm">
 		<div class="col-md-8 col-xs-12" style="padding-left:0">
@@ -374,7 +371,7 @@ $( document ).ready(function() {
 		</div>
 		<div class="col-md-4 hidden-xs hidden-sm kpmg" style="padding-top: 10px; left: 0px; top: 0px; text-align:center">
 			
-<a href="http://bit.ly/23Ni57Z" target="_blank" rel="nofollow"><img src="/wellwisher/kpmg/kpmg_dipIFR_aug16.gif"></a>
+<a href="http://bit.ly/1qFVuIf" target="_blank" rel="nofollow"><img src="/wellwisher/kpmg/kpmg_ind_as_apr17.gif"></a>
 
     </div>
 		<!-- <div class="col-md-4 hidden-xs hidden-sm">
@@ -430,13 +427,11 @@ $( document ).ready(function() {
           </style>
         </div>
       </div>
-	
-<!--
+	<!--
   <div class="row visible-xs" style="padding-top:20px">
        <div class="col-md-12" ><p align="center"><include file="../ad/async/responsive_dnd.txt"></p></div>
 
   </div>-->
-
 <div class="row">
 <div class="col-md-12">
 
@@ -590,18 +585,22 @@ $( document ).ready(function() {
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></p><br class="spacer">
-</div>
-</div>
- 
 
 </div>
+</div>
+
+
+</div>
+
 <div class="clearfix"></div>
 
 
 <!--footer menu start-->
 <style>.f-menu a{
 	color:#585858 !important
-}</style>
+  }
+</style>
+
  <div>
 	<div class="container">
 		<div class="col-md-12 hidden-xs hidden-sm">
@@ -659,7 +658,7 @@ $( document ).ready(function() {
 															<li><a href="/quickfinder/" title="Knowledge Finder">Knowledge Finder</a></li>
 															<li><a href="/castudents/" title="Coaching Institutes">Coaching Institutes</a></li>
 															<li><a href="/article_trainee_corner/" title="Trainee Corner">Trainee Corner</a></li>
-															<li><a href="/category/gst.asp" title="GST" style="color:#e85348!important">GST</a></li>
+															<li><a href="/gst" title="GST" style="color:#e85348!important">GST</a></li>
 															<li><a href="/ccc/" title="Jobs">Jobs</a></li>
 															<li><a href="/category/vat.asp" title="VAT">VAT</a></li>
 															<li><a style="color:#e85348" href="/coaching/default.asp" title="CCI Online Coaching">Online Coaching</a></li>
@@ -669,7 +668,7 @@ $( document ).ready(function() {
 						<br><br>
   </div>
   </div>
-	
+
 </div>
 <!--footer menu end-->
 
@@ -677,14 +676,10 @@ $( document ).ready(function() {
 <div id="footer">
 	<div class="container">
 	<div class="row">
-		<!-- <div class="col-md-4 col-sm-6 col-xs-12 footer_center"><h3><small>Our Network Sites</small></h3>
-			<a href="http://www.lawyersclubindia.com" rel="nofollow" target="_blank">
-			<img border="0" src="/img/lci_logo_footer.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.mbaclubindia.com" rel="nofollow" target="_blank"><img border="0" src="/img/mci_logo_footer_new.png"></a><br>
-    </div> -->
-    <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs">
+    <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs hidden-sm">
       <br><a href="/default.asp"><img src="/img/cci_logo_footer.png"></a>
     </div>
-    <div class="col-md-2 col-sm-3 col-xs-6">
+    <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs">
       <h4></h4>
       <ul style="padding-top: 10px" class="footer_left">
         <li><a href="/about_us.asp">About</a></li>
@@ -696,7 +691,7 @@ $( document ).ready(function() {
         <li><a href="/advertise_with_us.asp">Advertise</a></li>
       </ul>
     </div>
-    <div class="col-md-2 col-sm-3 col-xs-6">
+    <div class="col-md-2 col-sm-3 col-xs-6 hidden-xs">
       <h4></h4>
       <ul style="padding-top: 10px" class="footer_left">
         <li><a href="/terms_of_use.asp">Terms of Use</a></li>
@@ -718,43 +713,32 @@ $( document ).ready(function() {
    </div>
 		<div class="col-md-3 col-sm-12 col-xs-12">
       <h4></h4>
-			<div class="footer_social">
+			<div class="footer_social hidden-xs">
 			<div>
         <img src="/img/send_newsletter.jpg">
 
-        <form action="/newsletter_signup.asp" method="POST" name="subscribe" class="form-inline" role="form">
-          <div class="input-group input-group-md">
-
-          <script type="text/javascript">
-          document.write('<input type=text class="form-control swap_value" id="mce-EMAIL" placeholder="Email address..." name="newseletter_email">');
-          </script><input type="text" class="form-control swap_value" id="mce-EMAIL" placeholder="Email address..." name="newseletter_email">
-
-        <span class="input-group-btn">
-          <a href="javascript:document.subscribe.submit()" class="btn btn-default">
-          <i class="fa fa-envelope" aria-hidden="true"></i>
-          </a>
-          </span>
-          </div>
-        </form>
-				<p style="padding-top: 12px">
-        <!-- <a href="https://itunes.apple.com/in/app/caclubindia/id891671199?mt=8&uo=4" target="_blank"><i class="fa fa-apple"></i></a>&nbsp;
-				<a href="https://play.google.com/store/apps/details?id=com.interactivemedia.caclubindia&referrer=utm_source%3Dfooter_icon%26utm_medium%3Dcci%26utm_campaign%3Dandroidinstalls" target="_blank" title="Download Caclubindia Android Mobile App">
-				<i class="fa fa-android"></i></a>&nbsp; -->
-				<a href="http://twitter.com/caclubindia" target="_blank" style="font-size:42px; margin-right:8px">
+		<form action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=CaclubindiacomAll', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+					<div class="input-group input-group-md">
+					<input type="text" class="form-control swap_value" value="Enter your email address" name="email">
+					<input type="hidden" value="CaclubindiacomAll" name="uri">
+					<input type="hidden" name="loc" value="en_US">
+					<span class="input-group-btn">
+					<input type="submit" class="btn btn-primary">
+					</span>
+					</div>
+		</form>
+				<p style="padding-top:12px">
+        <a href="http://twitter.com/caclubindia" target="_blank" style="font-size:42px; margin-right:8px">
 				<i class="fa fa-twitter-square"></i></a>
 				<a href="http://www.facebook.com/caclubindia" target="_blank" style="font-size:42px; margin-right:8px">
 				<i class="fa fa-facebook-square"></i></a>
 				<a href="https://www.linkedin.com/company/caclubindia/" target="_blank" style="font-size:42px; margin-right:8px">
 				<i class="fa fa-linkedin-square"></i></a>
-				<!-- <a href="https://plus.google.com/+caclubindia" target="_blank" class="hidden-xs hidden-sm hidden-md" style="font-size:42px;  margin-right:8px">
-				<i class="fa fa-google-plus-square"></i></a> -->
         <a href="https://www.instagram.com/caclubindia/" target="_blank" class="hidden-xs hidden-sm hidden-md" style="font-size:42px; text-decoration: none">
 				<i class="fa fa-instagram" aria-hidden="true"></i>
         </a>
 				<a href="https://www.youtube.com/caclubindia?sub_confirmation=1" target="_blank" style="font-size:42px; margin-right:8px">
 				<i class="fa fa-youtube-square"></i></a>
-				<!--<a href="/rss/" target="_blank" class="hidden-xs">
-				<i class="fa fa-rss-square"></i></a>-->
         </p>
 				</div>
 			</div>
@@ -762,10 +746,10 @@ $( document ).ready(function() {
 	</div>
 	</div>
 </div>
-<div id="footer_btm">
+<div id="footer_btm" class="hidden-xs">
 	<div class="container">
 	<div class="row">
-    <div class="col-md-6"><h5 style="padding:5px"><small>© 2016 CAclubindia.com. Let us grow stronger by mutual exchange of knowledge.</small> <br></h5></div>
+    <div class="col-md-6"><h5 style="padding:5px"><small>© 2017 CAclubindia.com. Let us grow stronger by mutual exchange of knowledge.</small> <br></h5></div>
     <div class="col-md-6">
     <div class="pull-right share_xs_center" style="padding-top:10px">
 		</div>
@@ -773,67 +757,82 @@ $( document ).ready(function() {
   </div>
 </div>
 </div>
-<div id="mySidenav" class="sidenav">
-  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
- <a href="/coaching/default.asp" title="CCI Online Coaching"><strong>Online Coaching</strong></a>
-  <a href="/coaching/my_enrolled_course.asp" title="Coaching"><strong>My Enrolled Courses</strong></a>
-  <hr>
-  
-  <a href="/articles/" title="Articles">Articles</a>
-  <a href="/forum/" title="Forum">Forum</a>
-  <a href="/news/" title="News">News</a>
-  <a href="/experts/" title="Experts">Experts</a>
-  <a href="/exams/" title="Exams">Exams</a>
-  <a href="/share_files/" title="Share Files">Share Files</a>
-  <a href="/category/income-tax.asp" title="Corporate Law">Income Tax</a>
-  <a href="/category/accounts.asp" title="Taxpayers">Accounts</a>
-  <a href="/category/career.asp" title="Career">Career</a>
-  <a href="/category/corporate-law.asp" title="Corporate Law">Corporate Law</a>
-  <a href="/category/service-tax.asp" title="Taxpayers">Service Tax</a>
-   <a href="/video/" title="Video">Video</a>
-   <a href="/Judiciary/" title="Judgements">Judgements</a>
-   <a href="/cci_awards/" title="Rewards">Rewards</a>
-   <a href="/top_members_list.asp" title="Top Members">Top Members</a>
-   <a href="/Events/" title="Events">Events</a>
-   <a href="/albums/" title="Albums">Albums</a>
-   <a href="/viral/" title="Find Friends">Find Friends</a>
-   <a href="/catalogue/featured.asp" title="Featured">Featured</a>
-   <a href="/stream/" title="Feed">Feed</a>
-   <a href="/scorecard_details.asp" title="Scorecard">Scorecard</a>
-   <a href="/bookmark/" title="Bookmarks">Bookmarks</a>
-   <a href="/mock_test/" title="Mock Test">Mock Test</a>
-   <a href="/poll/" title="Poll">Poll</a>
-   <a href="/notice_circulars/" title="Notification">Notification</a>
-   <a href="/quickfinder/" title="Knowledge Finder">Knowledge Finder</a>
-   <a href="/castudents/" title="Coaching Institutes">Coaching Institutes</a>
-   <a href="/article_trainee_corner/" title="Trainee Corner">Trainee Corner</a>
-   <!-- <a href="/yearinreview/2015.asp" title="Year in Review 2015">Year in Review 2015</a> -->
-   <a href="/ccc/" title="Jobs">Jobs</a>
-   
-</div>
 
-<script>
-function openNav() {
-  document.getElementById("mySidenav").style.width = "250px";
-  document.getElementByClass("container").style.marginLeft = "250px";
-  document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
-}
 
-function closeNav() {
-  document.getElementById("mySidenav").style.width = "0";
-  document.getElementByClass("container").style.marginLeft= "0";
-  document.body.style.backgroundColor = "white";
-}
-</script>
+<div id="myNav" class="overlay">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
+    <div class="overlay-content">
+      <h3 class="sub_header" style="color:#0092dd; padding-left:0; margin-left:0"><object id="svgObject" fill="#0092dd" data="/img/cci_logo_white.svg" type="image/svg+xml" height="29" width="23" style="float: none"> </object>&nbsp;&nbsp;CCI MENU</h3>
+      <div>
+        <div class="col-md-2 col-sm-2 hidden-xs">
+        </div>
+        <div class="col-md-2 col-xs-6 col-sm-4">
+          <div class="hidden-xs hidden-sm"><br><br></div>
+          <a href="/coaching/default.asp" title="CCI Online Coaching"><strong>Online Coaching</strong></a>
+          <a href="/articles/" title="Articles">Articles</a>
+          <a href="/forum/" title="Forum">Forum</a>
+          <a href="/news/" title="News">News</a>
+          <a href="/experts/" title="Experts">Experts</a>
+          <a href="/catalogue/featured.asp" title="Featured">Featured</a>
+          <a class="hidden-xs" href="/scorecard_details.asp" title="Scorecard">Scorecard</a>
+          <a class="hidden-xs" href="/category/income-tax.asp" title="Corporate Law">Income Tax</a>
+        </div>
+        <div class="col-md-2 col-xs-6 col-sm-4">
+          <div class="hidden-xs hidden-sm"><br><br></div>
+          <a href="/coaching/my_enrolled_course.asp" title="Coaching"><strong>Enrolled Course</strong></a>
+          <a href="/share_files/" title="Share Files">Share Files</a>
+          <a href="/stream/" title="Feed">Feed</a>
+          <a href="/bookmark/" title="Bookmarks">Bookmarks</a>
+          <a href="/mock_test/" title="Mock Test">Mock Test</a>
+          <a href="/poll/" title="Poll">Poll</a>
+          <a class="hidden-xs" href="/category/accounts.asp" title="Taxpayers">Accounts</a>
+          <a class="hidden-xs" href="/category/career.asp" title="Career">Career</a>
+        </div>
+        <div class="visible-sm">
+          <div class="row">
+          </div>
+          <div class="col-sm-2">
+          </div>
+        </div>
+        <div class="col-md-2 col-xs-6 col-sm-4">
+          <div class="hidden-xs hidden-sm"><br><br></div>
+          <a href="/ccc/" title="Jobs">Jobs</a>
+           <a href="/video/" title="Video">Video</a>
+           <a href="/Judiciary/" title="Judgements">Judgements</a>
+           <a href="/cci_awards/" title="Rewards">Rewards</a>
+           <a class="hidden-xs" href="/Events/" title="Events">Events</a>
+           <a href="/quickfinder/" title="Knowledge Finder">Knowledge Finder</a>
+           <a href="/exams/" title="Exams" class="hidden-xs">Exams</a>
+           <a class="hidden-xs" href="/category/corporate-law.asp" title="Corporate Law">Corporate Law</a>
+
+        </div>
+        <div class="col-md-2 col-xs-6 col-sm-4">
+          <div class="hidden-xs hidden-sm"><br><br></div>
+          <a href="/viral/" title="Find Friends">Find Friends</a>
+          <a class="hidden-xs" href="/top_members_list.asp" title="Top Members">Top Members</a>
+          <a href="/notice_circulars/" title="Notification">Notification</a>
+          <a href="/albums/" title="Albums">Albums</a>
+          <a href="/castudents/" title="Coaching Institutes">Coaching Institutes</a>
+          <a href="/article_trainee_corner/" title="Trainee Corner">Trainee Corner</a>
+          <a class="hidden-xs" href="/category/service-tax.asp" title="Taxpayers">Service Tax</a>
+        </div>
+        <div class="col-md-2 col-sm-2 hidden-xs">
+        </div>
+
+      </div>
+    </div>
+  </div>
+
 <!--<a id="back-to-top" href="#" class="btn btn-primary btn-lg back-to-top" role="button" title="Click to return on the top page" data-toggle="tooltip" data-placement="left"><i class="fa fa-arrow-up"></i></a>-->
 
 <!-- Large modal -->
 <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
   <div class="modal-dialog modal-lg">
-    <div class="modal-content"> 
-    <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:10px">×</button>
+    <div class="modal-content">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true" style="padding-right:10px">x</button>
       <div class="row" style="padding:0 20px">
-      <div class="col-lg-12"><h3>Sign-in to your account</h3><br><br>
+      <div class="col-lg-12">
+
       <script language="JavaScript" type="text/javascript"><!--
 function FrontPage_Form1_Validatorlogin(theForm)
 {
@@ -858,13 +857,15 @@ function FrontPage_Form1_Validatorlogin(theForm)
   return (true);
 }
 //--></script>
-      <div class="col-lg-7">
+      <div class="col-lg-8">
+        <h3>Sign-in</h3>
+        <div class="hidden-xs"><br><br></div>
 	      <form action="/user_login.asp" method="post" role="form" name="FrontPage_Formlogin" onsubmit="return FrontPage_Form1_Validatorlogin(this)">
 			  <div class="form-group">
 			    <label for="exampleInputEmail1">User name/ Email address</label>
 			    <input name="username" type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
 			  </div>
-			  <div class="form-group"> 
+			  <div class="form-group">
 			    <label for="exampleInputPassword1">Password</label>
 			    <input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
 			    <input name="redirect" type="hidden" value="/privacy_policy.asp?">
@@ -873,26 +874,52 @@ function FrontPage_Form1_Validatorlogin(theForm)
 				  <label>
 			      <input type="checkbox" name="remember" style="width: 20px" value="1" checked=""> Remember Me
 			    </label>
+                         <span class="pull-right"><a href="/user_forgotpassword.asp" style="color:#898b8c; font-size:12px">Forgot Password ?</a></span>
 			  </div>
-		  <a href="/user_forgotpassword.asp" style="color:#898b8c; font-size:12px">Forgot your Password??</a><br><br>
+		  
 		  <!--<button type="submit" name="submit" class="btn btn-primary">Login</button>  -->
-		  <input class="btn btn-primary" name="submit" type="submit" value="Login">
-		</form>
-	<br>
-	</div>
-   	<div class="col-lg-5">
-      	<h4>Sign up Now</h4>  	      	
-      	<p style="line-height:24px">Join CAclubindia.com and Share your Knowledge. Registered members get a chance to interact at Forum, Ask Query, Comment etc.</p>
-      	<br>
-      	<a href="/user_signup.asp" class="btn btn-danger">      	
-      	Register Now</a></div>
+		  <input class="btn btn-primary hidden-xs" name="submit" type="submit" value="Login">
+
+      <div class="visible-xs">
+        <div class="col-xs-6">
+        <input class="btn btn-primary btn-block" name="submit" type="submit" value="Login">
+        </div>
+        <div class="col-xs-6">
+          <a href="/user_signup.asp" class="btn btn-danger btn-block">Register </a>
+        </div>
+        <div class="clearfix"></div>
       </div>
-    </div>
-	<br>
+
+		</form>
+	<br class="hidden-xs">
+	</div>
+  <div class="col-lg-4">
+      <br>
 <p align="center" style="background:white">Alternatively, you can log in using: <br>
 <a href="/login/facebook/"><img src="/login/img/facebook_login.png" title="login with facebook" style="padding:5px;" class="img-responsive"></a>
+
+
+
 <a href="/login/google/"><img src="/login/img/gplus_login.png" title="login with Google" style="padding:5px;" class="img-responsive"></a>
 </p>
+
+
+
+      <div class="hidden-xs">
+        <center>
+      	<h4>Sign up Now</h4>
+      	<p style="line-height:24px">Join CAclubindia.com and Share your Knowledge. Registered members get a chance to interact at Forum, Ask Query, Comment etc.</p>
+      	
+      	<a href="/user_signup.asp" class="btn btn-danger btn-block">
+      	Register Now</a>
+<br>
+      </center>
+      
+      </div>
+
+      </div>
+      </div>
+    </div>
 
   </div>
 </div>
@@ -904,8 +931,15 @@ function FrontPage_Form1_Validatorlogin(theForm)
 </div>
 </div>
 <!-- register modal End-->
+
 <!--include file="coaching_cookie_iiml.asp"-->
 
+<style>
+@media print {
+    .no-print {display: none !important}
+}
+
+</style>
 <script type="text/javascript">
 var donotshow='0';
 //alert(screen.width);
@@ -943,17 +977,19 @@ if (donotshow=='0')
     });
    
 </script>
-<div id="call_backfloat">
+<div id="call_backfloat" class="no-print">
 		<div style="text-align:right">
 		<a class="closefloat" style="cursor: pointer">close x</a><br>
 		
 
-			
-			<a href="/coaching/450-financial-reporting.asp"><img src="/coaching/img/recomand_box_rawat_new.png"></a>
-			
+			<a href="/coaching/457-corporate-and-allied-laws.asp"><img src="/coaching/img/recomand_box_mahes_new.png"></a>
+		
+
 
 		</div>
 </div>
+
+
 
 
 <script type="text/javascript">
@@ -963,9 +999,9 @@ if (donotshow==0)
 {
 
         if ($(this).scrollTop() > 300) {
-            $('#call_back').fadeIn();
+            $('.call_back').fadeIn();
         } else {
-            $('#call_back').fadeOut();
+            $('.call_back').fadeOut();
         }
     }
     });
@@ -1023,10 +1059,10 @@ if (donotshow==0)
 
 
 
-<ul id="share_bar_modern">
+<ul id="share_bar_modern" class="no-print">
 <img alt="" src="/img/share_bar/share.png" style="width:43px">
 
-	<!--<li class="yearreview"><a href="http://www.caclubindia.com/yearinreview/2015.asp" rel="nofollow"></a></li>-->
+	<!--<li class="yearreview"><a href="/yearinreview/2015.asp" rel="nofollow"></a></li>-->
 	<li class="facebook_share"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww%2Ecaclubindia%2Ecom%2Fprivacy%5Fpolicy%2Easp" title="facebook" target="_blank" class="sharebyjs" rel="nofollow"></a></li>
 	<li class="twitter_share"><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww%2Ecaclubindia%2Ecom%2Fprivacy%5Fpolicy%2Easp&amp;text=CAclubindia : PRIVACY POLICY" title="twitter" class="sharebyjs" target="_blank" rel="nofollow"></a></li>
 	<li class="g_plus_share"><a href="https://plus.google.com/share?url=http%3A%2F%2Fwww%2Ecaclubindia%2Ecom%2Fprivacy%5Fpolicy%2Easp" title="gplus" target="_blank" class="sharebyjs" rel="nofollow"></a></li>
@@ -1034,7 +1070,7 @@ if (donotshow==0)
 	
 
 	
-<li class="more_share"><a class="variousadd fancybox.ajax" href="/includes/share_inc_more.asp?mod_id=&amp;module_name=&amp;share_title2=CAclubindia : PRIVACY POLICY&amp;share_url2=http%3A%2F%2Fwww%2Ecaclubindia%2Ecom%2Fprivacy%5Fpolicy%2Easp" rel="nofollow"></a></li>
+<li class="more_share"><a class="variousadd fancybox.ajax" href="/includes/share_inc_more.asp?mod_id=&amp;module_name=&amp;share_url2=http%3A%2F%2Fwww%2Ecaclubindia%2Ecom%2Fprivacy%5Fpolicy%2Easp&amp;share_title2=CAclubindia : PRIVACY POLICY" rel="nofollow"></a></li>
 
 </ul>
 <script type="text/javascript">
@@ -1052,8 +1088,9 @@ if (donotshow==0)
                 );
             });
         </script>
-<div id="fix_share" class="visible-xs"><a class="variousadd fancybox.ajax" href="/includes/share_inc_more.asp?mod_id=&amp;module_name=&amp;share_title2=CAclubindia : PRIVACY POLICY&amp;share_url2=http%3A%2F%2Fwww%2Ecaclubindia%2Ecom%2Fprivacy%5Fpolicy%2Easp" rel="nofollow" style="text-decoration:none"><i class="fa fa-share-alt" aria-hidden="true"></i>&nbsp; SHARE THIS</a>
-</div>
+
+<!--<div id="fix_share" class="visible-xs"><a class="variousadd fancybox.ajax" href="/includes/share_inc_more.asp?mod_id=&module_name=&share_title2=CAclubindia : PRIVACY POLICY&share_url2=http%3A%2F%2Fwww%2Ecaclubindia%2Ecom%2Fprivacy%5Fpolicy%2Easp" rel="nofollow" style="text-decoration:none"><i class="fa fa-share-alt" aria-hidden="true"></i>&nbsp; SHARE THIS</a>
+</div>-->
 
 <style>
 
@@ -1144,6 +1181,16 @@ document.oncopy = addLink;
 <script src="//cdn.izooto.com/scripts/329a128322ce879693d225908720c22aa7473fb4.js"> </script>
 
 
+<script>
+function openNav() {
+    document.getElementById("myNav").style.height = "100%";
+}
+
+function closeNav() {
+    document.getElementById("myNav").style.height = "0%";
+}
+</script>
+
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 <!--
 <script src="/campaign/ads.js"></script>
@@ -1153,7 +1200,7 @@ document.oncopy = addLink;
         // adblocker detected, show fallback
         //alert('ad blocker detected');
 		//$.post( "/chat/local.asp", { page_url: '', ad_count: 0 } );
-		
+
 
 
 document.write("<img src='//c.statcounter.com/4290942/0/c62adda3/1/' style='display:none;'>");
@@ -1175,6 +1222,7 @@ document.write("<img src='//c.statcounter.com/4290942/0/c62adda3/1/' style='disp
 	
 
   ga('create', 'UA-1503692-1', 'caclubindia.com');
+  ga('require', 'GTM-KNCMRTF');
   ga('send', 'pageview');
 
-</script></body></html>
+</script></div></body></html>
