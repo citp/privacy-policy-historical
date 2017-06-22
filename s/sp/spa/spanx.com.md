@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120131436id_/http%3A//www.spanx.com/customer-service/safety-security-and-privacy/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622133309id_/http%3A//www.spanx.com/customer-service/safety-security-and-privacy/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
