@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203074147id_/http%3A//www.concept2.com/company/internet-policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622160511id_/http%3A//www.concept2.com/company/internet-policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Concept2
 
 This is the website of Concept2, Inc.
 
-We constantly review our privacy practices, especially as we change the services offered to you online. As we make such changes, our privacy practices may change as well. Any such changes will be reflected in our privacy policy, which will be posted on this page without notification. Please send any questions regarding this privacy policy to [website@concept2.com](mailto:website@concept2.com).
+We constantly review our privacy practices, especially as we change the services offered to you online. As we make such changes, our privacy practices may change as well. Any such changes will be reflected in our privacy policy, which will be posted on this page without notification. Please send any questions regarding this privacy policy to [rowing@concept2.com](mailto:rowing@concept2.com).
 
 Our postal address is Concept2, Inc., 105 Industrial Park Drive, Morrisville, VT 05661 USA.
 
@@ -16,7 +16,7 @@ The information we collect is used to improve the content of our website and is 
 
 Concept2 uses Google Analytics to provide aggregate user information to determine the popularity and usage patterns of our web pages. In order to gather this aggregate information, Google Analytics cookies are set during each visit to any Concept2 online property. For more information on Google Analytics and their privacy policy, visit [google.com/privacy.html](http://www.google.com/privacy.html).
 
-Concept2 may collect anonymous crash and usage statistics from our apps such as [ErgData](https://web.archive.org/service/software/ergdata) and the [Concept2 Utility](https://web.archive.org/service/software/concept2-utility) to help us debug and improve our products and services. For more information about this, please contact [website@concept2.com](mailto:website@concept2.com).
+Concept2 may collect anonymous crash and usage statistics from our apps such as [ErgData](https://web.archive.org/service/software/ergdata) and the [Concept2 Utility](https://web.archive.org/service/software/concept2-utility) to help us debug and improve our products and services. For more information about this, please contact [rowing@concept2.com](mailto:rowing@concept2.com).
 
 If you do not want to receive email from us in the future, please let us know by contacting us at the above address and telling us that you do not want to receive email from our company.
 
