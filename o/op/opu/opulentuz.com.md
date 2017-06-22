@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opulentuz.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527130203id_/https%3A//www.opulentuz.com/immigration/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opulentuz.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622170435id_/https%3A//www.opulentuz.com/immigration/privacy-policy) for the most accurate reproduction.*
 
 # Opulentus Privacy Policy | Opulentus Complaints
 
