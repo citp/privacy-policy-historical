@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptc.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234039id_/http%3A//www.ptc.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptc.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622082921id_/http%3A//www.ptc.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PTC
 
@@ -6,7 +6,7 @@ _LAST UPDATED 11-November-2016_
 
 **PTC Inc.** and its subsidiaries and affiliates ("We" or "PTC") are committed to protecting and respecting your privacy.
 
-This Privacy Policy ("Policy") sets out the basis on which we process any personal data we collect from or about you, or that you or any third party provide to us, not only from the use of our website at [www.ptc.com](https://web.archive.org/), but also in connection with managing our workforce, conducting our business, and from any other means. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This Privacy Policy ("Policy") sets out the basis on which we process any personal data we collect from or about you, or that you or any third party provide to us, not only from the use of our website at [www.ptc.com](https://web.archive.org/en), but also in connection with managing our workforce, conducting our business, and from any other means. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 "Personal data" means any information or set of information that identifies or can reasonably be used to identify an individual. Personal data does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal data.
 
@@ -16,7 +16,7 @@ PTC’s subsidiaries in the European Union (EU) may have need to transfer person
 
 ### SAFE HARBOR
 
-With respect to the receipt and processing of personal data from individuals that originates in the European Union (EU) or Switzerland, PTC Inc has and remains certified to the Safe Harbor Framework between the United States and the European Union, and to the Safe Harbor Framework between the United States and Switzerland. Accordingly, PTC Inc adheres to the Safe Harbor Privacy Principles and Frequently Asked Questions, as agreed by the U.S. Department of Commerce and the European Commission (the "Safe Harbor Principles"). To learn more about the Safe Harbor Framework and to view PTC Inc’s certification, please visit: <http://export.gov/safeharbor>. PTC Inc’s Safe Harbor Privacy Policy is publicly displayed at [www.ptc.com](https://web.archive.org/policies/privacy).
+With respect to the receipt and processing of personal data from individuals that originates in the European Union (EU) or Switzerland, PTC Inc has and remains certified to the Safe Harbor Framework between the United States and the European Union, and to the Safe Harbor Framework between the United States and Switzerland. Accordingly, PTC Inc adheres to the Safe Harbor Privacy Principles and Frequently Asked Questions, as agreed by the U.S. Department of Commerce and the European Commission (the "Safe Harbor Principles"). To learn more about the Safe Harbor Framework and to view PTC Inc’s certification, please visit: <http://export.gov/safeharbor>. PTC Inc’s Safe Harbor Privacy Policy is publicly displayed at [www.ptc.com](https://web.archive.org/en/policies/privacy).
 
 ### INFORMATION WE MAY COLLECT FROM OR ABOUT YOU
 
@@ -24,7 +24,7 @@ _Personal Data_
 
 We may collect and process the following data about you:
 
-  * Information that you provide by filling in forms on our internal or external sites, including [www.ptc.com](https://web.archive.org/) (our sites), and information you provide on independent partner sites (such as Digital River, which offers PTC's on-line store) that is transferred to us. This includes information provided at the time of registering to use our sites, subscribing to our services (for example PTC University or maintenance plans), posting material or requesting further services. We may also ask you for information when you report a problem with our sites, our software and services or reporting suspected piracy.
+  * Information that you provide by filling in forms on our internal or external sites, including [www.ptc.com](https://web.archive.org/en) (our sites), and information you provide on independent partner sites (such as Digital River, which offers PTC's on-line store) that is transferred to us. This includes information provided at the time of registering to use our sites, subscribing to our services (for example PTC University or maintenance plans), posting material or requesting further services. We may also ask you for information when you report a problem with our sites, our software and services or reporting suspected piracy.
   * If you contact us, we may keep a record of that correspondence.
   * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
   * Details of transactions you carry out and of the fulfillment of your orders, including the downloading of software.
@@ -112,7 +112,7 @@ It is PTC's policy to never sell your information to list brokers or similar ent
 
 You have the right to ask us not to process your personal data ("opt-out"). We will usually inform you (before collecting your data) how we intend to use your data or if we intend to disclose your information to any third party for the purpose for which it was collected. You can exercise your opt-out right to prevent such processing by checking certain boxes on the forms we use to collect your data as well as a later time as described below. Similarly, our Quality Agent functionality in certain of our software products may be configured to opt-out of data collection (this may not be available in free versions of our software so to opt-out you simply do not download and use that free software).
 
-Upon request, we will provide you with reasonable access to personal data about you in our possession, and will take reasonable steps to permit you to correct, amend, or delete personal data that you demonstrate to be inaccurate or incomplete. If you have a PTC.com online account you may access the data that PTC.com has recorded and update or correct the information at any time. You may also opt-out of future correspondence by updating your preferences. To do this go to [www.ptc.com](https://web.archive.org/) and visit Customer Accounts. If you don't have an account or are unable to locate your account information, you can create one or you may request a copy of the personal data we have stored and/or exercise your opt-out right by contacting [dataupdate@ptc.com](mailto:dataupdate@ptc.com). When updating personal data about you, we may ask you to verify your identity before we can act on your request.
+Upon request, we will provide you with reasonable access to personal data about you in our possession, and will take reasonable steps to permit you to correct, amend, or delete personal data that you demonstrate to be inaccurate or incomplete. If you have a PTC.com online account you may access the data that PTC.com has recorded and update or correct the information at any time. You may also opt-out of future correspondence by updating your preferences. To do this go to [www.ptc.com](https://web.archive.org/en) and visit Customer Accounts. If you don't have an account or are unable to locate your account information, you can create one or you may request a copy of the personal data we have stored and/or exercise your opt-out right by contacting [dataupdate@ptc.com](mailto:dataupdate@ptc.com). When updating personal data about you, we may ask you to verify your identity before we can act on your request.
 
 You may also opt-out of future correspondence by updating your preferences using the link on the footer of e-mail correspondence.
 
