@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2012-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121022192425id_/http%3A//www.conferenceboard.ca/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conferenceboard.ca privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622125214id_/http%3A//www.conferenceboard.ca/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,11 +68,13 @@ This information is used primarily to determine an individual's entitlement to T
 
 
 
-The Conference Board of Canada routinely collects anonymous, non-personal information through our Web servers. This is information that is not associated with or traced back to a specific individual. Gathered electronically, this information includes the type of Web browser used, the level of encryption a browser supports and the Internet Protocol address. This information may be used for research and analytical purposes, to examine how the Web site is being used and to determine how it can be improved. 
+### Cookies
 
-The Conference Board of Canada also uses cookies. A cookie is a small piece of information that is sent to your computer when you access a Web site. There are two kinds of cookies. A session cookie is stored temporarily in your computer’s memory. A session cookie is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved to your hard drive. 
+The Conference Board of Canada collects and stores information through our web servers and persistent cookies. Gathered electronically, this information includes the pages visited, referral type, technology used and the Internet Protocol address. This information may be used for the purposes identified in this policy. 
 
-We use session cookies on the Conference Board Web site, to allow you to gain access to a document you requested prior to being signed in. Persistent cookies are used to store your encrypted user ID and password, so that you won’t have to type it in each time that you access our e-Library. This persistent cookie is set if you click on “Remember my sign-in information.” A persistent cookie is also set by our web analytics service to collect anonymous, non-personal information. This is information is not associated with or traced back to a specific individual. This information may be used for research and analytical purposes, to examine how the Web site is being used and to determine how it can be improved. 
+The Conference Board of Canada uses cookies. A cookie is a small piece of information that is sent to your computer when you access a Web site. There are two kinds of cookies. A session cookie is stored temporarily in your computer’s memory. A session cookie is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved to your hard drive. 
+
+We use session cookies on the Conference Board Web site, to allow you to gain access to a document you requested prior to being signed in. Persistent cookies are used to store your encrypted user ID and password, so that you won’t have to type it in each time that you access our e-Library. This persistent cookie is set if you click on “Remember my sign-in information.” Persistent cookies are also used by our web and marketing analytic services. 
 
 ### Consent 
 
