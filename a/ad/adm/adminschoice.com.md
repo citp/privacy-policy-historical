@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008063113id_/http%3A//adminschoice.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adminschoice.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622184652id_/http%3A//www.adminschoice.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Admin's Choice - Choice of Unix and Linux administrators
-
-## Privacy Statement
+# Privacy Statement
 
 The following discloses the information gathering and dissemination practices for this Web site: AdminsChoice.com
 
