@@ -1,96 +1,39 @@
-> *The following text is extracted and transformed from the healthydebates.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617164949id_/http%3A//healthydebates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthydebates.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622193224id_/http%3A//www.healthydebates.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Healthy Debates
+# PRIVACY | Healthy Debates
 
-**What information do we collect?**
+HEALTHY DEBATES (“ **HEALTHY DEBATES** “) operates HEALTHYDEBATES.COM and may operate other websites. It is HEALTHY DEBATES’S policy to respect your privacy regarding any information we may collect while operating our websites.
 
-We collect information from you when you place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+### Website Visitors
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or Dishaw Media Group. You may, however, visit our site anonymously.
+Like most website operators, HEALTHY DEBATES collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. HEALTHY DEBATES’S purpose in collecting non-personally identifying information is to better understand how HEALTHY DEBATES’S visitors use its website. From time to time, HEALTHY DEBATES may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.  
-Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+HEALTHY DEBATES also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on HEALTHYDEBATES.COM blogs/sites. HEALTHY DEBATES only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-**What do we use your information for?**
+### Gathering of Personally-Identifying Information
 
-Any of the information we collect from you may be used in one of the following ways:
+Certain visitors to HEALTHY DEBATES’S websites choose to interact with HEALTHY DEBATES in ways that require HEALTHY DEBATES to gather personally-identifying information. The amount and type of information that HEALTHY DEBATES gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [HEALTHYDEBATES.COM](http://www.healthydebates.com/) to provide a username and email address. Those who engage in transactions with HEALTHY DEBATES are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, HEALTHY DEBATES collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with HEALTHY DEBATES. HEALTHY DEBATES does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+### Aggregated Statistics
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+HEALTHY DEBATES may collect statistics about the behavior of visitors to its websites. HEALTHY DEBATES may display this information publicly or provide it to others. However, HEALTHY DEBATES does not disclose personally-identifying information other than as described below.
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+### Protection of Certain Personally-Identifying Information
 
-; To process transactions
+HEALTHY DEBATES discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on HEALTHY DEBATES’S behalf or to provide services available at HEALTHY DEBATES’S websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using HEALTHY DEBATES’S websites, you consent to the transfer of such information to them. HEALTHY DEBATES will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, HEALTHY DEBATES discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when HEALTHY DEBATES believes in good faith that disclosure is reasonably necessary to protect the property or rights of HEALTHY DEBATES, third parties or the public at large. If you are a registered user of an HEALTHY DEBATES website and have supplied your email address, HEALTHY DEBATES may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with HEALTHY DEBATES and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. HEALTHY DEBATES takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+### Cookies
 
-; To administer a contest, promotion, survey or other site feature
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. HEALTHY DEBATES uses cookies to help HEALTHY DEBATES identify and track visitors, their usage of HEALTHY DEBATES website, and their website access preferences. HEALTHY DEBATES visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using HEALTHY DEBATES’S websites, with the drawback that certain features of HEALTHY DEBATES’S websites may not function properly without the aid of cookies.
 
-; To send periodic emails
+### Business Transfers
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+If HEALTHY DEBATES, or substantially all of its assets, were acquired, or in the unlikely event that HEALTHY DEBATES goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of HEALTHY DEBATES may continue to use your personal information as set forth in this policy.
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+### Ads
 
-**How do we protect your information?**
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by HEALTHY DEBATES and does not cover the use of cookies by any advertisers.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+### Privacy Policy Changes
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
-
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
-
-**Do we use cookies?**
-
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
-
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-**Do we disclose any information to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
-**California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-**Childrens Online Privacy Protection Act Compliance**
-
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
-
-**Online Privacy Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://healthydebates.com/terms-conditions/>
-
-**Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
-
-**Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Healthy Debates  
-PO Box 1884  
-Ellicott City, Maryland 21043  
-United States  
-healthydebates.com@gmail.com
-
-<http://healthydebates.com/contact/>
+Although most changes are likely to be minor, HEALTHY DEBATES may change its Privacy Policy from time to time, and in HEALTHY DEBATES’S sole discretion. HEALTHY DEBATES encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a HEALTHYDEBATES.COM account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
