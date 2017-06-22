@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247backlinks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119033957id_/http%3A//247backlinks.info/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247backlinks.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622070124id_/http%3A//247backlinks.info/privacyPolicy.php) for the most accurate reproduction.*
 
 # 247Backlinks Privacy Policy
 
