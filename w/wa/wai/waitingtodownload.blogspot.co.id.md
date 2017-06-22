@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waitingtodownload.blogspot.co.id privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015316id_/http%3A//waitingtodownload.blogspot.com/p/blog-page.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitingtodownload.blogspot.co.id privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622165305id_/http%3A//waitingtodownload.blogspot.com/p/blog-page.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
