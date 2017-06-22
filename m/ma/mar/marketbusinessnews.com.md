@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketbusinessnews.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221103232id_/http%3A//marketbusinessnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketbusinessnews.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622105318id_/http%3A//marketbusinessnews.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Market Business News
 
