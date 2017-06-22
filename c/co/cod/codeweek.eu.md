@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codeweek.eu privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122011543id_/http%3A//codeweek.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeweek.eu privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623014153id_/http%3A//codeweek.eu/privacy) for the most accurate reproduction.*
 
-# Europe Code Week 2016 - Privacy policy
+# Europe Code Week 2017 - Privacy policy
 
-CodeWeekEU2016
+EU Code Week 2017
 
   1. [Home](http://codeweek.eu/)
   2. Privacy policy
