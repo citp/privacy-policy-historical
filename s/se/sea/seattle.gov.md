@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229233718id_/http%3A//www.seattle.gov/tech/initiatives/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattle.gov privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622032021id_/http%3A//www.seattle.gov/tech/initiatives/privacy) for the most accurate reproduction.*
 
 # Privacy - Tech | seattle.gov
 
@@ -21,6 +21,10 @@ Adopted in July 2015, this [policy](http://www.seattle.gov/Documents/Departments
 ## **Privacy Statement**
 
 Informed by the Privacy Principles, the Privacy Statement outlines our commitments about the collection and management of the public's personal information and both replaces and expands on our former [Online Privacy Statement](http://www.seattle.gov/tech/initiatives/privacy#x58255).
+
+## **Privacy Impact Assessments**
+
+A Privacy Impact Assessment is designed to outline the anticipated privacy impacts from a City project or program that collects, manages, retains or shares personal information from the public. The PIA helps identify details that will be used to determine how privacy impacts may be mitigated or reduced in accordance with the City of Seattle Privacy Principles and Privacy Statement. The City publishes information from key programs of public interest or impact.
 
 ## 
 
