@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildblue.net privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120014754id_/http%3A//www.exede.com/documents/master/exede-subscriber-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildblue.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622042335id_/http%3A//www.exede.com/documents/master/exede-subscriber-privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
