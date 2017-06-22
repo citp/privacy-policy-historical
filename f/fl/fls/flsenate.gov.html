@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flsenate.gov privacy policy that was archived on 2016-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161208091533id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flsenate.gov privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622145840id_/http%3A//flsenate.gov/About/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -41,17 +41,7 @@ Privacy Statement - The Florida Senate
             <p class="grid-50 righttext">Senate Tracker: <a href="/Tracker/Signup">Sign Up</a> | <a href="/Tracker/Login">Login</a> </p>
 
     </div>
-    <!-- Htop: end -->
-    <!-- Watch Session: begin  -->
-    
-    <div id="watchNow" class="grid-100 grid-parent clearfix nodisplay">
-        <p class="grid-100"><span class="title"><a href="/SenateLive" target="Live">Senate Live</a></span> <span class="billNumber" id="BillNumber"></span> by <span id="BillOwner"></span> <span class="billTitle" id="BillTitle"></span> <a href="/SenateLive" target="Live">Watch Now</a></p>
-        
-    </div>
-    
-   
-    
-    
+    <!-- Htop: end -->    
     <!-- Watch Session: end -->
     <div class="grid-container">
         <div class="grid-100">
@@ -61,14 +51,15 @@ Privacy Statement - The Florida Senate
                 <div id="searchbox">
                     <!--Go to Bill-->
                     <form action="/Session/Bill" method="post" class="form-inline">
-                        <input name="__RequestVerificationToken" type="hidden" value="Q_iEQMaH9Yz0Va8G_21MeIk2EPE_iOpnwirRpM0RzaXPJuMLTESJpFrT2Csr4bFJBHwbEMaz7mZY83C7_wLWmJXgFnu9zJZS7e9L0F2XXyw1">
+                        <input name="__RequestVerificationToken" type="hidden" value="nkQp0WyRtIqunZjZA000U45eGQtFLIaIzfi1IIfd6cuDcw6XbUj1AYrW5B3FzgDA0y7Bevua97WgMF9VroC0uMDrvVfBf4BBKyaMeRSLSNQ1">
                         <span>
                             <label for="BillNumber">Go to Bill:</label>
                         </span>
                         <input type="search" class="input-mini-em" name="BillNumber" placeholder="Bill #">
                         <label class="print" for="billYear">Year:</label>
                         <select name="SessionYear" id="billYear">
-                                        <option value="2017" selected="selected">2017</option>    
+                                        <option value="2017A" selected="selected">2017A</option>    
+            <option value="2017">2017</option>        
             <option value="2016O">2016O</option>        
             <option value="2016">2016</option>        
             <option value="2015C">2015C</option>        
@@ -87,12 +78,13 @@ Privacy Statement - The Florida Senate
             <option value="2010O">2010O</option>        
 
                         </select>
+                        <input type="hidden" name="FromGoToBill" value="True">
                         <input type="submit" value="Go" class="blue button round">
                     </form>
-                    <input type="hidden" id="DefaultSessionYear" value="2017"> 
+                    <input type="hidden" id="DefaultSessionYear" value="2017A"> 
                     <!-- Search Statutes -->
                     <form action="/Laws/Statutes" method="post" class="form-inline statuebox">
-                        <input name="__RequestVerificationToken" type="hidden" value="7T49VtDeE4vSShhKXB7n39ec5DA59bOAN8SmR8CRZgKlcC1xHzadENfuJ2RZbR3X6iwM6ql_WCPv3ZW6pVJkFdwevxWaBPOEZM2rZcd6A141">
+                        <input name="__RequestVerificationToken" type="hidden" value="NHkgqjcUaFHZ7Y9BqMTUTCeod7XGs0jYxSfIUzzaQcGFpU2bKd-Fk6oJygsHh4jxmdjNUFaaAhbJMH0-l7F-Z3mxMbgIaE5OCZCIi8Ys5YY1">
                         <span>Find Statutes:</span>
                         <label class="print" for="statuteYear">Year:</label>
                         <select name="StatuteYear" id="statuteYear">
@@ -149,9 +141,10 @@ Privacy Statement - The Florida Senate
                                     <div id="spotlightsMenu" class="col_2">
                                         <h2>Spotlights</h2>
                                                 <ol>
-                            <li>2016 Organization Session</li>
-                            <li><a class="GASlideMenuLink" href="http://www.flsenate.gov/PublishedContent/ADMINISTRATIVEPUBLICATIONS/2016-2018SenateRules.pdf">2016-2018 Senate Rules</a></li>
-                            <li>2016 - 2017 Interim Committee Meetings</li>
+                        <li><a class="GASlideMenuLink" href="/Session/Appropriations/">2017-18 State Budget</a></li>
+                        <li><a class="GASlideMenuLink" href="/media/topics/highereducation">Excellence in Higher Education</a></li>
+                        <li><a class="GASlideMenuLink" href="http://www.flsenate.gov/Media/PressReleases/Show/2721">Tax Relief</a></li>
+                        <li><a class="GASlideMenuLink" href="/Committees/BillSummaries/2017/">2017 Bill Summaries</a></li>
        </ol>
 
 
@@ -196,13 +189,13 @@ Privacy Statement - The Florida Senate
                                 <div class="dropdown_3columns">
                                     <div class="col_1">
                                         <p><a href="/Session/Bills">Bills</a></p>
-                                        <p><a href="/Search/BillSearchTips">Help Searching Bills</a></p>
                                         <p><a href="/Session/Calendars">Calendars</a></p>
+                                        <p><a href="/Session/Journals">Journals</a></p>
                                     </div>
                                     <div class="col_1">
-                                        <p><a href="/Session/Journals">Journals</a></p>
-                                        <p><a href="/Session/Reports">Reports</a></p>
                                         <p><a href="/Session/Appropriations">Appropriations</a></p>
+                                        <p><a href="/Session/Conferences">Conferences</a></p>
+                                        <p><a href="/Session/Reports">Reports</a></p>
                                     </div>
                                     <div class="col_1">
                                         <p><a href="/Session/ExecutiveAppointments">Executive Appointments</a></p>
@@ -275,7 +268,6 @@ Privacy Statement - The Florida Senate
                                         <p><a href="/About/Contact">Contact Us</a></p>
                                         <p><a href="/About/Award">Award</a></p>
                                         <p><a href="/About/Opportunities">Page Program</a></p>
-
                                     </div>
                                 </div>
 
@@ -599,8 +591,9 @@ Privacy Statement - The Florida Senate
                             <li><a href="/Session/Bills">Bills</a></li>
                             <li><a href="/Session/Calendars">Calendars</a></li>
                             <li><a href="/Session/Journals">Journals</a></li>
-                            <li><a href="/Session/Reports">Reports</a></li>
                             <li><a href="/Session/Appropriations">Appropriations</a></li>
+                            <li><a href="/Session/Conferences">Conferences</a></li>
+                            <li><a href="/Session/Reports">Reports</a></li>
                             <li><a href="/Session/ExecutiveAppointments">Executive Appointments</a></li>
                             <li><a href="/Session/ExecutiveSuspensions">Executive Suspensions</a></li>
                             <li><a href="/Session/Redistricting">Redistricting</a></li>
@@ -632,7 +625,6 @@ Privacy Statement - The Florida Senate
                             <li><a href="/About/Contact">Contact Us</a></li>
                             <li><a href="/About/award">Award</a></li>
                             <li><a href="/About/Opportunities">Page Program</a></li>
-
                         </ul>
                     </div>
                     <div class="grid-20">
@@ -658,7 +650,7 @@ Privacy Statement - The Florida Senate
                     <div class="grid-20">
                         <p><a href="/About/Contact#connect">Connect with the Senate</a></p>
                         <ul class="inline">
-                            <li><a href="http://www.facebook.com/Gardiner.Andy" class="facebookIco16 commonIco iconOnly">Facebook</a></li>
+                            <li><a href="http://www.facebook.com/joenegronfl" class="facebookIco16 commonIco iconOnly">Facebook</a></li>
                             
                             <li><a href="http://www.twitter.com/flsenate" class="twitterIco16 commonIco iconOnly">Twitter</a></li>
                             <li><a href="/Tracker/RSS" class="rssIco16 commonIco iconOnly">RSS</a></li>
@@ -686,7 +678,7 @@ Privacy Statement - The Florida Senate
                     <p>
                         <span class="noPrint">
                             <a href="/About/Privacy">Privacy Statement</a>|<a href="/About/Accessibility">Accessibility</a><br>
-                        </span>Copyright © 2000- 2016 &nbsp;State of Florida.
+                        </span>Copyright © 2000- 2017 &nbsp;State of Florida.
                     </p>
                 </div>
                 <!-- Footer: end -->
