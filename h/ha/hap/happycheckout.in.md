@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happycheckout.in privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122213749id_/http%3A//happycheckout.in/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happycheckout.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622080530id_/http%3A//happycheckout.in/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy of happycheckout
 
