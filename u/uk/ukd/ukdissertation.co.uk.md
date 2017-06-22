@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukdissertation.co.uk privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819005914id_/http%3A//www.ukdissertation.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukdissertation.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622204328id_/http%3A//www.ukdissertation.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # UKDissertation.co.uk - Our Privacy Policy
 
