@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124130135id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcanoecigs.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622080050id_/http%3A//www.volcanoecigs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VOLCANO e-Cigs
 
