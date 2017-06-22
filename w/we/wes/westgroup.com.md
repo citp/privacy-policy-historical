@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531233927id_/http%3A//legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westgroup.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622050828id_/http%3A//legalsolutions.thomsonreuters.com/law-products/about/legal-notices/privacy) for the most accurate reproduction.*
 
 # Privacy | Legal Solutions
 
