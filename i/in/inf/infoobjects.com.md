@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoobjects.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217051629id_/http%3A//www.infoobjects.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoobjects.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622180250id_/http%3A//www.infoobjects.com/privacy) for the most accurate reproduction.*
 
 # Privacy | InfoObjects
 
@@ -81,4 +81,4 @@ You can exercise your right to prevent marketing communications to you by checki
 
 That’s it in a nutshell. The short of it is: we are interested in maintaining your privacy and creating a valuable, robust site with the best user experience possible.
 
-© InfoObjects 2016. All rights reserved. Apache Hadoop, Apache Spark, Apache Hadoop Logo, Apache Spark Logo are trademarks of the Apache Software Foundation.
+© InfoObjects 2017. All rights reserved. Apache Hadoop, Apache Spark, Apache Hadoop Logo, Apache Spark Logo are trademarks of the Apache Software Foundation.
