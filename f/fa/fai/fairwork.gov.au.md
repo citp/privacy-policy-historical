@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024200130id_/https%3A//www.fairwork.gov.au/website-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairwork.gov.au privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622190521id_/http%3A//www.fairwork.gov.au/website-information/privacy) for the most accurate reproduction.*
 
 # Privacy - Fair Work Ombudsman
 
@@ -8,7 +8,7 @@ We aim to offer an environment online that makes sure the information you give u
 
 We follow:
 
-These laws and guidelines are reflected in our Privacy policy. Download our [Privacy policy](https://web.archive.org/about-us/our-policies/our-policies) for more information.
+These laws and guidelines are reflected in our Privacy policy. Download our [Privacy policy](https://web.archive.org/about-us/our-policies#privacy) for more information.
 
 When you deal with us you have the right be anonymous and the right to use a pseudonym.
 
