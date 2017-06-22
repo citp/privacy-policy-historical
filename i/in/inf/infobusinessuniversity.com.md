@@ -1,101 +1,285 @@
-> *The following text is extracted and transformed from the infobusinessuniversity.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021165731id_/http%3A//infobusinessuniversity.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobusinessuniversity.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622183736id_/http%3A//e1kad.com/Legal/Privacy_Policy.pdf) for the most accurate reproduction.*
 
-# Privacy Policy – InfoBusiness University
+# 
 
-**Website Privacy Policy**
+                           PRIVACY POLICY
+Your privacy is very important to us. We want to make your
+experience on the Internet as enjoyable and rewarding as possible, and
+we want you to use the Internet's vast array of information, tools, and
+opportunities with complete confidence.
+We have created this Privacy Policy to demonstrate our firm
+commitment to privacy and security. This Privacy Policy describes
+how our company collects information from all end users of our
+Internet services (the "Services")-those who access some of our
+Services but do not have accounts ("Visitors") as well as those who
+may purchase Products and/or pay a monthly service fee to subscribe
+to the Service ("Members")-what we do with the information we
+collect, and the choices Visitors and Members have concerning the
+collection and use of such information. We request that you read this
+Privacy Policy carefully. By visiting our Company Web site, you are
+consenting to our policy of collecting and using your data.
+Personal Information Our Company Collects and How It Is Used
+Introduction. Our company collects information in different ways from
+Visitors and Members who access the various parts of our Services and
+the network of Web sites accessible through our Service.
+Registration: Members may be asked to provide certain personal
+information when they sign up for our Products or Services including
+name, address, telephone number, billing information (such as a credit
+card number), and the type of personal computer being used to access
+the Services. The personal information collected from Members during
+the registration process is used to manage each Member's account
+(such as for billing purposes). This information may be shared with
+third parties, as stated herein, or in special circumstances.
+ However, in instances where our company and a partner jointly
+promote our Services, we may provide the partner certain personal
+information, such as the name, address, and username of persons who
+subscribed to the Services as a result of the joint promotion for the
+purpose of offering you other products and services.
+We may also generate non-identifying and aggregate profiles from
+personal information Members provide during registration (such as the
+total number, but not the names, of Members). As explained in more
+detail below, we may use this aggregated and non-identifying
+information to sell advertisements that appear on the Services.
+Our Company collects personal information through forms you
+complete on the site, as well as but not limited to contests,
+sweepstakes, text messages, e-mails, faxes, telephone calls, postal mail
+or other communications with the user, as well as from outside sources
+such as credit card processors and database vendors.
 
-Sean Mize International, Inc  
-6834 S University #429  
-Centennial, CO 80122
 
-This document governs the privacy policy of our Website, infobusinessuniversity.com   Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our Website.
+Also, with purchases, we supply our member's contact information, to
+our business partners, who then may contact the member by telephone
+after the member purchase. Sales proceeds are collected by the that
+business partner company. We also may supply other companies with
+contact information, for mail offers we believe would be of interest to
+our members, with or without compensation from those companies. At
+times we may send an advertisement for a third party product, where
+we collect the sales proceeds, and forward the purchaser's information
+to that third party.
+Our Company Partners and Sponsors: Some products and services
+may be offered to Visitors and Members in conjunction with an
+affiliate, independent contractor seller or non-affiliated partner. To
+provide Visitors and Members some of these products and services, the
+partner may need to collect and maintain personal information.
+Online Shopping: At some Web sites, you can purchase products and
+services or register to receive materials, such as a newsletter, catalog or
+new product and service updates. In many cases, you may be asked to
+provide contact information, such as your name, address, email
+address, phone number, and credit/debit card information.
+If you complete an order for someone else, such as an online gift order
+sent directly to a recipient, you may be asked to provide information
+about the recipient, such as the recipient's name, address, and phone
+number. Our company has no control over the third parties' use of any
+personal information you provide when placing such an order. Please
+exercise care when doing so.
+If you order services or products directly from our company, we use
+the personal information you provide to process that order. We do
+share this information with outside parties that we do business with.
+Online Advertisements: Our company may display our online
+advertisements. In those cases we share information about our Visitors
+and Members collected through the registration process as well as
+through online surveys and promotions with these advertisers.
+Additionally, in some instances, we use this information to deliver
+tailored advertisements or joint ventures. For instance, an advertiser or
+joint venture company tells us the audience they want to reach and
+provides us an advertisement tailored to the audience. Based upon the
+information we have collected, we may then display or send the
+advertisement to the intended audience. Our company does share
+personal information about its Visitors or Members with these
+advertisers or joint venture companies.
+By visiting our Company Web site, you are consenting to our policy of
+collecting and using your data. If you do not want to consent to our
+policy of collecting and using your data you can “opt out” of our
+Social Network and Facebook.com Website Custom Audience Ads
+advertising policy by notifying Company in the following manner:
 
-**Definitions**  
-“Non-Personal Information” (NPI) is information that is in no way personally identifiable and that is obtained automatically when you access our Website with a web browser.  
-“Personally Identifiable Information” (PII) is non-public information that is personally identifiable to you and obtained for us to provide you with a product or service.  PII may include information such as your name, address, phone number, credit card information, and other related information that you provide to us.
 
-**Our Commitment to Your Privacy**  
-Our Privacy Policy tells you what PII we may collect from you, how we may share your PII, and how you can limit our sharing of your PII.
+Social Network and Facebook.com Website Custom Audience Ads
+(WCA):
+A Custom Audience on Facebook.com is a list of people our company
+would like to show our ads to on Facebook.com, who have shown
+interest in our products and services, with ads we believe would be of
+interest to them. This audience consists of people, whose information
+and email addresses our Company already has, because they have
+already subscribed to receiving Company emails.
+If you no longer have an interest in our products and services, you can
+opt-out of seeing Company's Facebook.com Website Custom Audience
+Ads. Unsubscribing from our Company's email list will remove you
+from Company's internal email database list and stop future emails
+from our Company, but not from being shown Facebook.com Website
+Custom Audience Ads. The Facebook.com Website Custom Audience
+Ads external database, is different from our Company's internal
+database and requires the following Opting-out request.
+Opting-out of Facebook.com Website Custom Audience Ads:
+To opt out of our Company's Facebook.com Custom Audience Ads,
+send an email, from the email address you are opting out, to Company
+using our email address provided in Company's contact information.
+Put "Opting Out of Facebook.com Website Custom Audience Ads " in
+the subject line of the email. In the body of the email include your
+name and email address. Our Company staff will forward your name
+and email address to Facebook.com with a request to delete you from
+all of Company's Facebook.com Website Custom Audience Ads.
+Google.com Analytics
+Our Company may use Analytics tracking code to support Display
+Advertising, and enable Google Analytics to collect data about your
+traffic via the DoubleClick cookie in addition to data collected through
+the standard Google Analytics implementation. Display Advertising
+lets us enable features in Analytics that aren't available through
+standard implementations, like Remarketing with Google Analytics,
+Google Display Network Impression Reporting, the DoubleClick
+Campaign Manager integration, and Google Analytics Demographics
+and Interest Reporting.
+Our Company may use Remarketing with Google Analytics to
+advertise online:
+This allows third-party vendors, including Google, to show your ads on
+sites across the Internet. Our Company and third-party vendors,
+including Google, use first-party cookies (such as the Google Analytics
+cookie) and third-party cookies (such as the DoubleClick cookie)
+together to inform, optimize, and serve ads based on someone's past
+visits to our website.
 
-Sean Mize International, Inc is committed to the security and privacy of all our customers.  We take your privacy seriously, and we will work with you to ensure that you have an enjoyable online experience.
 
-Sean Mize International, Inc and our affiliates respect your privacy and recognize the need for appropriate protection and management of your PII you share with us.
+Our Company may implement Google Display Network Impression
+Reporting or the DoubleClick Campaign Manager:
+Our Company and third-party vendors, including Google, use first-
+party cookies (such as the Google Analytics cookies) and third-party
+cookies (such as the DoubleClick cookie) together to report how your
+ad impressions, other uses of ad services, and interactions with these
+ad impressions and ad services that are related to visits to your site.
+Our Company may implement Google Analytics Demographics and
+Interest Reporting:
+The data from Google's Interest-based advertising or 3rd-party
+audience data (such as age, gender, and interests) with Google
+Analytics allows us to serve ads to you based on this data.
+Opting-out of Google Analytics' For The Web and Google Analytics
+for Display Advertising:
+Users can opt-out of Google Analytics' currently available opt-outs for
+the web at
+https://tools.google.com/dlpage/gaoptout/
+Using the Ads Settings, users can opt-out of Google Analytics for
+Display Advertising and customize Google Display Network ads at
+https://www.google.com/settings/personalinfo
+Retargeting Ad Campaigns and Persistent Identifiers:
+Our Company may utilize various types of advertising that appear on
+our Company sites and services including ads on third party sites and
+services. Our Company may utilize categories of information,
+including names and email addresses, collected from users on our sites
+and services, as well as third party sites and services, in connection
+with the ads that are served. This advertising may include, but not
+limited to, contextual advertising, cookies, anonymous cookies, pixels,
+persistent identifiers, geolocation information, email opt in, search
+engine terms, behavioral advertising and/or retargeting advertising.
+This type of advertising is a form of targeted advertising, to the
+specific individual who is visiting the Web site. These advertisements
+appear on websites or other media, including display ads, pop up ads
+and ads displayed in mobile browsers. Those advertisements are
+selected and served by automated systems based on the interests
+relevant to the user from the content displayed to the user, based on
+what the user is viewing.
+Our Company does not conduct inquiries into the information
+collection practices of third parties that may collect information from
+users that leave our Web site. Our Company may share customer
+information with third parties to process orders, for third party
+analytics and for marketing and advertising purposes.
 
-**Links to Other Websites**  
-Our Website may contain links to other websites.  You understand that these websites are not under our control and are not subject to our Privacy Policy.  These websites will likely have their own privacy policies.  We have no responsibility for these websites and provide links to these websites solely for your convenience.  
-You acknowledge that your use and access of these websites is solely at your own risk.  It is your responsibility to check the privacy policies of these websites to see how they treat your personal information.
 
-**Information We Collect**  
-Generally, you control the amount and type of information you provide to us when using our Website.  As a visitor to our Website, you can browse our Website to find out more about us.  You are not required to provide us with any PII as a Visitor.
+Responses to Email Inquiries: When Visitors or Members send email
+inquiries to our company, the return email address is used to answer
+the email inquiry we receive.
+Voluntary Customer Surveys: We may periodically conduct both
+business and individual customer surveys. We encourage our
+customers to participate in these surveys because they provide us with
+important information that helps us to improve the types of products
+and services we offer and how we provide them to you.
+We may take the information we receive from individuals responding
+to our Customer Surveys and combine (or aggregate) it with the
+responses of other customers we may have, to create broader, generic
+responses to the survey questions (such as gender, age, residence,
+hobbies, education, employment, industry sector, or other demographic
+information). We then use the aggregated information to improve the
+quality of our services to you, and to develop new services and
+products. This aggregated, non-personally identifying information may
+be shared with third parties.
+Special Cases: It is our company's policy to use or share the personal
+information about Visitors or Members in ways described herein
+without additional notice or means to opt out except as noted herein, or
+otherwise prohibit such unrelated uses.
+Also, we may disclose personal information about Visitors or
+Members, or information regarding your use of the Services or Web
+sites accessible through our Services, for any reason if, in our sole
+discretion, we believe that it is reasonable to do so, including: credit
+agencies, collection agencies, merchant database agencies, law
+enforcement, or to satisfy laws, such as the Electronic
+Communications Privacy Act, the Child Online Privacy Act,
+regulations, or governmental or legal requests for such information; to
+disclose information that is necessary to identify, contact, or bring
+legal action against someone who may be violating our Acceptable Use
+Policy or Terms Of Service, or other user policies; to operate the
+Services properly; or to protect our company and our Members.
+Notice to California Residents – Your California Privacy Rights
+Under California Law SB 27, California residents have the right to
+receive, once a year, information about third parties with whom we
+have shared information about you or your family for their marketing
+purposes during the previous calendar year, and a description of the
+categories of personal information shared. To make such a
+request, please send an email to Company, to the email address
+provided in our contact information and please include the
+phrase "California Privacy Request" in the subject line, the domain
+name of the Web site you are inquiring about, along with your name,
+address and email address. We will respond to you within thirty days
+of receiving such a request.
+"Cookies" and How Our Company Uses Them. A "cookie" is a small
 
-However, if you register as a Member to use our Website, you must provide PII in order for us to provide you with various features and/or functionality from our Website.   As a Member, we collect your PII in the following ways:
 
-**At Member Registration**  
-When you register for membership, we collect your name and email address {and other information listed}.  
-**Online Forms**  
-There may be online forms used in our Website.  The information you enter into these online forms may contain PII.
+data file that can be placed on your hard drive when you visit certain
+Web sites. Our company may use cookies to collect, store, and
+sometimes track information for purposes stated herein as well as for
+statistical purposes to improve the products and services we provide
+and to manage our telecommunications networks.
+Deleting Cookies: If you don't want our Company's cookies on your
+computer, to be used for the purposes stated herein, they are easy to
+delete. Simply go to http://www.aboutcookies.org/Default.aspx?
+page=2 for instructions.
+Advertisers and partners may also use their own cookies. We do not
+control use of these cookies and expressly disclaim responsibility for
+information collected through them.
+Our Company Commitment to Children's Privacy. Protecting children's
+privacy is especially important to us. It is our policy to comply with the
+Children's Online Privacy Protection Act of 1998 and all other
+applicable laws. Therefore we restrict our Web site to persons eighteen
+years or older.
+YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS
+THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF
+AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE
+FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR
+USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY
+THIS WEB SITE, FALLS WITHIN the Children’s Online Privacy
+Protection Act (COPPA) AND IS NOT MONITORED AS DOING
+SO.
+Public Forums: Please remember that any information you may
+disclose in any Member Directory, or other public areas of our Web
+sites or the Internet, becomes public information. You should exercise
+caution when deciding to disclose personal information in these public
+areas.
+Our Company's Commitment to Data Security: Services and Web sites
+we sponsor have security measures in place to protect the loss, misuse,
+and alteration of the information under our control. While we make
+every effort to ensure the integrity and security of our network and
+systems, we cannot guarantee that our security measures will prevent
+third-party "hackers" from illegally obtaining this information.
+Where to Direct Questions About Our Privacy Policy: If you have any
+questions about this Privacy Policy or the practices described herein,
+you may contact us through the contact information provided on this
+Web site.
+Revisions to This Policy: Our company reserves the right to revise,
+amend, or modify this policy, our Terms Of Service agreement, and
+our other policies and agreements at any time and in any manner, by
+updating this posting. Your use of this site after such changes are
+implemented constitutes your acknowledgement and acceptance of
 
-**Computer Information Collected**
 
-When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website.  Such information is typically considered NPI.  We may also collect any of the following:  
-**Cookies**  
-Our Website uses “Cookies.” A Cookie is a small piece of data stored on your computer or mobile device by your web browser.  We use Cookies to identify the areas of our Website that you have visited.  We may also use Cookies to identify you as a Member so that you can access various parts or features of our Website.  Finally, we may use Cookies to personalize the Content that you see on our Website.  Most web browsers can be set to disable the use of Cookies.  However, if you disable Cookies, you may not be able to access features on our Website correctly or at all.  We never place PII in Cookies.  
-**Web Beacons**  
-We may also use a technology called, web beacons, to collect general information about your use of our Website and your use of special promotions or newsletters. The information we collect by Web Beacons allows us to statistically monitor the number of people that open our emails.  Our Web Beacons are not used to track your activity outside of our Website.  We do not link NPI from Web Beacons to PII without your permission.  
-**Automatic Information**  
-We automatically receive information from your web browser or mobile device.  This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website.  This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system.  We use all of this information to analyze trends among our Users to help improve our Website.
-
-**How Information is Used**  
-We use the information we receive from you as follows:  
-**Providing and Improving Our Website**  
-We may use the PII you provide to us along with any computer information we receive to provide our Website to you as well as to make improvements to it.
-
-**Communications and Email Alerts**  
-When we communicate with you about our Website, we will use the email address you provided when registering as a Member.  We may also send you Website alerts regarding your use of our Website.  Finally, we may also send you emails with promotional information about our Website or offers from us or our affiliates, unless you have opted out of receiving such information.  You can change contact preferences at any time through your account.  While you can opt-out of promotional messages, you cannot opt-out of receiving Website alerts.
-
-**Sharing Information with Affiliates and Other Third Parties**  
-We do not sell, rent, or otherwise provide your PII to third parties for marketing purposes.  However, we may use your Non Personal Information for data aggregation purposes which might be sold to other parties at our discretion.  Any such data aggregation would not contain any of your PII.  We may provide your PII to affiliates that provide services with regards to our Website (i.e. payment processors, webhosting companies, etc.); such affiliates will only receive information necessary to provide the respective Websites and will be bound by confidentiality agreements limiting the use of such information.
-
-**Community Discussion Boards**  
-Our Website may offer the capability for Users to communicate with each other through online Community Discussion Boards.  We do not filter or monitor what is posted on such discussion boards.  If you chose to post on these discussion boards, you should use care when exposing any PII as such information is not protected by our Privacy Policy nor are we liable should you choose to disclose PII through such postings.
-
-**Legally Required Releases of Information**  
-We may be legally required to disclose your PII, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, our Users, employees, and affiliates.
-
-**Disclosures to Successors**  
-If our business is acquired or merges, in whole or in part, with another business that would become responsible for providing the Website to you, we retain the right to transfer your PII to the new business.  The new business would retain the right to use your PII according to the terms of this Privacy Policy as well as to any changes to this Privacy Policy as instituted by the new business.
-
-**Protecting the Privacy Rights of Third Parties**  
-We believe in everyone’s right to privacy.  If any postings you make to our Website contain information about third parties, you need to make sure you have permission to include them in your posting.  While we are not legally liable for the actions of our Users, we will remove any postings for which we are notified that such postings violate the privacy rights of others.
-
-**Changing Your Information**  
-You may change your PII at any time using facilities found on our Website.  If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or contact us using the Contact us information found on our Website.
-
-**Opting Out of Sharing Information**  
-You can always opt out of future unaffiliated third-party disclosures of your information.  Such opt-out will not affect disclosures otherwise permitted by law including but not limited to: (i) disclosures to affiliates, (ii) disclosures to third-party service providers who provide certain services for our business, such as credit card processing, computer system services, shipping, data management, or promotional services, (iii) disclosures to third parties as necessary to fulfill your requests, (iv) disclosures to governmental agencies or law enforcement departments or otherwise required to be made under applicable law, (v) previously completed disclosures to third parties, or (vi) disclosures to third parties in connection with subsequent contests or promotions you may choose to enter, or third-party offers you may choose to accept.
-
-**“California Do Not Track” Settings**  
-Some web browsers have settings that enable you to request that our Website does not track your movement within our Website.  Our Website does not obey such settings when transmitted to and detected by our Website. However, this does not change our compliance in any other way with our Privacy Policy.
-
-**Change and Turn off tracking features in your browser.** You can turn off tracking features and other security settings in your browser by visiting the following links:  
-For Internet Explorer visit: http://goo.gl/0taI7I  
-For Mozilla Firefox visit: http://goo.gl/IKxt9l  
-For Google Chrome visit: http://goo.gl/NQIkqE  
-For Safari visit: http://goo.gl/7XCOzL
-
-**Google Analytics Opt-out Browser Add-on.** Google provides a free add-on to most major browsers that you can install to prevent your data from being collected and used by Google Analytics. Visit the following link to download the free Google Opt-out Add-on Tool: http://goo.gl/Ls82zv
-
-**Protecting Your Child’s Privacy**  
-We follow the Children’s Online Privacy Protection Act (COPPA).  Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website.  We do not knowingly collect PII from a child.  If you are a parent or guardian and believe your child is using our Website, please contact us.  We may ask for proof of identification before we remove any information to prevent malicious removal of account information.  If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties.  You acknowledge that we do not verify the age of our users nor do we have any liability to do so.  If you are a child, please seek the permission of a parent or guardian before accessing our Website.
-
-**Our Email Policy**  
-We comply with the federal CAN-SPAM Act.  You can always opt out of receipt of further email correspondence from us or our affiliates.  We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission except in the sale or transfer of our business.
-
-**Use of Credit Cards**  
-You may have to provide a credit card to buy products and services from our Website.  We use third-party billing services and HAVE NO CONTROL over these services.  We use our commercially reasonable efforts to make sure that your credit card number is kept STRICTLY CONFIDENTIAL by using only third-party billing services that use industry-standard encryption technology to protect your credit card number from unauthorized use.  However, you understand and agree that we are in no way responsible for any misuse of your credit card number.
-
-**Changes to Our Privacy Policy**  
-As necessary to address changes in laws or our business practices, we may modify our Privacy Policy, in whole or in part, to address these changes.   Any changes we make to our Privacy Policy are effective when published and replace any prior Privacy Policies.  We encourage you to review our Privacy Policy periodically to make sure you still agree with it.
-
-**Questions about Our Privacy Policy**  
-If you have any questions about our Privacy Policy, please contact us using the Contact us information found on our Website.
+these changes. Please consult this privacy statement prior to every use
+for any changes.
+Last updated: January 24, 2016
+   Copyright © 2003-2016 InternetMarketingLawProducts.com for
+                  Dennis Becker dba MDM Sports
