@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125180416id_/http%3A//www.interest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interest.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622153326id_/http%3A//www.interest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Interest.com
 
@@ -51,7 +51,7 @@ _Information Third Parties Provide_
 We may collect information about you from sources other than you, such as from social media websites (i.e., Facebook, LinkedIn, Twitter or others), blogs, other users and our business partners..
 
 _General Use and Preference Information_  
-We may collect, receive and store information regarding your general use of our Services (such as details of how and when you used our Services, interactions with our Services, log in information, resources that you access, your Internet protocol address, your browser type, and your device type), as well as your preferences.
+We may collect, receive and store information regarding your general use of our Services (such as details of how and when you used our Services, interactions with our Services, log in information, resources that you access, your Internet protocol address, your browser type, and your device type), as well as your preferences. Our Services may feature analytic and measurement software such as Google Analytics Advertising Features, which will allow you to contribute to market research.
 
 _Device Information_  
 When you use our Services through your computer, mobile phone or other device, we may collect information regarding and related to your device, such as hardware models and IDs, device type, operating system version, the request type, the content of your request and basic usage information about your use of our Services, such as date and time. In addition, we may collect information regarding application-level events and associate that with your account to provide customer service. We may also collect and store information locally on your device using mechanisms such as browser web storage and application data caches.
