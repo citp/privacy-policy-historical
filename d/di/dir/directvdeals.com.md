@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114082501id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directvdeals.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622153746id_/http%3A//www.directvdeals.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DIRECTVDeals.com Privacy Policy
-
-[](https://web.archive.org/)
 
 **EFFECTIVE DATE: 11/16/15**
 
@@ -92,40 +90,4 @@ If you have any questions about this Privacy Policy or the practices described h
 
 We reserve the right to revise this Privacy Policy at any time. Please check back from time to time so you are aware of any changes or updates to the policy. We will indicate the policy’s effective date on the first page.
 
-x
-
-Get **More Channels** For **Less Money Than Cable** With **DirecTV!**
-
-DIRECTV package  
-offers start at
-
-$
-
-50
-
-00
-
-/mo. for 12  
-mos. plus taxes
-
-SELECT™ All Included TV Package. W/ 24 mo. TV agmt* Offer Details
-
-Ted 2 now playing on HBO®
-
-Call or Chat Now 1-888-560-6072
-
-Chat With Us
-
-X
-
-Live Chat 
-
-Ask me about special offers   
-for DIRECTV.
-
-I’m here to help!
-
-Or call to speak with   
-a DIRECTV specialist.
-
-1-888-560-6072
+<https://mixpanel.com/optout>. Customer agrees to provide appropriate notices to its Authorized Users about, and if required by applicable laws obtain appropriate consent from such Authorized Users for, Customer’s information collection and use practices relating to Customer’s use of the Application Services and Customer’s use of cookies for tracking purposes. Appropriate notices may include notice in the form of a privacy policy posted on Customer’s site, in Customer’s mobile application, and/or, if Customer uses Mixpanel Notifications (as discussed in further detail below), in the emails Customer sends through the Application Services. Customer also agrees to include a notice about the Mixpanel opt-out for Customer’s site and the Mixpanel opt-out link in Customer’s privacy policy or in a notice on Customer’s Website(s). Customer will also inform its Authorized Users that if they get a new computer, install a new browser, erase or otherwise alter their browser's cookie file (including upgrading certain browsers) they may also clear the Mixpanel opt-out cookie.
