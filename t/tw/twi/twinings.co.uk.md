@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503100828id_/http%3A//www.twinings.co.uk/footer-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622193309id_/https%3A//www.twinings.co.uk/footer-pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Terms & Conditions | Twinings Tea Online | Twinings
+# Privacy Policy
 
 PRIVACY INTRODUCTION
 
