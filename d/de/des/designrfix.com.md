@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designrfix.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106170113id_/http%3A//designrfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designrfix.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622123902id_/http%3A//designrfix.com/web/20161202123356/http%3A/designrfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - designrfix.comDesignrfix.com
 
@@ -172,4 +172,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 ****and we will promptly remove you from **ALL** correspondence.****
 
-212 Slalom Ct.
+If there are any questions regarding this privacy policy, you may contact us using the information below. contact@designrfix.com
