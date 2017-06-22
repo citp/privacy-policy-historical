@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zemgo.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024152402id_/http%3A//zemgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zemgo.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622063323id_/http%3A//zemgo.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Zemgo
 
