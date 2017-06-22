@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the governing.com privacy policy that was archived on 2015-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151113075249id_/http%3A//forms.erepublic.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governing.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622100434id_/http%3A//www.erepublic.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for e.Republic, Inc.
+# Privacy Policy
 
-## Privacy Policy & Terms for e.Republic
-
-_Last Updated September 5, 2013_
+_Last Updated August 28, 2015_
 
 e.Republic, Inc. is the nation’s leading publishing, research, event and new media company focused on the state and local government and education markets. Serving both government and industry for over 25 years, e.Republic publishes the market’s leading periodicals and websites, runs the largest intergovernmental conferences in the nation and produces over 100 targeted and custom events annually. Information about e.Republic and its products and services can be obtained at [www.erepublic.com](http://www.erepublic.com/).
 
@@ -12,23 +10,25 @@ e.Republic is comprised of the following brands:
 
   1. Government Technology
   2. Government Technology Events
-  3. Center for Digital Government / Center for Digital Education 
-  4. GOVERNING
-  5. GOVERNING Institute
-  6. Emergency Management
-  7. Public CIO
-  8. Digital Communitites
-  9. GovTech Exchange
-  10. GOVERNING Exchange
-  11. Navigator
-  12. Industry Insider
-  13. FutureStructure
+  3. Center for Digital Government
+  4. Converge/Center for Digital Education
+  5. GOVERNING
+  6. GOVERNING Institute
+  7. Emergency Management
+  8. Public CIO
+  9. Digital Communitites
+  10. GovTech Exchange
+  11. GOVERNING Exchange
+  12. Navigator
+  13. Industry Insider
+  14. FutureStructure
+  15. Techwire
 
 
 
 ## Terms and Conditions
 
-e.Republic owns and operates several public-facing websites, including, but not limited to erepublic.com, governing.com, govtech.com, emergencymgmt.com, digitalcommunities.com, futurestructure.com, and centerdigitaled.com (collectively, the "Sites and Services"). We operate several registration-based private sites, including, but not limited to governmentnavigator.com, governingexchange.com, education-exchange.net, govtechexchange.com, groups.digitalcommunities.com and tools.erepublic.com (collectively, the "Services").
+e.Republic owns and operates several public-facing websites, including, but not limited to erepublic.com, governing.com, govtech.com, emergencymgmt.com, digitalcommunities.com, futurestructure.com, and centerdigitaled.com (collectively, the "Sites and Services"). We operate several registration-based private sites, including, but not limited to governmentnavigator.com, groups.digitalcommunities.com and tools.erepublic.com (collectively, the "Services").
 
 Your use of the Sites and Services and associated products, regardless of media, is subject to the terms, conditions, and disclaimers set forth below; to the Privacy Policy herein; and to all applicable laws and regulations. In addition, e.Republic reserves the right to terminate access to the Sites and Services for any reason, and to take any other actions that e.Republic, in its sole discretion, believes to be in the interest of the company and some or all of its users and customers. e.Republic reserves the right to modify these disclaimers, terms, and conditions of access, without advance notice.
 
@@ -40,27 +40,23 @@ The following terminology applies to these Terms and Conditions, Privacy Stateme
 
 ## Exclusions and Limitations
 
-  
 The information on our Sites and Services is provided on an "as is" basis. To the fullest extent permitted by law, this Company: 
 
-  * excludes all representations and warranties relating to our Sites and Services and its contents or which is or may be provided by any affiliates or any other third party, including in relation to any inaccuracies or omissions in our Sites and Services and/or the Company's literature; and 
-  * excludes all liability for damages arising out of or in connection with your use of our Sites and Services. This includes, without limitation, direct loss, loss of business or profits (whether or not the loss of such profits was foreseeable, arose in the normal course of things or you have advised this Company of the possibility of such potential loss), damage caused to your computer, computer software, systems and programs and the data thereon or any other direct or indirect, consequential and incidental damages. This Company does not however exclude liability for death or personal injury caused by its negligence. The above exclusions and limitations apply only to the extent permitted by law. None of your statutory rights as a consumer are affected. 
+  * excludes all representations and warranties relating to our Sites and Services and its contents or which is or may be provided by any affiliates or any other third party, including in relation to any inaccuracies or omissions in our Sites and Services and/or the Company's literature; and
+  * excludes all liability for damages arising out of or in connection with your use of our Sites and Services. This includes, without limitation, direct loss, loss of business or profits (whether or not the loss of such profits was foreseeable, arose in the normal course of things or you have advised this Company of the possibility of such potential loss), damage caused to your computer, computer software, systems and programs and the data thereon or any other direct or indirect, consequential and incidental damages. This Company does not however exclude liability for death or personal injury caused by its negligence. The above exclusions and limitations apply only to the extent permitted by law. None of your statutory rights as a consumer are affected.
 
 
 
-## Availability 
+## Availability
 
-  
 Redistribution or republication of any part of this site or its content is prohibited, including such by framing or other similar or any other means, without the express written consent of the Company. The Company does not warrant that the service from this site will be uninterrupted, timely or error free, although it is provided to the best ability. By using our Sites and Services you thereby indemnify this Company, its employees, agents and affiliates against any loss or damage, in whatever manner, howsoever caused. 
 
-## Links from our Sites and Services 
+## Links from our Sites and Services
 
-  
 We do not monitor or review the content of other party's websites which are linked to from our Sites and Services. Opinions expressed or material appearing on such websites are not necessarily shared or endorsed by us and should not be regarded as the publisher of such opinions or material. Please be aware that we are not responsible for the privacy practices, or content, of these sites. We encourage our users to be aware when they leave our site & to read the privacy statements of these sites. You should evaluate the security and trustworthiness of any other site connected to this site or accessed through this site yourself, before disclosing any personal information to them. This Company will not accept any responsibility for any loss or damage in whatever manner, howsoever caused, resulting from your disclosure to third parties of personal information. 
 
 ## Use Limitation
 
-  
 Our Services are intended for your business use only. Access to and use of any Service is through a combination of a user name and password. e.Republic authorizes you to view a single copy of the material on the Site solely for your use or use by authorized additional recipients. Materials from the Service are intended for the exclusive use by you at the location(s) specified in your subscription. You agree that such access will not be shared with others. You may not access any Service using the name or password of any other party. Unauthorized access to any Service, or to the telecommunications or computer facilities used to deliver such Service, is a material breach of this Agreement and may be a violation of law. You assume all responsibility for any claim, demand or damage resulting from another party obtaining your password. You shall not attempt to modify, decompile, reverse engineer or otherwise attempt to gain access to any technology or source code underlying any Service. By using any Service you represent and warrant that you are (a) authorized to form legally binding contracts under applicable law and that the information you provide is accurate, current and complete and (b) not a minor. We reserve the right at our sole discretion to refuse any Service to anyone at any time. 
 
 Any authorized additional recipients of materials from the Services are also subject to this Agreement. You agree to take full responsibility for any additional recipients for agreeing to and following these Terms and Conditions.
@@ -69,7 +65,6 @@ Our Services do not guarantee the quality, legality, truth or accuracy of the li
 
 ## User Conduct and Behavior
 
-  
 When you use any Services or the Site, you represent, warrant and agree that you will not:  
 (A) falsify or misrepresent any personal or business information regarding your identity or intentions with respect to any matter;  
 (B) post, publish, transmit, distribute, or upload any information through or link directly or indirectly any information to the Site that Our Services, in its sole discretion, deems unlawful, obscene, derogatory, abusive, threatening, discriminatory with respect to race or gender, or is otherwise disagreeable;  
@@ -86,27 +81,22 @@ However, Our Services does not assume responsibility for reviewing or verifying 
 
 ## Fees and Financial Obligations
 
-  
 You agree to pay the fees and accept the payment policies for each Service for which you are registered. In the event your account becomes past due, your Service may be suspended, the remaining balance will be considered in default, and the entire account balance will become due and owing immediately. You also agree to pay all reasonable collection costs, including attorneys' fees. 
 
-## Copyright Notice 
+## Copyright Notice
 
-  
 Copyright and other relevant intellectual property rights exists on all text relating to the Company's services and the full content of our Sites and Services. 
 
 ## Force Majeure
 
-  
 Neither party shall be liable to the other for any failure to perform any obligation under any Agreement which is due to an event beyond the control of such party including but not limited to any Act of God, terrorism, war, Political insurgence, insurrection, riot, civil unrest, act of civil or military authority, uprising, earthquake, flood or any other natural or man made eventuality outside of our control, which causes the termination of an agreement or contract entered into, nor which could have been reasonably foreseen. Any Party affected by such event shall forthwith inform the other Party of the same and shall use all reasonable endeavours to comply with the terms and conditions of any Agreement contained herein. 
 
 ## Waiver
 
-  
 Failure of either Party to insist upon strict performance of any provision of this or any Agreement or the failure of either Party to exercise any right or remedy to which it, he or they are entitled hereunder shall not constitute a waiver thereof and shall not cause a diminution of the obligations under this or any Agreement. No waiver of any of the provisions of this or any Agreement shall be effective unless it is expressly stated to be such and signed by both Parties. 
 
 ## General
 
-  
 The laws of the United States govern these terms and conditions. By accessing our Sites and Services you consent to these terms and conditions and to the exclusive jurisdiction of the United States courts in all disputes arising out of such access. If any of these terms are deemed invalid or unenforceable for any reason (including, but not limited to the exclusions and limitations set out above), then the invalid or unenforceable provision will be severed from these terms and the remaining terms will continue to apply. Failure of the Company to enforce any of the provisions set out in these Terms and Conditions and any Agreement, or failure to exercise any option to terminate, shall not be construed as waiver of such provisions and shall not affect the validity of these Terms and Conditions or of any Agreement or any part thereof, or the right thereafter to enforce each and every provision. These Terms and Conditions shall not be amended, modified, varied or supplemented except in writing and signed by duly authorised representatives of the Company. 
 
 ## Our overall privacy statement
@@ -131,10 +121,10 @@ We also use technologies, including electronic images known as Web bugs—someti
 
 We use cookies and tracking technologies in a variety of ways, including:
 
-  1. Keeping count of return visits to our site or our advertisers' or partners' sites; 
-  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage; 
-  3. Determining which features our overall user population likes best; 
-  4. Saving your password or registration data so you don't have to re-enter it each time you visit our sites; 
+  1. Keeping count of return visits to our site or our advertisers' or partners' sites;
+  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
+  3. Determining which features our overall user population likes best;
+  4. Saving your password or registration data so you don't have to re-enter it each time you visit our sites;
   5. Displaying the most appropriate advertising or content based on your interests.
 
 
@@ -145,54 +135,38 @@ We allow other companies that are presenting advertisements on our sites and, so
 
 We use the information we gather for four general purposes:
 
-  1. To customize the advertising and the content you see; 
-  2. To enhance the user experience on our sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you; 
-  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services and contests; 
+  1. To customize the advertising and the content you see;
+  2. To enhance the user experience on our sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
+  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services and contests;
   4. To send you information you agreed to receive about topics we think will be of interest to you.
 
 
 
 ## Does e.Republic share this information?
 
-For personally identifiable information you provide to us:
+We may sell, rent, license, trade or otherwise disclose your personal information, including but not limited to your mailing address, phone number and other registration information, to third parties for marketing, merchandising or other purposes.  You should presume that your personally identifiable information may thus be subject to future transactions.
 
 We will make your personally identifiable information available to other companies or people when:
 
-  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent opt in or affirmative election through our web site. 
-  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and comments, and other forms of public communication and interaction. 
+  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent opt in or affirmative election through our web site.
+  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and comments, and other forms of public communication and interaction.
   3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner that is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information and applicable survey responses back to that service partner. Their use of your information is subject to their applicable privacy policies. We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. These third parties may not use that information for any purpose other than assisting us in providing those products and services.
-  4. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that party's list of people to whom they may not send emails. 
-  5. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process. 
-  6. When required by law, such as when we respond to subpoenas, court orders, or legal process. 
+  4. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that party's list of people to whom they may not send emails.
+  5. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
+  6. When required by law, such as when we respond to subpoenas, court orders, or legal process.
   7. We believe that your actions violate applicable laws, e.Republic Terms of Use, or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
 
 
+
+When any of the foregoing is true, your contact data may be made available through list sharing agreements and/or a lookup service provided to client companies.
+
+To give suppliers in our communities a limited opportunity to find you, we make contact data, including email addresses, available in certain of our subscription-only databases.
 
 ## Magazine subscriptions
 
 Visitors to our Web site are invited to subscribe to our various hard-copy magazines and e-mail newsletter services. Hard-copy subscribers are asked to include their email address, which is used for internal informational and promotional purposes only.
 
 We hire third-party vendors to handle subscription fulfillment. These companies are only allowed to use the information in order to help us fulfill our services to you. These third parties may not use that information for any purpose other than assisting us in providing those products and services.
-
-## Job Network
-
-Registration on this site is voluntary, and is designed for the purpose of seeking employment. Upon registration the site collects your email address and other personal information (such as employment skills) in a "profile." The site collects personal and demographic information you choose to provide us. 
-
-When you apply for a position, however, you need to provide your name and full contact information; this information is shared only with the employer to whom you applied. However, if you maintain a resume as part of your profile, the information in this resume may be viewed by employers other than those to whom you have specifically applied. In order to provide you with the broadest exposure to potential employment opportunities, information you place in your profile may be shared with our partner, RealMatch, its affiliated companies or within other sites powered by RealMatch. Neither RealMatch nor its affiliates distributes personal information for advertising purposes.
-
-RealMatch attempts to limit access to the searchable resume database only to potential employers, recruiters, hiring managers, headhunters, and human resource professionals. However, WE DO NOT AND CAN NOT guarantee that other parties (including parties disguised as employers) will not gain access to this database. Therefore, RealMatch and e.Republic hereby specifically exclude any responsibility and or liability related to the use made of resumes by third parties who access such resumes while they are in our searchable database.
-
-RealMatch and e.Republic may use your information to contact you about new products or services offered by RealMatch, e.Republic or RealMatch-affiliated sites. Any feedback that you provide may be used for marketing purposes or to improve our services. If you apply for a position on this site, you may be asked to provide information, such as answers to qualifying questions, or answers regarding your gender, race or other protected status where permitted by applicable law. RealMatch or e.Republic are not responsible for any information you choose to supply to third parties. You are encouraged to check and evaluate carefully and diligently every job ad to which you choose to apply and submit your information.
-
-RealMatch and e.Republic share your information with third parties who help us in the delivery of our own products and services to you. These third parties may not use that information for any purpose other than assisting us in providing those products and services.
-
-RealMatch and e.Republic may also present job advertisements from external affiliated recruitment advertising companies ("External Source") to enrich the content for all TheJobNetwork users. If you decide to apply to such external job advertisements, you acknowledge that subject to your consent (opting in by clicking the applicable box during the application process), RealMatch will transfer all necessary information required by such External Source with respect to your candidacy to the respective job advertisement. If you do not wish us to transfer such information please refrain from opting in online. RealMatch and/or e.Republic are not responsible and shall not be held liable for any content provided on/by such External Sources and/or privacy practices or use of your information of/by such External Sources. We recommend that you visit the applicable sites/boards for information regarding such External Source's privacy practices.
-
-Subject to your consent, we may use your information to contact you about other products or services available from our affiliates.
-
-Subject to your consent, we may also share your information with third parties who may contact you about their products or services.
-
-TheJobNetwork Sites are not intended for users under 18 years of age. We do not intentionally gather personal information from children under 18.
 
 ## Logging traffic data
 
@@ -228,16 +202,13 @@ Users who would rather not provide any of the user data requested by any of our 
 
 ## Changes to this Web Site Privacy Statment
 
-If we decide to change this Web Site Privacy Statement, we will post the revised policy at this location, so that users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use Personal Information in a manner that is substantially different from that stated at the time it was collected, we will seek to notify users by way of an email.  
+If we decide to change this Web Site Privacy Statement, we will post the revised policy at this location, so that users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use Personal Information in a manner that is substantially different from that stated at the time it was collected, we will seek to notify users by way of an email.
 
-
-## Contact Information  
-
+## Contact Information
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at info@erepublic.com.
 
 e.Republic, Inc.  
 100 Blue Ravine Road  
 Folsom, CA 95630  
-916-932-1300  
-
+916-932-1300
