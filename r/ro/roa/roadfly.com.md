@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roadfly.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315212937id_/http%3A//www.roadfly.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadfly.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622152141id_/http%3A//www.roadfly.com/about/privacy) for the most accurate reproduction.*
 
-# Roadfly.com Privacy Policy | Roadfly.com: Car Reviews & Road Tests
+# Roadfly.com Privacy Policy
 
 Roadfly.com is committed to safeguarding your privacy online. Please read the following to understand how your personal information will be treated as you make full use of our web site. The information contained herein may change from time to time, so we advise you to periodically review this policy.
 
