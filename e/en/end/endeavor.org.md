@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219171628id_/http%3A//endeavor.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endeavor.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622081416id_/http%3A//endeavor.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Endeavor Lebanon
+# Privacy Policy - Endeavor
 
 Endeavor Global, Inc. (“Endeavor”) is committed to protecting the privacy of visitors to its web site (the “Site”). The purpose of this Privacy Policy is to inform you of what kinds of information we may gather about you when you visit the Site, how we may use that information, whether we disclose it, and the choices you have regarding our use of and your ability to manage and edit the information. This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link.
 
@@ -12,7 +12,7 @@ Through the Site, we may automatically gather certain information about the use 
 
 You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your browser (such as Internet Explorer or Mozilla Firefox) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you turn cookies off, you may not have access to many features that make your site experience more efficient and some of our services may not function properly.
 
-[For more information about cookies, please see www.allaboutcookies.org.](https://web.archive.org/web/20161219171628id_/http://endeavor.org/privacy-policy/www.allaboutcookies.org "All About Cookies")
+[For more information about cookies, please see www.allaboutcookies.org.](https://web.archive.org/web/20170622081416id_/http://endeavor.org/privacy-policy/www.allaboutcookies.org "All About Cookies")
 
 #### Protecting Personal Information
 
