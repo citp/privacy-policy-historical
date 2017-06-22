@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mofosex.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211120713id_/http%3A//www.mofosex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mofosex.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622215642id_/http%3A//www.mofosex.com/privacy.php) for the most accurate reproduction.*
 
 # Free Porn Videos, Porn Tube, Sex Videos, Sex & Free XXX Porno Clips
 
@@ -140,7 +140,7 @@ We may disclose personal information that we collect or you provide as described
 We may also disclose your personal information:
 
   * To comply with any court order, law, or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [terms](http://www.mofosex.com/terms-of-use.php) and other agreements, including for payment or for billing and collection purposes.
+  * To enforce or apply our [terms](https://www.mofosex.com/terms-of-use.php) and other agreements, including for payment or for billing and collection purposes.
   * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Glorious Holding Investment, our users, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -190,7 +190,7 @@ The Website contains links to other websites that do not operate under this priv
 
 12\. DMCA Takedown Requests
 
-This Website complies with the Digital Millennium Copyright Act. If you reasonably believe your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions [here](http://www.mofosex.com/dmca.php) on how to report it.
+This Website complies with the Digital Millennium Copyright Act. If you reasonably believe your copyrighted work has been used or posted by a third party without your consent, you may follow the instructions [here](https://www.mofosex.com/dmca.php) on how to report it.
 
 By submitting a copyright infringement notice or other communication (including communications about content stored on or transmitted through the Website), you consent to have these communications forwarded to the person or entity who stored, transmitted, or linked to the content addressed by your communication, in order to facilitate a prompt resolution. We forward DMCA infringement notices (including any personally identifying information contained in the notices) as submitted to us without any deletions.
 
