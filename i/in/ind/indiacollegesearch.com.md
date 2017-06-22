@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiacollegesearch.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424044430id_/https%3A//www.collegesearch.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiacollegesearch.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622032543id_/https%3A//www.collegesearch.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CollegeSearch
 
