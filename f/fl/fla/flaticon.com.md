@@ -1,20 +1,28 @@
-> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212000532id_/http%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622091050id_/http%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Flaticon
 
-### January 2015
+### May 2017
 
-The website located at the addresses http://www.flaticon.com and http://www.flaticon.es, including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at C/ Molina Lario 13 Planta 5, 29015 Málaga, España. This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by Flaticon in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services'). The access to and the use of the Website imply that the User has read and accepts entirely the Privacy Policy and Cookies. The date at the beginning of this Privacy Policy and Cookies corresponds to the date of their latest revision, valid since the date of its publication. Thus, Flaticon recommends to check them regularly. Specific privacy policies may apply to some of the services provided by the Website that must be accepted before using it. These policies will complement; or, if they are in conflict with this Privacy and Cookies Policy, substitute this Privacy and Cookies Policy. Likewise, the Conditions apply to the access, use and Services of the Website.
+The website located at the addresses [http://www.flaticon.com](http://www.flaticon.com/) and [http://www.flaticon.es](http://www.flaticon.es/), including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at Molina Lario 13 street, 5th floor, 29015 Málaga, España.
 
-### HOW Flaticon USES PERSONAL INFORMATION
+This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by Flaticon in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services').
+
+The access to and the use of the Website imply that the User has read and accepts entirely the Privacy Policy and Cookies. The date at the beginning of this Privacy Policy and Cookies corresponds to the date of their latest revision, valid since the date of its publication. Thus, Flaticon recommends to check them regularly.
+
+Specific privacy policies may apply to some of the services provided by the Website that must be accepted before using it. These policies will complement; or, if they are in conflict with this Privacy and Cookies Policy, substitute this Privacy and Cookies Policy.
+
+Likewise, the Conditions apply to the access, use and Services of the Website.
+
+### HOW FLATICON USES PERSONAL INFORMATION
 
 Generally, the User may browse the Website without providing any personal information.
 
-If the User registers on the Website, the data gathered will be incorporated to a file in Flaticon in order to manage the Website, provide its Services, offer certain functionalities associated to the status of User (the list of downloads, for instance), and send information to the User about the Services of Flaticon or its sponsors through newsletters (the subscription of which can be cancelled by Users at any moment from their account).
+If the User registers on the Website, the data gathered will be incorporated to a file in Flaticon in order to manage the Website, provide its Services, offer certain functionalities associated to the status of User (the list of downloads, for instance), and send information to the User about the Services of Flaticon, its sponsors, or third parties collaborating with Flaticon, offering products or services related to the creative sector, through newsletters (the subscription of which can be cancelled by Users at any moment from their account). Additionally, Users who have opted in by marking the relevant box within the registration process or within their account section, may also receive from Flaticon, through any means of electronic communication (including email), offers or information about products or services related to the creative sector from third parties with whom Flaticon collaborates form time to time.
 
 Flaticon doesn't gather information about the age or date of birth of their Users when they register. Consequently, there isn't a particular treatment aimed to underage Users. Flaticon is only aimed to full age Users.
 
-Any information received by Flaticon through Contact forms, Broken Link? forms, satisfaction surveys available on the Website, or through the email addresses info@Flaticon.com or info.Flaticon@gmail.com, will be incorporated to a Flaticon file and will only be used with the intention of answering the questions, suggestions or complaints sent by the Users of the Website.
+Any information received by Flaticon through Contact forms, Broken Link? forms, satisfaction surveys available on the Website, or through the email addresses info@flaticon.com or info.flaticon@gmail.com, will be incorporated to a Flaticon file and will only be used with the intention of answering the questions, suggestions or complaints sent by the Users of the Website.
 
 Any information received by Flaticon through the Work With Us form available on the Website will be incorporated to a Flaticon file and will only be used with the purpose of managing the selection process of Flaticon personnel.
 
@@ -32,13 +40,12 @@ According to what is stated in Real Decreto 1720/2007, the adequate procedure to
 
 The message will contain:
 
-Name and surname (or surnames) of the applicant; photocopy of the ID card, passport or any other valid document for the identification of the person and the person who represents them (if any), as well as a document valid to accredit the representation.
+  * Name and surname (or surnames) of the applicant; photocopy of the ID card, passport or any other valid document for the identification of the person and the person who represents them (if any), as well as a document valid to accredit the representation.
+  * Request in which the petition consists.
+  * Address in order to receive notifications, date and signature of the petitioner.
+  * Documents that accredit the petition, if any.
 
-Request in which the petition consists.
 
-Address in order to receive notifications, date and signature of the petitioner.
-
-Documents that accredit the petition, if any.
 
 Every petition will be replied by Flaticon, without minding whether any data of the petitioner does exist in Flaticon files. If the petition meets all the requirements stated above, Flaticon will request them to be corrected.
 
@@ -75,7 +82,7 @@ SSID | .google.com
 __cfduid | .statcounter.com  
 __utma | .flaticon.com  
 __utma | .profile.flaticon.com  
-__utma | .freepik.com  
+__utma | .flaticon.com  
 __utmb | .flaticon.com  
 __utmb | .freepik.com  
 __utmc | .freepik.com  
@@ -101,14 +108,31 @@ landing | .statcounter.com
 sponsor_coupon | www.flaticon.com  
 uftid | .freepik.com  
 vblastactivity | .statcounter.com  
+show_btn-show-view-* | .flaticon.com  
+cookie_policy | www.flaticon.com  
 Local Storage  
 ---  
 current  
 fi  
 logged_data  
 time_valuation  
+History_Collection  
+grid_size  
+n_pageviews  
+pageviews  
+search-type  
+widget-active  
+tour_viewed  
   
 In most browsers, the User may find a 'Help' section in the tool bar.
+
+For more information about cookies in Internet Explorer click on Internet Explorer.
+
+For more information about cookies in Firefox click on Firefox.
+
+For more information about cookies in Chrome click on Chrome.
+
+For more information about cookies in Safari click on Safari.
 
 Flaticon refers back to these sections to obtain more information about how to deactivate or delete cookies.
 
@@ -117,5 +141,3 @@ Flaticon recommends Users not to deactivate cookies because they help to make th
 This Website has also access to the IP address from which Users visit it. The Users IP address may be different each time they visit the Website. In addition, several Users may share the same IP address. Although Flaticon does not and will never perform any inquiry to link a certain IP address with a certain person, the access to IP addresses may be considered as personal information as they can potentially be associated to a real person (a possibility more theoretical than real), so according to Spanish personal data protection laws, this law applies to IP addresses as well.
 
 Third-parties who advertise in the Website or those to which the User gets connected through plugins might use cookies or 'web beacons' that Flaticon doesn't control, so Flaticon would not be responsible and they would not be covered by this Privacy and Cookies Policy, thus, it is the responsibility of the Users to configure their browser to make sure that cookies are only used according to their preferences.
-
-**IMPORTANT NOTICE: THIS AGREEMENT IS A TRANSLATION OF AN ORIGINAL LEGAL TEXT WRITTEN IN SPANISH. PLEASE READ THE ORIGINAL DOCUMENT, IN SPANISH,[AVAILABLE HERE](http://www.flaticon.es/privacy_policy).**
