@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdopia.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123151653id_/http%3A//www.vdopia.com/mobile/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdopia.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622024112id_/http%3A//www.vdopia.com/mobile/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
