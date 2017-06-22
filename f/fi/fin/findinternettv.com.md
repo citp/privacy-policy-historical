@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findinternettv.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227121719id_/http%3A//www.findinternettv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findinternettv.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622022929id_/http%3A//findinternettv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Find Internet TV
 
