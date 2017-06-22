@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giantvapes.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127191910id_/http%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantvapes.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623012924id_/http%3A//www.giantvapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
