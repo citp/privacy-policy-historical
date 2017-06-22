@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223181047id_/http%3A//www.postergully.com/pages/privacy-policy-postergully) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postergully.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622204807id_/http%3A//postergully.com/pages/privacy-policy-postergully) for the most accurate reproduction.*
 
-# Privacy Policy + Terms of Use | PosterGully
+# Privacy Policy + Terms of Use – PosterGully
 
 Welcome to PosterGully.com! By using the website to browse, shop and join as a freelance artist/designer/contributor, you agree to be bound by these terms and conditions. Please read them carefully.
 
