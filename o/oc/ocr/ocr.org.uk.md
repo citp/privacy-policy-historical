@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127032006id_/http%3A//ocr.org.uk/about-us/our-policies/website-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocr.org.uk privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622155312id_/http%3A//www.ocr.org.uk/about-us/our-policies/website-policies/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy policy - OCR
 
-Oxford Cambridge and RSA Examinations ("OCR") offers and provides teaching and examination services and related information. We are committed to protecting the privacy and confidentiality of information provided by those parties ("Users") who access our web site at www.ocr.org.uk ("Site") and we uphold the relevant data protection principles and process all personal data in accordance with the Data Protection Act 1998.
+Oxford Cambridge and RSA Examinations ("OCR") offers and provides teaching and examination services and related information. We are committed to protecting the privacy and confidentiality of information provided by those parties ("Users") who access our website at www.ocr.org.uk ("Site") and we uphold the relevant data protection principles and process all personal data in accordance with the Data Protection Act 1998.
 
 ### Collection of personal information
 
-In order for Users to use some of our online services and to gain the full benefits of such services and for OCR to respond to queries and requests submitted online we need to collect and process various personal data. Users may be asked to complete an on-line form(s) which requests personal data about Users, such as their name, address, e-mail address, telephone and fax numbers.
+In order for Users to use some of our online services and to gain the full benefits of such services and for OCR to respond to queries and requests submitted online we need to collect and process various personal data. Users may be asked to complete an on-line form(s) which requests personal data about Users, such as their name, address, email address, telephone and fax numbers.
 
 ### Processing of data
 
