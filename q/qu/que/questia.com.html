@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the questia.com privacy policy that was archived on 2016-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160324172736id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the questia.com privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622034757id_/https%3A//www.questia.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-ng-app="app"><!--<![endif]--><head data-ng-controller="HeadController as hc">
         <!--according to xdomain document, it is important to include it before any other library, so put it here for now -->
-    <script async="" src="//s.btstatic.com/tag.js#site=FIlmgbU"></script><script src="https://qtastatic.com/content/20160314144334/XDomainJS.min.js"></script>
+    <script async="" src="//s.btstatic.com/tag.js#site=FIlmgbU"></script><script src="https://qtastatic.com/content/20170322154010/XDomainJS.min.js"></script>
     <script>
         var slaves = {};
                 slaves["http://api.questia.com"]="/proxy.html";
@@ -39,14 +39,14 @@
         var jslogEnabled = false;      
     </script>
   
-    <link href="https://qtastatic.com/content/20160314144334/SiteCSS.min.css" rel="stylesheet" type="text/css" media="all">
+    <link href="https://qtastatic.com/content/20170322154010/SiteCSS.min.css" rel="stylesheet" type="text/css" media="all">
     <link rel="stylesheet" type="text/css" href="/content/css/icon-font.css" media="all">
 
        
         
-    <script src="https://qtastatic.com/content/20160314144334/SiteJS.min.js"></script>
+    <script src="https://qtastatic.com/content/20170322154010/SiteJS.min.js"></script>
     <script src="https://api-messages.questia.com/events/hubs"></script>
-    <script src="https://qtastatic.com/content/20160314144334/AngularSiteJS.min.js"></script>
+    <script src="https://qtastatic.com/content/20170322154010/AngularSiteJS.min.js"></script>
     
     <script type="text/javascript">
         (function () {
@@ -56,8 +56,9 @@
                 Api: {
                     Url: "https://api.questia.com",
                     BrokerAddress: "https://api-messages.questia.com",
-                    Token: "269c2396-4040-4d32-b808-794f212f84fa:d9042afb-4ae9-40e8-9609-5c2eae664a2b:False:635809700551300674:269c2396-4040-4d32-b808-794f212f84fa:TQtFoBQ5uxEF6o6leFFOfWTL7w9NrHLwdlA94XEN4tg=",
-                    UserId: "4affea2c-2bb9-4c54-9f05-cf74d82fa247",
+                    Token: "",
+                    UserId: "de26c3aa-5eb5-45f9-b682-2d9567428c66",
+                    IsUserAuthenticated: "False",
                     Key: "qta.com",
                     Version: "1.2",
                     TokenName: "QTA" + '_AUTH_COOKIE'
@@ -74,7 +75,7 @@
                     }
             ];
 
-            var app = angular.module('app', ['ui.router', 'common'])
+            var app = angular.module('app', ['ui.router', 'common', 'ngAria'])
                 .constant("ServerInfo", serverInfo)
                 .config([
                     '$stateProvider', function($stateProvider) {
@@ -89,7 +90,7 @@
                 ]);
 
             Extensions.AngularBehaviorManager.setupAuthFailBehavior(app);
-            Extensions.AngularBehaviorManager.setupCacheBustingForHtmlTemplates(app, "20160314144334");
+            Extensions.AngularBehaviorManager.setupCacheBustingForHtmlTemplates(app, "20170322154010");
             Extensions.AngularBehaviorManager.setupLogging(app, serverInfo.Api.Url,
                 serverInfo.Api.Key, serverInfo.Api.Version,
                 true);
@@ -99,8 +100,8 @@
 
 
     
-    <link href="https://qtastatic.com/content/20160314144334/InformationCSS.min.css" rel="stylesheet" type="text/css" media="all">
-    <script src="https://qtastatic.com/content/20160314144334/LibraryJS.min.js"></script>
+    <link href="https://qtastatic.com/content/20170322154010/InformationCSS.min.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://qtastatic.com/content/20170322154010/LibraryJS.min.js"></script>
     
         <title data-ng-bind="hc.title" data-ng-init="hc.setDefaultTitle('Privacy Policy | Questia, Your Online Research Library')">Privacy Policy | Questia, Your Online Research Library</title>
     <meta name="description" content="Find detailed information about Questia’s privacy policy">
@@ -187,7 +188,6 @@
                         <li><span class="current"><strong>Privacy policy</strong></span></li>                
                         <li><a href="/contact-us">Contact us</a></li>
                         <li><a href="/help">Help</a></li>
-                        <li><a href="/affiliates">Affiliates</a></li>
                 </ul>
         </div>
     </div>
@@ -417,7 +417,6 @@
                 <!---->
                 <li><a href="/contact-us">Contact us</a></li>
                 <li><a href="/help">Help</a></li>
-                <li><a href="/affiliates">Affiliates</a></li>
         </ul>
     <div class="white-box">
         <strong>Customer Service</strong><br>
@@ -441,7 +440,7 @@
 
         <footer class="main-footer">
             Questia is operated by <a href="http://www.cengage.com" target="_blank" omniture-click="Footer|Disclosure">Cengage Learning</a>.<br> 
-            Copyright © 2016. All rights reserved.
+            Copyright © 2017. All rights reserved.
         </footer>
 
     </div>
@@ -460,7 +459,7 @@
             <li><a data-ng-click="showLibraryMenu = !showLibraryMenu">Library <span aria-hidden="true" data-icon="h" class="chevron"></span></a></li>
             <li><a data-ng-click="showWritingCenterMenu = !showWritingCenterMenu">Writing Center <span aria-hidden="true" data-icon="h" class="chevron"></span></a></li>
             <li><a href="/research-tutorials">Tutorials</a></li>
-            <li><a href="/projects">Projects</a></li>
+            <li><a href="/projects#!/home">Projects</a></li>
         </ul>
     </div>
 
@@ -476,9 +475,6 @@
             <li><a id="footerFeatureIndex" href="/feature-index">Feature index</a></li>
             <li><a id="footerEducators" href="http://landing.questia.com/educator1" target="_blank">For educators</a></li>
             <li><a id="footerBlog" href="http://blog.questia.com/" omniture-click="Footer|Blog">Blog</a></li>
-            <li>
-                <a id="footerAffiliates" href="/affiliates" omniture-click="Footer|Affiliate program">Affiliates</a>
-            </li>
             <li><a class="selected" id="footerPrivacy" href="/privacy-policy" omniture-click="Footer|Privacy">Privacy policy</a></li>
             <li><a id="footerUserAgreement" href="/user-agreements" omniture-click="Footer|UserAgreement">User Agreements</a></li>
             <li><a id="footerContactUs" href="/contact-us" omniture-click="Footer|Contact Us">Contact us</a></li>
@@ -584,17 +580,17 @@
     </div>
 </nav>
         <div class="meta-nav">
-            <a href="/" class="hdr-logo"></a>
+            <a href="/" class="hdr-logo" tabindex="100"></a>
             <nav>
                 <ul>
                     <li class="menu-item search">
-                        <label id="btnSearch" ng-click="hc.toggleSearch(); focusInput=true" no-click="" class="clickable btn-search">
+                        <label id="btnSearch" ng-click="hc.toggleSearch(); focusInput=true" no-click="" class="clickable btn-search" tabindex="110">
                             <span class="icon" aria-hidden="true" data-icon="w"></span>
                             <span class="text">Search</span>
                         </label>
                     </li> 
                     <li class="menu-item menu">
-                        <label data-ng-click="$parent.menuOpen = !$parent.menuOpen" class="clickable">                            
+                        <label data-ng-click="$parent.menuOpen = !$parent.menuOpen" class="clickable" tabindex="120">                            
                             <span class="hamburger-icon icon">
                                 <span></span>
                             </span>
@@ -605,65 +601,97 @@
             </nav>
         </div>        
         <div id="globalSearchContainer" class="global-search-container" data-ng-class="{visible: hc.isSearchVisible}">
+
     <form name="searchBoxForm" data-ng-submit="submitSearch(searchTerm)">
         <div id="headerSearch" search-box="" data-toggle-search="hc.toggleSearch()" data-long-placeholder="Search over 10 million books and articles" data-short-placeholder="Search our library">
-           <div class="gs-searchbox-container clearfix">
-                <label class="placeholder-label" for="searchValue">Search over 10 million books and articles</label>
-                <label class="placeholder-label short-search" for="searchValueShort">Search our library</label>
-            
-                <div class="input-container">
-                    <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValue" maxlength="200" placeholder="Search over 10 million books and articles" class="global-search-input" autofocus="autofocus" focus-me="focusInput">
-                    <input data-ng-model="searchTerm" name="searchInput" required="" type="search" id="searchValueShort" maxlength="200" placeholder="Search our library" class="global-search-input short-search">
-                </div>
-            </div>
-        
-            <div class="global-search-controls">           
-                <button class="btn btn-ghost" type="submit" value="Search">
-                    <span aria-hidden="true" data-icon="w"></span>
-                </button>
-                <span class="close-btn clickable" aria-hidden="true" data-icon="Z" ng-click="hc.toggleSearch()" no-click=""></span>
-            </div>
-            <div class="global-search-filter-wrapper" data-ng-class="{'open': hc.isFilterVisible == true}">
-                <a class="btn btn-default" no-click="" ng-click="hc.toggleFilter()">
-                    <span data-ng-bind="filterType" data-ng-hide="filterType == 'contributor'"></span>
-                    <span data-ng-show="filterType == 'contributor'">Author</span>
-                    <span aria-hidden="true" data-icon="n" class="icon"></span>
-                </a>
-                <a class="mobile-link" no-click="" ng-click="hc.toggleFilter()">
-                    <span>Advanced search</span>
-                    <span aria-hidden="true" data-icon="n" class="icon"></span>
-                </a>
-                <div class="gs-filter-flyout nav-flyout" fade="" data-toggle-on="hc.isFilterVisible">
-                    <div class="gs-filter-inner clearfix">
-                        <div class="gs-filter-col-1">
-                            <strong>Search by ...</strong>
-                            <ul class="no-bullet-list">
-                                <li ng-click="keywordClick()" ng-class="{selected: filterType == 'keywords'}" omniture-click="Results|KeywordFilter"><a>Keyword<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="titleClick()" ng-class="{selected: filterType == 'title'}" omniture-click="Results|TitleFilter"><a>Title<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="authorClick()" ng-class="{selected: filterType == 'contributor'}" omniture-click="Results|AuthorFilter"><a>Author<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="subjectClick()" ng-class="{selected: filterType == 'subject'}" omniture-click="Results|SubjectFilter"><a>Subject<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="publisherClick()" ng-class="{selected: filterType == 'publisher'}" omniture-click="Results|PublisherFilter"><a>Publisher<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                            </ul>
-                        </div>
-                        <div class="gs-filter-col-2">
-                            <strong>Results should have ...</strong>
-                            <ul class="no-bullet-list">
-                                <li ng-click="allClick()" ng-class="{selected: filterModifier == 'AllWords'}"><a>All of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="anyClick()" ng-class="{selected: filterModifier == 'AnyWords'}"><a>Any of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="exactClick()" ng-class="{selected: filterModifier == 'ExactPhrase'}"><a>This exact phrase<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                                <li ng-click="noneClick()" ng-class="{selected: filterModifier == 'NoWords'}"><a>None of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div id="footnote" class="gs-filter-bottom-bar" ng-show="filterType == 'keywords'">
-                        Keyword searches may also use the operators
-                        AND, OR, NOT, “ ”, ( )
-                    </div>
-                </div>
-            </div> 
-        </div>
-    </form>
+           <div class="gs-searchbox-container">
+                <label class="placeholder-label" for="searchValue">Search our library...</label>
 
+                <div class="input-container">
+                    <input autocomplete="off" class="global-search-input" id="searchValue" maxlength="200" name="searchInput" placeholder="Search our library..." required="" tabindex="120" type="search" data-ng-blur="hc.hideRecentSearches()" data-ng-focus="hc.showRecentSearches()" data-ng-model="searchTerm">                   
+                </div>
+
+                <div class="gs-filter-flyout nav-flyout flyout-recent-searches" role="menu" ng-class="{visible: hc.isRecentSearchesVisible &amp;&amp; listOfRecentSearches.length > 0 &amp;&amp; searchTerm == string.Empty}">            
+                    <ul class="no-bullet-list" role="menu">
+                        <li ng-repeat="searchItem in listOfRecentSearches">
+                            <a ng-click="resentSearchClick(searchItem)">
+                                <span class="term">{{searchItem.term}}</span>
+                                <span class="by">{{filterTypeLookup[searchItem.filterType]}}</span>
+                                <span class="show">{{searchTypeLookup[searchItem.searchType]}}</span>
+                                <span aria-hidden="true" data-icon="" class="arrow-icon"></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="global-search-filter-wrapper" data-ng-class="{'open': hc.isFilterVisible == true}">
+                    <span class="search-label">Search by...</span>
+                    <span class="btn btn-ghost search-by-btn" no-click="" ng-click="hc.toggleFilter()" aria-haspopup="true" tabindex="130">
+                        <span data-ng-bind="filterType" data-ng-hide="filterType == 'contributor'"></span>
+                        <span data-ng-show="filterType == 'contributor'">Author</span>
+                        <span aria-hidden="true" data-icon="n" class="icon"></span>
+                    </span>
+                  
+                    <div class="gs-filter-flyout nav-flyout" fade="" data-toggle-on="hc.isFilterVisible" role="menu">
+                        <div class="gs-filter-inner clearfix">
+                            <div class="gs-filter-col-1 gs-filter-col">
+                                <strong>Search by ...</strong>
+                                <ul class="no-bullet-list" role="menu">
+                                    <li ng-click="keywordClick()" tabindex="131" ng-class="{selected: filterType == 'keywords'}" role="menuitem" omniture-click="Results|KeywordFilter"><a>Keyword<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="titleClick()" tabindex="132" ng-class="{selected: filterType == 'title'}" role="menuitem" omniture-click="Results|TitleFilter"><a>Title<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="authorClick()" tabindex="133" ng-class="{selected: filterType == 'contributor'}" role="menuitem" omniture-click="Results|AuthorFilter"><a>Author<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="subjectClick()" tabindex="134" ng-class="{selected: filterType == 'subject'}" role="menuitem" omniture-click="Results|SubjectFilter"><a>Subject<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="publisherClick()" tabindex="135" ng-class="{selected: filterType == 'publisher'}" role="menuitem" omniture-click="Results|PublisherFilter"><a>Publisher<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                </ul>
+                            </div>
+                            <div class="gs-filter-col-2 gs-filter-col">
+                                <strong>Results should have ...</strong>
+                                <ul class="no-bullet-list" role="menu">
+                                    <li ng-click="allClick()" tabindex="136" ng-class="{selected: filterModifier == 'AllWords'}" role="menuitem"><a>All of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="anyClick()" tabindex="137" ng-class="{selected: filterModifier == 'AnyWords'}" role="menuitem"><a>Any of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="exactClick()" tabindex="138" ng-class="{selected: filterModifier == 'ExactPhrase'}" role="menuitem"><a>This exact phrase<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="noneClick()" tabindex="139" ng-class="{selected: filterModifier == 'NoWords'}" role="menuitem"><a>None of these words<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div id="footnote" class="gs-filter-bottom-bar" ng-show="filterType == 'keywords'">
+                            Keyword searches may also use the operators
+                            AND, OR, NOT, “ ”, ( )
+                        </div>
+                    </div>               
+                </div>
+
+                <div class="global-search-filter-wrapper" data-ng-class="{'open': hc.isFilter2Visible == true}">
+                    <span class="search-label">Show...</span>
+                    <span class="btn btn-ghost show-btn" no-click="" ng-click="hc.isFilter2Visible = ! hc.isFilter2Visible" aria-haspopup="true" tabindex="140">                        
+                        <span data-ng-show="searchType == 'All'">All Results</span>
+                        <span data-ng-show="searchType == 'primarySources'">Primary Sources</span>
+                        <span data-ng-show="searchType == 'PeerReviewedType'">Peer-reviewed</span>
+                        <span aria-hidden="true" data-icon="n" class="icon"></span>
+                    </span>
+                    <div class="gs-filter-flyout nav-flyout gs-filter-flyout2" fade="" data-toggle-on="hc.isFilter2Visible" role="menu">
+                        <div class="gs-filter-inner clearfix">
+                            <div class="gs-filter-col">
+                                <strong>Show ...</strong>
+                                <ul class="no-bullet-list" role="menu">
+                                    <li ng-click="allResultsClick()" tabindex="140" ng-class="{selected: searchType == 'All'}" role="menuitem" omniture-click="SearchType|AllResults"><a>All Results<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="primaryClick()" tabindex="141" ng-class="{selected: searchType == 'primarySources'}" role="menuitem" omniture-click="SearchType|PrimarySources"><a>Primary Sources<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                    <li ng-click="peerClick()" tabindex="142" ng-class="{selected: searchType == 'PeerReviewedType'}" role="menuitem" omniture-click="SearchType|PeerReviewed"><a>Peer-reviewed<span aria-hidden="true" data-icon="W" class="icon"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="global-search-controls">           
+                    <button class="btn btn-primary" type="submit" value="Search" tabindex="151">
+                        Search
+                    </button>
+                </div>            
+            </div>
+        </div>
+        <span class="close-btn clickable" aria-hidden="true" data-icon="Z" ng-click="hc.toggleSearch()" no-click="" tabindex="152"></span>
+    </form>
 </div> 
         <div class="utility-container">
             <div class="mobile-login-controls clearfix" data-ng-controller="StatusHeaderController as shc" data-ng-hide="shc.isProcessing">
@@ -705,7 +733,7 @@
             var OmnitureSuite = "highbeamquestia";
             var CustomClickPropNumber = '34';
     </script>
-<script src="https://qtastatic.com/content/20160314144334/SiteBodyEndJS.min.js"></script>    <script type="text/javascript">
+<script src="https://qtastatic.com/content/20170322154010/SiteBodyEndJS.min.js"></script>    <script type="text/javascript">
     /*<![CDATA[*//*---->*/
     s.pageName="Privacy Policy";
     s.channel="myrc";
@@ -775,7 +803,7 @@
     </noscript>
 
         
-<!-- You are on ohcinqtaweb07 -->
+<!-- You are on ohcinqtaweb05 -->
 
 
         <div data-ng-controller="GlobalApplicationController as gac">
@@ -787,6 +815,12 @@
                 <div class="buttons">
                     <a class="btn btn-sm btn-primary" data-ng-click="gac.reload()"><span aria-hidden="true" data-icon="4"></span> Reload</a>
                 </div>
+            </div>
+            <div data-ng-show="gac.showCookiePolicy" class="cookies-footer">                
+                We use cookies to deliver a better user experience and to show you ads based on your interests. By using our website, you agree to the use of cookies as described in our <a href="/privacy-policy">Privacy Policy</a>
+                <button data-ng-click="gac.acceptCookiePolicy()" class="close-button">
+                    <span aria-hidden="true" data-icon="Z"></span>
+                </button>
             </div>
         </div>
 
