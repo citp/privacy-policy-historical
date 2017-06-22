@@ -1,95 +1,102 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201031214id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622064719id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Software AG
 
-## Declaration on Data Protection
+_Effective February 17th, 2017_
 
-Software AG appreciate your visit to our website and thank you for your interest in our company, our products and our services. Protection of your privacy and personal data is an important matter for us. In order to guarantee you a high level of transparency and security, our declaration on data protection as set forth below will inform you as to the nature, scope and purpose of any collection, use and processing of information and data recorded by us. 
-
-In this respect, please keep in mind that this declaration on data protection refers only to the publicly accessible websites with the [following](https://web.archive.org/corporate/countries_page.asp "Country list for Privacy Policy and Country page") Internet addresses/URLs of Software AG. You may read them [here](https://web.archive.org/corporate/countries_page.asp "Country list for Privacy Policy and Country page").
+Software AG (Uhlandstr. 12, 64297 Darmstadt, Germany) in its role as data controller appreciates your visit on our websites and is grateful for your interest in our company, our products and our services. The protection of your privacy and personal data is an important matter for us. To ensure a high level of transparency and security, our privacy statement as set forth below will inform you about the nature, scope and purpose of any collection, use and processing of personal data recorded by us.
 
  **1.  External Links**
 
-Our website also makes reference to third parties. As a rule, these are identified by stating the relevant Internet address or the company/product logo. Software AG has no influence whatsoever on the contents and design of sites of other providers and therefore cannot extend the warranties under this declaration on data protection to such sites. Nor does the fact that we refer to such sites mean that we adopt their contents as our own.
+Our websites also reference and include links to third-party websites. As a rule, these are identified by stating the respective third-party Internet address or the company/product logo. Software AG has no influence whatsoever on the contents and design of websites of other providers. By referencing/linking these external websites we do not adopt their contents as our own.
 
  **2.  Cookies**
 
-Our websites use so-called session cookies. These cookies deposit data for purposes of technical regulation in your browser's memory. However, they do not contain any personal data and are deleted after your browser is closed.
+Information about our usage of cookies, especially for marketing purposes, can be found in our [Cookie Policy](https://web.archive.org/corporate/privacy_cookies.asp "Privacy Policy - Cookie").
 
-We do deposit cookies on your computer, which are not deleted after conclusion of the session. These make it possible to recognize your computer when the forums are next visited. Such cookies make it possible for us to adapt the website to your interests. For U.S.-based visitors, we may also use cookies to present banners to you across the Internet based on your interest. With your consent, we store your password so that you do not have to re-enter it each time.
+ **3\. Purposes of the Data Processing**
 
-Moreover, it is possible for you to set your browser such that cookies are rejected or you are informed prior to storage thereof.
+Software AG collects, processes, and uses your personal data to the extent required to fulfill the respective purpose or for purposes which you have consented to; these purposes being: providing the services that you want to make use of while using our websites, including but not limited to downloads, discussion boards, online job applications, individual requests (e.g. using our contact form), blogs, registration to our courses and other offerings, the creation of statistics and the improvement of our websites and the offered services in order to ensure the security of our websites, and if you have consented to it, for marketing purposes especially sending our email newsletters. Software AG also uses the personal data provided for purposes of contract management and processing your enquiries and requests.
 
-Flash-Cookies or Local Shared Objects (LSO) will not be used by Software AG. Also Session Storage or DOM Storage will not be used.
+Moreover, the information provided to us may be combined with data on you that has already been stored by us. Such data combination allows us to keep the data collected by us updated, in order to provide for the accuracy of the collected information and to optimize our service to you.
 
- **3.  Communication-related and Use-related Data **
+Beyond these purposes, we use and process your data only if you have expressly granted your prior consent thereto and if you have been informed about such purposes. Thus, for example, you may stipulate in an online job application whether we may also review such application with respect to other positions in our company. Only if this is the case, we will use such data for the respective purpose.   
 
-Generally speaking, you may visit Software AG's website without us finding out who you are. Only for statistical and internal system-related purposes do we record the access time, the quantity of data transferred, the pages of ours that you visited, the page from which you accessed our website and the browser that you use (log files), in addition to you IP address. To the extent that such information might enable conclusions in relation to personal data, these are naturally subject to the relevant statutory data protection provisions. The data is not personalized. The data is deleted following statistical evaluation. 
 
- **4.  Collection of Personal Data**
+**4\. Categories of Personal Data**
 
-In order to be able to utilize the offers made on our website, in particular, downloads, online forums, online applications, individual enquiries, registrations for our courses or registrations for other services, it is necessary that we obtain personal data from you. The personal data entails individual statements concerning personal and material relations pertaining to you, such as your name, your address or your e-mail address. Such information is collected by us only if you provide it voluntarily and show us in this way that you agree to the use and processing thereof. In this respect, it goes without saying for us that such data is necessarily only collected where it is absolutely mandatory for implementation of the relevant offers. Where we request additional data, this occurs solely for purposes of, for example, facilitating communication with you or improving our service.
+Personal data means any information relating to an identified or identifiable natural person. Software AG collects, processes, or uses the following personal data, if you provide it to us:
 
- **5.  Use and Processing of Personal Data**
+  * first name, last name, date of birth, email address, postal address, country, job title, telephone number, fax number, company, products of Software AG that are in use,
+  * other data that you have provided while contacting us, especially using the contact forms on our website,
+  * other data that you have provided in comments on out websites, especially using the forms of the discussion boards or the comment functions of the blogs,
+  * data that you have sent to us during an online job application, including your CV, certificates, reports, job references etc. (job application data). 
 
-As a rule, Software AG uses and processes the personal data provided for purposes of contractual settlement and processing your enquiries and requests. 
 
-Data with personal content is processed and used to a limited extent for customer management and marketing purposes, provided the relevant statutory provisions permit this. Should you no longer agree to such use, you may, of course, object to further use at any time.
 
-Moreover, your information provided to us may be combined with data on you that has already been stored by us. Such data combination has, inter alia, the advantage of keeping your customer data collected by us updated at all times, guaranteeing the accuracy of the collected information and being able to optimize our service to you.
+For marketing purposes and to improve our websites and services we also collect the data that is sent by your web browser, e.g. information about your browser and your operating system. 
 
-We use and process your data outside these parameters only if you have expressly granted your prior consent thereto and only for purposes of which you have been advised. Thus, for example, you may stipulate in an online application whether we may review the application with respect to other positions in our company. Only in this event will we use such data for this purpose.
+For statistical purposes and internal system specific purposes, Software AG also collects, processes, and uses your usage data in combination with your IP address and information about the amount of transmitted data stored in log files. The log files are used to statistically analyze visits on our websites. The data is being deleted after it has been analyzed for statistical purposes.
 
- **6.  Forwarding of Data**
+ **5\. Data recipients**
 
-Software AG is a group that does business globally. To this extent, in order to better process your matter, it might be necessary to forward your data to local subsidiaries or to local distribution partners, whose registered office might also be located in states outside the EU. However, such transmission takes place only within the group and only for the aforementioned purposes.
+Software AG has contracted external data processing service providers to collect, process, or use personal data on behalf and according to the instructions of Software AG. Such service providers support Software AG, especially relating to hosting and operating the websites and blogs, marketing purposes, statistical analysis, improving the websites and sending our email newsletters. These service providers may be located outside the European Union or the European Economic Area which means that the level of protection in respect to data protection law might differ from the level of protection provided by European data protection legislation.
 
-Naturally we do not forward your data to other third parties, unless we are obliged to do so by virtue of statutory provisions or judicial order. 
+Software AG is a globally operating corporation. In order to better process your matter, it might be necessary to forward your data to local subsidiaries or to local distribution partners, whose registered office might also be located in countries outside the European Union. However, such transmission takes place only within Software AG group companies and only for the aforementioned purposes.
 
-In particular, your personal data shall not be sold, leased or exchanged. 
+Beyond that, we do not forward your data to other third parties, unless we are obliged to do so by virtue of statutory provisions or order of any judicial or other public authorities.
 
- **7.  E-mail Contact**
+In particular, your personal data shall not be sold, leased or exchanged.
 
-Should you provide us with your e-mail address, we will also communicate with you by e-mail. Should you no longer desire such information, it is naturally possible for you at any time to revoke your consent. In this case, please send us a short message to the given postal or e-mail address.
+ **6\. Information sent by Email**
 
- **8.  Participation in Forums**
+If you have provided us with your email address for purposes of communication or promotion, we will use your data to communicate with you or send you promotional emails based on your interests. Our E-mail communication includes the possibility to revoke your consent at any time, should you no longer desire to receive such information. Please visit our [Email Subscription Center](https://www.softwareag.com/corporate/res/subscriptions/default.asp "Software AG Subscriptions") to change your subscription settings.
 
-On our "Developer Community" website, we offer you the possibility of participating in online forums. To this end, we require sufficient information in order to be able to clearly identify you so that, where applicable, we can meet our duty to subsequently identify authors of illegal content. Your personal data is not disclosed to other forum participants unless you have consented thereto in your user profile. Please keep in mind that the texts published by you may be viewed in part by everyone without limitation on the Internet. To this extent, please observe our [Terms of Use](http://communities.softwareag.com/ecosystem/communities/public/common/forums_overview/forum_guidelines.html) when registering for our online forums. Technical administration and hosting of the forums is conducted on our behalf and is controlled by us, in part, outside the EU as well.
+ **7\. Participation in Discussion Boards and Blogs**
 
- **9.  Data Protection for Minors**
+On our websites we offer you the possibility to participate in discussion boards and blogs. For these purposes we require certain personal information from you (email address, first name, last name, company, country), as we are legally obliged to uniquely identify users retroactively in case they have posted unlawful content. Please keep in mind that the texts published by you may potentially be viewed by everyone on the Internet without limitation.
 
-The offers on this website are not directed at children. We therefore assume that we will not become aware of any personal data pertaining to children.
+When participating in the discussion boards of the _TECHcommunity_ your personal data is not disclosed to other participants unless you have consented thereto in your user profile. In this context, our [Discussion Board Guidelines](http://techcommunity.softwareag.com/ecosystem/communities/public/common/forums_overview/forum_guidelines.html "Software AG Community Guidelines") including the [Terms of Use](http://techcommunity.softwareag.com/ecosystem/communities/public/contents/common/terms/ "Software AG Community Terms of Use") apply when registering for the _TECHcommunity_.
 
- **10.  Technical and Organizational Data Protection **
+The Software AG blog _Beyond B2B – Digital Reality Check_ is based on technology by HubSpot, Inc.; 25 First St, 2nd Floor, Cambridge, MA 02141, USA. HubSpot is certified based on the EU-U.S. Privacy Shield Framework and the U.S.-Swiss Safe Harbor Framework. More details about privacy provisions of HubSpot and about their privacy certifications can be found [here](https://legal.hubspot.com/privacy-policy "Hubspot Privacy").
 
-Naturally, Software AG takes those technical and organizational measures appropriate given the respective purpose of the data protection in order to protect the information provided by you against abuse and loss. Such data is stored in a secure operating environment that is not accessible to the public. In addition, each of our employees is naturally instructed on data protection and obliged to enter into a confidentiality covenant.
+ **8\. Data Protection for Minors**
 
- **11\. E-Mails to Software AG**
+The offers and services on this website are not directed at children. We therefore assume that we will not become aware of any personal data pertaining to children.
 
-Because of tax requirements Software AG has to archive e mails for ten years in some countries. The e mail system of Software AG and other members of the Software AG Group are intended to be used only for business purposes.
+ **9\. Technical and Organizational Data Protection**
 
- **12.  Modification of the Declaration on Data Protection**
+Software AG implements the technical and organizational measures that are commercially reasonable in relation to the respective purpose of data protection, in order to protect the information provided by you against abuse and loss. Such data is stored in a secure operating environment that is not accessible to the public. In addition, each of our employees is instructed on data protection and obliged to enter into a confidentiality agreement.
 
-As a result of the ongoing development of the Internet, it will be necessary to adapt this declaration on data protection to changing conditions on an ongoing basis. Timely notice of such modification shall be given on this page.  You may view previous versions of this declaration on data protection in this [ _Archive_](https://web.archive.org/corporate/privacy_updates.asp "Privacy Policy - Updates").
+ **10\. Emails sent to Software AG**
 
- **13.  Procedural List**
+For tax reasons, emails sent to Software AG and other members of the Software AG group will be archived for ten years. The email systems of Software AG and other members of the Software AG group are meant to be to be used for business purposes.
 
-You may obtain a general overview of the purpose for which and the group of persons on which Software AG collects, processes and uses personal data in the public [Procedural List](https://web.archive.org/corporate/procedural.asp) shown on this website.  
+ **11\. Records of Processing Activities**
 
- **14.  Information and Other Rights, Contact**
+You may obtain a general overview of the purposes for which and the categories of data subjects on which Software AG collects, processes, and uses personal data in the public [Records of Processing Activities](https://web.archive.org/corporate/procedural.asp) shown on this website.
 
-Upon written request, our data protection officer would be happy to provide you with information as to whether – and if so, which – personal data we store in relation to you. Should your personal data be incorrect, you may have this rectified immediately. Naturally any such information or modification is free of charge. 
+ **12\. Information and Other Rights, Contact**
 
-Moreover, you are entitled to revoke your consent to use of data in the future, in whole or in part. Should you desire this, we will delete or block your relevant data.
+Upon request, our Data Protection Officer would be happy to provide you with information as to whether – and if so, which – personal data we store in relation to you. Should your personal data be incorrect, you may have this rectified immediately. Any such information or modification is free of charge.
 
-In order to assert such rights, please contact Software AG's data protection officer. 
+Moreover, you are entitled to revoke your consent to use your personal data in the future, in whole or in parts. Should you desire to do so, we will delete or block your relevant data. In order to assert such rights, please contact Software AG's data protection officer.
 
-   Naturally, you may contact Software AG's data protection officer directly at any time should you have questions, comments or complaints in connection with this declaration on data protection:
+Please feel free to direct any questions, comments, or complaints regarding this privacy statement or the privacy practices of Software AG to our Data Protection Officer:
 
 Software AG   
-Data Protection Officer    
-H.C. Höpker   
-Uhlandstrasse 12   
+Data Protection Officer   
+Uhlandstraße 12   
 64297 Darmstadt   
 Germany   
-E-mail: hans-christoph.hoepker (at) softwareag.com
+Email: dataprotection (at) softwareag.com 
+
+  
+You can send encrypted emails using  S/MIME:   
+
+
+  * [X.509 certificate](https://web.archive.org/corporate/images/dataprotection_tcm16-146617.zip "Privacy Policy - Certificate Heiko Weber _dataprotection.cer") (zip file, contains dataprotection.cer)   
+
+  * [Software AG root certificate](https://web.archive.org/corporate/images/SoftwareAGInternalCa2_tcm16-146618.zip "Privacy Policy - Certificate Software AG Root _SoftwareAGInternalCa2.ce") (zip file, contains SoftwareAGInternalCa2.cer).
+
+
