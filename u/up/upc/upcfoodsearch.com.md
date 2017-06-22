@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upcfoodsearch.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011152423id_/http%3A//www.upcfoodsearch.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upcfoodsearch.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622211122id_/http%3A//www.upcfoodsearch.com/ppolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - UPC Food Search
 
@@ -44,6 +44,3 @@ If you have any questions, please feel free to contact us via our [Contact Us Pa
 [Web Site Terms of Service (TOS)](http://www.upcfoodsearch.com/tos.php)
 
 This document was last updated on April 15, 2011
-
-  
-
