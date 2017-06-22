@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paleorunningmomma.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222091431id_/http%3A//www.paleorunningmomma.com/policies-disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paleorunningmomma.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622123750id_/http%3A//www.paleorunningmomma.com/policies-disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Paleo Running Momma
 
