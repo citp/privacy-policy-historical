@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216123842id_/https%3A//freegamepick.net/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegamepick.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622181059id_/https%3A//freegamepick.net/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at FreeGamePick
 
