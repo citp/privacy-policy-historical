@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the woodstock.com privacy policy that was archived on 2016-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161205203121id_/http%3A//www.woodstock.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the woodstock.com privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622151633id_/http%3A//www.woodstock.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="js"><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -25,12 +25,21 @@
 		document.documentElement.className = 'js';
 	</script>
 
-	<link rel="alternate" type="application/rss+xml" title="Woodstock » Feed" href="http://www.woodstock.com/feed/">
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Woodstock » Feed" href="http://www.woodstock.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Woodstock » Comments Feed" href="http://www.woodstock.com/comments/feed/">
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.woodstock.com\/wp-includes\/js\/wp-emoji.js?ver=4.5.4","twemoji":"http:\/\/www.woodstock.com\/wp-includes\/js\/twemoji.js?ver=4.5.4"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.woodstock.com\/wp-includes\/js\/wp-emoji.js?ver=4.7.2","twemoji":"http:\/\/www.woodstock.com\/wp-includes\/js\/twemoji.js?ver=4.7.2"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -38,18 +47,19 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			tonedata, tone, tone2;
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -64,46 +74,53 @@
 				/*
 				 * This works because the image will be one of three things:
 				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-				 * - The Australian flag
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
 				 *
 				 * The first two will encode to small images (1-2KB data URLs), the third will encode
 				 * to a larger image (4-5KB data URL).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
-				return canvas.toDataURL().length > 3000;
-			case 'diversity':
-				/*
-				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-				 * compares if the emoji rendering has changed.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
+				if ( canvas.toDataURL().length < 3000 ) {
+					return false;
+				}
 
-				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-				// So, we create our own string and compare that, instead.
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				return tone !== tone2;
-			case 'simple':
 				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
+				 * Test for rainbow flag compatibility. As the rainbow flag was added out of sequence with
+				 * the usual Unicode release cycle, some browsers support it, and some don't, even if their
+				 * Unicode support is up to date.
+				 *
+				 * To test for support, we try to render it, and compare the rendering to how it would look if
+				 * the browser doesn't render it correctly (white flag emoji + rainbow emoji).
 				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode8':
+				context.fillText( stringFromCharCode( 55356, 57331, 65039, 8205, 55356, 57096 ), 0, 0 );
+				flag = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55356, 57331, 55356, 57096 ), 0, 0 );
+				flag2 = canvas.toDataURL();
+
+				return flag !== flag2;
+			case 'emoji4':
 				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
+
+				context.clearRect( 0, 0, canvas.width, canvas.height );
+
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
 		}
 
 		return false;
@@ -113,11 +130,11 @@
 		var script = document.createElement( 'script' );
 
 		script.src = src;
-		script.type = 'text/javascript';
+		script.defer = script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity' );
+	tests = Array( 'flag', 'emoji4' );
 
 	settings.supports = {
 		everything: true,
@@ -169,7 +186,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.woodstock.com/wp-includes/js/twemoji.js?ver=4.5.4" type="text/javascript"></script><script src="http://www.woodstock.com/wp-includes/js/wp-emoji.js?ver=4.5.4" type="text/javascript"></script>
+		</script><script src="http://www.woodstock.com/wp-includes/js/twemoji.js?ver=4.7.2" type="text/javascript" defer=""></script><script src="http://www.woodstock.com/wp-includes/js/wp-emoji.js?ver=4.7.2" type="text/javascript" defer=""></script>
 		<meta content="Woodstock v.92.1" name="generator"><style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -184,19 +201,20 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+<link rel="stylesheet" id="st-widget-css" href="http://www.woodstock.com/wp-content/plugins/share-this/css/style.css?ver=4.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="harmony-fonts-css" href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,700italic,800italic,400,300,700,800&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="harmony-style-css" href="http://www.woodstock.com/wp-content/themes/Harmony/style.css?ver=4.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="harmony-style-css" href="http://www.woodstock.com/wp-content/themes/Harmony/style.css?ver=4.7.2" type="text/css" media="all">
 <link rel="stylesheet" id="et-shortcodes-css-css" href="http://www.woodstock.com/wp-content/themes/Harmony/epanel/shortcodes/css/shortcodes.css?ver=3.0" type="text/css" media="all">
 <link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://www.woodstock.com/wp-content/themes/Harmony/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0" type="text/css" media="all">
 <link rel="stylesheet" id="fancybox-css" href="http://www.woodstock.com/wp-content/themes/Harmony/epanel/page_templates/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4" type="text/css" media="screen">
 <link rel="stylesheet" id="et_page_templates-css" href="http://www.woodstock.com/wp-content/themes/Harmony/epanel/page_templates/page_templates.css?ver=1.8" type="text/css" media="screen">
-<link rel="stylesheet" id="mr_social_sharing-css" href="http://www.woodstock.com/wp-content/plugins/social-sharing-toolkit/style_2.1.2.css?ver=4.5.4" type="text/css" media="all">
+<link rel="stylesheet" id="mr_social_sharing-css" href="http://www.woodstock.com/wp-content/plugins/social-sharing-toolkit/style_2.1.2.css?ver=4.7.2" type="text/css" media="all">
 <script type="text/javascript" src="http://www.woodstock.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="http://www.woodstock.com/wp-includes/js/jquery/jquery-migrate.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="http://www.woodstock.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.woodstock.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.woodstock.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.5.4">
+<meta name="generator" content="WordPress 4.7.2">
 <link rel="canonical" href="http://www.woodstock.com/privacy-policy/">
 <link rel="shortlink" href="http://www.woodstock.com/?p=88">
 <link rel="alternate" type="application/json+oembed" href="http://www.woodstock.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.woodstock.com%2Fprivacy-policy%2F">
@@ -248,7 +266,7 @@ img.emoji {
 
 	</script>
 </head>
-<body class="page page-id-88 page-template-default unknown et_includes_sidebar">
+<body class="page-template-default page page-id-88 unknown et_includes_sidebar">
 
 	
 	<div id="main-nav" style="background-image:url('//s3.amazonaws.com/busites-www/woodstockcom/2014/03/wsheader2.png');">
@@ -368,23 +386,29 @@ img.emoji {
 				</div>
 			</form></div> <!-- end .widget -->		<div id="recent-posts-2" class="widget widget_recent_entries">		<h4 class="widgettitle">Recent Posts</h4>		<ul>
 					<li>
-				<a href="http://www.woodstock.com/video-george-harrison-eric-clapton-perform-while-my-guitar-gently-weeps/">VIDEO: George Harrison &amp; Eric Clapton Perform “While My Guitar Gently Weeps”</a>
+				<a href="http://www.woodstock.com/janis-joplins-isolated-vocal-tracks-for-piece-of-my-heart-and-move-over/">Listen to Janis Joplin’s Isolated Vocal Tracks for “Piece of My Heart” and “Move Over”</a>
 						</li>
 					<li>
-				<a href="http://www.woodstock.com/the-rolling-stones-exhibition-open-in-new-york-city/">The Rolling Stones Exhibition Open In New York City!</a>
+				<a href="http://www.woodstock.com/jimi-hendrix-monterey-guitar-is-going-to-auction/">Jimi Hendrix Monterey Guitar Is Going Up For Auction</a>
 						</li>
 					<li>
-				<a href="http://www.woodstock.com/grace-slicks-inspiration-for-writing-white-rabbit/">Grace Slick’s Inspiration For Writing “White Rabbit”</a>
+				<a href="http://www.woodstock.com/beatles-sgt-pepper-at-50-how-paul-mccartneys-travels-inspired-the-title-track/">Beatles’ ‘Sgt. Pepper’ at 50: How Paul McCartney’s Travels Inspired the Title Track</a>
 						</li>
 					<li>
-				<a href="http://www.woodstock.com/neil-youngs-lp-peace-trail-out-december-2/">Neil Young’s LP ‘Peace Trail’ Out December 2</a>
+				<a href="http://www.woodstock.com/a-dream-set-list-for-tom-pettys-40th-anniversary-tour/">A Dream Set List for Tom Petty’s 40th Anniversary Tour</a>
 						</li>
 					<li>
-				<a href="http://www.woodstock.com/video-how-lsd-inspired-the-beatles-lp-revolver/">VIDEO: How LSD Inspired The Beatles LP, ‘Revolver’</a>
+				<a href="http://www.woodstock.com/lana-del-rey-releases-coachella-woodstock-in-my-mind/">Lana Del Rey Releases “Coachella – Woodstock in My Mind”</a>
 						</li>
 				</ul>
 		</div> <!-- end .widget -->		<div id="archives-2" class="widget widget_archive"><h4 class="widgettitle">Archives</h4>		<ul>
-			<li><a href="http://www.woodstock.com/2016/12/">December 2016</a></li>
+			<li><a href="http://www.woodstock.com/2017/06/">June 2017</a></li>
+	<li><a href="http://www.woodstock.com/2017/05/">May 2017</a></li>
+	<li><a href="http://www.woodstock.com/2017/04/">April 2017</a></li>
+	<li><a href="http://www.woodstock.com/2017/03/">March 2017</a></li>
+	<li><a href="http://www.woodstock.com/2017/02/">February 2017</a></li>
+	<li><a href="http://www.woodstock.com/2017/01/">January 2017</a></li>
+	<li><a href="http://www.woodstock.com/2016/12/">December 2016</a></li>
 	<li><a href="http://www.woodstock.com/2016/11/">November 2016</a></li>
 	<li><a href="http://www.woodstock.com/2016/10/">October 2016</a></li>
 	<li><a href="http://www.woodstock.com/2016/09/">September 2016</a></li>
@@ -450,7 +474,7 @@ img.emoji {
       </div>
     
       <div class="footer-bottom">
-        <span>© 2016 WOODSTOCK.COM</span>
+        <span>© 2017 WOODSTOCK.COM</span>
         <span><a href="/privacy-policy">PRIVACY POLICY</a></span>
         <span><a href="/terms-of-use">TERMS OF USE</a></span>
         <br>
@@ -476,8 +500,8 @@ var et_ptemplates_strings = {"captcha":"Captcha","fill":"Fill","field":"field","
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.woodstock.com/wp-content/themes/Harmony/epanel/page_templates/js/et-ptemplates-frontend.js?ver=1.1"></script>
-<script type="text/javascript" src="http://www.woodstock.com/wp-content/plugins/social-sharing-toolkit/script_2.1.2.js?ver=4.5.4"></script>
-<script type="text/javascript" src="http://www.woodstock.com/wp-includes/js/wp-embed.js?ver=4.5.4"></script>
+<script type="text/javascript" src="http://www.woodstock.com/wp-content/plugins/social-sharing-toolkit/script_2.1.2.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://www.woodstock.com/wp-includes/js/wp-embed.js?ver=4.7.2"></script>
 
 <div class="hidden">
 <!-- Google Tag Manager (noscript) -->
