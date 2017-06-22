@@ -1,67 +1,57 @@
-> *The following text is extracted and transformed from the sportpeaks.com privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622041917id_/http%3A//sportpeaks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportpeaks.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622114346id_/http%3A//sportpeaks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Sport Peaks
+# Privacy - Sport Peaks
 
-The owners and operators of sportpeaks.com take your online privacy seriously. This document outlines the types of information collected by our servers and provides links to the privacy policies of our third-party advertising partners.  
-****
+**Privacy**
 
-**User Accounts**
+This privacy policy sets out how Sport Peaks uses and protects any information that you give Sport Peaks when you use Sport Peaks. Sport Peaks is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Sport Peaks, then you can be assured that it will only be used in accordance with this privacy statement. Sport Peaks may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
-Membership is an optional part of the sportpeaks.com web site. No user account is required in order to browse or download the content we provide. However, creating an account enables extra features such as (but not limitted to) the ability to submit content, create a list of your own wallpapers, or post comments.
+**What we collect  
+**We may collect the following information:
 
-By creating an account, you are volunteering certain information about yourself that will be stored on our servers. This data includes at a minimum a username, password, and valid email address. Additional information may optionally be added by you to your account profile. Your profile information is public and may appear on our web site, with the exception of your email address and password.  
-****
-
-**Personally Identified Data**
-
-We strongly discourage users from entering their full name, phone number, physical address, or other sensitive information in user profiles, comments, or other areas of the site. Furthermore, we request that minors and any individuals with limited decision making ability not create an account on this site without the approval and supervision of a guardian.
-
-We make a reasonable attempt to monitor for cases where users post personally identifiable information about other individuals to public portions of the web site and remove the offending material.  
-****
-
-**Server Logs**
-
-Like most web sites, sportpeaks.com logs web-, database-, and other server-software usage and access information. This information may include your internet protocal (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.  
-****
-
-**Cookies**
-
-While browsing sportpeaks.com, a small number of text files referred to as “cookies” may be created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for both registered and non-registered users. You are free to delete them at any time, or configure your browser not to create them. However, we do not promise that every feature of sportpeaks.com will function as expected without cookies enabled.  
-****
-
-**Third-Party Advertisers**
-
-In order to cover the costs of providing sportpeaks.com as a free resource to the public, we have relationships with many third-party advertising networks. The practices of our advertising partners are not directly covered by sportpeaks.com’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
-
-_Google Adsense:_
-
-We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
-
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**Sharing/Selling of Data**
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-sportpeaks.com does not share or sell personally identifiable data to third parties such as spammers or direct marketers. We respect your privacy.  
-****
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-**Account Cancellation**
 
-Upon request, your sportpeaks.com account can be canceled. Your user profile will no longer appear on the web site and your submissions will no longer be listed publicly for download. Any comments you have posted will still appear and include your username, but will not be linked to your profile. After cancellation, you will be not be available for log-in.  
-****
 
-**Data Retention**
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-The data submitted to and generated by this web site may be copied to additional machines for redundancy and backup purposes.  
-For any problems or questions don’t hesitate to [contact us](https://web.archive.org/web/20140622041917id_/http://sportpeaks.com/privacy-policy/contact-us/).
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Copyright policy**
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**For Users:**  Attention every visitor to this website. You can download anything from here for desktop purposes only. You do not have any permission to use any image commercially (in website backgrounds,wall backgrounds, printing for sale..like that). You must obtain the permission from the original copyright holder of that image for using them commercially.
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
 
-**For Copyright Holders:**  All the images in this site are collected from various resources available on internet through search engines like that and please consider the fact that we do not intentionally distributing your work. We always respect your work in creating those wonderful images. But due to the fact we are using a 3rd party script which doesn’t have feature to display credits & copyright information. Currently are working on it. We already requested our users to comply with our copyright policy.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-If you are still not satisfied with our copyright policy. Please take time to inform us through our [contact page](https://web.archive.org/web/20140622041917id_/http://sportpeaks.com/privacy-policy/contact-us/). So we can take an appropriate action as soon as possible.
+**Third-party online advertising**
+
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
+
+Please remember that Sport Peaks does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy.
+
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
+
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
