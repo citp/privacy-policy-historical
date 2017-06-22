@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webce.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120124432id_/http%3A//www.webce.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webce.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622032721id_/http%3A//www.webce.com/help/privacy) for the most accurate reproduction.*
 
 # WebCE Online Privacy Statement | WebCE
 
@@ -24,7 +24,7 @@
 
 **WebCE, Inc.** ("WebCE") respects your right to privacy. WebCE has created this privacy statement to demonstrate our firm commitment to protect your personal information and your right to privacy. "Personal Information" is any information that can be used to identify an individual, and may include, but is not limited to, name, email address, postal or other physical address, title, occupation and other information required to provide our services and products or to carry out a transaction you have requested. 
 
-This statement outlines our Personal Information-handling practices for [www.webce.com](http://www.webce.com/) and related sites (collectively referred to as the WebCE Web site). It does not apply to those sites that do not display or link to this Privacy Statement or that have their own privacy statements. 
+This statement outlines our Personal Information-handling practices for [www.webce.com](https://www.webce.com/) and related sites (collectively referred to as the WebCE Web site). It does not apply to those sites that do not display or link to this Privacy Statement or that have their own privacy statements. 
 
 This statement is readily available through a link on our home page and at the bottom of every WebCE Web page. Some WebCE programs may have their own, possibly different, privacy policies. We encourage you to read the privacy statements of each of the Web sites or program information you visit or review. 
 
@@ -93,7 +93,8 @@ Most browsers will accept cookies automatically from the site. You may refuse to
 You can find information on popular browsers and how to adjust your cookie preferences at the following websites: 
 
   * Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
-  * Mozilla Firefox: <http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html>
+  * Google Chrome: <https://support.google.com/chrome/answer/95647>
+  * Mozilla Firefox: <https://support.mozilla.org/t5/Cookies-and-cache/Enable-and-disable-cookies-that-websites-use-to-track-your/ta-p/2784>
   * Apple Safari: Blocks cookies by default. To change click Safari, Preferences, Security and choose your preference. 
 
 
