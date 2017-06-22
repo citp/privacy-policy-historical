@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ops-oms.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220211252id_/http%3A//www.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ops-oms.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622220109id_/http%3A//www2.paho.org/hq/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D3201%26Itemid%3D2410%26lang%3Den) for the most accurate reproduction.*
 
 # PAHO WHO | PAHO Website Privacy Policy
 
@@ -69,3 +69,5 @@ For questions or queries regarding this privacy policy, please contact us [here]
 _*Cookies :  A cookie is a small amount of data that is sent from a web server to your browser. It is normally used to assign a unique identification to your computer and securely store information such as user IDs, passwords, preferences, and online profiles. It is stored on the hard drive of your computer. You can choose not to have cookies delivered by PAHO/WHO sites by changing your browser settings. Different web sites can send their own cookies to your computer. To protect your privacy, your browser only allows a web site to access the cookies it has already sent you, not the cookies sent by other sites._
 
 Last Updated on Monday, 12 December 2016 11:19
+
+    
