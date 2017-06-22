@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sundancechannel.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129114408id_/http%3A//www.sundance.tv/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundancechannel.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622110552id_/http%3A//www.sundance.tv/about/privacy) for the most accurate reproduction.*
 
 # Privacy – SundanceTV
 
-**EFFECTIVE DATE: July 24th, 2015**
+**EFFECTIVE DATE: May 10th, 2017**
 
 This Privacy Policy describes what information AMC Networks Inc. and its United States-based affiliate and subsidiary companies (together, “AMC” or “we” and sometimes “us”) collect about you and why, how we use and share that information, and the choices we offer.
 
 ## **1.** **WHAT IS THE SCOPE OF THIS PRIVACY POLICY?**
 
-This Privacy Policy (“Policy”) is incorporated into the AMC Terms of Service , and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any AMC applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device.  If you disagree with the terms of this Policy, please do not use the Services.
+This Privacy Policy (“Policy”) is incorporated into the AMC [Terms of Service](http://www.amc.com/terms), and applies to information obtained by us when you sign up for, use, access, download or otherwise interact with any AMC applications, mobile applications, games, sweepstakes, products, services, or websites and anywhere else where this policy is posted, including applications we make available on third party sites or platforms, if disclosed to you in connection with your use of the application (collectively, “Services”). This Policy does not apply to information that is collected outside the Services. This Policy applies regardless of whether you access the Services using a personal computer, mobile device, gaming console or other equipment or device.  If you disagree with the terms of this Policy, please do not use the Services.
 
 ## **2.** **WILL THIS POLICY EVER CHANGE?**
 
@@ -18,7 +18,7 @@ We may change this Policy from time to time.  If we make changes, we will notif
 
 **_Information you provide to us:_** **** We collect information that you submit to us. For example, the process of creating or editing your user profile on a Service may require you to provide us with a name, e-mail address, phone number, physical address, including zip code, password of your choice and cable provider.  When you personalize your profile and use the features of the Services, we will collect any information you voluntarily provide, and we may also request optional information to support your use of the Services, such as a profile picture and birthday.  Additionally, we collect any information that you voluntarily enter into any postings, comments or forums within the Services, including private messages you send to other users of the Services. And, if you send an e-mail to us, we will collect your e-mail address and the full content of your e-mail, including attached files and other information you choose to provide to us.
 
-**_Information We Collect Automatically From Your Devices:_** **  **When you use our Services, we may collect information about the device you use to access the Services, including hardware model, operating system and version, Internet Protocol (“IP”) address and other unique device identifiers, mobile network information and information about the device’s interaction with our Services.  We also collect information about how you use our Services, including your access times, browser types and language.  We may use this data alone or in aggregate form, as a statistical measure, but not in a manner that is intended to identify you personally.  This type of data enables us to understand how often individuals use parts of the Services so we can analyze and improve them.  To collect this information, we use cookies and web beacons, and may in the future use other similar technologies.  To learn more about how we automatically receive and record information when you interact with the Services, please review our [Cookies Policy](https://web.archive.org/cookies).  This policy covers only our use of cookies; it does not cover the use of cookies or other technologies by third parties.  However, options you have to control the use of third party cookies are explained in our [Cookies Policy](https://web.archive.org/cookies) .
+**_Information We Collect Automatically From Your Devices:_** **  **When you use our Services, we may collect information about the devices you use to access the Services, including hardware model, operating system and version, Internet Protocol (“IP”) address and other unique device identifiers, mobile network information and information about the device’s interaction with our Services.  We also collect information about how you use our Services, including your access times, browser types and language.  We may use this data alone or in aggregate form, as a statistical measure, but not in a manner that is intended to identify you personally.  This type of data enables us to understand how often individuals use parts of the Services so we can analyze and improve them.  To collect this information, we use cookies and web beacons, and may in the future use other similar technologies.  To learn more about how we automatically receive and record information when you interact with the Services, please review our [Cookies Policy](https://web.archive.org/about/cookies).  This policy covers only our use of cookies; it does not cover the use of cookies or other technologies by third parties.  However, options you have to control the use of third party cookies are explained in our [Cookies Policy](https://web.archive.org/about/cookies).
 
 **_Location Information:_** **** We may collect different types of information about your location, including general information, such as the city, state and/or zip code associated with your IP Address, and, if you agree, more specific location information that is provided through the GPS functionality on mobile devices used to access the Services. We may use such location information to customize the Services, including advertising that is presented to you. For example, if you provide a zip code that indicates that you live in New York, the Services may be customized with New York-specific information, features, and advertisements. In order to do this, your location information may be passed along to our affiliates, agents, vendors or advertisers.  Options you have to control the automatic collection of location information are explained below under “What Are My Choices.” ****
 
@@ -35,6 +35,7 @@ In general, the information that you submit or share with us and that we collect
   * for the purposes for which you provided such information;
   * to enable your access to the Services;
   * to provide, maintain, protect, develop and improve the Services, including through the use of statistical analysis;
+  * to learn about how you use the Services, including by linking your activities across the devices you may use;
   * to customize the content and advertisements you receive from us and our trusted partners;
   * to communicate with you, including via email, text messages, social media, mail and phone; and
   * to offer you additional information, opportunities, promotions and functionality from us or on our behalf, or from our partners or our advertisers.
@@ -47,7 +48,7 @@ By accessing and using the Services, you consent to our use of your information 
 
 ## **5.** **WHEN IS MY INFORMATION DISCLOSED?**
 
-We do not disclose your information except in the limited circumstances described below.  By accessing and using the Services, you consent to us sharing your information under the circumstances described in this Policy.
+We do not disclose your information except in the limited circumstances described below and in the Cookies Policy. By accessing and using the Services, you consent to us sharing your information under the circumstances described in this Policy and the Cookies Policy.
 
 **_With your consent_** **:** We may share or disclose your information if you ask or authorize us to do so.
 
@@ -67,7 +68,7 @@ If you do not agree or do not consent to the disclosure of your information in a
 
 ## **6.** **WHAT ARE MY CHOICES?**
 
-You may opt out of receiving interest-based advertising from us.  To find out more about our advertising and how to opt out, please see our [Cookies Policy](https://web.archive.org/cookies).  You may also choose to block cookies.  Learn more about cookies, how we use them and how to block them by reviewing our [Cookies Policy](https://web.archive.org/cookies).
+You may opt out of receiving interest-based advertising from us.  To find out more about our advertising and how to opt out, please see our [Cookies Policy](https://web.archive.org/about/cookies).  You may also choose to block cookies.  Learn more about cookies, how we use them and how to block them by reviewing our [Cookies Policy](https://web.archive.org/about/cookies).
 
 You have a right at any time to stop us from contacting you for marketing purposes. When you receive promotional communications from us, you may indicate a preference to stop receiving further promotional communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the promotional e-mail you receive or by contacting us directly at [feedback@sundance.tv](mailto:feedback@sundance.tv).  Despite your indicated e-mail marketing preferences, we may still send you relationship and/or transactional e-mails regarding the Services, including, for example, administrative confirmations and notices of updates to our Policy, if we choose to provide such notices to you in this manner.
 
@@ -109,8 +110,4 @@ The information we collect from you through your use of the Services is stored a
 
 If you have questions or concerns about our Policy, please contact us at: [feedback@sundance.tv](mailto:feedback@sundance.tv).
 
-## **16.** **SAFE HARBOR**
-
-AMC Network complies with the US/EU and US/Swiss Safe Harbor frameworks, as set forth by the U.S. Department of Commerce, for the collection, use and retention of personal information transferred from the EEA and Switzerland. More information regarding Safe Harbor can be found at: [http://www.export.gov/safeharbor. ](http://www.export.gov/safeharbor)
-
-© 2015 AMC Networks Inc. All rights reserved.
+© 2017 AMC Networks Inc. All rights reserved.
