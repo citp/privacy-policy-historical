@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpresidence.net privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127063839id_/http%3A//wpresidence.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpresidence.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622201530id_/http%3A//wpresidence.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WP Residence – Real Estate Responsive WordPress Theme
 
