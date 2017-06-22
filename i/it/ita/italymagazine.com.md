@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italymagazine.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123135949id_/http%3A//www.italymagazine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italymagazine.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622122625id_/http%3A//www.italymagazine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ITALY Magazine
 
