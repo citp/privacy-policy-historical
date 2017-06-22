@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smitegame.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606150740id_/http%3A//www.hirezstudios.com/wp-content/themes/hi-rez-studios/pdf/hi-rez-studios-online-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smitegame.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622165341id_/http%3A//www.hirezstudios.com/wp-content/themes/hi-rez-studios/pdf/hi-rez-studios-online-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Hi-Rez Studios® Online Privacy Policy
 
