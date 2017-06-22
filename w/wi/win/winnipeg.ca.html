@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2016-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161209222704id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the winnipeg.ca privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622161950id_/http%3A//www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-ca" xml:lang="en-ca"><head>
 <title>Privacy - Connect With Us - City of Winnipeg</title>
 <meta name="description" content="City of Winnipeg Privacy Statement.">
-<meta name="keywords" content="privacy, disclaimer, legal, statement, web, website, winnipeg.ca, email, newsletter, log, visitor, site, logging, subscribe, unsubscribe, ">
+<meta name="keywords" content="privacy, disclaimer, legal, statement, web, website, winnipeg.ca, email, newsletter, log, visitor, site, logging, subscribe, unsubscribe, googoe, analytics, search,">
  
 <meta name="rating" content="General">
 <meta name="author" content="Conditions of Use">
@@ -137,6 +137,40 @@ function changeClsNam(clsNam) {
 				$('.copyright').removeClass('regular medium large').addClass(clsNam);
                 $('.crumbs').removeClass('regular medium large').addClass(clsNam);
 }
+
+function addFr () {
+				var loc = window.location;
+				var strdomain = loc.hostname.toLowerCase();
+				switch(strdomain) {
+					case "theparkingstore.winnipeg.ca":
+					case "www.theparkingstore.winnipeg.ca":
+					case "wpl.winnipeg.ca":
+					case "www.wpl.winnipeg.ca":
+						window.open("http://winnipeg.ca/francais"+loc.pathname+loc.search+loc.hash,'_self',false);
+						break;
+					case "winnipegassessment.com":
+					case "www.winnipegassessment.com":
+						window.open("http://winnipeg.ca/francais/asmttax"+loc.pathname.substring(8)+loc.search+loc.hash,'_self',false);
+						break;
+					case "winnipegtransit.com":
+					case "www.winnipegtransit.com":
+						window.open("http://winnipeg.ca/francais"+loc.pathname.substring(3)+loc.search+loc.hash,'_self',false);
+						break;
+					case "theparkingstoredev.winnipeg.ca":
+					case "wpldev.winnipeg.ca":
+						window.open("http://wwwdev.winnipeg.ca/francais"+loc.pathname+loc.search+loc.hash,'_self',false);
+						break;
+					case "wwwdev.winnipegassessment.com":
+						window.open("http://wwwdev.winnipeg.ca/francais/asmttax"+loc.pathname.substring(8)+loc.search+loc.hash,'_self',false);
+						break;
+					case "wwwdev.winnipegtransit.com":
+						window.open("http://wwwdev.winnipeg.ca/francais"+loc.pathname.substring(3)+loc.search+loc.hash,'_self',false);
+						break;
+					default:
+						window.open(loc.protocol+"//"+loc.hostname+"/francais"+loc.pathname+loc.search+loc.hash,'_self',false);
+				}
+}
+
 $(document).ready(function() {                
 
                 if(getCookie('textSize')) {
@@ -151,6 +185,7 @@ $(document).ready(function() {
                                 setCookie(textSize);
                                 return false;
                 });
+				$('#francaislink').click(function(){addFr(); return false;});
 
 }); 
 </script>
@@ -178,7 +213,7 @@ $(document).ready(function() {
 <!--Close font size selector-->
 
 
-<strong> | </strong>&nbsp;<a href="http://winnipeg.ca/francais/" alt=""><span id="francais">Link to the City of Winnipeg French website</span>Français</a>&nbsp;<strong> | </strong>
+<strong> | </strong>&nbsp;<a href="/francais" id="francaislink" name="francaislink" alt=""><span id="francais">Link to the City of Winnipeg French website</span>Français</a>&nbsp;<strong> | </strong>
 
 
 
@@ -349,7 +384,7 @@ display:inline-block;
 
 
   
-    <li class="threeoneone"><a href="http://www.winnipeg.ca/311" alt="Three One One Online Services">
+    <li class="threeoneone"><a href="http://www.winnipeg.ca/interhom/311Online/" alt="Three One One Online Services">
     <!-- The word 311 displays in IE8 and older -->
 <!--[if lte IE 8]><div id="threeoneonetext">311 </div><![endif]-->
 Self Service</a></li>
@@ -367,90 +402,7 @@ Self Service</a></li>
 </div>   
 
 <!-- START KNOW YOUR ZONE AD -->
-<style>
-
-div#kyz-leaderboard {
-	padding-top:17px; /* space below leaderboard is added via #page margin-top in cow.css to  */
-	}
-
-div.floating-menu {
-  clear: both;
-  width: 952px;
-  margin: 0 auto;
-  border: 1px solid white;
-  	}
-	
-div.floating-menu .container {
-  width: 952px;
-  height: 67px;
-  margin: 0 auto;
-  background-image: url(/shared/images/KYZ_app-CoW-leaderboard.jpg);
-  /*background-image: url(/shared/images/KYZ_TopNavBG.jpg);*/
-  background-repeat:no-repeat;
-  /*padding:5px 0px 5px 0px;*/
-	}
-
-div.floating-menu .container .alert {
-  width: 320px;
-  /*height:53px;*/
-  color: #fff !important;
-  font-weight:bold;
-  font-size: 80%;
-  /*background-color: #DA891E;*/
-	}
-	
-div.floating-menu .container .alert a:link{
-  color: #fff !important;
-  font-weight:bold;
-  font-size: 120%;
-	}	
-div.floating-menu .container .alert a:hover{
-  color: #fff !important;
-  font-weight:bold;
-	}
-div.floating-menu .container .alert a:active{
-  color: #fff !important;
-  font-weight:bold;
-	}	
-div.floating-menu .container .alert a:visited{
-  color: #fff;
-  font-weight:bold;
-	}
-#kyz-leaderboard a{
-	text-decoration: none !important;
-}
-.kyzdate {}
-
-.kyztitle {
-	color:#fff;
-}
-
-.kyzdeclared {
-	background-color: #CC0000;
-	margin-left:0px;
-	width: 270px; 
-	height: 67px; 
-	padding: 5px; 
-	background-image: url(/shared/images/KYZ_TopNavALERT_BG.jpg;
-	color:#fff;
-}
-	
-</style>
-
-<div id="kyz-leaderboard">
-<div class="floating-menu" id="float">
-	<a href="http://www.winnipeg.ca/publicworks/snow/Parkingbans/parkingBans.asp" title="Parking Ban information, Know Your Zone dot winnipeg dot ca">
-    <div class="container">
-		<div class="alert">
-         <table border="0" class="kyzdeclared"><tbody><tr><td class="r100B kyztitle" align="center">Residential Parking Ban In Effect</td></tr>
-<tr><td align="center" class="kyzdate">December 9 to December 11</td></tr>
-</tbody></table>
- 
-        </div>
-    </div>
-    </a>
-</div>
-</div>
+<!--include virtual="/shared/socks_KYZ/kyz_leaderboard.htm" -->
 <!-- END KNOW YOUR ZONE AD -->
 
 <!-- Start Alert -->
@@ -473,23 +425,9 @@ div.floating-menu .container .alert a:visited{
     <div class="left_menu_search">
 </div></div>
 
-
 <div id="leftNav">
     <ul class="lnMenu">
-		<li><a href="/interhom/socialmedia/" title="Social Media">Social Media</a></li>
-        <li><a href="/interhom/SocialMedia/termsOfUse.stm">Terms of Use for Social Media Commenting by the Public</a></li>
-        <li><a href="/WpgMail/subscribe_all.stm" title="Email News">Email News</a></li>
-        <li><a href="/interhom/RSS/default.stm" title="RSS Feeds">RSS Feeds</a></li>
-		<li><a href="/Mobile/apps.stm" title="Mobile Apps">Mobile Apps</a></li>
-		
-        
-		<li><a href="/interhom/conditions_of_use/" title="Conditions of Use">Conditions of Use</a></li>
-        <li><a href="/interhom/conditions_of_use/MapConditions.stm" title="Mapping Conditions of Use">Mapping Conditions of Use</a></li>
-        <li><a href="/interhom/conditions_of_use/PrivacyStatement.stm" title="Privacy">Privacy</a></li>
-		<li><a href="/cao/CorporateCommunications/" title="Media Inquiries">Media Inquiries</a></li>
-        <li><a href="/interhom/311Online/contact311/default.stm" title="Contact">Contact</a></li>
-        <li><a href="/interhom/SocialMedia/sitemap/sitemap.asp">Site map</a></li>
-        <li><a href="/interhom/Calendar/default.stm">Event Calendar</a></li>
+		<li><a href="/interhom/SocialMedia/sitemap/sitemap.asp">Site map</a></li>
     </ul>
 </div>
 
@@ -541,21 +479,28 @@ populateNav("/interhom/SocialMedia/navData.xml");
         <!-- *** EDITABLE: main page content -->
 
 
-            <h2 class="blue">Privacy</h2>
-            <p class="k85">
-              This page summarizes the privacy policy and practices on The City of Winnipeg Internet site ("Winnipeg.ca").
-            </p>
-            <h3 class="blue">Principles</h3>
-            <p class="k85">The City of Winnipeg is committed to providing  our visitors with an Internet site that respects their privacy. Winnipeg.ca  does not automatically gather any personal information from you, such as your  name, phone number, email or address. This information is only obtained if you  supply it voluntarily through contacting us via email or online forms. </p>
-<p class="k85">Any collection of  your personal information is governed by The Freedom of Information and  Protection of Privacy Act. If you have any questions about the collection or  use of your personal information, please see the City’s <a href="/clerks/fippa/">Access and Privacy Office webpage</a>.</p>
-            <h3 class="blue">Logging of Site Visitors</h3>
-            <p class="k85">
-              Like most Web servers, the City of Winnipeg server collects some information about visitors to the site.  The server  receives and records the  Internet domain  and Internet Protocol address from which you access the City's website, the date and time of the visit, and the pages visited.  Depending on the setup of your internet service provider (ISP), this information may identify who you are; you may wish to contact your ISP for more information in this regard. The  information is analyzed for trends and statistics, and then aggregated.  The information is also used to monitor network traffic to prevent damage to the website and to help us make our website more useful to visitors.
-            </p>
-            <h3 class="blue">Email News Subscribers</h3>
-            <p class="k85">The City of Winnipeg values your privacy. We do not sell or share your personal  information with third parties. If you have received an email from City of Winnipeg it is because you have  confirmed your subscription to an opt-in email list offered on a City of Winnipeg website. From time to time, the City of Winnipeg may include additional messages of interest to subscribers. You may unsubscribe or change your subscription options at any time by going to the <a href="/WpgMail/subscribe_all.stm">Email News Listing</a> page.</p>
-            <p class="k85">
-              If you have any questions about the information gathered automatically by Winnipeg.ca, please read our <a href="default.stm">Conditions of Use</a> or contact the City of Winnipeg's <a href="/shared/htmlsnippets/MailForm.asp?Recipient=webmanager&amp;Title=Corporate Web Manager&amp;Note=Use this form to contact the City of Winnipeg Web Manager regarding the Winnipeg.ca website." target="_blank">Corporate Web Manager</a>.</p>
+            <h2>Privacy</h2>
+            <p class="k85">This page summarizes the privacy policy and practices on The City of Winnipeg (the ‘City’) websites (“Winnipeg.ca”, “WinnipegAssessment.com”, and “WinnipegTransit.com”).</p>
+        
+        <h3>Principles</h3>
+            <p class="k85">The City is committed to providing our visitors with an Internet site that respects their privacy. City websites do not automatically gather any personal information from you, such as your name, phone number, email or address. This information is only obtained if you supply it voluntarily through contacting us via email or online forms.</p>
+<p class="k85">Any collection of your personal information is governed by The Freedom of Information and Protection of Privacy Act. If you have any questions about the collection or use of your personal information, please see the City’s <a href="/clerks/fippa/">Access and Privacy Office webpage</a>.</p>
+
+        <h3>Logging of Site Visitors</h3>
+            <p class="k85">Like most Web servers, the City server collects some information about visitors to the site. The server receives and records the Internet domain and Internet Protocol address from which you access the City's website, the date and time of the visit, and the pages visited. Depending on the setup of your Internet service provider (ISP), this information may identify who you are; you may wish to contact your ISP for more information in this regard. The information is analyzed for trends and statistics, and then aggregated. The information is also used to monitor network traffic to prevent damage to the website and to help us make our website more useful to visitors.</p>
+            
+            <h3>Google Search Engine</h3>
+            <p class="k85">To assist in the navigation of our website, our website features Google’s custom search engine. Any search inquiries you enter into the search engine may be collected, used, and disclosed by Google. Please check <a href="http://www.google.com/intl/en/policies/privacy/" target="_blank" class="http">Google’s Privacy Policy</a> for more information regarding how they manage the information you enter into the custom search engine. Please note you do not have to use the search engine in order to access the materials on our website.</p>
+            
+        <h3>Google Analytics</h3>
+            <p class="k85">When you visit City websites we use a third party service, Google Analytics, to collect standard Internet log information, including your IP address, operating system and browser type, and details of your behaviour patterns.  We do this to find out how visitors use our site.  This information allows the City to better understand the types of individuals who visit our site and what content they are reading.  This, in turn, assists the City in making improvements to our site.  Occasionally the City will compile statistics about the number of visitors this site receives and browsers being used.  This is statistical data about our visitors’ browsing actions and patterns, and does not identify any individual. This information is used to help us make our website more useful to visitors.</p>
+            <p class="k85">Google Analytics uses first-party cookies to track visitor interactions.  Cookies contain information that is transferred to your computer’s hard drive and assists Google Analytics in remembering how you have interacted with pages on our website. This includes the time that the current visit occurred, whether you have been to the site before, and what site referred you to our web page.  Google Analytics reports information anonymously. It reports website trends without identifying individual visitors. You can opt out of Google Analytics without affecting how you visit our site – for more information on opting out of being tracked by Google Analytics across all websites you use, visit <a href="http://tools.google.com/dlpage/gaoptout" target="_blank" class="http">Google Analytics Opt-out</a>. </p>
+            
+            <h3>Receiving Emails from the City of Winnipeg</h3>
+            <p class="k85">The City values your privacy. We do not sell or share your personal information with third parties. If you have received an email from the City it is because you have confirmed your subscription to an opt-in email list offered on a City website, or you have requested a response via a contact form, self-service request, or phone call.</p> 
+        <p class="k85">From time to time, the City may include additional messages of interest to email newsletter subscribers. You may unsubscribe or change your subscription options at any time by going to the  <a href="/WpgMail/subscribe_all.stm">Email News Listing</a> page.</p>
+        <p class="k85">&nbsp;</p>
+            <p class="k85">If you have any questions, please read our <a href="/interhom/conditions_of_use/default.stm">Conditions of Use</a> or contact the City's <a href="/shared/htmlsnippets/MailForm.asp?Recipient=webmanager&amp;Title=Corporate Web Manager&amp;Note=Use this form to contact the City of Winnipeg Web Manager regarding the Winnipeg.ca website." target="_blank">Corporate Web Manager</a>.</p>
 
     <!-- *** /EDITABLE: main page content -->
     
@@ -564,7 +509,7 @@ populateNav("/interhom/SocialMedia/navData.xml");
 <div id="lutopContainer">
         <div id="lastUpdateDate">
         Last update: 
-        <!-- #BeginDate format:Am1 -->July 26, 2016<!-- #EndDate -->
+        <!-- #BeginDate format:Am1 -->April 28, 2017<!-- #EndDate -->
         </div>
         <div id="topOfPage">
         <a href="javascript:window.scrollTo(0, 0)">Top of page</a>
@@ -684,58 +629,59 @@ color:#333;
 <div id="footer">
   
 <ul>
-<li><a href="http://www.winnipeg.ca/interhom/">Home</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/accessibility/accessWinnipegCa.stm">Accessibility</a></li>
-<li><a href="http://www.winnipeg.ca/mobile/">Mobile</a></li>
-<li><a href="http://www.winnipeg.ca/apps/">Apps</a></li>
+<li><a href="http://winnipeg.ca/interhom/default.asp">Home</a></li>
+<li><a href="http://winnipeg.ca/interhom/accessibility/accessWinnipegCa.stm">Accessibility</a></li>
+<li><a href="http://winnipeg.ca/mobile/default.stm">Mobile</a></li>
+<li><a href="http://winnipeg.ca/apps/">Apps</a></li>
 <li><a href="https://data.winnipeg.ca/" target="_blank">Open Data</a></li>
 </ul>
 
 
 
 <ul>
-<li><a href="http://www.winnipeg.ca/interhom/TOC/residents.asp">Residents</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/TOC/business.asp">Business</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/TOC/visitors.asp">Visitors</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/TOC/CityHall.asp">City Hall</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/TOC/departments.asp">Departments</a></li>
+<li><a href="http://winnipeg.ca/interhom/TOC/residents.asp">Residents</a></li>
+<li><a href="http://winnipeg.ca/interhom/TOC/business.asp">Business</a></li>
+<li><a href="http://winnipeg.ca/interhom/TOC/visitors.asp">Visitors</a></li>
+<li><a href="http://winnipeg.ca/interhom/TOC/CityHall.asp">City Hall</a></li>
+<li><a href="http://winnipeg.ca/interhom/TOC/departments.asp">Departments</a></li>
 </ul>
 
 
 <ul>
-<li><a href="http://www.winnipeg.ca/cao/media/news/">News</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/mayor/">Mayor's Office</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/311Online/contact311/default.stm">Contact 311</a></li>
-<li><a href="http://www.winnipeg.ca/cao/CorporateCommunications/">Media Inquiries</a></li>
+<li><a href="http://winnipeg.ca/interhom/311Online/contact311/default.stm">Contact 311</a></li>
+<li><a href="http://winnipeg.ca/interhom/311Online/contact311/locations.stm">City Locations</a></li>
+<li><a href="http://winnipeg.ca/cao/media/news/default.asp">News</a></li>
+<li><a href="http://winnipeg.ca/interhom/mayor/default.asp">Mayor's Office</a></li>
+<li><a href="http://winnipeg.ca/cao/CorporateCommunications/default.stm">Media Inquiries</a></li>
 </ul>
 
 
 <ul>
-<li><a href="http://www.winnipeg.ca/interhom/TOC/sitemap/sitemap.asp">Site Map</a></li>
-<li><a href="http://www.winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm">Privacy</a></li>
+<li><a href="http://winnipeg.ca/interhom/TOC/sitemap/sitemap.asp">Site Map</a></li>
+<li><a href="http://winnipeg.ca/interhom/conditions_of_use/PrivacyStatement.stm">Privacy</a></li>
 </ul>
 
 
 <ul>
-<li><a href="http://www.winnipeg.ca/interhom/SocialMedia/">Connect With Us!</a></li>
+<li><a href="http://winnipeg.ca/interhom/SocialMedia/default.stm">Connect With Us!</a></li>
 </ul>
 
 <table border="0" cellpadding="5" align="left" style="padding-left:35px;">
   <tbody><tr>
-    <td><a href="http://www.winnipeg.ca/interhom/SocialMedia/"><img src="http://www.winnipeg.ca/shared/images/socialMedia/Blog.png" alt="Blog" width="36" height="36" border="0"></a></td>
-    <td><a href="https://www.facebook.com/cityofwinnipeg" target="_blank"><img src="http://www.winnipeg.ca/shared/images/socialMedia/Facebook.png" alt="Like us on Facebook" width="36" height="36" border="0"></a></td>
-    <td><a href="https://twitter.com/cityofwinnipeg" target="_blank"><img src="http://www.winnipeg.ca/shared/images/socialMedia/twitter.png" alt="Follow us on Twitter" width="36" height="36" border="0"></a></td>
+    <td><a href="http://winnipeg.ca/interhom/SocialMedia/default.stm"><img src="http://winnipeg.ca/shared/images/socialMedia/Blog.png" alt="Blog" width="36" height="36" border="0"></a></td>
+    <td><a href="https://www.facebook.com/cityofwinnipeg" target="_blank"><img src="http://winnipeg.ca/shared/images/socialMedia/Facebook.png" alt="Like us on Facebook" width="36" height="36" border="0"></a></td>
+    <td><a href="https://twitter.com/cityofwinnipeg" target="_blank"><img src="http://winnipeg.ca/shared/images/socialMedia/twitter.png" alt="Follow us on Twitter" width="36" height="36" border="0"></a></td>
   </tr>
   <tr>
-    <td><a href="https://youtube.com/thecityofwinnipeg" target="_blank"><img src="http://www.winnipeg.ca/shared/images/socialMedia/youtube.png" alt="Watch us on YouTube" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/interhom/RSS/default.stm"><img src="http://www.winnipeg.ca/shared/images/socialMedia/rss.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
-    <td><a href="http://www.winnipeg.ca/WpgMail/subscribe_all.stm"><img src="http://www.winnipeg.ca/shared/images/socialMedia/email.png" alt="Subscribe to Email Newsletters" width="36" height="36" border="0"></a></td>
+    <td><a href="https://youtube.com/thecityofwinnipeg" target="_blank"><img src="http://winnipeg.ca/shared/images/socialMedia/youtube.png" alt="Watch us on YouTube" width="36" height="36" border="0"></a></td>
+    <td><a href="http://winnipeg.ca/interhom/RSS/default.stm"><img src="http://winnipeg.ca/shared/images/socialMedia/rss.png" alt="Winnipeg.ca News" width="36" height="36" border="0"></a></td>
+    <td><a href="http://winnipeg.ca/WpgMail/subscribe_all.stm"><img src="http://winnipeg.ca/shared/images/socialMedia/email.png" alt="Subscribe to Email Newsletters" width="36" height="36" border="0"></a></td>
   </tr>
 </tbody></table>
 
 <div class="copyright">
 City of Winnipeg - 510 Main Street - Winnipeg, Manitoba - R3B 1B9<br>
-©1996-<script>document.write(new Date().getFullYear())</script>2020, City of Winnipeg &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of this site signifies your agreement to the <a href="http://www.winnipeg.ca/interhom/conditions_of_use/"><strong>Conditions of Use</strong></a>
+©1996-<script>document.write(new Date().getFullYear())</script>2020, City of Winnipeg &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Use of this site signifies your agreement to the <a href="http://winnipeg.ca/interhom/conditions_of_use/default.stm"><strong>Conditions of Use</strong></a>
 </div>
 
 </div>
