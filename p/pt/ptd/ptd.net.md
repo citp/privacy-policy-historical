@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptd.net privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203075055id_/http%3A//www.ptd.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptd.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622092848id_/http%3A//www.ptd.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PTD
 
@@ -7,7 +7,8 @@ PenTeleData LP 1. is the organization that produces the PenTeleData Website (Web
 **General  **  
 You may visit our website without disclosing any personal information. We may, however, offer some services or specifically request personal information. The personal information we collect may include, but is not limited to, first and last name, street address, email address, telephone number (e.g., home, work, mobile and/or fax), and birthdate. We may also collect other personal information that will be identified on the applicable page(s) of the Website. If you submit any personal information to us, or to our third party service providers acting on our behalf, you can be assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: (1) to our third party service providers, and only so that they may help us provide the services you've requested and in certain circumstances to provide you with ticket or merchandise related offers; and (2) on occasion, we may offer a special promotion (such as a sweepstakes or other contests on the Website or otherwise or in conjunction with a third party service provider, sponsor or promotional partner, and share your information with that sponsor or promotional partner so that it can send you other special promotions it offers, but only if you give us permission to do so.
 
-**Special Offers and Promotions  **  
+**Special Offers and Promotions  **
+
 With your permission, we may also send you emails with special offers and promotions. If you don't want to receive these, you may unsubscribe to our newsletter.
 
 **Automatically Collected Information**    
