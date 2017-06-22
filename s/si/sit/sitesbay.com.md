@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesbay.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014923id_/http%3A//www.sitesbay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesbay.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622121236id_/http%3A//www.sitesbay.com/privacy-policy) for the most accurate reproduction.*
 
 # Sitesbay Privacy Policy
 
@@ -30,7 +30,7 @@ Users are free to visit Sitesbay, and navigate all its pages, without any user r
 
 We have listed out all the information we collect from you. If you are not comfortable to provide such information then please don't create your registration with us.
 
-For any questions about this privacy statement, please contact at [contact@sitesbay.com](https://web.archive.org/web/20161119014923id_/http%3A//www.sitesbay.com/contact@sitesbay.com)
+For any questions about this privacy statement, please contact at [contact@sitesbay.com](https://web.archive.org/web/20170622121236id_/http%3A//www.sitesbay.com/contact@sitesbay.com)
 
 * * *
 
