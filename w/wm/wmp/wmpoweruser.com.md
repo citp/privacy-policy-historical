@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wmpoweruser.com privacy policy that was archived on 2016-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160204143149id_/http%3A//wmpoweruser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmpoweruser.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622224024id_/http%3A//mspoweruser.com/privacy) for the most accurate reproduction.*
 
-# Privacy - WMPoweruser
+# Privacy - MSPoweruser
 
 ******Information about our Organisation and Web site**
 
@@ -87,13 +87,13 @@ Access to the personal data we may hold about you
 
 You can ask us, by:
 
-  * [sending an email](mailto:editor@wmpoweruser.com)
+  * [sending an email](mailto:editor@mspoweruser.com)
 
 
 
 whether we are keeping personal data about you.Upon request, which you can indicate by:
 
-  * [sending an email](mailto:editor@wmpoweruser.com)
+  * [sending an email](mailto:editor@mspoweruser.com)
 
 
 
