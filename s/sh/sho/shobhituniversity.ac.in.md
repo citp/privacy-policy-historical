@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shobhituniversity.ac.in privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130163444id_/http%3A//www.shobhituniversity.ac.in/pdf/Privacy-Policy-Shobhit-University.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shobhituniversity.ac.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622181555id_/http%3A//www.shobhituniversity.ac.in/pdf/Privacy-Policy-Shobhit-University.pdf) for the most accurate reproduction.*
 
 # 
 
