@@ -1,100 +1,43 @@
-> *The following text is extracted and transformed from the njoyapps.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njoyapps.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622165319id_/http%3A//www.njoyapps.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# nJoyApps - Useful and better products for Google chrome
 
-**Go Daddy Respects Your Privacy**
+The nJoyApps Internet site (the "Site") is a platform which allows you to customize your new tab so you can access your favorite sites within a wave of a hand, and also give you the opportunity to sync your mobile device's address book with a desktop app and thereby answer calls and texts from your computer device. These and the nJoyApps Terms of Service ( **"Terms"** ) are the accesses and terms of your use in the site. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+As used in this privacy policy, **"Personal Information"** means information that can be directly associated with a specific person or entity such as a name, address, telephone number, or e-mail address. Other terms capitalized but not defined in this Privacy Policy shall have the meaning set forth in our Terms of Service at www.nJoyApps.com (the **"Terms"** ). 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+### Information We Collect
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+During nJoyApps installation process, you might be asked to log in to your account (it can be Google or Facebook account) in order to generate your user identifier in nJoyApps systems and to personalize your experience while using nJoyApps. We may collect your name, email address, country of origin, and, if you choose, your nickname, telephone number, website, company, and title. Demographic information may be correlated to web usage information collected during your use of the service. In addition, you might provide us with personal identifying information, such as mobile telephone number, when you communicate with us by phone, e-mail or otherwise, or complete a questionnaire, subscription form or a contest entry form. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing and improving our services, delivering targeted content and advertisements that may be of interest to you, and communicating with you. nJoyApps may also give you the opportunity to sync the names, phone numbers and emails from the address book on your mobile device with the computer device on which you chose to install the nJoyApps extension. If you chose to use the mobile book address synchronization service, then this information will be considered as part of your personal information nJoyApps collects. This information will be restored on our servers and every change you make in your address book will reflected automatically on our servers. nJoyApps disclaims any responsibility for people you are texting them and it is your responsibility to inform these factors that their text messages will be restored in our servers. nJoyApps gives you the opportunity to contact us in case one of this factors want to be removed from our servers and we will remove these text messages within 30 days of receipt of your email. When you use nJoyApps Desktop to call or to send Text massage to identified people, a call event or Text message event will be sent to our servers and our servers will display to you the information that we have on our servers on the specific person you called or text. The call/Text event includes certain information about the call, such as the number you call, the time of the call etc. 
 
-**Information Collection and Use**
+### Information Sharing
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We do not sell your personal information to third parties. However, we may disclose your personal information: 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * As required by law such as to comply with a subpoena, or similar legal process.
+  * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+  * If nJoyApps is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * To any other third party with your prior consent to do so.
+  * We do not record any calls that you make using nJoyApps.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+### Use of Information
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+nJoyApps may use information (whether personal identifying information or not) that we collect about you to: Manage your relationship with us and provide you with customer support. Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others. Communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or third parties. Cooperate with legal, criminal or regulatory investigations or proceedings. Manage our business. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### Linked Content
 
-**Security**
+Certain sections of the site may involve sites which belongs to third parties. nJoyApps is not and shall not be responsible for that, and any use by the user of the sites belonging to third parties is in his sole responsibility. Therefore, nJoyApps will not be responsible for actions that occurred at sites belonging to third parties. Moreover, nJoyApps warns from sites belonging to third parties and offers the user to read carefully the terms of use of those sites. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### Security
 
-**Updating Your Information**
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### Notification of Privacy Statement Changes
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Contact Information
 
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+You can contact us about this privacy statement by emailing us at: nJoyApps@yahoo.com
