@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the luonline.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119135943id_/http%3A//www.liberty.edu/online/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luonline.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622172914id_/http%3A//www.liberty.edu/index.cfm%3FPID%3D6901) for the most accurate reproduction.*
 
-# Privacy Policy | Liberty University Online
+# Privacy Policy | University Offices | Liberty University
 
 This is a summary of Liberty University's Privacy Policy. You may [view the full privacy policy](https://www.liberty.edu/administration/institutionaleffectiveness/index.cfm?PID=30130#/policy/347) here.
 
@@ -55,7 +55,7 @@ You provide information to Liberty when you fill out online forms on our website
 
 
 
-Information you provide may be used by the University for marketing purposes. If at any point you wish to discontinue receiving marketing e-mails or phone calls, you may use the opt out feature on our e-mails or call the University at (800) 543-5317 or (800) 424-9595. Liberty University never blends their collection data with Google. See the below section on [Google Data](http://www.liberty.edu/online/index.cfm?PID=6901#Google) (below) for information on Google’s Privacy and Terms or to opt out of their automatic data collection.
+Information you provide may be used by the University for marketing purposes. If at any point you wish to discontinue receiving marketing e-mails or phone calls, you may use the opt out feature on our e-mails or call the University at (800) 543-5317 or (800) 424-9595. Liberty University never blends their collection data with Google. See the below section on Google Data (below) for information on Google’s Privacy and Terms or to opt out of their automatic data collection.
 
 ## Specific Concerns
 
@@ -77,7 +77,7 @@ Information you provide may be used by the university for marketing purposes.
 
 Google gathers information about users of its technologies to improve the online experience and help website owners understand how visitors engage with their sites. Liberty University uses many such product offerings including Google Analytics Demographic and Interest Reporting, Display Network Impression Reporting, Remarketing and Advertiser Features, DoubleClick Platform integrations, and Reporting APIs. To better support some features the university implemented Google’s Universal Analytics and enabled UserID, an identifier Google assigns to determine unique users across devices.
 
-However UserID cannot be queried in the Reporting API and the university itself does not otherwise capture, use, or merge Google’s unique identifiers nor does it upload or otherwise share with Google or third party vendors any personal identifiers or [information that you provide](http://www.liberty.edu/online/index.cfm?PID=6901#Provided) as is outlined in this document.
+However UserID cannot be queried in the Reporting API and the university itself does not otherwise capture, use, or merge Google’s unique identifiers nor does it upload or otherwise share with Google or third party vendors any personal identifiers or information that you provide as is outlined in this document.
 
 Liberty University encourages its website visitors to learn more about how Google uses data and how you can control the information sent through your browser by viewing [Google’s Privacy & Terms](http://www.google.com/intl/en/policies/) page. Users who wish to learn more about opting out of the automatic collection and use of data on the web should visit [Google’s Consumer Ads Help Center](https://support.google.com/ads/%23topic=2941003) or [Opt Out](https://support.google.com/ads/answer/2662922?hl=en&ref_topic=2941003) here.
 
