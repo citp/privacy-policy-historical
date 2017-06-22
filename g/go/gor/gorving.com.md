@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gorving.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208073901id_/http%3A//gorving.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorving.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622110211id_/https%3A//gorving.com/privacy-policy) for the most accurate reproduction.*
 
 # Go RVing Privacy Policy | Go RVing
-
-##  Go RVing Privacy Policy
 
 Go RVing is committed to protecting your privacy, and we respect the priority you place on guarding and managing any personal information you share with us. We invite you to read the following to learn more about the types of information that Go RVing requests, how that information is used and the steps we take to protect your personal information.
 
