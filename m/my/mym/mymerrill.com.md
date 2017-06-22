@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymerrill.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228130907id_/http%3A//www.ml.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymerrill.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622151730id_/http%3A//www.ml.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -30,7 +30,6 @@ The use of cookies and similar technologies is a common Internet practice. We ha
 
 Your personal information is a valuable part of your financial life. We strongly recommend that you protect your information in the same way you monitor your financial accounts.
 
-  * Client Privacy & Security Center
   * [Identity Theft and Fraud](https://web.archive.org/privacy-and-security-center/identity-theft-and-fraud.html)
   * [Protecting Yourself](https://web.archive.org/privacy-and-security-center/protect-yourself.html)
   * [Report Theft and Fraud](https://web.archive.org/privacy-and-security-center/how-to-report-identity-theft-and-fraud.html)
@@ -142,7 +141,7 @@ We or our advertising service providers may use certain information about your a
 **Advertising Choices  
 **You may set your choices for advertising in the following ways:
 
-**Online Behavioral Advertising:  **If you prefer we not use information based on online Site behavior to provide online and offline tailored content and advertising, you may [opt out of online behavioral advertising.](https://www.bankofamerica.com/privacy/Control.do?body=opt_out_popup)
+**Online Behavioral Advertising:  **If you prefer we not use information based on online Site behavior to provide online and offline tailored content and advertising, you may [opt out of online behavioral advertising.](https://www.bankofamerica.com/privacy/online-privacy-notice.go)
 
 Opting out also means that the online content and advertising you receive on our non-servicing sites ( _i.e._ , before sign-in) will be untailored and will not be based on your online behavior or your relationship.
 
