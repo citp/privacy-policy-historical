@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurgaonsaath.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218055012id_/http%3A//www.gurgaonsaath.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurgaonsaath.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622153403id_/http%3A//www.gurgaonsaath.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Gurgaonsaath - Privacy Policy
 
