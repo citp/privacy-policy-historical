@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204075117id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aadharcards.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622123026id_/http%3A//aadharcards.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aadhar Cards, E-aadhaar Card Download, UIDAI, aadhaar status, aadhar cards
 
