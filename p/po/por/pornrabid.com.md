@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornrabid.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024080653id_/http%3A//www.pornrabid.com/read/privacy-policy/4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornrabid.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622150954id_/http%3A//www.pornrabid.com/read/privacy-policy/4) for the most accurate reproduction.*
 
-# Porn Rabid - Privacy Policy PornRabid.com
+# Privacy Policy - PORNRABID.COM
 
 Last updated: 26-August-2016
 
