@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124004651id_/http%3A//influxis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the influxis.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622224720id_/http%3A//influxis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Influxis
 
