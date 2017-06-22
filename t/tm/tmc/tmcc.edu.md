@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125025106id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcc.edu privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622102041id_/http%3A//www.tmcc.edu/disclaimer) for the most accurate reproduction.*
 
 # Disclaimer - Truckee Meadows Community College
 
@@ -24,11 +24,17 @@ In the course of such monitoring, these programs may detect such information as 
 
 Personally identifiable information from these activities is not released to external parties without your consent unless authorized by the TMCC President or required by law.
 
-### Web Logs
+### Web Server Logs
 
 The Truckee Meadows Community College website routinely collects and stores information from online visitors to help manage and improve service. This information includes the pages visited on the site; the date and time of the visit; the Internet address (URL or IP address) of the referring site; the domain name and IP address from which the access occurred; the version of browser used; the capabilities of the browser; and search terms used on our search engines.
 
 This site makes no attempt to identify individual visitors from this information; personally identifiable information is not released to external parties without your consent unless authorized by the TMCC President or required by law.
+
+### Google Analytics and AdWords
+
+The College and its agents use the [Google Analytics Platform](https://www.google.com/analytics/) in the operation of the Site. Google Analytics is a service provided by the third-party company Google, Inc. The College may use the full Google Analytics package and may gather demographic data, IP address information, referrer information, click-through rates, traffic sessions, page views, metric information, and Google Analytics Advertiser Features in furtherance of Site effectiveness and performance. Google Analytics collects data about your web traffic via cookies or anonymous identifiers, in addition to other mechanisms.
+
+The College and its agents may also use Google's remarketing feature in [AdWords](https://support.google.com/adwordspolicy/answer/6008942?hl=en&rd=1), an advertising platform, to reach Users who have been to the Site before through marketing initiatives. The College uses this functionality as is necessary in its marketing operations. This means that Google may use Google cookies to display our ads to you across other websites or platforms based on your interactions or past visits to the College's Site.
 
 ### Cookies
 
