@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivatic.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234036id_/http%3A//www.vivatic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivatic.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622051942id_/http%3A//www.vivatic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vivatic
 
