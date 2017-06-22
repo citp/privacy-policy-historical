@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084558id_/http%3A//www.asexstories.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asexstories.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622065137id_/http%3A//asexstories.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - A Sex Stories
 
@@ -20,14 +20,12 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-[](http://www.facialsfever.com/t2/pps=cht122/)
+[](http://www.supersexstars.com/?t=118446,21,37,0)
 
-Random Energy Supply, Part 1 
+Random Springtime Incest with my sexy Uncle 
 
-Energy comes in a variety of forms...
+I could feel his breath on my body as he licked and sucked my throbbing tits and I could not believe that anybody could make me feel as good as my uncle was making me feel as his lips tugged on my nipples while his hand stroked my wet pussy...
 
-[Read...](http://www.asexstories.com/Energy-Supply-Part-1/)
+[Read...](http://www.asexstories.com/Springtime-Incest-with-my-sexy-Uncle/)
 
-[](http://join.realtimebondage.com/track/cht122.1.5.5.0.0.0.0.0)
-
-[](http://join.karupsow.com/hit.php?s=3&p=1&w=1001788&t=0&c=)
+[](http://join.katiethomas.com/track/cht122:pps30:katiethomas/)
