@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803101700id_/http%3A//www.clientattraction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clientattraction.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622143404id_/http%3A//boldheart.com/privacy-policy) for the most accurate reproduction.*
 
-# Entrepreneur Mentoring Program - Client Attraction Privacy Policy
+# Privacy Policy | Boldheart
 
-Fabienne and Derek Fredrickson and Client Attraction, LLC take your privacy seriously. Please read the following to learn more about our Privacy Policy.
+Fabienne and Derek Fredrickson and Boldheart, LLC take your privacy seriously. Please read the following to learn more about our Privacy Policy.
 
-Client Attraction (“CA”) provides information and activities relating to Fabienne and Derek Fredrickson on the ClientAttraction.com and related websites (the “Site”). Our content includes information about Fabienne and Derek’s entrepreneur mentoring programs, products and events along with photos, video and educational information for and interactivity with our users and also provides links to other Client Attraction sites. While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users.
+Boldheart provides information and activities relating to Fabienne and Derek Fredrickson on the Boldheart.com and related websites (the “Site”). Our content includes information about Fabienne and Derek’s entrepreneur mentoring programs, products and events along with photos, video and educational information for and interactivity with our users and also provides links to other Boldheart sites. While we encourage the interactive nature of our website, we strive to promote the online safety and privacy of our users.
 
 We have implemented this Privacy Policy governing the personally identifiable information (“Personal Consumer Information”) collected by this Site. This Privacy Policy does not govern Personal Consumer Information collected from any other source or in any other manner.
 
@@ -12,18 +12,18 @@ We have implemented this Privacy Policy governing the personally identifiable in
 This Privacy Policy is intended to provide you with information as to: (i) the type of information that is collected, (ii) how collected information is used and with whom it is shared; (iii) how we intend to protect the information; and (iv) how you can access, modify and/or delete such information.
 
 **Opt in or Opt out**  
-If you “opt in” to receive information from us or others, you can change your mind later. If, at any time, you would like to stop receiving such information or opt out of a feature, you may notify us here (link to info@clientattraction.com). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request, and we are unable to have your information removed from the records of any third party who has been provided with your information in accordance with this policy.
+If you “opt in” to receive information from us or others, you can change your mind later. If, at any time, you would like to stop receiving such information or opt out of a feature, you may notify us here (link to info@boldheart.com). You should be aware, however, that it is not always possible to completely remove or modify information in our databases and servers, although we will always make reasonable efforts to do so upon your request, and we are unable to have your information removed from the records of any third party who has been provided with your information in accordance with this policy.
 
 **Collection of Information**  
 Information You Provide to Us: We may collect information about you when you visit and interact with this Site. Some of this information may be automatically collected, and some is collected when you interact with the Site. The type of information that may be automatically collected may include date and time of access of the Site, the Internet protocol address of the computer that you are using, the domain and host from which you access the Internet, your browser software and operating system, and the specific activities you are engaged in while visiting the Site.
 
-Information from which you can be personally identified may also be collected by us at the Site, including your name, postal address, email address, telephone number, and credit card number (referred to as “Personal Consumer Information”) and/or any other identifier that permits the physical or online contacting of you in connection with your use of, or participation in any of the following: membership registration at clientattraction.com, contests, sweepstakes, promotions, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors’ requests for free products or services or additional information (including via e-mail to us) and in connection with other activities, services or resources we make available on any of our Sites. In all these cases, we will collect personal consumer information from you only if you voluntarily submit such information to us. Further, “CA” may contact you based on the information you provide online whether in connection with your registration or in such places as the above described forums.
+Information from which you can be personally identified may also be collected by us at the Site, including your name, postal address, email address, telephone number, and credit card number (referred to as “Personal Consumer Information”) and/or any other identifier that permits the physical or online contacting of you in connection with your use of, or participation in any of the following: membership registration at clientattraction.com, contests, sweepstakes, promotions, surveys, forums, subscription registrations, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, visitors’ requests for free products or services or additional information (including via e-mail to us) and in connection with other activities, services or resources we make available on any of our Sites. In all these cases, we will collect personal consumer information from you only if you voluntarily submit such information to us. Further, Boldheart may contact you based on the information you provide online whether in connection with your registration or in such places as the above described forums.
 
 Of course, you may choose not to provide certain information to us, but if so, you may not be able to participate in certain of the activities and transactions available at the Site.
 
 Use of “Cookies” and Other Technologies: We may use “cookies” and/or other technologies or files (collectively, “cookies”) to identify how visitors make use of this Site. This aggregate tracking information may be used to help us improve and enhance the website experience for all of our visitors. If you would prefer not to have such cookies stored on your computer, you may modify your browser settings to reject most cookies, or manually remove cookies that have been placed on your computer. However, by so rejecting the cookies, you may be unable to fully access the offerings on this Site.
 
-Electronic Communication: When you communicate with us electronically, via e-mail, when opting to receive our ezine or otherwise, you consent to our use of the information you have provided, and you further consent to receive electronic communications from us and our affiliated entities. If you would prefer not to receive such communications, you can opt out of our email lists by either clicking on the “opt out” line at the bottom of the email, or by emailing us directly here (link to info@clientattraction).
+Electronic Communication: When you communicate with us electronically, via e-mail, when opting to receive our ezine or otherwise, you consent to our use of the information you have provided, and you further consent to receive electronic communications from us and our affiliated entities. If you would prefer not to receive such communications, you can opt out of our email lists by either clicking on the “opt out” line at the bottom of the email, or by emailing us directly here (link to info@boldheart.com).
 
 **Shopping**  
 Security of Information when ordering our products online:
@@ -48,20 +48,20 @@ You are responsible for maintaining the confidentiality of your information and 
 When users send us testimonials, stories, photos and/or other User Content, these materials may be posted on our Site. We will not return any materials, such as photographs, once they have been sent to us.
 
 **Accessing Your Information**  
-You may update and/or correct the Personal Consumer Information collected on the Site, or seek to have such information deleted from our records, by [emailing us here](mailto:info@clientattraction.com).
+You may update and/or correct the Personal Consumer Information collected on the Site, or seek to have such information deleted from our records, by [emailing us here](mailto:info@boldheart.com).
 
 **Linked Sites**  
-The Client Attraction website may contain links to other websites that are not controlled and/or maintained by “CA”. Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices. Please review the privacy policies of such other websites for information concerning what information is collected on such sites and how it is used.
+The Boldheart website may contain links to other websites that are not controlled and/or maintained by Boldheart. Please be aware that these other websites may have different privacy policies which may subject you to different privacy practices. Please review the privacy policies of such other websites for information concerning what information is collected on such sites and how it is used.
 
 **Changes in Policy**  
-From time to time, this Privacy Policy may change. We will post changes to the Privacy Policy at this Site. Please review this Privacy Policy often so that you will remain abreast of CA’s current policies, including our policies concerning the gathering and use of information that may be collected on our Site.
+From time to time, this Privacy Policy may change. We will post changes to the Privacy Policy at this Site. Please review this Privacy Policy often so that you will remain abreast of Boldheart’s current policies, including our policies concerning the gathering and use of information that may be collected on our Site.
 
-This Privacy Policy was last updated on 7/27/10 and is effective immediately.
+This Privacy Policy was last updated on 11/13/2016 and is effective immediately.
 
 **Contact Us**  
-If you have any questions concerning this Privacy Policy, please [send us an email here](mailto:info@clientattraction.com).
+If you have any questions concerning this Privacy Policy, please [send us an email here](mailto:info@boldheart.com).
 
 **Governing Law**  
 This Privacy Policy shall be governed by the laws of the State of Connecticut, without regard to its conflict of law provisions. Any dispute concerning this Privacy Policy or your use of this Site shall be submitted to binding arbitration in Connecticut within one (1) year from the date that the cause of action arose (or, if multiple cause of actions are involved, from the date that the first cause of action arose), with such arbitration conducted pursuant to the then prevailing rules of the American Arbitration Association. To the fullest extent permitted by law, no arbitration brought pursuant hereto shall be joined to any other action or any other arbitration initiated pursuant hereto. If any portion of this Privacy Policy is deemed unenforceable, unlawful or void by a Court of competent jurisdiction, then that portion of the Privacy Policy will be deemed severable and will not affect the enforceability or validity of the remaining portions of this Privacy Policy.
 
-Copyright 2010 Client Attraction, LLC. All rights reserved.
+Copyright 2010 Boldheart, LLC. All rights reserved.
