@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorspree.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025144058id_/https%3A//www.wyzant.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorspree.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622125305id_/https%3A//www.wyzant.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Wyzant Tutoring
 
@@ -44,7 +44,7 @@ Wyzant does not disclose or sell your PII without your consent. We may use PII o
 
 ## Referrals
 
-If you choose to use our referral service, to tell a friend about our Service, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the Site and up to two reminders. Wyzant, Inc. stores this information for the sole purpose of sending this one-time email and reminders and tracking the success of our referral program. Your friend may contact us at support@wyzant.com to request that we remove this information from our database.
+If you choose to use our referral service, to tell a friend about our Service, we will ask you for your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the Site and up to two reminders. Wyzant, Inc. stores this information for the sole purpose of sending this one-time email and reminders and tracking the success of our referral program. Your friend may contact us atÂ support@wyzant.comÂ to request that we remove this information from our database.
 
 ## Minors
 
@@ -60,7 +60,7 @@ Wyzant may disclose personal information when we believe such action is necessar
 
 Please remember to help keep the Site secure by never sharing your username or password. If you think your password may have been compromised, please change it immediately or contact Wyzant for additional assistance.
 
-Wyzant may send you email communications periodically detailing new features or promotions on the Site. You may unsubscribe from these messages by using the link at the bottom of the email. We may also send you email messages about the status of your account or any notices as required by law. You may not opt-out of receiving these administrative emails so long as you continue to use this voluntary service. If you wish to terminate your account, please contact us.
+Wyzant may send you email communications periodically detailing new features or promotions on the Site. You may unsubscribe from these messages by using the link at the bottom of the email. We may also send you email messages about the status of your account or any notices as required by law. You may not opt-out of receiving these administrative emails so long as you continue to use this voluntary service. If you wish to terminate your account, pleaseÂ contact us.
 
 ## Your California Privacy Rights
 
