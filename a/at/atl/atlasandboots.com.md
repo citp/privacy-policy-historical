@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlasandboots.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125220552id_/http%3A//www.atlasandboots.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlasandboots.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622130445id_/http%3A//www.atlasandboots.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Atlas & Boots
 
@@ -39,6 +39,10 @@ We use cookies on this site to enable certain parts of the site to function and 
 Cookies are small text files that are placed on your computer or mobile device by websites that you visit. They cannot harm your computer and do not contain any information that enable us to identify you personally, they just enable our websites to recognise your computer and to identify certain other non-personal information such as which browser you are using. This information can be used to make the website work, to identify which parts of the site can work better or to analyse how often people visit the site and what they look at. We will not associate this data with any personally identifying information that you may choose to provide to us in other ways.
 
 By your using this website, we imply that you have read this policy and agree to us sending you cookies.
+
+## Affiliates
+
+Please note that some of the links on our website are affiliate links. This means that at no additional cost to you, we will earn a commission if you decide to make a purchase after clicking the link. We use all of these companies and recommend them because they are helpful and useful, not because of the small commission we earn.
 
 ## How to contact us
 
