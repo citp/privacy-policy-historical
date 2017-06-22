@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviewfortune.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127150609id_/http%3A//reviewfortune.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewfortune.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622093041id_/http%3A//reviewfortune.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ReviewForTune
+# Privacy Policy - ReviewFortune.com
 
 **Updated on 25th June 2016 [ If you have any questions about our Privacy Policy, please contact Review Fortune at**[ **contact@reviewfortune.com**](mailto:contact@reviewfortune.com)
 
