@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127084001id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porschedealer.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622030659id_/http%3A//www.porsche.com/usa/privacy-policy) for the most accurate reproduction.*
 
-# Porsche Internet Privacy Policy - Porsche Cars North America
+# Porsche Internet Privacy Policy - Porsche USA
 
 Important Notice: Our Privacy Policy has been updated to give you a better understanding of how we collect, use, and share your information. We have broadened the scope to include the offline collection of information and added more detail regarding automatic collection practices. If you would like a copy of all of the changes, you can request one by contacting us as described in the Contact Us section.
 
