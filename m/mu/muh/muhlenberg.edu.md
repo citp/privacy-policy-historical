@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120202254id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/webprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muhlenberg.edu privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622235655id_/http%3A//muhlenberg.edu/main/aboutus/oit/about/policies_procedures/webprivacystatement) for the most accurate reproduction.*
 
-# Web Privacy Statement - Policies and Procedures | Muhlenberg College
+# Web Privacy Statement | Muhlenberg College
 
 ### Muhlenberg College Web Privacy Statement
 
