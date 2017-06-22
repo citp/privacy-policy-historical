@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnonprofits.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612012402id_/https%3A//topnonprofits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnonprofits.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622093735id_/https%3A//topnonprofits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top Nonprofits
 
