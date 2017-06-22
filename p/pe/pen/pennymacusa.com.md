@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015741id_/https%3A//www.pennymacusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennymacusa.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622113830id_/http%3A//www.pennymacusa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PennyMac
 
@@ -32,7 +32,7 @@ We may use your information in accordance with applicable laws, such as:
 
 ### Who Will Have Access To Your Information?
 
-Refer the PennyMac [Consumer Privacy Notice](https://web.archive.org/annual-consumer-privacy-notice.pdf) for additional details on how your information may be shared with affiliates and third parties. 
+Refer to the PennyMac [Consumer Privacy Notice](https://web.archive.org/annual-consumer-privacy-notice.pdf) for additional details on how your information may be shared with affiliates and third parties. 
 
 ### How To Access, Update, Or Correct Your Information
 
@@ -48,7 +48,7 @@ You may set your browser to warn you when placement of a cookie is requested, an
 
 ### Google Analytics and Adobe Analytics
 
-We may use tools called “Google Analytics” or “Adobe Analytics” to collect information about use of our sites. These tools collect information such as how often users visit a site, what pages they visit, when they do so, and what other sites they used prior to coming to this site. We use the information we get from these tools only to improve this site. Google Analytics and Adobe Analytics collect only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of these tools with personally identifiable information. Although Google Analytics and Adobe Analytics plant a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google or Adobe. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Service](http://www.google.com/analytics/ce/nrs/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy"). Adobe’s ability to use and share information collected by Adobe Analytics about your visits to this site is restricted by [Adobe Analytics Terms of Service](http://www.adobe.com/legal/terms.html) and the [Adobe Privacy Policy](http://www.adobe.com/privacy.html "Adobe Privacy Policy").You can prevent Google Analytics and Adobe Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
+We may use tools called “Google Analytics” or “Adobe Analytics” to collect information about use of our sites. These tools collect information such as how often users visit a site, what pages they visit, when they do so, and what other sites they used prior to coming to this site. We use the information we get from these tools only to improve this site. Google Analytics and Adobe Analytics collect only the IP address assigned to you on the date you visit this site, rather than your name or other identifying information. We do not combine the information collected through the use of these tools with personally identifiable information. Although Google Analytics and Adobe Analytics plant a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google or Adobe. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/ "Google Privacy Policy"). Adobe’s ability to use and share information collected by Adobe Analytics about your visits to this site is restricted by [Adobe Analytics Terms of Service](http://www.adobe.com/legal/terms.html) and the [Adobe Privacy Policy](http://www.adobe.com/privacy.html "Adobe Privacy Policy").You can prevent Google Analytics and Adobe Analytics from recognizing you on return visits to this site by disabling cookies on your browser.
 
 ### How Long Do We Keep Information?
 
@@ -106,4 +106,4 @@ PO Box 788
 Moorpark, CA 93020-9903  
 P: [(866) 601-3518](tel:1-866-601-3518)
 
-Effective Date: June 30, 2015
+Effective Date: July 19, 2016
