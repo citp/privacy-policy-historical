@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexboat.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518221311id_/http%3A//www.forexboat.com/legal/privacypolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexboat.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622173632id_/https%3A//forexboat.com/legal/privacypolicy.pdf) for the most accurate reproduction.*
 
 # 
 
