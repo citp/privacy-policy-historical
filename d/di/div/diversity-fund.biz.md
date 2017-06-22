@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diversity-fund.biz privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123172029id_/http%3A//www.diversity-fund.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversity-fund.biz privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622095231id_/http%3A//diversity-fund.biz/privacy.php) for the most accurate reproduction.*
 
-# Diversity-Fund - Crowfunding Website
+# Diversity-Fund - Crowdfunding Website
 
 ### **What information do we collect?**
 
@@ -62,7 +62,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ### **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Services](https://web.archive.org/web/20161123172029id_/http%3A//www.diversity-fund.biz/terms.php)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Services](https://web.archive.org/web/20170622095231id_/http%3A//diversity-fund.biz/terms.php)
 
 ### **Your Consent**
 
@@ -76,6 +76,6 @@ This policy was last modified on August 28, 2016
 
 ### **Contact Information:**
 
-Should any member and/or prospective member and/or advertiser and/or prospective advertiser have any question or concern regarding our policy, you may contact us: [Diversity-Fund Support Center](https://web.archive.org/web/20161123172029id_/http%3A//www.diversity-fund.biz/support.php)
+Should any member and/or prospective member and/or advertiser and/or prospective advertiser have any question or concern regarding our policy, you may contact us: [Diversity-Fund Support Center](https://web.archive.org/web/20170622095231id_/http%3A//diversity-fund.biz/support.php)
 
 ### **\- Diversity-Fund Management Team -**
