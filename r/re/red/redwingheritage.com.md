@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120112328id_/http%3A//www.redwingheritage.com/us/USD/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingheritage.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622145857id_/http%3A//www.redwingheritage.com/us/USD/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Wing Heritage
 
@@ -8,7 +8,7 @@ This Red Wing Heritage Privacy Policy (this or the **"Privacy Policy")** explain
 
 We reserve the right to modify this policy from time to time and will mark new versions with a corresponding effective date. We recommend you visit the Site to review any changes in our practices.
 
-This Privacy Policy, along with our **Terms of Use** , governs your use of the Red Wing Heritage website at [www.redwingheritage.com](http://www.redwingheritage.com/) (" **Site** ") and any other links through social media platforms such as Facebook or Twitter. For the purposes of this Privacy Policy, we will refer to all of these access points as the Red Wing Heritage system (" **System** "). 
+This Privacy Policy, along with our **Terms of Use** , governs your use of the Red Wing Heritage website at www.redwingheritage.com (" **Site** ") and any other links through social media platforms such as Facebook or Twitter. For the purposes of this Privacy Policy, we will refer to all of these access points as the Red Wing Heritage system (" **System** ").
 
 Our Site may contain links to other websites. Except for direct links to our product suppliers, these links are not endorsements of any products or services on such websites. These websites may have privacy policies different than our Privacy Policy.
 
@@ -19,14 +19,18 @@ The information we may collect includes, but may not be limited to:
 
   * Your contact information to register to receive updates, promotions and catalogues from us, such as your first name, last name, and email address;
   * Information to process your purchases, such as your name, credit card information, shipping information and products purchased;
+  * If you process your purchases through a third party, such as PayPal, Inc., we may collect your third party sign on information;
   * Your transaction history relating to the use of our products and services ;
   * Information regarding your browser and other technical specifications required to use our Site;
-  * If we offer alternative sign ins, we may collect certain sign on information you have provided to third parties, such as Facebook or Twitter, when you sign on to use our Site or System through these third parties **;**
+  * If we offer alternative sign ins, we may collect certain sign on information you have provided to third parties, such as Facebook or Twitter, when you sign on to use our Site or System through these third parties;
   * Computer data or files, often called "cookies," which may be sent by your web browser and stored on an individual computer to allow our server to "recognize" you through the navigation of the Site and for us to credit your account for various online transactions;
   * Computer data files, often called "web beacons" that are collected from emails or links on third-party sites that allow our server to evaluate the popularity of those links or the information contained in emails or on third-party sites; and
   * Your IP address to measure our website traffic and to help provide a more personalized experience.
 
 
+
+**Business Transfers**  
+We may also disclose your information to a third party as part of reorganization or sale of the assets of Red Wing or its subsidiaries or divisions. Any third party to which Red Wing transfers or sells the System or related assets will have the right to continue to use the personal and other information that you provide to us. ****
 
 **Children Under the Age of 13**  
 Our Site and System are not designed for children and we do not knowingly collect information from any person we know is under the age of 13. ****
@@ -34,8 +38,9 @@ Our Site and System are not designed for children and we do not knowingly collec
 **How is User Information Used and Shared?**  
 We collect information about you in order to provide you with services and products and also collect information that is necessary for our Site to work properly. We use personal information about our users for a variety of purposes related to our business, including but not limited to:
 
-  * Processing your product purchase, including the processing of payment information, product information and responses regarding specific questions on availability;
-  * Allowing you to receive information from us regarding Red Wing Heritage products;
+  * Processing your product purchase, including the processing of payment information, product information and responses regarding specific questions on availability; 
+  * Providing information to  third-party service providers or vendors such as PayPal, Inc. for purposes of processing purchase payments;
+  * Allowing you to receive information from us regarding Vasque products;
   * Adding information from social media platforms to our Site where you discuss our products or use a hashtag related to our products;
   * Tracking information about your visits to our Site to allow us to provide better service;
   * Tracking information regarding your specific purchases, back-orders, return and order status;
@@ -49,13 +54,13 @@ We collect information about you in order to provide you with services and produ
 
 We may share information, in the aggregate, regarding your online browsing preferences to evaluate our products or allow third parties we work with to better serve our users. We will not share personally identifiable information in these instances, other than described in this Privacy Policy. ****
 
-We may provide user information to third-party service providers or vendors for purposes of, including without limitation, initiating direct marketing programs on our behalf, data tracking, maintenance or development of our System, development of online products and services or customer service or new product development, or other contracted promotional opportunities provided to our users. We will not share your information with third parties to directly market their products to you. We may share this information with any subsidiaries, licensees, suppliers, distributors, affiliates, assigns, successors, or other related entities and their respective owners. We may also share your personal information in connection with law enforcement requests or in response to investigations, subpoenas, court orders, or other legal process to establish or exercise our legal rights or defend against legal claims or as otherwise required by law.
+We may provide user information to third-party service providers or vendors for purposes of, including without limitation, processing purchase payments, tracking shipping information, initiating direct marketing programs on our behalf, data tracking, maintenance or development of our System, development of online products and services or customer service or new product development, or other contracted promotional opportunities provided to our users. We will not share your information with third parties to directly market their products to you. We may share this information with any subsidiaries, licensees, suppliers, distributors, affiliates, assigns, successors, or other related entities and their respective owners. We may also share your personal information in connection with law enforcement requests or in response to investigations, subpoenas, court orders, or other legal process to establish or exercise our legal rights or defend against legal claims or as otherwise required by law.
 
 **Behavioral Advertising**  
-We may also use third-party vendors, such as Google Analytics, to advertise to our users online. These third-party vendors may display Red Wing Heritage or other Red Wing product advertisements on other websites based on your internet usage. More specifically, these vendors use first-party cookies (such as the Google Analytic cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the Site or another site affiliated with Red Wing products. Any information that these third parties collect via cookies is not linked to any personally identifiable information (name, address, email address, or phone number) we collect or you provide on the website. You can opt-out of Google Analytics for Display Advertising by using Google's Ads Settings.
+We may also use third-party vendors, such as Google Analytics, to advertise to our users online. These third-party vendors may display Vasque or other Red Wing product advertisements on other websites based on your internet usage. More specifically, these vendors use first-party cookies (such as the Google Analytic cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to the Site or another site affiliated with Red Wing products. Any information that these third parties collect via cookies is not linked to any personally identifiable information (name, address, email address, or phone number) we collect or you provide on the website. You can opt-out of Google Analytics for Display Advertising by using Google's Ads Settings.
 
 **How is User Information Protected?**  
-We maintain administrative, physical, and technical safeguards for all user information collected in our System. We maintain an SSL Certificate through Symantec for all customer transactions.
+We maintain administrative, physical, and technical safeguards for all user information collected in our System. We maintain an SSL Certificate through Symantec for all customer transactions.
 
 **How Can Users Limit Information Collected?**  
 By providing information to us or browsing our Site, you are consenting to our use of your data as outlined in this Privacy Policy.
@@ -72,7 +77,7 @@ While we work hard to use and disclose our users' personal information only for 
 California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us via the Site.
 
 **Contacting Us**  
-For additional information pertaining to our Privacy Policy, please contact: 
+For additional information pertaining to our Privacy Policy, please contact:
 
 **Red Wing Brands of America, Inc.**  
 **314 Main St  
