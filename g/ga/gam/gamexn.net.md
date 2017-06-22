@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamexn.net privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021195326id_/http%3A//gamexn.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamexn.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622174658id_/http%3A//gamexn.net/privacypolicy) for the most accurate reproduction.*
 
 # GameXN
 
