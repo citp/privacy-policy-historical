@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214021923id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622042325id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.*
 
 # 
 
@@ -12,4 +12,4 @@ Vacation Outlet will not intentionally sell or disclose any personal information
 
 Vacation Outlet does use cookies for functional purposes. Most browsers are initially set to accept cookies. If you would prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of some websites if you do so. The use of cookies is an industry standard, and many major websites use them to provide better service to their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. 
 
-If you have any questions or concerns, please feel free to email [our customer service department](https://web.archive.org/cs/default.asp). 
+If you have any questions or concerns, please feel free to email [our customer service department](https://web.archive.org/css/login.do). 
