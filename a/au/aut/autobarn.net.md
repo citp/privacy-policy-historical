@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219081810id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622155319id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Auto Barn Help Center - Policies
 
