@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siliconarmada.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924081058id_/http%3A//www.siliconarmada.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconarmada.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622132453id_/https%3A//www.siliconarmada.com/privacy.php) for the most accurate reproduction.*
 
-# siliconarmada.com
+# Silicon Armada - Tech Jobs for Tech People
 
 Silicon Armada (referred to as: Website) is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. The following statement explains Website's commitment to managing your personal information and sets out how and when personal information is collected, held, used or disclosed. 
 
