@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the is.gd privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208225136id_/https%3A//is.gd/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the is.gd privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622224013id_/https%3A//is.gd/privacy.php) for the most accurate reproduction.*
 
 # is.gd - Privacy policy
 
@@ -8,7 +8,7 @@ We do not collect any personally identifying information from users of is.gd. We
 
 We share information with 3rd parties where required to identify or track abuse or prevent future abuse (e.g. we may check submitted URLs against 3rd party blacklists and may share information on malicious URLs or abusive users with 3rd parties). When you create a QR code, we pass the relevant shortened URL to Google, since we use their Charts API to generate these.
 
-We use Google Analytics (see <http://www.google.com/analytics/>) to collect and analyse site statistics. Google Analytics mainly uses first-party cookies to report on visitor interactions on this website. These cookies do not collect any personally identifiable information and are only used for the statistical collection of data such as visits and page hits.
+We use Google Analytics (see <https://www.google.com/analytics/>) to collect and analyse site statistics. Google Analytics mainly uses first-party cookies to report on visitor interactions on this website. These cookies do not collect any personally identifiable information and are only used for the statistical collection of data such as visits and page hits.
 
 URLs shortened by is.gd are not private and should not be treated as such. Third parties could easily guess the short URL that you are using, so you should not use is.gd to link to sensitive or secure data.
 
