@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tellyzee.com privacy policy that was archived on 2015-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151208054842id_/http%3A//www.tellyzee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tellyzee.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622055902id_/http%3A//www.tellyzee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Telly Zee
 
