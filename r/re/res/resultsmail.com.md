@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resultsmail.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229144436id_/http%3A//www.resultsmail.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resultsmail.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622165431id_/http%3A//www.resultsmail.com/privacy.cfm) for the most accurate reproduction.*
 
 # ResultsMail - Privacy Policy
 
