@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flaticon.com privacy policy that was archived on 2016-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212000532id_/http%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flaticon.com privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622091050id_/http%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
@@ -14,6 +14,9 @@
 <link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://media.flaticon.com/img/apple-icon-120x120-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://media.flaticon.com/img/apple-icon-144x144-precomposed.png">
 <link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://media.flaticon.com/img/apple-icon-152x152-precomposed.png">
+
+<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/nkhjnpgcnmdpeikbeegmibjcfjpamjnp">
+
 <title>Privacy policy - Flaticon</title>
 
 <meta name="keywords" content="vector icons, free icons, free vector icons, icon font">
@@ -23,16 +26,16 @@
 
 
 
-<link href="https://media.flaticon.com/css/base.css?key=2016120904" rel="stylesheet" type="text/css">
+<link href="https://media.flaticon.com/css/base.css?key=201706062102" rel="stylesheet" type="text/css">
 <!--[if lt IE 10]>
 <script>var ie = true;</script>
 <link rel="stylesheet" type="text/css" href="https://media.flaticon.com/css/ie.css">
 <![endif]-->
 
 
-<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+<script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
 
-    var STATIC_URL        = 'http://image.flaticon.com/';
+    var STATIC_URL        = 'https://image.flaticon.com/';
     var ACCOUNTS_BASE_URL = 'https://profile.flaticon.com/';
     var ACCOUNTS_API_KEY  = 'aHR0cDovL3d3dy5mbGF0aWNvbi5jb20=';
     var FACEBOOK_APP_ID   = '579360525479711';
@@ -41,7 +44,7 @@
     var LANGUAGE          = 'english';
     var language          = 'english';
     var LANGUAGE_SHORT    = 'en';
-    var URL_LOG           = 'URL_LOG';
+    var URL_LOG           = 'http://www.flaticon.com/Errors/js_error';
     var RE_CAPTCHA_KEY    = '6LdrxggTAAAAAEsVEMxap24sSkGS1nI3SsOigFyF';
     var RE_CAPTCHA_SECRET = '6LdrxggTAAAAANBFArNBHFs8wDnZL5q51hkRPpls';
     var SPONSOR_BASE_URL  = 'http://go.flaticon.com/';
@@ -58,11 +61,26 @@
     ga('create', 'UA-42742855-1', 'auto', {'allowLinker': true});
     ga('send', 'pageview');
 
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window,document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1470657753234558');
+        fbq('track', 'PageView');
+
+
     // Sending ClientId to Shutterstock iframes
     var clientId = undefined;
     var iframeQueue = [];
-    function sendClientId() {
-        while (iframeQueue.length>0) {
+
+    function sendClientId()
+    {
+        while (iframeQueue.length>0)
+        {
             var iframe = iframeQueue.pop();
             // Extract domain from iframe src
             var parser = document.createElement('a');
@@ -71,12 +89,15 @@
             iframe.contentWindow.postMessage(clientId, target);
         }
     }
-    function askForClientId(element) {
+    function askForClientId(element)
+    {
         iframeQueue.push(element);
-        if (clientId) {
+        if (clientId)
+        {
             sendClientId();
         }
     }
+
     ga(function (tracker) {
         clientId = tracker.get('clientId');
         sendClientId();
@@ -102,7 +123,11 @@
 
     (function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);b._i.push([a,e,d])};b.__SV=1.2;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f)}})(document,window.mixpanel||[]);mixpanel.init("28a22b7cf07cbca77b89d85b685d82f5");
 </script>
-</head>
+<noscript>
+ <img height="1" width="1"
+ src="https://www.facebook.com/tr?id=1470657753234558&ev=PageView
+ &noscript=1"/>
+</noscript></head>
 <body class="">
 	<section id="viewport" class="viewport">
 		
@@ -116,31 +141,45 @@
 					<span></span>
 				</button>
 
-				<ul class="popover-content">
-					<li><a id="link-menu-home" title="Home" href="http://www.flaticon.com">Home</a></li>
-					<li><a id="link-menu-packs" title="Browse our packs to get a consistent style in your designs" href="http://www.flaticon.com/packs">Packs</a></li>
-					<li><a id="link-menu-authors" title="Know the artists who make your life easier" href="http://www.flaticon.com/authors">Authors</a></li>
-					<li><a id="link-menu-categories" title="Surf around our categories" href="http://www.flaticon.com/categories">Categories</a></li>
-										<li><a id="link-menu-fontface" title="Convert between font formats with our Font-face generator" href="http://www.flaticon.com/font-face">Font-face</a></li>
-					<li><a id="link-menu-apps" title="Flaticon App for macOS" href="http://www.flaticon.com/apps">Apps</a></li>
-					<li><a id="link-menu-premium" title="Top premium icon packs" href="http://www.flaticon.com/premium-icons"><i class="flaticon-premium premium pull-left"></i>Premium icons</a></li>
-					<li><a id="link-menu-collections" title="Flaticon Collections" href="http://www.flaticon.com/collections"><i class="flaticon-collections pull-left"></i>Flaticon Collections</a></li>
-					<li><a id="link-menu-plans" title="Join premium" href="https://profile.flaticon.com/premium?lang=en" onclick="ga('send', 'event', 'Navbar', 'Click', 'Premium Plans'); mixpanel.register({'source': 'navbar', 'website': 'flaticon'});"><i class="flaticon-selection pull-left"></i>Premium plans</a></li>
-					<li><a id="link-menu-top-icons" title="Top icons last 24h" href="http://www.flaticon.com/most-downloaded"><i class="flaticon-flame pull-left"></i>Top icons</a></li>
-					<li><a id="link-menu-latest-icons" title="Browser the latest icons added to our database" href="http://www.flaticon.com/latest-icons"><i class="flaticon-clock pull-left"></i>Latest icons</a></li>
-				</ul>
+				<div class="popover-content">
+					<a id="link-menu-home" class="btn btn-outline btn-gray fullwidth text-center" title="Home" href="http://www.flaticon.com"><i class="flaticon-home"></i> Home</a>
+					<ul class="explore">
+						<li><a id="link-menu-packs" title="Browse our packs to get a consistent style in your designs" href="http://www.flaticon.com/packs">Packs</a></li>						
+						<li><a id="link-menu-top-icons" title="Top icons last 24h" href="http://www.flaticon.com/most-downloaded">Top icons</a></li>												
+						<li><a id="link-menu-authors" title="Know the artists who make your life easier" href="http://www.flaticon.com/authors">Authors</a></li>
+						<li><a id="link-menu-latest-icons" title="Browser the latest icons added to our database" href="http://www.flaticon.com/latest-icons">Latest icons</a></li>
+						<li><a id="link-menu-styles" title="Families" href="http://www.flaticon.com/family">Families</a></li> 
+						<li><a id="link-menu-premium" title="Top premium icon packs" href="http://www.flaticon.com/premium-icons">Premium icons</a></li>						
+						<li><a id="link-menu-categories" title="Surf around our categories" href="http://www.flaticon.com/categories">Categories</a></li>
+					</ul>
+					<a id="link-menu-plans" class="btn btn-gray fullwidth text-center fi-not-premium" title="Join premium" href="https://profile.flaticon.com/premium?lang=en" onclick="ga('send', 'event', 'Navbar', 'Click', 'Premium Plans'); mixpanel.register({'source': 'navbar', 'website': 'flaticon'});">Premium plans</a>
+					<hr class="fi-premium">
+					<ul class="general-links">
+						<li><a id="link-menu-apps" title="Flaticon App for macOS" href="http://www.flaticon.com/apps">Apps</a></li>
+						<li><a href="http://support.flaticon.com/hc/en-us/categories/200466151-General-questions" title="Support">Support</a></li>
+						<li><a href="https://profile.flaticon.com/support" title="Contact">Contact</a></li>
+						<li><a href="http://www.flaticon.com/about" title="About us">About us</a></li>
+						<li><a href="https://join.flaticon.com" title="Become a creator">Become a creator</a></li>
+						<!-- Typeform -->
+						<li><a href="#" title="How can we improve?" data-form="feedback-typeform" class="typeform-handler-link">Feedback</a></li>
+						<!-- /Typeform -->
+					</ul>
+				</div>
 			</div>
 		</div>
 
-		<a href="http://www.flaticon.com/" class="logo" id="logo" title="Flaticon - The largest database of free icons" onclick="ga('send', 'event', 'Navbar', 'Click', 'Home')">
+		<a href="http://www.flaticon.com" class="logo" id="logo" title="Flaticon - The largest database of free icons" onclick="ga('send', 'event', 'Navbar', 'Click', 'Home')">
 			<i class="logo-wrapper">
 				<img src="https://media.freepik.com/flaticon/img/flaticon-logo.svg" title="Flaticon logo" width="187" height="34">
 			</i>
 		</a>
 
-		<section class="search-holder">
+				<section class="search-holder">
 			<form action="http://www.flaticon.com/search" method="get" class="main_search_bar">
-				<input type="search" name="word" placeholder="Search icons" class="autocomplete" value="" autofocus="">
+				<input type="search" name="word" placeholder="Search icons" class="autocomplete" value="" autofocus="" maxlength="50">
+				<input type="hidden" name="license" id="main-search-license" value=""> 
+				<input type="hidden" name="color" id="main-search-color" value=""> 
+				<input type="hidden" name="stroke" id="main-search-stroke" value=""> 
 									<div class="type-selector">
 						<label>
 							<input type="radio" name="search-type" value="icons" data-type="icons" checked="">
@@ -163,40 +202,67 @@
 									<button type="submit" class="flaticon-magnifier nostyle"></button>
 			</form>
 		</section>
-		<div id="gr_user_menu" style="margin-left: auto;">
-			<div id="gr_not-connected" class="login-link gr_not-connected tooltip tooltip--bottom-right dropdown-active">
-				<a href="https://profile.flaticon.com/login" class="tooltip__trigger tooltip__trigger--always"><i class="flaticon-user"></i></a>
-				<div class="tooltip__content tooltip__content--permanent dropdown-login gr_not-connected">
-					<div class="content">
-						<a title="Login and enjoy all we have for you!" href="https://profile.flaticon.com/login" onclick="ga('send', 'event', 'Navbar', 'Click', 'Login')">Login</a>
-						<span>or</span>
-						<a title="Register and be part of us!" href="https://profile.flaticon.com/register" onclick="ga('send', 'event', 'Navbar', 'Click', 'Register')">register</a>						
+		<div id="gr_user_menu">
+	<div id="gr_not-connected" class="login-link gr_not-connected tooltip tooltip--bottom-right dropdown-active">
+		<a href="https://profile.flaticon.com/login" class="tooltip__trigger tooltip__trigger--always"><i class="flaticon-user"></i></a>
+		<div class="tooltip__content tooltip__content--permanent dropdown-login gr_not-connected">
+			<div class="content">
+				<a title="Login and enjoy all we have for you!" href="https://profile.flaticon.com/login" onclick="ga('send', 'event', 'Navbar', 'Click', 'Login')">Login</a>
+				<span>or</span>
+				<a title="Register and be part of us!" href="https://profile.flaticon.com/register" onclick="ga('send', 'event', 'Navbar', 'Click', 'Register')">register</a>
+			</div>
+		</div>
+	</div>
+
+	<div id="gr_connected" class="popover popover-user gr_connected">
+		<div class="popover-container">
+			<button class="button--header avatar popover-button nostyle" id="gr_user_menu_avatar">
+				<img src="https://image.flaticon.com/img/default_avatar.png" alt="You look great!" onerror="set_default_avatar(this)">
+			</button>
+			<div class="popover-content">
+				<div class="popover-user-top">
+					<div class="avatar-holder">
+						<img class="gr_user_avatar" src="https://image.flaticon.com/img/default_avatar.png" alt="You look great!" onerror="set_default_avatar(this)">
+					</div>
+					<div class="user-data">
+						<span class="username gr_user_name"></span>
+						<span class="user-email gr_user_email"></span>
+						<a id="link-profile-me" href="https://profile.flaticon.com/me" class="btn btn-gray btn-small">
+							Edit profile						</a>
 					</div>
 				</div>
-			</div>
+				<div class="popover-user-links">
+					<ul>
+						<li>
+							<a id="link-profile-subscriptions" title="Your subscriptions" href="https://profile.flaticon.com/my_subscriptions">
+								My Subscriptions							</a>
+						</li>
+						<li>
+							<a href="http://support.flaticon.com/hc/en-us/articles/213303205-How-many-resources-can-I-download-" target="_blank" class="pull-right"><span id="icons_downloaded_counters" class="hidden badge"></span><span class="simptip-position-left simptip-movable" data-tooltip="What is this?">
+								<i class="flaticon-question"></i></span></a>
+								<a id="link-profile-downloads" title="See your download history" href="https://profile.flaticon.com/my_downloads">
+									My Downloads								</a>
 
-			<div id="gr_connected" class="popover popover-user gr_connected">
-				<div class="popover-container">
-					<button class="button--header avatar popover-button nostyle" id="gr_user_menu_avatar">
-						<img src="http://image.flaticon.com/img/default_avatar.png" alt="You look great!" onerror="set_default_avatar(this)">
-					</button>
-					<ul class="popover-content">
-						<li><a id="link-profile-home" title="See and edit your profile" href="https://profile.flaticon.com/me"><i class="flaticon-user pull-right"></i>Profile</a></li>
-						<li><a id="link-profile-subscriptions" title="Your subscriptions" href="https://profile.flaticon.com/my_subscriptions"><i class="flaticon-premium pull-right"></i>My Subscriptions</a></li>
-						<li><a id="link-profile-downloads" title="See your download history" href="https://profile.flaticon.com/my_downloads"><i class="flaticon-download pull-right"></i>My Downloads</a></li>
-						<li><a id="link-profile-collections" title="See your collections" href="https://profile.flaticon.com/my_collections"><i class="flaticon-heart pull-right"></i>My collections</a></li>
+							</li>
+							<li>
+								<a id="link-profile-collections" title="See your collections" href="https://profile.flaticon.com/my_collections">
+									My collections								</a>
+							</li>
+						</ul>
+					</div>
+					<ul>
 						<li><a title="Logout, we will miss you!" href="javascript:gr.auth.logout()" id="logout_link"><i class="flaticon-cancel pull-right gr_logout_button"></i>Logout</a></li>
 					</ul>
 				</div>
 			</div>
 		</div>
+	</div>
 
-							
 	</div>
 </header>
 
 <script>
-	var DEFAULT_AVATAR = 'http://image.flaticon.com/img/default_avatar.png';
+	var DEFAULT_AVATAR = 'https://image.flaticon.com/img/default_avatar.png';
 	function set_default_avatar(elem)
 	{
 		elem.src = DEFAULT_AVATAR;
@@ -216,6 +282,371 @@
 
 	</script>
 
+		<!-- Start banner -->
+<style>
+	/* TUTPAD BANNER CSS */
+	.tutpad_banner.topbar {
+		background: #fff url(https://media.flaticon.com/img/tutpad/banner-tutpad.png) no-repeat center;
+        border-top: 1px solid #efefef;
+        height: 0;
+        -webkit-transition: height 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+        -moz-transition: height 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+        transition: height 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+        display: none;
+        text-align: center;
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		z-index: 9999;
+		overflow: hidden;
+	}
+	.topbar-visible .topbar{
+        height: 100px;
+        display: block
+    }
+
+    .topbar .container { 
+        max-width: 1200px;
+        margin: auto;
+        position: relative;
+        height: 100px
+    }
+
+    .topbar .tut-boxes {
+        width: 395px;
+        height: 99px;
+        position: absolute;
+        left: 0;
+        top: 0;
+        
+    }
+
+    .topbar .text { 
+        color: #606060;
+        text-decoration: none;
+        position: relative;
+        left: -80px;
+        top: 10px;
+    }
+
+    .topbar .text h2 { 
+        font-size: 28px;
+        line-height: 46px;
+        margin: 0;
+    }
+
+    .topbar .text h2 img { 
+        vertical-align: middle;
+    }
+
+    .topbar .text p { 
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0
+    }
+    .topbar .start-now { 
+        font-weight: bold;
+        background: #2EBD59;
+        color: #fff;
+        border: none;
+        border-radius: 2px;
+        font-size: 24px;
+        width: 175px;
+        height: 70px;
+        line-height: 24px;
+        cursor: pointer;
+        padding: 0;
+        position: absolute;
+        top: 13px;
+        left: 50%;
+        margin-left: 155px;
+        padding-top: 11px;
+        text-align: center
+    }
+
+    .topbar .start-now b { 
+        opacity: 0.8;
+        display: block;
+    }
+
+    .topbar .start-now:hover { 
+        box-shadow: inset 0 -2px 0 rgba(31,45,61,.25);
+        text-decoration: none
+    }
+
+    .topbar .close {
+        width: 24px;
+        height: 24px;
+        display: block;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-left: 342px;
+        margin-top: -12px;
+        background-color: rgba(34, 34, 34, .30);
+        color: #fff;
+        border-radius: 50%;
+        border: none;
+        font-size: 18px;
+        padding: 0;
+        outline: none;
+        line-height: 24px;
+        cursor: pointer;
+    }
+
+    .topbar .close::before {
+        display: block;
+
+        transform: translate(0, -1px);
+
+        content: '\d7';
+    }
+
+    .topbar .close:hover { 
+        background-color: rgba(34, 34, 34, .50);
+    }
+    @media (max-width: 768px) {
+    	.topbar-visible .tutpad_banner.topbar {
+    		display: none;
+    	}
+    }
+	/* END TUTPAD BANNER CSS */
+
+	/* PIKTAB BANNER CSS */
+
+	.piktab_banner.topbar {
+		background: #3B2551;
+		color: #fff;
+		border-bottom: 1px solid #2c1642;
+		height: 0;
+		-webkit-transition: height 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+		-moz-transition: height 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+		transition: height 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+		position: fixed;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		z-index: 9999;
+		height: 0;
+		overflow: hidden;
+	}
+	.topbar-visible .piktab_banner.topbar {
+		height: 100px;
+	}
+	header {
+		-moz-webkit-transition: top 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+		-moz-transition: top 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+		transition: top 300ms cubic-bezier(0.165, 0.84, 0.44, 1);
+	}
+	.piktab_banner.topbar .container {
+		max-width: 1200px;
+		margin: auto;
+		position: relative;
+		height: 100px;
+	}
+	.piktab_banner.topbar .screen {
+		width: 648px;
+		height: 100px;
+		background: #ccc;
+		border-radius: 8px 8px 0 0;
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		background: url(https://media.flaticon.com/img/piktab/screen.png) no-repeat;
+		background-size: cover;
+	}
+	.piktab_banner.topbar .text {
+		width: 580px;
+		height: 100%;
+		padding-left: 40px;
+		position: absolute;
+		top: 0;
+		right: 50px;
+		height: 100%;
+		background-image: -moz-linear-gradient(to left,rgba(59, 37, 81, 0.9) 90%,transparent);
+		background-image: -webkit-linear-gradient(to left,rgba(59, 37, 81, 0.9) 90%,transparent);
+		background-image: linear-gradient(to left,rgba(59, 37, 81, 0.9) 90%,transparent);
+	}
+	.piktab_banner.topbar .text p {
+		font-size: 18px;
+		float: left;
+		width: 320px;
+		font-weight: bold;
+		margin-top: 26px;
+	}
+	.piktab_banner.topbar .text p small a {
+		font-size: 12px;
+		color: #ccc;
+	}
+	.piktab_banner.topbar .text p small a:hover {
+		text-decoration: underline;
+	}
+	.piktab_banner.topbar .text .install {
+		font-weight: bold;
+		background: #fff;
+		border: none;
+		border-radius: 4px;
+		font-size: 24px;
+		width: 200px;
+		height: 60px;
+		line-height: 60px;
+		cursor: pointer;
+		margin-left: 10px;
+		float: left;
+		margin-top: 20px;
+		padding: 0;
+		text-align: center;
+	}
+	.piktab_banner.topbar .text .install:hover {
+		background-color: #e8e8e8;
+	}
+	.piktab_banner.topbar .close {
+		width: 24px;
+		height: 24px;
+		display: block;
+		position: absolute;
+		top: 50%;
+		right: 10px;
+		margin-top: -12px;
+		background-color: rgba(255,255,255,0.5);
+		color: #fff;
+		border-radius: 50%;
+		border: none;
+		font-size: 22px;
+		padding: 0;
+		outline: none;
+		line-height: 24px;
+		cursor: pointer;
+	}
+	.piktab_banner.topbar .close:hover {
+		background-color: #fff;
+		color: #3B2551;
+	}
+
+	@media screen and (max-width: 768px)
+	{
+		.piktab_banner.topbar {
+			display: none;
+		}
+	}
+
+	/* END PIKTAB BANNER CSS */
+</style>
+
+
+
+
+
+<div class="topbar tutpad_banner hidden" id="topbar_tutpad">
+	<div class="container">
+		<a class="tut-boxes" href="https://www.tutpad.com/courses?utm_campaign=ad-home-Flaticon-030517&amp;utm_medium=Ad&amp;utm_source=Flaticon" target="_blank" onclick="banner_click('topbar_tutpad'); ga('send', 'event', 'Tutpad banner', 'join-now');"></a>
+		<a class="text" href="https://www.tutpad.com/courses?utm_campaign=ad-home-Flaticon-030517&amp;utm_medium=Ad&amp;utm_source=Flaticon" target="_blank" onclick="banner_click('topbar_tutpad')">
+			<h2>Learn <img src="https://media.flaticon.com/img/tutpad/creative.png" alt="creative" width="108" height="24"> design on Tutpad</h2>
+			<p>Get unlimited access to our courses.</p>
+		</a>
+		<a href="https://www.tutpad.com/courses?utm_campaign=ad-home-Flaticon-030517&amp;utm_medium=Ad&amp;utm_source=Flaticon" target="_blank" class="start-now" id="tutpad_landing_btn" onclick="closeBannerTrigger(); ga('send', 'event', 'Tutpad banner', 'join-now');"><b>Start now</b><small>7 days free</small></a>
+		<button class="close" id="close-tutpad" onclick="closeBannerTrigger();"></button>
+	</div>
+</div>
+
+
+<div class="topbar piktab_banner hidden" id="topbar_piktab">
+	<div class="container">
+		<div class="screen"></div>
+		<div class="text">
+			<p>Open a new tab and discover free graphic resources every day.<small><a href="http://www.piktab.com" target="_blank" onclick="closeBannerTrigger(); ga('send', 'event', 'Piktab banner', 'More Info');"> More info</a></small></p>
+			<a class="install btn" id="piktab_install_btn" href="https://graphicresources.typeform.com/to/s52Fqy" target="_blank">Install Piktab</a>
+		</div>
+		<button class="close" id="close-piktab" onclick="closeBannerTrigger();">×</button>
+	</div>
+</div>
+
+<script type="text/javascript">	
+	var num_banners = 1;
+
+	document.addEventListener("DOMContentLoaded", function(){
+		var banner_cookie = Cookie.get("banner_cookie");
+		var today = new Date();
+		var rand_show = (Math.random() >= 0.5) ? true : false;
+		if (banner_cookie.length)
+		{
+			banner_cookie = banner_cookie.split("|");
+			var first_display = new Date(banner_cookie[0]);
+			var last_display  = new Date(banner_cookie[1]);
+			var display_times = parseInt(banner_cookie[2], 10);
+			var display_days  = parseInt(banner_cookie[3], 10);
+
+			display_times = today.toDateString() != last_display.toDateString() ? 0 : display_times;
+
+			if (display_days < (num_banners * 3) && display_times < 3 && rand_show)
+			{
+				document.body.classList.add("topbar-visible");
+				
+				toggle_banner();
+
+				display_days = today.toDateString() != last_display.toDateString() ? display_days + 1  : display_days;
+				display_times++;
+
+				Cookie.set("banner_cookie", [first_display.toDateString(), today.toDateString(), display_times, display_days].join("|"), 60);
+			}
+		}
+		else
+		{
+			document.body.classList.add("topbar-visible");
+			toggle_banner();
+			Cookie.set("banner_cookie",[today.toDateString(), today.toDateString(), 1,1].join("|"), 60);
+		}
+
+		setTimeout(function(){
+			document.body.classList.remove('topbar-visible');
+		}, 10000);
+	});
+
+
+	function banner_click(banner_id) {
+		/*only one banner*/
+		var banner_cookie = Cookie.get("banner_cookie");
+		banner_cookie = banner_cookie.split("|");
+		banner_cookie[2] = 3;
+		banner_cookie[3] = num_banners *  3; 
+	}
+
+	function toggle_banner() {
+		var today = new Date();
+
+		var form_completed = true;
+
+		if (form_completed) {
+			document.getElementById('topbar_tutpad').classList.toggle('hidden');
+		} else {
+			if ((today.getDay() % 2) == 0) {
+				document.getElementById('topbar_tutpad').classList.toggle('hidden');
+			} else {
+				document.getElementById('topbar_piktab').classList.toggle('hidden');
+			}
+		}
+	}
+
+	function closeBannerTrigger(e, install){
+
+		if (document.body.classList.contains('topbar-visible')) {
+			document.body.classList.remove('topbar-visible');
+			var banner_cookie = Cookie.get("banner_cookie");
+
+			if (banner_cookie.length)
+			{
+				banner_cookie = banner_cookie.split("|");
+				banner_cookie[2] = 3;
+				banner_cookie[3] = parseInt(banner_cookie[3], 10) + 1 ; 
+				Cookie.set("banner_cookie", banner_cookie.join("|"), 60);
+			}
+		}
+	}
+
+</script>
+<!-- End banner -->
+
 		
 		<section class="text-container">
 
@@ -223,24 +654,27 @@
 
 	<div class="wrapper">
 
-	<h3>January 2015</h3>
+	<h3>May 2017</h3>
 
-	<p>
-		The website located at the addresses http://www.flaticon.com and http://www.flaticon.es, including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at C/ Molina Lario 13 Planta 5, 29015 Málaga, España.
-		This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by Flaticon in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services').
-		The access to and the use of the Website imply that the User has read and accepts entirely the Privacy Policy and Cookies. The date at the beginning of this Privacy Policy and Cookies corresponds to the date of their latest revision, valid since the date of its publication. Thus, Flaticon recommends to check them regularly.
-		Specific privacy policies may apply to some of the services provided by the Website that must be accepted before using it. These policies will complement; or, if they are in conflict with this Privacy and Cookies Policy, substitute this Privacy and Cookies Policy.
-		Likewise, the Conditions apply to the access, use and Services of the Website.</p>
+	<p>The website located at the addresses <a href="http://www.flaticon.com">http://www.flaticon.com</a> and <a href="http://www.flaticon.es">http://www.flaticon.es</a>, including any of their sub-domains or sections (henceforth referred to as 'the Website') is operated by Graphic Resources S.L. (henceforth referred to as 'Flaticon'); having its place of business located at Molina Lario 13 street, 5th floor, 29015 Málaga, España.</p>
 
-		<h3>HOW Flaticon USES PERSONAL INFORMATION</h3>
+	<p>This Privacy Policy and Cookies regulates how the personal data of the Website users (henceforth referred to as 'User' or 'Users') will be treated by Flaticon in the Website, in the framework of the services provided by the Website (henceforth referred to as 'the Services').</p>
+
+	<p>The access to and the use of the Website imply that the User has read and accepts entirely the Privacy Policy and Cookies. The date at the beginning of this Privacy Policy and Cookies corresponds to the date of their latest revision, valid since the date of its publication. Thus, Flaticon recommends to check them regularly.</p>
+
+	<p>Specific privacy policies may apply to some of the services provided by the Website that must be accepted before using it. These policies will complement; or, if they are in conflict with this Privacy and Cookies Policy, substitute this Privacy and Cookies Policy.</p>
+
+	<p>Likewise, the Conditions apply to the access, use and Services of the Website.</p>
+
+		<h3>HOW FLATICON USES PERSONAL INFORMATION</h3>
 
 		<p>Generally, the User may browse the Website without providing any personal information.</p>
 
-		<p>If the User registers on the Website, the data gathered will be incorporated to a file in Flaticon in order to manage the Website, provide its Services, offer certain functionalities associated to the status of User (the list of downloads, for instance), and send information to the User about the Services of Flaticon or its sponsors through newsletters (the subscription of which can be cancelled by Users at any moment from their account).</p>
+		<p>If the User registers on the Website, the data gathered will be incorporated to a file in Flaticon in order to manage the Website, provide its Services, offer certain functionalities associated to the status of User (the list of downloads, for instance), and send information to the User about the Services of Flaticon, its sponsors, or third parties collaborating with Flaticon, offering products or services related to the creative sector, through newsletters (the subscription of which can be cancelled by Users at any moment from their account). Additionally, Users who have opted in by marking the relevant box within the registration process or within their account section, may also receive from Flaticon, through any means of electronic communication (including email), offers or information about products or services related to the creative sector from third parties with whom Flaticon collaborates form time to time.</p>
 
 		<p>Flaticon doesn't gather information about the age or date of birth of their Users when they register. Consequently, there isn't a particular treatment aimed to underage Users. Flaticon is only aimed to full age Users.</p>
 
-		<p>Any information received by Flaticon through Contact forms, Broken Link? forms, satisfaction surveys available on the Website, or through the email addresses info@Flaticon.com or info.Flaticon@gmail.com, will be incorporated to a Flaticon file and will only be used with the intention of answering the questions, suggestions or complaints sent by the Users of the Website.</p>
+		<p>Any information received by Flaticon through Contact forms, Broken Link? forms, satisfaction surveys available on the Website, or through the email addresses info@flaticon.com or info.flaticon@gmail.com, will be incorporated to a Flaticon file and will only be used with the intention of answering the questions, suggestions or complaints sent by the Users of the Website.</p>
 
 		<p>Any information received by Flaticon through the Work With Us form available on the Website will be incorporated to a Flaticon file and will only be used with the purpose of managing the selection process of Flaticon personnel.</p>
 
@@ -257,11 +691,12 @@
 		<p>According to what is stated in Real Decreto 1720/2007, the adequate procedure to assert these rights is the following:</p>
 
 		<p>The message will contain:</p>
-
-		<p>Name and surname (or surnames) of the applicant; photocopy of the ID card, passport or any other valid document for the identification of the person and the person who represents them (if any), as well as a document valid to	accredit the representation.</p>
-		<p>Request in which the petition consists.</p>
-		<p>Address in order to receive notifications, date and signature of the petitioner.</p>
-		<p>Documents that accredit the petition, if any.</p>
+	<ul style="margin-left: 50px;">
+		<li>Name and surname (or surnames) of the applicant; photocopy of the ID card, passport or any other valid document for the identification of the person and the person who represents them (if any), as well as a document valid to	accredit the representation.</li>
+		<li>Request in which the petition consists.</li>
+		<li>Address in order to receive notifications, date and signature of the petitioner.</li>
+		<li>Documents that accredit the petition, if any.</li>
+	</ul>
 
 		<p>Every petition will be replied by Flaticon, without minding whether any data of the petitioner does exist in Flaticon files. If the petition meets all the requirements stated above, Flaticon will request them to be corrected.</p>
 
@@ -275,7 +710,7 @@
 
 		<p>Flaticon Cookies have the following functions:</p>
 
-		<ul>
+		<ul style="margin-left: 50px;">
 			<li>Functionality Cookies: they allow the User to browse the Website and use the diverse options or Services available.</li>
 			<li>Customization Cookies: they enable the User to access the Services with some general characteristics predefined according to determined criteria.</li>
 			<li>Analysis Cookies: they are used to record and analyse the behaviour of the Users while using the Website. The information gathered through this kind of cookies is used to track the activity of the Website and to elaborate users navigation profiles, with the aim of improving the Website.</li>
@@ -339,7 +774,7 @@
 				</tr>
 				<tr>
 					<td>__utma</td>
-					<td>.freepik.com</td>
+					<td>.flaticon.com</td>
 				</tr>
 				<tr>
 					<td>__utmb</td>
@@ -441,6 +876,14 @@
 					<td>vblastactivity</td>
 					<td>.statcounter.com</td>
 				</tr>
+				<tr>
+					<td>show_btn-show-view-*</td>
+					<td>.flaticon.com</td>
+				</tr>	
+				<tr>
+					<td>cookie_policy</td>
+					<td>www.flaticon.com</td>
+				</tr>								
 			</tbody>
 		</table>
 		<table>
@@ -462,16 +905,48 @@
 				<tr>
 					<td colspan="2">time_valuation</td>
 				</tr>
+				<tr>
+					<td colspan="2">History_Collection</td>					
+				</tr>
+				<tr>
+					<td colspan="2">grid_size</td>					
+				</tr>
+				<tr>
+					<td colspan="2">n_pageviews</td>					
+				</tr>	
+				<tr>
+					<td colspan="2">pageviews</td>					
+				</tr>
+				<tr>
+					<td colspan="2">search-type</td>					
+				</tr>	
+				<tr>
+					<td colspan="2">widget-active</td>					
+				</tr>									
+				<tr>
+					<td colspan="2">tour_viewed</td>					
+				</tr>				
 			</tbody>
 		</table>
 
 		<p>In most browsers, the User may find a 'Help' section in the tool bar.</p>
 
+		<p>For more information about cookies in Internet Explorer click on Internet Explorer.</p>
+
+		<p>For more information about cookies in Firefox click on Firefox.</p>
+
+		<p>For more information about cookies in Chrome click on Chrome.</p>
+
+		<p>For more information about cookies in Safari click on Safari.</p>
+
+
 		<p>Flaticon refers back to these sections to obtain more information about how to deactivate or delete cookies.</p>
+
 		<p>Flaticon recommends Users not to deactivate cookies because they help to make the most of some of the functionalities.</p>
+
 		<p>This Website has also access to the IP address from which Users visit it. The Users IP address may be different each time they visit the Website. In addition, several Users may share the same IP address. Although Flaticon does not and will never perform any inquiry to link a certain IP address with a certain person, the access to IP addresses may be considered as personal information as they can potentially be associated to a real person (a possibility more theoretical than real), so according to Spanish personal data protection laws, this law applies to IP addresses as well.</p>
+
 		<p>Third-parties who advertise in the Website or those to which the User gets connected through plugins might use cookies or 'web beacons' that Flaticon doesn't control, so Flaticon would not be responsible and they would not be covered by this Privacy and Cookies Policy, thus, it is the responsibility of the Users to configure their browser to make sure that cookies are only used according to their preferences.</p>
-		<p><strong>IMPORTANT NOTICE: THIS AGREEMENT IS A TRANSLATION OF AN ORIGINAL LEGAL TEXT WRITTEN IN SPANISH. PLEASE READ THE ORIGINAL DOCUMENT, IN SPANISH, <a href="http://www.flaticon.es/privacy_policy">AVAILABLE HERE</a>.</strong></p>
 
 	</div><!-- .wrapper -->
 <!-- .text-container -->
@@ -507,16 +982,23 @@
 					<li><a href="http://support.flaticon.com/hc/en-us/categories/200466151-General-questions" title="Support">Support</a></li>
 					<li><a href="https://profile.flaticon.com/support" title="Contact">Contact</a></li>
 					<li><a href="http://www.flaticon.com/about" title="About us">About us</a></li>
-					<li><a href="http://www.flaticon.com/join-the-team" title="Become a creator">Become a creator</a></li>
+					<li><a href="https://join.flaticon.com" title="Become a creator">Become a creator</a></li>
 					<li><a href="https://profile.flaticon.com/premium?lang=en" title="Premium plans" onclick="ga('send', 'event', 'Footer', 'Go to premium', 'Link');mixpanel.register({'source': 'footer', 'website': 'flaticon'});">Premium plans</a></li>
-									</ul>
+
+
+										<!-- Typeform -->
+					<li><a title="How can we improve?" class="typeform-handler-link" href="#" data-form="feedback-typeform">Feedback</a></li>
+					<!-- /Typeform -->
+				</ul>
 			</div><!-- .col-4 -->
 
 			<div class="col-4">
 				<ul>
 					<li><span>APPs</span></li>
 					<li><a title="Mac OS X app" href="http://www.flaticon.com/apps/mac-osx-app">Mac OS X</a></li>
-										<li><a title="Font-face generator" href="http://www.flaticon.com/font-face">@font-face generator</a></li>
+					
+					<li><a title="Font-face generator" href="http://www.flaticon.com/font-face">@font-face generator</a></li>
+					<li><a title="Patterns generator" href="http://pattern.flaticon.com/">Patterns generator</a></li>
 				</ul>
 			</div><!-- .col-4 -->
 
@@ -535,14 +1017,17 @@
 
 		<p class="copyright">
 			Flaticon is a project by <a href="http://www.freepik.com/" target="_blank">Freepik</a><br>
-			© 2013-2016 Graphic Resources S.L. All rights reserved.
+			© 2013-2017 Graphic Resources S.L. All rights reserved.
 		</p>
 
 	</div><!-- .wrapper -->
-	</footer>
+</footer>
+
+<div class="user-alert-container" id="user-alert-container"></div>
+
 		<script id="tpl-icon" type="text/x-handlebars-template">
 
-	<li class="icon{{#if page}} init page-handler{{/if}}"
+	<li class="icon{{#if page}} init page-handler{{/if}} {{#isPersonalIcon premium}} personal-icon{{/isPersonalIcon}}"
 	data-id="{{id}}"
 	data-name="{{keyword}}"
 	data-color="{{color}}"
@@ -556,13 +1041,13 @@
 		<a href="{{slug}}" class="flaticon-eye link-icon-detail" title="{{description}}"></a>
 	</div>
 	{{#specialItem premium selection}}
-		{{#if premium}}
-			<a href="#" class="modal-trigger flaticon-premium premium" data-modal="modal-selection" target="_blank"></a>
-			<a href="#" class="modal-trigger what-is" data-modal="modal-selection" target="_blank">What is this?</a>
-		{{else}}
-			<a href="#" class="modal-trigger flaticon-selection" data-modal="modal-selection" target="_blank"></a>
-			<a href="#" class="modal-trigger what-is" data-modal="modal-selection" target="_blank">What is this?</a>
-		{{/if}}
+	{{#if premium}}
+	<a href="#" class="modal-trigger flaticon-premium premium" data-modal="modal-selection" target="_blank"></a>
+	<a href="#" class="modal-trigger what-is" data-modal="modal-selection" target="_blank">What is this?</a>
+	{{else}}
+	<a href="#" class="modal-trigger flaticon-selection" data-modal="modal-selection" target="_blank"></a>
+	<a href="#" class="modal-trigger what-is" data-modal="modal-selection" target="_blank">What is this?</a>
+	{{/if}}
 	{{/specialItem}}
 
 </li>
@@ -571,10 +1056,13 @@
 	<section class="collection{{#if active}} expanded {{setHeight}}{{/if}}{{#unless status}} locked{{/unless}}" data-order="{{order}}" data-color="{{color}}" data-bookmark="{{bookmark_id}}">
 
 		<header class="collection-header">
-			<span class="collection-name">{{name}}</span>
+			<span class="collection-name" title="{{name}}">{{name}}</span>
 			<span class="badge badge-gray">{{icons}}</span>
 			{{#if status}}
-			<button class="flaticon-pencil nostyle"></button>
+			<div class="header-options">
+				<button class="flaticon-pencil nostyle"></button>
+				<button class="flaticon-bin nostyle" data-bookmark="{{bookmark_id}}"></button>
+			</div>
 			<div class="edit-name">
 				<input type="text" class="collection-name-input" value="{{name}}" data-original="{{name}}" maxlength="100">
 				<button class="flaticon-disk nostyle"></button>
@@ -582,16 +1070,16 @@
 			{{else}}
 			{{/if}}
 
-			<div class="locked-options pull-right">
-				<button class="nostyle" data-bookmark="{{bookmark_id}}"><i class="flaticon-bin"></i></button>
-				<i class="flaticon-lock success"></i>
+			<div class="locked-options">
+				<button class="nostyle flaticon-bin" data-bookmark="{{bookmark_id}}"></button>
+				<i class="flaticon-lock"></i>
 			</div>
 		</header>
 		<div class="collection-content">
 			{{#if status}}
 			<nav class="collection-options">
 				<ul>
-					<li class="simptip-position-bottom simptip-movable" data-tooltip="Change color of icons">
+					<li class="color_btn_holder simptip-position-bottom simptip-movable" data-tooltip="Color">
 						<div class="popover">
 							<div class="popover-container">
 								<button class="collection_color_button popover-button">
@@ -617,14 +1105,15 @@
 							</div>
 						</div>
 					</li>
-					<li class="simptip-position-bottom simptip-movable" data-tooltip="Edit icons properties"><button class="flaticon-pencil"></button></li>
+					<li class="simptip-position-bottom simptip-movable" data-tooltip="Edit"><button class="flaticon-pencil"></button></li>
 					<li class="simptip-position-bottom simptip-movable" data-tooltip="Duplicate collection"><button class="flaticon-duplicate" data-bookmark="{{bookmark_id}}" onclick="Collection.duplicate()"></button></li>
-					<li class="share_li_option simptip-position-bottom simptip-movable" data-tooltip="Share your collection!">
+					<li class="simptip-position-bottom simptip-movable" data-tooltip="Sort icons"><button class="flaticon-collection_sort"></button></li>
+					<li class="share_li_option simptip-position-bottom simptip-movable" data-tooltip="Share">
 						<div class="popover">
 							<div class="popover-container">
 								<button class="popover-button flaticon-share"></button>
 								<div class="popover-content">
-									<input class="selectInput" type="text" value="http://www.flaticon.com/collections/{{bookmark_id}}" readonly onclick="this.select()">
+									<input class="selectInput" type="text" value="http://www.flaticon.com/collections/{{shareUrl}}" readonly onclick="this.select()">
 									<ul>
 										<li><button class="bg-twitter collection_share_button" data-type="twitter"><i class="flaticon-twitter"></i></button></li>
 										<li><button class="bg-facebook collection_share_button" data-type="facebook"><i class="flaticon-facebook"></i></button></li>
@@ -634,33 +1123,83 @@
 							</div>
 						</div>
 					</li>
-					<li class="simptip-position-bottom simptip-movable" data-tooltip="Delete"><button class="flaticon-bin" data-bookmark="{{bookmark_id}}"></button></li>
 				</ul>
 			</nav>
 			<header class="header-edit">
 				<b>Edit mode</b>
 				<button class="btn-small btn-pill pull-right btn-back"><i class="flaticon-arrow_left"></i> Back</button>
 			</header>
+			<header class="header-sort">
+				<b>Sort mode <small>(Drag&Drop)</small></b>
+				<button class="btn-small btn-pill pull-right btn-back"><i class="flaticon-arrow_left"></i> Back</button>
+			</header>
 			{{/if}}
 			<a class="btn{{#if status}} hidden{{/if}} upgrade_btn" href="https://profile.flaticon.com/premium?lang=en" onclick="ga('send', 'event', 'Collection', 'Go to premium', 'Collection locked'); mixpanel.register({'source': 'collection-locked', 'website': 'flaticon'});">Upgrade to unlock this collection</a>
 
-			<span class="icons-limit icons-collection-noregister"><a href="https://profile.flaticon.com/register">Register to get up to 256 icons</a></span>
-			<span class="icons-limit max-icons-collection" data-message="You have reach the limit of 256 icons, get premium and get unlimited collections">Max limit reached: 256 icon per collection</span>
+			<span class="icons-limit icons-collection-noregister" style="display:none;"><a href="https://profile.flaticon.com/register">Register to get up to 256 icons</a></span>
+			<span class="icons-limit max-icons-collection" data-message="You have reach the limit of 256 icons, get premium and get unlimited collections"  style="display:none;">Max limit reached: 256 icon per collection</span>
 
-			<ul class="collection_icons_list icons"></ul>
-			<div class="empty-collection">
-				<img src="https://media.flaticon.com/img/cactus.svg" class="cactus" alt="Empty collection">
-				<div class="bola-container">
-					<img src="https://media.flaticon.com/img/tumble.svg" class="bola">
+			<div class="overlay-drop"
+			data-bookmark="{{bookmark_id}}"
+				ondragleave="Collection.dragEnd(event);return false;"
+				ondrop="Collection.drop(event);return false;">
+
+				<div class="drop">
+					<i class="flaticon-upload"></i>
+					<span>Drop to upload</span>
 				</div>
-				<p>Hey cowboy! This looks like a desert. Add some icons to start using this collection.</p>
+				<div class="upgrade">
+					<p>You can upload only <span class="danger">3</span> icons per collection as a free user. Upgrade to upload unlimited icons.</p>
+					<a href="https://profile.flaticon.com/premium?lang=en" class="btn fullwidth">Upgrade</a>
+					<p>or</p>
+					<button class="btn btn-gray btn-small">continue</button>
+				</div>
+				<div class="register">
+					<p>You can't upload icons as an anonymous user. <a href="https://profile.flaticon.com/login" class="text-link">Login</a> or <a href="https://profile.flaticon.com/register" class="text-link">register</a> to upload icons.</p>
+					<p>or</p>
+					<button class="btn btn-gray btn-small">continue</button>
+				</div>
+			</div>
 
+			<form name="uploadFileCollection-{{bookmark_id}}"  id="uploadFileCollection-{{bookmark_id}}">
+				<input id="fileCollection-{{bookmark_id}}" class="fileCollection hidden" type="file" name="fileCollection-{{bookmark_id}}[]" accept=".svg" required="" multiple>
+			</form>
+
+			<ul class="collection_icons_list icons" ondragover="Collection.dragOver(event)" >
+			<!-- <ul class="collection_icons_list icons" > -->
+				<li class="icon-upload simptip-position-right simptip-movable" data-bookmark="{{bookmark_id}}" return false;" data-tooltip="Upload your svg icons" >
+					<label data-bookmark="{{bookmark_id}}"  >
+						<span>Upload SVG</span>
+					</label>
+				</li>
+			</ul>
+
+			<div class="empty-collection" ondragover="Collection.dragOver(event); return false;">
+				
+				<div class="empty-collection-content">
+					<p><b>Your collection is empty.</b></p>
+					<p>Add some icons to start using this collection or drop <label class="icon-upload">here</label> your own SVG file.</p>
+					<img src="https://media.flaticon.com/img/collections-example.png" alt="Add icons">
+					<a class="open_tour btn btn-small btn-outline btn-gray" href="#">How do collections work?</a>
+					
+
+					<div class="form-feedback text-center hidden">
+						<div>
+														<span>Would you improve anything about the Collections?</span>
+								<button data-form="collections-typeform" class="btn-small btn-pill typeform-handler-link">Yes</button>
+													</div>
+					</div>	
+					
+				</div>
 			</div>
 			{{#if status}}
 			<div class="download-wrapper">
 				<div class="download-holder">
 					<button class="fullwidth" disabled>Download collection <i class="flaticon-download"></i></button>
+					
 				</div>
+
+
 				<div class="collection-download">
 					<header class="header-download">
 						<b>Download:<br>Choose a format</b>
@@ -670,8 +1209,8 @@
 						<ul class="download">
 							<li class="simptip-position-top simptip-movable" data-tooltip="Download in PNG and use the icons
 in websites, Powerpoint, Word,
-Keynote and all commons apps.">
-								<a class="btn fullwidth">PNG</a>
+Keynote and all commons apps." >
+								<a class="btn fullwidth" data-format="png">PNG</a>
 							</li>
 							<li class="customize">
 								<span>Select a size (in pixels).</span>
@@ -699,10 +1238,17 @@ Corel draw and all Vector design apps.">
 with Adobe Photoshop.">
 								<button class="btn fullwidth download-button" data-format="psd">PSD</button>
 							</li>
-							<li class="simptip-position-top simptip-movable" data-tooltip="Download as Iconfont and use
+							<li class="simptip-position-top simptip-movable extra-info" data-tooltip="Download as Iconfont and use
 the icons in your web,
 which is fully customizable with only CSS.">
 								<button class="btn fullwidth btn-outline download-button" data-format="iconfont">Iconfont</button>
+								<a class="help_link" href="/iconfonts" target="_blank"><i class="flaticon-question"></i></a>
+							</li>
+							<li class="simptip-position-top simptip-movable extra-info" data-tooltip="Download as SVG sprite and use
+the icons in your web,
+which is fully customizable with only CSS.">
+								<button class="btn fullwidth btn-outline download-button" data-format="svg-sprite">SVG sprite</button>
+								<a class="help_link" href="/svg-sprites" target="_blank"><i class="flaticon-question"></i></a>
 							</li>
 							<li class="simptip-position-top simptip-movable" data-tooltip="Download your collection
 in all available formats
@@ -714,6 +1260,7 @@ PNG, EPS, SVG, PSD and Iconfont.">
 							</li>
 						</ul>
 						<form id="download-collection-form" name="download-collection-form" method="post" >
+							<input type="hidden" name="downC_backup" id="downC_backup">
 							<input type="hidden" name="downC_type" id="downC_type" />
 							<input type="hidden" name="downC_bookmark_id" id="downC_bookmark_id" />
 							<input type="hidden" name="downC_bookmark_name" id="downC_bookmark_name" />
@@ -731,9 +1278,13 @@ PNG, EPS, SVG, PSD and Iconfont.">
 	</section>
 </script>
 <script id="tpl-collection-icon" type="text/x-handlebars-template">
-	<li class="icon collectionIcon selected {{iconLocked}}" data-id="{{id}}" data-name="{{name}}" data-color="{{color}}" aria-haspopup="true">
+	<li class="icon collectionIcon selected {{iconLocked}}"
+	data-id="{{id}}" data-name="{{name}}" data-color="{{color}}"  data-premium="{{premium}}" aria-haspopup="true"
+	data-sort="{{sort}}"
+	data-src="{{icoImg}}"
+	draggable="true" >
 		<img src="https://media.flaticon.com/img/loader.gif" data-src="{{icoImg}}" class="collectionIconImage" onload="Widget.renderSVG(this)" data-premium="{{premium}}">
-		<div class="overlay" aria-hidden="true">
+		<div class="overlay" aria-hidden="true" >
 			<button class="flaticon-collections_remove"></button>
 			<a href="http://www.flaticon.com/icon/{{id}}" class="flaticon-eye" title="{{name}}"></a>
 		</div>
@@ -795,11 +1346,11 @@ PNG, EPS, SVG, PSD and Iconfont.">
 		<a href="{{link}}" title="{{description}}">
 
 			{{#if premium}}
-				<span class="badge-license premium"><i class="flaticon-premium premium"></i></span>
+			<span class="badge-license premium"><i class="flaticon-premium premium"></i></span>
 			{{ else }}
-				{{#if selection}}
-					<span class="badge-license"><i class="flaticon-selection"></i></span>
-				{{/if}}
+			{{#if selection}}
+			<span class="badge-license"><i class="flaticon-selection"></i></span>
+			{{/if}}
 			{{/if}}
 
 			<div class="img-holder">
@@ -842,29 +1393,68 @@ PNG, EPS, SVG, PSD and Iconfont.">
 <script id="tpl-style-selector" type="text/x-handlebars-template">
 	<li class="{{selected}}"><a href="{{link}}" class="{{class}} simptip-position-bottom simptip-movable" data-pack="{{pack}}" data-tooltip="{{name}}" data-name="{{name}}" data-style="{{style}}"></a></li>
 </script>
-<script id="tpl-pack-box-style" type="text/x-handlebars-template">
-	<article class="box{{#if page}} init page-handler{{/if}}" {{#if page}} data-page="{{page}}"{{/if}}data-id="{{id}}" data-name="{{description}}">
-		<a href="{{link}}" title="{{description}}">
-			<div class="img-holder">
-				<img src="{{image}}" alt="{{description}}" class="img-bg" width="298" height="255">
-			</div>
+<script id="tpl-detail-icon-equivalent" type="text/x-handlebars-template">
+	<li>
+		<a class="link-icon-detail{{active}}"
+			href="{{url}}"
+			data-id="{{id}}"
+			data-color="{{color}}"
+			data-premium="{{premium}}"
+			data-selection="{{selection}}"
+			data-team_id="{{team_id}}">
 
-			<footer class="bg-{{colors}}">
-				{{#if selection}}
-				<span class="simptip-position-top simptip-movable" data-tooltip="Flaticon Selection">
-					<i class="flaticon-selection"></i>
-				</span>
-				{{/if}}
-				<span class="name">{{description}}</span>
-				<span class="badge pull-right">{{pack_items}} icons</span>
-			</footer>
+			<img src="{{png}}" srcset="{{png256}} 4x">
 		</a>
-	</article>
+	</li>
+</script>
+
+<script id="tpl-main-family" type="text/x-handlebars-template">
+    <div class="family">
+        <h3>
+            <a href="/{{slug}}">{{name}}</a>
+            <div class="pull-right">
+                <a href="/{{slug}}" class="badge badge-white">{{numberFormat icons}} icons</a>
+                <a href="/{{slug}}" class="badge">{{numberFormat styles}} styles</a>
+            </div>
+        </h3>
+        <section class="family-box-container">
+            {{#each styles_data}}
+            <article class="box" data-id="{{id}}" data-name="{{name}}">
+                <a href="/{{slug}}" title="{{description}}">
+                	<div class="img-holder" style="background-image: url('{{sprite}}'); background-size: 2875px 210px; background-repeat: no-repeat"></div>	
+                    <footer class="bg-clouds">
+                        <span class="name">{{name}}</span>
+                        <span class="badge pull-left">{{numberFormat icons}} icons</span>
+                    </footer>
+                </a>
+            </article>
+            {{/each}}
+        </section>
+    </div>
 </script>
 		    <script type="text/javascript" src="https://media.flaticon.com/js/jquery-2.2.0.min.js"></script>
-    <script type="text/javascript" src="http://media.freepik.com/min/?g=auth_js&amp;2016120904"></script>
+    <script type="text/javascript" src="https://media.freepik.com/min/?g=auth_js&amp;201706062102"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
     <script type="text/javascript" src="https://media.flaticon.com/js/handlebars.min.js"></script>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,Element.prototype.dataset"></script>
+    
+    <!--Typeform-->
+    <script type="text/javascript" src="https://s3-eu-west-1.amazonaws.com/share.typeform.com/share.js"></script>
+    
+    <a id="trigger-feedback-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/bAoivZ" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-download-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/giqsxM" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-empty_search-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/JEyzpx" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-search-typeform-true" class="typeform-share link" href="https://graphicresources.typeform.com/to/JEyzpx?answer=true" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-search-typeform-false" class="typeform-share link" href="https://graphicresources.typeform.com/to/JEyzpx?answer=false" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-styles-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/YemsuW" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-packs-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/XW1Dnc" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-categories-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/y94QOd" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-collections-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/HmRuwP" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+    <a id="trigger-premium-typeform" class="typeform-share link" href="https://graphicresources.typeform.com/to/P24hDO" data-submit-close-delay="1" data-hide-headers="true" data-hide-footer="true" data-mode="drawer_right"></a>
+
+     <!--Typeform-->
+
+
 
     <script>
     	var grid_size = localStorage.getItem('grid_size') || '';
@@ -897,8 +1487,7 @@ PNG, EPS, SVG, PSD and Iconfont.">
 </script>
 <![endif]-->
 
-<script type="text/javascript" src="http://media.freepik.com/min/sponsor/js/gr.sponsor.js?key=2016120904"></script>
-<script type="text/javascript" src="https://media.flaticon.com/min/js/attrchange.js,premium.js,native.history.js,history_navigation.js,polyfill.min.js,common.js,Auth.js,colpick.min.js,awesomplete.js,functions.js,autocomplete.js,social_share.js,sponsor.js,modal_detail_history.js,infinity.js,svg.js?key=2016120904"></script>
+<script type="text/javascript" src="https://media.flaticon.com/min/js/attrchange.js,premium.js,native.history.js,history_navigation.js,common.js,Auth.js,colpick.min.js,history_collection.js,awesomplete.js,functions.js,autocomplete.js,social_share.js,sp.js,gr.sp.flaticon.js,modal_detail_history.js,infinity.js,svg.js,typeform_handler.js,detail.js?key=201706062102"></script>
 <script>
 // Start of StatCounter Code for Default Guide -->
 
@@ -915,7 +1504,7 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 <noscript>
 	<div class="statcounter">
 		<a title="web analytics" href="http://statcounter.com/" target="_blank">
-			<img class="statcounter" src="http://c.statcounter.com/9275887/0/3b1b1bb7/1/" alt="web analytics">
+			<img class="statcounter" src="https://c.statcounter.com/9275887/0/3b1b1bb7/1/" alt="web analytics">
 		</a>
 	</div>
 </noscript>
@@ -1080,12 +1669,12 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 						<span class="join-premium-text" style="display: none">
 							As <span class="premium"><b>premium</b></span> user, you can:<br><br>
 						</span>
-						Use more than <strong>246,000 </strong><span class="fp-selection"><i class="flaticon-selection"></i> Selection </span> icons <strong> without crediting the author </strong>						<br>+<br>Exclusive access to <strong>22,353 <span class="flaticon-premium premium"> Premium</span></strong> icons					</h2>
+						Use more than <strong>347,500 </strong><span class="fp-selection"><i class="flaticon-selection"></i> Selection </span> icons <strong> without crediting the author </strong>						<br>+<br>Exclusive access to <strong>54,000 <span class="flaticon-premium premium"> Premium</span></strong> icons					</h2>
 
 					<a class="btn join-premium-button" href="https://profile.flaticon.com/premium?lang=en" onclick="ga('send', 'event', 'Plans', 'What is this?', 'Join Premium'); mixpanel.register({'source': 'modal-what-is-this', 'website': 'flaticon'});">
 						<i class="flaticon-rocket"></i>
 						<span class="button-title">Join Premium</span>
-												<span class="button-sub-title"><strong>268,353+</strong> icons from <strong>$9.99</strong></span>
+												<span class="button-sub-title"><strong>+401,500</strong> icons from <strong>$9.99</strong></span>
 					</a>
 				</div>
 
@@ -1120,12 +1709,17 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 			free_icon: '/free-icon/',
 			icons_format: 'Download all icons in SVG, PSD, PNG, EPS format or as webfonts',
 			free_icon: '/free-icon/',
+			icon_packs: 'icon-packs',
 			collections: 'collections/',
 			view_icon: 'View icon',
 			search_related_icons: 'Search related icons',
 			browse_pack: 'Browse pack',
 			author_packs: 'Author\'s pack',
-			free : 'free'
+			free : 'free',
+			cc_exp_title : 'Attention!',
+			cc_exp_desc : 'Your credit card is about to expire, please <a href="https://profile.flaticon.com/my_subscriptions">update your card here</a> and continue with your premium plan',
+			download: 'Download',
+			more_info: 'More information'
 		},
 		og: {
 			'webtitle': '{0} - Free {1} icons',
@@ -1135,7 +1729,11 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 		limit : {
 			registered : 'You have reached the icons limit <a href="https://profile.flaticon.com/premium?lang=en" onclick="ga(\'send\', \'event\', \'Collection\', \'Go to premium\', \'Alert icons limit\'); mixpanel.register({\'source\': \'collection-alert-limit\', \'website\': \'flaticon\'});" title="Get unlimited collections!">Become premium</a> and get unlimited collections',
 			guest : 'You have reached your limit of icons. <a href="https://profile.flaticon.com/register" title="Register and get up to 256 icons">Register</a> and get up to 256 icons',
-			collection: 'You have reached the icons limit per collection (256 icons)'
+			collection: 'You have reached the icons limit per collection (256 icons)',
+			max_size: "Max file size exceeded",
+			backup_max_size: "There is not enough space in this collection to add your backup files",
+			downloaded_icons_perc: "You have reached {0}% of your download limit",
+			personal_limit: "Including these {0} personal icons in this collection you will reach the maximum limit of personal icons per collection ({1} icons)"
 		},
 		external_icon : {
 			title: 'Icon added',
@@ -1181,7 +1779,20 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 			add_premium : 'This icon is only available for premium users, you can get more info <a target="_blank" href="https://profile.flaticon.com/premium?lang=en" onclick="ga(\'send\', \'event\', \'Collection\', \'Go to premium\', \'Alert icon premium\'); mixpanel.register({\'source\': \'collection-alert-icon-premium\', \'website\': \'flaticon\'});" title="Become premium!">here</a>',
 			locked : 'Your collection is locked, you can <a target="_blank" href="https://profile.flaticon.com/premium?lang=en" onclick="ga(\'send\', \'event\', \'Collection\', \'Go to premium\', \'Alert locked\'); mixpanel.register({\'source\': \'collection-alert-locked\', \'website\': \'flaticon\'});" title="Become premium!">upgrade your account</a>  and get unlimited collection',
 			iconfont_tooltip : 'Download as Iconfont and use the icons in your web, which is fully customizable with only CSS.',
-			iconfont_disabled : "In your collection there are only multicolor icons. These icons can't be used with iconfonts"
+			iconfont_disabled : "In your collection there are only multicolor icons. These icons can't be used with iconfonts",
+			duplicated_disabled : "Your account don't allow more collections",
+			share_disabled : "Register to share!",
+			upload_disabled : "Become premium to upload icons!",
+			upload_icons : "Upload SVG icons!",
+			duplicate : "Duplicate",
+			download_personal : "Your Collection have personal icons. These icons will be download only in format SVG, Sprite SVG & IconFont",
+			svg_incorrect : "Malformed SVG format",
+			only_svg : "Only svg icons are allowed",
+			fetch_premium : 'Premium icons cannot be added to the new collection <a target="_blank" href="https://profile.flaticon.com/premium?lang=en" onclick="ga(\'send\', \'event\', \'Collection\', \'Go to premium\', \'Fetch collection premium error\'); mixpanel.register({\'source\': \'collection-alert-fetch-premium-icons\', \'website\': \'flaticon\'});" title="Become premium!">Be premium user now!</a>',
+			fetch_personal : "Personal icons can't be included in your new collection",
+			upload_enabled: "Upload your svg icons",
+			upload_disabled: "Disabled upload in sort mode",
+			color_disabled : "This collection has no icons or all icons are multicolor"
 		},
 		fonts: {
 			error_svg : 'This SVG file isn\'t a font file',
@@ -1193,6 +1804,10 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 			authors: 'authors',
 			guest_limit : 'guest',
 			premium_limit : 'premium'
+		},
+		typeform: {
+			multi_question_search: "What would you improve about the search process?",
+			tell_us: "Tell us!"
 		}
 	};
 
@@ -1202,4 +1817,4 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 	</div>
 
 
-<!-- 25ms <==> 12-12-2016 00:41:30 --></body></html>
+<!-- 34ms <==> 22-06-2017 11:10:50 --></body></html>
