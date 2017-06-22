@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookinguz.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202031109id_/http%3A//www.bookinguz.com/78-all/140-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookinguz.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622125814id_/http%3A//www.bookinguz.com/78-all/140-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
