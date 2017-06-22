@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localpulse.net privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209104744id_/http%3A//www.localpulse.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localpulse.net privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622114038id_/http%3A//www.localpulse.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Local Pulse
 
