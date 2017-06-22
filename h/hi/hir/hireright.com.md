@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122064204id_/http%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hireright.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622171818id_/https%3A//www.hireright.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # HireRight Privacy Policy | HireRight
 
@@ -75,11 +75,11 @@ HireRight may revise this policy from time to time. If there is a material chang
 
 _Questions about a current background check:_
 
-If your background check is currently being performed by HireRight and you have questions or need assistance, please contact our Service Excellence department: 
+If your background check is currently being performed by HireRight and you have questions or need assistance, please contact our Customer Service department: 
 
-HireRight Service Excellence Phone: 866-521-6995
+HireRight Customer Service Phone: 866-521-6995
 
-HireRight Service Excellence Email: [customerservice@hireright.com](mailto:customerservice@hireright.com).
+HireRight Customer Service Email: [customerservice@hireright.com](mailto:customerservice@hireright.com).
 
 _Report Requests and Disputes:_
 
