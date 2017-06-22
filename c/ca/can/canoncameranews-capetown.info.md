@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canoncameranews-capetown.info privacy policy that was archived on 2015-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150218063348id_/http%3A//www.canoncameranews-capetown.info/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canoncameranews-capetown.info privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623001205id_/http%3A//www.canoncameranews-capetown.info/p/privacy.html) for the most accurate reproduction.*
 
-# Canon Camera News 2015: Privacy
+# Canon Camera News 2017: Privacy
 
 [](http://4.bp.blogspot.com/-ESWm-MURf6I/Uxqe593nkzI/AAAAAAAAO6Q/t2Pdoka3_JY/s1600/Canon+EOS+APS+C+7D+DSLR+Digital+Camera+Top+View.png)
 
