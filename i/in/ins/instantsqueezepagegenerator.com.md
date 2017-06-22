@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantsqueezepagegenerator.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120022919id_/http%3A//affiliatepowerplus.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantsqueezepagegenerator.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622044944id_/http%3A//affiliatepowerplus.com/privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
