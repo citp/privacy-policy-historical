@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landrysselect.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130090812id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrysselect.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622141511id_/http%3A//www.landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Landry's Select Club
 
