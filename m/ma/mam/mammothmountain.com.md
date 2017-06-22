@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229005007id_/http%3A//www.mammothresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mammothmountain.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622213503id_/http%3A//www.mammothresorts.com/privacy-policy) for the most accurate reproduction.*
 
 # About | Mammoth Resorts
 
@@ -284,7 +284,7 @@ PO Box 24
 
 Mammoth Lakes, CA 93546
 
-1-800-626-6684
+1-[800-626-6684](tel:800-626-6684)
 
 [800Mammoth@mammothresorts.com](mailto:800Mammoth@mammothresorts.com)
 
