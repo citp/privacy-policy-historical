@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollymoviereviewz.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216142745id_/http%3A//www.bollymoviereviewz.com/2008/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollymoviereviewz.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622022647id_/http%3A//www.bollymoviereviewz.com/2008/10/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy|Bollymoviereviewz
 
