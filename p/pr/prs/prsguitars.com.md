@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216135810id_/http%3A//prsguitars.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prsguitars.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623015918id_/https%3A//www.prsguitars.com/privacy.php) for the most accurate reproduction.*
 
 # PRS Guitars PRS Guitars Privacy Policy
 
