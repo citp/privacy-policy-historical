@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231085010id_/http%3A//www.erepublic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtech.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622100434id_/http%3A//www.erepublic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,7 +22,7 @@ e.Republic is comprised of the following brands:
   12. Navigator
   13. Industry Insider
   14. FutureStructure
-  15. TechWire
+  15. Techwire
 
 
 
