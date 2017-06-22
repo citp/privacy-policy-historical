@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthplus50.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119173632id_/http%3A//www.healthplus50.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplus50.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622185556id_/http%3A//www.healthplus50.com/privacy.php) for the most accurate reproduction.*
 
 # HealthPlus50.com - Privacy
 
@@ -80,4 +80,4 @@ This policy was last modified on 09/21/2015.
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us here](https://web.archive.org/web/20161119173632id_/http%3A//www.healthplus50.com/contact.php "Contact").
+If there are any questions regarding this privacy policy you may [contact us here](https://web.archive.org/web/20170622185556id_/http%3A//www.healthplus50.com/contact.php "Contact").
