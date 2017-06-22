@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isabeleats.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008103926id_/http%3A//isabeleats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isabeleats.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623012155id_/http%3A//isabeleats.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Isabel Eats
 
@@ -33,8 +33,6 @@ After a transaction, your private information (credit cards, social security num
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
 We use cookies to help us understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
-
-For information about opting out of Gourmet Ads and ad serving partners please visit [http://www.gourmetads.com/about/privacy-policy](http://www.gourmetads.com/about/privacy-policy).
 
 #### Do we disclose any information to outside parties?
 
