@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payones.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117164354id_/http%3A//www.payones.com/tour/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payones.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622204701id_/http%3A//www.payones.com/tour/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PayOnes
 
@@ -95,9 +95,9 @@ We may collect personally identifiable information about you in ways other than 
 If you have comments or questions regarding our privacy policy, please contact us via [our "Contact Us" page](https://web.archive.org/support/contact).
 
 US Address:  
-609 Mission Street, 4th Floor  
-San Francisco, CA 94105  
-+1-415-295-6382 (toll-free 877-387-9077)
+1625 Clay St. Ste. 300  
+Oakland, CA 94612  
+Phone: toll-free 877-387-9077
 
 UK office (Please do not send correspondence):  
 Unit 7, 15-17 Caledonian Road  
