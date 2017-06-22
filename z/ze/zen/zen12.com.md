@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216165340id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen12.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623014003id_/http%3A//inspire3.com/privacy) for the most accurate reproduction.*
 
 # Inspire3 Ltd - Privacy Policy
 
 Your privacy is important to us. That's why we've created this simplified privacy policy, to help you easily understand what we do with your information.
 
+(For our terms of sale, [click here](http://inspire3.com/terms). For our disclaimer & precautions, [click here](http://inspire3.com/disclaimer).)
+
 ### About Us
 
   * We are Inspire3 Ltd, with our homepage at [www.inspire3.com](http://www.inspire3.com/).
-  * Our address is 20-22 Wenlock Road, London, EC1V 4PY, United Kingdom.
+  * Our address is 20-22 Wenlock Road, London, N1 7GU, United Kingdom.
   * You can reach our support team at [ awesome@inspire3.com](mailto:awesome@inspire3.com), or call us in the UK on (+44) 7092 17 18 19.
   * "We", "us" and "our" on this page refer to Inspire3 Ltd.
 
@@ -26,7 +28,7 @@ Your privacy is important to us. That's why we've created this simplified privac
 
   * We collect all the information you'd expect for our sites to operate correctly.
   * For email subscriptions, we collect the name and email address provided, as well as the signup & confirmation IP addresses.
-  * For purchases, we collect the name, email address, postal address, telephone number, and payment details provided, as well as your IP address.
+  * For purchases, we collect the name, email address, postal address, and payment details provided, as well as your IP address.
   * For support questions, we use the return email address to reply to the query, and possibly offer an email subscription.
   * We may also collect other aggregate information to improve our systems, such as server logs and email click counts.
 
@@ -45,9 +47,9 @@ Your privacy is important to us. That's why we've created this simplified privac
 
   * We will use the information you provide to help complete the service you have asked of us.
   * For email subscriptions, we will use this data to send you the information you requested - such as our regular newsletter.
-  * For purchases, we will use this data to complete the order, such as sending download links, or physically mailing a product. We will also typically subscribe you to our customer newsletter.
-  * If you provide a telephone number to us, we may pass it to a close business partner, Achieve Today. They may call you to discuss your progress, and offer additional coaching.
-  * If you have provided your mailing address, we (or a close business partner) may send you extra material that we deem relevant.
+  * For purchases, we will use this data to complete the order - such as sending out download links, or physically mailing out a product.
+  * If you have provided your telephone number to us, we may call you to check on your progress, and maybe offer additional coaching.
+  * If you have provided your mailing address, we may send you extra material that we deem relevant.
   * We aim for all of our communications to be relevant. You can opt-out of any communication at any time simply by letting us know.
 
 
