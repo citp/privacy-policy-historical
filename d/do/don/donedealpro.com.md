@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the donedealpro.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202054409id_/http%3A//donedealpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedealpro.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622031137id_/http%3A//www.donedealpro.com/privacy.aspx) for the most accurate reproduction.*
 
-# Done Deal Pro
+# Done Deal Pro - Privacy Policy
 
-Privacy Policy
+  
+
 
 This Privacy Policy describes the policies of Done Deal Pro (" _we_ ") regarding the collection, use, disclosure and protection of the following types of information: 
 
@@ -82,4 +83,4 @@ Los Angeles, CA  90064
 Email: [webmaster@donedealpro.com](mailto:webmaster@donedealpro.com)  
 Please **e-mail** us with any and all questions about subscriptions, account help, etc.  
 See our [FAQ page](http://www.donedealpro.com/faq.aspx) for frequent questions.  
-(815) 572-5806 
+(424) 209-1918 
