@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bses-delhi.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020848id_/http%3A//www.bses-delhi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bses-delhi.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622091904id_/http%3A//www.bses-delhi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - By Duplicate Bills Print
 
