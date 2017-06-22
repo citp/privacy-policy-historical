@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirasee.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220182845id_/https%3A//mirasee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirasee.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622062645id_/https%3A//mirasee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirasee
 
@@ -8,7 +8,8 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 Private Information Security – For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, PayPal, keeps this information encrypted and secure on your behalf.
 
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails.  
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, promotions, etc. However, you may opt-out at any time by clicking the unsubscribe button at the bottom of your emails.If you reached our opt-in page through an affiliate link, we can share your email address with the affiliate through whom you opted in.
+
 Personal Information Our Company Collects and How It Is Used
 
 Introduction. Our company collects information in different ways from visitors and members who access the various parts of our Services and the network of Web sites accessible through our service.
