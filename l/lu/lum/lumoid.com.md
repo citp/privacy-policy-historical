@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lumoid.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603160856id_/https%3A//lumoid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lumoid.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622191910id_/https%3A//lumoid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lumoid.com
 
@@ -24,7 +24,7 @@ Types of information that we collect
 
   * In any event, we will reserve the right to use your email address and any other personally identifiable information that you provide to us to respond to you, to make recommendations for you and to send you marketing materials for our own products and services.
 
-  * For a limited time period, starting October 1, 2015, Striking, Inc., is partnering with Sonos and Pandora to provide a trial service for various Sonos products, as well as Pandora One. During this time period, we reserve the right to collect personally identifiable information including but not limited to, email address, shipping information and phone number, for the users participating in this trial.
+  * For a limited time period, starting April 1, 2017, Striking, Inc., is partnering with Best Buy Inc. to provide a try before you buy service for various products available on our website. During this time period, we reserve the right to share with Best Buy, personally identifiable information, including but not limited to, email address, shipping information and phone number, for the users participating in this trial, and visiting the website via Best Buy's website.
 
 
 
@@ -37,7 +37,7 @@ How the information we gather is used
 
 We will generally not disclose the personally identifiable information that we collect through your use of our website to unaffiliated third parties. We reserve the right, however, to provide such information to our employees, contractors, agents, and designees to the extent necessary to enable them to perform services on our behalf, including order fulfillment and website-related services such as web hosting, to improve website-related services and features, to perform maintenance services, and to distribute advertisements and other marketing materials on our behalf. We reserve the right to use the information to process your transactions, and to track your order history so that we may answer any recommendations or concerns, and to send you newsletters and provide information on services that we think will be of interest to you. We also reserve the right to disclose any personally identifiable information that we collect to any third party if we believe that we are required to do so for any or all of the following reasons: (i) to comply with the law; (ii) to comply with legal processes or governmental requests; (iii) to prevent, investigate, detect, or prosecute criminal offenses or attacks on the technical integrity of our website or our network; and/or (iv) to protect the rights, property, safety and security of Striking Inc. and its employees, our website visitors, and/or the public.
 
-For a limited time period, starting October 1, 2015, Striking, Inc., is partnering with Sonos and Pandora to provide a trial service for various Sonos products, as well as Pandora One. During this time period, we reserve the right to share with Sonos and Pandora, personally identifiable information including but not limited to, email address, shipping information and phone number, for the users participating in this trial, and visiting the website via <https://lumoid.com/listen/try-sonos>.
+For a limited time period, starting April 1, 2017, Striking, Inc., is partnering with Best Buy Inc. to provide a try before you buy service for various products available on our website. During this time period, we reserve the right to share with Best Buy, personally identifiable information, including but not limited to, email address, shipping information and phone number, for the users participating in this trial, and visiting the website via Best Buy's website.
 
 Protecting your information
 
@@ -47,7 +47,7 @@ Do we disclose the information we collect to outside parties?
 
 No. We will never give your information to anyone, for any reason. There are a few exceptions. We may need to provide your information to our hosting partners, and other parties that help us in managing our business (such as our merchant gateway). These parties must be required to keep your information confidential. There may be cases where we are required by law to provide your information to law enforcement.
 
-For a limited time period, starting October 1, 2015, Striking, Inc., is partnering with Sonos and Pandora to provide a trial service for various Sonos products, as well as Pandora One. During this time period, we reserve the right to share with Sonos and Pandora, personally identifiable information including but not limited to, email address, shipping information and phone number, for the users participating in this trial, and visiting the website via <https://lumoid.com/listen/try-sonos>.
+For a limited time period, starting April 1, 2017, Striking, Inc., is partnering with Best Buy Inc. to provide a try before you buy service for various products available on our website. During this time period, we reserve the right to share with Best Buy, personally identifiable information, including but not limited to, email address, shipping information and phone number, for the users participating in this trial, and visiting the website via Best Buy's website.
 
 Opting Out
 
