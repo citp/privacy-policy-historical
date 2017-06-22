@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201141627id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandandbarrett.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622232652id_/http%3A//www.hollandandbarrett.com/info/private-cookie-policy) for the most accurate reproduction.*
 
 # Holland & Barrett - the UK’s Leading Health Retailer> Privacy & cookie policy
 
@@ -118,6 +118,8 @@ These cookies are used to deliver adverts more relevant to you and your interest
 ## **Behavioural advertising and online privacy**
 
 Behavioural advertising enables retailers to display adverts to you on the web based on the products and retailers that you have previously visited.  A guide to behavioural advertising and online privacy has been produced by the internet advertising industry which can be found at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). The guide contains an explanation of the self-regulatory scheme to allow you greater control of the advertising you see.
+
+We may also use technologies, such as our own cookies, to provide you with relevant online display advertising tailored to your interests. To opt out of our cookies used for this online advertising, click [here](http://dtmc.hollandandbarrett.com/adinfo/choice/prod/?type=fpc&cid=61490&cname=Holland%20And%20Barrett&cmagic=e2db1b&clogo=61490.png&loc=us&lang=en-us)
 
 ## **Using browser settings to manage cookies**
 
