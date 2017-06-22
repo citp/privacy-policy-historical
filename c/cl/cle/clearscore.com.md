@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearscore.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204165555id_/https%3A//www.clearscore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearscore.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622055744id_/https%3A//www.clearscore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Credit Reports | Free Credit Check UK
 
@@ -8,7 +8,7 @@ Version 3, 19th April 2016
 
 Clear Score Technology Limited respects your privacy and protecting your information is paramount. Please read this Privacy Policy carefully before using our website or registering to use our services in order to understand our views and practices regarding your personal data and how we will treat it. This Privacy Policy (together with our Terms and Cookies Policy) sets out the basis on which any personal data will be processed by us. 
 
-By visiting www.clearscore.com you are accepting and consenting to the practices described in this Privacy Policy. For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Clear Score Technology Limited of The Bell Building, 111 Lambeth Road, London, SE1 7JL. 
+By visiting www.clearscore.com you are accepting and consenting to the practices described in this Privacy Policy. For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Clear Score Technology Limited of 47 Durham Street, London, SE11 5JA, UK. 
 
 Our data controller registration number is ZA100119. You can check our registration on the Data Protection Public Register by visiting <https://www.ico.org.uk/esdwebpages/search>. References in this Privacy Policy and on our website to “we”, “our” or “us” are references to Clear Score Technology Limited. References to “you” and “your” means each natural or legal person who uses our website or the associated services. 
 
@@ -212,9 +212,8 @@ If you would like us to stop sending direct marketing to you, we offer simple wa
 If you consented to receive marketing communications when you registered for our website or services, you can tell us that you do not wish to receive any more by writing, with your full name, address and other contact details (to enable us to find your records), to: 
 
 Clear Score Technology Limited   
-The Bell Building,   
-111 Lambeth Road,   
-London. SE1 7JL 
+47 Durham Street,   
+London, SE11 5JA, UK 
 
 5.4
 
@@ -286,9 +285,8 @@ Please send your request to:
 
 Data Protection Manager   
 Clear Score Technology Limited   
-The Bell Building,   
-111 Lambeth Road,   
-London. SE1 7JL 
+47 Durham Street,   
+London, SE11 5JA, UK 
 
 ## 10.Changes to our privacy policy
 
