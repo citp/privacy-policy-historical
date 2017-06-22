@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130082732id_/http%3A//www.strengthsquest.com/shared/186272/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strengthsquest.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623001146id_/http%3A//www.strengthsquest.com/shared/186272/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-_Last Updated September 29, 2016_
+_Last Updated April 28, 2017_
 
 Protection of personal privacy has always been a hallmark of Gallup. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless an individual user consents to the release of the user's Personal Information or individual results. In a similar manner, Gallup protects the identity of individuals who access Gallup Websites. For the purposes of this Privacy Statement, the terms "Gallup, we, us, and our" refer to Gallup, Inc., 901 F Street, NW, Washington, D.C., 20004, U.S.A. and its subsidiaries and affiliates. For questions about this Privacy Statement or your Personal Information, please [contact us](mailto:privacy_administrator@gallup.com).
 
@@ -112,21 +112,15 @@ Gallup websites may contain links to sites owned and/or operated by other organi
 
 _**6\. Location of Data Collection and Processing**_
 
-In personally accessing Gallup websites, you may be submitting Personal Information and survey or assessment results that Gallup will use for business purposes that are consistent with this Privacy Statement. As a worldwide organization, Gallup collects information that may be processed internationally throughout Gallup offices worldwide. Your information may be processed in the United States or any other country in which Gallup, its affiliates, subsidiaries, or service providers maintain facilities. 
+In personally accessing Gallup websites, you may be submitting Personal Information and survey or assessment results that Gallup will use for business purposes that are consistent with this Privacy Statement. As a worldwide organization, Gallup collects information that may be processed internationally throughout Gallup offices worldwide. Your information may be processed in the United States or any other country in which Gallup, its affiliates, subsidiaries, or service providers maintain facilities.
 
 _**7\. Compliance and Cooperation with Regulatory Authorities**_
 
-We take steps to ensure that the data we collect under this Privacy Statement is processed according to the provisions of this statement and the requirements of applicable laws wherever the data is located. Gallup complies with the EU-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of Personal Information transferred from the European Union to the United States. Gallup has certified to the Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitations; Access; and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Privacy Statement and the Privacy Shield Principles, the Privacy Shield Principles shall govern. 
-
-To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>.
-
-Gallup is subject to the investigatory and enforcement powers of the Federal Trade Commission.
-
-Gallup continues to adhere to the underlying European privacy principles of the U.S. - Swiss Safe Harbor for the processing of Personal Information received from Switzerland. To learn more about the Safe Harbor program, and to view our certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
+Gallup complies with the EU-U.S. Privacy Shield Framework and the Swiss - U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information transferred from the European Union and Switzerland to the United States respectively. Gallup has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 **8\. Access, Correction and Options for limiting Use of your Personal Information**
 
-You have the right to access the Personal Information that we hold about you and to correct, update, amend, suppress, delete or otherwise modify any Personal Information where it is inaccurate, or has been processed in violation of the EU-US Privacy Shield Principles unless we have to keep the information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act upon your request. 
+You have the right to access the Personal Information that we hold about you and to correct, update, amend, suppress, delete or otherwise modify any Personal Information where it is inaccurate, or has been processed in violation of the EU-US Privacy Shield Principles unless we have to keep the information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act upon your request.
 
 You may object to the use or processing of your Personal Information or withdraw consent to use your Personal Information at any time.
 
@@ -144,9 +138,11 @@ If you have any complaints regarding our compliance with this Policy or a Privac
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider (free of charge) at <https://www.jamsadr.com/eu-us-privacy-shield>.
 
-With respect to human resources data, Gallup will cooperate and comply with the EU DPA's with respect to human resources data transferred from the EU in the context of the employment relationship. If you do not receive timely acknowledgement of your complaint from Gallup, or if we have not addressed your complaint to your satisfaction, you may contact the EU DPA's for more information or to file a complaint. The services of the EU DPA's are provided at no cost to you.
+With respect to human resources data, Gallup will cooperate and comply with the EU DPA's and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with the advice given by such authorities with respect to human resources data transferred from the EU and Switzerland in the context of the employment relationship. If you do not receive timely acknowledgement of your complaint from Gallup, or if we have not addressed your complaint to your satisfaction, you may contact the EU DPA's for more information or to file a complaint. The services of the EU DPA's are provided at no cost to you.
 
 Under certain conditions, more fully described on the Privacy Shield website, you have the possibility to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Gallup is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
 
 **_10\. Policy Updates_**
 
