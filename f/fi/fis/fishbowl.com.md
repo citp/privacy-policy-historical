@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fishbowl.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222151429id_/http%3A//fishbowl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fishbowl.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622175733id_/http%3A//fishbowl.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fishbowl - Data Analytics Solutions for the Restaurant Industry
 
