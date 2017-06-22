@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkresearchtools.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222045027id_/http%3A//www.linkresearchtools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkresearchtools.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623002133id_/http%3A//www.linkresearchtools.com/privacy) for the most accurate reproduction.*
 
 # LinkResearchTools Privacy Statement - LinkResearchTools
 
@@ -6,7 +6,7 @@
 
 **LinkResearchTools** is committed to protecting your privacy. The provisions of this Privacy Statement apply to all of our websites and tools. They shall settle details regarding data collection and processing, and the usage of your data. By using our websites or tools, you accept these data protection provisions with all the comprised regulations and terms. If you do not agree with any of the terms and conditions stipulated in this Privacy Statement, do not use our websites and/or our tools.
 
-## 2\. Provider und media owner
+## 2\. Provider and media owner
 
 Owner, publisher, and editor:
 
@@ -58,7 +58,7 @@ You can visit our website(s) without providing any personal data. Proving person
 
 ### 6.2. Personal data
 
-Personal data is data which you choose to give us voluntarily that identifies you as a person. Such data may in particular include contact details such as e.g. name, e-mail address, company name, address, phone number, etc. Personal data may also include information about you that is available to the public on the Internet, comprising in particular information on Facebook, LinkedIn, Xing, Twitter und Google. Such information may also be included to our work.
+Personal data is data which you choose to give us voluntarily that identifies you as a person. Such data may, in particular, include contact details such as e.g. name, e-mail address, company name, address, phone number, etc. Personal data may also include information about you that is available to the public on the Internet, comprising in particular information on Facebook, LinkedIn, Xing, Twitter, and Google.Only for the normal operation of LinkResearchTools, we may require sending some data to third parties. Such information may also be included to our work.
 
 ### 6.3. Navigation information
 
