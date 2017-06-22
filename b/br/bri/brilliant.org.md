@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203210726id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliant.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622064549id_/http%3A//brilliant.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brilliant
 
@@ -18,7 +18,7 @@ In addition, we may automatically receive and store certain, anonymous types of 
 
 ### What about children?
 
-The safety and privacy of children is extremely important to us. Every Service member must be over 13 years of age. Minors younger than 13 are prohibited from signing up or using the Service in any way. If you receive information that a member is under 13, we require the member to provide evidence of being over 13. If such evidence is not provided in a timely manner, we terminate the user's account and nullify all personally identifiable information displaying on the site and collected from such user.
+The safety and privacy of children is extremely important to us. Every Service member must be over 13 years of age. Minors younger than 13 are prohibited from signing up or using the Service in any way. If we receive information that a member is under 13, we require the member to provide evidence of being over 13. If such evidence is not provided in a timely manner, we terminate the user's account and nullify all personally identifiable information displaying on the site and collected from such user.
 
 ### How does Brilliant use the information it collects?
 
