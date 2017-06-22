@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inflowinventory.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502003448id_/https%3A//www.inflowinventory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inflowinventory.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622025317id_/http%3A//www.inflowinventory.com/privacy) for the most accurate reproduction.*
 
 # inFlow Inventory Software | Inventory System - inFlow Inventory Privacy Policy
 
