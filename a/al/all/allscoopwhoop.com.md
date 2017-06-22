@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allscoopwhoop.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026211914id_/http%3A//www.allscoopwhoop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscoopwhoop.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622063516id_/http%3A//www.allscoopwhoop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - All Scoop Whoop
+# Privacy Policy - Allscoopwhoop
 
 Posted on 07/08/2016, by 
 
