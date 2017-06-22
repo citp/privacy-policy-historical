@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122012920id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622195713id_/http%3A//texasguntrader.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# New and Used Guns For Sale in Houston, Dallas, San Antonio,Ft. Worth, Austin, EL Paso
+# Extra Page 11 Title
 
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
 
