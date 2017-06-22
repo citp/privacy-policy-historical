@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sawtoothsoftware.com privacy policy that was archived on 2016-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161212071135id_/http%3A//sawtoothsoftware.com/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sawtoothsoftware.com privacy policy that was archived on 2017-06-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170622232845id_/http%3A//www.sawtoothsoftware.com/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xml:lang="en-us" lang="en-us"><head>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,6 +13,9 @@
 	<meta name="generator" content="Joomla! - Open Source Content Management">
 	<title>Survey Software &amp; Conjoint Analysis - Privacy Policy</title>
 	<link href="/templates/gantry/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+	<link href="/index.php?option=com_ajax&amp;plugin=arktypography&amp;format=json" rel="stylesheet" type="text/css">
+	<link href="/media/system/css/modal.css" rel="stylesheet" type="text/css">
+	<link href="http://www.sawtoothsoftware.com/media/j2store/css/j2store.css" rel="stylesheet" type="text/css">
 	<link href="/plugins/system/rokbox/assets/styles/rokbox.css" rel="stylesheet" type="text/css">
 	<link href="/libraries/gantry/css/grid-responsive.css" rel="stylesheet" type="text/css">
 	<link href="/templates/gantry/css-compiled/master-ad817c75d84c76454cb0bb300b843118.css" rel="stylesheet" type="text/css">
@@ -20,6 +23,7 @@
 	<link href="/templates/gantry/css-compiled/mediaqueries.css" rel="stylesheet" type="text/css">
 	<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
 	<link href="/templates/gantry/css/gantry-custom.css" rel="stylesheet" type="text/css">
+	<link href="http://www.sawtoothsoftware.com/media/editors/arkeditor/css/squeezebox.css" rel="stylesheet" type="text/css">
 	<link href="/templates/gantry/css-compiled/menu-8c87413147a551a55ea698098bbbf596.css" rel="stylesheet" type="text/css">
 	<style type="text/css">
 a, ul.menu li .separator {color:#80ad38;}.button, .readon, .readmore, button.validate, #member-profile a, #member-registration a, .formelm-buttons button, .btn-primary {border-color:#47601f;}.button, .readon, .readmore, button.validate, #member-profile a, #member-registration a, .formelm-buttons button, .btn-primary {background-color: #8bbc3d; #8bbc3d}
@@ -30,27 +34,134 @@ a, ul.menu li .separator {color:#80ad38;}.button, .readon, .readmore, button.val
 
 h1, h2 { font-family: 'Source Sans Pro', 'Helvetica', arial, serif; }
 	</style>
-	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
-	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
-	<script src="/media/system/js/caption.js" type="text/javascript"></script>
-	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
 	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
 	<script src="/media/system/js/core.js" type="text/javascript"></script>
 	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/system/js/modal.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/j2store/js/jquery.validate.min.js" type="text/javascript"></script>
+	<script src="http://www.sawtoothsoftware.com/media/j2store/js/j2store.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
 	<script src="/plugins/system/rokbox/assets/js/rokbox.js" type="text/javascript"></script>
 	<script src="/libraries/gantry/js/browser-engines.js" type="text/javascript"></script>
 	<script src="/templates/gantry/js/rokmediaqueries.js" type="text/javascript"></script>
 	<script src="/templates/gantry/js/load-transition.js" type="text/javascript"></script>
 	<script src="/templates/gantry/js/justin-car.js" type="text/javascript"></script>
+	<script src="http://www.sawtoothsoftware.com/media/editors/arkeditor/js/jquery.easing.min.js" type="text/javascript"></script>
+	<script src="http://www.sawtoothsoftware.com/media/editors/arkeditor/js/squeezebox.min.js" type="text/javascript"></script>
 	<script src="/modules/mod_roknavmenu/themes/default/js/rokmediaqueries.js" type="text/javascript"></script>
 	<script src="/modules/mod_roknavmenu/themes/default/js/responsive.js" type="text/javascript"></script>
 	<script type="text/javascript">
+
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+
+		window.jModalClose = function () {
+			SqueezeBox.close();
+		};
+		
+		// Add extra modal close functionality for tinyMCE-based editors
+		document.onreadystatechange = function () {
+			if (document.readyState == 'interactive' && typeof tinyMCE != 'undefined' && tinyMCE)
+			{
+				if (typeof window.jModalClose_no_tinyMCE === 'undefined')
+				{	
+					window.jModalClose_no_tinyMCE = typeof(jModalClose) == 'function'  ?  jModalClose  :  false;
+					
+					jModalClose = function () {
+						if (window.jModalClose_no_tinyMCE) window.jModalClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+		
+				if (typeof window.SqueezeBoxClose_no_tinyMCE === 'undefined')
+				{
+					if (typeof(SqueezeBox) == 'undefined')  SqueezeBox = {};
+					window.SqueezeBoxClose_no_tinyMCE = typeof(SqueezeBox.close) == 'function'  ?  SqueezeBox.close  :  false;
+		
+					SqueezeBox.close = function () {
+						if (window.SqueezeBoxClose_no_tinyMCE)  window.SqueezeBoxClose_no_tinyMCE.apply(this, arguments);
+						tinyMCE.activeEditor.windowManager.close();
+					};
+				}
+			}
+		};
+		
+var j2storeURL = 'http://www.sawtoothsoftware.com/';
+
+				if(typeof(J2Store) == 'undefined') {
+				var J2Store = jQuery.noConflict();
+				}
+				
+		J2Store(document).ready(function(){
+			J2Store('.j2storeCartForm').each(function(){
+				J2Store(this).validate({
+					errorElement: 'em',
+					errorPlacement: function(error, element) {
+						error.appendTo( element.parent().parent().next('div'));
+					},
+					success: function(label) {
+						//label.text('Ok').addClass('success');
+					},
+					submitHandler: function(form) {
+					form.submit();
+					 	   }
+						});	
+						});
+					});	
 jQuery(window).on('load',  function() {
 				new JCaption('img.caption');
 			});
 if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
 
+(function()
+				{
+					if(typeof jQuery == 'undefined')
+						return;
+					
+					jQuery(function($)
+					{
+						if($.fn.squeezeBox)
+						{
+							$( 'a.modal' ).squeezeBox({ parse: 'rel' });
+				
+							$( 'img.modal' ).each( function( i, el )
+							{
+								$(el).squeezeBox({
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							})
+						}
+						else if(typeof(SqueezeBox) !== 'undefined')
+						{
+							$( 'img.modal' ).each( function( i, el )
+							{
+								SqueezeBox.assign( el, 
+								{
+									handler: 'image',
+									url: $( el ).attr( 'src' )
+								});
+							});
+						}
+						
+						function jModalClose() 
+						{
+							if(typeof(SqueezeBox) == 'object')
+								SqueezeBox.close();
+							else
+								ARK.squeezeBox.close();
+						}
+					
+					});
+				})();
 	</script>
     
     <style type="text/css">
@@ -337,27 +448,19 @@ if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
 
 
                     </li>
-                                                                                                                                                                <li class="item571 parent">
-
-            <a class="item" href="/support/technical-papers">
-
-                                Technical Papers                            </a>
-
-
-                    </li>
-                                                                                                                                                                <li class="item544">
-
-            <a class="item" href="/support/forum">
-
-                                Forum                            </a>
-
-
-                    </li>
                                                                                                                                                                 <li class="item570 parent">
 
             <a class="item" href="/support/knowledge-base">
 
                                 Knowledge Base                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item571 parent">
+
+            <a class="item" href="/support/technical-papers">
+
+                                Technical Papers                            </a>
 
 
                     </li>
@@ -374,6 +477,22 @@ if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
             <a class="item" href="/support/videos">
 
                                 Videos                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item544 bordertop">
+
+            <a class="item" href="/support/forum">
+
+                                Forum                            </a>
+
+
+                    </li>
+                                                                                                                                                                <li class="item1243">
+
+            <a class="item" href="/support/question-library">
+
+                                Question Library                            </a>
 
 
                     </li>
@@ -569,13 +688,13 @@ if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
 	<p class="box4" style="padding:.5em;">This policy describes how Sawtooth Software uses information that it collects from people via its website (www.sawtoothsoftware.com) and when people contact us directly via phone, email, or fax.</p>
 <p>Sawtooth Software collects personal identifying information from customers and when website visitors actively provide such information. When customers purchase software or enroll in training events, they provide contact information and optional credit card information. Website visitors may complete an online form and provide contact information to receive product information via standard mail or electronic communications, such as E-News. We also passively collect information on how visitors use our website that is analyzed in the aggregate so that we can improve website design.</p>
 <p>Sawtooth Software uses Secure Socket Layer (SSL) when collecting credit card information via our website. We use safe business practices and make every reasonable effort to ensure that your personal information is safeguarded and secure from unlawful access.</p>
-<p>Sawtooth Software periodically sends out E-News and other promotional posts regarding training events. Recipients of E-News or other promotional collateral may opt out of these mailings by return email post with a simple request (or email us with a simple request at <span id="cloakac58e4e830735b34b3ea52825f40d88e"><a href="mailto:support@sawtoothsoftware.com">support@sawtoothsoftware.com</a></span><script type="text/javascript">
-				document.getElementById('cloakac58e4e830735b34b3ea52825f40d88e').innerHTML = '';
+<p>Sawtooth Software periodically sends out E-News and other promotional posts regarding training events. Recipients of E-News or other promotional collateral may opt out of these mailings by return email post with a simple request (or email us with a simple request at <span id="cloak8e99e8b73c039ab7db53f3fbaf710f30"><a href="mailto:support@sawtoothsoftware.com">support@sawtoothsoftware.com</a></span><script type="text/javascript">
+				document.getElementById('cloak8e99e8b73c039ab7db53f3fbaf710f30').innerHTML = '';
 				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
 				var path = 'hr' + 'ef' + '=';
-				var addyac58e4e830735b34b3ea52825f40d88e = 's&#117;pp&#111;rt' + '&#64;';
-				addyac58e4e830735b34b3ea52825f40d88e = addyac58e4e830735b34b3ea52825f40d88e + 's&#97;wt&#111;&#111;ths&#111;ftw&#97;r&#101;' + '&#46;' + 'c&#111;m';
-				var addy_textac58e4e830735b34b3ea52825f40d88e = 's&#117;pp&#111;rt' + '&#64;' + 's&#97;wt&#111;&#111;ths&#111;ftw&#97;r&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloakac58e4e830735b34b3ea52825f40d88e').innerHTML += '<a ' + path + '\'' + prefix + ':' + addyac58e4e830735b34b3ea52825f40d88e + '\'>'+addy_textac58e4e830735b34b3ea52825f40d88e+'<\/a>';
+				var addy8e99e8b73c039ab7db53f3fbaf710f30 = 's&#117;pp&#111;rt' + '&#64;';
+				addy8e99e8b73c039ab7db53f3fbaf710f30 = addy8e99e8b73c039ab7db53f3fbaf710f30 + 's&#97;wt&#111;&#111;ths&#111;ftw&#97;r&#101;' + '&#46;' + 'c&#111;m';
+				var addy_text8e99e8b73c039ab7db53f3fbaf710f30 = 's&#117;pp&#111;rt' + '&#64;' + 's&#97;wt&#111;&#111;ths&#111;ftw&#97;r&#101;' + '&#46;' + 'c&#111;m';document.getElementById('cloak8e99e8b73c039ab7db53f3fbaf710f30').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy8e99e8b73c039ab7db53f3fbaf710f30 + '\'>'+addy_text8e99e8b73c039ab7db53f3fbaf710f30+'<\/a>';
 		</script>).</p>
 <p>Sawtooth Software communicates with subscription administrators and users regarding bugs and software upgrades. These communications are critical to ensure proper functionality of our tools, and subscription administrators receive these notices even if they have opted out of E-News and promotional communications. We do not sell or rent our lists.</p>
 <p>Our survey hosting service also collects information from customers and respondents. Please see the Hosting Services Agreement for more information.</p> </div>
@@ -595,14 +714,16 @@ if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
 	                		
 
 <div class="custombox4">
-	<style type="text/css">
- h2{font-size:1.75em;margin-top:0;color:#666666}
+	<style type="text/css">h2{font-size:1.75em;margin-top:0;color:#666666}
  p{font-size:.75em;line-height:1.2em;color:#666666;font-weight:normal;}
 </style>
 <h2>Lighthouse Studio</h2>
+
 <p>Lighthouse Studio (formerly SSI Web) is our flagship software for producing and analyzing online and offline surveys. It contains modules for general interviewing, choice-based conjoint, adaptive choice-based conjoint, adaptive choice analysis, choice-value analysis, and maxdiff exercises.</p>
-<p><a href="/support/downloads/download-ssi-web#trial-version" class="btn btn-block btn-info">Try Lighthouse Studio</a></p>
-<p><a href="/about-us/privacy-policy?id=952&amp;product=ssiweb" class="btn btn-block btn-success"><span class="icon-shopping-cart"></span>&nbsp;&nbsp;Buy Lighthouse Studio</a></p>
+
+<p><a class="btn btn-block btn-info" href="/support/downloads/download-ssi-web#trial-version">Try Lighthouse Studio</a></p>
+
+<p><a class="btn btn-block btn-success" href="/about-us/privacy-policy?id=952&amp;product=ssiweb"><span class="icon-shopping-cart"></span>&nbsp;&nbsp;Buy Lighthouse Studio</a></p>
 </div>
 	                	</div>
                 	</div>
@@ -625,7 +746,7 @@ if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
            	<div class="module-surround">
 	           		                	<div class="module-content">
 	                		<p class="logo"><img src="/images/logos/2013-sslogo-gray-125x70.png" width="125" height="70" alt="2013-sslogo-gray-125x70.fw"></p>
-<p class="sawtooth">Sawtooth <span class="software">Software</span></p>
+<p class="sawtooth notranslate">Sawtooth <span class="software notranslate">Software</span></p>
 <address>1457 E 840 N &nbsp;|&nbsp; Orem, UT 84097-5486<br> United States of America</address>	                	</div>
                 	</div>
            </div>
@@ -643,6 +764,15 @@ if (typeof RokBoxSettings == 'undefined') RokBoxSettings = {pc: '100'};
 <a href="http://www.facebook.com/pages/Sawtooth-Software-Inc/155208634574349" target="_blank"><img src="/images/buttons/facebook-40.png" alt="facebook-sm" height="40" width="40"></a> 
 <a href="https://twitter.com/SawtoothSoft" target="_blank"><img src="/images/buttons/twitter-40.png" alt="twitter-sm" height="40" width="40"></a> 
 <!-- <a href="http://pinterest.com/ssiweb" target="_blank"><img src="/images/buttons/pinterest-40.png" alt="pinterest-sm" height="40" width="40" /></a> -->
+<p>&nbsp;</p>
+
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
 <!-- begin olark code -->
@@ -670,16 +800,7 @@ olark.identify('3773-984-10-1619');/*]]>*/</script><noscript><a href="https://ww
 	
 </div>
 <div class="rt-grid-4 rt-omega">
-               <div class="rt-block search">
-           	<div class="module-surround">
-	           		                	<div class="module-content">
-	                		<!-- SiteSearch Google CSE --><form method="get" action="http://www.sawtoothsoftware.com/index.php" id="mod_googleSearch_cse"><input type="hidden" name="option" value="com_googlesearchcse"><input type="hidden" name="n" value="30"><div id="google_cse" class="mod_googleSearchcsesearch"><input type="hidden" name="cx" value="000917596363222134507:bukzbgw1y8a"><input type="hidden" name="cof" value="FORID:11"><input type="hidden" name="ie" value="ISO-8859-1"><input type="text" name="q" class="inputboxsearch" size="20" maxlength="255" value="" style="color: rgb(0, 0, 0); background: rgb(225, 226, 227);"><input type="hidden" name="hl" value="en"><input type="hidden" name="safe" value="active"></div></form><script type="text/javascript"><!--
-(function() {var f = document.getElementById('mod_googleSearch_cse');if (f && f.q) {var q = f.q;var b = function(){if (q.value == '') {q.value='  Search';q.style.color = '#000000';q.style.background = '#E1E2E3';}}; var f = function() {if (q.value=='  Search') {q.value='';q.style.color = '#000000';q.style.background = '#FFFFFF';}};q.onfocus = f;q.onblur = b;b();}})();
-//-->
-</script>	                	</div>
-                	</div>
-           </div>
-	           <div class="rt-block ">
+               <div class="rt-block ">
            	<div class="module-surround">
 	           		                	<div class="module-content">
 	                		<p><span class="support">Support:</span>&nbsp;<a href="mailto:support@sawtoothsoftware.com">support@sawtoothsoftware.com</a></p>
@@ -689,7 +810,7 @@ olark.identify('3773-984-10-1619');/*]]>*/</script><noscript><a href="https://ww
 <p><span class="support">MaxDiff Analyzer:</span>&nbsp;<a href="https://www.maxdiffanalyzer.com" target="_blank">https://www.maxdiffanalyzer.com</a></p>
 <p><span class="support">Online&nbsp;Simulator:</span>&nbsp;<a href="https://www.sawtoothsimulator.com" target="_blank">https://www.sawtoothsimulator.com</a></p>
 <br>
-<p>Copyright © 2016 Sawtooth Software, Inc.</p>
+<p>Copyright © 2017 Sawtooth Software, Inc.</p>
 <p>All Rights Reserved</p>
 	                	</div>
                 	</div>
