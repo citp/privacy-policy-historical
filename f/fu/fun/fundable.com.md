@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215100922id_/http%3A//www.fundable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundable.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622110007id_/http%3A//www.fundable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fundable
 
@@ -51,3 +51,5 @@ WePay processes all of the transactions on Fundable. No one sees your credit car
 Fundable, LLC  
 1322 Manning Parkway  
 Powell, OH 43065
+
+Fundable is a software as a service crowdfunding platform. Fundable is not a registered broker-dealer and does not offer investment advice or advise on the raising of capital through securities offerings. Fundable does not recommend or otherwise suggest that any investor make an investment in a particular company, or that any company offer securities to a particular investor. Fundable takes no part in the negotiation or execution of transactions for the purchase or sale of securities, and at no time has possession of funds or securities. No securities transactions are executed or negotiated on or through the Fundable platform. Fundable receives no compensation in connection with the purchase or sale of securities. 
