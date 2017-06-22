@@ -1,64 +1,39 @@
-> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2012-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121111042521id_/http%3A//www.frommers.com/about/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frommers.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622133235id_/http%3A//www.frommers.com/about/about_privacy) for the most accurate reproduction.*
 
-# Frommer's About Us
-
-|   
----  
-| [About Frommer's](https://web.archive.org/about/index.html) |   
-|  |   
-|  | [Partnerships](https://web.archive.org/about/about_partner.html) |   
-|  |  | [Advertise with Us](http://www.frommers.biz/advertising/) |   
-|  |  | [Content Licensing & Premium Services](http://frommers.biz/) |   
-|  |  | [Affiliate Program](https://web.archive.org/about/affiliate_program.html) |   
-|  |  | [Link to Us](https://web.archive.org/about/link_to_us.html) |   
-|  |  | [Custom Guidebooks](http://www.frommers.biz/content/custom-content/) |   
-|  |   
-|  | [Jobs](https://web.archive.org/about/about_jobs.html) |   
-|  |   
-|  | [Editorial Policy](https://web.archive.org/about/about_editorial.html) |   
-|  |   
-|  | [Privacy Policy](https://web.archive.org/about/about_privacy.html) |   
-|  |   
-|  | [Booking Partner Policy](https://web.archive.org/about/about_bookingpartner.html) |   
-|  |   
-|  | [Travel Guides](https://web.archive.org/about/about_travel_guides.html) |   
-|  |  | [Frequently Asked Questions](https://web.archive.org/about/about_faq_guides.html) |   
-|  |  | [Our Series](https://web.archive.org/about/about_book-series.html) |   
-|  |   
-|  | [Frommer's Complete Catalog](http://promo.wiley.com/2010frommersctlg/USsales/) |   
-|  |   
-|  | [Press Room](http://www.frommers.com/about/press_room.html) |   
-|  |   
-|  | [Legal & Copyright Notices](https://web.archive.org/about/copyright.html) |   
-|  |   
-|  | [Terms of Service](https://web.archive.org/about/terms_of_service.html) |   
-|  |   
-|  | [Disclaimer](https://web.archive.org/about/about_disclaimer.html) |   
-|  |   
-|  | 
+# Frommer's
 
 ## Privacy Policy
 
-Note: On November 15, 2012, this Privacy Policy will be replaced by the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/). As always, your privacy is important to us. 
+Frommer Media LLC and its related companies (collectively, "Frommer Media LLC") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Frommer Media LLC you consent to the practices described herein.
 
-John Wiley & Sons, Inc. and its related companies (collectively, "Wiley") recognize the importance of protecting the information collected from Users in the operation of this website, and take reasonable steps to maintain the security, integrity and privacy of any information in accordance with this Privacy and Data Protection Policy. By submitting your information to Wiley you consent to the practices described herein. 
+Frommer Media LLC will seek to ensure that any identifiable personal information it collects during the registration and purchasing processes will be adequate, relevant and not excessive for purposes of operating this website or any of the services operated hereunder and it will be kept accurate and up-to-date based on information provided. Except as expressly provided herein or, unless we have received your consent, Frommer Media LLC will not disclose any personal information identifying users to any third party except where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with the confidentiality provisions of this policy. In addition, Frommer Media LLC may disclose personally identifiable information to third parties in order to comply with the law or requests by law enforcement agencies, to enforce our Terms and Conditions or to protect the rights, property or safety of our Web site, users or others. In the event that all or substantially all of the business or assets of relating to this Web site are sold or otherwise assigned to another entity, personally identifiable information may be transferred to such entity. Personal information and any other communications or information supplied to Frommer Media LLC may be used by Frommer Media LLC for internal business and research purposes and to help enhance and develop our websites.
 
-Wiley will seek to ensure that any identifiable personal information it collects during the registration and purchasing processes will be adequate, relevant and not excessive for purposes of operating this website or any of the services operated hereunder and it will be kept accurate and up-to-date based on information provided. Except as expressly provided herein or, unless we have received your consent, Wiley will not disclose any personal information identifying users to any third party except where necessary in connection with services provided by appropriate intermediaries, who will be required to comply with the confidentiality provisions of this policy. In addition, Wiley may disclose personally identifiable information to third parties in order to comply with the law or requests by law enforcement agencies, to enforce our Terms and Conditions or to protect the rights, property or safety of our Web site, users or others. In the event that all or substantially all of the business or assets of relating to this Web site are sold or otherwise assigned to another entity, personally identifiable information may be transferred to such entity. Personal information and any other communications or information supplied to Wiley may be used by Wiley for internal business and research purposes and to help enhance and develop our websites. 
+If use of an electronic product, feature or service offered by Frommer Media LLC on this website requires a User to provide a name and password or other personally identifiable information, the User will have the option to opt in or out of providing such information and using the product, feature or service.
 
-If you provide Wiley with your address, you may receive periodic catalogs from Wiley, or other notices containing information about new products and services or upcoming events. On occasion, Wiley may make its mailing address lists available to other companies who it believes may have products and services of interest to Wiley's customers. If you do not wish to receive mailings from Wiley, its imprints, or third-party organizations, please let us know via phone, fax, mail, or [email](http://www.wiley.com/WileyCDA/Section/id-301456.html). Please provide us with your exact name and address and state which lists you wish to be removed from so that we can be sure your information is removed from those mailing lists. 
+Frommer Media LLC may disclose to carefully chosen third parties navigational and transactional information in the form of anonymous, aggregate usage statistics (including "page views" on this website and the products herein) and demographics but only in forms that do not reveal a User's identity or confidential information, except as required by law, as needed in connection with legal proceedings, or unless we have received your consent.
 
-If use of an electronic product, feature or service offered by Wiley on this website requires a User to provide a name and password or other personally identifiable information, the User will have the option to opt in or out of providing such information and using the product, feature or service. 
+Cookies are small bits of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are when you return. Cookies remember information about your activities on the site and enable the operator of the site to make your visits more enjoyable or customize your experience. We may use cookies in a variety of ways, such as to collect information to help us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. We don't use cookies to collect and store individually-identifiable information. You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.
 
-Wiley may disclose to carefully chosen third parties navigational and transactional information in the form of anonymous, aggregate usage statistics (including "page views" on this website and the products herein) and demographics but only in forms that do not reveal a User's identity or confidential information, except as required by law, as needed in connection with legal proceedings, or unless we have received your consent. 
+Links may be provided from this website to other third party websites. In using such links, Users should be aware that each third party website is subject to its own privacy and data protection policies and is not covered by our privacy policy. In addition, we allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may be placing and reading cookies in the cookie file of the browser on your computer's hard disk or using web beacons or other technologies to collect information in the course of ads being served on this website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp> or follow the instructions for opting out provided in the third party ad servers' privacy and data protection policies. The use of these technologies by these third party ad servers is subject to their own privacy and data protection policies and is not covered by our privacy policy. Frommer Media LLC does not take responsibility for the privacy policies of, and usage of, personal information collected by others including, without limitation, those of any partner or affiliate.
 
-Cookies are small bits of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are when you return. Cookies remember information about your activities on the site and enable the operator of the site to make your visits more enjoyable or customize your experience. We may use cookies in a variety of ways, such as to collect information to help us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. We don't use cookies to collect and store individually-identifiable information. You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. 
+You should be aware that identifiable personal information--such as your name or e-mail address--that you voluntarily disclose that is accessible to other Users (e.g. on bulletin boards or in chat areas) could be collected and disclosed by others. Frommer Media LLC cannot take any responsibility for such collection and disclosure. In addition, Frommer Media LLC may share information you voluntarily provide in response to an advertisement with the third party serving the advertisement.
 
-Links may be provided from this website to other third party websites. In using such links, Users should be aware that each third party website is subject to its own privacy and data protection policies and is not covered by our privacy policy. In addition, we allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may be placing and reading cookies in the cookie file of the browser on your computer's hard disk or using web beacons or other technologies to collect information in the course of ads being served on this website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp> or follow the instructions for opting out provided in the third party ad servers' privacy and data protection policies. The use of these technologies by these third party ad servers is subject to their own privacy and data protection policies and is not covered by our privacy policy. Wiley does not take responsibility for the privacy policies of, and usage of, personal information collected by others including, without limitation, those of any partner or affiliate. 
+**CAN SPAM Act**   
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. 
 
-You should be aware that identifiable personal information--such as your name or e-mail address--that you voluntarily disclose that is accessible to other Users (e.g. on bulletin boards or in chat areas) could be collected and disclosed by others. Wiley cannot take any responsibility for such collection and disclosure. In addition, Wiley may share information you voluntarily provide in response to an advertisement with the third party serving the advertisement. 
+We collect your email address in order to:   
+      **•** Send information, respond to inquiries, and/or other requests or questions.   
+      **•** Provide travel content and deals from Frommer Media LLC and other selected third-party sources.   
+      **•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred. 
 
-Please note that Wiley's Privacy and Data Protection Policy is reviewed periodically. Wiley reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this website will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our [Contact Us](http://www.wiley.com/WileyCDA/Section/id-301456.html) page. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement or modify your information, you may either select the [Contact Us](http://www.wiley.com/WileyCDA/Section/id-301456.html) page as set forth above, or make in a written request to John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030-5774. If you wish to modify your shopping account, you can do it directly in the [My Account](http://www.wiley.com/marketbasket.cgi?viewaccount) section. 
+To be in accordance with CANSPAM, we agree to the following:   
+      **•** Not use false or misleading subjects or email addresses.   
+      **•** Identify the message as an advertisement in some reasonable way.   
+      **•** Include the physical address of our business or site headquarters.   
+      **•** Monitor third-party email marketing services for compliance, if one is used.   
+      **•** Honor opt-out/unsubscribe requests quickly.   
+      **•** Allow users to unsubscribe by using the link at the bottom of each email. 
 
-| 
+If at any time you would like to unsubscribe from receiving future emails, you can follow the instructions at the bottom of each email. and we will promptly remove you from all correspondence. 
 
-[](http://ad.doubleclick.net/jump/wiley.frommers.com/;loc=marketing;sz=160x230;tile=4;ord=212629619538670560?)
+Please note that Frommer Media LLC's Privacy and Data Protection Policy is reviewed periodically. Frommer Media LLC reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this website will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our [Contact Us](https://web.archive.org/contact_us) page. If at any point you wish to access your personal information to (1) change your preferences, (2) review the accuracy, or (3) correct, supplement or modify your information, you may either select the [Contact Us](https://web.archive.org/contact_us) page as set forth above, or mail in a written request to Frommer Media LLC, 44 West 62nd Street, New York, NY 10023.
