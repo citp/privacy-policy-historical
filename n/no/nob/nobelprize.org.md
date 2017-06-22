@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227102204id_/http%3A//nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622155609id_/http%3A//www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@
 
 Nobel Media AB is responsible for producing the official web site of the Nobel Prize, Nobelprize.org. We recognize that privacy is important and are committed to protecting your privacy. The Nobel Media Privacy Policy applies to data collected by Nobel Media through Nobelprize.org. Please read it carefully and feel free to contact us, at the address last in this document, with questions or comments.
 
-Nobel Media adheres to all applicable Swedish and EG/EU law. 
+Nobel Media adheres to all applicable Swedish and EG/EU law.
 
 ## Information we collect and how we use it
 
-We offer a number of services that do not require you to sign up, register, or provide any personal information to us. In order to provide our full range of services, however, we may in certain cases ask for and collect personal information in different ways. 
+We offer a number of services that do not require you to sign up, register, or provide any personal information to us. In order to provide our full range of services, however, we may in certain cases ask for and collect personal information in different ways.
 
-## How we collect your personal information 
+## How we collect your personal information
 
 Some of the services at Nobelprize.org, such as certain educational games and interactive services, require registration. To use these services, we may ask you for personal information and an account password.
 
@@ -38,7 +38,7 @@ Nobelprize.org collects and processes personal information for the purposes desc
 
 Personal information collected on Nobelprize.org sites and services may be stored and processed in Sweden or any other country in which Nobel Media or its affiliates or agents maintain facilities, and by using a Nobelprize.org site or service you consent to any such transfer of information outside of your country.
 
-##  Newsletters 
+## Newsletters
 
 If you have subscribed to Nobelprize.org Monthly, we will send you newsletters. You can stop the delivery of newsletters from Nobelprize.org by following the specific instructions in the e-mail you receive. 
 
@@ -50,7 +50,7 @@ We use a double opt-in technique for subscribing to News from Nobelprize.org, de
 
 When you visit Nobelprize.org, we send one or more cookies to your computer that uniquely identifies your browser. A cookie is a small file that is placed on your hard disk by a Web page server. The cookie contains a string of characters that can later be read by a web server in the domain that issued the cookie to you. Cookies cannot be used to run programs or deliver viruses to your computer. We only use standard first-party cookies, which are a communication tag only viewable by Nobelprize.org in the same nature as session ids. They are not a third-party cookies, which may provide information outside our domain, violating our privacy policy. 
 
-## Nobel Media uses cookies 
+## Nobel Media uses cookies
 
   * to improve the quality of our service by tracking user trends and paths using standard Web analytics software. 
   * to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content on your current and later visits to Nobelprize.org. 
@@ -68,7 +68,7 @@ These server logs include information such as your web request, IP address, brow
 
 The log files are analysed by standard Web analytics programs. In this process the information is non-personalized. We do not track individual visits unless you specifically ask us to do so (i.e. for solving certain problems) or if our security is violated.
 
-The log files are retained for as long as is necessary to perform the analysis described above, but in no case for a period longer than 18 months. 
+The log files are retained for as long as is necessary to perform the analysis described above, but in no case for a period longer than 18 months.
 
 ## AddThis
 
@@ -76,7 +76,13 @@ Nobelprize.org uses [AddThis](http://www.addthis.com/) to help us spread our con
 
 ## 'Tell a Friend'
 
-Nobel Media has a Tell a Friend service that allows you to inform a friend about a page on Nobelprize.org. In this process you enter the e-mail address of your friend and possibly your own e-mail address, together with a short message. Nobel Media will include certain personal information from you, such as the IP address, into the e-mail sent to your friend. The same information will be stored at Nobel Media for 5 days. The purpose is to protect the integrity of the receiver of the e-mail. If the receiver feels abused by a sent e-mail, we want to be able to assist in providing the information about the sender we know about. Nobel Media does not look at this information unless we are specifically asked to do so. After 5 days all data is erased, the purpose of which is to protect the integrity of both the sender and the receiver, since the message sent may contain personal information. 
+Nobel Media has a Tell a Friend service that allows you to inform a friend about a page on Nobelprize.org. In this process you enter the e-mail address of your friend and possibly your own e-mail address, together with a short message. Nobel Media will include certain personal information from you, such as the IP address, into the e-mail sent to your friend. The same information will be stored at Nobel Media for 5 days. The purpose is to protect the integrity of the receiver of the e-mail. If the receiver feels abused by a sent e-mail, we want to be able to assist in providing the information about the sender we know about. Nobel Media does not look at this information unless we are specifically asked to do so. After 5 days all data is erased, the purpose of which is to protect the integrity of both the sender and the receiver, since the message sent may contain personal information.
+
+## Nobel Week Dialogue
+
+Nobel Media uses photography, video and audio recording to publicly promote the Nobel Week Dialogue and to share the event remotely with those who are unable to attend in person. Nobel Media also uses this material in our fundraising efforts for the Nobel Week Dialogue and to provide an archive of the event.
+
+The 9th December Nobel Week Dialogue will be documented in this way. All those active in gathering Content at the event will adhere to a strict code and wear identifying badges.
 
 ## Affiliated sites and links
 
@@ -124,15 +130,15 @@ We will occasionally update this policy to reflect changes in the site and to re
 
 **Questions, comments and suggestions**
 
-If you have any questions about this policy, or believe that we have not adhered to it, please [e-mail us](https://web.archive.org/contact/). 
+If you have any questions about this policy, or believe that we have not adhered to it, please [e-mail us](https://web.archive.org/contact/).
 
 **Ordinary mail  
-**You may also write to us at:   
-Nobel Media AB   
+**You may also write to us at:  
+Nobel Media AB  
 Box 5232  
-SE-102 45 Stockholm, Sweden 
+SE-102 45 Stockholm, Sweden
 
 To cite this page  
-MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2014. Web. 27 Dec 2016. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
+MLA style: "Privacy Policy". _Nobelprize.org._ Nobel Media AB 2014. Web. 21 Jun 2017. <http://www.nobelprize.org/nobel_organizations/nobelmedia/nobelprize_org/privacy_policy.html>
 
 ## Recommended:
