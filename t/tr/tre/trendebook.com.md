@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendebook.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225182027id_/http%3A//trendebook.com/category/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendebook.com privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622094003id_/http%3A//trendebook.com/category/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Archives - TrendEbook
 
