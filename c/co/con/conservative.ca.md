@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610103402id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservative.ca privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622054450id_/http%3A//cpcp.cc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Conservative Party of Canada - Canada's Official Opposition
 
@@ -6,7 +6,7 @@
 
 Your privacy is important to us. The Conservative Party will respect your privacy through the protection of any of your personal information that you provide to us. We take great care to keep both confidential and secure all personal information in our possession.
 
-As a federal political party registered under the Canada Elections Act, the Conservative Party including its “electoral district associations” (riding associations) are subject to extensive regulation under that Act, including in particular public disclosure requirements for contributions over $200.
+As a federal political party registered under the Canada Elections Act, the Conservative Party including its electoral district associations (“riding associations”), candidates, nomination contestants and leadership contestants are subject to extensive regulation under that Act, including in particular public disclosure requirements for contributions over $200.
 
 **What is “Personal Information”**
 
@@ -14,7 +14,7 @@ As a federal political party registered under the Canada Elections Act, the Cons
 
 **Collecting Personal Information**
 
-Elections Canada provides all political parties with a list of electors, including names and postal addresses. We collect other information from publically available data.
+Elections Canada provides all political parties with a list of electors, including names and postal addresses. We collect other information from publicly available data.
 
 We collect personal information from donors and members when they contribute to our Party or purchase a membership. You may also choose to provide us with personal information on a voluntary basis, such as when registering for an event or signing a petition. We are required by law to keep records of donors for tax purposes.
 
@@ -24,7 +24,7 @@ If you submit your e-mail address and/or personal information through our websit
 
 We use your personal information to communicate with you. As a political party, we believe it is important to communicate with Canadians on a regular basis.
 
-As a national organization with a riding-based membership system, your personal information may also be disclosed to our local riding associations, who may also communicate with you.
+As a national organization with a riding-based membership system, your personal information may also be disclosed to our local riding associations, candidates, nomination contestants and leadership contestants who may also communicate with you.
 
 Additionally, non-personal information may be collected by the Conservative Party through the use of cookies, including third-party cookies. Cookies allow us to track how people are using our site and help us deliver better content to our visitors. We may use this information, in aggregate, to improve our site or to assist in advertising.
 
@@ -50,7 +50,7 @@ If you have any questions, concerns, or complaints about the Conservative Party 
 
 Attn: Greg Labuschagne, Privacy Officer  
 Conservative Party of Canada  
-1204 – 130 Albert St.  
+1720 – 130 Albert St.  
 Ottawa, ON K1P 5G4
 
 If you no longer wish to receive phone calls or mail from the Conservative Party, you may contact us at servicedesk@conservative.ca. Please include your name, address and phone number so we can accurately deal with your request.
