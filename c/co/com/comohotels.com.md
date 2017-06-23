@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comohotels.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128162026id_/http%3A//www.comohotels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comohotels.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624005354id_/http%3A//www.comohotels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | COMO Hotels and Resorts
 
@@ -14,9 +14,11 @@ This Privacy Policy is issued by Club 21 Pte Ltd (which is the data controller i
 
   * Club 21 Pte Ltd;
   * Kids 21 Pte Ltd;
-  * Culina Pte Ltd
-  * SuperNature Ptd Ltd
-  * COMO Hotels and Resorts (Asia) Pte Ltd and
+  * Culina Pte Ltd;
+  * SuperNature Ptd Ltd;
+  * COMO Hotels and Resorts (Asia) Pte Ltd;
+  * COMO Shambhala Pte Ltd;
+  * COMO Foundation and
   * Club 21 managed brands identified on the Club 21 websites at <http://www.club21global.com/#/corporate/home>  
 (together "we", "our" or "us")
 
@@ -30,7 +32,7 @@ and all websites and applications including:
   * kids21.com
   * blackbarrett.com;
   * comohotels.com;
-  * comodempsey.sg
+  * comodempsey.sg;
   * comoshambhala.com and
   * sg.club21global.com my.club21global.com th.club21global.com hk.club21global.com au.club21global.com int.club21global.com mobile applications for any of the above  
 (each a "COMO Group website" and together "The COMO Group websites").
