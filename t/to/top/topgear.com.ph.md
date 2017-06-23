@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the topgear.com.ph privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221041751id_/http%3A//www.topgear.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgear.com.ph privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623092313id_/http%3A//www.topgear.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# Summit Media Privacy Policy | TopGear.com.ph
+# Summit Media Privacy Policy | Top Gear Philippines
 
 [
 
 **
 
-FEATURE ARTICLES
+FEATURE ARTICLE
 
-10 exciting Christmas gifts for your friends who ride
+5 thoughts about the new Toyota Wigo
 
 **
 
-](http://www.topgear.com.ph/features/feature-articles/10-exciting-christmas-gifts-for-your-motorcycle-riding-friends-a28-20161218?ref=highlight)
+](http://www.topgear.com.ph/features/feature-articles/toyota-wigo-list-a00187-20170622?ref=highlight)
 
 Our Privacy Policy
 
