@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the benihana.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122063450id_/http%3A//www.benihana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benihana.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623132941id_/https%3A//www.benihana.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Benihana
+# Sushi & Japanese Steakhouse | Privacy Policy | Benihana
 
 Effective Date December 20, 2007
 
@@ -42,13 +42,31 @@ We limit the use of information provided to us on our Website to accomplish the 
 
 We may also use cookies, pixels, beacons, or other web tracking technologies to track the amount of time spent on our sites or social media and whether or not certain content, such as video was viewed. We may work with a trusted third party to collect and process this information for us, based on our instructions and in compliance with our Privacy Policy.
 
-We may also participate in interest-based advertising using similar technology. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for BIC on other websites based on your browsing behavior across websites. Some websites where we may advertise belong to ad networks that use your web browsing history to choose which ads to display on their network websites; these ads include advertising for Benihana, but no personal information about you is shared with those third party ad networks. Other websites where you see our ads, such as Facebook, may use interest preferences that you have chosen on those sites, as well as registration and other information about you, to choose which ads to display to you. Some internet browsers, websites such as Facebook and mobile devices offer opt-outs for interest-based advertising. Please refer to the website that you are visiting, your browser and/or your device settings for additional information. You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website. (http://www.networkadvertising.org/choices/) and (http://www.aboutads.info/choices/).
+We may also participate in interest-based advertising using similar technology. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for Benihana on other websites based on your browsing behavior across websites. Some websites where we may advertise belong to ad networks that use your web browsing history to choose which ads to display on their network websites; these ads include advertising for Benihana, but no personal information about you is shared with those third party ad networks. Other websites where you see our ads, such as Facebook, may use interest preferences that you have chosen on those sites, as well as registration and other information about you, to choose which ads to display to you. Some internet browsers, websites such as Facebook and mobile devices offer opt-outs for interest-based advertising. Please refer to the website that you are visiting, your browser and/or your device settings for additional information. You can opt-out of receiving interest-based ads from third parties who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website. (http://www.networkadvertising.org/choices/) and (http://www.aboutads.info/choices/).
 
 ### COLLECTION OF INFORMATION BY THIRD PARTY SITES
 
 * * *
 
 Our Privacy Policy applies only to your use of this Website. This Website contains links to other sites. These sites are governed by their own privacy statements and policies, and Benihana is not responsible for their operations, including but not limited to their information practices. We do not disclose personal information to those operating linked sites and we are not responsible for their practices. Links to other sites do not imply our endorsement of the materials or policies on those websites. You should read the privacy policies of each site you visit to determine what information that site may be collecting about you.
+
+### ADVERTISING
+
+* * *
+
+Currently, we use third party-placed tracking pixels and cookies from the following advertising delivery partner: Google AdWords.
+
+### THIRD-PARTY VENDOR ADS
+
+* * *
+
+We use third-party service providers to serve advertisements (text ads, banners or links) on our behalf across the Internet. These advertising service providers may collect non-identifiable information about your visits to our website, and your interactions with our products and services. Such non-identifiable information does not include your name, address, e-mail address or other personal information. The information is collected through the use of cookies and pixel tags (also known as action tags), which is industry-standard technology used by most major websites.
+
+### OPTING OUT
+
+* * *
+
+You can opt out of interest-based ads by Google through Ads Settings. When you opt out, you’ll still see ads but they may not be related to factors such as your interests or demographic details.
 
 ### NOTIFICATION OF CHANGES TO PRIVACY POLICY
 
