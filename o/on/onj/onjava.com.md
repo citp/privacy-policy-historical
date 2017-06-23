@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onjava.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229081635id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onjava.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623062205id_/http%3A//oreilly.com/oreilly/privacy.csp) for the most accurate reproduction.*
 
-# Privacy Policy as of 11/10/16
+# Privacy Policy as of 11/10/16 - O'Reilly Media
 
 This version (Version 2.1) of O'Reilly Media, Inc.'s Privacy Policy is effective as of November 9, 2016.
 
@@ -190,11 +190,3 @@ O'Reilly's policy is to share your PI only if you have given us your consent, fo
 After obtaining such consent, O'Reilly may from time to time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs.
 
 If you no longer wish your information to be shared, or if you have questions regarding our information sharing practices, please let us know. You can email us at [privacy@oreilly.com](mailto:privacy@oreilly.com?subject=) .
-
-### 13\. Previous Versions
-
-This is version 2.1.
-
-For version 2.0 please [click here](http://www.oreilly.com/privacy-120214.html).
-
-For version 1.1 please [click here](http://www.oreilly.com/privacy-091415.html).
