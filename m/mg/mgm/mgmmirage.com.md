@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617172637id_/http%3A//www.mgmresorts.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623230550id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
 
 # MGM Resorts International Privacy Statement
 
@@ -10,6 +10,7 @@ ARIA Resort and Casino in Las Vegas, Nevada
 ARIA Sky Suites in Las Vegas, Nevada  
 Beau Rivage in Biloxi, Mississippi  
 Bellagio in Las Vegas, Nevada  
+Borgata Hotel Casino & Spa in Atlantic City, New Jersey  
 Circus Circus in Las Vegas, Nevada  
 Delano in Las Vegas, Nevada  
 Excalibur in Las Vegas, Nevada  
@@ -39,6 +40,8 @@ We collect information from a variety of sources and in a variety of ways, inclu
 **Contact Information.** When you visit MGM Resorts or MGM Web Sites you might provide us with contact and other personal information such as your name, date of birth, postal address, e-mail address, and telephone number.
 
 **Employment Application Information.** If you apply for a job with us, we might ask for certain information about you including, for example, your work and education history, and your profile/résumé. 
+
+**Vehicle Information.** When you park at MGM Resorts we may collect information about the vehicle you park including an image of the vehicle, and the vehicle's make, model, and license plate number.
 
 **Purchase and Transaction Information.** When you visit MGM Resorts or MGM Web Sites, we might collect information about your purchases, reservations, and gaming activity (in jurisdictions where gaming is permitted). 
 
@@ -80,7 +83,7 @@ We may share all of the information we collect (including Sensitive Information)
 
 ### A. Guestbooks
 
-By using our Guestbooks, you can view and update your contact information and choose which MGM Resorts and MGM Web Sites you are most interested in hearing from. You can also select from among various communications preferences including direct mail, e-mail, telemarketing, and text messaging. To use our Guestbooks, visit any MGM Web Site and select "E-mail Promotions" or "Guestbook." If you are an M life member, you may update your communications preferences by visiting www.mlife.com, logging in to your account, and selecting "My Account."
+By using our Guestbooks, you can view and update your contact information and choose which MGM Resorts and MGM Web Sites you are most interested in hearing from. You can also select from among various communications preferences including direct mail, e-mail, telemarketing, and text messaging. To use our Guestbooks, visit any MGM Web Site and select "Guest Services/Manage Preferences."
 
 ### B. How to Opt-Out
 
@@ -101,7 +104,7 @@ Even if you registered your telephone number on a do-not-call list, certain exem
 
 ## IV. YOUR CALIFORNIA PRIVACY RIGHTS
 
-California law requires certain businesses to respond to requests from California residents asking about the disclosure of personal information to third parties for third party marketing purposes. Alternately, such businesses may adopt a policy of not disclosing personal information to third parties for marketing purposes if a California resident has opted-out of such information-sharing. We have an opt-out policy in place. If you wish to opt-out of our sharing your personal information with third parties for marketing purposes, please follow the “How to Opt Out” instructions in Section III.B. above.
+California law requires certain businesses to respond to requests from California residents asking about the disclosure of personal information to third parties for third party marketing purposes. Alternately, such businesses may adopt a policy of not disclosing personal information to third parties for marketing purposes if a California resident has opted-out of such information-sharing. We have an opt-out policy in place. If you wish to opt-out of our sharing your personal information with third parties for marketing purposes, please follow the “How to Opt Out” instructions in Section III. B. above.
 
 ## V. SECURITY
 
@@ -117,7 +120,7 @@ In situations where your personal information is collected by third parties unde
 
 ## VI. OTHER WEB SITES
 
-We are not responsible for the information collection or privacy practices of other web sites, including web sites operated by our business partners or other third parties. You should review and understand the privacy policies posted on any linked sites you visit before using those sites or providing any personal information on them.
+We are not responsible for the information collection or privacy practices of other web sites, including web sites operated by our business partners or other third parties, including web sites that might be co-branded with our name. You should review and understand the privacy policies posted on any linked sites you visit before using those sites or providing any personal information through them.
 
 ## VII. PERSONS UNDER AGES 18 AND 21
 
@@ -127,4 +130,4 @@ Certain of our areas and activities are intended for persons 21 or older. If you
 
 We reserve the right to revise this Policy at any time without notice. When this Policy is revised in a material way, notice will be posted on the MGM Web Sites along with the revised Policy.
 
-EFFECTIVE: December 1, 2015
+EFFECTIVE: September 9, 2016
