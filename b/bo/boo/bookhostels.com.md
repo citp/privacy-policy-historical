@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookhostels.com privacy policy that was archived on 2016-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160515092107id_/http%3A//partners.hostelworld.com/security-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookhostels.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623085325id_/http%3A//partners.hostelworld.com/security-privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy Policy | Hostelworld.com Affiliate Program
 
