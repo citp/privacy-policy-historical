@@ -1,20 +1,55 @@
-> *The following text is extracted and transformed from the loop21.com privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217155555id_/http%3A//loop21.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loop21.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623090746id_/http%3A//loop21.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The purpose of providing the privacy policy of this website is to convey our users or visitors about gathering of content, usage, transfer of data by our website. Privacy of the visitors and users of the website is our prime concern, as the information required from our visitors need to be confidential. We bring all the privacy policies of the website to all our potential users, so that there may not be any misuse or misinterpretation or misrepresentation of the info provided. So, here are the conditions for our privacy policy and make sure that you go through it earlier using this website. The privacy policies may vary as we keep on updating the data. So it is recommended to check them periodically.
+This Privacy Policy governs the manner in which “Loop21” collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://loop21.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Loop21.
 
-**Log Files and Cookies**  
-Similar to all other websites “loop21.com” too uses the information limited in log files in terms of IP address, ISP, website browsers, entry/exit pages, number of page views etc. On the other hand, “loop21.com” uses cookies to store the data. However a cookie contains the personal information which the visitor provides. We may collect the data from the visitor that is required for us, whenever the visitor go through our website.
+**Personal Identification Information**  
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, subscribe to the newsletter, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**Access Control**  
-If you’re a registered user or subscriber to this website, it’s strongly suggested that you should keep your sanctioned data like ID’s and Passwords in a locked manner. As this is a news portal, you may need to offer your registration number or other information also. All these possessions are isolated to you only and kindly don’t reveal it outside in order to get uninterrupted service. If you feel like someone is retrieving your account from other peripheral source without your consent, you can contact us openly. This is the best method through which to solve your concerns.
+**Non-Personal Identification Information**  
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-**Confidentiality and Security**  
-In order to get the complete service, you want to make an account with us. To generate that you need to offer all accurate and complete data that is pertaining to you. We’re certifying to you that all such private information is worth full. If you provide incorrect data under any conditions, your account will be suspended without any preceding notifications.
+**Web Browser Cookies**  
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**User Submission**  
-“loop21.com” contains both static and dynamic services and sometime our server may ask you to offer or upload files. Make definite that those files are in their accurate format (text, image, PDF, audio or video) and should contain related information only that is required for your working process with this website. We won’t consider all those stuff that is not related and go against the rules.
+**How We Use Collected Information**  
+Loop21 may collect and use Users personal information for the following purposes:
 
-**Legal Objections and Clash**  
-As we stated in our “terms and conditions”, beneath our intellectual property rights and all the material that are presented here are private to us. You can trail our process, if you detect that something existing over here violates your copyright rules. As we are working and will be worked with a responded perceptive, for any kind of arguments that will take place out of all these terms and conditions, we will discuss together to solve it. We strongly recommend you to make contact with us before taking action, so that we will be able to pursue a judgment unswervingly.
+To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
+To improve our Site: We may use feedback you provide to improve our products and services.
+
+To run a promotion, contest, survey or other Site feature: To send Users information they agreed to receive about topics we think will be of interest to them.
+
+To send periodic emails: We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+
+**How We Protect Your Information**  
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+**Sharing Your Personal Information**  
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates andadvertisers for the purposes outlined above.
+
+**Third Party Websites**  
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+**Advertising**  
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+**Google Adsense**  
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+
+**Compliance With Children’s Online Privacy Protection Act**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+**Changes To This Privacy Policy**  
+Loop21 has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+**Your Acceptance Of These Terms**  
+By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+**Contacting Us**  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+
+loop21.com@gmail.com or via our contact page.
+
+This page was last updated on 12th june 2016.
