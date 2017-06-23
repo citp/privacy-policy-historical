@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the list-spark.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121023351id_/http%3A//list-spark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list-spark.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623105827id_/http%3A//list-spark.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
