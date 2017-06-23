@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviesite.co.za privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212225846id_/http%3A//moviesite.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesite.co.za privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623085655id_/http%3A//moviesite.co.za/privacy.htm) for the most accurate reproduction.*
 
-# The MovieSite — Privacy Policy
+# The MovieSite — Privacy policy
 
 We value your privacy. 
 
