@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209145527id_/http%3A//www.opensourcecms.com/general/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcecms.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623131449id_/http%3A//www.opensourcecms.com/general/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSourceCMS
 
