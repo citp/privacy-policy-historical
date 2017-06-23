@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabiza.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222163806id_/http%3A//kabiza.com/kabiza-wilderness-safaris/kabiza-wilderness-safaris-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabiza.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623082603id_/http%3A//kabiza.com/kabiza-wilderness-safaris/kabiza-wilderness-safaris-privacy-policy) for the most accurate reproduction.*
 
 # Kabiza Wilderness Safaris - Privacy Policy
 
