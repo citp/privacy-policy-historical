@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reelcinemas.ae privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121160017id_/http%3A//www.reelcinemas.ae/en/information/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reelcinemas.ae privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623020304id_/http%3A//reelcinemas.ae/en/information/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Reel Cinemas | Privacy Policy
+# 
 
 **When you provide us with information through this website, we respect your privacy. It is important for you to understand what we do with information we collect from you through this website. Your visit to this website is subject to this privacy policy.  **
 
