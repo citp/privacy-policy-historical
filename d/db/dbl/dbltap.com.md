@@ -1,80 +1,145 @@
-> *The following text is extracted and transformed from the dbltap.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbltap.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623085538id_/http%3A//www.dbltap.com/privacy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# DBLTAP - The next generation of esports media
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+Last modified on February 16, 2017.   
+We understand you want to keep your information private and that you value our emphasis on keeping your information safe and discrete. As a result we have drafted the following privacy policy (the "Policy") which ensures that you are adequately notified as to the ways in which we collect and use your information. This Policy is designed to help you decide whether to use the Service and in what manner, by outlining the restrictions we take upon ourselves in gathering, storing and using your information. 
 
-**What information do we collect?**
+This Policy is incorporated into, subject to and a part of the Service's Terms of Use. If you do not agree to this Policy, you may not and should not use the Service. The definitions in the Service's Terms of Use apply to this Policy unless stated otherwise. 
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+### User Content 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+We may store all User Content (as defined in the attached Terms of Use).   
+We may display your User Content in any part of the Service we see fit, as detailed in the Terms of Use.  
+If you send us an email we may retain said email and your email address. 
 
-**What do we use your information for?**
+Information Gathered from Facebook  
+When you access the Service we receive and store the following information from Facebook: Your user ID, profile name, gender, email address, hometown, date of birth, employment history, Facebook likes and Facebook friends. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+### Logs
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+As most sites do, our systems may automatically record and store technical information regarding the method and nature of your use of the Service including: page requests, actions, use time, platform type, operating system and browser information. This information may only be stored in an aggregated or statistical form and in no way can be attributed to a specific user. 
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+### What are Cookies?
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+In general, cookies are small text files which are downloaded to your device when you visit a website. The cookies are sent back to the originating website on each subsequent visit or are sent to another website that recognises the cookie. Cookies are useful because they allow a website to recognize a user’s device.  
+When you visit our site, two types of cookies may be set on your computer. The cookies set by us are called First Party Cookies. Third Party Cookies are the cookies set by someone else, such as service providers who help us operate and improve our site.
 
-• To process transactions
+### First Party Cookies
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+Our cookies are limited to authentication and basic service provision purposes:
 
-• To send periodic emails
+  * Cookies required to enable your access to the Service and to provide you with the services or content you have requested. These cookies expire at the end of each browsing session.  
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  * Cookies used to identify whether you are a registered user returning to the site. These cookies generally expire within two weeks.
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
-**How do we protect your information?**
+Our cookies contain an alphanumeric string allowing us to identify your device which does not contain any personally identifying information about you.  
+By using our site, you agree to let us place these cookies on your computer.
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+### Third Party Cookies
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+In addition to these first party cookies, you may also encounter cookies set by third parties for various purposes such as those specified below. Because we frequently update our site, add/ remove site features and change service providers on a regular basis, the identity of the third party serving cookies may change from time to time. We expect, however, that the following categories of third party cookies will typically be set by third parties when you use our site, depending on how you interact with our site:
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+  * **Social Networking Platform Cookies:** Cookies set by social networking platforms to enable social media logins or to facilitate the sharing and liking of site content on social networks;
+  * **Analytics and Performance Cookies:** Cookies used to help us analyse how people interact with our site so we can improve the site layout and features for users, to improve performance of the site, and to help us with site maintenance;
+  * **Content Recommendation Cookies:** Cookies set by service providers who recommend additional content to you while browsing our site
+  * **Targeting and Advertising Cookies:** Cookies used to target and deliver advertisements and to measure the effectiveness of advertising on the site.
 
-**Do we use cookies?**
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+These cookies will expire when set by the respective third party service provider.   
+By using our site, you agree to let third parties place cookies on your computer for one or more of the reasons specified above.
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+### Google Analytics and Display Advertising
 
-**Do we disclose any information to outside parties?**
+We are currently using Google Analytics on our site and have implemented the following Google Analytics features based on Display Advertising: 
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+**Google Display Network Impression Reporting  
+DoubleClick Campaign Manager Integration**
 
-**Online Privacy Policy Only**
+  * We, together with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick Cookie) to report how our ad impressions, use of ad services, and interactions with these ad impressions and ad services are related to visits to our site. 
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
 
-**Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+**Google Analytics Demographics and Interest Reporting**
 
-**Your Consent**
+  * We use data from Google’s interest-based advertising or 3rd-party audience data with Google Analytics to better understand the demographics of users on our site. This allows us to provide more relevant and interesting content to users. 
 
-By using our site, you consent to our web site privacy policy. 
 
-**Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+You can opt-out of Google Analytics for Display Advertising and customize Google’s Display Network ads by using Google’s Ads Settings (<https://www.google.com/settings/ads>). Google also offers additional tools which you can use to manage opt-outs for Google Analytics ([https://tools.google.com/dlpage/gaoptout](https://www.google.com/settings/ads)). 
 
-This policy was last modified on 1/10/2012 
+### Global Opt-out Initiatives
 
-**Contacting Us**
+You can also learn more about third party cookies and opt out of many different types of third party cookies by visiting the following sites: 
 
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+### Information Disclosure and Use
 
-HugeDomains.com
+We may use the information we gather and store as described in this Policy solely, or disclose it to third parties solely to provide, maintain and improve the Service, its quality and design, including without limitation to saving you the trouble of re-entering data and queries, personalising and customising the Service, and generating statistics regarding the Service.
+
+Other than specifically stated in these Terms of Use, we do not share information with any third party. 
+
+We may, by ourselves or through a third party, send you social network or e-mail messages for non-marketing, administrative or customer services purposes. You can control receipt of certain messages through your settings page in the Service.
+
+Any third party to which we disclose information will be bound by this Privacy Policy. 
+
+### No Obligation to Store Information
+
+Nothing in this Policy is interpreted as an obligation to store information, and we may, at our own discretion, delete or avoid from recording and storing any and all information. 
+
+You shall have no claim against us for deleting information, avoiding from retrieving and storing or not complying with any information request, including court orders and warrant by authorised entities, because the requested information was deleted or not stored by us and is unavailable to us. 
+
+We may store information in locations outside our direct control. 
+
+### Non-Restricted Information Disclosure
+
+Notwithstanding anything to the contrary stated herein, we may: 
+
+  * Disclose non personally identifiable information to third parties who have an interest in the Service, its functionality and its usage patterns;
+  * Disclose information to third parties as part of a specific program to which you will have the ability to opt-in;
+  * Disclose any information if we are required to do so by law or to aid a law enforcement agency in the prevention of a crime;
+  * Disclose any information in good faith and to the minimum extent required in legal proceedings to which we are a party, including without limitation, proceedings initiated by us;
+  * Disclose any information in good faith and to the minimum extent required to third parties who are requested by us to investigate allegations made against us, to protect the data security, integrity and/or operability of the Service or to protect our rights.
+
+
+
+### Removal and Correcting Information
+
+If you have any privacy concerns or issues or want us to delete or change information regarding you in the Service, our data storage and other users' smartphones, please email care@dbltap.com  
+
+
+### Information Warranty Disclaimer
+
+Notwithstanding anything else in this Policy, we are not responsible for the accuracy, correctness and security of any of the information we gather, store and disclose to you or to anyone else. 
+
+### Third Party Advertisements
+
+We use advertisements to fund the Service, which are placed, served, managed, operated and distributed by third parties (specialised ad industry companies) within the Service.
+
+Aside from non-identifiable information given to them, these third party companies use designated technologies (NOT including cookies) which are not under our control or knowledge, in order to measure, improve and personalise their ad activity and effectiveness. 
+
+### Data Security
+
+We place great emphasis on the security and integrity of your information and the data stored in our systems. 
+
+The Service is provided under the best commercially reasonable data security practices in order to prevent unauthorised access, disclosure, alteration or deletion of any and all information stored in our systems.
+
+You acknowledge, however, that no such effort can completely guarantee the security of the stored data, that breaches of security are still a possibility both regarding our systems and that a data security breach resulting in unauthorised access to your information can occur in third party systems (for example, ISP's and hosting services providers). 
+
+As a result, we do NOT warrant or ensure the integrity and security of the data stored in its systems, including without limitation your information. 
+
+We shall notify any user whose information is suspected of being accessed, disclosed, altered or deleted by an unauthorised person, so that he can take appropriate measure to minimise the adverse effect of such a data security breach (Breach Notification). Such Breach Notification will be given in a reasonable time after we learn of said breach, unless we deem, at our sole discretion, that such Notification might hinder and prevent ongoing efforts to detect the source of the breach.
+
+For the avoidance of doubt, a Breach Notification does NOT constitute an admission by us that the breach occurred as a result of malpractice, failure, bad faith or negligence on our behalf or that the breach even occurred in our systems. 
+
+### Change of Ownership 
+
+In the event of a change of ownership or control of all or part of the Service, including without limitation through acquisition, merger or sale, we reserve the right to sell all or part of the personal information it stores in its systems.
+
+You acknowledge that in the event of bankruptcy, insolvency or receivership, we may have no control over the use and transfer of your personal information. 
+
+### Changes to this Privacy Policy
+
+This Policy may be revised from time to time at our sole discretion. The last revision will be reflected in the "Last modified by" heading above. Please visit this page periodically for updates. Continuing to use the Service continues your acceptance of changes. 
