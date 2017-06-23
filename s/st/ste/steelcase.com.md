@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106123339id_/https%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steelcase.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624005359id_/https%3A//www.steelcase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Steelcase
 
-_Last revised and updated:  March 4, 2015_
+_Last revised and updated:  March 6, 2017_
 
 #### Introduction
 
-Steelcase Inc., a Michigan corporation, with a registered mailing address at 901 44th Street SE, Grand Rapids, Michigan 49508 USA ( **“** Company **“** , **“** we **”** or “us”), respect your privacy and we are committed to protecting it through our compliance with this policy. 
+Steelcase Inc. ( **“** Company **“** , **“** we **”** or “us”), respects your privacy and we are committed to protecting it through our compliance with this policy. 
 
 This policy describes the types of information we may collect from you or that you may provide when you visit[ www.steelcase.com](https://www.steelcase.com/) (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
@@ -15,8 +15,6 @@ This policy applies solely to information we collect on this Website and in e-ma
 Please read this policy carefully to understand our current policies and practices regarding your information and how we will treat it. BY SUBMITTING PERSONAL INFORMATION TO US OR BY ACCESSING OR USING THIS WEBSITE, YOU GIVE YOUR CONSENT THAT ALL PERSONAL INFORMATION THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSE DESCRIBED IN THIS PRIVACY POLICY, AND YOU AFFIRM THAT YOU ARE EITHER MORE THAN 18 YEARS OF AGE, OR POSSESS LEGAL PARENTAL OR GUARDIAN CONSENT, AND THAT YOU ARE FULLY COMPETENT TO CONSENT TO THIS POLICY.
 
 This policy may change from time to time as set out below under _Changes to our Privacy Policy_. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy frequently for updates.
-
-Steelcase complies with the European and international legal framework, and more precisely with the European Directive 95/46/CE, and the U.S.–EU Safe Harbor Framework and the U.S.–Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. To learn more about the Safe Harbor program, and to view Steelcase’s certification, please visit[ http://www.export.gov/safeharbor/](http://www.export.gov/safeharbor/). Information about Steelcase’s participation in Safe Harbor can be found in the section set out below entitled “Safe Harbor Participation.”
 
 #### Children’s Privacy
 
@@ -49,7 +47,9 @@ To comply with current legislation, we need to ask for your consent to set the p
 
 #### How We Use Your Information
 
-We use information that we collect about you or that you provide to us, including any personal information for the following purposes: (a) to present our Website and its contents to you; (b) to provide you with information, products or services that you request from us; (c) to analyze and improve our products and services; and (d) to market Steelcase products and services.
+We use information that we collect about you or that you provide to us, including any personal information for the following purposes: (a) to present our Website and its contents to you; (b) to provide you with information, products or services that you request from us; (c) to analyze and improve our products and services; and (d) to market our products and services.
+
+We retain personal information for as long as necessary to provide the products or services and fulfill the transactions you have requested, or for other essential purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements.
 
 #### Disclosure of Your Information
 
@@ -72,6 +72,10 @@ We strive to provide you with choices regarding the personal information you pro
 
 You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an e-mail using the [“Contact Us” form](https://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/] to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
 
+#### Where We Store and Process Your Information
+
+Given the global nature of our business and the centralization of certain business activities, personal information may be stored and processed internally at different group levels (e.g., global, regional, and local) for lawful purposes where Company or its affiliates, subsidiaries or service providers maintain facilities. We recognize that the EU/EEA countries have an omnibus data protection regime that generally restricts the transfer of personal information about individuals in the EU to the United States and certain other countries, unless there is “adequate protection” for such information when it is received. To address this restriction and equal restrictions in other countries or regions, we apply a consistent set of rules to all transfers of personal information amongst Company entities regardless of their location whether within or outside of the EU/EEA countries. To provide adequate protection for transfers of personal information, Company along with its affiliates, subsidiaries or service providers enter into the Standard Contractual Clauses for the Transfer of Personal Data to Third Countries (“Model Contract”) pursuant to European Commission Decision 2004/915/EC of 27 December 2004.
+
 #### Data Security
 
 We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions will be encrypted using SSL technology.
@@ -86,38 +90,10 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 #### Contact Information
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: our [“Contact Us” form](https://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/], or via our toll-free number: 800.333.9939.
+To ask questions or comment about this privacy policy and our privacy practices, please contact us by using our [“Contact Us” form](https://www.steelcase.com/contact-us/) [www.steelcase.com/contact-us/]. We will respond to questions or concerns within 30 days.
 
-#### **  
-** Safe Harbor Participation
+Unless otherwise stated, Steelcase Inc. is the data controller for personal information we collect through the Website and other means subject to this policy. Our address is Steelcase Inc., Attn: Privacy Officer, 901 44th Street SE, Grand Rapids, Michigan 49508 USA. Telephone toll-free: 800-333-9939.
 
-We recognize that the European Union (“EU”) has an “omnibus” data protection regime established pursuant to the European Data Protection Directive (95/46/EC) (the “Directive”). The Directive generally restricts the transfer of personally identifiable information about individuals in the EU to the United States, unless there is “adequate protection” for such information when it is received in the United States. To address this restriction and equal restrictions in Switzerland, we adhere to Safe Harbor with respect to personally identifiable information about individual contacts for our customers, dealers and vendors in the EU and Switzerland (“EU and Swiss Personal Information”) for the purposes described below, as well as for our employees in the EU and Switzerland. Employees in the EU and Switzerland are provided with information regarding Steelcase’s employee data privacy practices and Safe Harbor via a separate policy.  
+Steelcase France is our data protection representative for the European Economic Area and Switzerland. The data protection officer of Steelcase France can be reached at: Steelcase S.A., Attn: Data Protection Officer, Espace Europeen de l’Enterprise, Schiltigheim 67300 France.
 
-
-#### Collection, Use, and Disclosure of EU and Swiss Personal Information 
-
-Steelcase collects, uses, and discloses EU and Swiss Personal Information in the ordinary course of its business. In particular, Steelcase may obtain in the US the following types of EU and Swiss Personal Information about individual contacts for customers, dealers, and vendors (“EU and Swiss Data Subjects”): name, work contact information (phone, fax, address, and email address); and job title.
-
-Steelcase may disclose EU and Swiss Personal Information to its affiliates, subsidiaries, business partners, and service providers for the purposes listed above. In situations where Steelcase discloses EU and Swiss Personal Information to any third parties acting as service providers or “agents” on behalf of Steelcase, Steelcase will require the recipient to protect the disclosed EU and Swiss Personal Information in accordance with the relevant Safe Harbor Principles, or otherwise take steps to ensure that the EU and Swiss Personal Information is appropriately protected in accordance with their respective data privacy laws. With respect to any sharing of EU and Swiss Personal Information for purposes of marketing Steelcase products and services, Steelcase obtains warranties that its affiliates, subsidiaries, business partners and service providers will use and disclose as relevant such EU and Swiss Personal Information only for the purposes listed above. In certain situations, EU and Swiss Data Subjects may seek to opt-out of disclosures of their EU and Swiss Personal Information or should they wish to know where these data recipient are located, please contact Steelcase at safeharbor@steelcase.com. 
-
-#### Data Processor Activities 
-
-In certain situations, Steelcase may obtain access to information about its customers’ employees and other end users in the EU and Switzerland for the purpose of providing consulting services about office furniture configuration and other matters for such customers (“EU and Swiss Processor Information”). These customers act as the data controller for any EU and Swiss Processor Information collected in the EU and Switzerland and subsequently transferred to Steelcase in the United States. Steelcase acts as a data processor on behalf of its customers with respect to such EU and Swiss Processor Information and accordingly carries out their instructions with regard to the collection, processing, and protection of EU and Swiss Processor Information. 
-
-#### Data Security, Integrity and Access 
-
-Steelcase takes reasonable precautions to protect EU and Swiss Personal Information from loss, misuse and unauthorized access, disclosure, alteration and destruction. Steelcase makes reasonable efforts to keep EU and Swiss Personal Information reliable for its intended use, accurate, current and complete. Steelcase also provides EU and Swiss Data Subjects with the opportunity to access, review, delete and correct their own EU and Swiss Personal Information, and otherwise provides such individuals’ access to EU and Swiss Personal Information. Individuals may contact the Steelcase Safe Harbor Privacy Contact identified below to review EU and Swiss Personal Information about them or to object for legitimate purposes. However, for Processor Information such individuals may first wish to contact their own company with questions regarding EU and Swiss Personal Information shared with Steelcase, as that might be the most efficient means of addressing such issues. Steelcase reserves the right to take reasonable steps to authenticate the identity of any such individual seeking access to EU and Swiss Personal Information. 
-
-#### Other Disclosures __
-
-Steelcase may disclose EU and Swiss Personal Information as necessary in connection with the sale or transfer of all or part of its business, where required or permitted by law, where Steelcase believes that such disclosures are appropriate in connection with a law enforcement request or otherwise permitted by Safe Harbor, or in order to investigate, prevent or take action regarding illegal activities or suspected fraud or enforce or apply Steelcase agreements. 
-
-#### Questions 
-
-Any questions regarding this Safe Harbor section of this Privacy Policy or requests for access to EU and Swiss Personal Information should be directed to the Safe Harbor Privacy Contact listed in this section. Additional information may be obtained on the US Department of Commerce website at http://www.export.gov/safeharbor. In addition, if any individual located in the EU or Switzerland experiences an issue regarding the EU and Swiss Personal Information that Steelcase holds about him or her, the individual may contact the local data protection authority for further information. 
-
-Safe Harbor Privacy Contact
-
-[safeharbor@steelcase.com](mailto:safeharbor@steelcase.com)
-
-Copyright © 1996-2015 Steelcase Inc.  All rights reserved.
+Copyright © 1996-2017 Steelcase Inc.  All rights reserved.
