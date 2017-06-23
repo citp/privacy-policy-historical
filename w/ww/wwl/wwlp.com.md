@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wwlp.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214133346id_/http%3A//wwlp.com/2014/01/23/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwlp.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623183223id_/http%3A//wwlp.com/2014/01/23/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WWLP.com
 
-**Media General, Inc.**  
-**Effective Date** : February 18, 2016  
+**Nexstar Broadcasting, Inc.**  
+**Effective Date** : February 18, 2016  
 **Related** : [Terms of Use](https://web.archive.org/terms-of-use)
 
-Media General, Inc., together with its Affiliates (collectively, “we,” “us,” or “our”), offers this website (the “Site”) and all related mobile or desktop applications (the “Applications,” and, together with the Site, the “Properties”), including without limitation all content, materials, information, software, products and services available on the Properties, to you, the user, conditioned upon your acceptance of this Privacy Policy. This Privacy Policy sets forth our online information collection practices. Specifically, it outlines the types of information that we gather from and about you while you are using the Properties and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us or that we may collect offline or through other means (for example, at a live event, via telephone, or through the mail).
+Nexstar Broadcasting, Inc., together with its Affiliates (collectively, “we,” “us,” or “our”), offers this website (the “Site”) and all related mobile or desktop applications (the “Applications,” and, together with the Site, the “Properties”), including without limitation all content, materials, information, software, products and services available on the Properties, to you, the user, conditioned upon your acceptance of this Privacy Policy. This Privacy Policy sets forth our online information collection practices. Specifically, it outlines the types of information that we gather from and about you while you are using the Properties and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us or that we may collect offline or through other means (for example, at a live event, via telephone, or through the mail).
 
 Please read this Privacy Policy carefully. By visiting or using the Site or the Applications, you agree to and accept the terms of this Privacy Policy and our Terms of Use, which are incorporated herein by reference. If you do not agree to the terms of this Privacy Policy, you must immediately discontinue your use of the Properties.
 
@@ -16,7 +16,7 @@ We reserve the right to change this Privacy Policy at any time. If we make chang
 
 We may collect and store certain information about you that you voluntarily submit to us when you use the Properties. For example, we may collect information about you when you contact us using forms available through the Properties, sign up to receive communications from us, post information or content in publicly-accessible areas of the Properties, or enter a contest available through the Properties. For purposes of this Privacy Policy, information that can be used to identify or locate you, including without limitation your name, phone number, mailing address, email address, and geolocation data, is called “Personal Information.” Personal Information does not include de-identified or anonymized statistical or aggregated data about users or any information that you post in publicly-accessible areas of the Properties (such as message boards, blogs, or chat rooms) or otherwise publicly disclose on the Properties. Please keep in mind that whenever you voluntarily make any information available in publicly-accessible areas of the Properties, the content that you post can be seen, collected and used by other third parties. You acknowledge and agree that we are not responsible for any third-party use of such information.
 
-We may also automatically collect and store certain information as you navigate the Properties. When you use the Site, we may use a standard feature found in browser software called “cookies.” Cookies are small files that your web browser places on your hard drive for record-keeping purposes. If you object to the use of cookies, please consult your browser’s documentation for instructions on how to disable or delete them or contact us at [privacypolicy@mediageneral.com](mailto:privacypolicy@mediageneral.com). You should be advised, however, that cookies are required for certain functions of the Properties and if you disable or delete them, you may not be able to access or use certain functions.
+We may also automatically collect and store certain information as you navigate the Properties. When you use the Site, we may use a standard feature found in browser software called “cookies.” Cookies are small files that your web browser places on your hard drive for record-keeping purposes. If you object to the use of cookies, please consult your browser’s documentation for instructions on how to disable or delete them or contact us at [PrivacyAdministrator@nexstar.tv](mailto:PrivacyAdministrator@nexstar.tv). You should be advised, however, that cookies are required for certain functions of the Properties and if you disable or delete them, you may not be able to access or use certain functions.
 
 The Properties also may use web beacons (single-pixel graphic files also known as “clear GIFs”) to recognize users, access cookies, or to count users who visit the Properties or open HTML-formatted email messages. You may stop the use of some web beacons by turning off your browser’s cookies.
 
@@ -70,7 +70,7 @@ The provisions of this Privacy Policy relating to the collection and retention o
 
 #### HOW TO VIEW, MODIFY OR DELETE YOUR INFORMATION
 
-If you have subscribed to our email newsletters, you may unsubscribe by clicking on the “unsubscribe” link at the bottom of any email that you receive from us. Otherwise, if you wish to change your subscriber information, modify your subscriptions, or view, modify, or delete any Personal Information that you have submitted to us, please contact us at [privacypolicy@mediageneral.com](mailto:privacypolicy@mediageneral.com). Please be advised that you are responsible for notifying us in the event your mobile phone number changes or is deactivated.
+If you have subscribed to our email newsletters, you may unsubscribe by clicking on the “unsubscribe” link at the bottom of any email that you receive from us. Otherwise, if you wish to change your subscriber information, modify your subscriptions, or view, modify, or delete any Personal Information that you have submitted to us, please contact us at [PrivacyAdministrator@nexstar.tv](mailto:privacypolicy@mediageneral.com). Please be advised that you are responsible for notifying us in the event your mobile phone number changes or is deactivated.
 
 #### INFORMATION RETENTION
 
@@ -82,4 +82,4 @@ We employ certain physical, administrative, and technical measures in an attempt
 
 #### QUESTIONS REGARDING PRIVACY
 
-If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you may contact us at [privacypolicy@mediageneral.com](mailto:privacypolicy@mediageneral.com).
+If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you may contact us at [PrivacyAdministrator@nexstar.tv](mailto:privacypolicy@mediageneral.com).
