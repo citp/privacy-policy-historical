@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbez.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042544id_/https%3A//www.chicagopublicmedia.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbez.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623150503id_/https%3A//www.chicagopublicmedia.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chicago Public Media
 
@@ -18,7 +18,7 @@ We use this information to aid the technical administration of the Sites and to 
 
 We may track your visit to sections of our Sites in order for some site features to function properly for you. In some instances, “cookies” or a similar technology may be used to update your registration records with session information. If you do not wish to accept a cookie from our servers, you can adjust the settings on your browser accordingly. Refusing to accept cookies from our server may result in some limits on the benefits that we can provide to you via the Sites.
 
-Our sites utilize remarketing services through Google Adwords and other vendors to help us better serve our audience. Based on information that we automatically collect and information that you provide to us, we may display targeted banner ads tailored to you based on your previous interactions with our sites. Google may also display targeted ads tailor made for you on outside sites based on your previous interactions with our sites. We may also send you an email encouraging you to complete a previously abandoned donation form, or to return to a previously visited website offering events or content, both audio and digital. You may opt out of Google Remarketing Ads on Google’s website.
+Our sites utilize remarketing services through Google Adwords and other vendors to help us better serve our audience. Based on information that we automatically collect and information that you provide to us, we may display targeted banner ads tailored to you based on your previous interactions with our sites. Google may also display targeted ads tailor made for you on outside sites based on your previous interactions with our sites. We may also send you an email encouraging you to complete a previously abandoned donation form, or to return to a previously visited website offering events or content, both audio and digital. To opt-out of certain third party tracking, including Google, please [click here](http://optout.aboutads.info/).
 
  **PERSONAL INFORMATION**
 
