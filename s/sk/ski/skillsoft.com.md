@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042205id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623095823id_/http%3A//www.skillsoft.com/privacy.asp) for the most accurate reproduction.*
 
 # Skillsoft Privacy Policy and Cookies Statement
 
-Last Updated: September 22, 2015
+Last Updated: November 22, 2016
 
 1\. OUR COMMITMENT TO YOUR PRIVACY
 
 [](https://privacy.truste.com/privacy-seal/SkillSoft-Corporation/validation?rid=513e1e08-8b75-4263-a7b1-70844667339e "TRUSTe European Safe Harbor certification")
 
 Skillsoft Corporation is a wholly-owned subsidiary of Skillsoft Limited and is the entity that primarily controls the Web Site. Skillsoft Limited and its subsidiaries and affiliates ("Skillsoft") are committed to respecting your privacy. This privacy policy and statement of cookie use (the "Privacy Policy") discloses our privacy practices and expresses our commitment to keeping you informed of the information we collect and how it is used. We ask that you take time to read it carefully. We may update this Privacy Policy from time to time to reflect new uses, rules, regulations or technologies that impact your privacy. We recommend that users review our Privacy Policy on a routine basis to view any changes. This Privacy Policy will be continuously assessed against new technologies and business practices. This Privacy Policy applies to and governs data collection and usage at www.skillsoft.com, including the content, features, and any microsites, blogs and discussion groups that are a part of www.skillsoft.com (the "Web Site"). The Web Site includes certain pages hosted by third party service providers, which are branded to look like www.skillsoft.com and collect personally identifiable information and perform other tasks on behalf of Skillsoft ("Branded Sites"). These Branded Sites are governed by this Privacy Policy unless indicated otherwise on the Branded Site. Please read this Privacy Policy in its entirety. IF YOU DO NOT AGREE WITH OUR PRIVACY POLICY, THEN DO NOT USE THIS WEB SITE. This Privacy Policy is incorporated into the terms of use for the Web Site [www.skillsoft.com/terms.asp](http://www.skillsoft.com/terms.asp).
-
-Skillsoft has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-The TRUSTe program certification is limited to only that personally identifiable information collected through Skillsoft.com.
 
 Skillsoft complies with the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of data from the European Union and Switzerland, respectively. Skillsoft has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program and to view Skillsoft's certification please visit: <http://www.export.gov/safeharbor/>.
 
@@ -98,9 +94,9 @@ By using the Web Site, you signify your assent to our Privacy Policy. If you do 
 
 We welcome your comments. Should you have any questions or concerns about our Privacy Policy, please contact us: via e-mail at [support@skillsoft.com](mailto:support@skillsoft.com), by telephone at (866) 754-5435, or by mail to: Skillsoft, Attn: Skillsoft Legal Department, 107 Northeastern Boulevard, Nashua, NH 03062. If you have any questions or concerns about personally identifiable information with regards to employment applications please contact our human resources department by telephone at (603) 324-3001 extension 3312.
 
-If you feel that Skillsoft is not abiding by this Privacy Policy, you should first contact us by the means listed above. If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. TRUSTe will then serve as a liaison with the Company to resolve your concerns.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-Last Updated: September 22, 2015
+Last Updated: November 22, 2016
 
   
 
