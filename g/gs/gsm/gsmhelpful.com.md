@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gsmhelpful.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221121215id_/http%3A//www.gsmhelpful.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmhelpful.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623070135id_/http%3A//www.gsmhelpful.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy / Gsm HelpFul | Best HelpFul Site for GSM
+# Privacy Policy / Gsm Helpful | All You Need for Mobile Flashing & GSM
 
 Privacy Policy– Terms Of Use  
 
