@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the harman.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225152040id_/http%3A//www.harman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harman.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623132159id_/http%3A//www.harman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harman
-
-### 
 
 **PRIVACY POLICY**
 
@@ -67,7 +65,7 @@ Please note that if you have unsubscribed from our communications, you may still
 
 **Online Tracking:**
 
-A cookie is a small removable data file that is stored by your web browser on your computer. Harman or its third-party vendors may use cookies to improve your experience with our website and show you ads based on past visits to our website. Harman may use cookies to improve Harman’s understanding of your likes and dislikes about our website, what you like and do not like on our website, customize the website to your prior uses and to generally improve all customer needs and interests.  You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. You may also delete cookies from your computer or opt out of a third party’s use of cookies by visiting the Network Advertising Initiative opt-out page at [ http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices)
+A cookie is a small removable data file that is stored by your web browser on your computer. Harman or its third-party vendors may use cookies to improve your experience with our website and show you ads based on past visits to our website. Harman may use cookies to improve Harman’s understanding of your likes and dislikes about our website, what you like and do not like on our website, customize the website to your prior uses and to generally improve all customer needs and interests.  You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. You may also delete cookies from your computer or opt out of a third party’s use of cookies by visiting the Network Advertising Initiative opt-out page at [ http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices)
 
 **DO NOT TRACK DISCLOSURES**
 
@@ -83,7 +81,7 @@ Harman engages the use of numerous technological security measures to preserve t
 
 **TRANSFERRING YOUR INFORMATION OVERSEAS:**
 
-If you are located outside of the United States, Harman may transfer your information to Harman’s affiliates under the same control as Harman, to other service providers or distributors outside of your country or territory. Harman manages its website from the United States. Harman acknowledges that the data protection laws and other laws of the United States may not be as comprehensive as those of your country or territory and Harman will take steps to ensure that your privacy rights are respected.  When transferring personal data outside of the European Union, we require all third parties that are not Harman affiliates to agree to the [EU Model Contracts](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm), or contracts with similar provisions and safeguards.
+If you are located outside of the United States, Harman may transfer your information to Harman’s affiliates under the same control as Harman, to other service providers or distributors outside of your country or territory. Harman manages its website from the United States. Harman acknowledges that the data protection laws and other laws of the United States may not be as comprehensive as those of your country or territory and Harman will take steps to ensure that your privacy rights are respected.  When transferring personal data outside of the European Union, we require all third parties that are not Harman affiliates to agree to the [EU Model Contracts](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm), or contracts with similar provisions and safeguards.
 
 **CHILDREN'S PRIVACY:**
 
