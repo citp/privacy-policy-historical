@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the film4.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129012527id_/http%3A//www.channel4.com/4viewers/privacy%3Fintcmp%3Dfooter_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the film4.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623154233id_/http%3A//www.channel4.com/4viewers/privacy%3Fintcmp%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Channel 4 - 4viewers
 
@@ -22,7 +22,7 @@ To be able to do these things, it’s important we collect and analyse data incl
 
 **Should I read any other information or terms?**
 
-Whenever you use the digital products and services within All 4, information may be collected through the use of cookies so you should read our Cookies Policy ([www.channel4.com/4viewers/cookies](http://www.channel4.com/4viewers/cookies)) for more information about this. You should also see our Viewer Promise, ([www.channel4.com/4viewers/viewer-promise](http://www.channel4.com/4viewers/viewer-promise)) which sets out Channel 4’s general approach to data. If you’re interested in the legal stuff, we recommend visiting the Information Commissioner’s Office website ([www.ico.org.uk](https://web.archive.org/web/20161129012533id_/http://www.channel4.com/4viewers/www.ico.org.uk)). The ICO regulates data protection and e-privacy in the UK so there is lots of useful guidance about this on their website.
+Whenever you use the digital products and services within All 4, information may be collected through the use of cookies so you should read our Cookies Policy ([www.channel4.com/4viewers/cookies](http://www.channel4.com/4viewers/cookies)) for more information about this. You should also see our Viewer Promise, ([www.channel4.com/4viewers/viewer-promise](http://www.channel4.com/4viewers/viewer-promise)) which sets out Channel 4’s general approach to data. If you’re interested in the legal stuff, we recommend visiting the Information Commissioner’s Office website ([www.ico.org.uk](https://ico.org.uk/)). The ICO regulates data protection and e-privacy in the UK so there is lots of useful guidance about this on their website.
 
 **What are Channel 4’s privacy principles and what is the Viewer Promise?**
 
@@ -66,7 +66,7 @@ Occasionally, we may also use your address to tell you about relevant Channel 4 
 
 We may also ask you for other information from time to time, when you enter a competition, for example. This might include your full address and contact telephone number, for example, so that we can make sure a competition prize gets to you if you’re a winner.
 
-• Information we collect using cookies or similar technologies stored on your device about how you use the digital products and services within All 4. Cookies are very useful and do lots of different jobs that help to make your experience on websites as smooth as possible. For example, they let you move between web pages efficiently, remembering your preferences, and generally improve your user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. We provide much more information about how we use cookies and other similar technologies in our Cookies Policy ([www.channel4.com/4viewers/cookies](https://web.archive.org/web/20161129012533id_/http://www.channel4.com/4viewers/www.channel4.com/4viewers/cookies)).
+• Information we collect using cookies or similar technologies stored on your device about how you use the digital products and services within All 4. Cookies are very useful and do lots of different jobs that help to make your experience on websites as smooth as possible. For example, they let you move between web pages efficiently, remembering your preferences, and generally improve your user experience. They can also help to ensure that adverts you see online are more relevant to you and your interests. We provide much more information about how we use cookies and other similar technologies in our Cookies Policy ([www.channel4.com/4viewers/cookies](http://www.channel4.com/4viewers/cookies)).
 
 • Information provided by other companies (such as advertisers you may have bought a product from or other reputable data sources) who have obtained your permission to share information about you. If advertisers want to advertise to you, or people like you, using the digital products and services within All 4 they may provide us with information about you to help us target their advertising.
 
@@ -176,7 +176,7 @@ If you have any questions or concerns about privacy issues, you can use the form
 
 If you would like to know what personal information Channel 4 holds about you, you may make a request to Channel 4 for copies of this information. You should be aware that we will need to see proof of identity before processing any such request (known as a ‘subject access request’) and may charge an administration fee of up to £10 to cover our costs in providing you with this information.
 
-All subject access requests should be made in writing and addressed to Channel 4 Enquiries, PO Box 1058, Belfast, BT1 9DU. Alternatively, you can use the form on our ‘Contact us’ page which can be found here – [www.channel4.com/4viewers/contact-us](https://web.archive.org/web/20161129012533id_/http://www.channel4.com/4viewers/www.channel4.com/4viewers/contact-us)
+All subject access requests should be made in writing and addressed to Channel 4 Enquiries, PO Box 1058, Belfast, BT1 9DU. Alternatively, you can use the form on our ‘Contact us’ page which can be found here – [www.channel4.com/4viewers/contact-us](https://www.channel4.com/4viewers/contact-us)
 
 **Changes to this policy**
 
