@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bizrate-partner.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224356id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizrate-partner.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623143759id_/http%3A//about.bizrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - About Bizrate
 
 ### Shopzilla, Inc. Privacy Policy
 
-Effective Date & Last Modified November 11, 2014.
+Effective Date & Last Modified April 20, 2017.
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES. BY ACCESSING OR USING OUR WEBSITE OR OUR SERVICES (OTHER THAN TO READ THIS PRIVACY POLICY FOR THE FIRST TIME), YOU AGREE TO THIS PRIVACY POLICY. 
 
@@ -12,7 +12,7 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING OUR WEBSITES OR SERVICES.
 
 This Privacy Policy tells you the types of information we collect when you use our Sites or Services, how we use that information, and the instances in which we share your information. 
 
-Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopzilla.com, BizRate.com, beso.com and other websites (“Sites”), and provides other online services ("Services"). As we are based in the United States of America, your information will be transmitted to, held and processed by us there in accordance with this Privacy Policy. 
+Shopzilla, Inc. ("Shopzilla") operates online shopping websites, including Shopzilla.com, BizRate.com, Pricegrabber.com, beso.com and other websites (“Sites”), and provides other online services ("Services"). As we are based in the United States of America, your information will be transmitted to, held and processed by us there in accordance with this Privacy Policy. 
 
 **SUMMARY OF KEY PRINCIPLES **
 
@@ -37,7 +37,7 @@ We thought it would be helpful to set out briefly the key ways in which we use y
 
 We collect two kinds of information related to you: (a) Personally Identifiable Information (“PII”); and (b) Non-Personally Identifiable Information (“Non-PII”). 
 
-**(a) Personally Identifiable Information:   ** PII includes any information that identifies you as person.   We collect your PII when you choose to register with us or when you choose to participate in an interactive feature of our Sites such as a review, survey or promotion.   You may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Sites or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or (c) post a general comment and/or recommendation on our Sites. 
+**(a) Personally Identifiable Information:   ** PII includes any information that identifies you as person.   We collect your PII when you choose to register with us or when you choose to participate in an interactive feature of our Sites such as a review, survey or promotion.   You may: (a) potentially provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Sites or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, shopping interests and preferences, etc.) when participating in a survey or poll; or (c) post a general comment and/or recommendation on our Sites. 
 
 **(b)   Non-Personally Identifiable Information: **   Non-PII is any information that does not identify you as a person including PII which has been rendered anonymous.   We obtain non-PII either separately or together with your PII as described above. We collect certain non-PII from you when you access our Sites including IP addresses and information relating to your browser, operating system, ISP, the third party website from which your visit originated and how you use our Sites such as the web pages you visit, and the duration of your visits. 
 
@@ -50,22 +50,22 @@ We may disclose PII and Non-PII to:
 
 (1) our third party service providers who perform functions on our behalf in connection with the operation of the Sites or Services e.g., providers who host and manage data, process credit card orders, deliver our merchandise, etc;  
 
- (2) participating sponsors to a program or promotion you enter through our Sites or Services; 
+(2) participating sponsors to a program or promotion you enter through our Sites or Services; 
 
 (3)our parent company, subsidiaries or other affiliated companies (“ affiliated companies”) for operational, marketing and promotional purposes; 
 
-(4) co-promotional partners and others with whom we have marketing or other relationships ;   
+(4) co-promotional partners and others with whom we have marketing or other relationships, who may already have non-PII or PII about you;   
 
 
 (5) participating merchants where you consent at the time you submit PII to us when using the interactive features of our Sites such as surveys and reviews concerning our participating merchants; and
 
 (6) our other users where you choose to publicly post reviews, comments or other information relating to products or services, communicate with other users via public forums (e.g., forums, message boards, bulletin boards, etc.).
 
-In addition, we use non-PII to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities (see “Preference Based Advertising” below).   We may use your non-PII by itself or aggregate it with information we have obtained from others to produce research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties. 
+In addition, we use non-PII to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities (see “Preference Based Advertising” below).   We may use your non-PII by itself or aggregate it with information we have obtained from others for various marketing purposes, including to produce research reports and other information and data about online shopping for participating merchants and other customers, as well as media and other interested parties. 
 
 **III.       COOKIES AND PREFERENCE BASED ADVERTISING **
 
-  **(a) ** **** **Cookies and Web Beacons: ** **** We and the third parties we authorize automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. So, for example, our cookies may allow us to show you the past products you have searched for on our Sites. **It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to PII about you.** **  **
+  **(a) ** **** **Cookies and Web Beacons: ** **** We and the third parties we authorize automatically receive and store certain types of non-PII whenever you interact with us by using "cookies" and analogous technology. "Cookies" are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. So, for example, our cookies may allow us to show you the past products you have searched for on our Sites. It is important to note that the cookies that we use do not contain and are not tied to PII about you.  **  **
 
 You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, some elements of our Sites will not function properly or be available to you.  
 
@@ -108,13 +108,13 @@ As neither our Sites nor our Services are intended for use by children under 13,
 **VIII.    **REVISIONS ** **   
 
 
-This Privacy Policy may change from time to time to reflect our changing business practices. We will provide you notice of any such changes by posting the new policy on our Sites or by email if the changes are material . 
+This Privacy Policy may change from time to time to reflect our changing business practices. We will provide you notice of any such changes by posting the new policy on our Sites or by email if the changes are material (in instances where we have an email address for you).
 
 **VII.      SOLE STATEMENT **
 
 This Privacy Policy and our [Terms of Use](http://about.shopzilla.com/terms-conditions/) , both  as posted on our Websites and through our Services, contain all of the material terms of regarding your use of our Websites and Services.   No summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post it to our Websites and Services.
 
   
-**© 2012 Shopzilla, Inc. **
+**© 2017 Shopzilla, Inc. **
 
-12200 W. Olympic Blvd, Suite 300, CA 90064 | help@bizrate.com | 310.571.1235
+12200 W. Olympic Blvd, Suite 300, CA 90064 | help@shopzilla.com | 310.571.1235
