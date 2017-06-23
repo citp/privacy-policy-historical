@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013659id_/http%3A//taylorandfrancis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorandfrancis.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623220237id_/http%3A//taylorandfrancis.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy and cookies | Taylor & Francis Group
 
@@ -14,19 +14,17 @@ When you submit a request form on this Website we ask for your full name, compan
 
 **Use of Personal Data**
 
-Any Personal Data that you give us will be treated with the utmost care and security. It will not be used in ways to which you have not consented.
+Your privacy is very important to us, that's why we'll take great care of any personal information you share with us and will never release these details to any company outside the Informa group of companies for any other purpose other than which it was collected without your consent (either under this privacy policy or otherwise) unless required by law or otherwise needed to fulfil orders, legal proceedings etc.
 
-The Personal Data we collect is used to provide you with the service that you have requested or to respond to an enquiry that you have made.
-
-The Personal Data we acquire via request forms on this Website will not be used for marketing purposes except where you have indicated that we may do so.
-
-We will not sell, rent or loan any Personal Data or identifiable information collected on this Website, except that we may pass or sell your Personal Data outside our corporate group to third parties in the event that we sell the whole or part of our business.
+The Personal Data we collect on this Website is used to provide you with the service or subscription that you have requested, the role you have applied for, or to respond to an enquiry that you have made.  We use certain third party service providers to assist us in providing these services to you, for example, recruitment, email marketing and hosting.
 
 The information collected from this Website could be stored for as long as is required for the uses stated above.
 
+If you want to know more about our approach to Customer Privacy across all Taylor & Francis operations, then please read our full **[Customer Privacy Notice](http://taylorandfrancis.com/customer-privacy).**
+
 **Users' right to opt-out**
 
-If you do not want to receive any e-mail communications from us please let us know by sending an e-mail to amendments@tandf.co.uk.
+You may unsubscribe from being contacted at any time.  Please contact us via email at: [optout@taylorandfrancis.com](mailto:optout@taylorandfrancis.com). Alternatively, please write to us at: **Informa Group PLC, 5 Howick Place, London SW1P 1WG, UK**.
 
 **Period of grace**
 
