@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214191713id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc-uk.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623203547id_/http%3A//www.gmc-uk.org/privacy_policy.asp) for the most accurate reproduction.*
 
 # GMC | Privacy and Cookies policy
 
@@ -312,4 +312,4 @@ ACOOKIE | This is our analytics provider Webtrends’ cookie used to collect inf
   
 ### Session variables
 
-Some of our microsites use session variables in order to record your responses, such as the [Fitness to practise panel decisions in action](http://www.gmc-uk.org/pdia "Opens in a new window") site. Session variables are different to cookies because they are stored on the server relative to the session, rather than your device. Session Variables are semi-permanent data files that exist only while your session with an application is active. Session variables are specific to each visitor and are deleted when you close the browser.
+Some of our microsites use session variables in order to record your responses. Session variables are different to cookies because they are stored on the server relative to the session, rather than your device. Session Variables are semi-permanent data files that exist only while your session with an application is active. Session variables are specific to each visitor and are deleted when you close the browser.
