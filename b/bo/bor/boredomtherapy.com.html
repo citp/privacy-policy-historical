@@ -1,11 +1,21 @@
-<!--The following is the downloaded HTML source of the boredomtherapy.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229043502id_/http%3A//boredomtherapy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boredomtherapy.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623142836id_/http%3A//boredomtherapy.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head>
-	<meta charset="UTF-8">
-	<title>Privacy Policy | Boredom Therapy</title>
-	
-<meta id="bt_version" bt_server="web14" bt_version="1.85.1.1" bt_date="2016-12-29 03:38:27" pas="" cache="file" db_server="Prod Master">
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script async="" src="//c.amazon-adsystem.com/aax2/apstag.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/js/prebid.js?ver=0.24.1"></script>
+
+<meta charset="UTF-8">
+<title>Privacy Policy | Boredom Therapy</title>
+        <script type="text/javascript">
+            var adblock = true;
+        </script>
+        <script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/modules/front/js/btAdBlockDetector/adframe.js"></script>
+        <script type="text/javascript">
+            if (adblock) {
+                console.log("adBlocker is active");
+                            }
+        </script>
+                
+<meta id="bt_version" bt_server="web12" bt_version="1.111.4" bt_date="2017-06-23 14:28:36" pas="" cache="DB" db_server="Prod Slave">
 <!-- This site is optimized with the Yoast SEO plugin v2.3.5 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="http://boredomtherapy.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
@@ -14,7 +24,7 @@
 <meta property="og:description" content="Your privacy is very important to us at Boredom Therapy, and so we have a few fundamental principles that we follow in order to protect it: We don’t ask you for personal information unless we truly need it. We don’t share your personal information with anyone except to comply with the law, develop our products, …">
 <meta property="og:url" content="http://boredomtherapy.com/privacy-policy/">
 <meta property="og:site_name" content="Boredom Therapy">
-<meta property="article:author" content="https://www.facebook.com/BoredomTherapy">
+<meta property="article:author" content="https://www.facebook.com/BoredomTherapy/">
 <meta property="fb:app_id" content="810246545721499">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="Your privacy is very important to us at Boredom Therapy, and so we have a few fundamental principles that we follow in order to protect it: We don’t ask you for personal information unless we truly need it. We don’t share your personal information with anyone except to comply with the law, develop our products, […]">
@@ -24,25 +34,74 @@
 
 <link rel="alternate" type="application/rss+xml" title="Boredom Therapy » Privacy Policy Comments Feed" href="http://boredomtherapy.com/privacy-policy/feed/">
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//cdn2.lockerdome.com/_js/ajs.js" id="ld-ajs"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.4"></script><script id="bt-js-obj">
+<script data-cfasync="false" id="bt-js-obj">
+
+
+function matchDeviceType(deviceType) {
+ var s = (window.innerWidth > screen.width ? screen.width : window.innerWidth);
+ var isMobile = (s < 640);
+ switch(deviceType) {
+	case 'mobile': return isMobile;
+	case 'tablet': return false;
+	case 'desktop': return !isMobile;
+	case 'desktopx': return false;
+	default: return isMobile;
+ }
+}
+
+function getDeviceNameOrLetter(n) {
+ if (bt.isMobile) return n ? 'mobile' : 'M';
+ if (bt.isTablet) return n ? 'tablet' : 'T';
+ if (bt.isDesktopX) return n ? 'desktopx' : 'DX';
+ if (bt.isDesktop) return n ? 'desktop': 'D';
+}
+
+function hideOrShowAd(adId,divId) {
+ if (bt['pa' + adId]) { googletag.cmd.push(function(){ googletag.display(divId); }); return; }
+ //else hide
+ var el = document.getElementById(divId);
+ if (el) {
+  el.style.display = 'none';
+ }
+ hideRels(adId);
+}
+function hideRels(adId){
+ var relEls = document.getElementsByClassName('btparel' + adId);
+ Array.prototype.forEach.call(relEls, function(relEl, index) {
+  relEl.style.display = 'none';
+ });
+}
 
 window.bt = window.bt || {};
 
 bt.siteId = 0;
 bt.postId = 7518;
-
 // Redirect to multiple urls
 bt.multipleUrlsOrg = "privacy-policy";
 bt.postUrl = "privacy-policy";
+bt.galleryExtraContent = "";
+bt.isHtpDesign = false;
+bt.isHcDesign = false;
+bt.isAggr = false;
+bt.isSlideShow = false;
+
+bt.isMobileAny = matchDeviceType('mobileAny');
+bt.isMobile = matchDeviceType('mobile');
+bt.isDesktop = matchDeviceType('desktop');
+bt.isDesktopX = matchDeviceType('desktopx');
+bt.isTablet = matchDeviceType('tablet');
+bt.deviceLetter = getDeviceNameOrLetter(false);
+bt.deviceFullName = getDeviceNameOrLetter(true);
+bt.devNamL = bt.isMobile ? 'M' : bt.isTablet ? 'T' : 'D';
 
 bt.ajaxurl = "http://boredomtherapy.com/wp-admin/admin-ajax.php";
 bt.isFirstGalPage = false;
+bt.isAOL = '';
+bt.gamesTracker = '1';
 bt.prevPost = -1;
-bt.isAggr = false;
 bt.isSingle = false;
 bt.siteName = 'boredomtherapy';
 bt.siteDispalyName = 'Boredom Therapy';
-bt.isHtpDesign = false;
 bt.isHome = false;
 bt.current_grid_wall_story_id = false;
 bt.urlSuffix = '';
@@ -51,6 +110,7 @@ bt.isCat = false;
 
 bt.dfp_id = 95097218;
 bt.no_dfp = false;
+bt.pvar = 'a';
 
 bt.statsServerUrl = 'stat.boredomtherapy.com';
 
@@ -60,42 +120,35 @@ bt.gs.gridWallNextPage = false;
 bt.gs.pageSpeedOpti = {
     "cr": {
         "sidebar_top": "1",
-        "sidebar_bottom": "1",
-        "move_sidebar_bottom": "on",
-        "move_sidebar_top": "on"
+        "sidebar_bottom": "1"
     }
 };
 
-bt.log = function (massage) {
-    console.log("%c" + massage, "background:blue;color:#fff;padding:2px;");
+bt.log = function (msg) {
+    console.log("%c" + msg, "background:blue;color:#fff;padding:2px;");
 };
 
-bt.sites = [
-    "boredomtherapy",
-    "guiltyfix",
-    "mflaire",
-    "awkwardlife",
-    "honesttopaws",
-    "moodspike",
-    "eternallysunny",
-    "omg-daily",
-    "headcramp"
+bt.refS = [
+    "626f7265646f6d74686572617079",
+    "6775696c7479666978",
+    "6d656e74616c666c617265",
+    "776f6e64657266656564",
+    "686f6e657374746f70617773",
+    "6d6f6f647370696b65",
+    "657465726e616c6c7973756e6e79",
+    "6f6d672d6461696c79",
+    "686561646372616d70",
+    "746865776f6e64657266656564",
+    "6d6f6e6579766572736564",
+    "7370697269746564626c697373",
+    "637572696f7369747977656c6c",
+    "6865726d6f6d656e7473"
 ];
 
 //first-page.js
 bt.isFirstPage = function () {//if no path, no as source, no pg or pg is 1
     var pgparam = getUrlParam('pg');
     return getUrlParam('as-source') == false && getUrlPathSection(2) == '' && (pgparam === false) || (pgparam == 1);
-};//is-mobile.js
-
-//isMobile https://github.com/kaimallea/isMobile
-!function(a){var b=/iPhone/i,c=/iPod/i,d=/iPad/i,e=/(?=.*\bAndroid\b)(?=.*\bMobile\b)/i,f=/Android/i,g=/(?=.*\bAndroid\b)(?=.*\bSD4930UR\b)/i,h=/(?=.*\bAndroid\b)(?=.*\b(?:KFOT|KFTT|KFJWI|KFJWA|KFSOWI|KFTHWI|KFTHWA|KFAPWI|KFAPWA|KFARWI|KFASWI|KFSAWI|KFSAWA)\b)/i,i=/IEMobile/i,j=/(?=.*\bWindows\b)(?=.*\bARM\b)/i,k=/BlackBerry/i,l=/BB10/i,m=/Opera Mini/i,n=/(CriOS|Chrome)(?=.*\bMobile\b)/i,o=/(?=.*\bFirefox\b)(?=.*\bMobile\b)/i,p=new RegExp("(?:Nexus 7|BNTV250|Kindle Fire|Silk|GT-P1000)","i"),q=function(a,b){return a.test(b)},r=function(a){var r=a||navigator.userAgent,s=r.split("[FBAN");return"undefined"!=typeof s[1]&&(r=s[0]),s=r.split("Twitter"),"undefined"!=typeof s[1]&&(r=s[0]),this.apple={phone:q(b,r),ipod:q(c,r),tablet:!q(b,r)&&q(d,r),device:q(b,r)||q(c,r)||q(d,r)},this.amazon={phone:q(g,r),tablet:!q(g,r)&&q(h,r),device:q(g,r)||q(h,r)},this.android={phone:q(g,r)||q(e,r),tablet:!q(g,r)&&!q(e,r)&&(q(h,r)||q(f,r)),device:q(g,r)||q(h,r)||q(e,r)||q(f,r)},this.windows={phone:q(i,r),tablet:q(j,r),device:q(i,r)||q(j,r)},this.other={blackberry:q(k,r),blackberry10:q(l,r),opera:q(m,r),firefox:q(o,r),chrome:q(n,r),device:q(k,r)||q(l,r)||q(m,r)||q(o,r)||q(n,r)},this.seven_inch=q(p,r),this.any=this.apple.device||this.android.device||this.windows.device||this.other.device||this.seven_inch,this.phone=this.apple.phone||this.android.phone||this.windows.phone,this.tablet=this.apple.tablet||this.android.tablet||this.windows.tablet,"undefined"==typeof window?this:void 0},s=function(){var a=new r;return a.Class=r,a};"undefined"!=typeof module&&module.exports&&"undefined"==typeof window?module.exports=r:"undefined"!=typeof module&&module.exports&&"undefined"!=typeof window?module.exports=s():"function"==typeof define&&define.amd?define("isMobile",[],a.isMobile=s()):a.isMobile=s()}(this);
-
-window.bt_is_mobile = function() {
-    if (window.innerWidth > 640)
-        return false;
-    else
-        return true;
 };//js-template-management.js
 bt.replaceStrs = function (template, replaceValues) {
     var $ = jQuery.noConflict(),
@@ -121,12 +174,12 @@ bt.isLanding = function () {
     return !bt.isInboundUrl(document.referrer) || document.referrer == '';
 };
 console.log(document.referrer);//sites.js
-
 bt.isNetworkSiteUrl = function (url) {
     var urlI,
-        comI = url.indexOf(".com");
-    for (var i = 0; i < bt.sites.length; i++) {
-        urlI = url.indexOf(bt.sites[i]);
+        comI = url.indexOf(".com"),
+        refs = get_refs(refs);
+    for (var i = 0; i < refs.length; i++) {
+        urlI = url.indexOf(refs[i]);
         if (urlI > -1 && urlI < comI) {
             return true;
         }
@@ -208,7 +261,29 @@ window.getUrlParByPref = function (prefix){ //get url parameter name value by na
     return _return;
 };
 
-if(!isMobile.phone){
+function getAllUrlParams() {
+    var queryParams = ['pas', 'as', 'as-source', 'shr', 'crf', 'bdk', 'adv_txt', 'adv_img', 'utm_'];
+    var queryString = location.search.slice(1);
+    var queryParamFiltering = function(prev, curr) {
+        var kvp = curr.split('=');
+        var key = kvp[0];
+        var val = decodeURIComponent(kvp[1]);
+        var index = queryParams.indexOf(key);
+        var isNoUtmParamInUrl = (key.indexOf('utm_') === -1);
+        if (kvp.length !== 2 || (index === -1 && isNoUtmParamInUrl)) { return prev; }
+        // else
+        if (key === 'crf' && val.indexOf('src_') === -1) { val = 'src_' + val; }
+        // else
+        if (isNoUtmParamInUrl) { queryParams.splice(index, 1); } // if url has `utm_` prefix
+        // else
+        prev[key] = val;
+        return prev;
+    };
+    if (!queryString.length) { return {}; }
+    return queryString.split('&').reduce(queryParamFiltering, {});
+}
+
+if(!bt.isMobile){
 	Object.keys(bt.gs.pageSpeedOpti).forEach(function(key,val){
 		bt.gs.pageSpeedOpti[key] = false;
 	})
@@ -227,32 +302,36 @@ bt.gs.pageSpeedOpti.check = function(section, feature){
 	return bt.gs.pageSpeedOpti[section][feature];
 };
 
-bt.isMobile = bt_is_mobile();
 bt.getUrlparamValue = getUrlparamValue;
 bt.getUrlParByPref = getUrlParByPref;
+bt.page = '1';
+bt.showBigFacebookBtn = '';
+bt.affiliateDomains = 'amazon,anrdoezrs,performance,clickbank,c1224xv6gode1wb9thgdmehn75,shareasale,pntrac,joyus,shop,games,facebook,games.boredomtherapy';
+bt.crNewTab = '';
+bt.estTime = String((10 % 2 == 0) ? 10 : 10 - 1);
+var refs = '';
+function conv( str ) { return String.fromCharCode(parseInt( str, 16 )); }
+function conv_names( ar ) { return ar.map( function(s){ return s.match(/.{1,2}/g).map(conv).join(''); } ); }
+function get_refs( refs ) { if ( typeof refs == 'object' ) { return refs; } return conv_names( bt.refS ); }
+
+
+
+
 </script>
 
-	<script id="bts_util2">
-		//check userAgent on what device the ad will show
-		function bt_is_mobile_agent() {
-			if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
-				return true;
-			else
-				return false;
-		}
-
-		// Get the value of val from current page url
-		function getUrlParam(val) {
-			var result = false,
-				tmp = [];
-			var items = location.search.substr(1).split("&");
-			for (var index = 0; index < items.length; index++) {
-				tmp = items[index].split("=");
-				if (tmp[0].toLowerCase() === val) result = decodeURIComponent(tmp[1]);
-			}
-			return result;
-		}
-	</script>
+    <script id="bts_util2">
+        // Get the value of val from current page url
+        function getUrlParam(val) {
+            var result = false,
+                tmp = [];
+            var items = location.search.substr(1).split("&");
+            for (var index = 0; index < items.length; index++) {
+                tmp = items[index].split("=");
+                if (tmp[0].toLowerCase() === val) result = decodeURIComponent(tmp[1]);
+            }
+            return result;
+        }
+    </script>
 
 		<meta property="article:category" content="Video">
 	
@@ -265,37 +344,304 @@ bt.getUrlParByPref = getUrlParByPref;
 		
 		function getUrlPathSection(sectionIndex) {
 			var arSections = window.location.pathname.split('/');
-			if(typeof(arSections[sectionIndex]) != 'undefined')
-				return arSections[sectionIndex];
-			else
-				return '';
-		}
-
-		function bt_get_device_type() {
-			if (screen.width > 1024)
-				return 'desktop';
-			else if (window.innerWidth > 640)
-				return 'tablet';
-			else
-				return 'mobile';
-		}
-
-		var bt_device_type = bt_get_device_type();	// desktop, tablet, mobile
-
-		function bt_is_desktop() {
-			if (screen.width > 1024)
-				return true;
-			else
-				return false;
+			return (typeof arSections[sectionIndex] !== 'undefined') ? arSections[sectionIndex] : '';
 		}
 
 	</script>
-	<link rel="stylesheet" id="fontawesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css?ver=4.6.2" type="text/css" media="all">
-<link rel="stylesheet" id="boredomstylesheet-css" href="http://boredomtherapy.com/wp-content/themes/boredom/style.css?ver=1.85.1.1" type="text/css" media="all">
-<link rel="stylesheet" id="glob-css" href="http://boredomtherapy.com/wp-content/themes/boredom/css//glob/glob.css?ver=1.85.1.1" type="text/css" media="all">
+	    <link rel="icon" href="//boredomtherapy.com/wp-content/themes/mainsite/images/favicon.png?ver=1.1" type="image/x-icon">
+    <link rel="apple-touch-icon" href="//boredomtherapy.com/wp-content/themes/mainsite/images/favicon.png?ver=1.1">
+	
+    <script type="text/javascript">
+        window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+        function sendGAData(uval) {
+            var clientId = '';
+            var linkCanon = document.querySelector("link[rel='canonical']");
+            var canonical = linkCanon ? linkCanon.href : '';
+            var myAdblock = String(adblock);
+            var myUval = uval || '';
+            var referrer = document.referrer || 'Direct';
+            var isAOL = !!document.querySelector('.vdb_player');
+            ga('create', 'UA-47763670-1', 'auto');
+            
+            ga(function(tracker) {
+                clientId = tracker.get('clientId');
+            });
+            
+            
+            var dimensions = [
+                '', '', '', '', '', '',
+                myUval, '1.111.4', referrer, '', '', '',
+                '', '1', bt.deviceFullName, 'non-hidden', '7518', myAdblock, 
+                clientId, canonical, '', '', '07/27/14', isAOL
+            ];
+            dimensions.forEach(function(dim, i) {
+                if (dim !== '') { ga('set', 'dimension' + (i + 1), dim); } 
+            });
+            
+            ga('send', 'pageview');
+        }
+    </script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script>
+    
+    <link rel="stylesheet" id="fontawesome-css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.2/css/font-awesome.min.css?ver=4.6.2" type="text/css" media="all">
+<link rel="stylesheet" id="boredomstylesheet-css" href="http://boredomtherapy.com/wp-content/themes/boredom/style.css?ver=1.111.4" type="text/css" media="all">
+<link rel="stylesheet" id="glob-css" href="http://boredomtherapy.com/wp-content/themes/boredom/css/glob/glob.css?ver=1.111.4" type="text/css" media="all">
 <link rel="stylesheet" id="google_fonts-css" href="//fonts.googleapis.com/css?family=Oswald:normal|Roboto:normal" type="text/css" media="all">
+<script type="text/javascript">
+
+ 
+
+</script>
+<!-- Prebid START -->
+<!-- Before GPT -->
+<script> 
+var PREBID_TIMEOUT = 2300;
+
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+function initAdserver() {
+  if (pbjs.initAdserverSet) { return; }
+  pbjs.initAdserverSet = true;
+
+  sendGAData();
+  bt.pReady = true;
+  googletag.cmd.push(function() {
+    pbjs.que.push(function() {
+      pbjs.setTargetingForGPTAsync();
+    });
+  });
+  refreshOnReady();
+}
+
+// Load GPT when timeout is reached.
+setTimeout(initAdserver, PREBID_TIMEOUT);
+
+var pbjs = pbjs || {};
+pbjs.que = pbjs.que || [];
+
+// Load the Prebid Javascript Library Async. We recommend loading it immediately after
+// the initAdserver() and setTimeout functions.
+(function () {
+  var d = document;
+  var pbs = d.createElement('script');
+  pbs.type = 'text/javascript';
+  pbs.src = 'http://boredomtherapy.com/wp-content/themes/boredom/js/prebid.js?ver=0.24.1';
+  var target = d.getElementsByTagName('head')[0];
+  target.insertBefore(pbs, target.firstChild);
+})();
+
+function setC(o,c,id) {
+  if (!o) {return;}
+  bt['a' + id] = o;
+  o.addService(googletag.pubads());
+  switch(c) {
+    case 1:
+        o.setCollapseEmptyDiv(true,true);
+        break;
+    case 3:
+        o.setCollapseEmptyDiv(false);
+        break;
+    case 2:
+        o.setCollapseEmptyDiv(true);
+        break;
+    default:
+        break;
+  }
+}
+
+function resetFresh(isF) {
+  bt.fresh = false;
+  bt.pReady = false;
+  bt.aReady = false;
+  bt.isAF = isF;
+}
+resetFresh(false);
+function refreshOnReady() {
+  console.log('a',bt.aReady,'p',bt.pReady)
+  if (bt.pReady && bt.aReady) {
+    refreshAll();
+    return;
+  }
+  bt.fT = setTimeout(refreshAll, PREBID_TIMEOUT);
+}
+function refreshAll() {
+  clearTimeout(bt.fT);
+  if (bt.fresh) { return; }
+  bt.fresh = true;
+  console.log('fresh');
+  googletag.cmd.push(function() {
+      pbjs.que.push(function() {
+        googletag.pubads().refresh();
+    });
+  });
+}
+(function () {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+})();
+!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function()
+{q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(
+A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+// initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+apstag.init({
+    pubID: '3354',
+    adServer: 'googletag',
+    bidTimeout: 2e3
+});
+var a9adUnits = [];
+function regFreshA(oA,id) {//oA ok
+ a9adUnits.push(oA);
+}
+if (bt.isMobile) {
+}
+else {
+}
+
+function apstagFetch() {
+ apstag.fetchBids({
+    slots: a9adUnits 
+    }, function(bids) {
+        bt.aReady = true;
+        googletag.cmd.push(function() {
+            try {apstag.setDisplayBids();} catch(e) {}
+        });
+        refreshOnReady();
+ });
+}
+apstagFetch();
+
+var adUnits = [];
+function regFreshP(oP,id) {//oP ok
+ adUnits.push(oP);
+}
+if (bt.isMobile) {
+}
+else {
+}
+pbjs.que.push(function () {
+    pbjs.addAdUnits(adUnits);
+    pbjs.aliasBidder('appnexus', 'districtm');
+pbjs.requestBids({
+         timeout: PREBID_TIMEOUT,
+         bidsBackHandler: function () {
+          initAdserver();
+        }
+       });
+         function adjustCpm(bidCpm, value) {
+                return bidCpm * value;
+            }
+         pbjs.bidderSettings = {
+            standard: {
+                adserverTargeting: [{
+                    key: "hb_bidder",
+                    val: function (b) {
+                        return b.bidderCode;
+                    }
+                }, {
+                    key: "hb_adid",
+                    val: function (b) {
+                        return b.adId;
+                    }
+                }, {
+                    key: "hb_pb",
+                    val: function(b) {
+                        var cpm = b.cpm;
+                        if (cpm <= 3.00) {
+                          cpm = (Math.floor(cpm * 100) / 100).toFixed(2);
+                        } else if (cpm <= 8.00) {
+                          cpm = (Math.floor(cpm * 20) / 20).toFixed(2);
+                        } else if (cpm <= 20.00) {
+                          cpm = (Math.floor(cpm * 2) / 2).toFixed(2);
+                        } else {
+                          cpm = '20.00';
+                        }
+                        
+                        return cpm;
+                    }
+                }
+                ]
+            },
+			aol: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.98);
+			    }
+			},
+			appnexus: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.95);
+			    }
+			},
+			brealtime: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.78);
+			    }
+			},
+			criteo: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.9);
+			    }
+			},
+			districtm: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.8);
+			    }
+			},
+			indexExchange: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.95);
+			    }
+			},
+			komoona: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 1);
+			    }
+			},
+			openx: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.9);
+			    }
+			},
+			pulsepoint: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.8);
+			    }
+			},
+			rubicon: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.75);
+			    }
+			},
+			sekindoUM: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 1);
+			    }
+			},
+			sonobi: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.9);
+			    }
+			},
+			yieldbot: {
+			    bidCpmAdjustment: function(bidCpm){			    
+			        return adjustCpm(bidCpm, 0.95);
+			    }
+			}
+        };
+    });
+</script><script type="text/javascript" id="bts_dfp">
+bt_site_id = 0;
+window.googletag = window.googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+</script>
 <script type="text/javascript" src="http://boredomtherapy.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
 <script type="text/javascript" src="http://boredomtherapy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/js/common.js?ver=1.111.4"></script>
 	<meta name="viewport" content="width=device-width, initial-scale=0.7207207207207207">
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
@@ -303,9 +649,11 @@ bt.getUrlParByPref = getUrlParByPref;
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://boredomtherapy.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 4.3.3">
 <link rel="shortlink" href="http://boredomtherapy.com/?p=7518">
-	<link rel="icon" href="//boredomtherapy.com/wp-content/themes/mainsite/images/bt-icon2.png" type="image/x-icon">
-	<link rel="apple-touch-icon" href="//boredomtherapy.com/wp-content/themes/mainsite/images/bt-icon2.png">
-	
+                <!--/* Distil Networks Bot Discovery script tag */-->
+                <script type="text/javascript" src="https://cdn.distiltag.com/api/v1/script/I2lxQeQaiXFQ6l7GUP3es3a4rtzqmMxwN4bp6vaC?GA_TID=UA-47763670-1&amp;GA_CDI=25" async="" defer=""></script>
+                <noscript><img src="https://cdn.distiltag.com/api/v1/noscript/I2lxQeQaiXFQ6l7GUP3es3a4rtzqmMxwN4bp6vaC?GA_TID=UA-47763670-1&GA_CDI=25"></noscript>
+                <!--/* End Bot Discovery script tag */-->
+                <meta name="visibility_mode" content="non-hidden">
             <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <script>
                 (adsbygoogle = window.adsbygoogle || []).push({
@@ -389,195 +737,95 @@ var boredom_title = 'Privacy Policy';
 		               src="https://www.facebook.com/tr?id=780958225275101&ev=PageView&noscript=1"
 			/></noscript>
 		<!-- End Facebook Pixel Code -->
-		<script type="text/javascript">
-		(function (i, s, o, g, r, a, m) {
-			i['GoogleAnalyticsObject'] = r;
-			i[r] = i[r] || function () {
-					(i[r].q = i[r].q || []).push(arguments)
-				}, i[r].l = 1 * new Date();
-			a = s.createElement(o),
-				m = s.getElementsByTagName(o)[0];
-			a.async = 1;
-			a.src = g;
-			m.parentNode.insertBefore(a, m)
-		})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-
-		ga('create', 'UA-47763670-1', 'auto');
-
-		dimension1 = 'none';
-		dimension2 = '';
-		dimension3 = 'none';
-		dimension4 = '';
-		dimension5 = '';
-		dimension6 = '';
-		dimension7 = '1.85.1.1';
-		dimension8 = '';
-		dimension9 = '0';
-
-		if (dimension1 != '') ga('set', 'dimension1', dimension1);
-		if (dimension2 != '') ga('set', 'dimension2', dimension2);
-		if (dimension3 != '') ga('set', 'dimension3', dimension3);
-		if (dimension4 != '') ga('set', 'dimension4', dimension4);
-		if (dimension5 != '') ga('set', 'dimension5', dimension5);
-		if (dimension6 != '') ga('set', 'dimension6', dimension6);
-		if (dimension7 != '') ga('set', 'dimension7', dimension7);
-		if (dimension8 != '') ga('set', 'dimension8', dimension8);
-		if (dimension9 != '') ga('set', 'dimension9', dimension9);
-
-		// Content recommendation clicks analytics
-		var cookieName = "cr_event=",
-			cookieLen = cookieName.length,
-			indexCookie = document.cookie.indexOf("cr_event="),
-			indexStart = indexCookie + cookieLen,
-			indexEnd = document.cookie.indexOf(";", indexStart),
-			indexEnd = indexEnd == -1 ? document.cookie.length : indexEnd,
-			cookieVal = document.cookie.substr(indexStart, indexEnd - indexStart);
-
-		if (indexCookie > 0) {
-//			alert('dimension10: ' + cookieVal);
-			ga('set', 'dimension10', cookieVal);
-			CR_event_used = true;   // Mark cookie for remove
-		}
-		//		else alert('No cr_event cookie');
-
-		ga('send', 'pageview');
-	</script>
-	
-	<!-- DFP -->
-	<script type="text/javascript" id="bts_dfp">
-		bt_site_id = 0;
-
-		window.googletag = window.googletag || {};
-		googletag.cmd = googletag.cmd || [];
-
-		(function () {
-			var gads = document.createElement("script");
-			gads.async = true;
-			gads.type = "text/javascript";
-			var useSSL = "https:" == document.location.protocol;
-			gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-			var node = document.getElementsByTagName("script")[0];
-			node.parentNode.insertBefore(gads, node);
-		})();
-
-		
-		var dfp_prefix = '';
-
-		googletag.cmd.push(function () {
-
-			bt_wiwidth = window.innerWidth;
-
-			bt_device = 'desktop';
-			if (bt_wiwidth > 768) {
-				bt_device = 'desktop';
-			} else if (bt_wiwidth >= 514) {
-				bt_device = 'tablet';
-			} else {
-				bt_device = 'mobile';
-			}
-
-			googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt_device);
-			googletag.pubads().setTargeting("site_name", "BoredomTherapy");
-			googletag.pubads().setTargeting(dfp_prefix + "version", "1.85.1");
-			googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');
-
-			googletag.pubads().setTargeting("rubicon", "false");
-			googletag.pubads().setTargeting("Matomy", "false");
-			googletag.pubads().setTargeting("33across", "false");
-			googletag.pubads().setTargeting("openx", "false");
-			googletag.pubads().setTargeting("criteo", "false");
-			googletag.pubads().setTargeting("altitude", "false");
-			googletag.pubads().setTargeting("medianet", "false");
-			googletag.pubads().setTargeting("switch", "false");
-
-						            						
-			
-			
-					bt_categories = [];
-		bt_tags = false;
-		bt_i = bt_categories.length;
-		while (bt_i--) {
-		googletag.pubads().setTargeting( dfp_prefix+'cid', bt_categories[bt_i].term_id.toString() );
-		}
-		bt_i = 0;
-
-		for (bt_i in bt_tags) {
-		googletag.pubads().setTargeting( dfp_prefix+'tid', bt_tags[bt_i].term_id.toString() );
-		}
-		var bt_postid = '7518';
-		googletag.pubads().setTargeting(dfp_prefix+'pid', bt_postid.toString());
-	var bt_as = getUrlParam('as');
-	if (bt_as != false) {
-	googletag.pubads().setTargeting(dfp_prefix+'as', bt_as.toString());
-
-	if (bt.isFirstPage()){
-	googletag.pubads().setTargeting(dfp_prefix+'asf', 'f'+bt_as);  // Send DFP parameter
-	//console.log('%cdfp_prefix', "background:#E35200;padding:3px;color:#fff; font-weight:bold;", dfp_prefix+'asf', 'f'+bt_as);
-	}
-	}
-
-	var bt_pas = '';
-	if (bt_pas != '')
-	googletag.pubads().setTargeting(dfp_prefix+'pas', bt_pas);
-
-	// Send as-source
-	var bt_as_source = getUrlParam('as-source');
-	if (bt_as_source !== false) {
-	googletag.pubads().setTargeting(dfp_prefix+'as-source', bt_as_source);
-	// console.debug('DFP: as-source='+bt_as_source);
-	}
-
-
-	// Send as-share
-	var bt_as_share = getUrlParam('as-share');
-	if (bt_as_share !== false)
-	googletag.pubads().setTargeting(dfp_prefix+'as-share', bt_as_share);
-
-				
-
-var bdk_param = bt.getUrlparamValue('bdk');
-if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session and have a bdk param
-	googletag.pubads().setTargeting(dfp_prefix + 'bdkf', 'f' + bdk_param);  // Send DFP parameter
-	console.log('%cbdk dfp_prefix', "background:#E35200;padding:3px;color:#fff; font-weight:bold;", dfp_prefix+'asf', 'f'+bdk_param);
-}
-	var selectedGroup = ''; // Global JS value of Group selected by the AB test
-	
-                googletag.defineSlot('/95097218/BT_Pixel_Tracker', [1, 1], 'div-gpt-ad-1420466308609-0').addService(googletag.pubads());
-                if(!bt.gs.pageSpeedOpti.check("social", "web_sidebar")) {            if(!bt.gs.pageSpeedOpti.check("ads", "web_sidebar")){
-            window.slot1 = googletag.defineSlot('/95097218/BT_Web_Sidebar', [[300, 600], [300, 250]], 'div-gpt-ad-1409984760385-0').addService(googletag.pubads());
-            }
-            }
-				if (bt_is_mobile()) { // Run only on mobile
-						googletag.defineSlot('/95097218/BT_InterstitialMobile', [1, 1], 'div-gpt-ad-1439209561524-0').addService(googletag.pubads());
-					}
-				else {  // Run only on none mobile
-									}
-
-					googletag.defineSlot('/95097218/BT_Web_Leaderboard_AF', [[728, 90], [970, 250]], 'div-gpt-ad-1409984205459-20').addService(googletag.pubads());
-
-	
-	googletag.defineSlot('/95097218/BT_Web_Rec_BF', [[336, 280], [300, 250]], 'div-gpt-ad-1409984205459-16').addService(googletag.pubads());
-
-				googletag.defineSlot('/95097218/BT_Mobile_MedRec_AF', [[300, 250], [320,100]], 'div-gpt-ad-1409984205459-12').addService(googletag.pubads()).setCollapseEmptyDiv(true);
-		
-		googletag.defineSlot('/95097218/BT_Web_LPlayer', [640, 480], 'div-gpt-ad-1435676297597-0').addService(googletag.pubads()).setCollapseEmptyDiv(true);
-		
-	
-		googletag.defineSlot('/95097218/BT_1x1', [1, 1], 'div-gpt-ad-1450145951215-0').addService(googletag.pubads());
-					googletag.pubads().collapseEmptyDivs();
-			googletag.pubads().enableAsyncRendering();
-			googletag.enableServices();
-		});
-	</script>
-	<!--DFP END-->
 			<style type="text/css">
 			.pagefair-acceptable {
 				display: none;
 			}
 		</style>
-		</head>
-<body id="blog" class="page page-id-7518 page-template-default main layout-none " itemscope="" itemtype="http://schema.org/WebPage"><div class="MBoxAdMain gp-ui" id="sponsoredwellcontainertop" style="position:absolute;display:block;">&nbsp;</div>
-		<div class="topmenu">
+		
+<script type="text/javascript" id="bts_dfp_2">
+
+var dfp_prefix = '';
+var origin_prefix = dfp_prefix;
+
+//START GOOGLETAG.PUSH
+googletag.cmd.push(function () {
+googletag.pubads().setTargeting(dfp_prefix + 'dvc', bt.deviceFullName);googletag.pubads().setTargeting("site_name", "BoredomTherapy");googletag.pubads().setTargeting(dfp_prefix + 'format', 'none');googletag.pubads().setTargeting("rubicon", "false");googletag.pubads().setTargeting("Matomy", "false");googletag.pubads().setTargeting("33across", "false");googletag.pubads().setTargeting("criteo", "false");googletag.pubads().setTargeting("altitude", "false");googletag.pubads().setTargeting("medianet", "false");googletag.pubads().setTargeting("switch", "false");googletag.pubads().setTargeting(dfp_prefix + 'flaf', "" + bt.deviceLetter);
+bt_categories = [];
+bt_tags = false;
+bt_i = bt_categories.length;
+while (bt_i--) {
+  googletag.pubads().setTargeting( dfp_prefix+'cid', bt_categories[bt_i].term_id.toString() );
+}
+bt_i = 0;
+
+for (bt_i in bt_tags) {
+  googletag.pubads().setTargeting( dfp_prefix+'tid', bt_tags[bt_i].term_id.toString() );
+}
+var bt_postid = '7518';
+var bt_as = getUrlParam('as');
+if (bt_as != false) {
+  googletag.pubads().setTargeting(dfp_prefix+'as', bt_as.toString());
+
+  if (bt.isFirstPage()){ googletag.pubads().setTargeting(dfp_prefix+'asf', 'f'+bt_as); }
+}
+var bt_as_source = getUrlParam('as-source');
+if (bt_as_source !== false) { googletag.pubads().setTargeting(origin_prefix+'as-source', bt_as_source); }
+var bt_as_share = getUrlParam('as-share');
+if (bt_as_share !== false) { googletag.pubads().setTargeting(dfp_prefix+'as-share', bt_as_share); }
+googletag.pubads().disableInitialLoad();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableAsyncRendering();
+googletag.enableServices();
+});
+//END GOOGLETAG.PUSH
+</script>
+<!--DFP END-->
+		
+<style id="bt-dynamic-css">
+
+@media (max-width:480px) {
+    .big_cont_widget.botscrollhead.hideonloadmore,           
+	.sidebar .sidebar_top .widget-title,
+	.sidebar-posts-widget.cat .category-name span,
+	.sidebar_list .widget-title, 
+	.sidebar-posts-widget.most-bt .category-name,
+	.single-recommendations-widget .widget-title,        
+	.more_bt_widget.botscrollhead.hideonloadmore {
+	    font-size: 22px !important;
+	}
+}
+@media (min-width:481px) and (max-width: 1024px) {
+    .big_cont_widget.botscrollhead.hideonloadmore,           
+	.sidebar .sidebar_top .widget-title,
+	.sidebar-posts-widget.cat .category-name span,
+	.sidebar_list .widget-title, 
+	.sidebar-posts-widget.most-bt .category-name,
+	.single-recommendations-widget .widget-title,        
+	.more_bt_widget.botscrollhead.hideonloadmore {
+	    font-size: 22px !important;
+	}
+}
+@media (min-width: 1025px) {
+    .big_cont_widget.botscrollhead.hideonloadmore,           
+	.sidebar .sidebar_top .widget-title,
+	.sidebar-posts-widget.cat .category-name span,
+	.sidebar_list .widget-title, 
+	.sidebar-posts-widget.most-bt .category-name,
+	.single-recommendations-widget .widget-title,        
+	.more_bt_widget.botscrollhead.hideonloadmore {
+	    font-size: 22px !important;
+	}
+}
+
+</style>
+
+</head>
+<body id="blog" class="page page-id-7518 page-template-default main layout-none  mobile-sidebar-top-items-1 mobile-sidebar-bottom-items-1 has-sidebar-tablet no-static-skyscraper" itemscope="" itemtype="http://schema.org/WebPage"><div class="MBoxAdMain gp-ui" id="sponsoredwellcontainertop" style="position:absolute;display:block;">&nbsp;</div>
+
+
+	<div class="topmenu">
 		<div class="menucontainer topcont">
 			<a class="btlogo" href="http://boredomtherapy.com"></a>
 			<ul class="menu">
@@ -608,8 +856,10 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 						<div class="dcaret"></div>
 					</a></li>
 					<li class="right">
-		<a id="searchicon" class="fa fa-search" href="#" title="Search for more fun content"><div class="dcaret"></div></a>
-		<a id="fbicon" class="fa fa-facebook" title="" href="https://www.facebook.com/BoredomTherapy" target="_blank"></a>
+		<a id="searchicon" class="fa fa-search" href="javascript:void(0)" title="Search for more fun content">
+			<div class="dcaret"></div>
+		</a>
+		<a id="fbicon" class="fa fa-facebook" title="" href="https://www.facebook.com/BoredomTherapy/" target="_blank"></a>
 					<a id="twicon" class="fa fa-twitter" title="BoredomTherapy on Twitter" href="https://twitter.com/boredomtherapy" target="_blank"></a>
 							<a id="gpicon" class="fa fa-google-plus" title="BoredomTherapy on Google+" href="https://plus.google.com/113574281236482517964" target="_blank"></a>
 			</li>
@@ -629,45 +879,45 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 					<div class="submenu">
 						<div class="menu-item">
 							<a href="http://boredomtherapy.com/trending/">All Trending</a>
-							<div class="menuposts"><a attrname="MenuBar" row="2" href="http://boredomtherapy.com/sand-river-iraq/" title="This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/sand-river2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="sand-river2"><div>This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why</div></a><a attrname="MenuBar" row="3" href="http://boredomtherapy.com/transformer-ufo/" title="Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ufo2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ufo2"><div>Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia</div></a><a attrname="MenuBar" row="4" href="http://boredomtherapy.com/dolly-parton-agrees/" title="4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/boy-song1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="boy-song1"><div>4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away</div></a><a attrname="MenuBar" row="5" href="http://boredomtherapy.com/mom-hits-daughter-on-camera/" title="Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/woman-hitting-daughter-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="woman-hitting-daughter-1"><div>Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage</div></a></div>						</div>
+							<div class="menuposts"><a attrname="MenuBar" row="2" href="http://boredomtherapy.com/wood-chopping-hack/" title="Man Puts A Log Inside An Old Tire For This Truly Genius Reason"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/wood-chopping-336x175.png" class="attachment-grid-thumb wp-post-image" alt="wood-chopping"><div>Man Puts A Log Inside An Old Tire For This Truly Genius Reason</div></a><a attrname="MenuBar" row="3" href="http://boredomtherapy.com/living-in-a-sewer-for-22-years/" title="See The Stunning Secret That’s Been Hiding Inside This Sewer For 22 Years"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/living-in-sewer-336x175.png" class="attachment-grid-thumb wp-post-image" alt="living-in-sewer"><div>See The Stunning Secret That’s Been Hiding Inside This Sewer For 22 Years</div></a><a attrname="MenuBar" row="4" href="http://boredomtherapy.com/centralia-ghost-town-on-fire/" title="This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/11/town-on-fire-336x175.png" class="attachment-grid-thumb wp-post-image" alt="town-on-fire"><div>This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight</div></a><a attrname="MenuBar" row="5" href="http://boredomtherapy.com/w-sitting-problem/" title="Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/w-sitting-fb-336x175.png" class="attachment-grid-thumb wp-post-image" alt="w-sitting-fb"><div>Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away</div></a></div>						</div>
 					</div>
 				</div>
 
 					<div id="entertainmentmenu" class="dropcontainer clearfix">
 		<div class="submenu">
-			<div id="menu-item-15637" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15637"><a href="http://boredomtherapy.com/category/entertainment/">All Entertainment</a><div class="menuposts"><a attrname="MenuBar" row="6" href="http://boredomtherapy.com/transformer-ufo/" title="Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ufo2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ufo2"><div>Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia</div></a><a attrname="MenuBar" row="7" href="http://boredomtherapy.com/dolly-parton-agrees/" title="4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/boy-song1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="boy-song1"><div>4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away</div></a><a attrname="MenuBar" row="8" href="http://boredomtherapy.com/10-ufo-sightings/" title="These 10 Jaw-Dropping UFO Sightings Might Just Convince You That Aliens Exist"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/meep-336x175.png" class="attachment-grid-thumb wp-post-image" alt="meep"><div>These 10 Jaw-Dropping UFO Sightings Might Just Convince You That Aliens Exist</div></a><a attrname="MenuBar" row="9" href="http://boredomtherapy.com/adorable-kitten-rescue/" title="These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/pas-336x175.png" class="attachment-grid-thumb wp-post-image" alt="pas"><div>These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart</div></a></div></div>
-<div id="menu-item-14977" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14977"><a href="http://boredomtherapy.com/category/entertainment/funny-entertainment/">Funny</a><div class="menuposts"><a attrname="MenuBar" row="10" href="http://boredomtherapy.com/frontloader-truck-skills/" title="This Plow’s Wheels Begin Lifting Off The Ground, And How The Driver Reacts Is Crazy"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/plow-tricks-pic-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="plow tricks pic 2"><div>This Plow’s Wheels Begin Lifting Off The Ground, And How The Driver Reacts Is Crazy</div></a><a attrname="MenuBar" row="11" href="http://boredomtherapy.com/dogs-are-people/" title="These 21 Hilarious Dogs Are Convinced They’re People, And We’re Not So Sure They’re Wrong"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Dog-humans-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Dog humans collage"><div>These 21 Hilarious Dogs Are Convinced They’re People, And We’re Not So Sure They’re Wrong</div></a><a attrname="MenuBar" row="12" href="http://boredomtherapy.com/great-dane-rubber-face/" title="This Enormous Dog’s Face Is Totally Bizarre, But It’s Turning Him Into An Internet Superstar!"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/mab-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mab"><div>This Enormous Dog’s Face Is Totally Bizarre, But It’s Turning Him Into An Internet Superstar!</div></a><a attrname="MenuBar" row="13" href="http://boredomtherapy.com/we-never-noticed/" title="There’s Something Strange About These 8 Pictures — And You Won’t Be Able To Unsee Them"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/funny-6-336x175.png" class="attachment-grid-thumb wp-post-image" alt="funny-6"><div>There’s Something Strange About These 8 Pictures — And You Won’t Be Able To Unsee Them</div></a></div></div>
-<div id="menu-item-14980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14980"><a href="http://boredomtherapy.com/category/entertainment/weird-entertainment/">Weird</a><div class="menuposts"><a attrname="MenuBar" row="14" href="http://boredomtherapy.com/transformer-ufo/" title="Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ufo2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ufo2"><div>Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia</div></a><a attrname="MenuBar" row="15" href="http://boredomtherapy.com/10-ufo-sightings/" title="These 10 Jaw-Dropping UFO Sightings Might Just Convince You That Aliens Exist"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/meep-336x175.png" class="attachment-grid-thumb wp-post-image" alt="meep"><div>These 10 Jaw-Dropping UFO Sightings Might Just Convince You That Aliens Exist</div></a><a attrname="MenuBar" row="16" href="http://boredomtherapy.com/rubber-glove-factory/" title="This Latex Glove Factory Has To Be The Weirdest Place To Work In The World"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/latex-gloves-336x175.png" class="attachment-grid-thumb wp-post-image" alt="latex-gloves"><div>This Latex Glove Factory Has To Be The Weirdest Place To Work In The World</div></a><a attrname="MenuBar" row="17" href="http://boredomtherapy.com/radio-broadcasts/" title="No One Knows Where These Radio Broadcasts Are Coming From, But They’ll Haunt Your Dreams Forever"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Creepy_pic-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Creepy_pic"><div>No One Knows Where These Radio Broadcasts Are Coming From, But They’ll Haunt Your Dreams Forever</div></a></div></div>
-<div id="menu-item-14976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14976"><a href="http://boredomtherapy.com/category/entertainment/cute-entertainment/">Cute</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/adorable-kitten-rescue/" title="These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/pas-336x175.png" class="attachment-grid-thumb wp-post-image" alt="pas"><div>These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/picky-eater/" title="Tearful Little Boy Has An Adorably Misguided Reason For Refusing To Eat His Dinner"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/blaso-336x175.png" class="attachment-grid-thumb wp-post-image" alt="blaso"><div>Tearful Little Boy Has An Adorably Misguided Reason For Refusing To Eat His Dinner</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/little-mermaid-song/" title="Father Records His Little Girl Singing, And It’s The Most Adorable Thing Ever"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Little-Girl-Singing-Pic-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Little Girl Singing Pic"><div>Father Records His Little Girl Singing, And It’s The Most Adorable Thing Ever</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/cats-react-to-new-baby/" title="Cat Meets His New Baby Brother For The First Time, And We Can’t Get Enough Of His Reaction"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/funn-336x175.png" class="attachment-grid-thumb wp-post-image" alt="funn"><div>Cat Meets His New Baby Brother For The First Time, And We Can’t Get Enough Of His Reaction</div></a></div></div>
-<div id="menu-item-14978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14978"><a href="http://boredomtherapy.com/category/entertainment/pop-culture/">Pop Culture</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/dolly-parton-agrees/" title="4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/boy-song1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="boy-song1"><div>4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/little-house-prairie/" title="10 Facts About ‘Little House On The Prairie’ That Will Make You Want To Re-Watch"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Laura-and-Mary-pic-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Laura and Mary pic"><div>10 Facts About ‘Little House On The Prairie’ That Will Make You Want To Re-Watch</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/18-misconceptions/" title="These 18 Common Misconceptions Prove That Everything You Know Is A Lie"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/misconception-336x175.png" class="attachment-grid-thumb wp-post-image" alt="misconception"><div>These 18 Common Misconceptions Prove That Everything You Know Is A Lie</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/makeup-artist/" title="Woman Paints Cartoon Characters On Her Mouth With Makeup, And It’s Amazing"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Girl-paint-makeup1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Girl paint makeup"><div>Woman Paints Cartoon Characters On Her Mouth With Makeup, And It’s Amazing</div></a></div></div>
+			<div id="menu-item-15637" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15637"><a href="http://boredomtherapy.com/category/entertainment/">All Entertainment</a><div class="menuposts"><a attrname="MenuBar" row="6" href="http://boredomtherapy.com/centralia-ghost-town-on-fire/" title="This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/11/town-on-fire-336x175.png" class="attachment-grid-thumb wp-post-image" alt="town-on-fire"><div>This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight</div></a><a attrname="MenuBar" row="7" href="http://boredomtherapy.com/ironic-photos/" title="31 Of The Most Ridiculously Ironic Pictures Ever Taken"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/ironic-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ironic collage"><div>31 Of The Most Ridiculously Ironic Pictures Ever Taken</div></a><a attrname="MenuBar" row="8" href="http://boredomtherapy.com/lone-star-tick-vegetarians/" title="One Bite From This Bug Can Turn People Into Vegetarians Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/07/lone-star-tick-meat-allergy-FB.png" class="attachment-grid-thumb wp-post-image" alt="lone-star-tick-meat-allergy-FB"><div>One Bite From This Bug Can Turn People Into Vegetarians Overnight</div></a><a attrname="MenuBar" row="9" href="http://boredomtherapy.com/archeological-mysteries/" title="10 Mysterious Archaeological Finds That Still Baffle Scientists"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/vase-336x175.png" class="attachment-grid-thumb wp-post-image" alt="vase"><div>10 Mysterious Archaeological Finds That Still Baffle Scientists</div></a></div></div>
+<div id="menu-item-14977" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14977"><a href="http://boredomtherapy.com/category/entertainment/funny-entertainment/">Funny</a><div class="menuposts"><a attrname="MenuBar" row="10" href="http://boredomtherapy.com/ironic-photos/" title="31 Of The Most Ridiculously Ironic Pictures Ever Taken"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/ironic-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ironic collage"><div>31 Of The Most Ridiculously Ironic Pictures Ever Taken</div></a><a attrname="MenuBar" row="11" href="http://boredomtherapy.com/lazy-people-hacks/" title="14 Of The Most Hilariously Lazy People Ever"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/lazy-336x175.png" class="attachment-grid-thumb wp-post-image" alt="lazy"><div>14 Of The Most Hilariously Lazy People Ever</div></a><a attrname="MenuBar" row="12" href="http://boredomtherapy.com/cringe-worthy-stories/" title="30 People Reveal The Funniest, Most Cringeworthy Stories From Their Pasts"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/cringe-3-336x175.png" class="attachment-grid-thumb wp-post-image" alt="cringe-3"><div>30 People Reveal The Funniest, Most Cringeworthy Stories From Their Pasts</div></a><a attrname="MenuBar" row="13" href="http://boredomtherapy.com/terrible-inventions/" title="14 Of The Most Preposterous Inventions Of All Time"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/weird-inventions-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="weird inventions 2"><div>14 Of The Most Preposterous Inventions Of All Time</div></a></div></div>
+<div id="menu-item-14980" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14980"><a href="http://boredomtherapy.com/category/entertainment/weird-entertainment/">Weird</a><div class="menuposts"><a attrname="MenuBar" row="14" href="http://boredomtherapy.com/centralia-ghost-town-on-fire/" title="This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/11/town-on-fire-336x175.png" class="attachment-grid-thumb wp-post-image" alt="town-on-fire"><div>This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight</div></a><a attrname="MenuBar" row="15" href="http://boredomtherapy.com/lone-star-tick-vegetarians/" title="One Bite From This Bug Can Turn People Into Vegetarians Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/07/lone-star-tick-meat-allergy-FB.png" class="attachment-grid-thumb wp-post-image" alt="lone-star-tick-meat-allergy-FB"><div>One Bite From This Bug Can Turn People Into Vegetarians Overnight</div></a><a attrname="MenuBar" row="16" href="http://boredomtherapy.com/archeological-mysteries/" title="10 Mysterious Archaeological Finds That Still Baffle Scientists"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/vase-336x175.png" class="attachment-grid-thumb wp-post-image" alt="vase"><div>10 Mysterious Archaeological Finds That Still Baffle Scientists</div></a><a attrname="MenuBar" row="17" href="http://boredomtherapy.com/man-finds-giant-emerald/" title="Man Goes Into Hiding Out Of Fear For His Life After Finding A Massive Emerald"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/emerald-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="emerald-1"><div>Man Goes Into Hiding Out Of Fear For His Life After Finding A Massive Emerald</div></a></div></div>
+<div id="menu-item-14976" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14976"><a href="http://boredomtherapy.com/category/entertainment/cute-entertainment/">Cute</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/best-friend-couples/" title="19 Lucky People Who Clearly Married Their Best Friend"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/05/couple-3-336x175.png" class="attachment-grid-thumb wp-post-image" alt="couple-3"><div>19 Lucky People Who Clearly Married Their Best Friend</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/cat-hidden-wood/" title="There’s A Cat Hiding In This Photo And Almost No One Can Find It"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/07/hidden-wood-cat-ds-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="hidden-wood-cat-ds-2"><div>There’s A Cat Hiding In This Photo And Almost No One Can Find It</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/in-love-since-preschool/" title="Woman Shows An Old Class Photo To Her Boyfriend That Turns Their Relationship Upside Down"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/04/class-photo-336x175.png" class="attachment-grid-thumb wp-post-image" alt="class photo"><div>Woman Shows An Old Class Photo To Her Boyfriend That Turns Their Relationship Upside Down</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/thats-alotl-axolotls/" title="Woman Buys A Bottle Full Of Black Squiggles And Finds These Bizarre Creatures"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/04/amphibians-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="amphibians-1"><div>Woman Buys A Bottle Full Of Black Squiggles And Finds These Bizarre Creatures</div></a></div></div>
+<div id="menu-item-14978" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14978"><a href="http://boredomtherapy.com/category/entertainment/pop-culture/">Pop Culture</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/mermaid-food/" title="Instagram’s New ‘Mermaid Food’ Craze Has One Very Unusual Ingredient"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/mermaidfood-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mermaidfood"><div>Instagram’s New ‘Mermaid Food’ Craze Has One Very Unusual Ingredient</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/secrets-about-everyday-items/" title="7 Secrets About Everyday Items Most People Have Never Noticed"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/coins-336x175.png" class="attachment-grid-thumb wp-post-image" alt="coins"><div>7 Secrets About Everyday Items Most People Have Never Noticed</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/real-facts-that-sound-fake/" title="17 Completely Real Facts That Sound Too Crazy To Be True"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/05/fact-31-336x175.png" class="attachment-grid-thumb wp-post-image" alt="fact-3"><div>17 Completely Real Facts That Sound Too Crazy To Be True</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/actors-scarred-by-roles/" title="10 Actors Who Were Emotionally Scarred For Life By Their Most Famous Roles"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/05/roles-336x175.png" class="attachment-grid-thumb wp-post-image" alt="roles"><div>10 Actors Who Were Emotionally Scarred For Life By Their Most Famous Roles</div></a></div></div>
 		</div>
 	</div>
 		<div id="lifemenu" class="dropcontainer clearfix">
 		<div class="submenu">
-			<div id="menu-item-15645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15645"><a href="http://boredomtherapy.com/category/life/">All Life</a><div class="menuposts"><a attrname="MenuBar" row="10" href="http://boredomtherapy.com/mom-hits-daughter-on-camera/" title="Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/woman-hitting-daughter-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="woman-hitting-daughter-1"><div>Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage</div></a><a attrname="MenuBar" row="11" href="http://boredomtherapy.com/adorable-kitten-rescue/" title="These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/pas-336x175.png" class="attachment-grid-thumb wp-post-image" alt="pas"><div>These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart</div></a><a attrname="MenuBar" row="12" href="http://boredomtherapy.com/picky-eater/" title="Tearful Little Boy Has An Adorably Misguided Reason For Refusing To Eat His Dinner"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/blaso-336x175.png" class="attachment-grid-thumb wp-post-image" alt="blaso"><div>Tearful Little Boy Has An Adorably Misguided Reason For Refusing To Eat His Dinner</div></a><a attrname="MenuBar" row="13" href="http://boredomtherapy.com/diy-poo-spray/" title="This Homemade ‘Poo Spray’ Could Be a Real Live Saver And It’s Super Easy To Make"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ty-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ty"><div>This Homemade ‘Poo Spray’ Could Be a Real Live Saver And It’s Super Easy To Make</div></a></div></div>
-<div id="menu-item-14981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14981"><a href="http://boredomtherapy.com/category/life/animals-life/">Animals</a><div class="menuposts"><a attrname="MenuBar" row="14" href="http://boredomtherapy.com/adorable-kitten-rescue/" title="These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/pas-336x175.png" class="attachment-grid-thumb wp-post-image" alt="pas"><div>These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart</div></a><a attrname="MenuBar" row="15" href="http://boredomtherapy.com/dogs-are-people/" title="These 21 Hilarious Dogs Are Convinced They’re People, And We’re Not So Sure They’re Wrong"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Dog-humans-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Dog humans collage"><div>These 21 Hilarious Dogs Are Convinced They’re People, And We’re Not So Sure They’re Wrong</div></a><a attrname="MenuBar" row="16" href="http://boredomtherapy.com/mother-elephant-protects-baby/" title="Rescuers Free A Baby Elephant After He Gets Caught In Poacher Wire"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Elephant-baby-Pic-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Elephant baby Pic"><div>Rescuers Free A Baby Elephant After He Gets Caught In Poacher Wire</div></a><a attrname="MenuBar" row="17" href="http://boredomtherapy.com/great-dane-rubber-face/" title="This Enormous Dog’s Face Is Totally Bizarre, But It’s Turning Him Into An Internet Superstar!"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/mab-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mab"><div>This Enormous Dog’s Face Is Totally Bizarre, But It’s Turning Him Into An Internet Superstar!</div></a></div></div>
-<div id="menu-item-14983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14983"><a href="http://boredomtherapy.com/category/life/family-life/">Family</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/mom-hits-daughter-on-camera/" title="Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/woman-hitting-daughter-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="woman-hitting-daughter-1"><div>Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/picky-eater/" title="Tearful Little Boy Has An Adorably Misguided Reason For Refusing To Eat His Dinner"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/blaso-336x175.png" class="attachment-grid-thumb wp-post-image" alt="blaso"><div>Tearful Little Boy Has An Adorably Misguided Reason For Refusing To Eat His Dinner</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/stolen-baby/" title="Woman Kills A Mother And Steals Her Baby In Order To Cover Up This Horrifying Secret"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/mom-killer-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mom killer"><div>Woman Kills A Mother And Steals Her Baby In Order To Cover Up This Horrifying Secret</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/rare-eye-condition-facebook/" title="Friends Point Out Rare Medical Condition After Mom Posts A Photo Of Her Daughter On Facebook"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/rylee-taylor-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="rylee-taylor-1"><div>Friends Point Out Rare Medical Condition After Mom Posts A Photo Of Her Daughter On Facebook</div></a></div></div>
-<div id="menu-item-14984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14984"><a href="http://boredomtherapy.com/category/life/inspirational-life/">Inspirational</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/replace-his-roof/" title="Man Sees His 75-Year-Old Neighbor Trying To Replace His Roof, And Steps Up In A Big Way"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/old-roof-11-336x175.png" class="attachment-grid-thumb wp-post-image" alt="old-roof-1"><div>Man Sees His 75-Year-Old Neighbor Trying To Replace His Roof, And Steps Up In A Big Way</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/pilot-amazing-service/" title="Pilot Makes An Incredibly Moving Announcement After He Learns That There Are Human Remains On Board"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/reml-336x175.png" class="attachment-grid-thumb wp-post-image" alt="reml"><div>Pilot Makes An Incredibly Moving Announcement After He Learns That There Are Human Remains On Board</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/former-addict-shares-message/" title="She Promised Her Grandpa She’d Get Clean And Sober, And Now She Looks Like A Whole New Woman"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/methquit-336x175.png" class="attachment-grid-thumb wp-post-image" alt="methquit"><div>She Promised Her Grandpa She’d Get Clean And Sober, And Now She Looks Like A Whole New Woman</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/abducted-son-resolution/" title="Mother Reunites With Her Abducted Baby Boy… 21 Years After He Went Missing"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/abducted-boy1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="abducted-boy1"><div>Mother Reunites With Her Abducted Baby Boy… 21 Years After He Went Missing</div></a></div></div>
-<div id="menu-item-14982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14982"><a href="http://boredomtherapy.com/category/life/diy/">DIY</a><div class="menuposts"><a attrname="MenuBar" row="26" href="http://boredomtherapy.com/diy-poo-spray/" title="This Homemade ‘Poo Spray’ Could Be a Real Live Saver And It’s Super Easy To Make"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ty-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ty"><div>This Homemade ‘Poo Spray’ Could Be a Real Live Saver And It’s Super Easy To Make</div></a><a attrname="MenuBar" row="27" href="http://boredomtherapy.com/ikea-hack/" title="Woman Builds A New Bed Out Of IKEA Bookshelves And Completely Declutters Her Life"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Girl-Ikea-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Girl Ikea"><div>Woman Builds A New Bed Out Of IKEA Bookshelves And Completely Declutters Her Life</div></a><a attrname="MenuBar" row="28" href="http://boredomtherapy.com/wax-paper-hacks/" title="10 Ways You’ve Never Thought To Use Wax Paper That Could Save You A Fortune"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/feet1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="feet"><div>10 Ways You’ve Never Thought To Use Wax Paper That Could Save You A Fortune</div></a><a attrname="MenuBar" row="29" href="http://boredomtherapy.com/coffee-filter-hacks/" title="Here Are 15 Extremely Clever Things You Didn’t Know You Could Do With Coffee Filters"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/bas-336x175.png" class="attachment-grid-thumb wp-post-image" alt="bas"><div>Here Are 15 Extremely Clever Things You Didn’t Know You Could Do With Coffee Filters</div></a></div></div>
-<div id="menu-item-14985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14985"><a href="http://boredomtherapy.com/category/life/society-life/">Society</a><div class="menuposts"><a attrname="MenuBar" row="30" href="http://boredomtherapy.com/mom-hits-daughter-on-camera/" title="Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/woman-hitting-daughter-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="woman-hitting-daughter-1"><div>Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage</div></a><a attrname="MenuBar" row="31" href="http://boredomtherapy.com/replace-his-roof/" title="Man Sees His 75-Year-Old Neighbor Trying To Replace His Roof, And Steps Up In A Big Way"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/old-roof-11-336x175.png" class="attachment-grid-thumb wp-post-image" alt="old-roof-1"><div>Man Sees His 75-Year-Old Neighbor Trying To Replace His Roof, And Steps Up In A Big Way</div></a><a attrname="MenuBar" row="32" href="http://boredomtherapy.com/18-misconceptions/" title="These 18 Common Misconceptions Prove That Everything You Know Is A Lie"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/misconception-336x175.png" class="attachment-grid-thumb wp-post-image" alt="misconception"><div>These 18 Common Misconceptions Prove That Everything You Know Is A Lie</div></a><a attrname="MenuBar" row="33" href="http://boredomtherapy.com/strange-laws/" title="These 13 Laws From Around The World Are The Strangest Rules You’ll Ever Have To Follow"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Monkey-smoking-pic-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Monkey smoking pic"><div>These 13 Laws From Around The World Are The Strangest Rules You’ll Ever Have To Follow</div></a></div></div>
+			<div id="menu-item-15645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15645"><a href="http://boredomtherapy.com/category/life/">All Life</a><div class="menuposts"><a attrname="MenuBar" row="10" href="http://boredomtherapy.com/wood-chopping-hack/" title="Man Puts A Log Inside An Old Tire For This Truly Genius Reason"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/wood-chopping-336x175.png" class="attachment-grid-thumb wp-post-image" alt="wood-chopping"><div>Man Puts A Log Inside An Old Tire For This Truly Genius Reason</div></a><a attrname="MenuBar" row="11" href="http://boredomtherapy.com/living-in-a-sewer-for-22-years/" title="See The Stunning Secret That’s Been Hiding Inside This Sewer For 22 Years"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/living-in-sewer-336x175.png" class="attachment-grid-thumb wp-post-image" alt="living-in-sewer"><div>See The Stunning Secret That’s Been Hiding Inside This Sewer For 22 Years</div></a><a attrname="MenuBar" row="12" href="http://boredomtherapy.com/w-sitting-problem/" title="Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/w-sitting-fb-336x175.png" class="attachment-grid-thumb wp-post-image" alt="w-sitting-fb"><div>Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away</div></a><a attrname="MenuBar" row="13" href="http://boredomtherapy.com/chicken-coop-project/" title="Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/01/playset-diy-FB-336x175.png" class="attachment-grid-thumb wp-post-image" alt="playset-diy-FB"><div>Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard</div></a></div></div>
+<div id="menu-item-14981" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14981"><a href="http://boredomtherapy.com/category/life/animals-life/">Animals</a><div class="menuposts"><a attrname="MenuBar" row="14" href="http://boredomtherapy.com/satanic-leaf-tailed-gecko/" title="Good Luck Finding This ‘Satanic’ Lizard, Nature’s Master Of Camouflage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/gecko-336x175.png" class="attachment-grid-thumb wp-post-image" alt="gecko"><div>Good Luck Finding This ‘Satanic’ Lizard, Nature’s Master Of Camouflage</div></a><a attrname="MenuBar" row="15" href="http://boredomtherapy.com/fictional-animals/" title="7 Crazy Creatures That Humans Once Believed Were Real"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/05/mythincal-animals-6-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mythincal-animals-6"><div>7 Crazy Creatures That Humans Once Believed Were Real</div></a><a attrname="MenuBar" row="16" href="http://boredomtherapy.com/eerie-abandoned-hospital/" title="Man Makes Shocking Discovery After Hearing Eerie Cries In An Abandoned Hospital"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/03/abandoned-hospital-336x175.png" class="attachment-grid-thumb wp-post-image" alt="abandoned-hospital"><div>Man Makes Shocking Discovery After Hearing Eerie Cries In An Abandoned Hospital</div></a><a attrname="MenuBar" row="17" href="http://boredomtherapy.com/hidden-dog-picture-test/" title="There Is A Dog Hiding In This Herd Of Cows And It’s Nearly Impossible To Find"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/08/dog-336x175.png" class="attachment-grid-thumb wp-post-image" alt="dog"><div>There Is A Dog Hiding In This Herd Of Cows And It’s Nearly Impossible To Find</div></a></div></div>
+<div id="menu-item-14983" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14983"><a href="http://boredomtherapy.com/category/life/family-life/">Family</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/w-sitting-problem/" title="Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/w-sitting-fb-336x175.png" class="attachment-grid-thumb wp-post-image" alt="w-sitting-fb"><div>Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/baby-boxes-in-finland/" title="The Brilliant Reason Why Newborn Babies In This Country Sleep In Cardboard Boxes"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/04/finland-baby-boxes-fb.png" class="attachment-grid-thumb wp-post-image" alt="finland-baby-boxes-fb"><div>The Brilliant Reason Why Newborn Babies In This Country Sleep In Cardboard Boxes</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/alissia-freeman/" title="Teen Girl Is Missing For 16 Months Before Police Finally Get A Startling Clue"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/missing-teen-336x175.png" class="attachment-grid-thumb wp-post-image" alt="missing teen"><div>Teen Girl Is Missing For 16 Months Before Police Finally Get A Startling Clue</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/insane-man-wives/" title="Meet The Man Who Has 39 Wives, 94 Children, And 33 Grandchildren All Living Under One Roof"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/crazy-11-336x175.png" class="attachment-grid-thumb wp-post-image" alt="crazy-1"><div>Meet The Man Who Has 39 Wives, 94 Children, And 33 Grandchildren All Living Under One Roof</div></a></div></div>
+<div id="menu-item-14984" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14984"><a href="http://boredomtherapy.com/category/life/inspirational-life/">Inspirational</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/homeless-poet-discovered/" title="Homeless Man Hands Woman A Single Piece Of Paper That Changes Both Of Their Lives"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/09/homeless-poet.png" class="attachment-grid-thumb wp-post-image" alt="homeless-poet"><div>Homeless Man Hands Woman A Single Piece Of Paper That Changes Both Of Their Lives</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/scientist-falls-on-mountain/" title="Scientist Falls 70 Feet Into An Icy Crevasse And Catches The Whole Thing On Camera"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/crevasse-336x175.png" class="attachment-grid-thumb wp-post-image" alt="crevasse"><div>Scientist Falls 70 Feet Into An Icy Crevasse And Catches The Whole Thing On Camera</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/ups-driver/" title="UPS Driver Saves A Mother And Her Baby After Seeing The Note Scribbled On A Package"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/ups-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ups"><div>UPS Driver Saves A Mother And Her Baby After Seeing The Note Scribbled On A Package</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/quarter-gravestone-military/" title="People Are Putting Coins On Gravestones For A Tragic But Deeply Moving Reason"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/02/coin-grave-336x175.png" class="attachment-grid-thumb wp-post-image" alt="coin-grave"><div>People Are Putting Coins On Gravestones For A Tragic But Deeply Moving Reason</div></a></div></div>
+<div id="menu-item-14982" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14982"><a href="http://boredomtherapy.com/category/life/diy/">DIY</a><div class="menuposts"><a attrname="MenuBar" row="26" href="http://boredomtherapy.com/wood-chopping-hack/" title="Man Puts A Log Inside An Old Tire For This Truly Genius Reason"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/wood-chopping-336x175.png" class="attachment-grid-thumb wp-post-image" alt="wood-chopping"><div>Man Puts A Log Inside An Old Tire For This Truly Genius Reason</div></a><a attrname="MenuBar" row="27" href="http://boredomtherapy.com/chicken-coop-project/" title="Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/01/playset-diy-FB-336x175.png" class="attachment-grid-thumb wp-post-image" alt="playset-diy-FB"><div>Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard</div></a><a attrname="MenuBar" row="28" href="http://boredomtherapy.com/how-to-reuse-old-tires-diy/" title="12 Super Creative Ways To Reuse Old Car Tires Around The House"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/rope-tire-336x175.png" class="attachment-grid-thumb wp-post-image" alt="rope-tire"><div>12 Super Creative Ways To Reuse Old Car Tires Around The House</div></a><a attrname="MenuBar" row="29" href="http://boredomtherapy.com/infinity-table/" title="Teenage Boy Wins Award For One Of The Most Impressive DIY Creations Ever"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/infinity-336x175.png" class="attachment-grid-thumb wp-post-image" alt="infinity"><div>Teenage Boy Wins Award For One Of The Most Impressive DIY Creations Ever</div></a></div></div>
+<div id="menu-item-14985" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14985"><a href="http://boredomtherapy.com/category/life/society-life/">Society</a><div class="menuposts"><a attrname="MenuBar" row="30" href="http://boredomtherapy.com/living-in-a-sewer-for-22-years/" title="See The Stunning Secret That’s Been Hiding Inside This Sewer For 22 Years"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/living-in-sewer-336x175.png" class="attachment-grid-thumb wp-post-image" alt="living-in-sewer"><div>See The Stunning Secret That’s Been Hiding Inside This Sewer For 22 Years</div></a><a attrname="MenuBar" row="31" href="http://boredomtherapy.com/baby-boxes-in-finland/" title="The Brilliant Reason Why Newborn Babies In This Country Sleep In Cardboard Boxes"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/04/finland-baby-boxes-fb.png" class="attachment-grid-thumb wp-post-image" alt="finland-baby-boxes-fb"><div>The Brilliant Reason Why Newborn Babies In This Country Sleep In Cardboard Boxes</div></a><a attrname="MenuBar" row="32" href="http://boredomtherapy.com/most-emotional-photographs/" title="36 Incredible Pictures That Show The Full Range Of Human Emotion"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/emotion4-336x175.png" class="attachment-grid-thumb wp-post-image" alt="emotion4"><div>36 Incredible Pictures That Show The Full Range Of Human Emotion</div></a><a attrname="MenuBar" row="33" href="http://boredomtherapy.com/stump-houses/" title="Stump Houses Were All The Rage With Early Settlers And They Were Actually Pretty Awesome"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/stumphouse-336x175.png" class="attachment-grid-thumb wp-post-image" alt="stumphouse"><div>Stump Houses Were All The Rage With Early Settlers And They Were Actually Pretty Awesome</div></a></div></div>
 		</div>
 	</div>
 		<div id="culturemenu" class="dropcontainer clearfix">
 		<div class="submenu">
-			<div id="menu-item-15638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15638"><a href="http://boredomtherapy.com/category/culture/">All Culture</a><div class="menuposts"><a attrname="MenuBar" row="14" href="http://boredomtherapy.com/sand-river-iraq/" title="This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/sand-river2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="sand-river2"><div>This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why</div></a><a attrname="MenuBar" row="15" href="http://boredomtherapy.com/dolly-parton-agrees/" title="4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/boy-song1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="boy-song1"><div>4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away</div></a><a attrname="MenuBar" row="16" href="http://boredomtherapy.com/crazy-tongue-twisters/" title="These Are Supposed To Be The Hardest Tongue Twisters In The World, And They’re Driving Us Crazy"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Tongue-collage-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Tongue collage 1"><div>These Are Supposed To Be The Hardest Tongue Twisters In The World, And They’re Driving Us Crazy</div></a><a attrname="MenuBar" row="17" href="http://boredomtherapy.com/dancing-mania/" title="Mysterious Disease Used To Make People Dance Uncontrollably, And Nobody Knows Why."><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Dance-Mania-Collage-copy-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Dance Mania Collage copy"><div>Mysterious Disease Used To Make People Dance Uncontrollably, And Nobody Knows Why.</div></a></div></div>
-<div id="menu-item-14989" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14989"><a href="http://boredomtherapy.com/category/culture/creativity-culture/">Creativity</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/dolly-parton-agrees/" title="4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/boy-song1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="boy-song1"><div>4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/crazy-tongue-twisters/" title="These Are Supposed To Be The Hardest Tongue Twisters In The World, And They’re Driving Us Crazy"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Tongue-collage-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Tongue collage 1"><div>These Are Supposed To Be The Hardest Tongue Twisters In The World, And They’re Driving Us Crazy</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/floating-bonsai-trees/" title="Scientists Take Ordinary Bonsai Trees And Turn Them Into Something That Defies Gravity"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Bonsai-floating-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Bonsai floating"><div>Scientists Take Ordinary Bonsai Trees And Turn Them Into Something That Defies Gravity</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/wax-paper-hacks/" title="10 Ways You’ve Never Thought To Use Wax Paper That Could Save You A Fortune"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/feet1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="feet"><div>10 Ways You’ve Never Thought To Use Wax Paper That Could Save You A Fortune</div></a></div></div>
-<div id="menu-item-14992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14992"><a href="http://boredomtherapy.com/category/culture/photography-culture/">Photography</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/sand-river-iraq/" title="This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/sand-river2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="sand-river2"><div>This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/food-in-the-wild/" title="These Pictures Of Food In The Wild Prove You Have No Idea What You’ve Been Eating All This Time"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/wild-collage-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="wild collage 2"><div>These Pictures Of Food In The Wild Prove You Have No Idea What You’ve Been Eating All This Time</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/crouching-tiger-hidden-snow-leopard/" title="The Camouflaged Snow Leopard In This Photo Is Almost Impossible To Find"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/crouching-tiger-hidden-snow-leopard-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="crouching-tiger-hidden-snow-leopard-1"><div>The Camouflaged Snow Leopard In This Photo Is Almost Impossible To Find</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/bizarre-sea-creatures/" title="A Russian Deep Sea Fisherman Posts Photos Of The Most Bizarre Creatures Ever Seen"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/deep-sea-freak-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="deep-sea-freak-1"><div>A Russian Deep Sea Fisherman Posts Photos Of The Most Bizarre Creatures Ever Seen</div></a></div></div>
-<div id="menu-item-14990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14990"><a href="http://boredomtherapy.com/category/culture/food-culture/">Food</a><div class="menuposts"><a attrname="MenuBar" row="26" href="http://boredomtherapy.com/food-in-the-wild/" title="These Pictures Of Food In The Wild Prove You Have No Idea What You’ve Been Eating All This Time"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/wild-collage-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="wild collage 2"><div>These Pictures Of Food In The Wild Prove You Have No Idea What You’ve Been Eating All This Time</div></a><a attrname="MenuBar" row="27" href="http://boredomtherapy.com/craziest-black-tap-milkshakes/" title="This New York Restaurant’s Mountainous Milkshakes Are Totally Out Of Control"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/me1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="me"><div>This New York Restaurant’s Mountainous Milkshakes Are Totally Out Of Control</div></a><a attrname="MenuBar" row="28" href="http://boredomtherapy.com/best-hacks-to-cut-food/" title="These 15 Ways To Cut Your Food Will Save You Thousands Of Hours In The Kitchen"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/cutting-336x175.png" class="attachment-grid-thumb wp-post-image" alt="cutting"><div>These 15 Ways To Cut Your Food Will Save You Thousands Of Hours In The Kitchen</div></a><a attrname="MenuBar" row="29" href="http://boredomtherapy.com/horrible-tipping-method/" title="This Couple’s ‘Genius’ Tipping Method Is Making People Everywhere Furious"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/hate-336x175.png" class="attachment-grid-thumb wp-post-image" alt="hate"><div>This Couple’s ‘Genius’ Tipping Method Is Making People Everywhere Furious</div></a></div></div>
-<div id="menu-item-14991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14991"><a href="http://boredomtherapy.com/category/culture/history-culture/">History</a><div class="menuposts"><a attrname="MenuBar" row="30" href="http://boredomtherapy.com/dancing-mania/" title="Mysterious Disease Used To Make People Dance Uncontrollably, And Nobody Knows Why."><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Dance-Mania-Collage-copy-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Dance Mania Collage copy"><div>Mysterious Disease Used To Make People Dance Uncontrollably, And Nobody Knows Why.</div></a><a attrname="MenuBar" row="31" href="http://boredomtherapy.com/random-facts/" title="These 12 Completely Random Facts Will Make You The Smartest Person In The Room"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/kiwi-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="kiwi collage"><div>These 12 Completely Random Facts Will Make You The Smartest Person In The Room</div></a><a attrname="MenuBar" row="32" href="http://boredomtherapy.com/clinton-road/" title="Strange And Terrible Things Keep Happening On This New Jersey Road, And Nobody Knows Why"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ril-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ril"><div>Strange And Terrible Things Keep Happening On This New Jersey Road, And Nobody Knows Why</div></a><a attrname="MenuBar" row="33" href="http://boredomtherapy.com/lost-desert-city/" title="Archaeologists Just Found A 7,000-Year-Old City Hidden Beneath The Egyptian Desert"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/egypt-21-336x175.png" class="attachment-grid-thumb wp-post-image" alt="egypt-21"><div>Archaeologists Just Found A 7,000-Year-Old City Hidden Beneath The Egyptian Desert</div></a></div></div>
-<div id="menu-item-14993" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14993"><a href="http://boredomtherapy.com/category/culture/travel-culture/">Travel</a><div class="menuposts"><a attrname="MenuBar" row="34" href="http://boredomtherapy.com/sand-river-iraq/" title="This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/sand-river2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="sand-river2"><div>This Flowing ‘River Of Sand’ Just Appeared In The Desert, And Scientists Have No Idea Why</div></a><a attrname="MenuBar" row="35" href="http://boredomtherapy.com/prosthetic-leg/" title="Two Guys In Wisconsin Find A Leg Stuck In A Beaver Dam, And Do The Right Thing"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/08/das-336x175.png" class="attachment-grid-thumb wp-post-image" alt="das"><div>Two Guys In Wisconsin Find A Leg Stuck In A Beaver Dam, And Do The Right Thing</div></a><a attrname="MenuBar" row="36" href="http://boredomtherapy.com/eiffel-tower-apartment/" title="There’s A Secret Apartment At The Top Of The Eiffel Tower, And It’s Finally Open To The Public"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/eiffel2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="eiffel2"><div>There’s A Secret Apartment At The Top Of The Eiffel Tower, And It’s Finally Open To The Public</div></a><a attrname="MenuBar" row="37" href="http://boredomtherapy.com/hilarious-town-names/" title="Here Are 18 Places You Probably Won’t Want To Tell People You’re From, And For Very Good Reasons"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/weird-name-collage-copy-336x175.png" class="attachment-grid-thumb wp-post-image" alt="weird name collage copy"><div>Here Are 18 Places You Probably Won’t Want To Tell People You’re From, And For Very Good Reasons</div></a></div></div>
+			<div id="menu-item-15638" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15638"><a href="http://boredomtherapy.com/category/culture/">All Culture</a><div class="menuposts"><a attrname="MenuBar" row="14" href="http://boredomtherapy.com/centralia-ghost-town-on-fire/" title="This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/11/town-on-fire-336x175.png" class="attachment-grid-thumb wp-post-image" alt="town-on-fire"><div>This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight</div></a><a attrname="MenuBar" row="15" href="http://boredomtherapy.com/chicken-coop-project/" title="Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/01/playset-diy-FB-336x175.png" class="attachment-grid-thumb wp-post-image" alt="playset-diy-FB"><div>Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard</div></a><a attrname="MenuBar" row="16" href="http://boredomtherapy.com/mysterious-lakes-flood/" title="Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change"><img width="336" height="114" data-src="http://boredomtherapy.com/wp-content/uploads/2014/06/austrian-park-cover.jpg" class="attachment-grid-thumb wp-post-image" alt="austrian-park-cover"><div>Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change</div></a><a attrname="MenuBar" row="17" href="http://boredomtherapy.com/ironic-photos/" title="31 Of The Most Ridiculously Ironic Pictures Ever Taken"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/ironic-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ironic collage"><div>31 Of The Most Ridiculously Ironic Pictures Ever Taken</div></a></div></div>
+<div id="menu-item-14989" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14989"><a href="http://boredomtherapy.com/category/culture/creativity-culture/">Creativity</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/chicken-coop-project/" title="Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/01/playset-diy-FB-336x175.png" class="attachment-grid-thumb wp-post-image" alt="playset-diy-FB"><div>Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/how-to-reuse-old-tires-diy/" title="12 Super Creative Ways To Reuse Old Car Tires Around The House"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/rope-tire-336x175.png" class="attachment-grid-thumb wp-post-image" alt="rope-tire"><div>12 Super Creative Ways To Reuse Old Car Tires Around The House</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/infinity-table/" title="Teenage Boy Wins Award For One Of The Most Impressive DIY Creations Ever"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/infinity-336x175.png" class="attachment-grid-thumb wp-post-image" alt="infinity"><div>Teenage Boy Wins Award For One Of The Most Impressive DIY Creations Ever</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/leonardo-da-vinci-secret/" title="‘Doodles’ In Leonardo Da Vinci’s Notebooks Are Changing The History Of Science"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/davinci-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="davinci-2"><div>‘Doodles’ In Leonardo Da Vinci’s Notebooks Are Changing The History Of Science</div></a></div></div>
+<div id="menu-item-14992" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14992"><a href="http://boredomtherapy.com/category/culture/photography-culture/">Photography</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/ironic-photos/" title="31 Of The Most Ridiculously Ironic Pictures Ever Taken"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/ironic-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ironic collage"><div>31 Of The Most Ridiculously Ironic Pictures Ever Taken</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/most-emotional-photographs/" title="36 Incredible Pictures That Show The Full Range Of Human Emotion"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/emotion4-336x175.png" class="attachment-grid-thumb wp-post-image" alt="emotion4"><div>36 Incredible Pictures That Show The Full Range Of Human Emotion</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/victorian-mug-shots-children/" title="Chilling Mug Shots Of Child Criminals From Victorian Times"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/mug2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mug2"><div>Chilling Mug Shots Of Child Criminals From Victorian Times</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/colorized-war-photos/" title="Newly Colorized WWII Photos Transport Us Into The Past Like Never Before"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/ww2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ww2"><div>Newly Colorized WWII Photos Transport Us Into The Past Like Never Before</div></a></div></div>
+<div id="menu-item-14990" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14990"><a href="http://boredomtherapy.com/category/culture/food-culture/">Food</a><div class="menuposts"><a attrname="MenuBar" row="26" href="http://boredomtherapy.com/actual-purpose-of-oven-drawer/" title="The Drawer Beneath The Oven Actually Has A Use Besides Storage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/drawer2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="drawer2"><div>The Drawer Beneath The Oven Actually Has A Use Besides Storage</div></a><a attrname="MenuBar" row="27" href="http://boredomtherapy.com/mermaid-food/" title="Instagram’s New ‘Mermaid Food’ Craze Has One Very Unusual Ingredient"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/mermaidfood-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mermaidfood"><div>Instagram’s New ‘Mermaid Food’ Craze Has One Very Unusual Ingredient</div></a><a attrname="MenuBar" row="28" href="http://boredomtherapy.com/lemon-benefits/" title="Incredible Tricks Using Lemons That Experts Swear By"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/unal-336x175.png" class="attachment-grid-thumb wp-post-image" alt="unal"><div>Incredible Tricks Using Lemons That Experts Swear By</div></a><a attrname="MenuBar" row="29" href="http://boredomtherapy.com/bag-omelette-trick/" title="The One Brilliant Egg Trick That Guarantees The Perfect Omelette Every Time"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/egg-hack-336x175.png" class="attachment-grid-thumb wp-post-image" alt="egg hack"><div>The One Brilliant Egg Trick That Guarantees The Perfect Omelette Every Time</div></a></div></div>
+<div id="menu-item-14991" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14991"><a href="http://boredomtherapy.com/category/culture/history-culture/">History</a><div class="menuposts"><a attrname="MenuBar" row="30" href="http://boredomtherapy.com/archeological-mysteries/" title="10 Mysterious Archaeological Finds That Still Baffle Scientists"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/vase-336x175.png" class="attachment-grid-thumb wp-post-image" alt="vase"><div>10 Mysterious Archaeological Finds That Still Baffle Scientists</div></a><a attrname="MenuBar" row="31" href="http://boredomtherapy.com/stump-houses/" title="Stump Houses Were All The Rage With Early Settlers And They Were Actually Pretty Awesome"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/stumphouse-336x175.png" class="attachment-grid-thumb wp-post-image" alt="stumphouse"><div>Stump Houses Were All The Rage With Early Settlers And They Were Actually Pretty Awesome</div></a><a attrname="MenuBar" row="32" href="http://boredomtherapy.com/the-future-100-years-ago/" title="This Is What People 100 Years Ago Thought Life Would Be Like Today"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/phones-336x175.png" class="attachment-grid-thumb wp-post-image" alt="phones"><div>This Is What People 100 Years Ago Thought Life Would Be Like Today</div></a><a attrname="MenuBar" row="33" href="http://boredomtherapy.com/victorian-mug-shots-children/" title="Chilling Mug Shots Of Child Criminals From Victorian Times"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/mug2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="mug2"><div>Chilling Mug Shots Of Child Criminals From Victorian Times</div></a></div></div>
+<div id="menu-item-14993" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14993"><a href="http://boredomtherapy.com/category/culture/travel-culture/">Travel</a><div class="menuposts"><a attrname="MenuBar" row="34" href="http://boredomtherapy.com/centralia-ghost-town-on-fire/" title="This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/11/town-on-fire-336x175.png" class="attachment-grid-thumb wp-post-image" alt="town-on-fire"><div>This Pennsylvania Town Used To Be A Wonderful Place To Live Until Everyone Left Overnight</div></a><a attrname="MenuBar" row="35" href="http://boredomtherapy.com/mysterious-lakes-flood/" title="Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change"><img width="336" height="114" data-src="http://boredomtherapy.com/wp-content/uploads/2014/06/austrian-park-cover.jpg" class="attachment-grid-thumb wp-post-image" alt="austrian-park-cover"><div>Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change</div></a><a attrname="MenuBar" row="36" href="http://boredomtherapy.com/awesome-japanese-innovations/" title="16 Cool Things From Japan That The Whole World Should Use"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/japan-336x175.png" class="attachment-grid-thumb wp-post-image" alt="japan"><div>16 Cool Things From Japan That The Whole World Should Use</div></a><a attrname="MenuBar" row="37" href="http://boredomtherapy.com/china-travel-tips/" title="Essential Tips Everyone Should Know Before Visiting China"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/china-facts-pic-336x175.png" class="attachment-grid-thumb wp-post-image" alt="china facts pic"><div>Essential Tips Everyone Should Know Before Visiting China</div></a></div></div>
 		</div>
 	</div>
 		<div id="sciencemenu" class="dropcontainer clearfix">
 		<div class="submenu">
-			<div id="menu-item-15646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15646"><a href="http://boredomtherapy.com/category/science/">All Science</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/frontloader-truck-skills/" title="This Plow’s Wheels Begin Lifting Off The Ground, And How The Driver Reacts Is Crazy"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/plow-tricks-pic-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="plow tricks pic 2"><div>This Plow’s Wheels Begin Lifting Off The Ground, And How The Driver Reacts Is Crazy</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/rubber-glove-factory/" title="This Latex Glove Factory Has To Be The Weirdest Place To Work In The World"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/latex-gloves-336x175.png" class="attachment-grid-thumb wp-post-image" alt="latex-gloves"><div>This Latex Glove Factory Has To Be The Weirdest Place To Work In The World</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/floating-bonsai-trees/" title="Scientists Take Ordinary Bonsai Trees And Turn Them Into Something That Defies Gravity"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Bonsai-floating-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Bonsai floating"><div>Scientists Take Ordinary Bonsai Trees And Turn Them Into Something That Defies Gravity</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/rare-eye-condition-facebook/" title="Friends Point Out Rare Medical Condition After Mom Posts A Photo Of Her Daughter On Facebook"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/rylee-taylor-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="rylee-taylor-1"><div>Friends Point Out Rare Medical Condition After Mom Posts A Photo Of Her Daughter On Facebook</div></a></div></div>
-<div id="menu-item-14987" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14987"><a href="http://boredomtherapy.com/category/science/nature-science/">Nature</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/floating-bonsai-trees/" title="Scientists Take Ordinary Bonsai Trees And Turn Them Into Something That Defies Gravity"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Bonsai-floating-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Bonsai floating"><div>Scientists Take Ordinary Bonsai Trees And Turn Them Into Something That Defies Gravity</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/strange-pile-poker/" title="Man Pokes This Weird Pink Ball With A Stick… Then Realizes What It Actually Is"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/balloworms1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="balloworms1"><div>Man Pokes This Weird Pink Ball With A Stick… Then Realizes What It Actually Is</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/crouching-tiger-hidden-snow-leopard/" title="The Camouflaged Snow Leopard In This Photo Is Almost Impossible To Find"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/crouching-tiger-hidden-snow-leopard-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="crouching-tiger-hidden-snow-leopard-1"><div>The Camouflaged Snow Leopard In This Photo Is Almost Impossible To Find</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/spider-looks-like-a-leaf/" title="This Newly Discovered Species Of Spider Looks Just Like A Leaf"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/exlai-336x175.png" class="attachment-grid-thumb wp-post-image" alt="exlai"><div>This Newly Discovered Species Of Spider Looks Just Like A Leaf</div></a></div></div>
-<div id="menu-item-14988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14988"><a href="http://boredomtherapy.com/category/science/technology/">Technology</a><div class="menuposts"><a attrname="MenuBar" row="26" href="http://boredomtherapy.com/frontloader-truck-skills/" title="This Plow’s Wheels Begin Lifting Off The Ground, And How The Driver Reacts Is Crazy"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/plow-tricks-pic-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="plow tricks pic 2"><div>This Plow’s Wheels Begin Lifting Off The Ground, And How The Driver Reacts Is Crazy</div></a><a attrname="MenuBar" row="27" href="http://boredomtherapy.com/rubber-glove-factory/" title="This Latex Glove Factory Has To Be The Weirdest Place To Work In The World"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/latex-gloves-336x175.png" class="attachment-grid-thumb wp-post-image" alt="latex-gloves"><div>This Latex Glove Factory Has To Be The Weirdest Place To Work In The World</div></a><a attrname="MenuBar" row="28" href="http://boredomtherapy.com/outer-space-living/" title="9 Facts About Life In Space That Will Crush Your Childhood Dreams Of Being An Astronaut"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/space-Teeth-336x175.png" class="attachment-grid-thumb wp-post-image" alt="space Teeth"><div>9 Facts About Life In Space That Will Crush Your Childhood Dreams Of Being An Astronaut</div></a><a attrname="MenuBar" row="29" href="http://boredomtherapy.com/10-awesome-vehicles/" title="These 10 Vehicles Are The Most Astonishingly Awesome Behemoths Ever Created"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/giant-car1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="giant-car1"><div>These 10 Vehicles Are The Most Astonishingly Awesome Behemoths Ever Created</div></a></div></div>
-<div id="menu-item-14986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14986"><a href="http://boredomtherapy.com/category/science/health-science/">Health</a><div class="menuposts"><a attrname="MenuBar" row="30" href="http://boredomtherapy.com/rare-eye-condition-facebook/" title="Friends Point Out Rare Medical Condition After Mom Posts A Photo Of Her Daughter On Facebook"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/rylee-taylor-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="rylee-taylor-1"><div>Friends Point Out Rare Medical Condition After Mom Posts A Photo Of Her Daughter On Facebook</div></a><a attrname="MenuBar" row="31" href="http://boredomtherapy.com/brain-blood-infection/" title="This Woman Thought She Had A Stomach Bug. Then Doctors Tell Her She Has A 1% Chance Of Survival."><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/lsp-336x175.png" class="attachment-grid-thumb wp-post-image" alt="lsp"><div>This Woman Thought She Had A Stomach Bug. Then Doctors Tell Her She Has A 1% Chance Of Survival.</div></a><a attrname="MenuBar" row="32" href="http://boredomtherapy.com/mom-has-premonitions/" title="Parents Pose For A Photo With Their Newborn. Then Mom Is Haunted By A Terrible Vision Of The Future"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/prem-336x175.png" class="attachment-grid-thumb wp-post-image" alt="prem"><div>Parents Pose For A Photo With Their Newborn. Then Mom Is Haunted By A Terrible Vision Of The Future</div></a><a attrname="MenuBar" row="33" href="http://boredomtherapy.com/eye-out-of-socket/" title="Rare Disease Actually Made This 7-Year-Old’s Eyeball Fall Out Of Its Socket"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/logan-sellers-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="logan-sellers-1"><div>Rare Disease Actually Made This 7-Year-Old’s Eyeball Fall Out Of Its Socket</div></a></div></div>
+			<div id="menu-item-15646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15646"><a href="http://boredomtherapy.com/category/science/">All Science</a><div class="menuposts"><a attrname="MenuBar" row="18" href="http://boredomtherapy.com/w-sitting-problem/" title="Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/w-sitting-fb-336x175.png" class="attachment-grid-thumb wp-post-image" alt="w-sitting-fb"><div>Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away</div></a><a attrname="MenuBar" row="19" href="http://boredomtherapy.com/mysterious-lakes-flood/" title="Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change"><img width="336" height="114" data-src="http://boredomtherapy.com/wp-content/uploads/2014/06/austrian-park-cover.jpg" class="attachment-grid-thumb wp-post-image" alt="austrian-park-cover"><div>Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change</div></a><a attrname="MenuBar" row="20" href="http://boredomtherapy.com/satanic-leaf-tailed-gecko/" title="Good Luck Finding This ‘Satanic’ Lizard, Nature’s Master Of Camouflage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/gecko-336x175.png" class="attachment-grid-thumb wp-post-image" alt="gecko"><div>Good Luck Finding This ‘Satanic’ Lizard, Nature’s Master Of Camouflage</div></a><a attrname="MenuBar" row="21" href="http://boredomtherapy.com/lone-star-tick-vegetarians/" title="One Bite From This Bug Can Turn People Into Vegetarians Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/07/lone-star-tick-meat-allergy-FB.png" class="attachment-grid-thumb wp-post-image" alt="lone-star-tick-meat-allergy-FB"><div>One Bite From This Bug Can Turn People Into Vegetarians Overnight</div></a></div></div>
+<div id="menu-item-14987" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14987"><a href="http://boredomtherapy.com/category/science/nature-science/">Nature</a><div class="menuposts"><a attrname="MenuBar" row="22" href="http://boredomtherapy.com/mysterious-lakes-flood/" title="Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change"><img width="336" height="114" data-src="http://boredomtherapy.com/wp-content/uploads/2014/06/austrian-park-cover.jpg" class="attachment-grid-thumb wp-post-image" alt="austrian-park-cover"><div>Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/satanic-leaf-tailed-gecko/" title="Good Luck Finding This ‘Satanic’ Lizard, Nature’s Master Of Camouflage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/gecko-336x175.png" class="attachment-grid-thumb wp-post-image" alt="gecko"><div>Good Luck Finding This ‘Satanic’ Lizard, Nature’s Master Of Camouflage</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/lone-star-tick-vegetarians/" title="One Bite From This Bug Can Turn People Into Vegetarians Overnight"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/07/lone-star-tick-meat-allergy-FB.png" class="attachment-grid-thumb wp-post-image" alt="lone-star-tick-meat-allergy-FB"><div>One Bite From This Bug Can Turn People Into Vegetarians Overnight</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/man-finds-giant-emerald/" title="Man Goes Into Hiding Out Of Fear For His Life After Finding A Massive Emerald"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/emerald-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="emerald-1"><div>Man Goes Into Hiding Out Of Fear For His Life After Finding A Massive Emerald</div></a></div></div>
+<div id="menu-item-14988" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14988"><a href="http://boredomtherapy.com/category/science/technology/">Technology</a><div class="menuposts"><a attrname="MenuBar" row="26" href="http://boredomtherapy.com/the-future-100-years-ago/" title="This Is What People 100 Years Ago Thought Life Would Be Like Today"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/phones-336x175.png" class="attachment-grid-thumb wp-post-image" alt="phones"><div>This Is What People 100 Years Ago Thought Life Would Be Like Today</div></a><a attrname="MenuBar" row="27" href="http://boredomtherapy.com/actual-purpose-of-oven-drawer/" title="The Drawer Beneath The Oven Actually Has A Use Besides Storage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/drawer2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="drawer2"><div>The Drawer Beneath The Oven Actually Has A Use Besides Storage</div></a><a attrname="MenuBar" row="28" href="http://boredomtherapy.com/leonardo-da-vinci-secret/" title="‘Doodles’ In Leonardo Da Vinci’s Notebooks Are Changing The History Of Science"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/davinci-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="davinci-2"><div>‘Doodles’ In Leonardo Da Vinci’s Notebooks Are Changing The History Of Science</div></a><a attrname="MenuBar" row="29" href="http://boredomtherapy.com/heavy-lift-ship-invention/" title="Incredible Machine Might Just Be Humanity’s Greatest Achievement"><img width="336" height="114" data-src="http://boredomtherapy.com/wp-content/uploads/2014/06/heavy-lift-ship-cover.png" class="attachment-grid-thumb wp-post-image" alt="heavy-lift-ship-cover"><div>Incredible Machine Might Just Be Humanity’s Greatest Achievement</div></a></div></div>
+<div id="menu-item-14986" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14986"><a href="http://boredomtherapy.com/category/science/health-science/">Health</a><div class="menuposts"><a attrname="MenuBar" row="30" href="http://boredomtherapy.com/w-sitting-problem/" title="Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/w-sitting-fb-336x175.png" class="attachment-grid-thumb wp-post-image" alt="w-sitting-fb"><div>Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away</div></a><a attrname="MenuBar" row="31" href="http://boredomtherapy.com/how-to-fall-and-survive-it/" title="Here’s How To Survive A Potentially Deadly Fall From A Great Height"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/fall-survival-336x175.png" class="attachment-grid-thumb wp-post-image" alt="fall survival"><div>Here’s How To Survive A Potentially Deadly Fall From A Great Height</div></a><a attrname="MenuBar" row="32" href="http://boredomtherapy.com/lemon-benefits/" title="Incredible Tricks Using Lemons That Experts Swear By"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/unal-336x175.png" class="attachment-grid-thumb wp-post-image" alt="unal"><div>Incredible Tricks Using Lemons That Experts Swear By</div></a><a attrname="MenuBar" row="33" href="http://boredomtherapy.com/woman-internally-decapitated/" title="Mom Of Two Will Be ‘Internally Decapitated’ Unless She Can Raise Money For Surgery"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/neck-336x175.png" class="attachment-grid-thumb wp-post-image" alt="neck"><div>Mom Of Two Will Be ‘Internally Decapitated’ Unless She Can Raise Money For Surgery</div></a></div></div>
 		</div>
 	</div>
 					<div id="videomenu" class="dropcontainer clearfix">
@@ -675,7 +925,7 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 						<div class="menu-item">
 							<a href="http://boredomtherapy.com/category/video/">All Video</a>
 							<div class="menuposts">
-								<a attrname="MenuBar" row="22" href="http://boredomtherapy.com/transformer-ufo/" title="Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ufo2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ufo2"><div>Strange, Shape-Shifting UFO Spotted On A Boat Trip In Croatia</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/dolly-parton-agrees/" title="4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/boy-song1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="boy-song1"><div>4-Year-Old Boy Sings This Classic Dolly Parton Song… And Absolutely Blows Everyone Away</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/mom-hits-daughter-on-camera/" title="Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/woman-hitting-daughter-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="woman-hitting-daughter-1"><div>Video Of Woman Hitting Her Daughter Surfaces Online And Causes Outrage</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/10-ufo-sightings/" title="These 10 Jaw-Dropping UFO Sightings Might Just Convince You That Aliens Exist"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/meep-336x175.png" class="attachment-grid-thumb wp-post-image" alt="meep"><div>These 10 Jaw-Dropping UFO Sightings Might Just Convince You That Aliens Exist</div></a>							</div>
+								<a attrname="MenuBar" row="22" href="http://boredomtherapy.com/wood-chopping-hack/" title="Man Puts A Log Inside An Old Tire For This Truly Genius Reason"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/wood-chopping-336x175.png" class="attachment-grid-thumb wp-post-image" alt="wood-chopping"><div>Man Puts A Log Inside An Old Tire For This Truly Genius Reason</div></a><a attrname="MenuBar" row="23" href="http://boredomtherapy.com/w-sitting-problem/" title="Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/12/w-sitting-fb-336x175.png" class="attachment-grid-thumb wp-post-image" alt="w-sitting-fb"><div>Why Anyone Who Sees Their Children Sitting Like This Should Stop Them Right Away</div></a><a attrname="MenuBar" row="24" href="http://boredomtherapy.com/baby-boxes-in-finland/" title="The Brilliant Reason Why Newborn Babies In This Country Sleep In Cardboard Boxes"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/04/finland-baby-boxes-fb.png" class="attachment-grid-thumb wp-post-image" alt="finland-baby-boxes-fb"><div>The Brilliant Reason Why Newborn Babies In This Country Sleep In Cardboard Boxes</div></a><a attrname="MenuBar" row="25" href="http://boredomtherapy.com/homeless-poet-discovered/" title="Homeless Man Hands Woman A Single Piece Of Paper That Changes Both Of Their Lives"><img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/09/homeless-poet.png" class="attachment-grid-thumb wp-post-image" alt="homeless-poet"><div>Homeless Man Hands Woman A Single Piece Of Paper That Changes Both Of Their Lives</div></a>							</div>
 						</div>
 					</div>
 				</div>
@@ -688,16 +938,8 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 			jQuery("#rm-cr-megamenu").remove();
 		</script>
 	</div>
-		<!-- Pixel_Tracker -->
-	<div id="div-gpt-ad-1420466308609-0">
-		<script type="text/javascript">
-			googletag.cmd.push(function () {
-				googletag.display('div-gpt-ad-1420466308609-0');
-			});
-		</script>
-	</div>
-
-	<div id="fb-root"></div>
+	
+<div id="div-gpt-ad-1420466308609-0" style="display: none;"><!-- Pixel_Tracker --><script type="text/javascript">hideOrShowAd(24,'div-gpt-ad-1420466308609-0');</script></div>	<div id="fb-root"></div>
 
 	<div class="header-static-bar">
 		<div class="mmenu"><span class="fa fa-bars"></span>
@@ -717,8 +959,8 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 		<div id="msingle" class="clearfix">
 			<div id="msharelike">
 				<a id="mfshare" href="javascript:void(0);" data-show-like="1" onclick="facebookSharePopup(this);" data-like-id="04"><img src="http://boredomtherapy.com/wp-content/themes/boredom/images/share_top.png" alt="Facebook" title="Share On Facebook" width="85"></a>
-				<span class="fb-like" data-like-id="05" data-href="https://www.facebook.com/BoredomTherapy" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
-			</div>
+                                    <span class="fb-like" data-like-id="05" data-href="https://www.facebook.com/BoredomTherapy/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
+                			</div>
 			
 <script id="rm-social-mobile-header">
 	if(bt.gs.pageSpeedOpti.check("social", "mobile_header")){
@@ -748,26 +990,22 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
             <path d="M18.7594789,185.969407 C-6.17400572,210.902891 -6.17400572,251.508852 18.7594789,276.442337 C43.6929635,301.375821 84.2989242,301.375821 109.232409,276.442337 L186.170018,199.504727 L95.6970886,109.031797 L18.7594789,185.969407 L18.7594789,185.969407 Z" id="Shape" fill="#3CB7D4"></path>
         </g>
     </defs>
-</svg></div>	<div class="main-container-wrap">
-		<header class="main-header">
-			<div class="container">
-				<div id="header">
-					<div id="ad_top_nomobile">
-						<!-- BT_Web_Leaderboard_AF -->
-						<div id="div-gpt-ad-1409984205459-20">
-                            <script type="text/javascript" id="bts_bt_web_leaderboard_af">
-                                googletag.cmd.push(function() {
-                                    googletag.display('div-gpt-ad-1409984205459-20');
-                                });
-                            </script>
-                        </div>
-                        <div id="074807dd26" class="pagefair-acceptable"></div>
-					</div>
-				</div><!--#header-->
-			</div><!--.container-->        
-		</header>
-		<div class="main-container clearfix">
-<div id="page" class="single">
+</svg></div>
+<div class="main-container-wrap">
+    <header class="main-header">
+        <div class="container">
+            <div id="header">
+                <div id="ad_top_nomobile">
+					
+<div id="div-gpt-ad-1409984205459-20" style="display: none;"><!-- Web_Leaderboard_AF --><script type="text/javascript">hideOrShowAd(1,'div-gpt-ad-1409984205459-20');</script></div>
+                    <div id="074807dd26" class="pagefair-acceptable"></div>
+                </div>
+            </div><!--#header-->
+        </div><!--.container-->
+    </header>
+	<div class="main-container clearfix">
+
+	<div id="page" class="single">
 	<article class="article">
 		<div id="content_box">
 							<div id="post-7518" class="g post post-7518 page type-page status-publish hentry">
@@ -800,191 +1038,161 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 <p class="btcaption"><strong>Childrens Online Privacy Protection Act Compliance:</strong></p>
 <p>Our website, products and services are all directed to people who are at least 13 years old or older.&nbsp;We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), and do not collect any information from anyone under 13 years of age.</p>
 
-
-
-<div id="ld-8351-4064"></div>
-<script id="lockedmore-call">
-	(function (w, d, s, i) {
-		w.ldAdInit = w.ldAdInit || [];
-		w.ldAdInit.push({
-			slot: 9281206290306150,
-			size: [0, 0],
-			id:"ld-8351-4064"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");
-</script>
-
-
-<script id="rm-cr-single_footer">
-	if(	bt.gs.pageSpeedOpti.check("cr", "single_footer")){
-		jQuery(".more_bt_widget").remove();
-	}
-	jQuery("#rm-cr-single_footer").remove();
-</script>
-													</div><!--.post-content box mark-links-->
+<div id="big-share-fb-button" style="display: none;">
+    <div class="post-share-like-buttons">
+        <span data-show-like="1" onclick="facebookSharePopup(this);" data-like-id="01">
+            <img src="http://boredomtherapy.com/wp-content/themes/boredom/images/facebook-like-bottom1.png" width="312" height="54" align="absmiddle" class="dif_mobile">
+            <img src="http://boredomtherapy.com/wp-content/themes/boredom/images/huge_social_fb.jpg" width="100%" align="absmiddle" class="dif_nomobile">
+        </span>
+    </div>
+    <div class="page-like-button" style="font-weight:bold;color:orange;padding-top: 10px;padding-left: 10px;padding-bottom: 10px;font-size:120%;text-align:center;">
+        <span class="likeus-text" style="font-size:14px;color:#777;font-weight:normal;margin-right:7px;">Like us for more!</span>
+        <span class="likeus-text-mobile">Like us for more!</span>
+        <span class="fb-like" data-like-id="06" data-href="https://www.facebook.com/BoredomTherapy/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></span>
+    </div>
+</div>
+<div style="clear:both"></div>													</div><!--.post-content box mark-links-->
 					</div>
 				</div>
 					</div>
 	</article>
-		<aside class="sidebar c-4-12 hideonloadmore">
-		<div id="sidebars" class="g">
-			<div class="sidebar">
-									<div class="social-widget dif_nomobile">
-						<div class="sidebar-social-buttons">
-							<div class="sidebar-social-button sidebar-social-button-facebook">
-								<a class="social_link" target="_blank" href="https://www.facebook.com/BoredomTherapy"></a>
-								<div class="sidebar-social-widget fb-like" data-like-id="04" data-href="https://www.facebook.com/BoredomTherapy" data-width="83" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
-							</div>
-							<div class="sidebar-social-button sidebar-social-button-gplus">
-								<a class="social_link" target="_blank" href="https://plus.google.com/113574281236482517964"></a>
-								<div class="sidebar-social-widget">
-									<div class="g-follow" style="position:relative" data-annotation="none" data-height="20" data-href="https://plus.google.com/113574281236482517964" data-rel="publisher"></div>
-									<script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
-								</div>
-							</div>
-							<div class="sidebar-social-button sidebar-social-button-twitter">
-								<a class="social_link" target="_blank" href="https://twitter.com/boredomtherapy"></a>
-								<div class="sidebar-social-widget sidebar-social-widget-twitter">
-									<a href="https://twitter.com/boredomtherapy" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @boredomtherapy</a>
-								</div>
-							</div>
-							<div style="clear:both"></div>
-						</div>
+        <aside class="sidebar c-4-12 hideonloadmore">
+        <div id="sidebars" class="g">
+            <div class="sidebar">
+				                    <div class="social-widget dif_nomobile">
+                        <div class="sidebar-social-buttons">
+							                                <div class="sidebar-social-button sidebar-social-button-facebook">
+                                    <a class="social_link" target="_blank" href="https://www.facebook.com/BoredomTherapy/"></a>
+                                    <div class="sidebar-social-widget fb-like" data-like-id="04" data-href="https://www.facebook.com/BoredomTherapy/" data-width="83" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+                                </div>
+							                            <div class="sidebar-social-button sidebar-social-button-gplus">
+                                <a class="social_link" target="_blank" href="https://plus.google.com/113574281236482517964"></a>
+                                <div class="sidebar-social-widget">
+                                    <div class="g-follow" style="position:relative" data-annotation="none" data-height="20" data-href="https://plus.google.com/113574281236482517964" data-rel="publisher"></div>
+                                    <script src="https://apis.google.com/js/platform.js" async="" defer=""></script>
+                                </div>
+                            </div>
+                            <div class="sidebar-social-button sidebar-social-button-twitter">
+                                <a class="social_link" target="_blank" href="https://twitter.com/boredomtherapy"></a>
+                                <div class="sidebar-social-widget sidebar-social-widget-twitter">
+                                    <a href="https://twitter.com/boredomtherapy" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @boredomtherapy</a>
+                                </div>
+                            </div>
+                            <div style="clear:both"></div>
+                        </div>
 
-											</div>
+						                    </div>
 								
-					<ul>
-					<li class="widget widget-sidebar">
-								<!-- BT_Web_Sidebar -->
-		<div id="div-gpt-ad-1409984760385-0">
-			<script type="text/javascript">
-				if (!bt.gs.pageSpeedOpti.check("ads", "web_sidebar")) {
-					googletag.cmd.push(function () {
-						googletag.display('div-gpt-ad-1409984760385-0');
-					});
-				} else {
-					jQuery("#div-gpt-ad-1409984760385-0").parents(".widget").remove();
-				}
-			</script>
-		</div>
-							</li>
-
-					<div class="rm-mobile rm-mobile-cr"><li class="widget widget-sidebar widget_mts_recent_posts_widget sidebar_top"><h3 class="widget-title">Must See Stories</h3><div class="titlearrow"><span class="fa fa-caret-down"></span></div><ul class="advanced-recent-posts bigthumbs"><li id="dynamic-section" style="display:none"></li>			<li class="widget_item">
-				<a row="1" class="widget_target_url" href="http://boredomtherapy.com/10-ufo-sightings/" attrname="MustSeeStories">
+                    <ul>
+					
+					<div class="rm-mobile rm-mobile-cr"><li class="widget widget-sidebar widget_mts_recent_posts_widget sidebar_top"><h3 class="widget-title">Trending On Boredom Therapy</h3><div class="titlearrow"><span class="fa fa-caret-down"></span></div><ul class="advanced-recent-posts bigthumbs"><li id="dynamic-section" style="display:none"></li>			<li class="widget_item">
+				<a row="1" class="widget_target_url" href="http://boredomtherapy.com/chicken-coop-project/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/meep-336x175.png" class="attachment-grid-thumb wp-post-image" alt="meep">					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/01/playset-diy-FB-336x175.png" class="attachment-grid-thumb wp-post-image" alt="playset-diy-FB">					</div>
 
 					<div class="posttitle">
-						These 10 Jaw-Dropping UFO Sightings Might Just Convince You That Aliens Exist					</div>
+						Family Comes Up With A Brilliant New Use For The Old Play House In Their Back Yard					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="2" class="widget_target_url" href="http://boredomtherapy.com/adorable-kitten-rescue/" attrname="MustSeeStories">
+				<a row="2" class="widget_target_url" href="http://boredomtherapy.com/mysterious-lakes-flood/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/pas-336x175.png" class="attachment-grid-thumb wp-post-image" alt="pas">					</div>
+						<img width="336" height="114" data-src="http://boredomtherapy.com/wp-content/uploads/2014/06/austrian-park-cover.jpg" class="attachment-grid-thumb wp-post-image" alt="austrian-park-cover">					</div>
 
 					<div class="posttitle">
-						These Two Adorable Kittens Were Rescued Together, And Now They Refuse To Be Apart					</div>
+						Normal-Looking Park Undergoes An Incredible Transformation When The Seasons Change					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="3" class="widget_target_url" href="http://boredomtherapy.com/picky-eater/" attrname="MustSeeStories">
+				<a row="3" class="widget_target_url" href="http://boredomtherapy.com/ironic-photos/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/blaso-336x175.png" class="attachment-grid-thumb wp-post-image" alt="blaso"><div class="video_overlay">
-    <img src="http://boredomtherapy.com/wp-content/themes/boredom/images/playbutton-icon.png">
-</div>					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/ironic-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ironic collage">					</div>
 
 					<div class="posttitle">
-						Tearful Little Boy Has An Adorably Misguided Reason For Refusing To Eat His Dinner					</div>
+						31 Of The Most Ridiculously Ironic Pictures Ever Taken					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="4" class="widget_target_url" href="http://boredomtherapy.com/diy-poo-spray/" attrname="MustSeeStories">
+				<a row="4" class="widget_target_url" href="http://boredomtherapy.com/baby-boxes-in-finland/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/ty-336x175.png" class="attachment-grid-thumb wp-post-image" alt="ty"><div class="video_overlay">
-    <img src="http://boredomtherapy.com/wp-content/themes/boredom/images/playbutton-icon.png">
-</div>					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/04/finland-baby-boxes-fb.png" class="attachment-grid-thumb wp-post-image" alt="finland-baby-boxes-fb">					</div>
 
 					<div class="posttitle">
-						This Homemade ‘Poo Spray’ Could Be a Real Live Saver And It’s Super Easy To Make					</div>
+						The Brilliant Reason Why Newborn Babies In This Country Sleep In Cardboard Boxes					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="5" class="widget_target_url" href="http://boredomtherapy.com/crazy-tongue-twisters/" attrname="MustSeeStories">
+				<a row="5" class="widget_target_url" href="http://boredomtherapy.com/satanic-leaf-tailed-gecko/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Tongue-collage-1-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Tongue collage 1"><div class="video_overlay">
-    <img src="http://boredomtherapy.com/wp-content/themes/boredom/images/playbutton-icon.png">
-</div>					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/gecko-336x175.png" class="attachment-grid-thumb wp-post-image" alt="gecko">					</div>
 
 					<div class="posttitle">
-						These Are Supposed To Be The Hardest Tongue Twisters In The World, And They’re Driving Us Crazy					</div>
+						Good Luck Finding This ‘Satanic’ Lizard, Nature’s Master Of Camouflage					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="6" class="widget_target_url" href="http://boredomtherapy.com/frontloader-truck-skills/" attrname="MustSeeStories">
+				<a row="6" class="widget_target_url" href="http://boredomtherapy.com/most-emotional-photographs/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/plow-tricks-pic-2-336x175.png" class="attachment-grid-thumb wp-post-image" alt="plow tricks pic 2"><div class="video_overlay">
-    <img src="http://boredomtherapy.com/wp-content/themes/boredom/images/playbutton-icon.png">
-</div>					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/emotion4-336x175.png" class="attachment-grid-thumb wp-post-image" alt="emotion4">					</div>
 
 					<div class="posttitle">
-						This Plow’s Wheels Begin Lifting Off The Ground, And How The Driver Reacts Is Crazy					</div>
+						36 Incredible Pictures That Show The Full Range Of Human Emotion					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="7" class="widget_target_url" href="http://boredomtherapy.com/rubber-glove-factory/" attrname="MustSeeStories">
+				<a row="7" class="widget_target_url" href="http://boredomtherapy.com/lone-star-tick-vegetarians/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/latex-gloves-336x175.png" class="attachment-grid-thumb wp-post-image" alt="latex-gloves">					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/07/lone-star-tick-meat-allergy-FB.png" class="attachment-grid-thumb wp-post-image" alt="lone-star-tick-meat-allergy-FB">					</div>
 
 					<div class="posttitle">
-						This Latex Glove Factory Has To Be The Weirdest Place To Work In The World					</div>
+						One Bite From This Bug Can Turn People Into Vegetarians Overnight					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="8" class="widget_target_url" href="http://boredomtherapy.com/little-house-prairie/" attrname="MustSeeStories">
+				<a row="8" class="widget_target_url" href="http://boredomtherapy.com/archeological-mysteries/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Laura-and-Mary-pic-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Laura and Mary pic">					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/vase-336x175.png" class="attachment-grid-thumb wp-post-image" alt="vase">					</div>
 
 					<div class="posttitle">
-						10 Facts About ‘Little House On The Prairie’ That Will Make You Want To Re-Watch					</div>
+						10 Mysterious Archaeological Finds That Still Baffle Scientists					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="9" class="widget_target_url" href="http://boredomtherapy.com/ikea-hack/" attrname="MustSeeStories">
+				<a row="9" class="widget_target_url" href="http://boredomtherapy.com/stump-houses/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Girl-Ikea-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Girl Ikea"><div class="video_overlay">
-    <img src="http://boredomtherapy.com/wp-content/themes/boredom/images/playbutton-icon.png">
-</div>					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2017/06/stumphouse-336x175.png" class="attachment-grid-thumb wp-post-image" alt="stumphouse">					</div>
 
 					<div class="posttitle">
-						Woman Builds A New Bed Out Of IKEA Bookshelves And Completely Declutters Her Life					</div>
+						Stump Houses Were All The Rage With Early Settlers And They Were Actually Pretty Awesome					</div>
 				</a>
 			</li>
 						<li class="widget_item">
-				<a row="10" class="widget_target_url" href="http://boredomtherapy.com/dogs-are-people/" attrname="MustSeeStories">
+				<a row="10" class="widget_target_url" href="http://boredomtherapy.com/homeless-poet-discovered/" attrname="MustSeeStories">
 					<div class="imgcont">
-						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2016/12/Dog-humans-collage-336x175.png" class="attachment-grid-thumb wp-post-image" alt="Dog humans collage">					</div>
+						<img width="336" height="175" data-src="http://boredomtherapy.com/wp-content/uploads/2015/09/homeless-poet.png" class="attachment-grid-thumb wp-post-image" alt="homeless-poet">					</div>
 
 					<div class="posttitle">
-						These 21 Hilarious Dogs Are Convinced They’re People, And We’re Not So Sure They’re Wrong					</div>
+						Homeless Man Hands Woman A Single Piece Of Paper That Changes Both Of Their Lives					</div>
 				</a>
 			</li>
 			</ul>
-</li></div>			</ul></div>
-		</div><!--sidebars-->
-	</aside>
-</div><!--#page--></div><!--.main-container-->
-				<footer class="hideonloadmore">
-			<div class="copyrights">
-				<div class="container">
-						<a class="btlogo" href="http://boredomtherapy.com"></a>
+</li></div>            </ul></div>
+        </div><!--sidebars-->
+    </aside>
+	</div><!--#page-->    </div><!--.main-container-->
+	    <footer class="hideonloadmore">
+        <div class="copyrights">
+            <div class="container">
+					<a class="btlogo" href="http://boredomtherapy.com"></a>
 	<ul id="menu-info" class="menu"><li id="menu-item-14968" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14968"><a href="http://boredomtherapy.com/about/">About</a></li>
 <li id="menu-item-14969" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7518 current_page_item menu-item-14969"><a href="http://boredomtherapy.com/privacy-policy/">Privacy Policy</a></li>
 <li id="menu-item-14970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14970"><a href="http://boredomtherapy.com/dmca-policy/">DMCA</a></li>
 <li id="menu-item-29111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29111"><a href="http://boredomtherapy.com/advertising-interest/">Advertising</a></li>
-</ul><span class="cpnote">Boredom Therapy © 2016</span>
-					</div>
-			</div> 
-		</footer><!--footer-->
-		
+</ul><span class="cpnote">Boredom Therapy © 2017</span>
+	            </div>
+        </div>
+    </footer><!--footer-->
+	
 
 <script type="text/template-cta" style="display: none;" id="cta-template-modal">
 
@@ -1033,14 +1241,14 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 
 		<div class="cta-inline"> {{content}} </div>
 </script>
-<script>if(oio==undefined){var oio={u:'//boredomfiles.com/rocfeolite/rocfenvaldite/2015/08/rocefieldlite-dragunow12119a-[r].png',ts:'1482962407.9',at_ru:"http://ruamupr.com/advertising.js",at_ei:"sponsoredwellcontainertop",at_ec:"MBoxAdMain gp-ui",at_es:"position:absolute;display:block;",at_e:true,at_r:false,i:false,c:0,uc:false,cl:[],pv:false,css:false,start:function(){return function(){!function(a,b,c){a[b]=c()}(oio,"v",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,t,e){t[n]=e()}("q",oio,function(){function n(n){return[].slice.call(n,0)}function t(n){var t;return n&&"object"==typeof n&&(t=n.nodeType)&&(1==t||9==t)}function e(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var t=[],o=0,r=n.length;r>o;++o)e(n[o])?t=t.concat(n[o]):t[t.length]=n[o];return t}function r(n){var t,e,o=[];n:for(t=0;t<n.length;t++){for(e=0;e<o.length;e++)if(o[e]==n[t])continue n;o[o.length]=n[t]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[s]&&e(n)?n[0]:n:f}function u(r,u){var a,s=i(u);return s&&r?r===l||t(r)?!u||r!==l&&t(s)&&m(r,s)?[r]:[]:r&&e(r)?o(r):f.getElementsByClassName&&"string"==r&&(a=r.match(c))?n(s.getElementsByClassName(a[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(s.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,a=f.documentElement,s="nodeType",m="compareDocumentPosition"in a?function(n,t){return 16==(16&t.compareDocumentPosition(n))}:function(n,t){return t=t==f||t==window?a:t,t!==n&&t.contains(n)};return u.uniq=r,u},this);if(navigator.userAgent.search(" Brave/")>-1)oio.at_r=true;if(oio.i)return false;oio.i=true;return oio.abd(function(){oio.now(oio.ur(oio.u),oio.q("html")[0]);return true;});}}(),abd:function(){return function(f){function cu(rid){if(oio.at_e){var de=document.getElementById(rid);de.parentNode.removeChild(de);}}if(oio.at_r){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=oio.at_ru;setTimeout(function(){document.getElementsByTagName('head')[0].appendChild(s);},100);}if(oio.at_e){var rid=oio.at_ei,fg=document.createDocumentFragment(),ft=document.createElement('div');ft.innerHTML='<'+'div class="'+oio.at_ec+'" id="'+rid+'" style="'+oio.at_es+'">&nbsp;'+'<'+'/div'+'>';while(ft.firstChild)fg.appendChild(ft.firstChild);document.body.insertBefore(fg,document.body.childNodes[0]);}if(oio.at_e||oio.at_r){var step=200,t1=800,t2=1000;(function eec(rid,tw){if(tw==undefined)var tw=0;if(oio.at_e&&document.getElementById(rid).clientHeight==0&&tw>=t1){cu(rid);return f();}if(tw>=t2){cu(rid);if(oio.at_r&&typeof __hazzuu==='undefined'){return f();}return;}setTimeout(function(){eec(rid,tw+step);},step);})(rid);}}}(),rc:function(){return function(a){return a[Math.floor(Math.random()*a.length)];}}(),rq:function(){return function(){var sa=[];var wc=Math.floor(Math.random()*12+1);for(var i=0;i<wc;i++){sa[i]=oio.rs([1,13]);sa[i]=sa[i].charAt(0).toUpperCase()+sa[i].substr(1);};return sa.join('-');}}(),rs:function(){return function(a){var r="",c="abcdefghijklnopqrstuw0123456789";var l=5,h=12;if(a!=undefined){if(a.length>=1){var l=parseInt(a[0]),h=parseInt(a[0]);}if(a.length>=2){var h=parseInt(a[1]);}if(a.length==3){c=a[2];}}var le=Math.floor(Math.random()*(h-l+1))+l;for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}}(),pad:function(){return function(v,a){v=String(v);if(a!=undefined){l=parseInt(a[0]);v=(new Array(l).join('0')+v).slice(-l);}return v;}}(),ur:function(){return function(u,v){var rx=/\[[a-zA-Z0-9:,-]+\]/g;var r=u.match(rx);if(r!=null){for(var i=0;i<r.length;i++){var n=r[i].replace('[','').replace(']','');var t=n.split(':');var key=t[0];var args=t[1];if(args!=undefined)args=args.split(',');var value=r[i];if(key=='r')var value=oio.rs(args);if(key=='c')var value=oio.rc(args);if(key=='q')var value=oio.rq();if(key=='i')var value=oio.pad(v['i'],args);if(key=='p')var value=oio.pad(v['p'],args);if(key=='g')var value=oio.pad(v['g'],args);if(key=='w')var value=oio.pad(v['w'],args);u=u.replace(r[i],value);}}return u;}}(),later:function(){var MutationObserver=window.MutationObserver||window.WebKitMutationObserver,eventListenerSupported=window.addEventListener;return function(o){var obj=oio.q(o.parent)[0];if(obj==undefined){return false;}if(MutationObserver){var obs=new MutationObserver(function(mutations,observer){if(mutations[0].addedNodes.length||mutations[0].removedNodes.length){oio.scan(o);}});obs.observe(obj,{childList:true,subtree:true,});oio.scan(o);}else if(eventListenerSupported){obj.addEventListener('DOMNodeInserted',oio.scan,false);}}}(),scan:function(){return function(o){var a=oio.q(o.child,oio.q(o.parent)[0]);for(var p=0;p<a.length;p++){if(oio.cl[p]==undefined){oio.cl[p]=a[p];oio.now(oio.ur(oio.u),a[p]);}}}}(),now:function(){return function(url,parent){if(oio.uc!=false){oio.collection(oio.uc,parent);oio.uc=false;return;}var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){oio.c++;var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=oio.p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);var ucl=JSON.parse(s);if(oio.c==1&&ucl.observe.enabled==1){oio.uc=ucl;oio.later(ucl.observe);}else{oio.collection(ucl,parent);}};i.src=url;}}(),p24:function(){return function(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}}(),is_test:function(){return function(){if(window.location.hash.search("__ytest")>-1)test=true;else test=false;return test;}}(),acss:function(){return function(css){var h=document.getElementsByTagName('head')[0],s=document.createElement('style');s.setAttribute("type","text/css");if(s.styleSheet)s.styleSheet.cssText=css;else s.appendChild(document.createTextNode(css));return h.appendChild(s);}}(),g:function(){return function(){var w=window.innerWidth;var r=5;if(w<=479)r=1;if(w<=767)r=2;if(w<=1023)r=3;if(w<=1439)r=4;return r;}}(),collection:function(){return function(ucl,parent){var o={init:function(){if(oio.css==false){oio.css=oio.acss(ucl.css_common);}for(var i=0;i<ucl.unit_list.length;i++){o.unit(ucl.unit_list[i],parent);}},unit:function(u,parent){for(i=0;i<u.exclude_url_list.length;i++){var eu=new RegExp(u.exclude_url_list[i]);if(window.location.pathname.match(eu))return;}if(u.target_selector!=undefined&&u.target_selector!=""){var ts=u.target_selector,ta=u.target_approach,cs=u.container_style;}else if(oio.is_test()&&u.target_selector_test!=undefined&&u.target_selector_test!=""){var ts=u.target_selector_test,ta=u.target_approach_test,cs=u.container_style_test;}else return;u.css_specific+="."+u.widget_class+" {"+u.container_style+"}";var t=oio.q(ts,parent);if(t.length<1)return;t=t[0];oio.css.textContent+=u.css_specific;if(ta=="before"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t);n.outerHTML=n.innerHTML;}else if(ta=="after"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t.nextSibling);n.outerHTML=n.innerHTML;}else if(ta=="append")t.innerHTML=t.innerHTML+u.html;else if(ta=="prepend")t.innerHTML=u.html+t.innerHTML;else if(ta=="fill")t.innerHTML=u.html;u.unit=oio.q("."+u.widget_class)[0];(function wait(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(tw>0&&o.rig(u)==true)return;setTimeout(function(){wait(tw+1);},100);})();window.addEventListener("resize",function(){o.rig(u);});},rig:function(u){e=oio.q("."+u.widget_class+" ."+u.img_class);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/ucl.sprite_width;var new_bg_height=Math.floor(ratio*ucl.sprite_height);var ad_height=Math.floor(new_bg_height/ucl.sprite_count);if(ad_height*ucl.sprite_count!=new_bg_height){new_bg_height=ad_height*ucl.sprite_count;}if(u.once==undefined){u.once=true;u.alv=[];for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(u.img_class+"_")[1];oio.css.textContent+='.'+u.widget_class+' .'+u.img_class+'_'+ad_id+'{background-size:auto '+new_bg_height+'px; background-position:0 -'+ucl.ad_to_sprite[ad_id]*ad_height+'px;}';if(e[i].offsetParent!==null){u.alv.push(ad_id);}var d=oio.q("#"+e[i].parentElement.parentElement.parentElement.id+" "+e[i].parentElement.tagName);for(p=0;p<d.length;p++){if(d[p].onclick==null){d[p].onclick=function(ee){var a=ee.target||ee.srcElement;var ci=a.parentElement.getAttribute("ci");window.open(ucl.link_redirect_url+ucl.ad_to_link[ci],'_blank');return false;};}}}(function rview(){if(oio.v.inViewport(u.unit)){var lt="";lt=u.widget_id+"c"+u.alv.join([separator="c"]);var pv=0;if(oio.pv==false){oio.pv=true;pv=1;}var i=new Image();i.src=oio.ur(ucl.view_url,{'i':lt,'p':pv,'g':oio.g(),'w':u.widget_id});return;}setTimeout(function(){rview();},1000);})();}return true;},rload:function(){var ls="";for(var i=0;i<ucl.unit_list.length;i++){if(ucl.unit_list[i]["alv"]!=undefined){ls+=ucl.unit_list[i]["widget_id"]+"c"+ucl.unit_list[i]["alv"].join([separator="c"])+"-";}}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=oio.ur(ucl.load_url,{'i':ls,'g':oio.g()});return true;},};o.init();setTimeout(o.rload,1000);return o;}}()};}oio.start();</script>
+<script>if(oio==undefined){var oio={u:'//boredomfiles.com/wp-content/uploads/2017/06/xzzefieldlite-dragunow12119a-[r].png',ts:'1498222705',fl:[],at_ru:"http://ruamupr.com/advertising.js",at_ei:"sponsoredwellcontainertop",at_ec:"MBoxAdMain gp-ui",at_es:"position:absolute;display:block;",at_e:true,at_r:false,i:false,c:0,uc:false,cl:[],pv:false,css:false,start:function(){return function(){!function(a,b,c){a[b]=c()}(oio,"v",function(){function a(){return{width:k(),height:l()}}function b(a,b){var c={};return b=+b||0,c.width=(c.right=a.right+b)-(c.left=a.left-b),c.height=(c.bottom=a.bottom+b)-(c.top=a.top-b),c}function c(a,c){return a=a&&!a.nodeType?a[0]:a,a&&1===a.nodeType?b(a.getBoundingClientRect(),c):!1}function d(b){b=null==b?a():1===b.nodeType?c(b):b;var d=b.height,e=b.width;return d="function"==typeof d?d.call(b):d,e="function"==typeof e?e.call(b):e,e/d}var e={},f="undefined"!=typeof window&&window,g="undefined"!=typeof document&&document,h=g&&g.documentElement,i=f.matchMedia||f.msMatchMedia,j=i?function(a){return!!i.call(f,a).matches}:function(){return!1},k=e.viewportW=function(){var a=h.clientWidth,b=f.innerWidth;return b>a?b:a},l=e.viewportH=function(){var a=h.clientHeight,b=f.innerHeight;return b>a?b:a};return e.mq=j,e.matchMedia=i?function(){return i.apply(f,arguments)}:function(){return{}},e.viewport=a,e.scrollX=function(){return f.pageXOffset||h.scrollLeft},e.scrollY=function(){return f.pageYOffset||h.scrollTop},e.rectangle=c,e.aspect=d,e.inX=function(a,b){var d=c(a,b);return!!d&&d.right>=0&&d.left<=k()},e.inY=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.top<=l()},e.inViewport=function(a,b){var d=c(a,b);return!!d&&d.bottom>=0&&d.right>=0&&d.top<=l()&&d.left<=k()},e});!function(n,t,e){t[n]=e()}("q",oio,function(){function n(n){return[].slice.call(n,0)}function t(n){var t;return n&&"object"==typeof n&&(t=n.nodeType)&&(1==t||9==t)}function e(n){return"object"==typeof n&&isFinite(n.length)}function o(n){for(var t=[],o=0,r=n.length;r>o;++o)e(n[o])?t=t.concat(n[o]):t[t.length]=n[o];return t}function r(n){var t,e,o=[];n:for(t=0;t<n.length;t++){for(e=0;e<o.length;e++)if(o[e]==n[t])continue n;o[o.length]=n[t]}return o}function i(n){return n?"string"==typeof n?u(n)[0]:!n[s]&&e(n)?n[0]:n:f}function u(r,u){var a,s=i(u);return s&&r?r===l||t(r)?!u||r!==l&&t(s)&&m(r,s)?[r]:[]:r&&e(r)?o(r):f.getElementsByClassName&&"string"==r&&(a=r.match(c))?n(s.getElementsByClassName(a[1])):r&&(r.document||r.nodeType&&9==r.nodeType)?u?[]:[r]:n(s.querySelectorAll(r)):[]}var c=/^\.([\w\-]+)$/,f=document,l=window,a=f.documentElement,s="nodeType",m="compareDocumentPosition"in a?function(n,t){return 16==(16&t.compareDocumentPosition(n))}:function(n,t){return t=t==f||t==window?a:t,t!==n&&t.contains(n)};return u.uniq=r,u},this);if(navigator.userAgent.search(" Brave/")>-1)oio.at_r=true;if(oio.i)return false;oio.i=true;return oio.abd(function(){oio.f(oio.fl);setTimeout(function(){oio.f(oio.fl);},1500);oio.now(oio.ur(oio.u),oio.q("html")[0]);return true;});}}(),abd:function(){return function(f){function cu(rid){if(oio.at_e){var de=document.getElementById(rid);de.parentNode.removeChild(de);}}if(oio.at_r){var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=oio.at_ru;setTimeout(function(){document.getElementsByTagName('head')[0].appendChild(s);},100);}if(oio.at_e){var rid=oio.at_ei,fg=document.createDocumentFragment(),ft=document.createElement('div');ft.innerHTML='<'+'div class="'+oio.at_ec+'" id="'+rid+'" style="'+oio.at_es+'">&nbsp;'+'<'+'/div'+'>';while(ft.firstChild)fg.appendChild(ft.firstChild);document.body.insertBefore(fg,document.body.childNodes[0]);}if(oio.at_e||oio.at_r){var step=200,t1=800,t2=1000;(function eec(rid,tw){if(tw==undefined)var tw=0;if(oio.at_e&&document.getElementById(rid).clientHeight==0&&tw>=t1){cu(rid);return f();}if(tw>=t2){cu(rid);if(oio.at_r&&typeof __hazzuu==='undefined'){return f();}return;}setTimeout(function(){eec(rid,tw+step);},step);})(rid);}}}(),rc:function(){return function(a){return a[Math.floor(Math.random()*a.length)];}}(),rq:function(){return function(){var sa=[];var wc=Math.floor(Math.random()*12+1);for(var i=0;i<wc;i++){sa[i]=oio.rs([1,13]);sa[i]=sa[i].charAt(0).toUpperCase()+sa[i].substr(1);};return sa.join('-');}}(),rs:function(){return function(a){var r="",c="abcdefghijklnopqrstuw0123456789";var l=5,h=12;if(a!=undefined){if(a.length>=1){var l=parseInt(a[0]),h=parseInt(a[0]);}if(a.length>=2){var h=parseInt(a[1]);}if(a.length==3){c=a[2];}}var le=Math.floor(Math.random()*(h-l+1))+l;for(i=0;i<le;i++)r+=c.charAt(Math.floor(Math.random()*c.length));return r;}}(),pad:function(){return function(v,a){v=String(v);if(a!=undefined){l=parseInt(a[0]);v=(new Array(l).join('0')+v).slice(-l);}return v;}}(),ur:function(){return function(u,v){var rx=/\[[a-zA-Z0-9:,-]+\]/g;var r=u.match(rx);if(r!=null){for(var i=0;i<r.length;i++){var n=r[i].replace('[','').replace(']','');var t=n.split(':');var key=t[0];var args=t[1];if(args!=undefined)args=args.split(',');var value=r[i];if(key=='r')var value=oio.rs(args);if(key=='c')var value=oio.rc(args);if(key=='q')var value=oio.rq();if(key=='i')var value=oio.pad(v['i'],args);if(key=='p')var value=oio.pad(v['p'],args);if(key=='g')var value=oio.pad(v['g'],args);if(key=='w')var value=oio.pad(v['w'],args);u=u.replace(r[i],value);}}return u;}}(),f:function(fl){for(var y=0;y<fl.length;y++){var k=fl[y];var es=document.querySelectorAll(k['pattern']);for(var x=0;x<es.length;x++){if(k['action']=='inject'){if(k['position']=='before'){var n=document.createElement("div");n.innerHTML=k['newHtml'];es[x].parentNode.insertBefore(n,es[x]);n.outerHTML=n.innerHTML;}else if(k['position']=='after'){var n=document.createElement("div");n.innerHTML=k['newHtml'];es[x].parentNode.insertBefore(n,es[x].nextSibling);n.outerHTML=n.innerHTML;}}}}},later:function(){var MutationObserver=window.MutationObserver||window.WebKitMutationObserver,eventListenerSupported=window.addEventListener;return function(o){var obj=oio.q(o.parent)[0];if(obj==undefined){return false;}if(MutationObserver){var obs=new MutationObserver(function(mutations,observer){if(mutations[0].addedNodes.length||mutations[0].removedNodes.length){oio.scan(o);}});obs.observe(obj,{childList:true,subtree:true,});oio.scan(o);}else if(eventListenerSupported){obj.addEventListener('DOMNodeInserted',oio.scan,false);}}}(),scan:function(){return function(o){var a=oio.q(o.child,oio.q(o.parent)[0]);for(var p=0;p<a.length;p++){if(oio.cl[p]==undefined){oio.cl[p]=a[p];oio.now(oio.ur(oio.u),a[p]);}}}}(),now:function(){return function(url,parent){if(oio.uc!=false){oio.collection(oio.uc,parent);oio.uc=false;return;}var i=new Image();i.crossOrigin="Anonymous";i.onload=function(){oio.c++;var c=document.createElement("canvas");var t=c.getContext("2d");var w=i.width;var h=i.height;c.style.width=c.width=w;c.style.height=c.height=h;t.globalAlpha=1.0;t.globalCompositeOperation='copy';t.drawImage(i,0,0);var b=oio.p24(t.getImageData(0,0,w,h).data);var s="";for(var x=0;x<b.length;x++)if(b[x])s+=String.fromCharCode(b[x]);var ucl=JSON.parse(s);if(oio.c==1&&ucl.observe.enabled==1){oio.uc=ucl;oio.later(ucl.observe);}else{oio.collection(ucl,parent);}};i.src=url;}}(),p24:function(){return function(b){var s=[];for(var i=0;i<b.length;i+=4){if(b[i+0]>0)s.push(b[i+0]);if(b[i+1]>0)s.push(b[i+1]);if(b[i+2]>0)s.push(b[i+2]);}return s;}}(),is_test:function(){return function(){if(window.location.hash.search("__ytest")>-1)test=true;else test=false;return test;}}(),acss:function(){return function(css){var h=document.getElementsByTagName('head')[0],s=document.createElement('style');s.setAttribute("type","text/css");if(s.styleSheet)s.styleSheet.cssText=css;else s.appendChild(document.createTextNode(css));return h.appendChild(s);}}(),g:function(){return function(){var w=window.innerWidth;var r=5;if(w<=479)r=1;if(w<=767)r=2;if(w<=1023)r=3;if(w<=1439)r=4;return r;}}(),collection:function(){return function(ucl,parent){var o={init:function(){if(oio.css==false){oio.css=oio.acss(ucl.css_common);}for(var i=0;i<ucl.unit_list.length;i++){o.unit(ucl.unit_list[i],parent);}},unit:function(u,parent){for(i=0;i<u.exclude_url_list.length;i++){var eu=new RegExp(u.exclude_url_list[i]);if(window.location.pathname.match(eu))return;}if(u.target_selector!=undefined&&u.target_selector!=""){var ts=u.target_selector,ta=u.target_approach,cs=u.container_style;}else if(oio.is_test()&&u.target_selector_test!=undefined&&u.target_selector_test!=""){var ts=u.target_selector_test,ta=u.target_approach_test,cs=u.container_style_test;}else return;u.css_specific+="."+u.widget_class+" {"+u.container_style+"}";var t=oio.q(ts,parent);if(t.length<1)return;t=t[0];oio.css.textContent+=u.css_specific;if(ta=="before"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t);n.outerHTML=n.innerHTML;}else if(ta=="after"){var n=document.createElement("div");n.innerHTML=u.html;t.parentNode.insertBefore(n,t.nextSibling);n.outerHTML=n.innerHTML;}else if(ta=="append")t.innerHTML=t.innerHTML+u.html;else if(ta=="prepend")t.innerHTML=u.html+t.innerHTML;else if(ta=="fill")t.innerHTML=u.html;u.unit=oio.q("."+u.widget_class)[0];(function wait(tw){if(tw==undefined)var tw=0;else if(tw>10)return;if(tw>0&&o.rig(u)==true)return;setTimeout(function(){wait(tw+1);},100);})();window.addEventListener("resize",function(){o.rig(u);});},rig:function(u){e=oio.q("."+u.widget_class+" ."+u.img_class);if(e[0].clientWidth==0)return false;var ratio=e[0].clientWidth/ucl.sprite_width;var new_bg_height=Math.floor(ratio*ucl.sprite_height);var ad_height=Math.floor(new_bg_height/ucl.sprite_count);if(ad_height*ucl.sprite_count!=new_bg_height){new_bg_height=ad_height*ucl.sprite_count;}if(u.once==undefined){u.once=true;u.alv=[];for(var i=0;i<e.length;i++){var ad_id=e[i].className.split(u.img_class+"_")[1];oio.css.textContent+='.'+u.widget_class+' .'+u.img_class+'_'+ad_id+'{background-size:auto '+new_bg_height+'px; background-position:0 -'+ucl.ad_to_sprite[ad_id]*ad_height+'px;}';if(e[i].offsetParent!==null){u.alv.push(ad_id);}var d=oio.q("#"+e[i].parentElement.parentElement.parentElement.id+" "+e[i].parentElement.tagName);for(p=0;p<d.length;p++){if(d[p].onclick==null){d[p].onclick=function(ee){var a=ee.target||ee.srcElement;var ci=a.parentElement.getAttribute("ci");window.open(ucl.link_redirect_url+ucl.ad_to_link[ci],'_blank');return false;};}}}(function rview(){if(oio.v.inViewport(u.unit)){var lt="";lt=u.widget_id+"c"+u.alv.join([separator="c"]);var pv=0;if(oio.pv==false){oio.pv=true;pv=1;}var i=new Image();i.src=oio.ur(ucl.view_url,{'i':lt,'p':pv,'g':oio.g(),'w':u.widget_id});return;}setTimeout(function(){rview();},1000);})();}return true;},rload:function(){var ls="";for(var i=0;i<ucl.unit_list.length;i++){if(ucl.unit_list[i]["alv"]!=undefined){ls+=ucl.unit_list[i]["widget_id"]+"c"+ucl.unit_list[i]["alv"].join([separator="c"])+"-";}}ls=ls.substr(0,ls.length-1);var lsi=new Image();lsi.src=oio.ur(ucl.load_url,{'i':ls,'g':oio.g()});return true;},};o.init();setTimeout(o.rload,1000);return o;}}()};}oio.start();</script>
 	<div id="like_dialog" class="custom_dialog" style="display:none;">
 		<div class="popup_close"><span class="closemark" onclick="closePopup()">Close</span></div>
 		<div class="popup-content">
 			<h2>Like that story?</h2>
 			<p>Like us on Facebook to get more stuff like that!</p>
 			<div class="share_btns like_btns">
-				<div class="fb-like" data-like-id="08" data-href="https://www.facebook.com/BoredomTherapy" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+				<div class="fb-like" data-like-id="08" data-href="https://www.facebook.com/BoredomTherapy/" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 				<span class="popuparrow"></span>
 			</div>
 		</div>
@@ -1099,7 +1307,45 @@ if(bdk_param && bt.isFirstPage() ){ //check if it's the first page in session an
 		</div>
 	</noscript>
 	<!-- End Quantcast tag -->
-	
+	        <script>
+            (function() {
+                if (adblock) {
+                    var fbPixelCallback = function() {
+                        console.log('AdBlocker Pixel');
+                        var asSrcVal = getUrlparamValue('as-source');
+                        var asVal = getUrlparamValue('as');
+                        var bdkVal = getUrlparamValue('bdk');
+                        var asQueryVal = asSrcVal || asVal || '000';
+                        var bdkQueryVal = bdkVal || asQueryVal;
+                        var adblockerData = {
+                            trafficsource: bdkQueryVal,
+                            device: bt.deviceType,
+                            value: 0.0,
+                            currency: 'USD'
+                        };
+                        fbq('trackCustom', 'AdBlocker', adblockerData);
+                    };
+
+                    fbPixelCallback();
+                }
+            })();
+        </script>
+        
+<script id="template-home-single-infi" type="text/plain">
+
+<article data-id='{{id}}'>
+	<header>
+		<div class='post-info'>
+		 {{cats}}
+		</div>
+	</header>
+	<a attrname='HomePage' row='{{row}}' href='{{url}}' title='{{title}}'>
+		<div class='imgcont'><img width='336' height='175' data-src='{{data-image}}' class='attachment-grid-thumb wp-post-image' src='{{image}}'></div>
+		<h2>{{title}}</h2>
+	</a>
+</article>
+</script>
+
 <script id="bts_fb_setaudience">
 jQuery(bt).on('fb-share', function(){
 	console.log('BT_sharepost');
@@ -1117,132 +1363,24 @@ var _wpcf7 = {"loaderUrl":"http:\/\/boredomtherapy.com\/wp-content\/plugins\/con
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://boredomtherapy.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3"></script>
-<script type="text/javascript" src="http://boredomtherapy.com/wp-content/themes/boredom/js/common.js?ver=1.85.1.1"></script>
 
 <!--js modules-->
 <script>
-
-//module after-share-popup
 //after-share-popup disabled
+//ajax-infi disabled
 
-//module ajax-infi
-/*
- * AJAX loader
- * */
-jQuery(document).ready(function ($) {
-    if (typeof boredom_infiscrol !== 'undefined' && typeof gridWall !== "object") {
-        var scrolloading = false;
-        var leaderadslot = false;
-        var adslot = false;
-
-        $(window).scroll(function () {
-            if (!scrolloading && ($(window).scrollTop() + $(window).height() > $(document).height() - 600)) {
-                scrolloading = true;
-
-                if (!bt_is_mobile())
-                    url = '/json/' + boredom_infiscrol.type + '/nd10/' + boredom_infiscrol.start + '/' + '14/' + boredom_infiscrol.params + "/" + window.location.search;
-                else
-                    url = '/json/' + boredom_infiscrol.type + '/nd10mobile/' + boredom_infiscrol.start + '/' + '14/' + boredom_infiscrol.params + "/" + window.location.search;
-                $.ajax(url, {
-                    success: function (data) {
-                        var adplace = Math.floor(Math.random() * 3);
-                        if (bt_is_mobile())
-                            adplace = 0;
-                        if ( (!bt.no_dfp) && (!bt.isHtpDesign) && (data.length > 0) && (!bt_is_mobile())) {
-                            leaderadslot = 'leader-adslot' + Math.floor(Math.random() * 10000);
-                            leaderslot = googletag.defineSlot('/' + bt.dfp_id + '/BT_HP_Leaderboard', [728, 90], leaderadslot).addService(googletag.pubads());
-                            $('#ajaxinsertion').before('<div class="infiniteleaderadcont" id="infiniteleaderadcont-' + boredom_infiscrol.start + '"></div>');
-                            $('#infiniteleaderadcont-' + boredom_infiscrol.start).append('<div id="' + leaderadslot + '"></div>');
-                        }
-                        insertion = 'infibox-' + boredom_infiscrol.start;
-                        $('#ajaxinsertion').before('<div class="infibox" id="' + insertion + '"></div>');
-                        var cat_url = window.location.protocol + "//" + window.location.hostname + "/category/";
-
-                        for (var i = 0; i < data.length; i++) {
-
-                            if (
-                                (data[i].url.match(/(\?|&)as=\d+/))
-                                && (bt.getUrlparamValue("as") || bt.getUrlparamValue("as-source"))
-                            ) {
-                                data[i].url = data[i].url.replace(/(\?|&)as=\d+/, '');
-                            }
-
-                            if ( (!bt.no_dfp) && ( (!bt.isHtpDesign) && (i == adplace) && ((!bt_is_mobile()) || ((typeof boredom_pid !== "undefined") && (boredom_pid == 19047)))) ) {
-                                adslot = 'square-adslot' + Math.floor(Math.random() * 10000);
-                                squareslot = googletag.defineSlot('/' + bt.dfp_id + '/BT_HP_LRec_A', [[300, 250], [336, 280]], adslot).addService(googletag.pubads());
-                                $('#' + insertion).append('<article class="infinitesquareadcont" id="infinitesquareadcont-' + boredom_infiscrol.start + '"></article>');
-                                $('#infinitesquareadcont-' + boredom_infiscrol.start).append('<div id="' + adslot + '"></div>');
-                            }
-                            if (bt.isHtpDesign) {
-                                var template = $("#ajax_infi_template").html();
-                                // HTP
-                                html = bt.replaceStrs(template, {
-                                    "img": data[i].image,
-                                    "title": data[i].title,
-                                    "excerpt": data[i].excerpt,
-                                    "url": data[i].url,
-                                    "cat-link": cat_url + data[i].cats.toLowerCase(),
-                                    "cat-name": data[i].cats
-                                });
-                            }
-                            else {
-                                html = '<article>';
-                                html += '<a class="imgcont" href="' + data[i].url + '" title="' + data[i].title + '">';
-                                html += '<img src="' + data[i].image + '" alt=""/>';
-                                html += '</a>';
-                                html += '<header>';
-                                html += '<div class="post-info">';
-                                html += '<span class="thecategory"> ' + data[i].cats + '</span>';
-                                html += '</div>';
-                                html += '</header>';
-                                html += '<h2 ><a href="' + data[i].url + '" title="' + data[i].title + '">' + data[i].title + '</a></h2>'
-                                html += '</article>';
-                            }
-
-                            $('#' + insertion).append(html);
-                            boredom_infiscrol.start++;
-                        }
-                        $('#' + insertion).append('<div style="clear:both"></div>');
-                        $('#' + insertion + ' h2').equalizeHeights();
-                        if (data.length != 0)
-                            scrolloading = false;
-                        else {
-                            $('#ajaxinsertion').hide();
-                            $('footer').show();
-                        }
-
-                        addImgPlaceholderEvent();
-                    },
-                    error: function () {
-                        $('#ajaxinsertion').hide();
-                    }
-                });
-            }
-            if ((leaderadslot !== false) && ($(window).scrollTop() + $(window).height() < $('#' + leaderadslot).offset().top) && (!bt_is_mobile())) {
-                googletag.display(leaderadslot);
-                leaderadslot = false;
-            }
-            if ((adslot !== false) && ($(window).scrollTop() + $(window).height() < $('#' + adslot).offset().top)) {
-                googletag.display(adslot);
-                adslot = false;
-            }
-
-        });
-    }
-});
-
-//module bottom-newsletter
+//module bottom-newsletter.js
 /*
  * Bottom newsletter
  * */
 jQuery(document).ready(function ($) {
     var sub_hidden = false;
-    if (bt_is_mobile()) {
+    if (bt.isMobile) {
         return false;
     }
 
     $(window).scroll(function () {
-        if ((getCookie("subscribed") == '') && !sub_hidden && !bt_is_mobile()) {
+        if ((getCookie("subscribed") == '') && !sub_hidden && !bt.isMobile) {
             if (($(document).height() * .8) < $(window).scrollTop())
                 $('#mc_embed_signup_br').show();
             else
@@ -1265,7 +1403,23 @@ jQuery(document).ready(function ($) {
     });
 });
 
-//module data-src
+//module bp.js
+window.bp = function (bp, orient) {
+    var legalOrient = false;
+    if (orient === "above") {
+        legalOrient = true;
+    } else if (orient === "below") {
+        bp = bp - 1;
+        legalOrient = true;
+    }
+};
+
+window.bp.xs = 400;
+window.bp.m = 768;
+window.bp.t = 1024;
+window.bp.d = 1280;
+
+//module data-src.js
 jQuery(document).ready(function ($) {
     beforeDataSrc();
     $("img[data-src]").each(function () {
@@ -1295,7 +1449,14 @@ window.beforeDataSrc = function () {
     }
 };
 
-//module image-share-process
+//module gallery_extra_feature.js
+if (bt.isDesktop && bt.galleryExtraContent.length) {
+    var $ = jQuery;
+    var extraTextDiv = $('.extra-gallery-content');
+    extraTextDiv.show();
+}
+
+//module image-share-process.js
 /*
  * Image share
  * */
@@ -1342,7 +1503,7 @@ window.share_image_process = function ($selector) {
             if (prevpage) htmlBlock += '<div class="galleryArrowsL"><span class="imgArrowLeft" onclick="galleryNevigate(\'prevpage\')"></span></div>';
             if (nextpage) htmlBlock += '<div class="galleryArrowsR"><span class="imgArrowRight" onclick="galleryNevigate(\'nextpage\')"></span></div>';
 
-            if (!bt_is_mobile()) {	// Disable share buttons on gallery mode
+            if (!bt.isMobile) {	// Disable share buttons on gallery mode
                 htmlBlock += '<div class="sharebutcont" style="top:' + h + 'px">' +
                     '<span class="imgsharef" data-show-like="1" data-like-id="' + $(this).attr('data-like-id') + '" onclick="return facebookSharePopup(this)"></span>';
                 if (bt_twitter_account != '') htmlBlock += '<span class="imgsharet" onclick="return twitterPopupFunction()"></span>';
@@ -1358,7 +1519,7 @@ window.share_image_process = function ($selector) {
         .load(image_load);
 };
 
-//module img-placeholders
+//module img-placeholders.js
 jQuery(document).ready(function ($) {
     addImgPlaceholderEvent();
 });
@@ -1380,8 +1541,23 @@ window.addImgPlaceholderEvent = function () {
     });
 };
 
-//module pop-under
-//http://local.boredomtherapy.com/15-inexplicable-photos/15/?pas=2
+//module is-mobile.js
+/*
+ * Is Mobile
+ * */
+
+jQuery(document).ready(function ($) {
+    $('body').addClass(bt.isMobile ? 'mobile' : 'desktop');
+});
+
+//module is_email.js
+function validateEmail(email) {
+    var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+    return re.test(email);
+}
+//mobile-reorder disabled
+
+//module pop-under.js
 window.popUnder = window.popUnder || {};
 
 window.keepUrlParams = function (url) {
@@ -1411,7 +1587,7 @@ var asVal = getUrlparamValue('as') ? "_" + getUrlparamValue('as') :
 popUnder.newUrl = "/?grid=wall2" + asVal;
 jQuery(document).ready(function ($) {
     if (!(bt.gs.gridWallNextPage && bt.isFirstGalPage) ||
-        (bt_is_mobile())) {
+        (bt.isMobile)) {
         return false;
     }
 
@@ -1442,7 +1618,41 @@ jQuery(document).ready(function ($) {
     }
 });
 
-//module sticky-sidebar
+//module post_share_like_btn_show.js
+if ((bt.isAggr && bt.isDesktop && bt.showBigFacebookBtn) || (!bt.isAggr && bt.showBigFacebookBtn)) {
+    var fbBtn = jQuery('#big-share-fb-button');
+    fbBtn.show();
+}
+
+//module replace-strs.js
+/*
+ * Replace strs
+ * */
+window.replaceStrs = function (template, replaceValues) {
+    var $ = jQuery.noConflict(),
+        renderedTpl = template;
+    if (!template || !replaceValues) {
+        return '';
+    }
+
+    $.each(replaceValues, function (key, val) {
+        var regex = new RegExp("\{\{" + key + "}}", "g");
+
+        if (typeof val == "undefined" || val === false || !val) {
+            val = "";
+        } else if (typeof val == "string" && replaceValues.__replace_quotes__ !== false) {
+            val = val
+                .replace(/'/g, "&#39;")
+                .replace(/"/g, "&#34;");
+        }
+
+
+        renderedTpl = renderedTpl.replace(regex, val);
+    });
+    return renderedTpl;
+};
+
+//module sticky-sidebar.js
 /*
  * Sticky Sidebar
  * */
@@ -1485,50 +1695,99 @@ jQuery(window).ready(function ($) {
     }
 });
 
-//module video-iframes
-//video iframes disabled
+//module store-cookie.js
+/*
+ * store-cookie.js
+ * */
+bt.cookie = bt.cookie || {};
+window.cookie = bt.cookie;
+(function () {
+    var cookieName = 'btUserData';
+    var cookie = bt.cookie;
+    cookie.get = function () {
+        var currentState = Cookies.getJSON(cookieName);
+        currentState = currentState || {};
+        return currentState;
+    };
+    cookie.remove = function () {
+        Cookies.remove(cookieName);
+    };
+    cookie.set = function (key, val) {
+        var change = cookie.get();
+        change[key] = val;
+        Cookies.set(cookieName, change, {expires: 365});
+    };
+    cookie.increment = function (key) {
+        var change = cookie.get(),
+            val = change[key];
+        if (isNaN(val)) {
+            val = 0;
+        }
+
+        change[key] = val + 1;
+
+        Cookies.set(cookieName, change);
+    };
+})();
+
+jQuery(document).ready(function ($) {
+    var currentId = bt.postId,
+        lastId = cookie.get()["lastpid"];
+    if (!lastId || lastId != currentId) {
+        cookie.set("lastpid", currentId);
+        cookie.increment("views");
+    }
+
+    if (!Cookies.get("bt_session")) {
+        Cookies.set("bt_session", 1, {expires: 1 / 48});
+        cookie.increment("sessions");
+    }
+});
+//video-iframes disabled
+
 </script>
 <!--/js modules-->
-</div>
-
+    </div>
+	
 <script id="ajax_infi_template" type="text/plain">
-
-<div class="archive-item format-">
+	<div class="archive-item format-">
 		<div class="archive-item-link-wrap" href="#text">
 			<div class="archive-image">
-				<img width="336" height="175" src="{{img}}" class="attachment-grid-thumb wp-post-image" alt="daughter-at-dance-mm-1">
+				<img width="336" height="175" src="{{img}}" class="attachment-grid-thumb wp-post-image"
+				     alt="daughter-at-dance-mm-1">
 			</div>
-
 			<div class="archive-item-content">
 				<h1 class="archive-item-title">{{title}}</h1>
-
-									<div class="archive-excerpt">{{excerpt}}</div>
-
-									<div class="archive-social">
-						<ul class="social">
-							<li class="social-fb"><a href="javascript:void(0);" data-share-id="8">
-									<svg viewBox="-12 0 48 48" width="32px" class="">
-										<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-fb">
-									</use></svg>
-								</a></li>
-							<li class="social-tw"><a href="#">
-									<svg viewBox="0 4 50 50" width="32px" class="">
-										<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-tw">
-									</use></svg>
-								</a></li>
-							<li class="social-pin"><a href="#">
-									<svg viewBox="-9 -8 56 56" width="32px" class="">
-										<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-pin">
-									</use></svg>
-								</a></li>
-						</ul>
-					</div>
-							</div>
+				<div class="archive-excerpt">{{excerpt}}</div>
+				<div class="archive-social">
+					<ul class="social">
+						<li class="social-fb"><a href="javascript:void(0);" data-share-id="8">
+								<svg viewBox="-12 0 48 48" width="32px" class="">
+									<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-fb">
+									</use>
+								</svg>
+							</a></li>
+						<li class="social-tw"><a href="#">
+								<svg viewBox="0 4 50 50" width="32px" class="">
+									<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-tw">
+									</use>
+								</svg>
+							</a></li>
+						<li class="social-pin"><a href="#">
+								<svg viewBox="-9 -8 56 56" width="32px" class="">
+									<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-pin">
+									</use>
+								</svg>
+							</a></li>
+					</ul>
+				</div>
+			</div>
 
 			<a attrname="HomePage" row="2" class="archive-item-link-overlay archive-item-link" href="{{url}}"></a>
 			<a class="archive-cat-link cat-link" href="{{cat-link}}">{{cat-name}}</a>
 		</div>
-</div>
+	</div>
+	
 </script>
 
 <script>
@@ -1536,7 +1795,7 @@ jQuery(document).ready(function($){
     var pathName = (window.location.pathname === '/') ? '__x__' : window.location.pathname.slice(1);
     var search = window.location.search;
     var abPas = '';
-    var monitor = '_server=web14&_ctime=161&_timestamp=1482982707.1574';
+    var monitor = '_server=web12&_ctime=2087&_timestamp=1498228116.5283';
 	var localPath = pathName + search;
 	if (abPas.length && /[?&]as=|as-source=src/.test(search)) {
 	    localPath += '&' + abPas;
@@ -1549,13 +1808,14 @@ jQuery(document).ready(function($){
 	window.localPath = localPath;
 });
 </script>
-<img src="https://sp.analytics.yahoo.com/spp.pl?a=10000&amp;.yp=10018916">		<!-- DFP_1x1 -->
-		<div id="div-gpt-ad-1450145951215-0">
-			<script type="text/javascript" id="bts_bt_dfp_1x1">
-				googletag.cmd.push(function() {
-					googletag.display('div-gpt-ad-1450145951215-0');
-				});
-			</script>
-		</div>
-	
-</body></html>
+<img src="https://sp.analytics.yahoo.com/spp.pl?a=10000&amp;.yp=10018916">
+<script>
+jQuery(document).ready(function($){
+    var arNotDef = [11,22,27,28,29,30,31,32,45,15,6,36,35,2,44,43,38,24,5,34,14,1,20,7,12,26,3,25,19,16,4];
+    arNotDef.forEach(hideRels);
+});
+</script>
+    
+	    
+
+	</body></html>
