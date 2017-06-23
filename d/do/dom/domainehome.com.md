@@ -1,138 +1,126 @@
-> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222021421id_/http%3A//www.mydomaine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainehome.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623073204id_/http%3A//www.mydomaine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyDomaine
 
-**_PRIVACY POLICY_**
+**NEW PRIVACY POLICY**
 
-Effective Date: This Privacy Policy was last revised on August 5, 2014.
+Effective Date: This Privacy Policy was last revised on May 8, 2017.
 
-**_Introduction_**
+**Introduction**
 
 Welcome!  You have arrived at a web site that is provided by Clique Media, Inc. (“ **Clique** ” or “ **we** ,” “ **our** ” or “ **us** ”).  This “ **Privacy Policy** ” governs your use of [www.whowhatwear.com](http://www.whowhatwear.com/), [www.mydomaine.com](http://www.mydomaine.com/ "www.domainehome.com") and [www.byrdie.com](http://www.byrdie.com/) (including, without limitation, both mobile and online versions of our web sites, and also applies to your use of all features, applications, content, downloads and other services that we make available through these web sites and/or that post a link to this Privacy Policy (collectively, referred to herein as the “ **Site** ”), regardless of how you access or use the Site, whether via personal computers, mobile devices or otherwise.  This Privacy Policy does not apply to our data collection activities offline or otherwise outside of our Service (unless otherwise stated below).
 
 **To the extent we provide you notice on our Site of different or additional privacy policies or practices ( _e.g._ , at the point of our collection), those additional terms shall govern such data collection and use.**
 
-In addition, please review the Site’s **_Terms and Conditions of Service_** which governs your use of the Site.  _By using our Site_ , _you consent to our Privacy Policy and Terms and Conditions of Service and our collection, use and sharing of your information and data, and other activities, as described below._
+In addition, please review the Site’s **Terms and Conditions of Service** which governs your use of the Site.  _By using our Site_ , _you consent to our Privacy Policy and Terms and Conditions of Service and our collection, use and sharing of your information and data, and other activities, as described below._
 
-**_Linkable Table of Contents_**
+**Linkable Table of Contents**
 
 **It is important that you read and understand the entire Privacy Policy before using the Site.   However, this table of contents highlights key issues and points.  You can scroll down to be taken to the full explanation.**
 
-  1. **_What Information Does the Site Collect?_**
-    1. **_Information You Provide to Us_**
+**1.  What Information Does the Site Collect?**
+
+**a.  Information You Provide to Us**
 
 You may give us Personal Information and Demographic Information, such as when you register to receive a newsletter on the Site, contact us or submit content through the Site.
 
-    1. **_Information We Collect and Store As You Access and Use the Site_**
+**b.  Information We Collect and Store As You Access and Use the Site**
 
 Certain information may be collected from you automatically when you access and use the Site.  For example, we and third parties may use Tracking Technologies to collect Usage Information based on your Device Identifier for a variety of purposes, including tracking, targeting, and advertising, which may include activities across time and third party locations. 
 
-    1. **_Information Third Parties Provide About You_**
+**c.  Information Third Parties Provide About You**
 
 We may obtain information about you from third parties.
 
-    1. **_Interactions with Third Party Sites_**
+**d.  Interactions with Third Party Sites**
 
 If you interact with third party sites, those sites may send us information about you and you or we may send them information about you.
 
-    1. **_Information You Provide About a Third Party_**
+**e.  Information You Provide About a Third Party**
 
 You may give us information about others, such as when you send a friend a message.
 
-    1. **_California Do Not Track Disclosures_**
+**f.  California Do Not Track Disclosures**
 
 We do not look for or respond to do not track signals, but you may have certain other options  regarding tracking and/or targeting.
 
-  2. **_How Do We Use the Information Collected?_**
-    1. **_Use of Information By Us_**
+**2.  How Do We Use the Information Collected?**
+
+**a.  Use of Information By Us**
 
 We use your Personal Information, Demographic Information and Usage Information for a variety of purposes detailed in this section.
 
-    1. **_Use of Information For Recruitment Purposes_**
+**b.  Use of Information For Recruitment Purposes**
 
 If you apply for a job with us, we use the application information for considering you for a position.
 
-  3. **_How and When Do We Disclose Information to Third Parties?_**
+**3.  How and When Do We Disclose Information to Third Parties?**
 
 We may provide your information to third parties under various circumstances.  These may include:
 
-    1. **_When You Request Information From or Provide Information to Third Parties_**
+**a.  When You Request Information From or Provide Information to Third Parties**
 
 If you request information from third parties, request that we send information to third parties or interact with third party sites, content, ads or tools (including Facebook and other third party share functionality), we may share your information with such parties and/or they may collect your information directly.  This may also include ordering or purchasing products from third parties through us where we indicate that the third party rather than us is the seller.
 
-    1. **_Third Parties Providing Services on Our Behalf_**
+**b.  Third Parties Providing Services on Our Behalf**
 
-Our vendors may collect your information or we may share it with them.
+Our vendors may collect your information or we may share it with them
 
-    1. **_Administrative and Legal Reasons_**
+**c.  Administrative and Legal Reasons**
 
 There are a variety of administrative and legal reasons for which may share your information.
 
-    1. **_Affiliates and Business Transfer_**
+**d.  Affiliates and Business Transfer**
 
 We may share your information with our affiliates or in the event of a sale, merger or similar transaction.
 
-    1. **_Co-branded Areas_**
+**e.  Co-branded Areas**
 
 Co-branded areas may include information collection by us and third parties.  Such third parties privacy policies, not ours, govern their practices. 
 
-    1. **_Sweepstakes, Contests and Promotions_**
+**f.  Sweepstakes, Contests and Promotions**
 
 Promotions entrants may be required to consent to certain information sharing.
 
-  4. **_What About Information I Disclose Publicly?_**  
- 
-    1. **_User-Generated Content and Public Information_**
+**4.  What About Information I Disclose Publicly?**
+
+**a.  User-Generated Content and Public Information**
 
 Posting content in public areas makes it available to others.
 
-    1. **_Name and Likeness_**
+**b.  Name and Likeness**
 
 You grant us the right to use your name and likeness in connection with your posting and activities. 
 
-  5. **_Ads and Information About You_**
-
-
+**5.  Ads and Information About You**
 
 Third parties may send you targeted ads based on your location, information and/or behavior.  If you object, exercise choices some third parties may offer.
 
-  1. **_Do Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Site?_**
-
-
+**6.  Do Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Site?**
 
 We may allow you to access third-party content on the Site, or to link to third-party applications and locations from the Site, but we are not responsible for your interaction with third-party content, apps, and locations.
 
-  1. **_How Do I Change My Information and Communications Preferences?_**
-
-
+**7.  How Do I Change My Information and Communications Preferences?**
 
 You may change the information you provide to the Site.
 
-  1. **_What About Transfer of Information to the United States?_**
-
-
+**8.  What About Transfer of Information to the United States?**
 
 Data may be transferred to the United States.
 
-  1. **_What Should Parents Know About Children?_**
-
-
+**9.  What Should Parents Know About Children?**
 
 We do not intend to collect Personal Information from children.  If you think we have, let us know.
 
-  1. **_What About Security?_**
-
-
+**10.  What About Security?**
 
 No data security is absolute, but we take reasonable steps to secure data appropriately.
 
-  1. **_What About Changes to the Privacy Policy?_**
+**11.  What About Changes to the Privacy Policy?**
 
+**We may change this Privacy Policy as explained in this Section below.**
 
-
-We may change this Privacy Policy as explained below.
-
-**_The Full Detailed Privacy Policy_**
+**The Full Detailed Privacy Policy**
 
 **1. What Information Does the Site Collect?**
 
@@ -190,7 +178,7 @@ The Site may include functionality that allows certain kinds of interactions bet
 
 You may send someone else a communication from the Site, such as sending an invitation to a friend.  If so, the information you provide (names, email addresses, mobile number, etc.) is used to facilitate the communication and is not used by us for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise.  Please be aware that when you use any send-to-a-friend functionality on our Site, your email address, mobile number, name or user name and message may be included in the communication sent to your addressee(s).
 
-**(f) California Do Not Track Disclosures**
+**(f) California / Delaware Do Not Track Disclosures**
 
 Various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer’s online activities over time and across third-party web sites or online services ( _e.g._ , browser do not track signals).  Currently, we do not monitor or take any action with respect to these signals or other mechanisms.
 
@@ -228,11 +216,11 @@ You may be presented with an option on our Site to receive certain information a
 
 **(b) Third Parties Providing Services on Our Behalf**
 
-We may use third-party vendors to perform certain services on behalf of us or the Site, such as: (a) to assist us in Site operations; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site’s features; (e) tracking the Site’s activities and analytics; (f) enabling us to send you special offers or perform other administrative services; and (g) other services designed to assist us in maximizing our business potential.  We may provide vendors with access to your information to carry out the services they are performing for you or for us.  Third-party analytics and other service providers may set and access their own technologies on your Device and they may otherwise collect or have access to information about you.  We are not responsible for those third party technologies or activities arising out of them.  However, some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in the chart at the end of this policy.  We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options.
+We may use third-party vendors to perform certain services on behalf of us or the Site, such as: (a) to assist us in Site operations; (b) to manage a database of customer information; (c) hosting the Site; (d) designing and/or operating the Site’s features; (e) tracking the Site’s activities and analytics; (f) enabling us to send you special offers or perform other administrative services; and (g) other services designed to assist us in maximizing our business potential.  We may provide vendors with access to your information to carry out the services they are performing for you or for us.  Third-party analytics and other service providers may set and access their own technologies on your Device and they may otherwise collect or have access to information about you.  We are not responsible for those third party technologies or activities arising out of them.  However, some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in the chart at the end of this Privacy Policy.  We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options.
 
 **(c) Administrative and Legal Reasons**
 
-We may access, use, preserve, transfer and disclose your information (including Device Identifiers and Personal Information) to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Site’s **_Terms and Conditions of Service_** or other policies applicable to the Site, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Site or any third party; and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues.  Further, we may use IP address or other Device Identifiers, to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion, subject to applicable law.  Such disclosures may be carried out without notice to you.
+We may access, use, preserve, transfer and disclose your information (including Device Identifiers and Personal Information) to third parties: (i) to satisfy any applicable law, regulation, subpoenas, governmental requests or legal process if in our good faith opinion such is required or permitted by law; (ii) to protect and/or defend the Site’s **Terms and Conditions of Service** or other policies applicable to the Site, including investigation of potential violations thereof; (iii) to protect the safety, rights, property or security of the Site or any third party; and/or (iv) to detect, prevent or otherwise address fraud, security or technical issues.  Further, we may use IP address or other Device Identifiers, to identify users, and may do so in cooperation with third parties such as copyright owners, internet service providers, wireless service providers and/or law enforcement agencies, including disclosing such information to third parties, all in our discretion, subject to applicable law.  Such disclosures may be carried out without notice to you.
 
 **(d) Affiliates and Business Transfer**
 
@@ -254,7 +242,7 @@ The Site may permit you to submit ideas, photographs, user profiles, writings, m
 
 ****(b) Name and Likeness****
 
-We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**_Terms and Conditions of Service_**](https://web.archive.org/terms-conditions "Terms and Conditions of Service").
+We may also publish your name, voice, likeness and other Personal Information that is part of your User Content, and we may use the content, or any portion of the content, for advertising, marketing, publicity and promotional activities.  For full terms and conditions regarding User Content you submit to the Site, please review our [**Terms and Conditions of Service**](https://web.archive.org/web/20170623073204id_/http%3A/terms-conditions "Terms and Conditions of Service").
 
 ****5. Ads and Information About You****
 
@@ -262,7 +250,7 @@ We may use third parties such as network advertisers and ad exchanges to serve a
 
 Statements regarding our practices do not apply to the methods for collecting information used by these third parties or the use of the information that such third parties collect.  We do however work with third parties to make efforts to have you provided with information on their practices and any available opportunity to exercise choice.  The relevant third party’s terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices.  We make no representations regarding the policies or practices of third party advertisers or advertising networks or exchanges or related third parties.
 
-Some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in a chart at the end of this.  Further, while sites use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.  Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, but does not mean you will no longer receive any targeted content and/or ads.  Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective.  You may also opt-out of receiving Behavioral Ads on participating sites and services by visiting the Digital Advertising Alliance (“ **DAA** ”) website at <http://www.aboutads.info/choices/#completed>.  Similar limitations may apply to the DAA opt-out.  We are not responsible for effectiveness of or compliance with any third parties’ opt-out options or programs.
+We may use third-party advertising companies to target Behavioral Ads to you on our Site, across the web, on your mobile device and on any of your other devices, based on the information we have collected from and about you, as well as information relating to your and other users’ visits to this and other websites and online services. To do so, these companies may place or recognize a unique cookie on your browser (including through the use of pixel tags) or recognize an identifier associated with your mobile device. These companies may also use Tracking Technologies, along with personal information they or we collect on the different Devices you use, to recognize you across the Devices you use, such as a mobile Device and a laptop or other computer. Some third parties may offer you certain choices regarding their practices, and information we have been informed of regarding such choices is available in a chart at the end of this Privacy Policy.  Further, while sites use a variety of companies to serve advertisements, you may wish to visit <http://www.networkadvertising.org/optout_nonppii.asp>, which provides information regarding this practice by Network Advertising Initiative (“ **NAI** ”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members.  Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver Behavioral Ads to you, but does not mean you will no longer receive any targeted content and/or ads.  Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different Device or change web browsers, your NAI opt-out may not, or may no longer, be effective.  You may also opt-out from receiving Behavioral Ads on participating sites and services by visiting the Digital Advertising Alliance (“ **DAA** ”) website at [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/#completed).  You may download the AppChoices app at www.aboutads.info/appchoices to opt out in mobile apps. Similar limitations may apply to the DAA opt-out.  We are not responsible for effectiveness of or compliance with any third parties’ opt-out options or programs.
 
 ****6. Do Third-Party Content, Links to Third-Party Sites and/or Third-Party Apps Appear on the Site?****
 
@@ -272,7 +260,7 @@ Third-party applications may also be available via the Site.  The owners of the
 
 ****7. How Do I Change My Information and Communications Preferences?****
 
-You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided to us.  You may provide updates and changes by using the Contact Us Form.  If you send us a request to make changes, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Site such as in forums or blogs, these communications cannot generally be removed.  When you edit your Personal Information or change your preferences on the Site, information that you remove may persist internally for our administrative purposes.  You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails or in some cases by logging into your Site account and changing your communication preferences.  This will not affect subsequent subscriptions and if your opt-out is limited to certain types of emails the opt-out will be so limited.  Subsequent or different subscriptions will be unaffected.  Please note that we reserve the right to send you certain communications relating to your account or use of our Site, such as administrative and Site announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications.  If you have any questions about the Privacy Policy or practices described in it, you should contact us by using the Contact Us Form.
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided to us.  You may provide updates and changes by contacting us using the form available here: http://www.whowhatwear.com/contact-us.  If you send us a request to make changes, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable.  Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons.  Also, if you have made any public postings on the Site such as in forums or blogs, these communications cannot generally be removed.  When you edit your Personal Information or change your preferences on the Site, information that you remove may persist internally for our administrative purposes.  You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails or in some cases by logging into your Site account and changing your communication preferences.  This will not affect subsequent subscriptions and if your opt-out is limited to certain types of emails the opt-out will be so limited.  Subsequent or different subscriptions will be unaffected.  Please note that we reserve the right to send you certain communications relating to your account or use of our Site, such as administrative and Site announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications.  If you have any questions about the Privacy Policy or practices described in it, you should contact us using the form available here: http://www.whowhatwear.com/contact-us.
 
 ****8. What About Transfer of Information to the United States?****
 
@@ -280,7 +268,7 @@ Our Site is operated in the United States and intended for users located in the 
 
 ****9. What Should Parents Know About Children?****
 
-Each Site is a general audience web site and we do not knowingly collect any personal information from children younger than the age of thirteen (13) as required by U.S. law.  We will delete any personal information collected that we later determine to be from a user younger than the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personal information to us, please contact us by using the Contact Us Form.
+Each Site is a general audience web site and we do not knowingly collect any personal information from children younger than the age of thirteen (13) as required by U.S. law.  We will delete any personal information collected that we later determine to be from a user younger than the age of thirteen (13).  If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personal information to us, please contact us by using the Contact us using the form available here: http://www.whowhatwear.com/contact-us. .
 
 ****10. What About Security?****
 
@@ -294,138 +282,28 @@ We reserve the right to change this Privacy Policy at any time without notice to
 
 The following third parties that collect information from you on our Site have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
 
-**Party**
-
-| 
-
-**Site**
-
-| 
-
-**For More Information**
-
-| 
-
-**Use of Tracking Technologies**
-
-| 
-
-**Privacy Choices**  
-  
+**Party**|  **Services**|  **For More Information/Privacy Policy Link**|  **Use of Tracking Technologies**|  **Privacy Choices**  
 ---|---|---|---|---  
+Google | Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on | https://support.google.com/analytics/answer/6004245  http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4... | Yes | https://tools.google.com/dlpage/gaoptout/  
+Optimizely | A/B Testing | https://www.optimizely.com/about | Yes | https://www.optimizely.com/opt_out  
+DoubleClick  | Ad Serving Software | https://www.doubleclickbygoogle.com/ /span> | Yes | https://www.google.com/settings/u/0/ads/authenticated?hl=en  
+Quantcast | Audience Measurement | http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/ | Yes | https://www.quantcast.com/opt-out/  
+Parse.ly | Audience Measurement | https://parsely.com/privacy.html | Yes | http://srv.config.parsely.com/optout  
+Amazon Associates | Advertising | https://www.amazon.com/gp/help/customer/display.html?nodeId=468496 | Yes | See Amazon Privacy Policy for details.  
+comScore, Inc. | Analytics and Advertising | http://www.comscore.com/About-comScore/Privacy-Policy | Yes | None.  
+Criteo | Advertising | http://www.criteo.com/privacy/ | Yes | See privacy policy link for details on how to opt-out.  
+Outbrain | Advertising | https://www.outbrain.com/legal/privacy#privacy-policy | Yes | See privacy policy link for details on how to opt-out.  
+Taboola | Advertising | https://www.taboola.com/privacy-policy | Yes | https://www.taboola.com/privacy-policy#optout   
+Facebook | Advertising | https://www.facebook.com/privacy/explanation | Yes | See privacy policy link for details.  
+Twitter | Advertising | https://twitter.com/privacy?lang=en | Yes | See privacy policy link for details.  
+Sharethrough | Advertising | https://platform-cdn.sharethrough.com/privacy-policy | Yes | See privacy policy link for opt-out options.  
+Sailthru | Advertising | http://www.sailthru.com/legal/#privacy-statement | Yes | See privacy policy link for opt-out options.  
+LiveRamp | Advertising | https://liveramp.com/privacy/ | Yes | See privacy policy link for opt-out options.  
+Rakuten Automate | Advertising | https://marketing.rakuten.com/service-privacy-policy | Yes. | See privacy policy link for opt-out options.  
+Nielsen | Advertising |  http://www.nielsen.com/au/en/privacy-policy.html | Yes. | None.  
   
-Google
+**PLEASE NOTE:  We are not responsible for third-party policies or practices.  We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate.  Please contact the applicable third parties regarding their privacy and data security policies and practices.
 
-| 
+Previous Privacy Policy can be found [here](http://www.mydomaine.com/rm/terms/2191571)
 
-Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on
-
-| 
-
-<https://support.google.com/analytics/answer/6004245>
-
-[http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4](http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4)...
-
-| 
-
-Yes
-
-| 
-
-<https://tools.google.com/dlpage/gaoptout/>  
-  
-Optimizely
-
-| 
-
-A/B Testing
-
-| 
-
-<https://www.optimizely.com/about>
-
-| 
-
-Yes
-
-| 
-
-<https://www.optimizely.com/opt_out>  
-  
-DoubleClick
-
-| 
-
-Ad Serving Software
-
-| 
-
-<http://www.google.com/doubleclick/>
-
-| 
-
-Yes
-
-| 
-
-[http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409](http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409)
-
-[http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4](http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4)...
-
-<https://tools.google.com/dlpage/gaoptout/>  
-  
-Quantcast
-
-| 
-
-Audience Measurement
-
-| 
-
-_<http://www.quantcast.com/how-we-do-it/consumer-choice/privacy-policy/> _
-
-| 
-
-Yes
-
-| 
-
-See link provided.  
-  
-Parse.ly
-
-| 
-
-Audience Measurement
-
-| 
-
-_<https://parsely.com/privacy.html> _
-
-| 
-
-Yes
-
-| 
-
-See link provided.  
-  
-Crazy Egg
-
-| 
-
-Audience Measurement/ A/B Testing
-
-| 
-
-_<http://www.crazyegg.com/> _
-
-| 
-
-Yes.
-
-| 
-
-None.  
-  
-PLEASE NOTE:  We are not responsible for third-party policies or practices.  We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate.  Please contact the applicable third parties regarding their privacy and data security policies and practices.
+**
