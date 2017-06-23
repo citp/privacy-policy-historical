@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtodoinjava.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011213534id_/http%3A//howtodoinjava.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtodoinjava.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623122313id_/http%3A//howtodoinjava.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - HowToDoInJava
 
