@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javtasty.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313230540id_/http%3A//www.javtasty.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javtasty.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623050134id_/http%3A//www.javtasty.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - JavTasty | Watch your favorite JAV porn videos online in HD
 
