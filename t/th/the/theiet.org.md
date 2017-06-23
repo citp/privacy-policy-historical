@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122034411id_/http%3A//www.theiet.org/help/privacy.cfm%3Forigin%3Dfoot-siteinfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theiet.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623085122id_/http%3A//www.theiet.org/help/privacy.cfm%3Forigin%3Dfoot-siteinfo) for the most accurate reproduction.*
 
 # Privacy statement - The IET
 
