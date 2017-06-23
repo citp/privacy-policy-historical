@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudwith.me privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221193334id_/https%3A//cloudwith.me/%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudwith.me privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623222650id_/https%3A//cloudwith.me/%23policy) for the most accurate reproduction.*
 
-# Cloudwith.me | AWS (Amazon Web Services) EC2 Cloud Hosting | Lightsail VPS
+# Cloudwith.me | AWS (Amazon Web Services), Azure (Microsoft Azure) | EC2 Cloud Hosting | WordPress
 
 ### 1 - General
 
@@ -44,7 +44,7 @@ We will retain the personal data of visitors to the Service for a reasonable per
 
 ### 11 - Changing Your Information
 
-You are entitled to see the information we hold about you. If you wish to see this information, please contact us atinfo@cloudwith.me You can also ask us to amend the information we hold about you to ensure that it is accurate and kept up to date.  Please contact us at [insert contact details, e.g. email address].
+You are entitled to see the information we hold about you. If you wish to see this information, please contact us at info@cloudwith.me You can also ask us to amend the information we hold about you to ensure that it is accurate and kept up to date.  Please contact us at info@cloudwith.me. If you are not 100% satisfied, simply contact us within 30 days for a full refund.
 
 ### 12 - Changes To Our Privacy Statement
 
@@ -56,4 +56,4 @@ We may assign or transfer this privacy statement and your user account and relat
 
 ### 14 - Terms and Conditions
 
-When you sign up for the Service or use the Service, you are subject to our terms and conditions of service.  Please take time to read our terms and conditions and this privacy statement.  By proceeding further you are deemed to have read and accepted our terms and conditions and privacy statementThis privacy statement is published by Cloud With Me Limited, 227 Battleford Business Park, 227 Battleford Road, Eglish, Dungannon, Co Tyrone, United Kingdom, BT71 7NN.
+When you sign up for the Service or use the Service, you are subject to our terms and conditions of service.  Please take time to read our terms and conditions and this privacy statement.  By proceeding further you are deemed to have read and accepted our terms and conditions and privacy statement. This privacy statement is published by Cloud With Me Limited, 227 Battleford Business Park, 227 Battleford Road, Eglish, Dungannon, Co Tyrone, United Kingdom, BT71 7NN.
