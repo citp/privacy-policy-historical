@@ -1,75 +1,136 @@
-> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624062349id_/http%3A//www.aota.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624013147id_/https%3A//www.aota.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# PrivacyPolicy - AOTA
+# Privacy Policy - AOTA
 
-**Privacy Policy for Our Website**
+Effective December 22, 2016
 
-This Privacy Statement discloses the privacy practices for the American Occupational Therapy Association ("AOTA") and its Internet Web sites: [http://www.AOTA.org/](http://www.aota.org/), [http://www1.aota.org](http://www1.aota.org/), [http://store.aota.org](http://store.aota.org/) (hereinafter referred to collectively as a "Web site"). AOTA, an independent, non-profit organization, provides you with the following information:
+## Introduction
 
-  * What personally identifiable information of yours or third-party personal identification is collected from you through the Web site; 
-  * How the information is used; 
-  * With whom the information may be shared; 
-  * What choices are available to you regarding collection, use and distribution of the information; 
-  * What security procedures are in place to prevent the loss, misuse or alteration of information under AOTA's control; and 
-  * How you can correct any inaccuracies in the information. 
+This Privacy Policy describes AOTA’s practices regarding the collection, use, and disclosure of the information we collect from and about you when you use any of AOTA’s websites and mobile applications (the “Service”). From time to time the number of websites that make up the Service may change. Each website that makes up the Service will provide a link to this unifying privacy policy. As such, this policy will govern the privacy practices of each website that links to this policy.
+
+AOTA respects the privacy of its members and website visitors. We aim to give our website visitors the opportunity to know what information we collect about them, why we collect that information, how we use that information to improve their experience, and how they can limit the use of that personally identifiable information (PII) beyond the purposes for which they first provided it. 
+
+By accessing or using the Service, you agree to this Privacy Policy and our Terms of Use.
+
+## Policy Changes
+
+Whenever we change our policy, we will post those changes on this page. We will also announce these changes on the AOTA.org website. Since these policy change notices last only a limited time, you should periodically check this privacy policy to review any possible changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Data We Collect
+
+**Non-Personally Identifiable Information**
+
+Log Files & Analytics
+
+Our servers and other devices automatically record certain information. These logs may include information such as the resource you requested, your IP address, your browser type and its settings, the URL of the site you visited to get to our site (referrer), the last page you visited on our site, all of the URLs you viewed while on the Service, search terms used, number of clicks, scroll depth, files downloaded, date and time, and other such information. This information helps AOTA improve the efficiency, security, and relevance of the Service.
+
+Device Identifiers
+
+When using the Service on a mobile device, AOTA collects specific device information contained in your “device identifier.” Such information includes the device type, operating system, and mobile network. We may associate this identifier with your account to customize the Service to your devices/account.
+
+Location Information
+
+Likewise, use of the Service on a mobile device may result in collection of the location of the device. This information may also be associated with your account. You can disable this on your particular device. However, be aware that some features of the Service may not function properly as a result.
+
+**Personally Identifiable Information**
+
+If you create an account on the Service, at a minimum, we collect the following personal information: 
+
+  * First name
+  * Last name
+  * Email address
 
 
 
-If you feel that AOTA is not abiding by its posted privacy policy, you should first contact AOTA at 301-652-2682. 
+You may also provide us with additional/optional information such as your role in OT, your work setting, your phone number(s), and mailing and billing addresses, special needs, educational information, and other demographic information. Your name and email address, in conjunction with any additional/optional information you associate with your account, is referred to herein as your “Profile Information.”
 
-**Information Collection and Use**   
-AOTA, or third parties designated by AOTA, collects personally identifiable and non-personally identifiable information from users in a variety of ways. AOTA is the sole owner of all the information collected on the Web site, and may use and share with third parties any and all of the information collected in any manner whatsoever that it deems appropriate for business purposes in its sole discretion.
+If you elect to purchase any type of product or offering sold on the Service, including but not limited to memberships, event registrations, books, magazine articles, and/or educational courses, we will utilize a third party credit card payment processing company to collect payment information, including your payment information, billing address, and phone number. We will share this information with the third party credit card processing company as described in the section “How We Use & Share Your Data: Trusted Service Providers and Business Partners.” We do not store your credit card information while using the Service for a purchase.
 
-**Registration**   
-To access areas designated as "member areas," users must be current members or affiliates of AOTA. The information collected when members join AOTA is also used to control access to these areas of the Web site. AOTA members and affiliates who wish to use the "member areas" of the Web site will be required initially to enter certain personal identification information (e.g., current AOTA customer number, last name, e-mail address, username and password) to gain access.
+## How We Use & Share Your Data
 
-**Online Orders**   
-AOTA requests information from its users on its membership form, including contact information (such as name and shipping address) and financial information (such as credit card number, expiration date, etc.). This information is primarily used by AOTA and third parties designated by AOTA for billing and to fill customer orders. Contact information may be used by AOTA or third parties designated by AOTA for other business purposes. For example, if there is a problem processing an order, this information may be used to contact the user.
+**Use As Directed By You**
 
-**Cookies**   
-Currently there are two types of cookies. The standard cookie is information about the user stored on the user's hard drive. The second type of cookie, called a session cookie, also stores information about a user. However, these cookies are not stored on the user's hard drive. These cookies are used only while the user is actively connected to a Web site. Once the user closes the Internet browser (or is inactive for more than 60 minutes), these session cookies are destroyed. AOTA uses both types of cookies on its Web site. In the future, AOTA may add additional cookies for business purposes. 
+We will display your Profile Information on your profile page and elsewhere on the Service in accordance with the preferences you set. To review and revise specific profile information, such as phone numbers, email addresses, and mailing and billing addresses, go to: <http://myaota.aota.org/>.
 
-AOTA uses permanent cookies for several business purposes. Primarily, when visitors arrive at our site, a unique cookie is automatically stored on the visitor's computer by their Internet browser that allows analysis software to differentiate between new and returning users.  
-Finally, session cookies are used while a user is active on the Web site for a multitude of business purposes. For example, these cookies allow members to navigate freely through the Web site once they have logged in to the Web site. Without these cookies, members would have to login each time they requested a "member area" page. These cookies are also used while a member is joining, renewing or altering account information. This allows the Web site to track a user's activity before any data is committed to a database.
+**Trusted Service Providers and Business Partners**
 
-Session cookies are also used to facilitate navigation between different AOTA web sites without asking a user to sign in more than once.
+We may use third party service providers to help us deliver, improve, protect, or promote the Service. We may use various third parties to deliver online coursework, deliver online publication content, send email messages and updates, analyze the security and operation of the Service, process payments, and other similar services. Using these third party service providers may also result in sharing and storing your personally identifiable information in locations and on servers, or clouds outside of the direct control of AOTA.
 
-**Log Files**   
-Each view of a page on the Web site is logged. Information such as the user's Internet Protocol ("IP") address, time of day and duration of activity on the Web site is recorded. This information may be used by AOTA or third parties designated by AOTA to analyze trends, administer the Web site, track users' movements and gather broad demographic information for aggregate use or for other business purposes. 
+From time to time, these third party service providers may have access to your personally identifiable information for the limited purpose of providing the contracted service. ****
 
-If illegal activity is detected on the Web site, AOTA or third parties designated by AOTA may attempt to connect an IP address to personal information.
+**With Law Enforcement or In Order to Protect Our Rights**
 
-**Sharing**   
-AOTA will share aggregated demographic information with third parties, including without limitation its partners and advertisers, as it deems appropriate in its sole discretion. 
+We may disclose your aggregated and personally identifiable information in response to a lawful request by public authorities, including to meet national security or law enforcement requirements. In order to comply with law or regulation; to protect the safety of any person; to address fraud, security or technical issues; or to protect AOTA’s rights or property, and as AOTA deems appropriate in its sole discretion, we may also disclose your aggregated or personally identifiable information to government authorities, law enforcement authorities, or our legal counsel. 
 
-From time to time, we share personally identifiable information, as AOTA deems appropriate in its sole discretion, with third parties in a number of ways for a variety of business purposes, including name and other personally identifiable information.
+**In an Aggregate and Non–Personally Identifiable Manner**
 
-**Links**   
-The Web site contains links to other Internet sites. Please be aware that AOTA is not responsible for the privacy practices of such other Internet sites. We encourage our users to be aware when they leave the Web site and to read the privacy statements of each Internet site that collects personally identifiable information. This Privacy Statement applies solely to information collected by AOTA's Web site.
+AOTA may share aggregated non–personally identifiable information with third parties, including without limitation its partners, advertisers, and other interested third parties as it deems appropriate in its sole discretion to help them understand or improve the Service.
 
-**Surveys**   
-From time to time, AOTA, or third parties designated by AOTA, requests information from users via surveys. Information requested may include contact information (such as name and shipping address) and demographic information (such as zip code). Survey information may be used by AOTA, or third parties designated by AOTA, for a variety of business purposes. For example, surveys will be used for purposes of monitoring or improving the use of and satisfaction with the Web site and other services offered by AOTA.
+**Children’s Privacy**
 
-**Security**   
-When you submit information via the Web site, AOTA, or third parties designated by AOTA, takes certain precautions to protect your user information both online and offline. For example, currently, when registration/order forms on our Web site ask users to enter financial information (such as credit card number and expiration date), that information is encrypted and is protected with encryption software: Secure Sockets Layer ("SSL"). While you are on a secure page, such as our order form, the lock icon on the bottom of Internet browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to unlocked or open, when you are just 'surfing'. These security features may be updated from time-to-time in AOTA's sole discretion. 
+Our Service is not directed to persons under 13. AOTA does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register for an account on the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information. If you believe that we might have any information from or about a child under 13, please contact us at website@aota.org.
 
-Just as we currently use SSL encryption to protect sensitive information online, we also use certain efforts to protect user-information offline. Currently, our users' information is restricted primarily in our offices and our servers are all password protected.   
-As an online merchant, AOTA is also required to be PCI compliant. Our systems are scanned on a quarterly basis by an independent third part company in order to ensure our network and underlying systems are protected against intrusion or data theft. In addition AOTA must also follow strict internal procedures which guard against data theft. 
+**Cookies**
 
-If you have any questions about the current state of security with respect to information collected at the Web site or stored offline, you may send an email to [website@aota.org](mailto:website@aota.org).
+AOTA uses cookies to provide, monitor, analyze, and improve the Service. We use cookies to remember your user name when you return to the Service. We can also use Cookies to control access to AOTA member-only content, to streamline authentication and navigation on the Service. In the future, AOTA may add additional cookies and pixel tags/web beacons to further support the Service.
 
-**Special Offers**   
-Members and other visitors to our Web site may occasionally receive information on products, services, special deals, newsletters and other information from AOTA, or third parties designated by AOTA. AOTA, or third parties designated by AOTA, may also send notifications of renewals and other communications to members via e-mail.
+**Google Analytics Cookies**
 
-**Site and Service Updates**   
-AOTA also sends user site and service announcement updates. Members cannot opt-out from service announcements, which contain important information about the service. We communicate with users to provide requested services and in regard to issues relating to their account via e-mail or phone.
+AOTA uses cookies on the Service to support our Google Analytics service. Google Analytics is a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses cookies to help AOTA analyze how users use the Service, in an effort to further improve the Service. 
 
-**Correcting/Updating Personal Information**   
-If a user's personally identifiable information (such as zip code) changes or if a user no longer desires our service, we will endeavor to provide a way to correct or update personal data which that user has provided to us. This can usually be done from our member services page or by contacting our   
-Action Center at the address listed below. Some information, such as a last name or login name, must be changed by calling the AOTA Helpdesk at 301-652-2682 x2740.
+**Google Advertising and Interest-Based Reporting**
 
-**Choice/Opt-out**   
-Users who no longer wish to receive our e-mail newsletters or promotional materials may opt-out of receiving a specific communication from AOTA by clicking on the unsubscribe link at the bottom of each e-mail or by sending a reply e-mail containing the word "unsubscribe" in the subject line. Please note that there are certain communications which will still be sent to users by AOTA, or third parties designated by AOTA, as referenced above, including without limitation site and Service Updates and membership renewals.
+AOTA also uses Google Analytics Advertising and Interest Reporting on the Service. This allows us to know more about our visitors to the Service such as gender, age range, and broad interest categories. 
 
-**Notification of Changes**   
-If we decide to change our privacy policy, we will post those changes on AOTA's homepage so that our users are always informed of what information we collect, how we use it and under what circumstances, if any, we disclose it.
+**Google Remarketing Campaigns**
+
+AOTA uses Google’s Remarketing, which allows us to show you advertising relevant to AOTA on other websites that are part of the Google Display Network.
+
+Simply stated, remarketing allows us and Google to do the following:
+
+  * Advertise to you across other websites on the Google Display Network
+  * Show you ads on other sites you may visit, and those ads will be tailored based on past visits to AOTA’s web properties.
+
+
+
+**Disabling Cookies/Advertising and Remarketing Opt-Out**
+
+You may disable or block cookies on your web browser; however be aware that some features of the Service may not function properly.
+
+Alternatively you can opt out of the Google Analytics Advertising Features using a browser plug-in. To do so, please go to: <https://tools.google.com/dlpage/gaoptout/>
+
+To read Google’s Data and Privacy practices, go to: <https://support.google.com/analytics/answer/6004245>
+
+To tailor your Remarketing campaign settings, go to Google’s Ads Settings: <http://www.google.com/settings/ads>
+
+**Use of IP address**
+
+Every computer and device connected to the Internet is assigned an Internet Protocol (IP) address. IP addresses are typically assigned in country-based blocks and can often be used to identify the country, state, and city from which a computer is connecting to the Internet. Because IP addresses need to be used by websites for the Internet to function, AOTA websites have access to your IP addresses.
+
+## Privacy Controls
+
+You may modify certain preferences related to your account. Specifically, you can opt out of email newsletters, AOTA membership offers, AOTA products, AOTA events, AOTA advocacy efforts, information from third-party vendors, and surveys. 
+
+## Data Integrity & Security
+
+AOTA applies commercially reasonable and industry-standard technical, administrative, and organizational security measures to protect the integrity of the data we collect and to guard against unauthorized or unlawful access to, use of, or accidental destruction of such data.
+
+Particularly, when you enter sensitive information (such as credit card numbers) as part of our Service, we encrypt the transmission of that information using industry-standard encryption.
+
+## Risks Inherent in Sharing Information
+
+Although we take reasonable steps to maintain the security of our systems and the information associated with your account, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your Content, and we are not responsible for third-party circumvention of any privacy settings or security measures on the Service.
+
+## Do Not Track Signals
+
+Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. We currently do not respond to “do not track” signals.
+
+## Links to Other Websites
+
+The Service contains links to other websites not operated by AOTA. We are not responsible for the practices employed by such websites nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, this Privacy Policy is no longer in effect and your activities on that third party website are subject to such third party website’s own rules and policies. We encourage our users to be aware when they leave the Service and to read the privacy policies of those websites.
+
+## Contact Us
+
+For questions about these or any of AOTA’s terms or policies, email us at [website@aota.org](mailto:website@aota.org).
+
+Last Updated: 12/22/2016
