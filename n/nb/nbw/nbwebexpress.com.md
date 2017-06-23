@@ -1,69 +1,89 @@
-> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234457id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbwebexpress.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623060351id_/http%3A//www.newbalance.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: September 16, 2016
+Last Updated: February 15, 2017
 
 Thank you for placing your trust in New Balance. You are very important to us and we want to provide you with a safe and secure online experience. This Privacy Policy describes how we collect and use your information and explains the choices that you have with regard to how we use your information. 
 
 This Privacy Policy applies to the following services operated by New Balance Athletics, Inc. and its affiliates ("New Balance", "we", "us", or "our"): 
 
-  * [www.newbalance.com](https://www.newbalance.com/) and other websites owned and/or operated by New Balance that contain a link to this Privacy Policy (collectively, the "Website"); 
-  * all mobile applications (each, an "App") that contain a link to this Privacy Policy;
-  * all services made available by New Balance through the Website and the Apps; and
+  * www.newbalance.com and other websites owned and/or operated by New Balance that contain a link to this Privacy Policy (collectively, the "Website"); 
+  * all mobile applications that contain a link to this Privacy Policy or, in the case of mobile applications on the New Balance RunIQ smartwatch, that are activated by or connected to a mobile application on another mobile device that contains a link to this Privacy Policy (each such mobile application, a “New Balance App”); 
+  * all services made available by New Balance through the Website and the New Balance Apps; and 
   * the New Balance loyalty program known as “MyNB” (including both in-store and web site registrations).
 
 
 
 For the purpose of this Privacy Policy, the foregoing are referred to, collectively, as the "Service”. 
 
-This Privacy Policy applies whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By accessing or using the Service and providing us with information through the Service, you consent to this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. 
+This Privacy Policy applies whether you are a "Visitor" (which means that you simply browse the Service) or you are a "Member" (which means that you have registered or transacted with the Service or a component thereof). By accessing, viewing and/or using the Service and/or providing us with information through the Service, you are indicating your consent to be bound by this Privacy Policy. We suggest that you review this Privacy Policy periodically as we will update and change it from time to time. 
 
 ## WHAT INFORMATION DOES NEW BALANCE COLLECT ABOUT ME?
 
 ### Non-Individually Identifiable Data:
 
-As is the case with most online services, every time you visit our Website or use one of our Apps, we automatically collect certain data and information from you and/or your computer that is not personally identifiable. Examples of this type of information include: 
+As is the case with most online services, every time you visit, access and/or use our Service, we automatically collect certain data and information from you and/or your computer that is not personally identifiable. Examples of this type of information may include: 
 
-  * The type of Internet browser you are using.
-  * The type of computer operating system and device you are using to access the Service.
-  * The domain name of your Internet service provider.
-  * The Web page from which you came.
-  * The pages and features you visit and access on our Service.
+  * The type of Internet browser you are using 
+  * The type of computer operating system and device you are using to access the Service
+  * The domain name of your Internet service provider 
+  * The Web page from which you came 
+  * The pages and features you visit and access on our Service
+  * RunIQ usage information (e.g., battery, screen and sensor usage)
 
 
 
-When you access, visit and/or use our Website or one or more of our Apps, we may track your visit and, as described below in the section concerning "cookies", collect certain data regarding your use of the Service and your activity on the Service, but we will not collect any Personal Information from you unless you choose to provide it to us. 
+When you visit, access and/or use our Service, we may track your visit and, as described below in the section concerning "cookies", collect certain data regarding your use of the Service and your activity on the Service, but we will not collect any Personal Information from you unless you choose to provide it to us or agree that it may be collected. 
 
-We use third party analytics tools, including those offered by Google, Inc. ("Google") and Adobe Systems Incorporated ("Adobe"). These third party services use cookies to help us analyze how users use our Website and our Apps. The information generated by the cookie about your use of our Website and our Apps (including your IP address) will be transmitted to and stored by Google and Adobe, respectively. Google and Adobe will use this information for the purpose of evaluating your use of our Website and our Apps, compiling reports on activity for website and application operators and providing other services relating to online activity and Internet usage. Google and Adobe may also transfer this information to third parties where required to do so by law, or where such third parties process the information on behalf of Google or Adobe. We also use Adobe Analytics. To opt-out of the use of Adobe cookies on our Services for analytics purposes, please visit Adobe's opt-out page: <http://www.adobe.com/privacy/opt-out.html>. To opt-out of Google analytics, please see: <https://tools.google.com/dlpage/gaoptout>. New Balance may collect your geolocation data through the Services for purposes of offering relevant contentand services. Geolocation data consists of general location information based on latitude and longitude (if you haveenabled location services for a New Balance application on yourmobile device), or New Balancemay approximate yourlocation based on the IP address of your computer or mobile device. 
+We use third party analytics tools, including those offered by Google, Inc. ("Google") and Adobe Systems Incorporated ("Adobe"). These third party services use cookies to help us analyze how users use our Website and our New Balance Apps. The information generated by the cookie about your use of our Website and our New Balance Apps (including your IP address) will be transmitted to and stored by Google and Adobe, respectively. Google and Adobe will use this information for the purpose of evaluating your use of our Website and our New Balance Apps, compiling reports on activity for website and application operators and providing other services relating to online activity and Internet usage. Google and Adobe may also transfer this information to third parties where required to do so by law, or where such third parties process the information on behalf of Google or Adobe. We also use Adobe Analytics. To opt-out of the use of Adobe cookies on our Services for analytics purposes, please visit Adobe's opt-out page: http://www.adobe.com/privacy/opt-out.html. To opt-out of Google analytics, please see: https://tools.google.com/dlpage/gaoptout. 
+
+New Balance may collect your geolocation data through the Services for purposes of offering relevant content and services. Geolocation data consists of general location information based on latitude and longitude (if you have enabled location services for a New Balance application on your mobile device), or New Balance may approximate your location based on the IP address of your computer or mobile device. 
 
 ### Personal Information:
 
-In general, you can visit our Service without providing us with any personally identifiable information, such as your name, email address, postal address, phone number, gender, credit card information or other information necessary to process your order (all such personally identifiable information, collectively, "Personal Information"). However, in order to place an order, reserve an order for in-store pickup, register for and/or participate in MyNB or use certain services and features made available through our Service, you will be required to provide certain Personal Information. 
+#### General
+
+In general, you can use our Service without providing us with any personally identifiable information, such as your name, email address, postal address, phone number, gender, credit card information or other information necessary to process your order (all such personally identifiable information, collectively, "Personal Information"). However, in order to place an order, reserve an order for in-store pickup, register for and/or participate in MyNB or use certain services and features made available through our Service, you will be required to provide certain Personal Information. 
 
 When you make a purchase from New Balance, request to sign up for email, direct mail or SMS Text notices, register for and/or participate in MyNB, we collect Personal Information that you elect to provide to us. Your submission of this Personal Information is entirely voluntary; however, if you elect not to provide this Personal Information, some of the services and/or features available on and/or through the Service may not be available for your use. 
 
 We also collect Personal Information when you register for "My Account", register for and/or participate in MyNB, participate in a contest, event or sweepstakes promotion, provide feedback, fill out a survey or contact us (for example via email or by selecting "Ask the Expert" from the Service). We may also obtain data through your Internet browser, such as your IP Address, which is a number that is automatically assigned to your computer when you use the Internet. 
 
+#### My Account
+
 If you elect to register for "My Account", you will have the option to store your credit card information with our Service. This feature, which is entirely optional, is provided as a convenience for you so that you will not need to re-enter your full credit card information each time you make a purchase through the Service. If you elect to take advantage of this feature, please be aware that, as a security precaution, we will not store your CCV number. You will be required to input this information prior to placing an order. If you elect to store your credit card number in the "My Account" feature, you will have the ability to change your mind and remove your credit card number from storage at any time by logging into "My Account" and making the appropriate change. 
+
+#### MyNB
 
 If you elect to register for MyNB, you will be asked to provide certain registration details. In addition, when you participate in MyNB, we will collect information about your purchases and your participation in activities that generate loyalty points. If you register for MyNB in a New Balance licensed store, that store will also receive access to the Personal Information that you submit when registering for MyNB. 
 
+#### Licensed Stores
+
 Our licensed stores, which are independently owned, may also collect Personal Information which may or may not be shared with us. This Privacy Policy does not apply to the licensed stores other to the extent New Balance itself may use Personal Information of those licensed stores. 
+
+#### RunIQ
+
+If you are a RunIQ user, you may elect to install and use third party applications on RunIQ. The data collection and use practices and policies any such these third party applications are established by the third party providers. However, if you elect to use a third party application, our New Balance Apps may facilitate the transfer to such third party of the information that you have elected to share with such third party. 
+
+#### NB Hitclub
+
+If you have signed up to use the Zepp Baseball mobile application (the “Zepp App”) made available by Zepp, Inc. (“Zepp”) and choose to use the NB Hitclub feature included in the Zepp App (the “NB Hitclub”) to view the NB Hitclub leaderboards and/or be eligible for any prizes, Zepp will provide to us certain Personal Information that you have provided to Zepp when registering for the Zepp App, including but not limited to your name, email address, age and location. The data collection and use practices and policies of Zepp will be as established by the Zepp when you signed up for the Zepp App. New Balance will use your Personal Information provided to us by Zepp in accordance with this Privacy Policy. If you participate in and win or place in any challenges provided through the NB Hitclub, we may request additional Personal Information from you, such as your mailing address, which we will need to send you any prizes.
 
 By using the Service or by providing us with Personal Information, you are consenting to this Privacy Policy and to our use of your Personal Information in accordance with this Privacy Policy. If you provide Personal Information to us through the Service, you acknowledge and agree that your Personal Information is stored on servers hosted in the United States of America and/or in other third countries. Your Personal Information is subject to the laws of the countries in which it is stored and used, and the privacy legislation of these countries may differ from those applicable to your country of residence. Under the applicable laws, the courts, organizations responsible for applying the legislation, regulatory agencies or safety authorities may under some circumstances be authorized to access your Personal Information. By giving us your Personal Information, you agree to allow it to be transferred to the United States of America, and third countries, and you acknowledge and agree that the country in which your Personal Information is stored and process may have a different legal regime for protecting Personal Information than that of your country of residence.
 
 ## HOW DO YOU USE THE DATA THAT IS COLLECTED FROM OR ABOUT ME
 
-The Personal Information we receive allows us to process your order, create an account for you through the “My Account” service and update the information in the “My Account” service, register you for MyNB, personalize our product offering and improve your shopping experience, making it more convenient, efficient and enjoyable. We may use the non individually identifiable data information and Personal Information that you submit to us or that is otherwise collected from you through the Service to: 
+The Personal Information we receive allows us to enable your use of our Service, process your order, create an account for you through the “My Account” service and update the information in the “My Account” service, register you for MyNB, personalize our product offering and improve your experience with our Service, making it more convenient, efficient and enjoyable. We may use the non individually identifiable data information and Personal Information that you submit to us or that is otherwise collected from you through the Service to: 
 
   * Customize your communications and shopping experience. 
-  * Process your purchase, confirm your orders and communicate to you about account information or customer service needs.
-  * Provide you with a print catalog via postal mail.
+  * Process your purchase, confirm your orders and communicate to you about account information or customer service needs. 
+  * Provide you with a print catalog via postal mail. 
   * Process your registration for MyNB and administer your participation in this program. 
-  * Adapt the content and layout of our Websites and Apps tailored to your needs and so you do not have to enter information more than once. 
+  * Adapt the content and layout of our Websites and New Balance Apps tailored to your needs and so you do not have to enter information more than once. 
   * Notify you about new products and services, special offerings and other promotions. 
-  * Coordinate contests, promotions, surveys or other features of our Service. Improve our business to better respond to your needs.
+  * Coordinate contests, promotions, surveys or other features of our Service. 
+  * Improve our business to better respond to your needs.
 
 
 
@@ -91,7 +111,7 @@ From time to time, we may make available certain Personal Information to New Bal
 
 In connection with the distribution of our print catalogs and other marketing materials, we participate in cooperative data sharing databases. The participants of these databases provide customer names, mailing addresses and information about their customers' purchasing history to the database vendor which allows the database participants to segment and/or obtain access to potentially interested parties to which they may wish to target their own promotions. If you prefer not to have your name, email address and mailing address released to these cooperative databases, please let us know by sending an e-mail to CustomerCare@newbalance.com. 
 
-###  Targeted Product Recommendations and Other Communications:
+### Targeted Product Recommendations and Other Communications:
 
 We use third-party companies to help serve targeted product recommendations and other communications. To enable these companies to provide you with targeted recommendations and other communications, we may provide these companies with certain Personal Information about you, such as your name, address and email address, as well as your transaction history. These companies may use data about you in order to provide recommendations for products and services that might be of interest to you. If you wish to opt-out of this program, please let us know by sending an e-mail to CustomerCare@newbalance.com. 
 
@@ -156,7 +176,7 @@ When you submit a photo (via Instagram or Twitter) using a hashtag set forth by 
 
 ## HOW DO LINKS FROM NEW BALANCE TO OTHER SITES AFFECT ME?
 
-At times, we may provide links from our Website and Apps to other websites and applications operated by third parties. These links are provided only for your convenience and intended to add value to your visit. However, by including these links, even if affiliated with New Balance, we do not have control over these websites and applications, which are independent from New Balance and have separate privacy policies and terms and conditions. When leaving our Website and Apps, you need to be aware that our policies no longer apply. Therefore, we will not be responsible for the accuracy, relevancy, availability, reliability, copyright compliance, legality or decency of material contained in third party websites and applications linked to our Website and Apps. We strongly encourage you to review the terms and privacy policies of any third-party websites and applications before using their sites. 
+At times, we may provide links from our Website and New Balance Apps to other websites and applications operated by third parties. These links are provided only for your convenience and intended to add value to your visit. However, by including these links, even if affiliated with New Balance, we do not have control over these websites and applications, which are independent from New Balance and have separate privacy policies and terms and conditions. When leaving our Website and New Balance Apps, you need to be aware that our policies no longer apply. Therefore, we will not be responsible for the accuracy, relevancy, availability, reliability, copyright compliance, legality or decency of material contained in third party websites and applications linked to our Website and New Balance Apps. We strongly encourage you to review the terms and privacy policies of any third-party websites and applications before using their sites. 
 
 ## HOW CAN I OPT-OUT/UNSUBSCRIBE FROM NEW BALANCE EMAIL, DIRECT MAIL, SMS TEXT OR TRANSMISSIONS TO THIRD PARTY SERVICE PROVIDERS?
 
@@ -168,7 +188,7 @@ Please note that if you decide to opt-out of all third-party transmissions of yo
 
 ## HOW CAN I ACCESS, UPDATE OR DELETE "MY ACCOUNT" INFORMATION?
 
-Accounts may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.newbalance.com/terms.html), you will be responsible for all activity occurring through the use of your user name and password. 
+Accounts on the Site may be created during the ordering process. You can login to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the Terms and Conditions, you will be responsible for all activity occurring through the use of your user name and password. 
 
 ## What if I have more questions about the New Balance Privacy Policy?
 
