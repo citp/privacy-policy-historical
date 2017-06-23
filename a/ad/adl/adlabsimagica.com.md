@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the adlabsimagica.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119131259id_/http%3A//www.adlabsimagica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlabsimagica.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623202559id_/http%3A//adlabsimagica.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | | Adlabs Imagica - International Theme Park in Khopoli, India
+# Privacy Policy | | Imagica - India's favourite family holiday destination with a Theme Park, Water Park, Snow Park, and Novotel Imagica
 
-  Adlabs Entertainment Limited (“ **Adlabs** “) values User’s trust and follows highest standards of industry prectices to ensure secure transactions and customer information privacy. Users must read the following statement to learn about the information gathering and dissemination practices followed by Adalbs. 
+  
+  
+
+
+  Adlabs Entertainment Limited (“ **Adlabs** “) values User’s trust and follows highest standards of industry practices to ensure secure transactions and customer information privacy. Users must read the following statement to learn about the information gathering and dissemination practices followed by Adalbs. 
 
   Adlabs privacy policy is subject to change at any time without prior notice. To make sure, the Users are aware of any modifications and changes, Users must review this policy periodically. By accessing website, www.adlabsimagica.com User agrees to be bound by the terms and conditions of this Privacy Policy. If User does not agree to the terms and conditions of this website, he must not use or access this website. 
 
@@ -51,7 +55,7 @@ Mr. Chirag Puthran
 ADLABS ENTERTAINMENT LIMITED  
 9th Floor, Lotus Business Park  
 New Link Road, Mumbai – 400053, India  
-Phone: +91-9167391763  
+Phone: +91-9930625530  
 E-mail: chirag.puthran@adlabsentertainment.com  
 Timing: (Monday – Saturday) 1000 to 1800 hours  
 
