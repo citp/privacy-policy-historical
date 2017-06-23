@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210062548id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustrans.org.uk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623212621id_/http%3A//www.sustrans.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Sustrans
 
@@ -12,7 +12,7 @@ This policy applies to all the pages hosted on this site – [http://www.sustran
 
 We collect only information which you give to us via email, the various forms on the website, the Good in 5 app or information voluntarily given to us in person, via telephone or postal mail. Some information is gathered when you make a donation, sign up to a campaign, take part in an online survey, or sign up to receive email updates. During these processes, the only information required is your name, address, phone, email (and payment method for joining or donating); although we may request other information, including your principal area(s) of interest in order to be able to provide you with more tailored information.
 
-If you purchase items from our on-line shop, or make an on-line donation we will record your name, address, e-mail, and phone number.
+If you purchase items from our on-line shop, or make an on-line donation we will record your name, address, e-mail, and phone number.  **We do not store credit card details nor do we share customer details with any 3rd parties.**
 
 We gather this information to allow us to process your orders and any donation you may make. The relevant information is then used by us, our agents and sub-contractors to provide you with statements of your account, to inform you of events which may be of interest to you and to communicate with you on any matter relating to the conduct of your account in general.
 
@@ -119,7 +119,7 @@ We will reply within forty calendar days.
 
 If you have any queries or comments about this privacy policy, please send a letter to:
 
-Graham Clifton Coles
+Graeme Cliftoncoles
 
 Sustrans  
 Rosebery House  
