@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nashirnet.com privacy policy that was archived on 2016-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160903034836id_/http%3A//www.nashirnet.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashirnet.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623064723id_/http%3A//www.nashirnet.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | NashirNet
 
   1. [NashirNet](https://web.archive.org/)
   2. Privacy Policy
