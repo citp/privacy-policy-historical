@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121135418id_/https%3A//www.thermofisher.com/us/en/home/global/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetechnologies.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623224749id_/https%3A//www.thermofisher.com/us/en/home/global/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Thermo Fisher Scientific
 
