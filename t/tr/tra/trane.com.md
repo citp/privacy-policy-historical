@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125221852id_/http%3A//www.trane.com/content/dam/Trane/Commercial/global/Ingersoll-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623044134id_/http%3A//www.trane.com/content/dam/Trane/Commercial/global/Ingersoll-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
