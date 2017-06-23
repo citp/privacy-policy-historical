@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mbsbooks.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115025118id_/http%3A//mbsbooks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbsbooks.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624014419id_/https%3A//www.mbsbooks.com/privacy.php) for the most accurate reproduction.*
 
 # MBSbooks.com
 
-This Privacy Policy describes and governs the information collection, use and sharing practices of MBS Textbook Exchange, Inc., ("MBS") with respect to this Website.
+This Privacy Policy describes and governs the information collection, use and sharing practices of MBS Textbook Exchange, LLC, ("MBS") with respect to this Website.
 
 This Privacy Policy applies to information collected by MBS and does not apply to information collected by any third-party sites to which MBS may link or to information provided to, or collected by, third-parties through third-party cookies, web beacons, or other third-party technologies served during your visit to the Website.
 
@@ -126,6 +126,8 @@ WE HAVE NO CONTROL OR INFLUENCE OVER THE PRIVACY PRACTICES OF SUCH OTHER WEBSITE
 
 We take reasonable and appropriate measures to help keep information secure and to help prevent it from becoming disclosed. Even though we follow reasonable procedures to try to protect the information in our possession, no security system is perfect so we cannot promise, and you should not expect, that your information will be secure in all circumstances.
 
+For security purposes, we do not accept credit card information via email, web form, or social media. 
+
 ###### 6\. Editing your Personal Information
 
 Once you have provided Personal Information to us, we may store and maintain that information. You may review and edit certain information online by logging into your account and accessing the "My Profile" or "My Account" page, where you will be able to edit your information. Additionally, you may contact us using the contact information below and we will edit or delete your information except as prohibited by law.
@@ -152,7 +154,7 @@ Residents of the State of California, under certain provisions of the California
 
 You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at:
 
-MBS Textbook Exchange, Inc.  
+MBS Textbook Exchange, LLC  
 2711 West Ash Street  
 Columbia, MO 65203
 
