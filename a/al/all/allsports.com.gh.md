@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allsports.com.gh privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610034909id_/http%3A//pulse.com.gh/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allsports.com.gh privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623225148id_/http%3A//pulse.com.gh/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - How We Respect Your Privacy | Pulse.com.gh
 
