@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410044254id_/http%3A//www.theenergycollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theenergycollective.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623050216id_/http%3A//www.theenergycollective.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - The Energy Collective
 
 The Energy Collective respects each individual’s right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at The Energy Collective’s web site.
 
