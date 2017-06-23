@@ -1,0 +1,347 @@
+<!--The following is the downloaded HTML source of the interconnectit.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623121740id_/https%3A//interconnectit.com/privacy-statement) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-GB" class=""><head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://fast.fonts.net" crossorigin="">
+    <link rel="preconnect" href="https://cdn.standfirst.com">
+
+    <!-- Preload -->
+    <link rel="preload" href="https://code.jquery.com/jquery-1.12.4.min.js" as="script">
+    <link rel="preload" href="https://www.google-analytics.com/analytics.js" as="script">
+    <link rel="preload" href="https://js-agent.newrelic.com/nr-1026.min.js" as="script">
+
+    <title>Privacy Statement | interconnect/it</title>
+
+<!-- Start The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="noodp,noydir">
+<meta name="description" content="Privacy Statement on interconnect/it | These include the following guidelines. Data Protection Act 1998 (‘the Act’) We are registered under the Data…">
+<meta property="og:image" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2009/06/24090705/kristina-flour-185592.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1400&amp;h=896">
+<meta property="og:image:width" content="1400">
+<meta property="og:image:height" content="896">
+<meta property="og:locale" content="en_GB">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Privacy Statement | interconnect/it">
+<meta property="og:description" content="These include the following guidelines. Data Protection Act 1998 (‘the Act’) We are registered under the Data Protection Act and comply with the Act in all our dealings with your personal data. Use…">
+<meta property="og:url" content="https://interconnectit.com/privacy-statement/">
+<meta property="og:site_name" content="interconnect/it">
+<meta property="article:publisher" content="https://www.facebook.com/interconnectituk">
+<meta property="fb:app_id" content="1187163778077007">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@icit_tweets">
+<meta name="twitter:title" content="Privacy Statement | interconnect/it">
+<meta name="twitter:description" content="These include the following guidelines. Data Protection Act 1998 (‘the Act’) We are registered under the Data Protection Act and comply with the Act in all our dealings with your personal data. Use…">
+<meta name="twitter:image" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2009/06/24090705/kristina-flour-185592.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1400&amp;h=896">
+<meta name="twitter:image:width" content="1400">
+<meta name="twitter:image:height" content="896">
+<link rel="canonical" href="https://interconnectit.com/privacy-statement/">
+<meta name="google-site-verification" content="Z9lXe800l1EMaQnmZFj1qHMK8TjSmamIzQQDfef8SDg">
+<!-- End The SEO Framework by Sybre Waaijer | 0.00117s -->
+
+<link rel="dns-prefetch" href="//interconnectit.com">
+<link rel="dns-prefetch" href="//fast.fonts.net">
+<link rel="dns-prefetch" href="//code.jquery.com">
+<link rel="stylesheet" href="/content/themes/base/dist/styles/main-095514d68b.css">
+<link rel="stylesheet" href="//fast.fonts.net/cssapi/5645ecde-98d0-4d65-a359-503b70767fb6.css">
+<link rel="stylesheet" href="/content/themes/interconnectit.com/dist/styles/main-b42d808e5b.css">
+<link rel="icon" href="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=32&amp;h=32" sizes="32x32">
+<link rel="icon" href="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134">
+<meta name="msapplication-TileImage" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134">
+<style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<body class="page page-id-588 privacy-statement" itemscope="" itemtype="http://schema.org/WebPage">
+<header class="sf-header sf-header--fixed" role="banner" itemscope="" itemtype="http://schema.org/WPHeader">
+    <div class="sf-header__container">
+        <div class="sf-logo">
+    <a class="sf-logo__link" href="https://interconnectit.com/" rel="home">
+                    <span class="sf-logo__text" itemprop="headline">interconnect<em class="icit-logo__slash">/</em>it</span>
+            </a>
+</div>
+        <form class="sf-header-search" method="get" action="https://interconnectit.com/" role="search">
+    <label class="sf-header-search__label">Search for:</label>
+    <input class="sf-header-search__input" type="search" name="s" value="" placeholder="Search …">
+    <input class="sf-header-search__button" type="submit" value="Search">
+
+    <div class="sf-header-search-toggle">
+        <a href="#" class="sf-header-search-toggle-link">X</a>
+    </div>
+
+</form>
+        <div class="sf-header-search-toggle">
+    <a href="#" class="sf-header-search-toggle-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 231.3 231.2"><path d="M89.7 30c32.9 0 59.7 26.8 59.7 59.7s-26.8 59.7-59.7 59.7S30 122.6 30 89.7 56.8 30 89.7 30m0-30C40.1 0 0 40.1 0 89.7s40.1 89.7 89.7 89.7 89.7-40.1 89.7-89.7S139.2 0 89.7 0zm112.7 226.3l-55-55c-6.6-6.6-6.6-17.4 0-23.9 6.6-6.6 17.4-6.6 23.9 0l55 55c6.6 6.6 6.6 17.4 0 23.9-6.5 6.6-17.3 6.6-23.9 0z"></path></svg></a>
+</div>
+        <button class="sf-primary-menu-toggle" type="button">
+    <span class="sf-primary-menu-toggle__line"></span>
+    <span class="sf-primary-menu-toggle__line"></span>
+    <span class="sf-primary-menu-toggle__line"></span>
+</button>
+                <nav class="sf-primary-menu" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+    <ul class="sf-primary-menu__list sf-primary-menu__list--depth-0"><li class="sf-primary-menu__item sf-primary-menu__item--depth-0"><a class="sf-primary-menu__link sf-primary-menu__link--depth-0" href="/our-work/">Our Work</a></li>
+<li class="sf-primary-menu__item sf-primary-menu__item--depth-0"><a class="sf-primary-menu__link sf-primary-menu__link--depth-0" href="/products/">Products</a></li>
+<li class="sf-primary-menu__item sf-primary-menu__item--depth-0"><a class="sf-primary-menu__link sf-primary-menu__link--depth-0" href="/about/">About</a></li>
+<li class="sf-primary-menu__item sf-primary-menu__item--depth-0"><a class="sf-primary-menu__link sf-primary-menu__link--depth-0" href="/contact/">Contact</a></li>
+<li class="sf-primary-menu__item sf-primary-menu__item--depth-0"><a class="sf-primary-menu__link sf-primary-menu__link--depth-0" href="/blog/">Blog</a></li>
+</ul></nav>
+    </div>
+</header>
+<div class="sf-content" role="main" itemprop="mainContentOfPage">
+    <div class="sf-content__container">
+            <div class="sf-article-header" style="background-image: url('https://standfirst-cdn.imgix.net/content/uploads/sites/2/2009/06/24090705/kristina-flour-185592.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1400&amp;h=896');">
+    <div class="sf-article-header__content">
+        <div class="sf-article-header__title-container">
+            <h1 class="sf-article-header__title">
+                Privacy Statement            </h1>
+        </div>
+    </div>
+</div>
+    <div class="sf-content__row">
+        <div class="sf-content__main">
+            <div class="sf-content__main-container">
+                <div class="sf-article-content" itemprop="articleBody">
+    <div class="sf-sharing">
+    <ul class="sf-sharing__list">
+        <li class="sf-sharing__item sf-sharing__item--twitter">
+            <a class="sf-sharing__link sf-sharing__link--twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Finterconnectit.com%2Fprivacy-statement%2F&amp;text=Privacy+Statement">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 273.4 222.2"><path fill="#fff" d="M273.4 26.3c-10.1 4.5-20.9 7.5-32.2 8.8 11.6-6.9 20.5-17.9 24.7-31-10.9 6.4-22.9 11.1-35.7 13.6A55.919 55.919 0 0 0 189.3 0c-31 0-56.1 25.1-56.1 56.1 0 4.4.5 8.7 1.5 12.8C88 66.5 46.7 44.2 19 10.3c-4.8 8.3-7.6 17.9-7.6 28.2 0 19.5 9.9 36.6 25 46.7-9.2-.3-17.8-2.8-25.4-7v.7c0 27.2 19.3 49.8 45 55-4.7 1.3-9.7 2-14.8 2-3.6 0-7.1-.4-10.6-1 7.1 22.3 27.9 38.5 52.4 39-19.2 15-43.4 24-69.7 24-4.5 0-9-.3-13.4-.8 24.8 15.9 54.3 25.2 86 25.2 103.2 0 159.6-85.5 159.6-159.6 0-2.4-.1-4.9-.2-7.3 11.1-8 20.6-17.9 28.1-29.1z"></path></svg>            </a>
+        </li>
+        <li class="sf-sharing__item sf-sharing__item--facebook">
+            <a class="sf-sharing__link sf-sharing__link--facebook" href="https://facebook.com/dialog/share?app_id=1187163778077007&amp;href=https%3A%2F%2Finterconnectit.com%2Fprivacy-statement%2F">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="-341.4 151.7 257.7 257.7"><path class="fb-bg" fill="#3C5A99" d="M-97.9 409.4c7.9 0 14.2-6.4 14.2-14.2V165.9c0-7.9-6.4-14.2-14.2-14.2h-229.3c-7.9 0-14.2 6.4-14.2 14.2v229.3c0 7.9 6.4 14.2 14.2 14.2h229.3z"></path><path class="fb-f" fill="#fff" d="M-163.6 409.4v-99.8h33.5l5-38.9h-38.5v-24.8c0-11.3 3.1-18.9 19.3-18.9h20.6v-34.8c-3.6-.5-15.8-1.5-30-1.5-29.7 0-50 18.1-50 51.4v28.7h-33.6v38.9h33.6v99.8h40.1z"></path></svg>            </a>
+        </li>
+        <li class="sf-sharing__item sf-sharing__item--linkedin">
+            <a class="sf-sharing__link sf-sharing__link--linkedin" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Finterconnectit.com%2Fprivacy-statement%2F">
+                <svg viewBox="0 0 397 397" xmlns="http://www.w3.org/2000/svg"><title>Slice 1</title><g fill="none" fill-rule="evenodd"><path d="M367.55 0H29.3C13.134 0 0 12.814 0 28.606v339.752C0 384.166 13.134 397 29.298 397H367.55c16.195 0 29.384-12.834 29.384-28.642V28.606C396.934 12.814 383.744 0 367.55 0" fill="#007bb5"></path><path d="M88.01 55C106.76 55 122 70.318 122 89.172c0 18.873-15.24 34.19-33.99 34.19-18.798 0-34.01-15.317-34.01-34.19C54 70.318 69.212 55 88.01 55zm-29.336 94.295h58.65V339h-58.65V149.295zm96.326-.59h56.593v25.867h.79C220.26 159.69 239.51 144 268.216 144 327.97 144 339 183.208 339 234.166V338h-58.967v-92.056c0-21.95-.406-50.187-30.663-50.187-30.7 0-35.414 23.912-35.414 48.598V338H155V148.705" fill="#FFF"></path></g></svg>            </a>
+        </li>
+        <li class="sf-sharing__item sf-sharing__item--email">
+            <a class="sf-sharing__link sf-sharing__link--email" href="mailto:?subject=Privacy+Statement&amp;body=Read%20Privacy+Statement%20-%20https%3A%2F%2Finterconnectit.com%2Fprivacy-statement%2F">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 241.9 243.4"><path fill="#fff" stroke="#fff" stroke-width="6" stroke-miterlimit="10" d="M183.3 62.7l-9.2 76.7c-.4 2.8-.7 5.5-.8 8.1-.1 2.6-.2 5-.2 7.2 0 7.3 3 11 9.1 11 8.5 0 16.2-6 23.1-18 6.8-11.8 10.2-25.2 10.2-40.3 0-24-8.4-43.6-25.1-58.9-16.7-15.5-37.9-23.2-63.9-23.2-27.1 0-49.9 9.2-68.4 27.7-18.4 18.4-27.6 41.2-27.6 68.3 0 15 3.3 29.7 9.9 44.1 6.7 13.5 16.1 24.7 28.2 33.4 16.2 11.7 36.4 17.5 60.8 17.5 22.8 0 46.7-5.8 71.6-17.4l2.2-1.2 7.6 21.1-1.8.9c-25.4 12.4-51.9 18.5-79.5 18.5-30.5 0-56-7.4-76.6-22.1C37.8 205.4 26 191.7 17.5 175 9.2 157.7 5 139.9 5 121.7c0-33 11.6-60.7 34.9-83.1C63.2 16.2 91.9 5 126.1 5c31.5 0 57.8 9.6 79.1 28.9 21.1 19.1 31.7 43 31.7 71.7 0 22.2-5.7 41.3-17.2 57.1-11.6 16.1-25.2 24.1-40.8 24.1-12.5 0-20.9-5.9-25.4-17.7-12 12.3-25.3 18.4-40 18.4-16.1 0-29.5-5.8-40.2-17.4-10.5-11.5-15.8-26.2-15.8-44 0-19.2 5.9-35 17.7-47.3 11.8-12.7 26.6-19 44.4-19 16.4 0 29.6 6.3 39.6 19l2-16.2h22.1zm-29.8 56.4c0-9.1-3.1-16.6-9.2-22.6-6.3-6-14-9.1-23.1-9.1-9.8 0-17.9 3.8-24.1 11.4-6.3 7.5-9.5 17.1-9.5 28.8 0 10.1 2.5 18.5 7.6 25s11.6 9.8 19.6 9.8c10.2 0 19.2-4.3 27-13 7.8-8.7 11.7-18.8 11.7-30.3z"></path></svg>            </a>
+        </li>
+    </ul>
+</div>
+    <div class="sf-article-content__text" itemprop="text">
+                    <p class="sf-standfirst-content">
+                Our simple approach to your privacy means that you don’t need to worry about us doing anything that might be considered detrimental to your privacy.             </p>
+                
+<p>These include the following guidelines.</p>
+<h2>Data Protection Act 1998 (‘the Act’)</h2>
+<p>We are registered under the Data Protection Act and comply with the Act in all our dealings with your personal data.</p>
+<h2>Use and collection of personal information</h2>
+<p>In general you can visit our website without telling us who you are and without revealing any information about yourself.&nbsp;&nbsp;If, however, you use our site to submit a job application or use our contact form, you will be asked to provide certain information such as but not limited to, your contact details.&nbsp;&nbsp;We will store this data and hold it on computer or otherwise.</p>
+<p>We may use information that you provide:</p>
+<ul type="disc"><li>To answer any queries you submit.</li>
+<li>For assessment and analysis, e.g. marketing, customer and product analysis, to enable us to review, develop and improve our services.</li>
+<li>For our recruitment campaigns.</li>
+</ul><p>We won’t sell or give your data to third parties without your prior permission, however, we may disclose your personal information to third parties if we are under a legal duty to disclose or share your personal data, in order to comply with or meet any legal obligation.</p>
+<h2>Cookies</h2>
+<p>We collect information directly from you in a number of ways.&nbsp;&nbsp;One way is through our use of ‘cookies’.&nbsp;&nbsp;Most websites use cookies in order to make them work, or to work more efficiently, as well as to provide information to the owners of the website.&nbsp;&nbsp;They help us to understand how our customers and potential customers use our website so we can develop and improve the design, layout, content and function of the site.&nbsp;&nbsp;Cookies are small text files that are placed on your computer’s hard drive by websites that you visit.&nbsp;&nbsp;They save and retrieve pieces of information about your visit to the website – for example, how you entered the site, how you navigated through the site and what information and documentation was of interest to you.</p>
+<p>Some of our cookies are used to simply collect information about how visitors use our website and these types of cookies collect the information in an anonymous form.</p>
+<h2>General</h2>
+<p>You have the right to see personal data (as defined under the Data Protection Act) that we keep about you upon receipt of a written request.&nbsp;&nbsp;Any request should be emailed FAO David Coveney&nbsp;<a href="mailto:support@interconnectit.com" rel="nofollow">support@interconnectit.com</a>.</p>
+    </div>
+</div>
+                
+<section id="comments" class="sf-comments">
+    
+    
+    </section>
+            </div>
+        </div>
+        <div class="sf-content__sidebar" role="complementary" itemscope="" itemtype="http://schema.org/WPSideBar">
+    <section class="menu-walker-sidebar-cards advanced-menu-395 sf-widget"><div class="sf-cards sf-cards--sidebar"><div class="sf-card " itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="sf-card__header">
+        <a class="sf-card__image-link" href="https://interconnectit.com/blog/2017/02/16/no-those-animations-wont-change-the-way-we-read-the-news/" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+            <img data-img-id="7315" width="1280" height="960" src="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/02/12145023/1280px-Braun_SK_61_7.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1280&amp;h=960" class="sf-card__image wp-post-image" alt="" itemprop="url" srcset="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/02/12145023/1280px-Braun_SK_61_7.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1280&amp;h=960 1280w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/02/12145023/1280px-Braun_SK_61_7.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=300&amp;h=225 300w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/02/12145023/1280px-Braun_SK_61_7.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=768&amp;h=576 768w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/02/12145023/1280px-Braun_SK_61_7.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1024&amp;h=768 1024w" sizes="(max-width: 1280px) 100vw, 1280px">            <meta itemprop="width" content="800">
+            <meta itemprop="height" content="600">
+        </a>
+                    <div class="sf-card__categories" itemprop="keywords">
+                                    <a class="sf-category" href="https://interconnectit.com/blog/category/news/design/" rel="category tag">Design</a>                            </div>
+            </div>
+    <div class="sf-card__text">
+        <h3 class="sf-card__title" itemprop="name headline">
+            <a class="sf-card__title-link" href="https://interconnectit.com/blog/2017/02/16/no-those-animations-wont-change-the-way-we-read-the-news/" itemprop="url">No, those animations won’t change the way we read the news</a>        </h3>
+        <div class="sf-card__excerpt" itemprop="description">
+            <p>Our Senior Designer, Anthony Casey, looks at why you want your site to be more 60s Dieter Rams Braun, than 90s Aiwa.</p>
+        </div>
+    </div>
+    <div class="sf-card__meta">
+        <div class="sf-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+            By            <a class="sf-author__link" href="https://interconnectit.com/blog/author/anthony/" rel="author" itemprop="url"><span itemprop="name">Anthony Casey</span></a>                            <meta itemprop="jobTitle" content="Senior Designer">
+                        <meta itemprop="worksFor" content="interconnect/it">
+        </div>
+        <time class="sf-date" datetime="2017-02-16T16:14:13+00:00" itemprop="datePublished">16 Feb 2017</time>        <span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="interconnect/it">
+            <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                <meta itemprop="url" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134">
+                <meta itemprop="width" content="180">
+                <meta itemprop="height" content="180">
+            </span>
+        </span>
+    </div>
+</div>
+<div class="sf-card " itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="sf-card__header">
+        <a class="sf-card__image-link" href="https://interconnectit.com/blog/2016/10/31/worktech-academy/" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+            <img data-img-id="7177" width="1199" height="500" src="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/10/26150545/Robot-future-lab-e1473180845830-1199x500.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1199&amp;h=500" class="sf-card__image wp-post-image" alt="" itemprop="url" srcset="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/10/26150545/Robot-future-lab-e1473180845830-1199x500.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1199&amp;h=500 1199w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/10/26150545/Robot-future-lab-e1473180845830-1199x500.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=300&amp;h=125 300w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/10/26150545/Robot-future-lab-e1473180845830-1199x500.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=768&amp;h=320 768w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/10/26150545/Robot-future-lab-e1473180845830-1199x500.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1024&amp;h=427 1024w" sizes="(max-width: 1199px) 100vw, 1199px">            <meta itemprop="width" content="800">
+            <meta itemprop="height" content="600">
+        </a>
+                    <div class="sf-card__categories" itemprop="keywords">
+                                    <a class="sf-category" href="https://interconnectit.com/blog/category/portfolio/" rel="category tag">Portfolio</a>                            </div>
+            </div>
+    <div class="sf-card__text">
+        <h3 class="sf-card__title" itemprop="name headline">
+            <a class="sf-card__title-link" href="https://interconnectit.com/blog/2016/10/31/worktech-academy/" itemprop="url">WORKTECH Academy</a>        </h3>
+        <div class="sf-card__excerpt" itemprop="description">
+            <p>We were approached by influential design academic, Jeremy Myerson, to design and build the first website for WORKTECH Academy. Here we look at some of the features of their new site.</p>
+        </div>
+    </div>
+    <div class="sf-card__meta">
+        <div class="sf-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+            By            <a class="sf-author__link" href="https://interconnectit.com/blog/author/miriam/" rel="author" itemprop="url"><span itemprop="name">Mim McNeela</span></a>                            <meta itemprop="jobTitle" content="Project Manager">
+                        <meta itemprop="worksFor" content="interconnect/it">
+        </div>
+        <time class="sf-date" datetime="2016-10-31T15:50:21+00:00" itemprop="datePublished">31 Oct 2016</time>        <span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="interconnect/it">
+            <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                <meta itemprop="url" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134">
+                <meta itemprop="width" content="180">
+                <meta itemprop="height" content="180">
+            </span>
+        </span>
+    </div>
+</div>
+<div class="sf-card " itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="sf-card__header">
+        <a class="sf-card__image-link" href="https://interconnectit.com/blog/2016/09/14/creative-review/" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+            <img data-img-id="7237" width="1400" height="937" src="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/09/02123909/0a1f6d38087461.5755aeb37bcdd.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1400&amp;h=937" class="sf-card__image wp-post-image" alt="" itemprop="url" srcset="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/09/02123909/0a1f6d38087461.5755aeb37bcdd.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1400&amp;h=937 1400w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/09/02123909/0a1f6d38087461.5755aeb37bcdd.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=300&amp;h=201 300w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/09/02123909/0a1f6d38087461.5755aeb37bcdd.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=768&amp;h=514 768w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/09/02123909/0a1f6d38087461.5755aeb37bcdd.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1024&amp;h=685 1024w" sizes="(max-width: 1400px) 100vw, 1400px">            <meta itemprop="width" content="800">
+            <meta itemprop="height" content="600">
+        </a>
+                    <div class="sf-card__categories" itemprop="keywords">
+                                    <a class="sf-category" href="https://interconnectit.com/blog/category/portfolio/" rel="category tag">Portfolio</a>                            </div>
+            </div>
+    <div class="sf-card__text">
+        <h3 class="sf-card__title" itemprop="name headline">
+            <a class="sf-card__title-link" href="https://interconnectit.com/blog/2016/09/14/creative-review/" itemprop="url">Creative Review</a>        </h3>
+        <div class="sf-card__excerpt" itemprop="description">
+            <p>Creative Review is a monthly publication with an impressive reputation as the go-to place for design related news and critique. Read on for the details behind this build.</p>
+        </div>
+    </div>
+    <div class="sf-card__meta">
+        <div class="sf-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+            By            <a class="sf-author__link" href="https://interconnectit.com/blog/author/miriam/" rel="author" itemprop="url"><span itemprop="name">Mim McNeela</span></a>                            <meta itemprop="jobTitle" content="Project Manager">
+                        <meta itemprop="worksFor" content="interconnect/it">
+        </div>
+        <time class="sf-date" datetime="2016-09-14T10:46:00+00:00" itemprop="datePublished">14 Sep 2016</time>        <span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="interconnect/it">
+            <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                <meta itemprop="url" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134">
+                <meta itemprop="width" content="180">
+                <meta itemprop="height" content="180">
+            </span>
+        </span>
+    </div>
+</div>
+<div class="sf-card " itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="sf-card__header">
+        <a class="sf-card__image-link" href="https://interconnectit.com/blog/2016/08/17/how-the-spectator-went-from-one-million-to-ten-million-page-views-per-month/" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+            <img data-img-id="6688" width="1520" height="281" src="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/07/17161702/2012vs2016.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1520&amp;h=281" class="sf-card__image wp-post-image" alt="" itemprop="url" srcset="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/07/17161702/2012vs2016.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1520&amp;h=281 1520w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/07/17161702/2012vs2016.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=200&amp;h=37 200w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/07/17161702/2012vs2016.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=320&amp;h=59 320w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/07/17161702/2012vs2016.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=768&amp;h=142 768w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/07/17161702/2012vs2016.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=680&amp;h=126 680w" sizes="(max-width: 1520px) 100vw, 1520px">            <meta itemprop="width" content="800">
+            <meta itemprop="height" content="600">
+        </a>
+                    <div class="sf-card__categories" itemprop="keywords">
+                                    <a class="sf-category" href="https://interconnectit.com/blog/category/case-studies/" rel="category tag">Case Studies</a>                                    <a class="sf-category" href="https://interconnectit.com/blog/category/news/development-news/" rel="category tag">Development</a>                            </div>
+            </div>
+    <div class="sf-card__text">
+        <h3 class="sf-card__title" itemprop="name headline">
+            <a class="sf-card__title-link" href="https://interconnectit.com/blog/2016/08/17/how-the-spectator-went-from-one-million-to-ten-million-page-views-per-month/" itemprop="url">How The Spectator went from one million to ten million page views per month</a>        </h3>
+        <div class="sf-card__excerpt" itemprop="description">
+            <p>There’s a direct link between web traffic and revenue when you’re a publisher. How well that works depends a lot on other factors – the business model, commercial relationships and so on.</p>
+        </div>
+    </div>
+    <div class="sf-card__meta">
+        <div class="sf-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+            By            <a class="sf-author__link" href="https://interconnectit.com/blog/author/david/" rel="author" itemprop="url"><span itemprop="name">David Coveney</span></a>                            <meta itemprop="jobTitle" content="Director">
+                        <meta itemprop="worksFor" content="interconnect/it">
+        </div>
+        <time class="sf-date" datetime="2016-08-17T15:24:23+00:00" itemprop="datePublished">17 Aug 2016</time>        <span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="interconnect/it">
+            <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                <meta itemprop="url" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134">
+                <meta itemprop="width" content="180">
+                <meta itemprop="height" content="180">
+            </span>
+        </span>
+    </div>
+</div>
+<div class="sf-card " itemscope="" itemtype="http://schema.org/BlogPosting">
+    <div class="sf-card__header">
+        <a class="sf-card__image-link" href="https://interconnectit.com/blog/2016/04/01/the-spectator-redesign/" itemprop="image" itemscope="" itemtype="https://schema.org/ImageObject">
+            <img data-img-id="7197" width="1500" height="684" src="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/04/30124843/00b067ff1d8930ff641aa95393285ba0.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1500&amp;h=684" class="sf-card__image wp-post-image" alt="Front cover of The Spectator" itemprop="url" srcset="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/04/30124843/00b067ff1d8930ff641aa95393285ba0.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1500&amp;h=684 1500w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/04/30124843/00b067ff1d8930ff641aa95393285ba0.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=300&amp;h=137 300w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/04/30124843/00b067ff1d8930ff641aa95393285ba0.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=768&amp;h=350 768w, https://standfirst-cdn.imgix.net/content/uploads/sites/2/2016/04/30124843/00b067ff1d8930ff641aa95393285ba0.jpg?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=1024&amp;h=467 1024w" sizes="(max-width: 1500px) 100vw, 1500px">            <meta itemprop="width" content="800">
+            <meta itemprop="height" content="600">
+        </a>
+                    <div class="sf-card__categories" itemprop="keywords">
+                                    <a class="sf-category" href="https://interconnectit.com/blog/category/news/design/" rel="category tag">Design</a>                            </div>
+            </div>
+    <div class="sf-card__text">
+        <h3 class="sf-card__title" itemprop="name headline">
+            <a class="sf-card__title-link" href="https://interconnectit.com/blog/2016/04/01/the-spectator-redesign/" itemprop="url">The Spectator Redesign</a>        </h3>
+        <div class="sf-card__excerpt" itemprop="description">
+            <p>Our Lead designer, Anthony Casey, discusses the redesign of The Spectator website and ponders on some of the main decisions made from a front-end, design perspective.</p>
+        </div>
+    </div>
+    <div class="sf-card__meta">
+        <div class="sf-author" itemprop="author" itemscope="" itemtype="https://schema.org/Person">
+            By            <a class="sf-author__link" href="https://interconnectit.com/blog/author/anthony/" rel="author" itemprop="url"><span itemprop="name">Anthony Casey</span></a>                            <meta itemprop="jobTitle" content="Senior Designer">
+                        <meta itemprop="worksFor" content="interconnect/it">
+        </div>
+        <time class="sf-date" datetime="2016-04-01T16:51:07+00:00" itemprop="datePublished">1 Apr 2016</time>        <span itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+            <meta itemprop="name" content="interconnect/it">
+            <span itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject">
+                <meta itemprop="url" content="https://standfirst-cdn.imgix.net/content/uploads/sites/2/2017/04/10135345/icit_quad.png?auto=compress,enhance,format&amp;crop=faces,entropy,edges&amp;fit=crop&amp;w=134&amp;h=134">
+                <meta itemprop="width" content="180">
+                <meta itemprop="height" content="180">
+            </span>
+        </span>
+    </div>
+</div>
+</div></section></div>
+    </div>
+    </div>
+</div>
+<footer class="sf-footer" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
+    <div class="sf-footer__container">
+        <nav class="sf-footer-menu"><ul class="sf-footer-menu__list"><li class="sf-footer-menu__item sf-footer-menu__item--depth-0"><a class="sf-footer-menu__link sf-footer-menu__link--depth-0" href="/contact/">Contact</a></li>
+<li class="sf-footer-menu__item sf-footer-menu__item--depth-0"><a class="sf-footer-menu__link sf-footer-menu__link--depth-0" href="/about/find-us/">Find Us</a></li>
+<li class="sf-footer-menu__item sf-footer-menu__item--depth-0"><a class="sf-footer-menu__link sf-footer-menu__link--depth-0" href="/jobs/">Jobs</a></li>
+<li class="sf-footer-menu__item sf-footer-menu__item--depth-0"><a class="sf-footer-menu__link sf-footer-menu__link--depth-0" href="/legal-information/">Legal Information</a></li>
+<li class="sf-footer-menu__item sf-footer-menu__item--depth-0"><a class="sf-footer-menu__link sf-footer-menu__link--depth-0 sf-footer-menu__link--is-active" href="/privacy-statement/">Privacy Statement</a></li>
+</ul></nav>        <div class="sf-footer__widgets">
+            <section class="sf-widget">			<div class="textwidget"><div class="sf-footer__logo"><a href="/" rel="nofollow"><img src="/content/themes/interconnectit.com/dist/images/icit_quad_large.svg" alt="interconnect/it"></a></div></div>
+		</section>            <p class="sf-copyrights">
+    Interconnect IT Ltd. ©2017</p>
+            <p class="sf-footer-address">
+    Liverpool Science Park 1, 131 Mount Pleasant, Liverpool, L3 5TF</p>
+            <section class="sf-widget">			<div class="textwidget"><div class="sf-footer__partner"><a href="http://www.liverpoolgirlgeeks.co.uk/" rel="nofollow"><img src="https://liverpoolgirlgeeks.files.wordpress.com/2015/03/lgg-logoprint3.jpg" alt="Liverpool Girl Geeks"></a></div></div>
+		</section>                                </div>
+    </div>
+</footer>
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script>(window.jQuery && jQuery.noConflict()) || document.write('<script src="/wp-includes/js/jquery/jquery.js"><\/script>')</script><script src="/wp-includes/js/jquery/jquery.js"></script>
+<script src="/content/themes/base/dist/scripts/main-c338e67cba.js"></script>
+<script src="/content/themes/interconnectit.com/dist/scripts/main-a3d996b297.js"></script>
+  <script>
+          window.ga=function(){ga.q.push(arguments)};ga.q=[];ga.l=+new Date;
+        ga('create','UA-934969-1','auto');ga('send','pageview')
+  </script>
+      <script src="https://www.google-analytics.com/analytics.js" async="" defer=""></script>
+  <script>console.log('¯\_(ツ)_/¯')</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1caed24ec3","applicationID":"60505079","transactionName":"YQMBZUBYV0FWAhdfDlhJNkNbFlBcUwQbGBFeFg==","queueTime":0,"applicationTime":42,"atts":"TUQCEwhCRE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<!--
+	generated 2623 seconds ago
+	generated in 0.687 seconds
+	served from batcache in 0.042 seconds
+	expires in 977 seconds
+-->
+</body></html>
