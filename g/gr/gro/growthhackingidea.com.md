@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growthhackingidea.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602003258id_/http%3A//growthhackingidea.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthhackingidea.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623182456id_/http%3A//growthhackingidea.com/privacy_policy.html) for the most accurate reproduction.*
 
 # growthhackingidea.com - privacy policy.
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site or fill out a form
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We use cookies.
 
  **What do we use your information for?**
 
@@ -28,13 +28,13 @@ Any of the information we collect from you may be used in one of the following w
 
 ; To send periodic emails
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+> The email address you provide, may be used to send you information, updates, company news, etc.
 
  **How do we protect your information?**
 
 We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -72,13 +72,13 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
 
-This policy was last modified on 2015-06-29
+This policy was last modified on 2017-06-16
 
  **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://growthhackingidea.com  
-main@growthhackingidea.com
+http://growthhackingidea.com/  
+admin@growthhackingidea.com
 
 This policy is powered by Trust Guard, your [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) authority.
