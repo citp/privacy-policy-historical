@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208134403id_/http%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfbooksfree.pk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623150052id_/http%3A//pdfbooksfree.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ We do not use an SSL certificate
 
 
 
-## **Do we use ‘cookies’?**
+##  **Do we use ‘cookies’?**
 
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.  
 We use cookies to:
@@ -69,7 +69,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 We do not include or offer third-party products or services on our website.
 
-## **Google**
+##  **Google**
 
 Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
 
