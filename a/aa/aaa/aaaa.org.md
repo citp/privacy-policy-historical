@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaaa.org privacy policy that was archived on 2016-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160816085718id_/http%3A//www.aaaa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaaa.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624014521id_/http%3A//www.aaaa.org/home-page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 4A's
 
