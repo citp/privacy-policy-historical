@@ -1,32 +1,35 @@
-> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122022807id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50statesclassifieds.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623214134id_/http%3A//www.50statesclassifieds.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# USA Free Classifieds - Online newspaper classified ads serving all 50 States Free Classifieds
+# USA Business Classifieds - Online newspaper classified ads Online Business Classifieds
 
+|  |  [**Front  
+Page**](http://www.50statesclassifieds.com/) |   |  [**Classifieds  
+by Category**](http://www.50statesclassifieds.com/category.php) |   |  [**Featured  
+Members **](http://www.50statesclassifieds.com/FeaturedMembers.php) |   |  [**Log  
+In**](http://www.50statesclassifieds.com/signinform.php)  
+---|---|---|---|---|---|---  
+  
 |   
 ---  
-|  |  |   **Policies**  
+|  |  | **[Featured](https://web.archive.org/web/20170623214134id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
 ---  
-[Terms of Use](http://www.50statesclassifieds.com/TermsOfUse.php)  
-[Privacy Policy](http://www.50statesclassifieds.com/PrivacyPolicy.php)  
-[Refund Policy](http://www.50statesclassifieds.com/RefundPolicy.php)  
-  **[Featured](https://web.archive.org/web/20161122022807id_/http%3A//www.50statesclassifieds.com/FeaturedMembers.php)**  
   
-[ UptoYou  
-](https://web.archive.org/web/20161122022807id_/http%3A//www.50statesclassifieds.com/store.php?id=51444)  
+[ Attorney  
+](https://web.archive.org/web/20170623214134id_/http%3A//www.50statesclassifieds.com/store.php?id=31011)  
   
 |   **Latest Ads**  
 ---  
-| [ MAKE MONEY EVEN ON VACATION. IT'S TIME TO PUT THE POWER OF INCOME ALL YEAR TO WORK FOR YOU! ](http://www.50statesclassifieds.com/ad.php?id=196656)  
+| [ Metallic Leggings, Shiny Leggings a must! ](http://www.50statesclassifieds.com/ad.php?id=197823)  
 ---  
-[ Weather Balloons ](http://www.50statesclassifieds.com/ad.php?id=196619)  
-[ Estate Sale & Shabby Chic / Nov 18 & 19 / 8:30am-1:00pm / Andover, MA ](http://www.50statesclassifieds.com/ad.php?id=196618)  
-[ Wooden Wonders Living Large! Modern Doll House ](http://www.50statesclassifieds.com/ad.php?id=196596)  
-[ Asian Fin: Best Sushi and Japanese Restaurant in Palm Beach ](http://www.50statesclassifieds.com/ad.php?id=196595)  
-[ The Dancing Dandelion Flower Shop ](http://www.50statesclassifieds.com/ad.php?id=196588)  
-[ 2005, 36' MERIDIAN 368 MOTOR YACHT with Twin Cummins Diesels ](http://www.50statesclassifieds.com/ad.php?id=196583)  
-[ FlexFit Fitness Mats ](http://www.50statesclassifieds.com/ad.php?id=196565)  
-[ Notice of impound car to be auctioned off ](http://www.50statesclassifieds.com/ad.php?id=196554)  
-[ impound notice for auction ](http://www.50statesclassifieds.com/ad.php?id=196553)  
+[ Sexy Halter Dress for Summer Fun ](http://www.50statesclassifieds.com/ad.php?id=197822)  
+[ Striped Sundress in two colors ](http://www.50statesclassifieds.com/ad.php?id=197821)  
+[ Sundresses are perfect for summer ](http://www.50statesclassifieds.com/ad.php?id=197820)  
+[ Floral Design Tights For Spring ](http://www.50statesclassifieds.com/ad.php?id=197819)  
+[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197802)  
+[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197801)  
+[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197800)  
+[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197799)  
+[ Womens eBook Store ](http://www.50statesclassifieds.com/ad.php?id=197798)  
    
 |  Privacy Policy for 50StatesClassifieds.com  
 ---  
