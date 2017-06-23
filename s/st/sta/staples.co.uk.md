@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608081005id_/http%3A//www.staples.co.uk/Content/static/customerservice/legal/policy_privacy.cshtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staples.co.uk privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623042113id_/http%3A//www.staples.co.uk/Content/Static/customerservice/legal/policy_privacy.cshtml) for the most accurate reproduction.*
 
-# Policy | Staples®
+# Privacy Policy | Staples®
 
 Policy The policy and legal information with online shopping on Staples.
 
@@ -8,13 +8,13 @@ At Staples, we value the trust of our customers. To earn your trust, we respect 
 
 ### Who controls personal data gathered about you?
 
-Your personal data is collected, processed and used by SEC UK Delivery Ltd, Registered Number 02397362, registered address Hampden Court, Kingsmead Business Park, Frederick Place, High Wycombe, Bucks, HP11 1JU. ("Staples") as data controller
+Your personal data is collected, processed and used by Staples UK Ltd, Registered Number 02535286, registered address Hampden Court, Kingsmead Business Park, Frederick Place, High Wycombe, Bucks, HP11 1JU. ("Staples") as data controller
 
 ### What personal data does Staples collect?
 
 We collect personal data that you voluntarily provide to us when you register for the Website or perform a transaction via our Website, as well as any personal data in connection with our processing of your orders. Such personal data include: Title, first and last name, company name, VAT number (if applicable), date of birth, gender, email address, user name and password, shipping and invoice address (including postal code, city and country), telephone and fax number, type and quantity of products ordered, order number, date of order, status of order handling, date and time of service delivery, value of order, currency, payment information, such as credit card number and expiration date, product return requests or offers provided to you, and the following information if provided voluntarily: how you learned of the Website, your business card, number of employees and when your business was founded if you are a business customer (collectively, “transactional data”).
 
-We may also collect usage data relating to your use of our Website, such as your IP address, which products you have viewed and which products you have placed in your basket; if you come to our Website through a referral page or through a link in a targeted promotional email or an advertisement on another website referring to our Website, in addition we may collect information on the referral page, and the targeted promotional email or advertisement together with your IP address to analyze the effectiveness of our marketing activities (collectively "usage data").
+We may also collect usage data relating to your use of our Website, such as your IP address, which products you have viewed and which products you have placed in your basket; if you come to our Website through a referral page or through a link in a targeted promotional email or an advertisement on another website referring to our Website, in addition we may collect information on the referral page, and the targeted promotional email or advertisement together with your IP address to analyse the effectiveness of our marketing activities (collectively "usage data").
 
 ### How does Staples use personal data about me?
 
@@ -22,13 +22,13 @@ The transactional data will be used to process your orders, to handle your payme
 
 The usage data, in case of registered customers together with the transactional data (with the exception of payment information) will also be used to tailor the products displayed on the Website to your interests.
 
-If you sign up for the Staples marketing communication and newsletter, your transactional and usage data in addition will be analyzed by Staples to tailor commercial communication specifically to your preferences.
+If you sign up for the Staples marketing communication and newsletter, your transactional and usage data in addition will be analyse by Staples to tailor commercial communication specifically to your preferences.
 
 ### With whom might Staples share personal data about me?
 
 Staples has engaged third party service providers in relation with the operation of the Website, such as hosting providers, website and marketing service providers, IT maintenance service providers, shipping service providers and payment and VAT verification service providers, and service providers that enable additional functions of the Website that you may use at your discretion, such as a chat tool or a product review function. These service providers are provided only with the personal data that they need to perform their services and are not permitted to use or disclose your personal data for other purposes without your prior authorization. 
 
-If you sign up for the Staples marketing communication and newsletter, your name, email address, and other transactional and usage data will be shared with Staples Europe B.V. and Staples Inc. to enable them analyze your interests and tailor commercial communication specifically to your preferences as they are responsible for email marketing on an European and global level. 
+If you sign up for the Staples marketing communication and newsletter, your name, email address, and other transactional and usage data will be shared with Staples Europe B.V. and Staples Inc. to enable them analyse your interests and tailor commercial communication specifically to your preferences as they are responsible for email marketing on an European and global level. 
 
 We will share your transactional data with Staples Inc. in order to allow Staples Inc. as the administrator of any product recalls for the Staples group to contact you in case of such a recall.
 
