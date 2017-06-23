@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informationliberation.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044018id_/http%3A//www.informationliberation.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationliberation.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623192556id_/http%3A//www.informationliberation.com/%3Fprivacy) for the most accurate reproduction.*
 
 # InformationLiberation | The news you're not supposed to know...
 
