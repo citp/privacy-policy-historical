@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rfa.org privacy policy that was archived on 2016-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161209114127id_/http%3A//www.rfa.org/about/info/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rfa.org privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623025753id_/http%3A//www.rfa.org/about/info/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <base href="http://www.rfa.org/about/info/privacy-policy.html/">
@@ -20,6 +20,8 @@
  <link rel="StyleSheet" href="http://www.rfa.org/about/service.css" type="text/css" media="screen, print">
  <link rel="StyleSheet" href="http://www.rfa.org/about/weather_skins/weather.css" type="text/css" media="screen, print">
 <link rel="stylesheet" href="http://www.rfa.org/about/responsive.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.rfa.org/about/jquery.sidr.dark.css" type="text/css" media="screen">
+
  
  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" language="javascript" src="http://www.rfa.org/rfa_resources/js/jquery.js"></script>
  <script type="text/javascript" language="javascript" src="http://www.rfa.org/rfa_resources/js/jquery.fancybox.pack.js"></script>
@@ -41,8 +43,8 @@
  <!-- jam in 'curl' and 'purl' for use in later inline scripts -->
  <script type="text/javascript" language="javascript">var curl = 'http://www.rfa.org/about/info/privacy-policy.html', rurl='http://www.rfa.org/rfa_resources';</script>
 
-
-
+ <script type="text/javascript" language="javascript" src="http://www.rfa.org/rfa_resources/js/jquery.sidr.min.js">
+ </script>
 
 
 
@@ -92,9 +94,11 @@ var RFA = RFA || {};
 <div id="mobilenav">
 	<a id="mobilehnav" href="#mobilehnav">
 		<img src="http://www.rfa.org/rfa_resources/graphics/mobilemenubutton.png"></a> 
-	<a href="http://www.rfa.org/about"><img src="http://www.rfa.org/rfa_resources/graphics/rfalogomobile.png" id="rfalogomobile"></a>
-	<a id="mobilelangnav" href="#mobilelangnav">
-		<img src="http://www.rfa.org/rfa_resources/graphics/mobilelanguagebutton.png"></a>
+    <img src="http://www.rfa.org/about/rfalogo.png" usemap="#rfalogomobile" class="rfalogomobile">
+        <map name="rfalogomobile" class="rfalogomobile">
+	        <area shape="rect" coords="0,0,76,79" href="/english">
+	        <area shape="rect" coords="77,0,255,79" href="/about">
+        </map>
 </div>
 <div id="pagewidth">
 <div id="header">
@@ -109,8 +113,8 @@ var RFA = RFA || {};
 
 <div id="aboutnavsearch">
 <div id="aboutnav">
- <a href="http://www.rfa.org/english/">Home</a> |
- <a href="http://www.rfa.org/english/multimedia">Multimedia</a>
+ <a href="/english/">Home</a> |
+ <a href="/english/multimedia">Multimedia</a>
 </div>
 <div id="headersearch">
  <form action="http://www.rfa.org/about/search">
@@ -120,25 +124,6 @@ var RFA = RFA || {};
 </div><!-- END HEADERSEARCH DIV -->
 </div><!-- END ABOUTNAVSEARCH -->
 </div><!-- END HEADER DIV -->
-
-<div id="mobilesocial">
-   <h5>Follow us</h5>
-   <ul>
-     <li class="mobile_followus_facebook">
-       <a href="http://www.facebook.com/pages/Radio-Free-Asia/31744768821"><img alt="Facebook" src="http://www.rfa.org/rfa_resources/graphics/icon_facebook_grey.gif"></a>
-     </li>
-     <li class="mobile_followus_twitter">
-       <a href="https://twitter.com/RadioFreeAsia"><img alt="Twitter" src="http://www.rfa.org/rfa_resources/graphics/icon_twitter_grey.gif"></a>
-     </li>
-     <li class="mobile_followus_youtube">
-       <a href="http://www.youtube.com/RFAVideo"><img alt="Youtube" src="http://www.rfa.org/rfa_resources/graphics/icon_youtube_grey.png"></a>
-     </li>
-     <li>
-       
-     </li>
-   </ul>
-</div><!-- END MOBILESOCIAL DIV -->
-
 
 <div style="margin: 0px auto">
 <div id="h-nav">
@@ -187,6 +172,17 @@ var RFA = RFA || {};
  </ul>
 </div><!-- END H-NAV DIV -->
 </div>
+
+<script>
+$(document).ready(function() {
+    $('#mobilehnav').sidr({
+      name: 'sidr-main',
+      side: 'left',
+	  source: '#h-nav'
+    });
+
+});
+</script>
 
 <div id="abovefold">
 
@@ -311,13 +307,13 @@ var RFA = RFA || {};
 
    <ul>
     <li>
+      <a href="http://www.rfa.org/about/awards/mekong-ny-festivals-06212017113340.html">RFA’s Mekong Project Wins at New York Festivals</a></li>
+    <li>
+      <a href="http://www.rfa.org/about/awards/uyghur-diaspora-03282017103447.html">Radio Free Asia Wins Award for In-Depth Web Project on Uyghur Diaspora</a></li>
+    <li>
       <a href="http://www.rfa.org/about/awards/nuclear-risks-06232015115625.html">Radio Free Asia Series on China Nuclear Risks Wins at New York Festivals</a></li>
     <li>
       <a href="http://www.rfa.org/about/awards/sigma-deltachi-06232015115450.html">Radio Free Asia Series on China Nuclear Risks Wins Award for Excellence in Journalism</a></li>
-    <li>
-      <a href="http://www.rfa.org/about/awards/ny-festival-06242014101622.html">RFA Wins at New York Festivals Radio Awards</a></li>
-    <li>
-      <a href="http://www.rfa.org/about/awards/birth-tourism-gracie-02182014135836.html">RFA Wins Gracie for Exposé on ‘Birth Tourism’ in Saipan </a></li>
    </ul>
    <div>
       <a href="http://www.rfa.org/about/awards"> More Awards...</a>
@@ -329,13 +325,13 @@ var RFA = RFA || {};
 
    <ul>
     <li>
-      <a href="http://www.rfa.org/about/releases/river-in-peril-12062016131425.html">Radio Free Asia Launches ‘A River in Peril: The Mekong Under China’s Control’</a></li>
+      <a href="http://www.rfa.org/about/releases/mekong-ny-festivals-06212017105816.html">RFA’s Mekong Project Wins at New York Festivals</a></li>
     <li>
-      <a href="http://www.rfa.org/about/releases/han-dongfang-09082016142801.html">e-Book by Labor Advocate Han Dongfang Uncovers ‘Dark Side of China’s Economic Rise,’ Proposes a Way Out</a></li>
+      <a href="http://www.rfa.org/about/releases/vuthy-huot-05032017100005.html">Statement of Radio Free Asia</a></li>
     <li>
-      <a href="http://www.rfa.org/about/releases/chut-wutty-04252016154953.html">RFA Features Banned Film on Murdered Cambodian Rainforest Activist on Website</a></li>
+      <a href="http://www.rfa.org/about/releases/free-press-05032017125546.html">RSF’s Index Stresses Threats against Journalists in Asia, Audiences’ Need for Free Press</a></li>
     <li>
-      <a href="http://www.rfa.org/about/releases/rsf-index-04202016114050.html">RSF Index Underscores “Desperate Need” in Asia for Reliable Press: RFA President</a></li>
+      <a href="http://www.rfa.org/about/releases/uyghur-diaspora-03282017101317.html">Radio Free Asia Wins Award for In-Depth Web Project on Uyghur Diaspora</a></li>
    </ul>
    <div>
       <a href="http://www.rfa.org/about/releases"> More Press...</a>
@@ -347,13 +343,13 @@ var RFA = RFA || {};
 
    <ul>
     <li>
-      <a href="http://www.rfa.org/about/inthenews/october-11022016195628.html">RFA in the News (October 2016)</a></li>
+      <a href="http://www.rfa.org/about/inthenews/may-06052017085559.html">RFA Reports (May 2017)</a></li>
     <li>
-      <a href="http://www.rfa.org/about/inthenews/september-10142016154642.html">RFA in the News (September 2016)</a></li>
+      <a href="http://www.rfa.org/about/inthenews/april-05052017134258.html">RFA in the News (April 2017)</a></li>
     <li>
-      <a href="http://www.rfa.org/about/inthenews/august-09262016132515.html">RFA in the News (August 2016)</a></li>
+      <a href="http://www.rfa.org/about/inthenews/march-04032017105254.html">RFA in the News (March 2017)</a></li>
     <li>
-      <a href="http://www.rfa.org/about/inthenews/july-08292016104524.html">RFA in the News (July 2016)</a></li>
+      <a href="http://www.rfa.org/about/inthenews/february-03312017164358.html">RFA in the News (February 2017)</a></li>
    </ul>
    <div>
       <a href="http://www.rfa.org/about/inthenews"> More RFA in the News...</a>
@@ -366,13 +362,13 @@ var RFA = RFA || {};
 
    <ul>
     <li>
-      <a href="http://www.rfa.org/about/rfareports/october-11182016163056.html">RFA Reports (October 2016)</a></li>
+      <a href="http://www.rfa.org/about/rfareports/april-05232017061731.html">RFA Reports (April 2017)</a></li>
     <li>
-      <a href="http://www.rfa.org/about/rfareports/september-10312016162916.html">RFA Reports (September  2016)</a></li>
+      <a href="http://www.rfa.org/about/rfareports/march-04192017083753.html">RFA Reports (March 2017)</a></li>
     <li>
-      <a href="http://www.rfa.org/about/rfareports/august-09292016142302.html">RFA Reports (August  2016)</a></li>
+      <a href="http://www.rfa.org/about/rfareports/february-03202017133922.html">RFA Reports (February 2017)</a></li>
     <li>
-      <a href="http://www.rfa.org/about/rfareports/july-08292016102337.html">RFA Reports (July 2016)</a></li>
+      <a href="http://www.rfa.org/about/rfareports/january-02132017125539.html">RFA Reports (January 2017)</a></li>
    </ul>
    <div>
       <a href="http://www.rfa.org/about/rfareports"> More RFA Reports...</a>
@@ -414,43 +410,43 @@ var RFA = RFA || {};
 
  <div id="footerlang" class="footercolumn">
   <h3>News</h3>
-  <a href="http://www.rfa.org/english/news/myanmar">Myanmar</a><br>
-  <a href="http://www.rfa.org/english/news/cambodia">Cambodia</a><br>
-  <a href="http://www.rfa.org/english/news/china">China</a><br>
-  <a href="http://www.rfa.org/english/news/laos">Laos</a><br>
-  <a href="http://www.rfa.org/english/news/korea">North Korea</a><br>
-  <a href="http://www.rfa.org/english/news/tibet">Tibet</a><br>
-  <a href="http://www.rfa.org/english/news/uyghur">Uyghur</a><br>
-  <a href="http://www.rfa.org/english/news/vietnam">Vietnam</a><br>
+  <a href="/english/news/myanmar">Myanmar</a><br>
+  <a href="/english/news/cambodia">Cambodia</a><br>
+  <a href="/english/news/china">China</a><br>
+  <a href="/english/news/laos">Laos</a><br>
+  <a href="/english/news/korea">North Korea</a><br>
+  <a href="/english/news/tibet">Tibet</a><br>
+  <a href="/english/news/uyghur">Uyghur</a><br>
+  <a href="/english/news/vietnam">Vietnam</a><br>
  </div>
 
  <div id="footermedia" class="footercolumn">
   <h3>Media</h3>
-  <a href="http://www.rfa.org/about/releases">Press</a><br>
-  <a href="http://www.rfa.org/about/awards">Awards</a><br>
-  <a href="http://www.rfa.org/about/inthenews">RFA in the News</a><br>
-  <a href="http://www.rfa.org/about/rfareports">RFA Reports</a><br>
+  <a href="/about/releases">Press</a><br>
+  <a href="/about/awards">Awards</a><br>
+  <a href="/about/inthenews">RFA in the News</a><br>
+  <a href="/about/rfareports">RFA Reports</a><br>
   <h3>Help</h3>
-  <a href="http://www.rfa.org/about/info/contact.html">Contact Us</a><br>
-  <a href="http://www.rfa.org/about/help/web_access.html">Circumvention</a><br>
-  <a href="http://www.rfa.org/about/info/terms-of-use.html">Terms of Use</a><br>
-  <a href="http://www.rfa.org/about/info/privacy-policy.html">Privacy</a><br>
+  <a href="/about/info/contact.html">Contact Us</a><br>
+  <a href="/about/help/web_access.html">Circumvention</a><br>
+  <a href="/about/info/terms-of-use.html">Terms of Use</a><br>
+  <a href="/about/info/privacy-policy.html">Privacy</a><br>
  </div>
 
  <div id="footerlisten" class="footercolumn">
   <h3>Broadcast</h3>
-  <a href="http://www.rfa.org/about/help/live.html">Schedule</a><br>
-  <a href="http://www.rfa.org/about/info/frequencies.html">Frequencies</a><br>
-  <a href="http://www.rfa.org/english/podcasts/">Podcasts</a><br>
-  <a href="http://www.rfa.org/english/RSS">RSS</a><br>
+  <a href="/about/help/live.html">Schedule</a><br>
+  <a href="/about/info/frequencies.html">Frequencies</a><br>
+  <a href="/english/podcasts/">Podcasts</a><br>
+  <a href="/english/RSS">RSS</a><br>
  </div>
 
  <div id="footerorganization" class="footercolumn">
   <h3>Organization</h3>
-  <a href="http://www.rfa.org/about/info/mission.html">Mission Statement</a><br>
-  <a href="http://www.rfa.org/about/info/codeofethics.html">Code of Ethics</a><br>
-  <a href="http://www.rfa.org/about/directors">Management</a><br>
-  <a href="http://www.rfa.org/about/jobs-and-interships">Jobs</a><br>
+  <a href="/about/info/mission.html">Mission Statement</a><br>
+  <a href="/about/info/codeofethics.html">Code of Ethics</a><br>
+  <a href="/about/directors">Management</a><br>
+  <a href="/about/jobs-and-interships">Jobs</a><br>
   <a href="http://www.rfa15.org/">15th Anniversary</a><br>
  </div>
 
@@ -468,12 +464,28 @@ var RFA = RFA || {};
   <a href="https://www.facebook.com/RadioFreeAsia.English" target="_new"><img src="http://www.rfa.org/rfa_resources/graphics/icon-fb.png"></a> 
   <a href="https://twitter.com/RadioFreeAsia" target="_new"><img src="http://www.rfa.org/rfa_resources/graphics/icon-twitter.png"></a> 
   <a href="http://google.com/newsstand/s/CBIwitPGoiE" target="_blank"><img src="http://www.rfa.org/rfa_resources/graphics/newsstand.png"></a>
-  <a href="http://www.rfa.org/english/RSS"><img src="http://www.rfa.org/rfa_resources/graphics/icon-rss.png"></a>
-  <a href="http://www.rfa.org/english/podcasts/"><img src="http://www.rfa.org/rfa_resources/graphics/icon-podcast.png"></a>
+  <a href="/english/RSS"><img src="http://www.rfa.org/rfa_resources/graphics/icon-rss.png"></a>
+  <a href="/english/podcasts/"><img src="http://www.rfa.org/rfa_resources/graphics/icon-podcast.png"></a>
   <a href="mailto:contact@rfa.org"><img src="http://www.rfa.org/rfa_resources/graphics/icon-mail.png"></a>
-  <a href="http://www.rfa.org/english/apps"><img src="http://www.rfa.org/rfa_resources/graphics/icon-mobile.png"></a>
+  <a href="/english/apps"><img src="http://www.rfa.org/rfa_resources/graphics/icon-mobile.png"></a>
  </div>
 </div>
+
+    <!-- MOBILESOCIAL DIV -->
+<div id="mobilesocial" class="clear">
+   <ul>
+     <li class="mobile_followus_facebook">
+       <a href="https://www.facebook.com/RadioFreeAsia.English"><img alt="Facebook" src="http://www.rfa.org/rfa_resources/graphics/icon_facebook_grey.gif"></a>
+     </li>
+     <li class="mobile_followus_twitter">
+       <a href="https://twitter.com/RadioFreeAsia"><img alt="Twitter" src="http://www.rfa.org/rfa_resources/graphics/icon_twitter_grey.gif"></a>
+     </li>
+     <li class="mobile_followus_youtube">
+       <a href="http://www.youtube.com/RFAVideo"><img alt="Youtube" src="http://www.rfa.org/rfa_resources/graphics/icon_youtube_grey.png"></a>
+     </li>
+   </ul>
+</div><!-- END MOBILESOCIAL DIV -->
+
 
 <div id="footerlogoaddress" class="clear">
  <div id="footer-logo-address"><!--CSS image--></div>
