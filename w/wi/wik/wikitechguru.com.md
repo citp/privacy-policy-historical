@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikitechguru.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225145738id_/http%3A//wikitechguru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikitechguru.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624011840id_/http%3A//wikitechguru.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Wiki Tech Guru
 
