@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eclincher.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516021444id_/https%3A//eclincher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eclincher.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623053829id_/https%3A//eclincher.com/privacy) for the most accurate reproduction.*
 
 # Privacy - eClincher
 
