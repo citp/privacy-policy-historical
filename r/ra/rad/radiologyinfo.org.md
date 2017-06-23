@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193553id_/http%3A//www.radiologyinfo.org/en/info.cfm%3Fpg%3Dabout-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiologyinfo.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623064953id_/https%3A//www.radiologyinfo.org/en/info.cfm%3Fpg%3Dabout-privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -23,7 +23,7 @@ This information is collected if you voluntarily submit feedback or subscribe to
 
   * #### Contact Us and Feedback forms
 
-Your feedback is used to help us improve the website. If you submit feedback or an inquiry, you will be required to enter your email address. Your email address is used to send a response to you indicating that we received your submission. It might also be used to contact you if we need clarification or more information about your feedback or in response to your inquiry. The text of your feedback/inquiry will be stored indefinitely but we will delete the email address associated with it after 90 days. If you wish to have your email address or feedback deleted sooner, please send a request to _[radiologyinfo@rsna.org](mailto:radiologyinfo@rsna.org)_. You should not include personal or confidential information in the text of your feedback or inquiry. RSNA and ACR will not answer specific medical questions or refer patients to a particular radiologic or other medical professional.
+Your feedback is used to help us improve the website. If you submit feedback or an inquiry, you will be required to enter your email address. Your email address is used to send a response to you indicating that we received your submission. It might also be used to contact you if we need clarification or more information about your feedback or in response to your inquiry. The text of your feedback/inquiry will be stored indefinitely but we will delete the email address associated with it after 90 days. If you wish to have your email address or feedback deleted sooner, please send a request to _[radiologyinfo@rsna.org](mailto:radiologyinfo@rsna.org)_. You should not include personal or confidential information in the text of your feedback or inquiry. RSNA and ACR will not answer specific medical questions or refer patients to a particular radiologic or other medical professional. Due to the volume of messages we receive, we are unable to reply to all inquiries.
 
   * #### "News and Updates" subscription form
 
@@ -34,7 +34,7 @@ Contact information submitted via the "News and Updates" subscription form is us
 
 ### Email 
 
-Email that you send to _radiologyinfo@rsna.org_ may be shared with RSNA or ACR staff or website committee members who are most able to address your inquiry. After we have responded to your email, it will be deleted or archived depending on the nature of the inquiry. Email is not a secure means of communication so we recommend that you do not send personal or confidential information via email.
+Email that you send to _radiologyinfo@rsna.org_ may be shared with RSNA or ACR staff or website committee members who are most able to address your inquiry. After we have responded to your email, it will be deleted or archived depending on the nature of the inquiry. Email is not a secure means of communication so we recommend that you do not send personal or confidential information via email. Due to the volume of messages we receive, we are unable to reply to all inquiries.
 
 ### Disclosure
 
