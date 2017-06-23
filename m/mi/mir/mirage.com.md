@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirage.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013090204id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirage.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623230550id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
 
 # MGM Resorts International Privacy Statement
 
