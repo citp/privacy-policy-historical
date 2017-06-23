@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebuzztube.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223183012id_/http%3A//thebuzztube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebuzztube.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623075124id_/http%3A//www.thebuzztube.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - thebuzztube.com
+# Privacy Policy
 
 ## Website Privacy Policy
 
@@ -70,6 +70,9 @@ Examples include:
 
 
 
+  
+
+
 **Functionality cookies**
 
 These cookies are website specific and are linked to user choices when using a website.
@@ -88,6 +91,9 @@ Examples include:
 
 These cookies collect information about your web-browsing behavior. This includes the sites you visit, pages you visit, your time spent on a website and links you click on. These actions create a profile about your web-browsing behavior that links to your web browser. Your profile lets advertisers and publishers show you advertising that is more relevant to your interests.
 
+  
+
+
 By agreeing to accept our use of cookies, you are giving us permission to place some or all the cookies described below on your device.  
 **We may use cookies for:**
 
@@ -104,6 +110,9 @@ By agreeing to accept our use of cookies, you are giving us permission to place 
 
 For more information about cookies, visit [www.AboutCookies.org](http://www.aboutcookies.org/).
 
+  
+
+
 #### Remarketing Advertising
 
 Why am I seeing ads by for products I’ve viewed?  
@@ -117,11 +126,17 @@ If you are in the U.S. – [http://www.aboutads.info/choices](http://www.aboutad
 If you are in the U.K. – <http://www.youronlinechoices.com/uk/your-ad-choices>  
 If you are in the Canada – <http://youradchoices.ca/choices>
 
+  
+
+
 #### Google Analytics Privacy Policy
 
 Our website uses “Google Analytics” to collect information about the use of our site. Google Analytics collects information such as how often users visit our site, what pages they visit when they do so, and what other sites they used prior to coming to our site. We use the information we get from Google Analytics to improve our site. Google Analytics collects only the IP address assigned to you on the date you visit our site, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with personally identifiable information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit our site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to our site is restricted by the Google Analytics Terms of Use. <http://www.google.com/analytics/terms/us.html>
 
 You can prevent Google Analytics from recognizing you on return visits to this site by [disabling cookies](http://www.usa.gov/optout_instructions.shtml) on your browser. <https://tools.google.com/dlpage/gaoptout>
+
+  
+
 
 #### Web Beacons
 
@@ -137,9 +152,15 @@ _Some examples of web beacon use are:_
 
 
 
+  
+
+
 #### Automatic Information
 
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our Website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
+
+  
+
 
 ### How Information is Used
 
@@ -157,6 +178,9 @@ When we communicate with you about our Website, we will use the email address yo
 
 We do not sell, rent, or otherwise provide your PII to third parties for marketing purposes. However, we may use your Non Personal Information for data aggregation purposes which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your PII. We may provide your PII to affiliates that provide services with regards to our Website (like payment processors, webhosting companies, etc.)
 
+  
+
+
 #### Community Discussion Boards
 
 Our Website may offer the capability for Users to communicate with each other through online Community Discussion Boards. We do not filter or monitor what is posted on such discussion boards. If you chose to post on these discussion boards, you should use care when exposing any PII as such information is not protected by our Privacy Policy nor are we liable should you choose to disclose your PII through such postings.
@@ -164,6 +188,9 @@ Our Website may offer the capability for Users to communicate with each other th
 #### Legally Required Releases of Information
 
 We may be legally required to disclose your PII, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, our Users, employees, and affiliates.
+
+  
+
 
 #### Disclosures to Successors
 
@@ -176,6 +203,9 @@ We believe in everyone’s right to privacy. If any postings you make to our Web
 ### Changing Your Information
 
 You may change your PII at any time using facilities found on our Website. If you need assistance with updating your PII or removing yourself from our mailing lists, just send us an email with your request or contact us using our contact information found on our Website.
+
+  
+
 
 ### Opting Out of Sharing Information
 
@@ -195,6 +225,9 @@ For Google Chrome visit: <http://goo.gl/NQIkqE>
 
 For Safari visit: <http://goo.gl/7XCOzL>
 
+  
+
+
 ### Protecting Your Child’s Privacy
 
 We follow the Children’s Online Privacy Protection Act (COPPA). Even though our Website is not designed for use by anyone under the age of 18 (child), we realize that a child may attempt to access our Website. We do not knowingly collect PII from a child under the age of 18. If you are a parent or guardian and believe your child is using our Website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a child, please seek the permission from a parent or guardian before using our Website.
@@ -202,6 +235,9 @@ We follow the Children’s Online Privacy Protection Act (COPPA). Even though ou
 ### Our Email Policy
 
 We comply with the federal CAN-SPAM Act. You can always opt out of receipt of further email correspondence from us or our affiliates. We will not sell, rent, or trade your email address to any unaffiliated third-party without your permission except in the sale or transfer of our business.
+
+  
+
 
 ### Our Security Policy
 
