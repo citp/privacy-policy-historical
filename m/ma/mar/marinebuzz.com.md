@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinebuzz.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215183414id_/http%3A//www.marinebuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinebuzz.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623152608id_/http%3A//www.marinebuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MarineBuzz.com
 
