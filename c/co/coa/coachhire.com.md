@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111112614id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachhire.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623025714id_/http%3A//www.coachhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Coach Hire - from coachhire.com
 
