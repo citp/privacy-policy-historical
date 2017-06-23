@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119110945id_/http%3A//taylormadegolf.com/shared-customer-service-customer-legal/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylormadegolf.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623171500id_/http%3A//taylormadegolf.com/shared-customer-service-customer-legal/privacy.html) for the most accurate reproduction.*
 
 # Legal/Privacy - TaylorMade Golf | adidas Golf | Ashworth | Adams
+
+TAYLORMADE - ADIDAS GOLF COMPANY
 
   * Legal
   * Your Privacy Rights
@@ -85,7 +87,11 @@ If any provision of this Section is found to be invalid or unenforceable, then t
 
 THIS SECTION LIMITS CERTAIN RIGHTS, INCLUDING THE RIGHT TO MAINTAIN A COURT ACTION, THE RIGHT TO A JURY TRIAL, THE RIGHT TO PARTICIPATE IN ANY FORM OF CLASS OR REPRESENTATIVE CLAIM, THE RIGHT TO ENGAGE IN DISCOVERY EXCEPT AS PROVIDED IN AAA RULES, AND THE RIGHT TO CERTAIN REMEDIES AND FORMS OF RELIEF. OTHER RIGHTS THAT YOU OR TMaG WOULD HAVE IN COURT ALSO MAY NOT BE AVAILABLE IN ARBITRATION.
 
+## **Privacy**
+
 We realize that consumers are concerned about how the information they provide online will be used. Please read our [Privacy Policy](http://taylormadegolf.com/about-us/privacy.html#privacy) for more details.
+
+## **Enforcement of Terms and Conditions**
 
 These Terms are governed and interpreted pursuant to the laws of the State of California, United States of America, without reference to its provisions concerning conflicts of law. Any and all dispute(s) concerning the validity or interpretation of these Terms, or performance hereunder, shall be brought exclusively in a court of competent jurisdiction located in the County of San Diego, State of California, which shall constitute the exclusive venue for any such dispute(s). If any part of these Terms is unlawful, void, or unenforceable, that part will be deemed severable and will not affect the validity and enforceability of the remaining provisions. TMaG may revise these Terms at any time by updating this posting.
 
@@ -132,6 +138,8 @@ TMaG may always use personal information in the following ways:
 ·         to tailor your experience on our websites and our communications with you, showing you content and sending you information we think might interest you or altering the content and our communications according to your personal preferences and interests
 
 ·         as part of an online employment application to evaluate your qualifications only
+
+·         to share with government agencies, law enforcement, or with third parties if we think we are legally obligated, or to protect ourselves.  For example, we will disclose information in response to subpoenas, investigative requests, and reasonable discovery requests.
 
 If you have not "opted-out" of our use and disclosure of your personal information, TMaG may also use personal information for all marketing and survey purposes on behalf of itself and its affiliates and subsidiaries. TMaG may appoint third party agents in connection with such marketing and survey efforts. TMaG may disclose personal information to select business partners for use in connection with direct mail marketing efforts, including, without limitation, with select third party retailers when the email is collected via a TMaG mobile fitting application at participating fitting locations and with TMaG subsidiary companies.
 
