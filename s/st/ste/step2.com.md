@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722123141id_/https%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the step2.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624005602id_/https%3A//www.step2.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy at Step2
 
-Effective Date: 3/11/2016 
-
-The TRUSTe program covers only information that is collected through this website, www.step2.com and does not cover information that may be collected through software downloaded from the website. 
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+Effective Date: 3/15/2017 
 
 You'd be hard pressed to find a company that values your privacy more than The Step2 Company, LLC (collectively, "We", "Us", "Our" or "Step2") does. When you visit our website you will be given the opportunity to receive email from us. We know that some of the information you choose to give us is personal, and we take that seriously. Read the statement below if you'd like to know what we do with the information we obtain from you. 
 
@@ -16,11 +12,11 @@ This privacy statement describes how The Step2 Company, LLC collects and uses th
 
 When you send us personal information such as your email address, street address, etc., we use this information for limited and specific purposes including the following: 
 
-1\. We combine your information with data submitted by others. We use this aggregated data to analyze purchase trends and identify common characteristics of our customers such as what states they live in, etc. Your data is not personally identifiable at this point - you are anonymous. 
+1\. We combine your information with data submitted by others. We use this aggregated data to analyze purchase trends and identify common characteristics of our customers such as what states they live in, etc. 
 
-2\. We use this combined, anonymous information, along with any comments you provide, to help develop new products and make adjustments to current products. Again, this information is analyzed collectively and is not personally identifiable. 
+2\. We use this combined information, along with any comments you provide, to help develop new products and make adjustments to current products. 
 
-3\. We also may use anonymous information to help persuade retailers to carry our products. We do not lend, rent or sell personally-identifiable information to our retailers. 
+3\. We also may use information to help persuade retailers to carry our products. We do not lend, rent or sell personally-identifiable information to our retailers. 
 
 4\. In order to place an order you must first complete the registration form and create a user name and password. During registration you are required to give contact information (such as name and email address). 
 
@@ -49,7 +45,7 @@ Generally, you may not opt-out of these communications, which are not promotiona
 
 **Access to Personal Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page (if you have registered for an account on www.step2.com) or by emailing our Customer Support at [Step2-Company@Step2.net](mailto:Step2-Company@Step2.net) or by contacting us by telephone or postal mail at the contact information listed above. We will respond to your request to access within 30 days. 
+Upon request The Step2 Company, LLC will provide you with information about whether we hold any of your personal information. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/deactivate it by making the change on our member information page (if you have registered for an account on www.step2.com) or by emailing our Customer Support at [Step2-Company@Step2.net](mailto:Step2-Company@Step2.net) or by contacting us by telephone or postal mail at the contact information listed above. We will respond to your request to access within 30 days. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
@@ -57,39 +53,39 @@ We will retain your information for as long as your account is active or as need
 
 We are extremely concerned about your children's privacy. We do not knowingly collect any personal information directly from children, and we do not knowingly place children on our mailing list. 
 
-When you register we may ask for some general information about your children or grandchildren. Specifically, we may ask for age and gender information. We combine this information with data submitted by other customers. This aggregated data is not personally identifiable. It is anonymous. 
+When you register we may ask for some general information about your children or grandchildren. Specifically, we may ask for age and gender information. We combine this information with data submitted by other customers. 
 
-We use this combined, anonymous information to help us better understand who is using our products. Knowing this helps us develop new products and make adjustments to current products. Again, this information is analyzed collectively and is not personally identifiable. 
+We use this combined information to help us better understand who is using our products. Knowing this helps us develop new products and make adjustments to current products. Again, this information is analyzed collectively and is not personally identifiable. 
 
 We never ask for your children's names or anything that could be used to contact them personally. Under no circumstances is any information you provide used to knowingly market directly to your children or to contact your children. If you have reason to believe that a child's Personal Information was provided to us, please contact us, and we will endeavor to delete that information and terminate the child's account from our databases. 
 
 **Tracking Technologies**
 
-We The Step2 Company, LLC and our marketing partners, affiliates, or analytics or technology service providers, use technologies such as cookies, beacons, tags, and scripts, to analyze trends, administer the website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
+We The Step2 Company, LLC and our marketing partners, affiliates, or analytics or technology service providers, use technologies such as cookie and similiar technologies to analyze trends, administer the website, tracking users' movements around the website, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. 
 
 We use cookies for our shopping cart, to remember users' settings (e.g. language preference), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited. 
 
 **Log Files**
 
-When you visit our website we detect and may record how you got here and where you came from. Specifically, we may collect the domain name or IP address of the site from which you connected, the type of browser you used, and what search terms you used if you found our site(s) via a search engine or link. This information is not used to identify you personally. This information is combined and analyzed anonymously to determine how and when people are visiting our website. We also use this information to measure the performance of our site and to help us decide where to advertise our brand and products. 
+When you visit our website we detect and may record how you got here and where you came from. Specifically, we may collect the domain name or IP address of the site from which you connected, the type of browser you used, and what search terms you used if you found our site(s) via a search engine or link. We also use this information to measure the performance of our site and to help us decide where to advertise our brand and products. 
 
-**Flash & HTML5**
+**Local Storage/HTML5**
 
-We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We use Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 **Behavioral Advertising**
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. 
 
 **Sharing Information with Third Parties**
 
 We will not give your email address to anyone else.
 
-We DO NOT disclose any personally identifiable information about you to anyone not doing work specifically for Step2 such as a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf, and a customer service provider to manage our help section. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service. An exception to this is when we believe in good faith that we are required to disclose such information by a law enforcement agency or court of law, and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial or bankruptcy proceeding, court order, or legal process served on our website. 
+We DO NOT disclose any personally identifiable information about you to anyone not doing work specifically for Step2 such as a credit card processing company to bill you for goods and services, an email service provider to send out emails on our behalf, and a customer service provider to manage our help section. When you sign up for our services, we will share your personal information only as necessary for the third party to provide that service. An exception to this is when we believe in good faith that we are required to disclose such information by a law enforcement agency or court of law, or in response to lawful requests by public authorities, including to meet national security or law enforcement requirements, and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial or bankruptcy proceeding, court order, or legal process served on our website. 
 
 In the event Step2 goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our website for 30 days of any such change in ownership or control of your personal information. 
 
-Also, as we explained above, we may combine information you provide with data from others. We may use this combined information to help persuade retailers to carry our products. The information we share with our retailers is collective and completely anonymous. 
+Also, as we explained above, we may combine information you provide with data from others. We may use this combined information to help persuade retailers to carry our products. The information we share with our retailers is collectiv.e 
 
 On a very limited basis, we may allow carefully selected marketing partners to send postal mailings to members who have signed up to be on our direct mail list. These companies will never be given your email address and will not have access to any information about you other than your postal mailing address. If you wish to opt out of receiving these postal mailings you may do so by emailing us at [Step2-Company@Step2.net](mailto:Step2-Company@Step2.net). 
 
@@ -136,5 +132,3 @@ When you use our website, you acknowledge your acceptance of this privacy policy
 **Contact Us**
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: [Step2-Company@Step2.net](mailto:Step2-Company@Step2.net) or 10010 Aurora-Hudson Road, Streetsboro, OH 44241 
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=43fac991-7633-4e5c-bb43-8ec1632814e3 "TRUSTe Privacy Certification")
