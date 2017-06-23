@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vesselnews.io privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026082136id_/http%3A//vesselnews.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesselnews.io privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623123817id_/http%3A//vesselnews.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vessel News
+# Privacy Policy – Vessel News
 
 This site contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. We are making such material available in our efforts to advance understanding of environmental, political, human rights, economic, democracy, scientific, and social justice issues, etc. We believe this constitutes a ‘fair use’ of any such copyrighted material as provided for in section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, the material on this site is distributed without profit to those who have expressed a prior interest in receiving the included information for research and educational purposes. For more information go to: http://www.law.cornell.edu/uscode/17/107.shtml. If you wish to use copyrighted material from this site for purposes of your own that go beyond ‘fair use’, you must obtain permission from the copyright owner.
 
