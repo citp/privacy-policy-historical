@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the weetnow.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016030808id_/http%3A//www.weetnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weetnow.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623080756id_/http%3A//www.weetnow.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WeetNow
 
-[Home](http://www.weetnow.com/) Privacy Policy
+[Home](http://www.weetnow.net/) Privacy Policy
 
 The owners of www.weetnow.com follow a very strict privacy policy. Being an established news and media website, we cater to the needs of the users and do not meddle with their privacy in any form whatsoever.
 
