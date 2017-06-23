@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118152627id_/https%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geogebra.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624003009id_/https%3A//www.geogebra.org/privacy) for the most accurate reproduction.*
 
 # Privacy - GeoGebra
 
@@ -98,4 +98,4 @@ We reserve the right to change the privacy policy at our sole discretion. GeoGeb
 
 ## Contact Information
 
-Please contact GeoGebra with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at [ILF.SL2YIFYI@YQGOOF@](https://web.archive.org/web/20161118152627id_/https%3A//www.geogebra.org/ILF.SL2YIFYI@YQGOOF:FKRGS4@ "ILF.SL2YIFYI@YQGOOF@") or by mail at: International GeoGebra Institute, Wolfauerstr 90, 4040 Linz, Austria.
+Please contact GeoGebra with any questions or comments about this Privacy Policy, your personal information, our third-party disclosure practices, or your consent choices by email at [ILF.SL2YIFYI@YQGOOF@](https://web.archive.org/web/20170624003009id_/https%3A//www.geogebra.org/ILF.SL2YIFYI@YQGOOF:FKRGS4@ "ILF.SL2YIFYI@YQGOOF@") or by mail at: International GeoGebra Institute, Wolfauerstr 90, 4040 Linz, Austria.
