@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001347id_/http%3A//www.indochino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indochino.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623214233id_/http%3A//www.indochino.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,3 +94,7 @@ We keep our privacy policy under regular review and we will place any updates in
 ## Your Feedback __
 
 If you have any comments or questions about this Policy or your personal information, please send your comments by e-mail to [info@indochino.com](mailto:info@indochino.com).
+
+## HEADQUARTERS __
+
+300-970 Homer Street, Vancouver, BC - V6B 2W7
