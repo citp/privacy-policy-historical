@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224020802id_/http%3A//www.citygear.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citygear.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623185728id_/http%3A//www.citygear.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# City Gear | Urban Footwear and Apparel | Privacy Policy
+# Privacy Policy | City Gear Urban Footwear and Apparel
 
 CITYGEAR.COM’s Privacy Policy sets forth how CITY GEAR, LLC. and its affiliates (“CITY GEAR, LLC.”, “Company”, “We” and “Us”) collects, uses and protects personal information shared by the users (“You” or “User”) of the CITYGEAR.COM website and its associated services and domains (collectively, “CITYGEAR.COM" or “Website").  If you are under eighteen (18) years of age, “You” and “Your” includes your parents or legal guardian.  By using or accessing CITYGEAR.COM, you are accepting the terms of this Privacy Policy.
 
