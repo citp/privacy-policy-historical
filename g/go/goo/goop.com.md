@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208204813id_/http%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goop.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623211130id_/http%3A//goop.com/privacy-cookies-policy) for the most accurate reproduction.*
 
 # Privacy & Cookies Policy | Goop
 
