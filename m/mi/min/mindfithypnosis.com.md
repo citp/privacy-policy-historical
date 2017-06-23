@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindfithypnosis.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913024433id_/http%3A//www.mindfithypnosis.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindfithypnosis.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623145603id_/http%3A//www.mindfithypnosis.com/private-policy) for the most accurate reproduction.*
 
-# Private Policy
+# Private Policy - Mindfit Hypnosis and Subliminal Message MP3 Downloads
 
 #### Privacy Policy of Mindfit Hypnosis
 
