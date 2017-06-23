@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manga.tokyo privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124184353id_/http%3A//donika.co.jp/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manga.tokyo privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623221511id_/http%3A//donika.co.jp/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - DONIKA Co. Ltd.
 
