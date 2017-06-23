@@ -1,52 +1,81 @@
-> *The following text is extracted and transformed from the quibblo.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017044733id_/http%3A//www.quibblo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quibblo.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623213332id_/http%3A//www.quibblo.com/about/privacy) for the most accurate reproduction.*
 
-# Quibblo Privacy Policy
+# Privacy
 
-This Privacy Policy applies to users of the Quibblo.com network of web sites, and applies to all sites on the domain "quibblo.com". Information collection and use of Personally Identifiable Information (referred to hereafter as "PII") are discussed in this policy. Quibblo.com may edit this statement from time to time. When we make substantial changes to uses of PII, we will notify you by posting a prominent notice on our privacy policy, as well as an indicator on the home page, www.quibblo.com. Issues with the site can be directed via email to privacy@quibblo.com, or via postal mail to The Privacy Group, Pangea Media, 85 Main Street, Ste 200, Watertown, MA 02472.
+## QUIBBLO.COM PRIVACY POLICY
 
-## I. Collected Information
+**This Policy may change from time to time. Please check back frequently for updates.**
 
-To use some of the site's functionality, you must register for an account. This registration process may ask you for personally identifiable information as part of the registration process. In accordance with COPPA regulations, Quibblo.com requires that a user be thirteen (13) years of age or older. Information collected at registration may include, but is not limited to, email address, gender, birth date, country, and postal code.
+Polarity Technologies Ltd, a Cyprus company, and Quibblo.com (collectively, “Quibblo”, “we”, or “us”) respect and protect the privacy of consumers. This Privacy Policy (“Policy”) describes what information we collect through Quibblo.com, how we use that information, and some of your privacy rights regarding that information.
 
-Additional information may be collected through the use of the site, including, but not limited to, taking quizzes, surveys, or polls. Quibblo.com may additionally run promotions that may ask for additional demographic data.
+**Collection of Information and Your Privacy Rights**
 
-Users may additionally post personally identifiable information in public locations, including, but not limited to, their public profile page and site comments. The information so posted is done so by the user's choice and action, and therefore may be disclosed.
+What information we collect and how we collect it.
 
-Other Information: In addition to PII, additional information may be collected, such as system information, browser, and IP address.
+1.1 Collection of Information. Quibblo collects information from you when you voluntarily provide it to Quibblo or one of its partners, through websites (owned and operated by Quibblo or a third party), social networking applications, blogs, and other means (together, these sources are referenced hereafter as "Publishers") (for example, by signing up for an email newsletter or through a co-registration offer on a survey), or by other means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a "User Form"). In a User Form, Quibblo or a third party may offer you incentives in exchange for providing information about yourself such as name, email address, street address, zip code, telephone numbers, birth date, gender, salary range, education and marital status, occupation, employment information, and personal and online interests (together, "User Information"). Completing the User Form is voluntary and you are under no obligation to provide User Information. Information about business partners of Quibblo, including Publishers and advertisers, may be collected through various means in the course of conducting business operations, such as through agreements entered into by the party and by emails exchanged with those partners (all such information being “Business Information”).
 
-Cookies: Cookies are pieces of data stored in the browser's memory or written to the user's hard drive, that provides the ability to recall information across user sessions. This also enables tracking of various user actions and helps customize the display of site content. Quibblo.com may not work correctly if cookies are disabled, and some functionality may be completely unavailable.
+1.2 Vendor List Information. Quibblo may obtain information about you after you provide information to a third party and you permit that party (the "Seller") to share the information, which Quibblo subsequently purchases, licenses, or otherwise lawfully acquires. Such information may include, but is not limited to, your name, street address, zip code, telephone numbers, birth date, gender, salary range, education, marital status, occupation, industry of employment, personal and online interests, and other information which you provided to the Seller (together, "Vendor List Information"). When acquiring Vendor List Information, Quibblo requires assurances from the Seller that the Seller has a right to transfer the Vendor List Information to Quibblo and that Quibblo may lawfully use the Vendor List Information to transmit offers from advertisers.
 
-## II. Use Of Collected Information
+1.3 User Behaviors Collected with Cookies, Web Beacons, and Other Information. Quibblo uses cookie and web beacon technology to associate certain Internet-related information about you, such as your Internet Protocol address and what Web browser you are using, with certain of your online behaviors, such as opening or clicking on a particular online advertisement. Additionally, Quibblo may use other new and evolving sources of information and information gathering in the future as they become available (together, "Technology Information").
 
-Your personally identifiable information is used in a variety of ways, ranging from better presentation of site content to match demographic interests, to customizing advertising on the site. Additionally, information we collect may be combined with information from third party sources.
+(a) Cookies. A cookie is a small amount of data stored on the hard drive of your computer that allows Quibblo and/or its partners to identify and associate your IP address with corresponding information in Quibblo's database. Quibblo and/or its third party partners may use cookies to track individual responses or views of advertisements and activity across different websites over time, and use this information to help predict what other advertisements may be of interest to you and enable you to receive customized advertisements or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, such as your email address, that we may share with any third party in hashed, non-human readable form. To learn about how you can opt-out of the receipt of cookies, please visit http://www.aboutads.info/choices. To learn about how you can remove cookies placed on your computer or prevent the placement of cookies on your computer, please see Section 4 below. To learn more about cookies in general, please visit http://www.cookiecentral.com.
 
-This information may be used to contact you regarding Quibblo.com, as well as to bring you select deals that we feel might interest you.
+(b) Web beacons. A web beacon is programming code used to display an image on a web page and can also transfer an individual's user identification to a database and associate the individual with previously acquired information about the individual. Web beacons enable Quibblo and its third party partners to track certain Web sites you visit or advertisements you view online across different websites over time. Web beacons help determine products or services in which you may be interested and help track online behaviors for marketing purposes. More information about web beacons is available at http://www.webopedia.com/TERM/W/Web_beacon.html.
 
-## III. Information Sharing and Disclosure
+(c) Where Technology Information is Collected. Technology Information is collected directly from Quibblo advertisements or indirectly through Publishers that Quibblo contracts with to display advertisements. Such advertisements will usually be displayed within one of the following advertising vehicles:
 
-Personally Identifiable Information: Quibblo.com may share email addresses and other PII with third parties for mail delivery on behalf of Quibblo.com. In these cases, Quibblo.com uses only trusted partners with strong non-disclosure agreements preventing dissemination of the information. This data may also be shared with third parties for merge / purge and address correction, to prevent you from receiving duplicate offers.
+Websites. Quibblo may set a cookie on your computer when you view advertisements delivered on Publisher websites. After a cookie is set, Quibblo may track how you interact with the advertisement and the Publisher website (for example, registering, purchasing, browsing, etc.).
 
-We reserve the right to disclose PII as required by law and when we believe that disclosure is necessary to protect our rights and / or comply with a judicial proceeding, court order, or legal process served upon our company.
+Software Programs. Similar to Websites, Quibblo displays banner advertisements in software programs that you may use.
 
-Non-Personally Identifiable Information: We may share aggregated, non-personally identifiable information about our user base with partners and advertisers.
+Email Databases. Quibblo and/or its partners may track your interaction with email advertisements sent to you (for example, by setting a cookie on your computer) on behalf of Publishers, advertisers or partner websites (for example, when you register, purchase, or browse in response to such email).
 
-## IV. Opt-Out
+1.4 Outside Information. Quibblo may lawfully receive information about you from third parties, such as information located in public databases ("Outside Information").
 
-Quibblo.com also provides various email channels, for site updates and marketing purposes. Such solicitations will include means of opting out of receiving such messages. If you would like to manually request an opt-out, please contact us at privacy@quibblo.com.
+1.5 No Information Collected from Minors. MINORS UNDER THE AGE OF 13 SHOULD NOT PROVIDE ANY PERSONAL INFORMATION, INCLUDING THEIR EMAIL ADDRESS, TO Quibblo. If Quibblo is notified it has personal information about a minor under the age of 13, that information will be promptly deleted from our database.
 
-## V. Third Parties
+1.6 Individual Information. As used herein, Individual Information means User Information, Vendor List Information, Technology Information, Outside Information, and any other information Quibblo lawfully obtains about you.
 
-Quibblo.com may run advertising for third parties, to which a user may sign up. In these instances, signing up for the offer is considered a sign up for a third party. Signing up is completely voluntary. As such, information submitted on those offers may be submitted to the third party.
+**Use of Information and User Data**
 
-Quibblo.com or messages received from Quibblo.com may contain links or embedded code from third parties. Such links and embedded code fall outside the venue of the Quibblo.com privacy policy, and as such, a user should consult these third party sites for their particular policies.
+How we use and share the information we collect.
 
-## VI. Security
+2.1 Discretion to Use Information. Information voluntarily provided to Quibblo or lawfully obtained by Quibblo is the property of Quibblo and may be used by Quibblo for any lawful purpose, including the sale, lease or transfer of the information to Publishers, advertisers and data aggregators, for marketing purposes. If you wish to end your email subscription with us or one of our Publishers, you may follow the instructions at the end of each email message to unsubscribe or follow the instructions detailed at Section 4 below.
 
-Quibblo.com has security measure in place to protect data against loss, misuse, or alteration. Quibblo.com uses industry-standard procedures and guidelines. Only key executives and members of the development team have direct access to information under our control.
+2.2 Targeted Advertising and Information. Quibblo may use Individual Information to target advertising and other information, such as business, weather, entertainment, sports and general news alerts and similar information, more effectively. When an individual is online, Quibblo may use Technology Information to associate an individual with their Individual Information and Quibblo attempts to show information and advertising for products and services to which the person may respond. Quibblo may use data collected from a response to one type of advertising or information for targeting advertisements or other information through a different venue. For example, Quibblo may notice that you responded to a baseball banner advertisement and use that response to deliver a baseball-related advertisement and other information to you.
 
-## PRIVACY POLICY LAST UPDATE:
+2.3 Legal Process. Quibblo may disclose Individual Information to respond to subpoenas, court orders and other legal process as required by law.
 
-This policy was last updated on May 15, 2007.
+2.4 Summary Data. Quibblo may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
-  
+**How we store and protect the information we receive.**
 
+2.5 Storage of Individual Information. Quibblo stores Individual Information in a database on Quibblo computers; the information is maintained and stored in encrypted form. In addition, Quibblo's computers have security measures, such as a firewall, to protect against the loss, misuse, and alteration of the information under Quibblo's control. Quibblo also maintains physical and procedural safeguards to protect Individual Information. Notwithstanding such measures, Quibblo cannot guarantee that its security measures will prevent these computers from being illegally accessed and the Individual Information on them stolen or altered.
+
+**Privacy Practices of Third Parties**
+
+3.1 Advertiser cookies and web beacons. Publishers who place advertisements on the Internet may use their own cookies, web beacons and other technology to collect information about you. Quibblo does not control Publishers' use of such technology. Quibblo may place cookies of its Publishers or advertisers who are under contract with Quibblo, on your computer. These cookies may be placed at the time you open and/or click within email sent by Quibblo or a Publisher under contract with Quibblo. This Policy does not apply to the practices of Publishers or other companies that Quibblo does not own or control or to people that Quibblo does not employ or manage.
+
+3.2 Links. The Publishers' Website and email messages transmitted by Quibblo on its own behalf or on behalf of Publishers may contain hypertext links to the Websites of third parties. Quibblo is not responsible for the privacy practices or the content of such other Websites.
+
+3.3 Affiliated Companies that are not Publishers. Quibblo may disclose or transfer Individual Information to affiliated companies, parent companies, or subsidiaries in Quibblo's discretion.
+
+**How You May Exercise Your Rights**
+
+4.1 Websites. To prevent the display of Publisher or Quibblo advertising on a Website, for example, banner advertisements, do not visit the Website. To only prevent Quibblo from tracking your behavior on a Website, turn off cookies from that Website and do not click on or interact with any advertisements. Please note that Quibblo does not have a mechanism or process to respond to any “do not track” signals which a web browser may send or receive.
+
+4.2 Email Databases. To unsubscribe from Quibblo or Publisher email lists, click the link included in the footer of any message delivered by Quibblo or a Publisher and follow the instructions provided. You may also unsubscribe from emails you signed up for at this Website by visiting http://www.quibblo.com/unsubscribe.
+
+4.3 Software Programs. To prevent software programs from displaying advertisements on your computer, uninstall the software program provided by a Quibblo Publisher by following the instructions included in the privacy policy at the time of installation. Software programs should include an option to uninstall in the "Add/Remove Programs" section of the Windows® operating system, or by visiting the file director of the installed program and running an uninstaller executable.
+
+4.4 Cookies. Check instructions about your web browser to learn how to prevent placement of, or how to remove, cookies placed on your computer by Quibblo.
+
+**More Information**
+
+5.1 For more information about protecting your privacy, you may wish to visit http://www.netcoalition.com and http://www.privacyalliance.org. If you wish to be notified of any updates to this Privacy Policy, please check back frequently as any updates will be posted to Quibblo with a new effective date. If you have questions about this Policy and your rights under this policy, would like access to personal information we may have about you in our files, to correct, update, or to have us delete it, or would like to notify us of your choice to opt out of the sharing of any of your personal information, please write to us at the address below. Please note that, notwithstanding any requests otherwise, Business Information may be retained by us as necessary for business or legal purposes.
+
+**Polarity Technologies Ltd**
+
+Attn: Privacy  
+Nora Court, 3rd floor, office 301  
+Limassol, Cyprus 3040 
