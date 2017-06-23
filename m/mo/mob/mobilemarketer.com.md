@@ -1,72 +1,125 @@
-> *The following text is extracted and transformed from the mobilemarketer.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052458id_/http%3A//www.domainacre.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilemarketer.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623050815id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
 
-# *DomainAcres: Domain Registration, Business Domain Name Sales, and Webhosting - Privacy*
+# Privacy Policy - Industry Dive
 
-[HOME](http://www.domainacre.com/)
+### PRIVACY POLICY
 
-[WEBHOSTING](http://www.domainacre.com/webhosting.htm)
+#### Effective Date: 28 November 2016
 
-[DOMAIN REGISTRATION](http://www.domainacre.com/domainregistration.htm)
+This privacy policy explains how Industry Dive Inc. (“we,” “us,” “our”), affiliates, and subsidiaries, will collect, use, and share the information that you provide to us through your use of our mobile applications and websites that link to this privacy policy (collectively, our “Properties”). Below is a summary of the key provisions in our privacy policy. We encourage you to read the full privacy policy to understand our information practices.
 
-[BUSINESS DOMAIN NAMES](http://www.domainacre.com/4sale.htm)
+When you use our Properties or otherwise interact with us, you may provide personal information (such as contact information). We may also receive personal information about you from third parties. We may collect or allow third parties to collect non-personal information including, for example, information about how you use our Properties and information about your device such as your IP address and location data. To learn more about the information that we collect, please click here.
 
-[DOMAIN NAME VALUE](http://www.domainacre.com/value.htm)
+We may use personal and non-personal information for a variety of purposes, including to maintain security, improve our business, personalize your experience with our Properties, and deliver more relevant advertising. To learn more about how we use your information, please click here.
 
-[DOMAIN RESOURCES](http://www.domainacre.com/resources.htm)
+We may share personal information that we collect with third parties for their direct marketing or other purposes, with affiliates and service providers that help us operate our business, to comply with the law or to respond to legal inquiries, as part of a corporate change like an acquisition or merger, and in other cases. To learn more about how we share your information and the choices you have, please click here.
 
-[DOMAIN ESCROW](http://www.domainacre.com/escrow.htm)
+You can review or request updates to the personal information that you have provided to us. To learn more about reviewing or updating your personal information, please click here.
 
-[CONTACT US](http://www.domainacre.com/contact.htm)
+We may change this privacy policy from time to time. We will post changes in this policy, and suggest that you periodically revisit this policy to stay informed of any changes.
 
-[LINK TO US](http://www.domainacre.com/linktous.htm)
+We may permit third-party services to collect information about your online activities over time and across different websites including to provide more relevant ads to you across the Internet. To learn more about this practice and the choices that you can make, please click here.
 
-[FAQ](http://www.domainacre.com/faq.htm)
+If you have questions regarding our privacy policy, please contact us at: [info@industrydive.com](mailto:info@industrydive.com).
 
-| 
+### Data Collection
 
-> > Domain Acres knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting any of the sites offered by Domain Acres, you are accepting the practices described in this Privacy Notice.** For question on the Privacy Notice please [CONTACT US](http://www.domainacre.com/contact.htm)
->> 
->> **What Personal Information About Customers Does Domain Acres Gather?**
->> 
->> **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, providing our services (e.g., domain name registration, DNS hosting), and communicating with you. **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses our sites. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our Web site, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use.  
+_Personal Information_
 
->> 
->> **What About Cookies?**
->> 
->> Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, Domain Acres utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.
->> 
->> Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. 
->> 
->> 
+When accessing our Properties, you may voluntarily provide personal information during your visit or by contacting us. We may collect this information when you visit our site to read or download information, as well as when you sign up for our newsletters. We may also receive personal information about you from third parties, such as partners, affiliates, service providers, and subsidiaries. We may combine this information with the information that you provide to us.
 
->> 
->> **Does Domain Acres Share the Information It Receives?**
->> 
->> Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent.  
-**WHOIS:** We are required by the Internet Corporation for Assigned Names and Numbers ("ICANN"), the organization that assumes responsibility for domain name allocation, to collect information about you during the domain name registration process. This information includes your full name, mailing address, phone number, email address, and, where provided, your facsimile number. ICANN then requires all registrars to make your full name, mailing address, phone number, email address, and, where provided, your facsimile number, as well as the creation and expiration dates of your domain name registration and the name server information associated with your domain name, to the public via an interactive Web page and a "port 43" WHOIS service. For the purposes of this Privacy Notice we will refer to this information as your "WHOIS Information." Please note that we may not be able to control how members of the public may use the WHOIS Information. **Advertisers:** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. **Partners:** We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. **Agents:** We engage other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide to Domain Acres for any secondary purposes. **Service Providers:** We engage other companies and individuals to perform enhanced services on our behalf. For example, we have engaged Critical Path, Inc. to provide free electronic mail services to our domain name registrants. In addition, certain of our enhanced services such as our Web Site Generator require that we contact Internet directories and various search engines on your behalf. Many of our service providers have access to personal information needed to perform their services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. **Business Transfer:** As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if Domain Acres or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets. **Compliance:** We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of Domain Acres, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
+The personal information that we collect and store may include the following information about you:
 
->> 
->> **How Secure Is Information About Me?**
->> 
->> We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents.  Domain Acres has gone to great lengths to ensure your information is securely obtained and held in compliance with the Card Holder Information Security Program. For example, we encrypt your credit card number before it is stored in our database. This ensures that no one may access your credit card from our system.  It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+Contact information, including your first and last name, email address, and phone number;   
+Occupation information, including your company name, your title, and any other information you directly provide to us via our registration form.
 
->> 
->> **What Information Can I Access?**
->> 
->> Domain Acres gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records. 
+_Non-Personal Information_
 
->> 
->> **Links**
->> 
->> Sites provided by Domain Acres contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+When you use our Properties we may collect various non-personal information, including, but not limited to, the date and time you access our Properties, the website from which you linked to our Property, IP address, Web pages visited, links clicked, your operating system and browser type, and your mobile device identifier. Such information is used for a variety of purposes such as operating and improving our Properties, analyzing demographic and statistical research about website usage, customizing offers, and to monitor the Properties for compliance with our terms of service and the law, as well as other purposes.
 
->> 
->> **Children**
->> 
->> Domain Acres does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian. 
+This non-personal information may be collected through various technologies, including but not limited to cookies and web beacons. To learn more about the use of this information, please see the interest-based advertising section below.
 
->> 
->> **Conditions of Use, Notices, and Revisions**
->> 
->> If you choose to visit Domain Acres, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at Domain Acres, please [ CONTACT US](http://www.domainacre.com/contact.htm), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. 
+_Location Information_
 
+We may also collect geolocation data pertaining to your mobile device, which may be linked to a device identifier or IP address. We may use this information to provide our services to you and to provide more relevant advertising content to you on our Properties. If you do not want to provide your location to us, please use the settings available on your mobile device to limit this sharing. Please note that if you limit sharing of geolocation data, certain features of the mobile application may not work.
+
+Third _Parties_
+
+We may use analytics services provided by third parties, including Google Analytics. To learn more about how Google Analytics collects and processes data and the choices Google may offer to control these activities, you may visit http://www.google.com/intl/en/policies/privacy/partners/.
+
+We may also permit third parties to collect information on our Properties and combine that information with information collected on other non-affiliated websites or applications over time to personalize advertising. Please see below for more information on this practice and your choices.
+
+### Data Use
+
+We may use both personal and non-personal information that we collect from you for the purposes provided in this policy. Among other uses, we may use your information in the following ways:
+
+  * To operate, maintain, and improve our Properties, including to maintain security;
+  * If you identify yourself by sending us an e-mail containing personal information, to respond to your message;
+  * To provide you with more relevant advertising content;
+  * For our statistical, research, recordkeeping, and reporting purposes;
+  * For our own marketing purposes;
+  * To personalize and improve your experience of our Properties;
+  * To monitor our Properties for compliance with our Terms of Service; and
+  * For any other purpose identified at the point of collection.
+
+
+
+### Data Sharing
+
+We may share personal information:
+
+  * With third parties, including for their direct marketing purposes (please see below for your choices related to this sharing);
+  * With our affiliates and with service providers that help us operate our business;
+  * With government entities as needed to provide our services and where required by law; 
+  * As part of an acquisition or merger with another company, a partial or total sale of assets, or another corporate change, including at bankruptcy;
+  * Pursuant to a subpoena, court order, or other legal process;
+  * To investigate, respond to or resolve problems or inquiries (including law enforcement requests) or protect, enforce, or defend our rights, assets and/or interests;
+  * To prevent or respond to a violation of any law, regulation, or our Terms of Service; or
+  * With your consent or as otherwise disclosed at the time of collection.
+
+
+
+### Your Choices
+
+As noted above, we may disclose your information to third parties for their direct marketing purposes. If you would like to opt out of such disclosures, please contact us at info@industrydive.com.
+
+When we send email messages, we include our address, contact information, and a link that you can use to unsubscribe from future messages. You can also go directly to your account profile to manage your subscription preferences.
+
+### Update Personal Information
+
+If you wish to review or update the personal information you have previously provided to us, such as your name or email address, please visit your account profile (which is linked from each of our newsletter emails) to request changes to your personal information.
+
+### Third Party Websites
+
+Our Properties may contain links to third-party websites or mobile applications. Please be aware that we do not control these linked websites and that this Privacy Policy does not apply to those websites. We encourage you to read the privacy policy of any third-party property that you visit before you provide any information to that property’s owner.
+
+### Interest-Based Advertising
+
+We may use third-party advertising companies to serve ads when you visit our Properties. These companies may collect information about your visits to our Properties and other websites and/or apps in order to provide advertisements about goods and services of interest to you. We may also partner with ad networks and other companies that serve ads on behalf of us and others on non-affiliated digital properties. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information these ad networks collect about your visits to our Properties and other non-affiliated web sites or apps over time. In connection with this activity, we adhere to the Digital Advertising Alliance (“DAA”) Self-Regulatory Principles.
+
+You may visit www.aboutads.info/choices to learn more about interest-based advertising and how to opt-out of this form of advertising on your web browser by companies participating in the DAA self-regulatory program.
+
+If you wish to opt-out of interest based advertising in mobile apps on your device by companies that participate in the DAA’s AppChoices app, you may download that app onto your device and exercise your choice. AppChoices is available at the links below:
+
+[DAA AppChoices iOS](https://itunes.apple.com/us/app/appchoices/id894822870?mt=8)  
+[DAA AppChoices Android](https://play.google.com/store/apps/details?id=com.DAA.appchoices&hl=en)  
+[Ad Privacy Manager iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=551047372&mt=8)  
+[Ad Privacy Manager Android](https://play.google.com/store/apps/details?id=com.truste.mobile.consumer&hl=en)
+
+You may also be able to limit data collection by third parties by using your mobile device settings. Please note that electing to opt out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please note that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
+
+### Children
+
+Our Properties are not intended for children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
+
+### Changes to Our Privacy Policy
+
+We may change this privacy policy from time to time. We will post changes in this policy, and suggest that you periodically revisit this policy to stay informed of any changes.
+
+### Security
+
+We take reasonable measures to help protect data we collect from unauthorized access and use.
+
+### Contact Us
+
+If you have questions regarding our privacy policy, please contact us at: [info@industrydive.com](mailto:info@industrydive.com).
