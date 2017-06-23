@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806031446id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623234058id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
 
 # Patelco – Security Center
 
@@ -18,16 +18,13 @@ report and prevent any fraudulent activity.
 |  Current Security Alerts & Notifications   
 ---  
   
+**Text Scam Targeting Debit & Credit Cards**   
+Received a text claiming to be from Patelco and asking you to call? Find out how to protect your card data. [  
+Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Text-Scam/)  
+  
 **Protect Yourself from ATM Skimming**   
 Card skimming is a real threat around the San Francisco Bay Area. Find out how to protect yourself and your card data. [  
 Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/ATM-Skimming/)  
-  
-**Email Scam**   
-You may have received an email with a subject line similar to "Patelco Credit Union Alert {Credit-$5,000,000.00}." [  
-Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Email-Scam)  
-  
-**Changes to Your User ID**   
-You may have received an email from our Information Security Officer asking you to change your Online/Mobile Banking User ID. [Read more >](https://www.patelco.org/Members/Security/UserId-Update/)  
   
 **Security risk for older browsers**   
 Using an Out-of-Date Browser? Find out why it’s important to upgrade now. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Browser-Upgrade/)  
@@ -35,35 +32,11 @@ Using an Out-of-Date Browser? Find out why it’s important to upgrade now. [Rea
 **Patelco Mobile App**   
 Avoid third party app stores to install the Patelco mobile app. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Mobile-Apps/)  
   
-**Cyber Credential Hacking**   
-Patelco systems are safe and have not been compromised. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Cyber-Credential-Hacking/)  
-  
-**New! Expanded Online Banking Security - Multi-Factor Authentication (MFA)**   
-The expansion of our MFA process provides an additional layer of security. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Expanded-MFA/)  
-  
 **Important Online Security Reminders**   
 Keep your personal information current with Patelco, and other important security reminders. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Security-Reminders/)  
   
-**Account Activation Text Scam**   
-Fraudulent text messages are being sent to consumers in an effort to steal personal information. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/CO-OP-Text-Scam-Alert)  
-  
-**Patelco ATM Security**   
-Patelco ATMs are being upgraded with new software. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/ATM-Security/)  
-  
-**Microsoft IE Web Browser Security Bug**   
-Microsoft issued a security advisory warning users of a serious vulnerability in its IE web browser. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Microsoft-IE-BUg/)  
-  
-**OpenSSL "Heartbleed Bug" In The Media**   
-A security vulnerability that can affect some secure Internet websites was recently disclosed. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Heartbleed-Bug/)  
-  
 **NCUA (National Credit Union Administration) Telephone Scam**   
 The NCUA recently issued an alert warning about a new telephone fraud scam. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/NCUA-Vishing-Scam/)  
-  
-**Spoof Website Detected**   
-Please be aware of a website that is imitating our public site for marketing purposes. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Phishing-Site/)  
-  
-**Data Breach At Target & Neiman Marcus Stores**   
-These stores announce unauthorized access to card data. Please watch for unusual account activity. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Data-Breach-Target/)  
   
 **Phishing Scam Alert**   
 Some members have notified us that they are receiving emails asking for Online Banking information. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Phishing-Email/)  
@@ -76,7 +49,7 @@ To report a suspicious email or website, please email us at [abuse@patelco.org](
 
 ### Lost or Stolen Credit/Debit Card
 
-To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4, ext 1301**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
+To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
 
 ### Lost or Stolen Checks
 
@@ -126,7 +99,7 @@ To report a suspicious email or website, please email us at [abuse@patelco.org](
 
 ### Lost or Stolen Credit/Debit Card
 
-To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4, ext 1301**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
+To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
 
 ### Lost or Stolen Checks
 
@@ -144,7 +117,7 @@ At Patelco we protect you with:
 
   * **Fraud monitoring** – We keep track of how your card is used and will block suspicious activity.
   * **Zero Liability Policy** – If your Patelco Credit or Debit Card is lost or stolen and transactions are made, we will not hold you responsible for the transactions, provided you let us know within 60 days.
-  * **Prompt account credit** – Your account will be credited for fraudulent transactions within 3 business days from the date you report it.
+  * **Prompt account credit** – Your account will be credited promptly once our investigation determines your account had a fraudulent transaction.
 
 
 
@@ -190,7 +163,7 @@ To report a suspicious email or website, please email us at [abuse@patelco.org](
 
 ### Lost or Stolen Credit/Debit Card
 
-To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4, ext 1301**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
+To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
 
 ### Lost or Stolen Checks
 
@@ -387,7 +360,7 @@ To report a suspicious email or website, please email us at [abuse@patelco.org](
 
 ### Lost or Stolen Credit/Debit Card
 
-To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4, ext 1301**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
+To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
 
 ### Lost or Stolen Checks
 
@@ -431,23 +404,6 @@ If you discover unauthorized purchases on your account, remember that you are no
   4. File a complaint with the [Federal Trade Commission (FTC)](http://www.ftc.gov/). The FTC maintains a database of identity theft cases used by law enforcement agencies for identity theft investigations.
 
 
-
-### Consider Patelco ID Theft Protection
-
-While no protection plan is 100% fool proof, our Identity Theft Protection program can help prevent identity theft by providing:
-
-  * Daily credit monitoring from a major agency, so you can see who is accessing your credit information
-  * Personal credit reporting, giving you easy access to your Equifax credit profile, including your FICO credit score
-  * Educational Seminars for important tips and information
-  * Up to $25,000 identity theft insurance coverage to recover lost funds 
-
-
-
-Victims of identity fraud often spend thousands of dollars over the course of several years clearing their credit and reputations. Get and stay protected. 
-
-**Our protection plans start at just $24.95 per year for individuals or $44.95 for families, and we have the plan that’s right for you in terms of cost and coverage.**
-
-To learn more about the services mentioned above, visit [Identity Fraud online](https://my.identityfraud.com/patelco), or call **866.4ID.FRAUD** (866.443.3728).
 
 **Phishing emails and spoof websites.**   
 Phishing emails will direct you to a website that resembles Patelco’s website where you will be asked to provide your account information. You may even be asked to call a phone number to provide account information. [See an example of a fraudulent email >](https://www.patelco.org/Privacy-Security/Security-Alerts/Phishing-Email/)
@@ -589,6 +545,18 @@ You could unknowingly become a middleman for criminals trying to launder stolen 
 
 If you are a victim of this type of scam, you may not only have your bank account closed and credit ruined, but you may also be responsible for paying back the stolen funds. 
 
+### SCAM Counterfeit Patelco Cashier’s Checks
+
+**If you suspect you may be in receipt of a suspicious Patelco Credit Union cashier’s check, please call to verify issuance: 800.358.8228.**
+
+Counterfeit cashier’s checks supposedly issued by Patelco Credit Union are in circulation across the United States. There are several variations of the bogus checks, but the most common has the Patelco Credit Union name and logo but also has “San Francisco Fire CU” printed above the signature line. 
+
+Many, but not all, are being mailed by scammers to people selling items over the internet. The cashier’s check is usually made out for several thousand dollars more than the purchase price. The “buyer” requests that the seller immediately wire, via Western Union, the excess funds to a third party “shipping agent” to cover shipping charges for the item purchased. If the seller wires the money as requested, he or she will lose that money when the counterfeit check bounces. Nobody will arrive to claim the purchased item; these scammers are only interested in the cash. 
+
+Other versions of the scam involve phony inheritances, sweepstakes, loans, investments, apartment rentals, and even marriage proposals. If an Internet acquaintance from a foreign country asks you to cash a check and wire the funds as a favor, you are being scammed. 
+
+If you have received a Patelco Credit Union cashier’s check that closely resembles the images found below, we recommend that you NOT DEPOSIT OR ATTEMPT TO CASH THE CHECK UNTIL YOU HAVE VERIFIED ITS AUTHENTICITY. And certainly DO NOT WIRE TRANSFER ANY MONEY TO ANYBODY. If you do receive or see a check that looks like the image below or has a signature that looks like the image below, please contact us immediately at **800.358.8228**. 
+
 | 
 
 ## Reporting Fraud
@@ -599,7 +567,7 @@ To report a suspicious email or website, please email us at [abuse@patelco.org](
 
 ### Lost or Stolen Credit/Debit Card
 
-To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4, ext 1301**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
+To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
 
 ### Lost or Stolen Checks
 
@@ -729,7 +697,7 @@ To report a suspicious email or website, please email us at [abuse@patelco.org](
 
 ### Lost or Stolen Credit/Debit Card
 
-To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4, ext 1301**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
+To report a stolen or lost Credit/Debit Card please call us at **800.358.8228, option 4**. If you are outside of the United States, please call us at **925.468.6300**. Long distance charges may apply.
 
 ### Lost or Stolen Checks
 
