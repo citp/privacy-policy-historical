@@ -1,100 +1,387 @@
-> *The following text is extracted and transformed from the bharattalkies.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharattalkies.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623215937id_/http%3A//bharattalkies.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+**Introduction**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+|  | 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This statement includes: 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * our _collection statement_ , explaining aspects of our collection and use of personal information 
 
-**Information Collection and Use**
+  * our _privacy policy_ , further explaining how we manage personal information. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  
+|  |   
+|  | 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**COLLECTION STATEMENT**  
+  
+|  |   
+  
+**Who we are**
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+|  | 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Dark Blue Sea Pty Ltd ABN 47 091 509 796 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Fabulous.com Pty Ltd ABN 64 094 218 443 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Fabulous Parking Pty Ltd ABN 16 094 225 091 
 
-**Security**
+Roar.com Pty Ltd ABN 99 094 225 064 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Pageseeker.com Pty Ltd ABN 45 090 513 849 
 
-**Updating Your Information**
+Darkblue.com Pty Ltd ABN 14 094 225 082 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Yexa.com Pty Ltd ABN 12 094 225 073 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Whois Privacy Services Pty Ltd ABN 65 133 058 741 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+('the DBS Group', 'we' or 'our')   
+  
+|  |   
+  
+**Our contact details**
 
-      iii.      You may call us at: (480) 505-8800
+|  | 
 
-       iv.      You may fax us at: (480) 505-8844
+  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+  
+|  |   
+  
+**Collection from third party sources**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+|  | 
 
-**Compliance with Laws and Law Enforcement**
+We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * publicly available sources like phone books 
 
-**Third Party Service Providers**
+  * other companies in our group that you may have dealt with 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * third parties like our business partners, your authorised representative/s 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  * information brokers 
 
-**Supplementation of Information**
+  * fraud checking agencies 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
 
-**Contests/Surveys**
+  * our websites and how you use them (through the use of cookies) 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
-**Tell-A-Friend**
+  
+|  |   
+  
+**Collection under law**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+|  | 
 
-**What Happens to my Personal Information if I Opt Out?**
+We may be required to collect personal information in order to comply with the law.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+|  | 
 
-**Transfer of Data Abroad**
+We collect and hold personal information because: 
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+  * we may need to use it to operate our business 
 
-**Changes in Our Practices**
+  * we may need to provide it to other parties in connection with our business. 
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
+  
+|  |   
+  
+**Unavailability of personal information**
 
-* * *
+|  | 
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Access and correction**
+
+|  | 
+
+Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
+  
+|  |   
+|  | 
+
+**PRIVACY POLICY**  
+  
+|  |   
+  
+**Personal information**
+
+|  | 
+
+This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
+  
+|  |   
+  
+**Kinds of personal information we collect and hold**
+
+|  | 
+
+Broadly, we may collect and hold: 
+
+  * _personal details_ like name, date of birth, gender, and occupation 
+
+  * _contact details_ like physical, postal, work and email addresses and phone numbers 
+
+  * _financial details_ like credit card numbers and your billing and payment history with us 
+
+  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
+
+  * _other details_ relating to special situations. 
+
+
+
+
+In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
+  
+|  |   
+  
+**Collecting personal information**
+
+|  | 
+
+Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
+
+In other cases, we may collect personal information about you from: 
+
+  * publicly available sources like phone books 
+
+  * other companies in our group that you may have dealt with 
+
+  * third parties like our business partners, your authorised representative/s 
+
+  * information brokers 
+
+  * fraud checking agencies 
+
+  * our affiliates, resellers, contractors and other representatives that you may deal with 
+
+  * our websites and how you use them (through the use of cookies) 
+
+  * various parties listed under _Disclosing personal information_ below. 
+
+
+  
+|  |   
+  
+**Holding personal information**
+
+|  | 
+
+We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
+  
+|  |   
+  
+**Why we collect and hold personal information**
+
+|  | 
+
+We collect and hold personal information because: 
+
+  * we may need to use it to operate our business 
+
+  * we may need to provide it to other parties in connection with our business. 
+
+
+  
+|  |   
+  
+**Using personal information**
+
+|  | 
+
+We may use personal information: 
+
+  * to identify you 
+
+  * for credit checks 
+
+  * to prevent fraud 
+
+  * to supply products (including goods and/or services) to you 
+
+  * to give you information about us and our products, and product offers 
+
+  * for direct marketing – see _Direct marketing_ for details 
+
+  * to improve our products, our marketing and our website 
+
+  * to answer your enquiries 
+
+  * to give you customer support and service 
+
+  * to better understand your needs and respond to them 
+
+  * to manage and plan our products and business 
+
+  * to charge and bill you for products you use 
+
+  * to collect payment from you or make payment to you 
+
+  * to monitor, manage, test and improve our network and facilities 
+
+  * to comply with various laws or contractual obligations that apply to us 
+
+  * for other purposes related to the operation of our business. 
+
+
+  
+|  |   
+  
+**Disclosing personal information**
+
+|  | 
+
+We may disclose personal information as reasonably required: 
+
+  * to contractors and suppliers who supply or support us in: 
+
+    * market research, sales and marketing 
+
+    * direct marketing – see _Direct marketing_ for details 
+
+    * identity and fraud checking 
+
+    * credit management 
+
+    * service provisioning 
+
+    * installation, maintenance and repairs 
+
+    * helpdesk and enquiries 
+
+    * support and complaint management 
+
+    * communications and mailing 
+
+    * billing, debt recovery and credit management 
+
+    * network and product design and maintenance 
+
+    * corporate strategy 
+
+    * legal and regulatory advice and compliance 
+
+    * accounting and financial planning 
+
+    * risk management 
+
+    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
+
+  * to your authorised representative/s 
+
+  * to identify you as a registrant of a domain name in publicly available Whois record 
+
+  * if you ask us to do so 
+
+  * to our agents, resellers, affiliates and members of our corporate group 
+
+  * to our business partners and wholesale suppliers 
+
+  * to organisations that provide credit or finance to us 
+
+  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
+
+
+
+
+Some of these parties may be based overseas eg America.  
+  
+|  |   
+  
+**Direct marketing**
+
+|  | 
+
+We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
+
+  * post 
+
+  * email 
+
+  * electronic messaging 
+
+  * social media 
+
+  * targeted web content 
+
+  * other direct marketing channels. 
+
+
+
+
+Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
+  
+|  |   
+  
+**Accessing and correcting personal information**
+
+|  | 
+
+Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
+  
+|  |   
+  
+**Complaints**
+
+|  | 
+
+If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
+
+  * acknowledge your complaint within a reasonable time 
+
+  * give you an estimated first response time 
+
+  * allocate your complaint to a suitably senior staff member 
+
+  * process and respond to your complaint as soon as we reasonably can. 
+
+
+  
+|  |   
+  
+**Contacting us**
+
+|  | 
+
+Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, Level 2, 100 Harris Street, Pyrmont, NSW 2009. 
