@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binarynote.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122174234id_/http%3A//www.binarynote.com/rakesh-kumar) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binarynote.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623084740id_/http%3A//www.binarynote.com/rakesh-kumar) for the most accurate reproduction.*
 
 # Privacy Policy for binarynote.com users
 
