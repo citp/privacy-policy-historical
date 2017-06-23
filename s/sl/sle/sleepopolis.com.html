@@ -1,82 +1,86 @@
-<!--The following is the downloaded HTML source of the sleepopolis.com privacy policy that was archived on 2016-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161121110849id_/http%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sleepopolis.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623172835id_/http%3A//sleepopolis.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="js"><!--<![endif]--><head>
-<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KKTD32"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
-<link rel="pingback" href="http://sleepopolis.com/xmlrpc.php">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="pingback" href="https://sleepopolis.com/xmlrpc.php">
 <!--[if lt IE 9]>
-	<script src="http://sleepopolis.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
+	<script src="https://sleepopolis.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"></script>
 	<![endif]-->
-<script type="text/javascript">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KKTD32"></script><script type="text/javascript">
 		document.documentElement.className = 'js';
 	</script>
 <title>Privacy Policy | Sleepopolis</title>
  
-<link rel="canonical" href="http://sleepopolis.com/privacy-policy/">
+<meta name="description" content="Important information regarding the privacy policies for Sleepopolis.com.">
+<link rel="canonical" href="https://sleepopolis.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/+Sleepopolis-mattress-reviews">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy | Sleepopolis">
-<meta property="og:description" content="Sleepopolis does not share personal information with third-parties nor does Sleepopolis.com store information collected about your visit for use other than to analyze web site performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. The owner is not responsible for the republishing of the content …">
-<meta property="og:url" content="http://sleepopolis.com/privacy-policy/">
+<meta property="og:description" content="Important information regarding the privacy policies for Sleepopolis.com.">
+<meta property="og:url" content="https://sleepopolis.com/privacy-policy/">
 <meta property="og:site_name" content="Sleepopolis">
 <meta property="article:publisher" content="https://www.facebook.com/sleepopolis/">
-<meta property="og:image" content="http://sleepopolis.com/wp-content/uploads/2016/03/Sleepopolis-Logo.png">
+<meta property="og:image" content="https://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:description" content="Sleepopolis does not share personal information with third-parties nor does Sleepopolis.com store information collected about your visit for use other than to analyze web site performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. The owner is not responsible for the republishing of the content […]">
+<meta name="twitter:description" content="Important information regarding the privacy policies for Sleepopolis.com.">
 <meta name="twitter:title" content="Privacy Policy | Sleepopolis">
 <meta name="twitter:site" content="@sleepopolis">
-<meta name="twitter:image" content="http://sleepopolis.com/wp-content/uploads/2016/03/Sleepopolis-Logo.png">
+<meta name="twitter:image" content="https://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large.png">
 <meta name="twitter:creator" content="@sleepopolis">
  
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Sleepopolis » Feed" href="http://sleepopolis.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Sleepopolis » Comments Feed" href="http://sleepopolis.com/comments/feed/">
-<link rel="alternate" type="application/rss+xml" title="Sleepopolis » Privacy Policy Comments Feed" href="http://sleepopolis.com/privacy-policy/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sleepopolis » Feed" href="https://sleepopolis.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sleepopolis » Comments Feed" href="https://sleepopolis.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Sleepopolis » Privacy Policy Comments Feed" href="https://sleepopolis.com/privacy-policy/feed/">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/sleepopolis.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://sleepopolis.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sleepopolis.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://sleepopolis.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8" type="text/javascript" defer=""></script>
 <meta content="Divi Child Theme v.1.0.0" name="generator"><style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="contact-form-7-css" href="http://sleepopolis.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5.1" type="text/css" media="all">
-<link rel="stylesheet" id="gglcptch-css" href="http://sleepopolis.com/wp-content/plugins/google-captcha/css/gglcptch.css?ver=1.27" type="text/css" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://sleepopolis.com/wp-content/plugins/popup-maker/assets/css/site.min.css?ver=1.6.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://sleepopolis.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="gglcptch-css" href="https://sleepopolis.com/wp-content/plugins/google-captcha/css/gglcptch.css?ver=1.30" type="text/css" media="all">
 <link rel="stylesheet" id="et-gf-open-sans-css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" media="all">
-<link rel="stylesheet" id="et_monarch-css-css" href="http://sleepopolis.com/wp-content/plugins/monarch/css/style.css?ver=1.3.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp_review-style-css" href="http://sleepopolis.com/wp-content/plugins/wp-review/assets/css/wp-review.css?ver=4.0.6" type="text/css" media="all">
+<link rel="stylesheet" id="et_monarch-css-css" href="https://sleepopolis.com/wp-content/plugins/monarch/css/style.css?ver=1.3.6" type="text/css" media="all">
+<link rel="stylesheet" id="wp_review-style-css" href="https://sleepopolis.com/wp-content/plugins/wp-review/assets/css/wp-review.css?ver=4.0.6" type="text/css" media="all">
 <link rel="stylesheet" id="divi-fonts-css" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext" type="text/css" media="all">
-<link rel="stylesheet" id="divi-style-css" href="http://sleepopolis.com/wp-content/themes/divi-child/style.css?ver=3.0.17" type="text/css" media="all">
-<link rel="stylesheet" id="tablepress-responsive-tables-css" href="http://sleepopolis.com/wp-content/plugins/tablepress-responsive-tables/css/responsive.dataTables.min.css?ver=1.3" type="text/css" media="all">
-<link rel="stylesheet" id="tablepress-default-css" href="http://sleepopolis.com/wp-content/tablepress-combined.min.css?ver=25" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-css-css" href="http://sleepopolis.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0.17" type="text/css" media="all">
-<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="http://sleepopolis.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0.17" type="text/css" media="all">
-<link rel="stylesheet" id="magnific-popup-css" href="http://sleepopolis.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.0.17" type="text/css" media="all">
+<link rel="stylesheet" id="divi-style-css" href="https://sleepopolis.com/wp-content/themes/divi-child/style.css?ver=3.0.51" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-responsive-tables-css" href="https://sleepopolis.com/wp-content/plugins/tablepress-responsive-tables/css/responsive.dataTables.min.css?ver=1.4" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="https://sleepopolis.com/wp-content/tablepress-combined.min.css?ver=32" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-css-css" href="https://sleepopolis.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes.css?ver=3.0.51" type="text/css" media="all">
+<link rel="stylesheet" id="et-shortcodes-responsive-css-css" href="https://sleepopolis.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0.51" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="https://sleepopolis.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=3.0.51" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://sleepopolis.com/wp-includes/css/dashicons.min.css?ver=4.8" type="text/css" media="all">
 <!--[if !IE]><!-->
-<link rel="stylesheet" id="tablepress-responsive-tables-flip-css" href="http://sleepopolis.com/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive-flip.min.css?ver=1.3" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-responsive-tables-flip-css" href="https://sleepopolis.com/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive-flip.min.css?ver=1.4" type="text/css" media="all">
 <!--<![endif]-->
-<script type="text/javascript" src="http://sleepopolis.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<link rel="https://api.w.org/" href="http://sleepopolis.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sleepopolis.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sleepopolis.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.6.1">
-<link rel="shortlink" href="http://sleepopolis.com/?p=55">
-<link rel="alternate" type="application/json+oembed" href="http://sleepopolis.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://sleepopolis.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;format=xml">
+<script type="text/javascript" src="https://sleepopolis.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<link rel="https://api.w.org/" href="https://sleepopolis.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sleepopolis.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://sleepopolis.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.8">
+<link rel="shortlink" href="https://sleepopolis.com/?p=55">
+<link rel="alternate" type="application/json+oembed" href="https://sleepopolis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://sleepopolis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;format=xml">
 <style type="text/css" id="et-social-custom-css"></style><!--[if IE 7]>
-<link rel="stylesheet" href="http://sleepopolis.com/wp-content/plugins/wp-review/assets/css/wp-review-ie7.css">
+<link rel="stylesheet" href="https://sleepopolis.com/wp-content/plugins/wp-review/assets/css/wp-review-ie7.css">
 <![endif]-->
-<style type="text/css" id="et-bloom-custom-css">.et_bloom .et_bloom_optin_7 .et_bloom_form_content{background-color:#333333!important;}.et_bloom .et_bloom_optin_7 .et_bloom_form_content button{background-color:#0087b4!important;}.et_bloom .et_bloom_optin_7 .et_bloom_form_content button{background-color:#0087b4!important;}.et_bloom .et_bloom_optin_7 h2,.et_bloom .et_bloom_optin_7 h2 span,.et_bloom .et_bloom_optin_7 h2 strong{font-family:"Open Sans",Helvetica,Arial,Lucida,sans-serif;}.et_bloom .et_bloom_optin_7 p,.et_bloom .et_bloom_optin_7 p span,.et_bloom .et_bloom_optin_7 p strong,.et_bloom .et_bloom_optin_7 form input,.et_bloom .et_bloom_optin_7 form button span{font-family:"Open Sans",Helvetica,Arial,Lucida,sans-serif;}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> <style id="theme-customizer-css">.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-message,.woocommerce-error,.woocommerce-info{background:#0087b4!important;}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.woocommerce div.product span.price,.woocommerce-page div.product span.price,.woocommerce #content div.product span.price,.woocommerce-page #content div.product span.price,.woocommerce div.product p.price,.woocommerce-page div.product p.price,.woocommerce #content div.product p.price,.woocommerce-page #content div.product p.price,.et_pb_member_social_links a:hover,.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.posted_in a{color:#0087b4;}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit input,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.woocommerce a.button.alt,.woocommerce-page a.button.alt,.woocommerce button.button.alt,.woocommerce-page button.button.alt,.woocommerce input.button.alt,.woocommerce-page input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce-page #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button{color:#0087b4;}.footer-widget h4{color:#0087b4;}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#0087b4;}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container{background-color:#0087b4;}a{color:#0087b4;}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#1d2b33;}#top-header,#et-secondary-nav li ul{background-color:#0087b4;}#top-header,#top-header a{color:rgba(0,0,0,0.7);}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff;}.et_search_form_container input::-moz-placeholder{color:#ffffff;}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff;}.et_search_form_container input:-ms-input-placeholder{color:#ffffff;}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,.et_color_scheme_red #top-menu li.current-menu-ancestor>a,.et_color_scheme_red #top-menu li.current-menu-item>a,.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,.et_color_scheme_pink #top-menu li.current-menu-item>a,.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,.et_color_scheme_orange #top-menu li.current-menu-item>a,.et_color_scheme_green #top-menu li.current-menu-ancestor>a,.et_color_scheme_green #top-menu li.current-menu-item>a{color:#0087b4;}#main-footer{background-color:#1d2b33;}#main-footer .footer-widget h4{color:#0087b4;}.footer-widget li:before{border-color:#0087b4;}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:#ffffff;}#et-footer-nav .bottom-nav li.current-menu-item a{color:#ffffff;}#footer-info,#footer-info a{color:#ffffff;}#footer-bottom .et-social-icon a{color:#ffffff;}@media only screen and ( min-width: 981px ) {.et_header_style_centered #logo{max-height:54%;}.et_pb_svg_logo.et_header_style_centered #logo{height:54%;}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:11.88px;}.et-fixed-header#top-header,.et-fixed-header#top-header #et-secondary-nav li ul{background-color:#0087b4;}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#ffffff!important;}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#ffffff!important;}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#ffffff!important;}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#ffffff!important;}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a{color:#0087b4!important;}.et-fixed-header#top-header a{color:rgba(0,0,0,0.7);}}@media only screen and ( min-width: 1350px) {.et_pb_row{padding:27px 0;}.et_pb_section{padding:54px 0;}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px;}.et_pb_section.et_pb_section_first{padding-top:inherit;}.et_pb_fullwidth_section{padding:0;}}@media only screen and ( max-width: 980px ) {}@media only screen and ( max-width: 767px ) {}</style>
+<style type="text/css" id="et-bloom-custom-css">.et_bloom .et_bloom_optin_7 .et_bloom_form_content{background-color:#333333!important;}.et_bloom .et_bloom_optin_7 .et_bloom_form_content button{background-color:#0087b4!important;}.et_bloom .et_bloom_optin_7 .et_bloom_form_content button{background-color:#0087b4!important;}.et_bloom .et_bloom_optin_7 .et_bloom_form_container h2,.et_bloom .et_bloom_optin_7 .et_bloom_form_container h2 span,.et_bloom .et_bloom_optin_7 .et_bloom_form_container h2 strong{font-family:"Open Sans",Helvetica,Arial,Lucida,sans-serif;}.et_bloom .et_bloom_optin_7 .et_bloom_form_container p,.et_bloom .et_bloom_optin_7 .et_bloom_form_container p span,.et_bloom .et_bloom_optin_7 .et_bloom_form_container p strong,.et_bloom .et_bloom_optin_7 .et_bloom_form_container form input,.et_bloom .et_bloom_optin_7 .et_bloom_form_container form button span{font-family:"Open Sans",Helvetica,Arial,Lucida,sans-serif;}</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"> <style id="theme-customizer-css">.woocommerce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-message,.woocommerce-error,.woocommerce-info{background:#0087b4!important;}#et_search_icon:hover,.mobile_menu_bar:before,.mobile_menu_bar:after,.et_toggle_slide_menu:after,.et-social-icon a:hover,.et_pb_sum,.et_pb_pricing li a,.et_pb_pricing_table_button,.et_overlay:before,.entry-summary p.price ins,.woocommerce div.product span.price,.woocommerce-page div.product span.price,.woocommerce #content div.product span.price,.woocommerce-page #content div.product span.price,.woocommerce div.product p.price,.woocommerce-page div.product p.price,.woocommerce #content div.product p.price,.woocommerce-page #content div.product p.price,.et_pb_member_social_links a:hover,.woocommerce .star-rating span:before,.woocommerce-page .star-rating span:before,.et_pb_widget li a:hover,.et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active,.et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active,.et_pb_gallery .et_pb_gallery_pagination ul li a.active,.wp-pagenavi span.current,.wp-pagenavi a:hover,.nav-single a,.posted_in a{color:#0087b4;}.et_pb_contact_submit,.et_password_protected_form .et_submit_button,.et_pb_bg_layout_light .et_pb_newsletter_button,.comment-reply-link,.form-submit .et_pb_button,.et_pb_bg_layout_light .et_pb_promo_button,.et_pb_bg_layout_light .et_pb_more_button,.woocommerce a.button.alt,.woocommerce-page a.button.alt,.woocommerce button.button.alt,.woocommerce-page button.button.alt,.woocommerce input.button.alt,.woocommerce-page input.button.alt,.woocommerce #respond input#submit.alt,.woocommerce-page #respond input#submit.alt,.woocommerce #content input.button.alt,.woocommerce-page #content input.button.alt,.woocommerce a.button,.woocommerce-page a.button,.woocommerce button.button,.woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.et_pb_contact p input[type="checkbox"]:checked+label i:before{color:#0087b4;}.footer-widget h4{color:#0087b4;}.et-search-form,.nav li ul,.et_mobile_menu,.footer-widget li:before,.et_pb_pricing li:before,blockquote{border-color:#0087b4;}.et_pb_counter_amount,.et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content,.et_pb_post_slider.et_pb_bg_layout_dark,.et_slide_in_menu_container,.et_pb_contact p input[type="radio"]:checked+label i:before{background-color:#0087b4;}a{color:#0087b4;}#main-header,#main-header .nav li ul,.et-search-form,#main-header .et_mobile_menu{background-color:#1d2b33;}#top-header,#et-secondary-nav li ul{background-color:#0087b4;}#top-header,#top-header a{color:rgba(0,0,0,0.7);}.et_header_style_centered .mobile_nav .select_page,.et_header_style_split .mobile_nav .select_page,.et_nav_text_color_light #top-menu>li>a,.et_nav_text_color_dark #top-menu>li>a,#top-menu a,.et_mobile_menu li a,.et_nav_text_color_light .et_mobile_menu li a,.et_nav_text_color_dark .et_mobile_menu li a,#et_search_icon:before,.et_search_form_container input,span.et_close_search_field:after,#et-top-navigation .et-cart-info{color:#ffffff;}.et_search_form_container input::-moz-placeholder{color:#ffffff;}.et_search_form_container input::-webkit-input-placeholder{color:#ffffff;}.et_search_form_container input:-ms-input-placeholder{color:#ffffff;}#top-menu li.current-menu-ancestor>a,#top-menu li.current-menu-item>a,.et_color_scheme_red #top-menu li.current-menu-ancestor>a,.et_color_scheme_red #top-menu li.current-menu-item>a,.et_color_scheme_pink #top-menu li.current-menu-ancestor>a,.et_color_scheme_pink #top-menu li.current-menu-item>a,.et_color_scheme_orange #top-menu li.current-menu-ancestor>a,.et_color_scheme_orange #top-menu li.current-menu-item>a,.et_color_scheme_green #top-menu li.current-menu-ancestor>a,.et_color_scheme_green #top-menu li.current-menu-item>a{color:#0087b4;}#main-footer{background-color:#1d2b33;}#main-footer .footer-widget h4{color:#0087b4;}.footer-widget li:before{border-color:#0087b4;}.bottom-nav,.bottom-nav a,.bottom-nav li.current-menu-item a{color:#ffffff;}#et-footer-nav .bottom-nav li.current-menu-item a{color:#ffffff;}#footer-info,#footer-info a{color:#ffffff;}#footer-bottom .et-social-icon a{color:#ffffff;}@media only screen and ( min-width: 981px ) {.et_header_style_centered #logo{max-height:54%;}.et_pb_svg_logo.et_header_style_centered #logo{height:54%;}.et_header_style_centered.et_hide_primary_logo #main-header:not(.et-fixed-header) .logo_container,.et_header_style_centered.et_hide_fixed_logo #main-header.et-fixed-header .logo_container{height:11.88px;}.et-fixed-header#top-header,.et-fixed-header#top-header #et-secondary-nav li ul{background-color:#0087b4;}.et-fixed-header #top-menu a,.et-fixed-header #et_search_icon:before,.et-fixed-header #et_top_search .et-search-form input,.et-fixed-header .et_search_form_container input,.et-fixed-header .et_close_search_field:after,.et-fixed-header #et-top-navigation .et-cart-info{color:#ffffff!important;}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#ffffff!important;}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#ffffff!important;}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#ffffff!important;}.et-fixed-header #top-menu li.current-menu-ancestor>a,.et-fixed-header #top-menu li.current-menu-item>a{color:#0087b4!important;}.et-fixed-header#top-header a{color:rgba(0,0,0,0.7);}}@media only screen and ( min-width: 1350px) {.et_pb_row{padding:27px 0;}.et_pb_section{padding:54px 0;}.single.et_pb_pagebuilder_layout.et_full_width_page .et_post_meta_wrapper{padding-top:81px;}.et_pb_section.et_pb_section_first{padding-top:inherit;}.et_pb_fullwidth_section{padding:0;}}@media only screen and ( max-width: 980px ) {}@media only screen and ( max-width: 767px ) {}</style>
 <style id="module-customizer-css"></style>
-<link rel="shortcut icon" href="http://sleepopolis.com/wp-content/uploads/2016/08/favicon.ico"><meta name="google-site-verification" content="o3Mjkg6BGT2me3LJoU207ujxUDgJbC6uBziJTOya768">
+<link rel="shortcut icon" href="https://sleepopolis.com/wp-content/uploads/2016/08/favicon.ico"><meta name="google-site-verification" content="o3Mjkg6BGT2me3LJoU207ujxUDgJbC6uBziJTOya768">
 <meta name="p:domain_verify" content="fdc48e5b7c497b6bb26890de551f8e5b">
-<link rel="icon" href="http://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-32x32.jpg" sizes="32x32">
-<link rel="icon" href="http://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-192x192.jpg" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="http://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-180x180.jpg">
-<meta name="msapplication-TileImage" content="http://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-270x270.jpg">
-<link rel="alternate" href="http://sleepopolis.com/privacy-policy/" hreflang="en-us">
-<link rel="alternate" href="http://sleepopolis.co.uk/privacy-policy/" hreflang="en-gb"></head>
-<body class="page page-id-55 page-template-default et_monarch et_bloom et_pb_button_helper_class et_fixed_nav et_show_nav et_hide_fixed_logo et_cover_background et_secondary_nav_enabled et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_centered et_right_sidebar et_divi_theme unknown">
+<link rel="icon" href="https://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-32x32.jpg" sizes="32x32">
+<link rel="icon" href="https://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-192x192.jpg" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-180x180.jpg">
+<meta name="msapplication-TileImage" content="https://sleepopolis.com/wp-content/uploads/2016/08/cropped-sleepopolis-icon-large-270x270.jpg">
+<link rel="alternate" href="https://sleepopolis.com/privacy-policy/" hreflang="en-us">
+<link rel="alternate" href="https://sleepopolis.co.uk/privacy-policy/" hreflang="en-gb"> <style id="pum-styles" type="text/css">@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');.pum-theme-16481,.pum-theme-framed-border{background-color:rgba(255,255,255,0.50)}.pum-theme-16481 .pum-container,.pum-theme-framed-border .pum-container{padding:18px;border-radius:0px;border:20px outset #dd3333;box-shadow:1px 1px 3px 0px rgba(2,2,2,0.97) inset;background-color:rgba(255,251,239,1.00)}.pum-theme-16481 .pum-title,.pum-theme-framed-border .pum-title{color:#000000;text-align:left;text-shadow:0px 0px 0px rgba(2,2,2,0.23);font-family:inherit;font-size:32px;line-height:36px}.pum-theme-16481 .pum-content,.pum-theme-framed-border .pum-content{color:#2d2d2d;font-family:inherit}.pum-theme-16481 .pum-content+.pum-close,.pum-theme-framed-border .pum-content+.pum-close{height:20px;width:20px;left:auto;right:-20px;bottom:auto;top:-20px;padding:0px;color:#ffffff;font-family:Acme;font-size:20px;line-height:20px;border:1px none #ffffff;border-radius:0px;box-shadow:0px 0px 0px 0px rgba(2,2,2,0.23);text-shadow:0px 0px 0px rgba(0,0,0,0.23);background-color:rgba(0,0,0,0.55)}.pum-theme-16480,.pum-theme-cutting-edge{background-color:rgba(0,0,0,0.50)}.pum-theme-16480 .pum-container,.pum-theme-cutting-edge .pum-container{padding:18px;border-radius:0px;border:1px none #000000;box-shadow:0px 10px 25px 0px rgba(2,2,2,0.50);background-color:rgba(29,43,51,1.00)}.pum-theme-16480 .pum-title,.pum-theme-cutting-edge .pum-title{color:#ffffff;text-align:left;text-shadow:0px 0px 0px rgba(29,43,51,0.23);font-family:Sans-Serif;font-size:26px;line-height:28px}.pum-theme-16480 .pum-content,.pum-theme-cutting-edge .pum-content{color:#ffffff;font-family:inherit}.pum-theme-16480 .pum-content+.pum-close,.pum-theme-cutting-edge .pum-content+.pum-close{height:24px;width:24px;left:auto;right:0px;bottom:auto;top:0px;padding:0px;color:#ffffff;font-family:inherit;font-size:32px;line-height:24px;border:1px none #ffffff;border-radius:0px;box-shadow:-1px 1px 1px 0px rgba(29,43,51,0.10);text-shadow:-1px 1px 1px rgba(29,43,51,0.10);background-color:rgba(0,135,180,1.00)}.pum-theme-16479,.pum-theme-hello-box{background-color:rgba(0,0,0,0.75)}.pum-theme-16479 .pum-container,.pum-theme-hello-box .pum-container{padding:30px;border-radius:80px;border:14px solid #81d742;box-shadow:0px 0px 0px 0px rgba(2,2,2,0.00);background-color:rgba(255,255,255,1.00)}.pum-theme-16479 .pum-title,.pum-theme-hello-box .pum-title{color:#2d2d2d;text-align:left;text-shadow:0px 0px 0px rgba(2,2,2,0.23);font-family:Montserrat;font-size:32px;line-height:36px}.pum-theme-16479 .pum-content,.pum-theme-hello-box .pum-content{color:#2d2d2d;font-family:inherit}.pum-theme-16479 .pum-content+.pum-close,.pum-theme-hello-box .pum-content+.pum-close{height:auto;width:auto;left:auto;right:-30px;bottom:auto;top:-30px;padding:0px;color:#2d2d2d;font-family:inherit;font-size:32px;line-height:28px;border:1px none #ffffff;border-radius:28px;box-shadow:0px 0px 0px 0px rgba(2,2,2,0.23);text-shadow:0px 0px 0px rgba(0,0,0,0.23);background-color:rgba(255,255,255,1.00)}.pum-theme-16478,.pum-theme-enterprise-blue{background-color:rgba(0,0,0,0.70)}.pum-theme-16478 .pum-container,.pum-theme-enterprise-blue .pum-container{padding:28px;border-radius:5px;border:1px none #000000;box-shadow:0px 10px 25px 4px rgba(2,2,2,0.50);background-color:rgba(255,255,255,1.00)}.pum-theme-16478 .pum-title,.pum-theme-enterprise-blue .pum-title{color:#315b7c;text-align:left;text-shadow:0px 0px 0px rgba(2,2,2,0.23);font-family:inherit;font-size:34px;line-height:36px}.pum-theme-16478 .pum-content,.pum-theme-enterprise-blue .pum-content{color:#2d2d2d;font-family:inherit}.pum-theme-16478 .pum-content+.pum-close,.pum-theme-enterprise-blue .pum-content+.pum-close{height:28px;width:28px;left:auto;right:8px;bottom:auto;top:8px;padding:4px;color:#ffffff;font-family:inherit;font-size:20px;line-height:20px;border:1px none #ffffff;border-radius:42px;box-shadow:0px 0px 0px 0px rgba(2,2,2,0.23);text-shadow:0px 0px 0px rgba(0,0,0,0.23);background-color:rgba(49,91,124,1.00)}.pum-theme-16477,.pum-theme-lightbox{background-color:rgba(0,0,0,0.60)}.pum-theme-16477 .pum-container,.pum-theme-lightbox .pum-container{padding:18px;border-radius:3px;border:8px solid #000000;box-shadow:0px 0px 30px 0px rgba(2,2,2,1.00);background-color:rgba(255,255,255,1.00)}.pum-theme-16477 .pum-title,.pum-theme-lightbox .pum-title{color:#000000;text-align:left;text-shadow:0px 0px 0px rgba(2,2,2,0.23);font-family:inherit;font-size:32px;line-height:36px}.pum-theme-16477 .pum-content,.pum-theme-lightbox .pum-content{color:#000000;font-family:inherit}.pum-theme-16477 .pum-content+.pum-close,.pum-theme-lightbox .pum-content+.pum-close{height:30px;width:30px;left:auto;right:-24px;bottom:auto;top:-24px;padding:0px;color:#ffffff;font-family:inherit;font-size:24px;line-height:26px;border:2px solid #ffffff;border-radius:30px;box-shadow:0px 0px 15px 1px rgba(2,2,2,0.75);text-shadow:0px 0px 0px rgba(0,0,0,0.23);background-color:rgba(0,0,0,1.00)}.pum-theme-16476,.pum-theme-default-theme{background-color:rgba(255,255,255,1.00)}.pum-theme-16476 .pum-container,.pum-theme-default-theme .pum-container{padding:18px;border-radius:0px;border:1px none #000000;box-shadow:1px 1px 3px 0px rgba(2,2,2,0.23);background-color:rgba(249,249,249,1.00)}.pum-theme-16476 .pum-title,.pum-theme-default-theme .pum-title{color:#000000;text-align:left;text-shadow:0px 0px 0px rgba(2,2,2,0.23);font-family:inherit;font-weight:inherit;font-size:32px;font-style:normal;line-height:36px}.pum-theme-16476 .pum-content,.pum-theme-default-theme .pum-content{color:#8c8c8c;font-family:inherit;font-weight:inherit;font-style:normal}.pum-theme-16476 .pum-content+.pum-close,.pum-theme-default-theme .pum-content+.pum-close{height:auto;width:auto;left:auto;right:0px;bottom:auto;top:0px;padding:8px;color:#ffffff;font-family:inherit;font-weight:inherit;font-size:12px;font-style:normal;line-height:14px;border:1px none #ffffff;border-radius:0px;box-shadow:0px 0px 0px 0px rgba(2,2,2,0.23);text-shadow:0px 0px 0px rgba(0,0,0,0.23);background-color:rgba(0,183,205,1.00)}</style></head>
+<body class="page-template-default page page-id-55 et_monarch et_bloom et_pb_button_helper_class et_fixed_nav et_show_nav et_hide_fixed_logo et_cover_background et_secondary_nav_enabled et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_slide et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_centered et_right_sidebar et_divi_theme unknown">
 <div id="page-container">
 <div id="top-header">
 <div class="container clearfix">
@@ -98,7 +102,7 @@
 </a>
 </li>
 <li class="et-social-icon et-social-rss">
-<a href="http://sleepopolis.com/feed/" class="icon">
+<a href="https://sleepopolis.com/feed/" class="icon">
 <span>RSS</span>
 </a>
 </li>
@@ -109,375 +113,421 @@
 <div class="container clearfix et_menu_container">
 <div class="logo_container">
 <span class="logo_helper"></span>
-<a href="http://sleepopolis.com/">
-<img src="http://sleepopolis.com/wp-content/uploads/2016/08/sleepopolis-logo2.png" alt="Sleepopolis" id="logo" data-height-percentage="54">
+<a href="https://sleepopolis.com/">
+<img src="https://sleepopolis.com/wp-content/uploads/2016/11/sleepopolis-logo5.png" alt="Sleepopolis" id="logo" data-height-percentage="54">
 </a>
 </div>
 <div id="et-top-navigation" data-height="66" data-fixed-height="40">
 <nav id="top-menu-nav">
-<ul id="top-menu" class="nav"><li id="menu-item-262" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-262"><a href="http://sleepopolis.com/mattress-reviews/">Mattress Reviews</a>
+<ul id="top-menu" class="nav"><li id="menu-item-262" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-262"><a href="https://sleepopolis.com/mattress-reviews/">Mattress Reviews</a>
 <ul class="sub-menu">
-<li id="menu-item-7475" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7475"><a href="#">&lt;$849</a>
-	<ul class="sub-menu">
-		<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a title="Leesa Mattress Review" href="http://sleepopolis.com/mattress-reviews/leesa-mattress-review/">Leesa Mattress Review</a></li>
-		<li id="menu-item-1809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1809"><a title="Brooklyn Bedding Mattress Review" href="http://sleepopolis.com/mattress-reviews/brooklyn-bedding-mattress-review/">Brooklyn Bedding Mattress Review</a></li>
-		<li id="menu-item-7478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7478"><a href="http://sleepopolis.com/mattress-reviews/eluxurysupply-mattress-review/">eLuxurySupply Mattress Review</a></li>
-		<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a title="Tuft &amp; Needle Mattress Review" href="http://sleepopolis.com/mattress-reviews/tuft-and-needle-mattress-review/">Tuft &amp; Needle Mattress Review</a></li>
-		<li id="menu-item-12548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12548"><a href="http://sleepopolis.com/mattress-reviews/endy-mattress-review/">Endy Mattress Review</a></li>
-		<li id="menu-item-4877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4877"><a title="GhostBed Mattress Review" href="http://sleepopolis.com/mattress-reviews/ghostbed-mattress-review/">GhostBed Mattress Review</a></li>
-	</ul>
+<li id="menu-item-7475" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7475"><a href="#">Foam Combo</a>
+<ul class="sub-menu">
+<li id="menu-item-371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-371"><a title="Leesa Mattress Review" href="https://sleepopolis.com/mattress-reviews/leesa-mattress-review/">Leesa Mattress Review</a></li>
+<li id="menu-item-6250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6250"><a title="Purple Mattress Review" href="https://sleepopolis.com/mattress-reviews/purple-mattress-review/">Purple Mattress Review</a></li>
+<li id="menu-item-2533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2533"><a title="Helix Mattress Review" href="https://sleepopolis.com/mattress-reviews/helix-mattress-review/">Helix Mattress Review</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a title="Casper Mattress Review" href="https://sleepopolis.com/mattress-reviews/casper-mattress-review/">Casper Mattress Review</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a title="Tuft &amp; Needle Mattress Review" href="https://sleepopolis.com/mattress-reviews/tuft-and-needle-mattress-review/">Tuft &amp; Needle Mattress Review</a></li>
+<li id="menu-item-4877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4877"><a title="GhostBed Mattress Review" href="https://sleepopolis.com/mattress-reviews/ghostbed-mattress-review/">GhostBed Mattress Review</a></li>
+<li id="menu-item-14945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14945"><a href="https://sleepopolis.com/mattress-reviews/endy-mattress-review/">Endy Mattress Review</a></li>
+<li id="menu-item-15124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15124"><a href="https://sleepopolis.com/mattress-reviews/ikea-mattress-reviews/">IKEA Mattress Reviews</a></li>
+<li id="menu-item-15297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15297"><a href="https://sleepopolis.com/mattress-reviews/lull-mattress-review/">Lull Mattress Review</a></li>
+</ul>
 </li>
-	<li id="menu-item-7476" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7476"><a href="#">$850-$949</a>
-	<ul class="sub-menu">
-		<li id="menu-item-2533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2533"><a title="Helix Mattress Review" href="http://sleepopolis.com/mattress-reviews/helix-mattress-review/">Helix Mattress Review</a></li>
-		<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a title="Saatva Mattress Review" href="http://sleepopolis.com/mattress-reviews/saatva-mattress-review/">Saatva Mattress Review</a></li>
-		<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a title="Casper Mattress Review" href="http://sleepopolis.com/mattress-reviews/casper-mattress-review/">Casper Mattress Review</a></li>
-	</ul>
+<li id="menu-item-7476" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7476"><a href="#">Memory Foam</a>
+<ul class="sub-menu">
+<li id="menu-item-1292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1292"><a title="Loom &amp; Leaf Mattress Review" href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-mattress-review/">Loom &amp; Leaf Mattress Review</a></li>
+<li id="menu-item-11887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11887"><a href="https://sleepopolis.com/mattress-reviews/amerisleep-mattress-reviews/">Amerisleep Mattress Reviews</a></li>
+<li id="menu-item-10957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10957"><a href="https://sleepopolis.com/mattress-reviews/amerisleep-liberty-mattress-review/">Amerisleep Liberty Mattress Review</a></li>
+<li id="menu-item-15988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15988"><a href="https://sleepopolis.com/mattress-reviews/eluxurysupply-mattress-review/">eLuxurySupply Mattress Review</a></li>
+<li id="menu-item-1979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1979"><a title="Alexander Mattress Review" href="https://sleepopolis.com/mattress-reviews/nest-alexander-mattress-review/">Alexander Mattress Review</a></li>
+<li id="menu-item-7004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7004"><a title="NovosBed Mattress Review" href="https://sleepopolis.com/mattress-reviews/novosbed-mattress-review/">NovosBed Mattress Review</a></li>
+<li id="menu-item-14875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14875"><a href="https://sleepopolis.com/mattress-reviews/nectar-mattress-review/">Nectar Mattress Review</a></li>
+<li id="menu-item-16764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16764"><a href="https://sleepopolis.com/mattress-reviews/cocoon-mattress-review/">Cocoon Mattress Review</a></li>
+<li id="menu-item-14944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14944"><a href="https://sleepopolis.com/mattress-reviews/tempurpedic-mattress-review/">Tempurpedic Mattress Review</a></li>
+</ul>
 </li>
-	<li id="menu-item-7502" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7502"><a href="#">$950-$999</a>
-	<ul class="sub-menu">
-		<li id="menu-item-6250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6250"><a title="Purple Mattress Review" href="http://sleepopolis.com/mattress-reviews/purple-mattress-review/">Purple Mattress Review</a></li>
-		<li id="menu-item-1292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1292"><a title="Loom &amp; Leaf Mattress Review" href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-mattress-review/">Loom &amp; Leaf Mattress Review</a></li>
-		<li id="menu-item-10957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10957"><a href="http://sleepopolis.com/mattress-reviews/amerisleep-liberty-mattress-review/">Amerisleep Liberty Mattress Review</a></li>
-		<li id="menu-item-5749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5749"><a title="Alexander Hybrid Mattress Review" href="http://sleepopolis.com/mattress-reviews/nest-bedding-alexander-hybrid-mattress-review/">Alexander Hybrid Mattress Review</a></li>
-		<li id="menu-item-7004" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7004"><a title="NovosBed Mattress Review" href="http://sleepopolis.com/mattress-reviews/novosbed-mattress-review/">NovosBed Mattress Review</a></li>
-	</ul>
+<li id="menu-item-7502" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7502"><a href="#">Spring &amp; Hybrids</a>
+<ul class="sub-menu">
+<li id="menu-item-321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-321"><a title="Saatva Mattress Review" href="https://sleepopolis.com/mattress-reviews/saatva-mattress-review/">Saatva Mattress Review</a></li>
+<li id="menu-item-5749" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5749"><a title="Alexander Hybrid Mattress Review" href="https://sleepopolis.com/mattress-reviews/nest-bedding-alexander-hybrid-mattress-review/">Alexander Hybrid Mattress Review</a></li>
+<li id="menu-item-11969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11969"><a href="https://sleepopolis.com/mattress-reviews/sapira-mattress-review/">Sapira by Leesa Mattress Review</a></li>
+<li id="menu-item-9247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9247"><a href="https://sleepopolis.com/mattress-reviews/winkbeds-mattress-review/">WinkBeds Mattress Review</a></li>
+<li id="menu-item-16453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16453"><a href="https://sleepopolis.com/mattress-reviews/simmons-beautyrest-black-mattress-review/">Beautyrest Black Mattress Review</a></li>
+</ul>
 </li>
-	<li id="menu-item-7477" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7477"><a href="#">$1,000+</a>
-	<ul class="sub-menu">
-		<li id="menu-item-11887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11887"><a href="http://sleepopolis.com/mattress-reviews/amerisleep-mattress-reviews/">Amerisleep Mattress Review</a></li>
-		<li id="menu-item-1979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1979"><a title="Alexander Mattress Review" href="http://sleepopolis.com/mattress-reviews/nest-alexander-mattress-review/">Alexander Mattress Review</a></li>
-		<li id="menu-item-10209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10209"><a href="http://sleepopolis.com/mattress-reviews/zenhaven-mattress-review/">Zenhaven Mattress Review</a></li>
-		<li id="menu-item-9247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9247"><a href="http://sleepopolis.com/mattress-reviews/winkbeds-mattress-review/">WinkBeds Mattress Review</a></li>
-		<li id="menu-item-11969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11969"><a href="http://sleepopolis.com/mattress-reviews/sapira-mattress-review/">Sapira Mattress Review</a></li>
-	</ul>
+<li id="menu-item-7477" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7477"><a href="#">Latex Foam</a>
+<ul class="sub-menu">
+<li id="menu-item-1809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1809"><a title="Brooklyn Bedding Mattress Review" href="https://sleepopolis.com/mattress-reviews/brooklyn-bedding-mattress-review/">Brooklyn Bedding Mattress Review</a></li>
+<li id="menu-item-14432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14432"><a href="https://sleepopolis.com/mattress-reviews/plushbeds-botanical-bliss-mattress-review/">PlushBeds Mattress Review</a></li>
+<li id="menu-item-10209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10209"><a href="https://sleepopolis.com/mattress-reviews/zenhaven-mattress-review/">Zenhaven Mattress Review</a></li>
+</ul>
 </li>
 </ul>
 </li>
-<li id="menu-item-8804" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8804"><a href="http://sleepopolis.com/best-mattress/">Best Mattress</a>
+<li id="menu-item-8804" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8804"><a href="https://sleepopolis.com/best-mattress/">Best Mattress</a>
 <ul class="sub-menu">
-	<li id="menu-item-11404" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11404"><a href="#">People</a>
-	<ul class="sub-menu">
-		<li id="menu-item-1044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044"><a href="http://sleepopolis.com/best-mattress/best-mattress-for-sex/">Best Mattress for Sex</a></li>
-		<li id="menu-item-2270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2270"><a href="http://sleepopolis.com/best-mattress/best-mattress-for-heavy-people/">Best Mattress for Heavy People</a></li>
-		<li id="menu-item-10701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10701"><a href="http://sleepopolis.com/best-mattress/best-mattress-for-couples/">Best Mattress for Couples</a></li>
-		<li id="menu-item-11406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11406"><a href="http://sleepopolis.com/best-mattress/best-mattress-for-kids/">Best Mattress for Kids</a></li>
-	</ul>
+<li id="menu-item-11404" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11404"><a href="#">People</a>
+<ul class="sub-menu">
+<li id="menu-item-1044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1044"><a href="https://sleepopolis.com/best-mattress/best-mattress-for-sex/">Best Mattress for Sex</a></li>
+<li id="menu-item-10701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10701"><a href="https://sleepopolis.com/best-mattress/best-mattress-for-couples/">Best Mattress for Couples</a></li>
+<li id="menu-item-2270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2270"><a href="https://sleepopolis.com/best-mattress/best-mattress-for-heavy-people/">Best Mattress for Heavy People</a></li>
+<li id="menu-item-11406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11406"><a href="https://sleepopolis.com/best-mattress/best-mattress-for-kids/">Best Mattress for Kids</a></li>
+</ul>
 </li>
-	<li id="menu-item-11403" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11403"><a href="#">Position</a>
-	<ul class="sub-menu">
-		<li id="menu-item-2283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2283"><a href="http://sleepopolis.com/best-mattress/best-mattress-for-side-sleepers/">Best Mattress for Side Sleepers</a></li>
-		<li id="menu-item-2197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2197"><a href="http://sleepopolis.com/best-mattress/best-mattress-for-back-pain/">Best Mattress for Back Pain</a></li>
-		<li id="menu-item-2299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2299"><a href="http://sleepopolis.com/best-mattress/best-mattress-for-stomach-sleepers/">Best Mattress for Stomach Sleepers</a></li>
-	</ul>
+<li id="menu-item-11403" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11403"><a href="#">Position</a>
+<ul class="sub-menu">
+<li id="menu-item-2283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2283"><a href="https://sleepopolis.com/best-mattress/best-mattress-for-side-sleepers/">Best Mattress for Side Sleepers</a></li>
+<li id="menu-item-2197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2197"><a href="https://sleepopolis.com/best-mattress/best-mattress-for-back-pain/">Best Mattress for Back Pain</a></li>
+<li id="menu-item-2299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2299"><a href="https://sleepopolis.com/best-mattress/best-mattress-for-stomach-sleepers/">Best Mattress for Stomach Sleepers</a></li>
+</ul>
 </li>
-	<li id="menu-item-11405" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11405"><a href="#">Design</a>
-	<ul class="sub-menu">
-		<li id="menu-item-12187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12187"><a href="http://sleepopolis.com/best-mattress/best-cooling-mattress/">Best Cooling Mattress</a></li>
-		<li id="menu-item-11408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11408"><a href="http://sleepopolis.com/mattress-reviews/gel-memory-foam-mattress-reviews/">Best Memory Foam Mattress</a></li>
-		<li id="menu-item-11407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11407"><a href="http://sleepopolis.com/mattress-reviews/hybrid-mattress-reviews/">Best Hybrid Mattress</a></li>
-		<li id="menu-item-11409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11409"><a href="http://sleepopolis.com/mattress-reviews/latex-mattress-reviews/">Best Latex Mattress</a></li>
-		<li id="menu-item-11612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11612"><a href="http://sleepopolis.com/mattress-reviews/foam-mattress-reviews/">Best Foam Mattress</a></li>
-	</ul>
+<li id="menu-item-11405" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11405"><a href="#">Design</a>
+<ul class="sub-menu">
+<li id="menu-item-14973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14973"><a href="https://sleepopolis.com/best-mattress/best-memory-foam-mattress/">Best Memory Foam Mattress</a></li>
+<li id="menu-item-12187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12187"><a href="https://sleepopolis.com/best-mattress/best-cooling-mattress/">Best Cooling Mattress</a></li>
+<li id="menu-item-14668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14668"><a href="https://sleepopolis.com/best-mattress/best-innerspring-mattress/">Best Innerspring Mattress</a></li>
+<li id="menu-item-11407" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11407"><a href="https://sleepopolis.com/mattress-reviews/hybrid-mattress-reviews/">Best Hybrid Mattress</a></li>
+<li id="menu-item-11409" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11409"><a href="https://sleepopolis.com/mattress-reviews/latex-mattress-reviews/">Best Latex Mattress</a></li>
+</ul>
 </li>
-	<li id="menu-item-11402" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11402"><a href="#">Others</a>
-	<ul class="sub-menu">
-		<li id="menu-item-9457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9457"><a href="http://sleepopolis.com/best-mattress/best-firm-mattress/">Best Firm Mattress</a></li>
-		<li id="menu-item-9829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9829"><a href="http://sleepopolis.com/best-mattress/best-soft-mattress/">Best Soft Mattress</a></li>
-		<li id="menu-item-9500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9500"><a href="http://sleepopolis.com/best-mattress/best-mattress-money/">Best Mattress for the Money</a></li>
-		<li id="menu-item-10078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10078"><a href="http://sleepopolis.com/best-mattress/best-amazon-mattress/">Best Amazon Mattress</a></li>
-	</ul>
+<li id="menu-item-11402" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11402"><a href="#">Others</a>
+<ul class="sub-menu">
+<li id="menu-item-9457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9457"><a href="https://sleepopolis.com/best-mattress/best-firm-mattress/">Best Firm Mattress</a></li>
+<li id="menu-item-9829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9829"><a href="https://sleepopolis.com/best-mattress/best-soft-mattress/">Best Soft Mattress</a></li>
+<li id="menu-item-14431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14431"><a href="https://sleepopolis.com/best-mattress/best-place-to-buy-a-mattress/">Best Place to Buy a Mattress</a></li>
+<li id="menu-item-9500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9500"><a href="https://sleepopolis.com/best-mattress/best-mattress-money/">Best Mattress for the Money</a></li>
+<li id="menu-item-10078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10078"><a href="https://sleepopolis.com/best-mattress/best-amazon-mattress/">Best Amazon Mattress</a></li>
+<li id="menu-item-14023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14023"><a href="https://sleepopolis.com/best-mattress/best-natural-organic-mattress/">Best Natural Organic Mattress</a></li>
+</ul>
 </li>
 </ul>
 </li>
-<li id="menu-item-1343" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1343"><a href="http://sleepopolis.com/mattress-comparisons/">Mattress Comparisons</a>
+<li id="menu-item-1343" class="mega-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1343"><a href="https://sleepopolis.com/mattress-comparisons/">Comparisons</a>
 <ul class="sub-menu">
-	<li id="menu-item-4248" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4248"><a href="#">Casper</a>
-	<ul class="sub-menu">
-		<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-casper-mattress-reviews/">Casper vs. Tuft &amp; Needle</a></li>
-		<li id="menu-item-7179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7179"><a href="http://sleepopolis.com/mattress-reviews/purple-vs-casper-mattress-review/">Casper vs. Purple</a></li>
-		<li id="menu-item-3734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3734"><a href="http://sleepopolis.com/mattress-reviews/helix-vs-casper-mattress-review/">Casper vs. Helix</a></li>
-		<li id="menu-item-1467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1467"><a href="http://sleepopolis.com/mattress-reviews/casper-vs-tempurpedic-mattress-review/">Casper vs. Tempurpedic</a></li>
-		<li id="menu-item-5896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5896"><a href="http://sleepopolis.com/mattress-reviews/brooklyn-bedding-vs-casper-mattress-review/">Casper vs. Brooklyn Bedding</a></li>
-		<li id="menu-item-1008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1008"><a href="http://sleepopolis.com/mattress-reviews/casper-vs-yogabed-mattress-review/">Casper vs. Yogabed</a></li>
-		<li id="menu-item-6253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6253"><a href="http://sleepopolis.com/mattress-reviews/ghostbed-vs-casper-mattress-review/">Casper vs. GhostBed</a></li>
-	</ul>
+<li id="menu-item-4248" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4248"><a href="#">Casper</a>
+<ul class="sub-menu">
+<li id="menu-item-7179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7179"><a href="https://sleepopolis.com/mattress-reviews/purple-vs-casper-mattress-review/">Casper vs. Purple</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-casper-mattress-reviews/">Casper vs. Tuft &amp; Needle</a></li>
+<li id="menu-item-1467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1467"><a href="https://sleepopolis.com/mattress-reviews/casper-vs-tempurpedic-mattress-review/">Casper vs. Tempurpedic</a></li>
+<li id="menu-item-3734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3734"><a href="https://sleepopolis.com/mattress-reviews/helix-vs-casper-mattress-review/">Casper vs. Helix</a></li>
+<li id="menu-item-6253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6253"><a href="https://sleepopolis.com/mattress-reviews/ghostbed-vs-casper-mattress-review/">Casper vs. GhostBed</a></li>
+<li id="menu-item-12892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12892"><a href="https://sleepopolis.com/mattress-reviews/endy-vs-casper-mattress-review/">Casper vs. Endy</a></li>
+</ul>
 </li>
-	<li id="menu-item-4250" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4250"><a href="#">Leesa</a>
-	<ul class="sub-menu">
-		<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="http://sleepopolis.com/mattress-reviews/casper-vs-leesa-mattress-review/">Leesa vs. Casper</a></li>
-		<li id="menu-item-9294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9294"><a href="http://sleepopolis.com/mattress-reviews/leesa-vs-purple-mattress-review/">Leesa vs. Purple</a></li>
-		<li id="menu-item-1504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1504"><a href="http://sleepopolis.com/mattress-reviews/leesa-vs-tempurpedic-mattress-review/">Leesa vs. Tempurpedic</a></li>
-		<li id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="http://sleepopolis.com/mattress-reviews/leesa-vs-tuft-needle-mattress-review/">Leesa vs. Tuft &amp; Needle</a></li>
-		<li id="menu-item-1056" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1056"><a href="http://sleepopolis.com/mattress-reviews/leesa-vs-yogabed-mattress-review/">Leesa vs. Yogabed</a></li>
-	</ul>
+<li id="menu-item-4250" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4250"><a href="#">Leesa</a>
+<ul class="sub-menu">
+<li id="menu-item-9294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9294"><a href="https://sleepopolis.com/mattress-reviews/leesa-vs-purple-mattress-review/">Leesa vs. Purple</a></li>
+<li id="menu-item-412" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-412"><a href="https://sleepopolis.com/mattress-reviews/casper-vs-leesa-mattress-review/">Leesa vs. Casper</a></li>
+<li id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-787"><a href="https://sleepopolis.com/mattress-reviews/leesa-vs-tuft-needle-mattress-review/">Leesa vs. Tuft &amp; Needle</a></li>
+<li id="menu-item-1504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1504"><a href="https://sleepopolis.com/mattress-reviews/leesa-vs-tempurpedic-mattress-review/">Leesa vs. Tempurpedic</a></li>
+<li id="menu-item-15157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15157"><a href="https://sleepopolis.com/mattress-reviews/helix-vs-leesa-mattress-review/">Leesa vs. Helix</a></li>
+</ul>
 </li>
-	<li id="menu-item-4251" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4251"><a href="#">Loom &amp; Leaf</a>
-	<ul class="sub-menu">
-		<li id="menu-item-2332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2332"><a href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-leesa-mattress-review/">Loom &amp; Leaf vs. Leesa</a></li>
-		<li id="menu-item-2254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2254"><a href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-casper-mattress-review/">Loom &amp; Leaf vs. Casper</a></li>
-		<li id="menu-item-5552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5552"><a href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-saatva-mattress-review/">Loom and Leaf vs. Saatva</a></li>
-		<li id="menu-item-1394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1394"><a href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-tempurpedic-mattress-review/">Loom &amp; Leaf vs. Tempurpedic</a></li>
-	</ul>
+<li id="menu-item-4251" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4251"><a href="#">Loom &amp; Leaf</a>
+<ul class="sub-menu">
+<li id="menu-item-2332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2332"><a href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-leesa-mattress-review/">Loom &amp; Leaf vs. Leesa</a></li>
+<li id="menu-item-2254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2254"><a href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-casper-mattress-review/">Loom &amp; Leaf vs. Casper</a></li>
+<li id="menu-item-5552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5552"><a href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-saatva-mattress-review/">Loom and Leaf vs. Saatva</a></li>
+<li id="menu-item-1394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1394"><a href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-tempurpedic-mattress-review/">Loom &amp; Leaf vs. Tempurpedic</a></li>
+</ul>
 </li>
-	<li id="menu-item-4252" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4252"><a href="#">Others</a>
-	<ul class="sub-menu">
-		<li id="menu-item-980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-980"><a href="http://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-yogabed-mattress-review/">Tuft &amp; Needle vs. Yogabed</a></li>
-		<li id="menu-item-11146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11146"><a href="http://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-purple-mattress-review/">Tuft &amp; Needle vs. Purple</a></li>
-		<li id="menu-item-1416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1416"><a href="http://sleepopolis.com/mattress-reviews/saatva-vs-simmons-beautyrest-black-mattress-review/">Saatva vs. Beautyrest</a></li>
-		<li id="menu-item-10385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385"><a href="http://sleepopolis.com/mattress-reviews/ghostbed-vs-purple-mattress-review/">GhostBed vs. Purple</a></li>
-		<li id="menu-item-11886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11886"><a href="http://sleepopolis.com/mattress-reviews/amerisleep-vs-tempurpedic-mattress-review/">Amerisleep vs Tempurpedic</a></li>
-		<li id="menu-item-12254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12254"><a href="http://sleepopolis.com/mattress-reviews/helix-vs-tuft-needle-mattress-review/">Helix vs. Tuft &amp; Needle</a></li>
-		<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href="http://sleepopolis.com/mattress-reviews/casper-vs-leesa-vs-tuft-needle-vs-saatva-mattress-review/">Casper vs. Leesa vs. Tuft &amp; Needle vs. Saatva</a></li>
-	</ul>
+<li id="menu-item-4252" class="sub-menu-headings menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4252"><a href="#">Others</a>
+<ul class="sub-menu">
+<li id="menu-item-11146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11146"><a href="https://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-purple-mattress-review/">Tuft &amp; Needle vs. Purple</a></li>
+<li id="menu-item-1416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1416"><a href="https://sleepopolis.com/mattress-reviews/saatva-vs-simmons-beautyrest-black-mattress-review/">Saatva vs. Beautyrest</a></li>
+<li id="menu-item-10385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385"><a href="https://sleepopolis.com/mattress-reviews/ghostbed-vs-purple-mattress-review/">GhostBed vs. Purple</a></li>
+<li id="menu-item-11886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11886"><a href="https://sleepopolis.com/mattress-reviews/amerisleep-vs-tempurpedic-mattress-review/">Amerisleep vs Tempurpedic</a></li>
+<li id="menu-item-12254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12254"><a href="https://sleepopolis.com/mattress-reviews/helix-vs-tuft-needle-mattress-review/">Helix vs. Tuft &amp; Needle</a></li>
+<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href="https://sleepopolis.com/mattress-reviews/casper-vs-leesa-vs-tuft-needle-vs-saatva-mattress-review/">Casper vs. Leesa vs. Tuft &amp; Needle vs. Saatva</a></li>
+<li id="menu-item-15073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15073"><a href="https://sleepopolis.com/mattress-reviews/casper-vs-leesa-vs-purple-vs-ghostbed-mattress-review/">Casper vs. Leesa vs. Purple vs. Ghostbed</a></li>
+</ul>
 </li>
 </ul>
 </li>
-<li id="menu-item-7608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7608"><a href="http://sleepopolis.com/guides/">Guides</a>
+<li id="menu-item-16329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16329"><a href="https://sleepopolis.com/best-pillows/">Best Pillows</a></li>
+<li id="menu-item-7608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7608"><a href="https://sleepopolis.com/guides/">Guides</a>
 <ul class="sub-menu">
-	<li id="menu-item-12341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12341"><a href="http://sleepopolis.com/guides/black-friday-mattress-sales/">Black Friday Mattress Sales 2016</a></li>
-	<li id="menu-item-3751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3751"><a href="http://sleepopolis.com/guides/how-to-choose-a-mattress/">How to Choose a Mattress</a></li>
-	<li id="menu-item-4173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4173"><a href="http://sleepopolis.com/guides/mattress-firmness-guide/">Mattress Firmness Guide</a></li>
-	<li id="menu-item-1222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1222"><a href="http://sleepopolis.com/guides/do-you-need-a-boxspring/">Do You Need a Boxspring?</a></li>
+<li id="menu-item-3751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3751"><a href="https://sleepopolis.com/guides/how-to-choose-a-mattress/">How to Choose a Mattress</a></li>
+<li id="menu-item-4173" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4173"><a href="https://sleepopolis.com/guides/mattress-firmness-guide/">Mattress Firmness Guide</a></li>
+<li id="menu-item-1222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1222"><a href="https://sleepopolis.com/guides/do-you-need-a-boxspring/">Do You Need a Boxspring?</a></li>
+<li id="menu-item-15287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15287"><a href="https://sleepopolis.com/guides/bed-size-dimensions/">Bed Size Dimensions</a></li>
+<li id="menu-item-16328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16328"><a href="https://sleepopolis.com/guides/latex-vs-memory-foam/">Latex vs. Memory Foam</a></li>
 </ul>
 </li>
 <li id="menu-item-7425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7425"><a href="#">Accessories</a>
 <ul class="sub-menu">
-	<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="http://sleepopolis.com/pillow-reviews/">Pillow Reviews</a></li>
-	<li id="menu-item-2433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2433"><a href="http://sleepopolis.com/sheet-reviews/">Sheet Reviews</a></li>
-	<li id="menu-item-7567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7567"><a href="http://sleepopolis.com/mattress-topper-reviews/">Mattress Toppers Reviews</a></li>
-	<li id="menu-item-7566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7566"><a href="http://sleepopolis.com/mattress-protector-reviews/">Mattress Protector Reviews</a></li>
-	<li id="menu-item-3847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3847"><a href="http://sleepopolis.com/bed-reviews/">Bed Frame Reviews</a></li>
+<li id="menu-item-684" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-684"><a href="https://sleepopolis.com/pillow-reviews/">Pillow Reviews</a></li>
+<li id="menu-item-2433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2433"><a href="https://sleepopolis.com/sheet-reviews/">Sheet Reviews</a></li>
+<li id="menu-item-7567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7567"><a href="https://sleepopolis.com/mattress-topper-reviews/">Mattress Toppers Reviews</a></li>
+<li id="menu-item-7566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7566"><a href="https://sleepopolis.com/mattress-protector-reviews/">Mattress Protector Reviews</a></li>
+<li id="menu-item-15834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15834"><a href="https://sleepopolis.com/adjustable-beds-reviews/">Adjustable Beds Reviews</a></li>
+<li id="menu-item-3847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3847"><a href="https://sleepopolis.com/bed-reviews/">Bed Frame Reviews</a></li>
 </ul>
 </li>
-<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a href="http://sleepopolis.com/blog/">Blog</a></li>
-<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://sleepopolis.com/coupons/">Coupons</a></li>
-</ul>						</nav>
-					
-					
-					
-										<div id="et_top_search">
-						<span id="et_search_icon"></span>
-					</div>
-					
-					<div id="et_mobile_nav_menu">
-				<div class="mobile_nav closed">
-					<span class="select_page">Select Page</span>
-					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-				</div>
-			</div>				</div> <!-- #et-top-navigation -->
-			</div> <!-- .container -->
-			<div class="et_search_outer">
-				<div class="container et_search_form_container">
-					<form role="search" method="get" class="et-search-form" action="http://sleepopolis.com/">
-					<input type="search" class="et-search-field" placeholder="Search …" value="" name="s" title="Search for:">					</form>
-					<span class="et_close_search_field"></span>
-				</div>
-			</div>
-		</header> <!-- #main-header -->
-
-		<div id="et-main-area">
+<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-460"><a href="https://sleepopolis.com/blog/">Blog</a></li>
+<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="https://sleepopolis.com/coupons/">Coupons</a></li>
+</ul> </nav>
+<div id="et_top_search">
+<span id="et_search_icon"></span>
+</div>
+<div id="et_mobile_nav_menu">
+<div class="mobile_nav closed">
+<span class="select_page">Select Page</span>
+<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+</div>
+</div> </div>  
+</div>  
+<div class="et_search_outer">
+<div class="container et_search_form_container">
+<form role="search" method="get" class="et-search-form" action="https://sleepopolis.com/">
+<input type="search" class="et-search-field" placeholder="Search …" value="" name="s" title="Search for:"> </form>
+<span class="et_close_search_field"></span>
+</div>
+</div>
+</header>  
+<div id="et-main-area">
 <div id="main-content">
-
-
-	<div class="container">
-		<div id="content-area" class="clearfix">
-			<div id="left-area">
-<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://sleepopolis.com/" rel="v:url" property="v:title">Home</a> » <span class="breadcrumb_last">Privacy Policy</span></span></span></p>
-			
-				<article id="post-55" class="post-55 page type-page status-publish hentry">
-
-				
-					<h1 class="entry-title main_title">Privacy Policy</h1> <p><em><!--googleoff: snippet-->Sleepopolis is supported by readers. Product links on Sleepopolis are referral links. If you use one of these and buy something Sleepopolis makes a little bit of money. Need more info? <a href="http://sleepopolis.com/how-sleepopolis-works/" rel="nofollow">See how it all works here</a>.<!--googleon: snippet--></em></p> <br>
-				
-				
-					<div class="entry-content">
-					<p>Sleepopolis does not share personal information with third-parties nor does Sleepopolis.com store information collected about your visit for use other than to analyze web site performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. The owner is not responsible for the republishing of the content found on this blog on other web sites or media without permission.</p>
-<p><strong>Blog &amp; Social Comments Policy</strong></p>
-<p>Sleepopolis reserves the right to edit or delete any comments submitted to this blog or via our social platforms without notice due to;</p>
-<ol>
-<li>Comments deemed to be spam or questionable spam</li>
-<li>Comments including profanity</li>
-<li>Comments containing language or concepts that could be deemed offensive</li>
-<li>Comments that attack a person individually</li>
-<li>Comments deemed to be irrelevant or off-topic</li>
-</ol>
-<p>Disagreements are encouraged and more than welcome. However, if you do disagree please do so respectfully. Nasty, rude, or mean remarks are removed and repeat offenders will be banned.</p>
-<p><strong>Giveaways Policy</strong></p>
-<p>All giveaways on Sleepopolis are hosted on the Gleam platform or directly on Sleepopolis.com. If you enter a giveaway by email you may be contacted by Gleam and/or the company sponsor of the giveaway. All parties are required by federal law to provide an easy unsubscribe option. If you do not wish to receive email from these parties please unsubscribe using the link at the bottom of each email they send.</p>
-<p>Some giveaways include physical products. To sign up for these giveaways you may have to submit your name, address, email, and other basic contact and mailing information. Sleepopolis does not share this data with any 3rd parties. We only use this for the purpose of getting you your product.</p>
-<p><strong>California Privacy Rights</strong></p>
-<p>If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.&nbsp; To obtain such information free of charge, please write to us at the address below, or <a href="http://sleepopolis.com/contact/">submit your request here</a>.&nbsp; We will respond to these requests within thirty (30) days.&nbsp; Requests that come to us by other means may result in a delayed response.</p>
-<p>Mailing Address:&nbsp; 17209 N 45th St, Phoenix, Arizona 85032</p>
-<p><strong>Persons Under Age 18</strong></p>
-<p>We do not knowingly permit the website to be used by any person under the age of eighteen and we do not knowingly collect any personal information from children younger than thirteen years of age.</p>
-<p>This privacy policy statements is made on May 11, 2016 and may have a change on the futures with or without notice. You should read this privacy policy on this page on the futures when updated.</p>
-<span class="et_bloom_bottom_trigger"></span>
-					</div> <!-- .entry-content -->
-
-				
-				</article> <!-- .et_pb_post -->
-
-			
-
-			</div> <!-- #left-area -->
-
-				<div id="sidebar">
-		<div id="text-5" class="et_pb_widget widget_text"><h4 class="widgettitle">Leesa Mattress Coupon</h4>			<div class="textwidget"><p>Sleepopolis' favorite mattress! <strong>Save $75 on the Leesa  mattress.</strong></p>
-<p><a href="http://sleepopolis.com/leesa" class="small-button smallblue">Save $75 - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-56" class="et_pb_widget widget_text"><h4 class="widgettitle">Purple Mattress</h4>			<div class="textwidget"><p>Purple mattress sale, <strong>$100 off the normal $1,099.</strong> $999 for a Queen size mattress.</p>
-<p><a href="http://sleepopolis.com/purple-mattress/" class="small-button smallpurple">Save $100 - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-21" class="et_pb_widget widget_text"><h4 class="widgettitle">Helix Coupon</h4>			<div class="textwidget"><p><strong>Save $50 off any Helix mattress</strong> order. </p>
-<p><a href="http://sleepopolis.com/helix/" class="small-button smallteal">Save $50 - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-50" class="et_pb_widget widget_text"><h4 class="widgettitle">Amerisleep Coupon</h4>			<div class="textwidget"><p><strong>Save $200 off any Amerisleep mattress</strong> order.</p>
-<p><a href="http://sleepopolis.com/amerisleep/" class="small-button smallorange">Save $200 - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-17" class="et_pb_widget widget_text"><h4 class="widgettitle">Brooklyn Bed. Coupon</h4>			<div class="textwidget"><p><strong>Save 5% off any Brooklyn Bedding mattress</strong> order. </p>
-<p><a href="http://sleepopolis.com/brooklyn-bedding/" class="small-button smallred">Save 5% - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-60" class="et_pb_widget widget_text"><h4 class="widgettitle">eLuxurySupply Coupon</h4>			<div class="textwidget"><p><strong>Save 15% off any eLuxurySupply mattress</strong> order. </p>
-<p><a href="http://sleepopolis.com/eluxurysupply/" class="small-button smallblack">Save 15% - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-18" class="et_pb_widget widget_text"><h4 class="widgettitle">Alexander Hybrid Coupon</h4>			<div class="textwidget"><p><strong>Save $200 on the Nest Alexander Hybrid mattress</strong> order. Use promo code <strong>"SPECIAL200"</strong>.</p>
-<p><a href="http://sleepopolis.com/alexander-hybrid-mattress" class="small-button smallpink">Save $200 - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-19" class="et_pb_widget widget_text"><h4 class="widgettitle">Alexander Coupon</h4>			<div class="textwidget"><p><strong>Save $100 on the Nest Alexander mattress</strong> order. Use promo code <strong>"ALEXANDER100"</strong>.</p>
-<p><a href="http://sleepopolis.com/nest-bedding/alexander-mattress/" class="small-button smallgreen">Save $100 - Click Here</a></p>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-6" class="et_pb_widget widget_text"><h4 class="widgettitle">Mattress Reviews</h4>			<div class="textwidget"><ul>
-<li><a href="http://sleepopolis.com/mattress-reviews/leesa-mattress-review/">Leesa</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/casper-mattress-review/">Casper</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/purple-mattress-review/">Purple</a>
-</li>
-<li><a href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-mattress-review/">Loom &amp; Leaf</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/brooklyn-bedding-mattress-review/">Brooklyn Bedding</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/ghostbed-mattress-review/">Ghostbed</a>
-</li>
-<li><a href="http://sleepopolis.com/mattress-reviews/nest-bedding-alexander-hybrid-mattress-review/">Nest Alexander Hybrid</a>
-</li>
-<li><a href="http://sleepopolis.com/mattress-reviews/nest-alexander-mattress-review/">Nest Alexander</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/helix-mattress-review/">Helix</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/tuft-and-needle-mattress-review/">Tuft &amp; Needle</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/saatva-mattress-review/">Saatva</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/amerisleep-mattress-reviews/">Amerisleep</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/eluxurysupply-mattress-review/">eLuxurySupply</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/">See More Reviews</a></li>
-</ul>
-</div>
-		</div> <!-- end .et_pb_widget --><div id="text-9" class="et_pb_widget widget_text"><h4 class="widgettitle">Mattress Comparisons</h4>			<div class="textwidget"><ul>
-<li><a href="http://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-casper-mattress-reviews/">Tuft &amp; Needle vs. Casper</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/leesa-vs-tuft-needle-mattress-review/">Tuft &amp; Needle vs. Leesa</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-yogabed-mattress-review/">Tuft &amp; Needle vs. Yogabed</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/leesa-vs-yogabed-mattress-review/">Leesa vs. Yogabed</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/leesa-vs-tempurpedic-mattress-review/">Leesa vs. Tempur-pedic</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/casper-vs-leesa-mattress-review/">Casper vs. Leesa</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/helix-vs-casper-mattress-review/">Casper vs. Helix</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/casper-vs-yogabed-mattress-review/">Casper vs. Yogabed</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/casper-vs-tempurpedic-mattress-review/">Casper vs. Tempur-pedic</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-casper-mattress-review/">Loom &amp; Leaf vs. Casper</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-tempurpedic-mattress-review/">Loom &amp; Leaf vs. Tempur-pedic</a></li>
-<li><a href="http://sleepopolis.com/mattress-reviews/saatva-vs-simmons-beautyrest-black-mattress-review/">Saatva vs. Beautyrest</a>
-</li>
-<li><a href="http://sleepopolis.com/mattress-reviews/casper-vs-leesa-vs-tuft-needle-vs-saatva-mattress-review/">Casper vs. Leesa vs. Tuft &amp; Needle vs. Saatva</a></li>
-<li><a href="http://sleepopolis.com/mattress-comparisons/">See More Mattress Comparisons</a></li>
-</ul>
-</div>
-		</div> <!-- end .et_pb_widget -->		<div id="recent-posts-2" class="et_pb_widget widget_recent_entries">		<h4 class="widgettitle">Recent Posts</h4>		<ul>
-					<li>
-				<a href="http://sleepopolis.com/blog/amerisleep-liberty-mattress-giveaway/">Amerisleep Liberty Mattress Giveaway</a>
-						</li>
-					<li>
-				<a href="http://sleepopolis.com/blog/hyphen-mattress-factory-tour/">Hyphen Mattress Factory Tour</a>
-						</li>
-					<li>
-				<a href="http://sleepopolis.com/blog/sapira-mattress-unboxing/">Sapira Mattress Unboxing</a>
-						</li>
-					<li>
-				<a href="http://sleepopolis.com/blog/sleep-habits-of-the-animal-kingdom-infographic/">Sleep Habits of the Animal Kingdom Infographic</a>
-						</li>
-					<li>
-				<a href="http://sleepopolis.com/blog/casper-sues-sleepopolis-with-federal-lawsuit/">Casper Sues Sleepopolis with Federal Lawsuit</a>
-						</li>
-				</ul>
-		</div> <!-- end .et_pb_widget -->			</div> <!-- end #sidebar -->
-		</div> <!-- #content-area -->
-	</div> <!-- .container -->
-
-
-</div> <!-- #main-content -->
-
-
-			<footer id="main-footer">
-				
 <div class="container">
-	<div id="footer-widgets" class="clearfix">
-	<div class="footer-widget"><div id="text-59" class="fwidget et_pb_widget widget_text"><h4 class="title">Leesa Mattress Coupon</h4>			<div class="textwidget"><p>Sleepopolis' favorite mattress! <strong>Save $75 on the Leesa  mattress.</strong></p>
-<p><a href="http://sleepopolis.com/leesa" class="small-button smallblue">Save $75 - Click Here</a></p>
-</div>
-		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="aboutmewidget-2" class="fwidget et_pb_widget widget_aboutmewidget"><h4 class="title">About</h4>		<div class="clearfix">
-			<img src="http://sleepopolis.com/wp-content/uploads/2014/09/derek-hales-headshot2-59533_74x74.jpg" id="about-image" alt="">
-			Greetings! My name is <a href="http://sleepopolis.com/about/derek-hales/">Derek Hales</a>, author of Sleepopolis. I created Sleepopolis because buying a mattress can be a nightmare! I've experienced it first hand and I wanted to share what I've learned about shopping for mattresses and hopefully help a few people get a better night's sleep!		</div> <!-- end about me section -->
-	</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-58" class="fwidget et_pb_widget widget_text"><h4 class="title">Reviews</h4>			<div class="textwidget"><ul>
-<li><a href="http://sleepopolis.com/mattress-reviews/">Mattress Reviews</a></li>
-<li><a href="http://sleepopolis.com/pillow-reviews/">Pillow Reviews</a></li>
-<li><a href="http://sleepopolis.com/sheet-reviews/">Sheet Reviews</a></li>
-<li><a href="http://sleepopolis.com/mattress-topper-reviews/">Mattress Topper Reviews</a></li>
-<li><a href="http://sleepopolis.com/mattress-protector-reviews/">Mattress Protector Reviews</a></li>
-<li><a href="http://sleepopolis.com/bed-reviews/">Bed Frame Reviews</a></li>
-<li><a href="http://sleepopolis.com/crib-mattress-reviews/">Crib Mattress Reviews</a></li>
-</ul>
+<div id="content-area" class="clearfix">
+<div id="left-area">
+<p id="breadcrumbs"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="https://sleepopolis.com/" rel="v:url" property="v:title">Home</a> » <span class="breadcrumb_last">Privacy Policy</span></span></span></p>
+<article id="post-55" class="post-55 page type-page status-publish hentry">
+<h1 class="entry-title main_title">Privacy Policy</h1> <p><em><!--googleoff: snippet-->Sleepopolis is supported by readers purchasing products we feature. Product links on Sleepopolis are referral links. If you use one of those links and buy something, Sleepopolis earns a commission from the sale. Need more info? <a href="/disclosures/" rel="nofollow">See my disclosures</a>.<!--googleon: snippet--></em></p> <br>
+<div class="entry-content">
+<p><strong><em>Effective Date: July 6, 2017</em></strong></p>
+<p>This Privacy Policy describes the types of information Halesopolis LLC (“Halesopolis,” “we,” “us,” or “our”) collects from and about you when you visit&nbsp;our website, www.sleepopolis.com (“Site”).&nbsp; This Privacy Policy also explains how we may use and disclose such information, as well as your ability to control&nbsp;certain uses of it.</p>
+<p>By using the Site, you agree to the collection, use, and disclosure of your personal information as described in this Privacy Policy, and agree to the Halesopolis <a href="https://sleepopolis.com/terms-of-use/">Terms of Use</a> which are incorporated by reference.&nbsp; If you do not agree, please do not access or use the Site.</p>
+<h2>1. INFORMATION WE COLLECT</h2>
+<h3>1.1 Information You Provide</h3>
+<p>We collect personal information from you when you choose to share it with us.&nbsp; This may include when you use our Site, sign up for newsletters or our email list, use our service, leave a comment, enter into sweepstakes or other promotion, fill out a survey, request support or information from us, or otherwise communicate with or contact us.&nbsp; The personal information we collect may include your name, address, email address, telephone or mobile number, date of birth, and gender.</p>
+<p><strong><em>Information You Provide Through Social Media</em></strong>. You may also be given the option to link to your Facebook or other social media account through the Site. When you do, we may automatically receive certain information about you based on your registration and privacy settings on those third party services. This may include, but may not be limited to, name, user name, demographic information, updated address or contact information, location, interests, and publicly-observed data, such as from social media and online activity.</p>
+<h3>1.2 Information Automatically Collected</h3>
+<p>We may use a variety of technologies such as cookies, pixel tags, log files, or other technologies to collect certain information about visitors to, and users of, our Site and interactions with our emails and online advertisements, and to allow us to keep track of analytics and certain statistical information</p>
+<p>For example, we may automatically collect certain non-personal information from you, including but not limited to your browser type, device type, operating system, carrier information, unique device identifier of any of your computer(s) or device(s) that are used to access the Site, software version, Internet Protocol (“IP”) address, geolocation, phone model, phone operating system, and the domain name from which you accessed the Site.&nbsp; We also may collect information about your use of the Site, including the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing or using the Site, the number of times you return to the Site, other click-stream or site usage data, emails that you open, forward or click-through to our Site, and other sites that you may visit.</p>
+<p><strong><em>Third Party Service Providers</em></strong>. We may use third party service providers to support our Site.&nbsp; Some of these service providers may use technology such as cookies, web beacons, pixel tags, log files or other technologies to receive, collect, and store information.</p>
+<p><strong><em>Third Party Analytic Technologies</em></strong>. We may use third parties’ analytics and tracking tools to better understand who is using the Site, how people are using the Site, how to improve the effectiveness of the Site and related content, and to help us or those third parties serve more targeted advertising to you across the Internet. These tools may use technology such as cookies, web beacons, pixel tags, log files, or other technologies to collect and store non-personal information. They may also combine information they collect from your interaction with the Site with information they collect from other sources. We do not have access to, or control over, these third parties’ use of cookies or other tracking technologies.</p>
+<h3>1.3 Information Collected From Other Sources</h3>
+<p>We may acquire information from other trusted sources to update or supplement the information that you provide or that we collect automatically (such as information to validate or update your address or other demographic and lifestyle information). We may use this information to help us maintain the accuracy of the information we collect, to target our communications so that we can inform you of products, services or other offers that may be of interest to you, and for internal business analysis or other business purposes.</p>
+<h3>1.4 Combination of Information</h3>
+<p>We may combine the information we receive from and about you, including information you provide to us and information we automatically collect through our Site, as well as information collected offline, across other computers or devices that you may use, and from third party sources.</p>
+<h2>2. INFORMATION USE</h2>
+<p>We may use the information we collect from and about you for any of the following purposes:</p>
 <ul>
+<li>To respond to your inquiries, and contact and communicate with you when necessary;</li>
+<li>To review the usage and operations of our Site, develop new products or services, and conduct analysis to enhance or improve our content, products, and services;</li>
+<li>To provide you with customized content, targeted offers, and , via email, or across other websites, social media, or online services;</li>
+<li>To contact you with information, newsletters and promotional materials from us or on behalf of our partners and affiliates;</li>
+<li>To use your data in an aggregated non-specific format for analytical and demographic purposes;</li>
+<li>To address problems with the Site or our business, and to protect the security or integrity of the Site and our business;</li>
+<li>For other purposes disclosed at the time you provide your information or otherwise with your consent.</li>
+</ul>
+<p>Additionally, if&nbsp;you use the Site to&nbsp;connect with third&nbsp;party services you authorize us&nbsp;to use information from and about you, on your behalf, to interact with these&nbsp;third party services based on your requests.</p>
+<h2>3. INFORMATION WE SHARE</h2>
+<p>We may share the information we collect from and about you in the following ways:</p>
+<ul>
+<li><strong><em>Affiliates</em></strong>: We may share your information with our affiliates and subsidiaries for business, operational, promotional and marketing purposes.</li>
+<li><strong><em>Service Providers</em></strong>: We may share your information with third party service providers that provide business, professional or technical support functions for us, help us operate our business and the Site, or administer activities on our behalf.</li>
+<li><strong><em>Sweepstakes, Contests, and Promotions</em></strong>. If you choose to enter into one of our sweepstakes, contests, or other promotions (a “Promotion”) we may disclose your information to third parties or the public in connection with the administration of such Promotion, as required by law, as otherwise permitted by the Promotion’s official rules, or otherwise in accordance with the terms of this Privacy Policy.</li>
+<li><strong><em>Other Third Parties</em></strong>: We may share your information with our select partners, affiliates, and other third parties that we believe may have offers of interest to you.</li>
+<li><strong><em>Legal Matters; Safety</em></strong>: We may access and disclose your information to respond to subpoenas, judicial processes, or government requests and investigations, or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. We may disclose your information to protect the security of our Site, servers, network systems, and databases. We also may disclose your information as necessary, if we believe that there has been a violation of our Terms of Use, any other legal document or contract related to our services, or the rights of any third party.</li>
+<li><strong><em>Sale or Transfer of Business or Assets</em></strong>: We may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, information we have collected about you may be transferred to such entity.&nbsp; In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third parties.&nbsp; Should such a sale or transfer occur, we will use reasonable efforts to try to require that the transferee use personal information provided through this Site in a manner that is consistent with this Privacy Policy.</li>
+<li><strong><em>Aggregate or Anonymous Non-Personal Information</em></strong>: We may also share aggregate or anonymous non-personal information with third parties for their marketing or analytics uses.</li>
+<li><strong><em>Other</em></strong>: We also may share your information as disclosed to you at the time of collection.</li>
+</ul>
+<h2><a name="adchoices"></a>4. YOUR CHOICES AND OPT-OUTS</h2>
+<p><strong><em>Cookies, Tracking Options and California Do Not Track Disclosures</em></strong></p>
+<p>Certain parts of our Site require cookies. You are free to set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all of our offerings. Please refer to your Web browser’s or operating system’s website or “Help” section for more information on how to delete and/or disable your browser or operating system from receiving cookies or controlling your tracking preferences.</p>
+<p>Our system may not respond to Do Not Track requests or headers from some or all browsers. We may use cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use.&nbsp; To understand your choices for receiving more relevant advertising or to manage your settings, please review the information below:</p>
+<ul>
+<li>To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices with respect to collection and use of the data by these third party tools, you may visit the Digital Advertising Alliance’s (DAA) opt-out page at <a href="http://www.aboutads.info/choices/">http://www.aboutads.info/choices</a>.</li>
+<li><strong>&nbsp;</strong>If you wish to prevent your data from being used by Google Analytics, Google has developed the Google Analytics opt-out browser add-on available <a href="https://tools.google.com/dlpage/gaoptout/">here</a>.</li>
+<li><strong>&nbsp;</strong>On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.</li>
+</ul>
+<p><strong><em>Opt Out Preferences</em></strong></p>
+<p>We provide our customers with the opportunity to update their information or opt-out of having their information used for purposes not directly related to placement, processing, fulfillment, or delivery of a product order or servicing of your product. To opt-out of marketing communications, you may:</p>
+<ul>
+<li>Send us an e-mail at <a href="mailto:contact@sleepopolis.com">contact@sleepopolis.com</a>;</li>
+<li>Contact us by mail at the address below in the “Contact Us” section, or</li>
+<li>Unsubscribe from our email communications at any time by unsubscribing or following the instructions contained within the email.</li>
+</ul>
+<p>If you receive marketing communications from one or more of our affiliates, you must opt-out individually from each of the affiliates from which you are receiving brand-specific marketing communications.</p>
+<h2>5. YOUR CALIFORNIA PRIVACY RIGHTS</h2>
+<p>If you are a California resident, you may opt-out of our disclosure of personal information to third parties affiliated companies for their direct marketing purposes.&nbsp; To opt out, please contact us at <a href="mailto:contact@sleepopolis.com">contact@sleepopolis.com</a>. You must put the statement “Your California Privacy Rights” in the subject field. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.</p>
+<p>Non-affiliated third parties are independent from Halesopolis and if you wish to receive information about your disclosure choices or stop communications from such third parties, you will need to contact those non-affiliated third parties directly.</p>
+<h2>6. THIRD-PARTY CONTENT, LINKS, AND PLUG-INS</h2>
+<p><strong>&nbsp;</strong>The Site may have links to third-party websites, which may have privacy policies that differ from our own.&nbsp; We are not responsible for the practices of such sites.</p>
+<p>The Site may also offer you the ability to interact with social plugins from social media sites, which may allow us and/or the social media site to receive data from or about you. In some cases, we may know that you clicked on a social plugin, such as a Twitter Follow button, or receive other information from the social media sites. Similarly, if you have previously provided personal information to a third-party operating a plug-in on this Site, then such third-party may recognize you on this Site. Your use of social network plugins is subject to each social media site’s privacy policy, which may be different from ours, so please read these policies carefully to understand their policies and your options. As with linked sites, we have no control over the information that is collected, stored, or used by social network plugins, and are not responsible for the practices of such sites.</p>
+<h2>7. PUBLIC FORUMS</h2>
+<p>Any information you may disclose on our Site, in blogs, on message boards, in chat rooms, or on other public areas on the Site or other third-party websites that this Site may link to, becomes public information.&nbsp; Please exercise caution when disclosing personal information in these public areas.</p>
+<h2>8. CHILDREN’S PRIVACY</h2>
+<p>Protecting children’s privacy is important to us. We do not direct the Site to, nor do we knowingly collect any personal information from, children under the age of thirteen.&nbsp; If we learn that a child under the age of thirteen has provided personally identifiable information to the Site, we will use reasonable efforts to remove such information from our files.</p>
+<h2>9. DATA SECURITY</h2>
+<p>We have taken certain physical, administrative, and technical steps to safeguard the information we collect from and about our customers and Site visitors. While we make every effort to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.</p>
+<h2>10. DATA STORAGE</h2>
+<p>Your personal information may be stored on servers in the United States and is subject to the laws of the United States, where the data protection and other laws may differ from those of other countries. Your personal information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the countries in which we operate.</p>
+<h2>11. REVISIONS TO THIS PRIVACY POLICY</h2>
+<p>We reserve the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this Privacy Policy at any time. When we do, we will post the change(s) on the Site.&nbsp; Your continued use of the Site following the posting of changes to these terms means you accept these changes.&nbsp; If we change the Privacy Policy in a material way, we will provide appropriate notice to you.</p>
+<h2>12. HOW TO CONTACT US</h2>
+<p>If you have any questions or concerns about this Privacy Policy or the practices described herein, you may contact us at <a href="mailto:contact@sleepopolis.com">contact@sleepopolis.com</a>&nbsp;or by mail to:</p>
+<p>Halesopolis LLC<br>
+4727 E. Bell Road Suite 45-517<br>
+Phoenix, Arizona 85032<br>
+Attention: Privacy</p>
+<span class="et_bloom_bottom_trigger"></span>
+</div>  
+</article>  
+</div>  
+<div id="sidebar">
+<div id="text-2" class="et_pb_widget widget_text"><h4 class="widgettitle">Leesa Coupon</h4> <div class="textwidget"><p>Sleepopolis' favorite mattress! <strong>Save $100</strong> on the Leesa mattress.</p>
+<p><a class="btn-green" href="https://sleepopolis.com/leesa/">Save $100</a></p>
+</div>
+</div>  <div id="text-3" class="et_pb_widget widget_text"><h4 class="widgettitle">Purple Mattress</h4> <div class="textwidget"><p>Purple mattress Father’s Day sale, <strong>$100 off</strong>&nbsp;with the Purple mattress frame.</p>
+<p><a class="btn-green" href="https://sleepopolis.com/purple-mattress/">Save $100</a></p>
+</div>
+</div>  <div id="text-4" class="et_pb_widget widget_text"><h4 class="widgettitle">Amerisleep Coupon</h4> <div class="textwidget"><p><strong>Save $250 off</strong> any Amerisleep mattress order.</p>
+<p><a class="btn-green" href="https://sleepopolis.com/amerisleep/">Save $250</a></p>
+</div>
+</div>  <div id="text-5" class="et_pb_widget widget_text"><h4 class="widgettitle">Helix Coupon</h4> <div class="textwidget"><p><strong>Save $50 off</strong> any Helix mattress order. </p>
+<p><a class="btn-green" href="https://sleepopolis.com/helix/">Save $50</a></p>
+</div>
+</div>  <div id="text-38" class="et_pb_widget widget_text"><h4 class="widgettitle">Cocoon Coupon</h4> <div class="textwidget"><p><strong>Save $100 off</strong> any Cocoon mattress order. </p>
+<p><a class="btn-green" href="https://sleepopolis.com/cocoon/">Save $100</a></p>
+</div>
+</div>  <div id="text-8" class="et_pb_widget widget_text"><h4 class="widgettitle">Alexander Hybrid Coupon</h4> <div class="textwidget"><p><strong>Save $200 off</strong> any Nest Alexander Hybrid mattress order. Use promo code <strong>SLEEPOP200</strong>.</p>
+<p><a class="btn-green" href="https://sleepopolis.com/alexander-hybrid-mattress/">Save $200</a></p>
+</div>
+</div>  <div id="text-37" class="et_pb_widget widget_text"><h4 class="widgettitle">Alexander Coupon</h4> <div class="textwidget"><p><strong>Save $200 off</strong> any Nest Alexander Signature mattress order. Use promo code <strong>200OFF</strong>.</p>
+<p><a class="btn-green" href="https://sleepopolis.com/nest-bedding/alexander-mattress/">Save $200</a></p>
+</div>
+</div>  <div id="text-6" class="et_pb_widget widget_text"><h4 class="widgettitle">Brooklyn Bed. Coupon</h4> <div class="textwidget"><p><strong>Save 5% off</strong> any Brooklyn Bedding mattress.</p>
+<p><a class="btn-green" href="https://sleepopolis.com/brooklyn-bedding/">Save 5%</a></p>
+</div>
+</div>  <div id="text-7" class="et_pb_widget widget_text"><h4 class="widgettitle">eLuxurySupply Coupon</h4> <div class="textwidget"><p><strong>Save 15% off</strong> any eLuxurySupply mattress order. </p>
+<p><a class="btn-green" href="https://sleepopolis.com/eluxurysupply/">Save 15%</a></p>
+</div>
+</div>  <div id="text-9" class="et_pb_widget widget_text"><h4 class="widgettitle">Mattress Reviews</h4> <div class="textwidget"><ul>
+<li><a href="https://sleepopolis.com/mattress-reviews/leesa-mattress-review/">Leesa</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/casper-mattress-review/">Casper</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/purple-mattress-review/">Purple</a>
+</li>
+<li><a href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-mattress-review/">Loom &amp; Leaf</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/brooklyn-bedding-mattress-review/">Brooklyn Bedding</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/ghostbed-mattress-review/">Ghostbed</a>
+</li>
+<li><a href="https://sleepopolis.com/mattress-reviews/nest-bedding-alexander-hybrid-mattress-review/">Nest Alexander Hybrid</a>
+</li>
+<li><a href="https://sleepopolis.com/mattress-reviews/nest-alexander-mattress-review/">Nest Alexander</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/helix-mattress-review/">Helix</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/tuft-and-needle-mattress-review/">Tuft &amp; Needle</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/saatva-mattress-review/">Saatva</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/amerisleep-mattress-reviews/">Amerisleep</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/eluxurysupply-mattress-review/">eLuxurySupply</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/">See More Reviews</a></li>
 </ul>
 </div>
-		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="text-24" class="fwidget et_pb_widget widget_text"><h4 class="title">Pages</h4>			<div class="textwidget"><ul>
-<li><a href="http://sleepopolis.com/about/">About</a></li>
-<li><a href="http://sleepopolis.com/contact/">Contact</a></li>
-<li><a href="http://sleepopolis.com/faqs/">FAQs</a></li>
-<li><a href="http://sleepopolis.com/scholarships/">Scholarships</a></li>
-<li><a href="http://sleepopolis.com/education/">Sleep Education</a>
+</div>  <div id="text-10" class="et_pb_widget widget_text"><h4 class="widgettitle">Mattress Comparisons</h4> <div class="textwidget"><ul>
+<li><a href="https://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-casper-mattress-reviews/">Tuft &amp; Needle vs. Casper</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/leesa-vs-tuft-needle-mattress-review/">Tuft &amp; Needle vs. Leesa</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/tuft-and-needle-vs-yogabed-mattress-review/">Tuft &amp; Needle vs. Yogabed</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/leesa-vs-yogabed-mattress-review/">Leesa vs. Yogabed</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/leesa-vs-tempurpedic-mattress-review/">Leesa vs. Tempur-pedic</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/casper-vs-leesa-mattress-review/">Casper vs. Leesa</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/helix-vs-casper-mattress-review/">Casper vs. Helix</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/casper-vs-yogabed-mattress-review/">Casper vs. Yogabed</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/casper-vs-tempurpedic-mattress-review/">Casper vs. Tempur-pedic</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-casper-mattress-review/">Loom &amp; Leaf vs. Casper</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/loom-and-leaf-vs-tempurpedic-mattress-review/">Loom &amp; Leaf vs. Tempur-pedic</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/saatva-vs-simmons-beautyrest-black-mattress-review/">Saatva vs. Beautyrest</a>
 </li>
-<li><a href="http://sleepopolis.com/press/">Press</a>
-</li>
-<li><a href="http://sleepopolis.com/store/">Store</a>
-</li>
-<li><a href="http://sleepopolis.com/how-sleepopolis-works/">How Sleepopolis Works</a></li>
+<li><a href="https://sleepopolis.com/mattress-reviews/casper-vs-leesa-vs-tuft-needle-vs-saatva-mattress-review/">Casper vs. Leesa vs. Tuft &amp; Needle vs. Saatva</a></li>
+<li><a href="https://sleepopolis.com/mattress-comparisons/">See More Mattress Comparisons</a></li>
 </ul>
 </div>
-		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
-</div>	<!-- .container -->
-
-		
-				<div id="footer-bottom">
-					<div class="container clearfix">
-				<ul class="et-social-icons">
-
-	<li class="et-social-icon et-social-facebook">
-		<a href="https://www.facebook.com/sleepopolis" class="icon">
-			<span>Facebook</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-twitter">
-		<a href="https://twitter.com/sleepopolis" class="icon">
-			<span>Twitter</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-google-plus">
-		<a href="https://plus.google.com/b/110862055122343744913/+Sleepopolis-mattress-reviews/posts" class="icon">
-			<span>Google</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-rss">
-		<a href="http://sleepopolis.com/feed/" class="icon">
-			<span>RSS</span>
-		</a>
-	</li>
-
+</div>   <div id="recent-posts-2" class="et_pb_widget widget_recent_entries"> <h4 class="widgettitle">Recent Posts</h4> <ul>
+<li>
+<a href="https://sleepopolis.com/blog/nest-bedding-alexander-hybrid-mattress-giveaway/">Nest Bedding Alexander Hybrid Mattress Giveaway</a>
+</li>
+<li>
+<a href="https://sleepopolis.com/blog/designing-a-bedroom-for-better-sleep/">Designing a Bedroom for Better Sleep</a>
+</li>
+<li>
+<a href="https://sleepopolis.com/blog/amerisleep-liberty-giveaway/">Amerisleep Liberty Mattress Giveaway</a>
+</li>
+<li>
+<a href="https://sleepopolis.com/blog/eluxurysupply-hybrid-mattress-giveaway/">eLuxurySupply Hybrid Mattress Giveaway</a>
+</li>
+<li>
+<a href="https://sleepopolis.com/blog/strange-world-of-sleep-disorders-infographic/">The Strange World of Sleep Disorders Infographic</a>
+</li>
 </ul>
-						<p id="footer-info"><a href="/sitemap/">Sitemap</a> | <a href="/privacy-policy/">Privacy</a> | <a href="/disclaimer/">Disclaimer</a> | &nbsp; &nbsp;Copyright © 2016 Halesopolis LLC. All Rights Reserved</p>
-					</div>	<!-- .container -->
+</div>   </div>  
+</div>  
+</div>  
+</div>  
+<footer id="main-footer">
+<div class="container">
+<div id="footer-widgets" class="clearfix">
+<div class="footer-widget"><div id="text-11" class="fwidget et_pb_widget widget_text"><h4 class="title">Mattress Coupons</h4> <div class="textwidget"><p>Want to save a few bucks on your new mattress? Use a <strong>Sleepopolis coupon code to save $50-$250 off instantly!</strong></p>
+<p><a class="btn-green" href="https://sleepopolis.com/coupons/">Click to Save</a></p>
+</div>
+</div>  </div>  <div class="footer-widget"><div id="aboutmewidget-2" class="fwidget et_pb_widget widget_aboutmewidget"><h4 class="title">About</h4> <div class="clearfix">
+<img src="https://sleepopolis.com/wp-content/uploads/2014/09/derek-hales-headshot2-13610_74x74.jpg" id="about-image" alt="">
+Greetings! My name is <a href="https://sleepopolis.com/about/derek-hales/">Derek Hales</a>, author of Sleepopolis. I created Sleepopolis because buying a mattress can be a nightmare! I've experienced it first hand and I wanted to share what I've learned about shopping for mattresses and hopefully help a few people get a better night's sleep! </div>  
+</div>  </div>  <div class="footer-widget"><div id="text-12" class="fwidget et_pb_widget widget_text"><h4 class="title">Reviews</h4> <div class="textwidget"><ul>
+<li><a href="https://sleepopolis.com/mattress-reviews/">Mattress Reviews</a></li>
+<li><a href="https://sleepopolis.com/pillow-reviews/">Pillow Reviews</a></li>
+<li><a href="https://sleepopolis.com/sheet-reviews/">Sheet Reviews</a></li>
+<li><a href="https://sleepopolis.com/mattress-topper-reviews/">Mattress Topper Reviews</a></li>
+<li><a href="https://sleepopolis.com/mattress-protector-reviews/">Mattress Protector Reviews</a></li>
+<li><a href="https://sleepopolis.com/bed-reviews/">Bed Frame Reviews</a></li>
+<li><a href="https://sleepopolis.com/sleep-gadgets/">Sleep Gadget Reviews</a></li>
+<li><a href="https://sleepopolis.com/crib-mattress-reviews/">Crib Mattress Reviews</a></li>
+</ul>
+<ul></ul>
+</div>
+</div>  </div>  <div class="footer-widget last"><div id="text-13" class="fwidget et_pb_widget widget_text"><h4 class="title">Pages</h4> <div class="textwidget"><ul>
+<li><a href="https://sleepopolis.com/about/">About</a></li>
+<li><a href="https://sleepopolis.com/contact/">Contact</a></li>
+<li><a href="https://sleepopolis.com/faqs/">FAQs</a></li>
+<li><a href="https://sleepopolis.com/scholarships/">Scholarships</a></li>
+<li><a href="https://sleepopolis.com/education/">Sleep Education</a>
+</li>
+<li><a href="https://sleepopolis.com/press/">Press</a>
+</li>
+<li><a href="https://sleepopolis.com/store/">Store</a>
+</li>
+<li><a href="https://sleepopolis.com/disclosures/">Disclosures</a></li>
+</ul>
+</div>
+</div>  </div>   </div>  
+</div>  
+<div id="footer-bottom">
+<div class="container clearfix">
+<ul class="et-social-icons">
+<li class="et-social-icon et-social-facebook">
+<a href="https://www.facebook.com/sleepopolis" class="icon">
+<span>Facebook</span>
+</a>
+</li>
+<li class="et-social-icon et-social-twitter">
+<a href="https://twitter.com/sleepopolis" class="icon">
+<span>Twitter</span>
+</a>
+</li>
+<li class="et-social-icon et-social-google-plus">
+<a href="https://plus.google.com/b/110862055122343744913/+Sleepopolis-mattress-reviews/posts" class="icon">
+<span>Google</span>
+</a>
+</li>
+<li class="et-social-icon et-social-rss">
+<a href="https://sleepopolis.com/feed/" class="icon">
+<span>RSS</span>
+</a>
+</li>
+</ul>
+<p id="footer-info"><a href="/sitemap/">Sitemap</a> | <a href="/privacy-policy-legacy/">Privacy</a> | <a style="color: #990000;" href="/privacy-policy/">NEW Privacy (Effective 7/6/17)</a> | <a style="color: #990000;" href="/terms-of-use/">NEW Terms of Use</a> | <a href="/privacy-policy#adchoices">About Our Ads</a>
+					</p></div>	<!-- .container -->
 				</div>
 			</footer> <!-- #main-footer -->
 		</div> <!-- #et-main-area -->
@@ -485,33 +535,31 @@
 
 	</div> <!-- #page-container -->
 
-	<div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_sidebar_withcounts et_social_mobile_on">
+	<div class="et_social_sidebar_networks et_social_visible_sidebar et_social_slideright et_social_animated et_social_rectangle et_social_sidebar_flip et_social_mobile_on">
 					
 					<ul class="et_social_icons_container"><li class="et_social_googleplus">
-									<a href="https://plus.google.com/share?url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="55" data-social_type="share" data-location="sidebar" data-min_count="0">
+									<a href="https://plus.google.com/share?url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_googleplus"></i>
 										
 										
 										<span class="et_social_overlay"></span>
 									</a>
 								</li><li class="et_social_facebook">
-									<a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="55" data-social_type="share" data-location="sidebar" data-min_count="0">
+									<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_facebook"></i>
 										
 										
 										<span class="et_social_overlay"></span>
 									</a>
 								</li><li class="et_social_twitter">
-									<a href="https://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;via=sleepopolis" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="55" data-social_type="share" data-location="sidebar">
+									<a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;via=sleepopolis" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_twitter"></i>
 										
-										<div class="et_social_count">
-						<span>1</span>
-					</div>
+										
 										<span class="et_social_overlay"></span>
 									</a>
 								</li><li class="et_social_reddit">
-									<a href="https://www.reddit.com/submit?url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="reddit" data-post_id="55" data-social_type="share" data-location="sidebar" data-min_count="0">
+									<a href="http://www.reddit.com/submit?url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_reddit"></i>
 										
 										
@@ -523,32 +571,30 @@
 					<div class="et_social_mobile et_social_fadein">
 						<div class="et_social_heading">Share This</div>
 						<span class="et_social_close"></span>
-						<div class="et_social_networks et_social_simple et_social_rounded et_social_left et_social_withcounts">
+						<div class="et_social_networks et_social_simple et_social_rounded et_social_left">
 							<ul class="et_social_icons_container"><li class="et_social_googleplus">
-									<a href="https://plus.google.com/share?url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="googleplus" data-post_id="55" data-social_type="share" data-location="sidebar" data-min_count="0">
+									<a href="https://plus.google.com/share?url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="googleplus" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_googleplus"></i>
 										<div class="et_social_network_label"><div class="et_social_networkname">Google+</div></div>
 										
 										<span class="et_social_overlay"></span>
 									</a>
 								</li><li class="et_social_facebook">
-									<a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="facebook" data-post_id="55" data-social_type="share" data-location="sidebar" data-min_count="0">
+									<a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="facebook" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_facebook"></i>
 										<div class="et_social_network_label"><div class="et_social_networkname">Facebook</div></div>
 										
 										<span class="et_social_overlay"></span>
 									</a>
 								</li><li class="et_social_twitter">
-									<a href="https://twitter.com/share?text=Privacy%20Policy&amp;url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;via=sleepopolis" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="55" data-social_type="share" data-location="sidebar">
+									<a href="http://twitter.com/share?text=Privacy%20Policy&amp;url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;via=sleepopolis" class="et_social_share" rel="nofollow" data-social_name="twitter" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_twitter"></i>
-										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div><div class="et_social_count">
-						<span>1</span>
-					</div></div>
+										<div class="et_social_network_label"><div class="et_social_networkname">Twitter</div></div>
 										
 										<span class="et_social_overlay"></span>
 									</a>
 								</li><li class="et_social_reddit">
-									<a href="https://www.reddit.com/submit?url=http%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share et_social_display_count" rel="nofollow" data-social_name="reddit" data-post_id="55" data-social_type="share" data-location="sidebar" data-min_count="0">
+									<a href="http://www.reddit.com/submit?url=https%3A%2F%2Fsleepopolis.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" class="et_social_share" rel="nofollow" data-social_name="reddit" data-post_id="55" data-social_type="share" data-location="sidebar">
 										<i class="et_social_icon et_social_icon_reddit"></i>
 										<div class="et_social_network_label"><div class="et_social_networkname">reddit</div></div>
 										
@@ -595,7 +641,9 @@
 			</div>
 			<span class="et_bloom_close_button"></span>
 							</div>
-						</div><!-- Google Tag Manager -->
+						</div><style type="text/css" id="et-builder-page-custom-style">
+				 .page.et_pb_pagebuilder_layout #main-content { background-color: rgba(255,255,255,0); }
+			</style><!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KKTD32"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -603,54 +651,53 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KKTD32');</script>
-<!-- End Google Tag Manager --><link rel="stylesheet" id="et_bloom-css-css" href="http://sleepopolis.com/wp-content/plugins/bloom/css/style.css?ver=1.1.8" type="text/css" media="all">
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.17"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<!-- End Google Tag Manager --><link rel="stylesheet" id="et_bloom-css-css" href="https://sleepopolis.com/wp-content/plugins/bloom/css/style.css?ver=1.2.4" type="text/css" media="all">
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-global-functions.js?ver=3.0.51"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/sleepopolis.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+var wpcf7 = {"apiSettings":{"root":"https:\/\/sleepopolis.com\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.3.2"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.3.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var monarchSettings = {"ajaxurl":"http:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/sleepopolis.com\/privacy-policy\/","stats_nonce":"b5b2f31c84","share_counts":"97601c1548","follow_counts":"d3834bf5df","total_counts":"b225a23a9b","media_single":"4eb5157cb2","media_total":"c5e21a46f5","generate_all_window_nonce":"6cd30e8846","no_img_message":"No images available for sharing on this page"};
+var monarchSettings = {"ajaxurl":"https:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/sleepopolis.com\/privacy-policy\/","stats_nonce":"3ff2e17219","share_counts":"783306cd0e","follow_counts":"dd17802a30","total_counts":"e27117c025","media_single":"a811b294ee","media_total":"fc91c252cc","generate_all_window_nonce":"98e8b42363","no_img_message":"No images available for sharing on this page"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/monarch/js/custom.js?ver=1.3.2"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/monarch/js/custom.js?ver=1.3.6"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var qpprFrontData = {"linkData":[],"siteURL":"http:\/\/sleepopolis.com","siteURLq":"http:\/\/sleepopolis.com"};
+var qpprFrontData = {"linkData":[],"siteURL":"https:\/\/sleepopolis.com","siteURLq":"https:\/\/sleepopolis.com"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.1.8"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/quick-pagepost-redirect-plugin/js/qppr_frontend_script.min.js?ver=5.1.8"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpreview = {"ajaxurl":"http:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php"};
+var wpreview = {"ajaxurl":"https:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/wp-review/assets/js/main.js?ver=4.0.6"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-includes/js/comment-reply.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.0.17"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/themes/Divi/js/custom.js?ver=3.0.17"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.0.17"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.0.17"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.0.17"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/wp-review/assets/js/main.js?ver=4.0.6"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-includes/js/comment-reply.min.js?ver=4.8"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/jquery.mobile.custom.min.js?ver=3.0.51"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/themes/Divi/js/custom.js?ver=3.0.51"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/jquery.fitvids.js?ver=3.0.51"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/waypoints.min.js?ver=3.0.51"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/jquery.magnific-popup.js?ver=3.0.51"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var et_pb_custom = {"ajaxurl":"http:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/sleepopolis.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/sleepopolis.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"b3b9ee1b89","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"978946ecea","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"55","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
+var et_pb_custom = {"ajaxurl":"https:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/sleepopolis.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/sleepopolis.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"41e32eae6f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"258689caeb","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","is_builder_plugin_used":"","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","is_ab_testing_active":"","page_id":"55","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.0.17"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/bloom/js/jquery.uniform.min.js?ver=1.1.8"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js?ver=3.0.51"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/bloom/js/jquery.uniform.min.js?ver=1.2.4"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var bloomSettings = {"ajaxurl":"http:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php","pageurl":"http:\/\/sleepopolis.com\/privacy-policy\/","stats_nonce":"84f2613a12","subscribe_nonce":"fdd4740121","is_user_logged_in":"not_logged"};
+var bloomSettings = {"ajaxurl":"https:\/\/sleepopolis.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/sleepopolis.com\/privacy-policy\/","stats_nonce":"2ac1757e35","subscribe_nonce":"0643cb0a6a","is_user_logged_in":"not_logged"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/bloom/js/custom.js?ver=1.1.8"></script>
-<script type="text/javascript" src="http://sleepopolis.com/wp-content/plugins/bloom/js/idle-timer.min.js?ver=1.1.8"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"ae0508e4dc","applicationID":"28573620","transactionName":"blxVZEVVV0JQBk0IW1cWdlNDXVZfHhVYBlE=","queueTime":0,"applicationTime":376,"atts":"QhtWEg1PREw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/bloom/js/custom.js?ver=1.2.4"></script>
+<script type="text/javascript" src="https://sleepopolis.com/wp-content/plugins/bloom/js/idle-timer.min.js?ver=1.2.4"></script>
+
 </body></html>
