@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123164943id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedudes.club privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623161355id_/http%3A//thedudes.club/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Dudes Club
 
@@ -148,5 +148,3 @@ Until the new policy takes effect, you can choose not to accept it and terminate
 This policy is an integral part of the Service [Terms of Use](http://www.thedudes.club/terms-use.html "Terms").
 
 **Last updated: 15th of February 2015**
-
-Nov 25, 2013
