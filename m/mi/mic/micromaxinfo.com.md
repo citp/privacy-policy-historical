@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222053047id_/http%3A//www.micromaxinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micromaxinfo.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623190947id_/http%3A//www.micromaxinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Micromax India | Smartphones, Mobile Phones, Tablets, Laptops, LED TV, Data Card
 
