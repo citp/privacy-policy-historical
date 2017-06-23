@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the spanishcentral.com privacy policy that was archived on 2016-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220041125id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spanishcentral.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623133344id_/http%3A//www.spanishcentral.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en_US" class=" js audio"><head>
 
@@ -108,6 +108,17 @@
     window.quantSegs=[];
     window.gpTagsLastFetchTimestamp = new Date().getTime();
 
+    //WW: init Admik Variable;
+    window.Adomik = window.Adomik || {};
+    Adomik.randomAdGroup = function() {
+        var rand = Math.random();
+        switch (false) {
+            case !(rand < 0.09): return "ad_ex" + (Math.floor(100 * rand));
+            case !(rand < 0.10): return "ad_bc";
+            default: return "ad_opt";
+        }
+    };
+
     if (ads !== null) {
         /*
          * Determine what types of ad-networks are present.
@@ -159,7 +170,8 @@
                                         parseInt(adEntry.data.height)
                                     ],
                                     adEntry.data.id
-                                );
+                                )
+                                .setTargeting('ad_group', Adomik.randomAdGroup())
 
                             /*
                              * Defining targets if any
@@ -774,7 +786,7 @@
 
     <p>Google <a href="http://www.google.com/privacy_ads.html" target="_blank">http://www.google.com/privacy_ads.html</a></p>
 
-    <p>SpotXChange <a href="http://www.spotxchange.com/spx_privacypolicy.html#opt_out_link" target="_blank">click here</a>. When you select this option, SpotXchange sets a persistent "opt-out cookie" to prevent information from being uniquely associated with your browser.</p>
+    <p>SpotXChange <a href="http://www.spotxchange.com/spx_privacypolicy.html#opt_out_link" target="_blank">http://www.spotxchange.com/spx_privacypolicy.html#opt_out_link</a>. When you select this option, SpotXchange sets a persistent "opt-out cookie" to prevent information from being uniquely associated with your browser.</p>
 
     <p>ValueClick <a href="http://www.valueclickmedia.com/member_privacy.shtml" target="_blank">http://www.valueclickmedia.com/member_privacy.shtml</a>. We have contracted with ValueClick to monitor certain pages of our site for the purpose of reporting traffic, statistics, advertisement 'click-throughs', and/or other activities on our site. Where authorized by us, ValueClick and its business partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our visitors. No personally identifiable information is collected by or transferred to any party other than the advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at <a href="http://www.valueclickmedia.com/member_privacy.shtml" target="_blank">http://www.valueclickmedia.com/member_privacy.shtml</a>.</p>
 
@@ -887,21 +899,21 @@
 
     <div class="main_content">
     	<div class="wod_image">
-							<a href="/word-of-the-day" title="to agree to, to assume">
-					<img src="http://assets.merriam-webster.com/sc/word_of_the_day/images/1322/thumb.jpg" alt="Acceder Illustration">
+							<a href="/word-of-the-day" title="garbage">
+					<img src="http://assets.merriam-webster.com/sc/word_of_the_day/images/1466/thumb.jpg" alt="Basura Illustration">
 				</a>
 					</div>
 
         <div class="wod_content">
         	<div class="wod_word">
-				<a href="/word-of-the-day" title="acceder">
-					acceder				</a>
+				<a href="/word-of-the-day" title="">
+									</a>
 				
-				<a class="a_play wod_listen_right" href="#" data-lang="es" data-dir="a" data-word="acceder" data-file="acced01sp"><i class="fa fa-volume-up"></i></a>
+				<a class="a_play wod_listen_right" href="#" data-lang="es" data-dir="b" data-word="basura" data-file="basur01sp"><i class="fa fa-volume-up"></i></a>
             </div>
 
             <div class="wod_short_def">
-				<a href="/word-of-the-day" title="to agree to, to assume">to agree to, to assume</a>
+				<a href="/word-of-the-day" title="garbage">garbage</a>
             </div>
 
             <div class="url_learn_more">
@@ -1074,7 +1086,7 @@
                             </ol>
                         </div>
                         <div class="copyright">
-                            <a href="/terms-of-use#copyright">© 2016 Merriam-Webster, Incorporated</a>
+                            <a href="/terms-of-use#copyright">© 2017 Merriam-Webster, Incorporated</a>
                                                     </div>
                     </div>
                 </div>
