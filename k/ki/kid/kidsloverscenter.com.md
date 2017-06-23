@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kidsloverscenter.com privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712075755id_/http%3A//www.kidsloverscenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsloverscenter.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623080756id_/http%3A//www.weetnow.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KidsLoversCenter
+# Privacy Policy - WeetNow
 
-[Home](http://www.kidsloverscenter.com/) Privacy Policy
+[Home](http://www.weetnow.net/) Privacy Policy
 
-The owners of www.kidsloverscenter.com follow a very strict privacy policy. Being an established health & beauty website, we cater to the needs of the users and do not meddle with their privacy in any form whatsoever.
+The owners of www.weetnow.com follow a very strict privacy policy. Being an established news and media website, we cater to the needs of the users and do not meddle with their privacy in any form whatsoever.
 
   1. We value the trust you have in us by giving us your personal information. We will always use your personal information in a manner that is justified and worthy of that trust.
   2. We will provide clear information about how we use your personal information. We shall maintain transparency with you about the information we collect, what we do with it, with whom we share it and who you should contact lest you have any concerns.
@@ -50,8 +50,8 @@ You should keep in mind that when you visit any third party website from our web
 
 **Will there be any changes to this Privacy Policy?**
 
-kidsloverscenter reserves the right to change this privacy policy from time to time with or without notice. If we decide to change our privacy policy, we will post those changes here itself.
+weetnow reserves the right to change this privacy policy from time to time with or without notice. If we decide to change our privacy policy, we will post those changes here itself.
 
 **NOTE:**   We suggest you go through our privacy policies on a regular basis to ensure you understand our current policies.
 
-In case you have any query or question regarding our privacy policy, you may contact us at timesfullofficial@gmail.com
+In case you have any query or question regarding our privacy policy, you may contact us at weetnowofficial@gmail.com
