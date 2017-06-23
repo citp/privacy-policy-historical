@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224342id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yankeecandle.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623232834id_/http%3A//www.yankeecandle.com/customer-service/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security | Yankee Candle
 
 By continuing to use our site you agree to us using cookies in accordance with our [COOKIE POLICY](http://www.yankeecandle.co.uk/pages-uk-en/customer-service/privacy-cookie-policy) ACCEPT & CLOSE
-
-[](https://web.archive.org/customer-service/shipping-information)
-
-[](https://web.archive.org/ "logo")
 
 [Logout ](https://web.archive.org/index.jsp?_DARGS=/global/headerSignIn.jsp_A&_DAV=logout)
 
@@ -21,21 +17,24 @@ By continuing to use our site you agree to us using cookies in accordance with o
   
 
 
-  * [Shop By Fragrance](https://web.archive.org/includes/browse/shopByFragrance.jsp "Shop By Fragrance")
-  * [Shop by Color](https://web.archive.org/browse/candles/shop-by-color/_/N-9z3 "Shop by Color")
-  * [Large Candles](https://web.archive.org/browse/large-candles/_/N-9zn "Large Candles")
-  * [New](https://web.archive.org/browse/new-arrivals/_/N-a0g "New")
-  * [Personalized Photo Candles](https://web.archive.org/customer-service/customized-candles "Personalized Photo Candles")
-  * [Get the Look](https://web.archive.org/browse/get-the-look-home-d%C3%A9cor/_/N-a2m "Get the Look")
-  * [Holiday](https://web.archive.org/browse/holiday/_/N-a8x "Holiday")
+[](https://web.archive.org/ "Yankee Candle Company")
+
+  * [**Shop By Fragrance**](https://web.archive.org/includes/browse/shopByFragrance.jsp "Shop By Fragrance")
+  * [**Shop by Color** ](https://web.archive.org/browse/candles/shop-by-color/_/N-9z3 "Shop by Color")
+  * [**Large Candles** ](https://web.archive.org/browse/large-candles/_/N-9zn "Large Candles")
+  * [**New Arrivals** ](https://web.archive.org/browse/new-arrivals/_/N-a0g "New Arrivals")
+  * [ **Personalized Photo Candles** ](https://web.archive.org/candleConfigurator/cchomepage.jsp "Personalized Photo Candles")
+  * [**Get the Look** ](https://web.archive.org/browse/get-the-look-home-d%C3%A9cor/_/N-a2m "Get the Look")
 
 
+
+[](https://web.archive.org/customer-service/shipping-information)
 
 You can track your order by providing your order number.
 
 **Please Note:** You can check the status of orders placed within the last 30 days. Any tracking information will not be provided until after midnight ET of the day your package ships.
 
-**Be the first to know!** Sign up to receive exclusive news and special offers on ways to create a warm and welcoming home with Yankee Candle.
+**Be the first to know!** Sign up to receive exclusive news and special offers on ways to create a warm and welcoming home.
 
 X
 
@@ -44,6 +43,9 @@ Please enter a valid email address
 Your browser preferences are set to disable/block session cookies.  
 In order to proceed, session cookies must be enabled.  
 If you need guidance on enabling cookies, please refer to your browser's Help menu.
+
+  
+
 
   * [Home](https://web.archive.org/)
   * [Customer Service](https://web.archive.org/customer-service)
@@ -81,7 +83,7 @@ When you visit our Web site, place an order, request a catalog, otherwise intera
 
 
 **Third Party Advertisements**  
-We may also use third parties to serve ads on our Web site. We may authorize certain third parties to automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Web site, the kind of product you purchased (but not your name, address, email address, or telephone number). They do this using cookies, clear gifs, or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If wish to opt out of the use your information by third party advertisers visit the NAI website at:[www.networkadvertising.org.] If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.aboutads.info/choices/>
+We may also use third parties to serve ads on our Web site. We may authorize certain third parties to automatically collect information about your visits to this and other websites, your IP address, your ISP, the browser you use to visit our Web site, the kind of product you purchased (but not your name, address, email address, or telephone number). They do this using cookies, clear gifs, or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Site and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. This provision is inapplicable or unenforceable in the State of New Jersey. If wish to opt out of the use your information by third party advertisers visit the NAI website at:[www.networkadvertising.org.] If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://www.aboutads.info/choices/>
 
 **Use of Information**  
 We use information we collect for the following purposes. We use information to analyze, manage and improve our Web site so that we may continually strive to provide you with the best shopping experience that we possibly can. Information on traffic patterns and the number of page visits and the like helps us to further develop and improve our Web site layout to better meet your needs. Of course, we also use information such as your name, address, phone number, e-mail address and credit card information to contact you, create your account, respond to your inquiries, send you a catalog and to process, deliver and receive payment for your purchases, and provided you the service that you requested (e.g., enter you into a sweepstakes). We may use such information to send you a promotional materials (e.g., a catalog or notify you of services, special offers, new products and other services that we believe may be of interest to you), or to send you administrative emails (e.g., notify you of important new changes in our Web site). We use collected information to help us diagnose problems with our server or other technical issues relating to the performance of the Web site. We may also use this information to improve our products and services and for internal business purposes, such as generating statistics and developing marketing plans.
@@ -92,7 +94,7 @@ We use information we collect for the following purposes. We use information to 
 
 ###  3\. Security
 
-Yankee Candle takes reasonable precautions to protect the security of your personal information. Our Web site is hosted on servers that utilize SSL server software. Any credit card information that you provide is encrypted while it is being transmitted over the Internet in order to reduce the possibility that such information can be read by an unauthorized person. Any credit card information collected by us is stored in files held behind a firewall designed to protect your information and to deny unauthorized access by outside users. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we use reasonable efforts to protect your personal information, we cannot guarantee its absolute security.
+Yankee Candle takes reasonable precautions to protect the security of your personal information. Our Web site is hosted on servers that utilize SSL server software. Any credit card information that you provide is encrypted while it is being transmitted over the Internet in order to reduce the possibility that such information can be read by an unauthorized person. Any credit card information collected by us is stored in files held behind a firewall designed to protect your information and to deny unauthorized access by outside users. No method of transmission over the Internet, or method of electronic storage, is 100% secure.
 
 [Return to Customer Service Home](https://web.archive.org/customer-service)
 
@@ -110,7 +112,7 @@ South Deerfield, MA 01373-0110
 
 Despite your indicated e-mail or mail preferences, we may send you service related communication. For example, we may send you notices of any updates to our Terms of Use or Privacy Policy and when you purchase from us online or through our catalogs, or when you choose to enter a sweepstakes or other promotion, we may need to contact you via phone, email or mail to address questions or issues specific to your order or for other service-related reasons, even if you have opted to not receive promotional communications.
 
-If you wish to opt out of sharing information associated with the activities identified in the Third Party Advertisements section above, as noted above visit the NAI website at: [www.networkadvertising.org](https://web.archive.org/www.networkadvertising.org).
+If you wish to opt out of sharing information associated with the activities identified in the Third Party Advertisements section above, as noted above visit the NAI website at: [www.networkadvertising.org](https://web.archive.org/web/20170623232834id_/http%3A//www.yankeecandle.com/customer-service/www.networkadvertising.org).
 
 [Return to Customer Service Home](https://web.archive.org/customer-service)
 
@@ -180,4 +182,4 @@ We do not intentionally gather personally identifiable information from visitors
 
 [Return to Customer Service Home](https://web.archive.org/customer-service)
 
-Copyright 2016 The Yankee Candle Company, Inc. All Rights Reserved [ ](https://www.bizrate.com/ratings_guide/merchant_detail__mid--138631.html?rf=sur "See Yankee Candle Company Review at Bizrate.com") [](http://secure.trust-guard.com/security/8227) [SSL Certificate](https://www.digicert.com/ssl-certificate.htm)
+Copyright 2017 The Yankee Candle Company, Inc. All Rights Reserved [ ](https://www.bizrate.com/ratings_guide/merchant_detail__mid--138631.html?rf=sur "See Yankee Candle Company Review at Bizrate.com") [](http://secure.trust-guard.com/security/8227) [SSL Certificate](https://www.digicert.com/ssl-certificate.htm)
