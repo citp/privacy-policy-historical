@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingdive.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215035625id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingdive.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623050815id_/http%3A//www.industrydive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Industry Dive
 
