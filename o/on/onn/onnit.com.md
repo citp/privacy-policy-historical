@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onnit.com privacy policy that was archived on 2015-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151127024840id_/http%3A//www.onnit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onnit.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623115823id_/https%3A//www.onnit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Onnit
 
@@ -91,7 +91,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 http://www.onnit.com
 
-2101 E St. Elmo Rd. Suite 320  
+4401 Freidrich Ln, Suite 302  
 Austin, TX 78744  
 US  
 info@onnit.com  
