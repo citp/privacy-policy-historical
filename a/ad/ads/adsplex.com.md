@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adsplex.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123100917id_/http%3A//www.adsplex.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsplex.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623142736id_/http%3A//www.adsplex.com/Privacy) for the most accurate reproduction.*
 
 # AdsPlex.com - The CPM RTB Network - We accept Paypal and Skrill
 
