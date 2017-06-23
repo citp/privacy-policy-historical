@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the drivearcade.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125021544id_/http%3A//www.drivearcade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivearcade.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623131742id_/http%3A//www.drivearcade.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/ "home")
 
 Ideal Internet, Inc. we appreciate our relationship with you, respect that your information is yours, and is committed to safeguarding your privacy when you're using [drivearcade.com](http://www.drivearcade.com/). The following describes our collection of and use of any information that we may collect from you. 
 
