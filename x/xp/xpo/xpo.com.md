@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpo.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211144933id_/http%3A//www.xpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpo.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624013123id_/http%3A//www.xpo.com/privacy-policy) for the most accurate reproduction.*
 
 # | XPO Logistics
 
@@ -72,12 +72,9 @@ This Privacy Policy describes XPO Logistics’ current data protection policies 
 
 Please address any questions or comments about or arising from this Privacy Policy to:
 
-**XPO Logistics, Inc.**
-
-Attn: General Counsel
-
-Five Greenwich Office Park
-
+**XPO Logistics, Inc.**  
+Attn: General Counsel  
+Five American Lane  
 Greenwich, CT 06831
 
 **Acknowledgement**
