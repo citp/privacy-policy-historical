@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnify.net privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115104651id_/http%3A//enterprise.waywire.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnify.net privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623143312id_/http%3A//enterprise.waywire.com/terms-privacy) for the most accurate reproduction.*
 
 # Privacy | Waywire Enterprise – The Video Curation Platform For Brands and Publishers
 
