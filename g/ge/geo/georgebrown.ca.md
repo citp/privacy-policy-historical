@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622173756id_/http%3A//www.georgebrown.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgebrown.ca privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623164531id_/http%3A//www.georgebrown.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,9 +46,9 @@ If you have provided your consent and are receiving emails, you may at any time 
 
 ### **Use of technology on the website**
 
-The Website uses cookie technology to make your use of the Website more convenient. A cookie is a text file which enables the Website to store any information about your activities on the Website or the length of your stay. Personal information about your visits to the Website is used on an aggregate basis, which means it is used for statistical purposes to assist us in enhancing your online experience, or to evaluate the materials that we may carry on the Website.
+The Website uses cookie technology to make your use of the Website more convenient. A cookie is a text file which enables the Website to store any information about your activities on the Website or the length of your stay. If you choose to disable cookies associated with the Website, this may affect your use of the Website and your ability to access certain features of the Website. 
 
-If you choose to disable cookies associated with the Website, this may affect your use of the Website and your ability to access certain features of the Website.
+We also log visits to the Website. Our logs include data about visitors’ operating systems, web browser types and information about how users entered our site (e.g., search terms and links) and what users do on the Website. We use this data to understand how our website is located and used and to plan for future enhancements of our website. We log this information by IP address and, if you subscribe to one of our web based accounts, by your account.
 
 ### **E-mail list**
 
