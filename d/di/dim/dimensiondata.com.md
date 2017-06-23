@@ -1,175 +1,184 @@
-> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201080248id_/http%3A//www.dimensiondata.com/global/policies/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensiondata.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623081734id_/http%3A//www.dimensiondata.com/global/policies/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Dimension Data Privacy Policy
+# Dimension Data Privacy Statement
 
-For purposes of this Dimension Data Privacy Policy, "Dimension Data" shall mean Dimension Data Holdings plc, and all of its direct and indirect subsidiaries. Please note that this Privacy Policy does not apply to information that we handle on behalf of our clients in our role as a service provider.  Such information is governed by the terms of the applicable client agreement and the Group Data Privacy and Protection Policy, rather than by this Privacy Policy.  
- 
+**1\. Introduction**
 
-  1. ​​ **Privacy at Dimension Data**
+Dimension Data Holdings plc and its affiliates (collectively “Dimension Data”) understand the importance of protecting your personal data.
 
-For purposes of this Privacy Policy, “Dimension Data”, “we”, “us” and “ours” means Dimension Data Holdings plc and all of its direct and indirect subsidiaries.  
-Dimension Data understands the importance of protecting your personal information.  This Privacy Policy sets out the ways in which Dimension Data handles personal information, including personal information collected through our website..
+This Privacy Statement sets out how Dimension Data manages your personal data and applies to Dimension Data websites that link to it. Some Dimension Data sites may have their own privacy statements which will control, to the extent that there is a conflict with this Privacy Statement.
 
-  2. **What is personal information?**
+**2\. What personal data we collect**
 
-When used in this Privacy Policy, “personal information” is any information that identifies or can be used to personally identify you.  This includes such things as your name, address, telephone number, and email address.
+When you interact with us, we may collect personal data from you. You can choose not to provide personal data when requested. However, if you choose not to, and this is necessary to provide you with our solutions and services or access to our websites, we may be unable to do so.
 
-  3. **What personal information do we collect?​**
+Depending on how you interact with us, personal data we collect may include:
 
-We collect personal information in order to provide our services and solutions, to conduct our business and to improve our products, services, and client service, and for certain other purposes explained below.  
-The type of information we collect will depend on the purpose for which it is collected and used. We will only collect information to the extent that is reasonably necessary for that purpose.  
-The types of personal information that we might collect include, but are not limited to, the following:
+  * your first and last name, email address, postal address, phone number and other contact information;
+  * log-in and account information for authentication purposes and account access;
+  * your marketing preferences;
+  * demographic data such as your gender, age, country and preferred language;
+  * data about how you and your PC or device interact with Dimension Data, including web pages you visit when you use our websites and device, connectivity and configuration data.
 
-    * ​name;
-    * title or position;
-    * company name and details; 
-    * business address;
-    * e-mail address;
-    * phone number;
-    * fax number;
-    * information that you provide to us through cistomer surveys; and
-    * information when you register for Dimension Data events and seminars.
 
-We do not normally collect sensitive information about you such as information relating to your health, religion, political beliefs or race.
 
-If your organisation is a Dimension Data client and you do not agree to provide us with your personal information, this may limit our ability to provide our services and solutions to your organisation.
+We do not generally collect sensitive personal data about you, including information relating to your health, religion, political beliefs, race or sexual orientation, except with your consent or unless we are required to do so by law.
 
-This clause will only be applicable to the extent that you have applied for employment using our website.  If you apply for employment with Dimension Data, we also may collect personal information including details contained in letters of application and CV/résumé, previous employment background, education history, work-related licenses, certifications, or other professional credentials, and language(s) and other relevant skills.  You may also voluntarily choose to provide other relevant information as part of your application.  If you intend to provide us with personal information of a reference or any other third party as part of your application for employment, it is your responsibility to obtain consent from that third party prior to providing the personal information to us.
+If we link other data with your personal data, we will treat that linked data as personal data.
 
-  4. **How do we collect personal information?**
+**3\. How we collect personal data**
 
-We collect information directly from you and may collect your personal information in various situations, including the following: 
+We may collect your personal data in a variety of ways when you interact with us, including when:
 
-    * ​when you place purchase orders;
-    * when we respond to your inquiries and requests;
-    * during conversations or email exchanges between you and our representatives;
-    * when we obtain feedback from you about our solutions and services;
-    * when we conduct our administrative and business functions;
-    * when you register for our events, workshops and seminars or subscribe to our mailing lists and newsletters;
-    * when we market our solutions and services to you; 
-    * through your access and use of our websites; and
-    * if you apply for employment with us.
+  * you purchase our solutions and services;
+  * you create an account with us;
+  * we process orders and payment transactions;
+  * we respond to your inquiries and requests;
+  * there are communications between you and our representatives;
+  * we obtain feedback from you about our solutions and services;
+  * we conduct our administrative and business functions;
+  * you register for our events, workshops and seminars;
+  * you subscribe to our mailing lists and newsletters;
+  * we market our solutions and services to you;
+  * you access and use our websites;
+  * you apply for employment with us.
 
-We may at times obtain personal information that relates to you through third parties.  For example, we may collect personal information from public databases, business partners, or third parties that provide list enhancement or similar services, to the extent permitted by applicable law.
 
-We may at times also supplement the information that you provide to us with information we receive from other companies in the Dimension Data group of companies in order to offer you a more consistent and personalized experience in your interactions with Dimension Data..
 
-Where possible, we will inform you what information you are required to provide to us and what information is optional.  
+We may also collect your personal data from third party sources and third parties including public databases, business partners with whom we offer co-branded services or engage in joint marketing activities, and third parties that provide list enhancement or similar services, to the extent permitted by applicable law.
 
+When you use our websites, we may and third parties we engage may automatically collect data, including personal data through use of cookies and similar technologies. For more information, see the "Cookies and Similar Technologies" section below.
 
-  5. **For what purposes do we collect, hold, use and disclose personal information?**
+**4\. Purposes for which we collect and use personal data**
 
-We will use your personal information only for the purposes for which it was collected or agreed with you.  For example, we collect, hold, use and disclose personal information for the following purposes:
+We collect and use personal data to:
 
-    * ​to send communications;
-    * to establish, manage, and maintain our business relationships;
-    * to respond to inquiries and requests;
-    * to develop, provide, and improve our services and solutions;
-    * to inform you about our services and solutions;
-    * to obtain feedback from you on our services and solutions;
-    * to provide you with a more personalised experience when you interact with us;
-    * to conduct administrative and business functions;
-    * to update our records and keep contact details up to date;
-    * to enable you to subscribe to our website, newsletters and mailing lists and to register for Dimension Data events, workshops and seminars;
-    * to process your application for employment with us, evaluate whether your qualifications may suitable for other employment positions with Dimension Data, and for employment-related purposes if you are hired;
-    * to assess the performance of our websites and to improve its operation;
-    * to process and respond to privacy complaints; 
-    * to comply with any law, rule, regulation, lawful and binding determination, decision or direction of a regulator; industry codes to which we subscribe or which apply to us, in co-operation with any governmental authority of any country; or as we otherwise believe to be necessary or appropriate under applicable law. 
-  6. **To whom do we disclose personal information?**
+  * send communications to you;
+  * establish, manage, and maintain our business relationships;
+  * respond to inquiries and requests;
+  * develop, provide, and improve our services and solutions;
+  * inform you about our services and solutions;
+  * obtain feedback from you on our services and solutions;
+  * provide you with a more personalised experience when you interact with us;
+  * conduct administrative and business functions;
+  * update our records and keep contact details up to date;
+  * enable you to effectively use and to improve our websites, 
+  * compile website usage statistics;
+  * enable you to subscribe to newsletters and mailing lists;
+  * enable you to register for Dimension Data events, workshops and seminars;
+  * recruit staff;
+  * assess the performance of our websites and to improve their operation;
+  * process and respond to privacy questions, concerns and complaints;
+  * fulfil legal and contractual obligations.
 
-We may disclose your personal information to our affiliates for the purposes set out in paragraph 5 above and to other group companies in the Dimension Data group of companies as set out in paragraph 4. 
 
-We may also disclose your personal information to:  
 
+**5\. Sharing your personal data**
 
-    * ​​​  ​contractors, suppliers, and other third parties who provide business, marketing, and other services to us;
-    * a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets or stock; and  
-    * regulators, courts/tribunals, and other governmental authorities of any country, or other recipients as we believe to be necessary or appropriate under applicable law.
+We may share your personal data for the purposes above with:
 
-We will ensure that we have agreements in place with the above mentioned third parties to ensure adequate and equivalent protection for your personal information and that such parties comply with appropriate security, privacy and confidentiality obligations to ensure that personal information that we remain responsible for, is kept secure.
+  * our affiliates and subsidiaries;
+  * business partners, vendors, or contractors to provide requested services or facilitate transactions, including but not limited to processing of orders, assisting with sales-related activities or post-sales support, and providing customer support. Any third parties with whom we share personal data are contractually required to implement appropriate data protection and security measures and are not permitted to use personal data for any purpose other than the purpose for which they are given access;
+  * in connection with, any joint venture, merger, sale of company assets, consolidation or restructuring, financing, or acquisition of all or a portion of our business by or to another company.
+  * in response to a request for information by a competent authority in accordance with, or required by any applicable law, regulation or legal process. 
+  * where necessary to comply with judicial proceedings, court orders or government orders.
+  * to protect the rights, property or safety of Dimension Data, its business partners, you, or others, or as otherwise required by applicable law.
+  * where you consent to the sharing of your personal data.
 
-To the extent permitted by applicable law, we may also disclose your personal information:  
 
 
-    * ​​​  ​where we have a duty or a right to disclose in terms of laws; and
-    * where we believe it is necessary to protect our rights.  
+**6\. Onward transfers**
 
-Our website may allow you to post questions or comments that will be viewable by other visitors.  Please note that any such information may be available to the general public.  We urge you to exercise to exercise caution when deciding to post any personal information online.
+As a global company, Dimension Data may transfer your personal data to countries where we do business in connection with the purposes identified above and in accordance with this Privacy Statement.
 
-We do not provide your personal information to unaffiliated third parties for their third-party direct marketing purposes.
+Where we transfer your personal data from a location within the European Economic Area (the "EEA") or Switzerland to a country outside the EEA or Switzerland and that country does not provide a level of protection for personal data which the European Commission (“Commission”) deems adequate, we adhere to the standard contractual clauses (“SCCs”) approved by the Commission, and applicable data protection laws in the EEA which give you the following rights: 
 
-  7. **Do we disclose personal information to recipients in other countries?**
+  * where Dimension Data processes your personal data based on your consent, you may withdraw your consent at any time for future processing;
+  * you may request access to and correction of your personal data which is held by us at any time;
+  * you may object to the processing of your personal data at any time; 
+  * you may lodge a complaint with a data protection authority if you believe that your rights relating to protection of your personal data have been breached or that your personal data has been compromised.
 
-Your personal information may be stored and processed in any country where Dimension Data has offices or where we engage service providers.  Some of these countries may have different data protection laws than your country of residence.  We will comply with all applicable laws when storing and processing your personal information in other countries and ensure that we have agreements in place where necessary to protect your personal information.
 
-  8. **How do we store and secure personal information?**
 
-We provide adequate protection for your personal information in our possession including appropriate and reasonable technical, physical and organisational measures and precautions to protect personal information from misuse, loss, unauthorised access, modification or disclosure using a combination of physical, administrative and technical safeguards.  We will, on an ongoing basis, continue to review our security controls and related processes to ensure that your personal information in our possession is secure.
+Where Dimension Data transfers your personal data to third parties, Dimension Data requires those third parties to sign agreements which include the SCCs (or other data transfer mechanism approved by the Commission).
 
-Access to your personal data will be limited to individuals who have a legitimate business need to access your personal data.
+**7\. Security of your personal data**
 
-Dimension Data’s website is linked to the internet, and as the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us online.  Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure.  Accordingly, any personal information or other information which you transmit to us online is transmitted at your own risk.  
+Dimension Data is committed to protecting your personal data from misuse, loss, unauthorised access, modification or disclosure by using a combination of physical, administrative and technical safeguards and contractually requiring that third parties to whom we disclose your personal data do the same.
 
+When you submit or post personal data online, you should be aware that the internet is not completely secure. Dimension Data cannot guarantee the security of any personal data that you submit or post online.
 
-  9. **Direct marketing**
+**8\. Direct marketing**
 
-To the extent permitted by applicable law, we may send you direct marketing communications and information about our services and solutions that we consider may be of interest to you.  We may send communications in various forms, including mail, SMS, fax and email, in accordance with applicable laws.
+You can choose whether you wish to receive marketing communications from Dimension Data by email, SMS, post and phone. Even when you have agreed to this, you may opt out of receiving marketing materials from us at any time and manage your communication preferences by:
 
-If you do not wish to receive direct marketing communications from a Dimension Data entity, you may opt-out of receiving them by using the opt-out mechanisms provided in those communications.  
+  * following the unsubscribe instructions included in each marketing email or SMS text message from us;
+  * sending an email to Queries@dimensiondata.com; or
+  * writing to us at Private Bag X127, Bryanston, 2021 including your details and a description of the marketing material you no longer wish to receive from us. We will comply with your request as soon as is reasonably practicable.
 
-We will try to comply with your request(s) as soon as reasonably practicable.  Please also note that if you do opt-out of receiving marketing-related communications from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.  
 
 
-  10. **How can you access and correct personal information?**
+If you opt out of receiving marketing related communications from us, we may still send you administrative messages as part of your ongoing use of our websites, solutions or services. 
 
-You have a right to ask us to update, correct or delete your personal information.  If you wish to access, correct, update, suppress, or delete your personal information that has been previously provided to us, please send a written request using the contact details set out below:
+We do not provide your personal data to unaffiliated third parties for direct marketing purposes or sell, rent, distribute or otherwise make personal data commercially available to any third party.
 
-Email: [groupprivacy@dimensiondata.com](mailto:groupprivacy@dimensiondata.com)
+**9\. How you can access, correct, update, block or delete your personal data**
 
-Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting such change or deletion.
+If you wish to access, correct, update, block, or delete personal data that we hold about you, please write to us using the contact details set out at the end of this Privacy Statement. We will respond within a reasonable period and at the latest within 30 days of the date of your request.
 
-We would appreciate it if you would keep your personal information accurate. Please update your information whenever your details change.  
+**10\. Cookies and Similar Technologies**
 
+When you access our websites, we use cookies (small text files containing a unique ID number which are placed on your PC or device) and similar technologies including scripts, embedded web links, web beacons, Local Shared Objects (flash cookies) and Local Storage (HTML 5) to assist us to do things such as:
 
-  11. **Using our websites**
+  * enabling you to sign in;
+  * authenticating you;
+  * keeping track of information you have provided to us;
+  * improving your browsing experience;
+  * customising our interactions with you;
+  * storing and managing your preferences and settings;
+  * compiling statistical data;
+  * analysing the performance and usability of our websites;
+  * measuring website traffic patterns;
+  * determining which areas of our websites have been visited.
 
-When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer or mobile device.  This enables us to distinguish you from other users of our website and recognise your computer or mobile device. This helps us to provide you with a better experience when you browse our website.  We also use cookies to measure traffic patterns and to determine which areas of our website have been visited.  If you do not wish to receive cookies, you can set your browser so that your computer does not accept them, however, note that our website requires cookies to operate effectively.  If you continue using our website, you accept the use of cookies.  .  We do not use cookies to track your internet activity before or after you leave the Dimension Data environment. 
 
-For a clear and comprehensive description on the cookies that are used and/or stored by Dimension Data, please see our [Cookie Policy](https://web.archive.org/Global/Policies/Pages/Dimension-Data-Cookie-Policy.aspx). 
 
-In order to help ensure that appropriate data protection and privacy considerations are applied to your access and use of our website in accordance with applicable laws, we are required to identify the country from which you access and use our website. By accessing and using our website: (i) you warrant and represent that you have not taken any measures whatsoever to obscure your internet protocol address (which is the electronic addresses of computers or mobile devices connected to the internet) (“IP address”) in such a way as to make it impossible for our systems to identify the country from which you access and use our website; and (ii) you warrant, represent, and agree that should you access and use our website in contravention hereof (i) you do so entirely at your own risk and you disclaim any rights you may contend to have with respect to your country’s data protection and privacy considerations.  You further hold Dimension Data harmless against any claims, including claims made by relevant authorities, arising out of your deliberate actions to obscure your IP address.
+These technologies collect information that your browser sends to our websites including your browser type, information about your IP address (a unique identifier assigned to your computer or device which allows your PC or device to communicate over the Internet), together with the date, time and duration of your visit, the pages you view and the links you click.
 
-We may use Flash local shared objects (LSOS) and other technologies to, among other things, collect and store information about your use of the Services.  If you do not want Flash LSOs stored on your computer, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel. You can also control Flash LSOs by going to the Global Storage Settings Panel and following the instructions (which may include instructions that explain, for example, how to delete existing Flash LSOs (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer or mobile device without you being asked, and (for Flash Player 8 and later) how to block Flash LSOs that are not being delivered by the operator of the page you are on at the time).  Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with the Services or our online content. 
+Our sites may also contain web beacons or similar technologies from third party analytics providers, through which they collect information about your online activities across our websites to help us compile aggregated statistics about the effectiveness of marketing campaigns or other business operations.
 
-Any activity you participate in on our website may be monitored.  We may log IP addresses (that is, the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track users movements, and gather broad demographic information.
+For more information on how we use cookies and other technologies, please see our Cookies Policy [http://www.dimensiondata.com/Global/Policies/Pages/Dimension-Data-Cookie-Policy.aspx](https://web.archive.org/Global/Policies/Pages/Dimension-Data-Cookie-Policy.aspx).
 
-Our website may contain links to other websites operated by third parties.  We make no representations or warranties in relation to the privacy practices of any third party website and we are not responsible for the privacy policies or the content of any third party website.    
+**11\. Links to third party websites and applications**
 
+Our websites may contain links to sites and applications operated by third parties. We make no representations or warranties in relation to the privacy practices of any third party site or application and we are not responsible for any third party content or privacy statements. Your use of such sites and applications is subject to the relevant third party privacy statements.
 
-  12. **Retention period**
+**12\. Retaining your personal data**
 
-We will retain your personal information for the period necessary to fulfil the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+We retain your personal data for as long as is necessary to fulfil the purposes for which it was collected, or to comply with legal obligations, resolve disputes, protect our assets, or enforce agreements. Depending on the purpose, retention periods will vary. The criteria we use to determine retention periods include whether:
 
-  13. **Changes to our Privacy Policy**
+  * we are under a legal, contractual or other obligation to retain personal data including pursuant to data retention laws, as part of an investigation or for litigation purposes;
+  * personal data is needed to provide our solutions and services business including performance improvement and to maintain accurate business and financial records;
+  * there are automated means to enable you to access and delete your personal data at any time. We will generally retain personal data for a shorter period of time, where this is not the case;
+  * the personal data is sensitive personal data in which event we will generally retain this for a shorter period of time;
+  * you have consented to us retaining your personal data for a longer retention period, in which case, we will retain personal data in line with your consent.
 
-We may change this Privacy Policy from time to time.  Any updated versions of this Privacy Policy will be posted on our website.  Please review this page regularly.
 
-  14. **Contacting us**
 
-If you have any questions or concerns about how your personal information is being handled by Dimension Data, please contact us as follows: 
+**13\. Changes to our Privacy Statement**
 
-**Email** : [groupprivacy@dimensiondata.com](mailto:groupprivacy@dimensiondata.com)
+We may update this Privacy Statement from time to time. If we do, we will post the revised version, with an updated revision date.
 
- **Post** :  
-Dimension Data - Group Compliance Officer Hillel Shrock  
+**14\. How to contact us**
+
+If you have any questions about how your personal data is handled by Dimension Data, you have a privacy concern or you wish to make a complaint, please contact our Data Privacy Officer as follows:
+
+**Email** : groupprivacy@dimensiondata.com  
+ **Phone** : +27 11 575 5222  
+ **Post** : Dimension Data Group   
+**Data Privacy Officer**  
 57 Sloane Street, The Campus, Bryanston, Wanderers Building, Second Floor,  
-Johannesburg, South Africa, 2021
+Johannesburg, South Africa  
+2021 
 
-
-
-
-This privacy policy was last updated on 15 March 2016.
-
-Copyright © 2016 Dimension Data Holdings plc
-
-All Rights Reserved..
+This Privacy Statement was updated on 12 May 2017.
