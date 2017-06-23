@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203181825id_/http%3A//hclibrary.org/support-us/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hclibrary.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623184356id_/http%3A//hclibrary.org/support-us/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ Howard County Library (HCL) has partnered with BB&T (and their payment provider 
 Your credit card statement will list Howard County Library.
 
 Memberships to Friends of Howard County Library  
-The Friends of Howard County Library (Friends of HCL) has partnered with e-tapestry (and their payment provider IATS) to securely process your online credit card donation.  We use personal information (such as name, address, phone, email address, organization name, credit card number, and transaction identification) required to complete and review the transaction.  Review IATS privacy policy at <http://www.iatspayments.com/english/privacy_policy.html>.
+The Friends of Howard County Library (Friends of HCL) has partnered with e-tapestry (and their payment provider IATS) to securely process your online credit card donation.  We use personal information (such as name, address, phone, email address, organization name, credit card number, and transaction identification) required to complete and review the transaction.  Review IATS privacy policy at [http://www.iatspayments.com/english/privacy_policy.html](https://www.iatspayments.com/english/privacy_policy.html).
 
 Your credit card statement will list Friends of HCL.
 
