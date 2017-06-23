@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075203id_/http%3A//www.rebeccaminkoff.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebeccaminkoff.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623191740id_/http%3A//www.rebeccaminkoff.com/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -63,6 +63,8 @@ Rebecca Minkoff reserves the right to exclude customers from participating in th
 Information We Collect By Automated Means
 
 Cookies
+
+We work with service providers that use cookies to collect information about your visits to our website and other websites. This information is used to deliver targeted advertisements to you as you use the Internet. This information is anonymous and doesn’t personally identify you.
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration. This is statistical data about how you browse our website.
 
