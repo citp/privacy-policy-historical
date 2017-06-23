@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sagenorthamerica.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120001137id_/http%3A//www.sage.com/us/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagenorthamerica.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623103159id_/http%3A//www.sage.com/us/legal) for the most accurate reproduction.*
 
 # Legal | Sage North America | U.S.
 
@@ -10,7 +10,7 @@ Materials are protected by copyright, trademark, and other intellectual property
 
 #### Copyright notice
 
-© 2016 Sage Software, Inc. All Rights Reserved.
+© 2017 Sage Software, Inc. All Rights Reserved.
 
 #### Trademark notice
 
