@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the katvondbeauty.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119104815id_/http%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the katvondbeauty.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623224616id_/http%3A//www.katvondbeauty.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Kat Von D Beauty Privacy Policy
 
