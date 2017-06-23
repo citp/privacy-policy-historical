@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podcastchart.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125072149id_/http%3A//support.podcastchart.com/article/25-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podcastchart.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623073106id_/http%3A//support.podcastchart.com/article/25-privacy) for the most accurate reproduction.*
 
 # Privacy - Podcast Chart
 
