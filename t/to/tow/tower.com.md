@@ -1,9 +1,14 @@
-> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102024651id_/http%3A//tower.com/help/help_security.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tower.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623193124id_/http%3A//tower.com/help/help_security.cfm) for the most accurate reproduction.*
 
 # Security and Privacy Policy at Tower.com
 
+| 
+
 |   
 ---  
+|  |  |   
+---|---  
+  
 |    
 ---  
   
@@ -237,11 +242,11 @@ Return to the Top
 ---  
 [About](https://web.archive.org/aboutus.cfm) |  [Community](https://web.archive.org/community.cfm) |  [Tower Newsletters](https://web.archive.org/surf/newsletter/index.cfm) |  [RSS](https://web.archive.org/wiki/rss) |  [Advertise](https://web.archive.org/advertising.cfm) |  [Terms](https://web.archive.org/help/help_terms.cfm) |  [Privacy](https://web.archive.org/help/help_security.cfm) |  [Returns](https://web.archive.org/help/help_returns.cfm) |  [Contact Us](https://web.archive.org/contactus.cfm) |  [Directory](https://web.archive.org/directory) |  [Help](https://web.archive.org/help/help_home.cfm) |  [FAQ](https://web.archive.org/faq) 
 
-**Copyright © 1995-2012 TOWER.COM INC**  
+**Copyright © 1995-2016 TOWER.COM INC**  
 Tower, Tower Records, TowerRecords.com, Tower.com, Tower CD Listening Station, Tower Outlet, Tower Records Videos Books, Tower Essentials, Pulse! and associated logos and trademarks are registered trademarks of Tower.com Inc. in the United States and other countries.  
-Copyright 2012. For personal noncommercial use only.   
+Copyright 2016. For personal noncommercial use only.   
 Tower.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.  
   
-To link directly to this page: http://tower.com/help/help_security.cfm  
+To link directly to this page: http://www.tower.com/help/help_security.cfm  
   
 Tower 2.0 Version 6.0.0
