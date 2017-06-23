@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123151718id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guideline.gov privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623202152id_/http%3A//www.ahrq.gov/policy/electronic/privacy/index.html) for the most accurate reproduction.*
 
 # AHRQ Privacy Policy Notice | Agency for Healthcare Research & Quality
 
