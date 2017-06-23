@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203211203id_/http%3A//www.lauraashley.com/uk/security/page/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lauraashley.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623155507id_/http%3A//www.lauraashley.com/uk/security/page/security) for the most accurate reproduction.*
 
 # Security at Laura Ashley
 
@@ -6,9 +6,7 @@ The Laura Ashley website uses industry standard security methods to ensure that 
 
 ##  1\. Definitions
 
-The Laura Ashley website uses industry standard security methods to ensure that all the personal details you give us are not misused.
-
-#### Security and Privacy
+### Privacy & Security
 
 **Is it safe to use my credit card over the internet?**
 
@@ -18,7 +16,7 @@ The Laura Ashley website uses industry standard security methods to ensure that 
 
 
 
-#### Data Protection
+### Data Protection
 
   * Information provided by you online or otherwise will be processed by Laura Ashley Limited or Laura Ashley (Ireland) Limited and used to provide you with the ordered products, for billing and accounts purposes, and to keep records of the transaction. 
   * In addition, your information may also be used for the following:   
