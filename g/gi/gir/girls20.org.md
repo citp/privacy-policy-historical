@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girls20.org privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223104005id_/http%3A//www.girls20.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girls20.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623201322id_/http%3A//www.girls20.org/privacy) for the most accurate reproduction.*
 
 # Privacy | G(irls)20
 
