@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231123908id_/http%3A//www.ancestry.com/cs/legal/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623160845id_/http%3A//www.ancestry.com/cs/legal/privacyphilosophy) for the most accurate reproduction.*
 
 # Ancestry Privacy Center
 
@@ -58,7 +58,7 @@ For all requests, Ancestry requires valid legal process in writing before produc
 How does Ancestry use data about me in scientific research?
     
 
-When you submit a saliva sample to AncestryDNA, we may use genetic, health and personal data about you to improve our services and websites and develop new products. If you agree to the [AncestryDNA Informed Consent](https://www.ancestry.com/dna/en/legal/informedConsent) or the [AncestryHealth Informed Consent](https://health.ancestry.com/account/informedconsent), your DNA and other data about you may be used in research to further understand human history and improve human health.
+When you submit a saliva sample to AncestryDNA, we may use genetic, health and personal data about you to improve our services and websites and develop new products. If you agree to the [AncestryDNA Informed Consent](https://www.ancestry.com/dna/legal/informedConsent/latest) or the [AncestryHealth Informed Consent](https://health.ancestry.com/account/informedconsent), your DNA and other data about you may be used in research to further understand human history and improve human health.
 
 We use industry standard security practices to store your DNA sample, your DNA test results, and other health information you provide to us, and we limit access to authorized individuals who complete privacy training. We store your DNA test results and DNA sample without your name or other common identifying information such as your address. We do not share with third parties common identifying information linked to your genetic or health data except as legally required or with your explicit consent.
 
@@ -91,7 +91,7 @@ You own your DNA data and you can choose to delete your DNA test results as desc
 
 We also may collect _health data_ from you, which includes information and opinions about your family health history, and health and lifestyle information about you and your family members.
 
-We use genetic and health data, along with family tree data and your personal data, to perform research in genealogy, anthropology, evolution, medicine, and other health areas to improve, research, and develop new products. We will never share your genetic or health information with third-party research collaborators unless you opt in to the Ancestry Human Diversity Research Project by agreeing to the [AncestryDNA Informed Consent](https://www.ancestry.com/dna/en/legal/informedConsent) or the [AncestryHealth Informed Consent](https://health.ancestry.com/account/informedconsent), or we otherwise obtain your explicit consent. You may opt out of the Research Project at any time; however, information cannot be withdrawn from studies in progress, completed studies, or published results.
+We use genetic and health data, along with family tree data and your personal data, to perform research in genealogy, anthropology, evolution, medicine, and other health areas to improve, research, and develop new products. We will never share your genetic or health information with third-party research collaborators unless you opt in to the Ancestry Human Diversity Research Project by agreeing to the [AncestryDNA Informed Consent](https://www.ancestry.com/dna/legal/informedConsent/latest) or the [AncestryHealth Informed Consent](https://health.ancestry.com/account/informedconsent), or we otherwise obtain your explicit consent. You may opt out of the Research Project at any time; however, information cannot be withdrawn from studies in progress, completed studies, or published results.
 
 For more information about AncestryDNA, please see our [FAQs](https://www.ancestry.com/dna/en/legal/us/faq) and the [AncestryDNA Privacy Statement](https://www.ancestry.com/dna/en/legal/us/privacyStatement). For more information about AncestryHealth, please see the [AncestryHealth Privacy Statement](https://health.ancestry.com/account/privacystatement).
 
