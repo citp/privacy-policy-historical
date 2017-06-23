@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425212019id_/https%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insideretail.com.au privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623141407id_/https%3A//www.insideretail.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Inside Retail
 
@@ -27,6 +27,8 @@ In addition, if you provide any personally identifiable information via an adver
 Generally, we will not use your personal information to market to you  unless we have either your implied or express consent but in situations where it is impractical to obtain your prior consent, we will ensure you have an ability to opt out of future such communications.
 
 We may from time to time use your personal information to send relevant marketing messages from third parties, however, we will ensure you have an ability to opt out of future such communications.
+
+General Conference/Event Privacy Notice. In registering for a conference or event that we manage, relevant details will be incorporated into a delegate list for the benefit of all delegates (name and organisation only), and may be made available to parties directly related to the conference including Octomedia, the client, venues and accommodation providers (for the purpose of room bookings and conference options), key sponsors (subject to strict conditions) and parties associated with relevant conferences. Should you not wish for your details to be passed on for the above purposes, email the relevant conference email address (found on the online registration page) or subs@octomedia.com.au. Please be aware that photos will be taken at events and provided to the conference client and these may be used for promotion purposes digitally or on print mediums.
 
 **Changes to this Privacy Policy**
 
