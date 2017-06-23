@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btemplates4u.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106233812id_/http%3A//www.btemplates4u.com/2011/07/new-blogger-templates-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btemplates4u.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623084139id_/http%3A//www.btemplates4u.com/2011/07/new-blogger-templates-privacy-policy.html) for the most accurate reproduction.*
 
 # BTemplates 4U Privacy Policy - Best Blogger Templates | Responsive Themes | Wordpress Themes
 
@@ -6,7 +6,7 @@
 
 Privacy Policy for www.btemplates4u.com
 
-If you require any more information or have any questions about our privacy policy, please feel free to [**contact us**](http://www.newbloggertemplates.net/)
+If you require any more information or have any questions about our privacy policy, please feel free to [**contact us**](http://www.btemplates4u.com/2011/08/contact-me.html)
 
 At www.btemplates4u.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.btemplates4u.com and how it is used. 
 
