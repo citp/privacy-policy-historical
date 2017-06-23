@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202021444id_/http%3A//stratics.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stratics.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623235522id_/http%3A//stratics.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Stratics
+# Privacy Policy | Stratics Community Forums
 
-[ ](http://stratics.com/)
+[ ](https://stratics.com/)
+
+[__](https://web.archive.org/web/20170623235522id_/http://www.stratics.com/help/privacy/misc/quick-navigation-menu "Open quick navigation")
+
+**Stratics Community Forums**
+
+[__](https://stratics.com/) [Help](https://web.archive.org/web/20170623235522id_/http://www.stratics.com/help/privacy/help/) >
 
 Protecting your private information is our priority. This Privacy Policy applies to Stratics.com (including subdomains and redirects) and its parent company, Gamer's Gambit, LLC., collectively referred to as "Gamer's Gambit, LLC." in this document, and governs data collection and usage. By using the Gamer's Gambit, LLC. website, you consent to the data practices described in this statement.
 
@@ -66,3 +72,9 @@ Email Address: leadership@stratics.com
 
 
 ### Effective as of March 28, 2016
+
+[__](https://web.archive.org/web/20170623235522id_/http://www.stratics.com/help/privacy/misc/quick-navigation-menu "Open quick navigation")
+
+**Stratics Community Forums**
+
+[__](https://stratics.com/) [Help](https://web.archive.org/web/20170623235522id_/http://www.stratics.com/help/privacy/help/) >
