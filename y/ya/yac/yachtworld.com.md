@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003243id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yachtworld.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623073518id_/http%3A//www.yachtworld.com/core/globalnav/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement - YachtWorld.com
 
-The YachtWorld.com Web site ("Web site") is owned and operated by Dominion Marine Media ("YachtWorld.com", "We", "us", "our"). This Web site offers services to (i) marine professionals such as vessel brokers and dealers (and their employees) that have signed a service agreement ("Member"), and (ii) a consumer or an individual who visits the Web site but is not a Member of the Web site ("Site Visitor").
+The YachtWorld.com Web site ("Web site") is owned and operated by Boats Group ("YachtWorld.com", "We", "us", "our"). This Web site offers services to (i) marine professionals such as vessel brokers and dealers (and their employees) that have signed a service agreement ("Member"), and (ii) a consumer or an individual who visits the Web site but is not a Member of the Web site ("Site Visitor").
 
 **The following privacy statement describes the practices of the Web site with respect to the collection, maintenance and disclosure of information received from Site Visitors only. THIS PRIVACY STATEMENT DOES NOT APPLY TO MEMBERS, WHO BY DEFINITION, USE THIS SITE FOR BUSINESS PURPOSES. This privacy statement also does not apply to the off-line collection of information by YachtWorld.com.**
 
@@ -54,7 +54,7 @@ If you have any questions about this privacy statement, please contact [policies
 
 ### Disclosure of Personal Information Collected:
 
-YachtWorld adheres to the privacy policy of its parent corporation, Dominion Marine Media. Please [click here](http://www.dominionmarinemedia.com/privacy/) to read the Dominion Marine Media privacy policy for more information.
+YachtWorld adheres to the privacy policy of its parent corporation, Boats Group. Please [click here](http://www.boatsgroup.com/privacy/) to read the Boats Group privacy policy for more information.
 
 ### Partners:
 
@@ -85,4 +85,4 @@ We do not knowingly acknowledge or accept orders, registrations or requests for 
 It is the Site Visitors responsibility to follow our privacy link, so Site Visitors are always aware of our current practices. There will always be a link to our privacy statement on our home page so that Site Visitors are always aware of our current information collection, maintenance and disclosure practices. Each update is noted with the last updated date. If our privacy practices change in way that would allow us to use non-public personal information in a manner not previously allowed by the terms of our privacy statement, Site Visitors will have an opportunity to choose whether to let us use their non-public personal information in the newly proposed manner. 
 
   
-Revised July 2016
+Revised February 2017
