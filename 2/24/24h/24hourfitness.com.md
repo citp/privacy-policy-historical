@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005922id_/https%3A//www.24hourfitness.com/membership/inclub_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourfitness.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623065329id_/https%3A//www.24hourfitness.com/membership/inclub_privacy_policy.html) for the most accurate reproduction.*
 
 # 24 Hour Fitness In-Club (Offline) Privacy Policy
 
-Last modified 5/12/2015 ( [view archived versions](https://web.archive.org/web/20161119005922id_/https%3A//membership/inclub_privacy_policy_12272013.html) ) 
+Last modified 5/12/2015 ( [view archived versions](https://web.archive.org/web/20170623065329id_/https%3A//membership/inclub_privacy_policy_12272013.html) ) 
 
 ### 1\. Introduction
 
