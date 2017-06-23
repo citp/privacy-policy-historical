@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printablecalendartemplates.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201053022id_/http%3A//printablecalendartemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printablecalendartemplates.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624013255id_/http%3A//printablecalendartemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Printable Calendar Templates
 
