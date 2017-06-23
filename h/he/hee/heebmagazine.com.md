@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019163444id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heebmagazine.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624013357id_/http%3A//heebmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Heeb
+# Privacy Policy – Heeb
 
 **Heeb Media, LLC has created this Privacy Policy in order to demonstrate our firm commitment to protecting your personal information. The following discloses our information gathering and dissemination practices relating to the website located at http://www.heebmagazine.com/ (the “Site” or the “Website”). The information you provide on this Site will not be shared other than as outlined in this privacy policy.**
 
