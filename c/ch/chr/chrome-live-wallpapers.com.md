@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrome-live-wallpapers.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214131514id_/http%3A//chrome-live-wallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrome-live-wallpapers.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623043546id_/http%3A//chrome-live-wallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy – chrome-live-wallpapers.com
 
@@ -57,3 +57,5 @@ We may allow third-parties, including widget providers, advertising companies, a
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+
+Post: 061 Budapest, Andrássy út 35. 1/8. Hungary
