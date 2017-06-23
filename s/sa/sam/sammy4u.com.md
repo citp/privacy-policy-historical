@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammy4u.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223163558id_/http%3A//www.sammy4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammy4u.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623041154id_/http%3A//www.sammy4u.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
