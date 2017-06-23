@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129023328id_/http%3A//www.cashconverters.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashconverters.com.au privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623042010id_/https%3A//cashconverters.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cash Converters Australia
 
@@ -112,11 +112,13 @@ You have a right to request a copy of your credit reporting information from cre
 We may disclose information to the following credit reporting bodies:  
 
 
-**Veda Advantage Information Services and Solutions Limited**  
-Veda’s Privacy Policy: <http://www.veda.com.au/privacy>  
-Phone: 1300 850 211  
-Email: [Membership.query@veda.com.au](mailto:Membership.query@veda.com.au)  
-
+**Equifax Pty Ltd., a wholly owned subsidiary of Equifax Inc.**  
+Equifax's Privacy Policy: [](http://www.veda.com.au/privacy)<http://www.equifax.com.au/privacy>  
+Address: Equifax - Public Access,  
+Equifax Australia Information Services and Solutions Pty Limited,   
+PO Box 964,  
+NORTH SYDNEY,  
+NSW 2059
 
 **Dun and Bradstreet (Australia) Pty Ltd**  
 D&B's Privacy Policy: <http://dnb.com.au/Header/About_Us/Legal/Privacy_policy/index.aspx>  
