@@ -1,97 +1,106 @@
-> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413022935id_/http%3A//www.njm.com/Information/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623163847id_/https%3A//www.njm.com/about/privacy) for the most accurate reproduction.*
 
-# New Jersey Manufacturers Insurance Company - Your Privacy Rights
+# Privacy Policies | NJM
 
-##  NJM Insurance Group
+**NJM Insurance Group**
+
+Safeguarding the privacy of your financial and personal information has always been extremely important to us. In the interest of complying with existing rules that regulate the use of nonpublic information by insurance companies, and to provide you with information about our privacy practices, we have prepared this document. The practices described in this document apply to all four insurance carriers in NJM Insurance Group: 
 
   * New Jersey Manufacturers Insurance Company
-
   * New Jersey Re-Insurance Company
-
   * New Jersey Casualty Insurance Company
-
   * New Jersey Indemnity Insurance Company
 
 
 
-To the Customers of NJM Insurance Group:
+This document consists of two separate sections:
 
-Safeguarding the privacy of your financial and personal information has always been extremely important to us. Recently enacted federal laws have expanded the notice we are required to give you concerning NJM's commitment to protect your privacy.
-
-This page consists of two separate sections:
-
-  * Customer Privacy Policy Statement \- Contains a description of NJM Insurance Group's general customer privacy policy; 
-  * Notice of Information Practices \- Provides disclosures required under both federal and New Jersey laws.
+  * Customer Privacy Policy Statement \- Contains a description of NJM Insurance Group’s general customer privacy policy;
+  * Notice of Insurance Information Practices \- Provides disclosures required under both federal and Pennsylvania laws.
 
 
 
-We hope that the information in this page adequately addresses your concerns about NJM's privacy policy. Please let us know if you have any questions or comments.
+We hope that the information in this document adequately addresses your concerns about NJM’s privacy policy. Please let us know if you have any questions or concerns.
 
-## Customer Privacy Policy Statement
+**Customer Privacy Policy Statement**
 
-NJM Insurance Group (made up of New Jersey Manufacturers Insurance Company, New Jersey Re-Insurance Company, New Jersey Indemnity Insurance Company and New Jersey Casualty Insurance Company) recognizes that a fundamental component of the insurer/insured relationship is a customer's trust that the insurer will respect the privacy and confidentiality of the customer's financial information and all aspects of the customer's insurance relationship. NJM Insurance Group is committed to keeping your information secure and confidential.  
-
+NJM Insurance Group (made up of New Jersey Manufacturers Insurance Company, New Jersey Re-Insurance Company, New Jersey Indemnity Insurance Company and New Jersey Casualty Insurance Company) recognizes that a fundamental component of the insurer/insured relationship is a customer’s trust that the insurer will respect the privacy and confidentiality of the customer’s financial information and all aspects of the customer’s insurance relationship. NJM Insurance Group is committed to keeping your information secure and confidential. 
 
 NJM Insurance Group has established the following policy to achieve this purpose.
 
   * NJM Insurance Group shall recognize each customer's expectations of privacy by safeguarding information that you share with us. This commitment to privacy will be maintained regardless of whether information is received by mail, telephone, Internet or in person.
   * Information shall be collected and utilized only to the extent necessary to deliver insurance services to you and to offer products, services and other opportunities that may be of interest to you.
-  * NJM Insurance Group is dedicated to maintaining accurate customer records and shall strive to correct any inaccurate information in a timely manner. You may contact us toll-free at 1-800-232-6600 or by mail to correct any information.
+  * NJM Insurance Group is dedicated to maintaining accurate customer records and shall strive to correct any inaccurate information in a timely manner. You may contact us toll-free at [1-800-232-6600](tel:+1-800-232-6600) or by mail to correct any information.
   * NJM Insurance Group limits access to your personal information to only those insurance company employees with a business reason for knowing such information. NJM Insurance Group educates all employees about the importance of confidentiality and customer privacy and has established policies on the proper use of customer information.
   * If NJM Insurance Group utilizes other organizations to support its business, it will require them to abide by this privacy policy statement.
   * NJM Insurance Group does not sell customer lists or financial information about its customers to any third-party vendors.
-  * In order to conduct the business of insurance, customer information in our records is referenced relating to the issuance and servicing of coverage and settling claims. NJM Insurance Group conducts these insurance operations in accordance with the Fair Credit Reporting Act and New Jersey's insurance information privacy law as explained in our Notice of Information Practices.
-  * This privacy policy will apply to both current and former customers of NJM Insurance Group. 
+  * In order to conduct the business of insurance, customer information in our records is referenced relating to the issuance and servicing of coverage and settling claims. NJM Insurance Group conducts these insurance operations in accordance with the Fair Credit Reporting Act and Pennsylvania's insurance information privacy law as explained in our Notice of Insurance Information Practices.
+  * This privacy policy will apply to both current and former customers of NJM Insurance Group.
 
 
 
-With respect to cookies: While logged into an NJM Insurance Group secured site, cookies are used to store session information in order to communicate with our web servers. We do not use cookies to maintain any personal or otherwise confidential information. We may use cookies to assist our traffic measuring software so that visitors to our site are not counted more than once.
+While you are using an NJM Insurance Group site, cookies and tags are used to enhance your access to our website and to store session information in order to communicate with our web servers. We and our third-party advertising providers may use cookies to assist our traffic measuring software so that visitors to our site are not counted more than once. A cookie is a small amount of data that is sent to your browser from a web server and stored on the hard drive of your computer or mobile communications device. Cookies do not store personal information about you unless you knowingly provide it. Cookies can store non-personal information, such as web site pages or advertisements that your browser has accessed. In order to further personalize our website for you, and to collect a limited set of non-personally identifiable information about you, we or our third-party advertising providers use tags in conjunction with cookies to help manage our online advertising and promotions. Tags are small, transparent graphic images that are often used by web sites in connection with cookies. We may also use tags to determine how you arrived at our site, and what you clicked on while on our site. Our third-party advertising providers include but are not necessarily limited to Google (including Google Analytics and the following Google Analytics Advertising Features: Remarketing with Google Analytics; Google Display Network Impression Reporting; Google Analytics Demographics and Interest Reporting; and DoubleClick Campaign Manager). You may learn more about how Google collects and processes data, and how to opt out of these features at www.google.com/policies/privacy/partners/. These third-party advertising providers may record information through the use of cookies and tags and aggregate and share that aggregated information with us. By using an NJM Insurance Group site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-The goal of this privacy policy is to promote and maintain a commitment to privacy by NJM Insurance Group in its use of customer information. NJM Insurance Group reserves the right to update and modify this statement at any time and will post changes on its website. NJM Insurance Group will continue to monitor itself for compliance of its procedures to protect customer privacy.  
+The goal of this privacy policy is to promote and maintain a commitment to privacy by NJM Insurance Group in its use of customer information. NJM Insurance Group reserves the right to update and modify this statement at any time and will post changes on its website. NJM Insurance Group will continue to monitor itself for compliance of its procedures to protect customer privacy.
 
+**Notice of Information Practices**  
+**Your Privacy is our Concern**
 
-## Notice of Information Practices
+When you apply for any type of insurance, you disclose information about yourself to us. The collection, use and disclosure of such information is regulated by law. NJM Insurance Group maintains physical, electronic and procedural safeguards that comply with state and federal regulations to guard your personal information. We also limit employee access to personally identifiable information to those with a business reason for knowing such information. NJM Insurance Group also instructs our employees so that they will understand the importance of the confidentiality of personal information, and takes appropriate measures to enforce employee privacy responsibilities.
 
-Pursuant to 15 U.S.C. § 1681 et seq. (1982) and N.J.S.A. 17:23A-1 et seq.
+**What kind of information do we collect about you and from whom?**
 
-The information you provide to us is important. We review it in our evaluation of your request for coverage and in determining rates. It may not be the only information about you or persons to be insured under your policy that we consider. In accord with the Federal Fair Credit Reporting Act and New Jersey's insurance information privacy law, we would like to briefly describe our practices as they relate to information gathered in connection with insurance transactions.
+NJM Insurance Group obtains most of our information directly from you. The application you complete, as well as any additional information you provide, generally gives us most of the information we need to know. Sometimes we may contact you by phone or mail to obtain additional information. We may use information about you from your transactions with us, our affiliates or others. 
 
-We may need additional information from you or other individuals proposed for coverage. Motor vehicle records, court records or other public records might be reviewed. A photo of any property to be insured might be taken. We also might obtain information from third parties, such as other insurance companies or a consumer reporting agency. A consumer report from such an agency may contain information as to credit worthiness, credit standing, credit capacity, character, general reputation, hobbies, occupation, personal characteristics or mode of living. An investigative consumer report containing the same type of information may be obtained through personal interviews with neighbors, friends, associates, acquaintances, or others who may have knowledge concerning those items of information.
+Depending on the nature of your insurance transaction, we may need additional information about you or other individuals proposed for coverage. For auto insurance, we may need information from your motor vehicle records. For property coverages, we may send someone to inspect your property and verify information about its value and condition. A photo of any property to be insured might be taken. We may review insurance claims information and other loss information reports, and we may also obtain medical or financial information to adjust some claims.
 
-If coverage is declined or the charge for coverage is increased either wholly or partly because of information contained in a consumer report, we will tell you. We also will give you the name and address of the consumer reporting agency making the report.
+We may obtain the additional information we need from third parties, such as other insurance companies, governmental agencies, information clearinghouses, courts and other public records. We may request information from a consumer reporting agency. 
 
-It is possible that an investigative consumer report may be made. Within a reasonable time after receiving this notice of our information practices, you have the right to file a written request for and promptly receive a written disclosure as to the nature and scope of the investigation. You also will have the right to ask to be personally interviewed. Information you give during the interview will be included in the report sent to us. Upon written request and identification, you have the right to receive a copy of your investigative consumer report. Information about you gathered by the agency in making a consumer report or investigative consumer report may be kept by the agency and provided to others to the extent allowed by law.
+If we order an investigative consumer credit report, we will notify you as required by state laws and the federal Fair Credit Reporting Act (FCRA). Under the FCRA, you have the right to ask to be personally interviewed if we order an investigative consumer report. Upon request, we will tell you how to get a copy of the report. The agency that prepares a consumer report for us may retain that report and disclose it to other persons as permitted by law. 
 
-Information about you in our records may be kept and may be referred to for purposes relating to the issuance and servicing of coverage and settling claims. We will not disclose information about you to others without your written consent unless the disclosure is necessary to conduct our business. The law permits us to share information about you without your prior consent under certain circumstances. Examples of these include disclosures to:  
+**What do we do with the information collected about you?**
 
+Information that has been collected about you may be retained in our records. We review it in evaluating your request for insurance coverage and in determining your rates. We will also refer to and use information in our policy records for purposes related to issuing and servicing insurance policies and settling claims. 
 
-  * Parties who perform a business, professional or insurance function for our company, including companies from which we purchase reinsurance coverage;
-  * Adjusters, appraisers, investigators and attorneys who need the information to investigate, defend or settle a claim involving you;
+If coverage is declined or the charge for coverage is increased because of information contained in a consumer report we obtained, we will tell you as required by state law and the federal Fair Credit Reporting Act. We will also give you the name and address of the consumer reporting agency making the report. 
+
+We may retain information about our former customers and would disclose that information to affiliates and nonaffiliates as described in this notice.
+
+**To whom do we disclose information about you?**
+
+We do not disclose any nonpublic personal information about our customers or former customers, except as permitted by law. That may mean that we will make disclosures to the following types of third parties without your consent:
+
+  * Our affiliated companies;
+  * Parties who perform a business, professional or insurance function for our Company, including our reinsurance companies;
+  * Independent claims adjusters, appraisers, investigators and attorneys who need the information to investigate, defend or settle a claim involving you;
   * Businesses that help us with data processing or marketing;
   * Businesses that conduct scientific research, including actuarial or underwriting studies;
   * Other insurance companies, agents or consumer reporting agencies as reasonably necessary in connection with any application, policy or claim involving you;
-  * Insurance support organizations which are established to collect information for the purpose of detecting and preventing insurance crimes or fraudulent claims;
+  * Insurance support organizations that are established to collect information for the purpose of detecting and preventing insurance crimes or fraudulent claims;
   * Medical care institutions or medical professionals to verify coverage or conduct an audit of services;
-  * State Insurance Departments in connection with the regulation of our business;
+  * Insurance regulatory agencies in connection with the regulation of our business;
   * Law enforcement or other governmental authorities to protect our legal interests or in cases of suspected fraud or illegal activities;
   * Authorized persons as ordered by a subpoena, warrant or other court order or as required by law;
   * Certificate holders or policyholders for the purpose of providing information regarding the status of an insurance transaction; or
-  * Lienholders, mortgagees, assignees, lessors or other persons shown on our records as having a legal or beneficial interest in your policy.
+  * Lienholders, mortgagees, lessors or other persons shown on our records as having a legal or beneficial interest in your policy.
 
 
 
-You have the right to know what kind of information we keep in our files about you, to have reasonable access to it and receive a copy. Write to us if you have questions about what information we may have on file. Tell us what information you would like to receive. Provide your complete name, address, date of birth, type of policy held or applied for and all numbers of any policies issued to you by us. Certain types of information generally collected when evaluating claims or possible lawsuits need not be disclosed to you.
+**How can you find out about information we have about you?**
 
-Within thirty business days of receipt of your request, we will inform you in writing of the nature and substance of locatable and retrievable recorded personal information about you in our files. You may review this information in person or receive a copy at a reasonable charge. We will also identify the person or organizations to whom we have disclosed this information within the past two (2) years. In addition, you will be given the name and address of any consumer reporting agency which prepared a report about you so that you can contact them for a copy.
+You have the right to know what kind of information we keep in our files about you, to have reasonable access to it and to receive a copy. If you have questions about what information we may have on file, contact us as instructed at the end of this notice. Tell us what information you would like to receive. Provide your complete name, address, date of birth, type of policy held or applied for and all policy numbers issued to you by us. Certain types of information generally collected when evaluating claims or possible lawsuits need not be disclosed to you.
 
-After you have reviewed the personal information about you in our file, you can write to us if you believe it should be corrected, amended or deleted. Tell us what you think is wrong and why. We will consider your request and, within thirty business days from the date of receipt of your written request, either change our files or tell you that we did not and the reason. If we do not make changes, you will have the right to insert in our file a concise statement containing what you believe to be the correct, relevant or fair information and explaining why you believe the information on file to be improper. We will notify persons designated by you to whom we have previously disclosed the information of the change or your statement. Subsequent disclosures we make also will include your statement.
+Within thirty (30) business days of receipt of your request, we will inform you in writing of the nature and substance of locatable, retrievable and available recorded personal information about you in our files. You may review this information in person or receive a copy at a reasonable charge. We will also identify the person or organizations to whom we have disclosed this information within the past two (2) years. In addition, you will be given the name and address of any consumer credit reporting agency that prepared a report about you so that you can contact them for a copy of that report if you wish.
 
-Correspondence about this notice or requests for information in accord with your rights under the law should be directed to the appropriate company in the NJM Insurance Group at the address listed at the bottom of this page.  
+After you have reviewed the personal information about you in our file, you can contact us if you believe it should be corrected, amended or deleted. Tell us what you think is wrong and why. We will consider your request and within thirty (30) business days, either change our files or tell you that we did not and the reason. If we do not make changes, you will have the right to insert in our file a concise statement containing what you believe to be the correct, relevant or fair information and explaining why you believe the information on file to be improper. We will notify persons designated by you to whom we have previously disclosed the information of the change or your statement. Subsequent disclosures we make also will include your statement.
 
+Correspondence about this notice or requests for information in accord with your rights under the law should be directed to the appropriate company in the NJM Insurance Group at the address listed at the bottom of this page.
 
-NJM Insurance Group
+**NJM Insurance Group**
 
-301 Sullivan Way
-
+301 Sullivan Way  
 PO Box 428  
-West Trenton, NJ 08628-0227 
+West Trenton, NJ 08628-0227  
+
+
+A-744x (1/18)
