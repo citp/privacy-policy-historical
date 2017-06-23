@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdonalds.com.my privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122181232id_/http%3A//www.mcdonalds.com.my/site/privacy-policy-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com.my privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623110636id_/http%3A//www.mcdonalds.com.my/site/privacy-policy-en) for the most accurate reproduction.*
 
 # I'm lovin' it! McDonald's® Malaysia
 
@@ -6,7 +6,7 @@
 
 [English](https://web.archive.org/site/privacy-policy-en) | [Bahasa Malaysia](https://web.archive.org/site/privacy-policy-bm)
 
-Thank you for visiting us online at www.mcdonalds.com.my. If you continue to browse and use this website you are agreeing to comply with and be bound by Golden Arches Restaurants Sdn Bhd (“McDonald’s® Malaysia”) Privacy and Personal Data Protection Policy. 
+Thank you for visiting us online at www.mcdonalds.com.my. If you continue to browse and use this website you are agreeing to comply with and be bound by Gerbang Alaf Restaurants Sdn Bhd (65351-M) ( _formerly known as Golden Arches Restaurants Sdn Bhd_ ) Licensee of McDonald's (“McDonald’s® Malaysia”) Privacy and Personal Data Protection Policy. 
 
 At McDonald’s® Malaysia, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy.
 
