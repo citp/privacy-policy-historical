@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runewsweek.ru privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229135710id_/http%3A//www.thedailybeast.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runewsweek.ru privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623020249id_/http%3A//www.thedailybeast.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Daily Beast
 
@@ -47,6 +47,8 @@ We may share the information that we collect about you through the Services in t
 • and as otherwise described to you at the point of collection or pursuant to your consent.
 
 In addition, if you choose to participate in social features on the Services, such as commenting on a story or chatting with other users, any information that you submit will become public. It may become accessible through search engines or, if you sign in using credentials from a third-party social networking service, to users on that service. Unless otherwise noted, we do not limit the distribution of information that you share using these features.
+
+The Daily Beast has implemented Google’s Invisible reCAPTCHA technology on our site.  Use of the Invisible reCAPTCHA is subject to the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and [Terms of Use](https://www.google.com/intl/en/policies/terms/).
 
 **How do you decide which advertisements to show me on the Services?**  
 The Services are offered to you free of charge because we cover the cost of providing our Services by displaying advertisements. Many of these advertisements are targeted, which means that advertisers tell us the type of audience they want to reach (for example, men over 25 years old). We will display the advertisement to users meeting those criteria, but we never provide the advertiser with information about the specific individuals who receive the ads. The targeted ads on the Services may be provided by us, or they may be provided by a third-party vendor. You can learn more about targeted ads, including how to opt out of receiving them, [below](https://web.archive.org/company/privacy-policy.html#anchor2).
