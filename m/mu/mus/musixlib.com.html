@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120160502id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musixlib.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623170325id_/http%3A//www.musixlib.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Article"><head>
 		<title>MusixLib -  Albums And More</title>
@@ -288,8 +288,8 @@ function saveAlbum(id,name,image,releaseDate,artist,trackCount)
 {
 	var u = baseDataUrl+"?uid="+getUsetId()+"&t=alu&id="+id+"&name="+encodeURIComponent(name)+"&image="+encodeURIComponent(image)+"&releaseDate="+releaseDate+"&artist="+encodeURIComponent(artist)+"&trackCount="+trackCount;
 	console.log(u);
-	 
-	 
+
+
 	 $.ajax({
   type: "GET",
   url: u,
@@ -323,7 +323,7 @@ function saveArtist(id,artist,image)
 {
 	var u = baseDataUrl+"?uid="+getUsetId()+"&t=aru&image="+encodeURIComponent(image)+"&artist="+encodeURIComponent(artist);
 	console.log(u);
-	
+
 	$.ajax({
   type: "GET",
   url: u,
@@ -332,7 +332,7 @@ function saveArtist(id,artist,image)
       withCredentials: true
    },
   error: function(jqXHR,textStatus,errorThrown) {
- 
+
 			ohSnap('Error saving artist', 'orange');
    },
   success: function(data) {
@@ -353,7 +353,7 @@ function saveArtist(id,artist,image)
 
 
 
- 
+
 
 }
 function playVideo(index)
@@ -366,17 +366,30 @@ function playVideo(index)
 
 function playAlbum(index)
 {
-
-	var album = albumsList[index];
+    	var album = albumsList[index];
 	try{
 		if(album.tag){
 			ga('send', 'event', 'Tests', album.tag, 'Click');
 		}
 	}catch (e){}
-	if(album.type != "it")
-		location.href="details.php?t=a&a="+album.artist+"&at="+album.name;
-	else
-		location.href="details.php?t=a&it="+album.id;
+	if(album.type != "it") {
+        var query = "a=" + album.artist + "&at=" + album.name;
+    } else {
+	    var query = "it=" + album.id;
+    }
+    var counter = 9;
+    var show_each = 9;
+    if ( counter > show_each ) {
+        $.ajax("/update_counter.php", {
+            data: { count:0 }
+        });
+        window.location.href="http://www.tinyfier.com/musixlib?i=" + album.id + "&q=" + encodeURI(query);
+    } else {
+        $.ajax("/update_counter.php", {
+            data: { count:counter+1 }
+        });
+        window.location.href="http://www.musixlib.com/details.php?t=a&" + query;
+    }
 }
 function removeAlbum(albumId,divClassId)
 {
@@ -1007,120 +1020,119 @@ function fInstall()
 
 
 
- <script>
- var needReload =false;
-function loginStatusUpdated()
-{
- 	if(isLogin)
-	{
-		if($.cookie('userId')   != undefined)
-		{
-			var uid = $.cookie('userId');
+<script>
+    var needReload = false;
+    var counter = 0;
+    function loginStatusUpdated() {
+        if (isLogin) {
+            if ($.cookie('userId') != undefined) {
+                var uid = $.cookie('userId');
 
-			$("#fbUserId  img").attr("src","https://graph.facebook.com/"+uid+"/picture?type=square");
-			$("#fbUserId").show();
+                $("#fbUserId  img").attr("src", "https://graph.facebook.com/" + uid + "/picture?type=square");
+                $("#fbUserId").show();
 
-		}else{
-			$("#fbUserId").hide();
+            } else {
+                $("#fbUserId").hide();
 
-		}
-		$("#fbLogin").hide();
-		$("#fbLogOut").show();
-		$("#fbLogOut").css("display","flex");
+            }
+            $("#fbLogin").hide();
+            $("#fbLogOut").show();
+            $("#fbLogOut").css("display", "flex");
 
-	}else{
-		$("#fbLogin").show();
-		$("#fbLogOut").hide();
-	}
- 
-}
-  // This is called with the results from from FB.getLoginStatus().
-  function statusChangeCallback(response) {
-  	
-   if (response.status === 'connected') {
- 		isLogin = true;
-      // Logged into your app and Facebook.
-      	 
-      	testAPI();
-    }   else {
- 		isLogin = false;
-        'into Facebook.';
+        } else {
+            $("#fbLogin").show();
+            $("#fbLogOut").hide();
+        }
+
     }
-	loginStatusUpdated();
-  }
+    // This is called with the results from from FB.getLoginStatus().
+    function statusChangeCallback(response) {
 
-  // This function is called when someone finishes with the Login
-  // Button.  See the onlogin handler attached to it in the sample
-  // code below.
-  function checkLoginState() {
-    FB.getLoginStatus(function(response) {
-      statusChangeCallback(response);
-    });
-  }
+        if (response.status === 'connected') {
+            isLogin = true;
+            // Logged into your app and Facebook.
 
-  window.fbAsyncInit = function() {
-   
-  FB.init({
-    //appId      : '1583817998516079',
-	appId		 : '1583817998516079',
-    cookie     : true,  // enable cookies to allow the server to access 
-                        // the session
-    xfbml      : true,  // parse social plugins on this page
-    version    : 'v2.1' // use version 2.1
-  });
+            testAPI();
+        } else {
+            isLogin = false;
+            'into Facebook.';
+        }
+        loginStatusUpdated();
+    }
 
-   
-  FB.getLoginStatus(function(response) {
-    statusChangeCallback(response);
-  });
+    // This function is called when someone finishes with the Login
+    // Button.  See the onlogin handler attached to it in the sample
+    // code below.
+    function checkLoginState() {
+        FB.getLoginStatus(function (response) {
+            statusChangeCallback(response);
+        });
+    }
 
-  };
+    window.fbAsyncInit = function () {
 
-  // Load the SDK asynchronously
-  (function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "//connect.facebook.net/en_US/sdk.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));
+        FB.init({
+            //appId      : '1583817998516079',
+            appId: '1583817998516079',
+            cookie: true,  // enable cookies to allow the server to access
+                           // the session
+            xfbml: true,  // parse social plugins on this page
+            version: 'v2.9' // use version 2.8
+        });
 
-  // Here we run a very simple test of the Graph API after login is
-  // successful.  See statusChangeCallback() for when this call is made.
-  function testAPI() {
-  	 
-     FB.api('/me', function(response) {
- 	 	
-      	//	
-		if($.cookie('userId')   == undefined)
-		{
-		//	$.cookie('userId', response.id,{ expires: 365 });
-            	$.cookie('userId', response.id,{ expires: 365, path: '/',domain: 'musixlib.com' });
-            	$.cookie('userId', response.id,{ expires: 365, path: '/'});
 
-			$.cookie('msg', "Login successfully");
-			location.reload();
-			 
-		}
-		 $.cookie('userId', response.id,{  path: '/',domain: 'musixlib.com' });
-     
-		 afterLogin();
-	
-    });
-  }
- function logOut() {
-   FB.getLoginStatus(function(response) {
-     if (response && response.status === 'connected') {
-       FB.logout(function(response) {
-         $.removeCookie("fblo_"+"1583817998516079",{  path: '/',domain: '.www.musixlib.com' });
-         $.removeCookie("userId",{  path: '/',domain: 'musixlib.com' });
-         $.removeCookie("userId");
-         $.cookie("msg", "LogOut successfully");
-         location.reload();
-       });
-     }
-   });
- }
+        FB.getLoginStatus(function (response) {
+            statusChangeCallback(response);
+        });
+
+    };
+
+    // Load the SDK asynchronously
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+
+    // Here we run a very simple test of the Graph API after login is
+    // successful.  See statusChangeCallback() for when this call is made.
+    function testAPI() {
+
+        FB.api('/me', function (response) {
+
+            //
+            if ($.cookie('userId') == undefined) {
+                //	$.cookie('userId', response.id,{ expires: 365 });
+                $.cookie('userId', response.id, {expires: 365, path: '/', domain: 'musixlib.com'});
+                $.cookie('userId', response.id, {expires: 365, path: '/'});
+
+                $.cookie('msg', "Login successfully");
+                location.reload();
+
+            }
+            $.cookie('userId', response.id, {path: '/', domain: 'musixlib.com'});
+
+            afterLogin();
+
+        });
+    }
+    function logOut() {
+        FB.getLoginStatus(function(response) {
+            if (response && response.status === 'connected') {
+
+                FB.logout(function(response) {
+                    $.removeCookie("fblo_"+"1583817998516079",{  path: '/',domain: 'musixhub.com' });
+                    $.removeCookie("userId",{  path: '/',domain: 'musixhub.com' });
+                    $.removeCookie("userId");
+                    $.cookie("msg", "LogOut successfully");
+                    location.reload();
+                });
+            }
+        });
+    }
 </script>
  
 <style>
@@ -1157,7 +1169,7 @@ function loginStatusUpdated()
 		</div>
 		<div class="soc-icons">
 			<ul>
- 				<li><a target="_blank" href="https://www.facebook.com/pages/MusixLib-Community/1505910166348768"><img src="images/facebook.png"></a></li>
+ 				<li><a target="_blank" href="https://www.facebook.com/musixlib"><img src="images/facebook.png"></a></li>
 
 		 	<li title="Login to MusixLib">	<div id="fbLogin">
 
@@ -1251,63 +1263,75 @@ You are entitled to access and correct your data by requesting to do so via the 
 </div>
 </div>
 
-
-   <div class="footer-bg">
-<div class="wrap">
-<div class="footer">
-	<div class="section group">
-			<div class="grid_1_of_4 images_1_of_4">
-				<h3>The Website</h3>
-				<p>Play albums from your favourites artists and improve YouTube music experience
-MusixLib is a music network that gives you easy and unlimited access to music, for free. 
-You can find all your favorites artists and albums.</p>
-			</div>
-			<div class="grid_1_of_4 images_1_of_4">
-				<h3>The Extension </h3>
-				<p>
-MusixLib give you better YouTube music experience.
-  Every time you play favorite song on YouTube our extension will notify you about album/playlist information and let you play it for free.
-</p>
-			</div>
-			<div class="grid_1_of_4 images_1_of_4">
-					<h3>Recent Posts</h3>
-				     <ul class="f-nav">
-						<li><a target="_blank" href="https://www.facebook.com/pages/MusixLib-Community/1505910166348768"><img src="images/facebook.png" alt="">Facebook</a></li>
-						<li><a href=""><img src="images/twitter.png" alt="">Twitter</a></li>
-						<li><a href=""><img src="images/gplus.png" alt="">Google+</a></li>
-					</ul>
-			</div>
-			<div class="grid_1_of_4 images_1_of_4">
-				<h3>Latest Music</h3>
-				 <p><a href="/details.php?t=a&amp;it=929825574"><img style="width: 60px;" src="http://a2.mzstatic.com/us/r30/Music1/v4/82/51/cd/8251cdb1-05a0-e927-86b5-d9d663ccbcf7/dj.stzzlhlw.100x100-75.jpg" alt="">Title (Deluxe) by Meghan Trainor 2015-01-09</a></p>
-			 	 <p class="top" style="float: left;"><a href="/details.php?t=a&amp;it=918377263"><img style="width: 60px;" src="http://a2.mzstatic.com/us/r30/Music1/v4/f7/88/0f/f7880fb0-8087-de0f-c9b3-821a5d3733d7/886444686716.100x100-75.jpg" alt="">
-That's Christmas To Me by Pentatonix 2014-10-17</a></p>
-			</div>
-	</div>
-</div>
-</div>
+<div class="footer-bg">
+    <div class="wrap">
+        <div class="footer">
+            <div class="section group">
+                <div class="grid_1_of_4 images_1_of_4">
+                    <h3>The Website</h3>
+                    <p>Play albums from your favourites artists and improve YouTube music experience
+                        MusixLib is a music network that gives you easy and unlimited access to music, for
+                        free.
+                        You can find all your favorites artists and albums.</p>
+                </div>
+                <div class="grid_1_of_4 images_1_of_4">
+                    <h3>The Extension </h3>
+                    <p>
+                        MusixLib give you better YouTube music experience.
+                        Every time you play favorite song on YouTube our extension will notify you about album/playlist
+                        information and let you play it for free.
+                    </p>
+                </div>
+                <div class="grid_1_of_4 images_1_of_4">
+                    <h3>Recent Posts</h3>
+                    <ul class="f-nav">
+                        <li><a target="_blank" href="https://www.facebook.com/musixlib"><img src="images/facebook.png" alt="">Facebook</a></li>
+                        <li><a href=""><img src="images/twitter.png" alt="">Twitter</a></li>
+                        <li><a href=""><img src="images/gplus.png" alt="">Google+</a></li>
+                    </ul>
+                </div>
+                <div class="grid_1_of_4 images_1_of_4">
+                    <h3>Latest Music</h3>
+                    <p><a href="/details.php?t=a&amp;it=929825574"><img style="width: 60px;" src="http://a2.mzstatic.com/us/r30/Music1/v4/82/51/cd/8251cdb1-05a0-e927-86b5-d9d663ccbcf7/dj.stzzlhlw.100x100-75.jpg" alt="">Title (Deluxe) by Meghan Trainor 2015-01-09</a>
+                    </p>
+                    <p class="top" style="float: left;"><a href="/details.php?t=a&amp;it=918377263"><img style="width: 60px;" src="http://a2.mzstatic.com/us/r30/Music1/v4/f7/88/0f/f7880fb0-8087-de0f-c9b3-821a5d3733d7/886444686716.100x100-75.jpg" alt="">
+                            That's Christmas To Me by Pentatonix 2014-10-17</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <div class="footer1-bg">
-	<div class="wrap">
-			<div class="copy">
-					<p>© 2015 All rights Reserved to MusixLib  <a href="tos.php" target="_blank">Terms of Service</a>  <a href="privacy.php" target="_blank">Privacy</a><br><br> <img src="images/pwrdByYT-black.png" style="height: 40px;"></p>
-			</div>	
-	</div>
+    <div class="wrap">
+        <div class="copy">
+            <p>© 2015 All rights Reserved to MusixLib <a href="tos.php" target="_blank">Terms of
+                    Service</a> <a href="privacy.php" target="_blank">Privacy</a><br><br> <img src="images/pwrdByYT-black.png" style="height: 40px;"></p>
+        </div>
+    </div>
 </div>
 
 <div id="sideCont" class="extNotInst">
-        <div id="offer" style="display: block;" onclick="chrome.webstore.install()">Try MusixLib extension for better youtube experience</div>
-         <div class="closeAlt" style="display: block;"></div>
-      </div>
-	  <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    <div id="offer" style="display: block;" onclick="chrome.webstore.install()">Try MusixLib extension for
+        better youtube experience
+    </div>
+    <div class="closeAlt" style="display: block;"></div>
+</div>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-  ga('create', 'UA-58597288-1', 'auto');
-  ga('send', 'pageview');
+    ga('create', 'UA-58597288-1', 'auto');
+    ga('send', 'pageview');
 
 </script>
 
