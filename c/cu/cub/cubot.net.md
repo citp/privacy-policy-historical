@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cubot.net privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231821id_/http%3A//www.cubot.net/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cubot.net privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623145641id_/http%3A//cubot.net/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy -cubot
 
@@ -44,4 +44,4 @@ Our website may contain links to other websites of interest. However, once you h
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
 
-sopport@cubot.net
+support@cubot.net
