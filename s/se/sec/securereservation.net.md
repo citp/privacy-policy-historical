@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2016-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160301052626id_/http%3A//www.securereservation.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securereservation.net privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623152648id_/http%3A//www.travlu.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Travlu.com
 
