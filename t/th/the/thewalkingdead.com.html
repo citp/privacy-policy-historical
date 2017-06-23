@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119120013id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thewalkingdead.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623061910id_/http%3A//www.thewalkingdead.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" lang="en-US"><!--<![endif]--><head>
 <meta charset="UTF-8">
@@ -10,7 +10,7 @@
 <title>Privacy Policy | The Walking Dead</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/style.css?version=450">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/additional.css?version=451">
+<link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/additional.css?version=452">
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/lightbox.css">
 <!--<style>-->
 <!--    @media only screen and (min-width: 320px) and (max-width: 768px)-->
@@ -35,7 +35,7 @@
 
 <link rel="pingback" href="http://www.thewalkingdead.com/xmlrpc.php">
 
-<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=478691595514548"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=478691595514548"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
     var ajaxurl = "http://www.thewalkingdead.com/wp-admin/admin-ajax.php";
 </script>
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/fallback.js"></script>
@@ -108,6 +108,9 @@ var isFrontPage= 0;
 
 $(function () {
 $("#logged_in").hide();
+    if(readCookie("isinsider")== null){
+        createCookie("isinsider",0,90);
+    }
   //        $("#login_register").hide();
 var twitterAccount = "jquery";
     //var url = "http://stage-web01.sandalbay.com/j.json";
@@ -141,7 +144,8 @@ function callback(data) {
 	  $('#profileLink').attr('href','http://www.skybound.com/profiles/?insider='+data['userName']);
 	  console.info('http://www.skybound.com/profiles/?insider='+data['userName']);
            status=1;
-
+            eraseCookie("isinsider");
+            createCookie("isinsider",1,90);
 	     createCookie("userId",data["userId"],30);
            createCookie("userName",data["userName"],30);
 	   createCookie("sessionKey",data["sessionKey"],30);
@@ -179,50 +183,58 @@ function callback(data) {
 <!--[if lt IE 10]>
 <link rel="stylesheet" type="text/css" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/ie.css" />
 <![endif]-->
+
+<!-- All in One SEO Pack 2.3.11 by Michael Torbert of Semper Fi Web Design[781,821] -->
+<link rel="author" href="http://admin">
+
+<link rel="canonical" href="http://www.thewalkingdead.com/privacy-policy/">
+<!-- /all in one seo pack -->
+<link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="The Walking Dead » Feed" href="http://www.thewalkingdead.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Walking Dead » Comments Feed" href="http://www.thewalkingdead.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Walking Dead » Privacy Policy Comments Feed" href="http://www.thewalkingdead.com/privacy-policy/feed/">
-<link rel="stylesheet" id="tubepress-css" href="http://www.thewalkingdead.com/wp-content/plugins/tubepress/sys/ui/themes/default/style.css?ver=3.5" type="text/css" media="all">
-<link rel="stylesheet" id="comment-images-css" href="http://www.thewalkingdead.com/wp-content/plugins/comment-images/css/plugin.css?ver=3.5" type="text/css" media="all">
-<link rel="stylesheet" id="CasePressUpVoteButtonsStyles-css" href="http://www.thewalkingdead.com/wp-content/plugins/casepress-upvote/styles/buttons/stackoverflow/stackoverflow.css?ver=3.5" type="text/css" media="all">
-<link rel="stylesheet" id="simple-pagination-css-css" href="http://www.thewalkingdead.com/wp-content/plugins/simple-pagination//css/default.css?ver=2.1.3" type="text/css" media="screen">
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/jquery/jquery.js?ver=1.8.3"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/scripts.js?ver=3.5"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/tubepress/sys/ui/static/js/tubepress.js?ver=3.5"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=3.5"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/comment-reply.min.js?ver=3.5"></script>
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.thewalkingdead.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="http://www.thewalkingdead.com/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="tubepress-css" href="http://www.thewalkingdead.com/wp-content/plugins/tubepress/src/main/web/css/tubepress.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="comment-images-css" href="http://www.thewalkingdead.com/wp-content/plugins/comment-images/css/plugin.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="CasePressUpVoteButtonsStyles-css" href="http://www.thewalkingdead.com/wp-content/plugins/casepress-upvote/styles/buttons/stackoverflow/stackoverflow.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="simple-pagination-css-css" href="http://www.thewalkingdead.com/wp-content/plugins/simple-pagination/css/default.css?ver=2.1.7" type="text/css" media="screen">
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/scripts.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/tubepress/src/main/web/js/tubepress.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/mailchimp-widget/js/mailchimp-widget-min.js?ver=4.6.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var cm_imgs = {"fileTypeError":"<strong>Heads up!<\/strong> You are attempting to upload an invalid image. If saved, this image will not display with your comment.","fileSizeError":"<strong>Heads up!<\/strong> You are attempting to upload an image that is too large. If saved, this image will not be uploaded.<br \/>The maximum file size is: ","limitFileSize":"5000000"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/comment-images/js/plugin.min.js?ver=3.5"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/casepress-upvote/js/casepress-upvote-not-logged-in.js?ver=3.5"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/comment-images/js/plugin.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/plugins/casepress-upvote/js/casepress-upvote-not-logged-in.js?ver=4.6.1"></script>
+<link rel="https://api.w.org/" href="http://www.thewalkingdead.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.thewalkingdead.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.thewalkingdead.com/wp-includes/wlwmanifest.xml"> 
-<link rel="prev" title="FAQ" href="http://www.thewalkingdead.com/faq/">
-<link rel="next" title="Press" href="http://www.thewalkingdead.com/press/">
-<meta name="generator" content="WordPress 3.5">
-
-<!-- All in One SEO Pack 1.6.15.3 by Michael Torbert of Semper Fi Web Design[781,821] -->
-<link rel="author" href="admin">
-
-<link rel="canonical" href="http://www.thewalkingdead.com/privacy-policy/">
-<!-- /all in one seo pack -->
-		<script type="text/javascript">
-
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-37561327-3']);
-		  _gaq.push(['_trackPageview']);
-
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-
-		</script>
-	<!--kino-events-->
+<meta name="generator" content="WordPress 4.6.1">
+<link rel="shortlink" href="http://www.thewalkingdead.com/?p=150">
+<link rel="alternate" type="application/json+oembed" href="http://www.thewalkingdead.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thewalkingdead.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="http://www.thewalkingdead.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.thewalkingdead.com%2Fprivacy-policy%2F&amp;format=xml">
+<!--kino-events-->
 <script type="text/javascript">
 var plugin_path = 'http://www.thewalkingdead.com//wp-content/plugins/kino-event-calendar-plugin';
 var ec_color = '#cc9933';
@@ -281,10 +293,11 @@ background-color: #cc9933;
 }
 </style>
 <!--/kino-events-->
-	<script type="text/javascript">function getTubePressBaseUrl(){return "http://www.thewalkingdead.com/wp-content/plugins/tubepress";}</script>
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #0B0B0B; background-image: url('http://www.thewalkingdead.com/wp-content/uploads/2013/02/Comics_walkers2_background.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
+	
+<script type="text/javascript">var TubePressJsConfig = {"urls":{"base":"http:\/\/www.thewalkingdead.com\/wp-content\/plugins\/tubepress","usr":"http:\/\/www.thewalkingdead.com\/wp-content\/tubepress-content"}};</script>
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<style type="text/css" id="custom-background-css">
+body.custom-background { background-image: url('http://www.thewalkingdead.com/wp-content/uploads/2013/02/Comics_walkers2_background.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
 </style>
 <link rel="stylesheet" type="text/css" media="all" href="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/css/jquery.tweet.css">
 <script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/vendor/tweet/jquery.tweet.js"></script>
@@ -451,7 +464,8 @@ padding-left:10px;
         color: #cc9933 !important;
     }*/
 </style>
-<script type="text/javascript">
+<!--
+<script type='text/javascript'>
 var googletag = googletag || {};
 googletag.cmd = googletag.cmd || [];
 (function() {
@@ -466,7 +480,7 @@ node.parentNode.insertBefore(gads, node);
 })();
 </script>
 
-<script type="text/javascript">
+<script type='text/javascript'>
 googletag.cmd.push(function() {
 googletag.defineSlot('/11619945/TWD_300x250_HP', [300, 250], 'div-gpt-ad-1360711943164-0').addService(googletag.pubads());
 googletag.defineSlot('/11619945/TWD_300x250_ROS', [300, 250], 'div-gpt-ad-1360711943164-1').addService(googletag.pubads());
@@ -477,7 +491,17 @@ googletag.defineSlot('/11619945/TWD_160x600_HP', [160, 600], 'div-gpt-ad-1361302
 googletag.pubads().collapseEmptyDivs();
 googletag.enableServices();
 });
-</script>
+</script>-->
+    <script>
+        var script = document.createElement('script');
+        var tstamp = new Date();
+        script.id = 'factorem';
+        script.src = '//cdm.cursecdn.com/js/thewalkingdead/cdmfactorem_min.js?misc=' + tstamp.getTime();
+        script.async = false;
+        script.type='text/javascript';
+        document.head.appendChild(script);
+    </script><script id="factorem" src="//cdm.cursecdn.com/js/thewalkingdead/cdmfactorem_min.js?misc=1580438645868" type="text/javascript"></script>
+
 <script>
 jQuery(document).ready(function()
                         {
@@ -534,9 +558,768 @@ body
  margin-top:-20px;
 }
 </style>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+<style>
+    label, input { display:block; }
+    input.text { margin-bottom:12px; width:95%; padding: .4em; }
 
+    fieldset { padding:0; border:0; margin-top:25px; }
+    h1 { font-size: 1.2em; margin: .6em 0; }
+    div#users-contain { width: 350px; margin: 20px 0; }
+    div#users-contain table { margin: 1em 0; border-collapse: collapse; width: 100%; }
+    div#users-contain table td, div#users-contain table th { border: 1px solid #eee; padding: .6em 10px; text-align: left; }
+    .ui-dialog .ui-state-error { padding: .3em; }
+    .validateTips { border: 1px solid transparent; padding: 0.3em;  width: 95%;}
+    .ui-dialog-titlebar{
+        border: none !important;
+        background: none !important;
+    }
+    .ui-dialog .ui-dialog-titlebar-close {
+        margin: -16px 0 0 !important;
+        right: 0.4em !important;
+    }
+    .ui-widget {
+        font-family: inherit !important;
+    }
+    .ui-widget-overlay {
+        background: #0d0c0c !important;
+        opacity: 0.5 !important;
+    }
+    .ui-widget button {
+        font-family: inherit !important;
+    }
+    .ui-widget.ui-widget-content {
+        border: none !important;
+    }
+    .ui-dialog {
+        background: #fff url("http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/newsignupbanner.png")no-repeat;
+        border-radius: 15px !important;
+        z-index: 10000 !important;
+    }
+    .signdialog{
+        background: #fff url("http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/newsignupbanner.png")no-repeat !important;
+    }
+    .subscribedialog{
+        background: url("http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/subscribebannerNew.jpg")no-repeat !important;
+    }
+    .mobsubscribedialog{
+        background: url("http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/mobsubscribebannerNew.jpg")no-repeat !important;
+    }
+    .ui-state-active{
+        background: #f6f6f6 !important;
+        border:#c5c5c5 1px solid !important;;
+    }
+    .ui-state-active:hover{
+        background: #f6f6f6 !important;
+        border:#c5c5c5 1px solid !important;
+    }
+    .rightcol{
+        float: left;width: 330px;margin-left: 10px;
+    }
+    .leftcol{
+        width: 397px;float: left
+    }
+    .subscribetoday{
+        text-align: center;margin-top: 285px;
+    }
+    @media screen and (max-width: 860px)
+    {
+        .ui-dialog {
+            background: #fff;
+            width: 276px !important;
+            height:480px;
+        }
+        .subscribetoday{
+            text-align: center;margin-top: 377px;
+        }
+        .subscribetoday > img{
+            width: 85% !important;
+            height: auto !important;
+        }
+        .dialog-form{
+            height:480px !important;
+        }
+        .subscribedialog{
+            background: #fff;
+        }
+        .mobsubscribedialog{
+            background: #fff;
+        }
+        .ui-state-active{
+            background: #f6f6f6 !important;
+            border:#c5c5c5 1px solid !important;;
+        }
+        .ui-state-active:hover{
+            background: #f6f6f6 !important;
+            border:#c5c5c5 1px solid !important;
+        }
+        .rightcol{
+            width: 240px;
+        }
+        .leftcol{
+            width: 10px;
+        }
+        #dialog-form1{
+            height: 445px !important;
+        }
+        #dialog-form > .rightcol{ width: 233px;}
+    }
+</style>
+<script src="//code.jquery.com/jquery-1.12.4.js"></script>
+<script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script>
+
+
+
+jQuery( function() {
+
+
+    var dialog, form, dialog2,form2,dialog1,userId,dialog3;
+
+
+    // From http://www.whatwg.org/specs/web-apps/current-work/multipage/states-of-the-type-attribute.html#e-mail-state-%28type=email%29
+    emailRegex = /^[a-zA-Z0-9.!#$%&'*+\/=?^_`{|}~-]+@[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?(?:\.[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?)*$/,
+        uname = jQuery( "#uname" ),
+        email = jQuery( "#email" ),
+        password = jQuery( "#password" ),
+        allFields = jQuery( []).add( uname ).add( email ).add( password ),
+        tips = jQuery( ".validateTips" );
+
+    //console.log(uname);
+
+    function updateTips( t ) {
+        tips
+            .text( t )
+            .addClass( "ui-state-highlight" );
+        setTimeout(function() {
+            tips.removeClass( "ui-state-highlight", 1500 );
+        }, 500 );
+    }
+
+    function checkLengthStep( o, n, min, max ) {
+        if ( o.length > max || o.length < min ) {
+            o.addClass( "ui-state-error" );
+            updateTips( "Length of " + n + " must be between " +
+                min + " and " + max + "." );
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+
+    function checkLength( o, n, min, max ) {
+        if ( o.val().length > max || o.val().length < min ) {
+            o.addClass( "ui-state-error" );
+            updateTips( "Length of " + n + " must be between " +
+                min + " and " + max + "." );
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    function checkRegexp( o, regexp, n ) {
+        if ( !( regexp.test( o.val() ) ) ) {
+            o.addClass( "ui-state-error" );
+            updateTips( n );
+            return false;
+        } else {
+            return true;
+        }
+    }
+
+    function addUser() {
+
+        var valid = true;
+        allFields.removeClass( "ui-state-error" );
+        valid = valid && checkLength( uname, "username", 3, 16 );
+        valid = valid && checkRegexp( email, emailRegex, "Please enter valid email!" );
+        valid = valid && checkLength( password, "password", 8, 64 );
+        if ( valid ) {
+
+            jQuery.ajax({
+                url : 'http://www.thewalkingdead.com/popupproxy.php',
+                type: "POST",
+                data: {
+                    emailaddress: email.val(),
+                    password: password.val(),
+                    username: uname.val(),
+                    site: 'twd',
+                    facebookid: jQuery('#facebookid').val(),
+                    regcode:'',
+                    facebookInfo:jQuery('#facebookInfo').val(),
+                    pageversion:'popup1'
+                },
+                success: function( data ) {
+                    console.log(data);
+                    if(data == -1){
+                        updateTips( "That user name already exists. Please create a new one." );
+                    }else if(data == -2){
+                        updateTips( "That email address is already in use. Please use another email address or log in with your password." );
+                    }else if(data > 0){
+                        /*alert("Registration_success");
+                         dialog.dialog( "close" );
+                         //location.reload();*/
+                        userId = data;
+                        rewards(data);
+                    }else{
+                        alert("Something went wrong. Please try again.");
+                        dialog.dialog( "close" );
+                        jQuery('#fbConnect').show();
+                        jQuery('#fbConnected').hide();
+                    }
+
+
+
+
+
+
+                }
+            });
+        }
+        return valid;
+    }
+
+    function rewards(user_id){
+        jQuery.ajax({
+            url : 'http://www.thewalkingdead.com/rewardselectproxy.php',
+            type: "POST",
+            data: {
+                skyboundId : user_id,
+                site: 'skybound'
+            },
+            success: function( data ) {
+                dialog.dialog( "close" );
+                dialog2.dialog( "open" );
+                jQuery('#rewards').html(data);
+            }
+        });
+    }
+
+    function checkPopup()
+    { console.log("POup Called");
+        var lastpopup = readCookie("lastpopup");
+        var lastpopupcounter = readCookie("lastpopupcounter");
+
+        if(!lastpopupcounter)
+            createCookie("lastpopupcounter",0,90);
+
+        if(!lastpopup)
+            createCookie("lastpopup",0,90);
+
+        lastpopup = parseInt(readCookie("lastpopup"));
+        lastpopupcounter = parseInt(readCookie("lastpopupcounter"));
+
+
+        var currentTime = new Date().getTime();
+        if(lastpopupcounter < 5)
+        {
+            var diff=  (currentTime - lastpopup)/86400000; //  60000 ;
+            if(diff > 1)
+            {
+                lastpopupcounter++;
+                createCookie("lastpopupcounter",lastpopupcounter,90);
+                createCookie("lastpopup",currentTime,90) ;
+                //show popup
+                //alert("show popup daily");
+                if(dialog1.dialog('isOpen') == false && dialog.dialog('isOpen') == false && dialog2.dialog('isOpen') == false && dialog3.dialog('isOpen') == false){
+                    dialog1.dialog( "open" );
+                }
+            }
+        }
+        else
+        {
+            var diff=  (currentTime - lastpopup)/86400000; //60000 ;
+            if(diff > 7)
+            {
+                lastpopupcounter++;
+                createCookie("lastpopupcounter",lastpopupcounter,90);
+                createCookie("lastpopup",currentTime,90) ;
+                //show popup
+                //alert("show popup weekly");
+                if(dialog1.dialog('isOpen') == false && dialog.dialog('isOpen') == false && dialog2.dialog('isOpen') == false && dialog3.dialog('isOpen') == false){
+                    dialog1.dialog( "open" );
+                }
+            }
+
+
+        }
+
+    }
+
+
+
+    dialog = jQuery( "#dialog-form" ).dialog({
+        autoOpen: false,
+        height: 550,
+        width: 775,
+        modal: true,
+        close: function() {
+            form[ 0 ].reset();
+            allFields.removeClass( "ui-state-error" );
+        },
+        open: function() {
+            if($( window ).width() >860){
+                jQuery('.ui-dialog').addClass('signdialog');
+                jQuery('.ui-dialog').removeClass('subscribedialog');
+                jQuery('.ui-dialog').removeClass('mobsubscribedialog');
+            }else{
+                jQuery('.ui-dialog').removeClass('subscribedialog');
+                jQuery('.ui-dialog').removeClass('mobsubscribedialog');
+            }
+        }
+    });
+
+    dialog2 = jQuery( "#dialog-form2" ).dialog({
+        autoOpen: false,
+        height: 550,
+        width: 570,
+        modal: true,
+        close: function() {
+            jQuery('#fbConnect').show();
+            jQuery('#fbConnected').hide();
+            allFields.removeClass( "ui-state-error" );
+        },
+        open: function() {
+            jQuery('.ui-dialog').removeClass('signdialog');
+            jQuery('.ui-dialog').removeClass('subscribedialog');
+            jQuery('.ui-dialog').removeClass('mobsubscribedialog');
+            jQuery('.ui-dialog').css("background","#fff");
+        }
+    });
+
+    dialog1 = jQuery( "#dialog-form1" ).dialog({
+        autoOpen: false,
+        height: 400,
+        width: 860,
+        modal: true,
+        open: function() {
+            jQuery('.ui-dialog').removeClass('signdialog');
+
+            if($( window ).width() >860){
+                jQuery('.ui-dialog').height(400);
+                jQuery('.ui-dialog').addClass('subscribedialog');
+                jQuery('.ui-dialog').removeClass('mobsubscribedialog');
+            }else{
+                jQuery('.ui-dialog').height(480);
+                jQuery('.ui-dialog').removeClass('subscribedialog');
+                jQuery('.ui-dialog').addClass('mobsubscribedialog');
+            }
+        }
+    });
+
+    dialog3 = jQuery( "#dialog-form3" ).dialog({
+        autoOpen: false,
+        height: 550,
+        width: 775,
+        modal: true,
+        open: function() {
+            if($( window ).width() >860){
+                jQuery('.ui-dialog').addClass('signdialog');
+                jQuery('.ui-dialog').removeClass('subscribedialog');
+                jQuery('.ui-dialog').removeClass('mobsubscribedialog');
+            }else{
+                jQuery('.ui-dialog').removeClass('subscribedialog');
+                jQuery('.ui-dialog').removeClass('mobsubscribedialog');
+            }
+        }
+    });
+
+    var ts;
+
+    setTimeout(function(){
+            jQuery.ajax({
+                url : 'http://www.thewalkingdead.com/cookieproxy.php',
+                type: "POST",
+                data: {
+
+                },
+                success: function( data ) {
+                    var obj = JSON.parse(data);
+                    console.log(obj.isinsider);
+                    console.log(obj.userId);
+                    if(obj.isinsider == 0 || obj.isinsider == null){
+                        if(navigator.cookieEnabled){
+                            console.log("Popup ready to call")
+                            ts =setInterval(function(){ checkPopup(); }, 30000);
+                        }
+                        //jQuery('#create-user').show();
+                        jQuery('#create-user').hide();
+                        jQuery('#login-user').hide();
+                    }else if(obj.userId > 0 && obj.userId!=null){
+                        clearInterval(ts);
+                        jQuery('#create-user').hide();
+                        jQuery('#login-user').hide();
+                    }else if(obj.isinsider == 1){
+                        clearInterval(ts);
+                        jQuery('#create-user').hide();
+                        jQuery('#login-user').hide();
+                        //jQuery('#login-user').show();
+                    }
+                }
+            });
+        },1500
+    );
+
+
+
+
+    form = dialog.find( "form" ).on( "submit", function( event ) {
+        event.preventDefault();
+        addUser();
+    });
+
+    jQuery( "#login-user" ).button().on( "click", function() {
+        window.location.href = "https://accounts.skybound.com/web/login/login.php?s=rewardselection&site=skybound";
+    });
+
+
+    jQuery( "#create-user" ).button().on( "click", function() {
+        dialog.dialog( "open" );
+    });
+    jQuery( "#dialog-form3-close" ).button().on( "click", function() {
+        clearInterval(ts);
+        eraseCookie("isinsider");
+        createCookie("isinsider",1,90);
+        dialog3.dialog( "close" );
+    });
+
+
+    jQuery('#frm1').on( "submit", function( event ) {
+        event.preventDefault();
+
+        var values = [];
+        var j =0;
+        jQuery.each(jQuery('#frm1').serializeArray(), function(i, field) {
+            if(field.name != 'action'){
+                values[j] = field.value;
+                j++;
+            }
+
+        });
+        eraseCookie("PerComics_"+userId);
+        createCookie("PerComics_"+userId,values,30);
+        // console.log(values);
+        jQuery.ajax({
+            url : 'http://www.thewalkingdead.com/preproxy.php',
+            type: "POST",
+            data: {
+                userId: userId,
+                reward: values
+            },
+            success: function( data ) {
+                if(data!=1){
+                    alert("Something went wrong. Please try again.");
+                }
+            }
+
+        });
+        jQuery('.validateTips').html('');
+        allFields.removeClass( "ui-state-error" );
+        dialog2.dialog( "close" );
+        dialog3.dialog( "open" );
+    });
+    jQuery('#subscribetoday').click(function(){
+        dialog1.dialog( "close" );
+        dialog.dialog( "open" );
+    });
+
+    /*  Facebook Start */
+
+ window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '338586486303181',
+      version    : 'v2.3',
+      cookie     : true
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+
+
+    /* Facebook End */
+
+} );
+
+
+function updateError( t ) {
+    var tips = jQuery('.validateTips');
+    tips
+        .text( t )
+        .addClass( "ui-state-highlight" );
+    setTimeout(function() {
+        tips.removeClass( "ui-state-highlight", 1500 );
+    }, 500 );
+}
+
+function FBLogin(){
+    FB.login(function(response){
+        if(response.authResponse){
+            //console.log(response);
+
+            jQuery('#fbConnect').hide();
+            //window.location.href = "../register/register.php?action=fblogin";
+
+            jQuery.ajax({
+                url : 'http://www.thewalkingdead.com/fbproxy.php',
+                type: "POST",
+                data: {
+                    site: 'skybound'
+                },
+                success: function( data ) {
+                    var obj = JSON.parse(data);
+                    //console.log(obj);
+                    //console.log(obj.result)
+                    if(obj.result == 1){
+                        jQuery('#fbConnected').show();
+                        jQuery('#email').val(obj.info.emailaddress);
+                        jQuery('#facebookInfo').val(JSON.stringify(obj.info.facebookInfo));
+                        jQuery('#facebookid').val(obj.info.facebookid);
+                        jQuery('#fbuname').html(obj.info.fbname);
+                        jQuery('#fbpic').html('<img src="https://graph.facebook.com/'+obj.info.facebookid+'/picture?type=small" style="height:45px"/>');
+                    }else if(obj.result == -1){
+                        updateError( "This Facebook account is already registered with skybound. Please use the skybound account information or login with facebook." );
+                        jQuery('#fbConnect').show();
+                    }else if(obj.result == -2){
+                        updateError( "Invalid facebook credentials" );
+                        jQuery('#fbConnect').show();
+                    }
+
+                }
+            });
+        }
+    }, {scope: 'email,public_profile,user_friends'});
+}
+
+function FBLogout(){
+    FB.logout(function(response) {
+        //window.location.href = "../login/login.php";
+        jQuery('#email').val('');
+        jQuery('#fbConnected').hide();
+        jQuery('#fbConnect').show();
+    });
+}
+</script>
+<style>
+    .mainInnerDiv{
+        margin: 0 auto;
+        width: 440px;
+    }
+    .mainInnerDivLeft{
+        margin-left: 43px;
+    }
+
+    .divblock{
+        background: none !important;
+        border: none !important;
+        padding: 0px !important;
+
+    }
+    .okCorrect{
+        left: 0;
+        max-height: 61px !important;
+        max-width: 64px !important;
+        position: relative;
+        top: -50px;
+        z-index: 10000;
+    }
+
+    .divblocks2 {
+        margin-top: -100px;
+    }
+    .fixDivwidth{
+        width: 105px !important;
+        min-width: 105px !important;
+        margin: 5px;
+        text-align: left;
+        height: 164px !important;
+        min-height: 1px;
+        display: inline-block !important;
+        cursor: pointer;
+        scroll:hidden;
+    }
+    .divcopy img{
+        width:100% !important;
+        height: auto !important;
+    }
+    .claimRewardsBtn{
+
+        text-align: center;
+        width: 344px;
+        margin-left: 46px;
+        background: #50a026 none repeat scroll 0 0;
+        border: none;
+        border-radius: 3px;
+        clear: both;
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        height: auto;
+        line-height: 35px;
+        cursor: pointer;
+    }
+    .displayCorrectCls{
+        display: none;
+        margin-left: 20px;
+        margin-top: -67px;
+    }
+    .selectBar{
+
+        text-align: center;
+        width: 344px;
+        margin: 0 auto 0 46px;
+        background: #ebebeb none repeat scroll 0 0;
+        border-radius: 3px;
+        clear: both;
+        color: #999999;
+        font-size: 15px;
+        font-weight: 600;
+        height: auto;
+        line-height: 35px;
+    }
+    .rewardHeading{
+        float:left;
+        color: #50a026;
+        font-size: 22px;
+        margin-bottom: -5px;
+        margin-left: 98px;
+        margin-top: -5px;
+    }
+
+
+    @media screen and (max-width: 860px)
+    {
+        .mainInnerDivLeft{
+            margin-left: 0px;
+        }
+        .fixDivwidth{
+
+            height: 102px !important;
+            min-width: 65px !important;
+            width: 65px !important;
+            margin: 6px;
+        }
+        .displayCorrectCls{
+            margin-left: 1px;
+            margin-top: -67px;
+        }
+        .okCorrect {
+            top: -18px;
+        }
+        .divblocks2{
+            margin-top: -20px !important;
+        }
+
+
+        .claimRewardsBtn{
+            width: 87%;
+            margin-left: 6px !important;
+        }
+
+        .selectBar{
+            width: 87%;
+            margin-left: 6px !important;
+        }
+
+        .mainInnerDiv{
+            width: 258px;
+        }
+
+        .rewardHeading{
+            margin: -13px auto 5px;
+            text-align: center;
+            width: 95%;
+        }
+    }
+
+    .nav:before, .nav:after {
+        display: inline-block !important;
+    }
+
+</style>
 </head>
-<body class="page page-id-150 page-template page-template-privacy-policy-php custom-background singular">
+<body class="page page-id-150 page-template page-template-privacy-policy page-template-privacy-policy-php custom-background singular">
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-37561327-3', 'auto');
+ga('create', 'UA-37561327-13', 'auto', 'clientTracker');
+
+ga('require', 'displayfeatures');
+ga('clientTracker.require', 'displayfeatures');
+
+ga('send', 'pageview');
+ga('clientTracker.send', 'pageview');
+
+</script>
+
+
+<div id="dialog-form" title="&nbsp;" style="display: none;">
+    <div class="leftcol">
+        <!--<img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/newsignupbanner.png" width="300px">-->
+        &nbsp;
+    </div>
+
+    <div class="rightcol">
+        <div style="text-align: center;"><img alt="Skybound" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/skybound_logo_small.png" style="margin-top: -7px;"></div>
+        <form id="step1">
+
+            <fieldset>
+                <div style="text-align: center;font-weight: bold;width: 95%;">Welcome to Skybound Insiders, the free VIP group for lovers of comics and entertainment!</div>
+                <p class="validateTips"></p>
+                <input type="hidden" name="facebookid" id="facebookid">
+                <input type="hidden" name="facebookInfo" id="facebookInfo">
+                <input type="text" name="uname" id="uname" value="" placeholder="Username" class="text ui-widget-content ui-corner-all">
+                <input type="text" name="email" id="email" placeholder="Email" class="text ui-widget-content ui-corner-all">
+                <input type="password" name="password" id="password" placeholder="Create a password" class="text ui-widget-content ui-corner-all">
+                <input type="submit" value="Sign up" class="ui-button ui-widget ui-state-default ui-corner-all" style="width: 95%;background: #50a026;color: #ffffff; border: none;height: 35px;">
+                <!-- Allow form submission with keyboard without duplicating the dialog button -->
+                <!--<input type="submit" tabindex="-1" style="position:absolute; top:-1000px">-->
+            </fieldset>
+        </form>
+        <div style="text-align: center;font-weight: bold;padding: 10px;"> Or</div>
+        <div style="text-align: center; width: 95%; border-radius: 3px; background: #4267b2; color: #fff;display: none;" id="fbConnected"><img width="50px;" height="50px;" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/facebookf.png" title="Registering with Facebook"><span style="margin-left: 5px;margin-right: 23px; font-weight: bold; font-size: 14px;" id="fbuname"></span><span id="fbpic" style="margin-right:10px;"></span><a style="cursor:pointer;color:#fff;" onclick="FBLogout();">Cancel</a></div>
+        <div style="text-align: center;" id="fbConnect"><img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/facebook-connect.png" alt="Fb Connect" title="Login with facebook" onclick="FBLogin();" style="margin-top: 0px; cursor: pointer;"></div>
+        <div style="text-align: center;padding: 10px;color:#766f6f;">   Creating an account means you're okay with Skybound's <a href="http://www.skybound.com/tc/" target="_blank">Terms of Service</a>, <a href="http://www.skybound.com/privacy/" target="_blank">Privacy Policy</a></div>
+    </div>
+</div>
+
+<div id="dialog-form2" title="&nbsp;" style="display: none;">
+    <form id="frm1" method="post" "="">
+    <div id="rewards"></div>
+    </form>
+</div>
+
+<div id="dialog-form1" title="&nbsp;" style="display: none;">
+    <div class="subscribetoday"><img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/subscribetodaybtnNew.png" style="cursor: pointer;" id="subscribetoday"></div>
+</div>
+
+<div id="dialog-form3" title="&nbsp;" style="display: none;">
+    <div class="leftcol">
+        <!--<img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/newsignupbanner.png" width="300px">-->
+        &nbsp;
+    </div>
+
+    <div class="rightcol">
+        <div style="text-align: center;"><img alt="Skybound" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/skybound_logo_small.png" style="margin-top: -7px;"></div>
+        <div style="text-align: center;width: 95%;height: 150px;margin-top: 70px;">Almost complete! You will now receive a confirmation email for your registration, please click the link in that email to finish the registration process and claim your comic rewards.</div>
+        <div><input type="button" value="Close" class="ui-button ui-widget ui-state-default ui-corner-all" style="width: 95%;background: #50a026;color: #ffffff; border: none;height: 35px;" id="dialog-form3-close"></div>
+    </div>
+</div>
 <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/969785541/?value=0&amp;guid=ON&amp;script=0">
 <div id="skyboundNavWrap">
     <div class="skyboundNav clearfix">
@@ -547,20 +1330,20 @@ body
                 <h3>Other titles from Skybound</h3>
                                 <ul>
                                         <li><a href="http://www.skybound.com/category/invincible/" target="_blank">Invincible</a></li>
-                                        <li><a href=" http://www.skybound.com/category/thief-of-thieves/" target="_blank">Thief of Thieves</a></li>
-                                        <li><a href="http://www.skybound.com/category/clone/" target="_blank">Clone</a></li>
-                                        <li><a href="http://www.skybound.com/category/ghosted/" target="_blank">Ghosted</a></li>
-                                        <li><a href="http://www.skybound.com/category/manifest-destiny/" target="_blank">Manifest Destiny</a></li>
-                                        <li><a href="http://www.skybound.com/dead-body-road/" target="_blank">Dead Body Road</a></li>
                                         <li><a href="http://www.superdinosaur.com" target="_blank">Super Dinosaur</a></li>
+                                        <li><a href="http://www.skybound.com/category/manifest-destiny/" target="_blank">Manifest Destiny</a></li>
+                                        <li><a href="http://www.skybound.com/category/ghosted/" target="_blank">Ghosted</a></li>
+                                        <li><a href="http://www.skybound.com/category/clone/" target="_blank">Clone</a></li>
+                                        <li><a href="http://www.skybound.com/dead-body-road/" target="_blank">Dead Body Road</a></li>
+                                        <li><a href="http://www.skybound.com/category/thief-of-thieves/" target="_blank">Thief of Thieves</a></li>
                                     </ul>
                                                 <ul>
-                                        <li><a href="http://www.skybound.com/category/witch-doctor/ " target="_blank">Witch Doctor</a></li>
-                                        <li><a href="http://www.skybound.com/category/battle-pope/" target="_blank">Battle Pope</a></li>
-                                        <li><a href="http://www.skybound.com/category/demonic/" target="_blank">Demonic</a></li>
-                                        <li><a href="http://www.skybound.com/category/horizon/" target="_blank">Horizon</a></li>
-                                        <li><a href="http://www.skybound.com/category/the-astounding-wolf-man/" target="_blank">The Astounding Wolf-Man</a></li>
                                         <li><a href="http://www.skybound.com/category/green-valley/" target="_blank">Green Valley</a></li>
+                                        <li><a href="http://www.skybound.com/category/horizon/" target="_blank">Horizon</a></li>
+                                        <li><a href="http://www.skybound.com/category/demonic/" target="_blank">Demonic</a></li>
+                                        <li><a href="http://www.skybound.com/category/battle-pope/" target="_blank">Battle Pope</a></li>
+                                        <li><a href="http://www.skybound.com/category/the-astounding-wolf-man/" target="_blank">The Astounding Wolf-Man</a></li>
+                                        <li><a href="http://www.skybound.com/category/witch-doctor/" target="_blank">Witch Doctor</a></li>
                                     </ul>
                 
                <ul style="width:300px;">
@@ -569,10 +1352,13 @@ body
             </div>
         </div>
         <div class="searchBox lrborders">
+
             	<form method="get" id="searchform" action="http://www.thewalkingdead.com/">
 		<input type="text" class="field" name="s" id="s" value="search">
 		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search">
 	</form>
+
+
         </div>
 	<div id="header1">
         <div id="login_register" class="lrborders right headerbg ">
@@ -633,11 +1419,12 @@ body
                         <a href="http://www.thewalkingdead.com" class="logo"><img src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/images/logo.png" alt="The Walking Dead"></a>
                         <div class="banner">
                                                                 <!-- TWD_728x90_ROS -->
-                                    <div id="div-gpt-ad-1360711943164-3" style="width:728px; height:90px;">
-                                        <script type="text/javascript">
+                                    <!--<div id='div-gpt-ad-1360711943164-3' style='width:728px; height:90px;'>
+                                        <script type='text/javascript'>
                                             googletag.cmd.push(function() { googletag.display('div-gpt-ad-1360711943164-3'); });
                                         </script>
-                                    </div>
+                                    </div>-->
+				    <div id="cdm-zone-01"></div>
                                                             </div>
                     </div>
                     <nav id="access" role="navigation" class="clearfix">
@@ -652,9 +1439,9 @@ body
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/introducing-the-megabox/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/Megbox-feat1.png" alt=""><span>Introducing The MegaBox!</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-episode-704-in-gifs/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/Cooler1.png" alt=""><span>The Walking Dead Episode 704…In Gifs!</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-163-will-be-just-25-cents/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/TWD25-feat.png" alt=""><span>The Walking Dead #163 will be Just 25 Cents!</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/dave-erickson-talks-pulling-off-all-spanish-fear-the-walking-dead-episode/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Spanish.png" alt=""><span>Dave Erickson Talks Pulling Off All-Spanish Fear The Walking Dead Episode</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/discussion-who-is-new-walking-dead-character-princess/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Princess-1.png" alt=""><span>Fan Discussion of New Walking Dead Character “The Princess”</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/walking-dead-issue-171-and-volume-28-covers-revealed/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Covers.png" alt=""><span>Walking Dead Issue #171 and Volume 28 Covers Revealed</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -670,9 +1457,9 @@ body
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-163-will-be-just-25-cents/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/TWD25-feat.png" alt=""><span>The Walking Dead #163 will be Just 25 Cents!</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-season-7-episode-4-show-vs-comic/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/704COMICSHOW.png" alt=""><span>The Walking Dead Season 7 Episode 4: Show vs Comic</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/robert-kirkman-reveals-his-favorite-walking-dead-issue/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/Carl50.png" alt=""><span>Robert Kirkman Reveals His Favorite Walking Dead Issue</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/discussion-who-is-new-walking-dead-character-princess/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Princess-1.png" alt=""><span>Fan Discussion of New Walking Dead Character “The Princess”</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/walking-dead-issue-171-and-volume-28-covers-revealed/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Covers.png" alt=""><span>Walking Dead Issue #171 and Volume 28 Covers Revealed</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-comic-power-rankings-issue-168/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/168Power.png" alt=""><span>The Walking Dead Comic Power Rankings: Issue #168</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -690,11 +1477,11 @@ body
                                     </div>
                                     <div class="additional clearfix">
                                                                                                                                                                         
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/the-walking-dead-episode-704-in-gifs/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/Cooler1.png" alt=""><span>The Walking Dead Episode 704…In Gifs!</span></a></div>
+                                            <div class="latest"><a href="http://www.thewalkingdead.com/the-hardest-eitheror-walking-dead-survey-youll-take/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/MaggieCarol2.png" alt=""><span>The Hardest Either/Or Walking Dead Survey You’ll Take</span></a></div>
                                         
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/leanna-vamp-tours-woodbury/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/LeannaVamp.png" alt=""><span>Leanna Vamp Tours Woodbury!</span></a></div>
+                                            <div class="latest"><a href="http://www.thewalkingdead.com/nielsen-the-walking-dead-has-best-tv-social-media-following/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Nielsen.png" alt=""><span>Nielsen: The Walking Dead Has Best TV Social Media Following</span></a></div>
                                         
-                                            <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/the-walking-dead-season-7-episode-4-fan-reaction/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/704ThumbFeat.png" alt=""><span>The Walking Dead Season 7 Episode 4 Fan Reaction</span></a></div>
+                                            <div class="latest"><a href="http://www.thewalkingdead.com/tom-payne-drops-walking-dead-season-8-hints-to-comicbook-com/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Payne.png" alt=""><span>Tom Payne Drops Walking Dead Season 8 Hints to ComicBook.com</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -710,9 +1497,9 @@ body
                                         </ul>
                                     </div>
                                     <div class="additional clearfix">
-                                                                                                                                                                                                                                                                                                      <div class="latest"><a href="http://www.thewalkingdead.com/fear-the-walking-dead-mini-series-passage-part-i/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/Passage51.png" alt=""><span>Fear The Walking Dead Mini-Series: “Passage” Part V</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/fear-the-walking-dead-season-2-finale-fan-reactions/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/10/FearFinaleThumbFeat.png" alt=""><span>Fear the Walking Dead Season 2 Finale: Fan Reactions</span></a></div>
-                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/fear-twds-lincoln-castellanos-answers-fan-questions/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/10/AskLincolnFeat.png" alt=""><span>Fear TWD’s Lincoln Castellanos Answers Fan Questions!</span></a></div>
+                                                                                                                                                                                                                                                                                                      <div class="latest"><a href="http://www.thewalkingdead.com/dave-erickson-talks-pulling-off-all-spanish-fear-the-walking-dead-episode/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/Spanish.png" alt=""><span>Dave Erickson Talks Pulling Off All-Spanish Fear The Walking Dead Episode</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/a-look-into-fear-the-walking-dead-season-3-episode-5/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/305Gallery.png" alt=""><span>A Look Into Fear the Walking Dead Season 3 Episode 5</span></a></div>
+                                                                                    <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/fans-react-to-fear-the-walking-dead-season-3-episode-4/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/304ThumbFeat.png" alt=""><span>Fans React To Fear the Walking Dead Season 3 Episode 4</span></a></div>
                                                                             </div>
                                 </div>
                             </li>
@@ -720,9 +1507,9 @@ body
                                 <a href="http://www.thewalkingdead.com/galleries/">Galleries</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/the-walking-dead-season-7-episode-4-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/704Gallery.png" alt=""><span>The Walking Dead Season 7 Episode 4 Gallery</span></a></div>
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/the-walking-dead-season-7-episode-3-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/703Gallery1.png" alt=""><span>The Walking Dead Season 7 Episode 3 Gallery</span></a></div>
-                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/the-walking-dead-season-7-episode-2-gallery/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/10/702gallery.png" alt=""><span>The Walking Dead Season 7 Episode 2 Gallery</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/a-look-into-fear-the-walking-dead-season-3-episode-5/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/305Gallery.png" alt=""><span>A Look Into Fear the Walking Dead Season 3 Episode 5</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/fear-the-walking-dead-season-3-episode-4-in-pictures/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/304Gallery.png" alt=""><span>Fear the Walking Dead Season 3 Episode 4 In Pictures</span></a></div>
+                                                                                                                                <div class="latest"><a href="http://www.thewalkingdead.com/image-gallery/fear-the-walking-dead-season-3-episode-3-in-pictures/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/303gallery.png" alt=""><span>Fear The Walking Dead Season 3 Episode 3 In Pictures!</span></a></div>
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
@@ -735,9 +1522,9 @@ body
                                 <a href="http://www.thewalkingdead.com/videos/">Videos</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/leanna-vamp-tours-woodbury/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/LeannaVamp.png" alt=""><span>Leanna Vamp Tours Woodbury!</span></a></div>
-                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/the-walking-dead-season-7-episode-4-fan-reaction/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/704ThumbFeat.png" alt=""><span>The Walking Dead Season 7 Episode 4 Fan Reaction</span></a></div>
-                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/michonne-leaves-in-the-walking-dead-season-7-episode-5-clip/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2016/11/705Clip.png" alt=""><span>Michonne Leaves In The Walking Dead Season 7 Episode 5 Clip</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/fans-react-to-fear-the-walking-dead-season-3-episode-4/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/304ThumbFeat.png" alt=""><span>Fans React To Fear the Walking Dead Season 3 Episode 4</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/ruben-blades-reveals-he-once-ran-for-president-of-panama/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/BladesPrez.png" alt=""><span>Rubén Blades Reveals He Once Ran For President of Panama</span></a></div>
+                                                                                                                                  <div class="latest"><a href="http://www.thewalkingdead.com/video-gallery/madison-embarks-on-a-mission-in-fear-the-walking-dead-305-clip/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2017/06/305Clip.png" alt=""><span>Madison Embarks On a Mission In Fear the Walking Dead 305 Clip</span></a></div>
                                                                             </div>
                                     <div class="submenu">
                                         <ul>
@@ -783,8 +1570,8 @@ body
                                 <a href="http://shop.thewalkingdead.com/" target="_blank">Store</a>
                                 <div class="flyout">
                                     <div class="additional clearfix">
-                                        <div class="latest"><a href="http://shop.thewalkingdead.com/" target="_blank"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/shopflyout.jpg" alt=""><span>The Walking Dead Shop</span></a></div>
-                                        <div class="latest"><a href="http://www.thewalkingdead.com/games/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/ShopGameFlyout.jpg" alt=""><span>Games</span></a></div>
+                                        <div class="latest"><a href="http://shop.thewalkingdead.com/" target="_blank"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/SkyboundShop-module.jpg" alt=""><span>The Walking Dead Shop</span></a></div>
+                                        <div class="latest"><a href="http://www.thewalkingdead.com/games/"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/images.jpg" alt=""><span>Games</span></a></div>
                                         <div class="latest"><a href="http://www.comicshoplocator.com" target="_blank"><img width="220" height="127" src="http://www.thewalkingdead.com/wp-content/uploads/2013/01/comicshoplocator.jpg" alt=""><span>Comic Shop Locator</span></a></div>
                                     </div>
                                 </div>
@@ -1124,7 +1911,7 @@ Updated: November 15, 2012</p>
                                                                                             </div>
                 </div>
                 <div class="footerInfo clearfix">
-                    <p>All Site Content © 2016 Skybound LLC. All rights reserved.</p>
+                    <p>All Site Content © 2017 Skybound LLC. All rights reserved.</p>
                     <ul>
                         <li><a href="http://www.thewalkingdead.com/contact/">About &amp; Contact</a></li>
                         <!--li><a href="http://www.thewalkingdead.com/faq/">FAQ</a></li-->
@@ -1136,21 +1923,25 @@ Updated: November 15, 2012</p>
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/jquery.cycle.all.js?ver=3.5"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/jquery.tinyscrollbar.min.js?ver=3.5"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/swipe.js?ver=3.5"></script>
-<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/lightbox.js?ver=3.5"></script>
-<div class="casepress-upvote-modal-display"><div class="casepress-upvote-modal"><div class="casepress-upvote-modal-wrapper"><div class="casepress-upvote-modal-box"><div class="casepress-upvote-modal-close"><a href="#" class="casepress-upvote-modal-close-button">Close</a></div><div class="casepress-upvote-modal-content"><a href="/wp-login.php?action=register">Register</a> or <a href="/wp-login.php">log in</a> to assess the record</div></div></div></div></div>
-<script>
-        var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-37561327-2']);
-  _gaq.push(['_trackPageview']);
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/jquery.cycle.all.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/jquery.tinyscrollbar.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/swipe.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-content/themes/thewalkingdead/js/lightbox.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/comment-reply.min.js?ver=4.6.1"></script>
+<script type="text/javascript" src="http://www.thewalkingdead.com/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
+<div class="casepress-upvote-modal-display"><div class="casepress-upvote-modal"><div class="casepress-upvote-modal-wrapper"><div class="casepress-upvote-modal-box"><div class="casepress-upvote-modal-close"><a href="#" class="casepress-upvote-modal-close-button">Close</a></div><div class="casepress-upvote-modal-content"><a href="/wp-login.php?action=register">Register</a> or <a href="/wp-login.php">log in</a> to assess the record</div></div></div></div></div>		<script type="text/javascript">
+			var bwpRecaptchaCallback = function() {
+				// render all collected recaptcha instances
+			};
+		</script>
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+		<script src="https://www.google.com/recaptcha/api.js?onload=bwpRecaptchaCallback&amp;render=explicit" async="" defer=""></script>
+
+<script>
+    
+
+
+
   	(function(d, s, id) {
 		  var js, fjs = d.getElementsByTagName(s)[0];
 		  if (d.getElementById(id)) return;
@@ -1159,6 +1950,27 @@ Updated: November 15, 2012</p>
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));
 </script>
+
+
+<!-- Begin comScore -->
+<script>
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "6035118" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+    })();
+</script>
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035118&amp;cv=2.0&amp;cj=1" />
+</noscript>
+<!-- End comScore -->
+
+<!-- Nielsen Online SiteCensus -->
+<div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-603339h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt=""></div>
+<!-- End Nielsen Online SiteCensus -->
+<div id="cdm-zone-end"></div>
 
 
 </div></body></html>
