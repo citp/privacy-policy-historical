@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanaddictioncenters.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125164529id_/http%3A//americanaddictioncenters.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanaddictioncenters.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623155321id_/http%3A//americanaddictioncenters.org/policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -80,17 +80,3 @@ This website contains links to external websites and references to other resourc
 **Changes to This Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page. 
-
-### Start The Admissions Process Now
-
-#### Free.
-
-Your 1-on-1 consultation and Insurance Verification are 100% Free
-
-#### Easy.
-
-All you have to do is pick up the phone and call or chat now
-
-#### Confidential.
-
-We will never share your information with a third party without your explicit consent
