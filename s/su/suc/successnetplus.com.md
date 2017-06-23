@@ -1,69 +1,250 @@
-> *The following text is extracted and transformed from the successnetplus.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210161158id_/https%3A//www.successnetplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successnetplus.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623055829id_/https%3A//www.successnetplus.com/privacy) for the most accurate reproduction.*
 
 # Online Privacy Statement | Pearson SuccessNet+
 
-**_ONLINE PRIVACY STATEMENT_**
+Learning Services Privacy Policy
 
-**PLEASE READ THE FOLLOWING CAREFULLY**
+**Table of Contents**
 
-THIS STATEMENT PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE. IF YOU ARE UNDER 18 YEARS OF AGE, PLEASE BE SURE TO READ THIS PRIVACY STATEMENT WITH YOUR PARENTS OR GUARDIAN AND ASK THEM QUESTIONS ABOUT WHAT YOU DON’T UNDERSTAND.
+  * [A. Policy Overview](https://www.pearson.com/privacy/learning-services-privacy-policy.html#a)
+  * [B. Contact Us](https://www.pearson.com/privacy/learning-services-privacy-policy.html#b)
+  * [C. Personal Information We Collect](https://www.pearson.com/privacy/learning-services-privacy-policy.html#c)
+  * [D. How We Use Personal Information](https://www.pearson.com/privacy/learning-services-privacy-policy.html#d)
+  * [E. How We Share Personal Information](https://www.pearson.com/privacy/learning-services-privacy-policy.html#e)
+  * [F. Security](https://www.pearson.com/privacy/learning-services-privacy-policy.html#f)
+  * [G. School Customer Responsibilities](https://www.pearson.com/privacy/learning-services-privacy-policy.html#g)
+  * [H. Miscellaneous](https://www.pearson.com/privacy/learning-services-privacy-policy.html#h)
+  * [I. Definitions](https://www.pearson.com/privacy/learning-services-privacy-policy.html#i)
 
-This website (the "Site") is made available to you by Pearson Education, Inc. and its subsidiaries and affiliates ("Pearson"). At Pearson, we are serious about protecting your privacy, and this privacy statement (the "Privacy Statement") discloses how we collect, protect, use and share the personal information gathered on this Site.
 
-Your use of this Site is subject to the terms of use (the "Terms of Use") posted on this website, which includes this Privacy Statement. The Terms of Use (including the Privacy Statement) or any part thereof may be revised by Pearson from time to time, through an updated posting, and therefore you should check the Terms of Use (including the Privacy Statement) periodically. Revisions are effective upon posting and your continued use of this Site, after the posting of revisions to the Terms of Use (including the Privacy Statement), will indicate your acceptance of such revisions. If you have any questions concerning the Terms of Use (including the Privacy Statement), please contact us.
 
-PLEASE NOTE THAT THE PRIVACY POLICIES OF VARIOUS PEARSON PRODUCTS AND SERVICES WITHIN THIS SITE OR LINKED TO THIS SITE MAY BE SUBJECT TO DIFFERENT TERMS AND POLICIES. PLEASE CHECK THE APPROPRIATE PRIVACY POLICY FREQUENTLY TO DETERMINE THE PRIVACY TERMS APPLICABLE TO SUCH PEARSON PRODUCTS AND SERVICES. PLEASE ALSO REVIEW THE SECTION ENTITLED "LINKS TO OTHER SITES".
+ A. Policy Overview
 
-**WHAT INFORMATION IS COLLECTED**
+This privacy policy ("Privacy Policy" or “Policy”) describes how Pearson Education, Inc. (“Pearson”, “we”, or “us”) collects, protects, uses and shares personal information gathered from Users of Pearson U.S. K-12 websites, applications, products and services (“Educational Service(s)”, or “Service(s)”) that link to this Privacy Policy. It is important to us that educational institutions who have purchased and are using our Educational Services (“School Customers”, or “you”) understand the measures we have taken to keep our Services a safe and trustworthy environment for all Users.
 
-We consider the following to be examples of personally-identifying information: they include, but are not limited to, your first and last name, email address, home address, phone number, date of birth, social security number, and certain other information, to the extent it is linked with your personally-identifying information.
+Although Sections C, D, and E of this Privacy Policy provide detailed information on our collection, use and disclosure of your Personal Information, we would like to highlight the following:
 
-The information we learn from you helps us personalize and continually improve your experience and use of this Site, so that we can further serve your needs and our legitimate business purposes. (For example, when you send us a message, we need to retain certain personally-identifying information on this Site in order to respond to your request). We receive and store any information you enter on this Site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features.
+  1. We will NEVER sell your Student Data to third parties.
+  2. We will NEVER perform targeted advertising of your Student Users.
+  3. We will NEVER share your Student Data with third parties for the purpose of targeted advertising.
+  4. We will NEVER build marketing profiles of your Student Users.
+  5. We will NEVER claim ownership of your Student Data.
 
-**PUBLIC POSTINGS**
 
-Users and especially Children (Children 12 and under) should note that any personally-identifying information that is voluntarily posted by a user to any public area of this Site may always be collected and used by others. While we monitor such posting areas from time to time and will use commercially reasonable efforts to delete a Child’s personally-identifying information prior to posting, we strongly encourage Children not to post such information.
 
-**INFORMATION SHARING AND DISCLOSURE.**
+Changes to this Policy
 
-Except as specifically stated in this Privacy Statement, our policy is not to share this personally-identifying information with third parties.  There may be third party vendors who supply maintenance and support for this Site that may have access to your personally identifying information but, unless they get express permission from you, they will not use such information for any other purpose other than to provide services in connection with this Site.
+We encourage you to read through and understand this Privacy Policy. From time to time, we may update it to address new issues or reflect changes to our Services. If we are making updates that involve material changes to the collection, protection, use or disclosure of Personal Information, we will attempt to provide you with advanced notice of the revisions. This notice may occur through various methods depending on which will best allow us to reach affected customers. These methods may include, but are not limited to, e-mail, postal mail, or a conspicuously-posted website notice. Depending on the method that is used, we may also provide Users of the Service with advance notice of material changes, however, School Customers should ensure that they keep students, parents, and other stakeholders informed of any material changes, as data handling practices can vary based on school-specific configurations and requests. Please feel free to contact us if you have questions or concerns regarding intended Privacy Policy revisions.
 
-We may also disclose personally-identifying information in the following situations (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; or (c) in order to enforce the Site’s Terms of Use. We otherwise exercise commercially reasonable care to not otherwise share or disclose the names of users or any other personally-identifying information with third-parties, except with the prior approval of the user.
+In accordance with our commitment to provide notice as described above, we reserve the right to revise the terms of this Privacy Policy. Any such revisions to this Policy are effective immediately upon posting of a revised Policy. Your use of the Services subsequent to such posting constitutes your acceptance of such revisions.
 
-**SPECIAL NOTICE TO PARENTS, TEACHERS AND CHILDREN**
+B. Contact Us
 
-PARENTS AND TEACHERS: We encourage parents, guardians and teacher to spend time with their Children or the Children they teach and participate in the activities that may be offered to Children on this Site. No personally-identifying information should be submitted to or posted on this Site by Children without the consent of their parent, guardian or teacher. We encourage parents and teachers to monitor Children’s online use, and to help us protect their privacy by instructing Children never to provide such information on this Site or any other website without permission. We are also prohibited by law from conditioning a Child’s participation in any activity on this Site on the Child disclosing more personally-identifying information than is reasonably necessary to participate in such activity.
+Pearson is committed to maintaining a dialogue with School Customers about our data handling practices. If you have any concerns, comments or questions about this Policy or general Service-related data handling practices, please contact us through one of the following methods:
 
-CHILDREN: Please do not give your full name, email address, home address, telephone number or any other personally-identifying information that would enable someone to contact you either on-line or off-line, without first asking your parent, guardian or teacher for permission.
+Pearson Customer Care
 
-We do not knowingly collect personally-identifying information from Children on this Site either directly or passively, except when a Child may voluntarily submit such information through (i) a "Contact Us" link on a Child’s area of this Site or (ii) a public posting area, if such feature is available. If a Child communicates with us in either manner, and we can identify the sender as a Child, any personally-identifying information submitted will only be used to respond on a one-time basis to such Child, and will thereafter be deleted from our records. In addition, if we have actual knowledge that a Child is sending or posting personally-identifying information on any area of this Site, we will use commercially reasonable efforts to delete such personally-identifying information before it is made public. We will never request personally-identifying information from a Child in any of our public postings areas.
+[Submit a Support Request Form](https://pccnaform.pearson.com/machform/view.php?id=48923)  
+[Chat with a Pearson Support Representative](https://pearsonnacommunity.force.com/support/s/chat-support-form)  
+Phone: 800-234-5832
 
-We may disclose a Child's personally-identifying information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to, or interference with, (either intentionally or unintentionally) our rights or property, other users or anyone else that could be harmed by such activities. We also may disclose a Child's personally-identifying information when we believe in good faith that the law requires it.
+C. Personal Information We Collect
 
-**COOKIES AND COLLECTION AND USE OF INFORMATION**
+We collect information about Users of the Service in multiple ways, including Personal Information provided directly to us by a School Customer for upload to the Service, data collected directly from or generated by Student and Educator Users of the Service, and data generated through your use of the Service. Depending on the Services provided, we may also collect Personal Information through other methods that follow the terms of this Privacy Policy.
 
-We receive and store certain types of information whenever you interact with this Site. For example, like many websites, we use "cookies" and we obtain certain types of information when your web browser accesses this Site. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive, through your web browser, to enable our systems to recognize your browser and to provide customized features to you. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Website of its manufacturer. However, cookies allow you to take full advantage of this Site’s best features, and we recommend that you leave them turned on.
+Personal Information Input by School Customers
 
-Prior to user registration, if applicable, Pearson may employ cookie technology on this Site to (i) track non-personal information such as type of browser, operating system, domain names and IP addresses, and (ii) improve our visitors’ experience online. Prior to user registration to the extent applicable, we do not link IP addresses to any personally-identifying information.
+When a School Customer contracts with Pearson to provide an Educational Service, initial setup and configuration of that Service, in most cases, will involve an initial transfer of Personal Information by the School Customer. The following tables contain information about elements of Student and Educator Data commonly collected from our School Customers. Although we do attempt to maintain the accuracy of these tables, data handling practices may vary significantly across our K-12 products.
 
-Please also note that Pearson reserves the right to monitor your compliance with the Terms of Use (including the Privacy Statement) of this Site and may track your usage of this Site in order to confirm compliance with these Terms of Use. Pearson also reserves the right, in its sole discretion, to terminate your access to this Site for any reason, including non-compliance with these Terms of Use.
+Student data input by school customers
 
-**THIRD PARTY ANALYTIC SERVICES**
+Required Student Data
 
-Pearson may use a third party service, such as Google Analytics, to collect anonymous visitor data on our network of sites, applications and online services. If Pearson uses a third party service to collect the foregoing information from the Site, the third party service will not collect any personally-identifying information from Users. Pearson may use the third party service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Firefox), or referring pages and websites.  Pearson may use the third party service to collect this non-personally identifiable information for various purposes, including but not limited to: (i) provide anonymous statistical analysis of web page traffic patterns; (ii) administer our Service and servers; (iii) allow for auditing of our services by third parties; (iv) improve our services; and (v) ensure User compliance with our Terms of Use.
+  * First and Last Name
+  * School Name
+  * District/Institutional Name
+  * Grade, Year, or Group
 
-**LINKS TO OTHER SITES**
 
-You may have linked to this Site through your school’s secure user authorized password protected intranet site, which is a third party site. This Site may provide links to other third party websites or resources. Because we do not control your school’s intranet site or such other third party websites and resources, you acknowledge and agree that Pearson is not responsible or liable for the content, products or performance of your school’s intranet site or such other third party websites and resources, and you hereby irrevocably waive any claim against Pearson with respect to your school’s intranet site or such other websites and resources. Pearson reserves the right to terminate any link at any time without notice. The inclusion of a link to such another website or resource does not constitute or imply an endorsement, authorization, sponsorship, or affiliation by Pearson of that website or resource, or any products or services provided therein. The information practices of those websites, including your school’s intranet site, are not covered by the Terms of Use (including this Privacy Statement) or any other policies or terms applicable to this Site. We recommend that you review any terms of use and privacy policy of your school’s intranet site and any third party website linked to this Site before providing any information to those websites or using their products and services.
 
-Please note that this Site may also provide links to other sites brought to you by Pearson. The privacy statement and terms of use of other Pearson sites may vary from the Terms of Use (including this Privacy Statement). We recommend that you review the privacy statements, terms of use and other policies or terms that may apply to other Pearson sites if you should choose to use such sites.
+Optional Student Data
 
-**OWNERSHIP**
+  * Contact Details (School/District-Issued or Personal E-mail Address)
+  * Date of Birth
+  * Gender
+  * District ID
+  * Photographs or Images
+  * Exercise, Activity or Assessment Scores, Reports or Grades
+  * Family, Lifestyle, and Social Circumstances (Socioeconomic Status, Migrant Status)
+  * Performance-Related Information
+  * Diversity Information (Race, Ethnicity, English Language Proficiency)
+  * Education, Training, and Testing Details
+  * Assessment or Appraisal Information or Reports
+  * Disability or Medical Conditions (SPED, ADD/ADHD, Autistic, Impaired - Emotionally, Hearing, Learning, Motor, Speech, Visually, Other Impairment)
 
-This Site is owned and operated by Pearson and the contents of this Site are protected by copyright of Pearson and/or its licensors.
 
-**ADDITIONAL INFORMATION ABOUT PRIVACY**
 
-If you have any concerns, comments or questions about this Privacy Statement or privacy on this Site, please contact us.
+Educator data input by school customers
 
-Pearson Education, Inc. (Revised — November 2013)
+Required Educator Data
+
+  * First and Last Name
+  * Contact Details (School/District-Issued or Personal E-mail Address)
+  * School Name
+  * District/Institutional Name
+
+
+
+Optional Educator Data
+
+  * District ID
+  * Date of Birth
+
+
+
+Directly Collected or User Generated Personal Information
+
+Many of our Educational Services allow Users to create, upload and share information. Collection of this information is optional and at the discretion of the School Customer and/or User. The following tables contain information about elements of Student and Educator Data commonly collected directly from or generated by our School Customers and their Users.
+
+Optional data collected from end users
+
+Student Data Input or Generated by School Users
+
+  * Grades
+  * Exercise, Activity, or Assessment Responses
+  * Exercise, Activity, and Assessment Grades, Scores, and Reports
+  * Educator Feedback
+  * Assessment or Appraisal Information or Reports
+  * Creative Works
+  * Notebook Entries or Text Annotations
+  * Private Forum or Chat Postings or Comments
+  * Photographic, Video, or Audio Recordings
+
+
+
+Educator Data Input or Generated by School Users
+
+  * Private Forum or Chat Postings or Comments
+  * Contact Details (School-Issued or Personal E-mail Address)
+  * Photographic, Video, or Audio Recordings
+
+
+
+Service-Generated Data
+
+The Service you have purchased may generate information tied to specific Users as a core part of its functionality, such as for adaptive learning or providing immediate feedback to students. Service-generated data may also include the automatic generation of usernames or other data elements tied to a specific User, where those elements are not provided or set by the School Customer.
+
+Cookies and Related Technologies
+
+Our Services use cookies to enable you to sign-in to the Service and access your stored preferences and settings. You have a variety of tools to control the use of cookies, web beacons, and similar technologies, including browser controls to block and delete cookies. If you choose to disable or block these technologies, it may prevent or impair required functionality and therefore your use of the Service.
+
+Application and System Logs
+
+Application and system logs are critical to ensuring the availability and security of the Service. We collect log data for such purposes as monitoring the health of the Service, detecting unauthorized access and fraudulent activity on the Service, preventing and responding to Service-related security incidents, and ensuring appropriate scaling of the Service’s computing resources.
+
+Do Not Track Disclosures
+
+Do Not Track ("DNT") is a proposed mechanism for allowing website visitors to control the collection of certain Usage Data. Although there has been research into the development of a standard to support the use of DNT signals, there is no adopted standard to follow. We do not currently respond to Do Not Track signals, but we are closely monitoring DNT proposals for further developments.
+
+Third-Party Collection
+
+Although we may use third-party vendors, subcontractors, and service providers to assist us in providing the Service, we do not permit third-party ad networks or similar services to collect the Personal Information of our authenticated Users.
+
+D. How We Use Personal Information
+
+We use your Personal Information for educational purposes and to exercise our legal rights, as described below.
+
+Educational Uses
+
+We use Personal Information to provide you with the Service(s) requested. We may use your Personal Information for any purposes required or permitted under our Agreement or with your consent.
+
+Legal and Safety Uses
+
+We may use your Personal Information to protect or exercise our legal rights, to defend against claims, to investigate fraud and other criminal conduct, to enforce our Terms of Service, to respond to a government request, to protect the security, integrity and availability of the Service, or to otherwise protect the property and safety of Pearson, our Users, and others.
+
+De-Identified and Aggregate Data
+
+We may use Usage Data and other properly de-identified or aggregate data to improve existing products, develop new products, communicate product effectiveness and outcomes, and for other related purposes. Our methods for de-identification are informed by guidance from the National Institute of Standards and Technology (NIST), the U.S. Department of Education’s Privacy Technical Assistance Center, and the Department of Health and Human Services. Unless required to do so by law, we will not attempt to re-identify de-identified data and, where feasible and appropriate, will not transfer de-identified data to a third party unless they also agree not to attempt re-identification.
+
+E. How We Share Personal Information
+
+We share your Personal Information with third parties for educational purposes and to exercise our legal rights, as described below.
+
+Subcontractors
+
+Depending on the Service, we may hire subcontractors, vendors or other third parties to help deliver or improve the Service. Third-parties that we work with who have access to your Personal Information are subject to stringent privacy and security contractual requirements including, but not limited to, prohibitions on collection, use or disclosure of Personal Information for non-educational purposes and maintenance of a comprehensive information security program.
+
+Merger, Acquisition or Bankruptcy
+
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, we may need to share your Personal Information with the acquiring entity. We will condition any merger, acquisition, or sale on continued adherence to the terms of this Policy and maintaining a materially similar level of protection for your Personal Information. If such an event occurs, we will provide you information about the coming change, how it may impact you and any choices you may have.
+
+Legal and Safety Disclosures
+
+We may disclose your Personal Information when it is required or permitted by law, such as to comply with a subpoena, court order or similar legal process, to protect or exercise our legal rights, to defend against claims, to investigate fraud and other criminal conduct, to enforce our Terms of Service, to respond to a government request, to protect the security, integrity and availability of the Service, or to otherwise protect the property and safety of Pearson, our Users, and others.
+
+Data Ownership and Access Requests
+
+School Customers have primary responsibility for fulfilling student and parent access, amendment, and export requests. In most cases, School Customers can fulfill these requests using the built-in functionality of the Service. Where this functionality is not available or the School Customer cannot otherwise fulfill the request on their own, we will provide reasonable assistance with the production or export of Student Data if the assistance is in accordance with our Agreement and applicable law. In rare cases, we may not be able to fully satisfy these requests. Examples include requests for confidential company information in addition to Student Data, requests for Student Data in a specific or proprietary format that we are unable to support, or requests that are prohibited by law.
+
+F. Security
+
+We store and process School Customer Personal Information in accordance with industry standards and applicable law. Our comprehensive information security program protects your Personal Information from unauthorized access, use and disclosure through the use of reasonable and appropriate physical, administrative and technical safeguards. We perform periodic risk assessments of our information security program and prioritize remediation of identified security vulnerabilities. Nevertheless, security is a shared responsibility and no method of data transmission over the Internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee the absolute security of your Personal Information.
+
+If you have general questions for us regarding the security and confidentiality of your Personal Information, please feel free to contact us using the information in Section B above.
+
+Breach Notification
+
+In the event of a security incident affecting our systems that involves your Personal Information, we will notify you as required by applicable law and the terms of our Agreement. We will always attempt to notify you of any security incident affecting your Personal Information that we believe poses a material risk of harm to you, your staff or your students.
+
+Federation and Identity Management Support
+
+We strongly support and encourage the use of secure federated identity management technologies such as SAML in conjunction with our Services. These technologies make access to our Service safer and more secure for your district and Users. If you would like more information on configuring your Service with federated identity management, please contact us using the information in Section B above.
+
+Retention and Deletion
+
+We retain, destroy or de-identify your Personal Information in accordance with applicable law and the terms of our Agreement. Deletion and retention functionality and procedures vary based on the Service used.
+
+G. School Customer Responsibilities
+
+Although we have taken numerous steps to ensure the privacy and security of Personal Information we hold on your behalf, your use of the Services must also be in accordance with prevailing security practices. These practices include, but are not necessarily limited to, (i) securely configuring your accounts using federated identity management or strong and unique passwords and not sharing your authentication information, (ii) avoiding the upload of unnecessary Personal Information into the Service, (iii) exercising oversight to ensure your Educator and Student Users are using the Service appropriately, (iv) training and educating your Users on the importance of privacy and security; and (v) limiting information sharing by allowing Users to access only the information that they need.
+
+H. Miscellaneous
+
+External Content
+
+Certain Services we offer may provide Users with the ability to link to external content such as online videos or news articles. Educator Users often make these sites available as reading materials for Student User assignments or exercises. This Privacy Policy does not apply to any non-Pearson site, as we are unable to control the associated privacy and security practices. We urge our School Customers and Educator Users to exercise caution by evaluating the privacy practices of external content you are linking to, particularly those that collect Personal Information from your Student Users.
+
+In addition to User-linked external content, some Services may link to, embed content from, or seamlessly integrate with Pearson-approved third party content providers. In such cases, we have made commercially reasonable efforts to evaluate the data handling practices these third parties to ensure they follow this Privacy Policy. In most cases, these third parties do not collect or receive any Student Data. For those third parties that do process Student Data, we have evaluated their data handling practices and require them to protect your Student Data in accordance with this Privacy Policy. Should you have concerns over the privacy practices of our linked or embedded external content, please notify us using the contact information in Section B above.
+
+Governing Terms
+
+Unless otherwise stated in the Agreement, the terms of this Policy shall prevail and supersede any inconsistent terms and conditions contained in the Agreement.
+
+FERPA
+
+Our Services comply with all applicable provisions of the Family Educational Rights and Privacy Act (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99). We receive Student Data from School Customers as a “school official” under FERPA and only process Student Data for educational purposes. In the event we receive a subpoena or judicial order for the disclosure of education records, we will notify the associated School Customer(s) prior to fulfilling the request in accordance with §99.31(a)(9). For additional information on FERPA, please visit the U.S. Department of Education’s Privacy Technical Assistance Center.
+
+[Privacy Technical Assistance Center](http://ptac.ed.gov/)
+
+COPPA
+
+Our Services comply with all applicable provisions of the Children’s Online Privacy Protection Act (COPPA) (15 USC 6501 et seq.) To the extent COPPA applies to information we collect, we process such information for educational purposes only, at the direction of the partnering School Customer and on the basis of educational institution consent. For additional information on COPPA and educational institution consent, please refer to the Federal Trade Commission’s Complying with COPPA: Frequently Asked Questions.
+
+[COPPA: Frequently Asked Questions](https://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions)
+
+I. Definitions
+
+Capitalized terms not defined in this section are defined by applicable law when a citation is present.
+
+  * “Agreement” means the underlying Service or License agreement between Pearson and the School Customer. 
+  * “Data Handling Practices” means Pearson’s practices related to the collection, protection, use or disclosure of Personal Information.
+  * “Educator Data” means the personally identifiable information of Users of the Service who are not students, such as teachers or School administrators.
+  * “Educator User” means a User of the Service who is not a student, such as a school administrator, faculty member, board member, school employee, school agent or representative.
+  * “Personal Information” means the personally identifiable information of Users of the Service.
+  * “School Customer” means the educational institution who has purchased and is using a Service. 
+  * “Student Data” means the personally identifiable information Pearson receives about Student Users of the Service.
+  * “Student User” means a User of the Service who is a student at an educational institution who has purchased and is using a Service.
+  * “Usage Data” means data gathered about Users’ activity on the site, which may be collected through the use of system or application logs, cookies, mobile device identifiers, IP addresses and other industry-accepted technology.
+  * “User” means an authenticated Authorized User of Pearson’s U.S. K-12 online websites, applications, products and services.
+
+
