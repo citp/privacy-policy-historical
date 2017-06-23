@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the schneider-electric.com privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101182135id_/https%3A//www.schneider-electric.com/ww/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624014542id_/https%3A//www.schneider-electric.com/ww/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
 
 # Data Privacy Statement | Schneider Electric
-
-##  Schneider Electric Data privacy statement 
 
 1\. Schneider Electric commits to protect your personal information
 
