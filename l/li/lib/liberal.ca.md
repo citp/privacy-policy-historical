@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220163038id_/http%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.ca privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623025811id_/http%3A//www.liberal.ca/privacy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
@@ -12,10 +12,10 @@ The Liberal Party of Canada (Liberal Party) is committed to respecting your priv
 
 We obtain the information that you choose to give us. You may do so in a variety of ways including:
 
-  * When you visit our website for the purpose of becoming involved with the party as a member, volunteer or donor.
+  * When you visit our website for the purpose of becoming involved with the party as a Registered Liberal, volunteer or donor.
   * When you subscribe to our communications.
   * If you register at an event or at a Party convention.
-  * If you complete a membership or donation form either electronically or on paper.
+  * If you complete a registration or donation form either electronically or on paper.
   * If you complete any other form on a Liberal website, including online petitions
 
 
@@ -62,7 +62,7 @@ Like many websites, we use cookies which are small text files stored on the user
 
 **LINKS TO OTHER WEBSITES**
 
-Our website contains links to a limited number of other websites including those for our provincial and territorial associations. The Liberal Party is not responsible for the content or the privacy policies of these websites.
+Our website contains links to a limited number of other websites including those for our provincial or territorial boards. The Liberal Party is not responsible for the content or the privacy policies of these websites.
 
 **CONTACT US**
 
