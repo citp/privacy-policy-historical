@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801085013id_/https%3A//www.ramdass.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramdass.org privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623103506id_/https%3A//www.ramdass.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ram Dass
 
