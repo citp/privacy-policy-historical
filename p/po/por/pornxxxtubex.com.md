@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornxxxtubex.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119065658id_/http%3A//www.pornxxxtubex.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornxxxtubex.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623234223id_/http%3A//www.pornxxxtubex.com/terms.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
