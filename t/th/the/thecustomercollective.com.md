@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the thecustomercollective.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617123040id_/http%3A//www.socialmediatoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecustomercollective.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623072028id_/http%3A//thecustomercollective.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Social Media Today
+# Privacy Policy
 
-Social Media Today respects each individual’s right to personal privacy. We will collect and use information through our web site only in the ways disclosed in this statement. This statement applies solely to information collected at Social Media Today’s web site.
+Meredith Middleton (" **Meredith** ") operates TheCustomerCollective.com and may operate other websites. It is Meredith's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Part I. Information Collection and Security
+### Website Visitors
 
-Social Media Today only collects information on our web site submitted by registered users. Such information may include user-submitted news and events, uploaded photos, profiles, private messages and blog posts. The information is collected by the voluntary submittal of such by registered users.
+Like most website operators, Meredith collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Meredith's purpose in collecting non-personally identifying information is to better understand how Meredith's visitors use its website. From time to time, Meredith may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Social Media Today's web site employs the use of "cookies". A cookie is a small text file that our web server places on a user’s computer hard drive to be a unique identifier. Cookies enable Social Media Today to track usage patterns and deliver customized content to users. 
+Meredith also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on TheCustomerCollective.com blogs/sites. Meredith only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that commenter IP addresses and email addresses are visible and disclosed to the administrators of the blog/site where the comment was left.
 
-Social Media Today does not divulge any personally identifiable information about registered users or Social Media Today members to outside parties without permission for any reason (with the exception of a request made for such information [which is legally warranted and presented in person] by an official law enforcement official or agency).
+### Gathering of Personally-Identifying Information
 
-We will ask your permission to share your contact information with our sponsors when we conduct specific initiatives around our content or the content of our sponsors. This permission is something you may choose not to grant by “opting out” on our webforms.
+Certain visitors to Meredith's websites choose to interact with Meredith in ways that require Meredith to gather personally-identifying information. The amount and type of information that Meredith gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [TheCustomerCollective.com](http://thecustomercollective.com/) to provide a username and email address. Those who engage in transactions with Meredith are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Meredith collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Meredith. Meredith does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-For COPPA compliance (Children's Online Privacy Protection Act), Social Media Today asserts that its web site contains nothing designed, displayed or formatted to attract, influence, interest, or solicit anyone under the age of eighteen. Social Media Today memberships are available only to individuals 18 and older.
+### Aggregated Statistics
 
-Part II. Information Usage
+Meredith may collect statistics about the behavior of visitors to its websites. Meredith may display this information publicly or provide it to others. However, Meredith does not disclose personally-identifying information other than as described below.
 
-The information collected by Social Media Today is used for the purposes of this web site only. Registered users may receive additional announcements from us about site news, events, private messages, uploaded photos, blog posts, and web site updates. Out of respect for the privacy of our registered users, we present the option to not receive these types of communications. We may also provide you with content suggestions as well as SMT commercial opportunities based on your on-site behavior observed through cookies.
+### Protection of Certain Personally-Identifying Information
 
-We do offer links to other web sites. Please note: When you click on links to other web sites, we encourage you to read their privacy policies. Their standards may differ from ours.
+Meredith discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Meredith's behalf or to provide services available at Meredith's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Meredith's websites, you consent to the transfer of such information to them. Meredith will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Meredith discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when Meredith believes in good faith that disclosure is reasonably necessary to protect the property or rights of Meredith, third parties or the public at large. If you are a registered user of an Meredith website and have supplied your email address, Meredith may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Meredith and our products. If you send us a request (for example via email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Meredith takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
 
-Because our web site also offers user-submitted posts and comments, please be advised that information posted in these venues becomes public knowledge with the submittal of any information or images contained therein.
+### Cookies
 
-We reserve the right to update our web site privacy policy without notice. We reserve the right to remove user-submitted information or images without user consent or notice. We also reserve the right to add or remove site features without notice.
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Meredith uses cookies to help Meredith identify and track visitors, their usage of Meredith website, and their website access preferences. Meredith visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Meredith's websites, with the drawback that certain features of Meredith's websites may not function properly without the aid of cookies.
 
-Part III. Access to Information
+### Business Transfers
 
-Registered users who wish to delete their information from our database must notify us by [email](mailto:socialmediatoday@socialmediatoday.com).
+If Meredith, or substantially all of its assets, were acquired, or in the unlikely event that Meredith goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Meredith may continue to use your personal information as set forth in this policy.
 
-Part IV. Problem Resolution
+### Ads
 
-If problems arises from your use of this website, please feel free to [email](mailto:socialmediatoday@socialmediatoday.com) Social Media Today.
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Meredith and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, Meredith may change its Privacy Policy from time to time, and in Meredith's sole discretion. Meredith encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a TheCustomerCollective.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
