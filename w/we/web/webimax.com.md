@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webimax.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120230658id_/http%3A//www.webimax.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webimax.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623050838id_/http%3A//www.webimax.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WebiMax
 
