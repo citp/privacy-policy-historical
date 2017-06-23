@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wonderoftech.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125014127id_/http%3A//www.wonderoftech.com/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderoftech.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623194451id_/http%3A//www.wonderoftech.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](http://www.wonderoftech.com/privacy-policy/).
+By using our site, you consent to our [online privacy policy](https://www.wonderoftech.com/privacy-policy/).
 
 **Changes to our Privacy Policy**
 
