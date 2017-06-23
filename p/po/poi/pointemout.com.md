@@ -1,61 +1,57 @@
-> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228085621id_/http%3A//pointemout.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointemout.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623132718id_/http%3A//pointemout.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice - POINTEMOUT.COM
+# Privacy - Point Em Out
 
-## [Privacy Notice](http://pointemout.com/privacy-notice/ "Permanent Link to Privacy Notice")
+**Privacy**
 
-**Pointemout.com** respects your privacy and is committed to protecting it at all times. This Internet Privacy Notice explains how we collect, use, and safeguard information on this Website. Please read this Privacy Notice carefully. **By visiting Pointemout.com, you are accepting the practices described in this Privacy Notice and agree that any dispute over privacy is governed by this Privacy Notice and Conditions of Use.**
+This privacy policy sets out how Point Em Out uses and protects any information that you give Point Em Out when you use Point Em Out. Point Em Out is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Point Em Out, then you can be assured that it will only be used in accordance with this privacy statement. Point Em Out may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
-By continuing to use the **Pointemout.com** website after we post any changes to this Privacy Notice, you accept the Privacy Notice as modified.
+**What we collect  
+**We may collect the following information:
 
-________________________
-
-**What Personal Information About Customers Does Pointemout.com Collect?**
-
-The information we learn from customers helps us personalize and continually improve your experience at Pointemout.com. Here are the types of information we collect:
-
-  * **Information You Give Us:** We receive and store any personal and financial information you enter on our Website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future options for you, improving our Website, and communicating with you.
-  * **Automatic Information:** We receive and store certain types of information whenever you interact with us. For example, like many Websites, we use “cookies,” and we obtain certain types of information when your Web browser accesses Pointemout.com, including your IP address. A number of companies offer utilities designed to help you visit Websites anonymously. Although we will not be able to provide you with a personalized experience at Pointemout.com if we cannot recognize you, we want you to be aware that these tools exist.
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Pointemout.com if your computer supports such capabilities. If you do not want to receive e-mail or other mail from us, please adjust your Customer Communication Preferences accordingly.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-**What About Cookies?**
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as personalized greetings and storage of items in your Shopping Cart between visits.
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of Pointemout.comâ€™s coolest features, and we recommend that you leave them turned on.
-
-
-
-**Does Pointemout.com Share The Information It Receives?**
-
-Information about our customers is an important part of our business and we are not in the business of selling it to others. We share customer information only as described below.
-
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * **Business Transfers:** As we continue to develop our business, we might sell or buy stores, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Pointemout.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * **Protection of Pointemout.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Pointemout.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
-  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
 
 
-**How Secure Is Information About Me?**
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
-  * We reveal only the last five digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
-  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
 
-**What Information Can I Access?**
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-Pointemout.com gives you access to a broad range of information about your account and your interactions with Pointemout.com for the limited purpose of viewing and, in certain cases, updating that information. The list of information you can access will change as our Website evolves.
+**Third-party online advertising**
 
-**Are Children Allowed To Use Pointemout.com?**
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
 
-Pointemout.com does NOT sell products for purchase by children.
+Please remember that Point Em Out does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy.
 
-**Conditions Of Use, Notices, And Revisions**
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
 
-If you choose to visit Pointemout.com, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Texas. If you have any concern about privacy at Pointemout.com, please contact us with a thorough description, and we will try to resolve it.
-
-Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
