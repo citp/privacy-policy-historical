@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitwynn.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627135539id_/http%3A//www.wynnlasvegas.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitwynn.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623152338id_/http%3A//www.wynnlasvegas.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Wynn Las Vegas & Encore Resort
 
