@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickastro.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118224008id_/https%3A//www.clickastro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickastro.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623161318id_/http%3A//www.clickastro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Privacy and Terms - Clickastro.com
 
@@ -43,4 +43,4 @@ We have security measures in place to attempt to protect against the loss, misus
 
 We may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
 
-If you have questions about this privacy policy or the practices of this site, please [contact us](https://www.clickastro.com/contact-us). 
+If you have questions about this privacy policy or the practices of this site, please [contact us](http://www.clickastro.com/contact-us). 
