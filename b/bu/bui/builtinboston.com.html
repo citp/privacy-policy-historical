@@ -1,0 +1,607 @@
+<!--The following is the downloaded HTML source of the builtinboston.com privacy policy that was archived on 2017-06-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170623132655id_/http%3A//www.builtinboston.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" dir="ltr" class="svg green"><head>
+    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1039.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1039.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-82722210-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<link rel="canonical" href="http://www.builtinboston.com/privacy-policy">
+<meta name="robots" content="index, follow">
+<meta name="title" content="Privacy Policy | Built In Boston">
+<meta name="description" content="privacy policyLast Updated August 12, 2015&nbsp;">
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/BI_Favicon%2032x32.png" type="image/png">
+
+            <title>Privacy Policy | Built In Boston</title>
+    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7285556/7649372/css/fonts.css">
+    <link rel="stylesheet" type="text/css" href="/profiles/builtin/themes/bix/css/splash.css">
+    <link rel="stylesheet" href="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/css/css_4foowBvTOI_ILwN2n54QUg86H3WBHwj7DSXSRGpBhYo.css?os026c" media="all">
+<link rel="stylesheet" href="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/css/css_ZZ1d_MTHi533pnWcVi8CqngM7wcnDxBoSsOw7YPUIqw.css?os026c" media="all">
+
+    
+<!--[if lte IE 8]>
+<script src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/js/js_B7pS3ddmNLFYOJi3j28odiodelMu-EhaOeKlHZ8E6y0.js"></script>
+
+  </head>
+  <body class="path-node page-node-type-page">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    
+    <div class="layout-container">
+
+  
+
+  <div class="header">
+    <div class="header-wrapper">
+      <header role="banner">
+          <div class="region region-header">
+    <div id="block-bix-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" title="Home" rel="home" class="site-logo">
+      <img src="https://cdn.builtinboston.com/profiles/builtin/themes/bix/logo.svg" alt="Built in Boston">
+    </a>
+      </div>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-s form-item-s">
+      <label for="edit-s">Search |</label>
+        <input data-drupal-selector="edit-s" type="text" id="edit-s" name="s" value="" size="30" maxlength="128" class="form-text">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Apply" class="button js-form-submit form-submit">
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+      </header>
+
+        <div class="region region-primary-menu">
+    <nav role="navigation" aria-labelledby="block-mainnavigationmobile-menu" id="block-mainnavigationmobile" class="block block-menu navigation menu--main-mobile">
+    
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="<front>">Home</a>
+              </li>
+                <li class="menu-item">
+        <a href="/jobs">Jobs</a>
+              </li>
+                <li class="menu-item">
+        <a href="/user/login">Saved</a>
+              </li>
+                <li class="menu-item">
+        <a href="/blogs" data-drupal-link-system-path="blogs">News</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/" data-drupal-link-system-path="<front>">More</a>
+                                <ul class="menu">
+                    <li class="button menu-item">
+        <a href="/user/register">Sign Up</a>
+              </li>
+                <li class="button menu-item">
+        <a href="/user/login">Log In</a>
+              </li>
+                <li class="menu-item">
+        <a href="/companies" data-drupal-link-system-path="companies">Startups</a>
+              </li>
+                <li class="menu-item">
+        <a href="/events" data-drupal-link-system-path="events">Events</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-s form-item-s">
+      <label for="edit-s">Search |</label>
+        <input data-drupal-selector="edit-s" type="text" id="edit-s" name="s" value="" size="30" maxlength="128" class="form-text">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Apply" class="button js-form-submit form-submit">
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+
+  </nav>
+<nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+    
+        
+              <ul class="menu">
+                    <li class="nav-item jobs menu-item">
+        <a href="/jobs"><span>Local Jobs</span></a>
+                          <div class="nav-content">
+            <div class="nav-content-inner">
+              <div class="submenu">
+                <a href="/node/add/job">
+                  <h3 class="title">Looking<br>to hire?</h3>
+                  <div class="headline">Give the community<br>something worth<br>applying for.</div>
+                </a>
+                <div class="more-link">
+                  <a href="/node/add/job">Post a job</a>
+                </div>
+              </div>
+              <div class="views-element-container"><div class="view view-navigation-job-categories view-id-navigation_job_categories view-display-id-block_1 js-view-dom-id-66ebb3d0dc5f507c4c39aae0539ab622c85700d2879123258248de3405a1ce85">
+  
+    
+      
+      <div class="view-content">
+      
+<div class="views-row">
+  <div class="title"><a href="/jobs">All jobs</a></div>
+  <div class="link"><a href="/jobs">All jobs</a></div>
+</div>
+
+    <div class="category-wrapper-finance views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A17">Finance</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A17">Finance</a></div>
+  </div>
+    <div class="category-wrapper-data-analytics views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A85">Data + Analytics</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A85">Data + Analytics</a></div>
+  </div>
+    <div class="category-wrapper-design views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A13">Design + UX</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A13">Design + UX</a></div>
+  </div>
+    <div class="category-wrapper-developer views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A12">Developer + Engineer</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A12">Developer + Engineer</a></div>
+  </div>
+    <div class="category-wrapper-marketing views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A16">Marketing</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A16">Marketing</a></div>
+  </div>
+    <div class="category-wrapper-operations views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A18">Operations</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A18">Operations</a></div>
+  </div>
+    <div class="category-wrapper-product views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A14">Product</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A14">Product</a></div>
+  </div>
+    <div class="category-wrapper-project-mgmt views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A15">Project Mgmt</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A15">Project Mgmt</a></div>
+  </div>
+    <div class="category-wrapper-sales views-row">
+    <div class="title"><a href="/jobs?f[0]=job_categories_aggregated%3A19">Sales</a></div>
+    <div class="link"><a href="/jobs?f[0]=job_categories_aggregated%3A19">Sales</a></div>
+  </div>
+
+
+    </div>
+  
+          </div>
+</div>
+
+            </div>
+            <div class="underlay"></div>
+          </div>
+                      </li>
+                <li class="nav-item startups menu-item menu-item--expanded">
+        <a href="/companies"><span>Startups</span></a>
+                  <div class="nav-content">
+            <div class="nav-content-inner">
+                            <ul class="menu">
+                    <li class="menu-item">
+        <a href="/companies"><span>All Companies</span></a>
+                              </li>
+                <li class="menu-item">
+        <a href="/companies?solrsort=is_company_hiring%20desc"><span>Hiring Now</span></a>
+                              </li>
+                <li class="menu-item">
+        <a href="/companies?solrsort=ds_field_year_founded%20desc"><span>New Startups</span></a>
+                              </li>
+                <li class="menu-item">
+        <a href="/companies?solrsort=ds_company_funding_max%20desc"><span>Recently Funded</span></a>
+                              </li>
+        </ul>
+  
+              <div class="nav-content-view">
+                <div class="views-element-container"><div class="overlay-grid view view-navigation-series view-id-navigation_series view-display-id-block_1 js-view-dom-id-061ec5dd8783a7a30dcbd3d03ff9ca446b12d18aa115cfbc56e24ab4ea9e8147">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="image"><div>  <a href="/guides/best-companies-work-boston"><img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/navigation_image/public/2017-05/best-companies-work-boston.jpg" width="265" height="200" alt=" Best Companies to Work for in Boston" class="image-style-navigation-image">
+
+</a>
+</div></div><div class="title"><span><a href="/guides/best-companies-work-boston" hreflang="en">Your Guide to the Best Companies to Work for in Boston</a></span></div><div class="link"><span><a href="/guides/best-companies-work-boston" hreflang="en">View more</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="image"><div>  <a href="/guides/startups-cambridge"><img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/navigation_image/public/2017-05/startups-cambridge.jpg" width="265" height="200" alt="Startups in Cambridge" class="image-style-navigation-image">
+
+</a>
+</div></div><div class="title"><span><a href="/guides/startups-cambridge" hreflang="en">Your Guide to Startups in Cambridge</a></span></div><div class="link"><span><a href="/guides/startups-cambridge" hreflang="en">View more</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="image"><div>  <a href="/guides/coolest-offices-boston"><img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/navigation_image/public/2017-05/coolest-offices-boston.jpg" width="265" height="200" alt="Coolest Tech &amp; Startup Offices in Boston" class="image-style-navigation-image">
+
+</a>
+</div></div><div class="title"><span><a href="/guides/coolest-offices-boston" hreflang="en">Tour Boston's Coolest Tech &amp; Startup Offices</a></span></div><div class="link"><span><a href="/guides/coolest-offices-boston" hreflang="en">View more</a></span></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+              </div>
+            </div>
+            <div class="underlay"></div>
+          </div>
+                              </li>
+                <li class="nav-item events menu-item menu-item--expanded">
+        <a href="/events"><span>Events</span></a>
+                  <div class="nav-content">
+            <div class="nav-content-inner">
+                            <ul class="menu">
+                    <li class="menu-item">
+        <a href="/events"><span>All Events</span></a>
+                              </li>
+        </ul>
+  
+              <div class="nav-content-view">
+                <div class="views-element-container"><div class="view view-navigation-events view-id-navigation_events view-display-id-block_1 js-view-dom-id-1b9a700ad6e202703dca3830ec4eb53d0d45095f175909fa70daa5f6e924bf1b">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="date"><div class="date-not-today">Mon<br>May 1</div></div><div class="cover-image"><div>  <img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/event_card/public/2017-05/Meetup_Temp_6.png" width="270" height="345" alt="" class="image-style-event-card">
+
+
+</div></div><div class="title"><span>ODSC East • Boston 2017 Data Science Conference &amp; AI Expo (PAID EVENT)</span></div><div class="organized-by"><div>Boston Data Mining</div></div><a class="view-page" href="/event/odsc-east-boston-2017-data-science-conference-ai-expo-paid-event"></a>
+  </div>
+    <div class="views-row">
+    <div class="date"><div class="date-not-today">Mon<br>May 1</div></div><div class="cover-image"><div>  <img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/event_card/public/2017-05/Meetup_Temp.png" width="270" height="345" alt="" class="image-style-event-card">
+
+
+</div></div><div class="title"><span>Healing Diseases By Sharing Info. Supporting One Another</span></div><div class="organized-by"><div> Boston Hacking Predictive Analytics App</div></div><a class="view-page" href="/event/healing-diseases-sharing-info-supporting-one-another"></a>
+  </div>
+    <div class="views-row">
+    <div class="date"><div class="date-not-today">Mon<br>May 1</div></div><div class="cover-image"><div>  <img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/event_card/public/2017-05/Meetup_Temp_1.png" width="270" height="345" alt="" class="image-style-event-card">
+
+
+</div></div><div class="title"><span>HackerNest Boston May Tech Social</span></div><div class="organized-by"><div>HackerNest Boston Tech Socials</div></div><a class="view-page" href="/event/hackernest-boston-may-tech-social"></a>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+              </div>
+            </div>
+            <div class="underlay"></div>
+          </div>
+                              </li>
+                <li class="nav-item news menu-item menu-item--expanded">
+        <a href="/blogs"><span>News</span></a>
+                  <div class="nav-content">
+            <div class="nav-content-inner">
+                            <ul class="menu">
+                    <li class="menu-item">
+        <a href="/blogs"><span>All News</span></a>
+                              </li>
+                <li class="menu-item">
+        <a href="/guides"><span>Boston Tech Guides</span></a>
+                              </li>
+                <li class="menu-item">
+        <a href="/tech-reports"><span>Industry Reports</span></a>
+                              </li>
+        </ul>
+  
+              <div class="nav-content-view">
+                <div class="views-element-container"><div class="view view-navigation-news view-id-navigation_news view-display-id-block_1 js-view-dom-id-4396546a110e03adddaf940294ae7ec4919aa409b598566ae574154bc13602da">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="image"><div>  <a href="/2017/06/22/tech-news-roundup-boston"><img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/navigation_image/public/2017-06/cybereason-boston-startups_0.jpg" width="265" height="200" alt="roundup" class="image-style-navigation-image">
+
+</a>
+</div></div><div class="title"><span><a href="/2017/06/22/tech-news-roundup-boston">Tech news roundup: 2 cybersecurity startups raise a...</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="image"><div>  <a href="/2017/06/22/cambridge-startup-scanifly-taking-design-world-with-drones"><img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/navigation_image/public/2017-06/17904502_641659499372941_5611484687202131812_n.jpg" width="265" height="200" alt="scanifly" class="image-style-navigation-image">
+
+</a>
+</div></div><div class="title"><span><a href="/2017/06/22/cambridge-startup-scanifly-taking-design-world-with-drones">When drones design: How this Cambridge startup is using...</a></span></div>
+  </div>
+
+<div class="views-row">
+  <div class="image"><a href="/guides/software-companies-boston"><img src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/styles/navigation_image/public/2017-05/software-companies-boston.jpg" width="265" height="200" alt="" class="image-style-navigation-image">
+
+</a></div>
+  <div class="title"><a href="/guides/software-companies-boston">Boston Software: Your Guide to Cool Jobs &amp; Companies</a></div>
+  <div class="link"><a href="/guides/software-companies-boston">Boston Software: Your Guide to Cool Jobs &amp; Companies</a></div>
+</div>
+
+    </div>
+  
+          </div>
+</div>
+
+              </div>
+            </div>
+            <div class="underlay"></div>
+          </div>
+                              </li>
+                <li class="nav-item search menu-item">
+        <a href="/"><span>Search</span></a>
+                                  <div class="nav-content">
+            <div class="nav-content-inner">
+              <div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1" data-drupal-selector="views-exposed-form-search-page-1" id="block-exposedformsearchpage-1">
+  
+    
+      <form action="/search" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-s form-item-s">
+      <label for="edit-s">Search |</label>
+        <input data-drupal-selector="edit-s" type="text" id="edit-s" name="s" value="" size="30" maxlength="128" class="form-text">
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions--3"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Apply" class="button js-form-submit form-submit">
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+            </div>
+          </div>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-accountmenunavigation" class="block block-bix-global block-bix-global-account-menu">
+  
+    
+      <a href="/node/add/job" class="post-job" data-ga-event="customers-post-job">Post Job</a><span><a href="/user/register" data-ga-event="user-acq-join-nav-bar">Join</a> | <a href="/user/login">Login</a></span>
+  </div>
+
+  </div>
+
+      
+    </div>
+  </div>
+
+  
+
+  
+
+    <div class="region region-help">
+    
+
+
+  </div>
+
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div class="container">
+    <div class="row">
+        <div class="">
+            
+        </div>
+    </div>
+    <div class="row">
+        <div class="">
+            <div class="block-region-middle"><div class="block block-ctools block-entity-viewnode">
+  
+    
+      
+<article role="article" class="node node--type-page node--view-mode-full">
+
+  
+      <h2 class="node-title">
+      <a href="/privacy-policy" rel="bookmark"><span class="field field--name-title field--type-string field--label-hidden">Privacy Policy</span>
+</a>
+    </h2>
+    
+
+
+
+  <div class="node__content">
+    
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>privacy policy</p><p><strong>Last Updated August 12, 2015</strong></p><p>&nbsp;</p><p><strong>Your privacy is important to us.</strong>&nbsp;Community Ventures LLC, d/b/a Built in and its subsidiaries and affiliates (“Built in,” “we,” or “us”), understand your concerns with regard to how information about you is used and shared, and we appreciate your trust that we will use and share information about you carefully and sensibly. This Privacy Policy describes what information we collect about you, how we collect it, how we use it, with whom we may share it, and what choices you have regarding it. This Privacy Policy is incorporated into and is a part of the&nbsp;<a href="http://www.builtinchicago.org/terms-use" target="_blank">Terms of Use</a>&nbsp;of our Web site (the “Site”). We encourage you to become familiar with this Privacy Policy and our&nbsp;<a href="http://www.builtinchicago.org/terms-use" target="_blank">Terms of Use</a>. By accessing and using the Site, you agree that you have read and understand this Privacy Policy and that you accept and consent to the privacy practices (and any uses and disclosures of information about you) that are described in this Privacy Policy.</p><p><br>This Privacy Policy applies only to information collected at this Site. It does not apply to any other websites. We are not responsible for, and this Privacy Policy does not apply to, the privacy practices of those other websites. We encourage you to seek out and read the privacy policy of each website that you visit.</p><p><br><strong>1.&nbsp;&nbsp; &nbsp;What information do we collect, and how do we collect it? &nbsp;</strong><br>We and our third party service providers (“Contractors”) may collect certain identifying information from or about you in connection with your use of or submissions to the Site, including, but not limited to, your name, title, street address, company, telephone and fax numbers, email addresses, website addresses, profile information and credit card information (together, “Collected Information”).&nbsp; We and our Contractors may use your Collected Information to search for publicly available information (such as your business expertise, skills, current and past job titles, education, activity on other publicly available websites, and your city location) to create an enhanced profile that is available on the Site to a limited number of users (the “Enhanced Profile Information”). In addition, we and our Contractors may retain the content of, and metadata regarding, any correspondence you may have with us or our representatives, regardless of the mode of communication by which such correspondence was made. This information helps us to improve the Site and the online content, materials, and services that we make available on the Site, and to more effectively and efficiently respond to both current and future inquiries.</p><p><br>As with many other websites, the web servers used to operate the Site may collect certain data pertaining to you and the equipment and communications method that you use to access the Internet and our Site. For security reasons and to confirm the integrity of the Site, we and our Contractors may combine components of these data with Collected Information, which may identify you. Unless otherwise described in this Privacy Policy or our&nbsp;<a href="http://www.builtinchicago.org/terms-use" target="_blank">Terms of Use</a>, such identifying information will be used solely for our business purposes. In addition, the information we and our Contractors collect may reveal such things as the Internet protocol (“IP”) address assigned to your computer, specific pages that you accessed on the Site or prior to visiting the Site, and the length of time you spent at the Site. We and our Contractors may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site’s content and content delivery, including any online content, materials, and services that we describe or make available on the Site.</p><p><br>In addition, our Site may send one or more “cookies” to your computer to improve the utility of the Site by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Please note that you may not be able to access the full functionality of our Site if cookies are disabled on your browser.</p><p><br><strong>2.&nbsp;&nbsp; &nbsp;How will we use the information you provide to us? &nbsp;</strong><br>In addition to the uses described above or in our&nbsp;<a href="http://www.builtinchicago.org/terms-use" target="_blank">Terms of Use</a>, we and our Contractors may use the information that we collect from or about you to analyze and improve the content, materials, and services that we make available on the Site, to notify you of changes made to the Site, to evaluate user needs and customize the Site content delivered to you according to those needs, to send you promotional materials that you request from us, and for other legitimate and lawful business purposes. If you contact us for support or assistance, we may use information about you or your system that you provide or that we collect for purposes such as verifying whether your system meets the minimum requirements needed to use the Site and our various services.</p><p><br>We and our Contractors may store Collected Information for as long as needed for the purposes indicated in this Privacy Policy, which may be indefinitely. We and our Contractors may store Collected Information in the United States, or we may transfer it to other countries.&nbsp; &nbsp;</p><p><br><strong>3.&nbsp;&nbsp; &nbsp;With whom do we share the information we collect? &nbsp;</strong><br>We may share Collected Information with our Contractors and affiliates in order to provide services to you, and for other lawful business reasons, including but not limited to displaying information you request us to display on your profile.&nbsp; We may share your Enhanced Profile Information with preferred users of our Site in connection with our job search and recruiting services.&nbsp; Unless authorized by you, this information will not include your email address or phone number. If all or part of Built in is sold, merged, or otherwise transferred to another entity, we may transfer Collected Information to such entity as part of that transaction.</p><p><br>We may decide from time to time to utilize a number of business and marketing partners in delivering the content, materials, and services available on or through the Site to you. We may share Collected Information with these business and marketing partners for any lawful purpose, including to communicate with you or to fulfill your requests for our services. We and our Contractors may also produce reports on Site traffic or usage patterns and share these reports with our business and marketing partners and others.<br><br>We may disclose Collected Information to the proper authorities if we become subject to a subpoena or court order or if we are otherwise legally required to disclose such information. We may also use and disclose information about you to establish or exercise our legal rights, to enforce the Terms of Use, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.<br><br><strong>4.&nbsp;&nbsp; &nbsp;What choices do you have? &nbsp;</strong><br>When corresponding with Built in or our representatives, or when making a request for information or otherwise interacting with us or others through the Site, you choose what information to supply, what questions or comments to submit, whether you wish to receive further information, and by what method of communication such information should be delivered. Please take care to share only such information as is needed or that you believe is appropriate. You are under no obligation to provide us with personally identifiable information, but without it we may not be able to provide you the products or services you request. You will be asked if you are open to new job opportunities.&nbsp; If you select yes, we may contact you with recruiter requests for introduction, which you may accept or reject.&nbsp; You have the option to opt out of these messages by indicating you are not open to new opportunities, and you have the option to reject introductions to recruiters through the Site.&nbsp; You may contact us as indicated below if at any time you would like to ask us about our data collection practices and our information security policy.</p><p><br><strong>5.&nbsp;&nbsp; &nbsp;How Do We Protect Information Collected About You? &nbsp;</strong><br>Built in and our Contractors have in place certain commercially reasonable security measures to protect Collected Information, but the storage and communication of Collected Information can never be completely secure. Hence we do not guarantee that information that you transmit or otherwise supply to us, or any communications conducted on or through the Site, is or will be totally secure. If you become aware of any breach of Site security, this Privacy Policy, or the&nbsp;<a href="http://www.builtinchicago.org/terms-use" target="_blank">Terms of Use</a>, please notify us immediately.</p><p><br><strong>6.&nbsp;&nbsp; &nbsp;We may change this Notice.</strong><br>From time to time, we may change our privacy practices, and this Privacy Policy, because of changes in relevant and applicable legal or regulatory requirements, in our business or our business practices, or in our attempts to better serve your needs and those of our other members. Notice of such changes to our privacy practices will be given in the manner described in the&nbsp;<a href="http://www.builtinchicago.org/terms-use" target="_blank">Terms of Use</a>&nbsp;and a revised Privacy Policy will be posted on the Site.&nbsp; Please periodically review this Privacy Policy.</p><p><br><strong>7.&nbsp;&nbsp; &nbsp;Any questions? Please contact us at:</strong><br>Built in<br>440 North Wells Suite 502<br>Chicago, Illinois 60654<br>Telephone: 312-447-6119<br>Email: support@builtin.com</p><p><br><strong>Acknowledgement<br><br>BY ACCESSING OR USING THE SITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND CONSENT TO OUR PRIVACY PRACTICES AND TO THE USES AND DISCLOSURES OF INFORMATION THAT WE COLLECT ABOUT YOU, AND YOU AGREE TO BE BOUND BY THE&nbsp;</strong><a href="http://www.builtinchicago.org/terms-use" target="_blank"><strong>TERMS OF USE</strong></a><strong>&nbsp;APPLICABLE TO YOU.</strong></p>&nbsp;<p>&nbsp;</p></div>
+      
+  </div>
+
+</article>
+
+  </div>
+</div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="">
+            
+        </div>
+    </div>
+</div>
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+  
+  
+  
+
+      <footer role="contentinfo">
+      <div class="footer-wrapper">
+        
+          <div class="region region-footer-first">
+    <div id="block-footerbuiltinchicago" class="block block-block-content block-block-content767deb42-b900-4191-b543-398d5b805cd3">
+  
+      <h2 class="box-title">Built in Chicago</h2>
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>BuiltIn Boston is the online community<br>
+for Boston startups and tech companies.<br>
+Find startup jobs, tech news and events.</p>
+<p>© Built In 2017</p>
+</div>
+      
+  </div>
+
+  </div>
+
+          <div class="region region-footer-second">
+    <nav role="navigation" aria-labelledby="block-about-menu" id="block-about" class="block block-menu navigation menu--about">
+      
+      <h2 class="box-title" id="block-about-menu">About</h2>
+    
+  
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://boards.greenhouse.io/builtin" target="_blank">Careers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/privacy-policy" target="_blank">Privacy Policy</a>
+              </li>
+                <li class="menu-item">
+        <a href="/terms-use" target="_blank">Terms of Use</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          <div class="region region-footer-third">
+    <nav role="navigation" aria-labelledby="block-getinvolved-menu" id="block-getinvolved" class="block block-menu navigation menu--get-involved">
+      
+      <h2 class="box-title" id="block-getinvolved-menu">Get involved</h2>
+    
+  
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/send-us-tip" target="_blank">Send Us a Tip</a>
+              </li>
+                <li class="menu-item">
+        <a href="/contact-us" target="_blank">Contact Us</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          <div class="region region-footer-fourth">
+    <nav role="navigation" aria-labelledby="block-stayconnected-menu" id="block-stayconnected" class="block block-menu navigation menu--stay-connected">
+      
+      <h2 class="box-title" id="block-stayconnected-menu">Stay Connected</h2>
+    
+  
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="https://www.facebook.com/builtinbos" target="_blank">Facebook</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://twitter.com/builtinbos" target="_blank">Twitter</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+          <div class="region region-footer-fifth">
+    <nav role="navigation" aria-labelledby="block-poweredbybuiltin-menu" id="block-poweredbybuiltin" class="block block-menu navigation menu--powered-by-built-in">
+      
+      <h2 class="box-title" id="block-poweredbybuiltin-menu">Powered by Built In</h2>
+    
+  
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="http://www.builtinaustin.com/" target="_blank">Built In Austin</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.builtinchicago.com/" target="_blank">Built In Chicago</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.builtincolorado.com/" target="_blank">Built In Colorado</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.builtinla.com/" target="_blank">Built In LA</a>
+              </li>
+                <li class="menu-item">
+        <a href="http://www.builtinnyc.com/" target="_blank">Built In NYC</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+      </div>
+    </footer>
+  
+  <div class="basement">Love Boston <span></span> Love your job</div>
+
+  
+
+</div>
+<div class="overlay"></div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/402","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","crazyegg":{"crazyegg":{"account_path":"pages\/scripts\/0011\/8062.js"}},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"blazy":{"loadInvisible":false,"offset":500,"saveViewportOffsetDelay":50},"ajaxTrustedUrl":{"\/search":true},"user":{"uid":0,"permissionsHash":"f49f2282988469949e431a615c832374fbede4e06384f8048e47cc28ffa35b29"}}</script>
+<script src="https://cdn.builtinboston.com/sites/www.builtinboston.com/files/js/js_EBSRLF2g3tpZXD6qypanfW4QyE6qLC2yqQIU3DCk3sk.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"1490ac5bd8","applicationID":"39913222","transactionName":"YFABN0RRWkZZVxEKX1kaIgBCWVtbF3AXFkBWWT8gWUJRaXVRCxZsc1AFAkNcQHhdWhAvWVleNxFTVXlUVl0VFlxWQQwRRR0KUl1aABFRQ1AqDVJVTHRWUDYMQkM=","queueTime":0,"applicationTime":796,"atts":"TBcCQQxLSUg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
