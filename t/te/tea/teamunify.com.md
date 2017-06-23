@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226044837id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamunify.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623062310id_/http%3A//www.teamunify.com/__corp__/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
