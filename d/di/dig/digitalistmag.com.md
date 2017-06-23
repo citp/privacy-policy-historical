@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the digitalistmag.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202080750id_/http%3A//www.sap.com/corporate-en/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalistmag.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623215926id_/http%3A//www.sap.com/corporate-en/about/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | About SAP
+
+**Skip to Content**
+
+What describes your role best?
+
+How would you rate the 2016 Integrated Report?
+
+Excellent Very Good Good Fair Poor
+
+How easily did you find the information you were looking for?
+
+Very easy Easy Neutral Difficult Very difficult
+
+##  I. Global Privacy Fundamentals
 
 Our privacy practices set out herein reflect current global principles and standards on handling Personal Data. These principles include notice of data use, choice of data use, data access, data integrity, security, onward transfer, and enforcement/oversight. We abide by the privacy laws in the countries where we do business.
 
@@ -10,6 +24,8 @@ If we decide to make changes to this Privacy Statement, we will post the changes
 
 As may be required by applicable law, we may also seek your explicit consent to process certain Personal Data collected on this website or volunteered by you. Kindly note that any consent will be entirely voluntarily. In case you do not grant the requested consent to the processing of your Personal Data or (in accordance with Subsection 10 (Data Retention) below) later inform SAP that you do not want SAP to further process your Personal Data, however, the (further) use of certain offerings or services of SAP may be either not possible or limited in scope.
 
+##  III. Collection and Processing of Your Personal Data
+
 To serve you better and understand your needs and interests, SAP collects, exports, and uses Personal Data with adequate notice (as set out herein) and, where legally required, consent, along with required filings with data protection authorities, when applicable.
 
 When you visit our website, we may record your IP address and use cookies and other Internet technologies (referred to below as “ **Automated Tools** ” and “ **Embedded Web Links** ”) to gather information about our visitors and their interests. Depending on the Automated Tools used, the gathered data comprise, in addition to your IP address, the cloud identity we assign to you when you register with SAP, the type of browser you use, the SAP websites you have visited, the objects you have clicked on a certain SAP website, the time you have spent on a certain website, the referring website from which you have accessed a SAP website and the foreign destination website which you access from an SAP website. The technologies used and the information collected are described in more detail in Subsection 5 (Automated Tools) below. After you have granted your consent (where legally required), SAP may add information collected by way of Automated Tools to user profiles SAP retains about you. Such additional information includes your user ID, website preferences and your interest in SAP’s products.
@@ -17,6 +33,8 @@ When you visit our website, we may record your IP address and use cookies and ot
 We may further collect and process any Personal Data that you volunteer to us, e.g. when you register for events or other offerings of SAP, subscribe to newsletters, participate in online surveys, discussion groups, forums or SAP’s chat service, or when you make purchases or otherwise submit your contact details to SAP. In case you provide SAP with your IDs of social media, SAP may retrieve publicly available information about you.
 
 Such Personal Data will comprise in the individual case (a subset of): your first and last name, your postal and email address (as further detailed in Subsection 2. (Email Addresses) below), your telephone number, log in data for social networks, financial and banking details relevant to process your order (as further detailed in Subsection 3. (Shopping or Event Registration) below), and certain information about the company you are working for (i.e. your company’s name and postal address, your job title and seniority level) as well as information as to which relationship (i.e. which version of SAP’s terms of use you have accepted or what our choice regarding receiving marketing materials from SAP is) between SAP and you exists.
+
+##  1\. Use and Purpose of Collected Personal Data
 
 The information SAP collects to understand your needs and interests helps SAP deliver a consistent and personalized experience. We will use such information only as described in this Privacy Statement and/or in the way we specify at the time of collection. We will not subsequently change the way your Personal Data is used without your consent, as required by applicable law. We will exclusively use your Personal Data for the following purposes:
 
@@ -47,6 +65,8 @@ Depending on how your e-mail application is set up, information about you may be
 If you choose to register for third-party services, we may need to send some information from your registration with SAP to the service provider, possibly including your e-mail address.
 
 Back to Top
+
+##  3\. Shopping or Event Registration
 
 Our site includes order forms that you fill out to request information, products, and services. These forms may in addition to the information described above collect your financial information, such as your banking details or credit card numbers. SAP promises to use any financial information that you submit solely for billing and payment purposes for that special transaction. This may include the transfer of your data to third parties involved in executing the transaction, such as banks, credit card companies, payment facilitators and other financial and credit control institutions.  
 
@@ -125,6 +145,8 @@ bb. In case a SAP website does not use the TRUSTe Consent Manager, you may refus
 
 Back to Top
 
+##  6\. Sharing Your Personal Data
+
 As a member of a global group of companies, SAP operates a number of websites around the world. Any data and information that you volunteer or that is otherwise collected on one of our sites in any one country may be sent electronically to a server for one of these sites in another country. Such servers or other types of data processing facilities may be located within or outside the European Economic Area or third countries that are regarded by the EU Commission as featuring an adequate level of data protection. However, we safeguard your privacy interests around the world by ensuring that this SAP website adheres to our data protection principles described in this statement. All companies of the SAP group (including, for the avoidance of doubt, all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) may use the information internationally in connection with processing your inquiries and orders, in order to provide services to you, to help improve our products and services to keep you up to date about the latest IT product announcements, software updates, software upgrades, security patches, system enhancements, special offers, for processing and storage and for all other purposes set out in the section “Use and Purpose of Collected Personal Data” above. This includes that all companies of the SAP group may provide you with marketing materials if (depending on the country in which the relevant SAP group company operates) you have granted your prior consent and/or unless you have opted out of receiving marketing materials.
 
 We may also share such information with business partners, service vendors, authorized third-party agents or contractors (such as Google, Inc. or Adobe Systems Inc.) in order to provide a requested service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support, providing you with information on products and services that may be of interest to you or in order to analyze the user behavior on our webpages (e.g. in case of Adobe Analytics or Google Analytics).
@@ -143,6 +165,8 @@ While visiting SAP's website you may be directed to content or functionality tha
 
 Back to Top
 
+##  7\. Security of Your Personal Data
+
 SAP is committed to protecting the Personal Data you share with us. SAP uses a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Data from unauthorized access, use or disclosure. SAP supports online security using secure server technology because we want your data to be safe. There are state-of-the-art security arrangements and facilities on SAP sites to prevent abuse.
 
 We bind our employees and data processors to observe your privacy and confidentiality rights.
@@ -157,7 +181,8 @@ We communicate with users who subscribe to our services on a regular basis via e
 
 With regard to marketing related types of communication (i.e. emails and phone calls), SAP will (i) where legally required only provide you with such information after you have granted your opt-in and (ii) provide you the opportunity to exercise an opt-out choice if you do not want to receive further marketing related types of communication from us. The opt-out choice may be exercised, depending on the respective SAP group web offering:
 
-a. SAP SE, local SAP affiliates, Hybris and Ariba: http://www.sap.com/profile/unsubscribe.epx
+a. SAP SE, local SAP affiliates, Hybris and Ariba: <http://www.sap.com/profile/unsubscribe.html>  
+
 
 b. SuccessFactors: if you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by emailing your request to unsubscribe here: [webmaster@sap.com](mailto:webmaster@sap.com). Users of SuccessFactors Recruiting Marketing (RMK) may elect not to receive future communications. If you are a registered User, please open the email you received from RMK and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [webmaster@sap.com](mailto:webmaster@sap.com).
 
@@ -167,11 +192,15 @@ SAP will not retain your Personal Data longer than is necessary to fulfill the p
 
 Back to Top
 
+##  11\. Inquiries, Access and Updating Your Personal Data
+
 SAP needs your help in keeping the Personal Data you have shared with us accurate and up to date. If you are a registered user, you may make these updates yourself online via www.sap.com/profile. You may also make these updates or other changes by sending an email to [webmaster@SAP.com](mailto:webmaster@sap.com).
 
 If you have any other questions about this Privacy Statement or if you wish to inspect the Personal Data we hold about you, please contact: Webmaster: [webmaster@sap.com](mailto:webmaster@sap.com)
 
 Back to Top
+
+##  12\. US-Specific Provisions
 
 To the extent that SAP is subject to US privacy requirements, the below applies in addition:
 
@@ -185,6 +214,8 @@ We do not intend for our websites or online services to be used by anyone under 
 
 Back to Top
 
+##  13\. Russia-Specific Provisions
+
 The below applies to users residing in the Russian Federation:
 
 The services hereunder are not intended for use by the citizens of the Russian Federation, who reside in Russia. If you are a Russian citizen residing in Russia, you are hereby notified, that any Personal Data that you input into the services will be solely at your own risk and responsibility, you explicitly agree that SAP may accumulate your Personal Data and will process this data in the US and in other countries and that you will not hold SAP accountable for any potential non-observance of the Russian Federation legislation.
@@ -192,4 +223,10 @@ The services hereunder are not intended for use by the citizens of the Russian F
 Back to Top
 
 Revised and posted as of July 25, 2016  
+
+
+**Back to top**
+
+
+
 
