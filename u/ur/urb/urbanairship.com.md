@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanairship.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325010711id_/https%3A//www.urbanairship.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanairship.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623132942id_/https%3A//www.urbanairship.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Urban Airship
 
