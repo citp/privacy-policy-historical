@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreenexus.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112104925id_/http%3A//portal.degreenexus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreenexus.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623131504id_/http%3A//portal.degreenexus.com/privacy) for the most accurate reproduction.*
 
 # List of Online Degree Colleges, Online Degree Programs, Online Degree Colleges
 
