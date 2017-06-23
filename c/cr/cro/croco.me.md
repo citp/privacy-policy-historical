@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the croco.me privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211123324id_/http%3A//www.croco.me/privacy-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the croco.me privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624015552id_/http%3A//croco.me/privacy-policies.html) for the most accurate reproduction.*
 
 # CROCO! SHORTEN LINKS AND EARN MONEY | PRIVACY POLICIES
 
