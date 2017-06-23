@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingtwinks.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012090425id_/http%3A//www.amazingtwinks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingtwinks.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623130906id_/http%3A//www.amazingtwinks.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
