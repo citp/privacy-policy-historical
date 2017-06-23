@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2freshers.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405021023id_/http%3A//way2freshers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2freshers.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623182704id_/http%3A//way2freshers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Way 2 Freshers
 
