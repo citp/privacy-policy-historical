@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excitesubmit.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013340id_/http%3A//www.excitesubmit.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excitesubmit.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623143623id_/http%3A//www.excitesubmit.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -64,4 +64,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 ExciteSubmit  
 <http://www.excitesubmit.com/html/contact.html>
 
-This document was last updated on Oct, 19, 2015
+This document was last updated on Oct, 19, 2017
