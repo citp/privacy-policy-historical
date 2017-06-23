@@ -1,33 +1,83 @@
-> *The following text is extracted and transformed from the tisu.com.gh privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221155219id_/http%3A//www.tisu.com.gh/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tisu.com.gh privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623225148id_/http%3A//pulse.com.gh/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | General
+# Privacy Policy - How We Respect Your Privacy | Pulse.com.gh
 
-##  Privacy Policy 
+Privacy Policy
 
-**1\. Types of information we collect** : You agree that we may electronically collect, store and/or use the following of your information:  
-1.1. name and surname, birth date ("Personal Details");  
-1.2. e-mail address, physical address, mobile number, and credit card billing address ("Contact Details");  
-1.3. the credit card number, cardholder name and expiration date you submit to us in respect of your credit card(s) ("Card Details");  
-1.4. internet usage information, including your Internet Protocol address ("IP Address"), browsing habits, click patterns, unique user ID, version of software installed, system type, screen resolutions, colour capabilities, plug-ins, language settings, cookie preferences, search engine keywords, JavaScript enablement, the content and pages that you access on the Website, and the dates and times that you visit the Website, paths taken, and time spent on sites and pages within the Website and Platform ("Usage Details"); and  
-1.5. additional information you may provide on a voluntary basis, such as demographic information or information related to your favourite social networking site (eg. the site name, address and description), or information relating to your participation in competitions, promotions, surveys, and/or additional services ("Optional Details").
+pulse.com.gh knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-**2\. How we collect information:** Tisu collects the aforesaid information from you in the following manner:  
-2.1. User-provided Information: You provide certain of the aforesaid information directly to us as follows:  
-? Your Personal Details and Contact Details are provided by you during your registration for a User Account and/or thereafter by your having actively updated or supplemented your details.  
-? your Card Details will provided by you each time you purchase a Coupon on the Website.  
-? Optional Details may be submitted by you to us if you decide to upload or download certain content (or products) from the Website, enter competitions, take advantage of promotions, respond to surveys, register and subscribe for certain additional services, or otherwise use the optional features and functionality of the Website.  
-2.2. "Cookies" Information: When you access the Website, we may send one or more cookies (small text files containing a string of alphanumeric characters) to your computer to collect certain Usage Details. Tisu may use both session cookies (which disappears after you close your browser) and persistent cookies (which remain after you close your browser which can be removed manually) and may be used by your browser on subsequent visits to the Website. Please note that the use of cookies is standard on the internet and many major websites use them. Please review your web browser "Help" file to learn more about modifying your cookie settings. Note: Some of our business partners (e.g. advertisers) use cookies on our Website. We have no access to or control over these cookies. This clause covers the use of cookies by Tisu only and does not cover the use of cookies by any advertisers.  
-2.3. Other tracking technology: When you access the Website or open one of our HTML emails, certain Usage Details may be automatically collected and recorded by us from your system by using different types of tracking technology.  
-2.4. Web Beacons: Our Website may contain electronic image requests (called a "single-pixel gif" or "web beacon" request) that allow us to count page views and to access cookies. Any electronic image viewed as part of a web page (including an ad banner) can act as a web beacon. Web beacons are typically 1-by-1 pixel files (so small that you would likely not realize that they are there), but their presence can usually be seen within a browser by clicking on "View" and then on "Source." We may also include web beacons in HTML-formatted newsletters that we send to opt-in subscribers in order to count how many newsletters have been read. Tisu web beacons do not collect, gather, monitor or share any personally identifiable information about you, they are just the technique we use to compile anonymous information about the Website and Service usage.
+This Privacy Policy covers pulse.com.ghës treatment of personal information that pulse.com.gh gathers when you are on the pulse.com.gh website and when you use pulse.com.gh services. This policy does not apply to the practices of third parties that pulse.com.gh does not own or control, or to individuals that pulse.com.gh does not employ or manage.
 
-**3\. The purposes for which we collects the information:** Tisu uses the information that you provide (or that we collect) to operate, maintain, enhance, and provide all of the features and Services, to allow us to track user-generated content and Users to the extent necessary to comply with all applicable laws. Tisu uses all of the information collected to understand the usage trends and preferences of our Users, to improve the way the Website or Services work and look, and to create new features and functionality. More specifically:  
-3.1. We use your Card Details only in order to process your purchase of a Coupon. It is important to note that we do not store your Card Details at all, which is why you must re-enter such details every time you make a purchase on the Website.  
-3.2. We use your Personal Details to greet you when you access your User Account, to manage and administer your use of the Services and fulfill our contractual obligations. More specifically, you acknowledge and agree that your full names and contact number if relevant may be disclosed to Merchants from whom you have purchased Coupons in order to enable you to redeem the relevant Products and to facilitate communication between you in relation to your redemption of the Coupons.  
-3.3. We use your Contact Details to verify your identity and to inform you of facts relating to your use of the Services (eg. notifications regarding major updates or content you have posted or downloaded from the Website, customer service notifications, and to address copyright infringement or defamation issues) as well as to inform you, subject to obtaining your prior consent, of competitions, promotions and special offers form us and/or our partners and/or affiliates. We use your email address to be able to deliver Coupons to you. We may also provide your email address and physical address details to Merchants from whom you have purchased Coupons, to the extent necessary in order to enable you to redeem the relevant Products (eg: where Products are to be delivered to you) and/or to facilitate communication between you in relation to your redemption of the Coupons.  
-3.4. We may use your Usage Details to:  
-? remember your information so that you will not have to re-enter it during your visit or the next time you access the Website;  
-? monitor aggregate Website usage metrics such as total number of visitors and pages accessed; and  
-? track your entries, submissions, and status in any promotions or other activities in connection with your usage of the Website.  
-3.5. We may use any Optional Details provided by you for such purposes as indicated to you at the time you agree to provide such Optional Details.
+Information Collected by pulse.com.gh
 
-**4\. Opt-Out Policy:** To opt out of marketing or promotional emails, please either click unsubscribe in the body of the email communication, email [info@tisu.com.gh](mailto:info@tisu.com.gh)  from the subscribed email address or go to www.tisu.com.gh  and use the contact us form to request removal. We will endeavor to remove you from our subscription list within 2 working days after your request.
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Pulse.n users:
+
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
+
+2\. Automatic Information:
+
+o We receive and store certain types of information whenever you interact with us. pulse.com.gh and its authorized agents automatically receive and record certain ìtraffic dataî on their server logs from your browser including your IP address, pulse.com.gh cookie information, and the page you requested. pulse.com.gh uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+
+pulse.com.gh may collect and, on any page, display the total counts that page has been viewed.
+
+Many companies offer programs that help you to visit websites anonymously. While pulse.com.gh will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
+
+E-mail Communications
+
+pulse.com.gh is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the ìSharing Your Informationî section below. pulse.com.gh may send out e-mails with pulse.com.gh -related news, products, offers, surveys or promotions.
+
+Cookies
+
+Cookies are alphanumeric identifiers that we transfer to your computerís hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. pulse.com.gh cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+
+The ìhelpî portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of pulse.com.ghës coolest features.
+
+pulse.com.gh is advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-Aís privacy policy and opt-out page.
+
+Sharing Your Information
+
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+
+pulse.com.gh Personnel: pulse.com.gh personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of pulse.com.gh business.
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if pulse.com.gh, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+
+Protection of pulse.com.gh and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of pulse.com.gh, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+Syndication: pulse.com.gh allows for the RSS syndication of all of its public content within the pulse.com.gh website.
+
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+
+Children Under 18 Years of Age
+
+You must be 13 years and older to register to use the pulse.com.gh website. As a result, pulse.com.gh does not specifically collect information about children. If we learn that pulse.com.gh has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parentsí permission before using pulse.com.gh or sending information about themselves or anyone else over the Internet.
+
+Changes to this Privacy Policy
+
+pulse.com.gh may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the pulse.com.gh website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+Conditions of Use
+
+If you decide to visit pulse.com.gh website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Republic of Ghanaís Laws.
+
+Pulse.com.gh  is a product of Ringier Ghana
+
+Address
+
+74 Boundary Road, Opposite East Legon SHELL Fuel Station,
+
+American House Road,
+
+East Legon - Accra,
+
+Ghana.
+
+Phone
+
++233 269 192 933
+
++233 302 960 494
+
+Email
+
+info@pulse.com.gh
