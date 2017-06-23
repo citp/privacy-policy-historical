@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the mypartyplanner.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115141919id_/http%3A//www.mypartyplanner.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypartyplanner.com privacy policy that was archived on 2017-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170623150925id_/http%3A//www.mypartyplanner.com/privacy.html) for the most accurate reproduction.*
 
 # My Party Planner - Privacy Policy
 
   
 |   
 |  |    
-  
+
+
   
 |   
 |  |  This Privacy Policy governs the manner in which MyPartyPlanner.com LLC collects, uses, maintains and discloses information collected from Members of this Web site (each, a "Member").   
@@ -61,6 +62,7 @@ Members may direct questions concerning this Privacy Policy by e-mail to [admin@
 Updated:01/07  
   
   |   
+  
    
 ---  
 SEARCH BY COMPANY NAME - [A](https://web.archive.org/search/party_supplies_A1.html "A party rental - A party store - A party supplies - A wedding planners") [B](https://web.archive.org/search/party_supplies_B1.html "B party rental - B party store - B party supplies - B wedding planners") [C](https://web.archive.org/search/party_supplies_C1.html "C party rental - C party store - C party supplies - C wedding planners") [D](https://web.archive.org/search/party_supplies_D1.html "D party rental - D party store - D party supplies - D wedding planners") [E](https://web.archive.org/search/party_supplies_E1.html "E party rental - E party store - E party supplies - E wedding planners") [F](https://web.archive.org/search/party_supplies_F1.html "F party rental - F party store - F party supplies - F wedding planners") [G](https://web.archive.org/search/party_supplies_G1.html "G party rental - G party store - G party supplies - G wedding planners") [H](https://web.archive.org/search/party_supplies_H1.html "H party rental - H party store - H party supplies - H wedding planners") [I](https://web.archive.org/search/party_supplies_I1.html "I party rental - I party store - I party supplies - I wedding planners") [J](https://web.archive.org/search/party_supplies_J1.html "J party rental - J party store - J party supplies - J wedding planners") [K](https://web.archive.org/search/party_supplies_K1.html "K party rental - K party store - K party supplies - K wedding planners") [L](https://web.archive.org/search/party_supplies_L1.html "L party rental - L party store - L party supplies - L wedding planners") [M](https://web.archive.org/search/party_supplies_M1.html "M party rental - M party store - M party supplies - M wedding planners") [N](https://web.archive.org/search/party_supplies_N1.html "N party rental - N party store - N party supplies - N wedding planners") [O](https://web.archive.org/search/party_supplies_O1.html "O party rental - O party store - O party supplies - O wedding planners") [P](https://web.archive.org/search/party_supplies_P1.html "P party rental - P party store - P party supplies - P wedding planners") [Q](https://web.archive.org/search/party_supplies_Q1.html "Q party rental - Q party store - Q party supplies - Q wedding planners") [R](https://web.archive.org/search/party_supplies_R1.html "R party rental - R party store - R party supplies - R wedding planners") [S](https://web.archive.org/search/party_supplies_S1.html "S party rental - S party store - S party supplies - S wedding planners") [T](https://web.archive.org/search/party_supplies_T1.html "T party rental - T party store - T party supplies - T wedding planners") [U](https://web.archive.org/search/party_supplies_U1.html "U party rental - U party store - U party supplies - U wedding planners") [V](https://web.archive.org/search/party_supplies_V1.html "V party rental - V party store - V party supplies - V wedding planners") [W](https://web.archive.org/search/party_supplies_W1.html "W party rental - W party store - W party supplies - W wedding planners") [X](https://web.archive.org/search/party_supplies_X1.html "X party rental - X party store - X party supplies - X wedding planners") [Y](https://web.archive.org/search/party_supplies_Y1.html "Y party rental - Y party store - Y party supplies - Y wedding planners") [Z](https://web.archive.org/search/party_supplies_Z1.html "Z party rental - Z party store - Z party supplies - Z wedding planners")  
