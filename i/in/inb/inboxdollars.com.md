@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050033id_/http%3A//inboxdollars.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065615id_/http%3A//www.inboxdollars.com/pages/privacy) for the most accurate reproduction.*
 
 # Earn Cash Online: Privacy Policy - InboxDollars
 
-  * ### My Sweeps  60 
+  * ### My Sweeps  0 
 
     * You do not have any recently earned sweeps.
 
@@ -113,10 +113,6 @@ After a User has logged into the InboxDollars® Member’s Section, Cookies and 
   5. #### Location (Geo) Tracking
 
 From time to time, InboxDollars® may permit Members to participate in activities, or provide offers, that involve use of location tracking / geo-tracking technology, that will share the physical location of a Member’s computer or mobile device. For example, we may contract with a market research firm that would track a Member’s physical location through geo-tracking / mobile technology for market research purposes. A Member may choose to opt-out or opt-in to this experience and offer. If the individual opts-in, the Member agrees to permit location-tracking, and also may be required to agree to the terms of service of such third party. If a Member opts-in to location (geo) tracking, InboxDollars® may then share such information with any/all the third parties with whom it does business that request such information. 
-
-  6. #### Survey Serving Technology – Mobile App
-
-The InboxDollars® app uses Pollfish SDK. Pollfish is an on-line survey platform, through which, anyone may conduct surveys. Pollfish collaborates with developers of applications for smartphones in order to have access to users of such applications and address survey questionnaires to them. When a user connects to this app, a specific set of user’s device data (including Advertising ID which will may be processed by Pollfish only in strict compliance with Google Play policies- and/or other device data) and response meta-data (including information about the apps which the user has installed on theirmobile phone) is automatically sent to Pollfish servers, in order for Pollfish to discern whether the user is eligible for a survey. For a full list of data received by Pollfish through this app, please read carefully Pollfish respondent terms located at <https://www.pollfish.com/terms/respondent>. This data will be associated with your answers to the questionnaires whenever Pollfish sends these surveys to eligible users. By downloading the application, you accept this privacy policy document and you hereby give your consent for the processing by Pollfish of the aforementioned data. Furthermore, you are informed that you may disable Pollfish operation at any time by using the Pollfish “opt out section” available on Pollfish website. We invite you to check the respondent’s terms of use, if you wish to have more detailed view of the way Pollfish works. 
 
 
 
