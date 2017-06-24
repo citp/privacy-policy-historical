@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the shopbop.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229062352id_/https%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopbop.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624080019id_/https%3A//www.shopbop.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D73957197174%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="a-ws a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition" data-aui-build-date="3.16.8.16-2016-10-05"><head><script async="" src="https://images-na.ssl-images-amazon.com/images/G/01/csminstrumentation/ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js"></script>
+<!DOCTYPE html><html lang="en" class="a-ws a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition" data-aui-build-date="3.17.1.6-2017-02-06"><head><script async="" src="https://images-na.ssl-images-amazon.com/images/G/01/csminstrumentation/ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js"></script>
 		<script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
 		
             <script src="//cdn.optimizely.com/js/2002000414.js"></script>
@@ -11,19 +11,25 @@
   <script type="text/javascript">
     if ( window.ue && window.ue.tag ) {
         window.ue.tag('cc_US', window.ue.main_scope);
-        window.ue.tag('', window.ue.main_scope);
-        window.ue.tag('cc_US:', window.ue.main_scope);
+        window.ue.tag('ci', window.ue.main_scope);
+        window.ue.tag('cc_US:ci', window.ue.main_scope);
         window.ue.tag(window.location.pathname, window.ue.main_scope);
     }
   </script>
   <script type="text/javascript">
       var bopCSM = {
           csmAvailable: typeof window.uet === 'function',
-          pageType: '',
+          pageType: 'ci',
           setCSMProp:   function (method, prop, key) {
             if (this.csmAvailable) {
                 window[method](prop, key, {wb:1});
             }
+          },
+          fireAjaxMarker: function(marker, scope){
+              if(this.csmAvailable){
+                  window.uet( marker, scope );
+                  window.uex( "ld", scope );
+              }
           },
           fireMarker:  function (marker) {
               if(this.csmAvailable) {
@@ -88,49 +94,13 @@
                 }
             }
           },
-          sbBrowsePageATF: function (elementId,querySelector,imageCount){
-            var i,
-                image,
-                images,
-                numberOfCompleteImages = 0,
-                imageContainer = document.getElementById(elementId);
-
-          if (!imageContainer || !this.csmAvailable) {
-              return;
-          }
-
-          images = imageContainer.querySelectorAll(querySelector);
-
-          for (i = 0; i < images.length && i < imageCount; i++) {
-              image = images[i];
-
-              if (!image) {
-                  continue;
-              }
-
-              image.onload = function () {
-                  window.uet('af');
-              };
-
-              if (image.complete) {
-                  numberOfCompleteImages++;
-              }
-          }
-
-          if (numberOfCompleteImages === imageCount) {
-              window.uet('af');
-          }
-      }
     };
 
     //Adding this function for backwards compatability, so that we can push out without breaking the page.
-    function setCSMProp(method, prop, key){
-        bopCSM.setCSMProp(method,prop,key);
+    function setCSMProp(method, prop, key) {
+        bopCSM.setCSMProp(method, prop, key);
     }
 
-    function csmSbBrowsePageATF (elementId, querySelector, imageCount){
-        bopCSM.sbBrowsePageATF(elementId, querySelector, imageCount);
-    }
     function csmAllImagesLoaded(elementId, querySelector, csmWidgetName){
         bopCSM.allImagesLoaded(elementId, querySelector, csmWidgetName);
     }
@@ -180,7 +150,7 @@ window.ue_t0 = t0_date.getTime();
 var headerCountryCode = 'US';
 var chosenLanguageCode = 'en';
 var s_account = "amznshopbopprod";
-var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod","authType":"anonymous"},"attributes":{"pixelUrl":"https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p","country":"US","language":"en","currency":"USD","brand":"womens","platform":"www"},"category":{"primaryCategory":"privacypolicy"}}} ;
+var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod","authType":"anonymous"},"attributes":{"pixelUrl":"https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p","country":"US","language":"en","currency":"USD","brand":"womens","platform":"www"},"category":{"primaryCategory":"privacypolicy"}}};
 //--></script>
 
 
@@ -199,7 +169,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 </script>
 
 
-    <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/css/3073c72a8af559a454d7c5a762aea67b719b1c49efb4581adff1e2939b6ea0f7.css" type="text/css">
+    <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/css/a018eafcca8c599e84da5305d3a40cd95b2534fcf3c4b7ff7d491baddbd93fb5.css" type="text/css">
 
 
 <script type="text/javascript">
@@ -214,7 +184,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
     
     
-    	<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/js/07caf0eb8db8d255565fa645d409bc7d8bf2cf5b1b8769c290673e6d9535e8c6.js" type="text/javascript"></script>
+    	<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/js/c8b13907c8e2eaa96cec634119e7a2f37fc8235f4b6669f7a457d7384041a089.js" type="text/javascript"></script>
     
 
 
@@ -227,7 +197,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
     bopCSM.setCSMProp('uet', 'bb', 'dtmJavaScript');
 </script>
 
-<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/dtm/js/43/b2698c39d61437537d0b9151f218ccf38b2a6d46/satelliteLib-2cb957f37942ca921559b8e4082736efd6358c9e.js" type="text/javascript"></script>
+<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/dtm/js/52a/b2698c39d61437537d0b9151f218ccf38b2a6d46/satelliteLib-2cb957f37942ca921559b8e4082736efd6358c9e.js" type="text/javascript"></script>
 
 <script type="text/javascript">
     bopCSM.setCSMProp('uex', 'ld', 'dtmJavaScript');
@@ -247,8 +217,8 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 	<body id="top" data-lang="en" data-country="US" data-currency="USD" data-locale="en-US">
 		
-		<div id="visitid" style="display:none;" data-visitid="73440174400">73440174400</div>
-		<div id="seqnum" style="display:none;" data-seqnum="602">602</div>
+		<div id="visitid" style="display:none;" data-visitid="74596726851">74596726851</div>
+		<div id="seqnum" style="display:none;" data-seqnum="639">639</div>
 		<div id="availableMessage" style="display:none;">Only #{qta} left.</div>
 		
 		
@@ -271,7 +241,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
     </a>
       </li>
   <li class="domain">
-    <a class="link" href="https://www.eastdane.com/#cs=ov=73440174400,os=602,link=eastDaneDomainHeader" data-at="mensLink">
+    <a class="link" href="https://www.eastdane.com/#cs=ov=74596726851,os=639,link=eastDaneDomainHeader" data-at="mensLink">
       shop men's
     </a>
           
@@ -279,7 +249,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 
 
-<a href="https://www.eastdane.com/#cs=ov=73440174400,os=602,link=eastDaneDomainHeader" class="domain-hover">
+<a href="https://www.eastdane.com/#cs=ov=74596726851,os=639,link=eastDaneDomainHeader" class="domain-hover">
   <div class="uppercase intro-text">
     Shop Men's Fashion at
   </div>
@@ -306,7 +276,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
       <a href="/actions/loginPageAction.action" rel="nofollow" class="login-top-link ${loginVisibilityClass}" data-at="logInLink">
         SIGN IN / REGISTER
       </a>
-                        <a class="location-link" href="/actions/i18n/shoppingPreferences.action?returnToUrl=%2Fci%2FaboutShopBop%2Fprivacypolicy.html&amp;returnToHash=a741fa1dff3778e8ebfa285e744f7d31">
+                        <a class="location-link" href="/actions/i18n/shoppingPreferences.action?returnToUrl=%2Fci%2FaboutShopBop%2Fprivacypolicy.html&amp;returnToHash=8d89ae4d2cb59cbcc5163e70771cb833">
                   
 
 
@@ -315,22 +285,24 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 .sui-country-flag{position:relative;top:2px;margin:0 .5em 0 1.5em}
 </style>
 <script>
-(function(q,t,u,b){function l(a,c){F&&F.count&&F.count("aui:"+a,0===c?0:c||(F.count("aui:"+a)||0)+1)}function k(a){try{return a.test(navigator.userAgent)}catch(c){return!1}}function h(a,c,b){a.addEventListener?a.addEventListener(c,b,!1):a.attachEvent&&a.attachEvent("on"+c,b)}function g(a,c,b,d){c=c&&b?c+a+b:c||b;return d?g(a,c,d):c}function f(a,c,b){try{Object.defineProperty(a,c,{value:b,writable:!1})}catch(d){a[c]=b}return b}function e(){return setTimeout(L,0)}function m(a,c){var b=a.length,d=b,
-f=function(){d--||(I.push(c),J||(e(),J=!0))};for(f();b--;)B[a[b]]?f():(K[a[b]]=K[a[b]]||[]).push(f)}function d(a,c,b,d){var e=t.createElement(a?"script":"link");h(e,"error",d);if(a){e.type="text/javascript";e.async=!0;if(a=b)a=-1!==c.indexOf("images/I")||/AUIClients/.test(c);a&&e.setAttribute("crossorigin","anonymous");e.src=c}else e.rel="stylesheet",e.href=c;t.getElementsByTagName("head")[0].appendChild(e)}function a(a,c){return function(b){function e(){d(c,b,f,function(c){p?l("resource_unload"):
-f?(f=!1,l("resource_retry"),e()):(l("resource_error"),a.log("Asset failed to load: "+b));c&&c.stopPropagation?c.stopPropagation():q.event&&(q.event.cancelBubble=!0)})}if(M[b])return!1;M[b]=!0;l("resource_count");var f=!0;return!e()}}function c(a){for(var c=[],b=0;b<a.length;b++)c[b]=S[a[b]];return c}function n(a,d,e,f,h){return function(k,l){function n(){var a=null;f?a=l:"function"===typeof l&&(w.start=H(),a=l.apply(q,c(p)),w.end=H());if(d){S[k]=a;a=k;for(B[a]=!0;(K[a]||[]).length;)K[a].shift()();
-delete K[a]}w.done=!0}var r=h||this;"function"===typeof k&&(l=k,k=b);d&&(k=(k||"__NONAME__").replace(/^prv:/,""),S.hasOwnProperty(k)&&r.error(g(" @ ","Component already registered",k),k),S[k]=b);for(var p=[],t=0;t<a.length;t++)p[t]=a[t].replace(/^prv:/,"");var w=Y[k]={depend:p,registered:H()};e?n():m(p,r.guardFatal(k,n))}}function r(a){return function(){return{execute:n(arguments,!1,a,!1,this),register:n(arguments,!0,a,!1,this)}}}function w(a,c){return function(d,e){e||(e=d,d=b);return function(){la.push({attribution:a,
-name:d,logLevel:c});var b=e.apply(this,arguments);la.pop();return b}}}function y(c,b){this.logError=function(a,b,d,e){return q.ueLogError?(b={message:b,logLevel:d||"ERROR",attribution:g(":",c,e)},q.ueLogError(a||b,a?b:null),!0):!1};this.error=function(a,b,d,e){a=Error(g(":",e,a,d));a.attribution=g(":",c,b);throw a;};this.guardError=w(c);this.guardFatal=w(c,"FATAL");this.load={js:a(this,!0),css:a(this)};f(this,"namespace",b)}function v(){t.body?da.trigger("a-bodyBegin"):setTimeout(v,20)}function x(a,
-c){if(c){for(var b=a.className.split(" "),d=b.length;d--;)if(b[d]===c)return;a.className+=" "+c}}function A(a,c){for(var d=a.className.split(" "),e=[],f;(f=d.pop())!==b;)f&&f!==c&&e.push(f);a.className=e.join(" ")}function z(a){try{return a()}catch(c){return!1}}function C(){if(ba){var a=q.innerWidth?{w:q.innerWidth,h:q.innerHeight}:{w:ma.clientWidth,h:ma.clientHeight},c=!1;5<Math.abs(a.w-ua.w)||50<a.h-ua.h?(ua=a,ra=4,(c=na.mobile||na.tablet?a.w>a.h:1250<=a.w)?x(ma,"a-ws"):A(ma,"a-ws")):ra--&&(Da=
-setTimeout(C,16))}}function E(a){(ba=a===b?!ba:!!a)&&C()}function D(){return ba}var G=q.AmazonUIPageJS||q.P;if(G&&G.when&&G.register)throw Error("A copy of P has already been loaded on this page.");var F=q.ue;F&&F.tag&&(F.tag("aui"),F.tag("aui:aui_build_date:3.16.8.16-2016-10-05"));var H=u.now=u.now||function(){return+new u},I=[],J=!1,L;L=function(){for(var a=e(),c=H();I.length;)if(I.shift()(),50<H()-c)return;clearTimeout(a);J=!1};k(/OS 6_[0-9]+ like Mac OS X/i)&&h(q,"scroll",e);var B=
-{},K={},M={},p=!1;h(q,"beforeunload",function(){p=!0;setTimeout(function(){p=!1},1E4)});var S={},Y={},la=[],sa=q.onerror;q.onerror=function(a,c,d,e,f){f&&"object"===typeof f||(f=Error(a,c,d),f.columnNumber=e,f.stack=c||d||e?g(String.fromCharCode(92),f.message,"at "+g(":",c,d,e)):b);var h=la.pop()||{};f.attribution=g(":",f.attribution||h.attribution,h.name);f.logLevel=h.logLevel;f.attribution&&console&&console.log&&console.log([f.logLevel||"ERROR",a,"thrown by",f.attribution].join(" "));la=[];sa&&
-(h=[].slice.call(arguments),h[4]=f,sa.apply(q,h))};y.prototype={log:function(a,c,b){return this.logError(null,a,c,b)},declare:n([],!0,!0,!0),register:n([],!0),execute:n([]),AUI_BUILD_DATE:"3.16.8.16-2016-10-05",when:r(),now:r(!0),trigger:function(a,c){var b=H();this.declare(a,{data:c,pageElapsedTime:b-(q.aPageStart||NaN),triggerTime:b})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new y(a)},_namespace:function(a,c){return new y(a,c)}};var da=
-f(q,"AmazonUIPageJS",new y);da._namespace("PageJS","AmazonUI").declare("prv:p-debug",Y);da.declare("p-recorder-events",[]);da.declare("p-recorder-stop",function(){});f(q,"P",da);v();if(t.addEventListener){var aa;t.addEventListener("DOMContentLoaded",aa=function(){da.trigger("a-domready");t.removeEventListener("DOMContentLoaded",aa,!1)},!1)}var ma=t.documentElement,ga=function(){var a=["O","ms","Moz","Webkit"],c=t.createElement("div");return{testGradients:function(){c.style.cssText=("background-image:-webkit-gradient(linear,left top,right bottom,from(#9f9),to(white));background-image:"+
-a.join("linear-gradient(left top,#9f9, white);background-image:")).slice(0,-17);return-1<c.style.backgroundImage.indexOf("gradient")},test:function(b){var d=b.charAt(0).toUpperCase()+b.substr(1);b=(a.join(d+" ")+d+" "+b).split(" ");for(d=b.length;d--;)if(""===c.style[b[d]])return!0;return!1},testTransform3d:function(){var a=!1;q.matchMedia&&(a=q.matchMedia("(-webkit-transform-3d)").matches);return a}}}(),G=ma.className,qa=/(^| )a-mobile( |$)/.test(G),xa=/(^| )a-tablet( |$)/.test(G),na={audio:function(){return!!t.createElement("audio").canPlayType},
-video:function(){return!!t.createElement("video").canPlayType},canvas:function(){return!!t.createElement("canvas").getContext},svg:function(){return!!t.createElementNS&&!!t.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},dragDrop:function(){return"draggable"in t.createElement("span")},geolocation:function(){return!!navigator.geolocation},history:function(){return!(!q.history||
-!q.history.pushState)},webworker:function(){return!!q.Worker},autofocus:function(){return"autofocus"in t.createElement("input")},inputPlaceholder:function(){return"placeholder"in t.createElement("input")},textareaPlaceholder:function(){return"placeholder"in t.createElement("textarea")},localStorage:function(){return"localStorage"in q&&null!==q.localStorage},orientation:function(){return"orientation"in q},touch:function(){return"ontouchend"in t},gradients:function(){return ga.testGradients()},hires:function(){var a=
-q.devicePixelRatio&&1.5<=q.devicePixelRatio||q.matchMedia&&q.matchMedia("(min-resolution:144dpi)").matches;l("hiRes"+(qa?"Mobile":xa?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return ga.testTransform3d()},touchScrolling:function(){return k(/Windowshop|android.([3-9]|[L-Z])|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},ios:function(){return k(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)},android:function(){return k(/android.([1-9]|[L-Z])/i)&&
-!k(/trident/i)},mobile:function(){return qa},tablet:function(){return xa}},O;for(O in na)na.hasOwnProperty(O)&&(na[O]=z(na[O]));for(var Z="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),U=0;U<Z.length;U++)na[Z[U]]=z(function(){return ga.test(Z[U])});var ba=!0,Da=0,ua={w:0,h:0},ra=4;C();h(q,"resize",function(){clearTimeout(Da);ra=4;C()});A(ma,"a-no-js");x(ma,"a-js");!k(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||q.navigator.standalone||k(/safari/i)||x(ma,
-"a-ember");na.localStorage&&x(ma,localStorage.getItem("a-skin-font-class"));G=[];for(O in na)na.hasOwnProperty(O)&&na[O]&&G.push("a-"+O.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));x(ma,G.join(" "));ma.setAttribute("data-aui-build-date","3.16.8.16-2016-10-05");da.register("p-detect",function(){return{capabilities:na,toggleResponsiveGrid:E,responsiveGridEnabled:D}});da.declare("a-event-revised-handling",!1)})(window,document,Date);
+(function(f,h,H,t){function u(a,b){n&&n.count&&n.count("aui:"+a,0===b?0:b||(n.count("aui:"+a)||0)+1)}function p(a){try{return a.test(navigator.userAgent)}catch(b){return!1}}function v(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function q(a,b,c,e){b=b&&c?b+a+c:b||c;return e?q(a,b,e):b}function y(a,b,c){try{Object.defineProperty(a,b,{value:c,writable:!1})}catch(e){a[b]=c}return c}function I(){return setTimeout(U,0)}function ja(a,b){var c=a.length,e=c,
+g=function(){e--||(J.push(b),K||(I(),K=!0))};for(g();c--;)V[a[c]]?g():(w[a[c]]=w[a[c]]||[]).push(g)}function ka(a,b,c,e,g){var d=h.createElement(a?"script":"link");v(d,"error",e);g&&v(d,"load",g);if(a){d.type="text/javascript";d.async=!0;if(a=c)a=-1!==b.indexOf("images/I")||/AUIClients/.test(b);a&&d.setAttribute("crossorigin","anonymous");d.src=b}else d.rel="stylesheet",d.href=b;h.getElementsByTagName("head")[0].appendChild(d)}function W(a,b){return function(c,e){function g(){ka(b,c,d,function(b){L?
+u("resource_unload"):d?(d=!1,u("resource_retry"),g()):(u("resource_error"),a.log("Asset failed to load: "+c));b&&b.stopPropagation?b.stopPropagation():f.event&&(f.event.cancelBubble=!0)},e)}if(X[c])return!1;X[c]=!0;u("resource_count");var d=!0;return!g()}}function la(a,b,c){for(var e={name:a,guard:function(c){return b.guardFatal(a,c)},logError:function(c,d,e){b.logError(c,d,e,a)}},g=[],d=0;d<c.length;d++)z.hasOwnProperty(c[d])&&(g[d]=M.hasOwnProperty(c[d])?M[c[d]](z[c[d]],e):z[c[d]]);return g}function x(a,
+b,c,e,g){return function(d,h){function l(){var a=null;e?a=h:"function"===typeof h&&(p.start=N(),a=h.apply(f,la(d,k,m)),p.end=N());if(b){z[d]=a;a=d;for(V[a]=!0;(w[a]||[]).length;)w[a].shift()();delete w[a]}p.done=!0}var k=g||this;"function"===typeof d&&(h=d,d=void 0);b&&(d=(d||"__NONAME__").replace(/^prv:/,""),O.hasOwnProperty(d)&&k.error(q(", reregistered by ",q(" by ",d+" already registered",O[d]),k.attribution),d),O[d]=k.attribution);for(var m=[],n=0;n<a.length;n++)m[n]=a[n].replace(/^prv:/,"");
+var p=Y[d||"anon"+ ++ma]={depend:m,registered:N(),namespace:k.namespace};c?l():ja(m,k.guardFatal(d,l));return{decorate:function(a){M[d]=k.guardFatal(d,a)}}}}function Z(a){return function(){return{execute:x(arguments,!1,a,!1,this),register:x(arguments,!0,a,!1,this)}}}function aa(a){return function(b,c){c||(c=b,b=void 0);var e=this.attribution;return function(){A.push({attribution:e,name:b,logLevel:a});var g=c.apply(this,arguments);A.pop();return g}}}function B(a,b){this.load={js:W(this,!0),css:W(this)};
+y(this,"namespace",b);y(this,"attribution",a)}function ba(){h.body?m.trigger("a-bodyBegin"):setTimeout(ba,20)}function C(a,b){if(b){for(var c=a.className.split(" "),e=c.length;e--;)if(c[e]===b)return;a.className+=" "+b}}function ca(a,b){for(var c=a.className.split(" "),e=[],g;void 0!==(g=c.pop());)g&&g!==b&&e.push(g);a.className=e.join(" ")}function da(a){try{return a()}catch(b){return!1}}function D(){if(E){var a=f.innerWidth?{w:f.innerWidth,h:f.innerHeight}:{w:k.clientWidth,h:k.clientHeight};5<Math.abs(a.w-
+P.w)||50<a.h-P.h?(P=a,Q=4,(a=l.mobile||l.tablet?450<a.w&&a.w>a.h:1250<=a.w)?C(k,"a-ws"):ca(k,"a-ws")):Q--&&(ea=setTimeout(D,16))}}function na(a){(E=void 0===a?!E:!!a)&&D()}function oa(){return E}"use strict";t=f.AmazonUIPageJS||f.P;var n=f.ue;n&&n.tag&&(n.tag("aui"),n.tag("aui:aui_build_date:3.17.1.6-2017-02-06"));var F=H.now=H.now||function(){return+new H},N=function(a){return a&&a.now?a.now.bind(a):F}(f.performance),J=[],K=!1,U;U=function(){for(var a=I(),b=F();J.length;)if(J.shift()(),50<F()-b)return;
+clearTimeout(a);K=!1};p(/OS 6_[0-9]+ like Mac OS X/i)&&v(f,"scroll",I);var V={},w={},X={},L=!1;v(f,"beforeunload",function(){L=!0;setTimeout(function(){L=!1},1E4)});var O={},z={},M={},Y={},ma=0,R,A=[],fa=f.onerror;f.onerror=function(a,b,c,e,g){g&&"object"===typeof g||(g=Error(a,b,c),g.columnNumber=e,g.stack=b||c||e?q(String.fromCharCode(92),g.message,"at "+q(":",b,c,e)):void 0);var d=A.pop()||{};g.attribution=q(":",g.attribution||d.attribution,d.name);g.logLevel=d.logLevel;g.attribution&&console&&
+console.log&&console.log([g.logLevel||"ERROR",a,"thrown by",g.attribution].join(" "));A=[];fa&&(d=[].slice.call(arguments),d[4]=g,fa.apply(f,d))};B.prototype={logError:function(a,b,c,e){b={message:b,logLevel:c||"ERROR",attribution:q(":",this.attribution,e)};if(f.ueLogError)return f.ueLogError(a||b,a?b:null),!0;console&&console.error&&(console.log(b),console.error(a));return!1},error:function(a,b,c,e){a=Error(q(":",e,a,c));a.attribution=q(":",this.attribution,b);throw a;},guardError:aa(),guardFatal:aa("FATAL"),
+log:function(a,b,c){return this.logError(null,a,b,c)},declare:x([],!0,!0,!0),register:x([],!0),execute:x([]),AUI_BUILD_DATE:"3.17.1.6-2017-02-06",when:Z(),now:Z(!0),trigger:function(a,b,c){var e=F();this.declare(a,{data:b,pageElapsedTime:e-(f.aPageStart||NaN),triggerTime:e});c&&c.instrument&&R.when("prv:a-logTrigger").execute(function(b){b(a)})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new B(a)},_namespace:function(a,b){return new B(a,b)}};
+var m=y(f,"AmazonUIPageJS",new B);R=m._namespace("PageJS","AmazonUI");R.declare("prv:p-debug",Y);m.declare("p-recorder-events",[]);m.declare("p-recorder-stop",function(){});y(f,"P",m);ba();if(h.addEventListener){var ga;h.addEventListener("DOMContentLoaded",ga=function(){m.trigger("a-domready");h.removeEventListener("DOMContentLoaded",ga,!1)},!1)}var k=h.documentElement,S=function(){var a=["O","ms","Moz","Webkit"],b=h.createElement("div");return{testGradients:function(){b.style.cssText=("background-image:-webkit-gradient(linear,left top,right bottom,from(#9f9),to(white));background-image:"+
+a.join("linear-gradient(left top,#9f9, white);background-image:")).slice(0,-17);return-1<b.style.backgroundImage.indexOf("gradient")},test:function(c){var e=c.charAt(0).toUpperCase()+c.substr(1);c=(a.join(e+" ")+e+" "+c).split(" ");for(e=c.length;e--;)if(""===b.style[c[e]])return!0;return!1},testTransform3d:function(){var a=!1;f.matchMedia&&(a=f.matchMedia("(-webkit-transform-3d)").matches);return a}}}();t=k.className;var ha=/(^| )a-mobile( |$)/.test(t),ia=/(^| )a-tablet( |$)/.test(t),l={audio:function(){return!!h.createElement("audio").canPlayType},
+video:function(){return!!h.createElement("video").canPlayType},canvas:function(){return!!h.createElement("canvas").getContext},svg:function(){return!!h.createElementNS&&!!h.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},dragDrop:function(){return"draggable"in h.createElement("span")},geolocation:function(){return!!navigator.geolocation},history:function(){return!(!f.history||
+!f.history.pushState)},webworker:function(){return!!f.Worker},autofocus:function(){return"autofocus"in h.createElement("input")},inputPlaceholder:function(){return"placeholder"in h.createElement("input")},textareaPlaceholder:function(){return"placeholder"in h.createElement("textarea")},localStorage:function(){return"localStorage"in f&&null!==f.localStorage},orientation:function(){return"orientation"in f},touch:function(){return"ontouchend"in h},gradients:function(){return S.testGradients()},hires:function(){var a=
+f.devicePixelRatio&&1.5<=f.devicePixelRatio||f.matchMedia&&f.matchMedia("(min-resolution:144dpi)").matches;u("hiRes"+(ha?"Mobile":ia?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return S.testTransform3d()},touchScrolling:function(){return p(/Windowshop|android.([3-9]|[L-Z])|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},ios:function(){return p(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)&&!p(/trident|Edge/i)},android:function(){return p(/android.([1-9]|[L-Z])/i)&&
+!p(/trident|Edge/i)},mobile:function(){return ha},tablet:function(){return ia}},r;for(r in l)l.hasOwnProperty(r)&&(l[r]=da(l[r]));for(var T="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),G=0;G<T.length;G++)l[T[G]]=da(function(){return S.test(T[G])});var E=!0,ea=0,P={w:0,h:0},Q=4;D();v(f,"resize",function(){clearTimeout(ea);Q=4;D()});var pa={getItem:function(a){try{return f.localStorage.getItem(a)}catch(b){}},setItem:function(a,b){try{return f.localStorage.setItem(a,
+b)}catch(c){}}};ca(k,"a-no-js");C(k,"a-js");!p(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||f.navigator.standalone||p(/safari/i)||C(k,"a-ember");t=[];for(r in l)l.hasOwnProperty(r)&&l[r]&&t.push("a-"+r.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));C(k,t.join(" "));k.setAttribute("data-aui-build-date","3.17.1.6-2017-02-06");m.register("p-detect",function(){return{capabilities:l,localStorage:l.localStorage&&pa,toggleResponsiveGrid:na,responsiveGridEnabled:oa}});m.declare("a-event-revised-handling",
+!1);m.declare("a-fix-event-off",!1)})(window,document,Date);
 </script>
 
 
@@ -357,6 +329,18 @@ q.devicePixelRatio&&1.5<=q.devicePixelRatio||q.matchMedia&&q.matchMedia("(min-re
 				bopCSM.setCSMProp('uex', 'ld', 'globalBar');
 			</script>
 		
+		
+
+			<script type="text/javascript">
+				bopCSM.setCSMProp('uet', 'bb', 'globalNav');
+			</script>
+
+			
+
+			<script type="text/javascript">
+				bopCSM.setCSMProp('uex', 'ld', 'globalNav');
+			</script>
+		
 		<div id="siteContainer" class="page-container">
 			<header class=" clearfix page-header">
 				<style type="text/css">
@@ -379,7 +363,7 @@ q.devicePixelRatio&&1.5<=q.devicePixelRatio||q.matchMedia&&q.matchMedia("(min-re
 
 
     
-  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=73440174400,os=602,link=headerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping and FREE returns
+  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=74596726851,os=639,link=headerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping and FREE returns
 Amazon Prime eligible">
           FREE 3-day shipping and FREE returns<br>
 Amazon Prime eligible
@@ -395,12 +379,12 @@ Amazon Prime eligible
     </a>
   </div>
   <div class="login-container g4">
-    <form id="searchForm" class="search-form clearfix" method="get" name="searchForm" action="/actions/viewSearchResultsAction.action">
-      <input class="arrow-right" type="submit" name="searchButton">
-      <input id="searchKeywords" class="search" type="text" name="query" placeholder="Search" autocomplete="off">
-      <input type="hidden" id="searchSuggestion" name="searchSuggestion" value="false">
-    </form>
-  </div>
+          <form id="searchForm" class="search-form clearfix" method="get" name="searchForm" action="/actions/viewSearchResultsAction.action">
+        <input class="arrow-right" type="submit" name="searchButton">
+        <input id="searchKeywords" class="search" type="text" name="query" placeholder="Search" autocomplete="off">
+        <input type="hidden" id="searchSuggestion" name="searchSuggestion" value="false">
+      </form>
+      </div>
 </div>
 
 				<script type="text/javascript">
@@ -410,47 +394,119 @@ Amazon Prime eligible
 					<ul id="navList" class="inline-navigation">
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/whats-new/br/v=1/2534374302029428.htm" data-cs-name="what'snew" data-at="what'snew">
+        <a class="parent topnav-logged-in " href="/whats-new/br/v=1/13198.htm" data-cs-name="what'snew" data-at="what'snew">
       What's New
     </a>
-    <a class="parent topnav-logged-out " href="/whats-new/br/v=1/2534374302029428.htm" data-cs-name="what'snew" style="display: none">
+    <a class="parent topnav-logged-out " href="/whats-new/br/v=1/13198.htm" data-cs-name="what'snew" style="display: none">
       What's New
     </a>
     <span class="nolink">What's New</span>
         <ul id="submenu1" class="subnav">
             <li class="subnav-item">
-        <a href="/whats-new/br/v=1/2534374302029428.htm" class=" link" data-cs-name="what'snew-shopall" data-at="shopall">
+        <a href="/whats-new/br/v=1/13198.htm" class=" link" data-cs-name="what'snew-shopall" data-at="shopall">
            Shop All
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/whats-new-clothing/br/v=1/2534374302155172.htm" class=" link" data-cs-name="what'snew-clothing" data-at="clothing">
+        <a href="/whats-new-clothing/br/v=1/13243.htm" class=" link" data-cs-name="what'snew-clothing" data-at="clothing">
            Clothing
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/whats-new-shoes/br/v=1/2534374302090411.htm" class=" link" data-cs-name="what'snew-shoes" data-at="shoes">
+        <a href="/whats-new-shoes/br/v=1/13199.htm" class=" link" data-cs-name="what'snew-shoes" data-at="shoes">
            Shoes
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/whats-new-bags/br/v=1/2534374302090393.htm" class=" link" data-cs-name="what'snew-bags" data-at="bags">
+        <a href="/whats-new-bags/br/v=1/13209.htm" class=" link" data-cs-name="what'snew-bags" data-at="bags">
            Bags
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/whats-new-accessories/br/v=1/2534374302090405.htm" class=" link" data-cs-name="what'snew-accessories" data-at="accessories">
+        <a href="/whats-new-accessories/br/v=1/13224.htm" class=" link" data-cs-name="what'snew-accessories" data-at="accessories">
            Accessories
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/whats-new-designer-boutique/br/v=1/2534374302180211.htm" class=" link" data-cs-name="what'snew-designerboutique" data-at="designerboutique">
+        <a href="/whats-new-designer-boutique/br/v=1/13261.htm" class=" link" data-cs-name="what'snew-designerboutique" data-at="designerboutique">
            Designer Boutique
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/special-top-sellers/br/v=1/2534374302073392.htm" class="promoItem link" data-cs-name="what'snew-${01}" data-at="${01}">
+        <a href="/back-in-stock/br/v=1/50578.htm" class=" link" data-cs-name="what'snew-backinstock" data-at="backinstock">
+           Back In Stock
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/new-today/br/v=1/50579.htm" class=" link" data-cs-name="what'snew-newtoday" data-at="newtoday">
+           New Today
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/special-top-sellers/br/v=1/13055.htm" class="promoItem link" data-cs-name="what'snew-${01}" data-at="${01}">
            <img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/frag/dropdown/navdrop_whatsnew_topsellers_1-0.gif">
+        </a>
+      </li>
+          </ul>
+      </li>
+    <li class="navCategory nav-item">
+    
+        <a class="parent topnav-logged-in " href="/ci/4/lp/trends-boutique.html" data-cs-name="springtrends" data-at="springtrends">
+      Spring Trends
+    </a>
+    <a class="parent topnav-logged-out " href="/ci/4/lp/trends-boutique.html" data-cs-name="springtrends" style="display: none">
+      Spring Trends
+    </a>
+    <span class="nolink">Spring Trends</span>
+        <ul id="submenu2" class="subnav">
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-pretty-pink/br/v=1/33225.htm" class=" link" data-cs-name="springtrends-prettyinpink" data-at="prettyinpink">
+           Pretty in Pink
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/spring-trends-tailor-made/br/v=1/13874.htm" class=" link" data-cs-name="springtrends-tailormade" data-at="tailormade">
+           Tailor Made
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-all-day-lingerie/br/v=1/48943.htm" class=" link" data-cs-name="springtrends-all-daylingerie" data-at="all-daylingerie">
+           All-Day Lingerie
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-modern-americana/br/v=1/13871.htm" class=" link" data-cs-name="springtrends-modernamericana" data-at="modernamericana">
+           Modern Americana
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-new-romantics/br/v=1/13872.htm" class=" link" data-cs-name="springtrends-newromantics" data-at="newromantics">
+           New Romantics
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-socal-cool/br/v=1/13879.htm" class=" link" data-cs-name="springtrends-socalcool" data-at="socalcool">
+           SoCal Cool
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-embellished-sandals/br/v=1/41662.htm" class=" link" data-cs-name="springtrends-embellishedsandals" data-at="embellishedsandals">
+           Embellished Sandals
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-soft-shoulder-bags/br/v=1/13876.htm" class=" link" data-cs-name="springtrends-softshoulderbags" data-at="softshoulderbags">
+           Soft Shoulder Bags
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-tinted-glasses/br/v=1/13873.htm" class=" link" data-cs-name="springtrends-tintedglasses" data-at="tintedglasses">
+           Tinted Glasses
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/boutiques-trend-boutique-statement-earring/br/v=1/13875.htm" class=" link" data-cs-name="springtrends-thestatementearring" data-at="thestatementearring">
+           The Statement Earring
         </a>
       </li>
           </ul>
@@ -464,29 +520,29 @@ Amazon Prime eligible
       Designers
     </a>
     <span class="nolink">Designers</span>
-        <ul id="submenu2" class="subnav">
+        <ul id="submenu3" class="subnav">
             <li class="subnav-item">
-        <a href="/actions/designerindex/viewAlphabeticalDesigners.action?folderID=2534374302167373" class=" link" data-cs-name="designers-designersa-z" data-at="designersa-z">
+        <a href="/actions/designerindex/viewAlphabeticalDesigners.action?folderID=14229" class=" link" data-cs-name="designers-designersa-z" data-at="designersa-z">
            Designers A-Z
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/designerindex/viewAllDesigners.action?folderID=2534374302158867" class=" link" data-cs-name="designers-designersbycategory" data-at="designersbycategory">
+        <a href="/actions/designerindex/viewAllDesigners.action?folderID=14231" class=" link" data-cs-name="designers-designersbycategory" data-at="designersbycategory">
            Designers by Category
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/designerindex/viewNewDesigners.action?folderID=2534374302158868" class=" link" data-cs-name="designers-newthisseason" data-at="newthisseason">
+        <a href="/actions/designerindex/viewNewDesigners.action?folderID=14232" class=" link" data-cs-name="designers-newthisseason" data-at="newthisseason">
            New This Season
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/exclusives/br/v=1/2534374302025517.htm" class=" link" data-cs-name="designers-designerexclusives" data-at="designerexclusives">
+        <a href="/exclusives/br/v=1/13049.htm" class=" link" data-cs-name="designers-designerexclusives" data-at="designerexclusives">
            Designer Exclusives
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/designers/myShopbopViewMyDesigners.action?folderID=2534374302171318" class=" link" data-cs-name="designers-mydesignerindex" data-at="mydesignerindex">
+        <a href="/actions/designers/myShopbopViewMyDesigners.action?folderID=14230" class=" link" data-cs-name="designers-mydesignerindex" data-at="mydesignerindex">
            My Designer Index
         </a>
       </li>
@@ -501,7 +557,7 @@ Amazon Prime eligible
       Boutiques
     </a>
     <span class="nolink">Boutiques</span>
-        <ul id="submenu3" class="subnav">
+        <ul id="submenu4" class="subnav">
             <li class="subnav-item">
         <a href="/ci/4/lp/designer-boutique.html" class=" link" data-cs-name="boutiques-designerboutique" data-at="designerboutique">
            Designer Boutique
@@ -518,7 +574,7 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/boutique-editors-picks/br/v=1/2534374302205719.htm" class=" link" data-cs-name="boutiques-editors'picks" data-at="editors'picks">
+        <a href="/boutique-editors-picks/br/v=1/13942.htm" class=" link" data-cs-name="boutiques-editors'picks" data-at="editors'picks">
            Editors' Picks
         </a>
       </li>
@@ -528,13 +584,8 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/gifts/br/v=1/2534374302207750.htm" class=" link" data-cs-name="boutiques-gifts" data-at="gifts">
+        <a href="/boutiques-gifts/br/v=1/13885.htm" class=" link" data-cs-name="boutiques-gifts" data-at="gifts">
            Gifts
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/ci/4/lp/trends-boutique.html" class=" link" data-cs-name="boutiques-trendboutique" data-at="trendboutique">
-           Trend Boutique
         </a>
       </li>
             <li class="subnav-item">
@@ -543,7 +594,7 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/one/br/v=1/2534374302182521.htm" class=" link" data-cs-name="boutiques-onebyboutique" data-at="onebyboutique">
+        <a href="/one/br/v=1/10658.htm" class=" link" data-cs-name="boutiques-onebyboutique" data-at="onebyboutique">
            ONE by Boutique
         </a>
       </li>
@@ -551,87 +602,82 @@ Amazon Prime eligible
       </li>
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/clothing/br/v=1/2534374302155112.htm" data-cs-name="clothing" data-at="clothing">
+        <a class="parent topnav-logged-in " href="/clothing/br/v=1/13266.htm" data-cs-name="clothing" data-at="clothing">
       Clothing
     </a>
-    <a class="parent topnav-logged-out " href="/clothing/br/v=1/2534374302155112.htm" data-cs-name="clothing" style="display: none">
+    <a class="parent topnav-logged-out " href="/clothing/br/v=1/13266.htm" data-cs-name="clothing" style="display: none">
       Clothing
     </a>
     <span class="nolink">Clothing</span>
-        <ul id="submenu4" class="subnav">
+        <ul id="submenu5" class="subnav">
             <li class="subnav-item">
-        <a href="/clothing/br/v=1/2534374302155112.htm" class=" link" data-cs-name="clothing-shopall" data-at="shopall">
+        <a href="/clothing/br/v=1/13266.htm" class=" link" data-cs-name="clothing-shopall" data-at="shopall">
            Shop All
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-activewear/br/v=1/2534374302053051.htm" class=" link" data-cs-name="clothing-activewear" data-at="activewear">
+        <a href="/clothing-activewear/br/v=1/13331.htm" class=" link" data-cs-name="clothing-activewear" data-at="activewear">
            Activewear
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-dresses/br/v=1/2534374302063518.htm" class=" link" data-cs-name="clothing-dresses" data-at="dresses">
+        <a href="/clothing-dresses/br/v=1/13351.htm" class=" link" data-cs-name="clothing-dresses" data-at="dresses">
            Dresses
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-jackets-coats/br/v=1/2534374302066271.htm" class=" link" data-cs-name="clothing-jackets/coats" data-at="jackets/coats">
+        <a href="/clothing-jackets-coats/br/v=1/13414.htm" class=" link" data-cs-name="clothing-jackets/coats" data-at="jackets/coats">
            Jackets / Coats
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-jeans/br/v=1/2534374302064814.htm" class=" link" data-cs-name="clothing-jeans" data-at="jeans">
+        <a href="/clothing-jeans/br/v=1/13377.htm" class=" link" data-cs-name="clothing-jeans" data-at="jeans">
            Jeans
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-jumpsuits-rompers/br/v=1/2534374302034081.htm" class=" link" data-cs-name="clothing-jumpsuits/rompers" data-at="jumpsuits/rompers">
+        <a href="/clothing-jumpsuits-rompers/br/v=1/13267.htm" class=" link" data-cs-name="clothing-jumpsuits/rompers" data-at="jumpsuits/rompers">
            Jumpsuits / Rompers
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-lingerie-sleepwear/br/v=1/2534374302049464.htm" class=" link" data-cs-name="clothing-lingerie/sleepwear" data-at="lingerie/sleepwear">
+        <a href="/clothing-lingerie-sleepwear/br/v=1/13269.htm" class=" link" data-cs-name="clothing-lingerie/sleepwear" data-at="lingerie/sleepwear">
            Lingerie / Sleepwear
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-maternity/br/v=1/2534374302172178.htm" class=" link" data-cs-name="clothing-maternity" data-at="maternity">
+        <a href="/clothing-maternity/br/v=1/13435.htm" class=" link" data-cs-name="clothing-maternity" data-at="maternity">
            Maternity
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-pants-leggings/br/v=1/2534374302024611.htm" class=" link" data-cs-name="clothing-pants/leggings" data-at="pants/leggings">
+        <a href="/clothing-pants-leggings/br/v=1/13281.htm" class=" link" data-cs-name="clothing-pants/leggings" data-at="pants/leggings">
            Pants / Leggings
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-shorts/br/v=1/2534374302024684.htm" class=" link" data-cs-name="clothing-shorts" data-at="shorts">
+        <a href="/clothing-shorts/br/v=1/13297.htm" class=" link" data-cs-name="clothing-shorts" data-at="shorts">
            Shorts
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-skirts/br/v=1/2534374302024619.htm" class=" link" data-cs-name="clothing-skirts" data-at="skirts">
+        <a href="/clothing-skirts/br/v=1/13302.htm" class=" link" data-cs-name="clothing-skirts" data-at="skirts">
            Skirts
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-sweaters-knits/br/v=1/2534374302024636.htm" class=" link" data-cs-name="clothing-sweaters/knits" data-at="sweaters/knits">
+        <a href="/clothing-sweaters-knits/br/v=1/13317.htm" class=" link" data-cs-name="clothing-sweaters/knits" data-at="sweaters/knits">
            Sweaters / Knits
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-swimwear/br/v=1/2534374302024726.htm" class=" link" data-cs-name="clothing-swimwear" data-at="swimwear">
+        <a href="/clothing-swimwear/br/v=1/13311.htm" class=" link" data-cs-name="clothing-swimwear" data-at="swimwear">
            Swimwear
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/clothing-tops/br/v=1/2534374302060562.htm" class=" link" data-cs-name="clothing-tops" data-at="tops">
+        <a href="/clothing-tops/br/v=1/13332.htm" class=" link" data-cs-name="clothing-tops" data-at="tops">
            Tops
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/clothing-vests/br/v=1/2534374302196580.htm" class=" link" data-cs-name="clothing-vests" data-at="vests">
-           Vests
         </a>
       </li>
             <li class="subnav-item">
@@ -643,26 +689,26 @@ Amazon Prime eligible
       </li>
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/shoes/br/v=1/2534374302024643.htm" data-cs-name="shoes" data-at="shoes">
+        <a class="parent topnav-logged-in " href="/shoes/br/v=1/13438.htm" data-cs-name="shoes" data-at="shoes">
       Shoes
     </a>
-    <a class="parent topnav-logged-out " href="/shoes/br/v=1/2534374302024643.htm" data-cs-name="shoes" style="display: none">
+    <a class="parent topnav-logged-out " href="/shoes/br/v=1/13438.htm" data-cs-name="shoes" style="display: none">
       Shoes
     </a>
     <span class="nolink">Shoes</span>
-        <ul id="submenu5" class="subnav">
+        <ul id="submenu6" class="subnav">
             <li class="subnav-item">
-        <a href="/shoes/br/v=1/2534374302024643.htm" class=" link" data-cs-name="shoes-shopall" data-at="shopall">
+        <a href="/shoes/br/v=1/13438.htm" class=" link" data-cs-name="shoes-shopall" data-at="shopall">
            Shop All
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-booties/br/v=1/2534374302112431.htm" class=" link" data-cs-name="shoes-booties" data-at="booties">
+        <a href="/shoes-booties/br/v=1/13468.htm" class=" link" data-cs-name="shoes-booties" data-at="booties">
            Booties
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-boots/br/v=1/2534374302112432.htm" class=" link" data-cs-name="shoes-boots" data-at="boots">
+        <a href="/shoes-boots/br/v=1/13460.htm" class=" link" data-cs-name="shoes-boots" data-at="boots">
            Boots
         </a>
       </li>
@@ -672,12 +718,22 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-flats/br/v=1/2534374302112436.htm" class=" link" data-cs-name="shoes-flats" data-at="flats">
+        <a href="/shoes-espadrilles/br/v=1/13487.htm" class=" link" data-cs-name="shoes-espadrilles" data-at="espadrilles">
+           Espadrilles
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/shoes-flats/br/v=1/13455.htm" class=" link" data-cs-name="shoes-flats" data-at="flats">
            Flats
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-pumps/br/v=1/2534374302112441.htm" class=" link" data-cs-name="shoes-pumps" data-at="pumps">
+        <a href="/shoes-mules-slides/br/v=1/13499.htm" class=" link" data-cs-name="shoes-mules/slides" data-at="mules/slides">
+           Mules / Slides
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/shoes-pumps/br/v=1/13449.htm" class=" link" data-cs-name="shoes-pumps" data-at="pumps">
            Pumps
         </a>
       </li>
@@ -687,18 +743,13 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-sandals/br/v=1/2534374302112442.htm" class=" link" data-cs-name="shoes-sandals" data-at="sandals">
+        <a href="/shoes-sandals/br/v=1/13441.htm" class=" link" data-cs-name="shoes-sandals" data-at="sandals">
            Sandals
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-sneakers/br/v=1/2534374302112446.htm" class=" link" data-cs-name="shoes-sneakers" data-at="sneakers">
+        <a href="/shoes-sneakers/br/v=1/13439.htm" class=" link" data-cs-name="shoes-sneakers" data-at="sneakers">
            Sneakers
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shoes-wedges/br/v=1/13479.htm" class=" link" data-cs-name="shoes-wedges" data-at="wedges">
-           Wedges
         </a>
       </li>
             <li class="subnav-item">
@@ -712,151 +763,141 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shoes-designer-boutique/br/v=1/2534374302124543.htm" class=" link" data-cs-name="shoes-designerboutique" data-at="designerboutique">
+        <a href="/shoes-designer-boutique/br/v=1/13476.htm" class=" link" data-cs-name="shoes-designerboutique" data-at="designerboutique">
            Designer Boutique
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/ci/4/lp/shoe-trends.html" class=" link" data-cs-name="shoes-shoetrends" data-at="shoetrends">
-           Shoe Trends
+        <a href="/shoes-trend-ballet-flats/br/v=1/13485.htm" class=" link" data-cs-name="shoes-trend:balletflats" data-at="trend:balletflats">
+           Trend: Ballet Flats
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/shoes-trend-80s-redux/br/v=1/33281.htm" class=" link" data-cs-name="shoes-trend:'80sredux" data-at="trend:'80sredux">
+           Trend: '80s Redux
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/shoes-trend-embellished-slides/br/v=1/13478.htm" class=" link" data-cs-name="shoes-trend:embellishedslides" data-at="trend:embellishedslides">
+           Trend: Embellished Slides
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/shoes-trend-modern-minimalist/br/v=1/13482.htm" class=" link" data-cs-name="shoes-trend:modernminimalist" data-at="trend:modernminimalist">
+           Trend: Modern Minimalist
         </a>
       </li>
           </ul>
       </li>
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/bags/br/v=1/2534374302024667.htm" data-cs-name="bags" data-at="bags">
+        <a class="parent topnav-logged-in " href="/bags/br/v=1/13505.htm" data-cs-name="bags" data-at="bags">
       Bags
     </a>
-    <a class="parent topnav-logged-out " href="/bags/br/v=1/2534374302024667.htm" data-cs-name="bags" style="display: none">
+    <a class="parent topnav-logged-out " href="/bags/br/v=1/13505.htm" data-cs-name="bags" style="display: none">
       Bags
     </a>
     <span class="nolink">Bags</span>
-        <ul id="submenu6" class="subnav">
+        <ul id="submenu7" class="subnav">
             <li class="subnav-item">
-        <a href="/bags/br/v=1/2534374302024667.htm" class=" link" data-cs-name="bags-shopall" data-at="shopall">
+        <a href="/bags/br/v=1/13505.htm" class=" link" data-cs-name="bags-shopall" data-at="shopall">
            Shop All
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-baby/br/v=1/2534374302087713.htm" class=" link" data-cs-name="bags-babybags" data-at="babybags">
+        <a href="/bags-spring/br/v=1/41401.htm" class=" link" data-cs-name="bags-springitbags" data-at="springitbags">
+           Spring It Bags
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/bags-baby/br/v=1/13516.htm" class=" link" data-cs-name="bags-babybags" data-at="babybags">
            Baby Bags
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-backpacks/br/v=1/2534374302055388.htm" class=" link" data-cs-name="bags-backpacks" data-at="backpacks">
+        <a href="/bags-backpacks/br/v=1/13512.htm" class=" link" data-cs-name="bags-backpacks" data-at="backpacks">
            Backpacks
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-beach/br/v=1/2534374302145731.htm" class=" link" data-cs-name="bags-beachbags" data-at="beachbags">
+        <a href="/bags-beach/br/v=1/13521.htm" class=" link" data-cs-name="bags-beachbags" data-at="beachbags">
            Beach Bags
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-black-handbags/br/v=1/2534374302121072.htm" class=" link" data-cs-name="bags-blackhandbags" data-at="blackhandbags">
+        <a href="/bags-black-handbags/br/v=1/13519.htm" class=" link" data-cs-name="bags-blackhandbags" data-at="blackhandbags">
            Black Handbags
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-bucket/br/v=1/36613.htm" class=" link" data-cs-name="bags-bucketbags" data-at="bucketbags">
-           Bucket Bags
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/bags-camera/br/v=1/13528.htm" class=" link" data-cs-name="bags-camerabags" data-at="camerabags">
-           Camera Bags
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/bags-clutches/br/v=1/2534374302055387.htm" class=" link" data-cs-name="bags-clutches" data-at="clutches">
+        <a href="/bags-clutches/br/v=1/13511.htm" class=" link" data-cs-name="bags-clutches" data-at="clutches">
            Clutches
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-cosmetic-pouches/br/v=1/2534374302055383.htm" class=" link" data-cs-name="bags-cosmeticpouches" data-at="cosmeticpouches">
-           Cosmetic Pouches
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/bags-cross-body/br/v=1/2534374302055380.htm" class=" link" data-cs-name="bags-crossbodybags" data-at="crossbodybags">
+        <a href="/bags-cross-body/br/v=1/13513.htm" class=" link" data-cs-name="bags-crossbodybags" data-at="crossbodybags">
            Cross Body Bags
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-hobos/br/v=1/2534374302150411.htm" class=" link" data-cs-name="bags-hobos" data-at="hobos">
-           Hobos
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/bags-luggage/br/v=1/2534374302055381.htm" class=" link" data-cs-name="bags-luggage" data-at="luggage">
+        <a href="/bags-luggage/br/v=1/13506.htm" class=" link" data-cs-name="bags-luggage" data-at="luggage">
            Luggage
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-mini/br/v=1/13518.htm" class=" link" data-cs-name="bags-minibags" data-at="minibags">
-           Mini Bags
+        <a href="/bags-satchels-top-handles/br/v=1/13524.htm" class=" link" data-cs-name="bags-satchels&amp;tophandles" data-at="satchels&amp;tophandles">
+           Satchels &amp; Top Handles
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-saddle/br/v=1/43421.htm" class=" link" data-cs-name="bags-saddlebags" data-at="saddlebags">
-           Saddle Bags
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/bags-satchels/br/v=1/2534374302178457.htm" class=" link" data-cs-name="bags-satchels" data-at="satchels">
-           Satchels
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/bags-shoulder/br/v=1/2534374302055384.htm" class=" link" data-cs-name="bags-shoulderbags" data-at="shoulderbags">
+        <a href="/bags-shoulder/br/v=1/13509.htm" class=" link" data-cs-name="bags-shoulderbags" data-at="shoulderbags">
            Shoulder Bags
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-totes/br/v=1/2534374302055237.htm" class=" link" data-cs-name="bags-totes" data-at="totes">
+        <a href="/bags-totes/br/v=1/13507.htm" class=" link" data-cs-name="bags-totes" data-at="totes">
            Totes
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-wallets/br/v=1/2534374302056128.htm" class=" link" data-cs-name="bags-wallets" data-at="wallets">
+        <a href="/bags-wallets/br/v=1/13514.htm" class=" link" data-cs-name="bags-wallets" data-at="wallets">
            Wallets
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-bag-accessories/br/v=1/38701.htm" class=" link" data-cs-name="bags-bagaccessories" data-at="bagaccessories">
-           Bag Accessories
+        <a href="/bags-bag-accessories-pouches/br/v=1/38701.htm" class=" link" data-cs-name="bags-bagaccessories&amp;pouches" data-at="bagaccessories&amp;pouches">
+           Bag Accessories &amp; Pouches
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/bags-designer-boutique/br/v=1/2534374302124036.htm" class=" link" data-cs-name="bags-designerboutique" data-at="designerboutique">
+        <a href="/bags-designer-boutique/br/v=1/13520.htm" class=" link" data-cs-name="bags-designerboutique" data-at="designerboutique">
            Designer Boutique
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/bags-trend-global-eclectic/br/v=1/41401.htm" class=" link" data-cs-name="bags-trend:globaleclectic" data-at="trend:globaleclectic">
-           Trend: Global Eclectic
         </a>
       </li>
           </ul>
       </li>
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/accessories/br/v=1/2534374302024641.htm" data-cs-name="accessories" data-at="accessories">
+        <a class="parent topnav-logged-in " href="/accessories/br/v=1/13539.htm" data-cs-name="accessories" data-at="accessories">
       Accessories
     </a>
-    <a class="parent topnav-logged-out " href="/accessories/br/v=1/2534374302024641.htm" data-cs-name="accessories" style="display: none">
+    <a class="parent topnav-logged-out " href="/accessories/br/v=1/13539.htm" data-cs-name="accessories" style="display: none">
       Accessories
     </a>
     <span class="nolink">Accessories</span>
-        <ul id="submenu7" class="subnav">
+        <ul id="submenu8" class="subnav">
             <li class="subnav-item">
-        <a href="/accessories/br/v=1/2534374302024641.htm" class=" link" data-cs-name="accessories-shopall" data-at="shopall">
+        <a href="/accessories/br/v=1/13539.htm" class=" link" data-cs-name="accessories-shopall" data-at="shopall">
            Shop All
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-jewelry/br/v=1/2534374302024617.htm" class=" link" data-cs-name="accessories-jewelry" data-at="jewelry">
+        <a href="/accessories-pool-party/br/v=1/47933.htm" class=" link" data-cs-name="accessories-poolparty" data-at="poolparty">
+           Pool Party
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/accessories-jewelry/br/v=1/13540.htm" class=" link" data-cs-name="accessories-jewelry" data-at="jewelry">
            Jewelry
         </a>
       </li>
@@ -866,12 +907,12 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-trend-shoulder-dusters/br/v=1/13583.htm" class=" link" data-cs-name="accessories-trend:shoulderdusters" data-at="trend:shoulderdusters">
-           Trend: Shoulder Dusters
+        <a href="/accessories-trend-single-earring/br/v=1/13583.htm" class=" link" data-cs-name="accessories-trend:singleearring" data-at="trend:singleearring">
+           Trend: Single Earring
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-watches/br/v=1/2534374302055823.htm" class=" link" data-cs-name="accessories-watches" data-at="watches">
+        <a href="/accessories-watches/br/v=1/13561.htm" class=" link" data-cs-name="accessories-watches" data-at="watches">
            Watches
         </a>
       </li>
@@ -881,52 +922,52 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-belts/br/v=1/2534374302062844.htm" class=" link" data-cs-name="accessories-belts" data-at="belts">
+        <a href="/accessories-belts/br/v=1/13577.htm" class=" link" data-cs-name="accessories-belts" data-at="belts">
            Belts
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-gloves/br/v=1/2534374302062843.htm" class=" link" data-cs-name="accessories-gloves" data-at="gloves">
+        <a href="/accessories-gloves/br/v=1/13576.htm" class=" link" data-cs-name="accessories-gloves" data-at="gloves">
            Gloves
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-hair/br/v=1/2534374302062842.htm" class=" link" data-cs-name="accessories-hairaccessories" data-at="hairaccessories">
+        <a href="/accessories-hair/br/v=1/13575.htm" class=" link" data-cs-name="accessories-hairaccessories" data-at="hairaccessories">
            Hair Accessories
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-hats/br/v=1/2534374302062819.htm" class=" link" data-cs-name="accessories-hats" data-at="hats">
+        <a href="/accessories-hats/br/v=1/13574.htm" class=" link" data-cs-name="accessories-hats" data-at="hats">
            Hats
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-home-gifts/br/v=1/2534374302197440.htm" class=" link" data-cs-name="accessories-home/gifts" data-at="home/gifts">
+        <a href="/accessories-home-gifts/br/v=1/13587.htm" class=" link" data-cs-name="accessories-home/gifts" data-at="home/gifts">
            Home / Gifts
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-keychains-bag-charms/br/v=1/2534374302062839.htm" class=" link" data-cs-name="accessories-keychains/bagcharms" data-at="keychains/bagcharms">
+        <a href="/accessories-keychains-bag-charms/br/v=1/13567.htm" class=" link" data-cs-name="accessories-keychains/bagcharms" data-at="keychains/bagcharms">
            Keychains / Bag Charms
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-scarves-wraps/br/v=1/2534374302062834.htm" class=" link" data-cs-name="accessories-scarves/wraps" data-at="scarves/wraps">
+        <a href="/accessories-scarves-wraps/br/v=1/13564.htm" class=" link" data-cs-name="accessories-scarves/wraps" data-at="scarves/wraps">
            Scarves / Wraps
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-socks-tights/br/v=1/2534374302072037.htm" class=" link" data-cs-name="accessories-socks/tights" data-at="socks/tights">
+        <a href="/accessories-socks-tights/br/v=1/13578.htm" class=" link" data-cs-name="accessories-socks/tights" data-at="socks/tights">
            Socks / Tights
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-sunglasses-eyewear/br/v=1/2534374302029451.htm" class=" link" data-cs-name="accessories-sunglasses/eyewear" data-at="sunglasses/eyewear">
+        <a href="/accessories-sunglasses-eyewear/br/v=1/13558.htm" class=" link" data-cs-name="accessories-sunglasses/eyewear" data-at="sunglasses/eyewear">
            Sunglasses / Eyewear
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-tech/br/v=1/2534374302062840.htm" class=" link" data-cs-name="accessories-techaccessories" data-at="techaccessories">
+        <a href="/accessories-tech/br/v=1/13568.htm" class=" link" data-cs-name="accessories-techaccessories" data-at="techaccessories">
            Tech Accessories
         </a>
       </li>
@@ -936,17 +977,12 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-umbrellas/br/v=1/2534374302062835.htm" class=" link" data-cs-name="accessories-umbrellas" data-at="umbrellas">
+        <a href="/accessories-umbrellas/br/v=1/13565.htm" class=" link" data-cs-name="accessories-umbrellas" data-at="umbrellas">
            Umbrellas
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/accessories-winter/br/v=1/2534374302207430.htm" class=" link" data-cs-name="accessories-winteraccessories" data-at="winteraccessories">
-           Winter Accessories
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/accessories-designer-boutique/br/v=1/2534374302123250.htm" class=" link" data-cs-name="accessories-designerboutique" data-at="designerboutique">
+        <a href="/accessories-designer-boutique/br/v=1/13582.htm" class=" link" data-cs-name="accessories-designerboutique" data-at="designerboutique">
            Designer Boutique
         </a>
       </li>
@@ -954,46 +990,46 @@ Amazon Prime eligible
       </li>
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/sale/br/v=1/2534374302025763.htm" data-cs-name="sale" data-at="sale">
+        <a class="parent topnav-logged-in " href="/sale/br/v=1/13594.htm" data-cs-name="sale" data-at="sale">
       Sale
     </a>
-    <a class="parent topnav-logged-out " href="/sale/br/v=1/2534374302025763.htm" data-cs-name="sale" style="display: none">
+    <a class="parent topnav-logged-out " href="/sale/br/v=1/13594.htm" data-cs-name="sale" style="display: none">
       Sale
     </a>
     <span class="nolink">Sale</span>
-        <ul id="submenu8" class="subnav">
+        <ul id="submenu9" class="subnav">
             <li class="subnav-item">
-        <a href="/sale/br/v=1/2534374302025763.htm" class=" link" data-cs-name="sale-shopall" data-at="shopall">
+        <a href="/sale/br/v=1/13594.htm" class=" link" data-cs-name="sale-shopall" data-at="shopall">
            Shop All
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-new/br/v=1/2534374302175438.htm" class=" link" data-cs-name="sale-newtosale" data-at="newtosale">
+        <a href="/sale-new/br/v=1/14233.htm" class=" link" data-cs-name="sale-newtosale" data-at="newtosale">
            New to Sale
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shop-category-sale-clothing/br/v=1/2534374302155173.htm" class=" link" data-cs-name="sale-clothing" data-at="clothing">
+        <a href="/shop-category-sale-clothing/br/v=1/15381.htm" class=" link" data-cs-name="sale-clothing" data-at="clothing">
            Clothing
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shop-category-sale-bags/br/v=1/2534374302076306.htm" class=" link" data-cs-name="sale-bags" data-at="bags">
-           Bags
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shop-category-sale-shoes/br/v=1/2534374302076317.htm" class=" link" data-cs-name="sale-shoes" data-at="shoes">
+        <a href="/sale-shoes/br/v=1/15539.htm" class=" link" data-cs-name="sale-shoes" data-at="shoes">
            Shoes
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/shop-category-sale-accessories/br/v=1/2534374302076305.htm" class=" link" data-cs-name="sale-accessories" data-at="accessories">
+        <a href="/shop-category-sale-bags/br/v=1/15355.htm" class=" link" data-cs-name="sale-bags" data-at="bags">
+           Bags
+        </a>
+      </li>
+            <li class="subnav-item">
+        <a href="/sale-accessories/br/v=1/15304.htm" class=" link" data-cs-name="sale-accessories" data-at="accessories">
            Accessories
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-shopbop-designer-boutique/br/v=1/2534374302123476.htm" class=" link" data-cs-name="sale-designerboutique" data-at="designerboutique">
+        <a href="/sale-shopbop-designer-boutique/br/v=1/15538.htm" class=" link" data-cs-name="sale-designerboutique" data-at="designerboutique">
            Designer Boutique
         </a>
       </li>
@@ -1003,32 +1039,32 @@ Amazon Prime eligible
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-20-percent-off/br/v=1/2534374302180310.htm" class=" link" data-cs-name="sale-20%off" data-at="20%off">
+        <a href="/sale-20-percent-off/br/v=1/14052.htm" class=" link" data-cs-name="sale-20%off" data-at="20%off">
            20% Off
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-30-percent-off/br/v=1/2534374302029885.htm" class=" link" data-cs-name="sale-30%off" data-at="30%off">
+        <a href="/sale-30-percent-off/br/v=1/14053.htm" class=" link" data-cs-name="sale-30%off" data-at="30%off">
            30% Off
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-40-percent-off/br/v=1/2534374302207490.htm" class=" link" data-cs-name="sale-40%off" data-at="40%off">
+        <a href="/sale-40-percent-off/br/v=1/14054.htm" class=" link" data-cs-name="sale-40%off" data-at="40%off">
            40% Off
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-50-percent-off/br/v=1/2534374302029886.htm" class=" link" data-cs-name="sale-50%off" data-at="50%off">
+        <a href="/sale-50-percent-off/br/v=1/14055.htm" class=" link" data-cs-name="sale-50%off" data-at="50%off">
            50% Off
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-60-percent-off/br/v=1/2534374302207491.htm" class=" link" data-cs-name="sale-60%off" data-at="60%off">
+        <a href="/sale-60-percent-off/br/v=1/14056.htm" class=" link" data-cs-name="sale-60%off" data-at="60%off">
            60% Off
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/sale-70-percent-off/br/v=1/2534374302029887.htm" class=" link" data-cs-name="sale-70%off&amp;over-finalsale" data-at="70%off&amp;over-finalsale">
+        <a href="/sale-70-percent-off/br/v=1/14057.htm" class=" link" data-cs-name="sale-70%off&amp;over-finalsale" data-at="70%off&amp;over-finalsale">
            70% Off &amp; Over - Final Sale
         </a>
       </li>
@@ -1053,34 +1089,34 @@ Amazon Prime eligible
       My Shopbop
     </a>
     <span class="nolink">My Shopbop</span>
-        <ul id="submenu10" class="subnav">
+        <ul id="submenu11" class="subnav">
             <li class="subnav-item">
-        <a href="/actions/myaccount/myAccountHomePageAction.action?folderID=2534374302158871" class=" link" data-cs-name="myshopbop-account" data-at="account">
+        <a href="/actions/myaccount/myAccountHomePageAction.action?folderID=14240" class=" link" data-cs-name="myshopbop-account" data-at="account">
            Account
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/secure/myaccount/viewOrderHistory.action?folderID=2534374302206110" class=" link" data-cs-name="myshopbop-orders" data-at="orders">
+        <a href="/actions/secure/myaccount/viewOrderHistory.action?folderID=14269" class=" link" data-cs-name="myshopbop-orders" data-at="orders">
            Orders
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/designers/myDesignersBrowseAction.action?folderID=2534374302163191" class=" link" data-cs-name="myshopbop-mydesigners" data-at="mydesigners">
+        <a href="/actions/designers/myDesignersBrowseAction.action?folderID=14258" class=" link" data-cs-name="myshopbop-mydesigners" data-at="mydesigners">
            My Designers
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/hearts/viewHeartedProducts.action?folderID=2534374302166539" class=" link" data-cs-name="myshopbop-my${01}s" data-at="my${01}s">
+        <a href="/actions/hearts/viewHeartedProducts.action?folderID=14265" class=" link" data-cs-name="myshopbop-my${01}s" data-at="my${01}s">
            My <img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/images/lnf3/hearts/red_filled_heart_1-0.png">s
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/reviews/myReviews.action?folderID=2534374302175658" class=" link" data-cs-name="myshopbop-myreviews" data-at="myreviews">
+        <a href="/actions/reviews/myReviews.action?folderID=14251" class=" link" data-cs-name="myshopbop-myreviews" data-at="myreviews">
            My Reviews
         </a>
       </li>
             <li class="subnav-item">
-        <a href="/actions/wishlist/wishlistHome.action?folderID=2534374302159552" class=" link" data-cs-name="myshopbop-mywishlist" data-at="mywishlist">
+        <a href="/actions/wishlist/wishlistHome.action?folderID=14254" class=" link" data-cs-name="myshopbop-mywishlist" data-at="mywishlist">
            My Wish List
         </a>
       </li>
@@ -1320,17 +1356,17 @@ Examples of information you can access easily at the Websites include up-to-date
       Services
     </li>
     <li class="item">
-      <a id="footer-customer-service" href="/ci/aboutShopBop/customerservice.html#cs=ov=73440174400,os=602,link=footerSvcsCustomerService" data-at="customerService">
+      <a id="footer-customer-service" href="/ci/aboutShopBop/customerservice.html#cs=ov=74596726851,os=639,link=footerSvcsCustomerService" data-at="customerService">
         Customer Service
       </a>
     </li>
     <li class="item">
-      <a href="/actions/giftCertificatePageAction.action#cs=ov=73440174400,os=602,link=footerSvcsGiftCertificates" data-at="giftCert">
+      <a href="/actions/giftCertificatePageAction.action#cs=ov=74596726851,os=639,link=footerSvcsGiftCertificates" data-at="giftCert">
         Gift Certificates
       </a>
     </li>
     <li class="item">
-      <a href="/actions/wishlist/viewWishlistSearch.action#cs=ov=73440174400,os=602,link=footerServicesWishListSearch" data-at="wishListSearch">
+      <a href="/actions/wishlist/viewWishlistSearch.action#cs=ov=74596726851,os=639,link=footerServicesWishListSearch" data-at="wishListSearch">
         Wish List Search
       </a>
     </li>
@@ -1345,12 +1381,12 @@ Examples of information you can access easily at the Websites include up-to-date
       </a>
     </li>
     <li class="item">
-      <a href="/ci/aboutShopBop/careers.html#cs=ov=73440174400,os=602,link=footerInformationCareers" data-at="careers">
+      <a href="/ci/aboutShopBop/careers.html#cs=ov=74596726851,os=639,link=footerInformationCareers" data-at="careers">
       Careers
       </a>
     </li>
     <li class="item">
-      <a href="/ci/aboutShopBop/shopbop-affiliate-program.html#cs=ov=73440174400,os=602,link=footerInformationAffiliateProgram" data-at="affiliate">
+      <a href="/ci/aboutShopBop/shopbop-affiliate-program.html#cs=ov=74596726851,os=639,link=footerInformationAffiliateProgram" data-at="affiliate">
       Affiliate Program
       </a>
     </li>
@@ -1360,27 +1396,27 @@ Examples of information you can access easily at the Websites include up-to-date
       Personalize
     </li>
     <li class="item">
-      <a href="/actions/myaccount/myAccountHomePageAction.action#cs=ov=73440174400,os=602,link=footerPersonalizeAccount" data-at="myAccount">
+      <a href="/actions/myaccount/myAccountHomePageAction.action#cs=ov=74596726851,os=639,link=footerPersonalizeAccount" data-at="myAccount">
       Account
       </a>
     </li>
     <li class="item">
-      <a href="/actions/hearts/viewHeartedProducts.action#cs=ov=73440174400,os=602,link=footerPersonalizeMyHearts" data-at="myHearts" rel="nofollow">
+      <a href="/actions/hearts/viewHeartedProducts.action#cs=ov=74596726851,os=639,link=footerPersonalizeMyHearts" data-at="myHearts" rel="nofollow">
       My&nbsp;<img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/red_filled_heart_1-0.png">s
       </a>
     </li>
     <li class="item">
-      <a href="/actions/wishlist/wishlistHome.action#cs=ov=73440174400,os=602,link=footerPersonalizeMyWishList" data-at="myWishList" rel="nofollow">
+      <a href="/actions/wishlist/wishlistHome.action#cs=ov=74596726851,os=639,link=footerPersonalizeMyWishList" data-at="myWishList" rel="nofollow">
       My Wish List
       </a>
     </li>
     <li class="item">
-      <a href="/actions/designers/myDesigners.action#cs=ov=73440174400,os=602,link=footerPersonalizeMyDesigners" data-at="myDesigners" rel="nofollow">
+      <a href="/actions/designers/myDesigners.action#cs=ov=74596726851,os=639,link=footerPersonalizeMyDesigners" data-at="myDesigners" rel="nofollow">
       My Designers
       </a>
     </li>
     <li class="item">
-      <a href="/actions/reviews/myReviews.action#cs=ov=73440174400,os=602,link=footerPersonalizeMyReviews" data-at="myReviews" rel="nofollow">
+      <a href="/actions/reviews/myReviews.action#cs=ov=74596726851,os=639,link=footerPersonalizeMyReviews" data-at="myReviews" rel="nofollow">
       My Reviews
       </a>
     </li>
@@ -1390,37 +1426,43 @@ Examples of information you can access easily at the Websites include up-to-date
       Connect
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('/ci/apps.html#cs=ov=73440174400,os=602,link=footerConnectApplink', 'left=100,top=100,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,WIDTH=1230,HEIGHT=830, resizable=yes');" rel="nofollow" data-at="faceBook">
+      <a class="wide-link" href="javascript:open_popup('/ci/apps.html#cs=ov=74596726851,os=639,link=footerConnectApplink', 'left=100,top=100,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,WIDTH=1230,HEIGHT=830, resizable=yes');" rel="nofollow" data-at="faceBook">
         <img id="AppConnectImage" alt="Mobile" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/shopbop/media/3/images/footer/appicon_1-4.png">
         <span id="AppConnectLabel">Mobile</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://www.facebook.com/shopbop#cs=ov=73440174400,os=602,link=footerConnectFacebooklink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="faceBook">
+      <a class="wide-link" href="javascript:open_popup('https://www.instagram.com/shopbop/#cs=ov=74596726851,os=639,link=footerConnectInstagramlink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="instagram">
+        <img alt="Instagram" id="instagramConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/shopbop/media/3/images/footer/instagram_grey_18px_1-1.jpg">
+        <span id="instagramConnectLabel">Instagram</span>
+      </a>
+    </li>
+    <li class="item">
+      <a class="wide-link" href="javascript:open_popup('https://www.facebook.com/shopbop#cs=ov=74596726851,os=639,link=footerConnectFacebooklink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="faceBook">
         <img alt="Facebook" id="facebookConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/facebook_grey_1-1.jpg">
         <span id="facebookConnectLabel">Facebook</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://twitter.com/shopbop#cs=ov=73440174400,os=602,link=footerConnectTwitterlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="twitter">
+      <a class="wide-link" href="javascript:open_popup('https://twitter.com/shopbop#cs=ov=74596726851,os=639,link=footerConnectTwitterlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="twitter">
         <img alt="Twitter" id="twitterConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/twitter2x_1-1.gif">
         <span id="twitterConnectLabel">Twitter</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://pinterest.com/shopbop#cs=ov=73440174400,os=602,link=footerConnectPinterestlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="pin">
+      <a class="wide-link" href="javascript:open_popup('https://pinterest.com/shopbop#cs=ov=74596726851,os=639,link=footerConnectPinterestlink', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="pin">
         <img alt="Pinterest" id="pinterestConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/Pinterest_grey_1-0.jpg">
         <span id="pinterestConnectLabel">Pinterest</span>
       </a>
     </li>
     <li class="item">
-      <a class="wide-link" href="javascript:open_popup('https://www.weibo.com/ShopbopChina#cs=ov=73440174400,os=602,link=footerConnectWeibolinkCN', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="weibo">
+      <a class="wide-link" href="javascript:open_popup('https://www.weibo.com/ShopbopChina#cs=ov=74596726851,os=639,link=footerConnectWeibolinkCN', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="weibo">
         <img alt="Weibo" id="weiboConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/wiebo-logo_1-0.jpg">
         <span id="weiboConnectLabel">Weibo</span>
       </a>
     </li>
     <li class="item">
-      <a href="/actions/emailSignupPageAction.action#cs=ov=73440174400,os=602,link=footerConnectEmaillink" rel="nofollow" data-at="email">
+      <a href="/actions/emailSignupPageAction.action#cs=ov=74596726851,os=639,link=footerConnectEmaillink" rel="nofollow" data-at="email">
         <img alt="Get on our email list!" id="emailConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/_global/images/envelope_icon_1-1.png">
         <span id="emailConnectLabel">Get on our email list!</span>
       </a>
@@ -1431,7 +1473,7 @@ Examples of information you can access easily at the Websites include up-to-date
     Location
   </li>
   <li class="item">
-    <a id="shoppingPreferencesHref" href="/actions/i18n/shoppingPreferences.action?returnToUrl=%2Fci%2FaboutShopBop%2Fprivacypolicy.html&amp;returnToHash=a741fa1dff3778e8ebfa285e744f7d31">
+    <a id="shoppingPreferencesHref" href="/actions/i18n/shoppingPreferences.action?returnToUrl=%2Fci%2FaboutShopBop%2Fprivacypolicy.html&amp;returnToHash=8d89ae4d2cb59cbcc5163e70771cb833">
       <span id="footerCountryName">United States</span>
       <span id="footerCountryChange"> (change)</span>
                   <span id="footerCountryFlag"><img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/flags/flag_US_1-0.jpg"></span>
@@ -1443,7 +1485,7 @@ Examples of information you can access easily at the Websites include up-to-date
 
     
 <li class="item">
-  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=73440174400,os=602,link=footerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping FREE returns
+  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=74596726851,os=639,link=footerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping FREE returns
 Amazon Prime eligible">
   FREE 3-day shipping FREE returns<br>
 Amazon Prime eligible
@@ -1453,9 +1495,9 @@ Amazon Prime eligible
 </ul>
 
   <div class="copyright">
-  © 1999-2016 <a href="/">BOP LLC</a>. All Rights Reserved.
-  <a class="link" data-at="privacy" href="/ci/aboutShopBop/privacypolicy.html#cs=ov=73440174400,os=602,link=footerPrivacyPolicyEN">Privacy Notice</a>&nbsp;
-  <a class="link" data-at="condOfUse" href="/ci/aboutShopBop/conditions.html#cs=ov=73440174400,os=602,link=footerCopyrightEN">Conditions of Use</a>
+  © 1999-2017 <a href="/">BOP LLC</a>. All Rights Reserved.
+  <a class="link" data-at="privacy" href="/ci/aboutShopBop/privacypolicy.html#cs=ov=74596726851,os=639,link=footerPrivacyPolicyEN">Privacy Notice</a>&nbsp;
+  <a class="link" data-at="condOfUse" href="/ci/aboutShopBop/conditions.html#cs=ov=74596726851,os=639,link=footerCopyrightEN">Conditions of Use</a>
 </div>
         <div id="domainSwitchDiv" class="OneLinkNoTx">
     	        <a href="https://ru.shopbop.com/actions/i18n/switchSubdomains.action" class="OneLinkKeepLinks" data-at="ru_domainSwitch">
@@ -1467,9 +1509,9 @@ Amazon Prime eligible
 	        </div>
   
         <script language="JavaScript">
-      document.write('<img src="/actions/capabilitiesAction.action?request_seq=1&js=true&ts=1482992633517&visitid=73440174400&seqno=603" width="1" height="1" />');
-    </script><img src="/actions/capabilitiesAction.action?request_seq=1&amp;js=true&amp;ts=1482992633517&amp;visitid=73440174400&amp;seqno=603" width="1" height="1">
-    <span id="challengeToken" style="display: none;">1615f615-e4db-43df-9c4f-6e62c33113e5</span>
+      document.write('<img src="/actions/capabilitiesAction.action?request_seq=1&js=true&ts=1498291220448&visitid=74596726851&seqno=640" width="1" height="1" />');
+    </script><img src="/actions/capabilitiesAction.action?request_seq=1&amp;js=true&amp;ts=1498291220448&amp;visitid=74596726851&amp;seqno=640" width="1" height="1">
+    <span id="challengeToken" style="display: none;">551784f1-b5dd-44b9-bbde-12bcd2b08d96</span>
 </div>
 			<script type="text/javascript">
 				bopCSM.setCSMProp('uex', 'ld', 'pageFooter');
@@ -1527,8 +1569,6 @@ if( window._satellite ) _satellite.pageBottom();
 
 
 
-
-		
 		<!-- securityRequiredEvent Notification -->
 	
 	
