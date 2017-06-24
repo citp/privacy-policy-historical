@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qataronlinedirectory.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124084736id_/http%3A//www.qataronlinedirectory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qataronlinedirectory.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625005749id_/http%3A//www.qataronlinedirectory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Qatar Online Directory.
 
