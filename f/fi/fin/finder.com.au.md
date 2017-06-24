@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finder.com.au privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205231023id_/https%3A//www.finder.com.au/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finder.com.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624203720id_/https%3A//www.finder.com.au/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms of Use, Disclaimer & Privacy Policy
 
@@ -52,6 +52,8 @@ Rest assured that we take your privacy seriously. Please read our [](https://ww
 We will only ask you for the information we need to provide you with the services,  and information you request from us. In order to obtain your C, you need to be adequately identified and your information verified with the Document Verification Service (http://www.dvs.gov.au). Where we retain your information, it will only be the information you have provided to us or the information you have asked us to source from third-parties and provide to you.
 
 Generally, your personal information will only be collected and used with your express permission, but we will retain and use aggregated and non-personally identifiable data for other purposes.
+
+Please appreciate that user comparisons are based on dynamic averages derived from anonymised data. Comparisons incorporate unverified personal data submitted to finder by our users so the results shown are indicative only and may not be more generally representative.
 
 Rest assured that we will, and do, take reasonable steps to protect the personal information we hold from misuse, loss or unauthorised use.
 
