@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vconnect.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051933id_/http%3A//www.vconnect.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vconnect.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624083900id_/http%3A//www.vconnect.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy| VConnect™
 
@@ -99,3 +99,23 @@ THAT VCONNECT CANNOT TAKE RESPONSIBILITY IN ANY WAY FOR THE USE OR MISUSE OF ANY
 ### 8.How We Protect Your Information
 
 **A.** To ensure the confidentiality of your information, VConnect uses security technology and procedures that are regularly reviewed and updated. 
+
+### 9\. Phone Number Masking
+
+Phone number masking is a kind of Data Masking– Is a process where VConnect replaces the contact number of a business with another GSM number owned by VConnect Global Services. This will enable Vconnect to monitor, analyse and enhance the quality of interaction between the caller and the business owner. 
+
+**A.** VConnect reserves the right to mask the contact details of the businesses listed on its platform. Objective of data masking is for performance tracking, quality assurance and training purposes. This is intended to learn more about the users on the platform and deliver better value to businesses. 
+
+**B.** VConnect will not share such data with any other third party _without the express written permission of the respective businesses_. 
+
+**C.** In case a business has any concerns with data masking it can share the same via mail on [ info@vconnect.com](mailto:info@vconnect.com) and its business data will be unmasked. Also Note that VConnect cannot provide information about Engagement generated in its platform in such case. 
+
+**D.** If Business opts in to record their calls received on the vconnect platform, links to call recording could be provided to the business. But, in Case the password to the business dashboard is lost or shared with multiple users, the business will be responsible for possible misuse of call records. 
+
+**E.** All the calls business receives via VConnect platform, will be having the caller ID registered by VConnect or will be blank, this will help business recognise the calls coming from the VConnect platform.. 
+
+**F.** Business owner can access the number of the caller by viewing the address book on their dashboard. 
+
+**G.** Downtime in the masking service may be caused due to multiple reason and the business is not liable to charge vconnect in any form for the down time. _In case of down time your original phone number would be displayed to ensure you keep receiving leads from VConnect._. 
+
+**H.** Any user picking the phone number (masked or unmasked) of businesses from Vconnect.com agrees not to charge Vconnect with any form of allegations. 
