@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203060758id_/http%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingacademy.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624212130id_/http%3A//www.tradingacademy.com/policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Online Trading Academy
 
@@ -36,7 +36,7 @@ The types of information we collect include the following:
 
 
 
-We may collect this information when you register in our community at myota.tradingacademy.com, complete an Online Trading Academy Membership registration form, sign-up for a Power Trading Workshop, purchase audio or video content from us, or fill out any other form on any of the Site(s) or through the Service or provide such information to one of our Educational Counselors or Instructors. We may also collect information that you provide about others, such as through a refer-a-friend program or on a friend/spouse who may be attending a class or workshop with you.
+We may collect this information when you register in our community at myota.tradingacademy.com, complete an Online Trading Academy Membership registration form, sign-up for a Free Half-Day Class, purchase audio or video content from us, or fill out any other form on any of the Site(s) or through the Service or provide such information to one of our Educational Counselors or Instructors. We may also collect information that you provide about others, such as through a refer-a-friend program or on a friend/spouse who may be attending a class or workshop with you.
 
 We may use your contact information to provide you information about our products, special offers from our marketing alliances, newsletters, updates about our company (including changes to our privacy policy) and other communications we think may be of value to you. 
 
