@@ -1,0 +1,775 @@
+<!--The following is the downloaded HTML source of the tissot.ch privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624172706id_/https%3A//www.tissotwatches.com/en-en/shop/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>Privacy Policy</title>
+<meta name="description" content="Official Tissot E-Shop">
+<meta name="keywords" content="Official Tissot E-Shop, Tissot, Tissot watches
+Official Tissot e-store,
+Tissot,
+Tissot watch,
+Tissot e-store,
+Ladies watches,
+Mens watches,
+Swiss watch,
+www.Tissot.ch,
+watch,
+designer watch,
+e-store,
+swatch group,
+elegance
+Innovation,
+tradition,
+sport,
+Touch,
+Trend,
+Classic,
+Pocket,
+Gold,
+automatic watch,
+heritage collection,
+Luxury watch,
+Elegant ladies watch,
+Elegant mens watch,
+Luxury watch for men,
+Luxury watch for women,
+Precision,
+Father’s Day Gift,
+Mother’s Day gift,
+Gifts for her,
+Gifts for him,
+MotoGP,
+Superbike,
+Hockey surglace,
+Cyclisme,
+Basket-Ball,
+Escrime ">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="https://www.tissotwatches.com/skin/shop/frontend/tissot_2016/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.tissotwatches.com/skin/shop/frontend/tissot_2016/default/favicon.ico" type="image/x-icon">
+
+
+<link href="/css/bootstrap.css" rel="stylesheet" media="screen">
+<link href="/css/main_G09EH7AA.css" rel="stylesheet" media="screen">
+    
+<script src="/js/jquery-1.11.0.min.js"></script>
+<script src="/js/bootstrap.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+<script src="/js/slick.min.js"></script>
+<script src="/js/bootstrap-toolkit.min.js"></script>
+<script src="/js/header.js"></script>
+<script src="/js/imagesloaded.pkgd.min.js"></script>
+<script src="/js/behaviors.js"></script>
+<script src="/js/owl.carousel-2.0.0.min.js"></script>
+<script src="/js/greensock/TweenMax.min.js"></script>
+<script src="/js/greensock/plugins/ScrollToPlugin.min.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/parallax.min.js"></script>
+<script src="/js/jquery.tabAccordion.js"></script>
+<script src="/js/jquery.sidebar-move.js"></script>
+<script src="/js/add.js"></script>
+<script src="/js/minicart.js"></script>
+<script src="/js/jquery.lazyload.min.js"></script>
+
+
+
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.tissotwatches.com/js/shop/blank.html';
+    var BLANK_IMG = 'https://www.tissotwatches.com/js/shop/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="https://www.tissotwatches.com/skin/shop/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.tissotwatches.com/skin/shop/frontend/tissot_2016/default/css/global.css" media="all">
+<link rel="stylesheet" type="text/css" href="https://www.tissotwatches.com/skin/shop/frontend/tissot_2016/default/css/sgecom/ui/custom-select.css" media="all">
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/varien/js.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/varien/form.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/varien/menu.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/sgecom/ui/customSelect.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/skin/shop/frontend/tissot_2016/default/js/sgecom/googleTagManager.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/skin/shop/frontend/tissot_2016/default/js/global.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/skin/shop/frontend/tissot_2016/default/js/sgecom/global_message.js"></script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.tissotwatches.com/skin/shop/frontend/base/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.tissotwatches.com/js/shop/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.tissotwatches.com/skin/shop/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.tissotwatches.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"Add to Cart":"Add to Basket"});
+        //]]></script>
+<script>
+jQuery.noConflict();
+</script></head>
+<body class=" cms-page-view cms-privacy-policy">
+<div class="wrapper">
+        <div class="page">
+        
+<script src="/js/snowfall.jquery.js"></script><div class="header closed-banner"><div class="container"><a href="/en-en" class="logo col-xs-7 col-md-3 col-lg-4"><img src="/images/header/tissot-logo.png" alt="Tissot"></a><div class="m_options col-xs-5 hidden-md hidden-lg"><ul class="small-menu"><!-- Up Menu --><li class="hidden-xs hidden-sm "><i class=""></i><div class="searchbar m_searchbar hidden-md hidden-lg"><form class="clearfix" action="/en-en/shop/catalogsearch/result/" method="GET"><i class="glyphicon glyphicon-search"></i><input class="submit" type="button"><input name="q" class="field col-xs-12" type="search" placeholder="Type your reference"></form></div><div class="hidden-xs hidden-sm"><form class="search-ref" action="/en-en/shop/catalogsearch/result/" method="GET"><input type="submit" value=""><i class="glyphicon glyphicon-search"></i><input name="q" type="text" placeholder="Search"></form></div><script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.tissotwatches.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.tissotwatches.com/en-en/shop/catalogsearch/result/q/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script></li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class=""></i><div class="searchbar m_searchbar hidden-md hidden-lg"><form class="clearfix" action="/en-en/shop/catalogsearch/result/" method="GET"><i class="glyphicon glyphicon-search"></i><input class="submit" type="button"><input name="q" class="field col-xs-12" type="search" placeholder="Type your reference"></form></div><div class="hidden-xs hidden-sm"><form class="search-ref" action="/en-en/shop/catalogsearch/result/" method="GET"><input type="submit" value=""><i class="glyphicon glyphicon-search"></i><input name="q" type="text" placeholder="Search"></form></div><script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.tissotwatches.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.tissotwatches.com/en-en/shop/catalogsearch/result/q/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script></a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --><!-- Up Menu --><li class="hidden-xs hidden-sm is-dropdown"><i class="ic-language"></i><a href="/en-en/langs" data-megamenu=".languages" class="is-megamenu inactive">			International
+<span class="caret"></span></a>	</li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class="ic-language"></i>International
+</a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --><!-- Up Menu --><li class="hidden-xs hidden-sm "><i class="glyphicon glyphicon-map-marker"></i><a href="https://stores.tissotwatches.com/en-en" target="_blank" data-megamenu="" class=" ">			Store locator
+</a>	</li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class="glyphicon glyphicon-map-marker"></i>Store locator
+</a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --><li class="open-menu"><a href="javascript:void(0)"><span class="hamburger-cross"><span class="navicon"></span></span></a></li></ul></div><div class="d_options col-md-9 col-md-push-3 hidden-xs hidden-sm"><ul><!-- Up Menu --><li class="hidden-xs hidden-sm "><i class=""></i><div class="searchbar m_searchbar hidden-md hidden-lg"><form class="clearfix" action="/en-en/shop/catalogsearch/result/" method="GET"><i class="glyphicon glyphicon-search"></i><input class="submit" type="button"><input name="q" class="field col-xs-12" type="search" placeholder="Type your reference"></form></div><div class="hidden-xs hidden-sm"><form class="search-ref" action="/en-en/shop/catalogsearch/result/" method="GET"><input type="submit" value=""><i class="glyphicon glyphicon-search"></i><input name="q" type="text" placeholder="Search"></form></div><script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.tissotwatches.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.tissotwatches.com/en-en/shop/catalogsearch/result/q/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script></li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class=""></i><div class="searchbar m_searchbar hidden-md hidden-lg"><form class="clearfix" action="/en-en/shop/catalogsearch/result/" method="GET"><i class="glyphicon glyphicon-search"></i><input class="submit" type="button"><input name="q" class="field col-xs-12" type="search" placeholder="Type your reference"></form></div><div class="hidden-xs hidden-sm"><form class="search-ref" action="/en-en/shop/catalogsearch/result/" method="GET"><input type="submit" value=""><i class="glyphicon glyphicon-search"></i><input name="q" type="text" placeholder="Search"></form></div><script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.tissotwatches.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.tissotwatches.com/en-en/shop/catalogsearch/result/q/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script></a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --><!-- Up Menu --><li class="hidden-xs hidden-sm is-dropdown"><i class="ic-language"></i><a href="/en-en/langs" data-megamenu=".languages" class="is-megamenu inactive">			International
+<span class="caret"></span></a>	</li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class="ic-language"></i>International
+</a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --><!-- Up Menu --><li class="hidden-xs hidden-sm "><i class="glyphicon glyphicon-map-marker"></i><a href="https://stores.tissotwatches.com/en-en" target="_blank" data-megamenu="" class=" ">			Store locator
+</a>	</li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class="glyphicon glyphicon-map-marker"></i>Store locator
+</a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --></ul></div><div class="menu m_no-gutter col-xs-12 col-sm-5 col-md-10"><div class="group-container"><div class="group d_last"><ul class="text-center text-uppercase hidden-xs hidden-sm"><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class="is-bordered"><a class="is-megamenu inactive" href="#" data-megamenu=".shop">            watches
+<span class="caret"></span></a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class="is-megamenu inactive" href="/en-en/magazine" data-megamenu=".magazine">            Tissot Magazine
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class="is-megamenu inactive" href="#" data-megamenu=".universe">            Our Universe
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class=" inactive" href="/en-en/heritage" data-megamenu="">            heritage
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class=" inactive" href="/en-en/cs" data-megamenu=".customers">            customer service
+</a>	</li><!-- EO Main Menu --></ul><ul class="text-center text-uppercase hidden-md hidden-lg"><!-- Up Menu --><li class="hidden-xs hidden-sm "><i class=""></i><div class="searchbar m_searchbar hidden-md hidden-lg"><form class="clearfix" action="/en-en/shop/catalogsearch/result/" method="GET"><i class="glyphicon glyphicon-search"></i><input class="submit" type="button"><input name="q" class="field col-xs-12" type="search" placeholder="Type your reference"></form></div><div class="hidden-xs hidden-sm"><form class="search-ref" action="/en-en/shop/catalogsearch/result/" method="GET"><input type="submit" value=""><i class="glyphicon glyphicon-search"></i><input name="q" type="text" placeholder="Search"></form></div><script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.tissotwatches.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.tissotwatches.com/en-en/shop/catalogsearch/result/q/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script></li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class=""></i><div class="searchbar m_searchbar hidden-md hidden-lg"><form class="clearfix" action="/en-en/shop/catalogsearch/result/" method="GET"><i class="glyphicon glyphicon-search"></i><input class="submit" type="button"><input name="q" class="field col-xs-12" type="search" placeholder="Type your reference"></form></div><div class="hidden-xs hidden-sm"><form class="search-ref" action="/en-en/shop/catalogsearch/result/" method="GET"><input type="submit" value=""><i class="glyphicon glyphicon-search"></i><input name="q" type="text" placeholder="Search"></form></div><script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.tissotwatches.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.tissotwatches.com/en-en/shop/catalogsearch/result/q/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script></a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><div class="searchbar m_searchbar hidden-md hidden-lg"><form class="clearfix" action="/en-en/shop/catalogsearch/result/" method="GET"><i class="glyphicon glyphicon-search"></i><input class="submit" type="button"><input name="q" class="field col-xs-12" type="search" placeholder="Type your reference"></form></div><div class="hidden-xs hidden-sm"><form class="search-ref" action="/en-en/shop/catalogsearch/result/" method="GET"><input type="submit" value=""><i class="glyphicon glyphicon-search"></i><input name="q" type="text" placeholder="Search"></form></div><script type="application/ld+json">{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"url": "https://www.tissotwatches.com/",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "https://www.tissotwatches.com/en-en/shop/catalogsearch/result/q/{search_term_string}",
+"query-input": "required name=search_term_string"
+}
+}
+</script></li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><ul class="text-center text-uppercase">
+    <li class="hidden-md hidden-lg">
+    	<a href="https://www.tissotwatches.com/en-en/shop/most-popular/men.html">MEN</a>
+    </li>
+        <li class="hidden-md hidden-lg">
+    	<a href="https://www.tissotwatches.com/en-en/shop/most-popular/women.html">WOMEN</a>
+    </li>
+        <li class="hidden-md hidden-lg">
+    	<a href="https://www.tissotwatches.com/en-en/shop/all-our-watches.html">ALL OUR WATCHES</a>
+    </li>
+    </ul></li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li><hr class="divider hidden-lg hidden-md"></li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class="is-megamenu inactive" href="/en-en/magazine" data-megamenu=".magazine">            Tissot Magazine
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a target="_blank" class=" inactive" href="https://stores.tissotwatches.com/en-en" data-megamenu="">            Store locator
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class=" inactive" href="/en-en/sports" data-megamenu="">            Our Sport partnerships
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class=" inactive" href="/en-en/ambassadors" data-megamenu="">            Meet our ambassadors
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class=" inactive" href="/en-en/heritage" data-megamenu="">            heritage
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class=""><a class=" inactive" href="/en-en/cs" data-megamenu=".customers">            customer service
+</a>	</li><!-- EO Main Menu --><!-- Up Menu --><li class="hidden-xs hidden-sm "><i class="glyphicon glyphicon-map-marker"></i><a href="https://stores.tissotwatches.com/en-en" target="_blank" data-megamenu="" class=" ">			Store locator
+</a>	</li><li class="hidden-xs hidden-sm hidden-md hidden-lg"><a href="#"><i class="glyphicon glyphicon-map-marker"></i>Store locator
+</a></li><!-- EO Up Menu --><!-- Main Menu --><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li><hr class="divider hidden-lg hidden-md"></li><!-- EO Main Menu --><!-- Up Menu --><!-- EO Up Menu --><!-- Main Menu --><li class="select-languages"><i class="ic-language"></i>        <a class=" inactive" href="javascript:void(0)" data-megamenu=".languages">            International
+</a>	</li><!-- EO Main Menu --></ul></div></div></div><!-- /.navbar-collapse --></div><!-- /.container --></div><!-- Mega_menu container template --><div class="megamenus"><div class="container-fluid"><!-- Mega_menu SHOP template --><div class="megamenu shop row"><span class="close">×</span>
+
+<div class="cols no-gutter col-xs-12 col-md-7 col-lg-6 col-lg-offset-1">
+    
+    <div class="col-xs-12 col-md-4">
+
+        
+        <h3>
+        	        	<a href="https://www.tissotwatches.com/en-en/shop/all-our-watches.html">ALL OUR WATCHES</a>
+        </h3>
+        
+        <ul>
+            <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/touch-collection.html" title="TOUCH COLLECTION">TOUCH COLLECTION</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/t-sport.html" title="T-SPORT">T-SPORT</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/t-classic.html" title="T-CLASSIC">T-CLASSIC</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/heritage.html" title="HERITAGE">HERITAGE</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/t-lady.html" title="T-LADY">T-LADY</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/t-pocket.html" title="T-POCKET">T-POCKET</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/t-gold.html" title="T-GOLD">T-GOLD</a>
+    </li>
+            </ul>
+        
+                
+    </div>
+    
+    
+    
+    <div class="col-xs-4">
+    	    
+        <h3>
+        	SELECTIONS        </h3>
+        
+        
+        <ul>
+            <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/selections/tour-de-france-watches.html" title="Tour de France watches">Tour de France watches</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/selections/new-watches.html" title="NEW">NEW</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/selections/special-collections.html" title="SPECIAL COLLECTIONS">SPECIAL COLLECTIONS</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/selections/diamonds-watches.html" title="DIAMONDS">DIAMONDS</a>
+    </li>
+        <li>
+        <a class="special-item" href="https://www.tissotwatches.com/en-en/shop/selections/gift-ideas.html" title="GIFT IDEAS">GIFT IDEAS</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/selections/cosc.html" title="COSC">COSC</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/selections/nato-watches.html" title="NATO STRAP">NATO STRAP</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/selections/couple-watches.html" title="Couple Watches">Couple Watches</a>
+    </li>
+            </ul>
+        
+                
+        
+    </div>
+    
+    
+    <div class="col-xs-12 col-md-4">
+    	        <h3>MOST POPULAR</h3>
+
+    
+        <ul>
+            <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/most-popular/men.html" title="MEN">MEN</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/most-popular/women.html" title="WOMEN">WOMEN</a>
+    </li>
+        <li>
+        <a href="https://www.tissotwatches.com/en-en/shop/most-popular/automatic.html" title="AUTOMATIC">AUTOMATIC</a>
+    </li>
+            </ul>
+        
+            </div>
+    
+</div>
+
+<div class="promotions col-xs-12 col-md-5 col-lg-4">
+        	<div class="promotions-item col-xs-12 gaptop">
+    		<a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/t-classic/tissot-chemin-des-tourelles.html">
+        		<img src="https://www.tissotwatches.com/media/shop/catalog/category/Push_450x140_CDT-L-White_1.gif" alt="">
+	        </a>
+	    </div>
+    	
+    	    
+    
+        	<div class="promotions-item col-xs-12">
+    		<a href="https://www.tissotwatches.com/en-en/shop/all-our-watches/t-classic/tissot-tradition.html">
+		        <img src="https://www.tissotwatches.com/media/shop/catalog/category/Push_450x140_Tradition_1.gif" alt="">
+	        </a>
+	    </div>
+    	
+    	
+
+</div>
+
+</div><!-- Mega_menu UNIVERSE template --><div class="megamenu magazine row"><span class="close">×</span><div class="cols no-gutter col-xs-12 col-md-7 col-lg-6 col-lg-offset-1"><div class="col-xs-12 col-md-6"><ul></ul><h3>magazine</h3><ul>                				                                <li><a href="/en-en/magazine">latest news</a></li><li><a href="/en-en/magazine/filter-sports.html">sports</a></li><li><a href="/en-en/magazine/filter-ambassadors.html">ambassadors</a></li><li><a href="/en-en/magazine/filter-collections.html">watches</a></li><li><a href="/en-en/magazine/filter-site.html">the brand</a></li></ul></div><div class="col-xs-12 col-md-6"><ul></ul></div></div><div class="cols no-gutter col-xs-12 col-md-5 col-lg-4"><div class="col-xs-12"><ul><li><a href="/en-en/"></a><div class="promotions"><a href="/en-en/"><img src="/images/stuff/Push_450x140_NBA_2.jpg" alt="NBA"></a><div class="abs-block abs-left"><a href="/en-en/"><span class="heading">NBA</span></a><a href="/sports/c/a/25" class="btn-plus btn-default btn" style="text-color:black">read more
+</a></div></div></li></ul></div></div></div><!-- Mega_menu UNIVERSE template --><div class="megamenu universe row"><span class="close">×</span><div class="cols no-gutter col-xs-12 col-md-7 col-lg-6 col-lg-offset-1"><div class="col-xs-12 col-md-6"><ul></ul><h3>Tissot Universe</h3><ul>                				                                <li><a href="/en-en/ambassadors">Meet our ambassadors</a></li><li><a href="/en-en/sports">Our Sport partnerships</a></li></ul></div><div class="col-xs-12 col-md-6"><ul></ul><h3>downloads</h3><ul>                				                                <li><a href="/en-en/catalogue">Tissot catalogue</a></li></ul></div></div><div class="cols no-gutter col-xs-12 col-md-5 col-lg-4"><div class="col-xs-12"><ul></ul><h3>Follow us</h3><ul>                				                                <li><ul class="socials"><li><a target="_blank" href="http://www.facebook.com/Tissot" title="facebook" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;facebook&quot;
+})">
+<i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="http://instagram.com/tissot_official#" title="instagram" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;instagram&quot;
+})">
+<i class="fa fa-instagram"></i></a></li><li><a target="_blank" href="http://www.twitter.com/tissot" title="twitter" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;twitter&quot;
+})">
+<i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="http://www.youtube.com/tissot" title="youtube" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;youtube&quot;
+})">
+<i class="fa fa-youtube"></i></a></li></ul><script type="application/ld+json">{ "@context" : "http://schema.org",
+"@type" : "Organization",
+"name" : "Tissot SA",
+"url" : "https://www.tissotwatches.com",
+"sameAs" : [
+"http://www.facebook.com/Tissot",
+"http://instagram.com/tissot_official#",
+"http://www.twitter.com/tissot",
+"http://www.youtube.com/tissot"
+]
+}
+</script>                    				</li><li><a href="https://www.instagram.com/explore/tags/mytissot/" target="_blank">#mytissot</a></li></ul></div></div></div><!-- Mega_menu UNIVERSE template --><div class="megamenu customers row"><span class="close">×</span><div class="cols no-gutter col-xs-12 col-md-7 col-lg-6 col-lg-offset-1"><div class="col-xs-12 col-md-6"><ul></ul><h3>Need help</h3><ul>                				                                <li><a href="http://stores.tissotwatches.com/servicecenters">Find a service center</a></li><li><a href="/en-en/shop/contacts">contact us</a></li></ul></div><div class="col-xs-12 col-md-6"><ul></ul><h3>All our services</h3><ul>                				                                <li><a href="/en-en/cs">Service your Tissot</a></li><li><a href="/en-en/cs/work/complete">The complete service</a></li><li><a href="/en-en/cs/measure">watch care</a></li><li><a href="/en-en/faq">FAQ</a></li><li><a href="/en-en/support/usermanual">Warranty and user's manuals</a></li><li><a href="https://cis.tissot.ch/" target="_blank">Customer information system</a></li></ul></div></div><div class="cols no-gutter col-xs-12 col-md-5 col-lg-4"><div class="col-xs-12"><ul><li><div class="stopfake"><p>STOP FAKE - CHECK ONLINE RETAILER</p><span>Check if the online shop is authorized by Tissot SA::</span><!--<form class="stopfake-form" method="post" action="javascript:checkOnlineMegamenu('authorizedForm_megamenu', 'megamenu');" id="authorizedForm_megamenu">--><form class="stopfake-form" method="post" action="/stopfake/index/" id="authorizedForm_megamenu"><!--<span><input type="text" id="authorizedField_megamenu" name="authorizedField_megamenu" placeholder="http://" value="http://"></span>--><span><input type="text" id="url" name="url" placeholder="http://" value="http://"></span><input type="submit" value="Check"></form><div id="stop-fake-response-megamenu"><!--<i class="material-icons warning">&#xE86B;</i><i class="material-icons valid">&#xE876;</i><div class="message" id="authorizedMessage_megamenu" style="display:none;">This is an online shop authorized by Tissot
+</div><div class="message" id="notAuthorizedMessage_megamenu" style="display:none;">This is not an online shop authorized by Tissot.<br/>Therefore Tissot declines all responsibility
+</div>--></div><script type="text/javascript">/**
+*
+*/
+jQuery(document).ready(function(){
+/**
+* Au copier-coller, ajouter le http:	 */
+jQuery('#authorizedField_megamenu').on('paste', function (e) {
+e.preventDefault();
+var clipboardData = e.originalEvent.clipboardData.getData('text/plain');
+var urlPattern = new RegExp("(http|https):\/\/");
+var res = clipboardData.match(urlPattern);
+if(res) {
+//var paste = clipboardData.replace('http://', '').replace('https://', '');
+jQuery(this).val(clipboardData);
+}
+else {
+jQuery(this).val('http://'+clipboardData);
+}
+});
+});
+/**
+* Lance la requete de la box "Check onlineshop" et affiche le résultat
+*/
+function checkOnlineMegamenu(id, uid){
+jQuery("#authorizedMessage_"+uid).hide();
+jQuery("#notAuthorizedMessage_"+uid).hide();
+var pt= jQuery("#"+id).find('input[name="authorizedField_'+uid+'"]');
+var url = pt.val();
+url = url.replace("http://", "");
+url = url.replace("https://", "");
+jQuery('#stop-fake-response-megamenu').removeClass('error');
+jQuery('#stop-fake-response-megamenu').removeClass('valid');
+var result = getURL('/stopfake/authorized/url/'+url, true, false);
+if (result.responseText==1) {
+jQuery("#authorizedMessage_"+uid).fadeIn();
+jQuery("#authorizedMessage_"+uid+">.valid").fadeIn();
+jQuery('#stop-fake-response-megamenu').addClass('valid');
+}
+else {
+jQuery("#notAuthorizedMessage_"+uid).fadeIn();
+jQuery("#authorizedMessage_"+uid+">.warning").fadeIn();
+jQuery('#stop-fake-response-megamenu').addClass('error');
+}
+window.dataLayer.push({
+"event": "onlineShopCheck",
+"siteSearchKeyword": url
+});
+}
+</script></div></li></ul></div></div></div><!-- Mega_menu LANGUAGES template --><div id="" class="megamenu languages row"><span class="close">×</span><div class="cols no-gutter col-xs-12 col-md-6 col-lg-5 col-lg-offset-1"><div class="row"><div class="col-xs-12 region-block"><h3></h3><ul class="list-unstyled"><li><a href="/en-en">International</a></li></ul></div><div class="col-xs-12 col-md-4 region-block"><h3 class="languages-region">North America / South America</h3><ul class="list-unstyled"><li><a href="/en-ca">canada</a></li><li><a href="/fr-ca">Canada (Québec)</a></li><li class="shop-available"><a href="http://us.tissotshop.com">United States</a></li><li><a href="/pt-br">Brasil</a></li></ul></div><div class="col-xs-12 col-md-4 region-block"><h3 class="languages-region">europe / Africa</h3><ul class="list-unstyled"><li class="shop-available"><a href="/nl-be">België</a></li><li class="shop-available"><a href="/fr-be">Belgique</a></li><li class="shop-available"><a href="/de-de">Deutschland</a></li><li class="shop-available"><a href="/es-es">España</a></li><li class="shop-available"><a href="/fr-fr">France</a></li><li class="shop-available"><a href="/it-it">Italia</a></li><li class="shop-available"><a href="/nl-nl">nederland</a></li><li class="shop-available"><a href="/de-at">Österreich</a></li><li><a href="/pl-pl">Polska</a></li><li><a href="/pt-pt">Portugal</a></li><li><a href="/ru-ru">Россия</a></li><li class="shop-available"><a href="/de-ch">Schweiz</a></li><li class="shop-available"><a href="/fr-ch">Suisse</a></li><li class="shop-available"><a href="/en-gb">United Kingdom</a></li></ul></div><div class="col-xs-12 col-md-4 region-block"><h3 class="languages-region">asia / oceania</h3><ul class="list-unstyled"><li class="shop-available"><a href="https://www.tissotwatches.cn">中国</a></li><li><a href="/ja-jp">日本</a></li><li><a href="/zht-hk"> 香港</a></li><li><a href="/en-sg">singapore</a></li><li><a href="/zh-sg">新加坡</a></li><li><a href="/ko-kr">대한민국</a></li><li><a href="/zht-tw">臺灣</a></li><li><a href="/zh-mo">澳门</a></li><li><a href="/en-my">Malaysia</a></li><li><a href="/zh-my">马来西亚</a></li><li><a href="/en-th">Thailand</a></li><li><a href="/en-au">australia</a></li></ul></div></div></div><div class="col-xs-12 col-md-6 map"><img src="/images/locator-map.jpg" alt="Locator Map"></div></div></div></div><div class="modal fade lang-list-modal" tabindex="-1" role="dialog"><div class="modal-dialog modal-lg" role="document"><div class="modal-content"><div class="modal-header"><button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button><h4 class="modal-title">Choose your language</h4></div><div class="modal-body"><div class="row"><div class="col-xs-12 region-block"><h3></h3><ul class="list-unstyled"><li><a href="/en-en">International</a></li></ul></div><div class="col-xs-12 col-md-4 region-block"><h3 class="languages-region">North America / South America</h3><ul class="list-unstyled"><li><a href="/en-ca">canada</a></li><li><a href="/fr-ca">Canada (Québec)</a></li><li class="shop-available"><a href="http://us.tissotshop.com">United States</a></li><li><a href="/pt-br">Brasil</a></li></ul></div><div class="col-xs-12 col-md-4 region-block"><h3 class="languages-region">europe / Africa</h3><ul class="list-unstyled"><li class="shop-available"><a href="/nl-be">België</a></li><li class="shop-available"><a href="/fr-be">Belgique</a></li><li class="shop-available"><a href="/de-de">Deutschland</a></li><li class="shop-available"><a href="/es-es">España</a></li><li class="shop-available"><a href="/fr-fr">France</a></li><li class="shop-available"><a href="/it-it">Italia</a></li><li class="shop-available"><a href="/nl-nl">nederland</a></li><li class="shop-available"><a href="/de-at">Österreich</a></li><li><a href="/pl-pl">Polska</a></li><li><a href="/pt-pt">Portugal</a></li><li><a href="/ru-ru">Россия</a></li><li class="shop-available"><a href="/de-ch">Schweiz</a></li><li class="shop-available"><a href="/fr-ch">Suisse</a></li><li class="shop-available"><a href="/en-gb">United Kingdom</a></li></ul></div><div class="col-xs-12 col-md-4 region-block"><h3 class="languages-region">asia / oceania</h3><ul class="list-unstyled"><li class="shop-available"><a href="https://www.tissotwatches.cn">中国</a></li><li><a href="/ja-jp">日本</a></li><li><a href="/zht-hk"> 香港</a></li><li><a href="/en-sg">singapore</a></li><li><a href="/zh-sg">新加坡</a></li><li><a href="/ko-kr">대한민국</a></li><li><a href="/zht-tw">臺灣</a></li><li><a href="/zh-mo">澳门</a></li><li><a href="/en-my">Malaysia</a></li><li><a href="/zh-my">马来西亚</a></li><li><a href="/en-th">Thailand</a></li><li><a href="/en-au">australia</a></li></ul></div></div></div></div></div></div><script text="javascript">jQuery(document).ready(function() {
+if(typeof sessionStorage!='undefined') {
+if (sessionStorage.selectLang) {
+jQuery(".lang-list-modal").modal('show');
+sessionStorage.removeItem("selectLang");
+}
+}
+jQuery(".select-languages > a").on("click", function(){
+jQuery(".lang-list-modal").modal('show');
+});
+if(Math.floor(Date.now() / 1000)<1483657200){
+if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+jQuery(".header").snowfall({deviceorientation : true, round : false, minSize: 3, maxSize:28, maxSpeed:3,  flakeCount : 6, flakeColor: 'url(/images/flake.svg)'});
+}else{
+jQuery(".header").snowfall({deviceorientation : true, round : false, minSize: 3, maxSize:40, maxSpeed:4,  flakeCount : 20, flakeColor: 'url(/images/flake.svg)'});
+}
+}
+});</script>                                <div class="main-section page-content container-fluid clearfix">
+            <div class="main">
+                <div class="col-main">
+                                            <div class="page-title">
+        <h1>1. Privacy Policy</h1>
+    </div>
+<div class="std"><p>1.1 TISSOT SA, Chemin des Tourelles, 17, 2400 LE LOCLE, Switzerland, (“TISSOT”, “We," “Us,” “Our”) takes the security and privacy of your personal information very seriously. This policy together with our terms of use sets out the basis on which we will process any personal data obtained as a result of your use of this website (“Website”) and explains what cookies we use. All processing of your personal data will be in accordance with the applicable data protection legislation for the purposes for which the information was submitted. Please read the following carefully to understand our views and practices regarding your personal data, how we will treat it and how we use cookies.&nbsp;</p>
+<p>2. Information we may collect from you</p>
+<p>2.1 We may collect and process the following data about you:</p>
+<p>2.1.1 Information that you provide by filling in forms on the Website. This includes information provided at the time of registering to use the Website, subscribing to our service, posting material or requesting further services. We may also ask you for information when you enter a competition or promotion sponsored by us or when you report a problem with the Website.</p>
+<p>2.1.2 If you contact us, we may keep a record of that correspondence.</p>
+<p>2.1.3 We may also ask you to complete surveys that we use for research purposes, although you are not required to do so.</p>
+<p>2.1.4 Details of your visits to the Website, including but not limited to traffic data, location data, weblogs and other communication data, whether this is required for our own purposes or otherwise and the resources that you access. Please see the section below regarding cookies for more information about our use of cookies.&nbsp;</p>
+<p>3. Where we store your personal data</p>
+<p>3.1 The data that we collect from you may be transferred to, and stored at, a location in Switzerland (server location) or another location inside or outside the European Economic Area.</p>
+<p>3.2 All information you provide to us is stored on our secure servers. Where we have given you (or where you have chosen) a password that enables you to access certain parts of this website, you are responsible for keeping this password confidential. We ask you not to share any passwords with anyone.</p>
+<p>3.3 Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.</p>
+<p>&nbsp;</p>
+<p>4. Uses made of the information</p>
+<p>4.1 We use information held about you in the following ways:</p>
+<p>4.1.1 To ensure that content from the Website is presented in the most effective manner for you and for your computer.</p>
+<p>4.1.2 To provide you with information, products or services that you request from us or that we feel may interest you, where you have consented to be contacted for such purposes.</p>
+<p>4.1.3 To carry out our obligations arising from any contracts entered into between you and us.</p>
+<p>4.1.4 To allow you to participate in interactive features of our service, when you choose to do so.</p>
+<p>4.1.5 To notify you about changes to our service.</p>
+<p>4.1.6 To create and manage your personal account at TISSOT.</p>
+<p>4.1.7 To notify the winners in competitions arranged online.</p>
+<p>4.1.8 To test and improve our systems by which the services are provided.</p>
+<p>4.1.9 To prevent misuse or improper use of our services.</p>
+<p>4.1.10 To send you surveys regarding your satisfaction with our services (performed by TISSOT or by third parties on our behalf), products and overall experience in connection with TISSOT.</p>
+<p>4.2 If you are an existing customer, we will only contact you by electronic means (e.g., e-mail, SMS, APP) or by mail with information about goods and services similar to those that were the subject of a previous sale to you.</p>
+<p>4.3 If you are a new customer, and where we permit selected third parties to use your data, we (or they) will contact you by electronic means or by mail only if you have consented to this.</p>
+<p>4.4 If you do not want us to use your data in this way or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data (the order form) or contact us via contact@tissot.ch</p>
+<p>4.5 We may share non-personal, non-individual statistics or demographic information in aggregate form with our marketing partners, advertisers or other third-parties for research purposes.</p>
+<p>4.6 Through your use of the Website, we may also gather certain information about your use of the Website that does not identify you individually. Generally, this information is collected through "traffic data." We may collect and store such information automatically whenever you interact with the Website. For example, we may collect your IP address, the hostname of your computer, browser information and reference site domain name every time you visit the Website. We may also collect information regarding customer traffic patterns and site usage. This information does not, however, contain anything that can personally identify you; it is used to analyze and improve the Website and to provide our customers with a fulfilling Internet experience. Please see the section below regarding cookies for more information about our use of cookies and when we will ask for your consent.&nbsp;</p>
+<p>5. Disclosure of your information</p>
+<p>5.1 We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, who may be inside or outside of the EEA.</p>
+<p>5.2 We may disclose your personal information to third parties:</p>
+<p>5.2.1 Who help us to administer the Website (such as our Internet service providers) or to provide the services you are requesting. These third parties must at all times provide the same levels of security for your personal information as TISSOT.</p>
+<p>5.2.2 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</p>
+<p>5.2.3 To perform functions on our behalf. Examples include fulfilling orders, delivering packages, processing credit card payments, providing customer service, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, executing customer satisfaction surveys, providing customized advertising and providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Policy and as permitted by applicable data protection laws.</p>
+<p>5.2.4 If TISSOT or substantially all of its assets or any member of our group are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</p>
+<p>5.2.5 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of TISSOT or any member of our group, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.&nbsp;</p>
+<p>6. Your rights</p>
+<p>6.1 You may at all times revoke any consent given to processing your data, taking effect as from the date of revocation, by sending us an email or postal mail, or by clicking the corresponding box on the forms used to collect your data. You may at all times request information as to what data from you is being processed and for what purpose. Furthermore, you may in accordance with the law request the correction, blocking or deletion of your data. To assert your rights and for any questions you might have, please contact us at TISSOT SA, Chemin des Tourelles 17, 2400 Le Locle, Switzerland, or via contact@tissot.ch</p>
+<p>&nbsp;</p>
+<p>6.2 You have the right not to consent to our use of certain cookies. Please see the section below on cookies for more information on this.</p>
+<p>6.3 The Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that they have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.&nbsp;</p>
+<p>7. Cookies and spyware</p>
+<p>7.1 Use of Cookies and Spyware</p>
+<p>7.1.1 We never use or install spyware on your computer, nor do we use spyware to retrieve information from your computer.</p>
+<p>7.1.2 Like many websites, we use "cookies", which are files saved on your computer's hard drive by your browser and used to collect and store certain information about you.</p>
+<p>7.1.3 Most browsers accept cookies automatically but allow you to disable them. The help menu on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies all together. You can also disable or delete cookies you have previously accepted if you wish to.</p>
+<p>7.1.4 We recommend that you leave cookies "turned on" so that we can offer you a better experience on the Website. If you set your browser to block all cookies (including strictly necessary cookies), you may not be able to access parts of the Website.</p>
+<p>7.1.5 We have set certain cookies on your device and recommend that you agree to their use. If you do not, you may still use the Website, but certain parts of it may not work or may not work as well.&nbsp;</p>
+<p>7.2 We use the following cookies:</p>
+<p><b>7.2.1 Strictly necessary cookies</b>. These are cookies that are required for the operation of the Website and for you to be able to complete services you ask for. They include, for example, cookies that enable you to log into secure areas of the Website.</p>
+<p><b>7.2.2 Functional cookies</b>. These cookies record information about choices you make on the Website, such as your user name, language or the region you are in. In this way, we are able to personalize your visit to the Website.</p>
+<p><b>7.2.3 Performance cookies</b>. These “analytical” cookies allow us to collect information about how visitors use the Website, for example to count visitors and to see how visitors move around the Website. They record your visit to the Website, the pages you have visited and the links you have followed. These cookies do not collect information that identifies you. All information is anonymous. This helps us to improve the way the Website works.</p>
+<p>7.2.3(i) We rely on Google Analytics, a service provided by Google, Inc. (“Google”), to analyze your use of the Website. The information generated by Google Analytics is subject to Google’s privacy policy and will be transferred to and stored by Google on servers in the USA. Prior to the transfer, it will be anonymized by removing the last octet of your IP address. Google will then process it on our behalf in order to evaluate your use of the Website, to compile reports on Website activity and to provide other services related to Internet usage. Google will not link your IP address with any other data held by Google. You may refuse the use of cookies for the aforesaid purposes by setting your browser accordingly; however, in that case, you may not be able to use the full functionality of the Website. You may further opt-out of the collection of your usage data (including your IP address) and its processing by downloading and installing the add-on for your current web browser at <a href="http://tools.google.com/dlpage/gaoptout?hl=en">http://tools.google.com/dlpage/gaoptout?hl=en</a>. For more information about the use of your data by Google, please see <a href="http://www.google.com/analytics/learn/privacy.html">http://www.google.com/analytics/learn/privacy.html</a>.</p>
+<p>7.2.3(ii) For visitors accessing our Website from Mainland China (PRC), we may use the Site Monitor service provided by Miaozhen Ltd., Beijing, PRC, instead of Google Analytics, for the same purposes and within the same limitations, but with servers in the PRC. For opting-out the use of Site Monitor on your browser, please visit <a href="http://i.miaozhen.com/cookie_opt.html">http://i.miaozhen.com/cookie_opt.html</a>.</p>
+<p><b>7.2.4 Social media cookies</b>. These cookies allow you to share Website content with social media platforms (e.g, Facebook, Twitter, Instagram). We have no control over these cookies as they are set by the social media platforms themselves.&nbsp; &nbsp;</p>
+<p><b>7.2.5 Advertisement cookies</b>. These cookies allow us to deliver tailor-made advertisements to you on third party websites based on your interests in our products and services manifested during your visit on our Website. These cookies do not collect information that identifies you. All information is anonymous.</p>
+<p>7.2.5(i) We engage on our Website in interest based advertising, including retargeting or remarketing technology provided by third parties (“Third Party Providers”), such as:</p>
+<ul>
+<li>Criteo SA, Paris, France, <a href="http://www.criteo.com">www.criteo.com</a> (“Criteo”),</li>
+<li>DoubleClick, a division of Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, <a href="www.doubleclickbygoogle.com">www.doubleclickbygoogle.com</a>, (“DoubleClick”), and</li>
+<li>Google Analytics Advertising Features, a service of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA</li>
+<li>Facebook Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland</li>
+<li>Instagram LLC, 1601 Willow Rd. Menlo Park, CA 94025</li>
+<li>Adform A/S, Copenhagen, Denmark, <a href="http://site.adform.com/">http://site.adform.com/</a> (“Adform”)</li>
+</ul>
+<p>to analyze your navigation on our Website. Based on that, we are able to approach you with personalized advertisements. For this purpose, cookies are stored on your computer. During your visit on our Website, neither the Third Party Providers nor TISSOT collect any personalized data, only anonymized data. The engagement of such technology is in full compliance with the relevant data protection legislations. Thanks to such data we can, for example, approach you with advertisement on third party websites which is personalized according to your interests in our products, e.g. after you have visited our Website and showed interest in a particular series of products, this technology may later show you more information in form of advertisements while surfing on another website. The only goal of engaging this technology is to best adapt the available information to your interests and to make your online experience as informative as possible. You can, however, adjust your browser settings to not store such cookies and to delete already stored cookies. Please find in the following the opt-out functions of the Third Party Providers under the following links:</p>
+<ul>
+<li>Criteo: <a href="http://www.criteo.com/privacy">www.criteo.com/privacy</a></li>
+<li>DoubleClick: <a href="https://code.google.com/archive/p/google-opt-out-plugin/">https://code.google.com/archive/p/google-opt-out-plugin/</a></li>
+<li>Google Analytics Advertising Features: <a href="https://tools.google.com/dlpage/gaoptout/">https://tools.google.com/dlpage/gaoptout/</a></li>
+<li>Facebook:&nbsp;<a href="https://www.facebook.com/help/164968693837950">https://www.facebook.com/help/164968693837950</a></li>
+<li>Instagram:&nbsp;<a href="https://www.instagram.com/about/legal/privacy/">https://www.instagram.com/about/legal/privacy/</a></li>
+<li>Adform: <a href="http://site.adform.com/privacy-policy/en">http://site.adform.com/privacy-policy/en</a></li>
+</ul>
+<p>7.2.5(ii) Anonymous data created by using Google Analytics Advertising Features may be used for demographics and interest reporting as well as network impression reporting.</p>
+<p>8. Changes to our privacy policy</p>
+<p>8.1 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.&nbsp;</p>
+<p>9. Contact</p>
+<p>9.1 If you have any questions about this privacy policy, please contact us via <a href="mailto:contact@tissot.ch">contact@tissot.ch</a></p></div>                </div>
+            </div>
+        </div>
+        
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBa_gsLwMEqXZi-7xrmneK1QvHCQeoWE3I&amp;libraries=places" type="text/javascript"></script><script src="/js/stores/map-mobile.js"></script><script src="/js/ajax-rewriter-0.1.min.js"></script><script type="text/javascript">var myMap;jQuery(document).ready(function(){
+myMap = new storesMap();
+myMap.autoMakeSearch = false;
+myMap.base_url_lang = "/en-en/";
+myMap.geolocation();
+});function validateEmail(email) {
+var re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+return re.test(email);
+}jQuery(document).ready(function() {
+jQuery('#newsletter-subscribe-footer').submit(function(e) {
+var mail = jQuery('#newsletter-subscribe-footer input[name=email]').val();
+if (!validateEmail(mail)) {
+e.preventDefault();
+jQuery('#newsletter-subscribe-footer-error').show();
+}
+});
+jQuery('#newsletter-subscribe-footer .ic-mail').click(function() {
+jQuery('#newsletter-subscribe-footer input[type=submit]').trigger('click');
+});
+});</script><div class="section pre-footer"><div class="container-fluid"><div class="block locator col-xs-12 col-md-5"><div class="inside-border"><span class="heading">Store locator</span><form action="javascript: myMap.postForm(false);" method="" class="form-location clearfix"><div class="col-xs-12 col-sm-6 sep"><div class="btn-group"><div class="input-select"><input name="email" type="text" class="form-control" id="addressInput" placeholder="enter a location"><input type="hidden" id="formatedSearchedInput"></div></div></div><div class="col-xs-12 col-sm-6"><a class="geoloc btn text-uppercase" href="https://stores.tissotwatches.com/en-en/stores/index/userposition/true" target="_blank" type="submit"><span class="glyphicon glyphicon-map-marker"></span>Use your location</a></div></form></div></div><div class="block history col-xs-12 col-md-7"><div class="inside-border"><div class="title text-uppercase">Craftsmanship and innovation since 1853
+</div><a href="/en-en//heritage" class="btn-plus btn btn-default">Discover</a></div></div></div></div><!-- Footer --><div class="cookies-banner"><div class="cookies-heading">This website uses cookies. By continuing to browse it, you agree to their use. To find out more about cookies and how to manage them, please&nbsp;<a href="/en-en/shop/privacy-policy">click here</a>.
+</div><div id="cookies-details"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" viewBox="0 0 78 39" xml:space="preserve"><polyline fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0.3,0.3 39,24 78,0.3"></polyline></svg><div class="cookies-menu"><div class="cookies-item"><div class="cookies-button"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" viewBox="0 0 78 39" xml:space="preserve"><polyline fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0.3,0.3 39,24 78,0.3"></polyline></svg></div><div class="cookies-description"></div></div><div class="cookies-item"><div class="cookies-button"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" viewBox="0 0 78 39" xml:space="preserve"><polyline fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0.3,0.3 39,24 78,0.3"></polyline></svg></div><div class="cookies-description"></div></div><div class="cookies-item"><div class="cookies-button"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" viewBox="0 0 78 39" xml:space="preserve"><polyline fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0.3,0.3 39,24 78,0.3"></polyline></svg></div><div class="cookies-description"><div class="text-right"><a id="perf-cookie" href="javascript:void(0)" data-name="perf" data-val="1" class="btn btn-danger btn-sm btn-cookie">Accept</a><a id="perf-cookie" href="javascript:void(0)" data-name="perf" data-val="0" class="btn btn-secondary btn-sm btn-cookie not-active">Refuse</a></div></div></div><div class="cookies-item"><div class="cookies-button"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="24" viewBox="0 0 78 39" xml:space="preserve"><polyline fill="none" stroke="#cccccc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="0.3,0.3 39,24 78,0.3"></polyline></svg></div><div class="cookies-description"><div class="text-right"><a id="adv-cookie" href="javascript:void(0)" data-name="adv" data-val="1" class="btn btn-danger btn-sm btn-cookie">Accept</a><a id="adv-cookie" href="javascript:void(0)" data-name="adv" data-val="0" class="btn btn-secondary btn-sm btn-cookie not-active">Refuse</a></div></div></div></div></div><span class="close">×
+</span></div><script text="javascript">/**
+* detect IE
+* returns version of IE or false, if browser is not Internet Explorer
+*/
+function detectIE() {
+var ua = window.navigator.userAgent;
+// ua = 'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)';
+// ua = 'Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko';
+// ua = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36 Edge/12.0';
+// ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Safari/537.36 Edge/13.10586';
+/*
+var msie = ua.indexOf('MSIE ');
+if (msie > 0) {
+// IE 10 or older => return version number
+return parseInt(ua.substring(msie + 5, ua.indexOf('.', msie)), 10);
+}var trident = ua.indexOf('Trident/');
+if (trident > 0) {
+// IE 11 => return version number
+var rv = ua.indexOf('rv:');
+return parseInt(ua.substring(rv + 3, ua.indexOf('.', rv)), 10);
+}var edge = ua.indexOf('Edge/');
+if (edge > 0) {
+// Edge (IE 12+) => return version number
+return parseInt(ua.substring(edge + 5, ua.indexOf('.', edge)), 10);
+}
+*/
+return false;
+}
+var gDomain = '.tissotwatches.com';
+if (!getCookie().hasOwnProperty('tissot-acc')) {
+jQuery('.cookies-banner').fadeIn();
+setCookie('perf');
+setCookie('adv');
+setCookie('acc'); // Mettre le cookie acc = on a vu on est d'accord
+} else {
+jQuery('.cookies-banner').hide();
+}
+/**
+* Retourne la liste des cookies de ce document
+*/
+function getCookie() {
+return document.cookie.split(';').reduce(function(cookies, cookie) {
+cookies[cookie.split('=')[0].trim()] = unescape(cookie.split('=')[1]);
+return cookies;
+}, {});
+}
+/**
+* Placer le cookie dans le document
+*/
+function setCookie(name) {
+var a = new Date();
+a = new Date(a.getTime() +1000*60*60*24);
+var name = 'tissot-'+name;
+//var value = '8ef6bec3ce1fcdc7-'+name;
+var value = 1;
+var path = '/';
+var domain = gDomain;
+document.cookie = name+"="+value+
+((path) ? ";path="+path:"")+
+((domain)?";domain="+domain:"")+
+";expires="+a.toGMTString();
+}/**
+* Effacer le cookie (passer en révolu)
+*/
+function deleteCookie (name) {
+//console.log(name, 'DELETE');
+var name = 'tissot-'+name;
+var path = '/';
+var domain = gDomain;
+document.cookie = name+"="+
+((path) ? ";path="+path:"")+
+((domain)?";domain="+domain:"")+
+";expires=Thu, 01 Jan 1970 00:00:01 GMT";
+}
+/**
+* Set la hauteur du header sans la banner
+*/
+function setHeaderHeight(){
+var headerHeight = jQuery(".header").height();
+var newHeight = headerHeight;
+if(!jQuery(".header").hasClass("closed-banner")){
+newHeight = headerHeight-52;
+//console.log(newHeight, 'newHeight');
+jQuery(".header").addClass("closed-banner");
+}
+jQuery("body").animate({
+marginTop: newHeight+"px"
+}, 400);
+}
+jQuery(document).ready(function() {jQuery(".bandeau .close").on("click", function () {
+var _this = this;
+setTimeout(function(){                  jQuery(_this).parent().fadeOut();
+}, 100);
+setHeaderHeight();
+//jQuery("body").css("margin-top", "146px");
+setCookie('ecom');
+});
+jQuery('.bandeau').on('touchstart', function () {
+jQuery(this).fadeOut();
+setHeaderHeight();
+setCookie('ecom');
+});
+if (jQuery(".header").hasClass("closed-banner") && !getCookie().hasOwnProperty('tissot-ecom')) {
+setHeaderHeight();
+}
+/*if (!getCookie().hasOwnProperty('tissot-acc')) {
+jQuery('.cookies-banner').fadeIn();
+} else {
+jQuery('.cookies-banner').hide();
+}*/
+if (!getCookie().hasOwnProperty('tissot-ecom')) {
+}        else {
+setHeaderHeight();
+jQuery('.bandeau').hide();
+}
+jQuery('.cookies-menu').on('click', '.btn-cookie', function () {
+var name = jQuery(this).attr('data-name');
+jQuery('.cookies-menu .btn-cookie#'+name+'-cookie').addClass('not-active');
+jQuery(this).removeClass('not-active');
+//console.log(jQuery(this).attr('data-val'));
+var val = jQuery(this).attr('data-val');
+if(val==1) setCookie(name);
+else deleteCookie(name);
+});
+jQuery(".cookies-banner .close").on('click', function(){
+jQuery(".cookies-banner").fadeOut();
+setCookie('acc'); // Mettre le cookie acc = on a vu on est d'accord (même si tout le monde s'en fout)
+});
+if (detectIE() !== false) {
+jQuery('.cookies-banner #cookies-details > svg').css('left', '0');
+}
+});
+</script><div class="footer"><div class="container m_no-gutter"><div class="col-xs-12 col-md-2-4 xs-el xs-dropdown"><div class="row"><div class="col-title">
+	<p>Tissot collections</p>
+</div>
+
+<div class="col-items">
+	<ul>
+<li><a title="MEN" href="https://www.tissotwatches.com/en-en/shop/most-popular/men.html">MEN</a></li>
+<li><a title="WOMEN" href="https://www.tissotwatches.com/en-en/shop/most-popular/women.html">WOMEN</a></li>
+<li><a title="All our watches" href="https://www.tissotwatches.com/en-en/shop/all-our-watches.html">All our watches</a></li>
+<li><a title="Corporate Gifts" href="https://www.tissotwatches.com/en-en/pages/corporate-gifts.html" target="_self">Corporate Gifts</a></li>
+</ul></div></div></div><div class="col-xs-12 col-md-2-4 xs-el xs-dropdown"><div class="row"><div class="col-title">
+	<p>Terms &amp; conditions</p>
+</div>
+
+<div class="col-items">
+	<ul>
+<li><a title="Privacy policy" href="https://www.tissotwatches.com/en-en/shop/privacy-policy">Privacy policy</a></li>
+<li><a title="Terms of use" href="https://www.tissotwatches.com/en-en/shop/terms-of-use">Terms of use</a></li>
+</ul></div></div></div><div class="col-xs-12 col-md-2-4 xs-el xs-dropdown"><div class="row"><div class="col-title"><p>customer service			</p></div><div class="col-items"><ul><li><a href="http://stores.tissotwatches.com/servicecenters/">Find a service center
+</a></li><li><a href="/en-en/catalogue">Online catalogue
+</a></li><li><a href="/en-en/support/prices">Service prices
+</a></li><li><a href="/en-en/cs/measure">watch care
+</a></li><li><a href="/en-en/support/usermanual">Warranty and user's manuals
+</a></li><li><a href="/en-en/faq">FAQ
+</a></li><li><a href="/en-en/stopfake">STOP FAKE
+</a></li></ul></div></div></div><!--
+Array-->
+<div class="col-xs-12 col-md-2-4 xs-el xs-dropdown"><div class="row"><div class="col-title">
+	<p>Online store support</p>
+</div>
+
+<div class="col-items">
+	
+    <div class="contact-us">
+        <a href="https://www.tissotwatches.com/en-en/shop/contacts/"><i class="material-icons"></i> Contact-us</a>
+    </div>
+    
+    <ul>
+<li><a title="Press Lounge" href="http://extranet.tissot.ch/presslounge/" target="_blank">Press Lounge</a></li>
+</ul>	
+	<!--
+    <div class="appointment-in-store">
+        <a href="#"><i class="material-icons"></i> Appointment in store</a>
+    </div>
+    -->
+</div></div></div><div class="col-xs-12 col-md-2-4 xs-el xs-dropdown"><div class="row"><div class="col-title socials"><p>Follow us</p></div><div class="col-items socials"><ul class="socials"><li><a target="_blank" href="http://www.facebook.com/Tissot" title="facebook" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;facebook&quot;
+})">
+<i class="fa fa-facebook"></i></a></li><li><a target="_blank" href="http://instagram.com/tissot_official#" title="instagram" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;instagram&quot;
+})">
+<i class="fa fa-instagram"></i></a></li><li><a target="_blank" href="http://www.twitter.com/tissot" title="twitter" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;twitter&quot;
+})">
+<i class="fa fa-twitter"></i></a></li><li><a target="_blank" href="http://www.youtube.com/tissot" title="youtube" onclick="dataLayer.push({
+&quot;event&quot;: &quot;socialLogoClick&quot;,
+&quot;socialNetwork&quot;: &quot;youtube&quot;
+})">
+<i class="fa fa-youtube"></i></a></li></ul><script type="application/ld+json">{ "@context" : "http://schema.org",
+"@type" : "Organization",
+"name" : "Tissot SA",
+"url" : "https://www.tissotwatches.com",
+"sameAs" : [
+"http://www.facebook.com/Tissot",
+"http://instagram.com/tissot_official#",
+"http://www.twitter.com/tissot",
+"http://www.youtube.com/tissot"
+]
+}
+</script></div></div></div></div></div><div class="subfooter"><div class="container"><div class="logos col-xs-12 col-md-4"><a href="?"><img class="tissot" src="/images/footer/logo-footer.png" alt="Tissot Logo"></a><a title="A COMPANY OF THE SWATCHGROUP" target="_blank" href="http://www.swatchgroup.com/"><img class="swatchgroup" src="/images/footer/logo-swatchgroup.png" alt="SwatchGroup Logo"></a></div></div></div><div class="copyright"><div class="container"><p class="text-uppercase text-center">© Tissot SA - Swiss watches since 1853 - All right reserved</p></div></div>                
+    </div>
+</div>
+<!--START TRACKER ALL PAGES -->
+					
+					
+			
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d948cd645f","applicationID":"33047292,33046596","transactionName":"YARUbUQAW0pUVBBdDVlOd1pCCFpXGlQJR01HAFFcGRdcXEI=","queueTime":0,"applicationTime":309,"atts":"TENXGwwaSEQ=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<div class="responsive-bootstrap-toolkit"><div class="device-xs visible-xs visible-xs-block"></div><div class="device-sm visible-sm visible-sm-block"></div><div class="device-md visible-md visible-md-block"></div><div class="device-lg visible-lg visible-lg-block"></div></div></body></html>
