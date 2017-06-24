@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the multyshades.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212164539id_/http%3A//www.multyshades.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multyshades.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624070903id_/http%3A//www.multyshades.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Multy Shades
 
@@ -8,7 +8,7 @@ This policy may be updated or changed anytime and we encourage you to review it 
 
 ### Collection and Use of Information
 
-We collect personally identifiable information such as names and email addresses only when voluntarily submitted. These information are used merely to fulfill a specific request, for example, to post a comment on our blog, or to subscribe to our mailing list. All emails and newsletters from this site allow you to opt out of further communications.
+We collect personally identifiable information such as names and email addresses only when voluntarily submitted. These information are used merely to fulfill a specific request, for example, to post a comment on our blog, or to subscribe to our mailing list. All emails and newsletters from this site allow you to opt out of further communications.
 
 ### Distribution of Information
 
