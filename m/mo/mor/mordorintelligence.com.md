@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mordorintelligence.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420070039id_/http%3A//www.mordorintelligence.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mordorintelligence.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624160056id_/https%3A//www.mordorintelligence.com/privacy-policy) for the most accurate reproduction.*
 
-# Mordor Intelligence | Market Research Consulting | Market Research Reports | Market Sizing Reports | Industry Research Reports | Global Strategic Business Reports | Competitive Landscape Analysis | Consulting Client Research | Consulting Market Analysis | Market Research Advisory | Custom Market Research - Home
+# Market Research - Consulting, Reports, Advisory, Sizing | Consulting - Client Research, Market Analysis | Competitive Landscape Analysis | Global Strategic Business Reports | Custom Market Research - Mordor Intelligence
 
 Home __ Pages __ PRIVACY POLICY 
 
