@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123115236id_/http%3A//harcourts.co.nz/Popup/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harcourts.co.nz privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624023230id_/http%3A//content.harcourts.co.nz/popup/PrivacyPolicy) for the most accurate reproduction.*
 
-# 
+# Real Estate NZ, Houses for Sale, Rentals, Homes for Sale, Commercial Leasing
 
 ## Privacy Policy
 
