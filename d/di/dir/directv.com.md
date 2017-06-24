@@ -1,144 +1,167 @@
-> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2015-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150630085351id_/http%3A//www.directv.com/DTVAPP/content/legal/guest_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directv.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624071904id_/http%3A//about.att.com/sites/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | AT&T
 
-[Back to All Agreement & Policies](https://web.archive.org/DTVAPP/content/support/agreements_policies)
+## Our Privacy Commitments
 
-* * *
+**Our privacy commitments are fundamental to the way we do business every day. These apply to everyone who has a relationship with us - including customers (wireless, Internet, digital TV, and telephone) and Web site visitors.**
 
-[Printable Privacy Policy ](https://web.archive.org/learn/pdf/DIRECTV-Guest-Privacy-Policy_20131224_FINAL.pdf)   
+  * We will protect your privacy and keep your personal information safe. We use encryption and other security safeguards to protect customer data.
+  * We will not sell your personal information to anyone, for any purpose. Period.
+  * We will fully disclose our privacy policy in plain language, and make our policy easily accessible to you.
+  * We will notify you of revisions to our privacy policy, in advance. No surprises.
+  * You have choices about how AT&T uses your information for marketing purposes. Customers are in control.
+  * We want to hear from you. You can send us questions or feedback on our privacy policy.
 
-**Effective as of December 24, 2013, until replaced**
 
-DIRECTV is dedicated to protecting the privacy of users of our services. This Guest Privacy Policy (this "Policy") explains how DIRECTV collects, uses, and discloses information about you when you visit areas of DIRECTV websites, or use DIRECTV services, that are accessible to the general public, whether through a website, mobile application or other software application operated by us or authorized to receive our services (each, an "Authorized Application"). Your use of any DIRECTV service constitutes your acceptance of this Policy.
 
-This Policy does not apply to the areas of DIRECTV websites or other Authorized Applications that are accessible only to DIRECTV subscribers, which are governed by the DIRECTV Subscriber Privacy Policy (available at www.directv.com). This Policy also does not apply to information about you that you provide or you authorize us to provide on your behalf to, or that is collected by, other companies that allow you to receive information or to purchase or use goods or services through an Authorized Application. Please contact or visit the websites of those companies to obtain copies of their privacy policies.
+## About Our Privacy Policy
 
-This Policy explains our practices in the following areas:  
-1.              Information we collect and how we collect it.  
-2.              How we use your information.  
-3.              How we share your information.  
-4.              Your choices regarding our use of your information.  
-5.              How long we keep your information  
-6.              How we protect your information.  
-7.              How you may access and correct your personally identifiable information.  
-8.              Changes to this Policy.
+Whenever you do something like buy one of our products, watch a show or download an app, information is created. Because we know your privacy is important, we have a Privacy Policy to explain how we collect, use and protect that information. There’s a quick summary below, and the actual policy is written in [an easy to understand “Frequently Asked Questions” (FAQ) format](https://web.archive.org/sites/privacy_policy/terms). We want to simplify this explanation, so you can make informed choices about your privacy, and then spend the rest of your time enjoying our products and services.  
 
-If you have questions about this Policy, you may contact us 24 hours a day, any day of the year, by phone (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)), or mail:
 
-**DIRECTV Privacy Policy**  
-**P.O. Box 6550**  
-**Greenwood Village, CO 80155-6550**
+  
+**Effective July 24, 2015**
 
-**I.  Information we collect and how we collect it.**
+## A Quick Summary of Our Privacy Policy
 
-We collect information from you at various times when you use certain features of our services through a DIRECTV website or other Authorized Application.  The types of information we collect are as follows:  
+Our Privacy Policy applies to your use of all products, services and websites offered by AT&T and our AT&T affiliates, such as DIRECTV, unless they have a different privacy policy. Because some apps, including some AT&T and DTV branded apps, require additional information, or use information in different ways, they may have their own privacy policies and/or terms and conditions. These apps may also offer you additional choices for managing your personal information.
 
+Back to Top
 
-**Personally identifiable information.**  We do not collect personally identifiable information from you unless you provide that information to us by submitting it through a prompt on a DIRECTV website or other Authorized Application, or create or access an online account on a DIRECTV website or other Authorized Application.  The types of personally identifiable information we may collect from you when you create or access an online account include: name; address; email address; telephone number; and user name and password associated with the online account you create.  
+**Our privacy commitments**  
 
 
-**Diagnostic/Servicing information.**  We automatically collect information about the technical operation of Authorized Applications, such as the operating system and type of the device on which an Authorized Application is running, the type of browser used to access a DIRECTV service, the IP address from which a DIRECTV service is accessed, and what programming is streamed or downloaded.  This information can be associated with your personally identifiable information if you are logged into your DIRECTV online account while you are using an Authorized Application.  
+  * We don’t sell your Personal Information to anyone for any purpose. Period.
+  * We keep your Personal Information in our business records while you are a customer, or until it is no longer needed for business, tax or legal purposes.
+  * We will keep your information safe using encryption or other appropriate security controls.
 
 
-**Usage information.**  We may collect certain information about your use of an Authorized Application and about your use of DIRECTV programming and services.  This information includes, but is not limited to, which specific pages of our websites or other Authorized Application you visit or which links you click on, which specific features of our websites or other Authorized Application you use, which specific programs you access, and the extent of your viewing of any program or other use of any DIRECTV service.  If you connect to a third party social media service (such as Facebook, Twitter or Viggle) through an icon or link on the DIRECTV program guide or elsewhere within a DIRECTV service, we will collect the fact that you clicked on the icon or link, the area within the DIRECTV service you clicked on (such as the program listing on which the icon or link is located), and the content or other information you posted through that connection.  If you are logged into your DIRECTV online account while you are using an Authorized Application, usage information may be associated with your personally identifiable information.  
 
+Back to Top
 
-**Location-based information.**  If you use an Authorized Application on a device with GPS-based location features enabled, we may collect and use such information to provide requested location services and to customize certain programming and service options available to you through the Authorized Application.  If you are not logged into your DIRECTV online account while using the Authorized Application, this location data does not personally identify you, but it does provide the real-time geographic location of your device.  You can prevent the collection of GPS-based location information by disabling the GPS functionality on your device.  Please be aware that disabling the GPS functionality on your device may affect the functionality or availability of some DIRECTV programming and services.  
+**Here’s some of the information we collect:**
 
+  * **Account Information** includes your name, address, telephone number, e-mail address, service-related details such as payment data, security codes, service history and other information like that;
+  * **Network Performance & Usage Information** tells us how you use our networks, our products and our services, and how well our equipment and networks are performing;
+  * **Web Browsing & Wireless Application Information** tells us about the websites you visit and the mobile applications you use on our networks;
+  * **Location Information** tells us where your wireless device is located, as well as your ZIP-code and street address;
+  * **TV Viewing Information** tells us about which programs you watch and record and similar information about how you use our video services and applications.
 
-If you use an Authorized Application on a device that does not have GPS- based location functionality, or such functionality is disabled, we may collect and use your IP address or the local time reported by the device, or we may require you to enter your ZIP code, to determine your general location in order to provide customized programming and service options available to you through the Authorized Application.  
 
 
-**Information we collect from third parties.**  We may collect information about you from third parties, such as programmers, servicers, commerce and business partners, consumer reporting agencies, and consumer data companies, and combine it with information we collect from you.  
+Back to Top
 
+**Here are the three basic ways we collect it:**
 
-**Our use of cookies and other technologies.**  Authorized Applications may use cookies, e-tokens, tags, web beacons, web bugs, local shared objects ("LSOs," commonly known as "Flash cookies") and other technologies that help us better understand user behavior, tell us which programs are watched and which features are used, and allow us to control access to certain DIRECTV programs and services by authenticating a user as being authorized to access a particular program or service, identifying personal preferences, and identifying equipment and software configurations as compatible with Authorized Applications.  We also use certain of these technologies to deliver advertisements in our services that relate to your interests and to measure the effectiveness of ad campaigns.  Depending on the Authorized Application, these technologies generally contain only information concerning the DIRECTV programming and services authorized for access by a user, personal preferences recorded by a user, and frequently or recently used features.  No personally identifiable information is stored in these technologies.  
+  * We get information from you when you do things like make a purchase from us;
+  * We collect it from how you use our products and services;
+  * We obtain information from other sources, like credit agencies, marketing companies, and other service providers.
 
 
-If you are uncomfortable with these technologies, you may disable them on devices on which Authorized Applications are running or on the Authorized Applications themselves, or through your web browsers, in each case where such functionality is capable of being disabled.  Please be aware that disabling certain of these technologies, such as browser cookies, may affect the functionality and availability of certain services, such as DIRECTV's personalized online account management functions, and may restrict the type of DIRECTV programming and services (such as video streaming or downloading) that can be accessed from, performed by, displayed on or linked to through an Authorized Application or third party service.  Flash cookies operate differently than browser cookies and cannot be removed or blocked via web browser settings.  To learn more about how to manage Flash cookies, you can visit the Adobe website (at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>) and make changes at the Global Privacy Settings Panel (at <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html>).  
 
+Back to Top
 
-Except as described above with respect to information collected while you are logged into your DIRECTV online account or that you must provide to access certain programs or services, we do not collect, through your use of a DIRECTV website or other Authorized Application, personally identifiable information about your online activities over time or across third party websites or online services.  Accordingly, we do not currently process or comply with web browser "do not track" signals or other third party mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information.  
+**Here are just some of the ways we use it. To:**
 
+  * Provide services and improve your customer experience;
+  * Send you bills for your services;
+  * Respond to your questions;
+  * Address network integrity, help in fraud prevention and network and device security issues;
+  * Do research and analysis to maintain, protect, develop and improve our networks and services;
+  * Let you know about service updates, content, offers and promotions that may be of interest to you;
+  * Improve entertainment options;
+  * Deliver Relevant Advertising;
+  * Create External Marketing & Analytics Reports;
+  * Assist in the prevention and investigation of illegal activities and violations of our Terms of Service or Acceptable Use Policies.
 
-**Links to third party websites and services.**  When you use Authorized Applications, you will find many opportunities to link to websites of third parties, access services offered by third parties, or to voluntarily provide personally identifiable information to third parties.  When you click through to these websites, access these services or provide such information, this Policy no longer applies.  We recommend that you read the privacy policy provided by any such third party.  
 
 
-**II.  How we use your information.**  
-We may use the information we collect to deliver our products and services and to understand user preferences so that we can continue to make DIRECTV the best video and entertainment experience anytime, anywhere.  Specifically, we may use the information for editorial, feedback, marketing and promotion purposes, for statistical research and analysis, for product and service development and enhancement, for content improvement, for quality control and troubleshooting purposes, to verify user qualifications to receive our services, to monitor use of our products and services, and for other legitimate business purposes.  We may also use the information to customize advertising delivered to you via DIRECTV services.  
-In addition, we may use certain information, such as what programming you have streamed or downloaded, to help us recommend viewing choices and personalize your viewing experience, and help you derive additional benefits from our services.  We may also use this information for surveys, audience measurement, and other legitimate business purposes.  For example, we may use your viewing information to recommend programs for you based on programs you view through an Authorized Application.  
+Back to Top
 
+**Some examples of who we share your Personal Information with:**
 
-**III.  How we share your information.**  
+  * **Across our companies** to give you the best customer experience and to help you get everything we have to offer.
+  * **Other, non-AT &T companies that perform services on our behalf** only as needed for them to perform those services. We require them to protect your information consistent with our Policy.
+  * **With other companies and entities, to:**
+    * Respond to 911 requests and other emergencies or exigencies;
+    * Comply with court orders and other legal process;
+    * Assist with identity verification, and preventing fraud and identity theft;
+    * Enforce our agreements and property rights;
+    * and Obtain payment for products and services including the transfer or sale of delinquent accounts to third parties for collection
 
 
-**Affiliates.**  We may share your information with affiliated companies of DIRECTV.  If we choose to share information in this fashion, we will require our affiliates to honor this Policy.  
 
+Back to Top
 
-**Vendors, suppliers and servicers.**  We may also share your information with third parties where it is necessary to conduct a legitimate business activity related to developing, supporting and delivering our products and services and serving our users.  For example, we may share your information with servicers that provide technical assistance, service and product analytics, fraud protection, credit risk reduction, and other support services on our behalf, and that deliver advertisements in our Authorized Applications.  We take reasonable steps to require these third parties to safeguard personally identifiable information and require them to adhere to terms consistent with this Policy.  
+**Understanding Personal, Anonymous & Aggregate Information**
 
+  * What is Personal Information? Information that identifies or reasonably can be used to identify you.
+  * What is Anonymous Information? This is information that doesn’t identify you and can't reasonably be used to identify you specifically.
+  * What is Aggregate Information? We take a whole bunch of people’s data and combine it into anonymous groups or categories.
+  * How do we use this information? We use and share this information in many ways including research, analysis, retail marketing, and Relevant Advertising. This data is also included in External Marketing & Analytics Reports.
+  * Want to learn more? Go [here](https://web.archive.org/sites/privacy_policy/terms#aggregate "Go here to learn more").
 
-**Other companies.**  We may also share your information with third parties: (1) that own content and technologies used in our products and services to report on and account for use of such content and technologies by users of Authorized Applications; or (2) with whom we offer co-branded, joint or customized products or services.  We take reasonable steps to require these third parties to safeguard your personally identifiable information.  
 
 
-**Legal or business obligations.**  We may also share your information with third parties:
+Back to Top
 
-  * In connection with the sale, transfer, or other assignment of our business, including with a company that acquires DIRECTV or all or substantially all of our assets.  If we are acquired by another company or if another company acquires some or all of our assets, that company will possess the personally identifiable information collected by us and will assume the rights and obligations as described in this Policy;
-  * When we believe it is appropriate to comply with legal requirements;
-  * To enforce or apply DIRECTV policies and agreements;
-  * In response to legal process;
-  * To protect our rights and property, including to combat identity theft, to investigate billing fraud and to prevent unauthorized reception of DIRECTV programming or services; or
-  * Where otherwise permitted by law.
+**Our Online Privacy Policy for Children**
 
+  * We want you to know that we don't knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child's parent or legal guardian.
 
 
-In most cases where disclosure of your personally identifiably information is being made pursuant to legal process, we will use reasonable efforts to provide you with prior notice of the subpoena or court order so that you have the opportunity to contest in a court proceeding such subpoena or court order.
 
-**Commerce partners.**  Through our services we may present promotional offers or enable you to buy goods and services from us or third party commerce partners.  When you elect to participate in an offer or engage in a transaction with DIRECTV or any such third party, you may be given to the opportunity to provide, or we, on your behalf, will collect and share with the third party or its agent, the information required to fulfill your request (such as your name, address or other contact information, and interest in the offer or transaction).  This information is shared only upon your affirmative response to an offer or transaction.  Once such information is shared, the use of your information will be subject to the third party's privacy policy and this Policy will not apply.  
+Back to Top
 
+**Your Choices & Controls**
 
-**Social media connections.**  If you connect to a third party social media service (such as Facebook, Twitter or Viggle) through an icon or link on the DIRECTV program guide or elsewhere within a DIRECTV service, we may share the contents of your post and associated information (such as your user name, the fact that your connection originated from a DIRECTV service, and other relevant usage and diagnostic information) with such third party.  This information is shared only when you affirmatively connect with the third party social media service.  Once such information is shared, the use of your information will be subject to that service's privacy policy and this Policy will not apply.  
+  * For information about children’s safety and parental controls, view our [AT&T Smart Controls and DIRECTV Parental Controls](https://www.att.com/shop/wireless/smartcontrols.html "View our AT&T Smart Controls and DIRECTV Parental Controls").
+  * You have choices about certain types of advertising you get from us;
+  * You can control whether your anonymous information is used in our External Marketing & Analytics Reports;
+  * You can choose whether to receive marketing calls, e-mails or text messages or certain other communications from us;
+  * You have a choice about how we use your Customer Proprietary Network Information.
 
 
-**Non-personally identifiable information.**  We may anonymize or aggregate any information we collect so that the information does not identify you.  Our use and disclosure of such anonymized, aggregated, and other non-personally identifiable information is not subject to any restrictions under this Policy and we may use it and disclose it to others for any purpose without limitation.  
 
+Back to Top.
 
-**IV.  Your choices regarding our use of your information.**  
-Your use of a DIRECTV website or other Authorized Application constitutes your explicit consent to our collection, use and disclosure of your information, including your personally identifiable information, as provided in this Policy.  
+Visit our [Privacy Policy](https://web.archive.org/sites/privacy_policy/full_privacy_policy "Privacy Policy") for more information.
 
+  * [Definitions](https://web.archive.org/sites/privacy_policy/terms#definitions "Definitions")
+  * [Scope of this Policy](https://web.archive.org/sites/privacy_policy/terms#scope "Scope of this Policy")
+  * [The Information We Collect, How We Collect It, And How We Use It](https://web.archive.org/sites/privacy_policy/terms#collect "The Information We Collect, How We Collect It, And How We Use It")
+  * [Information Sharing](https://web.archive.org/sites/privacy_policy/terms#sharing "Information Sharing")
+  * [Online Activity Tracking and Advertising](https://web.archive.org/sites/privacy_policy/terms#tracking "Online Activity Tracking and Advertising")
+  * [Location Information](https://web.archive.org/sites/privacy_policy/terms#location "Location Information")
+  * [Aggregate and Anonymous Information](https://web.archive.org/sites/privacy_policy/terms#aggregate "Aggregate and Anonymous Information")
+  * [External Marketing & Analytics Reports](https://web.archive.org/sites/privacy_policy/terms#analytics "External Marketing & Analytics Reports")
+  * [Online Privacy Policy for Children](https://web.archive.org/sites/privacy_policy/terms#children "Online Privacy Policy for Children")
+  * [Data Protection & Security](https://web.archive.org/sites/privacy_policy/terms#protection "Data Protection & Security")
+  * [Changes](https://web.archive.org/sites/privacy_policy/terms#changes "Changes")
+  * [Choices & Controls](https://web.archive.org/sites/privacy_policy/terms#controls "Choices & Controls")
+  * [How to Contact Us](https://web.archive.org/sites/privacy_policy/terms#contact "How to Contact Us")
 
-You may request that certain uses and disclosures of your information be restricted as described below:  
 
 
-**Communications from DIRECTV.**  We may, from time to time, use your information to contact you by mail, e-mail or telephone to tell you about products or services that we or third parties may offer.  If you do not wish to receive such calls or promotional materials from DIRECTV, call (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  If you make these choices, you understand that we will not be able to inform you about any upcoming features, improvements, or promotions regarding DIRECTV products or services.  
+  
+**Your California Privacy Rights**  
+California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed Personal Information to any third parties for their direct marketing purposes. As stated in this Privacy Policy, we will not sell your Personal Information to other companies and we will not share it with other companies for them to use for their own marketing purposes without your consent.
 
+**California Web Site Data Collection & "Do Not Track" Notices**
 
-**Advertisements in our products and services.**  You may request not to receive advertisements in our video services selected for you based on your personally identifiable information by calling 1-800-DIRECTV.  However, you may still continue to receive advertisements that are related to the content on a web page you are visiting or in a service you are using or based on other non-personally identifiable information.  Your request to not receive advertisements applies only to DIRECTV advertising services and does not affect interest-based advertising from commerce partners with whom your information has been shared as provided above, or from other parties (such as advertising networks) that may have access to your information through other services available on an Authorized Application.  To the extent a third party advertisement displayed through an Authorized Application contains third party cookies or other technologies, such third party may be able to collect personally identifiable information about your online activities over time or across third party websites or online services.  This Policy does not apply to a third party's collection and use of your information under such circumstances, and we recommend that you read the privacy policy provided by any such third party.  
+**Web Site Data Collection:** We do not knowingly allow other parties to collect personally identifiable information about your online activities over time and across third-party web sites when you use our websites and services. We provide information about the opt-out choices available to customers, and the opt-out choices provided by certain third-party website and mobile application analytics companies we use [here](https://web.archive.org/sites/privacy_policy/rights_choices "AT&T Choices and Controls").
 
+**"Do Not Track" Notice:** Because the providers of "do not track" and similar signals do not yet operate according to common, industry-accepted standards, we currently do not respond to those signals. For more information on Do Not Track, please visit [www.allaboutdnt.com](http://www.allaboutdnt.com/ "All About Do Not Track").
 
-**V.  How long we keep your information.**  
+California customers who wish to request further information about our compliance with these requirements, or have questions or concerns about our privacy practices and policies may contact us at [privacypolicy@att.com](mailto:privacypolicy@att.com "Email privacypolicy@att.com"), or write to us at AT&T Privacy Policy, Chief Privacy Office, 208 S. Akard, Room 1033, Dallas, TX 75202.
 
+Back to top
 
-We maintain your information as long as necessary for the purpose(s) for which it was collected or as required by law.  When such information is no longer necessary for our business purposes, we destroy it unless there is an outstanding request or order to preserve it.  
+### We Want to Hear from You
 
+Thanks for your feedback on our updated Privacy Policy. We heard you and, as a result, we're adding additional information on how you can exercise your privacy choices. We appreciate you as a customer and we value your thoughts. Please continue to share your feedback through our [privacy mailbox](mailto:privacypolicy@att.com).
 
-**VI.  How we protect your information.**  
+### Welcome DIRECTV Customers
 
-
-We have implemented reasonable administrative, technical, and physical safeguards to protect your information.  However, no system is completely secure or error-free.  We do not, and cannot, guarantee the complete security of your information.  
-
-
-**VII.  How you may access and correct your personally identifiable information.**  
-
-
-You may obtain access to your personally identifiable information and correct any errors in such information by accessing your DIRECTV online account or contacting us anytime by phone (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)) or mail (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  
-
-
-**VIII.  Changes to this Policy.**  
-
-
-We reserve the right to change this Policy at any time.  If we make a material change with regard to our collection or use of personally identifiable information, we will note on the main page of our website that this Policy has been updated and may take additional reasonable steps to notify you about the new or revised policy.  To comment on or ask about this Policy, call (1-800-531-5000), e-mail ([www.directv.com/email](http://www.directv.com/email)) or mail us (DIRECTV Privacy Policy, P.O. Box 6550, Greenwood Village, CO 80155-6550).  
-
-
-©2013 DIRECTV.  DIRECTV and the Cyclone Design logo are trademarks of DIRECTV, LLC.  All other trademarks and service marks are the property of their respective owners.
+DIRECTV is now part of the AT&T family. For convenience, all AT&T products and services are covered under a single, easy-to-read Privacy Policy. The policy lays out our commitments to privacy and describes our policies for helping to protect personal information. We invite you to learn more about our commitments, safeguards and customer choices by reviewing our AT&T Policy, and we [welcome your feedback](mailto:privacypolicy@att.com).
