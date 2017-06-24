@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bangbroschat.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128084150id_/http%3A//www.bangbroschat.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbroschat.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624094837id_/http%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
 
-# Bangbroschat - Free live cam girls and sex chat
+# Camster - Free live cam girls and sex chat
 
 ## Privacy Policy
 
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, Bangbroschat.com (the “Site”, “we” or “us”) operated by DONAMIS, LLC. This Privacy Policy solely relates to how the Site may use your information and does not relate to how any members or models/performers on the Site may use information you disclose to them. Members and models/performers are not in anyway governed by this policy and you should exercise caution in sharing any information with them. 
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, Camster.com (the “Site”, “we” or “us”) operated by Donamis, LLC. This Privacy Policy solely relates to how the Site may use your information and does not relate to how any members or models/performers on the Site may use information you disclose to them. Members and models/performers are not in anyway governed by this policy and you should exercise caution in sharing any information with them. 
 
 **Adults Only Service**
 
@@ -40,5 +40,5 @@ We may change this privacy policy at any time. No change in the privacy policy w
 
 The Site are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
 
-DONAMIS, LLC.  
+Donamis, LLC.  
 
