@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryshopforfree.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222194743id_/http%3A//www.groceryshopforfree.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryshopforfree.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093945id_/http%3A//www.groceryshopforfree.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
