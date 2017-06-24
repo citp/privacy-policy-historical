@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petalinadolls.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122191249id_/http%3A//www.petalinadolls.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petalinadolls.co.uk privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624235843id_/http%3A//www.petalinadolls.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Petalina
 
