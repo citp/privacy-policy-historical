@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwec.edu privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119035127id_/https%3A//www.uwec.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwec.edu privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624084053id_/https%3A//www.uwec.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | University of Wisconsin-Eau Claire
 
@@ -68,17 +68,3 @@ University of Wisconsin-Eau Claire
 Eau Claire, WI, 54702 
 
 Privacy Statement last updated on Sunday, January 4, 2015  at  5:53 PM .
-
-Thanks for your interest in UW-Eau Claire. Let's get started!
-
-Select a student category below for admission guidelines, important deadlines and instructions.
-
-**NOTE:** To complete your application to UW-Eau Claire you will be taken off of this website to access the UW System online admission application.
-
-  
-  
-
-
-If you want to apply for employment, please click [here.](https://www.uwec.edu/hr/)
-
-×
