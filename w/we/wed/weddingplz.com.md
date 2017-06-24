@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingplz.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121220711id_/https%3A//www.weddingplz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingplz.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624030737id_/https%3A//www.weddingplz.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | WeddingPlz
 
