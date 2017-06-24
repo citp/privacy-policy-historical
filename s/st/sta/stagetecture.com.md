@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stagetecture.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223093125id_/http%3A//stagetecture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagetecture.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624022439id_/http%3A//stagetecture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
