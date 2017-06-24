@@ -1,43 +1,36 @@
-> *The following text is extracted and transformed from the mcfc.com privacy policy that was archived on 2016-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160902231338id_/http%3A//www.mancity.com/en/Common/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcfc.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624110259id_/http%3A//www.mancity.com/Common/Privacy) for the most accurate reproduction.*
 
 # - Manchester City FC
 
 ## Privacy Policy
 
-This privacy policy forms part of our [terms of use](http://www.mancity.com/Common/Terms) ** ** and sets out the way in which your personal information is handled by Manchester City Football Club (“ **Man City** ”) and other members of the City Football Group (referred to as “ **we** ”, “ **us** ” and “ **our** ”), whether collected through one of the websites operated and managed by us, at the stadium or other collection points from time to time.
+**PRIVACY POLICY**
 
-For the purpose of the Data Protection Act 1998, the data controller is City Football Group Limited (company number: 08355862) whose registered office is at Regent’s Place, 14th Floor, 10 Brock Street, London, NW1 3FG 
+This privacy policy forms part of our terms of use [http://www.mancity.com/en/common/terms](http://www.mancity.com/en/common/terms) ** ** and sets out the way in which your personal information is handled by Manchester City Football Club (“ **Man City** ”) and other members of the City Football Group (referred to as “ **we** ”, “ **us** ” and “ **our** ”), whether collected through one of the websites operated and managed by us, at the stadium or other collection points from time to time.
+
+For the purpose of the Data Protection Act 1998, the data controller is City Football Group Limited (company number: 08355862) whose registered office is at Regent’s Place, 14th Floor, 10 Brock Street, London, NW1 3FG. 
 
 **_Marketing preferences and preference centre_**
 
-There are many exciting promotions, news, features and activities we and our commercial partners want to keep in touch with you about.  When you register with us, or provide us with your personal information, there will be two consent boxes that allow you to indicate your preferences in this respect.
+There are many exciting promotions, news, features and activities we and our commercial partners want to keep in touch with you about.  When you register with us, or provide us with your personal information, there will be a consent box that allows you to indicate your preference in this respect.
 
-If you don't want to hear from Man City and the City Football Group, or our commercial partners, you need to tick these opt-out boxes:
+If you opt-in it means that we will let you know about exciting promotions, news, features and activities of Man City, the City Football Group and/or our commercial partners.
 
-□ Manchester City Football Club and the City Football Group
+Providing this consent means you get the following fantastic promotions, news, features and more:
 
-□ Manchester City Football Club and the City Football Group Commercial Partners
-
-If you tick these boxes it means that Man City, the City Football Group and/or our commercial partners will not let you know about exciting promotions, news features and activities.
-
-Leaving these boxes unticked means you get the following fantastic promotions, news features and more:
-
-  * From: Blue Print Newsletter, Matchday, Post Match Videos, Ticket Alert, Hospitality & Events and Retail, as well as exclusive offers, products and services on behalf of our commercial partners.
-  * From our commercial partners: occasional communications and messages on their exclusive offers, products and services.
+  * Blue Print Newsletter, Matchday, Post Match Videos, Ticket Alert, Hospitality & Events and Retail, as well as exclusive offers, products and services on behalf of our commercial partners.
 
 
 
-We will usually send updates from our commercial partners to you on their behalf. But, if you didn't tick the commercial partners opt-out box when you submitted your personal information we have assumed you are happy for us to share your personal information with our commercial partners for the purposes listed above.
+Just to make sure you are happy with your preferences we will get in touch once a year by email to check you are happy with what you are (or are not) receiving from us and that the information we hold about you is up to date.  If you do not want us to get in contact once a year please let us know by emailing [fanengagement@mancity.com](mailto:fanengagement@mancity.com).  
 
-Just to make sure you are happy with your preferences we will get in touch once a year by email to check you are happy with what you are (or are not) receiving from us and that the information we hold about you is up to date.  If you do not want us to get in contact once a year please let us know by emailing [fanengagement@mancity.co.uk](mailto:fanengagement@mancity.co.uk) 
-
-You can also change your mind at any time via your [preference centre](https://supporters.mancity.co.uk/signin).  You can update your personal information if it changes by logging into your account or messaging us via [help](http://mcfc.force.com/help) .
+You can also change your mind at any time via your preference centre ** ** http://identity.mancity.com/SignIn.  You can update your personal information if it changes by logging into your account or messaging us via [http://mcfc.force.com/help](http://mcfc.force.com/help).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
 **_Our commercial partners and the City Football Group_**
 
-For a current list of our sponsors, licensees and partners please [click](https://www.mancity.com/The-Club/Club-Partners) .  These may change from time to time, so please come and check the list regularly.
+For a current list of our sponsors, licensees and partners please visit http://www.mancity.com/en/club-and-community/club/partners.  These may change from time to time, so please come and check the list regularly.
 
 When we refer to the City Football Group, we are referring to the other companies that form part of our corporate group. Some of these companies may be involved in helping to provide the services and communications referred to in this privacy policy, or as requested by you from time to time.
 
@@ -66,20 +59,20 @@ All the personal information we collect about you is stored by us or our service
 
 We may also use the personal information we collect about you to create statistics and anonymised information to then share with third parties including ad networks, search engines and analytics providers.
 
-As well as sharing your personal information with our commercial partners, we may share your information with business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
+We may share your information with business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
 
 We may disclose your personal information to third parties in the following circumstances:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal information to the prospective seller or buyer of such business or assets.
   * If Man City or any other members of the City Football Group or substantially all of their assets are acquired by a third party, in which case personal information held by them about their customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal information in order: to comply with any legal obligation, court or police request, or in order to enforce or apply our [terms of use](http://www.mancity.com/Common/Terms)  ** ** or [terms and conditions of sale](https://www.mancity.com/Tickets-and-Seasoncards/General-Information) and other agreements; or to protect the rights, property, or safety of Man City and the City Football Group, our customers, or others.  This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal information in order: to comply with any legal obligation, court or police request, or in order to enforce or apply our terms of use [http://www.mancity.com/en/common/terms](http://www.mancity.com/en/common/terms) or terms and conditions of sale [http://www.mancity.com/ticket-information/terms-and-conditions](http://www.mancity.com/ticket-information/terms-and-conditions) and other agreements; or to protect the rights, property, or safety of Man City and the City Football Group, our customers, or others.  This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
 We may share your information with selected third parties including:
 
   * Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
-  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others.
+  * Advertisers and advertising networks that require the data to select and serve relevant adverts to you and others. 
   * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
 
 
@@ -94,7 +87,7 @@ Our websites contain links to other websites.  We are only responsible for the 
 
 **_Your rights to access your personal information_**
 
-You have the right to receive a copy of the personal information that we hold about you.  We may charge a small fee towards the cost of administering any request you make.  If you would like to make such a request please contact [help](http://mcfc.force.com/help).
+You have the right to receive a copy of the personal information that we hold about you.  We may charge a small fee towards the cost of administering any request you make.  If you would like to make such a request please contact [http://mcfc.force.com/help](http://mcfc.force.com/help).
 
 **_Children’s privacy policy_**
 
@@ -102,18 +95,18 @@ If you are under 16, please read this section of the privacy policy and speak to
 
 You can use our websites without providing us with any of your personal information. If you do provide us with your personal information we will use it as set out on the website. For example if you sign up to get the newsletter, we will use your email address to send you the newsletter and news, updates and promotions we think you might like.
 
-If you are under 12, and register on [mancity.com](http://www.mancity.com/) we will not send you any emails or sms until after your 12th birthday. After your 12th birthday we will email to let you know how we are going to get in contact with you about Man City and our exciting news, features and activities. We encourage you to talk with your parent/guardian about the information we send to you, and check that they are happy for you to continue to receive this information. If you do not tell us you do not want to receive this information any more, we will assume you have your parent and/or guardian's consent to continue to receive this information.
+If you are under 12, and register on www.mancity.com we will not send you any emails or sms until after your 12th birthday. After your 12th birthday we will email to let you know how we are going to get in contact with you about Man City and our exciting news, features and activities. We encourage you to talk with your parent/guardian about the information we send to you, and check that they are happy for you to continue to receive this information. If you do not tell us you do not want to receive this information any more, we will assume you have your parent and/or guardian's consent to continue to receive this information.
 
-You can ask us to stop sending you any emails, SMS or other communications at any time. In each message we send you there will be an 'unsubscribe' option, if you follow these instructions we will stop sending the messages. You can also send us a message to [help](http://mcfc.force.com/help) ** ** if you have any questions, want us to stop sending you messages or want to change any of the information you have given to us.
+You can ask us to stop sending you any emails, SMS or other communications at any time. In each message we send you there will be an 'unsubscribe' option, if you follow these instructions we will stop sending the messages. You can also send us a message to [http://mcfc.force.com/help](http://mcfc.force.com/help) ** ** if you have any questions, want us to stop sending you messages or want to change any of the information you have given to us.
 
-If you are a parent or guardian of a child who is using [mancity.com](http://www.mancity.com/) or otherwise in contact with us, we recommend that you supervise your child while they are online and check what personal information your child is providing to us.
+If you are a parent or guardian of a child who is using www.mancity.com or otherwise in contact with us, we recommend that you supervise your child while they are online and check what personal information your child is providing to us.
 
-Things work slightly differently on our [Junior Cityzens website](http://juniorcityzens.mancity.com/) , the same rules apply to the personal information we collect about you – we will use for the purposes we have told you about when we collect your information. But if you are under 12, when you sign up we ask you for your parent/guardian's email address so we can let them know you are registering on Junior Cityzens. If you are aged 12 to 13, we ask that you check with your parent/guardian before signing up and then let us know that they are happy for you to do so.
+Things work slightly differently on our Junior Cityzens website https://juniorcityzens.mcfc.co.uk, the same rules apply to the personal information we collect about you – we will use for the purposes we have told you about when we collect your information. But if you are under 12, when you sign up we ask you for your parent/guardian's email address so we can let them know you are registering on Junior Cityzens. If you are aged 12 to 13, we ask that you check with your parent/guardian before signing up and then let us know that they are happy for you to do so.
 
-We make sure that any information or marketing that we send to under 18's is always age appropriate. If you have any concerns about the information your child is receiving please contact us on [help](http://mcfc.force.com/help).
+We make sure that any information or marketing that we send to under 18's is always age appropriate. If you have any concerns about the information your child is receiving, please contact us on [http://mcfc.force.com/help](http://mcfc.force.com/help).
 
 **_Changes to this privacy policy_**
 
 We may change our privacy policy at any time, so we recommend that you visit this page occasionally to check what has changed. 
 
-**Last updated 28 June 2016**
+**Last updated 18 April 2017**
