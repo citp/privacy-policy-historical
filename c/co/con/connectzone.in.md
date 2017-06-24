@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528191600id_/http%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectzone.in privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624152206id_/http%3A//www.connectzone.in/privacy-policy.php) for the most accurate reproduction.*
 
-# 
+# Best Broadband in Punjab and Chandigarh Area - Connect Broadband
 
 This Privacy Policy (“Policy”) governs the manner in which Quadrant Televentures Limited (QTL) (the “Company” or “We”) collects, uses, maintains and discloses information collected from the users (each, a “User”) of various services (“Services”) provided by the Company, either through website of the Company or through mobile applications or network telecom operators to protect the privacy of personal information of our customers which has been provided to us in order to access our services. Our Privacy Policy is designed and developed to ensure the privacy and security of Customer’s sensitive personal information provided to us. For the purpose of this policy, sensitive personal data or information of customer’s has been considered as a part of personal information. 
 
