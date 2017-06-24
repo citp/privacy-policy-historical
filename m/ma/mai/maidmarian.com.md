@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maidmarian.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Maid Marian MMORPG - Massive Multiplayer Web Games
 
-[**Home**](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/free-mmorpg.htm)
+[**Home**](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/free-mmorpg.htm)
 
 About Us  
-[News](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/news.htm)  
-[Press Releases ](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/pressreleases.htm)
+[News](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/news.htm)  
+[Press Releases ](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/pressreleases.htm)
 
-[Sherwood](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/SherwoodLanding.htm)  
-[Club Marian](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/ClubMarianLanding.htm)  
-[Moon Base](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/MOONBASE.htm)  
-[Tank Ball ](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/Tank.htm)  
-[Ratinator](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/Ratinator3.htm)  
-[Colin's Carrera](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/carrara.htm)
+[Sherwood](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/SherwoodLanding.htm)  
+[Club Marian](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/ClubMarianLanding.htm)  
+[Moon Base](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/MOONBASE.htm)  
+[Tank Ball ](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/Tank.htm)  
+[Ratinator](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/Ratinator3.htm)  
+[Colin's Carrera](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/carrara.htm)
 
 [Screen Shots  
-](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/visuals.htm) [Developer Diary  
-](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/DevDiary.htm) [Linking Policy](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/LinkingPolicy.htm) [Terms of Service  
-](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/TermsOfService.htm) [Privacy Policy  
-](https://web.archive.org/web/20161120015822id_/http%3A//maidmarian.com/PrivacyPolicy.htm)
+](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/visuals.htm) [Developer Diary  
+](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/DevDiary.htm) [Linking Policy](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/LinkingPolicy.htm) [Terms of Service  
+](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/TermsOfService.htm) [Privacy Policy  
+](https://web.archive.org/web/20170624114306id_/http%3A//www.maidmarian.com/PrivacyPolicy.htm)
 
 |  | 
 
