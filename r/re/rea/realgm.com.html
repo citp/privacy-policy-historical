@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the realgm.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229061818id_/http%3A//basketball.realgm.com/info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realgm.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624053823id_/http%3A//basketball.realgm.com/info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" style=""><!--<![endif]--><head>
       <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -13,130 +13,58 @@
 <script src="/js/vendor/jquery-1.11.0.min.js"></script>
 <link rel="stylesheet" href="/css/ui/jquery-ui.min.css">
 <script src="/js/vendor/jquery-ui.min.js"></script>
+<script src="//biddr.brealtime.com/30401267-711.js" type="text/javascript"></script>
 <script type="text/javascript">
-   !function(o){function n(e){if(t[e])return t[e].exports;var c=t[e]={exports:{},id:e,loaded:!1};return o[e].call(c.exports,c,c.exports,n),c.loaded=!0,c.exports}var t={};return n.m=o,n.c=t,n.p="",n(0)}({0:function(o,n,t){"use strict";function e(){_||(_=!0,p=window._sp_&&window._sp_.config||{},w=p.content_control_callback||window._sp_lock,l=p.account_id||p.client_id||window.sp_cid)}function c(o,n){var t=arguments.length<=2||void 0===arguments[2]?"":arguments[2],e=new Image;e.src="//"+m+"/cct?v="+encodeURIComponent(h)+"&ct=1&cid="+encodeURIComponent(l)+"&l="+encodeURIComponent(o)+"&rc="+encodeURIComponent(n)+"&d0="+encodeURIComponent(t)}function r(o,n,t,e){var c=!(arguments.length<=4||void 0===arguments[4])&&arguments[4],i=c?function(){return r(o,n,t,e,!0)}:t;o(n,i,e)}function i(o,n,t){t=t||{};var e=document.createElement("script");e.src=o,e.onload=t.onLoad||function(){},e.onerror=function(){s(o,n,t.onError)},document.head.appendChild(e),document.querySelector('script[src="'+o+'"]')||n(R)}function s(o,n,t){var e=new XMLHttpRequest;try{e.open("HEAD",o)}catch(r){var i=document.createElement("a");i.src=o,window.location.protocol===i.protocol&&n(I)}e.onreadystatechange=function(){4===this.readyState&&("2"===this.status.toString()[0]||0===this.status?n(g):(c(v,x,this.status+"::"+o),t&&t(this)))};try{e.send()}catch(r){n(C)}}function d(o){c(b,o),w&&setTimeout(function(){w()},250)}function a(o,n){e(),n&&(w=window._sp_lock=n),r(i,o,d)}function u(o,n){e(),r(i,o,d,n)}var p,w,l,f=t(216),_=!1,m=f.be.join(""),h=f.bv,v=0,x="n",b=1,g="n",C="xs",I="xo",R="s";window._sp_=window._sp_||{},window._sp_.bootstrap=u,window.spBootstrap=a},216:function(o,n){"use strict";o.exports={be:["w","w","w",".","c","r","a","s","h","f","o","o","t","w","o","r","k",".","c","o","m"],bv:"1.7.229"}}});
-   
-   /*
-    * Setup googletag for GPT loading
-    */
-   function resetRGM(isAdblocker) {
-      
-      if (isAdblocker && googletag && googletag.cmd) {
-         googletag.cmd.push( function() { googletag.destroySlots();});
-      }
+   var googletag = googletag || {};
+   googletag.cmd = googletag.cmd || [];
+   (function() {
+   var gads = document.createElement('script');
+   gads.async = true;
+   gads.type = 'text/javascript';
+   var useSSL = 'https:' == document.location.protocol;
+   gads.src = (useSSL ? 'https:' : 'http:') + 
+   '//www.googletagservices.com/tag/js/gpt.js';
+   var node = document.getElementsByTagName('script')[0];
+   node.parentNode.insertBefore(gads, node);
+   })();
+</script>
 
-      window.googletag = {};
-      window.googletag.cmd = [];
-      
-      var width = document.documentElement.clientWidth;
+<script type="text/javascript">
+   var _bbrlAdaptor = '/bbrlAdaptor.swf';
+   googletag.cmd.push(function() {
 
-      var smallLeaderSize; var leaderSize; var boxSize; var skySize;
-      if (width < 320) { // feature phones
-         smallLeaderSize = [88, 31];
-         leaderSize = [88, 31];
-         boxSize = [88, 31];
-         skySize = [88, 31];
-      } else if (width >= 320 && width < 728) { // smartphones
-         smallLeaderSize = [[88, 31], [320, 100], [320, 50]];
-         leaderSize = [[320, 100], [320, 50]];
-         boxSize = [[320, 250], [320, 100], [320, 50]];
-         skySize = [[320, 100], [320, 50]];
-      } else { // desktops and tablets
-         smallLeaderSize = [[88, 31], [320, 100], [320, 50], [728, 90], [970, 90], [970, 250]];
-         leaderSize = [[728, 90], [970, 90], [970, 250]];
-         boxSize = [[300, 250], [300, 600], [125, 125], [180, 150], [200, 200], [250, 250], [180, 150]];
-         skySize = [[160, 600], [120, 600]];
-      }
+   var width = document.documentElement.clientWidth;
 
-      if (!isAdblocker) {
-         var _bbrlAdaptor = 'http://basketball.realgm.com/bbrlAdaptor.swf';
-         googletag.cmd.push(function () {
-            googletag.defineSlot('/1003150/RWDBox', boxSize, 'div-gpt-ad-1420572802560-0').addService(googletag.pubads());
-            googletag.defineSlot('/1003150/RWDLeader', leaderSize, 'div-gpt-ad-1420572802560-1').addService(googletag.pubads());
-            googletag.defineSlot('/1003150/RWD2ndLead', smallLeaderSize, 'div-gpt-ad-1422403461768-0').addService(googletag.pubads());
-                        googletag.defineSlot('/1003150/Mobile300x250', [300, 250], 'div-gpt-ad-1425603499316-0').addService(googletag.pubads());
-            googletag.pubads().setCentering(true);
-            googletag.enableServices();
-         });
-      } else {
-         googletag.cmd.push(function () {
-            googletag.defineSlot('/1003150/SPBox', boxSize, 'div-gpt-ad-1420572802560-0').addService(googletag.pubads());
-            googletag.defineSlot('/1003150/SPBanner', leaderSize, 'div-gpt-ad-1420572802560-1').addService(googletag.pubads());
-            googletag.defineSlot('/1003150/SP2ndLead', smallLeaderSize, 'div-gpt-ad-1422403461768-0').addService(googletag.pubads());
-                        googletag.defineSlot('/1003150/Mobile300x250', [300, 250], 'div-gpt-ad-1425603499316-0').addService(googletag.pubads());
-            googletag.pubads().setCentering(true);
-            googletag.enableServices();
-             googletag.display('div-gpt-ad-1420572802560-0');
-             googletag.display('div-gpt-ad-1420572802560-1');
-             googletag.display('div-gpt-ad-1422403461768-0');
-                          googletag.display('div-gpt-ad-1425603499316-0');
-         });
-      }
-  }
-
-   /*
-    * Prepare the googletag object and fill the cmd queue
-    */
-   resetRGM(false);
-
-   var gptLoadComplete = false;
-   var isBlocking = false;
-
-   /*
-    *  Reset and load GPT via Sourcepoint proxy if initial GPT load complete and adblocker detected
-    */
-   function resetAndLoadGPTRecovery () {
-      if (gptLoadComplete && isBlocking) {
-         console.log('reset and load');
-         resetRGM(true);
-         window._sp_.dfp.loadGPT();
-      }
+   var smallLeaderSize; var leaderSize; var boxSize; var skySize;
+   if (width < 320) { // feature phones
+      smallLeaderSize = [88, 31]; 
+      leaderSize = [88, 31]; 
+      boxSize = [88, 31];
+      skySize = [88, 31];
+   } else if (width >= 320 && width < 728) { // smartphones
+      smallLeaderSize = [[88, 31],[320, 100], [320, 50]];
+      leaderSize = [[320, 100], [320, 50]];
+      boxSize = [[320, 250], [320, 100], [320, 50]];
+      skySize = [[320, 100], [320, 50]];
+   } else { // desktops and tablets
+      smallLeaderSize = [[88, 31], [320, 100], [320, 50], [ 728, 90], [970, 90], [970, 250]];
+      leaderSize = [[728, 90], [970, 90], [970, 250]]; 
+      boxSize = [[300, 250], [300, 600], [125, 125], [180, 150], [200, 200], [250, 250], [180, 150]]; 
+      skySize = [[160, 600], [120, 600]]; 
    }
 
-   /*
-    *  Standard way to load GPT as recommended by Google
-    *  Add callbacks to set our 'gptLoadComplete' flag and optionally load recovery
-    */
-   var gptUrl = ('https:' === document.location.protocol ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
-
-   (function() {
-      var gads = document.createElement('script');
-      gads.async = true;
-      gads.type = 'text/javascript';
-      var useSSL = 'https:' == document.location.protocol;
-      gads.src = (useSSL ? 'https:' : 'http:') +
-              '//www.googletagservices.com/tag/js/gpt.js';
-      gads.onload =  gads.onerror = function () {
-         gptLoadComplete = true;
-         resetAndLoadGPTRecovery();
-      };
-      var node = document.getElementsByTagName('script')[0];
-      node.parentNode.insertBefore(gads, node);
-   })();
-
-   window._sp_ = window._sp_ || {};
-   window._sp_.config = window._sp_.config || {};
-   window._sp_.config.account_id = 8;
-   window._sp_.config.publisher_base = '//sp.realgm.com/abc';
-   window._sp_.config.gpt_auto_load = false;
-   window._sp_.config.enable_rid = true;
-   window._sp_.config.enable_vid = true;
-   window._sp_.config.content_control_callback = function() {
-      // window.location = "http://basketball.realgm.com/adblock.html";
-   };
-
-   document.addEventListener('sp.blocking', function (e) {
-      console.log('spb');
-      isBlocking = true;
-      resetAndLoadGPTRecovery();
+   googletag.defineSlot('/1003150/RWDBox', boxSize, 'div-gpt-ad-1420572802560-0').addService(googletag.pubads());
+   googletag.defineSlot('/1003150/RWDLeader', leaderSize, 'div-gpt-ad-1420572802560-1').addService(googletag.pubads());
+   googletag.defineSlot('/1003150/RWD2ndLead', smallLeaderSize, 'div-gpt-ad-1422403461768-0').addService(googletag.pubads());
+         googletag.defineSlot('/1003150/Mobile300x250', [300, 250], 'div-gpt-ad-1425603499316-0').addService(googletag.pubads());
+         googletag.defineSlot('/1003150/SocialReality', [[300, 250], [300, 600], [320, 50]], 'div-gpt-ad-1496436613568-0').addService(googletag.pubads());
+   
+   googletag.pubads().setCentering(true);
+   googletag.pubads().enableSingleRequest();
+   googletag.enableServices();
    });
-
-   /*
-    * Load sp through bootstrap
-    */
-   window.spBootstrap('http://basketball.realgm.com/ads/sp.js');
-
-</script><script src="http://basketball.realgm.com/ads/sp.js"></script>   </head>
+</script>
+   </head>
    <body style="">
       <!--[if lt IE 7]>
          <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -181,13 +109,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
                      
                      <div id="sports-menu" class="topmenu">
                         <ul>
-                           <li class="top-icon navitem nbalink selected"><a href="http://basketball.realgm.com/"><span></span><nav>Basketball</nav></a></li>
-                           <li class="top-icon navitem nfllink"><a href="http://football.realgm.com/"><span></span><nav>Football</nav></a></li>
-                           <li class="top-icon navitem mlblink"><a href="http://baseball.realgm.com/"><span></span><nav>Baseball</nav></a></li>
-                           <li class="top-icon navitem soccerlink"><a href="http://soccer.realgm.com/"><span></span><nav>Soccer</nav></a></li>
-                           <li class="top-icon navitem nhllink"><a href="http://hockey.realgm.com/"><span></span><nav>Hockey</nav></a></li>
+                           <li class="top-icon navitem nbalink selected"><a href="/"><span></span><nav>Basketball</nav></a></li>
+                           <li class="top-icon navitem nfllink"><a href="https://football.realgm.com/"><span></span><nav>Football</nav></a></li>
+                           <li class="top-icon navitem mlblink"><a href="https://baseball.realgm.com/"><span></span><nav>Baseball</nav></a></li>
+                           <li class="top-icon navitem soccerlink"><a href="https://soccer.realgm.com/"><span></span><nav>Soccer</nav></a></li>
+                           <li class="top-icon navitem nhllink"><a href="https://hockey.realgm.com/"><span></span><nav>Hockey</nav></a></li>
                            <li class="top-icon navitem forumlink"><a href="http://forums.realgm.com/boards/index.php"><span></span><nav>Forums</nav></a></li>
-                                                   </ul>
+                           <li class="top-icon navitem tixlink"><a href="https://www.razorgator.com/?prid=realgm&amp;utm_source=realgm&amp;utm_medium=referral&amp;utm_campaign=main" target="_blank"><span></span><nav>Tickets</nav></a></li>
+                        </ul>
                      </div>
                      
                      <div class="searchbar">
@@ -337,7 +266,6 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
 <li><a href="/nba/info/minimum_scale">Minimum Scale</a></li>
 <li><a href="/nba/info/salary_cap">Salary Cap</a></li>
 <li><a href="/nba/info/rookie_scale">Rookie Scale</a></li>
-<li><a href="/nba/info/amnesty_eligible">Amnesty Eligible Players</a></li>
 <li><a href="http://www.cbafaq.com/salarycap.htm">Larry Coon's Salary Cap FAQ</a></li>
 </ul>
 </li>
@@ -357,6 +285,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
 <li><a href="/nba/venues">Venues</a></li>
 </ul>
 </li>
+<li><a href="https://www.razorgator.com/tickets/sports/basketball/nba/?prid=realgm&amp;utm_source=realgm&amp;utm_medium=referral&amp;utm_campaign=nba" target="_blank">NBA Tickets</a></li>
 </ul>
 </li>
 <li class="has-subnav with-js">
@@ -415,7 +344,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
 <li><a href="/ncaa-dii/teams">Teams</a></li>
 <li><a href="/ncaa-dii/conferences">Conferences</a></li>
 <li><a href="/ncaa-dii/players">Players</a></li>
-<li><a href="/schedules/2016-12-29/NCAA-DII">Schedules</a></li>
+<li><a href="/schedules/2017-06-24/NCAA-DII">Schedules</a></li>
 <li><a href="/ncaa-dii/scores">Scores</a></li>
 <li><a href="/ncaa-dii/standings">Standings</a></li>
 <li><a href="/ncaa-dii/stats">Stats</a></li>
@@ -429,13 +358,14 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
 <li><a href="/ncaa-diii/teams">Teams</a></li>
 <li><a href="/ncaa-diii/conferences">Conferences</a></li>
 <li><a href="/ncaa-diii/players">Players</a></li>
-<li><a href="/schedules/2016-12-29/NCAA-DIII">Schedules</a></li>
+<li><a href="/schedules/2017-06-24/NCAA-DIII">Schedules</a></li>
 <li><a href="/ncaa-diii/scores">Scores</a></li>
 <li><a href="/ncaa-diii/standings">Standings</a></li>
 <li><a href="/ncaa-diii/stats">Stats</a></li>
 <li><a href="/ncaa-diii/head-coaches">Head Coaches</a></li>
 </ul>
 </li>
+<li><a href="/juco">JUCO</a></li>
 <li><a href="/ncaa/head-coaches">Head Coaches</a></li>
 <li><a href="/ncaa/conferences/America-East-Conference/18/nba-draft">NBA Draft Selections</a></li>
 <li><a href="/ncaa/conferences/America-East-Conference/18/nba-players">Players on NBA Roster</a></li>
@@ -448,6 +378,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
 <li><a href="/ncaa/venues">Venues</a></li>
 </ul>
 </li>
+<li><a href="https://www.razorgator.com/tickets/sports/basketball/ncaa-basketball/?prid=realgm&amp;utm_source=realgm&amp;utm_medium=referral&amp;utm_campaign=ncaa-basketball" target="_blank">NCAA Tickets</a></li>
 </ul>
 </li>
 <li class="has-subnav with-js">
@@ -590,6 +521,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
 <li><a href="/highschool/nike-hoop-summit">NIKE Hoop Summit</a></li>
 <li><a href="/highschool/nike-the-trip">Nike THE TRIP</a></li>
 <li><a href="/highschool/under-armour-elite-24">Under Armour Elite 24</a></li>
+<li><a href="/highschool/biosteel-all-canadian">BioSteel All Canadian</a></li>
 </ul>
 </li>
 <li class="has-subnav with-js">
@@ -708,7 +640,8 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1420572802560-1');
          <div class="main-container">
             
             <div class="main wrapper clearfix container">
-<h2 class="page_title">Privacy Statement</h2>
+
+            <h2 class="page_title">Privacy Statement</h2>
 <div class="content">
    <p>RealGM, L.L.C., which operates the Web site RealGM.com ("RealGM.com"), is committed to protecting the privacy and security of its online visitors. We are also extremely sensitive to families' concerns about their children's personal information and safety. We want you to know about and understand the measures we have taken to keep RealGM.com a safe and secure environment for everyone. This privacy statement tells you how and why we collect information from you, and how we use that information.</p>
    <p>We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly.</p>
@@ -1010,7 +943,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425603499316-0');
                </div>
             </div>
             
-            <p class="copyright">All content © 2000-2016 RealGM, L.L.C. All rights reserved.</p>
+            <p class="copyright">All content © 2000-2017 RealGM, L.L.C. All rights reserved.</p>
             
          </footer>
       
@@ -1123,8 +1056,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1425603499316-0');
          
          shiftButtons();
       </script>
-      <script src="//ad.adip.ly/dlvr/adiply_statmarg.min.js?site_id=RealGMR_AP&amp;t=260"></script>
-<!-- datonics -->
+      <!-- datonics -->
 <script type="text/javascript" src="http://ads.pro-market.net/ads/scripts/site-137762.js"></script><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
