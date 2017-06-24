@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223120915id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimum.net privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624075222id_/https%3A//www.optimum.net/pages/PrivacyExisting.html) for the most accurate reproduction.*
 
 # 
 
@@ -837,7 +837,7 @@ We will review this privacy notice periodically as we deem appropriate and when 
 
 Effective October 10, 2016 
 
-  * © Copyright 2014 CSC Holdings, LLC.
+  * © Copyright {{CommonFooterCtrl.fullYear}}  CSC Holdings, LLC.
 
 
 
@@ -857,6 +857,6 @@ Effective October 10, 2016
 
 
 
-  * © 2013 CSC Holdings, LLC.
+  * © Copyright {{CommonFooterCtrl.fullYear}}  CSC Holdings, LLC.
 
 
