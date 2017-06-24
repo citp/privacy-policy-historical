@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesportster.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230625id_/http%3A//www.thesportster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportster.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624211623id_/http%3A//www.thesportster.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - TheSportster
+# TheSportster Search Results
 
 **  
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site.  
