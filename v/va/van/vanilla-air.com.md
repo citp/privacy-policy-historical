@@ -1,83 +1,104 @@
-> *The following text is extracted and transformed from the vanilla-air.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108214041id_/https%3A//www.vanilla-air.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanilla-air.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624080156id_/https%3A//www.vanilla-air.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vanilla Air: Airline Tickets, Flights and Airfare
 
-### 1.Scope 
+### 1\. Introduction
 
-The Privacy Policy will apply to all customers using Vanilla Air Inc. services and products. 
+This privacy policy outlines how Vanilla Air Inc. handles the personal information provided to it by customers. Please read this privacy policy when using Vanilla Air Inc.'s products and services. Customers who use Vanilla Air Inc.'s products and services are treated as having understood and agreed to the content of this privacy policy. 
 
-### 2.Purpose of collecting personal information 
+### 2\. Scope
 
-Personal information obtained from customers will be used for the following purposes:   
-[1] Reservations, ticket sales, check-in, airport services, and in-flight services with regard to air transport services   
-[2] Reservations, ticket sales, check-in, airport services for interline transportation, wet lease, code share, intermodal transportation.   
-[3] Guidance, provision, and management of other services and products offered by Vanilla Air Inc.  
-[4] All operations incidental or related to the above[1]-[3]  
-[5] Implementation of questionnaires concerning service and products, etc. offered by Vanilla Air Inc.  
+This Privacy Policy applies to all customers who use Vanilla Air Inc. services and products. 
+
+### 3\. Purpose of Collecting Personal Information
+
+Vanilla Air Inc. uses customer personal information for the following purposes.   
+[1] Reservations, ticket sales, check-ins, airport services and in-flight services related to air transport services  
+[2] Reservations, ticket sales, check-ins and airport services for interline transportation, wet lease, code share and/or intermodal transportation  
+[3] Guidance, provision and management of other services and products offered by Vanilla Air Inc.  
+[4] All operations incidental or related to [1] through [3] above  
+[5] Implementation of surveys concerning services, products, etc. offered by Vanilla Air Inc.  
 [6] Development of new services and products  
-[7] management and information provision for various events and campaigns  
+[7] Guidance, operation, management and information provision related to various events and campaigns  
 [8] Notification of services and products offered by Vanilla Air Inc.  
-[9] management and notification of services, products, events and campaigns of Vanilla Air Inc. group companies and partner companies.  
-[10] Responses to inquiries and requests  
+[9] Guidance, operation, management and notification of services, products, events and campaigns from Vanilla Air Inc. group and its partner companies  
+[10] Responses to inquiries and requests   
 
 
-### 3\. Collecting personal information 
+### 4\. Personal Information Obtained
 
-Vanilla Air Inc. will obtain personal information only by fair, appropriate means. 
+Vanilla Air Inc. will use fair and appropriate measures to gather the following types of personal information from customers in order to achieve the usage purposes outlined in the previous section.  
+[1] Personal information provided by customers to Vanilla Air Inc. when requesting services, etc.  
+Customers' names, addresses, telephone numbers, email addresses, etc.  
+[2] Information related to the usage of services, etc.  
+Credit card numbers, credit card expiration dates, whether a wheelchair or other service needs to be arranged, flight cancellation information, boarding history, etc.
 
-### 4\. Disclosure to a third party 
+Vanilla Air Inc. will not gather or use sensitive customer information (hereafter "sensitive data") such as ethnicity, religion, social status, health history, criminal record, or whether a customer has been the victim of a crime, unless required to by law or under the agreement of the customer.
 
-Vanilla Air Inc. will not disclose or provide personal customer information to any third parties except under the following circumstances or for the following purposes. Note that provision of information to data sharing partners and business entrusted companies are not deemed to constitute disclosure or provision to third parties.   
-[1] Customer consent has been obtained.   
-[2] Disclosure or provision is required by laws or regulations.   
-[3] Disclosure is required to protect human life, health, or property in cases where obtaining customer consent is difficult.   
-[4] Disclosure is required to cooperate with the public affairs of national or local governments, and when obtaining customer consent is likely to hinder the administration of public affairs.   
-[5] Before providing information, the following information is provided and made available to the respective customer, and provision of such information may be suspended upon the customer's request: 1)The purpose of obtaining information is to provide such information to a third party; 2)Specific personal data items to be provided to a third party; 3)The means by which such personal information is provided to a third party; and 4)Provisions of personal information identifying individual customers shall be suspended upon the customers' request.   
-[6] Data or information is provided in a format that does not disclose identity, as in statistical data.   
-[7] Information is provided as a result of the succession of business due to a merger, company split, transfer of business or otherwise.   
+### 5\. Choices available to customers
+
+In principle it is the customers' decision to provide personal information to Vanilla Air Inc. If a customer does not provide personal information, they may be unable to use services provided by Vanilla Air Inc., some system functions may be partially unavailable for use, they may be unable to receive campaign event notices and other information from Vanilla Air Inc., and other services may also be affected. Customers are able to change their contact information and whether they wish to receive email newsletters at any time, using a method defined separately by Vanilla Air Inc. 
+
+### 6\. Disclosure to Third Parties
+
+Vanilla Air Inc. will not disclose or provide customers' personal information to any third parties except under the following circumstances or for the following purposes. Furthermore, sensitive data from customers will not be disclosed or provided to a third party under any circumstances, unless required to by law or under the agreement of the customer. Information disclosed for common-use or outsourcing purposes does not count as disclosure to a third party.   
+[1] When the customer agrees to the disclosure  
+[2] When information is disclosed or provided within the scope of applicable laws  
+[3] When the disclosure is necessary for the protection of a person's or people's lives, bodies, or property, and securing agreement from the customer is difficult  
+[4] When the company must cooperate with the government of Japan or a regional public organization, and securing agreement from customers would hinder the carrying out of this activity  
+[5] When disclosing or providing statistical data (data that cannot be used to identify individual customers)  
+[6] When provided to another party as part of a merger, corporate division, business transfer, or other reason   
+[7] When the customer provides personal information to Vanilla Air Inc. via its webpage or another method, has checked the following information provided in an easy-to-access place in accordance with applicable laws, and has not expressed a desire to refuse to provide the information  
+1) The purpose for providing the information to a third party  
+2) The type(s) of personal information being provided to a third party  
+3) The means or method used to provide information to a third party  
+4) The fact that data provision to a third party can be ceased upon a customer's request  
+5) The method(s) customers can use to make requests  
 
 
-### 5\. Business entrustment 
+### 7\. Entrustment of Business
 
-From time to time, Vanilla Air Inc. may entrust its business operations to third parties to which personal information may also be disclosed to the extent required. In these cases, we will implement all appropriate measures with such third parties to safeguard the confidentiality of customer data, including establishing agreements on the handling of such personal information. 
+In providing products and services to customers, Vanilla Air Inc. may entrust part of its business to a third party and provide personal information to this party within the scope required to achieve its intended purpose(s). In such cases, the company will implement all appropriate measures with such third parties to safeguard the confidentiality of customer data, including establishing agreements on the handling of personal information. 
 
-### 6\. Managing personal information 
+### 8\. Transfer Outside of Japan
 
-We manage our customers' information according to the strictest standards and take the utmost care to prevent leaks, loss, or alterations. We ensure that our board members and employees are properly trained regarding appropriate handling to safeguard the security of information identifying individual customers. An appropriate retention period for personal information shall be established separately in accordance with the purpose for which such information is used. Following the expiration of this period, we shall dispose of the information in question by appropriate methods. 
+If Vanilla Air Inc. provides customers' personal information to a third party outside of Japan, such as an outsourced business or shared-use partner, it will take all suitable and necessary measures to follow all relevant laws. 
 
-### 7.Disclosure, correction, deletion, addition, discontinuance, and erasure 
+### 9\. Managing Personal Information
 
-Any customer request submitted in the manner specified for 1)the disclosure, 2)the correction, deletion, or addition, or 3)the discontinuance and erasure of personal information held by Vanilla Air Inc. shall be handled as follows, within a reasonable timeframe, after such requests are determined to be authentic.  
-A customer request may be rejected partially or entirely if compliance with such request would endanger the life, health, or property of the customer or a third party; seriously impact Vanilla Air Inc.'s business operations; or result in a violation of laws or regulations. 
+Vanilla Air Inc. manages its customers' personal information according to the strictest standards and takes the utmost care to prevent leaks, loss, and/or alterations. The company's executives and employees undergo internal training on protecting and suitably handling customers' personal information. The company also sets a storage period for personal information based on its intended purpose and discards this information using suitable methods when the purpose has been achieved. 
 
-1) Appropriate acknowledgement will be made of receipt of disclosure requests.   
-2) Correction, deletion, or addition shall be undertaken after due review of requests.   
-3) Discontinuance and erasure shall be undertaken by appropriate methods. However, we remind customers that such requests may impede the provision of services to the customer, despite our best intention. 
+### 10\. Disclosure, Correction, Deletion, Addition, Discontinuance, and Deletion of Personal Information
 
-### 8\. Inquiries and submission of request for disclosures 
+If Vanilla Air Inc. receives a customer request using a defined method which is related to the disclosure, correction, deletion, addition, discontinuance, or deletion (hereafter "disclosure, etc.") of the customer's personal information stored in Vanilla Air Inc.'s database, it will handle the request as follows within a reasonable time period and scope.   
+[1] Requests related to disclosure  
+The company will disclose the type(s) of personal information requested by the customer.   
+[2] Requests related to correction, deletion, or addition  
+After confirming the content of the request, the company will correct, delete, or add to customers' personal information if possible.   
+[3] Requests related to discontinuance or deletion  
+The company will agree to the content of the request and discontinue use of the personal information defined by the customer, or delete it if requested.  
+Discontinuation or deletion of this information may make it no longer possible for us to provide previously-available services or services that meet the customers' desires. Please note this before making a request. 
 
-Requests concerning personal customer information or other inquiries concerning personal information shall be handled as follows. We cannot handle requests directly submitted at Vanilla Air Inc.’s office by customer. In any cases, requests will be rejected if customer identification cannot be confirmed. 
+Vanilla Air Inc. may not be able to handle customer requests if doing so will severely impede it in the carrying out of its regular work, or if there are concerns that such actions will break the law.
 
-[1]Information desk Any customer request for disclosure, correction or deletion, addition, discontinuance, or erasure must be made accompanied by the necessary documents, and received by mail at the following addresses: 
+### 11\. Inquiries and Submission of Requests for Disclosure, etc. 
 
-Personal Information Handling Desk  
-People Department  
-Vanilla Air Inc.  
-1-1, Furugome, Narita-shi, Chiba-ken, Japan  
-282-0004
+Customers can use the following method to make requests for disclosure, etc. to Vanilla Air Inc., or ask for the intended purpose related to the personal information gathered by the company.   
+[1] Request method  
+Send the required documents to the address below.   
+Vanilla Air, Inc.  
+Human Resources / General Affairs Department, Personal Information Handling Representative  
+1-1 Narita-furugome, Narita-shi, Chiba 282-0004, Japan
 
-[2]Documents required for disclosure   
-Any "request for disclosure, etc." must be submitted by post after enclosing personal identification documents below. 
+[2] Required documents  
+Identification documents  
+Copies of any two of the following: driver's license, passport, health insurance card, basic resident registration card with photograph, pension book, physical disability certificate, foreign resident registration card, seal registration card 
 
-Documents required for confirmation of identification of individual   
-Two from either a copy of driver's license, passport, health insurance certificate, basic resident registration card with photo, pension insurance booklet, physical disability certificate, foreign registration or certificate of seal registration. 
+### 12\. Modification of the Privacy Policy
 
-### 9\. Application and modification of the Privacy Policy 
+Vanilla Air Inc. may modify this privacy policy. If/when it does, Vanilla Air Inc. will publish the new policy on its website (www.vanilla-air.com). Please check the new policy whenever it is updated. 
 
-This Privacy Policy explains how Vanilla Air Inc. handles personal customer information. Use of Vanilla Air Inc. services and products by a customer is deemed to constitute full understanding of and consent to the terms of this Privacy Policy.   
-This Privacy Policy is subject to revision by Vanilla Air Inc. at any time. 
-
-(As of November 1,2013) 
+(Updated May 2017) 
 
 ## How we deal with your personal information on our website 
 
