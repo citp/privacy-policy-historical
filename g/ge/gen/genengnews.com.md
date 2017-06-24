@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110125621id_/http%3A//www.genengnews.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genengnews.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624072125id_/http%3A//www.genengnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | GEN
 
-  * [ ](https://web.archive.org/gen-articles/priming-cell-lines-for-peak-performance/5879) [Priming Cell Lines for Peak Performance](https://web.archive.org/gen-articles/priming-cell-lines-for-peak-performance/5879)
+  * [ ](https://web.archive.org/gen-exclusives/fixing-crispr/77900928) [Fixing CRISPR](https://web.archive.org/gen-exclusives/fixing-crispr/77900928)
 
-As Demand for Therapeutic Proteins Rises, Bioprocessors Have a Choice: Try to Do More of The Same, Or Try to Do Better
+Researchers Seek Ways to Minimize Off-Target Effects
 
-  * [ ](https://web.archive.org/gen-articles/lighting-the-way-optogenetically/5881) [Lighting the Way, Optogenetically](https://web.archive.org/gen-articles/lighting-the-way-optogenetically/5881)
+  * [ ](https://web.archive.org/gen-exclusives/literature-review-dials-for-cas9/77900925) [Literature Review: Dials for Cas9](https://web.archive.org/gen-exclusives/literature-review-dials-for-cas9/77900925)
 
-It’s Important, Says Optogenetics Pioneer, to Keep a Laser Focus on Neuronal Circuits
+Methods to Control Cas9-Based Technologies Across Numerous Dimensions Is Still Lacking
 
-  * [ ](https://web.archive.org/gen-exclusives/vaccine-interrupted/77900780) [Vaccine, Interrupted](https://web.archive.org/gen-exclusives/vaccine-interrupted/77900780)
+  * [ ](https://web.archive.org/gen-articles/opening-up-relieves-downstream-bottlenecks/6086) [Opening Up Relieves Downstream Bottlenecks](https://web.archive.org/gen-articles/opening-up-relieves-downstream-bottlenecks/6086)
 
-Simplifying Regulatory Complexity to Avoid Delays in Immunization
+Celebrate the Downstream Improvements That Have Been Achieved, Even If They Fail to Match Upstream Improvements
 
-  * [ ](https://web.archive.org/gen-exclusives/as-kite-taxis-for-takeoff-another-flight-plan-emerges/77900782) [As Kite Taxis for Takeoff, Another Flight Plan Emerges](https://web.archive.org/gen-exclusives/as-kite-taxis-for-takeoff-another-flight-plan-emerges/77900782)
+  * [ ](https://web.archive.org/the-lists/top-10-european-biopharma-clusters/77900926) [Top 10 European Biopharma Clusters](https://web.archive.org/the-lists/top-10-european-biopharma-clusters/77900926)
 
-Study Cites Opdivo Risk; New Indications OK’d for Tecentriq, Keytruda
+The Continent’s Key Academic and Industrial Centers for Drug Development
 
 
 
