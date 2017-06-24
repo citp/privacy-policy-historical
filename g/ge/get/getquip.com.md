@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getquip.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024135342id_/https%3A//www.getquip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getquip.com privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625015950id_/https%3A//www.getquip.com/privacy) for the most accurate reproduction.*
 
 # quip | Privacy
 
