@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210195622id_/http%3A//www.cotswoldoutdoor.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cotswoldoutdoor.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624192657id_/http%3A//www.cotswoldoutdoor.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -178,4 +178,4 @@ Social media tools on our website:
 
 **Find out more**
 
-If you have a general query, please check our [Help Centre](http://www.cotswoldoutdoor.com/nz/help-centre "Help"), which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/nz/contact-us "contact us ").
+If you have a general query, please check our [Help Centre](http://www.cotswoldoutdoor.com/us/help-centre "Help"), which may be able to provide your answer. If you have a more specific question about our Privacy Policy, please [contact us](http://www.cotswoldoutdoor.com/us/contact-us "contact us ").
