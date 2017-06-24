@@ -1,138 +1,177 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505122102id_/https%3A//www.clickatell.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624234739id_/https%3A//www.clickatell.com/legal/general-terms-notices/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Policy | Terms And Conditions | Clickatell.com
+# Clickatell Privacy Notice | Clickatell.com
 
-  1. [GENERAL](https://www.clickatell.com/terms/privacy-policy/#Number1)
-  2. [PERSONAL INFORMATION SUBMITTED TO OR COLLECTED BY OUR WEBSITE](https://www.clickatell.com/terms/privacy-policy/#Number2)
-  3. [PERSONAL INFORMATION SUBMITTED TO OUR SYSTEMS.](https://www.clickatell.com/terms/privacy-policy/#Number3)
+Protecting your privacy is extremely important to us. The following information will help you understand the purposes for which we collect, store and use your information. We will keep your information confidential and will only share it if we are legally required to do so, if we must do so in order to fulfill our agreement with you or if you have given your consent.
 
+We have tried to make this notice as clear as possible, but if there is something we have not explained well, please contact us at [webterms@clickatell.com](mailto:webterms@clickatell.com).
 
+**Before we begin, here is the short version for those of you who, like us, are not really interested in all the legal mumbo-jumbo, no matter how plain the language: Generally, we use all the information collected about you, your users and customers to provide our services to you, to enable you to use our services, to deliver your messages to their destination, to analyze your use of our services, to detect fraud or other illegal activity and to improve our services.** **  **
 
-1\. GENERAL
+The last time this notice was changed? November 2016.
 
-**Introduction:** Clickatell is committed to business practices in compliance with industry acceptable privacy standards and in compliance with the law. This policy sets out what the categories of personal information we may collect from you or other sources when you make use of our website and how we process that personal information.
+## 1 What is this notice about
 
-We may amend this policy from time to time, in line with changes required by legislation or our internal business requirements. The most updated version will apply and you therefore need to review the [Privacy Policy](https://www.clickatell.com/terms/2015/07/16/privacy-policy/) each time you visit the website. Unless we expressly state otherwise, the amended version of the Privacy Policy shall supersede and replace all previous versionsprivacy thereof.
+#### We want you to understand who we are, what kind of personal information (PI) we collect, and what we do with it. This notice is part of our contract with you and it may change from time to time.
 
-If you have any questions about this policy or do not agree with it, please contact us directly at [legal@clickatell.com](mailto:legal@clickatell.com) for attention: Clickatell Privacy Officer.
+1.1 In your day-to-day dealings with us we obtain information about you. We want you to understand who you are sharing your information with, what kind of information we are collecting and how we use the information.
 
-By using our website, you consent to the terms of this [Privacy Policy](https://www.clickatell.com/terms/2015/07/16/privacy-policy/).
+1.2 This privacy notice forms part of our contract with you. You should read it along with the terms applicable to services you use.
 
-**Personal information:** Personal Information will include information defined by the applicable legislation to be “personal information”. This is information which you provide to us which personally identifies you or another person, such as name, email address, ID number or company registration number, billing information, or other data which we can reasonably link to such personal information.
+1.3 From time to time we may have to amend this notice to accommodate changes in our services, or if legal requirements change.
 
-**Collection and use of personal information:** We collect personal information about you when you provide information through the website or our systems. We may also collect information about you from other third parties related to our operations or within our business structure. The information we collect is limited to the details we need to provide the specific service that you have requested. We will only collect personal information for a specified purpose and collect and process personal information only for the purpose for which you give it to us. We do not collect or compile personal information for dissemination or sale to outside parties for consumer marketing purposes, or host mailings on behalf of third parties. It is Clickatell’s policy to limit the information collected to collect only the minimum information required considering the purpose for which the information was collected. In any instance where non-mandatory information is sought, you will be notified of this at the point of collection. Clickatell makes every practical effort to avoid excessive or irrelevant collection of information. If you believe that our website has collected excessive information, we encourage you to contact our Privacy Officer at [legal@clickatell.com](mailto:legal@clickatell.com) to raise any concerns. Unless the law requires otherwise, we only use the personal information you provide to us to deliver the specific information or service you have requested. Without your express consent, we will not use your contact details for any other purpose, except to
+1.4 **You agree to our information practices, including the collection, use, processing, and sharing of your information as described in this Privacy notice, as well as the transfer and processing of your information to the United States and other countries globally where we have or use facilities, service providers, or partners, regardless of where you use our services. You acknowledge that the laws, regulations, and standards of the country in which your information is stored or processed may be different from those of your own country.**
 
-  * perform our duties in terms of our agreement with you;
-  * carry out, monitor and analyse our business;
-  * contact you by email, SMS, letter, telephone or in any other way about our products and services if you request us to do so, unless you tell us that you prefer not to receive communications;
-  * develop or improve products or services that may be of interest to you;
-  * carry out market research, business and statistical analysis;
-  * carry out audits;
-  * perform other administrative and operational purposes including the testing of systems;
-  * comply with our regulatory or other obligations;
-  * carry out any other reasonable business operation considering our business and the relationship between you and us.
+## 2 Who are you sharing your information with?
 
+#### You are sharing your information with the Clickatell Group. Sometimes we may need to share your PI with others in order to provide our services to you or if we are legally required to.
 
+2.1 Clickatell is a group of companies, so things can get a little complicated. You are sharing your information with Clickatell Limited (a company incorporated in England and Wales), Clickatell (Pty) Ltd (a South African company) and Clickatell, Inc. (a US company). Our parent company is Clickatell Corporation (also in the US).
 
-We will keep your personal information confidential and only share it with others for the purposes set out in this policy, or otherwise if you have consented thereto, or if we are legally obliged or entitled to do so. We have trusted relationships with carefully selected third parties who perform services on our behalf.
+2.2 We do not sell or otherwise share your information with third parties aside from the sharing described in this section. In particular, we do not share information with third parties for their direct marketing purposes, unless you have given us consent.
 
-We may share information about you with (i) any payment system we may use; (ii) other divisions or companies within the group of companies; (iii) other companies that provide products or services to us; (iv) regulatory and governmental authorities, ombudsmen, or other authorities, including tax authorities, where we are requested by them to do so; (v) any other third party if allowed to do so in law.
+2.3 In order to deliver our services we will have to share information with other communications service providers to enable them to transmit your communications. We only do so on your instruction and we will only share the information which they need. How they deal with the information is subject to their own policies.
 
-When we employ another company to perform a function on our behalf, we only provide them with the information that they need to perform their specific function. To the extent that that third party requires your information to enable Clickatell to provide you with our services, or perform business-related functions on our behalf, you hereby consent to Clickatell sharing your personal information with such third parties.
+2.4 We also make use of third party service providers or consultants who need access to information in order to do their jobs. An example of this is when we share information with service providers so they can store the data. These service providers are not entitled to use the information for any other purposes, must keep it confidential and have given us reasonable assurances that the information is safe.
 
-**Sensitive personal information and children’s information:** Clickatell’s intention is not to seek any sensitive information through our website unless legally required or for recruiting purposes. Sensitive information includes information relating to (i) race or ethnic origin; (ii) political opinions; religious or other similar beliefs; (iii) trade union membership; (iv) physical or mental health; sexual life or criminal records. We request that you do not provide sensitive information of this nature. If you do wish to provide sensitive information for any reason, you explicitly consent to our use of that information in the ways described in this privacy statement or as described at the point where you choose to disclose this information. 
+2.5 Sometimes we may need disclose your information to a third party if:
 
-We understand the importance of protecting children’s privacy especially in an online environment. Our website is not intentionally designed for or directed at children. It is Clickatell’s policy never to knowingly collect or maintain information about anyone under the age of 18.
+2.5.1 we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or a government request;
 
-**Trans-border transmission:** Personal information collected or processed by Clickatell may be shared between companies within the Clickatell Group or be processed by third party service providers where it is necessary to meet the purpose for which you have submitted the information. For these purposes personal information may be processed cross-border and by submitting personal information on Clickatell’s website or to our systems, you explicitly consent to trans-border transmission of the information.
+2.5.2 to enforce our contracts and policies;
 
-**Consent:** We only collect or process personally identifiable information if it is specifically and voluntarily provided by you or as otherwise disclosed in this [Privacy Policy](https://www.clickatell.com/terms/2015/07/16/privacy-policy/). **If you provide us with personal information about another person, you warrant that you have that person’s consent to do so and that that person has given explicit consent for Clickatell to collect or process their personal information for the purpose for which you submitted it to us..**
+2.5.3 to protect the security and integrity of our services;
 
-**Retention:** Some of the information we receive is not retained. Generally information will be retained in terms of our internal retention policies. By way of example, contact information about visitors to our website (such as information generated though registration for access to areas on the site) will be retained as long as the information is required to completely service the contact request or until a user requests that we delete that information. Mailing list information, discussion posts and email are kept for the period of time considered reasonable to facilitate the visitor’s requests. Resumes are disposed of when they are either no longer under consideration, or are considered outdated by our Human Resources departments.
+2.5.4 to protect ourselves, our other customers and the public from illegal activities; or
 
-**Security:** We have implemented generally accepted standards of technology and operational security in order to protect personal information from loss, misuse, alteration or destruction. We make use of electronic and computer safeguards such as firewalls. We have physical and electronic access control to our buildings.
+2.5.5 to respond to an emergency which we believe in good faith requires us to disclose information.
 
-All Clickatell employees follow a network-wide security policy in terms whereof we only authorise access. Only authorised Clickatell personnel are provided access to personal information and these employees have agreed contractually to ensure confidentiality of this information. Clickatell’s policy is to use secure socket layer technology for our customer’s administration area in order to protect information submitted through web forms.
+2.6 When you are sharing your information with us, you are sharing it with the Clickatell group of companies who will share data between them.
 
-We are committed to ensure your personal information is kept secure and confidential and not kept for longer than is necessary for the purpose for which we collected it.
+2.7 If we go through a corporate sale, merger, reorganisation, dissolution or similar event, your information may be part of the assets transferred or shared in connection with the due diligence for any such transaction. Any acquirer or successor of the Clickatell companies may continue to use the information as explained in this notice.
 
-**Right to request access and changes to personal information:** If any of your personal information changes, you must let us know immediately by updating your Clickatell account or contacting our Support team at [support@clickatell.com](mailto:support@clickatell.com).
+## 3 Where is the information going?
 
-Subject to applicable law, you have the right of access to personal information you have submitted to Clickatell. Clickatell is committed to providing reasonable and practical access to visitors to allow them the opportunity to identify and correct any inaccuracies. When requested and practical, Clickatell will delete identifying information from current operational systems. If you want us to remove or update any of your personal information, please contact our Support team at [support@clickatell.com](mailto:support@clickatell.com). 
+#### Information breaks down barriers. Your information is going around the world.
 
-Clickatell does not assume responsibility for verifying the ongoing accuracy of personal information. When practically possible, if we are informed that any personal information submitted to our website or systems and stored by us is no longer accurate, Clickatell will make appropriate changes. However, Clickatell will not be liable for any damage that you may suffer from any cause what so ever due to inaccurate information being provided to Clickatell or a failure to update information.
+3.1 When you make use of our services, your information may be sent to the United States, South-Africa and possibly other countries with varying levels of data protection.
 
-2\. PERSONAL INFORMATION SUBMITTED TO OR COLLECTED BY OUR WEBSITE
+3.2 This may be necessary because:
 
-**Your personal information.** Examples of when you may choose to provide personal information include if you want to:
+3.2.1 some of the companies in the Clickatell group are situated overseas;
 
-  * download publications
-  * register for Clickatell's online products and/or services
-  * submit resumes or work history information
-  * participate in "join our mailing list" initiatives
-  * participate in bulletin boards, discussion or message forums
-  * contact us for further information
-  * enter Quick Surveys, Quiz's or Benchmarking Surveys
-  * register for events and conferences
+3.2.2 we may store the information on servers and equipment in the US or other countries;
 
+3.2.3 you may be using our services in such a way that necessitates the transmission of some information to, for instance, communication service providers in other countries.
 
+3.3 We employ appropriate mechanisms for cross-border transfers of PI, as required by applicable local legislation.
 
-**Purpose of Collection:** Typically, we may collect your personal information in order to:
+## 4 What information we collect and why
 
-  * register you for certain services
-  * improve our marketing and promotional efforts, by enabling statistical analysis of site and product usage
-  * deliver information to you, such as administrative notices and news
-  * deliver account balance updates
-  * answer your requests and queries
-  * consider job applications
-  * fulfil any of our obligations in terms of the agreement with you or in terms of applicable law.
+#### We collect personal information when you set up your account with us. We also pick up some information during the course of our interactions with you. Some personal information is generated and collected through your use of our services and sometimes we will collect personal information from another source. We also use cookies on our website.
 
+4.1 When you set up your account with us, we collect the following information directly from you:
 
+4.1.1 your company names and names of your affiliates* employees, account users and contact persons;
 
-Examples of further instances in which we may collect your personal information include:
+4.1.2 identifiers such as registration numbers, identity numbers and VAT registration numbers;
 
-  * **Publication downloads.** Most publications are provided as downloads and you will be requested to provide us with some personal information before downloading such publications.
-  * **Purchases.** When you make a purchase online we will collect order information in order to facilitate delivery and payment for the product and/or services. Your credit card information will only be collected and stored by our third party payment gateway service provider who is fully PCI compliant, and not by Clickatell. Our third party payment gateway services provider may collect IP address, browser version and other information about the software and hardware resident on the computer you use to make the purchase. This information is collected and used solely for purposes of authentication and security. By making a purchase on our website you authorize such collection and use.
-  * **Contacting us.** You are also able to send emails or requests through the website. Your messages will contain your screen name and email address, as well as any additional information you may wish to include in the message. Because we use the website as a tool to provide customer service and product support, a visit to the website may also result in your personal information being sent to an individual within Clickatell.
+4.1.3 contact details such as e-mail addresses, telephone numbers and fax numbers;
 
+4.1.4 location information such as your country of incorporation and physical address;
 
+4.1.5 financial information such as information held by credit bureaus, credit references, banking details, date of fiscal year end, the name of your auditor, date of last audit, payment method; and
 
-**Use of information:** Personal information obtained through our website will be used for the intended purpose stated at the time that the information is collected or for purposes as set out in this policy.
+4.1.6 your username and password.
 
-**Marketing:** Except for the mailing list initiative described above, where you explicitly choose to receive specific Clickatell marketing or other materials, Clickatell will not use personal information collected from our websites to facilitate unsolicited marketing activities. You may at any time log into your Clickatell account to enable or disable the marketing newsletter or weekly account balance update newsletter feature in your account preferences. You may also select to unsubscribe from any email newsletter or SMS notification by following the unsubscribe and opt-out directions in the body of such email or SMS. Clickatell will not sell your personal information obtained through the website. 
+4.2 We collect this information for all the obvious reasons:
 
-**Cookies:** Cookies may be used on some pages of our website. “Cookies” are small text files placed on your hard drive that assist us in providing a more customised website experience. For example, a cookie can be used to store registration information in an area of our website site so that you do not need to re-enter it on subsequent visits to that area. It is Clickatell’s policy to use cookies to make navigation of our websites easier for visitors and to facilitate efficient registration procedures. Website statistics are compiled by Clickatell and used for statistical reporting only. If you are concerned about cookies, most browsers permit individuals to decline cookies. In most cases, you may refuse a cookie and still fully navigate our websites; however other functionality in our website may be impaired. After termination of your visit to our website, you can always delete the cookie from your system if you wish. 
+4.2.1 we want to provide our services to you;
 
-**Log files:** In order to properly manage our website we may anonymously log information on our operational systems, and identify categories of visitors by items such as domains and browser types. These statistics are reported in the aggregate to our webmasters. This is to ensure that our website presents the best web experience for visitors and is an effective information resource. 
+4.2.2 bill you (and get paid);
 
-**Display advertising:** We use third-party advertising technology to serve ads when you visit our website and sites upon which we advertise. This technology uses information about your visits to our website and the sites upon which we advertise, to serve our ads to you. In the course of serving our advertisements to you, unique third-party cookies may be placed or recognized on your browser. In addition, we may use web beacons, provided by our third-party ad server, to help manage and optimize our online advertising. These web beacons enable our ad server, on our behalf or on behalf of our agent, to recognize a browser’s cookie when a browser visits this site, and to learn which banner ads bring users to our website. Our third-party ad server is performing its functions on our behalf or on behalf of our agent, and we may, directly or indirectly, instruct such ad server to enable other service providers to receive information about our site related to our online advertising. 
+4.2.3 communicate with you about your account;
 
-**Email advertising:** We share web site usage information about visitors to our web site, who have consented to and received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeted future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). 
+4.2.4 recognise you when you communicate with us or want access to your account;
 
-**Third party links:** There are several places throughout our website that may link to other websites that do not operate under our privacy practices. When you link to other websites, Clickatell’s privacy practices no longer apply. We encourage you to review each non-Clickatell website’s privacy policy before disclosing any personally identifiable information as the non-Clickatell website’s privacy policy will regulate the use of your personal information when you make use of those sites. 
+4.2.5 make sure that you actually exist (that you are not a fraudster);
 
-**Login:** As a policy, visitors are not required to register to gain access to areas of the Clickatell’s websites. In certain cases in the future, as your Clickatell website experience expands, we may require visitors to register in order to obtain a user-id and password for authentication and secure access to a transaction or certain business confidential or proprietary information services on premium websites. 
+4.2.6 comply with any legislation or regulation which requires us to collect the information; and to
 
-**Unsubscribe:** >You voluntarily provide us with personal information. Should you subsequently choose to unsubscribe from mailing lists or any registrations, we will provide instructions on the appropriate website area or in communications to you; or you may contact Clickatell Support at [support@clickatell.com](mailto:support@clickatell.com). 
+4.2.7 check your references.
 
-3\. PERSONAL INFORMATION SUBMITTED TO OUR SYSTEMS.
+*When we say ‘affiliate’ we mean an entity or person that controls you, is controlled by you, or under common control with you, such as a subsidiary, parent company, employee, dominatrix, pets etc.
 
-**Processing and Storing of Content:** Electronic communications or transactions submitted to our systems for processing or transmission may contain personal information about you or another person. We will only process such personal information for the purpose of effectively providing the relevant service to you. Content of your electronic communications or transactions may be stored on our live systems or in our data archives for operational purposes such as reporting and trouble shooting. We delete message content completely from our systems and data archives when it is no longer required for operational purposes and in terms of our internal company policies. By submitting electronic communications or transactions containing personal information of other persons to us for transmission, you confirm that you have obtained the explicit consent of each such other person for Clickatell to process and store their personal information. We do not accept any liability resulting from our processing or storage of personal information you submit to our systems for which you do not have the necessary consent. 
+4.3 For some of our services we will require additional information. For instance, when you want to make use of short code in the US or Canada we need additional information about your company and what you intend to use the product for. Another example is when you apply for credit.
 
-**Processing and storage of numbers:**
+4.4 When you interact with our support , sales and account management teams, we pick up personal information in order to effectively assist you. Here are some examples:
 
-  * the subscriber from whose mobile number a transaction is initiated; and
-  * mobile numbers to which direct prepaid airtime is loaded via our systems.
+4.4.1 Our support team will gather account data and information about your question or problem so they can help you.
 
+4.4.2 The sales and account management team will gather information about your use of our services and business requirements so they can give you appropriate advice on what the best service is for you. This type of information will also be used to improve our services and to train our employees.
 
+4.5 When you use our services, ‘customer data’ is generated and collected. This includes your, and your account users’, personal information (name, contact details, billing address etc.), billing records, call or messaging logs, traffic routing information and the content of communications sent through or integrated with our services (e.g. the content of your SMSs, e-mails or chats).
 
-By submitting electronic communications to us for transmission to recipients, **you confirm that you have obtained the explicit consent of each recipient for Clickatell to process and store their mobile numbers. By submitting transactions to our systems for processing or allowing others to do so, you confirm that the following persons have given their express consent for Clickatell to process and store their mobile numbers:**
+4.6 There are many reasons why we have to collect ‘customer data’:
 
-  * the subscriber from whose mobile number a transaction is initiated; and
-  * in the event of direct prepaid airtime top-up, the subscriber whose mobile number is topped up as a result of a transaction done via our systems.
+4.6.1 You are able to view some of the information on your account.
 
+4.6.2 We need some of the information (for instance the content of your messages) to provide our services.
 
+4.6.3 We need to collect it so we can bill you.
 
-**We do not accept any liability resulting from our processing or storage, during the provision of our services to you, of subscribers’ mobile numbers.**
+4.6.4 We use the data to manage and route traffic, to analyse and improve our services and to identify and solve problems.
 
-**Processing and storage of personal information by Clickatell’s suppliers:** When you submit electronic communications or transactions to our systems, we transmit these communications to our service providers, including mobile networks and aggregators. Our service providers may in turn transmit this data to their upstream service providers in the transmission chain. We have no control over how our service providers or other third parties collect, process or store mobile numbers to/from which electronic communications are sent/received or personal information contained in any electronic communications or transactions. _**We do not accept any liability resulting from the unlawful collection, processing or storage of personal information by our suppliers or any other third party.**_
+4.6.5 Sometimes we are required by law to have this information to assess and report on whether you are complying with all regulatory requirements.
+
+4.7 From time to time, we gather publicly-available information about companies that are our customers, such as where they are located, their website URL, their industry, and their size. Sometimes this type of Customer Account Data is obtained through third-party service providers that specialize in pulling together publicly-available information about companies.
+
+4.8 We do this to understand our customer base better and to tailor the information which we send to you.
+
+4.9 We may also verify the information which you provided about your company for purposes of fraud prevention and to ensure the accuracy of the information you provided to us.
+
+4.10 We make use of cookies on our website to identify your web browser, to analyse how our website and online services perform and are used and to make improvements to ensure that our website is useful, effective and efficient. If you want to know more, please read our [Cookie notice](https://www.clickatell.com/legal/general-terms-notices/cookie-notice/).
+
+4.11 You can manage your communication preferences on your account.
+
+## 5 Your rights and preferences
+
+#### You have the right to know what PI we have about you, to correct it and to opt out of any marketing.
+
+5.1 You have the right to:
+
+5.1.1 ask what PI we hold about you;
+
+5.1.2 ask what information was sent to our suppliers, service providers or any other third party;
+
+5.1.3 ask us to update, correct or delete any out-of-date or incorrect PI we hold about you;
+
+5.1.4 unsubscribe from any direct marketing communications we may send you;
+
+5.1.5 object to the processing of your personal information.
+
+5.2 It can take us up to 21 days to respond to your request.
+
+5.3 You can request access to the information we hold about you or correct your PI by contacting [legal@clickatell.com](mailto:legal@clickatell.com) or by doing it yourself via your account.
+
+5.4 In certain cases we may require proof of your identity. Changes to some of your information may be subject to additional requirements such as valid proof of residence.
+
+## 6 How we secure information
+
+#### We take your privacy and the security of your PI seriously, but no system is 100% secure. We are not in the data storage business and will delete some data every once in a while. Also, we cannot guarantee that your customer data will not be intercepted during transmission.
+
+6.1 We have implemented reasonable security safeguards to protect the PI that you provide. For example we regularly monitor our systems for possible vulnerabilities and attacks. These measures vary based on the sensitivity of the information that we collect, process and store and the current state of technology.
+
+6.2 But no system is perfect and no service is 100% secure. So while we will do everything reasonably necessary to secure the information we cannot rule out unauthorised access, hacking, loss of information or a data breach.
+
+6.3 We do not undertake to store your customer data. In fact, periodically we delete some customer data. For instance, we only keep the content of the messages you send via our service for 90 days.
+
+6.4 This means that we don’t undertake to store any of your customer data and that we are not liable for any loss or harm which flows from the loss or deletion of your customer data.
+
+6.5 Customer data is transmitted in an unencrypted format, unless you use our encryption API*. Even then, we cannot guarantee that it cannot be intercepted by others.
+
+*G(r)eek for Application Programme Interface.
+
+6.6 To protect the confidentiality of your information and your customer data, you must keep your password confidential and not disclose it to any other person.
+
+6.7 Please let us know right away if you think that your account has been compromised or misused. For instructions on changing your password click [here](https://www.clickatell.com/faqs/answer/help-ive-forgotten-my-password/).
