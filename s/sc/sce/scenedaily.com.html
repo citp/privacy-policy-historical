@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scenedaily.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229043155id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scenedaily.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624063738id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
         <title>Privacy | Sporting News</title>        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,7 +21,7 @@
 <link href="http://st.snimg.com/css/font.css?_cb=47c44baf1351d7e81d6753b28ce37ed4" media="screen" rel="stylesheet" type="text/css">
 <link href="http://st.snimg.com/font/font-awesome.min.css?_cb=e3ebba79b75f208175ca015ee6d116c1" media="screen" rel="stylesheet" type="text/css">
 <link href="http://st.snimg.com/font/sn-icon-font.css?_cb=258b0c7ed3b11ec314829acd10289bf4" media="screen" rel="stylesheet" type="text/css">
-<link href="http://st.snimg.com/section-front/css/styles.css?_cb=1b9d321c7f358a01ebe7311578f1eb27" media="screen" rel="stylesheet" type="text/css">
+<link href="http://st.snimg.com/section-front/css/styles.css?_cb=97fe27e6a2522f39c5350601a92f6d8e" media="screen" rel="stylesheet" type="text/css">
 <link href="http://www.sportingnews.com/privacy" hreflang="x-default" rel="alternate">
 <link href="http://www.sportingnews.com/privacy" hreflang="en-US" rel="alternate">
 <link href="https://plus.google.com/115523108392991665451/" rel="publisher">
@@ -30,6 +30,13 @@
 <link href="http://st.snimg.com/image/apple-touch-icon/72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
 <link href="http://st.snimg.com/image/apple-touch-icon/72x72.png" rel="apple-touch-icon-precomposed">
         <script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="http://st.snimg.com/section-front/js/vendor/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/user-account.js"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/gigya/gigya_options.js"></script>
+<script type="text/javascript">
+    //<!--
+window.ResponsiveAd = window.ResponsiveAd || {"refreshAll":function(){}, "queueAds":function(){}};    //-->
+</script>
+<script type="text/javascript" async="" src="https://js-sec.indexww.com/ht/p/184629-168613140393219.js"></script>
 <script type="text/javascript">
     //<!--
  // Load GPT asynchronously
@@ -54,7 +61,7 @@ try{amznads.getAds('3117');}catch(e){};    //-->
 <script type="text/javascript">
     //<!--
 var key='amznslots';
-window.amzValues="" + amznads.getTokens().join(':');    //-->
+window.amzValues="" + amznads.getTokens().join(',');    //-->
 </script>
 <script type="text/javascript">
     //<!--
@@ -114,10 +121,26 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                     module: {},
                     SITE_SEARCH_SHOW_IMPROVED_SEARCH_TOOLTIP : false,
                     section: {"name":"SN","shortName":"SN","longName":"Sporting News","omnitureString":"sn","cinesport":"sn","todayOdds":"SN","isAustralia":0,"fantasyName":""},
+                    GIGYA_API_KEY: '3_TQ9Ujn5TzAau_sO68zffsyJfPB0-LWt5fAAWoB8-fyBq5Er3oN0h4jYdeei6cNb9',
                     OptaWidget: function() {
 
                     }
                 };    //-->
+</script>
+<script type="text/javascript" src="http://st.snimg.com/js/gigya/navbar.js?_cb=59a7efaad54a63a5c9ff92c05cddf604"></script>
+<script type="text/javascript" src="http://aka-cdn-ns.adtechus.com/dac/5452.1/w256926.js"></script>
+<script type="text/javascript">
+    //<!--
+var userAccount = new UserAccount({
+    apiKey: SN.GIGYA_API_KEY,
+    urlRestApi: '/service/gigya'
+}, {
+    push: function (data) {
+        if (data.event == 'login') {
+//console.log(data);
+        }
+    }
+});    //-->
 </script>
 <script type="text/javascript">
     //<!--
@@ -150,12 +173,12 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
         </a>
         <span class="section-header"><a href="/">SN</a></span>
       </div>
-            <div class="social-nav">
+            <div class="social-login">
         <ul class="nav navbar-nav navbar-right">
-                  <li><a href="https://www.facebook.com/sportingnews" target="_blank" rel="noopener noreferrer" title="Follow Sporting News on Facebook"><i class="facebook fa fa-facebook-official"></i></a></li>
-                  <li><a href="https://www.twitter.com/sportingnews" target="_blank" rel="noopener noreferrer" title="Follow Sporting News on Twitter"><i class="twitter fa fa-twitter"></i></a></li>
-                  <li><a href="https://instagram.com/sportingnews/" target="_blank" rel="noopener noreferrer" title="Follow Sporting News on Instagram"><i class="instagram fa fa-instagram"></i></a></li>
-                </ul>
+        <li class="gigya-login-button active"><a href="#">Login</a></li>
+        <li class="gigya-register-button active"><a href="#">Register</a></li>
+        <li class="gigya-account"><a href="/my-account">My Account</a></li>
+        </ul>
       </div>
                   <div class="edition-nav">
         <ul class="nav navbar-nav navbar-right">
@@ -188,7 +211,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
             </span>
           </a>
                       <div class="scoreboard-button visible-xs hidden-lg hidden-md hiddden-sm">
-                <a href="/nfl/scoreboard" class="scores btn btn-xs" role="button">NFL SCORES</a>
+                <a href="/nba/draft/2017/draft-results/round/1" class="scores btn btn-xs" role="button">NBA DRAFT</a>
             </div>
                   </div>
 
@@ -266,7 +289,19 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                   </a>
                   <ul class="dropdown-menu sub">
                                                                 <li>
-                        <a href="http://www.goal.com" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.facebook.com/sportingnews" target="_blank" rel="noopener noreferrer nofollow">
+                          SN ON FACEBOOK                        </a>
+                      </li>
+                                                                <li>
+                        <a href="https://www.twitter.com/sportingnews" target="_blank" rel="noopener noreferrer nofollow">
+                          SN ON TWITTER                        </a>
+                      </li>
+                                                                <li>
+                        <a href="https://instagram.com/sportingnews/" target="_blank" rel="noopener noreferrer nofollow">
+                          SN ON INSTAGRAM                        </a>
+                      </li>
+                                                                <li>
+                        <a href="http://www.goal.com" target="_blank" rel="noopener noreferrer nofollow">
                           GOAL                        </a>
                       </li>
                                                                 <li>
@@ -278,7 +313,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                           NEWSLETTER                        </a>
                       </li>
                                                                 <li>
-                        <a href="http://shop.sportingnews.com" target="_blank" rel="noopener noreferrer">
+                        <a href="http://shop.sportingnews.com" target="_blank" rel="noopener noreferrer nofollow">
                           SHOP                        </a>
                       </li>
                                       </ul>
@@ -342,7 +377,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="/nfl/draft" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="/nfl/draft/2017/draft-results" role="button" aria-haspopup="false" aria-expanded="false">
                                   Draft                                </a>
                                                                                     </li>
                                                   
@@ -358,7 +393,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                   <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"><i class="fa fa-ellipsis-h"></i></a>
                                   <ul aria-labelledby="sub-level-dropdown-1" class="dropdown-menu">
                                     <li>
-                                      <a class="" href="http://www.fanatics.com/NFL/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                      <a class="" href="http://www.fanatics.com/NFL/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                     </li>
                                                                 
                                                               </ul>
@@ -421,7 +456,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://www.fanatics.com/MLB/partnerid/9938" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="http://www.fanatics.com/MLB/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
                                   Shop                                </a>
                                                                                     </li>
                                                                             </div>
@@ -437,6 +472,12 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                 <a class="" href="/nba"> NBA Home</a>
                               </li>
                                                                                
+                          
+                          <li>
+                                                                                          <a class="" href="/nba/draft/2017/draft-results" role="button" aria-haspopup="false" aria-expanded="false">
+                                  Draft                                </a>
+                                                                                    </li>
+                                                  
                           
                           <li>
                                                                                           <a class="" href="/nba/videos" role="button" aria-haspopup="false" aria-expanded="false">
@@ -481,9 +522,16 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://www.fanatics.com/NBA/partnerid/9938" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Shop                                </a>
-                                                                                    </li>
+                                                                                          </li><li class="dropdown vertical-subnav" id="sub-level-dropdown-3">
+                                  <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"><i class="fa fa-ellipsis-h"></i></a>
+                                  <ul aria-labelledby="sub-level-dropdown-3" class="dropdown-menu">
+                                    <li>
+                                      <a class="" href="http://www.fanatics.com/NBA/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
+                                    </li>
+                                                                
+                                                              </ul>
+                              </li>
+                                                                                    
                                                                             </div>
                         </ul>
                       </li>
@@ -541,7 +589,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://www.fanatics.com/NHL/partnerid/9938" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="http://www.fanatics.com/NHL/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
                                   Shop                                </a>
                                                                                     </li>
                                                                             </div>
@@ -611,7 +659,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                   <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"><i class="fa fa-ellipsis-h"></i></a>
                                   <ul aria-labelledby="sub-level-dropdown-5" class="dropdown-menu">
                                     <li>
-                                      <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                      <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                     </li>
                                                                 
                                                               </ul>
@@ -632,7 +680,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                                                
                           
                           <li>
-                                                                                          <a class="" href="/ncaa-basketball/tournament/2016/bracket" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="/ncaa-basketball/tournament/2017/bracket" role="button" aria-haspopup="false" aria-expanded="false">
                                   Bracket                                </a>
                                                                                     </li>
                                                   
@@ -690,7 +738,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                   <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"><i class="fa fa-ellipsis-h"></i></a>
                                   <ul aria-labelledby="sub-level-dropdown-6" class="dropdown-menu">
                                     <li>
-                                      <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                      <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                     </li>
                                                                 
                                                               </ul>
@@ -747,7 +795,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://www.fanatics.com/NASCAR/partnerid/9938" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="http://www.fanatics.com/NASCAR/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
                                   Shop                                </a>
                                                                                     </li>
                                                                             </div>
@@ -783,7 +831,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://www.rotoql.com/sportingnews/" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="http://www.rotoql.com/sportingnews/" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
                                   DFS Lineup Builder                                </a>
                                                                                     </li>
                                                   
@@ -838,7 +886,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://www.fanatics.com/pages/World_Soccer/partnerid/9938" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="http://www.fanatics.com/pages/World_Soccer/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
                                   Shop                                </a>
                                                                                     </li>
                                                                             </div>
@@ -883,7 +931,25 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                                                
                           
                           <li>
-                                                                                          <a class="" href="http://www.goal.com" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="https://www.facebook.com/sportingnews" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                  SN on Facebook                                </a>
+                                                                                    </li>
+                                                  
+                          
+                          <li>
+                                                                                          <a class="" href="https://www.twitter.com/sportingnews" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                  SN on Twitter                                </a>
+                                                                                    </li>
+                                                  
+                          
+                          <li>
+                                                                                          <a class="" href="https://instagram.com/sportingnews/" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                  SN on Instagram                                </a>
+                                                                                    </li>
+                                                  
+                          
+                          <li>
+                                                                                          <a class="" href="http://www.goal.com" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
                                   Goal                                </a>
                                                                                     </li>
                                                   
@@ -895,19 +961,25 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="/newsletter/signup" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Newsletter                                </a>
-                                                                                    </li>
+                                                                                          </li><li>
+                                  <a class="" href="/newsletter/signup">  Newsletter  </a>
+                                </li>
+                              
+                                                                                    
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://shop.sportingnews.com" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Shop                                </a>
-                                                                                    </li>
-                                                                            </div>
-                        </ul>
-                      </li>
-                                                                                      </ul>
+                                                                                          </li><li>
+                                  <a class="" href="http://shop.sportingnews.com" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
+                                </li>
+                              
+                                                              </div></ul>
+                              </li>
+                                                                                    
+                                                                            </ul></div>
+                        
+                      
+                                                                                      
                                         <ul class="main-section-nav nav navbar-nav hidden-md hidden-lg">
                                                   
                                                             <li id="nfl" class="dropdown horizontal-subnav  ">
@@ -961,7 +1033,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                   <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"><i class="fa fa-ellipsis-h"></i></a>
                                   <ul aria-labelledby="sub-level-dropdown-1" class="dropdown-menu">
                                     <li>
-                                      <a class="" href="/nfl/draft">  Draft  </a>
+                                      <a class="" href="/nfl/draft/2017/draft-results">  Draft  </a>
                                     </li>
                                                                 
                                                                                     
@@ -977,7 +1049,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                           
                           <li>
                                                                                           </li><li>
-                                  <a class="" href="http://www.fanatics.com/NFL/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                  <a class="" href="http://www.fanatics.com/NFL/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                 </li>
                               
                                                               </ul>
@@ -1046,7 +1118,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                           
                           <li>
                                                                                           </li><li>
-                                  <a class="" href="http://www.fanatics.com/MLB/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                  <a class="" href="http://www.fanatics.com/MLB/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                 </li>
                               
                                                               </ul>
@@ -1065,6 +1137,12 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                 <a class="" href="/nba"> NBA Home</a>
                               </li>
                                                                                
+                          
+                          <li>
+                                                                                          <a class="" href="/nba/draft/2017/draft-results" role="button" aria-haspopup="false" aria-expanded="false">
+                                  Draft                                </a>
+                                                                                    </li>
+                                                  
                           
                           <li>
                                                                                           <a class="" href="/nba/videos" role="button" aria-haspopup="false" aria-expanded="false">
@@ -1097,17 +1175,11 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                   
                           
                           <li>
-                                                                                          <a class="" href="/nba/standings" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Standings                                </a>
-                                                                                    </li>
-                                                  
-                          
-                          <li>
                                                                                           </li><li class="dropdown vertical-subnav" id="sub-level-dropdown-3">
                                   <a aria-expanded="false" aria-haspopup="true" class="dropdown-toggle" data-toggle="dropdown" href="#" role="button"><i class="fa fa-ellipsis-h"></i></a>
                                   <ul aria-labelledby="sub-level-dropdown-3" class="dropdown-menu">
                                     <li>
-                                      <a class="" href="/nba/news">  News Archive  </a>
+                                      <a class="" href="/nba/standings">  Standings  </a>
                                     </li>
                                                                 
                                                                                     
@@ -1115,7 +1187,15 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                           
                           <li>
                                                                                           </li><li>
-                                  <a class="" href="http://www.fanatics.com/NBA/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                  <a class="" href="/nba/news">  News Archive  </a>
+                                </li>
+                              
+                                                                                    
+                                                  
+                          
+                          <li>
+                                                                                          </li><li>
+                                  <a class="" href="http://www.fanatics.com/NBA/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                 </li>
                               
                                                               </ul>
@@ -1184,7 +1264,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                           
                           <li>
                                                                                           </li><li>
-                                  <a class="" href="http://www.fanatics.com/NHL/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                  <a class="" href="http://www.fanatics.com/NHL/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                 </li>
                               
                                                               </ul>
@@ -1261,7 +1341,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                           
                           <li>
                                                                                           </li><li>
-                                  <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                  <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                 </li>
                               
                                                               </ul>
@@ -1282,7 +1362,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                                                
                           
                           <li>
-                                                                                          <a class="" href="/ncaa-basketball/tournament/2016/bracket" role="button" aria-haspopup="false" aria-expanded="false">
+                                                                                          <a class="" href="/ncaa-basketball/tournament/2017/bracket" role="button" aria-haspopup="false" aria-expanded="false">
                                   Bracket                                </a>
                                                                                     </li>
                                                   
@@ -1346,7 +1426,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                           
                           <li>
                                                                                           </li><li>
-                                  <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="noopener noreferrer">  Shop  </a>
+                                  <a class="" href="http://www.fanatics.com/COLLEGE/partnerid/9938" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
                                 </li>
                               
                                                               </ul>
@@ -1406,46 +1486,74 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
                                                                                
                           
                           <li>
-                                                                                          <a class="" href="http://www.goal.com" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Goal                                </a>
+                                                                                          <a class="" href="https://www.facebook.com/sportingnews" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                  SN on Facebook                                </a>
                                                                                     </li>
                                                   
                           
                           <li>
-                                                                                          <a class="" href="/writers" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Writers                                </a>
+                                                                                          <a class="" href="https://www.twitter.com/sportingnews" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                  SN on Twitter                                </a>
                                                                                     </li>
                                                   
                           
                           <li>
-                                                                                          <a class="" href="/newsletter/signup" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Newsletter                                </a>
+                                                                                          <a class="" href="https://instagram.com/sportingnews/" target="_blank" rel="nofollow noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
+                                  SN on Instagram                                </a>
                                                                                     </li>
                                                   
                           
                           <li>
-                                                                                          <a class="" href="http://shop.sportingnews.com" target="_blank" rel="noopener noreferrer" role="button" aria-haspopup="false" aria-expanded="false">
-                                  Shop                                </a>
-                                                                                    </li>
-                                                                            </div>
-                        </ul>
-                      </li>
-                                                                                      </ul>
-                      </div>
+                                                                                          </li><li>
+                                  <a class="" href="http://www.goal.com" target="_blank" rel="nofollow noopener noreferrer">  Goal  </a>
+                                </li>
+                              
+                                                                                    
+                                                  
+                          
+                          <li>
+                                                                                          </li><li>
+                                  <a class="" href="/writers">  Writers  </a>
+                                </li>
+                              
+                                                                                    
+                                                  
+                          
+                          <li>
+                                                                                          </li><li>
+                                  <a class="" href="/newsletter/signup">  Newsletter  </a>
+                                </li>
+                              
+                                                                                    
+                                                  
+                          
+                          <li>
+                                                                                          </li><li>
+                                  <a class="" href="http://shop.sportingnews.com" target="_blank" rel="nofollow noopener noreferrer">  Shop  </a>
+                                </li>
+                              
+                                                              </div></ul>
+                              </li>
+                                                                                    
+                                                                            </ul></div>
+                        
+                      
+                                                                                      
+                      </nav></div>
         </div>
         <!-- End Tablet/Desktop -->
-      </nav>
-    </div>
-  </div>
+      
+    
+  
 </header>
 
 <!-- MOBILE Subnavigation -->
 
 
-        <div class="ad-unit-module ad-skin">
-            <div id="" data-ad-type="Run_of_Site" data-ad-sizes="[1,1]" data-placement="Skin" data-placement-alias="" data-page-type="" data-parameters="{&quot;snsport&quot;:&quot;Homepage&quot;,&quot;snenv&quot;:&quot;prod&quot;,&quot;snedition&quot;:&quot;US&quot;}" data-min-height="" data-margin-bottom="" data-load-in-view="false" data-load="true">
-</div>        </div>
-
+                    <div class="ad-unit-module ad-skin">
+                <div id="" data-ad-type="Run_of_Site" data-ad-sizes="[1,1]" data-placement="Skin" data-placement-alias="" data-page-type="" data-parameters="{&quot;snsport&quot;:&quot;Homepage&quot;,&quot;snenv&quot;:&quot;dev&quot;,&quot;snedition&quot;:&quot;US&quot;}" data-min-height="" data-margin-bottom="" data-load-in-view="false" data-load="true">
+</div>            </div>
+        
         <div class="main-content container">
 <div class="content-wrapper container" style="padding: 0 20px;">
 		<h2 style="margin-bottom: 20px;"><strong>
@@ -1714,7 +1822,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
     <div class="legal-container-outer clearfix">
       <div class="legal container">
         <div class="col-md-12">
-          <div class="all-rights-reserved pull-right">© 2016 <a href="/">Sporting News Media</a> and its licensors. All rights reserved.</div>
+          <div class="all-rights-reserved pull-right">© 2017 <a href="/">Sporting News Media</a> and its licensors. All rights reserved.</div>
         </div>
       </div>
     </div>
@@ -1770,7 +1878,7 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
       </div>
     </div>
     <div class="legal-container-outer clearfix">
-      <div class="legal col-xs-10 col-xs-offset-1">© 2016 <a href="http://www.sportingnews.com">Sporting News Media</a> and its licensors. All rights reserved.</div>
+      <div class="legal col-xs-10 col-xs-offset-1">© 2017 <a href="http://www.sportingnews.com">Sporting News Media</a> and its licensors. All rights reserved.</div>
     </div>
   </div>
 </footer>
@@ -1782,10 +1890,11 @@ window.amzValues="" + amznads.getTokens().join(':');    //-->
 <script type="text/javascript" src="http://static.eplayer.performgroup.com/flash/js/performgroup.js"></script>
 <script type="text/javascript" src="http://dy.snimg.com/compressed/www-video-1c08149debdb4458e0733203bd8e20b0.js"></script>
 <script type="text/javascript" src="http://st.snimg.com/js/environment/omniture-extension.js?_cb=a4e2f842bd9205aa2124c16442ef0e67"></script>
-<script type="text/javascript" src="http://st.snimg.com/section-front/js/responsive-ad.js?_cb=9d200b2e3a89312492c5168aefdefac6"></script>
+<script type="text/javascript" src="http://st.snimg.com/section-front/js/responsive-ad.js?_cb=7308845b48c287bf35f3fc591b415ead"></script>
 <script type="text/javascript" src="https://cdn1.lockerdome.com/js/embed_code.js"></script>
 <script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=F09828&amp;auto=t&amp;bpid=performgroup"></script>
 <script type="text/javascript" src="//wfpscripts.webspectator.com/bootstrap/ws-33A24448.js"></script>
+<script type="text/javascript" src="http://st.snimg.com/js/ads.js?_cb=b70af75db34bf19825ee7d767bc959b2"></script>
 <script type="text/javascript">
     //<!--
 (function(){
@@ -1829,7 +1938,54 @@ window._fbq = window._fbq || [];
 window._fbq.push(['track', 'PixelInitialized', {}]);
 </script>
 <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=362578010617732&ev=PixelInitialized" /></noscript><script async="async" type="text/javascript" src="//d3avqv6zaxegeu.cloudfront.net/sentinel.js" data-client-id="tBdOzZizJrxtncD"></script>
-        
-            
+        <script type="text/javascript">
+jQuery(document).ready(checkAds());
+function checkAds() {
+    var unblock = false;
+    if (document.getElementById('adsense') != undefined) {
+        document.write("<script>window.ga('send', 'event', 'adBlock', 'blocked', 'false', { nonInteraction: true });</sc" + "ript>");
+        if (0 === 1) {
+            document.write("<script>window.ga('australia.send', 'event', 'adBlock', 'blocked', 'false', { nonInteraction: true });</sc" + "ript>");
+        }
+    } else {
+        document.write("<script>window.ga('send', 'event', 'adBlock', 'blocked', 'true', { nonInteraction: true });</sc" + "ript>");
+        if (0 === 1) {
+            document.write("<script>window.ga('australia.send', 'event', 'adBlock', 'blocked', 'true', { nonInteraction: true });</sc" + "ript>");
+        }
+    }
 
-</body></html>
+    if (typeof I10C != 'undefined'){
+        if (I10C.Morph === 1){
+            unblock = true;
+            document.write("<script>window.ga('send', { hitType: 'event', eventCategory: 'unblock', eventAction: 'true', fieldsObject: { nonInteraction: true } });</sc" + "ript>");
+
+            if (0 === 1) {
+                document.write("<script>window.ga('australia.send', { hitType: 'event', eventCategory: 'unblock', eventAction: 'true', fieldsObject: { nonInteraction: true } });</sc" + "ript>");
+            }
+        }
+    }
+
+    if (unblock === false) {
+        document.write("<script>window.ga('send', { hitType: 'event', eventCategory: 'unblock', eventAction: 'false', fieldsObject: { nonInteraction: true } });</sc" + "ript>");
+
+        if (0 === 1) {
+            document.write("<script>window.ga('australia.send', { hitType: 'event', eventCategory: 'unblock', eventAction: 'false', fieldsObject: { nonInteraction: true } });</sc" + "ript>");
+        }
+    }
+}
+</script>
+        
+<div class="nfl-draft-2017-call-to-action hidden-xs">
+	<div class="placeholder">
+		<div class="floating-bar">
+		<a class="text">
+			VIEW NBA DRAFT BOARD
+			<i class="fa fa-angle-double-right" aria-hidden="true"></i>
+		</a>
+	    <iframe src="/nba/draft/2017/draft-ticker">
+	    </div>
+	</div>
+</div>
+    </body>
+</html>
+</iframe></div></div></div></body></html>
