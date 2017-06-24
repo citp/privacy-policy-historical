@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315222841id_/https%3A//www.mayzus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624062941id_/https%3A//www.liteforex.com/privacy) for the most accurate reproduction.*
 
-# MAYZUS :: MAYZUS: Privacy Policy
+# Privacy Policy
 
-The Company's official language is the English language and the Client should always read and refer to the main Website for all information and disclosures about the Company and its activities. Translation or information provided in languages other than English is for informational purposes only and do not bind the Company or have any legal effect whatsoever, the Company having no responsibility or reliability regarding the correctness of the information therein.
+The official language of the company is English. For a more complete description of the Company's activity, please visit the English version of the site. information translated into languages other than English is for information purposes only and has no legal force, the Company is not responsible for the accuracy of the information provided in other languages.
 
-MAYZUS Investment Company respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. We kindly ask that you read the following information.
+LiteForex Investments Limited respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. We kindly ask that you read the following information.
 
 1\. GENERAL PROVISIONS
 
-1.1 The present Privacy Policy is an integral part of the public documents package, pursuant to which the MAYZUS Investment Company officially represented by its Affiliated Partners (hereinafter referred to as the Company), provides various services (including services of financial and informational nature, etc.) to its Clients.
+1.1 The present Privacy Policy is an integral part of the public documents package, pursuant to which the LiteForex Investments Limited officially represented by its Affiliated Partners (hereinafter referred to as the Company), provides various services (including services of financial and informational nature, etc.) to its Clients.
 
 1.2. By choosing the Company's services, the Client fully agrees to all the terms and conditions of the public documents. The same applies to the interactions between the Client and the Company, during which trading and investment operations are performed, various informational materials are used, payments and transfers are arranged, etc. Should the Client disagree with any condition of the public documents package, she/he should cease all interaction with the Company. In case the Client deems the conditions of the present Privacy Policy unacceptable for any reason whatsoever, she/he shall cease all interaction with the Company, including terminating all financial operations carried out with Company mediation.
 
@@ -32,7 +32,9 @@ MAYZUS Investment Company respects each individual's right to privacy. We value 
 
 2.1.4. Information about subscriptions - information such as signals, alerts, news category and price subscriptions.
 
-2.2. The above is not inclusive. The Company reserves the right to require other information from the Client in the case that it is necessary for complying to the regulations of existing legislation.
+2.2. The Company does not collect nor store credit /debit card details of any customer in its database.
+
+2.3. The above is not inclusive. The Company reserves the right to require other information from the Client in the case that it is necessary for complying to the regulations of existing legislation.
 
 3\. ABOUT "COOKIES"
 
@@ -44,6 +46,8 @@ MAYZUS Investment Company respects each individual's right to privacy. We value 
 
 4.2. The Company reserves the right to choose technologies and methods of data protection at its own discretion, and to cooperate in this field with contractors which appear to be reliable to the Company.
 
+4.3. In accordance with the recommendations of Payment Card Industry Security Standards Council, customer card details are protected using Transport Layer encryption — TLS 1.2 and application layer with algorithm AES and key length 256 bit.
+
 5\. SHARING INFORMATION WITH THE COMPANY'S AFFILIATED PARTNERS
 
 5.1. The Company may share Client personal information described above with its affiliates for business purposes, such as servicing the Client's accounts and informing him/her about new products and services, as permitted by applicable law.
@@ -52,7 +56,7 @@ MAYZUS Investment Company respects each individual's right to privacy. We value 
 
 6\. SHARING INFORMATION WITH THIRD PARTIES
 
-6.1.The Company does not disclose the Client's personal information to third parties, except as described in this Privacy Policy. Third-party disclosures may include sharing such information with Non-Affiliated Partners of the Company that perform technical support services for Client accounts or facilitate Client deals with the Company, including those that provide professional, legal, or accounting advice to the Company. Non-affiliated Partners that assist the Company in providing services to the Clients are required to maintain the confidentiality of such information to the extent that they receive it, and to use this personal information only in the course of providing such services, and only for the purposes that the Company dictates.
+6.1. The Company does not disclose the Client's personal information to third parties, except as described in this Privacy Policy. Third-party disclosures may include sharing such information with Non-Affiliated Partners of the Company that perform technical support services for Client accounts or facilitate Client deals with the Company, including those that provide professional, legal, or accounting advice to the Company. Non-affiliated Partners that assist the Company in providing services to the Clients are required to maintain the confidentiality of such information to the extent that they receive it, and to use this personal information only in the course of providing such services, and only for the purposes that the Company dictates.
 
 6.2. The Company may also disclose the Client's personal information to third parties to fulfill Client instructions or pursuant to the Client's express consent. Company also informs its Clients that it shall never sell, place at interim disposal on a remuneration basis, distribute or disseminate the Client's Personal information under any circumstances.
 
@@ -60,11 +64,15 @@ MAYZUS Investment Company respects each individual's right to privacy. We value 
 
 7.1. Under limited circumstances, the Company may disclose the Client's personal information to third parties as permitted by, or to comply with, applicable laws and regulations. The Company may disclose personal information to cooperate with regulatory authorities and law enforcement agencies in complying with subpoenas or other official requests, and as necessary to protect Company rights or property.
 
-7.2. Except as described in the present Privacy Policy, the Company will not use the Client's personal information for any other purpose unless the Company describes how such information will be used at the time the Client discloses it, or if the Company obtains the Client's express permission. The Company has the right to use the Client's Personal information in cases other than described in the present Privacy Policy if clearly stated at the time the information is disclosed by the Client or when the Company receives the Client's express permission.
+7.2. Except as described in the present Privacy Policy, the Company will not use the Client's personal information for any other purpose unless the Company describes how such information will be used at the time the Client discloses it, or if the Company obtains the Client's express permission.
+
+The Company has the right to use the Client's Personal information in cases other than described in the present Privacy Policy if clearly stated at the time the information is disclosed by the Client or when the Company receives the Client's express permission.
 
 8\. OPT OUT
 
-8.1. The Client may refuse to supply any of the Personal information that the Company may request. However, failure to do so may result in the Company being unable to open or maintain an account or to provide other services to the Client. While the Company makes every effort to ensure that services, provided to its Clients are based on accurate, complete and up-to-date information about them, the Client can help considerably in this respect by promptly notifying the Company when there are changes to his/her personal information.
+8.1. The Client may refuse to supply any of the Personal information that the Company may request. However, failure to do so may result in the Company being unable to open or maintain an account or to provide other services to the Client.
+
+While the Company makes every effort to ensure that services, provided to its Clients are based on accurate, complete and up-to-date information about them, the Client can help considerably in this respect by promptly notifying the Company when there are changes to his/her personal information.
 
 8.2. If the Client does not wish to have his/her Personal information disclosed to third parties as described in the present Privacy Policy, s/he should contact the Company via specific contact form.
 
@@ -74,7 +82,7 @@ MAYZUS Investment Company respects each individual's right to privacy. We value 
 
 9.2. Amendatory procedure:
 
-9.2.1 Should amendments be made, the Company shallinform the Clients of this by posting the relevant notice on the official Company Web site and by sending the relevant message to Clients via the internal mail system.
+9.2.1 Should amendments and/or additions be made, the Company shall inform the Clients of this fact by posting relevant notice on the Company's official Web site and sending a relevant message via the internal mail system.
 
 9.2.2 Posting the relevant notice on the Company Website and sending messages via internal mail are considered to be adequate Client Privacy Policy of the amendments, whether the Client reads and understands a corresponding text or ignores it.
 
@@ -84,8 +92,17 @@ MAYZUS Investment Company respects each individual's right to privacy. We value 
 
 9.2.5 In the case that a rule of law is introduced, which requires a corresponding amendment and/or addition to the present Privacy Policy, then the rule of law shall be applied immediately after the effective date of the relevant statutory act, whether the required amendment is made or not. Regulations of the present Privacy Policy that contradict the newly introduced rule or law become void once the corresponding amendments to the aforementioned document go into effect.
 
-10\. ACCEPTANCE BY THE CLIENT
+10\. ACCEPTANCE OF NOTICE CONDITIONS BY THE CLIENT
 
-10.1. Being the Client of the Company and actively using its services (including broker and information services), its software and/or hardware that allow carrying out professional activity on the financial markets, I accept the Privacy Policy described in the present Privacy Policy.
+10.1. Being the Client of the Company, and actively using its services (including brokerage services and information services), software and/or hardware allowing to carry out professional activities in the financial markets, I accept the Privacy Policy described in this Notice.
 
-10.2. I agree with all the conditions (paragraphs, clauses) of the Company public documents for using the Company services and will immediately cease using such Company services in case of disagreement.
+10.2. I agree with all the provisions (clauses, sections) of all documents publicly declared by the Company during the period of use of any services of the Company, and in case of disagreement, I will immediately cease to use the Company's services.
+
+Follow us in social networks!
+
+
+
+
+Live Chat [ Leave feedback ](https://www.liteforex.com/beginners/liteforex-reviews/add/)
+
+__
