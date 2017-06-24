@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aztecrichescasino.eu privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008100850id_/http%3A//www.aztecrichescasino.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aztecrichescasino.eu privacy policy that was archived on 2017-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170625003059id_/http%3A//www.aztecrichescasino.eu/privacy) for the most accurate reproduction.*
 
 # Security : Aztec Riches Casino Privacy Policy
 
