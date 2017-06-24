@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the problogger.com privacy policy that was archived on 2016-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161229034328id_/http%3A//www.problogger.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the problogger.com privacy policy that was archived on 2017-06-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170624044313id_/https%3A//problogger.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" src="//tag.getdrip.com/5358085.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
 <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
-<link rel="shortcut icon" href="http://www.problogger.net/wp-content/themes/problogger-redesign/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://problogger.com/wp-content/themes/problogger-redesign/favicon.ico" type="image/x-icon">
 <title>Privacy Policy</title>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="dist/bower_components/sw-toolbox/sw-toolbox.js" data-service-worker="sw.js"></script>
  
-<link rel="canonical" href="http://www.problogger.net/privacy-policy/">
+<link rel="canonical" href="https://problogger.com/privacy-policy/">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:description" content="Problogger is operated &nbsp;Problogger Pty Ltd ABN 90 561 136 245&nbsp;(“Problogger”). As such, it is run under Problogger’s general privacy Problogger&nbsp;understands the importance of protecting your personal information and undertakes to adhere to this privacy policy at all times to ensure your personal information is effectively safeguarded. What type of ...more">
-<meta property="og:url" content="http://www.problogger.net/privacy-policy/">
+<meta property="og:url" content="https://problogger.com/privacy-policy/">
 <meta property="og:site_name" content="ProBlogger">
 <meta property="article:publisher" content="https://www.facebook.com/problogger">
 <meta name="twitter:card" content="summary_large_image">
@@ -24,52 +23,53 @@
 <meta name="twitter:creator" content="@ProBlogger">
  
 <link rel="dns-prefetch" href="//s0.wp.com">
-<link rel="dns-prefetch" href="//www.problogger.net">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="ProBlogger » Privacy Policy Comments Feed" href="http://www.problogger.net/privacy-policy/feed/">
+<link rel="alternate" type="application/rss+xml" title="ProBlogger » Privacy Policy Comments Feed" href="https://problogger.com/privacy-policy/feed/">
 <script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.problogger.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
-			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://www.problogger.net/wp-includes/js/wp-emoji-release.min.js?ver=4.6.1" type="text/javascript"></script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/problogger.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://problogger.com/wp-includes/js/wp-emoji-release.min.js?ver=4.8" type="text/javascript" defer=""></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="theme-my-login-css" href="http://www.problogger.net/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.6" type="text/css" media="all">
-<link rel="stylesheet" id="edd-styles-css" href="http://www.problogger.net/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.6.11" type="text/css" media="all">
-<link rel="stylesheet" id="pb_message_bar_style-css" href="http://www.problogger.net/wp-content/plugins/pb-sticky-top-bar-messenger/assets/css/pb_sticky_top_bar.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="tabs_style-css" href="http://www.problogger.net/wp-content/plugins/tabs/assets/front/css/style.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="tabs.themes-css" href="http://www.problogger.net/wp-content/plugins/tabs/assets/global/css/tabs.themes.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-tabs-css" href="http://www.problogger.net/wp-content/plugins/tabs/assets/front/css/responsive-tabs.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="font-awesome-css" href="http://www.problogger.net/wp-content/plugins/tabs/assets/global/css/font-awesome.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="pb-communicator-plugin-styles-css" href="http://www.problogger.net/wp-content/plugins/pb-communicator/public/assets/css/public.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="pb-communicator-magnific-popup-css" href="http://www.problogger.net/wp-content/plugins/pb-communicator/public/assets/css/magnific-popup.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="app.css-css" href="http://www.problogger.net/wp-content/themes/problogger-redesign/dist//stylesheets/application.css?ver=16.10.11" type="text/css" media="all">
-<link rel="stylesheet" id="fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C300italic%2C300%2C600italic%2C600%2C700italic%2C800%2C700%2C800italic&amp;ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="mfp-css" href="http://www.problogger.net/wp-content/themes/problogger-redesign/dist//bower_components/magnific-popup/dist/magnific-popup.css?ver=16.10.11" type="text/css" media="all">
-<link rel="stylesheet" id="pb-communicator-widget-widget-styles-css" href="http://www.problogger.net/wp-content/plugins/pb-communicator/admin/../public/assets/css/widget.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://www.problogger.net/wp-content/plugins/jetpack/css/jetpack.css?ver=4.3.2" type="text/css" media="all">
-<script type="text/javascript" src="http://www.problogger.net/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/plugins/tabs/assets/front/js/jquery.responsiveTabs.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/plugins/pb-communicator/public/assets/js/public.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/plugins/pb-communicator/public/assets/js/magnific-popup.js?ver=1.0"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/themes/problogger-redesign/dist/javascripts/resizer/resizer.js?ver=16.10.11"></script>
+<link rel="stylesheet" id="theme-my-login-css" href="https://problogger.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.9" type="text/css" media="all">
+<link rel="stylesheet" id="edd-styles-css" href="https://problogger.com/wp-content/plugins/easy-digital-downloads/templates/edd.min.css?ver=2.7.9" type="text/css" media="all">
+<link rel="stylesheet" id="pb_message_bar_style-css" href="https://problogger.com/wp-content/plugins/pb-sticky-top-bar-messenger/assets/css/pb_sticky_top_bar.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="pb-communicator-plugin-styles-css" href="https://problogger.com/wp-content/plugins/pb-communicator/public/assets/css/public.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="pb-communicator-magnific-popup-css" href="https://problogger.com/wp-content/plugins/pb-communicator/public/assets/css/magnific-popup.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="app.css-css" href="https://problogger.com/wp-content/themes/problogger-redesign/dist//stylesheets/application.css?ver=17.06.8" type="text/css" media="all">
+<link rel="stylesheet" id="fonts-css" href="//fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C300italic%2C300%2C600italic%2C600%2C700italic%2C800%2C700%2C800italic&amp;ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="mfp-css" href="https://problogger.com/wp-content/themes/problogger-redesign/dist//bower_components/magnific-popup/dist/magnific-popup.css?ver=17.06.8" type="text/css" media="all">
+<link rel="stylesheet" id="pb-communicator-widget-widget-styles-css" href="https://problogger.com/wp-content/plugins/pb-communicator/admin/../public/assets/css/widget.css?ver=4.8" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://problogger.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.0" type="text/css" media="all">
+<script type="text/javascript" src="https://problogger.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://problogger.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/thrive-visual-editor/editor/js/compat.min.js?ver=1.500.18"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var themeData = {"ajaxurl":"http:\/\/www.problogger.net\/wp-admin\/admin-ajax.php"};
+var edd_scripts = {"ajaxurl":"https:\/\/problogger.com\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"0","checkout_page":"https:\/\/problogger.com\/checkout\/?nocache=true","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/themes/problogger-redesign/dist/javascripts/application.min.js?ver=16.10.11"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/themes/problogger-redesign/dist//bower_components/magnific-popup/dist/jquery.magnific-popup.min.js?ver=16.10.11"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/themes/problogger-redesign/dist//bower_components/slideout.js/dist/slideout.min.js?ver=16.10.11"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/plugins/pb-communicator/admin/../public/assets/js/widget.js?ver=4.6.1"></script>
-<link rel="https://api.w.org/" href="http://www.problogger.net/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.problogger.net/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.problogger.net/wp-includes/wlwmanifest.xml">
-<link rel="shortlink" href="http://www.problogger.net/?p=28407">
-<link rel="alternate" type="application/json+oembed" href="http://www.problogger.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.problogger.net%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://www.problogger.net/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.problogger.net%2Fprivacy-policy%2F&amp;format=xml">
-<meta name="generator" content="Easy Digital Downloads v2.6.11">
-<meta name="generator" content="EDD CFM v2.0.7">
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.min.js?ver=2.7.9"></script>
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/pb-communicator/public/assets/js/public.js?ver=1.0"></script>
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/pb-communicator/public/assets/js/magnific-popup.js?ver=1.0"></script>
+<script type="text/javascript" src="https://problogger.com/wp-content/themes/problogger-redesign/dist/javascripts/resizer/resizer.js?ver=17.06.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var themeData = {"ajaxurl":"https:\/\/problogger.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://problogger.com/wp-content/themes/problogger-redesign/dist/javascripts/application.min.js?ver=17.06.8"></script>
+<script type="text/javascript" src="https://problogger.com/wp-content/themes/problogger-redesign/dist//bower_components/magnific-popup/dist/jquery.magnific-popup.min.js?ver=17.06.8"></script>
+<script type="text/javascript" src="https://problogger.com/wp-content/themes/problogger-redesign/dist//bower_components/slideout.js/dist/slideout.min.js?ver=17.06.8"></script>
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/pb-communicator/admin/../public/assets/js/widget.js?ver=4.8"></script>
+<link rel="https://api.w.org/" href="https://problogger.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://problogger.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://problogger.com/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="https://problogger.com/?p=28407">
+<link rel="alternate" type="application/json+oembed" href="https://problogger.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fproblogger.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://problogger.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fproblogger.com%2Fprivacy-policy%2F&amp;format=xml">
+<meta name="generator" content="Easy Digital Downloads v2.7.9">
+<meta name="generator" content="EDD CFM v2.0.10">
 <script>(function() {
   var _fbq = window._fbq || (window._fbq = []);
   if (!_fbq.loaded) {
@@ -91,50 +91,54 @@ function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','too
 </script>
 <script type="text/javascript">
 	window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
-	window._wp_rp_wp_ajax_url = "http://www.problogger.net/wp-admin/admin-ajax.php";
-	window._wp_rp_plugin_version = '3.6';
+	window._wp_rp_wp_ajax_url = "https://problogger.com/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.6.1';
 	window._wp_rp_post_id = '28407';
 	window._wp_rp_num_rel_posts = '3';
 	window._wp_rp_thumbnails = false;
 	window._wp_rp_post_title = 'Privacy+Policy';
 	window._wp_rp_post_tags = [];
 </script>
-<script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="fe5b9c1cbce0b9d55beaf9929cbaac6524db9e33ef07e6cdb8a536e31533b8a9" async=""></script> </head><body class="page page-id-28407 page-template-default page-privacy-policy"><div class="sticky-top-bar-message" style="background: #206494" data-time="" data-focus="no">
+<script data-cfasync="false" src="//load.sumome.com/" data-sumo-platform="wordpress" data-sumo-site-id="fe5b9c1cbce0b9d55beaf9929cbaac6524db9e33ef07e6cdb8a536e31533b8a9" async=""></script><link rel="icon" href="https://problogger.com/wp-content/uploads/2017/05/cropped-PBFavicon-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://problogger.com/wp-content/uploads/2017/05/cropped-PBFavicon-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://problogger.com/wp-content/uploads/2017/05/cropped-PBFavicon-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://problogger.com/wp-content/uploads/2017/05/cropped-PBFavicon-1-270x270.png">
+</head><body class="page-template-default page page-id-28407 page-privacy-policy"><div class="sticky-top-bar-message" style="background: #206494" data-time="" data-focus="no">
 <div id="regular_bar">
 <p class="message" style="color: #FFFFFF">Give me 31 Days and I’ll Give You a Better Blog… Guaranteed</p>
-<a href="http://www.problogger.net/31dbbb-workbook/" class="message-button" style="background: #2ECC70; color: #ffffff;">Check out 31 Days to Build a Better Blog</a>
+<a href="https://problogger.com/31dbbb-workbook/" class="message-button" style="background: #2ECC70; color: #ffffff;">Check out 31 Days to Build a Better Blog</a>
 <p class="mobile-message" style="color: #FFFFFF">Give me 31 Days and I’ll Give You a Better Blog</p>
-<a href="http://www.problogger.net/31dbbb-workbook/" class="mobile-message-button" style="background: #2ECC70; color: #ffffff;">Check it out</a>
+<a href="https://problogger.com/31dbbb-workbook/" class="mobile-message-button" style="background: #2ECC70; color: #ffffff;">Check it out</a>
 </div>
-<span class="sticky-top-bar-close-button"><img src="http://www.problogger.net/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowup.png" alt=""></span>
+<span class="sticky-top-bar-close-button"><img src="https://problogger.com/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowup.png" alt=""></span>
 </div>
 <div class="sticky-top-bar-message" style="background: #206494" data-time="" data-focus="no">
 <div id="regular_bar">
 <p class="message" style="color: #FFFFFF">A Practical Podcast… to Help You Build a Better Blog</p>
-<a href="http://problogger.com/podcast/" class="message-button static" style="background: #c03d0c; color: #ffffff;">The ProBlogger Podcast</a>
+<a href="https://problogger.com/podcast/" class="message-button static" style="background: #c03d0c; color: #ffffff;">The ProBlogger Podcast</a>
 <p class="mobile-message" style="color: #FFFFFF">A Practical Podcast…</p>
-<a href="http://problogger.com/podcast/" class="mobile-message-button hide" style="background: #c03d0c; color: #ffffff;"></a>
+<a href="https://problogger.com/podcast/" class="mobile-message-button hide" style="background: #c03d0c; color: #ffffff;"></a>
 </div>
-<span class="sticky-top-bar-close-button"><img src="http://www.problogger.net/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowup.png" alt=""></span>
+<span class="sticky-top-bar-close-button"><img src="https://problogger.com/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowup.png" alt=""></span>
 </div>
 <div class="sticky-top-bar-message current" style="background: #206494" data-time="" data-focus="no">
 <div id="custom_bar" style="color:#FFFFFF;">
-FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 10px; display: inline-block; vertical-align: middle;" action="http://www.aweber.com/scripts/addlead.pl" method="post"><input name="meta_web_form_id" type="hidden" value="1939335392"><input name="meta_split_id" type="hidden" value=""><input name="unit" type="hidden" value="probloggerplus"><input id="redirect_b93f8cb282aaea7cfa8b790bfecff720" name="redirect" type="hidden" value="http://www.aweber.com/thankyou-coi.htm?m=audio"><input name="meta_redirect_onlist" type="hidden" value="http://www.problogger.net/youre-all-signed-up/"><input name="meta_adtracking" type="hidden" value=""><input name="meta_message" type="hidden" value="1"><input name="meta_required" type="hidden" value="from"><input name="meta_forward_vars" type="hidden" value="0"><input class="text_input" style="padding: 2px 10px 3px 10px; margin-top: -2px; vertical-align: middle;" name="from" type="text" placeholder="Enter your email"><input id="zoosbmt" class="subbutton" style="vertical-align: middle; position: relative; top: -2px;" alt="Subscribe" src="http://www.problogger.net/wp-content/themes/problogger-redesign/assets/images/subscribe-button.png" type="image"></form> </div>
-<span class="sticky-top-bar-close-button"><img src="http://www.problogger.net/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowup.png" alt=""></span>
+FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 10px; display: inline-block; vertical-align: middle;" action="https://www.aweber.com/scripts/addlead.pl" method="post"><input name="meta_web_form_id" type="hidden" value="1939335392"><input name="meta_split_id" type="hidden" value=""><input name="unit" type="hidden" value="probloggerplus"><input id="redirect_b93f8cb282aaea7cfa8b790bfecff720" name="redirect" type="hidden" value="https://www.aweber.com/thankyou-coi.htm?m=audio"><input name="meta_redirect_onlist" type="hidden" value="https://problogger.com/youre-all-signed-up/"><input name="meta_adtracking" type="hidden" value=""><input name="meta_message" type="hidden" value="1"><input name="meta_required" type="hidden" value="from"><input name="meta_forward_vars" type="hidden" value="0"><input class="text_input" style="padding: 2px 10px 3px 10px; margin-top: -2px; vertical-align: middle;" name="from" type="text" placeholder="Enter your email"><input id="zoosbmt" class="subbutton" style="vertical-align: middle; position: relative; top: -2px;" alt="Subscribe" src="https://problogger.com/wp-content/themes/problogger-redesign/assets/images/subscribe-button.png" type="image"></form> </div>
+<span class="sticky-top-bar-close-button"><img src="https://problogger.com/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowup.png" alt=""></span>
 </div>
-<span class="sticky-top-bar-open-button"><img src="http://www.problogger.net/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowdown.png" alt=""></span>
-<script type="text/javascript" src="http://www.problogger.net/wp-content/plugins/pb-sticky-top-bar-messenger/assets/js/pb_message_switcher.js"></script>
+<span class="sticky-top-bar-open-button"><img src="https://problogger.com/wp-content/plugins/pb-sticky-top-bar-messenger/assets/img/arrowdown.png" alt=""></span>
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/pb-sticky-top-bar-messenger/assets/js/pb_message_switcher.js"></script>
 
 
 <div id="mobile-menu">
 <ul class="responsive-menu">
-<li id="menu-item-12810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12810"><a title="ProBlogger Blogging Tips" href="http://www.problogger.net/start-here">Start Here</a></li>
-<li id="menu-item-12811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12811"><a title="ProBlogger the Blog" href="http://www.problogger.net/blog">Blog</a></li>
-<li id="menu-item-12812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12812"><a title="Blog Tips Podcast" href="http://problogger.com/podcast">Podcast</a></li>
-<li id="menu-item-59730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59730"><a href="http://www.problogger.net/learn">eBooks</a></li>
-<li id="menu-item-12813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12813"><a title="Blogging eBooks" href="http://www.problogger.net/recommended-blogging-resources">Resources</a></li>
-<li id="menu-item-12815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12815"><a title="Jobs for Bloggers" href="http://jobs.problogger.net">Jobs</a></li>
-<li id="menu-item-12816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12816"><a title="Problogger Events" href="http://probloggerevents.com/">Events</a></li>
+<li id="menu-item-12810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12810"><a title="ProBlogger Blogging Tips" href="https://problogger.com/start-here">Start Here</a></li>
+<li id="menu-item-12811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12811"><a title="ProBlogger the Blog" href="https://problogger.com/blog">Blog</a></li>
+<li id="menu-item-12812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12812"><a title="Blog Tips Podcast" href="https://problogger.com/podcast">Podcast</a></li>
+<li id="menu-item-59730" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59730"><a href="https://problogger.com/learn">eBooks</a></li>
+<li id="menu-item-12813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12813"><a title="Blogging eBooks" href="https://problogger.com/recommended-blogging-resources">Resources</a></li>
+<li id="menu-item-12815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12815"><a title="Jobs for Bloggers" href="http://problogger.com/jobs">Jobs</a></li>
+<li id="menu-item-12816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12816"><a title="Problogger Events" href="http://problogger.com/events/">Events</a></li>
 </ul>
 </div>
 <header class="app-header">
@@ -145,42 +149,42 @@ FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 
 <div class="mobile-navigation">
 <div class="mobile-button"></div>
 </div>
-<a href="http://www.problogger.net" class="logo"></a>
+<a href="https://problogger.com" class="logo"></a>
 <div class="mobile-search">
 <span class="toggle"></span>
 <div class="wrapper">
-<form id="mobilesearch" class="search" action="http://www.problogger.net/" role="search" method="get">
+<form id="mobilesearch" class="search" action="https://problogger.com/" role="search" method="get">
 <button class="button" type="button"></button>
 <input class="input" type="text" name="s" placeholder="Search">
 </form>
 </div>
 </div>
 <ul class="main-menu">
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12810"><a title="ProBlogger Blogging Tips" href="http://www.problogger.net/start-here">Start Here</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12811"><a title="ProBlogger the Blog" href="http://www.problogger.net/blog">Blog</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12812"><a title="Blog Tips Podcast" href="http://problogger.com/podcast">Podcast</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59730"><a href="http://www.problogger.net/learn">eBooks</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12813"><a title="Blogging eBooks" href="http://www.problogger.net/recommended-blogging-resources">Resources</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12815"><a title="Jobs for Bloggers" href="http://jobs.problogger.net">Jobs</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12816"><a title="Problogger Events" href="http://probloggerevents.com/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12810"><a title="ProBlogger Blogging Tips" href="https://problogger.com/start-here">Start Here</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12811"><a title="ProBlogger the Blog" href="https://problogger.com/blog">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12812"><a title="Blog Tips Podcast" href="https://problogger.com/podcast">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59730"><a href="https://problogger.com/learn">eBooks</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12813"><a title="Blogging eBooks" href="https://problogger.com/recommended-blogging-resources">Resources</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12815"><a title="Jobs for Bloggers" href="http://problogger.com/jobs">Jobs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12816"><a title="Problogger Events" href="http://problogger.com/events/">Events</a></li>
 </ul>
-<span class="top-cta">ProBlogger Event <a href="http://www.problogger.net/virtualticket/">Virtual Tickets</a></span>
+<span class="top-cta">Join our <a href="https://www.facebook.com/groups/probloggercom">Facebook Community</a></span>
 </div>
 </div>
 </div>
 <nav class="main-navigation">
 <div class="container">
 <ul class="main-menu">
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12810"><a title="ProBlogger Blogging Tips" href="http://www.problogger.net/start-here">Start Here</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12811"><a title="ProBlogger the Blog" href="http://www.problogger.net/blog">Blog</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12812"><a title="Blog Tips Podcast" href="http://problogger.com/podcast">Podcast</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59730"><a href="http://www.problogger.net/learn">eBooks</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12813"><a title="Blogging eBooks" href="http://www.problogger.net/recommended-blogging-resources">Resources</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12815"><a title="Jobs for Bloggers" href="http://jobs.problogger.net">Jobs</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12816"><a title="Problogger Events" href="http://probloggerevents.com/">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12810"><a title="ProBlogger Blogging Tips" href="https://problogger.com/start-here">Start Here</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12811"><a title="ProBlogger the Blog" href="https://problogger.com/blog">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12812"><a title="Blog Tips Podcast" href="https://problogger.com/podcast">Podcast</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59730"><a href="https://problogger.com/learn">eBooks</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12813"><a title="Blogging eBooks" href="https://problogger.com/recommended-blogging-resources">Resources</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12815"><a title="Jobs for Bloggers" href="http://problogger.com/jobs">Jobs</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12816"><a title="Problogger Events" href="http://problogger.com/events/">Events</a></li>
 </ul>
 <div class="column">
-<form action="http://www.problogger.net" class="search-bar">
+<form action="https://problogger.com" class="search-bar">
 <input type="text" class="search" placeholder="Search" value="" name="s">
 <button class="button"></button>
 </form>
@@ -238,7 +242,7 @@ FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 
 <p>Problogger&nbsp;appreciates you informing us if you have reason to believe that personal information we hold about you is incorrect, incomplete or not updated.</p>
 <h4>Privacy office contact details</h4>
 <p>Should you have any queries in relation to the above or require further information regarding Problogger’s collection, use and storage of your personal information please do not hesitate to contact our Privacy Officer at: privacy@problogger.net</p>
-</div>
+<span id="tve_leads_end_content" style="display: block; visibility: hidden; border: 1px solid transparent;"></span></div>
 </article>
 </div>
 </div>
@@ -248,12 +252,12 @@ FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 
 <div class="container">
 <span class="title">Every week we'll send you blogging advice, tips and in-depth tutorials</span>
 <span class="cta">Join our community of <span class="highlight">300,000+</span> bloggers!</span>
-<form method="post" action="http://www.aweber.com/scripts/addlead.pl" class="form-styled">
+<form method="post" action="https://www.aweber.com/scripts/addlead.pl" class="form-styled">
 <input type="hidden" name="meta_web_form_id" value="1939335392">
 <input type="hidden" name="meta_split_id" value="">
 <input type="hidden" name="unit" value="probloggerplus">
-<input type="hidden" name="redirect" value="http://www.aweber.com/thankyou-coi.htm?m=audio" id="redirect_b93f8cb282aaea7cfa8b790bfecff720">
-<input type="hidden" name="meta_redirect_onlist" value="http://www.problogger.net/youre-all-signed-up/">
+<input type="hidden" name="redirect" value="https://www.aweber.com/thankyou-coi.htm?m=audio" id="redirect_b93f8cb282aaea7cfa8b790bfecff720">
+<input type="hidden" name="meta_redirect_onlist" value="https://www.problogger.net/youre-all-signed-up/">
 <input type="hidden" name="meta_adtracking" value="">
 <input type="hidden" name="meta_message" value="1">
 <input type="hidden" name="meta_required" value="from">
@@ -267,37 +271,37 @@ FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 
 <div class="widgets-container">
 <div class="container">
 <div class="footer-widget-wrapper">
-<div class="column"><h3 class="rounded"><a class="rsswidget" href="http://feeds.feedburner.com/ProBloggerJobs"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="http://www.problogger.net/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://problogger.com/jobs">Recently at the Job Board</a></h3><ul><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/HZ0XFOwZ26k/">Health and Fitness Expert Writer</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/gAdkt0MK1N0/">Legal Blog and Content Writer</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/eH3mZaDjtwc/">Motorcycle/Off-Road Enthusiast Content Needed</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/aU6qw0ilqNc/">Talented Writer Required for Authority Website Articles</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/lZPBMj1g_t8/">Experienced Business Intelligence Writer</a></li></ul></div> <div class="column"><ul><h3 class="rounded">Problogger Top Articles</h3><li id="menu-item-12608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12608"><a title="How to Start a Blog" href="http://www.problogger.net/how-to-start-a-blog/">How to Start a Blog</a></li>
-<li id="menu-item-59808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59808"><a href="http://www.problogger.net/how-to-write-great-blog-content/">How to Create Great Blog Content</a></li>
-<li id="menu-item-59809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59809"><a href="http://www.problogger.net/how-to-find-readers-for-your-blog/how-to-find-readers-for-your-blog/">How to Find Readers for Your Blog</a></li>
-<li id="menu-item-59810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59810"><a href="http://www.problogger.net/7-strategies-for-growing-community-on-your-blog/">7 Strategies to Build Community on Your Blog</a></li>
-<li id="menu-item-59811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59811"><a href="http://www.problogger.net/make-money-blogging">How to Make Money Blogging</a></li>
-<li id="menu-item-59812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59812"><a href="http://www.problogger.net/5-ways-to-make-your-blogging-life-easier/">5 Ways to Make Your Blogging Life Easier</a></li>
-</ul></div> <div class="column"><ul><h3 class="rounded">Top Resources</h3><li id="menu-item-59813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59813"><a href="http://www.problogger.net/31dbbb-workbook/">31 Days to Build a Better Blog</a></li>
-<li id="menu-item-59814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59814"><a href="http://www.problogger.net/first-week/">ProBlogger’s Guide to Your First Week of Blogging</a></li>
-<li id="menu-item-59815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59815"><a href="http://www.problogger.net/business-blogging/">ProBlogger’s Guide to Blogging for Your Business</a></li>
-<li id="menu-item-59816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59816"><a href="http://www.problogger.net/blogwise">Blog Wise: How to Do More with Less</a></li>
-<li id="menu-item-59817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59817"><a href="http://www.problogger.net/marketing/">The Blogger’s Guide to Online Marketing</a></li>
-<li id="menu-item-59818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59818"><a href="http://www.problogger.net/recommended-blogging-resources/">Recommended Blogging Resources</a></li>
+<div class="column"><h3 class="rounded"><a class="rsswidget" href="http://feeds.feedburner.com/ProBloggerJobs"><img class="rss-widget-icon" style="border:0" width="14" height="14" src="https://problogger.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="https://problogger.com/jobs">Recently at the Job Board</a></h3><ul><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/PxtHaJSS6LQ/">Tech Editor &amp; Writers For Artificial Intelligence Publication</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/I_UrzZ0xE7w/">Ghostwriter for Blog</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/NFUBUYV51IM/">Do you love Fantasy Fiction? How about Gaming? Geek Writers Needed!</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/_mqi22gr45Y/">Expert Writers Wanted: $175 Average Assignment Price</a></li><li><a class="rsswidget" href="http://feedproxy.google.com/~r/ProBloggerJobs/~3/uQyVQnHB8ew/">Long Term, Language Learning Blogger</a></li></ul></div> <div class="column"><ul><h3 class="rounded">Problogger Top Articles</h3><li id="menu-item-12608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12608"><a title="How to Start a Blog" href="https://problogger.com/how-to-start-a-blog/">How to Start a Blog</a></li>
+<li id="menu-item-59808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59808"><a href="https://problogger.com/how-to-write-great-blog-content/">How to Create Great Blog Content</a></li>
+<li id="menu-item-59809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59809"><a href="https://problogger.com/how-to-find-readers-for-your-blog/how-to-find-readers-for-your-blog/">How to Find Readers for Your Blog</a></li>
+<li id="menu-item-59810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59810"><a href="https://problogger.com/7-strategies-for-growing-community-on-your-blog/">7 Strategies to Build Community on Your Blog</a></li>
+<li id="menu-item-59811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59811"><a href="https://problogger.com/make-money-blogging">How to Make Money Blogging</a></li>
+<li id="menu-item-59812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59812"><a href="https://problogger.com/5-ways-to-make-your-blogging-life-easier/">5 Ways to Make Your Blogging Life Easier</a></li>
+</ul></div> <div class="column"><ul><h3 class="rounded">Top Resources</h3><li id="menu-item-59813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59813"><a href="https://problogger.com/31dbbb-workbook/">31 Days to Build a Better Blog</a></li>
+<li id="menu-item-59814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59814"><a href="https://problogger.com/first-week/">ProBlogger’s Guide to Your First Week of Blogging</a></li>
+<li id="menu-item-59815" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59815"><a href="https://problogger.com/business-blogging/">ProBlogger’s Guide to Blogging for Your Business</a></li>
+<li id="menu-item-59816" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59816"><a href="https://problogger.com/blogwise">Blog Wise: How to Do More with Less</a></li>
+<li id="menu-item-59817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59817"><a href="https://problogger.com/marketing/">The Blogger’s Guide to Online Marketing</a></li>
+<li id="menu-item-59818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59818"><a href="https://problogger.com/recommended-blogging-resources/">Recommended Blogging Resources</a></li>
 </ul></div> </div>
 </div>
 </div>
 <div class="bottom">
 <div class="container">
 <ul class="footer-menu">
-<li id="menu-item-59685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59685"><a href="http://www.problogger.net/about-problogger/">About</a></li>
-<li id="menu-item-59686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59686"><a href="http://www.problogger.net/blog">Blog</a></li>
-<li id="menu-item-59688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59688"><a href="http://problogger.com/podcast">Podcast</a></li>
-<li id="menu-item-59747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59747"><a title="Blogging eBooks" href="http://www.problogger.net/learn">eBooks</a></li>
-<li id="menu-item-59689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59689"><a href="http://www.problogger.net/recommended-blogging-resources">Resources</a></li>
+<li id="menu-item-59685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59685"><a href="https://problogger.com/about-problogger/">About</a></li>
+<li id="menu-item-59686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59686"><a href="https://problogger.com/blog">Blog</a></li>
+<li id="menu-item-59688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59688"><a href="https://problogger.com/podcast">Podcast</a></li>
+<li id="menu-item-59747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59747"><a title="Blogging eBooks" href="https://problogger.com/learn">eBooks</a></li>
+<li id="menu-item-59689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59689"><a href="https://problogger.com/recommended-blogging-resources">Resources</a></li>
 <li id="menu-item-59690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59690"><a href="http://jobs.problogger.net">Jobs</a></li>
 <li id="menu-item-59691" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59691"><a href="http://probloggerevents.com/">Events</a></li>
-<li id="menu-item-59692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59692"><a href="http://www.problogger.net/speaking/">Speaking</a></li>
-<li id="menu-item-59745" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28407 current_page_item menu-item-59745"><a href="http://www.problogger.net/privacy-policy/">Privacy</a></li>
-<li id="menu-item-59805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59805"><a href="http://www.problogger.net/terms-and-conditions/">Terms</a></li>
-<li id="menu-item-59695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59695"><a href="http://www.problogger.net/contact/">Contact</a></li>
+<li id="menu-item-59692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59692"><a href="https://problogger.com/speaking/">Speaking</a></li>
+<li id="menu-item-59745" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28407 current_page_item menu-item-59745"><a href="https://problogger.com/privacy-policy/">Privacy</a></li>
+<li id="menu-item-59805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59805"><a href="https://problogger.com/terms-and-conditions/">Terms</a></li>
+<li id="menu-item-59695" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59695"><a href="https://problogger.com/contact/">Contact</a></li>
 </ul>
-<span class="copy">Copyright © 2016 Problogger.com · All Rights Reserved</span>
+<span class="copy">Copyright © 2017 Problogger.com · All Rights Reserved</span>
 </div>
 </div>
 </footer>
@@ -319,7 +323,7 @@ FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 
 			jQuery('select.attachment-filters [value="uploaded"]').attr( 'selected', true ).parent().trigger('change');
 		});
 		</script>
-<script>
+<div id="tve_notification_box"></div> <script>
     jQuery(document).ready(function() {
 
       jQuery('.pb-communicator-form').each(function() {
@@ -334,8 +338,8 @@ FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 
 
         var provider = jQuery(this).attr('data-provider');
         var list     = jQuery(this).attr('data-id');
-        var nonce    = '41f0376158';
-        var url      = 'http://www.problogger.net/wp-admin/admin-ajax.php';
+        var nonce    = '3642e62e66';
+        var url      = 'https://problogger.com/wp-admin/admin-ajax.php';
         var fname    = jQuery('input[name=FNAME]', this).val();
         var lname    = jQuery('input[name=LNAME]', this).val();
         var email    = jQuery('input[name=EMAIL]', this).val();
@@ -357,15 +361,55 @@ FREE Problogging tips delivered to your inbox &nbsp; <form style="padding-left: 
       });
     });
   </script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201652"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-includes/js/comment-reply.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.problogger.net/wp-includes/js/wp-embed.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201652.js" async="" defer=""></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201725"></script>
+<script type="text/javascript" src="https://problogger.com/wp-includes/js/comment-reply.min.js?ver=4.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var tve_dash_front = {"ajaxurl":"https:\/\/problogger.com\/wp-admin\/admin-ajax.php","is_crawler":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/thrive-visual-editor/thrive-dashboard/js/dist/frontend.min.js?ver=1.0.45"></script>
+<script type="text/javascript" src="https://problogger.com/wp-includes/js/wp-embed.min.js?ver=4.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"problogger"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://problogger.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.8"></script>
+<script type="text/javascript">/*<![CDATA[*/if ( !window.TL_Const ) var TL_Const={"security":"159273c2d5","ajax_url":"https:\/\/problogger.com\/wp-admin\/admin-ajax.php","forms":[],"action_conversion":"tve_leads_ajax_conversion","action_impression":"tve_leads_ajax_impression","ajax_load":0,"custom_post_data":{"http_referrer":"https:\/\/problogger.com\/"},"current_screen":{"screen_type":3,"screen_id":28407},"ignored_fields":["email","_captcha_size","_captcha_theme","_captcha_type","_submit_option","_use_captcha","g-recaptcha-response","__tcb_lg_fc","__tcb_lg_msg","_state","_form_type","_error_message_option","_back_url","_submit_option","url","_asset_group","_asset_option","mailchimp_optin"]}/*]]> */</script><script type="text/javascript" src="https://stats.wp.com/e-201725.js" async="" defer=""></script>
 <script type="text/javascript">
 	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:4.3.2',blog:'115437556',post:'28407',tz:'11',srv:'www.problogger.net'} ]);
-	_stq.push([ 'clickTrackerInit', '115437556', '28407' ]);
+	_stq.push([ 'view', {v:'ext',j:'1:5.0',blog:'129292381',post:'28407',tz:'10',srv:'problogger.com'} ]);
+	_stq.push([ 'clickTrackerInit', '129292381', '28407' ]);
 </script>
-
+ 
+<script type="text/javascript">
+ var _dcq = _dcq || [];
+ var _dcs = _dcs || {};
+ _dcs.account = '5358085';
+ 
+ (function() {
+   var dc = document.createElement('script');
+   dc.type = 'text/javascript'; dc.async = true;
+   dc.src = '//tag.getdrip.com/5358085.js';
+   var s = document.getElementsByTagName('script')[0];
+   s.parentNode.insertBefore(dc, s);
+ })();
+</script>
+<script>
+/**
+* Function that tracks a click on an outbound link in Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label. Setting the transport method to ‘beacon’ lets the hit be sent
+* using ‘navigator.sendBeacon’ in browser that support it.
+*/
+var trackOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+}
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c875bd5685","applicationID":"3960622","transactionName":"ZgMEbERTXEdZAUAMDF9JJ1tCW11aFxJVAgY=","queueTime":0,"applicationTime":351,"atts":"SkQHGgxJT0k=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
  </body></html>
