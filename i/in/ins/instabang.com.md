@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instabang.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045428id_/http%3A//www.instabang.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instabang.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624065342id_/http%3A//www.instabang.com/main.php%3Fa%3Dcontent.info%26page%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
