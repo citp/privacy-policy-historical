@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222025419id_/http%3A//www.tickld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickld.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624103124id_/http%3A//tickld.com/privacy) for the most accurate reproduction.*
 
-# Tickld - Privacy Policy
+# Privacy Policy
 
 This privacy policy applies to www.tickld.com owned and operated by Tickld, Limited ("Tickld"). Tickld is committed to ensuring that the privacy of all visitors to www.tickld.com is preserved. Please read the following Privacy Policy to understand how we collect, use, disclose and protect the information you provide to us. By using our Site you consent to the collection, use and disclosure of your personal data under the terms of this Privacy Policy.
 
