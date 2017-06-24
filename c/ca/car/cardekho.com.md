@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardekho.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930143241id_/https%3A//www.cardekho.com/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardekho.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624093953id_/https%3A//www.cardekho.com/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | CarDekho.com
 
