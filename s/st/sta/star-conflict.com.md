@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229122929id_/http%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the star-conflict.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624043548id_/http%3A//star-conflict.com/en/b/privacypolicy) for the most accurate reproduction.*
 
 # STAR CONFLICT — MMO SPACE ACTION - Privacy Policy
 
@@ -16,7 +16,7 @@ If after reviewing this Privacy Policy you still have questions or privacy conce
 
 ### Summary
 
-This privacy statement was last updated on December 13, 2012. Gaijin Entertainment Corporation (collectively, “ _Gaijin_ ”) has created this privacy statement in order to disclose our information gathering and dissemination practices for warthunder.ru, warthunder.com, starconflict.ru starconflictgame.com, online.gaijin.ru, and online.gaijinent.com (collectively, “ _Website_ ”).
+This privacy statement was last updated on April 10, 2017. Gaijin Network Ltd. located at Kyriakou Matsi, 10 Liliana Building, 2nd floor Office 203, PC 1082 Nicosia, Cyprus (hereinafter, “ _Gaijin_ ”) has created this privacy statement in order to disclose our information gathering and dissemination practices for crossout.net, warthunder.ru, warthunder.com, store.gaijin.net, star-conflict.com and enlisted.net (collectively, “ _Website_ ”).
 
 This Privacy Policy will inform you of the following: (1) the type of personally identifiable information we collect through our Website as well as our products and Services; (2) how your information is used; (3) with whom your information may be shared; (4) what choices are available to you regarding the collection, use, and distribution of your information; (5) the security procedures in place to protect your information; and  (6) how you can access and correct any inaccuracies in the information collected about you.
 
@@ -134,4 +134,4 @@ Please also note that in the event of merger or acquisition of Gaijin, your pers
 
 * * *
 
-Copyright © 2012 Gaijin Entertainment Corporation.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment Corporation and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment Corporation or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
+Copyright © 2017 Gaijin Network Ltd.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Network Ltd. and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Gaijin Network Ltd. or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
