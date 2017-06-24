@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229070242id_/https%3A//www.internations.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internations.org privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624092259id_/https%3A//www.internations.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | InterNations
 
-## for the use of the services under the top level domain www.internations.org
+### for the use of the services under the top level domain www.internations.org and the InterNations mobile applications
 
-Version: 01 March 2009 [Save](https://web.archive.org/privacy-policy/?download) | Print 
+Version: 08 June 2017 [Save](https://web.archive.org/privacy-policy/?download) | Print 
 
 ### Part A: Privacy Principles
 
@@ -12,11 +12,11 @@ Welcome to InterNations! The protection of your privacy and your personal data i
 
 InterNations is a community of trust which helps its members at the Internet portal www.internations.org to exchange and share information as well as to connect with other members. InterNations ensures highest standards for the protection of your personal data and your privacy. 
 
-This Privacy Policy supplements the General Terms and Conditions for using www.internations.org and any of its sub-domains and aliases of these domains (“InterNationsWebsite(s)” or “Website(s)”), governing the entire relationship between the validly registered user (“User”) and InterNations and are applicable to all services provided to the User or offered on the InterNationsWebsites (“InterNationsService(s) or Service(s)”) and also to all the User’s actions, contents, or other material relating to the InterNationsWebsites. 
+This Privacy Policy supplements the General Terms and Conditions for using www.internations.org and any of its sub-domains and aliases of these domains ("InterNationsWebsite(s)" or "Website(s)"), governing the entire relationship between the validly registered user ("User") and InterNations and are applicable to all services provided to the User or offered on the InterNationsWebsites ("InterNationsService(s) or Service(s)") and also to all the User’s actions, contents, or other material relating to the InterNationsWebsites. 
 
 This Privacy Policy is designed to help you better understand how InterNations collects and deals with your personal data and information. 
 
-If you have any questions or comments regarding this Privacy Policy, please contact InterNations by using the [contact form](https://web.archive.org/about/contact/) available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. 
+If you have any questions or comments regarding this Privacy Policy, please contact InterNations by using the [contact form](https://web.archive.org/about/contact/) available on each InterNationsWebsite under "Contact", or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. 
 
 By registering to use the InterNationsWebsites, you consent to the practices described in the following Privacy Policy. 
 
@@ -24,7 +24,7 @@ By registering to use the InterNationsWebsites, you consent to the practices des
 
 InterNations works hard to earn and keep its User’s trust. Therefore InterNations strictly adheres to the following principles to protect the User’s privacy: 
 
-InterNations collects, processes, and uses all data and/or information about and related to the User’s person and the User’s account with InterNations (“Personal Data”) in accordance with the laws and statutes on data protection of the Federal Republic of Germany and those of the European Union. 
+InterNations collects, processes, and uses all data and/or information about and related to the User’s person and the User’s account with InterNations ("Personal Data") in accordance with the laws and statutes on data protection of the Federal Republic of Germany and those of the European Union. 
 
 InterNations uses Personal Data solely to provide the User with the InterNationsServices. InterNations will never rent, sell, or otherwise provide Personal Data to any third party for advertising or for marketing purposes without the User’s consent. The User is aware of the fact and agrees that in case of online debiting procedures (i.e. payment via credit card) any data (e.g. name, credit card number, expiry date, bank details etc.) which is necessary for the due processing of such payment will be transferred to third parties involved in the execution of the debiting procedure (e.g. operator of the payment module, credit card acquirer and the bank issuing the credit/debit card). 
 
@@ -36,7 +36,7 @@ In order to become a User of InterNations, it is necessary to first create an ac
 
     2. Profile Information and User Content 
 
-After successful registration with InterNations, the User may provide additional information about himself/herself (e.g., international experience, professional background, interests). Providing additional information beyond what is required at registration is entirely optional and on a voluntarily basis, but enables the User to better use the Services. Additionally, the User can upload, publish, send, or display comments, photos, profiles, messages, notes, text, information, music, video, advertisements, listings, and other content (“User Content”) on or through the InterNationsService or the InterNationsWebsites, or transmit to or share with other Users or third parties accessing the InterNationsWebsites. The User may also form relationships with other Users, perform searches and queries, and form groups. InterNations collects all the aforementioned information so that InterNations can provide the User with the -Services and offer personalised features. In most cases, InterNations retains the information so that, for instance, the User can return to view prior messages he/she has sent. When the User updates information, InterNations usually keeps a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. 
+After successful registration with InterNations, the User may provide additional information about himself/herself (e.g., international experience, professional background, interests). Providing additional information beyond what is required at registration is entirely optional and on a voluntarily basis, but enables the User to better use the Services. Additionally, the User can upload, publish, send, or display comments, photos, profiles, messages, notes, text, information, music, video, advertisements, listings, and other content ("User Content") on or through the InterNationsService or the InterNationsWebsites, or transmit to or share with other Users or third parties accessing the InterNationsWebsites. The User may also form relationships with other Users, perform searches and queries, and form groups. InterNations collects all the aforementioned information so that InterNations can provide the User with the -Services and offer personalised features. In most cases, InterNations retains the information so that, for instance, the User can return to view prior messages he/she has sent. When the User updates information, InterNations usually keeps a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information. 
 
     3. Information about the User’s Contacts 
 
@@ -108,7 +108,7 @@ Where the User makes use of the communication features of the service to share i
 
     4. Terms of Use, Notices, and Revisions 
 
-The use of InterNationsServices, and any disputes arising from it, are subject to this Privacy Policy as well as InterNations’ General Terms and Conditions for the use of the services under the top level domain www.internations.org and all of its provisions including limitation on damages and choice of law. InterNations reserves the right to amend this Privacy Policy at any time insofar as these amendments are not unreasonable for the User. InterNations shall give due notice of any amendments of this Privacy Policy to the User via the User’s email address or by placing a notice in the User’s personal inbox on the InterNationsWebsite. The amendments to the Privacy Policy shall be effective from that point in time unless the User objects within two (2) weeks after receipt of said notice by sending a fax or letter to InterNations, provided that InterNations has explicitly informed the User about the consequences of such non-objection. 
+The use of InterNationsServices, and any disputes arising from it, are subject to this Privacy Policy as well as InterNations’ General Terms and Conditions for the use of the services under the top level domain www.internations.org, the InterNations mobile applications and all of its provisions including limitation on damages and choice of law. InterNations reserves the right to amend this Privacy Policy at any time insofar as these amendments are not unreasonable for the User. InterNations shall give due notice of any amendments of this Privacy Policy to the User via the User’s email address or by placing a notice in the User’s personal inbox on the InterNationsWebsite. The amendments to the Privacy Policy shall be effective from that point in time unless the User objects within two (2) weeks after receipt of said notice by sending a fax or letter to InterNations, provided that InterNations has explicitly informed the User about the consequences of such non-objection. 
 
 
 
@@ -117,7 +117,7 @@ The use of InterNationsServices, and any disputes arising from it, are subject t
 
 ### Part B: User’s Consent
 
-The User acknowledges the principles set forth in this privacy policy (Part A) and also consents to the processing of his/her personal data as described below. The User shall be entitled to revoke his/her consent at any time and with effect for the future. For such revocation please contact InterNations by using the [contact form](https://web.archive.org/about/contact/) available on each InterNationsWebsite under “Contact”, or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. The User declares the following: 
+The User acknowledges the principles set forth in this privacy policy (Part A) and also consents to the processing of his/her personal data as described below. The User shall be entitled to revoke his/her consent at any time and with effect for the future. For such revocation please contact InterNations by using the [contact form](https://web.archive.org/about/contact/) available on each InterNationsWebsite under "Contact", or by sending a fax or letter to InterNations GmbH, Schwanthalerstraße 39, 80336 München, Germany. The User declares the following: 
 
   1. Single-Sign-On-Process 
 
@@ -132,6 +132,10 @@ I agree that InterNations shall be entitled to process and use my personal data 
   3. Cookies and Log Files 
 
 I agree that InterNations shall be entitled to use Cookies and Log Files as described in section 2.4 of Part A of this Privacy Policy. 
+
+  4. Breach of obligations 
+
+I agree that InterNations shall be entitled to review my personal data, communication and networking, in the event InterNations has good reason to believe that I have breached my obligations under Section 5 of the GTC, however, only to the extent as required to verify such breach. 
 
 
 
