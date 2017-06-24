@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wineenthusiast.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617040910id_/http%3A//www.wineenthusiast.com/customer-care/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wineenthusiast.com privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624113058id_/http%3A//www.wineenthusiast.com/customer-care/privacy-policy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy - Wine Enthusiast
 
@@ -59,7 +59,7 @@ We are committed to using our best efforts to maintaining the security of your P
 This Website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other websites.  
 We encourage you to be aware when you access any such third party links and to read the privacy policies of each website that you access. This Privacy Policy only applies to information collected by us. 
   6. Contact Us  
-If you have any questions, comments or concerns regarding this Privacy Policy and/or the practices described herein, please email us at [custserv@wineenthusiast.net](mailto:custserv@wineenthusiast.net) or write us at 333 North Bedford Road, Mount Kisco, NY 10549. Using the same contact information, you may also contact us to view (and/or edit or delete) your personal information at any time. 
+If you have any questions, comments or concerns regarding this Privacy Policy and/or the practices described herein, please email us at [custserv@wineenthusiast.net](mailto:custserv@wineenthusiast.net) or write us at 200 Summit Lake Drive, 4th Floor, Valhalla, NY 10595. Using the same contact information, you may also contact us to view (and/or edit or delete) your personal information at any time. 
 
 This Privacy Policy and our legal obligations hereunder are subject to the laws of [New York] and the U.S.A., regardless of the location of any user. You hereby consent to the exclusive jurisdiction of and venue in the federal and state courts located in [New York County, New York,] U.S.A. in all disputes arising out of or relating to the Services.
 
@@ -67,3 +67,19 @@ Your use of this Website is governed by, and subject to, the legal notices and d
 
 
 
+
+Wayback Machine
+
+Search the history of over 411 billion [web pages](https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/) on the Internet. 
+
+[](https://archive.org/web/)
+
+## Hrm.
+
+The Wayback Machine has not archived that URL.
+
+## This page is available on the web!
+
+Help make the Wayback Machine more complete!
+
+Click here to search for all archived pages under [http://http:/ajax/widgets/](https://web.archive.org/web/*/http://http:/ajax/widgets/*). 
