@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmopolitan.com.au privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222060232id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmopolitan.com.au privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624153054id_/http%3A//www.bauer-media.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Bauer Media Group
 
@@ -63,33 +63,33 @@ If you provide us with sensitive information on an unsolicited basis, we assess 
 
 We will collect your personal information if it is reasonably necessary for the performance of our business activities and functions, which includes providing a range of products and services to you, some of which are listed below.
 
-_4.1 Registration for magazine subscriptions_
+4.1 Registration for magazine subscriptions
 
 We collect personal information from individuals who subscribe to our magazines in order to process their payments and to confirm whether they would like to receive promotional materials in the future.
 
-We will also seek your consent to send to you Magshop promotional material and special offers. Where you have a subscription for a magazine published by us, then we will also send  you that magazine’s regular newsletter as well as promotional material and occasionally (where notice has been given) you may also be sent special offers from third parties associated with that title.
+We will also seek your consent to send to you Magshop promotional material and special offers. Where you have a subscription for a magazine published by us, then we will also send you renewal notices, that magazine’s regular newsletter as well as promotional material and occasionally (where notice has been given) you may also be sent special offers from third parties associated with that title.
 
-_4.2 Sales Promotions, Competitions, Surveys and registration to attend our events_
+4.2 Sales Promotions, Competitions, Surveys and registration to attend our events
 
 We collect personal information when you respond to one of our promotions, competitions or surveys or when you register to attend an event in order to inform you if you have won a prize, to place you on a guest-list to the event and to help us better understand what products and services you would like to receive information about in the future.
 
-_4.3 Our mobile apps_
+4.3 Our mobile apps
 
 We, or a service provider, may collect information through our apps to assist us in understanding how you use our apps, how the apps are performing across different handsets and to assist us in the selection of advertisements for groups of individuals. Our access to this information, is as you have agreed to with the respective app store from which you download our app.
 
-_4.4 Registration for our newsletters, online communities and/or loyalty clubs_
+4.4 Registration for our newsletters, online communities and/or loyalty clubs
 
 We collect personal information when you sign up to register for our newsletters or join one of our online communities or loyalty clubs. By providing this personal information we are able to keep you updated on special offers and events that you may be interested in and to reward your commitment to the brands.
 
-_4.5 Our online communities_
+4.5 Our online communities
 
 We collect personal information from you when you participate in any activity on our online communities. By providing personal information to us during such activity, we can assist in identifying ways in which we can provide you with a better service, or enhance your online experience.
 
-_4.6  Employment or internship_
+4.6 Employment or internship
 
 We collect personal information from applicants who are seeking employment or an internship with us as part of the recruitment process.  In circumstances where you do not provide the mandatory personal information, we will be unable to consider you for a position with us.
 
-_4.7 Bounty Rewards_
+4.7 Bounty Rewards
 
 We collect your personal information when you register with Bounty Rewards in order to keep you informed of upcoming offers, new products and services and periodically you may be sent newsletters, communications or special offers directly from third party clients.
 
@@ -97,11 +97,11 @@ We also use your personal information to help us verify your identity, display c
 
 From time to time there may be other purposes for which we collect, hold, use and disclose your personal information. We will tell you about these at the point of collection.
 
-_4.8 Direct Marketing and Research_
+4.8 Direct Marketing and Research
 
-As set out above, we may use personal information about you for marketing and research purposes. However, you can manage your communication preferences with us in a number of ways, eg if you are an online customer, you will be provided options to manage your own online profile; you may also contact our Privacy Officer. In addition, the marketing communications that we send to you will also contain information on how to unsubscribe from those communications.
+As set out above, we may use personal information about you for marketing and research purposes. However, you can manage your communication preferences with us in a number of ways, eg if you are an online customer, you will be provided options to manage your own online profile; you may also contact our [Privacy Officer](http://www.bauer-media.com.au/privacy#Contact). In addition, the marketing communications that we send to you will also contain information on how to unsubscribe from those communications.
 
-You can also tell us at any time if you do not want us to disclose your details to other organisations such as our related companies or third parties for marketing purposes. To do this, you just need to contact our Privacy Officer.
+You can also tell us at any time if you do not want us to disclose your details to other organisations such as our related companies or third parties for marketing purposes. To do this, you just need to contact our [Privacy Officer](http://www.bauer-media.com.au/privacy#Contact).
 
 Sometimes we extract information from our collected records to produce aggregated data. This aggregated data does not identify individuals. We use the aggregated data for research purposes, product development and may share the data with third parties.
 
@@ -124,7 +124,7 @@ In certain circumstances, we may disclose your personal information where requir
 
 6 HOW IS YOUR PERSONAL INFORMATION SECURED?
 
-We understand that the security of your personal information is important.  As such, we take reasonable steps to protect your personal information from misuse, interference, loss, unauthorised access, modification or disclosure.  We store information both at an onsite secure server and at trusted third party storage providers. We undertake regular training of our staff to ensure that they are aware of our privacy commitments and our obligations in the collection, use and disclosure of personal information. Our staff is also required to sign in and use a password when accessing our secure systems.
+We understand that the security of your personal information is important.  As such, we take reasonable steps to protect your personal information from misuse, interference, loss, unauthorised access, modification or disclosure.  We store information both at an onsite secure server and at trusted third party storage providers. We undertake regular training of relevant staff to ensure that they are aware of our privacy commitments and our obligations in the collection, use and disclosure of personal information. Our staff is also required to sign in and use a password when accessing our secure systems.
 
 7 ACCESS TO AND CORRECTION OF PERSONAL INFORMATION
 
@@ -138,7 +138,7 @@ We take reasonable steps to make sure that the personal information we collect i
 
 If you wish to delete the personal information we hold about you, please let us know by contacting us using the ‘Contact Details’ set out below and we will take reasonable steps to delete the information, unless we are required to retain it for legal reasons.
 
-8 THE USE OF COOKIES AND WE BEACONS THROUGH OUR WEBSITES AND APPS
+8 THE USE OF COOKIES AND WEB BEACONS THROUGH OUR WEBSITES AND APPS
 
 Information may be collected when you access our websites or apps, such as the time and specific page or app you visited.  This information is collected through “cookies”.  A “cookie” is a small piece of information, or file, that a website or app sends to your computer's hard drive while you are viewing that website or app for record keeping purposes.  Most web browsers are automatically set to accept cookies.  If you do not wish to receive any cookies you may set your browser to refuse cookies.  However, this will mean you will not be able to take full advantage of our websites or apps.
 
@@ -152,15 +152,11 @@ We, and our service providers, use the information collected from cookies for a 
 
 
 
-We engage various analytic programs, including Flurry Analytics, Google Analytics and Adobe Analytics to analyse the performance of our websites and apps and to provide us with reports that contain aggregated, de-identified benchmark information that assists us to understand when, and how many times, you have used our websites or apps.  The anonymous information assists us in the selection of advertisements for groups of individuals.
+We engage various analytic programs to analyse the performance of our websites and apps and to provide us with reports that contain aggregated, de-identified benchmark information that assists us to understand when, and how many times, you have used our websites or apps.  The anonymous information assists us in the selection of advertisements for groups of individuals.
 
-We may also use Google Analytics features (including Google Remarketing, Google Display Network Impressions Reporting, the Double Click Campaign Manager and Google Analytics Demographics and Interest Reporting) on our websites and apps.  Google Analytics uses both first party and third party cookies to record standard internet traffic information such as when, and how many times, you have visited our websites or apps.  We, and some third parties (including Google and the Krux data management platform), also use the information to optimise advertising selection for groups of individuals based on demographic information.  The cookies allow us and other third parties (including Google) to evaluate your interactions with advertising services on our websites and apps and serve targeted advertising on those websites and apps and across the Internet.  We have enabled Google Analytics for Display Advertising, which allows Google and other third parties to advertise to you on our websites and apps and across the Internet.
+We may also use Google Analytics features (including Google Remarketing, Google Display Network Impressions Reporting, the Double Click Campaign Manager and Google Analytics Demographics and Interest Reporting) on our websites and apps.  Google Analytics uses both first party and third party cookies to record standard internet traffic information such as when, and how many times, you have visited our websites or apps.  We, and some third parties  also use the information to optimise advertising selection for groups of individuals based on demographic information.  The cookies allow us and other third parties to evaluate your interactions with advertising services on our websites and apps and serve targeted advertising on those websites and apps and across the Internet.  We have enabled Google Analytics for Display Advertising, which allows Google and other third parties to advertise to you on our websites and apps and across the Internet.
 
 By using Google Ads Settings (located at <https://www.google.com/settings/ads>), you can opt out of these features at any time and customise your Google Display Network Ads.  Alternatively, you can opt out of a third party’s vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page (located at <https://www.networkadvertising.org/choices/>).
-
-You can opt-out of Flurry Analytics tracking and personalized advertisement recommendations from Flurry by clicking on <http://www.flurry.com/user-opt-out.html>. You can opt-out of Adobe Analytics tracking and on-site personalization services by following the instructions on [http://www.adobe.com/au/privacy/opt-out.html#4](http://www.krux.com/krux_privacy/consumer_choice/).
-
-You can opt out of Krux tracking and personalized advertisement recommendations from Krux by following the prompts at  <http://www.krux.com/krux_privacy/consumer_choice/>
 
 9 THIRD PARTY WEBSITES
 
@@ -172,13 +168,12 @@ You may request at any time that you remain anonymous, or choose a pseudonym, wh
 
 11 HOW TO MAKE A COMPLAINT
 
-If you wish to make a complaint about the way in which we handle your personal information, please contact our Privacy Officer using the contact details set out below.
+If you wish to make a complaint about the way in which we handle your personal information, please contact our [Privacy Officer](http://www.bauer-media.com.au/privacy#Contact) using the contact details set out below.
 
 We undertake to acknowledge and investigate any complaint promptly and will respond to written complaints within a reasonable time from the date of receipt.
 
 If you are dissatisfied with our response, you may refer the matter to the Australian Information (Privacy) Commissioner (see [www.oaic.gov.au](http://www.oaic.gov.au/)). If you are dissatisfied with our response in relation to the way in which we handle your personal information in the course of our journalistic activities, you may refer the matter to the Australian Press Council (see [www.presscouncil.org.au](http://www.presscouncil.org.au/)).
 
-  
 12 CONTACT DETAILS
 
 If you have any questions or comments on our privacy policy, if you wish to update the personal information we hold on you or make a complaint, please write to:
@@ -190,4 +185,4 @@ Sydney NSW 2000
 
 Alternatively, you can send an email to our Privacy Officer at [privacyofficer@bauer-media.com.au](mailto:privacyofficer@bauer-media.com.au).
 
-_Privacy policy last updated on 18 May 2015._
+_Privacy policy last updated on 10 March 2017._
