@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the a2hosting.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229051425id_/https%3A//www.a2hosting.com/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2hosting.in privacy policy that was archived on 2017-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170624073140id_/https%3A//www.a2hosting.in/about/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Nuestra base de conocimientos sólo está disponible actualmente en inglés. Estamos en el proceso de traducir estas páginas y las publicaremos cuando estén disponibles. 
 
-This is A2 Hosting, Inc.'s (A2, we, or our) Privacy Policy. It discusses the ways in which we collect, use, maintain and disclose information collected by us from our customers, visitors to our websites, and, in some cases, visitors to our customer's websites (Users). Our Privacy Policy is part of our contracts. It is incorporated into our [TOS](https://www.a2hosting.com/about/policies/terms-of-service), [AUP](https://www.a2hosting.com/about/policies/acceptable-use-policy) and any other contract we have with Users.
+This is A2 Hosting, Inc.'s (A2, we, or our) Privacy Policy. It discusses the ways in which we collect, use, maintain and disclose information collected by us from our customers, visitors to our websites, and, in some cases, visitors to our customer's websites (Users). Our Privacy Policy is part of our contracts. It is incorporated into our [TOS](https://www.a2hosting.in/about/policies/terms-of-service), [AUP](https://www.a2hosting.in/about/policies/acceptable-use-policy) and any other contract we have with Users.
 
-The nature of Internet business requires us to collect information from Users. While this policy is entitled a "privacy policy," it discusses all of the ways in which we use information collected from Users. Information transmitted, collected, processed or which is otherwise provided to us by Users is not necessarily considered by us to be private. Please review this policy carefully to determine how we treat this information. The Services may incorporate Third Party Products. The providers of these Third Party Products may have privacy policies that are different from ours. Please contact us through our contact form at [https://www.a2hosting.com/contact/](https://www.a2hosting.com/contact) for more information. If at any time, you would like to know how specific information is handled, please contact us through our contact form at [https://www.a2hosting.com/contact/](https://www.a2hosting.com/contact).
+The nature of Internet business requires us to collect information from Users. While this policy is entitled a "privacy policy," it discusses all of the ways in which we use information collected from Users. Information transmitted, collected, processed or which is otherwise provided to us by Users is not necessarily considered by us to be private. Please review this policy carefully to determine how we treat this information. The Services may incorporate Third Party Products. The providers of these Third Party Products may have privacy policies that are different from ours. Please contact us through our contact form at [https://www.a2hosting.com/contact/](https://www.a2hosting.in/contact) for more information. If at any time, you would like to know how specific information is handled, please contact us through our contact form at [https://www.a2hosting.com/contact/](https://www.a2hosting.in/contact).
 
 ### Information that we collect
 
@@ -60,7 +60,7 @@ The information set out in this Privacy Policy is protected using industry stand
 
 You have the right to access your personal data and to limit its use and disclosure as follows:
 
-a) modify your Registration and Billing Information through your control panel; and b) ask that Customer Inquiry Information be deleted by contacting us through our contact form at [https://www.a2hosting.com/contact/](https://www.a2hosting.com/contact).
+a) modify your Registration and Billing Information through your control panel; and b) ask that Customer Inquiry Information be deleted by contacting us through our contact form at [https://www.a2hosting.com/contact/](https://www.a2hosting.in/contact).
 
 ### Privacy Complaints by European Union and Swiss Citizens:
 
@@ -96,6 +96,6 @@ Ann Arbor, MI 48106
 USA
 
 Web:  
-[https://www.a2hosting.com/contact/](https://www.a2hosting.com/contact)
+[https://www.a2hosting.com/contact/](https://www.a2hosting.in/contact)
 
 A2 has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed , please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
